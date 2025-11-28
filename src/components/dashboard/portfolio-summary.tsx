@@ -1,3 +1,4 @@
+
 'use client';
 
 import {
@@ -9,16 +10,19 @@ import {
 } from '@/components/ui/card';
 import { useCollection, useUser } from '@/firebase';
 import { TrendingUp } from 'lucide-react';
-import { useMemo } from 'react';
+import { useMemo, useState, useEffect } from 'react';
 import { useMemoFirebase } from '@/firebase/provider';
 import { collection, query, where } from 'firebase/firestore';
 import { useFirestore } from '@/firebase';
-import type { Portfolio, Holding, StockData } from '@/lib/types';
+import type { Portfolio, Holding } from '@/lib/types';
 import { Skeleton } from '../ui/skeleton';
+import { getStockPrices } from '@/lib/stock-data';
 
 export function PortfolioSummary() {
   const { user } = useUser();
   const firestore = useFirestore();
+  const [stockPrices, setStockPrices] = useState<Record<string, { marketPrice: number; dailyChange: number; }>>({});
+  const [isLoadingPrices, setIsLoadingPrices] = useState(true);
 
   const portfolioQuery = useMemoFirebase(
     () =>
@@ -30,8 +34,7 @@ export function PortfolioSummary() {
         : null,
     [firestore, user]
   );
-  const { data: portfolios, isLoading: isLoadingPortfolios } =
-    useCollection<Portfolio>(portfolioQuery);
+  const { data: portfolios, isLoading: isLoadingPortfolios } = useCollection<Portfolio>(portfolioQuery);
   const portfolio = useMemo(
     () => (portfolios ? portfolios[0] : null),
     [portfolios]
@@ -47,22 +50,31 @@ export function PortfolioSummary() {
         : null,
     [firestore, user, portfolio]
   );
-  const { data: holdings, isLoading: isLoadingHoldings } =
-    useCollection<Holding>(holdingsQuery);
+  const { data: holdings, isLoading: isLoadingHoldings } = useCollection<Holding>(holdingsQuery);
+    
+  useEffect(() => {
+    async function fetchPrices() {
+        if (holdings && holdings.length > 0) {
+            setIsLoadingPrices(true);
+            const tickersToFetch = holdings.map(h => ({ ticker: h.tickerSymbol, exchange: h.exchange || 'NSE'}));
+            const prices = await getStockPrices(tickersToFetch);
+            setStockPrices(prices);
+            setIsLoadingPrices(false);
+        } else if (holdings) {
+            // No holdings, no prices to fetch
+            setStockPrices({});
+            setIsLoadingPrices(false);
+        }
+    }
+    fetchPrices();
+  }, [holdings]);
 
-  const stockDataQuery = useMemoFirebase(
-    () => (firestore ? collection(firestore, 'stock_data') : null),
-    [firestore]
-  );
-
-  const { data: stockData, isLoading: isLoadingStockData } =
-    useCollection<StockData>(stockDataQuery);
 
   const { portfolioValue, dailyPL, dailyPLPercentage, buyingPower } =
     useMemo(() => {
-      if (!portfolio || !holdings || !stockData) {
+      if (!portfolio || !holdings) {
         return {
-          portfolioValue: 0,
+          portfolioValue: portfolio?.availableBuyingPower ?? 0,
           dailyPL: 0,
           dailyPLPercentage: 0,
           buyingPower: portfolio?.availableBuyingPower ?? 0,
@@ -70,13 +82,13 @@ export function PortfolioSummary() {
       }
 
       const holdingsValue = holdings.reduce((acc, holding) => {
-        const stock = stockData.find((s) => s.ticker === holding.tickerSymbol);
-        return acc + (stock ? stock.marketPrice * holding.shares : 0);
+        const priceInfo = stockPrices[holding.tickerSymbol];
+        return acc + (priceInfo ? priceInfo.marketPrice * holding.shares : 0);
       }, 0);
 
       const dailyPL = holdings.reduce((acc, holding) => {
-        const stock = stockData.find((s) => s.ticker === holding.tickerSymbol);
-        return acc + (stock ? stock.dailyChange * holding.shares : 0);
+        const priceInfo = stockPrices[holding.tickerSymbol];
+        return acc + (priceInfo ? priceInfo.dailyChange * holding.shares : 0);
       }, 0);
 
       const portfolioValue = holdingsValue + portfolio.availableBuyingPower;
@@ -90,7 +102,7 @@ export function PortfolioSummary() {
         dailyPLPercentage,
         buyingPower: portfolio.availableBuyingPower,
       };
-    }, [portfolio, holdings, stockData]);
+    }, [portfolio, holdings, stockPrices]);
 
   const formatCurrency = (value: number, signDisplay: 'auto' | 'always' = 'auto') => {
     return new Intl.NumberFormat('en-US', {
@@ -101,7 +113,7 @@ export function PortfolioSummary() {
   };
 
   const isLoading =
-    isLoadingPortfolios || isLoadingHoldings || isLoadingStockData;
+    isLoadingPortfolios || isLoadingHoldings || isLoadingPrices;
 
   const summaryCards = [
     {

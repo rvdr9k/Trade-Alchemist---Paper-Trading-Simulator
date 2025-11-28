@@ -1,0 +1,22 @@
+{
+  "AAL.L": {
+    "ticker": "AAL.L",
+    "companyName": "Anglo American",
+    "exchange": "LSE",
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "currency": "GBp",
+    "startDate": "2024-11-14",
+    "endDate": "2025-11-14",
+    "numRows": 254,
+    "lastClose": 2850.0,
+    "avgVolatility": 0.016730107794397757,
+    "minClose": 1731.1376953125,
+    "maxClose": 2999.0,
+    "medianClose": 2293.4521484375,
+    "stdDevClose": 260.1192820406797,
+    "avgVolume": 4045856,
+    "fiftyTwoWeekHigh": 2999.0,
+    "fiftyTwoWeekLow": 1731.1376953125
+  }
+}

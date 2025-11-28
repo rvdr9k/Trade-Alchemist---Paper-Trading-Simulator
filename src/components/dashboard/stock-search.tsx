@@ -1,142 +1,146 @@
+
 'use client';
 
-import { useState } from 'react';
-import { useForm } from 'react-hook-form';
-import { zodResolver } from '@hookform/resolvers/zod';
-import { z } from 'zod';
-import { Button } from '@/components/ui/button';
-import { Input } from '@/components/ui/input';
-import {
-  Form,
-  FormControl,
-  FormField,
-  FormItem,
-  FormMessage,
-} from '@/components/ui/form';
-import {
-  Select,
-  SelectContent,
-  SelectItem,
-  SelectTrigger,
-  SelectValue,
-} from '@/components/ui/select';
+import { useState, useEffect, useRef, useCallback } from 'react';
 import { Card, CardContent } from '@/components/ui/card';
-import { useFirestore } from '@/firebase';
-import { collection, query, where, getDocs } from 'firebase/firestore';
+import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select';
+import { Input } from '@/components/ui/input';
+import { Search, X } from 'lucide-react';
 import type { StockData } from '@/lib/types';
-import { Search } from 'lucide-react';
-import { useToast } from '@/hooks/use-toast';
-
-const formSchema = z.object({
-  exchange: z.string().min(1, 'Exchange is required'),
-  ticker: z.string().min(1, 'Ticker symbol is required').toUpperCase(),
-});
-
-type StockSearchForm = z.infer<typeof formSchema>;
+import { getExchanges, searchStocks } from '@/lib/stock-data';
+import { useDebounce } from 'use-debounce';
 
 interface StockSearchProps {
   onStockSelect: (stock: StockData | null) => void;
 }
 
 export function StockSearch({ onStockSelect }: StockSearchProps) {
-  const firestore = useFirestore();
+  const [exchanges, setExchanges] = useState<string[]>([]);
+  const [selectedExchange, setSelectedExchange] = useState('NSE');
+  const [query, setQuery] = useState('');
+  const [results, setResults] = useState<StockData[]>([]);
   const [isLoading, setIsLoading] = useState(false);
-  const { toast } = useToast();
+  const [isDropdownVisible, setIsDropdownVisible] = useState(false);
+  const searchRef = useRef<HTMLDivElement>(null);
+  
+  const [debouncedQuery] = useDebounce(query, 300);
 
-  const form = useForm<StockSearchForm>({
-    resolver: zodResolver(formSchema),
-    defaultValues: {
-      exchange: 'USA Exchanges',
-      ticker: '',
-    },
-  });
-
-  const onSubmit = async (values: StockSearchForm) => {
-    setIsLoading(true);
-    onStockSelect(null); // Clear previous selection
-    const stockQuery = query(
-      collection(firestore, 'stock_data'),
-      where('ticker', '==', values.ticker.toUpperCase())
-    );
-
-    try {
-      const querySnapshot = await getDocs(stockQuery);
-      if (!querySnapshot.empty) {
-        const stockDoc = querySnapshot.docs[0];
-        onStockSelect({ id: stockDoc.id, ...stockDoc.data() } as StockData);
-      } else {
-        toast({
-            variant: 'destructive',
-            title: 'Stock not found',
-            description: `Could not find data for ticker "${values.ticker}".`
-        })
+  useEffect(() => {
+    async function fetchExchanges() {
+      const fetchedExchanges = await getExchanges();
+      setExchanges(fetchedExchanges);
+      if (fetchedExchanges.length > 0 && !fetchedExchanges.includes(selectedExchange)) {
+        setSelectedExchange(fetchedExchanges[0]);
       }
-    } catch (error) {
-      console.error('Error fetching stock data:', error);
-      toast({
-        variant: 'destructive',
-        title: 'Error',
-        description: 'An error occurred while fetching stock data.',
-      });
-    } finally {
-      setIsLoading(false);
     }
+    fetchExchanges();
+  }, []);
+
+  const performSearch = useCallback(async () => {
+    if (debouncedQuery.trim().length > 0) {
+      setIsLoading(true);
+      const stocks = await searchStocks(debouncedQuery, selectedExchange);
+      setResults(stocks);
+      setIsLoading(false);
+      setIsDropdownVisible(true);
+    } else {
+      setResults([]);
+      setIsDropdownVisible(false);
+    }
+  }, [debouncedQuery, selectedExchange]);
+
+  useEffect(() => {
+    performSearch();
+  }, [performSearch]);
+
+  useEffect(() => {
+    function handleClickOutside(event: MouseEvent) {
+      if (searchRef.current && !searchRef.current.contains(event.target as Node)) {
+        setIsDropdownVisible(false);
+      }
+    }
+    document.addEventListener('mousedown', handleClickOutside);
+    return () => document.removeEventListener('mousedown', handleClickOutside);
+  }, []);
+
+  const handleSelectStock = (stock: StockData) => {
+    setQuery(`${stock.ticker} - ${stock.companyName}`);
+    onStockSelect(stock);
+    setIsDropdownVisible(false);
+  };
+
+  const handleExchangeChange = (newExchange: string) => {
+    setSelectedExchange(newExchange);
+    setQuery('');
+    setResults([]);
+    onStockSelect(null);
+    setIsDropdownVisible(false);
+  };
+
+  const clearSearch = () => {
+    setQuery('');
+    setResults([]);
+    onStockSelect(null);
+    setIsDropdownVisible(false);
   };
 
   return (
-    <Card>
+    <Card ref={searchRef}>
       <CardContent className="p-4">
-        <Form {...form}>
-          <form
-            onSubmit={form.handleSubmit(onSubmit)}
-            className="flex flex-col gap-4 md:flex-row"
-          >
-            <FormField
-              control={form.control}
-              name="exchange"
-              render={({ field }) => (
-                <FormItem className="md:w-1/4">
-                  <Select
-                    onValueChange={field.onChange}
-                    defaultValue={field.value}
-                  >
-                    <FormControl>
-                      <SelectTrigger>
-                        <SelectValue placeholder="Select Exchange" />
-                      </SelectTrigger>
-                    </FormControl>
-                    <SelectContent>
-                      <SelectItem value="USA Exchanges">USA Exchanges</SelectItem>
-                    </SelectContent>
-                  </Select>
-                  <FormMessage />
-                </FormItem>
-              )}
+        <div className="flex flex-col gap-4 md:flex-row">
+          <Select onValueChange={handleExchangeChange} value={selectedExchange}>
+            <SelectTrigger className="md:w-1/4">
+              <SelectValue placeholder="Select Exchange" />
+            </SelectTrigger>
+            <SelectContent>
+              {exchanges.map(ex => (
+                <SelectItem key={ex} value={ex}>{ex}</SelectItem>
+              ))}
+            </SelectContent>
+          </Select>
+          <div className="relative flex-1">
+            <Search className="absolute left-3 top-1/2 -translate-y-1/2 h-4 w-4 text-muted-foreground" />
+            <Input
+              placeholder="Search by ticker or company name..."
+              value={query}
+              onChange={(e) => {
+                setQuery(e.target.value)
+                if(!isDropdownVisible) setIsDropdownVisible(true);
+              }}
+              onFocus={() => setIsDropdownVisible(true)}
+              className="pl-10 pr-10"
             />
-            <FormField
-              control={form.control}
-              name="ticker"
-              render={({ field }) => (
-                <FormItem className="flex-1">
-                  <div className="relative">
-                    <Search className="absolute left-3 top-1/2 -translate-y-1/2 h-4 w-4 text-muted-foreground" />
-                    <FormControl>
-                      <Input
-                        placeholder="AAPL"
-                        {...field}
-                        className="pl-10"
-                      />
-                    </FormControl>
-                  </div>
-                  <FormMessage />
-                </FormItem>
-              )}
-            />
-            <Button type="submit" className="md:w-auto" disabled={isLoading}>
-              {isLoading ? 'Searching...' : 'Search'}
-            </Button>
-          </form>
-        </Form>
+            {query.length > 0 && (
+                <button 
+                  onClick={clearSearch} 
+                  className="absolute right-3 top-1/2 -translate-y-1/2 h-4 w-4 text-muted-foreground hover:text-foreground"
+                  aria-label="Clear search"
+                >
+                    <X className="h-4 w-4"/>
+                </button>
+            )}
+            {isDropdownVisible && query.length > 0 && (
+              <div className="absolute z-10 w-full mt-1 bg-card border rounded-md shadow-lg max-h-60 overflow-y-auto">
+                {isLoading ? (
+                  <div className="p-3 text-center text-muted-foreground">Searching...</div>
+                ) : results.length > 0 ? (
+                  results.map((stock) => (
+                    <div
+                      key={stock.ticker}
+                      onClick={() => handleSelectStock(stock)}
+                      className="p-3 hover:bg-accent cursor-pointer"
+                    >
+                      <div className="font-bold">{stock.ticker}</div>
+                      <div className="text-sm text-muted-foreground">{stock.companyName}</div>
+                    </div>
+                  ))
+                ) : (
+                  !isLoading && <div className="p-3 text-center text-muted-foreground">No results found.</div>
+                )}
+              </div>
+            )}
+          </div>
+        </div>
       </CardContent>
     </Card>
   );

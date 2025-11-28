@@ -1,0 +1,22 @@
+{
+  "RY.TO": {
+    "ticker": "RY.TO",
+    "companyName": "Royal Bank of Canada",
+    "exchange": "TOR",
+    "sector": "Financial Services",
+    "industry": "Banks - Diversified",
+    "currency": "CAD",
+    "startDate": "2024-11-14",
+    "endDate": "2025-11-14",
+    "numRows": 252,
+    "lastClose": 205.46,
+    "avgVolatility": 0.72,
+    "minClose": 149.8,
+    "maxClose": 208.76,
+    "medianClose": 171.9,
+    "stdDevClose": 15.77,
+    "avgVolume": 4035998,
+    "fiftyTwoWeekHigh": 208.76,
+    "fiftyTwoWeekLow": 149.8
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "ADANIENT.NS": {
+    "ticker": "ADANIENT.NS",
+    "companyName": "Adani Enterprises",
+    "exchange": "NSI",
+    "sector": "Energy",
+    "industry": "Thermal Coal",
+    "currency": "INR"
+  },
+  "ADANIPORTS.NS": {
+    "ticker": "ADANIPORTS.NS",
+    "companyName": "Adani Ports & SEZ",
+    "exchange": "NSI",
+    "sector": "Industrials",
+    "industry": "Marine Shipping",
+    "currency": "INR"
+  },
+  "APOLLOHOSP.NS": {
+    "ticker": "APOLLOHOSP.NS",
+    "companyName": "Apollo Hospitals",
+    "exchange": "NSI",
+    "sector": "Healthcare",
+    "industry": "Medical Care Facilities",
+    "currency": "INR"
+  },
+
+  "BAJAJ-AUTO.NS": {
+    "ticker": "BAJAJ-AUTO.NS",
+    "companyName": "Bajaj Auto",
+    "exchange": "NSI",
+    "sector": "Consumer Cyclical",
+    "industry": "Auto Manufacturers",
+    "currency": "INR"
+  }
+}

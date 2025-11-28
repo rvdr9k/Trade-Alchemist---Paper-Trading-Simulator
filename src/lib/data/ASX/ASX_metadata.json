@@ -1,0 +1,22 @@
+{
+  "ALL.AX": {
+    "ticker": "ALL.AX",
+    "companyName": "Aristocrat Leisure Limited",
+    "exchange": "ASX",
+    "sector": "Consumer Cyclical",
+    "industry": "Gambling",
+    "currency": "AUD",
+    "startDate": "2024-11-13",
+    "endDate": "2025-11-13",
+    "numRows": 254,
+    "lastClose": 59.63,
+    "avgVolatility": 1.1752,
+    "minClose": 56.9814,
+    "maxClose": 77.951,
+    "medianClose": 67.5159,
+    "stdDevClose": 3.6779,
+    "avgVolume": 1357880,
+    "fiftyTwoWeekHigh": 77.951,
+    "fiftyTwoWeekLow": 56.9814
+  }  
+}

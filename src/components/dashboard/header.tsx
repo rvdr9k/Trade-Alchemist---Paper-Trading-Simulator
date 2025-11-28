@@ -12,7 +12,8 @@ export function AppHeader() {
 
   const navLinks = [
     { href: '/dashboard', label: 'Dashboard' },
-    { href: '/dashboard/trade', label: 'Trade' },
+    { href: '/dashboard/trade', label: 'Buy' },
+    { href: '/dashboard/sell', label: 'Sell' },
     { href: '/dashboard/portfolio', label: 'Portfolio' },
     { href: '/dashboard/watchlist', label: 'Watchlist' },
     { href: '/dashboard/history', label: 'Transaction History' },

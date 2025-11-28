@@ -1,0 +1,1986 @@
+[
+  {
+    "('Date', '')":"2024-11-13",
+    "('Close', 'AXISBANK.BO')":1140.1749267578,
+    "('High', 'AXISBANK.BO')":1164.0045228539,
+    "('Low', 'AXISBANK.BO')":1134.0801635206,
+    "('Open', 'AXISBANK.BO')":1149.3171325966,
+    "('Volume', 'AXISBANK.BO')":161693
+  },
+  {
+    "('Date', '')":"2024-11-14",
+    "('Close', 'AXISBANK.BO')":1139.7252197266,
+    "('High', 'AXISBANK.BO')":1149.5669004455,
+    "('Low', 'AXISBANK.BO')":1131.0327026884,
+    "('Open', 'AXISBANK.BO')":1135.079290738,
+    "('Volume', 'AXISBANK.BO')":241666
+  },
+  {
+    "('Date', '')":"2024-11-18",
+    "('Close', 'AXISBANK.BO')":1125.1877441406,
+    "('High', 'AXISBANK.BO')":1135.3290954933,
+    "('Low', 'AXISBANK.BO')":1120.5916991729,
+    "('Open', 'AXISBANK.BO')":1127.4358215454,
+    "('Volume', 'AXISBANK.BO')":177580
+  },
+  {
+    "('Date', '')":"2024-11-19",
+    "('Close', 'AXISBANK.BO')":1134.0301513672,
+    "('High', 'AXISBANK.BO')":1137.8768371791,
+    "('Low', 'AXISBANK.BO')":1121.1411499232,
+    "('Open', 'AXISBANK.BO')":1129.0344238281,
+    "('Volume', 'AXISBANK.BO')":127145
+  },
+  {
+    "('Date', '')":"2024-11-21",
+    "('Close', 'AXISBANK.BO')":1138.1265869141,
+    "('High', 'AXISBANK.BO')":1151.0155879431,
+    "('Low', 'AXISBANK.BO')":1114.7465583908,
+    "('Open', 'AXISBANK.BO')":1135.3290527619,
+    "('Volume', 'AXISBANK.BO')":201912
+  },
+  {
+    "('Date', '')":"2024-11-22",
+    "('Close', 'AXISBANK.BO')":1142.0233154297,
+    "('High', 'AXISBANK.BO')":1147.0190429688,
+    "('Low', 'AXISBANK.BO')":1127.2859191895,
+    "('Open', 'AXISBANK.BO')":1135.978436321,
+    "('Volume', 'AXISBANK.BO')":319597
+  },
+  {
+    "('Date', '')":"2024-11-25",
+    "('Close', 'AXISBANK.BO')":1154.5126953125,
+    "('High', 'AXISBANK.BO')":1163.5050053582,
+    "('Low', 'AXISBANK.BO')":1141.8734795773,
+    "('Open', 'AXISBANK.BO')":1154.3129149868,
+    "('Volume', 'AXISBANK.BO')":944028
+  },
+  {
+    "('Date', '')":"2024-11-26",
+    "('Close', 'AXISBANK.BO')":1142.9226074219,
+    "('High', 'AXISBANK.BO')":1160.3077642084,
+    "('Low', 'AXISBANK.BO')":1141.1741027271,
+    "('Open', 'AXISBANK.BO')":1160.3077642084,
+    "('Volume', 'AXISBANK.BO')":32614
+  },
+  {
+    "('Date', '')":"2024-11-27",
+    "('Close', 'AXISBANK.BO')":1149.3171386719,
+    "('High', 'AXISBANK.BO')":1154.3627503605,
+    "('Low', 'AXISBANK.BO')":1133.0310179346,
+    "('Open', 'AXISBANK.BO')":1142.5729064223,
+    "('Volume', 'AXISBANK.BO')":56600
+  },
+  {
+    "('Date', '')":"2024-11-28",
+    "('Close', 'AXISBANK.BO')":1131.5322265625,
+    "('High', 'AXISBANK.BO')":1153.2136341261,
+    "('Low', 'AXISBANK.BO')":1128.3350098964,
+    "('Open', 'AXISBANK.BO')":1149.0172720061,
+    "('Volume', 'AXISBANK.BO')":799810
+  },
+  {
+    "('Date', '')":"2024-11-29",
+    "('Close', 'AXISBANK.BO')":1135.7286376953,
+    "('High', 'AXISBANK.BO')":1139.8751159012,
+    "('Low', 'AXISBANK.BO')":1126.9861145962,
+    "('Open', 'AXISBANK.BO')":1131.5322753942,
+    "('Volume', 'AXISBANK.BO')":168713
+  },
+  {
+    "('Date', '')":"2024-12-02",
+    "('Close', 'AXISBANK.BO')":1135.7786865234,
+    "('High', 'AXISBANK.BO')":1140.4247376528,
+    "('Low', 'AXISBANK.BO')":1125.7872311768,
+    "('Open', 'AXISBANK.BO')":1132.0318907685,
+    "('Volume', 'AXISBANK.BO')":61818
+  },
+  {
+    "('Date', '')":"2024-12-03",
+    "('Close', 'AXISBANK.BO')":1159.0588378906,
+    "('High', 'AXISBANK.BO')":1163.504986778,
+    "('Low', 'AXISBANK.BO')":1137.3773063915,
+    "('Open', 'AXISBANK.BO')":1141.2239923453,
+    "('Volume', 'AXISBANK.BO')":75283
+  },
+  {
+    "('Date', '')":"2024-12-04",
+    "('Close', 'AXISBANK.BO')":1158.2593994141,
+    "('High', 'AXISBANK.BO')":1166.6022397913,
+    "('Low', 'AXISBANK.BO')":1153.2636720066,
+    "('Open', 'AXISBANK.BO')":1161.9063048147,
+    "('Volume', 'AXISBANK.BO')":359287
+  },
+  {
+    "('Date', '')":"2024-12-05",
+    "('Close', 'AXISBANK.BO')":1166.3026123047,
+    "('High', 'AXISBANK.BO')":1175.7444886663,
+    "('Low', 'AXISBANK.BO')":1149.7667051903,
+    "('Open', 'AXISBANK.BO')":1166.5523986843,
+    "('Volume', 'AXISBANK.BO')":90403
+  },
+  {
+    "('Date', '')":"2024-12-06",
+    "('Close', 'AXISBANK.BO')":1185.0366210938,
+    "('High', 'AXISBANK.BO')":1192.630102834,
+    "('Low', 'AXISBANK.BO')":1159.0088308895,
+    "('Open', 'AXISBANK.BO')":1170.7987970936,
+    "('Volume', 'AXISBANK.BO')":352376
+  },
+  {
+    "('Date', '')":"2024-12-09",
+    "('Close', 'AXISBANK.BO')":1162.4558105469,
+    "('High', 'AXISBANK.BO')":1184.3871279676,
+    "('Low', 'AXISBANK.BO')":1160.0079528007,
+    "('Open', 'AXISBANK.BO')":1184.1872256833,
+    "('Volume', 'AXISBANK.BO')":162658
+  },
+  {
+    "('Date', '')":"2024-12-10",
+    "('Close', 'AXISBANK.BO')":1152.5144042969,
+    "('High', 'AXISBANK.BO')":1164.0045782452,
+    "('Low', 'AXISBANK.BO')":1150.2663267852,
+    "('Open', 'AXISBANK.BO')":1158.9588443772,
+    "('Volume', 'AXISBANK.BO')":71450
+  },
+  {
+    "('Date', '')":"2024-12-11",
+    "('Close', 'AXISBANK.BO')":1146.51953125,
+    "('High', 'AXISBANK.BO')":1157.510132421,
+    "('Low', 'AXISBANK.BO')":1143.6219847299,
+    "('Open', 'AXISBANK.BO')":1150.0165407135,
+    "('Volume', 'AXISBANK.BO')":769755
+  },
+  {
+    "('Date', '')":"2024-12-12",
+    "('Close', 'AXISBANK.BO')":1144.62109375,
+    "('High', 'AXISBANK.BO')":1153.0139405877,
+    "('Low', 'AXISBANK.BO')":1142.0233397675,
+    "('Open', 'AXISBANK.BO')":1146.0199218839,
+    "('Volume', 'AXISBANK.BO')":65755
+  },
+  {
+    "('Date', '')":"2024-12-13",
+    "('Close', 'AXISBANK.BO')":1147.6684570312,
+    "('High', 'AXISBANK.BO')":1150.0164244691,
+    "('Low', 'AXISBANK.BO')":1112.9980363894,
+    "('Open', 'AXISBANK.BO')":1143.022406249,
+    "('Volume', 'AXISBANK.BO')":169147
+  },
+  {
+    "('Date', '')":"2024-12-16",
+    "('Close', 'AXISBANK.BO')":1149.5668945312,
+    "('High', 'AXISBANK.BO')":1153.913153028,
+    "('Low', 'AXISBANK.BO')":1140.8243714768,
+    "('Open', 'AXISBANK.BO')":1146.9690186794,
+    "('Volume', 'AXISBANK.BO')":69444
+  },
+  {
+    "('Date', '')":"2024-12-17",
+    "('Close', 'AXISBANK.BO')":1134.9792480469,
+    "('High', 'AXISBANK.BO')":1150.6659051081,
+    "('Low', 'AXISBANK.BO')":1129.5339540209,
+    "('Open', 'AXISBANK.BO')":1148.9672846292,
+    "('Volume', 'AXISBANK.BO')":57346
+  },
+  {
+    "('Date', '')":"2024-12-18",
+    "('Close', 'AXISBANK.BO')":1121.4908447266,
+    "('High', 'AXISBANK.BO')":1138.5763307613,
+    "('Low', 'AXISBANK.BO')":1115.5459776446,
+    "('Open', 'AXISBANK.BO')":1138.226532255,
+    "('Volume', 'AXISBANK.BO')":43959
+  },
+  {
+    "('Date', '')":"2024-12-19",
+    "('Close', 'AXISBANK.BO')":1107.5028076172,
+    "('High', 'AXISBANK.BO')":1118.0438416849,
+    "('Low', 'AXISBANK.BO')":1100.1591124068,
+    "('Open', 'AXISBANK.BO')":1101.0083617093,
+    "('Volume', 'AXISBANK.BO')":78782
+  },
+  {
+    "('Date', '')":"2024-12-20",
+    "('Close', 'AXISBANK.BO')":1071.1838378906,
+    "('High', 'AXISBANK.BO')":1106.0040332536,
+    "('Low', 'AXISBANK.BO')":1066.6876832593,
+    "('Open', 'AXISBANK.BO')":1106.0040332536,
+    "('Volume', 'AXISBANK.BO')":176632
+  },
+  {
+    "('Date', '')":"2024-12-23",
+    "('Close', 'AXISBANK.BO')":1078.2778320312,
+    "('High', 'AXISBANK.BO')":1082.8239930839,
+    "('Low', 'AXISBANK.BO')":1071.7833859366,
+    "('Open', 'AXISBANK.BO')":1078.2279479332,
+    "('Volume', 'AXISBANK.BO')":84890
+  },
+  {
+    "('Date', '')":"2024-12-24",
+    "('Close', 'AXISBANK.BO')":1078.427734375,
+    "('High', 'AXISBANK.BO')":1084.1229372391,
+    "('Low', 'AXISBANK.BO')":1075.0806211466,
+    "('Open', 'AXISBANK.BO')":1078.2279540497,
+    "('Volume', 'AXISBANK.BO')":128552
+  },
+  {
+    "('Date', '')":"2024-12-26",
+    "('Close', 'AXISBANK.BO')":1075.9798583984,
+    "('High', 'AXISBANK.BO')":1091.066931687,
+    "('Low', 'AXISBANK.BO')":1072.183056553,
+    "('Open', 'AXISBANK.BO')":1081.1753664296,
+    "('Volume', 'AXISBANK.BO')":136415
+  },
+  {
+    "('Date', '')":"2024-12-27",
+    "('Close', 'AXISBANK.BO')":1076.5793457031,
+    "('High', 'AXISBANK.BO')":1085.2718633275,
+    "('Low', 'AXISBANK.BO')":1074.7808349007,
+    "('Open', 'AXISBANK.BO')":1076.1796630841,
+    "('Volume', 'AXISBANK.BO')":106628
+  },
+  {
+    "('Date', '')":"2024-12-30",
+    "('Close', 'AXISBANK.BO')":1068.6860351562,
+    "('High', 'AXISBANK.BO')":1095.6629644829,
+    "('Low', 'AXISBANK.BO')":1063.090844578,
+    "('Open', 'AXISBANK.BO')":1075.0305848825,
+    "('Volume', 'AXISBANK.BO')":208550
+  },
+  {
+    "('Date', '')":"2024-12-31",
+    "('Close', 'AXISBANK.BO')":1064.3397216797,
+    "('High', 'AXISBANK.BO')":1069.0856627057,
+    "('Low', 'AXISBANK.BO')":1058.0450563746,
+    "('Open', 'AXISBANK.BO')":1065.0890807891,
+    "('Volume', 'AXISBANK.BO')":39293
+  },
+  {
+    "('Date', '')":"2025-01-01",
+    "('Close', 'AXISBANK.BO')":1071.1340332031,
+    "('High', 'AXISBANK.BO')":1076.0297488141,
+    "('Low', 'AXISBANK.BO')":1053.0994072807,
+    "('Open', 'AXISBANK.BO')":1066.038293337,
+    "('Volume', 'AXISBANK.BO')":52951
+  },
+  {
+    "('Date', '')":"2025-01-02",
+    "('Close', 'AXISBANK.BO')":1085.2219238281,
+    "('High', 'AXISBANK.BO')":1087.9695739901,
+    "('Low', 'AXISBANK.BO')":1067.0874083658,
+    "('Open', 'AXISBANK.BO')":1075.0305664113,
+    "('Volume', 'AXISBANK.BO')":75981
+  },
+  {
+    "('Date', '')":"2025-01-03",
+    "('Close', 'AXISBANK.BO')":1083.2735595703,
+    "('High', 'AXISBANK.BO')":1092.4657718358,
+    "('Low', 'AXISBANK.BO')":1079.0771970349,
+    "('Open', 'AXISBANK.BO')":1088.5690797866,
+    "('Volume', 'AXISBANK.BO')":218175
+  },
+  {
+    "('Date', '')":"2025-01-06",
+    "('Close', 'AXISBANK.BO')":1063.2407226562,
+    "('High', 'AXISBANK.BO')":1093.6147706619,
+    "('Low', 'AXISBANK.BO')":1059.0942443817,
+    "('Open', 'AXISBANK.BO')":1093.6147706619,
+    "('Volume', 'AXISBANK.BO')":36990
+  },
+  {
+    "('Date', '')":"2025-01-07",
+    "('Close', 'AXISBANK.BO')":1066.6877441406,
+    "('High', 'AXISBANK.BO')":1069.3355041901,
+    "('Low', 'AXISBANK.BO')":1055.1476864411,
+    "('Open', 'AXISBANK.BO')":1059.2940428205,
+    "('Volume', 'AXISBANK.BO')":110379
+  },
+  {
+    "('Date', '')":"2025-01-08",
+    "('Close', 'AXISBANK.BO')":1074.0814208984,
+    "('High', 'AXISBANK.BO')":1081.3752318919,
+    "('Low', 'AXISBANK.BO')":1058.6446715891,
+    "('Open', 'AXISBANK.BO')":1066.0382507741,
+    "('Volume', 'AXISBANK.BO')":66279
+  },
+  {
+    "('Date', '')":"2025-01-09",
+    "('Close', 'AXISBANK.BO')":1060.6429443359,
+    "('High', 'AXISBANK.BO')":1080.7756283988,
+    "('Low', 'AXISBANK.BO')":1053.449023624,
+    "('Open', 'AXISBANK.BO')":1080.7756283988,
+    "('Volume', 'AXISBANK.BO')":78808
+  },
+  {
+    "('Date', '')":"2025-01-10",
+    "('Close', 'AXISBANK.BO')":1039.9106445312,
+    "('High', 'AXISBANK.BO')":1063.2905507444,
+    "('Low', 'AXISBANK.BO')":1036.1138429933,
+    "('Open', 'AXISBANK.BO')":1058.0450370745,
+    "('Volume', 'AXISBANK.BO')":34535
+  },
+  {
+    "('Date', '')":"2025-01-13",
+    "('Close', 'AXISBANK.BO')":1048.0535888672,
+    "('High', 'AXISBANK.BO')":1061.991741312,
+    "('Low', 'AXISBANK.BO')":1023.1249582509,
+    "('Open', 'AXISBANK.BO')":1028.9699348399,
+    "('Volume', 'AXISBANK.BO')":157240
+  },
+  {
+    "('Date', '')":"2025-01-14",
+    "('Close', 'AXISBANK.BO')":1048.9528808594,
+    "('High', 'AXISBANK.BO')":1060.5429442891,
+    "('Low', 'AXISBANK.BO')":1045.405987507,
+    "('Open', 'AXISBANK.BO')":1047.1544921354,
+    "('Volume', 'AXISBANK.BO')":194939
+  },
+  {
+    "('Date', '')":"2025-01-15",
+    "('Close', 'AXISBANK.BO')":1026.4721679688,
+    "('High', 'AXISBANK.BO')":1049.152845389,
+    "('Low', 'AXISBANK.BO')":1013.8829582901,
+    "('Open', 'AXISBANK.BO')":1044.1071115182,
+    "('Volume', 'AXISBANK.BO')":4865402
+  },
+  {
+    "('Date', '')":"2025-01-16",
+    "('Close', 'AXISBANK.BO')":1039.3111572266,
+    "('High', 'AXISBANK.BO')":1045.5558169435,
+    "('Low', 'AXISBANK.BO')":1026.4721612417,
+    "('Open', 'AXISBANK.BO')":1033.1165035737,
+    "('Volume', 'AXISBANK.BO')":211755
+  },
+  {
+    "('Date', '')":"2025-01-17",
+    "('Close', 'AXISBANK.BO')":990.4029541016,
+    "('High', 'AXISBANK.BO')":1011.0852776726,
+    "('Low', 'AXISBANK.BO')":973.6173222841,
+    "('Open', 'AXISBANK.BO')":1006.0895502875,
+    "('Volume', 'AXISBANK.BO')":638281
+  },
+  {
+    "('Date', '')":"2025-01-20",
+    "('Close', 'AXISBANK.BO')":987.4055175781,
+    "('High', 'AXISBANK.BO')":992.9008177013,
+    "('Low', 'AXISBANK.BO')":976.1151858854,
+    "('Open', 'AXISBANK.BO')":992.9008177013,
+    "('Volume', 'AXISBANK.BO')":2632409
+  },
+  {
+    "('Date', '')":"2025-01-21",
+    "('Close', 'AXISBANK.BO')":968.9213867188,
+    "('High', 'AXISBANK.BO')":993.1506660463,
+    "('Low', 'AXISBANK.BO')":962.0772641679,
+    "('Open', 'AXISBANK.BO')":993.1506660463,
+    "('Volume', 'AXISBANK.BO')":578325
+  },
+  {
+    "('Date', '')":"2025-01-22",
+    "('Close', 'AXISBANK.BO')":959.0297851562,
+    "('High', 'AXISBANK.BO')":982.5597105014,
+    "('Low', 'AXISBANK.BO')":953.6843811168,
+    "('Open', 'AXISBANK.BO')":982.5597105014,
+    "('Volume', 'AXISBANK.BO')":129077
+  },
+  {
+    "('Date', '')":"2025-01-23",
+    "('Close', 'AXISBANK.BO')":950.8368530273,
+    "('High', 'AXISBANK.BO')":962.5268067576,
+    "('Low', 'AXISBANK.BO')":947.1899475071,
+    "('Open', 'AXISBANK.BO')":957.6809754067,
+    "('Volume', 'AXISBANK.BO')":463753
+  },
+  {
+    "('Date', '')":"2025-01-24",
+    "('Close', 'AXISBANK.BO')":947.4896850586,
+    "('High', 'AXISBANK.BO')":960.9282045083,
+    "('Low', 'AXISBANK.BO')":945.1916625576,
+    "('Open', 'AXISBANK.BO')":947.189953599,
+    "('Volume', 'AXISBANK.BO')":271404
+  },
+  {
+    "('Date', '')":"2025-01-27",
+    "('Close', 'AXISBANK.BO')":947.0900268555,
+    "('High', 'AXISBANK.BO')":949.1382628971,
+    "('Low', 'AXISBANK.BO')":933.2018802614,
+    "('Open', 'AXISBANK.BO')":943.4431214527,
+    "('Volume', 'AXISBANK.BO')":107143
+  },
+  {
+    "('Date', '')":"2025-01-28",
+    "('Close', 'AXISBANK.BO')":983.2590942383,
+    "('High', 'AXISBANK.BO')":992.6510866379,
+    "('Low', 'AXISBANK.BO')":957.2813103907,
+    "('Open', 'AXISBANK.BO')":957.2813103907,
+    "('Volume', 'AXISBANK.BO')":414988
+  },
+  {
+    "('Date', '')":"2025-01-29",
+    "('Close', 'AXISBANK.BO')":982.459777832,
+    "('High', 'AXISBANK.BO')":987.9550781932,
+    "('Low', 'AXISBANK.BO')":976.7146910908,
+    "('Open', 'AXISBANK.BO')":984.2082824924,
+    "('Volume', 'AXISBANK.BO')":87467
+  },
+  {
+    "('Date', '')":"2025-01-30",
+    "('Close', 'AXISBANK.BO')":984.1583251953,
+    "('High', 'AXISBANK.BO')":990.4029846191,
+    "('Low', 'AXISBANK.BO')":973.9170837402,
+    "('Open', 'AXISBANK.BO')":984.1583251953,
+    "('Volume', 'AXISBANK.BO')":5424437
+  },
+  {
+    "('Date', '')":"2025-01-31",
+    "('Close', 'AXISBANK.BO')":985.5571289062,
+    "('High', 'AXISBANK.BO')":989.1040831746,
+    "('Low', 'AXISBANK.BO')":977.1143373776,
+    "('Open', 'AXISBANK.BO')":984.1083557592,
+    "('Volume', 'AXISBANK.BO')":89313
+  },
+  {
+    "('Date', '')":"2025-02-01",
+    "('Close', 'AXISBANK.BO')":997.7467041016,
+    "('High', 'AXISBANK.BO')":1003.9913636781,
+    "('Low', 'AXISBANK.BO')":981.1609126596,
+    "('Open', 'AXISBANK.BO')":987.3056820761,
+    "('Volume', 'AXISBANK.BO')":250598
+  },
+  {
+    "('Date', '')":"2025-02-03",
+    "('Close', 'AXISBANK.BO')":988.7044067383,
+    "('High', 'AXISBANK.BO')":999.4951658261,
+    "('Low', 'AXISBANK.BO')":982.8594300191,
+    "('Open', 'AXISBANK.BO')":988.8543029549,
+    "('Volume', 'AXISBANK.BO')":98058
+  },
+  {
+    "('Date', '')":"2025-02-04",
+    "('Close', 'AXISBANK.BO')":1014.5823364258,
+    "('High', 'AXISBANK.BO')":1016.5306823978,
+    "('Low', 'AXISBANK.BO')":987.1058344648,
+    "('Open', 'AXISBANK.BO')":996.0981441975,
+    "('Volume', 'AXISBANK.BO')":337951
+  },
+  {
+    "('Date', '')":"2025-02-05",
+    "('Close', 'AXISBANK.BO')":1012.5340576172,
+    "('High', 'AXISBANK.BO')":1021.026794229,
+    "('Low', 'AXISBANK.BO')":1010.136084063,
+    "('Open', 'AXISBANK.BO')":1020.1275389004,
+    "('Volume', 'AXISBANK.BO')":146074
+  },
+  {
+    "('Date', '')":"2025-02-06",
+    "('Close', 'AXISBANK.BO')":1019.6779174805,
+    "('High', 'AXISBANK.BO')":1020.8769042649,
+    "('Low', 'AXISBANK.BO')":1009.136944759,
+    "('Open', 'AXISBANK.BO')":1011.1352357388,
+    "('Volume', 'AXISBANK.BO')":91523
+  },
+  {
+    "('Date', '')":"2025-02-07",
+    "('Close', 'AXISBANK.BO')":1022.9251708984,
+    "('High', 'AXISBANK.BO')":1026.1224487582,
+    "('Low', 'AXISBANK.BO')":1006.9887876622,
+    "('Open', 'AXISBANK.BO')":1019.6779479593,
+    "('Volume', 'AXISBANK.BO')":96893
+  },
+  {
+    "('Date', '')":"2025-02-10",
+    "('Close', 'AXISBANK.BO')":1010.7355957031,
+    "('High', 'AXISBANK.BO')":1023.3248050122,
+    "('Low', 'AXISBANK.BO')":1005.3901915005,
+    "('Open', 'AXISBANK.BO')":1022.9251833892,
+    "('Volume', 'AXISBANK.BO')":52717
+  },
+  {
+    "('Date', '')":"2025-02-11",
+    "('Close', 'AXISBANK.BO')":1006.9887695312,
+    "('High', 'AXISBANK.BO')":1015.1318297636,
+    "('Low', 'AXISBANK.BO')":1001.8432067871,
+    "('Open', 'AXISBANK.BO')":1005.7898437156,
+    "('Volume', 'AXISBANK.BO')":148547
+  },
+  {
+    "('Date', '')":"2025-02-12",
+    "('Close', 'AXISBANK.BO')":1006.0895996094,
+    "('High', 'AXISBANK.BO')":1009.7864502522,
+    "('Low', 'AXISBANK.BO')":983.4089839724,
+    "('Open', 'AXISBANK.BO')":1003.991357415,
+    "('Volume', 'AXISBANK.BO')":80827
+  },
+  {
+    "('Date', '')":"2025-02-13",
+    "('Close', 'AXISBANK.BO')":1007.3884277344,
+    "('High', 'AXISBANK.BO')":1016.5306332471,
+    "('Low', 'AXISBANK.BO')":1001.1437684997,
+    "('Open', 'AXISBANK.BO')":1006.0396057329,
+    "('Volume', 'AXISBANK.BO')":47639
+  },
+  {
+    "('Date', '')":"2025-02-14",
+    "('Close', 'AXISBANK.BO')":995.8983154297,
+    "('High', 'AXISBANK.BO')":1015.0819219641,
+    "('Low', 'AXISBANK.BO')":986.9559506641,
+    "('Open', 'AXISBANK.BO')":1007.4384342019,
+    "('Volume', 'AXISBANK.BO')":993800
+  },
+  {
+    "('Date', '')":"2025-02-17",
+    "('Close', 'AXISBANK.BO')":992.501159668,
+    "('High', 'AXISBANK.BO')":996.1480651422,
+    "('Low', 'AXISBANK.BO')":977.1643006109,
+    "('Open', 'AXISBANK.BO')":995.0989745621,
+    "('Volume', 'AXISBANK.BO')":1677792
+  },
+  {
+    "('Date', '')":"2025-02-18",
+    "('Close', 'AXISBANK.BO')":993.0007324219,
+    "('High', 'AXISBANK.BO')":996.4477965992,
+    "('Low', 'AXISBANK.BO')":986.1066650503,
+    "('Open', 'AXISBANK.BO')":994.0998290635,
+    "('Volume', 'AXISBANK.BO')":85318
+  },
+  {
+    "('Date', '')":"2025-02-19",
+    "('Close', 'AXISBANK.BO')":1010.5357666016,
+    "('High', 'AXISBANK.BO')":1012.3342162756,
+    "('Low', 'AXISBANK.BO')":987.6053655542,
+    "('Open', 'AXISBANK.BO')":996.048157088,
+    "('Volume', 'AXISBANK.BO')":44355
+  },
+  {
+    "('Date', '')":"2025-02-20",
+    "('Close', 'AXISBANK.BO')":1016.1309814453,
+    "('High', 'AXISBANK.BO')":1018.9285766706,
+    "('Low', 'AXISBANK.BO')":1006.6890441999,
+    "('Open', 'AXISBANK.BO')":1007.1886169538,
+    "('Volume', 'AXISBANK.BO')":52634
+  },
+  {
+    "('Date', '')":"2025-02-21",
+    "('Close', 'AXISBANK.BO')":1007.7381591797,
+    "('High', 'AXISBANK.BO')":1020.7270510957,
+    "('Low', 'AXISBANK.BO')":1000.3944639127,
+    "('Open', 'AXISBANK.BO')":1013.0836243657,
+    "('Volume', 'AXISBANK.BO')":30725
+  },
+  {
+    "('Date', '')":"2025-02-24",
+    "('Close', 'AXISBANK.BO')":1008.7373046875,
+    "('High', 'AXISBANK.BO')":1011.8346924264,
+    "('Low', 'AXISBANK.BO')":997.9465451388,
+    "('Open', 'AXISBANK.BO')":1006.8889098466,
+    "('Volume', 'AXISBANK.BO')":34188
+  },
+  {
+    "('Date', '')":"2025-02-25",
+    "('Close', 'AXISBANK.BO')":1008.3875732422,
+    "('High', 'AXISBANK.BO')":1012.4341002298,
+    "('Low', 'AXISBANK.BO')":996.3978275113,
+    "('Open', 'AXISBANK.BO')":1009.1369323504,
+    "('Volume', 'AXISBANK.BO')":374382
+  },
+  {
+    "('Date', '')":"2025-02-27",
+    "('Close', 'AXISBANK.BO')":1015.4315795898,
+    "('High', 'AXISBANK.BO')":1022.6254395291,
+    "('Low', 'AXISBANK.BO')":1003.9913511914,
+    "('Open', 'AXISBANK.BO')":1007.138683972,
+    "('Volume', 'AXISBANK.BO')":122287
+  },
+  {
+    "('Date', '')":"2025-02-28",
+    "('Close', 'AXISBANK.BO')":1014.9819335938,
+    "('High', 'AXISBANK.BO')":1035.0148496909,
+    "('Low', 'AXISBANK.BO')":1009.18690188,
+    "('Open', 'AXISBANK.BO')":1012.4341247608,
+    "('Volume', 'AXISBANK.BO')":94918
+  },
+  {
+    "('Date', '')":"2025-03-03",
+    "('Close', 'AXISBANK.BO')":1006.0396118164,
+    "('High', 'AXISBANK.BO')":1017.8295163261,
+    "('Low', 'AXISBANK.BO')":991.1523197178,
+    "('Open', 'AXISBANK.BO')":1012.3342161664,
+    "('Volume', 'AXISBANK.BO')":134993
+  },
+  {
+    "('Date', '')":"2025-03-04",
+    "('Close', 'AXISBANK.BO')":1000.794128418,
+    "('High', 'AXISBANK.BO')":1010.3359558794,
+    "('Low', 'AXISBANK.BO')":997.9964721926,
+    "('Open', 'AXISBANK.BO')":1001.7932739319,
+    "('Volume', 'AXISBANK.BO')":54374
+  },
+  {
+    "('Date', '')":"2025-03-05",
+    "('Close', 'AXISBANK.BO')":1014.3325195312,
+    "('High', 'AXISBANK.BO')":1016.5805968968,
+    "('Low', 'AXISBANK.BO')":1001.0938417119,
+    "('Open', 'AXISBANK.BO')":1001.0938417119,
+    "('Volume', 'AXISBANK.BO')":22613
+  },
+  {
+    "('Date', '')":"2025-03-06",
+    "('Close', 'AXISBANK.BO')":1033.06640625,
+    "('High', 'AXISBANK.BO')":1038.6117123752,
+    "('Low', 'AXISBANK.BO')":1014.4323798905,
+    "('Open', 'AXISBANK.BO')":1024.0740970519,
+    "('Volume', 'AXISBANK.BO')":90422
+  },
+  {
+    "('Date', '')":"2025-03-07",
+    "('Close', 'AXISBANK.BO')":1036.6634521484,
+    "('High', 'AXISBANK.BO')":1049.5024473044,
+    "('Low', 'AXISBANK.BO')":1030.1190004012,
+    "('Open', 'AXISBANK.BO')":1033.0664308109,
+    "('Volume', 'AXISBANK.BO')":52605
+  },
+  {
+    "('Date', '')":"2025-03-10",
+    "('Close', 'AXISBANK.BO')":1034.7650146484,
+    "('High', 'AXISBANK.BO')":1050.0518669272,
+    "('Low', 'AXISBANK.BO')":1032.7167176797,
+    "('Open', 'AXISBANK.BO')":1043.6074275301,
+    "('Volume', 'AXISBANK.BO')":27361
+  },
+  {
+    "('Date', '')":"2025-03-11",
+    "('Close', 'AXISBANK.BO')":1024.6737060547,
+    "('High', 'AXISBANK.BO')":1035.514410228,
+    "('Low', 'AXISBANK.BO')":1022.5754639359,
+    "('Open', 'AXISBANK.BO')":1024.1741333097,
+    "('Volume', 'AXISBANK.BO')":78020
+  },
+  {
+    "('Date', '')":"2025-03-12",
+    "('Close', 'AXISBANK.BO')":1010.1361083984,
+    "('High', 'AXISBANK.BO')":1027.1215820312,
+    "('Low', 'AXISBANK.BO')":998.546044901,
+    "('Open', 'AXISBANK.BO')":1025.9725403041,
+    "('Volume', 'AXISBANK.BO')":435706
+  },
+  {
+    "('Date', '')":"2025-03-13",
+    "('Close', 'AXISBANK.BO')":1009.2868652344,
+    "('High', 'AXISBANK.BO')":1015.1817871764,
+    "('Low', 'AXISBANK.BO')":1004.1412414447,
+    "('Open', 'AXISBANK.BO')":1015.1817871764,
+    "('Volume', 'AXISBANK.BO')":39669
+  },
+  {
+    "('Date', '')":"2025-03-17",
+    "('Close', 'AXISBANK.BO')":1033.06640625,
+    "('High', 'AXISBANK.BO')":1038.2620358551,
+    "('Low', 'AXISBANK.BO')":1009.1868661916,
+    "('Open', 'AXISBANK.BO')":1009.1868661916,
+    "('Volume', 'AXISBANK.BO')":41164
+  },
+  {
+    "('Date', '')":"2025-03-18",
+    "('Close', 'AXISBANK.BO')":1044.7065429688,
+    "('High', 'AXISBANK.BO')":1053.4990724292,
+    "('Low', 'AXISBANK.BO')":1032.8666928179,
+    "('Open', 'AXISBANK.BO')":1044.1070800433,
+    "('Volume', 'AXISBANK.BO')":120027
+  },
+  {
+    "('Date', '')":"2025-03-19",
+    "('Close', 'AXISBANK.BO')":1051.3009033203,
+    "('High', 'AXISBANK.BO')":1057.5455630339,
+    "('Low', 'AXISBANK.BO')":1042.4086054609,
+    "('Open', 'AXISBANK.BO')":1049.7523008909,
+    "('Volume', 'AXISBANK.BO')":96396
+  },
+  {
+    "('Date', '')":"2025-03-20",
+    "('Close', 'AXISBANK.BO')":1052.5998535156,
+    "('High', 'AXISBANK.BO')":1058.0451480625,
+    "('Low', 'AXISBANK.BO')":1046.0055171749,
+    "('Open', 'AXISBANK.BO')":1058.0451480625,
+    "('Volume', 'AXISBANK.BO')":73438
+  },
+  {
+    "('Date', '')":"2025-03-21",
+    "('Close', 'AXISBANK.BO')":1070.2347412109,
+    "('High', 'AXISBANK.BO')":1074.9806824002,
+    "('Low', 'AXISBANK.BO')":1049.402581647,
+    "('Open', 'AXISBANK.BO')":1053.1493773228,
+    "('Volume', 'AXISBANK.BO')":37462
+  },
+  {
+    "('Date', '')":"2025-03-24",
+    "('Close', 'AXISBANK.BO')":1097.0617675781,
+    "('High', 'AXISBANK.BO')":1103.9558959752,
+    "('Low', 'AXISBANK.BO')":1072.0831298828,
+    "('Open', 'AXISBANK.BO')":1082.0245788991,
+    "('Volume', 'AXISBANK.BO')":192301
+  },
+  {
+    "('Date', '')":"2025-03-25",
+    "('Close', 'AXISBANK.BO')":1118.6433105469,
+    "('High', 'AXISBANK.BO')":1122.4401123458,
+    "('Low', 'AXISBANK.BO')":1095.5130671434,
+    "('Open', 'AXISBANK.BO')":1109.0515378559,
+    "('Volume', 'AXISBANK.BO')":294979
+  },
+  {
+    "('Date', '')":"2025-03-26",
+    "('Close', 'AXISBANK.BO')":1094.6638183594,
+    "('High', 'AXISBANK.BO')":1117.5442753913,
+    "('Low', 'AXISBANK.BO')":1088.3692746995,
+    "('Open', 'AXISBANK.BO')":1114.0472660361,
+    "('Volume', 'AXISBANK.BO')":91615
+  },
+  {
+    "('Date', '')":"2025-03-27",
+    "('Close', 'AXISBANK.BO')":1097.5612792969,
+    "('High', 'AXISBANK.BO')":1107.4528436674,
+    "('Low', 'AXISBANK.BO')":1079.4767710043,
+    "('Open', 'AXISBANK.BO')":1079.4767710043,
+    "('Volume', 'AXISBANK.BO')":64605
+  },
+  {
+    "('Date', '')":"2025-03-28",
+    "('Close', 'AXISBANK.BO')":1100.9584960938,
+    "('High', 'AXISBANK.BO')":1105.8543336382,
+    "('Low', 'AXISBANK.BO')":1085.671520529,
+    "('Open', 'AXISBANK.BO')":1099.0100891091,
+    "('Volume', 'AXISBANK.BO')":106098
+  },
+  {
+    "('Date', '')":"2025-04-01",
+    "('Close', 'AXISBANK.BO')":1084.4226074219,
+    "('High', 'AXISBANK.BO')":1100.1591499668,
+    "('Low', 'AXISBANK.BO')":1069.0357414292,
+    "('Open', 'AXISBANK.BO')":1095.0135259478,
+    "('Volume', 'AXISBANK.BO')":128579
+  },
+  {
+    "('Date', '')":"2025-04-02",
+    "('Close', 'AXISBANK.BO')":1083.9229736328,
+    "('High', 'AXISBANK.BO')":1096.6620787854,
+    "('Low', 'AXISBANK.BO')":1079.9263916241,
+    "('Open', 'AXISBANK.BO')":1096.6620787854,
+    "('Volume', 'AXISBANK.BO')":55637
+  },
+  {
+    "('Date', '')":"2025-04-03",
+    "('Close', 'AXISBANK.BO')":1088.8188476562,
+    "('High', 'AXISBANK.BO')":1091.0669251118,
+    "('Low', 'AXISBANK.BO')":1075.5801693067,
+    "('Open', 'AXISBANK.BO')":1083.0237547621,
+    "('Volume', 'AXISBANK.BO')":51737
+  },
+  {
+    "('Date', '')":"2025-04-04",
+    "('Close', 'AXISBANK.BO')":1088.5690917969,
+    "('High', 'AXISBANK.BO')":1100.5088324983,
+    "('Low', 'AXISBANK.BO')":1074.7808342296,
+    "('Open', 'AXISBANK.BO')":1087.7697265594,
+    "('Volume', 'AXISBANK.BO')":107557
+  },
+  {
+    "('Date', '')":"2025-04-07",
+    "('Close', 'AXISBANK.BO')":1048.0535888672,
+    "('High', 'AXISBANK.BO')":1068.036498208,
+    "('Low', 'AXISBANK.BO')":1031.567688661,
+    "('Open', 'AXISBANK.BO')":1048.0535888672,
+    "('Volume', 'AXISBANK.BO')":95746
+  },
+  {
+    "('Date', '')":"2025-04-08",
+    "('Close', 'AXISBANK.BO')":1076.5793457031,
+    "('High', 'AXISBANK.BO')":1083.9730472733,
+    "('Low', 'AXISBANK.BO')":1059.4939809441,
+    "('Open', 'AXISBANK.BO')":1067.0374567761,
+    "('Volume', 'AXISBANK.BO')":199720
+  },
+  {
+    "('Date', '')":"2025-04-09",
+    "('Close', 'AXISBANK.BO')":1060.7427978516,
+    "('High', 'AXISBANK.BO')":1080.2760183385,
+    "('Low', 'AXISBANK.BO')":1057.4955751193,
+    "('Open', 'AXISBANK.BO')":1071.4836115045,
+    "('Volume', 'AXISBANK.BO')":39450
+  },
+  {
+    "('Date', '')":"2025-04-11",
+    "('Close', 'AXISBANK.BO')":1068.4362792969,
+    "('High', 'AXISBANK.BO')":1072.083184981,
+    "('Low', 'AXISBANK.BO')":1056.8962212682,
+    "('Open', 'AXISBANK.BO')":1063.9401242806,
+    "('Volume', 'AXISBANK.BO')":138631
+  },
+  {
+    "('Date', '')":"2025-04-15",
+    "('Close', 'AXISBANK.BO')":1113.0981445312,
+    "('High', 'AXISBANK.BO')":1115.0464295599,
+    "('Low', 'AXISBANK.BO')":1082.0746265353,
+    "('Open', 'AXISBANK.BO')":1084.2228138528,
+    "('Volume', 'AXISBANK.BO')":234124
+  },
+  {
+    "('Date', '')":"2025-04-16",
+    "('Close', 'AXISBANK.BO')":1160.5574951172,
+    "('High', 'AXISBANK.BO')":1162.6056701964,
+    "('Low', 'AXISBANK.BO')":1111.8491523781,
+    "('Open', 'AXISBANK.BO')":1116.2452949704,
+    "('Volume', 'AXISBANK.BO')":425291
+  },
+  {
+    "('Date', '')":"2025-04-17",
+    "('Close', 'AXISBANK.BO')":1189.6325683594,
+    "('High', 'AXISBANK.BO')":1198.2251949367,
+    "('Low', 'AXISBANK.BO')":1152.2645036988,
+    "('Open', 'AXISBANK.BO')":1158.8089552593,
+    "('Volume', 'AXISBANK.BO')":284005
+  },
+  {
+    "('Date', '')":"2025-04-21",
+    "('Close', 'AXISBANK.BO')":1220.8059082031,
+    "('High', 'AXISBANK.BO')":1237.541595375,
+    "('Low', 'AXISBANK.BO')":1198.1752381715,
+    "('Open', 'AXISBANK.BO')":1202.9211793098,
+    "('Volume', 'AXISBANK.BO')":193620
+  },
+  {
+    "('Date', '')":"2025-04-22",
+    "('Close', 'AXISBANK.BO')":1216.0599365234,
+    "('High', 'AXISBANK.BO')":1233.7448846584,
+    "('Low', 'AXISBANK.BO')":1210.8144227655,
+    "('Open', 'AXISBANK.BO')":1228.8490474245,
+    "('Volume', 'AXISBANK.BO')":110602
+  },
+  {
+    "('Date', '')":"2025-04-23",
+    "('Close', 'AXISBANK.BO')":1205.4689941406,
+    "('High', 'AXISBANK.BO')":1228.6491199618,
+    "('Low', 'AXISBANK.BO')":1194.5782842637,
+    "('Open', 'AXISBANK.BO')":1222.954039642,
+    "('Volume', 'AXISBANK.BO')":181082
+  },
+  {
+    "('Date', '')":"2025-04-24",
+    "('Close', 'AXISBANK.BO')":1206.2684326172,
+    "('High', 'AXISBANK.BO')":1218.9575319089,
+    "('Low', 'AXISBANK.BO')":1198.9746215497,
+    "('Open', 'AXISBANK.BO')":1205.4190613541,
+    "('Volume', 'AXISBANK.BO')":95713
+  },
+  {
+    "('Date', '')":"2025-04-25",
+    "('Close', 'AXISBANK.BO')":1164.3043212891,
+    "('High', 'AXISBANK.BO')":1182.938287633,
+    "('Low', 'AXISBANK.BO')":1144.7709776194,
+    "('Open', 'AXISBANK.BO')":1182.938287633,
+    "('Volume', 'AXISBANK.BO')":1030521
+  },
+  {
+    "('Date', '')":"2025-04-28",
+    "('Close', 'AXISBANK.BO')":1191.6807861328,
+    "('High', 'AXISBANK.BO')":1194.9780150611,
+    "('Low', 'AXISBANK.BO')":1163.5049318885,
+    "('Open', 'AXISBANK.BO')":1165.3533266658,
+    "('Volume', 'AXISBANK.BO')":85767
+  },
+  {
+    "('Date', '')":"2025-04-29",
+    "('Close', 'AXISBANK.BO')":1187.1846923828,
+    "('High', 'AXISBANK.BO')":1208.9661141346,
+    "('Low', 'AXISBANK.BO')":1183.8375791873,
+    "('Open', 'AXISBANK.BO')":1202.9212347775,
+    "('Volume', 'AXISBANK.BO')":108417
+  },
+  {
+    "('Date', '')":"2025-04-30",
+    "('Close', 'AXISBANK.BO')":1182.8884277344,
+    "('High', 'AXISBANK.BO')":1192.1305239679,
+    "('Low', 'AXISBANK.BO')":1176.9934446625,
+    "('Open', 'AXISBANK.BO')":1185.0864991332,
+    "('Volume', 'AXISBANK.BO')":104175
+  },
+  {
+    "('Date', '')":"2025-05-02",
+    "('Close', 'AXISBANK.BO')":1181.1398925781,
+    "('High', 'AXISBANK.BO')":1209.165851038,
+    "('Low', 'AXISBANK.BO')":1179.1914856482,
+    "('Open', 'AXISBANK.BO')":1183.9374268349,
+    "('Volume', 'AXISBANK.BO')":167151
+  },
+  {
+    "('Date', '')":"2025-05-05",
+    "('Close', 'AXISBANK.BO')":1172.447265625,
+    "('High', 'AXISBANK.BO')":1188.9831728234,
+    "('Low', 'AXISBANK.BO')":1164.0045347388,
+    "('Open', 'AXISBANK.BO')":1188.9831728234,
+    "('Volume', 'AXISBANK.BO')":196822
+  },
+  {
+    "('Date', '')":"2025-05-06",
+    "('Close', 'AXISBANK.BO')":1160.0079345703,
+    "('High', 'AXISBANK.BO')":1177.4429748952,
+    "('Low', 'AXISBANK.BO')":1156.261138916,
+    "('Open', 'AXISBANK.BO')":1174.9951171875,
+    "('Volume', 'AXISBANK.BO')":142040
+  },
+  {
+    "('Date', '')":"2025-05-07",
+    "('Close', 'AXISBANK.BO')":1160.8571777344,
+    "('High', 'AXISBANK.BO')":1167.6014098765,
+    "('Low', 'AXISBANK.BO')":1151.1655151461,
+    "('Open', 'AXISBANK.BO')":1151.1655151461,
+    "('Volume', 'AXISBANK.BO')":71069
+  },
+  {
+    "('Date', '')":"2025-05-08",
+    "('Close', 'AXISBANK.BO')":1170.19921875,
+    "('High', 'AXISBANK.BO')":1179.9908939212,
+    "('Low', 'AXISBANK.BO')":1164.1044552914,
+    "('Open', 'AXISBANK.BO')":1179.9908939212,
+    "('Volume', 'AXISBANK.BO')":104365
+  },
+  {
+    "('Date', '')":"2025-05-09",
+    "('Close', 'AXISBANK.BO')":1152.3645019531,
+    "('High', 'AXISBANK.BO')":1170.998590955,
+    "('Low', 'AXISBANK.BO')":1147.5186704025,
+    "('Open', 'AXISBANK.BO')":1154.0631225769,
+    "('Volume', 'AXISBANK.BO')":103407
+  },
+  {
+    "('Date', '')":"2025-05-12",
+    "('Close', 'AXISBANK.BO')":1203.0710449219,
+    "('High', 'AXISBANK.BO')":1206.4681639382,
+    "('Low', 'AXISBANK.BO')":1174.9450753404,
+    "('Open', 'AXISBANK.BO')":1174.9450753404,
+    "('Volume', 'AXISBANK.BO')":207389
+  },
+  {
+    "('Date', '')":"2025-05-13",
+    "('Close', 'AXISBANK.BO')":1192.9296875,
+    "('High', 'AXISBANK.BO')":1213.6619560439,
+    "('Low', 'AXISBANK.BO')":1189.033117732,
+    "('Open', 'AXISBANK.BO')":1203.1210444939,
+    "('Volume', 'AXISBANK.BO')":248283
+  },
+  {
+    "('Date', '')":"2025-05-14",
+    "('Close', 'AXISBANK.BO')":1194.5284423828,
+    "('High', 'AXISBANK.BO')":1197.6257690165,
+    "('Low', 'AXISBANK.BO')":1185.1364503598,
+    "('Open', 'AXISBANK.BO')":1193.9788635755,
+    "('Volume', 'AXISBANK.BO')":56039
+  },
+  {
+    "('Date', '')":"2025-05-15",
+    "('Close', 'AXISBANK.BO')":1206.5181884766,
+    "('High', 'AXISBANK.BO')":1215.7602842839,
+    "('Low', 'AXISBANK.BO')":1184.0374148912,
+    "('Open', 'AXISBANK.BO')":1194.7782289375,
+    "('Volume', 'AXISBANK.BO')":127897
+  },
+  {
+    "('Date', '')":"2025-05-16",
+    "('Close', 'AXISBANK.BO')":1207.267578125,
+    "('High', 'AXISBANK.BO')":1211.963513273,
+    "('Low', 'AXISBANK.BO')":1202.2718505353,
+    "('Open', 'AXISBANK.BO')":1211.6637208312,
+    "('Volume', 'AXISBANK.BO')":100649
+  },
+  {
+    "('Date', '')":"2025-05-19",
+    "('Close', 'AXISBANK.BO')":1201.6223144531,
+    "('High', 'AXISBANK.BO')":1218.6077873097,
+    "('Low', 'AXISBANK.BO')":1200.5731629315,
+    "('Open', 'AXISBANK.BO')":1207.2675107075,
+    "('Volume', 'AXISBANK.BO')":143922
+  },
+  {
+    "('Date', '')":"2025-05-20",
+    "('Close', 'AXISBANK.BO')":1194.1287841797,
+    "('High', 'AXISBANK.BO')":1209.6155396302,
+    "('Low', 'AXISBANK.BO')":1191.9305908716,
+    "('Open', 'AXISBANK.BO')":1203.9703430889,
+    "('Volume', 'AXISBANK.BO')":226246
+  },
+  {
+    "('Date', '')":"2025-05-21",
+    "('Close', 'AXISBANK.BO')":1196.7265625,
+    "('High', 'AXISBANK.BO')":1203.8704774562,
+    "('Low', 'AXISBANK.BO')":1182.5886288107,
+    "('Open', 'AXISBANK.BO')":1194.5783752102,
+    "('Volume', 'AXISBANK.BO')":73779
+  },
+  {
+    "('Date', '')":"2025-05-22",
+    "('Close', 'AXISBANK.BO')":1186.8850097656,
+    "('High', 'AXISBANK.BO')":1193.9289126336,
+    "('Low', 'AXISBANK.BO')":1176.9434384764,
+    "('Open', 'AXISBANK.BO')":1191.2312684656,
+    "('Volume', 'AXISBANK.BO')":95673
+  },
+  {
+    "('Date', '')":"2025-05-23",
+    "('Close', 'AXISBANK.BO')":1209.0659179688,
+    "('High', 'AXISBANK.BO')":1211.2641111989,
+    "('Low', 'AXISBANK.BO')":1186.8349310937,
+    "('Open', 'AXISBANK.BO')":1186.8349310937,
+    "('Volume', 'AXISBANK.BO')":285680
+  },
+  {
+    "('Date', '')":"2025-05-26",
+    "('Close', 'AXISBANK.BO')":1214.2115478516,
+    "('High', 'AXISBANK.BO')":1223.0539609803,
+    "('Low', 'AXISBANK.BO')":1207.5173219039,
+    "('Open', 'AXISBANK.BO')":1214.3614440672,
+    "('Volume', 'AXISBANK.BO')":197338
+  },
+  {
+    "('Date', '')":"2025-05-27",
+    "('Close', 'AXISBANK.BO')":1194.8781738281,
+    "('High', 'AXISBANK.BO')":1216.9092597714,
+    "('Low', 'AXISBANK.BO')":1189.7325499119,
+    "('Open', 'AXISBANK.BO')":1214.2616216673,
+    "('Volume', 'AXISBANK.BO')":746187
+  },
+  {
+    "('Date', '')":"2025-05-28",
+    "('Close', 'AXISBANK.BO')":1193.2294921875,
+    "('High', 'AXISBANK.BO')":1201.2226560456,
+    "('Low', 'AXISBANK.BO')":1190.7316284819,
+    "('Open', 'AXISBANK.BO')":1194.4784240403,
+    "('Volume', 'AXISBANK.BO')":83427
+  },
+  {
+    "('Date', '')":"2025-05-29",
+    "('Close', 'AXISBANK.BO')":1200.873046875,
+    "('High', 'AXISBANK.BO')":1207.9169497404,
+    "('Low', 'AXISBANK.BO')":1188.0340511011,
+    "('Open', 'AXISBANK.BO')":1197.0263609457,
+    "('Volume', 'AXISBANK.BO')":73350
+  },
+  {
+    "('Date', '')":"2025-05-30",
+    "('Close', 'AXISBANK.BO')":1191.0314941406,
+    "('High', 'AXISBANK.BO')":1207.1675970984,
+    "('Low', 'AXISBANK.BO')":1188.9831969897,
+    "('Open', 'AXISBANK.BO')":1199.0246584901,
+    "('Volume', 'AXISBANK.BO')":98582
+  },
+  {
+    "('Date', '')":"2025-06-02",
+    "('Close', 'AXISBANK.BO')":1194.1787109375,
+    "('High', 'AXISBANK.BO')":1200.0736940676,
+    "('Low', 'AXISBANK.BO')":1178.2423882232,
+    "('Open', 'AXISBANK.BO')":1196.7265808729,
+    "('Volume', 'AXISBANK.BO')":176396
+  },
+  {
+    "('Date', '')":"2025-06-03",
+    "('Close', 'AXISBANK.BO')":1180.6402587891,
+    "('High', 'AXISBANK.BO')":1196.1270134399,
+    "('Low', 'AXISBANK.BO')":1173.9959170779,
+    "('Open', 'AXISBANK.BO')":1191.2311762861,
+    "('Volume', 'AXISBANK.BO')":1237797
+  },
+  {
+    "('Date', '')":"2025-06-04",
+    "('Close', 'AXISBANK.BO')":1170.0494384766,
+    "('High', 'AXISBANK.BO')":1187.0349127302,
+    "('Low', 'AXISBANK.BO')":1168.0011413243,
+    "('Open', 'AXISBANK.BO')":1180.6403568533,
+    "('Volume', 'AXISBANK.BO')":132356
+  },
+  {
+    "('Date', '')":"2025-06-05",
+    "('Close', 'AXISBANK.BO')":1157.6599121094,
+    "('High', 'AXISBANK.BO')":1173.995915994,
+    "('Low', 'AXISBANK.BO')":1156.0613037659,
+    "('Open', 'AXISBANK.BO')":1169.9993341524,
+    "('Volume', 'AXISBANK.BO')":156801
+  },
+  {
+    "('Date', '')":"2025-06-06",
+    "('Close', 'AXISBANK.BO')":1194.1787109375,
+    "('High', 'AXISBANK.BO')":1199.973803906,
+    "('Low', 'AXISBANK.BO')":1151.015672023,
+    "('Open', 'AXISBANK.BO')":1157.7098984125,
+    "('Volume', 'AXISBANK.BO')":348428
+  },
+  {
+    "('Date', '')":"2025-06-09",
+    "('Close', 'AXISBANK.BO')":1218.8076171875,
+    "('High', 'AXISBANK.BO')":1223.5535583258,
+    "('Low', 'AXISBANK.BO')":1204.0203369258,
+    "('Open', 'AXISBANK.BO')":1204.0203369258,
+    "('Volume', 'AXISBANK.BO')":302593
+  },
+  {
+    "('Date', '')":"2025-06-10",
+    "('Close', 'AXISBANK.BO')":1231.8465576172,
+    "('High', 'AXISBANK.BO')":1234.7441040692,
+    "('Low', 'AXISBANK.BO')":1217.6087337073,
+    "('Open', 'AXISBANK.BO')":1228.6492187175,
+    "('Volume', 'AXISBANK.BO')":338677
+  },
+  {
+    "('Date', '')":"2025-06-11",
+    "('Close', 'AXISBANK.BO')":1230.4976806641,
+    "('High', 'AXISBANK.BO')":1240.5390196889,
+    "('Low', 'AXISBANK.BO')":1226.9506653776,
+    "('Open', 'AXISBANK.BO')":1231.7964966253,
+    "('Volume', 'AXISBANK.BO')":117124
+  },
+  {
+    "('Date', '')":"2025-06-12",
+    "('Close', 'AXISBANK.BO')":1211.6636962891,
+    "('High', 'AXISBANK.BO')":1235.793084452,
+    "('Low', 'AXISBANK.BO')":1209.9651977294,
+    "('Open', 'AXISBANK.BO')":1227.8499265316,
+    "('Volume', 'AXISBANK.BO')":78533
+  },
+  {
+    "('Date', '')":"2025-06-13",
+    "('Close', 'AXISBANK.BO')":1204.9194335938,
+    "('High', 'AXISBANK.BO')":1210.5147458117,
+    "('Low', 'AXISBANK.BO')":1196.976275875,
+    "('Open', 'AXISBANK.BO')":1204.0701843355,
+    "('Volume', 'AXISBANK.BO')":67037
+  },
+  {
+    "('Date', '')":"2025-06-16",
+    "('Close', 'AXISBANK.BO')":1214.6112060547,
+    "('High', 'AXISBANK.BO')":1216.2598204612,
+    "('Low', 'AXISBANK.BO')":1194.7781930144,
+    "('Open', 'AXISBANK.BO')":1202.621460503,
+    "('Volume', 'AXISBANK.BO')":167993
+  },
+  {
+    "('Date', '')":"2025-06-17",
+    "('Close', 'AXISBANK.BO')":1215.6602783203,
+    "('High', 'AXISBANK.BO')":1225.8516355769,
+    "('Low', 'AXISBANK.BO')":1210.1649780827,
+    "('Open', 'AXISBANK.BO')":1214.9609252583,
+    "('Volume', 'AXISBANK.BO')":655950
+  },
+  {
+    "('Date', '')":"2025-06-18",
+    "('Close', 'AXISBANK.BO')":1219.8568115234,
+    "('High', 'AXISBANK.BO')":1221.9049866964,
+    "('Low', 'AXISBANK.BO')":1202.7714472198,
+    "('Open', 'AXISBANK.BO')":1209.1658810891,
+    "('Volume', 'AXISBANK.BO')":67514
+  },
+  {
+    "('Date', '')":"2025-06-19",
+    "('Close', 'AXISBANK.BO')":1216.3597412109,
+    "('High', 'AXISBANK.BO')":1227.0505491437,
+    "('Low', 'AXISBANK.BO')":1213.5620850588,
+    "('Open', 'AXISBANK.BO')":1215.9600586226,
+    "('Volume', 'AXISBANK.BO')":53428
+  },
+  {
+    "('Date', '')":"2025-06-20",
+    "('Close', 'AXISBANK.BO')":1219.107421875,
+    "('High', 'AXISBANK.BO')":1225.3020752682,
+    "('Low', 'AXISBANK.BO')":1213.3623351762,
+    "('Open', 'AXISBANK.BO')":1216.3597717147,
+    "('Volume', 'AXISBANK.BO')":129733
+  },
+  {
+    "('Date', '')":"2025-06-23",
+    "('Close', 'AXISBANK.BO')":1213.2124023438,
+    "('High', 'AXISBANK.BO')":1221.3554624208,
+    "('Low', 'AXISBANK.BO')":1203.6705141978,
+    "('Open', 'AXISBANK.BO')":1213.9617614558,
+    "('Volume', 'AXISBANK.BO')":130199
+  },
+  {
+    "('Date', '')":"2025-06-24",
+    "('Close', 'AXISBANK.BO')":1219.8067626953,
+    "('High', 'AXISBANK.BO')":1237.2419248987,
+    "('Low', 'AXISBANK.BO')":1214.411352587,
+    "('Open', 'AXISBANK.BO')":1219.2072997868,
+    "('Volume', 'AXISBANK.BO')":210694
+  },
+  {
+    "('Date', '')":"2025-06-25",
+    "('Close', 'AXISBANK.BO')":1211.763671875,
+    "('High', 'AXISBANK.BO')":1224.1030940065,
+    "('Low', 'AXISBANK.BO')":1210.4647339807,
+    "('Open', 'AXISBANK.BO')":1224.1030940065,
+    "('Volume', 'AXISBANK.BO')":59961
+  },
+  {
+    "('Date', '')":"2025-06-26",
+    "('Close', 'AXISBANK.BO')":1233.2952880859,
+    "('High', 'AXISBANK.BO')":1237.7914430713,
+    "('Low', 'AXISBANK.BO')":1210.5647267712,
+    "('Open', 'AXISBANK.BO')":1217.7586479273,
+    "('Volume', 'AXISBANK.BO')":147890
+  },
+  {
+    "('Date', '')":"2025-06-27",
+    "('Close', 'AXISBANK.BO')":1224.1530761719,
+    "('High', 'AXISBANK.BO')":1245.9344978966,
+    "('Low', 'AXISBANK.BO')":1219.9067075944,
+    "('Open', 'AXISBANK.BO')":1232.9956118412,
+    "('Volume', 'AXISBANK.BO')":106538
+  },
+  {
+    "('Date', '')":"2025-06-30",
+    "('Close', 'AXISBANK.BO')":1197.9754638672,
+    "('High', 'AXISBANK.BO')":1234.3443847448,
+    "('Low', 'AXISBANK.BO')":1192.2803832591,
+    "('Open', 'AXISBANK.BO')":1225.1521728933,
+    "('Volume', 'AXISBANK.BO')":125478
+  },
+  {
+    "('Date', '')":"2025-07-01",
+    "('Close', 'AXISBANK.BO')":1172.447265625,
+    "('High', 'AXISBANK.BO')":1201.8721744682,
+    "('Low', 'AXISBANK.BO')":1166.0028257856,
+    "('Open', 'AXISBANK.BO')":1199.1744083754,
+    "('Volume', 'AXISBANK.BO')":513629
+  },
+  {
+    "('Date', '')":"2025-07-02",
+    "('Close', 'AXISBANK.BO')":1174.0460205078,
+    "('High', 'AXISBANK.BO')":1180.7402468676,
+    "('Low', 'AXISBANK.BO')":1170.6489012643,
+    "('Open', 'AXISBANK.BO')":1180.7402468676,
+    "('Volume', 'AXISBANK.BO')":182392
+  },
+  {
+    "('Date', '')":"2025-07-03",
+    "('Close', 'AXISBANK.BO')":1169.3000488281,
+    "('High', 'AXISBANK.BO')":1179.940851025,
+    "('Low', 'AXISBANK.BO')":1167.5515441711,
+    "('Open', 'AXISBANK.BO')":1176.1441712351,
+    "('Volume', 'AXISBANK.BO')":46976
+  },
+  {
+    "('Date', '')":"2025-07-04",
+    "('Close', 'AXISBANK.BO')":1177.5500488281,
+    "('High', 'AXISBANK.BO')":1179.25,
+    "('Low', 'AXISBANK.BO')":1162.5,
+    "('Open', 'AXISBANK.BO')":1172.0500488281,
+    "('Volume', 'AXISBANK.BO')":41435
+  },
+  {
+    "('Date', '')":"2025-07-07",
+    "('Close', 'AXISBANK.BO')":1175.4499511719,
+    "('High', 'AXISBANK.BO')":1178.5,
+    "('Low', 'AXISBANK.BO')":1167.5500488281,
+    "('Open', 'AXISBANK.BO')":1177.0,
+    "('Volume', 'AXISBANK.BO')":43548
+  },
+  {
+    "('Date', '')":"2025-07-08",
+    "('Close', 'AXISBANK.BO')":1165.4000244141,
+    "('High', 'AXISBANK.BO')":1178.0999755859,
+    "('Low', 'AXISBANK.BO')":1161.8499755859,
+    "('Open', 'AXISBANK.BO')":1178.0,
+    "('Volume', 'AXISBANK.BO')":450668
+  },
+  {
+    "('Date', '')":"2025-07-09",
+    "('Close', 'AXISBANK.BO')":1164.6999511719,
+    "('High', 'AXISBANK.BO')":1171.0,
+    "('Low', 'AXISBANK.BO')":1159.1999511719,
+    "('Open', 'AXISBANK.BO')":1161.3000488281,
+    "('Volume', 'AXISBANK.BO')":59912
+  },
+  {
+    "('Date', '')":"2025-07-10",
+    "('Close', 'AXISBANK.BO')":1164.5,
+    "('High', 'AXISBANK.BO')":1176.1999511719,
+    "('Low', 'AXISBANK.BO')":1163.5,
+    "('Open', 'AXISBANK.BO')":1170.0,
+    "('Volume', 'AXISBANK.BO')":71584
+  },
+  {
+    "('Date', '')":"2025-07-11",
+    "('Close', 'AXISBANK.BO')":1173.75,
+    "('High', 'AXISBANK.BO')":1176.0,
+    "('Low', 'AXISBANK.BO')":1160.0500488281,
+    "('Open', 'AXISBANK.BO')":1164.3499755859,
+    "('Volume', 'AXISBANK.BO')":73087
+  },
+  {
+    "('Date', '')":"2025-07-14",
+    "('Close', 'AXISBANK.BO')":1173.4499511719,
+    "('High', 'AXISBANK.BO')":1179.8499755859,
+    "('Low', 'AXISBANK.BO')":1163.0,
+    "('Open', 'AXISBANK.BO')":1177.0500488281,
+    "('Volume', 'AXISBANK.BO')":66570
+  },
+  {
+    "('Date', '')":"2025-07-15",
+    "('Close', 'AXISBANK.BO')":1165.3000488281,
+    "('High', 'AXISBANK.BO')":1178.0999755859,
+    "('Low', 'AXISBANK.BO')":1162.5,
+    "('Open', 'AXISBANK.BO')":1176.9499511719,
+    "('Volume', 'AXISBANK.BO')":90488
+  },
+  {
+    "('Date', '')":"2025-07-16",
+    "('Close', 'AXISBANK.BO')":1167.75,
+    "('High', 'AXISBANK.BO')":1173.9000244141,
+    "('Low', 'AXISBANK.BO')":1157.5,
+    "('Open', 'AXISBANK.BO')":1167.9499511719,
+    "('Volume', 'AXISBANK.BO')":48323
+  },
+  {
+    "('Date', '')":"2025-07-17",
+    "('Close', 'AXISBANK.BO')":1159.8499755859,
+    "('High', 'AXISBANK.BO')":1172.5999755859,
+    "('Low', 'AXISBANK.BO')":1155.1999511719,
+    "('Open', 'AXISBANK.BO')":1169.5,
+    "('Volume', 'AXISBANK.BO')":73842
+  },
+  {
+    "('Date', '')":"2025-07-18",
+    "('Close', 'AXISBANK.BO')":1099.0999755859,
+    "('High', 'AXISBANK.BO')":1115.8000488281,
+    "('Low', 'AXISBANK.BO')":1073.9499511719,
+    "('Open', 'AXISBANK.BO')":1074.0,
+    "('Volume', 'AXISBANK.BO')":1178560
+  },
+  {
+    "('Date', '')":"2025-07-21",
+    "('Close', 'AXISBANK.BO')":1100.0500488281,
+    "('High', 'AXISBANK.BO')":1101.8000488281,
+    "('Low', 'AXISBANK.BO')":1072.5999755859,
+    "('Open', 'AXISBANK.BO')":1089.1999511719,
+    "('Volume', 'AXISBANK.BO')":293785
+  },
+  {
+    "('Date', '')":"2025-07-22",
+    "('Close', 'AXISBANK.BO')":1098.0500488281,
+    "('High', 'AXISBANK.BO')":1110.8000488281,
+    "('Low', 'AXISBANK.BO')":1095.0,
+    "('Open', 'AXISBANK.BO')":1101.75,
+    "('Volume', 'AXISBANK.BO')":455214
+  },
+  {
+    "('Date', '')":"2025-07-23",
+    "('Close', 'AXISBANK.BO')":1105.1500244141,
+    "('High', 'AXISBANK.BO')":1110.4000244141,
+    "('Low', 'AXISBANK.BO')":1097.8000488281,
+    "('Open', 'AXISBANK.BO')":1100.0,
+    "('Volume', 'AXISBANK.BO')":136730
+  },
+  {
+    "('Date', '')":"2025-07-24",
+    "('Close', 'AXISBANK.BO')":1095.25,
+    "('High', 'AXISBANK.BO')":1105.5,
+    "('Low', 'AXISBANK.BO')":1089.25,
+    "('Open', 'AXISBANK.BO')":1105.1500244141,
+    "('Volume', 'AXISBANK.BO')":129083
+  },
+  {
+    "('Date', '')":"2025-07-25",
+    "('Close', 'AXISBANK.BO')":1086.9000244141,
+    "('High', 'AXISBANK.BO')":1100.0,
+    "('Low', 'AXISBANK.BO')":1076.3499755859,
+    "('Open', 'AXISBANK.BO')":1091.9499511719,
+    "('Volume', 'AXISBANK.BO')":304626
+  },
+  {
+    "('Date', '')":"2025-07-28",
+    "('Close', 'AXISBANK.BO')":1073.3499755859,
+    "('High', 'AXISBANK.BO')":1091.5500488281,
+    "('Low', 'AXISBANK.BO')":1067.1500244141,
+    "('Open', 'AXISBANK.BO')":1079.9499511719,
+    "('Volume', 'AXISBANK.BO')":274270
+  },
+  {
+    "('Date', '')":"2025-07-29",
+    "('Close', 'AXISBANK.BO')":1065.5,
+    "('High', 'AXISBANK.BO')":1077.6999511719,
+    "('Low', 'AXISBANK.BO')":1055.3000488281,
+    "('Open', 'AXISBANK.BO')":1076.4499511719,
+    "('Volume', 'AXISBANK.BO')":266963
+  },
+  {
+    "('Date', '')":"2025-07-30",
+    "('Close', 'AXISBANK.BO')":1073.25,
+    "('High', 'AXISBANK.BO')":1080.5,
+    "('Low', 'AXISBANK.BO')":1062.0,
+    "('Open', 'AXISBANK.BO')":1066.3000488281,
+    "('Volume', 'AXISBANK.BO')":85165
+  },
+  {
+    "('Date', '')":"2025-07-31",
+    "('Close', 'AXISBANK.BO')":1068.3000488281,
+    "('High', 'AXISBANK.BO')":1081.4000244141,
+    "('Low', 'AXISBANK.BO')":1061.0500488281,
+    "('Open', 'AXISBANK.BO')":1061.0500488281,
+    "('Volume', 'AXISBANK.BO')":44981
+  },
+  {
+    "('Date', '')":"2025-08-01",
+    "('Close', 'AXISBANK.BO')":1062.5999755859,
+    "('High', 'AXISBANK.BO')":1070.8000488281,
+    "('Low', 'AXISBANK.BO')":1060.1999511719,
+    "('Open', 'AXISBANK.BO')":1060.25,
+    "('Volume', 'AXISBANK.BO')":2181237
+  },
+  {
+    "('Date', '')":"2025-08-04",
+    "('Close', 'AXISBANK.BO')":1068.4499511719,
+    "('High', 'AXISBANK.BO')":1070.0,
+    "('Low', 'AXISBANK.BO')":1059.75,
+    "('Open', 'AXISBANK.BO')":1063.1999511719,
+    "('Volume', 'AXISBANK.BO')":3905957
+  },
+  {
+    "('Date', '')":"2025-08-05",
+    "('Close', 'AXISBANK.BO')":1070.5500488281,
+    "('High', 'AXISBANK.BO')":1079.8499755859,
+    "('Low', 'AXISBANK.BO')":1062.5999755859,
+    "('Open', 'AXISBANK.BO')":1068.0,
+    "('Volume', 'AXISBANK.BO')":208179
+  },
+  {
+    "('Date', '')":"2025-08-06",
+    "('Close', 'AXISBANK.BO')":1070.6999511719,
+    "('High', 'AXISBANK.BO')":1077.8000488281,
+    "('Low', 'AXISBANK.BO')":1065.8000488281,
+    "('Open', 'AXISBANK.BO')":1073.4000244141,
+    "('Volume', 'AXISBANK.BO')":35573
+  },
+  {
+    "('Date', '')":"2025-08-07",
+    "('Close', 'AXISBANK.BO')":1076.9000244141,
+    "('High', 'AXISBANK.BO')":1079.8000488281,
+    "('Low', 'AXISBANK.BO')":1064.8499755859,
+    "('Open', 'AXISBANK.BO')":1069.0999755859,
+    "('Volume', 'AXISBANK.BO')":22699
+  },
+  {
+    "('Date', '')":"2025-08-08",
+    "('Close', 'AXISBANK.BO')":1057.3499755859,
+    "('High', 'AXISBANK.BO')":1078.0500488281,
+    "('Low', 'AXISBANK.BO')":1053.8000488281,
+    "('Open', 'AXISBANK.BO')":1076.6500244141,
+    "('Volume', 'AXISBANK.BO')":88741
+  },
+  {
+    "('Date', '')":"2025-08-11",
+    "('Close', 'AXISBANK.BO')":1073.5500488281,
+    "('High', 'AXISBANK.BO')":1075.0,
+    "('Low', 'AXISBANK.BO')":1053.0,
+    "('Open', 'AXISBANK.BO')":1060.0,
+    "('Volume', 'AXISBANK.BO')":46215
+  },
+  {
+    "('Date', '')":"2025-08-12",
+    "('Close', 'AXISBANK.BO')":1069.3000488281,
+    "('High', 'AXISBANK.BO')":1076.4499511719,
+    "('Low', 'AXISBANK.BO')":1066.5,
+    "('Open', 'AXISBANK.BO')":1070.75,
+    "('Volume', 'AXISBANK.BO')":44125
+  },
+  {
+    "('Date', '')":"2025-08-13",
+    "('Close', 'AXISBANK.BO')":1066.3000488281,
+    "('High', 'AXISBANK.BO')":1071.9499511719,
+    "('Low', 'AXISBANK.BO')":1063.25,
+    "('Open', 'AXISBANK.BO')":1069.9000244141,
+    "('Volume', 'AXISBANK.BO')":48492
+  },
+  {
+    "('Date', '')":"2025-08-14",
+    "('Close', 'AXISBANK.BO')":1067.5,
+    "('High', 'AXISBANK.BO')":1072.25,
+    "('Low', 'AXISBANK.BO')":1062.1500244141,
+    "('Open', 'AXISBANK.BO')":1068.0,
+    "('Volume', 'AXISBANK.BO')":42585
+  },
+  {
+    "('Date', '')":"2025-08-18",
+    "('Close', 'AXISBANK.BO')":1082.1500244141,
+    "('High', 'AXISBANK.BO')":1089.5999755859,
+    "('Low', 'AXISBANK.BO')":1077.3000488281,
+    "('Open', 'AXISBANK.BO')":1077.3000488281,
+    "('Volume', 'AXISBANK.BO')":79327
+  },
+  {
+    "('Date', '')":"2025-08-19",
+    "('Close', 'AXISBANK.BO')":1083.25,
+    "('High', 'AXISBANK.BO')":1094.9499511719,
+    "('Low', 'AXISBANK.BO')":1075.9499511719,
+    "('Open', 'AXISBANK.BO')":1082.0,
+    "('Volume', 'AXISBANK.BO')":273820
+  },
+  {
+    "('Date', '')":"2025-08-20",
+    "('Close', 'AXISBANK.BO')":1079.8499755859,
+    "('High', 'AXISBANK.BO')":1083.5500488281,
+    "('Low', 'AXISBANK.BO')":1077.8499755859,
+    "('Open', 'AXISBANK.BO')":1083.1500244141,
+    "('Volume', 'AXISBANK.BO')":39577
+  },
+  {
+    "('Date', '')":"2025-08-21",
+    "('Close', 'AXISBANK.BO')":1079.3000488281,
+    "('High', 'AXISBANK.BO')":1090.0,
+    "('Low', 'AXISBANK.BO')":1076.5,
+    "('Open', 'AXISBANK.BO')":1088.1500244141,
+    "('Volume', 'AXISBANK.BO')":937054
+  },
+  {
+    "('Date', '')":"2025-08-22",
+    "('Close', 'AXISBANK.BO')":1070.4000244141,
+    "('High', 'AXISBANK.BO')":1078.5,
+    "('Low', 'AXISBANK.BO')":1069.3499755859,
+    "('Open', 'AXISBANK.BO')":1077.8000488281,
+    "('Volume', 'AXISBANK.BO')":105965
+  },
+  {
+    "('Date', '')":"2025-08-25",
+    "('Close', 'AXISBANK.BO')":1070.0500488281,
+    "('High', 'AXISBANK.BO')":1074.3499755859,
+    "('Low', 'AXISBANK.BO')":1068.0,
+    "('Open', 'AXISBANK.BO')":1071.1999511719,
+    "('Volume', 'AXISBANK.BO')":608237
+  },
+  {
+    "('Date', '')":"2025-08-26",
+    "('Close', 'AXISBANK.BO')":1050.1500244141,
+    "('High', 'AXISBANK.BO')":1069.6999511719,
+    "('Low', 'AXISBANK.BO')":1048.0500488281,
+    "('Open', 'AXISBANK.BO')":1062.1500244141,
+    "('Volume', 'AXISBANK.BO')":597222
+  },
+  {
+    "('Date', '')":"2025-08-28",
+    "('Close', 'AXISBANK.BO')":1052.3499755859,
+    "('High', 'AXISBANK.BO')":1059.1999511719,
+    "('Low', 'AXISBANK.BO')":1047.0,
+    "('Open', 'AXISBANK.BO')":1050.0,
+    "('Volume', 'AXISBANK.BO')":86887
+  },
+  {
+    "('Date', '')":"2025-08-29",
+    "('Close', 'AXISBANK.BO')":1045.5500488281,
+    "('High', 'AXISBANK.BO')":1062.8499755859,
+    "('Low', 'AXISBANK.BO')":1042.5,
+    "('Open', 'AXISBANK.BO')":1052.3000488281,
+    "('Volume', 'AXISBANK.BO')":88888
+  },
+  {
+    "('Date', '')":"2025-09-01",
+    "('Close', 'AXISBANK.BO')":1061.4000244141,
+    "('High', 'AXISBANK.BO')":1063.9000244141,
+    "('Low', 'AXISBANK.BO')":1041.3000488281,
+    "('Open', 'AXISBANK.BO')":1041.3000488281,
+    "('Volume', 'AXISBANK.BO')":127229
+  },
+  {
+    "('Date', '')":"2025-09-02",
+    "('Close', 'AXISBANK.BO')":1055.6999511719,
+    "('High', 'AXISBANK.BO')":1063.9499511719,
+    "('Low', 'AXISBANK.BO')":1049.25,
+    "('Open', 'AXISBANK.BO')":1062.0,
+    "('Volume', 'AXISBANK.BO')":59995
+  },
+  {
+    "('Date', '')":"2025-09-03",
+    "('Close', 'AXISBANK.BO')":1054.4499511719,
+    "('High', 'AXISBANK.BO')":1065.0,
+    "('Low', 'AXISBANK.BO')":1045.0999755859,
+    "('Open', 'AXISBANK.BO')":1055.6500244141,
+    "('Volume', 'AXISBANK.BO')":84683
+  },
+  {
+    "('Date', '')":"2025-09-04",
+    "('Close', 'AXISBANK.BO')":1050.1999511719,
+    "('High', 'AXISBANK.BO')":1062.3499755859,
+    "('Low', 'AXISBANK.BO')":1047.6999511719,
+    "('Open', 'AXISBANK.BO')":1059.9499511719,
+    "('Volume', 'AXISBANK.BO')":87217
+  },
+  {
+    "('Date', '')":"2025-09-05",
+    "('Close', 'AXISBANK.BO')":1056.1999511719,
+    "('High', 'AXISBANK.BO')":1058.0,
+    "('Low', 'AXISBANK.BO')":1047.6500244141,
+    "('Open', 'AXISBANK.BO')":1055.3000488281,
+    "('Volume', 'AXISBANK.BO')":49952
+  },
+  {
+    "('Date', '')":"2025-09-08",
+    "('Close', 'AXISBANK.BO')":1055.25,
+    "('High', 'AXISBANK.BO')":1062.9000244141,
+    "('Low', 'AXISBANK.BO')":1053.3499755859,
+    "('Open', 'AXISBANK.BO')":1053.3499755859,
+    "('Volume', 'AXISBANK.BO')":48606
+  },
+  {
+    "('Date', '')":"2025-09-09",
+    "('Close', 'AXISBANK.BO')":1051.9000244141,
+    "('High', 'AXISBANK.BO')":1057.5,
+    "('Low', 'AXISBANK.BO')":1048.6999511719,
+    "('Open', 'AXISBANK.BO')":1055.8499755859,
+    "('Volume', 'AXISBANK.BO')":26723
+  },
+  {
+    "('Date', '')":"2025-09-10",
+    "('Close', 'AXISBANK.BO')":1070.75,
+    "('High', 'AXISBANK.BO')":1073.9499511719,
+    "('Low', 'AXISBANK.BO')":1055.0,
+    "('Open', 'AXISBANK.BO')":1055.0,
+    "('Volume', 'AXISBANK.BO')":43973
+  },
+  {
+    "('Date', '')":"2025-09-11",
+    "('Close', 'AXISBANK.BO')":1087.4499511719,
+    "('High', 'AXISBANK.BO')":1092.9000244141,
+    "('Low', 'AXISBANK.BO')":1068.1999511719,
+    "('Open', 'AXISBANK.BO')":1068.1999511719,
+    "('Volume', 'AXISBANK.BO')":125068
+  },
+  {
+    "('Date', '')":"2025-09-12",
+    "('Close', 'AXISBANK.BO')":1105.3000488281,
+    "('High', 'AXISBANK.BO')":1108.3000488281,
+    "('Low', 'AXISBANK.BO')":1089.8499755859,
+    "('Open', 'AXISBANK.BO')":1089.8499755859,
+    "('Volume', 'AXISBANK.BO')":194633
+  },
+  {
+    "('Date', '')":"2025-09-15",
+    "('Close', 'AXISBANK.BO')":1104.3000488281,
+    "('High', 'AXISBANK.BO')":1109.8000488281,
+    "('Low', 'AXISBANK.BO')":1100.25,
+    "('Open', 'AXISBANK.BO')":1106.0,
+    "('Volume', 'AXISBANK.BO')":185510
+  },
+  {
+    "('Date', '')":"2025-09-16",
+    "('Close', 'AXISBANK.BO')":1121.1999511719,
+    "('High', 'AXISBANK.BO')":1126.8000488281,
+    "('Low', 'AXISBANK.BO')":1104.3000488281,
+    "('Open', 'AXISBANK.BO')":1107.6500244141,
+    "('Volume', 'AXISBANK.BO')":158640
+  },
+  {
+    "('Date', '')":"2025-09-17",
+    "('Close', 'AXISBANK.BO')":1126.0,
+    "('High', 'AXISBANK.BO')":1128.6999511719,
+    "('Low', 'AXISBANK.BO')":1116.0999755859,
+    "('Open', 'AXISBANK.BO')":1123.9499511719,
+    "('Volume', 'AXISBANK.BO')":121416
+  },
+  {
+    "('Date', '')":"2025-09-18",
+    "('Close', 'AXISBANK.BO')":1132.9499511719,
+    "('High', 'AXISBANK.BO')":1134.0,
+    "('Low', 'AXISBANK.BO')":1121.0,
+    "('Open', 'AXISBANK.BO')":1128.0,
+    "('Volume', 'AXISBANK.BO')":105140
+  },
+  {
+    "('Date', '')":"2025-09-19",
+    "('Close', 'AXISBANK.BO')":1135.9499511719,
+    "('High', 'AXISBANK.BO')":1143.9000244141,
+    "('Low', 'AXISBANK.BO')":1122.6999511719,
+    "('Open', 'AXISBANK.BO')":1134.25,
+    "('Volume', 'AXISBANK.BO')":76028
+  },
+  {
+    "('Date', '')":"2025-09-22",
+    "('Close', 'AXISBANK.BO')":1144.1999511719,
+    "('High', 'AXISBANK.BO')":1146.8499755859,
+    "('Low', 'AXISBANK.BO')":1130.3000488281,
+    "('Open', 'AXISBANK.BO')":1130.3000488281,
+    "('Volume', 'AXISBANK.BO')":94597
+  },
+  {
+    "('Date', '')":"2025-09-23",
+    "('Close', 'AXISBANK.BO')":1170.75,
+    "('High', 'AXISBANK.BO')":1172.1999511719,
+    "('Low', 'AXISBANK.BO')":1141.75,
+    "('Open', 'AXISBANK.BO')":1144.5500488281,
+    "('Volume', 'AXISBANK.BO')":371928
+  },
+  {
+    "('Date', '')":"2025-09-24",
+    "('Close', 'AXISBANK.BO')":1158.8000488281,
+    "('High', 'AXISBANK.BO')":1172.8499755859,
+    "('Low', 'AXISBANK.BO')":1154.3000488281,
+    "('Open', 'AXISBANK.BO')":1167.9499511719,
+    "('Volume', 'AXISBANK.BO')":201940
+  },
+  {
+    "('Date', '')":"2025-09-25",
+    "('Close', 'AXISBANK.BO')":1166.0,
+    "('High', 'AXISBANK.BO')":1171.4000244141,
+    "('Low', 'AXISBANK.BO')":1153.3000488281,
+    "('Open', 'AXISBANK.BO')":1153.3000488281,
+    "('Volume', 'AXISBANK.BO')":343863
+  },
+  {
+    "('Date', '')":"2025-09-26",
+    "('Close', 'AXISBANK.BO')":1153.75,
+    "('High', 'AXISBANK.BO')":1169.5500488281,
+    "('Low', 'AXISBANK.BO')":1148.1500244141,
+    "('Open', 'AXISBANK.BO')":1160.0500488281,
+    "('Volume', 'AXISBANK.BO')":75044
+  },
+  {
+    "('Date', '')":"2025-09-29",
+    "('Close', 'AXISBANK.BO')":1131.6999511719,
+    "('High', 'AXISBANK.BO')":1157.9499511719,
+    "('Low', 'AXISBANK.BO')":1127.0,
+    "('Open', 'AXISBANK.BO')":1154.0,
+    "('Volume', 'AXISBANK.BO')":79937
+  },
+  {
+    "('Date', '')":"2025-09-30",
+    "('Close', 'AXISBANK.BO')":1131.8499755859,
+    "('High', 'AXISBANK.BO')":1136.6999511719,
+    "('Low', 'AXISBANK.BO')":1125.5,
+    "('Open', 'AXISBANK.BO')":1128.1500244141,
+    "('Volume', 'AXISBANK.BO')":46264
+  },
+  {
+    "('Date', '')":"2025-10-01",
+    "('Close', 'AXISBANK.BO')":1159.4000244141,
+    "('High', 'AXISBANK.BO')":1164.5500488281,
+    "('Low', 'AXISBANK.BO')":1131.8499755859,
+    "('Open', 'AXISBANK.BO')":1133.0500488281,
+    "('Volume', 'AXISBANK.BO')":334762
+  },
+  {
+    "('Date', '')":"2025-10-03",
+    "('Close', 'AXISBANK.BO')":1181.6999511719,
+    "('High', 'AXISBANK.BO')":1187.6999511719,
+    "('Low', 'AXISBANK.BO')":1169.6999511719,
+    "('Open', 'AXISBANK.BO')":1170.0,
+    "('Volume', 'AXISBANK.BO')":145407
+  },
+  {
+    "('Date', '')":"2025-10-06",
+    "('Close', 'AXISBANK.BO')":1212.5,
+    "('High', 'AXISBANK.BO')":1215.0,
+    "('Low', 'AXISBANK.BO')":1175.75,
+    "('Open', 'AXISBANK.BO')":1175.75,
+    "('Volume', 'AXISBANK.BO')":465996
+  },
+  {
+    "('Date', '')":"2025-10-07",
+    "('Close', 'AXISBANK.BO')":1186.6999511719,
+    "('High', 'AXISBANK.BO')":1212.3000488281,
+    "('Low', 'AXISBANK.BO')":1184.0,
+    "('Open', 'AXISBANK.BO')":1212.3000488281,
+    "('Volume', 'AXISBANK.BO')":665223
+  },
+  {
+    "('Date', '')":"2025-10-08",
+    "('Close', 'AXISBANK.BO')":1180.4000244141,
+    "('High', 'AXISBANK.BO')":1193.9499511719,
+    "('Low', 'AXISBANK.BO')":1174.3000488281,
+    "('Open', 'AXISBANK.BO')":1184.6999511719,
+    "('Volume', 'AXISBANK.BO')":189290
+  },
+  {
+    "('Date', '')":"2025-10-09",
+    "('Close', 'AXISBANK.BO')":1167.4499511719,
+    "('High', 'AXISBANK.BO')":1187.0,
+    "('Low', 'AXISBANK.BO')":1162.9000244141,
+    "('Open', 'AXISBANK.BO')":1180.4000244141,
+    "('Volume', 'AXISBANK.BO')":295737
+  },
+  {
+    "('Date', '')":"2025-10-10",
+    "('Close', 'AXISBANK.BO')":1180.0999755859,
+    "('High', 'AXISBANK.BO')":1191.75,
+    "('Low', 'AXISBANK.BO')":1165.0500488281,
+    "('Open', 'AXISBANK.BO')":1167.4499511719,
+    "('Volume', 'AXISBANK.BO')":115474
+  },
+  {
+    "('Date', '')":"2025-10-13",
+    "('Close', 'AXISBANK.BO')":1189.4499511719,
+    "('High', 'AXISBANK.BO')":1193.5,
+    "('Low', 'AXISBANK.BO')":1167.5,
+    "('Open', 'AXISBANK.BO')":1173.9499511719,
+    "('Volume', 'AXISBANK.BO')":66490
+  },
+  {
+    "('Date', '')":"2025-10-14",
+    "('Close', 'AXISBANK.BO')":1176.5999755859,
+    "('High', 'AXISBANK.BO')":1193.9499511719,
+    "('Low', 'AXISBANK.BO')":1166.6999511719,
+    "('Open', 'AXISBANK.BO')":1193.9499511719,
+    "('Volume', 'AXISBANK.BO')":60390
+  },
+  {
+    "('Date', '')":"2025-10-15",
+    "('Close', 'AXISBANK.BO')":1169.0,
+    "('High', 'AXISBANK.BO')":1183.6500244141,
+    "('Low', 'AXISBANK.BO')":1164.0500488281,
+    "('Open', 'AXISBANK.BO')":1183.6500244141,
+    "('Volume', 'AXISBANK.BO')":204583
+  },
+  {
+    "('Date', '')":"2025-10-16",
+    "('Close', 'AXISBANK.BO')":1196.25,
+    "('High', 'AXISBANK.BO')":1217.6500244141,
+    "('Low', 'AXISBANK.BO')":1185.5,
+    "('Open', 'AXISBANK.BO')":1211.0,
+    "('Volume', 'AXISBANK.BO')":899073
+  },
+  {
+    "('Date', '')":"2025-10-17",
+    "('Close', 'AXISBANK.BO')":1200.1500244141,
+    "('High', 'AXISBANK.BO')":1212.9000244141,
+    "('Low', 'AXISBANK.BO')":1191.4499511719,
+    "('Open', 'AXISBANK.BO')":1199.8000488281,
+    "('Volume', 'AXISBANK.BO')":162763
+  },
+  {
+    "('Date', '')":"2025-10-20",
+    "('Close', 'AXISBANK.BO')":1226.1500244141,
+    "('High', 'AXISBANK.BO')":1231.5500488281,
+    "('Low', 'AXISBANK.BO')":1205.1500244141,
+    "('Open', 'AXISBANK.BO')":1205.1500244141,
+    "('Volume', 'AXISBANK.BO')":103910
+  },
+  {
+    "('Date', '')":"2025-10-21",
+    "('Close', 'AXISBANK.BO')":1235.9000244141,
+    "('High', 'AXISBANK.BO')":1238.4000244141,
+    "('Low', 'AXISBANK.BO')":1223.0,
+    "('Open', 'AXISBANK.BO')":1223.1999511719,
+    "('Volume', 'AXISBANK.BO')":125360
+  },
+  {
+    "('Date', '')":"2025-10-23",
+    "('Close', 'AXISBANK.BO')":1259.4000244141,
+    "('High', 'AXISBANK.BO')":1275.6999511719,
+    "('Low', 'AXISBANK.BO')":1242.0500488281,
+    "('Open', 'AXISBANK.BO')":1245.4000244141,
+    "('Volume', 'AXISBANK.BO')":498981
+  },
+  {
+    "('Date', '')":"2025-10-24",
+    "('Close', 'AXISBANK.BO')":1242.0500488281,
+    "('High', 'AXISBANK.BO')":1255.8499755859,
+    "('Low', 'AXISBANK.BO')":1240.0,
+    "('Open', 'AXISBANK.BO')":1255.0,
+    "('Volume', 'AXISBANK.BO')":83638
+  },
+  {
+    "('Date', '')":"2025-10-27",
+    "('Close', 'AXISBANK.BO')":1254.1500244141,
+    "('High', 'AXISBANK.BO')":1258.0,
+    "('Low', 'AXISBANK.BO')":1242.5,
+    "('Open', 'AXISBANK.BO')":1242.5,
+    "('Volume', 'AXISBANK.BO')":108532
+  },
+  {
+    "('Date', '')":"2025-10-28",
+    "('Close', 'AXISBANK.BO')":1245.6999511719,
+    "('High', 'AXISBANK.BO')":1258.6999511719,
+    "('Low', 'AXISBANK.BO')":1236.6999511719,
+    "('Open', 'AXISBANK.BO')":1249.0,
+    "('Volume', 'AXISBANK.BO')":91852
+  },
+  {
+    "('Date', '')":"2025-10-29",
+    "('Close', 'AXISBANK.BO')":1248.1500244141,
+    "('High', 'AXISBANK.BO')":1250.5,
+    "('Low', 'AXISBANK.BO')":1239.3000488281,
+    "('Open', 'AXISBANK.BO')":1246.0,
+    "('Volume', 'AXISBANK.BO')":1525945
+  },
+  {
+    "('Date', '')":"2025-10-30",
+    "('Close', 'AXISBANK.BO')":1238.5999755859,
+    "('High', 'AXISBANK.BO')":1247.9000244141,
+    "('Low', 'AXISBANK.BO')":1234.6500244141,
+    "('Open', 'AXISBANK.BO')":1242.0999755859,
+    "('Volume', 'AXISBANK.BO')":183254
+  },
+  {
+    "('Date', '')":"2025-10-31",
+    "('Close', 'AXISBANK.BO')":1233.0,
+    "('High', 'AXISBANK.BO')":1245.4499511719,
+    "('Low', 'AXISBANK.BO')":1231.0,
+    "('Open', 'AXISBANK.BO')":1235.6500244141,
+    "('Volume', 'AXISBANK.BO')":42472
+  },
+  {
+    "('Date', '')":"2025-11-03",
+    "('Close', 'AXISBANK.BO')":1234.1999511719,
+    "('High', 'AXISBANK.BO')":1241.1999511719,
+    "('Low', 'AXISBANK.BO')":1221.25,
+    "('Open', 'AXISBANK.BO')":1221.25,
+    "('Volume', 'AXISBANK.BO')":115978
+  },
+  {
+    "('Date', '')":"2025-11-04",
+    "('Close', 'AXISBANK.BO')":1226.9000244141,
+    "('High', 'AXISBANK.BO')":1235.4000244141,
+    "('Low', 'AXISBANK.BO')":1223.0500488281,
+    "('Open', 'AXISBANK.BO')":1232.75,
+    "('Volume', 'AXISBANK.BO')":59615
+  },
+  {
+    "('Date', '')":"2025-11-06",
+    "('Close', 'AXISBANK.BO')":1228.5500488281,
+    "('High', 'AXISBANK.BO')":1239.3000488281,
+    "('Low', 'AXISBANK.BO')":1222.1999511719,
+    "('Open', 'AXISBANK.BO')":1222.1999511719,
+    "('Volume', 'AXISBANK.BO')":501683
+  },
+  {
+    "('Date', '')":"2025-11-07",
+    "('Close', 'AXISBANK.BO')":1223.25,
+    "('High', 'AXISBANK.BO')":1228.5999755859,
+    "('Low', 'AXISBANK.BO')":1217.0,
+    "('Open', 'AXISBANK.BO')":1228.3000488281,
+    "('Volume', 'AXISBANK.BO')":1414293
+  },
+  {
+    "('Date', '')":"2025-11-10",
+    "('Close', 'AXISBANK.BO')":1217.0500488281,
+    "('High', 'AXISBANK.BO')":1232.1999511719,
+    "('Low', 'AXISBANK.BO')":1215.4000244141,
+    "('Open', 'AXISBANK.BO')":1218.5,
+    "('Volume', 'AXISBANK.BO')":205658
+  },
+  {
+    "('Date', '')":"2025-11-11",
+    "('Close', 'AXISBANK.BO')":1222.0999755859,
+    "('High', 'AXISBANK.BO')":1225.0,
+    "('Low', 'AXISBANK.BO')":1209.5,
+    "('Open', 'AXISBANK.BO')":1221.8499755859,
+    "('Volume', 'AXISBANK.BO')":987664
+  },
+  {
+    "('Date', '')":"2025-11-12",
+    "('Close', 'AXISBANK.BO')":1223.75,
+    "('High', 'AXISBANK.BO')":1232.9000244141,
+    "('Low', 'AXISBANK.BO')":1217.0500488281,
+    "('Open', 'AXISBANK.BO')":1225.1500244141,
+    "('Volume', 'AXISBANK.BO')":101162
+  },
+  {
+    "('Date', '')":"2025-11-13",
+    "('Close', 'AXISBANK.BO')":1224.9000244141,
+    "('High', 'AXISBANK.BO')":1234.8000488281,
+    "('Low', 'AXISBANK.BO')":1212.8000488281,
+    "('Open', 'AXISBANK.BO')":1221.3499755859,
+    "('Volume', 'AXISBANK.BO')":464815
+  }
+]

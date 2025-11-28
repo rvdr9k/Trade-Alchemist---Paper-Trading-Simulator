@@ -1,0 +1,23 @@
+{
+  
+      "ABBV": {
+        "ticker": "ABBV",
+        "companyName": "AbbVie",
+        "exchange": "NYQ",
+        "sector": "Healthcare",
+        "industry": "Drug Manufacturers - General",
+        "currency": "USD",
+        "startDate": "2024-11-13",
+        "endDate": "2025-11-13",
+        "numRows": 251,
+        "lastClose": 237.97,
+        "avgVolatility": 1.1773,
+        "minClose": 159.4159,
+        "maxClose": 242.6309,
+        "medianClose": 188.2381,
+        "stdDevClose": 19.7159,
+        "avgVolume": 6394360,
+        "fiftyTwoWeekHigh": 242.6309,
+        "fiftyTwoWeekLow": 159.4159
+      }
+ }

@@ -2,6 +2,7 @@
 import { HoldingsTable } from '@/components/dashboard/holdings-table';
 import { PortfolioSummary } from '@/components/dashboard/portfolio-summary';
 import { RecentTransactions } from '@/components/dashboard/recent-transactions';
+import { Watchlist } from '@/components/dashboard/watchlist';
 
 export default function DashboardPage() {
   return (
@@ -18,6 +19,7 @@ export default function DashboardPage() {
         </div>
 
         <div className="grid auto-rows-max items-start gap-4 lg:col-span-1">
+          <Watchlist />
           <RecentTransactions />
         </div>
       </div>

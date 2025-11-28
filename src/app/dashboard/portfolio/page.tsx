@@ -1,6 +1,6 @@
 import { PortfolioSummary } from "@/components/dashboard/portfolio-summary";
 import { HoldingsTable } from "@/components/dashboard/holdings-table";
-import { Watchlist } from "@/components/dashboard/watchlist";
+import { AssetAllocationChart } from "@/components/dashboard/asset-allocation-chart";
 
 export default function PortfolioPage() {
     return (
@@ -14,7 +14,7 @@ export default function PortfolioPage() {
                     <HoldingsTable />
                 </div>
                 <div>
-                    <Watchlist />
+                    <AssetAllocationChart />
                 </div>
             </div>
         </div>

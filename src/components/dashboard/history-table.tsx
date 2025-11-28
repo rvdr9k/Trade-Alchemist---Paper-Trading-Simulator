@@ -1,4 +1,3 @@
-
 'use client';
 import {
   Table,
@@ -21,11 +20,23 @@ import { useCollection, useFirestore, useUser } from '@/firebase';
 import { useMemoFirebase } from '@/firebase/provider';
 import { collection, query } from 'firebase/firestore';
 import type { Portfolio, Trade, StockData } from '@/lib/types';
-import { useMemo } from 'react';
+import { useMemo, useState, useEffect } from 'react';
+import { getAllStocks } from '@/lib/stock-data';
 
 export function HistoryTable() {
   const { user } = useUser();
   const firestore = useFirestore();
+  const [allStockData, setAllStockData] = useState<StockData[]>([]);
+  const [isLoadingStocks, setIsLoadingStocks] = useState(true);
+
+  useEffect(() => {
+    async function fetchStocks() {
+      const stocks = await getAllStocks();
+      setAllStockData(stocks);
+      setIsLoadingStocks(false);
+    }
+    fetchStocks();
+  }, []);
 
   const portfolioQuery = useMemoFirebase(
     () =>
@@ -51,14 +62,7 @@ export function HistoryTable() {
   );
   const { data: trades, isLoading: isLoadingTrades } =
     useCollection<Trade>(tradesQuery);
-
-  const stockDataQuery = useMemoFirebase(
-    () => (firestore ? collection(firestore, 'stock_data') : null),
-    [firestore]
-  );
-  const { data: stockData, isLoading: isLoadingStockData } =
-    useCollection<StockData>(stockDataQuery);
-
+    
   const formatCurrency = (value: number | undefined) =>
     value
       ? new Intl.NumberFormat('en-US', {
@@ -67,7 +71,7 @@ export function HistoryTable() {
         }).format(value)
       : '-';
 
-  if (isLoadingTrades || isLoadingStockData) {
+  if (isLoadingTrades || isLoadingStocks) {
     return (
       <Card>
         <CardHeader>
@@ -128,11 +132,10 @@ export function HistoryTable() {
           <TableBody>
             {trades && trades.length > 0 ? (
               trades.map((trade) => {
-                const stock = stockData?.find(
+                const stock = allStockData?.find(
                   (s) => s.ticker === trade.tickerSymbol
                 );
-                if (!stock) return null;
-
+                
                 return (
                   <TableRow key={trade.id}>
                     <TableCell>
@@ -144,7 +147,7 @@ export function HistoryTable() {
                     <TableCell className="font-medium">
                       {trade.tickerSymbol}
                     </TableCell>
-                    <TableCell>{stock.companyName}</TableCell>
+                    <TableCell>{stock?.companyName ?? 'N/A'}</TableCell>
                     <TableCell>
                       <Badge
                         variant={

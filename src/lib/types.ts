@@ -1,4 +1,5 @@
 
+
 export type UserProfile = {
   id: string;
   username: string;
@@ -21,6 +22,7 @@ export type Holding = {
   id: string;
   portfolioId: string;
   tickerSymbol: string;
+  exchange: string;
   shares: number;
   costBasis: number;
 };
@@ -71,3 +73,4 @@ export type HistoricalDataPoint = {
   open: number;
   volume: number;
 };
+

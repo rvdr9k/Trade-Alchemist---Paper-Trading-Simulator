@@ -1,3 +1,4 @@
+
 'use client';
 import {
   Table,
@@ -14,20 +15,21 @@ import {
   CardHeader,
   CardTitle,
 } from '@/components/ui/card';
-import { Badge } from '@/components/ui/badge';
 import Link from 'next/link';
-import { Button } from '../ui/button';
 import { useCollection, useUser } from '@/firebase';
 import { useMemoFirebase } from '@/firebase/provider';
 import { collection, query } from 'firebase/firestore';
 import { useFirestore } from '@/firebase';
 import type { Holding, Portfolio, StockData } from '@/lib/types';
-import { useMemo } from 'react';
-import { MoreHorizontal } from 'lucide-react';
+import { useMemo, useState, useEffect } from 'react';
+import { getStockPrices, getStockByTicker } from '@/lib/stock-data';
+import { TradeDialog } from './trade-dialog';
+import { Button } from '../ui/button';
 
 export function HoldingsTable() {
   const { user } = useUser();
   const firestore = useFirestore();
+  const [stockDetails, setStockDetails] = useState<Record<string, StockData>>({});
 
   const portfolioQuery = useMemoFirebase(
     () =>
@@ -51,28 +53,43 @@ export function HoldingsTable() {
         : null,
     [firestore, user, portfolio]
   );
-  const { data: holdings, isLoading: isLoadingHoldings } =
-    useCollection<Holding>(holdingsQuery);
-
-  const stockDataQuery = useMemoFirebase(
-    () => (firestore ? collection(firestore, 'stock_data') : null),
-    [firestore]
-  );
-  const { data: stockData, isLoading: isLoadingStockData } =
-    useCollection<StockData>(stockDataQuery);
-
+  const { data: holdings, isLoading: isLoadingHoldings } = useCollection<Holding>(holdingsQuery);
+    
+  useEffect(() => {
+    async function fetchDetails() {
+      if (holdings && holdings.length > 0) {
+        const details: Record<string, StockData> = {};
+        for(const holding of holdings) {
+            // Check if we already have the details
+            if (!stockDetails[holding.tickerSymbol]) {
+                const stockData = await getStockByTicker(holding.tickerSymbol, holding.exchange || 'NSE');
+                if(stockData) {
+                    details[holding.tickerSymbol] = stockData;
+                }
+            }
+        }
+        // Merge new details with existing ones
+        setStockDetails(prevDetails => ({...prevDetails, ...details}));
+      }
+    }
+    fetchDetails();
+  }, [holdings, stockDetails]);
+    
   const formatCurrency = (value: number) =>
     new Intl.NumberFormat('en-US', {
       style: 'currency',
       currency: 'USD',
     }).format(value);
 
-  const isLoading = isLoadingHoldings || isLoadingStockData;
+  const isLoading = isLoadingHoldings;
 
   return (
     <Card>
       <CardHeader className="px-4 pt-4 pb-2">
-        <CardTitle>Stock</CardTitle>
+        <CardTitle>Your Holdings</CardTitle>
+        <CardDescription>
+          An overview of the stocks you currently own.
+        </CardDescription>
       </CardHeader>
       <CardContent className="p-0">
         <Table>
@@ -80,9 +97,9 @@ export function HoldingsTable() {
             <TableRow>
               <TableHead className="w-[120px]">Stock</TableHead>
               <TableHead className="text-right">Market Value</TableHead>
-              <TableHead className="text-right">Day's Gain</TableHead>
-              <TableHead className="text-right">Total Gain</TableHead>
-              <TableHead className="w-[20px]"></TableHead>
+              <TableHead className="hidden text-right md:table-cell">Day's Gain</TableHead>
+              <TableHead className="hidden text-right md:table-cell">Total Gain</TableHead>
+              <TableHead className="w-[160px]"></TableHead>
             </TableRow>
           </TableHeader>
           <TableBody>
@@ -94,10 +111,16 @@ export function HoldingsTable() {
               </TableRow>
             ) : holdings && holdings.length > 0 ? (
               holdings.map((holding) => {
-                const stock = stockData?.find(
-                  (s) => s.ticker === holding.tickerSymbol
+                const stock = stockDetails[holding.tickerSymbol];
+                if (!stock) return (
+                    <TableRow key={holding.id}>
+                        <TableCell>
+                            <div className="font-medium">{holding.tickerSymbol}</div>
+                            <div className="text-xs text-muted-foreground">{holding.shares} shares</div>
+                        </TableCell>
+                        <TableCell colSpan={4} className="text-center">Loading price data...</TableCell>
+                    </TableRow>
                 );
-                if (!stock) return null;
 
                 const marketValue = holding.shares * stock.marketPrice;
                 const totalCost = holding.shares * holding.costBasis;
@@ -108,7 +131,7 @@ export function HoldingsTable() {
                   <TableRow key={holding.id}>
                     <TableCell>
                       <Link
-                        href={`/dashboard/stock/${holding.tickerSymbol}`}
+                        href={`/dashboard/stock/${holding.tickerSymbol}?exchange=${holding.exchange || 'NSE'}`}
                         className="font-medium hover:underline"
                       >
                         {holding.tickerSymbol}
@@ -122,21 +145,38 @@ export function HoldingsTable() {
                       {formatCurrency(marketValue)}
                     </TableCell>
                     <TableCell
-                      className={`text-right ${
+                      className={`hidden text-right md:table-cell ${
                         dailyPL >= 0 ? 'text-green-600' : 'text-destructive'
                       }`}
                     >
                       {formatCurrency(dailyPL)}
                     </TableCell>
                     <TableCell
-                      className={`text-right ${
+                      className={`hidden text-right md:table-cell ${
                         totalPL >= 0 ? 'text-green-600' : 'text-destructive'
                       }`}
                     >
                       {formatCurrency(totalPL)}
                     </TableCell>
-                    <TableCell>
-                      <MoreHorizontal className="h-4 w-4 text-muted-foreground" />
+                    <TableCell className="text-right">
+                       <div className="flex justify-end gap-2">
+                         <TradeDialog
+                          stock={stock}
+                          tradeType="buy"
+                          holding={holding}
+                          triggerButton={
+                            <Button size="sm" className="h-7 rounded-full text-white" style={{ backgroundColor: 'hsl(var(--primary))', color: 'hsl(var(--primary-foreground))' }}>Buy</Button>
+                          }
+                        />
+                         <TradeDialog
+                          stock={stock}
+                          tradeType="sell"
+                          holding={holding}
+                           triggerButton={
+                            <Button size="sm" variant="destructive" className="h-7 rounded-full">Sell</Button>
+                          }
+                        />
+                       </div>
                     </TableCell>
                   </TableRow>
                 );

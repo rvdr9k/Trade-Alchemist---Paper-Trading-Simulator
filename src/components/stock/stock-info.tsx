@@ -1,3 +1,4 @@
+
 'use client';
 
 import type { StockData, Watchlist } from '@/lib/types';
@@ -10,6 +11,7 @@ import { useCollection, useFirestore, useUser } from '@/firebase';
 import { useMemoFirebase } from '@/firebase/provider';
 import { collection, doc, updateDoc, arrayUnion } from 'firebase/firestore';
 import { useToast } from '@/hooks/use-toast';
+import Link from 'next/link';
 
 export function StockInfo({ stock }: { stock: StockData }) {
   const { user } = useUser();
@@ -62,9 +64,7 @@ export function StockInfo({ stock }: { stock: StockData }) {
       <CardContent className="p-4">
         <div className="flex items-start gap-4">
           <Image
-            src={`https://logo.clearbit.com/${new URL(
-              `http://${stock.exchange}`
-            ).hostname.toLowerCase()}`}
+            src={`https://logo.clearbit.com/${stock.companyName.replace(/ /g, '').toLowerCase()}.com`}
             alt={`${stock.companyName} logo`}
             width={48}
             height={48}
@@ -72,7 +72,9 @@ export function StockInfo({ stock }: { stock: StockData }) {
             data-ai-hint="company logo"
           />
           <div className='flex-1'>
-            <h2 className="text-xl font-bold">{stock.ticker}</h2>
+            <Link href={`/dashboard/stock/${stock.ticker}?exchange=${stock.exchange}`} className="hover:underline">
+              <h2 className="text-xl font-bold">{stock.ticker}</h2>
+            </Link>
             <p className="text-sm text-muted-foreground">
               {stock.companyName}
             </p>

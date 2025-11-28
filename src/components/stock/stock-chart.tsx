@@ -41,6 +41,8 @@ export function StockChart({
     return value.toString();
   }
 
+  const chartData = historicalData.map(d => ({...d, date: new Date(d.date).getTime()}))
+
   return (
     <Card>
       <CardHeader>
@@ -50,11 +52,13 @@ export function StockChart({
         </CardDescription>
       </CardHeader>
       <CardContent>
-        <ChartContainer config={chartConfig} className="h-[400px] w-full">
-          <ComposedChart data={historicalData}>
+        <ChartContainer config={chartConfig} className="h-[250px] w-full">
+          <ComposedChart data={chartData}>
             <CartesianGrid vertical={false} />
             <XAxis
               dataKey="date"
+              type="number"
+              domain={['dataMin', 'dataMax']}
               tickLine={false}
               axisLine={false}
               tickMargin={8}
@@ -87,7 +91,7 @@ export function StockChart({
               content={
                 <ChartTooltipContent
                   indicator="dot"
-                  labelFormatter={(label) => new Date(label).toLocaleDateString()}
+                  labelFormatter={(label) => new Date(parseInt(label, 10)).toLocaleDateString()}
                   formatter={(value, name) => (name === "price" ? formatCurrency(value as number) : formatVolume(value as number))}
                 />
               }
@@ -130,3 +134,4 @@ export function StockChart({
     </Card>
   );
 }
+

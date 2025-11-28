@@ -1,0 +1,22 @@
+{
+  "0001.HK": {
+    "ticker": "0001.HK",
+    "companyName": "CK Hutchison",
+    "exchange": "HKG",
+    "sector": "Industrials",
+    "industry": "Conglomerates",
+    "currency": "HKD",
+    "startDate": "2024-11-14",
+    "endDate": "2025-11-14",
+    "numRows": 247,
+    "lastClose": 54.55,
+    "avgVolatility": 1.11,
+    "minClose": 36.7,
+    "maxClose": 55.25,
+    "medianClose": 44.09,
+    "stdDevClose": 5.49,
+    "avgVolume": 9352067,
+    "fiftyTwoWeekHigh": 55.25,
+    "fiftyTwoWeekLow": 36.7
+  }
+}

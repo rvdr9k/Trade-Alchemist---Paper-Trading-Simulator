@@ -1,0 +1,22 @@
+{
+  "7203.T": {
+    "ticker": "7203.T",
+    "companyName": "Toyota Motor",
+    "exchange": "JPX",
+    "sector": "Consumer Cyclical",
+    "industry": "Auto Manufacturers",
+    "currency": "JPY",
+    "startDate": "2024-11-18",
+    "endDate": "2025-11-17",
+    "numRows": 244,
+    "lastClose": 3119.0,
+    "avgVolatility": 1.54,
+    "minClose": 2232.15,
+    "maxClose": 3218.0,
+    "medianClose": 2708.33,
+    "stdDevClose": 199.36,
+    "avgVolume": 27844725,
+    "fiftyTwoWeekHigh": 3218.0,
+    "fiftyTwoWeekLow": 2232.15
+    }
+}

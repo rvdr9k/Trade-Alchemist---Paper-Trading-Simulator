@@ -1,0 +1,42 @@
+{
+  "ASIANPAINT.BO": {
+    "ticker": "ASIANPAINT.BO",
+    "companyName": "Asian Paints",
+    "exchange": "BSE",
+    "sector": "Basic Materials",
+    "industry": "Specialty Chemicals",
+    "currency": "INR",
+    "startDate": "2024-11-13",
+    "endDate": "2025-11-13",
+    "numRows": 248,
+    "lastClose": 2879.10009765625,
+    "avgVolatility": 0.9406765890220393,
+    "minClose": 2112.85986328125,
+    "maxClose": 2879.10009765625,
+    "medianClose": 2347.699951171875,
+    "stdDevClose": 120.55361902372607,
+    "avgVolume": 69044,
+    "fiftyTwoWeekHigh": 2879.10009765625,
+    "fiftyTwoWeekLow": 2112.85986328125
+  },
+  "AXISBANK.BO": {
+    "ticker": "AXISBANK.BO",
+    "companyName": "Axis Bank",
+    "exchange": "BSE",
+    "sector": "Financial Services",
+    "industry": "Banks - Regional",
+    "currency": "INR",
+    "startDate": "2024-11-13",
+    "endDate": "2025-11-13",
+    "numRows": 248,
+    "lastClose": 1224.9000244140625,
+    "avgVolatility": 0.9401346496196148,
+    "minClose": 947.0900268554688,
+    "maxClose": 1259.4000244140625,
+    "medianClose": 1131.6160888671875,
+    "stdDevClose": 77.2912735631932,
+    "avgVolume": 281155,
+    "fiftyTwoWeekHigh": 1259.4000244140625,
+    "fiftyTwoWeekLow": 947.0900268554688
+  }
+}

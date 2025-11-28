@@ -1,0 +1,22 @@
+{
+  "600000.SS": {
+    "ticker": "600000.SS",
+    "companyName": "Shanghai Pudong Development Bank",
+    "exchange": "SSE",
+    "sector": "Financial Services",
+    "industry": "Banks - Regional",
+    "currency": "CNY",
+    "startDate": "2024-11-14",
+    "endDate": "2025-11-14",
+    "numRows": 244,
+    "lastClose": 11.62,
+    "avgVolatility": 1.16,
+    "minClose": 9.04,
+    "maxClose": 14.17,
+    "medianClose": 11.64,
+    "stdDevClose": 1.62,
+    "avgVolume": 71757268,
+    "fiftyTwoWeekHigh": 14.17,
+    "fiftyTwoWeekLow": 9.04
+  }  
+}

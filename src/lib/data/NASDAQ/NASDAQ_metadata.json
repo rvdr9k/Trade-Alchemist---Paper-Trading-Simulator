@@ -1,0 +1,22 @@
+{
+  "AAPL": {
+    "ticker": "AAPL",
+    "companyName": "Apple Inc.",
+    "exchange": "NMS",
+    "sector": "Technology",
+    "industry": "Consumer Electronics",
+    "currency": "USD",
+    "startDate": "2024-11-13",
+    "endDate": "2025-11-12",
+    "numRows": 250,
+    "lastClose": 273.47,
+    "avgVolatility": 1.31,
+    "minClose": 171.83,
+    "maxClose": 275.25,
+    "medianClose": 227.75,
+    "stdDevClose": 21.56,
+    "avgVolume": 54536169,
+    "fiftyTwoWeekHigh": 275.25,
+    "fiftyTwoWeekLow": 171.83
+  }
+}

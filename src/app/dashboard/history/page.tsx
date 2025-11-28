@@ -1,3 +1,4 @@
+'use client';
 import { HistoryTable } from "@/components/dashboard/history-table";
 
 export default function TradeHistoryPage() {
