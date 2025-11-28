@@ -1,0 +1,252 @@
+{
+  "entities": {
+    "UserProfile": {
+      "$schema": "http://json-schema.org/draft-07/schema#",
+      "title": "UserProfile",
+      "type": "object",
+      "description": "Represents a user profile in the StockSim application.",
+      "properties": {
+        "id": {
+          "type": "string",
+          "description": "Unique identifier for the user profile."
+        },
+        "email": {
+          "type": "string",
+          "description": "User's email address.",
+          "format": "email"
+        },
+        "username": {
+          "type": "string",
+          "description": "User's chosen username."
+        },
+        "createdAt": {
+          "type": "string",
+          "description": "Timestamp indicating when the user profile was created.",
+          "format": "date-time"
+        },
+        "updatedAt": {
+          "type": "string",
+          "description": "Timestamp indicating when the user profile was last updated.",
+          "format": "date-time"
+        }
+      },
+      "required": [
+        "id",
+        "email",
+        "username",
+        "createdAt"
+      ]
+    },
+    "Portfolio": {
+      "$schema": "http://json-schema.org/draft-07/schema#",
+      "title": "Portfolio",
+      "type": "object",
+      "description": "Represents a user's stock portfolio.",
+      "properties": {
+        "id": {
+          "type": "string",
+          "description": "Unique identifier for the portfolio."
+        },
+        "userProfileId": {
+          "type": "string",
+          "description": "Reference to UserProfile. (Relationship: UserProfile 1:N Portfolio)"
+        },
+        "totalValue": {
+          "type": "number",
+          "description": "Total value of the portfolio."
+        },
+        "availableBuyingPower": {
+          "type": "number",
+          "description": "Amount of money available for buying stocks."
+        },
+        "dailyGainLoss": {
+          "type": "number",
+          "description": "Daily gain or loss of the portfolio."
+        },
+        "createdAt": {
+          "type": "string",
+          "description": "Timestamp indicating when the portfolio was created.",
+          "format": "date-time"
+        },
+        "updatedAt": {
+          "type": "string",
+          "description": "Timestamp indicating when the portfolio was last updated.",
+          "format": "date-time"
+        }
+      },
+      "required": [
+        "id",
+        "userProfileId",
+        "totalValue",
+        "availableBuyingPower"
+      ]
+    },
+    "Holding": {
+      "$schema": "http://json-schema.org/draft-07/schema#",
+      "title": "Holding",
+      "type": "object",
+      "description": "Represents a specific stock holding within a portfolio.",
+      "properties": {
+        "id": {
+          "type": "string",
+          "description": "Unique identifier for the holding."
+        },
+        "portfolioId": {
+          "type": "string",
+          "description": "Reference to Portfolio. (Relationship: Portfolio 1:N Holding)"
+        },
+        "tickerSymbol": {
+          "type": "string",
+          "description": "Ticker symbol of the stock (e.g., AAPL)."
+        },
+        "shares": {
+          "type": "number",
+          "description": "Number of shares owned."
+        },
+        "costBasis": {
+          "type": "number",
+          "description": "Average cost per share."
+        },
+        "marketValue": {
+          "type": "number",
+          "description": "Current market value of the holding."
+        },
+        "profitLoss": {
+          "type": "number",
+          "description": "Profit or loss on the holding."
+        },
+        "createdAt": {
+          "type": "string",
+          "description": "Timestamp indicating when the holding was created.",
+          "format": "date-time"
+        },
+        "updatedAt": {
+          "type": "string",
+          "description": "Timestamp indicating when the holding was last updated.",
+          "format": "date-time"
+        }
+      },
+      "required": [
+        "id",
+        "portfolioId",
+        "tickerSymbol",
+        "shares",
+        "costBasis"
+      ]
+    },
+    "Watchlist": {
+      "$schema": "http://json-schema.org/draft-07/schema#",
+      "title": "Watchlist",
+      "type": "object",
+      "description": "Represents a watchlist of stocks.",
+      "properties": {
+        "id": {
+          "type": "string",
+          "description": "Unique identifier for the watchlist."
+        },
+        "userProfileId": {
+          "type": "string",
+          "description": "Reference to UserProfile. (Relationship: UserProfile 1:N Watchlist)"
+        },
+        "name": {
+          "type": "string",
+          "description": "Name of the watchlist."
+        },
+        "stockSymbols": {
+          "type": "array",
+          "description": "A list of stock ticker symbols in the watchlist.",
+          "items": {
+            "type": "string"
+          }
+        },
+        "createdAt": {
+          "type": "string",
+          "description": "Timestamp indicating when the watchlist was created.",
+          "format": "date-time"
+        },
+        "updatedAt": {
+          "type": "string",
+          "description": "Timestamp indicating when the watchlist was last updated.",
+          "format": "date-time"
+        }
+      },
+      "required": [
+        "id",
+        "userProfileId",
+        "name",
+        "stockSymbols"
+      ]
+    },
+    "Trade": {
+      "$schema": "http://json-schema.org/draft-07/schema#",
+      "title": "Trade",
+      "type": "object",
+      "description": "Represents a buy or sell order placed by a user.",
+      "properties": {
+        "id": {
+          "type": "string",
+          "description": "Unique identifier for the trade."
+        },
+        "portfolioId": {
+          "type": "string",
+          "description": "Reference to Portfolio. (Relationship: Portfolio 1:N Trade)"
+        },
+        "tickerSymbol": {
+          "type": "string",
+          "description": "Ticker symbol of the stock traded."
+        },
+        "tradeType": {
+          "type": "string",
+          "description": "Type of trade (buy or sell)."
+        },
+        "shares": {
+          "type": "number",
+          "description": "Number of shares bought or sold."
+        },
+        "price": {
+          "type": "number",
+          "description": "Price per share at which the trade was executed."
+        },
+        "timestamp": {
+          "type": "string",
+          "description": "Timestamp indicating when the trade was executed.",
+          "format": "date-time"
+        },
+        "realizedProfitLoss": {
+          "type": "number",
+          "description": "Profit or loss realized from the trade."
+        },
+        "createdAt": {
+          "type": "string",
+          "description": "Timestamp indicating when the trade was created.",
+          "format": "date-time"
+        },
+        "updatedAt": {
+          "type": "string",
+          "description": "Timestamp indicating when the trade was last updated.",
+          "format": "date-time"
+        }
+      },
+      "required": [
+        "id",
+        "portfolioId",
+        "tickerSymbol",
+        "tradeType",
+        "shares",
+        "price",
+        "timestamp"
+      ]
+    },
+    "StockData": {
+      "$schema": "http://json-schema.org/draft-07/schema#",
+      "title": "StockData",
+      "type": "object",
+      "description": "Represents daily stock market data for a given ticker symbol.",
+      "properties": {
+        "id": {
+          "type": "string",
+          "description": "Unique identifier for the stock data entry."
+        },
+        "ticker": {
+          "type": "string",
+          "description": "Ticker symbol of the stock (e.g.

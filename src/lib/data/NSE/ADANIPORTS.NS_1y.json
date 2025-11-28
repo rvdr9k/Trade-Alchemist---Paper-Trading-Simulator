@@ -1,0 +1,1986 @@
+[
+  {
+    "('Date', '')":"2024-11-11",
+    "('Close', 'ADANIPORTS.NS')":1341.3740234375,
+    "('High', 'ADANIPORTS.NS')":1351.3752924086,
+    "('Low', 'ADANIPORTS.NS')":1332.5668959473,
+    "('Open', 'ADANIPORTS.NS')":1348.5391152819,
+    "('Volume', 'ADANIPORTS.NS')":1269498
+  },
+  {
+    "('Date', '')":"2024-11-12",
+    "('Close', 'ADANIPORTS.NS')":1319.5799560547,
+    "('High', 'ADANIPORTS.NS')":1348.2405647779,
+    "('Low', 'ADANIPORTS.NS')":1313.6090060273,
+    "('Open', 'ADANIPORTS.NS')":1341.5232459971,
+    "('Volume', 'ADANIPORTS.NS')":1038042
+  },
+  {
+    "('Date', '')":"2024-11-13",
+    "('Close', 'ADANIPORTS.NS')":1281.6645507812,
+    "('High', 'ADANIPORTS.NS')":1322.8143270679,
+    "('Low', 'ADANIPORTS.NS')":1278.6292690148,
+    "('Open', 'ADANIPORTS.NS')":1315.5994285377,
+    "('Volume', 'ADANIPORTS.NS')":1437072
+  },
+  {
+    "('Date', '')":"2024-11-14",
+    "('Close', 'ADANIPORTS.NS')":1258.4276123047,
+    "('High', 'ADANIPORTS.NS')":1290.3721728771,
+    "('Low', 'ADANIPORTS.NS')":1254.5464702211,
+    "('Open', 'ADANIPORTS.NS')":1283.7045386619,
+    "('Volume', 'ADANIPORTS.NS')":2963013
+  },
+  {
+    "('Date', '')":"2024-11-18",
+    "('Close', 'ADANIPORTS.NS')":1273.1062011719,
+    "('High', 'ADANIPORTS.NS')":1282.659697602,
+    "('Low', 'ADANIPORTS.NS')":1255.1933498106,
+    "('Open', 'ADANIPORTS.NS')":1257.8802289231,
+    "('Volume', 'ADANIPORTS.NS')":1445637
+  },
+  {
+    "('Date', '')":"2024-11-19",
+    "('Close', 'ADANIPORTS.NS')":1283.4060058594,
+    "('High', 'ADANIPORTS.NS')":1315.0519688837,
+    "('Low', 'ADANIPORTS.NS')":1275.7930200942,
+    "('Open', 'ADANIPORTS.NS')":1278.7784951802,
+    "('Volume', 'ADANIPORTS.NS')":2631778
+  },
+  {
+    "('Date', '')":"2024-11-21",
+    "('Close', 'ADANIPORTS.NS')":1109.2532958984,
+    "('High', 'ADANIPORTS.NS')":1155.0802657214,
+    "('Low', 'ADANIPORTS.NS')":990.8294504575,
+    "('Open', 'ADANIPORTS.NS')":1155.0802657214,
+    "('Volume', 'ADANIPORTS.NS')":46926687
+  },
+  {
+    "('Date', '')":"2024-11-22",
+    "('Close', 'ADANIPORTS.NS')":1131.2463378906,
+    "('High', 'ADANIPORTS.NS')":1150.3036459961,
+    "('Low', 'ADANIPORTS.NS')":1048.8969783477,
+    "('Open', 'ADANIPORTS.NS')":1067.4069007285,
+    "('Volume', 'ADANIPORTS.NS')":27086168
+  },
+  {
+    "('Date', '')":"2024-11-25",
+    "('Close', 'ADANIPORTS.NS')":1161.1508789062,
+    "('High', 'ADANIPORTS.NS')":1185.6317514442,
+    "('Low', 'ADANIPORTS.NS')":1134.1819888693,
+    "('Open', 'ADANIPORTS.NS')":1179.2627133379,
+    "('Volume', 'ADANIPORTS.NS')":10532688
+  },
+  {
+    "('Date', '')":"2024-11-26",
+    "('Close', 'ADANIPORTS.NS')":1123.3845214844,
+    "('High', 'ADANIPORTS.NS')":1168.7637196606,
+    "('Low', 'ADANIPORTS.NS')":1113.9305168027,
+    "('Open', 'ADANIPORTS.NS')":1166.3754367139,
+    "('Volume', 'ADANIPORTS.NS')":5802555
+  },
+  {
+    "('Date', '')":"2024-11-27",
+    "('Close', 'ADANIPORTS.NS')":1194.1402587891,
+    "('High', 'ADANIPORTS.NS')":1225.7365376001,
+    "('Low', 'ADANIPORTS.NS')":1096.6645433007,
+    "('Open', 'ADANIPORTS.NS')":1096.6645433007,
+    "('Volume', 'ADANIPORTS.NS')":24434211
+  },
+  {
+    "('Date', '')":"2024-11-28",
+    "('Close', 'ADANIPORTS.NS')":1161.9468994141,
+    "('High', 'ADANIPORTS.NS')":1220.9598399003,
+    "('Low', 'ADANIPORTS.NS')":1157.5184932177,
+    "('Open', 'ADANIPORTS.NS')":1190.8562989254,
+    "('Volume', 'ADANIPORTS.NS')":15602469
+  },
+  {
+    "('Date', '')":"2024-11-29",
+    "('Close', 'ADANIPORTS.NS')":1184.2883300781,
+    "('High', 'ADANIPORTS.NS')":1209.7145549024,
+    "('Low', 'ADANIPORTS.NS')":1163.2407051323,
+    "('Open', 'ADANIPORTS.NS')":1169.3111472178,
+    "('Volume', 'ADANIPORTS.NS')":9412850
+  },
+  {
+    "('Date', '')":"2024-12-02",
+    "('Close', 'ADANIPORTS.NS')":1209.9135742188,
+    "('High', 'ADANIPORTS.NS')":1214.9888575234,
+    "('Low', 'ADANIPORTS.NS')":1183.6413694026,
+    "('Open', 'ADANIPORTS.NS')":1196.0808488156,
+    "('Volume', 'ADANIPORTS.NS')":6941125
+  },
+  {
+    "('Date', '')":"2024-12-03",
+    "('Close', 'ADANIPORTS.NS')":1282.4108886719,
+    "('High', 'ADANIPORTS.NS')":1303.1599168901,
+    "('Low', 'ADANIPORTS.NS')":1214.0932406307,
+    "('Open', 'ADANIPORTS.NS')":1221.009542877,
+    "('Volume', 'ADANIPORTS.NS')":16753958
+  },
+  {
+    "('Date', '')":"2024-12-04",
+    "('Close', 'ADANIPORTS.NS')":1263.4033203125,
+    "('High', 'ADANIPORTS.NS')":1294.7010015429,
+    "('Low', 'ADANIPORTS.NS')":1255.8898262468,
+    "('Open', 'ADANIPORTS.NS')":1294.7010015429,
+    "('Volume', 'ADANIPORTS.NS')":4874025
+  },
+  {
+    "('Date', '')":"2024-12-05",
+    "('Close', 'ADANIPORTS.NS')":1270.8670654297,
+    "('High', 'ADANIPORTS.NS')":1278.5795429212,
+    "('Low', 'ADANIPORTS.NS')":1248.1275991262,
+    "('Open', 'ADANIPORTS.NS')":1267.8317837607,
+    "('Volume', 'ADANIPORTS.NS')":4369917
+  },
+  {
+    "('Date', '')":"2024-12-06",
+    "('Close', 'ADANIPORTS.NS')":1252.9542236328,
+    "('High', 'ADANIPORTS.NS')":1276.2906393632,
+    "('Low', 'ADANIPORTS.NS')":1250.0184334851,
+    "('Open', 'ADANIPORTS.NS')":1272.8075849867,
+    "('Volume', 'ADANIPORTS.NS')":2232531
+  },
+  {
+    "('Date', '')":"2024-12-09",
+    "('Close', 'ADANIPORTS.NS')":1260.7163085938,
+    "('High', 'ADANIPORTS.NS')":1271.3645756337,
+    "('Low', 'ADANIPORTS.NS')":1242.9527566635,
+    "('Open', 'ADANIPORTS.NS')":1251.7101985768,
+    "('Volume', 'ADANIPORTS.NS')":2849557
+  },
+  {
+    "('Date', '')":"2024-12-10",
+    "('Close', 'ADANIPORTS.NS')":1242.7039794922,
+    "('High', 'ADANIPORTS.NS')":1266.7370777458,
+    "('Low', 'ADANIPORTS.NS')":1238.3750650006,
+    "('Open', 'ADANIPORTS.NS')":1266.7370777458,
+    "('Volume', 'ADANIPORTS.NS')":2406907
+  },
+  {
+    "('Date', '')":"2024-12-11",
+    "('Close', 'ADANIPORTS.NS')":1227.8264160156,
+    "('High', 'ADANIPORTS.NS')":1252.2574805249,
+    "('Low', 'ADANIPORTS.NS')":1224.7911344683,
+    "('Open', 'ADANIPORTS.NS')":1248.028057554,
+    "('Volume', 'ADANIPORTS.NS')":2595435
+  },
+  {
+    "('Date', '')":"2024-12-12",
+    "('Close', 'ADANIPORTS.NS')":1237.9770507812,
+    "('High', 'ADANIPORTS.NS')":1261.860852404,
+    "('Low', 'ADANIPORTS.NS')":1217.52649705,
+    "('Open', 'ADANIPORTS.NS')":1227.8264836833,
+    "('Volume', 'ADANIPORTS.NS')":5457302
+  },
+  {
+    "('Date', '')":"2024-12-13",
+    "('Close', 'ADANIPORTS.NS')":1253.8497314453,
+    "('High', 'ADANIPORTS.NS')":1255.8898546821,
+    "('Low', 'ADANIPORTS.NS')":1224.0447870515,
+    "('Open', 'ADANIPORTS.NS')":1235.9368809031,
+    "('Volume', 'ADANIPORTS.NS')":2818291
+  },
+  {
+    "('Date', '')":"2024-12-16",
+    "('Close', 'ADANIPORTS.NS')":1237.1311035156,
+    "('High', 'ADANIPORTS.NS')":1255.7405157142,
+    "('Low', 'ADANIPORTS.NS')":1234.9416822998,
+    "('Open', 'ADANIPORTS.NS')":1251.9091804356,
+    "('Volume', 'ADANIPORTS.NS')":1337624
+  },
+  {
+    "('Date', '')":"2024-12-17",
+    "('Close', 'ADANIPORTS.NS')":1225.9356689453,
+    "('High', 'ADANIPORTS.NS')":1253.4020167513,
+    "('Low', 'ADANIPORTS.NS')":1223.0994917741,
+    "('Open', 'ADANIPORTS.NS')":1229.120127264,
+    "('Volume', 'ADANIPORTS.NS')":2684726
+  },
+  {
+    "('Date', '')":"2024-12-18",
+    "('Close', 'ADANIPORTS.NS')":1204.19140625,
+    "('High', 'ADANIPORTS.NS')":1232.901700262,
+    "('Low', 'ADANIPORTS.NS')":1201.404914287,
+    "('Open', 'ADANIPORTS.NS')":1230.0157167602,
+    "('Volume', 'ADANIPORTS.NS')":1931870
+  },
+  {
+    "('Date', '')":"2024-12-19",
+    "('Close', 'ADANIPORTS.NS')":1199.1658935547,
+    "('High', 'ADANIPORTS.NS')":1203.1465272262,
+    "('Low', 'ADANIPORTS.NS')":1179.2627251969,
+    "('Open', 'ADANIPORTS.NS')":1181.7506212417,
+    "('Volume', 'ADANIPORTS.NS')":1541271
+  },
+  {
+    "('Date', '')":"2024-12-20",
+    "('Close', 'ADANIPORTS.NS')":1176.7249755859,
+    "('High', 'ADANIPORTS.NS')":1210.0130962208,
+    "('Low', 'ADANIPORTS.NS')":1170.5052357228,
+    "('Open', 'ADANIPORTS.NS')":1199.1658456037,
+    "('Volume', 'ADANIPORTS.NS')":3045185
+  },
+  {
+    "('Date', '')":"2024-12-23",
+    "('Close', 'ADANIPORTS.NS')":1186.0297851562,
+    "('High', 'ADANIPORTS.NS')":1193.1948767754,
+    "('Low', 'ADANIPORTS.NS')":1168.5647073006,
+    "('Open', 'ADANIPORTS.NS')":1184.188645002,
+    "('Volume', 'ADANIPORTS.NS')":1540796
+  },
+  {
+    "('Date', '')":"2024-12-24",
+    "('Close', 'ADANIPORTS.NS')":1176.4761962891,
+    "('High', 'ADANIPORTS.NS')":1197.2750308691,
+    "('Low', 'ADANIPORTS.NS')":1174.2868964298,
+    "('Open', 'ADANIPORTS.NS')":1192.1997473923,
+    "('Volume', 'ADANIPORTS.NS')":1380778
+  },
+  {
+    "('Date', '')":"2024-12-26",
+    "('Close', 'ADANIPORTS.NS')":1237.9272460938,
+    "('High', 'ADANIPORTS.NS')":1242.9528446177,
+    "('Low', 'ADANIPORTS.NS')":1176.8246173688,
+    "('Open', 'ADANIPORTS.NS')":1181.2530236679,
+    "('Volume', 'ADANIPORTS.NS')":3827047
+  },
+  {
+    "('Date', '')":"2024-12-27",
+    "('Close', 'ADANIPORTS.NS')":1224.7413330078,
+    "('High', 'ADANIPORTS.NS')":1244.8932895995,
+    "('Low', 'ADANIPORTS.NS')":1219.815347766,
+    "('Open', 'ADANIPORTS.NS')":1242.405393724,
+    "('Volume', 'ADANIPORTS.NS')":2595142
+  },
+  {
+    "('Date', '')":"2024-12-30",
+    "('Close', 'ADANIPORTS.NS')":1212.6004638672,
+    "('High', 'ADANIPORTS.NS')":1252.7053944399,
+    "('Low', 'ADANIPORTS.NS')":1206.1319345154,
+    "('Open', 'ADANIPORTS.NS')":1227.7766288848,
+    "('Volume', 'ADANIPORTS.NS')":8312636
+  },
+  {
+    "('Date', '')":"2024-12-31",
+    "('Close', 'ADANIPORTS.NS')":1225.1394042969,
+    "('High', 'ADANIPORTS.NS')":1230.8118797049,
+    "('Low', 'ADANIPORTS.NS')":1202.3005690561,
+    "('Open', 'ADANIPORTS.NS')":1216.0834877267,
+    "('Volume', 'ADANIPORTS.NS')":1717204
+  },
+  {
+    "('Date', '')":"2025-01-01",
+    "('Close', 'ADANIPORTS.NS')":1212.7994384766,
+    "('High', 'ADANIPORTS.NS')":1225.8361101087,
+    "('Low', 'ADANIPORTS.NS')":1200.5092570899,
+    "('Open', 'ADANIPORTS.NS')":1217.0786679942,
+    "('Volume', 'ADANIPORTS.NS')":1937930
+  },
+  {
+    "('Date', '')":"2025-01-02",
+    "('Close', 'ADANIPORTS.NS')":1220.0642089844,
+    "('High', 'ADANIPORTS.NS')":1222.452613461,
+    "('Low', 'ADANIPORTS.NS')":1202.250849174,
+    "('Open', 'ADANIPORTS.NS')":1217.8749090771,
+    "('Volume', 'ADANIPORTS.NS')":3772207
+  },
+  {
+    "('Date', '')":"2025-01-03",
+    "('Close', 'ADANIPORTS.NS')":1193.7423095703,
+    "('High', 'ADANIPORTS.NS')":1231.6080138744,
+    "('Low', 'ADANIPORTS.NS')":1191.2046070538,
+    "('Open', 'ADANIPORTS.NS')":1228.5230471244,
+    "('Volume', 'ADANIPORTS.NS')":3040564
+  },
+  {
+    "('Date', '')":"2025-01-06",
+    "('Close', 'ADANIPORTS.NS')":1157.4189453125,
+    "('High', 'ADANIPORTS.NS')":1195.0856638402,
+    "('Low', 'ADANIPORTS.NS')":1152.4431536581,
+    "('Open', 'ADANIPORTS.NS')":1193.7422243893,
+    "('Volume', 'ADANIPORTS.NS')":2298522
+  },
+  {
+    "('Date', '')":"2025-01-07",
+    "('Close', 'ADANIPORTS.NS')":1168.3159179688,
+    "('High', 'ADANIPORTS.NS')":1176.4264829217,
+    "('Low', 'ADANIPORTS.NS')":1156.4238241246,
+    "('Open', 'ADANIPORTS.NS')":1157.4189824874,
+    "('Volume', 'ADANIPORTS.NS')":2010913
+  },
+  {
+    "('Date', '')":"2025-01-08",
+    "('Close', 'ADANIPORTS.NS')":1146.7210693359,
+    "('High', 'ADANIPORTS.NS')":1177.819769239,
+    "('Low', 'ADANIPORTS.NS')":1135.5752224031,
+    "('Open', 'ADANIPORTS.NS')":1177.819769239,
+    "('Volume', 'ADANIPORTS.NS')":2900996
+  },
+  {
+    "('Date', '')":"2025-01-09",
+    "('Close', 'ADANIPORTS.NS')":1126.8675537109,
+    "('High', 'ADANIPORTS.NS')":1151.0996356759,
+    "('Low', 'ADANIPORTS.NS')":1124.4791493319,
+    "('Open', 'ADANIPORTS.NS')":1151.0996356759,
+    "('Volume', 'ADANIPORTS.NS')":1884725
+  },
+  {
+    "('Date', '')":"2025-01-10",
+    "('Close', 'ADANIPORTS.NS')":1106.8150634766,
+    "('High', 'ADANIPORTS.NS')":1131.8931266753,
+    "('Low', 'ADANIPORTS.NS')":1100.9437264205,
+    "('Open', 'ADANIPORTS.NS')":1129.4052308111,
+    "('Volume', 'ADANIPORTS.NS')":1902237
+  },
+  {
+    "('Date', '')":"2025-01-13",
+    "('Close', 'ADANIPORTS.NS')":1061.4857177734,
+    "('High', 'ADANIPORTS.NS')":1101.0929486879,
+    "('Low', 'ADANIPORTS.NS')":1053.8229253061,
+    "('Open', 'ADANIPORTS.NS')":1095.5698925277,
+    "('Volume', 'ADANIPORTS.NS')":2273302
+  },
+  {
+    "('Date', '')":"2025-01-14",
+    "('Close', 'ADANIPORTS.NS')":1111.69140625,
+    "('High', 'ADANIPORTS.NS')":1125.9222197301,
+    "('Low', 'ADANIPORTS.NS')":1069.8450690987,
+    "('Open', 'ADANIPORTS.NS')":1073.6265980696,
+    "('Volume', 'ADANIPORTS.NS')":6277854
+  },
+  {
+    "('Date', '')":"2025-01-15",
+    "('Close', 'ADANIPORTS.NS')":1123.4343261719,
+    "('High', 'ADANIPORTS.NS')":1136.4210702207,
+    "('Low', 'ADANIPORTS.NS')":1113.0846546623,
+    "('Open', 'ADANIPORTS.NS')":1119.5531841709,
+    "('Volume', 'ADANIPORTS.NS')":3135942
+  },
+  {
+    "('Date', '')":"2025-01-16",
+    "('Close', 'ADANIPORTS.NS')":1145.1784667969,
+    "('High', 'ADANIPORTS.NS')":1184.2384318821,
+    "('Low', 'ADANIPORTS.NS')":1139.854393941,
+    "('Open', 'ADANIPORTS.NS')":1174.2370419118,
+    "('Volume', 'ADANIPORTS.NS')":3997547
+  },
+  {
+    "('Date', '')":"2025-01-17",
+    "('Close', 'ADANIPORTS.NS')":1157.8668212891,
+    "('High', 'ADANIPORTS.NS')":1167.9677035446,
+    "('Low', 'ADANIPORTS.NS')":1139.953969735,
+    "('Open', 'ADANIPORTS.NS')":1157.3692420792,
+    "('Volume', 'ADANIPORTS.NS')":2464355
+  },
+  {
+    "('Date', '')":"2025-01-20",
+    "('Close', 'ADANIPORTS.NS')":1143.1384277344,
+    "('High', 'ADANIPORTS.NS')":1166.3256674973,
+    "('Low', 'ADANIPORTS.NS')":1140.9491278035,
+    "('Open', 'ADANIPORTS.NS')":1166.3256674973,
+    "('Volume', 'ADANIPORTS.NS')":1312101
+  },
+  {
+    "('Date', '')":"2025-01-21",
+    "('Close', 'ADANIPORTS.NS')":1100.8441162109,
+    "('High', 'ADANIPORTS.NS')":1148.6615234347,
+    "('Low', 'ADANIPORTS.NS')":1098.6548164366,
+    "('Open', 'ADANIPORTS.NS')":1144.4321004548,
+    "('Volume', 'ADANIPORTS.NS')":3134022
+  },
+  {
+    "('Date', '')":"2025-01-22",
+    "('Close', 'ADANIPORTS.NS')":1096.9133300781,
+    "('High', 'ADANIPORTS.NS')":1112.6368811559,
+    "('Low', 'ADANIPORTS.NS')":1075.2188286892,
+    "('Open', 'ADANIPORTS.NS')":1110.0991786819,
+    "('Volume', 'ADANIPORTS.NS')":1906032
+  },
+  {
+    "('Date', '')":"2025-01-23",
+    "('Close', 'ADANIPORTS.NS')":1098.6547851562,
+    "('High', 'ADANIPORTS.NS')":1108.8551579351,
+    "('Low', 'ADANIPORTS.NS')":1084.3742875617,
+    "('Open', 'ADANIPORTS.NS')":1096.9132580964,
+    "('Volume', 'ADANIPORTS.NS')":1968815
+  },
+  {
+    "('Date', '')":"2025-01-24",
+    "('Close', 'ADANIPORTS.NS')":1088.8525390625,
+    "('High', 'ADANIPORTS.NS')":1109.6015664807,
+    "('Low', 'ADANIPORTS.NS')":1082.9810804687,
+    "('Open', 'ADANIPORTS.NS')":1098.8041226184,
+    "('Volume', 'ADANIPORTS.NS')":2400140
+  },
+  {
+    "('Date', '')":"2025-01-27",
+    "('Close', 'ADANIPORTS.NS')":1076.7613525391,
+    "('High', 'ADANIPORTS.NS')":1088.3051652945,
+    "('Low', 'ADANIPORTS.NS')":1062.381362735,
+    "('Open', 'ADANIPORTS.NS')":1079.8463191793,
+    "('Volume', 'ADANIPORTS.NS')":2371555
+  },
+  {
+    "('Date', '')":"2025-01-28",
+    "('Close', 'ADANIPORTS.NS')":1075.4676513672,
+    "('High', 'ADANIPORTS.NS')":1091.3405009868,
+    "('Low', 'ADANIPORTS.NS')":1056.1118687715,
+    "('Open', 'ADANIPORTS.NS')":1081.7371979785,
+    "('Volume', 'ADANIPORTS.NS')":2404643
+  },
+  {
+    "('Date', '')":"2025-01-29",
+    "('Close', 'ADANIPORTS.NS')":1091.6389160156,
+    "('High', 'ADANIPORTS.NS')":1097.5103746441,
+    "('Low', 'ADANIPORTS.NS')":1069.2976593925,
+    "('Open', 'ADANIPORTS.NS')":1079.7468221879,
+    "('Volume', 'ADANIPORTS.NS')":4603700
+  },
+  {
+    "('Date', '')":"2025-01-30",
+    "('Close', 'ADANIPORTS.NS')":1071.8353271484,
+    "('High', 'ADANIPORTS.NS')":1113.0845913056,
+    "('Low', 'ADANIPORTS.NS')":1005.8562813251,
+    "('Open', 'ADANIPORTS.NS')":1098.5553039939,
+    "('Volume', 'ADANIPORTS.NS')":14097862
+  },
+  {
+    "('Date', '')":"2025-01-31",
+    "('Close', 'ADANIPORTS.NS')":1094.02734375,
+    "('High', 'ADANIPORTS.NS')":1103.8794360348,
+    "('Low', 'ADANIPORTS.NS')":1068.8001030438,
+    "('Open', 'ADANIPORTS.NS')":1079.7468452538,
+    "('Volume', 'ADANIPORTS.NS')":4659891
+  },
+  {
+    "('Date', '')":"2025-02-01",
+    "('Close', 'ADANIPORTS.NS')":1078.8511962891,
+    "('High', 'ADANIPORTS.NS')":1112.0895111186,
+    "('Low', 'ADANIPORTS.NS')":1057.8533783616,
+    "('Open', 'ADANIPORTS.NS')":1100.5456979836,
+    "('Volume', 'ADANIPORTS.NS')":4919797
+  },
+  {
+    "('Date', '')":"2025-02-03",
+    "('Close', 'ADANIPORTS.NS')":1079.5975341797,
+    "('High', 'ADANIPORTS.NS')":1088.7032575676,
+    "('Low', 'ADANIPORTS.NS')":1049.8920811096,
+    "('Open', 'ADANIPORTS.NS')":1078.7516738604,
+    "('Volume', 'ADANIPORTS.NS')":3961203
+  },
+  {
+    "('Date', '')":"2025-02-04",
+    "('Close', 'ADANIPORTS.NS')":1119.6527099609,
+    "('High', 'ADANIPORTS.NS')":1122.4392021185,
+    "('Low', 'ADANIPORTS.NS')":1086.4642010709,
+    "('Open', 'ADANIPORTS.NS')":1094.6742580059,
+    "('Volume', 'ADANIPORTS.NS')":4071098
+  },
+  {
+    "('Date', '')":"2025-02-05",
+    "('Close', 'ADANIPORTS.NS')":1138.8094482422,
+    "('High', 'ADANIPORTS.NS')":1149.3084175621,
+    "('Low', 'ADANIPORTS.NS')":1118.1102271823,
+    "('Open', 'ADANIPORTS.NS')":1120.5483165796,
+    "('Volume', 'ADANIPORTS.NS')":2979646
+  },
+  {
+    "('Date', '')":"2025-02-06",
+    "('Close', 'ADANIPORTS.NS')":1158.4141845703,
+    "('High', 'ADANIPORTS.NS')":1163.7382577166,
+    "('Low', 'ADANIPORTS.NS')":1134.5800679933,
+    "('Open', 'ADANIPORTS.NS')":1150.0050231994,
+    "('Volume', 'ADANIPORTS.NS')":6263278
+  },
+  {
+    "('Date', '')":"2025-02-07",
+    "('Close', 'ADANIPORTS.NS')":1140.5510253906,
+    "('High', 'ADANIPORTS.NS')":1169.9580048943,
+    "('Low', 'ADANIPORTS.NS')":1127.3154914718,
+    "('Open', 'ADANIPORTS.NS')":1154.3837515368,
+    "('Volume', 'ADANIPORTS.NS')":4079540
+  },
+  {
+    "('Date', '')":"2025-02-10",
+    "('Close', 'ADANIPORTS.NS')":1138.66015625,
+    "('High', 'ADANIPORTS.NS')":1153.2392506393,
+    "('Low', 'ADANIPORTS.NS')":1121.7922705015,
+    "('Open', 'ADANIPORTS.NS')":1144.432123377,
+    "('Volume', 'ADANIPORTS.NS')":2415627
+  },
+  {
+    "('Date', '')":"2025-02-11",
+    "('Close', 'ADANIPORTS.NS')":1134.580078125,
+    "('High', 'ADANIPORTS.NS')":1154.3837547655,
+    "('Low', 'ADANIPORTS.NS')":1108.6562744508,
+    "('Open', 'ADANIPORTS.NS')":1138.6602033072,
+    "('Volume', 'ADANIPORTS.NS')":4901591
+  },
+  {
+    "('Date', '')":"2025-02-12",
+    "('Close', 'ADANIPORTS.NS')":1123.4840087891,
+    "('High', 'ADANIPORTS.NS')":1138.6601741419,
+    "('Low', 'ADANIPORTS.NS')":1093.6292572753,
+    "('Open', 'ADANIPORTS.NS')":1134.4805575217,
+    "('Volume', 'ADANIPORTS.NS')":2862155
+  },
+  {
+    "('Date', '')":"2025-02-13",
+    "('Close', 'ADANIPORTS.NS')":1106.1683349609,
+    "('High', 'ADANIPORTS.NS')":1146.0741613091,
+    "('Low', 'ADANIPORTS.NS')":1100.694963925,
+    "('Open', 'ADANIPORTS.NS')":1128.3106086974,
+    "('Volume', 'ADANIPORTS.NS')":3763868
+  },
+  {
+    "('Date', '')":"2025-02-14",
+    "('Close', 'ADANIPORTS.NS')":1057.5548095703,
+    "('High', 'ADANIPORTS.NS')":1114.5774359099,
+    "('Low', 'ADANIPORTS.NS')":1037.1043768258,
+    "('Open', 'ADANIPORTS.NS')":1114.5774359099,
+    "('Volume', 'ADANIPORTS.NS')":4565339
+  },
+  {
+    "('Date', '')":"2025-02-17",
+    "('Close', 'ADANIPORTS.NS')":1077.6569824219,
+    "('High', 'ADANIPORTS.NS')":1084.0260200449,
+    "('Low', 'ADANIPORTS.NS')":1034.9646656672,
+    "('Open', 'ADANIPORTS.NS')":1053.822867474,
+    "('Volume', 'ADANIPORTS.NS')":2518527
+  },
+  {
+    "('Date', '')":"2025-02-18",
+    "('Close', 'ADANIPORTS.NS')":1079.8961181641,
+    "('High', 'ADANIPORTS.NS')":1082.6328036528,
+    "('Low', 'ADANIPORTS.NS')":1056.8083713349,
+    "('Open', 'ADANIPORTS.NS')":1077.6570118551,
+    "('Volume', 'ADANIPORTS.NS')":1715308
+  },
+  {
+    "('Date', '')":"2025-02-19",
+    "('Close', 'ADANIPORTS.NS')":1077.6071777344,
+    "('High', 'ADANIPORTS.NS')":1086.4143046949,
+    "('Low', 'ADANIPORTS.NS')":1049.4442697682,
+    "('Open', 'ADANIPORTS.NS')":1056.4600631357,
+    "('Volume', 'ADANIPORTS.NS')":1792268
+  },
+  {
+    "('Date', '')":"2025-02-20",
+    "('Close', 'ADANIPORTS.NS')":1106.3175048828,
+    "('High', 'ADANIPORTS.NS')":1120.5483180825,
+    "('Low', 'ADANIPORTS.NS')":1068.8000831444,
+    "('Open', 'ADANIPORTS.NS')":1068.9990662255,
+    "('Volume', 'ADANIPORTS.NS')":3714173
+  },
+  {
+    "('Date', '')":"2025-02-21",
+    "('Close', 'ADANIPORTS.NS')":1078.0052490234,
+    "('High', 'ADANIPORTS.NS')":1113.6816504626,
+    "('Low', 'ADANIPORTS.NS')":1074.7709844868,
+    "('Open', 'ADANIPORTS.NS')":1106.3174546064,
+    "('Volume', 'ADANIPORTS.NS')":2360177
+  },
+  {
+    "('Date', '')":"2025-02-24",
+    "('Close', 'ADANIPORTS.NS')":1065.2175292969,
+    "('High', 'ADANIPORTS.NS')":1078.0052898845,
+    "('Low', 'ADANIPORTS.NS')":1060.5402121329,
+    "('Open', 'ADANIPORTS.NS')":1078.0052898845,
+    "('Volume', 'ADANIPORTS.NS')":1669749
+  },
+  {
+    "('Date', '')":"2025-02-25",
+    "('Close', 'ADANIPORTS.NS')":1075.1193847656,
+    "('High', 'ADANIPORTS.NS')":1086.1159340008,
+    "('Low', 'ADANIPORTS.NS')":1062.5804128527,
+    "('Open', 'ADANIPORTS.NS')":1069.3972237973,
+    "('Volume', 'ADANIPORTS.NS')":1665355
+  },
+  {
+    "('Date', '')":"2025-02-27",
+    "('Close', 'ADANIPORTS.NS')":1073.7260742188,
+    "('High', 'ADANIPORTS.NS')":1082.6824995446,
+    "('Low', 'ADANIPORTS.NS')":1063.9237885747,
+    "('Open', 'ADANIPORTS.NS')":1077.7565142071,
+    "('Volume', 'ADANIPORTS.NS')":1819078
+  },
+  {
+    "('Date', '')":"2025-02-28",
+    "('Close', 'ADANIPORTS.NS')":1064.2224121094,
+    "('High', 'ADANIPORTS.NS')":1077.6570504444,
+    "('Low', 'ADANIPORTS.NS')":1054.0717235909,
+    "('Open', 'ADANIPORTS.NS')":1068.8001164314,
+    "('Volume', 'ADANIPORTS.NS')":2849138
+  },
+  {
+    "('Date', '')":"2025-03-03",
+    "('Close', 'ADANIPORTS.NS')":1047.9515380859,
+    "('High', 'ADANIPORTS.NS')":1075.7661650855,
+    "('Low', 'ADANIPORTS.NS')":1035.5617438706,
+    "('Open', 'ADANIPORTS.NS')":1069.7454085393,
+    "('Volume', 'ADANIPORTS.NS')":2274285
+  },
+  {
+    "('Date', '')":"2025-03-04",
+    "('Close', 'ADANIPORTS.NS')":1052.8277587891,
+    "('High', 'ADANIPORTS.NS')":1057.8533571962,
+    "('Low', 'ADANIPORTS.NS')":1031.4816601448,
+    "('Open', 'ADANIPORTS.NS')":1042.8761749961,
+    "('Volume', 'ADANIPORTS.NS')":1788886
+  },
+  {
+    "('Date', '')":"2025-03-05",
+    "('Close', 'ADANIPORTS.NS')":1107.3126220703,
+    "('High', 'ADANIPORTS.NS')":1113.2338870047,
+    "('Low', 'ADANIPORTS.NS')":1049.8920351833,
+    "('Open', 'ADANIPORTS.NS')":1051.6833687639,
+    "('Volume', 'ADANIPORTS.NS')":3785743
+  },
+  {
+    "('Date', '')":"2025-03-06",
+    "('Close', 'ADANIPORTS.NS')":1130.6988525391,
+    "('High', 'ADANIPORTS.NS')":1143.188138245,
+    "('Low', 'ADANIPORTS.NS')":1096.5151880003,
+    "('Open', 'ADANIPORTS.NS')":1112.7860024947,
+    "('Volume', 'ADANIPORTS.NS')":4020627
+  },
+  {
+    "('Date', '')":"2025-03-07",
+    "('Close', 'ADANIPORTS.NS')":1138.9587402344,
+    "('High', 'ADANIPORTS.NS')":1151.3484131944,
+    "('Low', 'ADANIPORTS.NS')":1128.6090690198,
+    "('Open', 'ADANIPORTS.NS')":1130.6988772749,
+    "('Volume', 'ADANIPORTS.NS')":2211623
+  },
+  {
+    "('Date', '')":"2025-03-10",
+    "('Close', 'ADANIPORTS.NS')":1137.3665771484,
+    "('High', 'ADANIPORTS.NS')":1162.9919063426,
+    "('Low', 'ADANIPORTS.NS')":1131.4453116898,
+    "('Open', 'ADANIPORTS.NS')":1140.45154394,
+    "('Volume', 'ADANIPORTS.NS')":2430740
+  },
+  {
+    "('Date', '')":"2025-03-11",
+    "('Close', 'ADANIPORTS.NS')":1129.5047607422,
+    "('High', 'ADANIPORTS.NS')":1140.3520113747,
+    "('Low', 'ADANIPORTS.NS')":1118.9561062153,
+    "('Open', 'ADANIPORTS.NS')":1131.7936736068,
+    "('Volume', 'ADANIPORTS.NS')":2399428
+  },
+  {
+    "('Date', '')":"2025-03-12",
+    "('Close', 'ADANIPORTS.NS')":1122.8372802734,
+    "('High', 'ADANIPORTS.NS')":1149.5572592308,
+    "('Low', 'ADANIPORTS.NS')":1099.6500407767,
+    "('Open', 'ADANIPORTS.NS')":1133.4854266467,
+    "('Volume', 'ADANIPORTS.NS')":2842848
+  },
+  {
+    "('Date', '')":"2025-03-13",
+    "('Close', 'ADANIPORTS.NS')":1113.78125,
+    "('High', 'ADANIPORTS.NS')":1133.9332079132,
+    "('Low', 'ADANIPORTS.NS')":1109.6514397592,
+    "('Open', 'ADANIPORTS.NS')":1129.5048015561,
+    "('Volume', 'ADANIPORTS.NS')":1358839
+  },
+  {
+    "('Date', '')":"2025-03-17",
+    "('Close', 'ADANIPORTS.NS')":1131.6444091797,
+    "('High', 'ADANIPORTS.NS')":1142.989239339,
+    "('Low', 'ADANIPORTS.NS')":1105.8199755765,
+    "('Open', 'ADANIPORTS.NS')":1109.4026430326,
+    "('Volume', 'ADANIPORTS.NS')":1489537
+  },
+  {
+    "('Date', '')":"2025-03-18",
+    "('Close', 'ADANIPORTS.NS')":1131.6444091797,
+    "('High', 'ADANIPORTS.NS')":1131.6444091797,
+    "('Low', 'ADANIPORTS.NS')":1131.6444091797,
+    "('Open', 'ADANIPORTS.NS')":1131.6444091797,
+    "('Volume', 'ADANIPORTS.NS')":0
+  },
+  {
+    "('Date', '')":"2025-03-19",
+    "('Close', 'ADANIPORTS.NS')":1167.818359375,
+    "('High', 'ADANIPORTS.NS')":1178.7651015592,
+    "('Low', 'ADANIPORTS.NS')":1153.1895797751,
+    "('Open', 'ADANIPORTS.NS')":1154.3837212399,
+    "('Volume', 'ADANIPORTS.NS')":2416781
+  },
+  {
+    "('Date', '')":"2025-03-20",
+    "('Close', 'ADANIPORTS.NS')":1171.7491455078,
+    "('High', 'ADANIPORTS.NS')":1181.2031497916,
+    "('Low', 'ADANIPORTS.NS')":1155.5778223908,
+    "('Open', 'ADANIPORTS.NS')":1179.2626396093,
+    "('Volume', 'ADANIPORTS.NS')":1919013
+  },
+  {
+    "('Date', '')":"2025-03-21",
+    "('Close', 'ADANIPORTS.NS')":1183.0443115234,
+    "('High', 'ADANIPORTS.NS')":1196.7277390262,
+    "('Low', 'ADANIPORTS.NS')":1166.3754089291,
+    "('Open', 'ADANIPORTS.NS')":1176.2771860576,
+    "('Volume', 'ADANIPORTS.NS')":3127446
+  },
+  {
+    "('Date', '')":"2025-03-24",
+    "('Close', 'ADANIPORTS.NS')":1194.9862060547,
+    "('High', 'ADANIPORTS.NS')":1204.9874746749,
+    "('Low', 'ADANIPORTS.NS')":1180.3076202597,
+    "('Open', 'ADANIPORTS.NS')":1190.2093973399,
+    "('Volume', 'ADANIPORTS.NS')":2135192
+  },
+  {
+    "('Date', '')":"2025-03-25",
+    "('Close', 'ADANIPORTS.NS')":1176.7249755859,
+    "('High', 'ADANIPORTS.NS')":1203.245970658,
+    "('Low', 'ADANIPORTS.NS')":1168.8633215824,
+    "('Open', 'ADANIPORTS.NS')":1199.1658456037,
+    "('Volume', 'ADANIPORTS.NS')":2090037
+  },
+  {
+    "('Date', '')":"2025-03-26",
+    "('Close', 'ADANIPORTS.NS')":1175.8791503906,
+    "('High', 'ADANIPORTS.NS')":1196.379389296,
+    "('Low', 'ADANIPORTS.NS')":1167.3706188913,
+    "('Open', 'ADANIPORTS.NS')":1177.2723964574,
+    "('Volume', 'ADANIPORTS.NS')":1676081
+  },
+  {
+    "('Date', '')":"2025-03-27",
+    "('Close', 'ADANIPORTS.NS')":1190.9558105469,
+    "('High', 'ADANIPORTS.NS')":1206.1319760876,
+    "('Low', 'ADANIPORTS.NS')":1169.3111154314,
+    "('Open', 'ADANIPORTS.NS')":1176.2772242042,
+    "('Volume', 'ADANIPORTS.NS')":2004036
+  },
+  {
+    "('Date', '')":"2025-03-28",
+    "('Close', 'ADANIPORTS.NS')":1177.2225341797,
+    "('High', 'ADANIPORTS.NS')":1199.1658246245,
+    "('Low', 'ADANIPORTS.NS')":1169.5100568844,
+    "('Open', 'ADANIPORTS.NS')":1191.9011199998,
+    "('Volume', 'ADANIPORTS.NS')":1670913
+  },
+  {
+    "('Date', '')":"2025-04-01",
+    "('Close', 'ADANIPORTS.NS')":1169.0622558594,
+    "('High', 'ADANIPORTS.NS')":1196.1803205303,
+    "('Low', 'ADANIPORTS.NS')":1162.3947435962,
+    "('Open', 'ADANIPORTS.NS')":1173.2916787897,
+    "('Volume', 'ADANIPORTS.NS')":1584541
+  },
+  {
+    "('Date', '')":"2025-04-02",
+    "('Close', 'ADANIPORTS.NS')":1189.6619873047,
+    "('High', 'ADANIPORTS.NS')":1193.1450414898,
+    "('Low', 'ADANIPORTS.NS')":1161.6980622855,
+    "('Open', 'ADANIPORTS.NS')":1176.6752438733,
+    "('Volume', 'ADANIPORTS.NS')":1232853
+  },
+  {
+    "('Date', '')":"2025-04-03",
+    "('Close', 'ADANIPORTS.NS')":1194.0905761719,
+    "('High', 'ADANIPORTS.NS')":1199.9620349673,
+    "('Low', 'ADANIPORTS.NS')":1164.5841056196,
+    "('Open', 'ADANIPORTS.NS')":1164.5841056196,
+    "('Volume', 'ADANIPORTS.NS')":1300511
+  },
+  {
+    "('Date', '')":"2025-04-04",
+    "('Close', 'ADANIPORTS.NS')":1142.7900390625,
+    "('High', 'ADANIPORTS.NS')":1194.2894824193,
+    "('Low', 'ADANIPORTS.NS')":1137.4659663157,
+    "('Open', 'ADANIPORTS.NS')":1190.2093575797,
+    "('Volume', 'ADANIPORTS.NS')":1785093
+  },
+  {
+    "('Date', '')":"2025-04-07",
+    "('Close', 'ADANIPORTS.NS')":1105.2727050781,
+    "('High', 'ADANIPORTS.NS')":1113.582253451,
+    "('Low', 'ADANIPORTS.NS')":1036.4574771843,
+    "('Open', 'ADANIPORTS.NS')":1044.8665171016,
+    "('Volume', 'ADANIPORTS.NS')":2192949
+  },
+  {
+    "('Date', '')":"2025-04-08",
+    "('Close', 'ADANIPORTS.NS')":1125.8724365234,
+    "('High', 'ADANIPORTS.NS')":1150.0548343421,
+    "('Low', 'ADANIPORTS.NS')":1105.6707938017,
+    "('Open', 'ADANIPORTS.NS')":1129.5047889954,
+    "('Volume', 'ADANIPORTS.NS')":2423486
+  },
+  {
+    "('Date', '')":"2025-04-09",
+    "('Close', 'ADANIPORTS.NS')":1126.3203125,
+    "('High', 'ADANIPORTS.NS')":1130.1018414881,
+    "('Low', 'ADANIPORTS.NS')":1106.6161278194,
+    "('Open', 'ADANIPORTS.NS')":1128.3603143085,
+    "('Volume', 'ADANIPORTS.NS')":1537177
+  },
+  {
+    "('Date', '')":"2025-04-11",
+    "('Close', 'ADANIPORTS.NS')":1158.9117431641,
+    "('High', 'ADANIPORTS.NS')":1164.6339038646,
+    "('Low', 'ADANIPORTS.NS')":1142.4418233387,
+    "('Open', 'ADANIPORTS.NS')":1157.3691990792,
+    "('Volume', 'ADANIPORTS.NS')":3536245
+  },
+  {
+    "('Date', '')":"2025-04-15",
+    "('Close', 'ADANIPORTS.NS')":1204.9378662109,
+    "('High', 'ADANIPORTS.NS')":1219.9647340905,
+    "('Low', 'ADANIPORTS.NS')":1173.2917797927,
+    "('Open', 'ADANIPORTS.NS')":1194.1901066593,
+    "('Volume', 'ADANIPORTS.NS')":3176522
+  },
+  {
+    "('Date', '')":"2025-04-16",
+    "('Close', 'ADANIPORTS.NS')":1226.9307861328,
+    "('High', 'ADANIPORTS.NS')":1229.5181736147,
+    "('Low', 'ADANIPORTS.NS')":1195.7822803706,
+    "('Open', 'ADANIPORTS.NS')":1204.1416350253,
+    "('Volume', 'ADANIPORTS.NS')":1909731
+  },
+  {
+    "('Date', '')":"2025-04-17",
+    "('Close', 'ADANIPORTS.NS')":1253.3024902344,
+    "('High', 'ADANIPORTS.NS')":1276.2906245563,
+    "('Low', 'ADANIPORTS.NS')":1212.6999796685,
+    "('Open', 'ADANIPORTS.NS')":1226.9307931188,
+    "('Volume', 'ADANIPORTS.NS')":4280765
+  },
+  {
+    "('Date', '')":"2025-04-21",
+    "('Close', 'ADANIPORTS.NS')":1237.0812988281,
+    "('High', 'ADANIPORTS.NS')":1253.8994989431,
+    "('Low', 'ADANIPORTS.NS')":1203.5445116148,
+    "('Open', 'ADANIPORTS.NS')":1253.3024282395,
+    "('Volume', 'ADANIPORTS.NS')":6049182
+  },
+  {
+    "('Date', '')":"2025-04-22",
+    "('Close', 'ADANIPORTS.NS')":1227.2292480469,
+    "('High', 'ADANIPORTS.NS')":1249.5208197355,
+    "('Low', 'ADANIPORTS.NS')":1221.059314771,
+    "('Open', 'ADANIPORTS.NS')":1243.549869541,
+    "('Volume', 'ADANIPORTS.NS')":2932537
+  },
+  {
+    "('Date', '')":"2025-04-23",
+    "('Close', 'ADANIPORTS.NS')":1233.1007080078,
+    "('High', 'ADANIPORTS.NS')":1236.7828668526,
+    "('Low', 'ADANIPORTS.NS')":1210.9087493157,
+    "('Open', 'ADANIPORTS.NS')":1234.0958663746,
+    "('Volume', 'ADANIPORTS.NS')":2580999
+  },
+  {
+    "('Date', '')":"2025-04-24",
+    "('Close', 'ADANIPORTS.NS')":1230.4138183594,
+    "('High', 'ADANIPORTS.NS')":1241.9576310185,
+    "('Low', 'ADANIPORTS.NS')":1225.6370096484,
+    "('Open', 'ADANIPORTS.NS')":1232.0060474366,
+    "('Volume', 'ADANIPORTS.NS')":2133285
+  },
+  {
+    "('Date', '')":"2025-04-25",
+    "('Close', 'ADANIPORTS.NS')":1187.2239990234,
+    "('High', 'ADANIPORTS.NS')":1237.3800078547,
+    "('Low', 'ADANIPORTS.NS')":1175.4810810365,
+    "('Open', 'ADANIPORTS.NS')":1230.314407345,
+    "('Volume', 'ADANIPORTS.NS')":3628854
+  },
+  {
+    "('Date', '')":"2025-04-28",
+    "('Close', 'ADANIPORTS.NS')":1204.0421142578,
+    "('High', 'ADANIPORTS.NS')":1208.8188014594,
+    "('Low', 'ADANIPORTS.NS')":1178.3669801871,
+    "('Open', 'ADANIPORTS.NS')":1182.3476135947,
+    "('Volume', 'ADANIPORTS.NS')":2646406
+  },
+  {
+    "('Date', '')":"2025-04-29",
+    "('Close', 'ADANIPORTS.NS')":1210.5106201172,
+    "('High', 'ADANIPORTS.NS')":1217.974307612,
+    "('Low', 'ADANIPORTS.NS')":1196.6778949977,
+    "('Open', 'ADANIPORTS.NS')":1206.1318991577,
+    "('Volume', 'ADANIPORTS.NS')":2381980
+  },
+  {
+    "('Date', '')":"2025-04-30",
+    "('Close', 'ADANIPORTS.NS')":1210.6101074219,
+    "('High', 'ADANIPORTS.NS')":1220.5616907135,
+    "('Low', 'ADANIPORTS.NS')":1198.0711367703,
+    "('Open', 'ADANIPORTS.NS')":1209.2168614652,
+    "('Volume', 'ADANIPORTS.NS')":1824334
+  },
+  {
+    "('Date', '')":"2025-05-02",
+    "('Close', 'ADANIPORTS.NS')":1256.9844970703,
+    "('High', 'ADANIPORTS.NS')":1288.7300729706,
+    "('Low', 'ADANIPORTS.NS')":1236.6832422813,
+    "('Open', 'ADANIPORTS.NS')":1248.9237386704,
+    "('Volume', 'ADANIPORTS.NS')":10694521
+  },
+  {
+    "('Date', '')":"2025-05-05",
+    "('Close', 'ADANIPORTS.NS')":1340.5778808594,
+    "('High', 'ADANIPORTS.NS')":1370.3331418594,
+    "('Low', 'ADANIPORTS.NS')":1279.4751296861,
+    "('Open', 'ADANIPORTS.NS')":1283.7543594761,
+    "('Volume', 'ADANIPORTS.NS')":14191797
+  },
+  {
+    "('Date', '')":"2025-05-06",
+    "('Close', 'ADANIPORTS.NS')":1314.4052734375,
+    "('High', 'ADANIPORTS.NS')":1349.7333969097,
+    "('Low', 'ADANIPORTS.NS')":1308.6333060813,
+    "('Open', 'ADANIPORTS.NS')":1343.4638503496,
+    "('Volume', 'ADANIPORTS.NS')":3604276
+  },
+  {
+    "('Date', '')":"2025-05-07",
+    "('Close', 'ADANIPORTS.NS')":1331.7209472656,
+    "('High', 'ADANIPORTS.NS')":1334.8060355469,
+    "('Low', 'ADANIPORTS.NS')":1292.4121897284,
+    "('Open', 'ADANIPORTS.NS')":1292.5118027537,
+    "('Volume', 'ADANIPORTS.NS')":3269847
+  },
+  {
+    "('Date', '')":"2025-05-08",
+    "('Close', 'ADANIPORTS.NS')":1326.6456298828,
+    "('High', 'ADANIPORTS.NS')":1360.2820321699,
+    "('Low', 'ADANIPORTS.NS')":1310.0265333055,
+    "('Open', 'ADANIPORTS.NS')":1333.5122470928,
+    "('Volume', 'ADANIPORTS.NS')":5077662
+  },
+  {
+    "('Date', '')":"2025-05-09",
+    "('Close', 'ADANIPORTS.NS')":1299.9754638672,
+    "('High', 'ADANIPORTS.NS')":1318.4853857737,
+    "('Low', 'ADANIPORTS.NS')":1286.3417209273,
+    "('Open', 'ADANIPORTS.NS')":1293.7059173682,
+    "('Volume', 'ADANIPORTS.NS')":2979366
+  },
+  {
+    "('Date', '')":"2025-05-12",
+    "('Close', 'ADANIPORTS.NS')":1355.5052490234,
+    "('High', 'ADANIPORTS.NS')":1368.3428168373,
+    "('Low', 'ADANIPORTS.NS')":1338.985643676,
+    "('Open', 'ADANIPORTS.NS')":1353.4154406536,
+    "('Volume', 'ADANIPORTS.NS')":3662785
+  },
+  {
+    "('Date', '')":"2025-05-13",
+    "('Close', 'ADANIPORTS.NS')":1362.5708007812,
+    "('High', 'ADANIPORTS.NS')":1385.1609688198,
+    "('Low', 'ADANIPORTS.NS')":1340.5778249521,
+    "('Open', 'ADANIPORTS.NS')":1354.0124630375,
+    "('Volume', 'ADANIPORTS.NS')":3356599
+  },
+  {
+    "('Date', '')":"2025-05-14",
+    "('Close', 'ADANIPORTS.NS')":1365.1583251953,
+    "('High', 'ADANIPORTS.NS')":1375.2094006178,
+    "('Low', 'ADANIPORTS.NS')":1355.4057244016,
+    "('Open', 'ADANIPORTS.NS')":1373.3185753849,
+    "('Volume', 'ADANIPORTS.NS')":1557379
+  },
+  {
+    "('Date', '')":"2025-05-15",
+    "('Close', 'ADANIPORTS.NS')":1399.3916015625,
+    "('High', 'ADANIPORTS.NS')":1403.0737602882,
+    "('Low', 'ADANIPORTS.NS')":1365.2577435723,
+    "('Open', 'ADANIPORTS.NS')":1368.9397808187,
+    "('Volume', 'ADANIPORTS.NS')":3706424
+  },
+  {
+    "('Date', '')":"2025-05-16",
+    "('Close', 'ADANIPORTS.NS')":1400.5859375,
+    "('High', 'ADANIPORTS.NS')":1418.0012092643,
+    "('Low', 'ADANIPORTS.NS')":1394.2168995303,
+    "('Open', 'ADANIPORTS.NS')":1404.0689918529,
+    "('Volume', 'ADANIPORTS.NS')":2777119
+  },
+  {
+    "('Date', '')":"2025-05-19",
+    "('Close', 'ADANIPORTS.NS')":1391.5300292969,
+    "('High', 'ADANIPORTS.NS')":1403.7704046412,
+    "('Low', 'ADANIPORTS.NS')":1385.2604828303,
+    "('Open', 'ADANIPORTS.NS')":1400.6854379193,
+    "('Volume', 'ADANIPORTS.NS')":1317210
+  },
+  {
+    "('Date', '')":"2025-05-20",
+    "('Close', 'ADANIPORTS.NS')":1377.8962402344,
+    "('High', 'ADANIPORTS.NS')":1400.4864078821,
+    "('Low', 'ADANIPORTS.NS')":1374.7117820758,
+    "('Open', 'ADANIPORTS.NS')":1392.2265449067,
+    "('Volume', 'ADANIPORTS.NS')":2970441
+  },
+  {
+    "('Date', '')":"2025-05-21",
+    "('Close', 'ADANIPORTS.NS')":1377.8962402344,
+    "('High', 'ADANIPORTS.NS')":1384.2652780309,
+    "('Low', 'ADANIPORTS.NS')":1363.5659355621,
+    "('Open', 'ADANIPORTS.NS')":1373.3185360766,
+    "('Volume', 'ADANIPORTS.NS')":1993690
+  },
+  {
+    "('Date', '')":"2025-05-22",
+    "('Close', 'ADANIPORTS.NS')":1364.7602539062,
+    "('High', 'ADANIPORTS.NS')":1401.1830270464,
+    "('Low', 'ADANIPORTS.NS')":1352.0221777959,
+    "('Open', 'ADANIPORTS.NS')":1373.4180833936,
+    "('Volume', 'ADANIPORTS.NS')":3186493
+  },
+  {
+    "('Date', '')":"2025-05-23",
+    "('Close', 'ADANIPORTS.NS')":1388.6440429688,
+    "('High', 'ADANIPORTS.NS')":1391.7290096847,
+    "('Low', 'ADANIPORTS.NS')":1368.3427874984,
+    "('Open', 'ADANIPORTS.NS')":1376.4035461689,
+    "('Volume', 'ADANIPORTS.NS')":1715309
+  },
+  {
+    "('Date', '')":"2025-05-26",
+    "('Close', 'ADANIPORTS.NS')":1393.4206542969,
+    "('High', 'ADANIPORTS.NS')":1403.7703252932,
+    "('Low', 'ADANIPORTS.NS')":1388.0468964627,
+    "('Open', 'ADANIPORTS.NS')":1389.0420547993,
+    "('Volume', 'ADANIPORTS.NS')":1024835
+  },
+  {
+    "('Date', '')":"2025-05-27",
+    "('Close', 'ADANIPORTS.NS')":1397.4013671875,
+    "('High', 'ADANIPORTS.NS')":1412.1297599991,
+    "('Low', 'ADANIPORTS.NS')":1378.6924622823,
+    "('Open', 'ADANIPORTS.NS')":1390.2362753479,
+    "('Volume', 'ADANIPORTS.NS')":2571237
+  },
+  {
+    "('Date', '')":"2025-05-28",
+    "('Close', 'ADANIPORTS.NS')":1404.1684570312,
+    "('High', 'ADANIPORTS.NS')":1420.8871662028,
+    "('Low', 'ADANIPORTS.NS')":1396.2071900885,
+    "('Open', 'ADANIPORTS.NS')":1398.1975068242,
+    "('Volume', 'ADANIPORTS.NS')":2035398
+  },
+  {
+    "('Date', '')":"2025-05-29",
+    "('Close', 'ADANIPORTS.NS')":1431.634765625,
+    "('High', 'ADANIPORTS.NS')":1434.0231699402,
+    "('Low', 'ADANIPORTS.NS')":1403.6708405279,
+    "('Open', 'ADANIPORTS.NS')":1414.1200031124,
+    "('Volume', 'ADANIPORTS.NS')":1662886
+  },
+  {
+    "('Date', '')":"2025-05-30",
+    "('Close', 'ADANIPORTS.NS')":1425.8629150391,
+    "('High', 'ADANIPORTS.NS')":1450.4432773918,
+    "('Low', 'ADANIPORTS.NS')":1421.8822816877,
+    "('Open', 'ADANIPORTS.NS')":1435.0183231554,
+    "('Volume', 'ADANIPORTS.NS')":2575127
+  },
+  {
+    "('Date', '')":"2025-06-02",
+    "('Close', 'ADANIPORTS.NS')":1460.8924560547,
+    "('High', 'ADANIPORTS.NS')":1474.824672938,
+    "('Low', 'ADANIPORTS.NS')":1418.3992431522,
+    "('Open', 'ADANIPORTS.NS')":1425.8629307683,
+    "('Volume', 'ADANIPORTS.NS')":3164701
+  },
+  {
+    "('Date', '')":"2025-06-03",
+    "('Close', 'ADANIPORTS.NS')":1425.3653564453,
+    "('High', 'ADANIPORTS.NS')":1464.8730944359,
+    "('Low', 'ADANIPORTS.NS')":1419.7923724896,
+    "('Open', 'ADANIPORTS.NS')":1462.8827777315,
+    "('Volume', 'ADANIPORTS.NS')":3677200
+  },
+  {
+    "('Date', '')":"2025-06-04",
+    "('Close', 'ADANIPORTS.NS')":1429.2464599609,
+    "('High', 'ADANIPORTS.NS')":1434.1227604662,
+    "('Low', 'ADANIPORTS.NS')":1416.2099090848,
+    "('Open', 'ADANIPORTS.NS')":1425.3654393451,
+    "('Volume', 'ADANIPORTS.NS')":1446972
+  },
+  {
+    "('Date', '')":"2025-06-05",
+    "('Close', 'ADANIPORTS.NS')":1449.6470947266,
+    "('High', 'ADANIPORTS.NS')":1460.5938363868,
+    "('Low', 'ADANIPORTS.NS')":1431.0376824958,
+    "('Open', 'ADANIPORTS.NS')":1436.8096494175,
+    "('Volume', 'ADANIPORTS.NS')":2019939
+  },
+  {
+    "('Date', '')":"2025-06-06",
+    "('Close', 'ADANIPORTS.NS')":1464.5745849609,
+    "('High', 'ADANIPORTS.NS')":1471.7397984081,
+    "('Low', 'ADANIPORTS.NS')":1446.6617335619,
+    "('Open', 'ADANIPORTS.NS')":1449.6472087951,
+    "('Volume', 'ADANIPORTS.NS')":1269864
+  },
+  {
+    "('Date', '')":"2025-06-09",
+    "('Close', 'ADANIPORTS.NS')":1459.9968261719,
+    "('High', 'ADANIPORTS.NS')":1476.815026988,
+    "('Low', 'ADANIPORTS.NS')":1456.016192676,
+    "('Open', 'ADANIPORTS.NS')":1474.8247102401,
+    "('Volume', 'ADANIPORTS.NS')":1493331
+  },
+  {
+    "('Date', '')":"2025-06-10",
+    "('Close', 'ADANIPORTS.NS')":1466.6644287109,
+    "('High', 'ADANIPORTS.NS')":1486.7665788425,
+    "('Low', 'ADANIPORTS.NS')":1462.6837953004,
+    "('Open', 'ADANIPORTS.NS')":1464.8730950845,
+    "('Volume', 'ADANIPORTS.NS')":2125187
+  },
+  {
+    "('Date', '')":"2025-06-11",
+    "('Close', 'ADANIPORTS.NS')":1449.3486328125,
+    "('High', 'ADANIPORTS.NS')":1468.8537120095,
+    "('Low', 'ADANIPORTS.NS')":1441.7854537132,
+    "('Open', 'ADANIPORTS.NS')":1466.6644122499,
+    "('Volume', 'ADANIPORTS.NS')":2192673
+  },
+  {
+    "('Date', '')":"2025-06-12",
+    "('Close', 'ADANIPORTS.NS')":1438.8000488281,
+    "('High', 'ADANIPORTS.NS')":1458.5041120622,
+    "('Low', 'ADANIPORTS.NS')":1433.1275731176,
+    "('Open', 'ADANIPORTS.NS')":1452.7322662879,
+    "('Volume', 'ADANIPORTS.NS')":2192452
+  },
+  {
+    "('Date', '')":"2025-06-13",
+    "('Close', 'ADANIPORTS.NS')":1405.0,
+    "('High', 'ADANIPORTS.NS')":1423.8000488281,
+    "('Low', 'ADANIPORTS.NS')":1397.0999755859,
+    "('Open', 'ADANIPORTS.NS')":1405.0,
+    "('Volume', 'ADANIPORTS.NS')":3380550
+  },
+  {
+    "('Date', '')":"2025-06-16",
+    "('Close', 'ADANIPORTS.NS')":1400.5999755859,
+    "('High', 'ADANIPORTS.NS')":1411.1999511719,
+    "('Low', 'ADANIPORTS.NS')":1375.0,
+    "('Open', 'ADANIPORTS.NS')":1389.0,
+    "('Volume', 'ADANIPORTS.NS')":2823300
+  },
+  {
+    "('Date', '')":"2025-06-17",
+    "('Close', 'ADANIPORTS.NS')":1392.3000488281,
+    "('High', 'ADANIPORTS.NS')":1414.8000488281,
+    "('Low', 'ADANIPORTS.NS')":1384.0,
+    "('Open', 'ADANIPORTS.NS')":1400.5,
+    "('Volume', 'ADANIPORTS.NS')":1571621
+  },
+  {
+    "('Date', '')":"2025-06-18",
+    "('Close', 'ADANIPORTS.NS')":1372.5999755859,
+    "('High', 'ADANIPORTS.NS')":1395.1999511719,
+    "('Low', 'ADANIPORTS.NS')":1365.1999511719,
+    "('Open', 'ADANIPORTS.NS')":1387.0,
+    "('Volume', 'ADANIPORTS.NS')":1732093
+  },
+  {
+    "('Date', '')":"2025-06-19",
+    "('Close', 'ADANIPORTS.NS')":1338.0,
+    "('High', 'ADANIPORTS.NS')":1372.5999755859,
+    "('Low', 'ADANIPORTS.NS')":1331.5999755859,
+    "('Open', 'ADANIPORTS.NS')":1370.5,
+    "('Volume', 'ADANIPORTS.NS')":2950283
+  },
+  {
+    "('Date', '')":"2025-06-20",
+    "('Close', 'ADANIPORTS.NS')":1349.3000488281,
+    "('High', 'ADANIPORTS.NS')":1356.6999511719,
+    "('Low', 'ADANIPORTS.NS')":1334.5999755859,
+    "('Open', 'ADANIPORTS.NS')":1338.0,
+    "('Volume', 'ADANIPORTS.NS')":4541583
+  },
+  {
+    "('Date', '')":"2025-06-23",
+    "('Close', 'ADANIPORTS.NS')":1354.8000488281,
+    "('High', 'ADANIPORTS.NS')":1364.9000244141,
+    "('Low', 'ADANIPORTS.NS')":1335.6999511719,
+    "('Open', 'ADANIPORTS.NS')":1341.0,
+    "('Volume', 'ADANIPORTS.NS')":3921155
+  },
+  {
+    "('Date', '')":"2025-06-24",
+    "('Close', 'ADANIPORTS.NS')":1389.5,
+    "('High', 'ADANIPORTS.NS')":1418.6999511719,
+    "('Low', 'ADANIPORTS.NS')":1385.0999755859,
+    "('Open', 'ADANIPORTS.NS')":1395.0999755859,
+    "('Volume', 'ADANIPORTS.NS')":7635176
+  },
+  {
+    "('Date', '')":"2025-06-25",
+    "('Close', 'ADANIPORTS.NS')":1393.0999755859,
+    "('High', 'ADANIPORTS.NS')":1404.0,
+    "('Low', 'ADANIPORTS.NS')":1385.5,
+    "('Open', 'ADANIPORTS.NS')":1399.6999511719,
+    "('Volume', 'ADANIPORTS.NS')":1915989
+  },
+  {
+    "('Date', '')":"2025-06-26",
+    "('Close', 'ADANIPORTS.NS')":1429.3000488281,
+    "('High', 'ADANIPORTS.NS')":1433.0,
+    "('Low', 'ADANIPORTS.NS')":1395.1999511719,
+    "('Open', 'ADANIPORTS.NS')":1399.0,
+    "('Volume', 'ADANIPORTS.NS')":2877806
+  },
+  {
+    "('Date', '')":"2025-06-27",
+    "('Close', 'ADANIPORTS.NS')":1440.1999511719,
+    "('High', 'ADANIPORTS.NS')":1456.8000488281,
+    "('Low', 'ADANIPORTS.NS')":1427.0,
+    "('Open', 'ADANIPORTS.NS')":1434.9000244141,
+    "('Volume', 'ADANIPORTS.NS')":2888390
+  },
+  {
+    "('Date', '')":"2025-06-30",
+    "('Close', 'ADANIPORTS.NS')":1450.1999511719,
+    "('High', 'ADANIPORTS.NS')":1453.5,
+    "('Low', 'ADANIPORTS.NS')":1432.6999511719,
+    "('Open', 'ADANIPORTS.NS')":1440.8000488281,
+    "('Volume', 'ADANIPORTS.NS')":1586196
+  },
+  {
+    "('Date', '')":"2025-07-01",
+    "('Close', 'ADANIPORTS.NS')":1447.0,
+    "('High', 'ADANIPORTS.NS')":1459.8000488281,
+    "('Low', 'ADANIPORTS.NS')":1442.0,
+    "('Open', 'ADANIPORTS.NS')":1450.3000488281,
+    "('Volume', 'ADANIPORTS.NS')":2134736
+  },
+  {
+    "('Date', '')":"2025-07-02",
+    "('Close', 'ADANIPORTS.NS')":1443.9000244141,
+    "('High', 'ADANIPORTS.NS')":1458.0,
+    "('Low', 'ADANIPORTS.NS')":1440.0,
+    "('Open', 'ADANIPORTS.NS')":1458.0,
+    "('Volume', 'ADANIPORTS.NS')":1219600
+  },
+  {
+    "('Date', '')":"2025-07-03",
+    "('Close', 'ADANIPORTS.NS')":1431.0999755859,
+    "('High', 'ADANIPORTS.NS')":1451.0999755859,
+    "('Low', 'ADANIPORTS.NS')":1426.6999511719,
+    "('Open', 'ADANIPORTS.NS')":1444.0,
+    "('Volume', 'ADANIPORTS.NS')":978007
+  },
+  {
+    "('Date', '')":"2025-07-04",
+    "('Close', 'ADANIPORTS.NS')":1424.4000244141,
+    "('High', 'ADANIPORTS.NS')":1439.9000244141,
+    "('Low', 'ADANIPORTS.NS')":1416.5999755859,
+    "('Open', 'ADANIPORTS.NS')":1432.0,
+    "('Volume', 'ADANIPORTS.NS')":608462
+  },
+  {
+    "('Date', '')":"2025-07-07",
+    "('Close', 'ADANIPORTS.NS')":1435.5999755859,
+    "('High', 'ADANIPORTS.NS')":1437.8000488281,
+    "('Low', 'ADANIPORTS.NS')":1417.0,
+    "('Open', 'ADANIPORTS.NS')":1424.4000244141,
+    "('Volume', 'ADANIPORTS.NS')":764520
+  },
+  {
+    "('Date', '')":"2025-07-08",
+    "('Close', 'ADANIPORTS.NS')":1448.5,
+    "('High', 'ADANIPORTS.NS')":1449.9000244141,
+    "('Low', 'ADANIPORTS.NS')":1430.0,
+    "('Open', 'ADANIPORTS.NS')":1438.0,
+    "('Volume', 'ADANIPORTS.NS')":824935
+  },
+  {
+    "('Date', '')":"2025-07-09",
+    "('Close', 'ADANIPORTS.NS')":1443.0,
+    "('High', 'ADANIPORTS.NS')":1455.8000488281,
+    "('Low', 'ADANIPORTS.NS')":1438.3000488281,
+    "('Open', 'ADANIPORTS.NS')":1448.4000244141,
+    "('Volume', 'ADANIPORTS.NS')":1008636
+  },
+  {
+    "('Date', '')":"2025-07-10",
+    "('Close', 'ADANIPORTS.NS')":1443.0999755859,
+    "('High', 'ADANIPORTS.NS')":1450.1999511719,
+    "('Low', 'ADANIPORTS.NS')":1437.1999511719,
+    "('Open', 'ADANIPORTS.NS')":1444.0,
+    "('Volume', 'ADANIPORTS.NS')":1035509
+  },
+  {
+    "('Date', '')":"2025-07-11",
+    "('Close', 'ADANIPORTS.NS')":1431.6999511719,
+    "('High', 'ADANIPORTS.NS')":1453.9000244141,
+    "('Low', 'ADANIPORTS.NS')":1428.3000488281,
+    "('Open', 'ADANIPORTS.NS')":1444.0,
+    "('Volume', 'ADANIPORTS.NS')":819864
+  },
+  {
+    "('Date', '')":"2025-07-14",
+    "('Close', 'ADANIPORTS.NS')":1433.0,
+    "('High', 'ADANIPORTS.NS')":1446.5,
+    "('Low', 'ADANIPORTS.NS')":1426.0999755859,
+    "('Open', 'ADANIPORTS.NS')":1432.0,
+    "('Volume', 'ADANIPORTS.NS')":718442
+  },
+  {
+    "('Date', '')":"2025-07-15",
+    "('Close', 'ADANIPORTS.NS')":1445.0999755859,
+    "('High', 'ADANIPORTS.NS')":1449.3000488281,
+    "('Low', 'ADANIPORTS.NS')":1429.0,
+    "('Open', 'ADANIPORTS.NS')":1434.4000244141,
+    "('Volume', 'ADANIPORTS.NS')":735108
+  },
+  {
+    "('Date', '')":"2025-07-16",
+    "('Close', 'ADANIPORTS.NS')":1456.6999511719,
+    "('High', 'ADANIPORTS.NS')":1474.0,
+    "('Low', 'ADANIPORTS.NS')":1442.9000244141,
+    "('Open', 'ADANIPORTS.NS')":1447.5,
+    "('Volume', 'ADANIPORTS.NS')":2488981
+  },
+  {
+    "('Date', '')":"2025-07-17",
+    "('Close', 'ADANIPORTS.NS')":1452.5,
+    "('High', 'ADANIPORTS.NS')":1464.0,
+    "('Low', 'ADANIPORTS.NS')":1448.9000244141,
+    "('Open', 'ADANIPORTS.NS')":1455.0,
+    "('Volume', 'ADANIPORTS.NS')":1168071
+  },
+  {
+    "('Date', '')":"2025-07-18",
+    "('Close', 'ADANIPORTS.NS')":1443.0999755859,
+    "('High', 'ADANIPORTS.NS')":1456.5,
+    "('Low', 'ADANIPORTS.NS')":1429.0999755859,
+    "('Open', 'ADANIPORTS.NS')":1452.4000244141,
+    "('Volume', 'ADANIPORTS.NS')":1147990
+  },
+  {
+    "('Date', '')":"2025-07-21",
+    "('Close', 'ADANIPORTS.NS')":1450.5,
+    "('High', 'ADANIPORTS.NS')":1453.0999755859,
+    "('Low', 'ADANIPORTS.NS')":1430.0,
+    "('Open', 'ADANIPORTS.NS')":1442.0999755859,
+    "('Volume', 'ADANIPORTS.NS')":815780
+  },
+  {
+    "('Date', '')":"2025-07-22",
+    "('Close', 'ADANIPORTS.NS')":1420.6999511719,
+    "('High', 'ADANIPORTS.NS')":1454.5,
+    "('Low', 'ADANIPORTS.NS')":1417.0999755859,
+    "('Open', 'ADANIPORTS.NS')":1454.5,
+    "('Volume', 'ADANIPORTS.NS')":976668
+  },
+  {
+    "('Date', '')":"2025-07-23",
+    "('Close', 'ADANIPORTS.NS')":1420.8000488281,
+    "('High', 'ADANIPORTS.NS')":1438.5,
+    "('Low', 'ADANIPORTS.NS')":1419.0,
+    "('Open', 'ADANIPORTS.NS')":1430.0,
+    "('Volume', 'ADANIPORTS.NS')":740816
+  },
+  {
+    "('Date', '')":"2025-07-24",
+    "('Close', 'ADANIPORTS.NS')":1411.5999755859,
+    "('High', 'ADANIPORTS.NS')":1426.0,
+    "('Low', 'ADANIPORTS.NS')":1405.0,
+    "('Open', 'ADANIPORTS.NS')":1423.1999511719,
+    "('Volume', 'ADANIPORTS.NS')":598011
+  },
+  {
+    "('Date', '')":"2025-07-25",
+    "('Close', 'ADANIPORTS.NS')":1396.3000488281,
+    "('High', 'ADANIPORTS.NS')":1416.6999511719,
+    "('Low', 'ADANIPORTS.NS')":1390.0,
+    "('Open', 'ADANIPORTS.NS')":1411.6999511719,
+    "('Volume', 'ADANIPORTS.NS')":744410
+  },
+  {
+    "('Date', '')":"2025-07-28",
+    "('Close', 'ADANIPORTS.NS')":1376.0,
+    "('High', 'ADANIPORTS.NS')":1404.0999755859,
+    "('Low', 'ADANIPORTS.NS')":1373.5,
+    "('Open', 'ADANIPORTS.NS')":1396.3000488281,
+    "('Volume', 'ADANIPORTS.NS')":790020
+  },
+  {
+    "('Date', '')":"2025-07-29",
+    "('Close', 'ADANIPORTS.NS')":1395.9000244141,
+    "('High', 'ADANIPORTS.NS')":1398.6999511719,
+    "('Low', 'ADANIPORTS.NS')":1373.5999755859,
+    "('Open', 'ADANIPORTS.NS')":1376.0,
+    "('Volume', 'ADANIPORTS.NS')":782760
+  },
+  {
+    "('Date', '')":"2025-07-30",
+    "('Close', 'ADANIPORTS.NS')":1394.0,
+    "('High', 'ADANIPORTS.NS')":1403.0999755859,
+    "('Low', 'ADANIPORTS.NS')":1391.5,
+    "('Open', 'ADANIPORTS.NS')":1398.8000488281,
+    "('Volume', 'ADANIPORTS.NS')":627316
+  },
+  {
+    "('Date', '')":"2025-07-31",
+    "('Close', 'ADANIPORTS.NS')":1373.0999755859,
+    "('High', 'ADANIPORTS.NS')":1395.8000488281,
+    "('Low', 'ADANIPORTS.NS')":1370.3000488281,
+    "('Open', 'ADANIPORTS.NS')":1382.0999755859,
+    "('Volume', 'ADANIPORTS.NS')":1412892
+  },
+  {
+    "('Date', '')":"2025-08-01",
+    "('Close', 'ADANIPORTS.NS')":1347.0999755859,
+    "('High', 'ADANIPORTS.NS')":1375.9000244141,
+    "('Low', 'ADANIPORTS.NS')":1342.8000488281,
+    "('Open', 'ADANIPORTS.NS')":1371.0,
+    "('Volume', 'ADANIPORTS.NS')":1239941
+  },
+  {
+    "('Date', '')":"2025-08-04",
+    "('Close', 'ADANIPORTS.NS')":1388.9000244141,
+    "('High', 'ADANIPORTS.NS')":1397.0,
+    "('Low', 'ADANIPORTS.NS')":1345.1999511719,
+    "('Open', 'ADANIPORTS.NS')":1349.8000488281,
+    "('Volume', 'ADANIPORTS.NS')":1368323
+  },
+  {
+    "('Date', '')":"2025-08-05",
+    "('Close', 'ADANIPORTS.NS')":1358.0999755859,
+    "('High', 'ADANIPORTS.NS')":1394.1999511719,
+    "('Low', 'ADANIPORTS.NS')":1346.0,
+    "('Open', 'ADANIPORTS.NS')":1392.0,
+    "('Volume', 'ADANIPORTS.NS')":3000067
+  },
+  {
+    "('Date', '')":"2025-08-06",
+    "('Close', 'ADANIPORTS.NS')":1367.0999755859,
+    "('High', 'ADANIPORTS.NS')":1386.9000244141,
+    "('Low', 'ADANIPORTS.NS')":1358.0999755859,
+    "('Open', 'ADANIPORTS.NS')":1374.0,
+    "('Volume', 'ADANIPORTS.NS')":2293293
+  },
+  {
+    "('Date', '')":"2025-08-07",
+    "('Close', 'ADANIPORTS.NS')":1345.4000244141,
+    "('High', 'ADANIPORTS.NS')":1357.9000244141,
+    "('Low', 'ADANIPORTS.NS')":1315.0,
+    "('Open', 'ADANIPORTS.NS')":1351.0,
+    "('Volume', 'ADANIPORTS.NS')":2857406
+  },
+  {
+    "('Date', '')":"2025-08-08",
+    "('Close', 'ADANIPORTS.NS')":1325.0,
+    "('High', 'ADANIPORTS.NS')":1356.9000244141,
+    "('Low', 'ADANIPORTS.NS')":1317.6999511719,
+    "('Open', 'ADANIPORTS.NS')":1345.4000244141,
+    "('Volume', 'ADANIPORTS.NS')":1561061
+  },
+  {
+    "('Date', '')":"2025-08-11",
+    "('Close', 'ADANIPORTS.NS')":1339.4000244141,
+    "('High', 'ADANIPORTS.NS')":1348.3000488281,
+    "('Low', 'ADANIPORTS.NS')":1313.6999511719,
+    "('Open', 'ADANIPORTS.NS')":1325.0,
+    "('Volume', 'ADANIPORTS.NS')":2053173
+  },
+  {
+    "('Date', '')":"2025-08-12",
+    "('Close', 'ADANIPORTS.NS')":1330.5,
+    "('High', 'ADANIPORTS.NS')":1349.5999755859,
+    "('Low', 'ADANIPORTS.NS')":1328.1999511719,
+    "('Open', 'ADANIPORTS.NS')":1342.0,
+    "('Volume', 'ADANIPORTS.NS')":1260241
+  },
+  {
+    "('Date', '')":"2025-08-13",
+    "('Close', 'ADANIPORTS.NS')":1319.5999755859,
+    "('High', 'ADANIPORTS.NS')":1339.3000488281,
+    "('Low', 'ADANIPORTS.NS')":1316.5999755859,
+    "('Open', 'ADANIPORTS.NS')":1335.1999511719,
+    "('Volume', 'ADANIPORTS.NS')":1205658
+  },
+  {
+    "('Date', '')":"2025-08-14",
+    "('Close', 'ADANIPORTS.NS')":1300.3000488281,
+    "('High', 'ADANIPORTS.NS')":1329.0,
+    "('Low', 'ADANIPORTS.NS')":1290.5,
+    "('Open', 'ADANIPORTS.NS')":1324.8000488281,
+    "('Volume', 'ADANIPORTS.NS')":2298528
+  },
+  {
+    "('Date', '')":"2025-08-18",
+    "('Close', 'ADANIPORTS.NS')":1327.1999511719,
+    "('High', 'ADANIPORTS.NS')":1332.0,
+    "('Low', 'ADANIPORTS.NS')":1295.0,
+    "('Open', 'ADANIPORTS.NS')":1321.9000244141,
+    "('Volume', 'ADANIPORTS.NS')":10225114
+  },
+  {
+    "('Date', '')":"2025-08-19",
+    "('Close', 'ADANIPORTS.NS')":1369.4000244141,
+    "('High', 'ADANIPORTS.NS')":1371.6999511719,
+    "('Low', 'ADANIPORTS.NS')":1325.0,
+    "('Open', 'ADANIPORTS.NS')":1332.0,
+    "('Volume', 'ADANIPORTS.NS')":3150673
+  },
+  {
+    "('Date', '')":"2025-08-20",
+    "('Close', 'ADANIPORTS.NS')":1370.5999755859,
+    "('High', 'ADANIPORTS.NS')":1374.5999755859,
+    "('Low', 'ADANIPORTS.NS')":1358.0,
+    "('Open', 'ADANIPORTS.NS')":1369.4000244141,
+    "('Volume', 'ADANIPORTS.NS')":1594619
+  },
+  {
+    "('Date', '')":"2025-08-21",
+    "('Close', 'ADANIPORTS.NS')":1361.8000488281,
+    "('High', 'ADANIPORTS.NS')":1377.8000488281,
+    "('Low', 'ADANIPORTS.NS')":1355.3000488281,
+    "('Open', 'ADANIPORTS.NS')":1371.0999755859,
+    "('Volume', 'ADANIPORTS.NS')":1227167
+  },
+  {
+    "('Date', '')":"2025-08-22",
+    "('Close', 'ADANIPORTS.NS')":1341.1999511719,
+    "('High', 'ADANIPORTS.NS')":1364.0,
+    "('Low', 'ADANIPORTS.NS')":1338.1999511719,
+    "('Open', 'ADANIPORTS.NS')":1364.0,
+    "('Volume', 'ADANIPORTS.NS')":1210284
+  },
+  {
+    "('Date', '')":"2025-08-25",
+    "('Close', 'ADANIPORTS.NS')":1340.4000244141,
+    "('High', 'ADANIPORTS.NS')":1348.9000244141,
+    "('Low', 'ADANIPORTS.NS')":1332.5,
+    "('Open', 'ADANIPORTS.NS')":1341.3000488281,
+    "('Volume', 'ADANIPORTS.NS')":1214246
+  },
+  {
+    "('Date', '')":"2025-08-26",
+    "('Close', 'ADANIPORTS.NS')":1315.4000244141,
+    "('High', 'ADANIPORTS.NS')":1339.9000244141,
+    "('Low', 'ADANIPORTS.NS')":1310.0,
+    "('Open', 'ADANIPORTS.NS')":1335.1999511719,
+    "('Volume', 'ADANIPORTS.NS')":1652272
+  },
+  {
+    "('Date', '')":"2025-08-28",
+    "('Close', 'ADANIPORTS.NS')":1315.4000244141,
+    "('High', 'ADANIPORTS.NS')":1338.8000488281,
+    "('Low', 'ADANIPORTS.NS')":1311.1999511719,
+    "('Open', 'ADANIPORTS.NS')":1316.9000244141,
+    "('Volume', 'ADANIPORTS.NS')":1785681
+  },
+  {
+    "('Date', '')":"2025-08-29",
+    "('Close', 'ADANIPORTS.NS')":1312.8000488281,
+    "('High', 'ADANIPORTS.NS')":1322.9000244141,
+    "('Low', 'ADANIPORTS.NS')":1303.0,
+    "('Open', 'ADANIPORTS.NS')":1318.0,
+    "('Volume', 'ADANIPORTS.NS')":1592903
+  },
+  {
+    "('Date', '')":"2025-09-01",
+    "('Close', 'ADANIPORTS.NS')":1335.3000488281,
+    "('High', 'ADANIPORTS.NS')":1338.5,
+    "('Low', 'ADANIPORTS.NS')":1316.0999755859,
+    "('Open', 'ADANIPORTS.NS')":1318.3000488281,
+    "('Volume', 'ADANIPORTS.NS')":983914
+  },
+  {
+    "('Date', '')":"2025-09-02",
+    "('Close', 'ADANIPORTS.NS')":1336.1999511719,
+    "('High', 'ADANIPORTS.NS')":1348.8000488281,
+    "('Low', 'ADANIPORTS.NS')":1328.1999511719,
+    "('Open', 'ADANIPORTS.NS')":1340.9000244141,
+    "('Volume', 'ADANIPORTS.NS')":1495993
+  },
+  {
+    "('Date', '')":"2025-09-03",
+    "('Close', 'ADANIPORTS.NS')":1332.4000244141,
+    "('High', 'ADANIPORTS.NS')":1344.8000488281,
+    "('Low', 'ADANIPORTS.NS')":1327.5999755859,
+    "('Open', 'ADANIPORTS.NS')":1338.0,
+    "('Volume', 'ADANIPORTS.NS')":1774676
+  },
+  {
+    "('Date', '')":"2025-09-04",
+    "('Close', 'ADANIPORTS.NS')":1328.1999511719,
+    "('High', 'ADANIPORTS.NS')":1348.0,
+    "('Low', 'ADANIPORTS.NS')":1326.0,
+    "('Open', 'ADANIPORTS.NS')":1338.0,
+    "('Volume', 'ADANIPORTS.NS')":1350147
+  },
+  {
+    "('Date', '')":"2025-09-05",
+    "('Close', 'ADANIPORTS.NS')":1321.8000488281,
+    "('High', 'ADANIPORTS.NS')":1335.6999511719,
+    "('Low', 'ADANIPORTS.NS')":1312.8000488281,
+    "('Open', 'ADANIPORTS.NS')":1330.0,
+    "('Volume', 'ADANIPORTS.NS')":1135666
+  },
+  {
+    "('Date', '')":"2025-09-08",
+    "('Close', 'ADANIPORTS.NS')":1348.3000488281,
+    "('High', 'ADANIPORTS.NS')":1363.4000244141,
+    "('Low', 'ADANIPORTS.NS')":1321.9000244141,
+    "('Open', 'ADANIPORTS.NS')":1321.9000244141,
+    "('Volume', 'ADANIPORTS.NS')":1445628
+  },
+  {
+    "('Date', '')":"2025-09-09",
+    "('Close', 'ADANIPORTS.NS')":1380.9000244141,
+    "('High', 'ADANIPORTS.NS')":1385.0,
+    "('Low', 'ADANIPORTS.NS')":1348.3000488281,
+    "('Open', 'ADANIPORTS.NS')":1354.6999511719,
+    "('Volume', 'ADANIPORTS.NS')":3515252
+  },
+  {
+    "('Date', '')":"2025-09-10",
+    "('Close', 'ADANIPORTS.NS')":1389.0999755859,
+    "('High', 'ADANIPORTS.NS')":1404.9000244141,
+    "('Low', 'ADANIPORTS.NS')":1385.0,
+    "('Open', 'ADANIPORTS.NS')":1400.0,
+    "('Volume', 'ADANIPORTS.NS')":2553605
+  },
+  {
+    "('Date', '')":"2025-09-11",
+    "('Close', 'ADANIPORTS.NS')":1393.0999755859,
+    "('High', 'ADANIPORTS.NS')":1423.0999755859,
+    "('Low', 'ADANIPORTS.NS')":1388.0,
+    "('Open', 'ADANIPORTS.NS')":1404.9000244141,
+    "('Volume', 'ADANIPORTS.NS')":4041646
+  },
+  {
+    "('Date', '')":"2025-09-12",
+    "('Close', 'ADANIPORTS.NS')":1393.0999755859,
+    "('High', 'ADANIPORTS.NS')":1406.5,
+    "('Low', 'ADANIPORTS.NS')":1391.0999755859,
+    "('Open', 'ADANIPORTS.NS')":1395.5,
+    "('Volume', 'ADANIPORTS.NS')":1466190
+  },
+  {
+    "('Date', '')":"2025-09-15",
+    "('Close', 'ADANIPORTS.NS')":1395.1999511719,
+    "('High', 'ADANIPORTS.NS')":1409.0,
+    "('Low', 'ADANIPORTS.NS')":1392.1999511719,
+    "('Open', 'ADANIPORTS.NS')":1393.0999755859,
+    "('Volume', 'ADANIPORTS.NS')":1254831
+  },
+  {
+    "('Date', '')":"2025-09-16",
+    "('Close', 'ADANIPORTS.NS')":1408.1999511719,
+    "('High', 'ADANIPORTS.NS')":1412.5999755859,
+    "('Low', 'ADANIPORTS.NS')":1396.5999755859,
+    "('Open', 'ADANIPORTS.NS')":1400.0,
+    "('Volume', 'ADANIPORTS.NS')":1636246
+  },
+  {
+    "('Date', '')":"2025-09-17",
+    "('Close', 'ADANIPORTS.NS')":1406.0999755859,
+    "('High', 'ADANIPORTS.NS')":1413.0999755859,
+    "('Low', 'ADANIPORTS.NS')":1396.1999511719,
+    "('Open', 'ADANIPORTS.NS')":1410.0,
+    "('Volume', 'ADANIPORTS.NS')":1062568
+  },
+  {
+    "('Date', '')":"2025-09-18",
+    "('Close', 'ADANIPORTS.NS')":1412.8000488281,
+    "('High', 'ADANIPORTS.NS')":1415.0,
+    "('Low', 'ADANIPORTS.NS')":1401.0,
+    "('Open', 'ADANIPORTS.NS')":1410.0,
+    "('Volume', 'ADANIPORTS.NS')":1416920
+  },
+  {
+    "('Date', '')":"2025-09-19",
+    "('Close', 'ADANIPORTS.NS')":1427.8000488281,
+    "('High', 'ADANIPORTS.NS')":1460.0,
+    "('Low', 'ADANIPORTS.NS')":1425.0,
+    "('Open', 'ADANIPORTS.NS')":1447.8000488281,
+    "('Volume', 'ADANIPORTS.NS')":8069167
+  },
+  {
+    "('Date', '')":"2025-09-22",
+    "('Close', 'ADANIPORTS.NS')":1444.1999511719,
+    "('High', 'ADANIPORTS.NS')":1461.6999511719,
+    "('Low', 'ADANIPORTS.NS')":1425.0,
+    "('Open', 'ADANIPORTS.NS')":1433.0,
+    "('Volume', 'ADANIPORTS.NS')":5490489
+  },
+  {
+    "('Date', '')":"2025-09-23",
+    "('Close', 'ADANIPORTS.NS')":1441.5999755859,
+    "('High', 'ADANIPORTS.NS')":1455.0,
+    "('Low', 'ADANIPORTS.NS')":1423.0999755859,
+    "('Open', 'ADANIPORTS.NS')":1453.0,
+    "('Volume', 'ADANIPORTS.NS')":2550337
+  },
+  {
+    "('Date', '')":"2025-09-24",
+    "('Close', 'ADANIPORTS.NS')":1431.5999755859,
+    "('High', 'ADANIPORTS.NS')":1452.4000244141,
+    "('Low', 'ADANIPORTS.NS')":1429.0999755859,
+    "('Open', 'ADANIPORTS.NS')":1445.0,
+    "('Volume', 'ADANIPORTS.NS')":2603193
+  },
+  {
+    "('Date', '')":"2025-09-25",
+    "('Close', 'ADANIPORTS.NS')":1407.1999511719,
+    "('High', 'ADANIPORTS.NS')":1439.9000244141,
+    "('Low', 'ADANIPORTS.NS')":1404.0999755859,
+    "('Open', 'ADANIPORTS.NS')":1431.6999511719,
+    "('Volume', 'ADANIPORTS.NS')":1970560
+  },
+  {
+    "('Date', '')":"2025-09-26",
+    "('Close', 'ADANIPORTS.NS')":1392.0,
+    "('High', 'ADANIPORTS.NS')":1416.6999511719,
+    "('Low', 'ADANIPORTS.NS')":1390.3000488281,
+    "('Open', 'ADANIPORTS.NS')":1407.1999511719,
+    "('Volume', 'ADANIPORTS.NS')":1899079
+  },
+  {
+    "('Date', '')":"2025-09-29",
+    "('Close', 'ADANIPORTS.NS')":1383.1999511719,
+    "('High', 'ADANIPORTS.NS')":1401.3000488281,
+    "('Low', 'ADANIPORTS.NS')":1377.5999755859,
+    "('Open', 'ADANIPORTS.NS')":1393.5999755859,
+    "('Volume', 'ADANIPORTS.NS')":1978395
+  },
+  {
+    "('Date', '')":"2025-09-30",
+    "('Close', 'ADANIPORTS.NS')":1403.5,
+    "('High', 'ADANIPORTS.NS')":1408.0,
+    "('Low', 'ADANIPORTS.NS')":1387.1999511719,
+    "('Open', 'ADANIPORTS.NS')":1389.6999511719,
+    "('Volume', 'ADANIPORTS.NS')":1999250
+  },
+  {
+    "('Date', '')":"2025-10-01",
+    "('Close', 'ADANIPORTS.NS')":1422.6999511719,
+    "('High', 'ADANIPORTS.NS')":1426.9000244141,
+    "('Low', 'ADANIPORTS.NS')":1392.6999511719,
+    "('Open', 'ADANIPORTS.NS')":1406.0,
+    "('Volume', 'ADANIPORTS.NS')":1602493
+  },
+  {
+    "('Date', '')":"2025-10-03",
+    "('Close', 'ADANIPORTS.NS')":1419.0999755859,
+    "('High', 'ADANIPORTS.NS')":1431.0,
+    "('Low', 'ADANIPORTS.NS')":1412.5,
+    "('Open', 'ADANIPORTS.NS')":1413.0,
+    "('Volume', 'ADANIPORTS.NS')":1576970
+  },
+  {
+    "('Date', '')":"2025-10-06",
+    "('Close', 'ADANIPORTS.NS')":1400.5,
+    "('High', 'ADANIPORTS.NS')":1419.0999755859,
+    "('Low', 'ADANIPORTS.NS')":1395.0,
+    "('Open', 'ADANIPORTS.NS')":1419.0999755859,
+    "('Volume', 'ADANIPORTS.NS')":1338654
+  },
+  {
+    "('Date', '')":"2025-10-07",
+    "('Close', 'ADANIPORTS.NS')":1399.5,
+    "('High', 'ADANIPORTS.NS')":1415.0,
+    "('Low', 'ADANIPORTS.NS')":1397.3000488281,
+    "('Open', 'ADANIPORTS.NS')":1400.8000488281,
+    "('Volume', 'ADANIPORTS.NS')":1608151
+  },
+  {
+    "('Date', '')":"2025-10-08",
+    "('Close', 'ADANIPORTS.NS')":1394.3000488281,
+    "('High', 'ADANIPORTS.NS')":1411.0999755859,
+    "('Low', 'ADANIPORTS.NS')":1386.0,
+    "('Open', 'ADANIPORTS.NS')":1399.4000244141,
+    "('Volume', 'ADANIPORTS.NS')":1704405
+  },
+  {
+    "('Date', '')":"2025-10-09",
+    "('Close', 'ADANIPORTS.NS')":1395.5999755859,
+    "('High', 'ADANIPORTS.NS')":1399.8000488281,
+    "('Low', 'ADANIPORTS.NS')":1388.4000244141,
+    "('Open', 'ADANIPORTS.NS')":1394.5,
+    "('Volume', 'ADANIPORTS.NS')":1250770
+  },
+  {
+    "('Date', '')":"2025-10-10",
+    "('Close', 'ADANIPORTS.NS')":1409.4000244141,
+    "('High', 'ADANIPORTS.NS')":1418.0,
+    "('Low', 'ADANIPORTS.NS')":1395.6999511719,
+    "('Open', 'ADANIPORTS.NS')":1400.5,
+    "('Volume', 'ADANIPORTS.NS')":1359246
+  },
+  {
+    "('Date', '')":"2025-10-13",
+    "('Close', 'ADANIPORTS.NS')":1437.8000488281,
+    "('High', 'ADANIPORTS.NS')":1441.9000244141,
+    "('Low', 'ADANIPORTS.NS')":1396.0,
+    "('Open', 'ADANIPORTS.NS')":1400.8000488281,
+    "('Volume', 'ADANIPORTS.NS')":2245061
+  },
+  {
+    "('Date', '')":"2025-10-14",
+    "('Close', 'ADANIPORTS.NS')":1429.0,
+    "('High', 'ADANIPORTS.NS')":1442.1999511719,
+    "('Low', 'ADANIPORTS.NS')":1422.0,
+    "('Open', 'ADANIPORTS.NS')":1440.0,
+    "('Volume', 'ADANIPORTS.NS')":2640234
+  },
+  {
+    "('Date', '')":"2025-10-15",
+    "('Close', 'ADANIPORTS.NS')":1450.6999511719,
+    "('High', 'ADANIPORTS.NS')":1456.3000488281,
+    "('Low', 'ADANIPORTS.NS')":1430.0,
+    "('Open', 'ADANIPORTS.NS')":1430.0,
+    "('Volume', 'ADANIPORTS.NS')":2675240
+  },
+  {
+    "('Date', '')":"2025-10-16",
+    "('Close', 'ADANIPORTS.NS')":1479.5,
+    "('High', 'ADANIPORTS.NS')":1490.5,
+    "('Low', 'ADANIPORTS.NS')":1453.0,
+    "('Open', 'ADANIPORTS.NS')":1454.0,
+    "('Volume', 'ADANIPORTS.NS')":6512312
+  },
+  {
+    "('Date', '')":"2025-10-17",
+    "('Close', 'ADANIPORTS.NS')":1479.4000244141,
+    "('High', 'ADANIPORTS.NS')":1489.0,
+    "('Low', 'ADANIPORTS.NS')":1462.5,
+    "('Open', 'ADANIPORTS.NS')":1479.5,
+    "('Volume', 'ADANIPORTS.NS')":3290072
+  },
+  {
+    "('Date', '')":"2025-10-20",
+    "('Close', 'ADANIPORTS.NS')":1467.0,
+    "('High', 'ADANIPORTS.NS')":1489.0,
+    "('Low', 'ADANIPORTS.NS')":1459.0999755859,
+    "('Open', 'ADANIPORTS.NS')":1488.0,
+    "('Volume', 'ADANIPORTS.NS')":2660484
+  },
+  {
+    "('Date', '')":"2025-10-21",
+    "('Close', 'ADANIPORTS.NS')":1473.5,
+    "('High', 'ADANIPORTS.NS')":1481.5,
+    "('Low', 'ADANIPORTS.NS')":1470.0,
+    "('Open', 'ADANIPORTS.NS')":1477.0,
+    "('Volume', 'ADANIPORTS.NS')":394024
+  },
+  {
+    "('Date', '')":"2025-10-23",
+    "('Close', 'ADANIPORTS.NS')":1453.0999755859,
+    "('High', 'ADANIPORTS.NS')":1483.5,
+    "('Low', 'ADANIPORTS.NS')":1450.3000488281,
+    "('Open', 'ADANIPORTS.NS')":1478.8000488281,
+    "('Volume', 'ADANIPORTS.NS')":2999137
+  },
+  {
+    "('Date', '')":"2025-10-24",
+    "('Close', 'ADANIPORTS.NS')":1429.0,
+    "('High', 'ADANIPORTS.NS')":1463.5,
+    "('Low', 'ADANIPORTS.NS')":1422.3000488281,
+    "('Open', 'ADANIPORTS.NS')":1463.0,
+    "('Volume', 'ADANIPORTS.NS')":1907383
+  },
+  {
+    "('Date', '')":"2025-10-27",
+    "('Close', 'ADANIPORTS.NS')":1420.5999755859,
+    "('High', 'ADANIPORTS.NS')":1429.8000488281,
+    "('Low', 'ADANIPORTS.NS')":1410.0,
+    "('Open', 'ADANIPORTS.NS')":1429.0,
+    "('Volume', 'ADANIPORTS.NS')":2280976
+  },
+  {
+    "('Date', '')":"2025-10-28",
+    "('Close', 'ADANIPORTS.NS')":1417.9000244141,
+    "('High', 'ADANIPORTS.NS')":1435.0,
+    "('Low', 'ADANIPORTS.NS')":1410.0,
+    "('Open', 'ADANIPORTS.NS')":1425.9000244141,
+    "('Volume', 'ADANIPORTS.NS')":2068057
+  },
+  {
+    "('Date', '')":"2025-10-29",
+    "('Close', 'ADANIPORTS.NS')":1454.8000488281,
+    "('High', 'ADANIPORTS.NS')":1464.8000488281,
+    "('Low', 'ADANIPORTS.NS')":1421.5999755859,
+    "('Open', 'ADANIPORTS.NS')":1424.0999755859,
+    "('Volume', 'ADANIPORTS.NS')":3578596
+  },
+  {
+    "('Date', '')":"2025-10-30",
+    "('Close', 'ADANIPORTS.NS')":1457.9000244141,
+    "('High', 'ADANIPORTS.NS')":1463.0,
+    "('Low', 'ADANIPORTS.NS')":1449.5999755859,
+    "('Open', 'ADANIPORTS.NS')":1458.0,
+    "('Volume', 'ADANIPORTS.NS')":1380931
+  },
+  {
+    "('Date', '')":"2025-10-31",
+    "('Close', 'ADANIPORTS.NS')":1451.5,
+    "('High', 'ADANIPORTS.NS')":1461.6999511719,
+    "('Low', 'ADANIPORTS.NS')":1443.0,
+    "('Open', 'ADANIPORTS.NS')":1457.9000244141,
+    "('Volume', 'ADANIPORTS.NS')":1141853
+  },
+  {
+    "('Date', '')":"2025-11-03",
+    "('Close', 'ADANIPORTS.NS')":1444.6999511719,
+    "('High', 'ADANIPORTS.NS')":1457.4000244141,
+    "('Low', 'ADANIPORTS.NS')":1435.3000488281,
+    "('Open', 'ADANIPORTS.NS')":1451.5,
+    "('Volume', 'ADANIPORTS.NS')":1059573
+  },
+  {
+    "('Date', '')":"2025-11-04",
+    "('Close', 'ADANIPORTS.NS')":1444.4000244141,
+    "('High', 'ADANIPORTS.NS')":1466.3000488281,
+    "('Low', 'ADANIPORTS.NS')":1432.0,
+    "('Open', 'ADANIPORTS.NS')":1449.5999755859,
+    "('Volume', 'ADANIPORTS.NS')":3554714
+  },
+  {
+    "('Date', '')":"2025-11-06",
+    "('Close', 'ADANIPORTS.NS')":1436.8000488281,
+    "('High', 'ADANIPORTS.NS')":1466.3000488281,
+    "('Low', 'ADANIPORTS.NS')":1434.3000488281,
+    "('Open', 'ADANIPORTS.NS')":1452.0999755859,
+    "('Volume', 'ADANIPORTS.NS')":2745063
+  },
+  {
+    "('Date', '')":"2025-11-07",
+    "('Close', 'ADANIPORTS.NS')":1448.3000488281,
+    "('High', 'ADANIPORTS.NS')":1464.0,
+    "('Low', 'ADANIPORTS.NS')":1425.0,
+    "('Open', 'ADANIPORTS.NS')":1435.0,
+    "('Volume', 'ADANIPORTS.NS')":2184538
+  },
+  {
+    "('Date', '')":"2025-11-10",
+    "('Close', 'ADANIPORTS.NS')":1444.9000244141,
+    "('High', 'ADANIPORTS.NS')":1463.9000244141,
+    "('Low', 'ADANIPORTS.NS')":1441.0,
+    "('Open', 'ADANIPORTS.NS')":1452.1999511719,
+    "('Volume', 'ADANIPORTS.NS')":1161695
+  },
+  {
+    "('Date', '')":"2025-11-11",
+    "('Close', 'ADANIPORTS.NS')":1474.4000244141,
+    "('High', 'ADANIPORTS.NS')":1476.0,
+    "('Low', 'ADANIPORTS.NS')":1437.8000488281,
+    "('Open', 'ADANIPORTS.NS')":1453.0,
+    "('Volume', 'ADANIPORTS.NS')":2258284
+  }
+]

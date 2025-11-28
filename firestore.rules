@@ -1,0 +1,174 @@
+/**
+ * @fileoverview Firestore Security Rules for StockSim application.
+ *
+ * Core Philosophy:
+ * This ruleset enforces a strict user-ownership model for user-specific data
+ * (profiles, portfolios, holdings, watchlists, and trades). Stock data is
+ * publicly accessible to all authenticated users.
+ *
+ * Data Structure:
+ * - User Profiles: /users/{userId}
+ * - Portfolios: /users/{userId}/portfolios/{portfolioId}
+ * - Holdings: /users/{userId}/portfolios/{portfolioId}/holdings/{holdingId}
+ * - Watchlists: /users/{userId}/watchlists/{watchlistId}
+ * - Trades: /users/{userId}/portfolios/{portfolioId}/trades/{tradeId}
+ * - Stock Data: /stock_data/{stockDataId}
+ *
+ * Key Security Decisions:
+ * - User data is strictly isolated to the owning user.
+ * - Stock data is readable by any authenticated user.
+ * - No user listing is allowed.
+ * - Data schema is not validated in the prototyping phase.
+ *
+ * Denormalization for Authorization:
+ *  - The `userProfileId` field is present on Portfolio, Watchlist, and Holding documents and is validated against the `userId` path parameter.
+ *
+ * Structural Segregation:
+ *  - User-specific data is stored under the /users/{userId} path, while public data is stored in the top-level /stock_data collection.
+ */
+
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    /**
+     * @description Secure user profiles, allowing only the owner to read and write.
+     * @path /users/{userId}
+     * @allow (read, write) if request.auth.uid == userId
+     * @deny (read, write) if request.auth.uid != userId
+     * @principle Enforces document ownership for all operations.
+     */
+    match /users/{userId} {
+      allow get: if isSignedIn() && isOwner(userId);
+      allow list: if false;
+      allow create: if isSignedIn() && isOwner(userId) && request.resource.data.id == userId;
+      allow update: if isSignedIn() && isExistingOwner(userId);
+      allow delete: if isSignedIn() && isExistingOwner(userId);
+    }
+
+    /**
+     * @description Secure portfolios, allowing only the owner to read and write.
+     * @path /users/{userId}/portfolios/{portfolioId}
+     * @allow (read, write) if request.auth.uid == userId
+     * @deny (read, write) if request.auth.uid != userId
+     * @principle Enforces document ownership for all operations.
+     */
+    match /users/{userId}/portfolios/{portfolioId} {
+      allow get: if isSignedIn() && isOwner(userId);
+      allow list: if isSignedIn() && isOwner(userId);
+      allow create: if isSignedIn() && isPortfolioOwner(userId, request.resource.data.userProfileId);
+      allow update: if isSignedIn() && isExistingPortfolioOwner(userId, request.resource.data.userProfileId);
+      allow delete: if isSignedIn() && isExistingOwner(userId);
+    }
+
+    /**
+     * @description Secure holdings, allowing only the owner to read and write.
+     * @path /users/{userId}/portfolios/{portfolioId}/holdings/{holdingId}
+     * @allow (read, write) if request.auth.uid == userId
+     * @deny (read, write) if request.auth.uid != userId
+     * @principle Enforces document ownership for all operations.
+     */
+    match /users/{userId}/portfolios/{portfolioId}/holdings/{holdingId} {
+      allow get: if isSignedIn() && isOwner(userId);
+      allow list: if isSignedIn() && isOwner(userId);
+      allow create: if isSignedIn() && isHoldingOwner(userId);
+      allow update: if isSignedIn() && isExistingHoldingOwner(userId);
+      allow delete: if isSignedIn() && isExistingOwner(userId);
+    }
+
+    /**
+     * @description Secure watchlists, allowing only the owner to read and write.
+     * @path /users/{userId}/watchlists/{watchlistId}
+     * @allow (read, write) if request.auth.uid == userId
+     * @deny (read, write) if request.auth.uid != userId
+     * @principle Enforces document ownership for all operations.
+     */
+    match /users/{userId}/watchlists/{watchlistId} {
+      allow get: if isSignedIn() && isOwner(userId);
+      allow list: if isSignedIn() && isOwner(userId);
+      allow create: if isSignedIn() && isWatchlistOwner(userId, request.resource.data.userProfileId);
+      allow update: if isSignedIn() && isExistingWatchlistOwner(userId, request.resource.data.userProfileId);
+      allow delete: if isSignedIn() && isExistingOwner(userId);
+    }
+
+    /**
+     * @description Secure trades, allowing only the owner to read and write.
+     * @path /users/{userId}/portfolios/{portfolioId}/trades/{tradeId}
+     * @allow (read, write) if request.auth.uid == userId
+     * @deny (read, write) if request.auth.uid != userId
+     * @principle Enforces document ownership for all operations.
+     */
+    match /users/{userId}/portfolios/{portfolioId}/trades/{tradeId} {
+      allow get: if isSignedIn() && isOwner(userId);
+      allow list: if isSignedIn() && isOwner(userId);
+      allow create: if isSignedIn() && isTradeOwner(userId);
+      allow update: if isSignedIn() && isExistingTradeOwner(userId);
+      allow delete: if isSignedIn() && isExistingOwner(userId);
+    }
+
+    /**
+     * @description Allow all authenticated users to read stock data, but restrict writes.
+     * @path /stock_data/{stockDataId}
+     * @allow (read) if request.auth != null
+     * @deny (write)
+     * @principle Provides public read access to stock data for authenticated users.
+     */
+    match /stock_data/{stockDataId} {
+      allow get: if isSignedIn();
+      allow list: if isSignedIn();
+      allow create: if false;
+      allow update: if false;
+      allow delete: if false;
+    }
+  }
+
+  // Helper functions
+  function isSignedIn() {
+    return request.auth != null;
+  }
+
+  function isOwner(userId) {
+    return request.auth.uid == userId;
+  }
+
+  function isExistingOwner(userId) {
+    return isSignedIn() && isOwner(userId) && resource != null;
+  }
+
+  function isPortfolioOwner(userId, userProfileId) {
+      return isSignedIn() && isOwner(userId) && userId == userProfileId;
+  }
+
+    function isExistingPortfolioOwner(userId, userProfileId) {
+      return isSignedIn() && isOwner(userId) && resource != null && userId == userProfileId;
+  }
+
+  function isHoldingOwner(userId) {
+    //  TODO: actually look up the portfolio and validate it belongs to user. This is just a placeholder.
+    return isSignedIn() && isOwner(userId);
+  }
+
+  function isExistingHoldingOwner(userId) {
+    //  TODO: actually look up the portfolio and validate it belongs to user. This is just a placeholder.
+    return isSignedIn() && isOwner(userId) && resource != null;
+  }
+
+    function isWatchlistOwner(userId, userProfileId) {
+      return isSignedIn() && isOwner(userId) && userId == userProfileId;
+  }
+
+    function isExistingWatchlistOwner(userId, userProfileId) {
+      return isSignedIn() && isOwner(userId) && resource != null && userId == userProfileId;
+  }
+
+
+    function isTradeOwner(userId) {
+    //  TODO: actually look up the portfolio and validate it belongs to user. This is just a placeholder.
+    return isSignedIn() && isOwner(userId);
+  }
+
+  function isExistingTradeOwner(userId) {
+    //  TODO: actually look up the portfolio and validate it belongs to user. This is just a placeholder.
+    return isSignedIn() && isOwner(userId) && resource != null;
+  }
+}

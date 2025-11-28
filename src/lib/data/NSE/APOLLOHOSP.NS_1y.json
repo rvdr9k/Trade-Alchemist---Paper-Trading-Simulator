@@ -1,0 +1,1994 @@
+[
+  {
+    "('Date', '')":"2024-11-11",
+    "('Close', 'APOLLOHOSP.NS')":7136.2099609375,
+    "('High', 'APOLLOHOSP.NS')":7434.1064966498,
+    "('Low', 'APOLLOHOSP.NS')":6963.8246385644,
+    "('Open', 'APOLLOHOSP.NS')":7380.1021975573,
+    "('Volume', 'APOLLOHOSP.NS')":625620
+  },
+  {
+    "('Date', '')":"2024-11-12",
+    "('Close', 'APOLLOHOSP.NS')":7000.6748046875,
+    "('High', 'APOLLOHOSP.NS')":7213.4015504713,
+    "('Low', 'APOLLOHOSP.NS')":6982.17487892,
+    "('Open', 'APOLLOHOSP.NS')":7141.9939796695,
+    "('Volume', 'APOLLOHOSP.NS')":194183
+  },
+  {
+    "('Date', '')":"2024-11-13",
+    "('Close', 'APOLLOHOSP.NS')":6840.4072265625,
+    "('High', 'APOLLOHOSP.NS')":6979.3826235253,
+    "('Low', 'APOLLOHOSP.NS')":6812.0836891678,
+    "('Open', 'APOLLOHOSP.NS')":6951.2582561664,
+    "('Volume', 'APOLLOHOSP.NS')":299775
+  },
+  {
+    "('Date', '')":"2024-11-14",
+    "('Close', 'APOLLOHOSP.NS')":6842.2021484375,
+    "('High', 'APOLLOHOSP.NS')":6889.4249253645,
+    "('Low', 'APOLLOHOSP.NS')":6808.6923988301,
+    "('Open', 'APOLLOHOSP.NS')":6841.5539936306,
+    "('Volume', 'APOLLOHOSP.NS')":192648
+  },
+  {
+    "('Date', '')":"2024-11-18",
+    "('Close', 'APOLLOHOSP.NS')":6723.7709960938,
+    "('High', 'APOLLOHOSP.NS')":6855.9648625552,
+    "('Low', 'APOLLOHOSP.NS')":6676.5482224105,
+    "('Open', 'APOLLOHOSP.NS')":6855.9648625552,
+    "('Volume', 'APOLLOHOSP.NS')":268706
+  },
+  {
+    "('Date', '')":"2024-11-19",
+    "('Close', 'APOLLOHOSP.NS')":6668.9189453125,
+    "('High', 'APOLLOHOSP.NS')":6778.623157234,
+    "('Low', 'APOLLOHOSP.NS')":6643.2883443445,
+    "('Open', 'APOLLOHOSP.NS')":6731.8493679084,
+    "('Volume', 'APOLLOHOSP.NS')":290018
+  },
+  {
+    "('Date', '')":"2024-11-21",
+    "('Close', 'APOLLOHOSP.NS')":6724.3701171875,
+    "('High', 'APOLLOHOSP.NS')":6743.7680129432,
+    "('Low', 'APOLLOHOSP.NS')":6576.4189175492,
+    "('Open', 'APOLLOHOSP.NS')":6605.7397666064,
+    "('Volume', 'APOLLOHOSP.NS')":258574
+  },
+  {
+    "('Date', '')":"2024-11-22",
+    "('Close', 'APOLLOHOSP.NS')":6916.4521484375,
+    "('High', 'APOLLOHOSP.NS')":6931.610984629,
+    "('Low', 'APOLLOHOSP.NS')":6733.4455657831,
+    "('Open', 'APOLLOHOSP.NS')":6733.4455657831,
+    "('Volume', 'APOLLOHOSP.NS')":498633
+  },
+  {
+    "('Date', '')":"2024-11-25",
+    "('Close', 'APOLLOHOSP.NS')":7055.9755859375,
+    "('High', 'APOLLOHOSP.NS')":7127.781980593,
+    "('Low', 'APOLLOHOSP.NS')":6912.2629681292,
+    "('Open', 'APOLLOHOSP.NS')":6961.2310374337,
+    "('Volume', 'APOLLOHOSP.NS')":639047
+  },
+  {
+    "('Date', '')":"2024-11-26",
+    "('Close', 'APOLLOHOSP.NS')":7057.521484375,
+    "('High', 'APOLLOHOSP.NS')":7092.9260274942,
+    "('Low', 'APOLLOHOSP.NS')":7023.5632371001,
+    "('Open', 'APOLLOHOSP.NS')":7075.9220684736,
+    "('Volume', 'APOLLOHOSP.NS')":179222
+  },
+  {
+    "('Date', '')":"2024-11-27",
+    "('Close', 'APOLLOHOSP.NS')":6963.9243164062,
+    "('High', 'APOLLOHOSP.NS')":7096.2672053642,
+    "('Low', 'APOLLOHOSP.NS')":6951.2582708242,
+    "('Open', 'APOLLOHOSP.NS')":7057.5215722716,
+    "('Volume', 'APOLLOHOSP.NS')":227250
+  },
+  {
+    "('Date', '')":"2024-11-28",
+    "('Close', 'APOLLOHOSP.NS')":6822.705078125,
+    "('High', 'APOLLOHOSP.NS')":7011.0970479223,
+    "('Low', 'APOLLOHOSP.NS')":6797.6724720681,
+    "('Open', 'APOLLOHOSP.NS')":6963.9244275792,
+    "('Volume', 'APOLLOHOSP.NS')":412343
+  },
+  {
+    "('Date', '')":"2024-11-29",
+    "('Close', 'APOLLOHOSP.NS')":6810.5375976562,
+    "('High', 'APOLLOHOSP.NS')":6873.9170095374,
+    "('Low', 'APOLLOHOSP.NS')":6793.6831376474,
+    "('Open', 'APOLLOHOSP.NS')":6848.5849183045,
+    "('Volume', 'APOLLOHOSP.NS')":410883
+  },
+  {
+    "('Date', '')":"2024-12-02",
+    "('Close', 'APOLLOHOSP.NS')":7046.8002929688,
+    "('High', 'APOLLOHOSP.NS')":7060.9623048081,
+    "('Low', 'APOLLOHOSP.NS')":6802.7585687674,
+    "('Open', 'APOLLOHOSP.NS')":6839.5592494878,
+    "('Volume', 'APOLLOHOSP.NS')":579743
+  },
+  {
+    "('Date', '')":"2024-12-03",
+    "('Close', 'APOLLOHOSP.NS')":7107.38671875,
+    "('High', 'APOLLOHOSP.NS')":7116.2130187501,
+    "('Low', 'APOLLOHOSP.NS')":7057.5211673013,
+    "('Open', 'APOLLOHOSP.NS')":7085.2963768519,
+    "('Volume', 'APOLLOHOSP.NS')":351470
+  },
+  {
+    "('Date', '')":"2024-12-04",
+    "('Close', 'APOLLOHOSP.NS')":7212.9028320312,
+    "('High', 'APOLLOHOSP.NS')":7249.5540139428,
+    "('Low', 'APOLLOHOSP.NS')":7105.8910617793,
+    "('Open', 'APOLLOHOSP.NS')":7197.2448534069,
+    "('Volume', 'APOLLOHOSP.NS')":604278
+  },
+  {
+    "('Date', '')":"2024-12-05",
+    "('Close', 'APOLLOHOSP.NS')":7255.1884765625,
+    "('High', 'APOLLOHOSP.NS')":7315.2267958612,
+    "('Low', 'APOLLOHOSP.NS')":7121.1996411605,
+    "('Open', 'APOLLOHOSP.NS')":7237.7355333906,
+    "('Volume', 'APOLLOHOSP.NS')":510951
+  },
+  {
+    "('Date', '')":"2024-12-06",
+    "('Close', 'APOLLOHOSP.NS')":7213.8500976562,
+    "('High', 'APOLLOHOSP.NS')":7290.3937236561,
+    "('Low', 'APOLLOHOSP.NS')":7188.3689941465,
+    "('Open', 'APOLLOHOSP.NS')":7243.4704317556,
+    "('Volume', 'APOLLOHOSP.NS')":189048
+  },
+  {
+    "('Date', '')":"2024-12-09",
+    "('Close', 'APOLLOHOSP.NS')":7174.5063476562,
+    "('High', 'APOLLOHOSP.NS')":7208.5147525812,
+    "('Low', 'APOLLOHOSP.NS')":7143.4898759452,
+    "('Open', 'APOLLOHOSP.NS')":7143.4898759452,
+    "('Volume', 'APOLLOHOSP.NS')":203674
+  },
+  {
+    "('Date', '')":"2024-12-10",
+    "('Close', 'APOLLOHOSP.NS')":7238.7827148438,
+    "('High', 'APOLLOHOSP.NS')":7288.7982543733,
+    "('Low', 'APOLLOHOSP.NS')":7195.798997478,
+    "('Open', 'APOLLOHOSP.NS')":7209.3620383997,
+    "('Volume', 'APOLLOHOSP.NS')":333300
+  },
+  {
+    "('Date', '')":"2024-12-11",
+    "('Close', 'APOLLOHOSP.NS')":7321.060546875,
+    "('High', 'APOLLOHOSP.NS')":7344.1983573454,
+    "('Low', 'APOLLOHOSP.NS')":7196.6459970272,
+    "('Open', 'APOLLOHOSP.NS')":7236.1897685775,
+    "('Volume', 'APOLLOHOSP.NS')":391192
+  },
+  {
+    "('Date', '')":"2024-12-12",
+    "('Close', 'APOLLOHOSP.NS')":7207.6669921875,
+    "('High', 'APOLLOHOSP.NS')":7298.9706266288,
+    "('Low', 'APOLLOHOSP.NS')":7170.1679982455,
+    "('Open', 'APOLLOHOSP.NS')":7280.3708724101,
+    "('Volume', 'APOLLOHOSP.NS')":396742
+  },
+  {
+    "('Date', '')":"2024-12-13",
+    "('Close', 'APOLLOHOSP.NS')":7239.9296875,
+    "('High', 'APOLLOHOSP.NS')":7257.7814573855,
+    "('Low', 'APOLLOHOSP.NS')":7184.8282535797,
+    "('Open', 'APOLLOHOSP.NS')":7201.5828839483,
+    "('Volume', 'APOLLOHOSP.NS')":314999
+  },
+  {
+    "('Date', '')":"2024-12-16",
+    "('Close', 'APOLLOHOSP.NS')":7239.6806640625,
+    "('High', 'APOLLOHOSP.NS')":7250.5512572567,
+    "('Low', 'APOLLOHOSP.NS')":7146.7807489598,
+    "('Open', 'APOLLOHOSP.NS')":7232.1506733551,
+    "('Volume', 'APOLLOHOSP.NS')":219812
+  },
+  {
+    "('Date', '')":"2024-12-17",
+    "('Close', 'APOLLOHOSP.NS')":7199.3393554688,
+    "('High', 'APOLLOHOSP.NS')":7287.3520582386,
+    "('Low', 'APOLLOHOSP.NS')":7181.6370838068,
+    "('Open', 'APOLLOHOSP.NS')":7207.567171875,
+    "('Volume', 'APOLLOHOSP.NS')":237831
+  },
+  {
+    "('Date', '')":"2024-12-18",
+    "('Close', 'APOLLOHOSP.NS')":7217.9389648438,
+    "('High', 'APOLLOHOSP.NS')":7247.9581251292,
+    "('Low', 'APOLLOHOSP.NS')":7158.3496290369,
+    "('Open', 'APOLLOHOSP.NS')":7213.8002213404,
+    "('Volume', 'APOLLOHOSP.NS')":253532
+  },
+  {
+    "('Date', '')":"2024-12-19",
+    "('Close', 'APOLLOHOSP.NS')":7277.9272460938,
+    "('High', 'APOLLOHOSP.NS')":7293.5852247704,
+    "('Low', 'APOLLOHOSP.NS')":7118.2079747051,
+    "('Open', 'APOLLOHOSP.NS')":7128.7795695018,
+    "('Volume', 'APOLLOHOSP.NS')":292899
+  },
+  {
+    "('Date', '')":"2024-12-20",
+    "('Close', 'APOLLOHOSP.NS')":7232.201171875,
+    "('High', 'APOLLOHOSP.NS')":7370.0292751094,
+    "('Low', 'APOLLOHOSP.NS')":7190.6627745648,
+    "('Open', 'APOLLOHOSP.NS')":7305.1042244484,
+    "('Volume', 'APOLLOHOSP.NS')":349055
+  },
+  {
+    "('Date', '')":"2024-12-23",
+    "('Close', 'APOLLOHOSP.NS')":7245.5649414062,
+    "('High', 'APOLLOHOSP.NS')":7310.1905056439,
+    "('Low', 'APOLLOHOSP.NS')":7165.6802252179,
+    "('Open', 'APOLLOHOSP.NS')":7231.6025860614,
+    "('Volume', 'APOLLOHOSP.NS')":179062
+  },
+  {
+    "('Date', '')":"2024-12-24",
+    "('Close', 'APOLLOHOSP.NS')":7220.5322265625,
+    "('High', 'APOLLOHOSP.NS')":7260.1753420329,
+    "('Low', 'APOLLOHOSP.NS')":7191.0117211707,
+    "('Open', 'APOLLOHOSP.NS')":7240.4784481828,
+    "('Volume', 'APOLLOHOSP.NS')":146814
+  },
+  {
+    "('Date', '')":"2024-12-26",
+    "('Close', 'APOLLOHOSP.NS')":7241.625,
+    "('High', 'APOLLOHOSP.NS')":7278.425680182,
+    "('Low', 'APOLLOHOSP.NS')":7205.3229753407,
+    "('Open', 'APOLLOHOSP.NS')":7252.6455792328,
+    "('Volume', 'APOLLOHOSP.NS')":116439
+  },
+  {
+    "('Date', '')":"2024-12-27",
+    "('Close', 'APOLLOHOSP.NS')":7226.8149414062,
+    "('High', 'APOLLOHOSP.NS')":7275.3841848298,
+    "('Low', 'APOLLOHOSP.NS')":7135.7606363889,
+    "('Open', 'APOLLOHOSP.NS')":7241.6251080452,
+    "('Volume', 'APOLLOHOSP.NS')":189089
+  },
+  {
+    "('Date', '')":"2024-12-30",
+    "('Close', 'APOLLOHOSP.NS')":7294.5825195312,
+    "('High', 'APOLLOHOSP.NS')":7358.5599275042,
+    "('Low', 'APOLLOHOSP.NS')":7200.6356216179,
+    "('Open', 'APOLLOHOSP.NS')":7220.532172322,
+    "('Volume', 'APOLLOHOSP.NS')":428884
+  },
+  {
+    "('Date', '')":"2024-12-31",
+    "('Close', 'APOLLOHOSP.NS')":7276.7309570312,
+    "('High', 'APOLLOHOSP.NS')":7346.1439071295,
+    "('Low', 'APOLLOHOSP.NS')":7233.2977663548,
+    "('Open', 'APOLLOHOSP.NS')":7285.9560847255,
+    "('Volume', 'APOLLOHOSP.NS')":212227
+  },
+  {
+    "('Date', '')":"2025-01-01",
+    "('Close', 'APOLLOHOSP.NS')":7349.8334960938,
+    "('High', 'APOLLOHOSP.NS')":7424.9809832914,
+    "('Low', 'APOLLOHOSP.NS')":7280.7697038717,
+    "('Open', 'APOLLOHOSP.NS')":7300.3170984141,
+    "('Volume', 'APOLLOHOSP.NS')":341399
+  },
+  {
+    "('Date', '')":"2025-01-02",
+    "('Close', 'APOLLOHOSP.NS')":7401.6938476562,
+    "('High', 'APOLLOHOSP.NS')":7424.9314885292,
+    "('Low', 'APOLLOHOSP.NS')":7313.331986567,
+    "('Open', 'APOLLOHOSP.NS')":7385.0887151906,
+    "('Volume', 'APOLLOHOSP.NS')":265991
+  },
+  {
+    "('Date', '')":"2025-01-03",
+    "('Close', 'APOLLOHOSP.NS')":7278.7255859375,
+    "('High', 'APOLLOHOSP.NS')":7417.5509992934,
+    "('Low', 'APOLLOHOSP.NS')":7260.4248298039,
+    "('Open', 'APOLLOHOSP.NS')":7407.9772022793,
+    "('Volume', 'APOLLOHOSP.NS')":180636
+  },
+  {
+    "('Date', '')":"2025-01-06",
+    "('Close', 'APOLLOHOSP.NS')":7409.1733398438,
+    "('High', 'APOLLOHOSP.NS')":7452.9055270758,
+    "('Low', 'APOLLOHOSP.NS')":7271.1455869835,
+    "('Open', 'APOLLOHOSP.NS')":7278.7252484085,
+    "('Volume', 'APOLLOHOSP.NS')":527272
+  },
+  {
+    "('Date', '')":"2025-01-07",
+    "('Close', 'APOLLOHOSP.NS')":7416.7529296875,
+    "('High', 'APOLLOHOSP.NS')":7525.0610067986,
+    "('Low', 'APOLLOHOSP.NS')":7325.4492981108,
+    "('Open', 'APOLLOHOSP.NS')":7446.1736055776,
+    "('Volume', 'APOLLOHOSP.NS')":398234
+  },
+  {
+    "('Date', '')":"2025-01-08",
+    "('Close', 'APOLLOHOSP.NS')":7123.4438476562,
+    "('High', 'APOLLOHOSP.NS')":7439.9406144879,
+    "('Low', 'APOLLOHOSP.NS')":7111.825271034,
+    "('Open', 'APOLLOHOSP.NS')":7428.7208649018,
+    "('Volume', 'APOLLOHOSP.NS')":450295
+  },
+  {
+    "('Date', '')":"2025-01-09",
+    "('Close', 'APOLLOHOSP.NS')":7072.4809570312,
+    "('High', 'APOLLOHOSP.NS')":7144.437338611,
+    "('Low', 'APOLLOHOSP.NS')":6972.3013545911,
+    "('Open', 'APOLLOHOSP.NS')":7120.8008720216,
+    "('Volume', 'APOLLOHOSP.NS')":305521
+  },
+  {
+    "('Date', '')":"2025-01-10",
+    "('Close', 'APOLLOHOSP.NS')":7017.8286132812,
+    "('High', 'APOLLOHOSP.NS')":7119.8036693381,
+    "('Low', 'APOLLOHOSP.NS')":6997.9822205475,
+    "('Open', 'APOLLOHOSP.NS')":7070.9354273157,
+    "('Volume', 'APOLLOHOSP.NS')":185381
+  },
+  {
+    "('Date', '')":"2025-01-13",
+    "('Close', 'APOLLOHOSP.NS')":6821.208984375,
+    "('High', 'APOLLOHOSP.NS')":6981.1775847812,
+    "('Low', 'APOLLOHOSP.NS')":6737.8833511642,
+    "('Open', 'APOLLOHOSP.NS')":6981.1775847812,
+    "('Volume', 'APOLLOHOSP.NS')":431086
+  },
+  {
+    "('Date', '')":"2025-01-14",
+    "('Close', 'APOLLOHOSP.NS')":6688.8159179688,
+    "('High', 'APOLLOHOSP.NS')":6880.4491447024,
+    "('Low', 'APOLLOHOSP.NS')":6665.1297798057,
+    "('Open', 'APOLLOHOSP.NS')":6836.1686301198,
+    "('Volume', 'APOLLOHOSP.NS')":362659
+  },
+  {
+    "('Date', '')":"2025-01-15",
+    "('Close', 'APOLLOHOSP.NS')":6673.8559570312,
+    "('High', 'APOLLOHOSP.NS')":6741.7729360109,
+    "('Low', 'APOLLOHOSP.NS')":6590.2313292266,
+    "('Open', 'APOLLOHOSP.NS')":6731.4506693894,
+    "('Volume', 'APOLLOHOSP.NS')":547360
+  },
+  {
+    "('Date', '')":"2025-01-16",
+    "('Close', 'APOLLOHOSP.NS')":6771.3930664062,
+    "('High', 'APOLLOHOSP.NS')":6789.4941650865,
+    "('Low', 'APOLLOHOSP.NS')":6682.0338963834,
+    "('Open', 'APOLLOHOSP.NS')":6741.8228903239,
+    "('Volume', 'APOLLOHOSP.NS')":579821
+  },
+  {
+    "('Date', '')":"2025-01-17",
+    "('Close', 'APOLLOHOSP.NS')":6809.7397460938,
+    "('High', 'APOLLOHOSP.NS')":6826.5942056139,
+    "('Low', 'APOLLOHOSP.NS')":6744.1163861656,
+    "('Open', 'APOLLOHOSP.NS')":6801.6117583485,
+    "('Volume', 'APOLLOHOSP.NS')":166710
+  },
+  {
+    "('Date', '')":"2025-01-20",
+    "('Close', 'APOLLOHOSP.NS')":6762.6166992188,
+    "('High', 'APOLLOHOSP.NS')":6891.4193233314,
+    "('Low', 'APOLLOHOSP.NS')":6721.8764456228,
+    "('Open', 'APOLLOHOSP.NS')":6882.4435239232,
+    "('Volume', 'APOLLOHOSP.NS')":120356
+  },
+  {
+    "('Date', '')":"2025-01-21",
+    "('Close', 'APOLLOHOSP.NS')":6900.5444335938,
+    "('High', 'APOLLOHOSP.NS')":6996.0871213101,
+    "('Low', 'APOLLOHOSP.NS')":6819.6127418674,
+    "('Open', 'APOLLOHOSP.NS')":6819.6127418674,
+    "('Volume', 'APOLLOHOSP.NS')":799900
+  },
+  {
+    "('Date', '')":"2025-01-22",
+    "('Close', 'APOLLOHOSP.NS')":6874.365234375,
+    "('High', 'APOLLOHOSP.NS')":6923.2836335245,
+    "('Low', 'APOLLOHOSP.NS')":6811.5346382687,
+    "('Open', 'APOLLOHOSP.NS')":6889.4247286132,
+    "('Volume', 'APOLLOHOSP.NS')":247081
+  },
+  {
+    "('Date', '')":"2025-01-23",
+    "('Close', 'APOLLOHOSP.NS')":6902.240234375,
+    "('High', 'APOLLOHOSP.NS')":6944.3766259725,
+    "('Low', 'APOLLOHOSP.NS')":6804.8529083487,
+    "('Open', 'APOLLOHOSP.NS')":6873.7170411307,
+    "('Volume', 'APOLLOHOSP.NS')":271085
+  },
+  {
+    "('Date', '')":"2025-01-24",
+    "('Close', 'APOLLOHOSP.NS')":6726.9125976562,
+    "('High', 'APOLLOHOSP.NS')":6896.655130495,
+    "('Low', 'APOLLOHOSP.NS')":6710.3576240602,
+    "('Open', 'APOLLOHOSP.NS')":6896.655130495,
+    "('Volume', 'APOLLOHOSP.NS')":317194
+  },
+  {
+    "('Date', '')":"2025-01-27",
+    "('Close', 'APOLLOHOSP.NS')":6677.4467773438,
+    "('High', 'APOLLOHOSP.NS')":6711.7040239416,
+    "('Low', 'APOLLOHOSP.NS')":6656.4034158092,
+    "('Open', 'APOLLOHOSP.NS')":6681.9843480465,
+    "('Volume', 'APOLLOHOSP.NS')":191705
+  },
+  {
+    "('Date', '')":"2025-01-28",
+    "('Close', 'APOLLOHOSP.NS')":6690.9106445312,
+    "('High', 'APOLLOHOSP.NS')":6729.3567934844,
+    "('Low', 'APOLLOHOSP.NS')":6617.208963065,
+    "('Open', 'APOLLOHOSP.NS')":6680.9872040833,
+    "('Volume', 'APOLLOHOSP.NS')":202194
+  },
+  {
+    "('Date', '')":"2025-01-29",
+    "('Close', 'APOLLOHOSP.NS')":6766.0571289062,
+    "('High', 'APOLLOHOSP.NS')":6780.4684682962,
+    "('Low', 'APOLLOHOSP.NS')":6679.2413972122,
+    "('Open', 'APOLLOHOSP.NS')":6722.873755438,
+    "('Volume', 'APOLLOHOSP.NS')":146288
+  },
+  {
+    "('Date', '')":"2025-01-30",
+    "('Close', 'APOLLOHOSP.NS')":6806.298828125,
+    "('High', 'APOLLOHOSP.NS')":6876.4597585885,
+    "('Low', 'APOLLOHOSP.NS')":6752.1450323552,
+    "('Open', 'APOLLOHOSP.NS')":6768.0021808153,
+    "('Volume', 'APOLLOHOSP.NS')":204648
+  },
+  {
+    "('Date', '')":"2025-01-31",
+    "('Close', 'APOLLOHOSP.NS')":6792.1870117188,
+    "('High', 'APOLLOHOSP.NS')":6861.5001307723,
+    "('Low', 'APOLLOHOSP.NS')":6770.8943230763,
+    "('Open', 'APOLLOHOSP.NS')":6803.9054167386,
+    "('Volume', 'APOLLOHOSP.NS')":187712
+  },
+  {
+    "('Date', '')":"2025-02-01",
+    "('Close', 'APOLLOHOSP.NS')":6822.705078125,
+    "('High', 'APOLLOHOSP.NS')":6921.3390487313,
+    "('Low', 'APOLLOHOSP.NS')":6791.9379332309,
+    "('Open', 'APOLLOHOSP.NS')":6791.9876039986,
+    "('Volume', 'APOLLOHOSP.NS')":117096
+  },
+  {
+    "('Date', '')":"2025-02-03",
+    "('Close', 'APOLLOHOSP.NS')":6780.369140625,
+    "('High', 'APOLLOHOSP.NS')":6868.2323475874,
+    "('Low', 'APOLLOHOSP.NS')":6706.8676033484,
+    "('Open', 'APOLLOHOSP.NS')":6763.3651808363,
+    "('Volume', 'APOLLOHOSP.NS')":250589
+  },
+  {
+    "('Date', '')":"2025-02-04",
+    "('Close', 'APOLLOHOSP.NS')":6773.9365234375,
+    "('High', 'APOLLOHOSP.NS')":6798.2708164356,
+    "('Low', 'APOLLOHOSP.NS')":6688.2671119508,
+    "('Open', 'APOLLOHOSP.NS')":6766.7556888624,
+    "('Volume', 'APOLLOHOSP.NS')":223642
+  },
+  {
+    "('Date', '')":"2025-02-05",
+    "('Close', 'APOLLOHOSP.NS')":6925.9765625,
+    "('High', 'APOLLOHOSP.NS')":6989.156319258,
+    "('Low', 'APOLLOHOSP.NS')":6778.1753469022,
+    "('Open', 'APOLLOHOSP.NS')":6807.7951949441,
+    "('Volume', 'APOLLOHOSP.NS')":389639
+  },
+  {
+    "('Date', '')":"2025-02-06",
+    "('Close', 'APOLLOHOSP.NS')":6855.765625,
+    "('High', 'APOLLOHOSP.NS')":6906.3791618177,
+    "('Low', 'APOLLOHOSP.NS')":6767.3039382772,
+    "('Open', 'APOLLOHOSP.NS')":6819.0146146658,
+    "('Volume', 'APOLLOHOSP.NS')":334197
+  },
+  {
+    "('Date', '')":"2025-02-07",
+    "('Close', 'APOLLOHOSP.NS')":6772.2905273438,
+    "('High', 'APOLLOHOSP.NS')":6911.2162523089,
+    "('Low', 'APOLLOHOSP.NS')":6731.8497580291,
+    "('Open', 'APOLLOHOSP.NS')":6902.8389366704,
+    "('Volume', 'APOLLOHOSP.NS')":259335
+  },
+  {
+    "('Date', '')":"2025-02-10",
+    "('Close', 'APOLLOHOSP.NS')":6743.0698242188,
+    "('High', 'APOLLOHOSP.NS')":6815.9733646371,
+    "('Low', 'APOLLOHOSP.NS')":6668.0221622816,
+    "('Open', 'APOLLOHOSP.NS')":6798.8695762869,
+    "('Volume', 'APOLLOHOSP.NS')":213808
+  },
+  {
+    "('Date', '')":"2025-02-11",
+    "('Close', 'APOLLOHOSP.NS')":6300.36328125,
+    "('High', 'APOLLOHOSP.NS')":6796.6750453879,
+    "('Low', 'APOLLOHOSP.NS')":6265.6068925384,
+    "('Open', 'APOLLOHOSP.NS')":6781.6155506082,
+    "('Volume', 'APOLLOHOSP.NS')":1728723
+  },
+  {
+    "('Date', '')":"2025-02-12",
+    "('Close', 'APOLLOHOSP.NS')":6357.4091796875,
+    "('High', 'APOLLOHOSP.NS')":6476.5878542998,
+    "('Low', 'APOLLOHOSP.NS')":6198.2883909234,
+    "('Open', 'APOLLOHOSP.NS')":6332.5265603072,
+    "('Volume', 'APOLLOHOSP.NS')":1133586
+  },
+  {
+    "('Date', '')":"2025-02-13",
+    "('Close', 'APOLLOHOSP.NS')":6355.0654296875,
+    "('High', 'APOLLOHOSP.NS')":6407.7232563689,
+    "('Low', 'APOLLOHOSP.NS')":6327.3900490861,
+    "('Open', 'APOLLOHOSP.NS')":6355.1151004508,
+    "('Volume', 'APOLLOHOSP.NS')":636246
+  },
+  {
+    "('Date', '')":"2025-02-14",
+    "('Close', 'APOLLOHOSP.NS')":6262.484375,
+    "('High', 'APOLLOHOSP.NS')":6371.7444306661,
+    "('Low', 'APOLLOHOSP.NS')":6222.6354769868,
+    "('Open', 'APOLLOHOSP.NS')":6369.0979157115,
+    "('Volume', 'APOLLOHOSP.NS')":320088
+  },
+  {
+    "('Date', '')":"2025-02-17",
+    "('Close', 'APOLLOHOSP.NS')":6292.146484375,
+    "('High', 'APOLLOHOSP.NS')":6308.9248134321,
+    "('Low', 'APOLLOHOSP.NS')":6142.1382939065,
+    "('Open', 'APOLLOHOSP.NS')":6142.1382939065,
+    "('Volume', 'APOLLOHOSP.NS')":482329
+  },
+  {
+    "('Date', '')":"2025-02-18",
+    "('Close', 'APOLLOHOSP.NS')":6368.6982421875,
+    "('High', 'APOLLOHOSP.NS')":6381.8313343347,
+    "('Low', 'APOLLOHOSP.NS')":6311.9208189351,
+    "('Open', 'APOLLOHOSP.NS')":6311.9208189351,
+    "('Volume', 'APOLLOHOSP.NS')":220118
+  },
+  {
+    "('Date', '')":"2025-02-19",
+    "('Close', 'APOLLOHOSP.NS')":6414.439453125,
+    "('High', 'APOLLOHOSP.NS')":6426.7737629287,
+    "('Low', 'APOLLOHOSP.NS')":6276.2164754755,
+    "('Open', 'APOLLOHOSP.NS')":6340.1346605302,
+    "('Volume', 'APOLLOHOSP.NS')":195067
+  },
+  {
+    "('Date', '')":"2025-02-20",
+    "('Close', 'APOLLOHOSP.NS')":6382.7802734375,
+    "('High', 'APOLLOHOSP.NS')":6461.1799223398,
+    "('Low', 'APOLLOHOSP.NS')":6369.7466634143,
+    "('Open', 'APOLLOHOSP.NS')":6376.0886433728,
+    "('Volume', 'APOLLOHOSP.NS')":165304
+  },
+  {
+    "('Date', '')":"2025-02-21",
+    "('Close', 'APOLLOHOSP.NS')":6309.4736328125,
+    "('High', 'APOLLOHOSP.NS')":6387.4241485574,
+    "('Low', 'APOLLOHOSP.NS')":6284.9054708625,
+    "('Open', 'APOLLOHOSP.NS')":6354.1664257144,
+    "('Volume', 'APOLLOHOSP.NS')":220428
+  },
+  {
+    "('Date', '')":"2025-02-24",
+    "('Close', 'APOLLOHOSP.NS')":6243.4086914062,
+    "('High', 'APOLLOHOSP.NS')":6266.9786208823,
+    "('Low', 'APOLLOHOSP.NS')":6228.0284748721,
+    "('Open', 'APOLLOHOSP.NS')":6266.9786208823,
+    "('Volume', 'APOLLOHOSP.NS')":458224
+  },
+  {
+    "('Date', '')":"2025-02-25",
+    "('Close', 'APOLLOHOSP.NS')":6243.3588867188,
+    "('High', 'APOLLOHOSP.NS')":6271.9224243664,
+    "('Low', 'APOLLOHOSP.NS')":6205.1075536891,
+    "('Open', 'APOLLOHOSP.NS')":6243.0092365985,
+    "('Volume', 'APOLLOHOSP.NS')":421160
+  },
+  {
+    "('Date', '')":"2025-02-27",
+    "('Close', 'APOLLOHOSP.NS')":6177.2934570312,
+    "('High', 'APOLLOHOSP.NS')":6274.2191998644,
+    "('Low', 'APOLLOHOSP.NS')":6137.5942707215,
+    "('Open', 'APOLLOHOSP.NS')":6252.9963644158,
+    "('Volume', 'APOLLOHOSP.NS')":397857
+  },
+  {
+    "('Date', '')":"2025-02-28",
+    "('Close', 'APOLLOHOSP.NS')":6044.8627929688,
+    "('High', 'APOLLOHOSP.NS')":6137.1943174768,
+    "('Low', 'APOLLOHOSP.NS')":5993.6783080959,
+    "('Open', 'APOLLOHOSP.NS')":6137.1943174768,
+    "('Volume', 'APOLLOHOSP.NS')":845516
+  },
+  {
+    "('Date', '')":"2025-03-03",
+    "('Close', 'APOLLOHOSP.NS')":6162.7119140625,
+    "('High', 'APOLLOHOSP.NS')":6187.0806248031,
+    "('Low', 'APOLLOHOSP.NS')":5993.3286246075,
+    "('Open', 'APOLLOHOSP.NS')":6017.897274741,
+    "('Volume', 'APOLLOHOSP.NS')":373515
+  },
+  {
+    "('Date', '')":"2025-03-04",
+    "('Close', 'APOLLOHOSP.NS')":6180.2392578125,
+    "('High', 'APOLLOHOSP.NS')":6212.5480006006,
+    "('Low', 'APOLLOHOSP.NS')":6104.4861234118,
+    "('Open', 'APOLLOHOSP.NS')":6125.1598565523,
+    "('Volume', 'APOLLOHOSP.NS')":445246
+  },
+  {
+    "('Date', '')":"2025-03-05",
+    "('Close', 'APOLLOHOSP.NS')":6206.4555664062,
+    "('High', 'APOLLOHOSP.NS')":6227.0790704229,
+    "('Low', 'APOLLOHOSP.NS')":6122.8126303457,
+    "('Open', 'APOLLOHOSP.NS')":6192.0740725434,
+    "('Volume', 'APOLLOHOSP.NS')":345922
+  },
+  {
+    "('Date', '')":"2025-03-06",
+    "('Close', 'APOLLOHOSP.NS')":6266.0795898438,
+    "('High', 'APOLLOHOSP.NS')":6283.9566098132,
+    "('Low', 'APOLLOHOSP.NS')":6209.1022272257,
+    "('Open', 'APOLLOHOSP.NS')":6247.0039088337,
+    "('Volume', 'APOLLOHOSP.NS')":284475
+  },
+  {
+    "('Date', '')":"2025-03-07",
+    "('Close', 'APOLLOHOSP.NS')":6208.1538085938,
+    "('High', 'APOLLOHOSP.NS')":6306.6776028267,
+    "('Low', 'APOLLOHOSP.NS')":6189.3775487905,
+    "('Open', 'APOLLOHOSP.NS')":6284.2063654755,
+    "('Volume', 'APOLLOHOSP.NS')":299433
+  },
+  {
+    "('Date', '')":"2025-03-10",
+    "('Close', 'APOLLOHOSP.NS')":6141.7387695312,
+    "('High', 'APOLLOHOSP.NS')":6204.0589030934,
+    "('Low', 'APOLLOHOSP.NS')":6126.0586445298,
+    "('Open', 'APOLLOHOSP.NS')":6198.46596431,
+    "('Volume', 'APOLLOHOSP.NS')":266043
+  },
+  {
+    "('Date', '')":"2025-03-11",
+    "('Close', 'APOLLOHOSP.NS')":6126.9575195312,
+    "('High', 'APOLLOHOSP.NS')":6147.8311926058,
+    "('Low', 'APOLLOHOSP.NS')":6032.2789000698,
+    "('Open', 'APOLLOHOSP.NS')":6122.1638505675,
+    "('Volume', 'APOLLOHOSP.NS')":526709
+  },
+  {
+    "('Date', '')":"2025-03-12",
+    "('Close', 'APOLLOHOSP.NS')":6135.8959960938,
+    "('High', 'APOLLOHOSP.NS')":6150.0780382605,
+    "('Low', 'APOLLOHOSP.NS')":6055.998265931,
+    "('Open', 'APOLLOHOSP.NS')":6126.2584299243,
+    "('Volume', 'APOLLOHOSP.NS')":250139
+  },
+  {
+    "('Date', '')":"2025-03-13",
+    "('Close', 'APOLLOHOSP.NS')":6097.8447265625,
+    "('High', 'APOLLOHOSP.NS')":6192.0742114897,
+    "('Low', 'APOLLOHOSP.NS')":6074.3250268381,
+    "('Open', 'APOLLOHOSP.NS')":6147.2317070702,
+    "('Volume', 'APOLLOHOSP.NS')":247628
+  },
+  {
+    "('Date', '')":"2025-03-17",
+    "('Close', 'APOLLOHOSP.NS')":6148.7797851562,
+    "('High', 'APOLLOHOSP.NS')":6196.2692940324,
+    "('Low', 'APOLLOHOSP.NS')":5994.3275735816,
+    "('Open', 'APOLLOHOSP.NS')":5994.3275735816,
+    "('Volume', 'APOLLOHOSP.NS')":287639
+  },
+  {
+    "('Date', '')":"2025-03-18",
+    "('Close', 'APOLLOHOSP.NS')":6148.7797851562,
+    "('High', 'APOLLOHOSP.NS')":6148.7797851562,
+    "('Low', 'APOLLOHOSP.NS')":6148.7797851562,
+    "('Open', 'APOLLOHOSP.NS')":6148.7797851562,
+    "('Volume', 'APOLLOHOSP.NS')":0
+  },
+  {
+    "('Date', '')":"2025-03-19",
+    "('Close', 'APOLLOHOSP.NS')":6419.3330078125,
+    "('High', 'APOLLOHOSP.NS')":6426.6737093129,
+    "('Low', 'APOLLOHOSP.NS')":6219.1395499861,
+    "('Open', 'APOLLOHOSP.NS')":6267.227898864,
+    "('Volume', 'APOLLOHOSP.NS')":579880
+  },
+  {
+    "('Date', '')":"2025-03-20",
+    "('Close', 'APOLLOHOSP.NS')":6466.0737304688,
+    "('High', 'APOLLOHOSP.NS')":6476.3603685891,
+    "('Low', 'APOLLOHOSP.NS')":6355.6150164271,
+    "('Open', 'APOLLOHOSP.NS')":6456.7355853391,
+    "('Volume', 'APOLLOHOSP.NS')":457285
+  },
+  {
+    "('Date', '')":"2025-03-21",
+    "('Close', 'APOLLOHOSP.NS')":6603.0981445312,
+    "('High', 'APOLLOHOSP.NS')":6625.6196110647,
+    "('Low', 'APOLLOHOSP.NS')":6461.7790264648,
+    "('Open', 'APOLLOHOSP.NS')":6485.6986058222,
+    "('Volume', 'APOLLOHOSP.NS')":496635
+  },
+  {
+    "('Date', '')":"2025-03-24",
+    "('Close', 'APOLLOHOSP.NS')":6607.3427734375,
+    "('High', 'APOLLOHOSP.NS')":6691.3855939267,
+    "('Low', 'APOLLOHOSP.NS')":6592.0127855943,
+    "('Open', 'APOLLOHOSP.NS')":6640.8999198128,
+    "('Volume', 'APOLLOHOSP.NS')":389998
+  },
+  {
+    "('Date', '')":"2025-03-25",
+    "('Close', 'APOLLOHOSP.NS')":6636.2060546875,
+    "('High', 'APOLLOHOSP.NS')":6658.6270635137,
+    "('Low', 'APOLLOHOSP.NS')":6553.6613187979,
+    "('Open', 'APOLLOHOSP.NS')":6588.0674752832,
+    "('Volume', 'APOLLOHOSP.NS')":223668
+  },
+  {
+    "('Date', '')":"2025-03-26",
+    "('Close', 'APOLLOHOSP.NS')":6511.4653320312,
+    "('High', 'APOLLOHOSP.NS')":6671.4607382111,
+    "('Low', 'APOLLOHOSP.NS')":6482.7520840936,
+    "('Open', 'APOLLOHOSP.NS')":6645.2940354624,
+    "('Volume', 'APOLLOHOSP.NS')":281646
+  },
+  {
+    "('Date', '')":"2025-03-27",
+    "('Close', 'APOLLOHOSP.NS')":6483.7509765625,
+    "('High', 'APOLLOHOSP.NS')":6551.5645696908,
+    "('Low', 'APOLLOHOSP.NS')":6422.0301709543,
+    "('Open', 'APOLLOHOSP.NS')":6491.7407501121,
+    "('Volume', 'APOLLOHOSP.NS')":728926
+  },
+  {
+    "('Date', '')":"2025-03-28",
+    "('Close', 'APOLLOHOSP.NS')":6607.7426757812,
+    "('High', 'APOLLOHOSP.NS')":6641.2495935971,
+    "('Low', 'APOLLOHOSP.NS')":6424.7269251099,
+    "('Open', 'APOLLOHOSP.NS')":6483.7509871789,
+    "('Volume', 'APOLLOHOSP.NS')":413873
+  },
+  {
+    "('Date', '')":"2025-04-01",
+    "('Close', 'APOLLOHOSP.NS')":6623.8212890625,
+    "('High', 'APOLLOHOSP.NS')":6653.3835469199,
+    "('Low', 'APOLLOHOSP.NS')":6537.2821571261,
+    "('Open', 'APOLLOHOSP.NS')":6590.5640537586,
+    "('Volume', 'APOLLOHOSP.NS')":319668
+  },
+  {
+    "('Date', '')":"2025-04-02",
+    "('Close', 'APOLLOHOSP.NS')":6723.5439453125,
+    "('High', 'APOLLOHOSP.NS')":6737.7757290087,
+    "('Low', 'APOLLOHOSP.NS')":6623.8214897412,
+    "('Open', 'APOLLOHOSP.NS')":6623.8214897412,
+    "('Volume', 'APOLLOHOSP.NS')":292940
+  },
+  {
+    "('Date', '')":"2025-04-03",
+    "('Close', 'APOLLOHOSP.NS')":6662.8217773438,
+    "('High', 'APOLLOHOSP.NS')":6766.2894378165,
+    "('Low', 'APOLLOHOSP.NS')":6651.5359301044,
+    "('Open', 'APOLLOHOSP.NS')":6666.5167548546,
+    "('Volume', 'APOLLOHOSP.NS')":312519
+  },
+  {
+    "('Date', '')":"2025-04-04",
+    "('Close', 'APOLLOHOSP.NS')":6705.9663085938,
+    "('High', 'APOLLOHOSP.NS')":6726.3903615472,
+    "('Low', 'APOLLOHOSP.NS')":6573.5859479887,
+    "('Open', 'APOLLOHOSP.NS')":6663.4708971408,
+    "('Volume', 'APOLLOHOSP.NS')":279891
+  },
+  {
+    "('Date', '')":"2025-04-07",
+    "('Close', 'APOLLOHOSP.NS')":6674.7563476562,
+    "('High', 'APOLLOHOSP.NS')":6717.1025366255,
+    "('Low', 'APOLLOHOSP.NS')":6482.5526546975,
+    "('Open', 'APOLLOHOSP.NS')":6556.6077690588,
+    "('Volume', 'APOLLOHOSP.NS')":744140
+  },
+  {
+    "('Date', '')":"2025-04-08",
+    "('Close', 'APOLLOHOSP.NS')":6746.9643554688,
+    "('High', 'APOLLOHOSP.NS')":6781.320284119,
+    "('Low', 'APOLLOHOSP.NS')":6707.6645593836,
+    "('Open', 'APOLLOHOSP.NS')":6716.4033741827,
+    "('Volume', 'APOLLOHOSP.NS')":578124
+  },
+  {
+    "('Date', '')":"2025-04-09",
+    "('Close', 'APOLLOHOSP.NS')":6825.3637695312,
+    "('High', 'APOLLOHOSP.NS')":6842.6916878012,
+    "('Low', 'APOLLOHOSP.NS')":6656.4798399027,
+    "('Open', 'APOLLOHOSP.NS')":6656.4798399027,
+    "('Volume', 'APOLLOHOSP.NS')":680834
+  },
+  {
+    "('Date', '')":"2025-04-11",
+    "('Close', 'APOLLOHOSP.NS')":6772.2817382812,
+    "('High', 'APOLLOHOSP.NS')":6862.1666863917,
+    "('Low', 'APOLLOHOSP.NS')":6756.8512937928,
+    "('Open', 'APOLLOHOSP.NS')":6813.978366988,
+    "('Volume', 'APOLLOHOSP.NS')":651996
+  },
+  {
+    "('Date', '')":"2025-04-15",
+    "('Close', 'APOLLOHOSP.NS')":6896.1728515625,
+    "('High', 'APOLLOHOSP.NS')":6956.0961493313,
+    "('Low', 'APOLLOHOSP.NS')":6826.2623374989,
+    "('Open', 'APOLLOHOSP.NS')":6956.0961493313,
+    "('Volume', 'APOLLOHOSP.NS')":778401
+  },
+  {
+    "('Date', '')":"2025-04-16",
+    "('Close', 'APOLLOHOSP.NS')":6996.5444335938,
+    "('High', 'APOLLOHOSP.NS')":7025.5073610899,
+    "('Low', 'APOLLOHOSP.NS')":6856.2240434831,
+    "('Open', 'APOLLOHOSP.NS')":6861.2176516721,
+    "('Volume', 'APOLLOHOSP.NS')":621996
+  },
+  {
+    "('Date', '')":"2025-04-17",
+    "('Close', 'APOLLOHOSP.NS')":7064.4575195312,
+    "('High', 'APOLLOHOSP.NS')":7082.9338698686,
+    "('Low', 'APOLLOHOSP.NS')":6991.0514790017,
+    "('Open', 'APOLLOHOSP.NS')":7029.0029013163,
+    "('Volume', 'APOLLOHOSP.NS')":533349
+  },
+  {
+    "('Date', '')":"2025-04-21",
+    "('Close', 'APOLLOHOSP.NS')":7133.3696289062,
+    "('High', 'APOLLOHOSP.NS')":7179.8101872183,
+    "('Low', 'APOLLOHOSP.NS')":7048.9776465972,
+    "('Open', 'APOLLOHOSP.NS')":7140.8600415372,
+    "('Volume', 'APOLLOHOSP.NS')":244570
+  },
+  {
+    "('Date', '')":"2025-04-22",
+    "('Close', 'APOLLOHOSP.NS')":7079.4384765625,
+    "('High', 'APOLLOHOSP.NS')":7163.3310958799,
+    "('Low', 'APOLLOHOSP.NS')":7060.9621258795,
+    "('Open', 'APOLLOHOSP.NS')":7132.3707244651,
+    "('Volume', 'APOLLOHOSP.NS')":305540
+  },
+  {
+    "('Date', '')":"2025-04-23",
+    "('Close', 'APOLLOHOSP.NS')":7132.8701171875,
+    "('High', 'APOLLOHOSP.NS')":7159.8356020887,
+    "('Low', 'APOLLOHOSP.NS')":7062.4602399456,
+    "('Open', 'APOLLOHOSP.NS')":7079.4385082167,
+    "('Volume', 'APOLLOHOSP.NS')":287593
+  },
+  {
+    "('Date', '')":"2025-04-24",
+    "('Close', 'APOLLOHOSP.NS')":7150.34765625,
+    "('High', 'APOLLOHOSP.NS')":7175.3156975107,
+    "('Low', 'APOLLOHOSP.NS')":7084.4320273217,
+    "('Open', 'APOLLOHOSP.NS')":7132.3706665423,
+    "('Volume', 'APOLLOHOSP.NS')":277769
+  },
+  {
+    "('Date', '')":"2025-04-25",
+    "('Close', 'APOLLOHOSP.NS')":6944.1118164062,
+    "('High', 'APOLLOHOSP.NS')":7233.7411025788,
+    "('Low', 'APOLLOHOSP.NS')":6889.1821242011,
+    "('Open', 'APOLLOHOSP.NS')":7160.3350593592,
+    "('Volume', 'APOLLOHOSP.NS')":550158
+  },
+  {
+    "('Date', '')":"2025-04-28",
+    "('Close', 'APOLLOHOSP.NS')":7035.994140625,
+    "('High', 'APOLLOHOSP.NS')":7046.9800789567,
+    "('Low', 'APOLLOHOSP.NS')":6945.609829805,
+    "('Open', 'APOLLOHOSP.NS')":6945.609829805,
+    "('Volume', 'APOLLOHOSP.NS')":379519
+  },
+  {
+    "('Date', '')":"2025-04-29",
+    "('Close', 'APOLLOHOSP.NS')":6983.5610351562,
+    "('High', 'APOLLOHOSP.NS')":7080.9363946025,
+    "('Low', 'APOLLOHOSP.NS')":6967.082128173,
+    "('Open', 'APOLLOHOSP.NS')":7039.9888075533,
+    "('Volume', 'APOLLOHOSP.NS')":174253
+  },
+  {
+    "('Date', '')":"2025-04-30",
+    "('Close', 'APOLLOHOSP.NS')":6968.0810546875,
+    "('High', 'APOLLOHOSP.NS')":7026.5062720731,
+    "('Low', 'APOLLOHOSP.NS')":6911.153919799,
+    "('Open', 'APOLLOHOSP.NS')":6983.0618796582,
+    "('Volume', 'APOLLOHOSP.NS')":499567
+  },
+  {
+    "('Date', '')":"2025-05-02",
+    "('Close', 'APOLLOHOSP.NS')":6919.1435546875,
+    "('High', 'APOLLOHOSP.NS')":7088.9262342916,
+    "('Low', 'APOLLOHOSP.NS')":6909.1563382402,
+    "('Open', 'APOLLOHOSP.NS')":6913.1512248191,
+    "('Volume', 'APOLLOHOSP.NS')":207912
+  },
+  {
+    "('Date', '')":"2025-05-05",
+    "('Close', 'APOLLOHOSP.NS')":6965.0849609375,
+    "('High', 'APOLLOHOSP.NS')":7022.0120964083,
+    "('Low', 'APOLLOHOSP.NS')":6941.1156407393,
+    "('Open', 'APOLLOHOSP.NS')":6951.1028574885,
+    "('Volume', 'APOLLOHOSP.NS')":259097
+  },
+  {
+    "('Date', '')":"2025-05-06",
+    "('Close', 'APOLLOHOSP.NS')":7000.0400390625,
+    "('High', 'APOLLOHOSP.NS')":7064.9569462588,
+    "('Low', 'APOLLOHOSP.NS')":6941.1154617612,
+    "('Open', 'APOLLOHOSP.NS')":6990.5521833953,
+    "('Volume', 'APOLLOHOSP.NS')":292595
+  },
+  {
+    "('Date', '')":"2025-05-07",
+    "('Close', 'APOLLOHOSP.NS')":6974.0732421875,
+    "('High', 'APOLLOHOSP.NS')":7046.9799222218,
+    "('Low', 'APOLLOHOSP.NS')":6941.1154279254,
+    "('Open', 'APOLLOHOSP.NS')":6961.0898608115,
+    "('Volume', 'APOLLOHOSP.NS')":338311
+  },
+  {
+    "('Date', '')":"2025-05-08",
+    "('Close', 'APOLLOHOSP.NS')":6842.7412109375,
+    "('High', 'APOLLOHOSP.NS')":6970.0782180738,
+    "('Low', 'APOLLOHOSP.NS')":6797.2993770183,
+    "('Open', 'APOLLOHOSP.NS')":6941.1152909605,
+    "('Volume', 'APOLLOHOSP.NS')":383274
+  },
+  {
+    "('Date', '')":"2025-05-09",
+    "('Close', 'APOLLOHOSP.NS')":6713.4072265625,
+    "('High', 'APOLLOHOSP.NS')":6835.2512732213,
+    "('Low', 'APOLLOHOSP.NS')":6668.9641111828,
+    "('Open', 'APOLLOHOSP.NS')":6726.8899694305,
+    "('Volume', 'APOLLOHOSP.NS')":428193
+  },
+  {
+    "('Date', '')":"2025-05-12",
+    "('Close', 'APOLLOHOSP.NS')":6917.1459960938,
+    "('High', 'APOLLOHOSP.NS')":6931.6274597009,
+    "('Low', 'APOLLOHOSP.NS')":6749.8601233901,
+    "('Open', 'APOLLOHOSP.NS')":6791.3070709555,
+    "('Volume', 'APOLLOHOSP.NS')":237009
+  },
+  {
+    "('Date', '')":"2025-05-13",
+    "('Close', 'APOLLOHOSP.NS')":6908.6572265625,
+    "('High', 'APOLLOHOSP.NS')":7004.0351470738,
+    "('Low', 'APOLLOHOSP.NS')":6891.1795971494,
+    "('Open', 'APOLLOHOSP.NS')":6899.1693705954,
+    "('Volume', 'APOLLOHOSP.NS')":323598
+  },
+  {
+    "('Date', '')":"2025-05-14",
+    "('Close', 'APOLLOHOSP.NS')":6907.658203125,
+    "('High', 'APOLLOHOSP.NS')":6984.0604083645,
+    "('Low', 'APOLLOHOSP.NS')":6853.7272347206,
+    "('Open', 'APOLLOHOSP.NS')":6921.1409452261,
+    "('Volume', 'APOLLOHOSP.NS')":324593
+  },
+  {
+    "('Date', '')":"2025-05-15",
+    "('Close', 'APOLLOHOSP.NS')":7063.458984375,
+    "('High', 'APOLLOHOSP.NS')":7087.4283043644,
+    "('Low', 'APOLLOHOSP.NS')":6861.2178469645,
+    "('Open', 'APOLLOHOSP.NS')":6933.1258069327,
+    "('Volume', 'APOLLOHOSP.NS')":656146
+  },
+  {
+    "('Date', '')":"2025-05-16",
+    "('Close', 'APOLLOHOSP.NS')":7006.0322265625,
+    "('High', 'APOLLOHOSP.NS')":7095.9171731613,
+    "('Low', 'APOLLOHOSP.NS')":6984.0603507272,
+    "('Open', 'APOLLOHOSP.NS')":7070.9491324394,
+    "('Volume', 'APOLLOHOSP.NS')":270772
+  },
+  {
+    "('Date', '')":"2025-05-19",
+    "('Close', 'APOLLOHOSP.NS')":6965.583984375,
+    "('High', 'APOLLOHOSP.NS')":7051.9734050716,
+    "('Low', 'APOLLOHOSP.NS')":6956.595489736,
+    "('Open', 'APOLLOHOSP.NS')":6976.0705614538,
+    "('Volume', 'APOLLOHOSP.NS')":307173
+  },
+  {
+    "('Date', '')":"2025-05-20",
+    "('Close', 'APOLLOHOSP.NS')":6903.1640625,
+    "('High', 'APOLLOHOSP.NS')":6998.0426194933,
+    "('Low', 'APOLLOHOSP.NS')":6882.1909077962,
+    "('Open', 'APOLLOHOSP.NS')":6976.5701039632,
+    "('Volume', 'APOLLOHOSP.NS')":365507
+  },
+  {
+    "('Date', '')":"2025-05-21",
+    "('Close', 'APOLLOHOSP.NS')":6975.072265625,
+    "('High', 'APOLLOHOSP.NS')":7033.9968451886,
+    "('Low', 'APOLLOHOSP.NS')":6919.6432119678,
+    "('Open', 'APOLLOHOSP.NS')":6919.6432119678,
+    "('Volume', 'APOLLOHOSP.NS')":449740
+  },
+  {
+    "('Date', '')":"2025-05-22",
+    "('Close', 'APOLLOHOSP.NS')":6945.6098632812,
+    "('High', 'APOLLOHOSP.NS')":6992.0504209982,
+    "('Low', 'APOLLOHOSP.NS')":6906.1603572636,
+    "('Open', 'APOLLOHOSP.NS')":6975.0721525856,
+    "('Volume', 'APOLLOHOSP.NS')":229993
+  },
+  {
+    "('Date', '')":"2025-05-23",
+    "('Close', 'APOLLOHOSP.NS')":7055.4692382812,
+    "('High', 'APOLLOHOSP.NS')":7078.9391975281,
+    "('Low', 'APOLLOHOSP.NS')":6921.1411736555,
+    "('Open', 'APOLLOHOSP.NS')":6978.5676696851,
+    "('Volume', 'APOLLOHOSP.NS')":321466
+  },
+  {
+    "('Date', '')":"2025-05-26",
+    "('Close', 'APOLLOHOSP.NS')":7087.4282226562,
+    "('High', 'APOLLOHOSP.NS')":7110.898181542,
+    "('Low', 'APOLLOHOSP.NS')":7070.9493153535,
+    "('Open', 'APOLLOHOSP.NS')":7085.9301401742,
+    "('Volume', 'APOLLOHOSP.NS')":228090
+  },
+  {
+    "('Date', '')":"2025-05-27",
+    "('Close', 'APOLLOHOSP.NS')":7064.4575195312,
+    "('High', 'APOLLOHOSP.NS')":7115.392323164,
+    "('Low', 'APOLLOHOSP.NS')":7020.5137673775,
+    "('Open', 'APOLLOHOSP.NS')":7109.3999933248,
+    "('Volume', 'APOLLOHOSP.NS')":218088
+  },
+  {
+    "('Date', '')":"2025-05-28",
+    "('Close', 'APOLLOHOSP.NS')":6947.607421875,
+    "('High', 'APOLLOHOSP.NS')":7091.9227057765,
+    "('Low', 'APOLLOHOSP.NS')":6923.6381013654,
+    "('Open', 'APOLLOHOSP.NS')":7090.9239840886,
+    "('Volume', 'APOLLOHOSP.NS')":278102
+  },
+  {
+    "('Date', '')":"2025-05-29",
+    "('Close', 'APOLLOHOSP.NS')":6914.1499023438,
+    "('High', 'APOLLOHOSP.NS')":6972.0757573684,
+    "('Low', 'APOLLOHOSP.NS')":6877.6965625437,
+    "('Open', 'APOLLOHOSP.NS')":6956.5955719739,
+    "('Volume', 'APOLLOHOSP.NS')":308885
+  },
+  {
+    "('Date', '')":"2025-05-30",
+    "('Close', 'APOLLOHOSP.NS')":6871.7045898438,
+    "('High', 'APOLLOHOSP.NS')":6984.0607799982,
+    "('Low', 'APOLLOHOSP.NS')":6844.7391042067,
+    "('Open', 'APOLLOHOSP.NS')":6941.1157473169,
+    "('Volume', 'APOLLOHOSP.NS')":911209
+  },
+  {
+    "('Date', '')":"2025-06-02",
+    "('Close', 'APOLLOHOSP.NS')":6906.6596679688,
+    "('High', 'APOLLOHOSP.NS')":7080.9365983513,
+    "('Low', 'APOLLOHOSP.NS')":6874.7005747181,
+    "('Open', 'APOLLOHOSP.NS')":6935.1232353951,
+    "('Volume', 'APOLLOHOSP.NS')":1217905
+  },
+  {
+    "('Date', '')":"2025-06-03",
+    "('Close', 'APOLLOHOSP.NS')":6803.7915039062,
+    "('High', 'APOLLOHOSP.NS')":6941.6150969395,
+    "('Low', 'APOLLOHOSP.NS')":6790.8081219538,
+    "('Open', 'APOLLOHOSP.NS')":6941.1157360952,
+    "('Volume', 'APOLLOHOSP.NS')":489548
+  },
+  {
+    "('Date', '')":"2025-06-04",
+    "('Close', 'APOLLOHOSP.NS')":6846.2368164062,
+    "('High', 'APOLLOHOSP.NS')":6859.2201976773,
+    "('Low', 'APOLLOHOSP.NS')":6763.3429205986,
+    "('Open', 'APOLLOHOSP.NS')":6803.7911468662,
+    "('Volume', 'APOLLOHOSP.NS')":629518
+  },
+  {
+    "('Date', '')":"2025-06-05",
+    "('Close', 'APOLLOHOSP.NS')":6867.2099609375,
+    "('High', 'APOLLOHOSP.NS')":6910.6543520516,
+    "('Low', 'APOLLOHOSP.NS')":6833.253425354,
+    "('Open', 'APOLLOHOSP.NS')":6859.7195486764,
+    "('Volume', 'APOLLOHOSP.NS')":488647
+  },
+  {
+    "('Date', '')":"2025-06-06",
+    "('Close', 'APOLLOHOSP.NS')":6933.625,
+    "('High', 'APOLLOHOSP.NS')":6946.1090205257,
+    "('Low', 'APOLLOHOSP.NS')":6799.296939143,
+    "('Open', 'APOLLOHOSP.NS')":6858.2215160245,
+    "('Volume', 'APOLLOHOSP.NS')":269399
+  },
+  {
+    "('Date', '')":"2025-06-09",
+    "('Close', 'APOLLOHOSP.NS')":6923.138671875,
+    "('High', 'APOLLOHOSP.NS')":6967.5817865459,
+    "('Low', 'APOLLOHOSP.NS')":6877.1974746871,
+    "('Open', 'APOLLOHOSP.NS')":6967.5817865459,
+    "('Volume', 'APOLLOHOSP.NS')":239444
+  },
+  {
+    "('Date', '')":"2025-06-10",
+    "('Close', 'APOLLOHOSP.NS')":6909.6557617188,
+    "('High', 'APOLLOHOSP.NS')":6983.5611640989,
+    "('Low', 'APOLLOHOSP.NS')":6902.1653493154,
+    "('Open', 'APOLLOHOSP.NS')":6942.6135762937,
+    "('Volume', 'APOLLOHOSP.NS')":559472
+  },
+  {
+    "('Date', '')":"2025-06-11",
+    "('Close', 'APOLLOHOSP.NS')":6918.64453125,
+    "('High', 'APOLLOHOSP.NS')":6938.1196042719,
+    "('Low', 'APOLLOHOSP.NS')":6854.2269820236,
+    "('Open', 'APOLLOHOSP.NS')":6909.1566751624,
+    "('Volume', 'APOLLOHOSP.NS')":526939
+  },
+  {
+    "('Date', '')":"2025-06-12",
+    "('Close', 'APOLLOHOSP.NS')":6987.5561523438,
+    "('High', 'APOLLOHOSP.NS')":7045.98136994,
+    "('Low', 'APOLLOHOSP.NS')":6921.141161401,
+    "('Open', 'APOLLOHOSP.NS')":6923.1386047376,
+    "('Volume', 'APOLLOHOSP.NS')":552007
+  },
+  {
+    "('Date', '')":"2025-06-13",
+    "('Close', 'APOLLOHOSP.NS')":6985.55859375,
+    "('High', 'APOLLOHOSP.NS')":7028.5036247788,
+    "('Low', 'APOLLOHOSP.NS')":6914.1499956439,
+    "('Open', 'APOLLOHOSP.NS')":6970.0784081466,
+    "('Volume', 'APOLLOHOSP.NS')":367775
+  },
+  {
+    "('Date', '')":"2025-06-16",
+    "('Close', 'APOLLOHOSP.NS')":7104.9057617188,
+    "('High', 'APOLLOHOSP.NS')":7128.8750811285,
+    "('Low', 'APOLLOHOSP.NS')":6973.0745049649,
+    "('Open', 'APOLLOHOSP.NS')":7001.538071764,
+    "('Volume', 'APOLLOHOSP.NS')":589027
+  },
+  {
+    "('Date', '')":"2025-06-17",
+    "('Close', 'APOLLOHOSP.NS')":6997.5434570312,
+    "('High', 'APOLLOHOSP.NS')":7125.3798321829,
+    "('Low', 'APOLLOHOSP.NS')":6990.5524052651,
+    "('Open', 'APOLLOHOSP.NS')":7110.8983678102,
+    "('Volume', 'APOLLOHOSP.NS')":264117
+  },
+  {
+    "('Date', '')":"2025-06-18",
+    "('Close', 'APOLLOHOSP.NS')":6924.63671875,
+    "('High', 'APOLLOHOSP.NS')":7021.0133601806,
+    "('Low', 'APOLLOHOSP.NS')":6908.1578111479,
+    "('Open', 'APOLLOHOSP.NS')":6997.5434008685,
+    "('Volume', 'APOLLOHOSP.NS')":394355
+  },
+  {
+    "('Date', '')":"2025-06-19",
+    "('Close', 'APOLLOHOSP.NS')":7000.5395507812,
+    "('High', 'APOLLOHOSP.NS')":7026.0069533841,
+    "('Low', 'APOLLOHOSP.NS')":6903.1641878879,
+    "('Open', 'APOLLOHOSP.NS')":6928.1322296554,
+    "('Volume', 'APOLLOHOSP.NS')":462080
+  },
+  {
+    "('Date', '')":"2025-06-20",
+    "('Close', 'APOLLOHOSP.NS')":7054.4702148438,
+    "('High', 'APOLLOHOSP.NS')":7067.9529568131,
+    "('Low', 'APOLLOHOSP.NS')":6965.5839900089,
+    "('Open', 'APOLLOHOSP.NS')":6996.0449996433,
+    "('Volume', 'APOLLOHOSP.NS')":378436
+  },
+  {
+    "('Date', '')":"2025-06-23",
+    "('Close', 'APOLLOHOSP.NS')":6998.5419921875,
+    "('High', 'APOLLOHOSP.NS')":7040.4883016662,
+    "('Low', 'APOLLOHOSP.NS')":6986.5573323364,
+    "('Open', 'APOLLOHOSP.NS')":6991.0515797806,
+    "('Volume', 'APOLLOHOSP.NS')":137379
+  },
+  {
+    "('Date', '')":"2025-06-24",
+    "('Close', 'APOLLOHOSP.NS')":6997.0439453125,
+    "('High', 'APOLLOHOSP.NS')":7066.9544614661,
+    "('Low', 'APOLLOHOSP.NS')":6984.5599245708,
+    "('Open', 'APOLLOHOSP.NS')":7025.5075126036,
+    "('Volume', 'APOLLOHOSP.NS')":238243
+  },
+  {
+    "('Date', '')":"2025-06-25",
+    "('Close', 'APOLLOHOSP.NS')":7032.998046875,
+    "('High', 'APOLLOHOSP.NS')":7051.9737587311,
+    "('Low', 'APOLLOHOSP.NS')":6986.0581280731,
+    "('Open', 'APOLLOHOSP.NS')":6986.0581280731,
+    "('Volume', 'APOLLOHOSP.NS')":378904
+  },
+  {
+    "('Date', '')":"2025-06-26",
+    "('Close', 'APOLLOHOSP.NS')":7092.421875,
+    "('High', 'APOLLOHOSP.NS')":7113.3950298793,
+    "('Low', 'APOLLOHOSP.NS')":7011.5254204657,
+    "('Open', 'APOLLOHOSP.NS')":7045.4819569369,
+    "('Volume', 'APOLLOHOSP.NS')":426516
+  },
+  {
+    "('Date', '')":"2025-06-27",
+    "('Close', 'APOLLOHOSP.NS')":7299.1572265625,
+    "('High', 'APOLLOHOSP.NS')":7314.6374122383,
+    "('Low', 'APOLLOHOSP.NS')":7108.4013901702,
+    "('Open', 'APOLLOHOSP.NS')":7120.8854108765,
+    "('Volume', 'APOLLOHOSP.NS')":523582
+  },
+  {
+    "('Date', '')":"2025-06-30",
+    "('Close', 'APOLLOHOSP.NS')":7232.7421875,
+    "('High', 'APOLLOHOSP.NS')":7327.1213834015,
+    "('Low', 'APOLLOHOSP.NS')":7194.2914039846,
+    "('Open', 'APOLLOHOSP.NS')":7327.1213834015,
+    "('Volume', 'APOLLOHOSP.NS')":353888
+  },
+  {
+    "('Date', '')":"2025-07-01",
+    "('Close', 'APOLLOHOSP.NS')":7486.4174804688,
+    "('High', 'APOLLOHOSP.NS')":7574.8043464001,
+    "('Low', 'APOLLOHOSP.NS')":7395.0344495906,
+    "('Open', 'APOLLOHOSP.NS')":7465.444325841,
+    "('Volume', 'APOLLOHOSP.NS')":1872535
+  },
+  {
+    "('Date', '')":"2025-07-02",
+    "('Close', 'APOLLOHOSP.NS')":7431.4877929688,
+    "('High', 'APOLLOHOSP.NS')":7522.3714630615,
+    "('Low', 'APOLLOHOSP.NS')":7407.0191125592,
+    "('Open', 'APOLLOHOSP.NS')":7460.4507208005,
+    "('Volume', 'APOLLOHOSP.NS')":910865
+  },
+  {
+    "('Date', '')":"2025-07-03",
+    "('Close', 'APOLLOHOSP.NS')":7555.3295898438,
+    "('High', 'APOLLOHOSP.NS')":7590.7842098622,
+    "('Low', 'APOLLOHOSP.NS')":7430.4893785112,
+    "('Open', 'APOLLOHOSP.NS')":7464.4459159937,
+    "('Volume', 'APOLLOHOSP.NS')":894597
+  },
+  {
+    "('Date', '')":"2025-07-04",
+    "('Close', 'APOLLOHOSP.NS')":7543.8442382812,
+    "('High', 'APOLLOHOSP.NS')":7583.2937447898,
+    "('Low', 'APOLLOHOSP.NS')":7515.3806702941,
+    "('Open', 'APOLLOHOSP.NS')":7583.2937447898,
+    "('Volume', 'APOLLOHOSP.NS')":349076
+  },
+  {
+    "('Date', '')":"2025-07-07",
+    "('Close', 'APOLLOHOSP.NS')":7606.2641601562,
+    "('High', 'APOLLOHOSP.NS')":7615.7520159233,
+    "('Low', 'APOLLOHOSP.NS')":7525.8670665517,
+    "('Open', 'APOLLOHOSP.NS')":7552.8325513631,
+    "('Volume', 'APOLLOHOSP.NS')":449086
+  },
+  {
+    "('Date', '')":"2025-07-08",
+    "('Close', 'APOLLOHOSP.NS')":7555.3295898438,
+    "('High', 'APOLLOHOSP.NS')":7625.24010819,
+    "('Low', 'APOLLOHOSP.NS')":7544.3436512465,
+    "('Open', 'APOLLOHOSP.NS')":7595.2784574702,
+    "('Volume', 'APOLLOHOSP.NS')":481581
+  },
+  {
+    "('Date', '')":"2025-07-09",
+    "('Close', 'APOLLOHOSP.NS')":7459.4521484375,
+    "('High', 'APOLLOHOSP.NS')":7558.8249545387,
+    "('Low', 'APOLLOHOSP.NS')":7438.9783542157,
+    "('Open', 'APOLLOHOSP.NS')":7535.3549953087,
+    "('Volume', 'APOLLOHOSP.NS')":266815
+  },
+  {
+    "('Date', '')":"2025-07-10",
+    "('Close', 'APOLLOHOSP.NS')":7349.5927734375,
+    "('High', 'APOLLOHOSP.NS')":7445.4700538085,
+    "('Low', 'APOLLOHOSP.NS')":7338.6068350617,
+    "('Open', 'APOLLOHOSP.NS')":7445.4700538085,
+    "('Volume', 'APOLLOHOSP.NS')":384661
+  },
+  {
+    "('Date', '')":"2025-07-11",
+    "('Close', 'APOLLOHOSP.NS')":7180.3095703125,
+    "('High', 'APOLLOHOSP.NS')":7374.560938478,
+    "('Low', 'APOLLOHOSP.NS')":7149.8485588521,
+    "('Open', 'APOLLOHOSP.NS')":7345.5980095484,
+    "('Volume', 'APOLLOHOSP.NS')":578061
+  },
+  {
+    "('Date', '')":"2025-07-14",
+    "('Close', 'APOLLOHOSP.NS')":7210.7705078125,
+    "('High', 'APOLLOHOSP.NS')":7247.2238490224,
+    "('Low', 'APOLLOHOSP.NS')":7163.8305889943,
+    "('Open', 'APOLLOHOSP.NS')":7190.7960742729,
+    "('Volume', 'APOLLOHOSP.NS')":670246
+  },
+  {
+    "('Date', '')":"2025-07-15",
+    "('Close', 'APOLLOHOSP.NS')":7351.0908203125,
+    "('High', 'APOLLOHOSP.NS')":7364.5735627993,
+    "('Low', 'APOLLOHOSP.NS')":7218.2608387757,
+    "('Open', 'APOLLOHOSP.NS')":7251.2186537435,
+    "('Volume', 'APOLLOHOSP.NS')":517978
+  },
+  {
+    "('Date', '')":"2025-07-16",
+    "('Close', 'APOLLOHOSP.NS')":7343.1010742188,
+    "('High', 'APOLLOHOSP.NS')":7400.5275702089,
+    "('Low', 'APOLLOHOSP.NS')":7300.6554032695,
+    "('Open', 'APOLLOHOSP.NS')":7365.0729509454,
+    "('Volume', 'APOLLOHOSP.NS')":527782
+  },
+  {
+    "('Date', '')":"2025-07-17",
+    "('Close', 'APOLLOHOSP.NS')":7341.103515625,
+    "('High', 'APOLLOHOSP.NS')":7399.0293715404,
+    "('Low', 'APOLLOHOSP.NS')":7322.1278042044,
+    "('Open', 'APOLLOHOSP.NS')":7351.590092989,
+    "('Volume', 'APOLLOHOSP.NS')":378666
+  },
+  {
+    "('Date', '')":"2025-07-18",
+    "('Close', 'APOLLOHOSP.NS')":7294.1635742188,
+    "('High', 'APOLLOHOSP.NS')":7375.0600279069,
+    "('Low', 'APOLLOHOSP.NS')":7245.7255741709,
+    "('Open', 'APOLLOHOSP.NS')":7375.0600279069,
+    "('Volume', 'APOLLOHOSP.NS')":192649
+  },
+  {
+    "('Date', '')":"2025-07-21",
+    "('Close', 'APOLLOHOSP.NS')":7245.2260742188,
+    "('High', 'APOLLOHOSP.NS')":7313.1391451467,
+    "('Low', 'APOLLOHOSP.NS')":7236.7369403528,
+    "('Open', 'APOLLOHOSP.NS')":7294.1634341521,
+    "('Volume', 'APOLLOHOSP.NS')":217270
+  },
+  {
+    "('Date', '')":"2025-07-22",
+    "('Close', 'APOLLOHOSP.NS')":7237.236328125,
+    "('High', 'APOLLOHOSP.NS')":7282.1788017006,
+    "('Low', 'APOLLOHOSP.NS')":7207.2746790746,
+    "('Open', 'APOLLOHOSP.NS')":7260.7062865478,
+    "('Volume', 'APOLLOHOSP.NS')":300768
+  },
+  {
+    "('Date', '')":"2025-07-23",
+    "('Close', 'APOLLOHOSP.NS')":7364.07421875,
+    "('High', 'APOLLOHOSP.NS')":7380.5531262714,
+    "('Low', 'APOLLOHOSP.NS')":7234.7397627484,
+    "('Open', 'APOLLOHOSP.NS')":7241.7308144241,
+    "('Volume', 'APOLLOHOSP.NS')":508883
+  },
+  {
+    "('Date', '')":"2025-07-24",
+    "('Close', 'APOLLOHOSP.NS')":7354.0869140625,
+    "('High', 'APOLLOHOSP.NS')":7475.9309560963,
+    "('Low', 'APOLLOHOSP.NS')":7340.1048108783,
+    "('Open', 'APOLLOHOSP.NS')":7363.5747697946,
+    "('Volume', 'APOLLOHOSP.NS')":454916
+  },
+  {
+    "('Date', '')":"2025-07-25",
+    "('Close', 'APOLLOHOSP.NS')":7458.9526367188,
+    "('High', 'APOLLOHOSP.NS')":7473.9334614561,
+    "('Low', 'APOLLOHOSP.NS')":7334.1124305743,
+    "('Open', 'APOLLOHOSP.NS')":7355.5849460311,
+    "('Volume', 'APOLLOHOSP.NS')":434232
+  },
+  {
+    "('Date', '')":"2025-07-28",
+    "('Close', 'APOLLOHOSP.NS')":7347.095703125,
+    "('High', 'APOLLOHOSP.NS')":7492.4097009235,
+    "('Low', 'APOLLOHOSP.NS')":7313.6385283741,
+    "('Open', 'APOLLOHOSP.NS')":7470.4378249677,
+    "('Volume', 'APOLLOHOSP.NS')":240740
+  },
+  {
+    "('Date', '')":"2025-07-29",
+    "('Close', 'APOLLOHOSP.NS')":7446.46875,
+    "('High', 'APOLLOHOSP.NS')":7459.4521316725,
+    "('Low', 'APOLLOHOSP.NS')":7301.154747435,
+    "('Open', 'APOLLOHOSP.NS')":7347.0959441222,
+    "('Volume', 'APOLLOHOSP.NS')":336770
+  },
+  {
+    "('Date', '')":"2025-07-30",
+    "('Close', 'APOLLOHOSP.NS')":7440.4765625,
+    "('High', 'APOLLOHOSP.NS')":7464.9452438129,
+    "('Low', 'APOLLOHOSP.NS')":7390.5404781879,
+    "('Open', 'APOLLOHOSP.NS')":7450.4637793624,
+    "('Volume', 'APOLLOHOSP.NS')":266922
+  },
+  {
+    "('Date', '')":"2025-07-31",
+    "('Close', 'APOLLOHOSP.NS')":7488.4150390625,
+    "('High', 'APOLLOHOSP.NS')":7515.3805239991,
+    "('Low', 'APOLLOHOSP.NS')":7345.5978410649,
+    "('Open', 'APOLLOHOSP.NS')":7368.5684393442,
+    "('Volume', 'APOLLOHOSP.NS')":342605
+  },
+  {
+    "('Date', '')":"2025-08-01",
+    "('Close', 'APOLLOHOSP.NS')":7342.1020507812,
+    "('High', 'APOLLOHOSP.NS')":7528.3636344677,
+    "('Low', 'APOLLOHOSP.NS')":7322.1276182143,
+    "('Open', 'APOLLOHOSP.NS')":7528.3636344677,
+    "('Volume', 'APOLLOHOSP.NS')":215243
+  },
+  {
+    "('Date', '')":"2025-08-04",
+    "('Close', 'APOLLOHOSP.NS')":7298.6577148438,
+    "('High', 'APOLLOHOSP.NS')":7378.5554457123,
+    "('Low', 'APOLLOHOSP.NS')":7285.6743335776,
+    "('Open', 'APOLLOHOSP.NS')":7377.5567240765,
+    "('Volume', 'APOLLOHOSP.NS')":260996
+  },
+  {
+    "('Date', '')":"2025-08-05",
+    "('Close', 'APOLLOHOSP.NS')":7264.701171875,
+    "('High', 'APOLLOHOSP.NS')":7332.6142430446,
+    "('Low', 'APOLLOHOSP.NS')":7226.2503889334,
+    "('Open', 'APOLLOHOSP.NS')":7302.6525939992,
+    "('Volume', 'APOLLOHOSP.NS')":282791
+  },
+  {
+    "('Date', '')":"2025-08-06",
+    "('Close', 'APOLLOHOSP.NS')":7180.3095703125,
+    "('High', 'APOLLOHOSP.NS')":7269.6951613192,
+    "('Low', 'APOLLOHOSP.NS')":7155.3415281318,
+    "('Open', 'APOLLOHOSP.NS')":7260.7066661342,
+    "('Volume', 'APOLLOHOSP.NS')":296623
+  },
+  {
+    "('Date', '')":"2025-08-07",
+    "('Close', 'APOLLOHOSP.NS')":7160.8344726562,
+    "('High', 'APOLLOHOSP.NS')":7188.29931896,
+    "('Low', 'APOLLOHOSP.NS')":7044.4833964966,
+    "('Open', 'APOLLOHOSP.NS')":7154.8421425536,
+    "('Volume', 'APOLLOHOSP.NS')":407857
+  },
+  {
+    "('Date', '')":"2025-08-08",
+    "('Close', 'APOLLOHOSP.NS')":7075.443359375,
+    "('High', 'APOLLOHOSP.NS')":7189.2976247386,
+    "('Low', 'APOLLOHOSP.NS')":7056.9670092941,
+    "('Open', 'APOLLOHOSP.NS')":7160.8340583977,
+    "('Volume', 'APOLLOHOSP.NS')":327102
+  },
+  {
+    "('Date', '')":"2025-08-11",
+    "('Close', 'APOLLOHOSP.NS')":7249.720703125,
+    "('High', 'APOLLOHOSP.NS')":7310.6427258403,
+    "('Low', 'APOLLOHOSP.NS')":7011.5255815249,
+    "('Open', 'APOLLOHOSP.NS')":7091.9226770754,
+    "('Volume', 'APOLLOHOSP.NS')":498598
+  },
+  {
+    "('Date', '')":"2025-08-12",
+    "('Close', 'APOLLOHOSP.NS')":7227.2495117188,
+    "('High', 'APOLLOHOSP.NS')":7275.6875136974,
+    "('Low', 'APOLLOHOSP.NS')":7195.7897784749,
+    "('Open', 'APOLLOHOSP.NS')":7249.7207497501,
+    "('Volume', 'APOLLOHOSP.NS')":342006
+  },
+  {
+    "('Date', '')":"2025-08-13",
+    "('Close', 'APOLLOHOSP.NS')":7798.5180664062,
+    "('High', 'APOLLOHOSP.NS')":7829.9777986329,
+    "('Low', 'APOLLOHOSP.NS')":7379.5543308799,
+    "('Open', 'APOLLOHOSP.NS')":7393.5364340918,
+    "('Volume', 'APOLLOHOSP.NS')":2291645
+  },
+  {
+    "('Date', '')":"2025-08-14",
+    "('Close', 'APOLLOHOSP.NS')":7811.5014648438,
+    "('High', 'APOLLOHOSP.NS')":7849.4528879294,
+    "('Low', 'APOLLOHOSP.NS')":7739.0941444831,
+    "('Open', 'APOLLOHOSP.NS')":7819.990598955,
+    "('Volume', 'APOLLOHOSP.NS')":673142
+  },
+  {
+    "('Date', '')":"2025-08-18",
+    "('Close', 'APOLLOHOSP.NS')":7812.5,
+    "('High', 'APOLLOHOSP.NS')":7907.378555449,
+    "('Low', 'APOLLOHOSP.NS')":7796.021093001,
+    "('Open', 'APOLLOHOSP.NS')":7839.9648449984,
+    "('Volume', 'APOLLOHOSP.NS')":633876
+  },
+  {
+    "('Date', '')":"2025-08-19",
+    "('Close', 'APOLLOHOSP.NS')":7823.5,
+    "('High', 'APOLLOHOSP.NS')":7864.5,
+    "('Low', 'APOLLOHOSP.NS')":7800.0,
+    "('Open', 'APOLLOHOSP.NS')":7830.5,
+    "('Volume', 'APOLLOHOSP.NS')":384598
+  },
+  {
+    "('Date', '')":"2025-08-20",
+    "('Close', 'APOLLOHOSP.NS')":7883.0,
+    "('High', 'APOLLOHOSP.NS')":7918.0,
+    "('Low', 'APOLLOHOSP.NS')":7812.5,
+    "('Open', 'APOLLOHOSP.NS')":7830.0,
+    "('Volume', 'APOLLOHOSP.NS')":452843
+  },
+  {
+    "('Date', '')":"2025-08-21",
+    "('Close', 'APOLLOHOSP.NS')":7926.5,
+    "('High', 'APOLLOHOSP.NS')":7947.0,
+    "('Low', 'APOLLOHOSP.NS')":7853.0,
+    "('Open', 'APOLLOHOSP.NS')":7893.0,
+    "('Volume', 'APOLLOHOSP.NS')":482016
+  },
+  {
+    "('Date', '')":"2025-08-22",
+    "('Close', 'APOLLOHOSP.NS')":7922.5,
+    "('High', 'APOLLOHOSP.NS')":7980.0,
+    "('Low', 'APOLLOHOSP.NS')":7852.0,
+    "('Open', 'APOLLOHOSP.NS')":7895.0,
+    "('Volume', 'APOLLOHOSP.NS')":843648
+  },
+  {
+    "('Date', '')":"2025-08-25",
+    "('Close', 'APOLLOHOSP.NS')":7851.0,
+    "('High', 'APOLLOHOSP.NS')":7950.0,
+    "('Low', 'APOLLOHOSP.NS')":7838.5,
+    "('Open', 'APOLLOHOSP.NS')":7926.0,
+    "('Volume', 'APOLLOHOSP.NS')":402979
+  },
+  {
+    "('Date', '')":"2025-08-26",
+    "('Close', 'APOLLOHOSP.NS')":7793.5,
+    "('High', 'APOLLOHOSP.NS')":7834.0,
+    "('Low', 'APOLLOHOSP.NS')":7720.5,
+    "('Open', 'APOLLOHOSP.NS')":7827.5,
+    "('Volume', 'APOLLOHOSP.NS')":671659
+  },
+  {
+    "('Date', '')":"2025-08-28",
+    "('Close', 'APOLLOHOSP.NS')":7728.0,
+    "('High', 'APOLLOHOSP.NS')":7828.0,
+    "('Low', 'APOLLOHOSP.NS')":7714.5,
+    "('Open', 'APOLLOHOSP.NS')":7755.0,
+    "('Volume', 'APOLLOHOSP.NS')":418353
+  },
+  {
+    "('Date', '')":"2025-08-29",
+    "('Close', 'APOLLOHOSP.NS')":7610.0,
+    "('High', 'APOLLOHOSP.NS')":7744.0,
+    "('Low', 'APOLLOHOSP.NS')":7586.0,
+    "('Open', 'APOLLOHOSP.NS')":7670.0,
+    "('Volume', 'APOLLOHOSP.NS')":481590
+  },
+  {
+    "('Date', '')":"2025-09-01",
+    "('Close', 'APOLLOHOSP.NS')":7671.5,
+    "('High', 'APOLLOHOSP.NS')":7684.5,
+    "('Low', 'APOLLOHOSP.NS')":7595.5,
+    "('Open', 'APOLLOHOSP.NS')":7595.5,
+    "('Volume', 'APOLLOHOSP.NS')":255894
+  },
+  {
+    "('Date', '')":"2025-09-02",
+    "('Close', 'APOLLOHOSP.NS')":7682.0,
+    "('High', 'APOLLOHOSP.NS')":7699.0,
+    "('Low', 'APOLLOHOSP.NS')":7631.5,
+    "('Open', 'APOLLOHOSP.NS')":7631.5,
+    "('Volume', 'APOLLOHOSP.NS')":195907
+  },
+  {
+    "('Date', '')":"2025-09-03",
+    "('Close', 'APOLLOHOSP.NS')":7736.0,
+    "('High', 'APOLLOHOSP.NS')":7775.5,
+    "('Low', 'APOLLOHOSP.NS')":7656.0,
+    "('Open', 'APOLLOHOSP.NS')":7685.0,
+    "('Volume', 'APOLLOHOSP.NS')":321268
+  },
+  {
+    "('Date', '')":"2025-09-04",
+    "('Close', 'APOLLOHOSP.NS')":7900.0,
+    "('High', 'APOLLOHOSP.NS')":7918.5,
+    "('Low', 'APOLLOHOSP.NS')":7751.0,
+    "('Open', 'APOLLOHOSP.NS')":7790.0,
+    "('Volume', 'APOLLOHOSP.NS')":386286
+  },
+  {
+    "('Date', '')":"2025-09-05",
+    "('Close', 'APOLLOHOSP.NS')":7804.5,
+    "('High', 'APOLLOHOSP.NS')":7915.0,
+    "('Low', 'APOLLOHOSP.NS')":7795.5,
+    "('Open', 'APOLLOHOSP.NS')":7900.0,
+    "('Volume', 'APOLLOHOSP.NS')":228324
+  },
+  {
+    "('Date', '')":"2025-09-08",
+    "('Close', 'APOLLOHOSP.NS')":7786.5,
+    "('High', 'APOLLOHOSP.NS')":7849.5,
+    "('Low', 'APOLLOHOSP.NS')":7740.5,
+    "('Open', 'APOLLOHOSP.NS')":7834.5,
+    "('Volume', 'APOLLOHOSP.NS')":314960
+  },
+  {
+    "('Date', '')":"2025-09-09",
+    "('Close', 'APOLLOHOSP.NS')":7825.5,
+    "('High', 'APOLLOHOSP.NS')":7848.0,
+    "('Low', 'APOLLOHOSP.NS')":7755.0,
+    "('Open', 'APOLLOHOSP.NS')":7755.0,
+    "('Volume', 'APOLLOHOSP.NS')":303494
+  },
+  {
+    "('Date', '')":"2025-09-10",
+    "('Close', 'APOLLOHOSP.NS')":7929.0,
+    "('High', 'APOLLOHOSP.NS')":7939.0,
+    "('Low', 'APOLLOHOSP.NS')":7805.0,
+    "('Open', 'APOLLOHOSP.NS')":7805.0,
+    "('Volume', 'APOLLOHOSP.NS')":337313
+  },
+  {
+    "('Date', '')":"2025-09-11",
+    "('Close', 'APOLLOHOSP.NS')":7879.5,
+    "('High', 'APOLLOHOSP.NS')":7941.5,
+    "('Low', 'APOLLOHOSP.NS')":7860.0,
+    "('Open', 'APOLLOHOSP.NS')":7875.5,
+    "('Volume', 'APOLLOHOSP.NS')":161041
+  },
+  {
+    "('Date', '')":"2025-09-12",
+    "('Close', 'APOLLOHOSP.NS')":7874.5,
+    "('High', 'APOLLOHOSP.NS')":7915.0,
+    "('Low', 'APOLLOHOSP.NS')":7841.5,
+    "('Open', 'APOLLOHOSP.NS')":7875.0,
+    "('Volume', 'APOLLOHOSP.NS')":117761
+  },
+  {
+    "('Date', '')":"2025-09-15",
+    "('Close', 'APOLLOHOSP.NS')":7816.5,
+    "('High', 'APOLLOHOSP.NS')":7956.0,
+    "('Low', 'APOLLOHOSP.NS')":7796.0,
+    "('Open', 'APOLLOHOSP.NS')":7900.0,
+    "('Volume', 'APOLLOHOSP.NS')":214626
+  },
+  {
+    "('Date', '')":"2025-09-16",
+    "('Close', 'APOLLOHOSP.NS')":7852.5,
+    "('High', 'APOLLOHOSP.NS')":7862.0,
+    "('Low', 'APOLLOHOSP.NS')":7805.5,
+    "('Open', 'APOLLOHOSP.NS')":7805.5,
+    "('Volume', 'APOLLOHOSP.NS')":194911
+  },
+  {
+    "('Date', '')":"2025-09-17",
+    "('Close', 'APOLLOHOSP.NS')":7888.0,
+    "('High', 'APOLLOHOSP.NS')":7911.0,
+    "('Low', 'APOLLOHOSP.NS')":7860.0,
+    "('Open', 'APOLLOHOSP.NS')":7869.0,
+    "('Volume', 'APOLLOHOSP.NS')":249447
+  },
+  {
+    "('Date', '')":"2025-09-18",
+    "('Close', 'APOLLOHOSP.NS')":7850.5,
+    "('High', 'APOLLOHOSP.NS')":7886.0,
+    "('Low', 'APOLLOHOSP.NS')":7821.0,
+    "('Open', 'APOLLOHOSP.NS')":7875.0,
+    "('Volume', 'APOLLOHOSP.NS')":264065
+  },
+  {
+    "('Date', '')":"2025-09-19",
+    "('Close', 'APOLLOHOSP.NS')":7806.5,
+    "('High', 'APOLLOHOSP.NS')":7876.5,
+    "('Low', 'APOLLOHOSP.NS')":7798.5,
+    "('Open', 'APOLLOHOSP.NS')":7850.5,
+    "('Volume', 'APOLLOHOSP.NS')":207129
+  },
+  {
+    "('Date', '')":"2025-09-22",
+    "('Close', 'APOLLOHOSP.NS')":7739.0,
+    "('High', 'APOLLOHOSP.NS')":7796.5,
+    "('Low', 'APOLLOHOSP.NS')":7611.5,
+    "('Open', 'APOLLOHOSP.NS')":7611.5,
+    "('Volume', 'APOLLOHOSP.NS')":302818
+  },
+  {
+    "('Date', '')":"2025-09-23",
+    "('Close', 'APOLLOHOSP.NS')":7684.0,
+    "('High', 'APOLLOHOSP.NS')":7749.0,
+    "('Low', 'APOLLOHOSP.NS')":7664.5,
+    "('Open', 'APOLLOHOSP.NS')":7725.0,
+    "('Volume', 'APOLLOHOSP.NS')":443181
+  },
+  {
+    "('Date', '')":"2025-09-24",
+    "('Close', 'APOLLOHOSP.NS')":7643.5,
+    "('High', 'APOLLOHOSP.NS')":7730.0,
+    "('Low', 'APOLLOHOSP.NS')":7634.5,
+    "('Open', 'APOLLOHOSP.NS')":7698.0,
+    "('Volume', 'APOLLOHOSP.NS')":201984
+  },
+  {
+    "('Date', '')":"2025-09-25",
+    "('Close', 'APOLLOHOSP.NS')":7624.0,
+    "('High', 'APOLLOHOSP.NS')":7704.0,
+    "('Low', 'APOLLOHOSP.NS')":7615.0,
+    "('Open', 'APOLLOHOSP.NS')":7649.0,
+    "('Volume', 'APOLLOHOSP.NS')":374239
+  },
+  {
+    "('Date', '')":"2025-09-26",
+    "('Close', 'APOLLOHOSP.NS')":7510.0,
+    "('High', 'APOLLOHOSP.NS')":7630.5,
+    "('Low', 'APOLLOHOSP.NS')":7491.0,
+    "('Open', 'APOLLOHOSP.NS')":7550.0,
+    "('Volume', 'APOLLOHOSP.NS')":207170
+  },
+  {
+    "('Date', '')":"2025-09-29",
+    "('Close', 'APOLLOHOSP.NS')":7444.0,
+    "('High', 'APOLLOHOSP.NS')":7595.0,
+    "('Low', 'APOLLOHOSP.NS')":7426.0,
+    "('Open', 'APOLLOHOSP.NS')":7550.0,
+    "('Volume', 'APOLLOHOSP.NS')":388214
+  },
+  {
+    "('Date', '')":"2025-09-30",
+    "('Close', 'APOLLOHOSP.NS')":7409.0,
+    "('High', 'APOLLOHOSP.NS')":7478.0,
+    "('Low', 'APOLLOHOSP.NS')":7400.0,
+    "('Open', 'APOLLOHOSP.NS')":7444.0,
+    "('Volume', 'APOLLOHOSP.NS')":369272
+  },
+  {
+    "('Date', '')":"2025-10-01",
+    "('Close', 'APOLLOHOSP.NS')":7441.0,
+    "('High', 'APOLLOHOSP.NS')":7482.0,
+    "('Low', 'APOLLOHOSP.NS')":7359.0,
+    "('Open', 'APOLLOHOSP.NS')":7409.5,
+    "('Volume', 'APOLLOHOSP.NS')":220764
+  },
+  {
+    "('Date', '')":"2025-10-03",
+    "('Close', 'APOLLOHOSP.NS')":7449.5,
+    "('High', 'APOLLOHOSP.NS')":7484.0,
+    "('Low', 'APOLLOHOSP.NS')":7404.0,
+    "('Open', 'APOLLOHOSP.NS')":7441.0,
+    "('Volume', 'APOLLOHOSP.NS')":478143
+  },
+  {
+    "('Date', '')":"2025-10-06",
+    "('Close', 'APOLLOHOSP.NS')":7662.0,
+    "('High', 'APOLLOHOSP.NS')":7730.0,
+    "('Low', 'APOLLOHOSP.NS')":7550.0,
+    "('Open', 'APOLLOHOSP.NS')":7550.0,
+    "('Volume', 'APOLLOHOSP.NS')":423558
+  },
+  {
+    "('Date', '')":"2025-10-07",
+    "('Close', 'APOLLOHOSP.NS')":7700.0,
+    "('High', 'APOLLOHOSP.NS')":7706.5,
+    "('Low', 'APOLLOHOSP.NS')":7633.5,
+    "('Open', 'APOLLOHOSP.NS')":7674.5,
+    "('Volume', 'APOLLOHOSP.NS')":210121
+  },
+  {
+    "('Date', '')":"2025-10-08",
+    "('Close', 'APOLLOHOSP.NS')":7662.0,
+    "('High', 'APOLLOHOSP.NS')":7762.0,
+    "('Low', 'APOLLOHOSP.NS')":7643.5,
+    "('Open', 'APOLLOHOSP.NS')":7697.5,
+    "('Volume', 'APOLLOHOSP.NS')":188810
+  },
+  {
+    "('Date', '')":"2025-10-09",
+    "('Close', 'APOLLOHOSP.NS')":7695.0,
+    "('High', 'APOLLOHOSP.NS')":7750.0,
+    "('Low', 'APOLLOHOSP.NS')":7620.0,
+    "('Open', 'APOLLOHOSP.NS')":7690.0,
+    "('Volume', 'APOLLOHOSP.NS')":295802
+  },
+  {
+    "('Date', '')":"2025-10-10",
+    "('Close', 'APOLLOHOSP.NS')":7681.0,
+    "('High', 'APOLLOHOSP.NS')":7739.0,
+    "('Low', 'APOLLOHOSP.NS')":7660.0,
+    "('Open', 'APOLLOHOSP.NS')":7694.5,
+    "('Volume', 'APOLLOHOSP.NS')":273853
+  },
+  {
+    "('Date', '')":"2025-10-13",
+    "('Close', 'APOLLOHOSP.NS')":7671.0,
+    "('High', 'APOLLOHOSP.NS')":7744.0,
+    "('Low', 'APOLLOHOSP.NS')":7643.0,
+    "('Open', 'APOLLOHOSP.NS')":7709.0,
+    "('Volume', 'APOLLOHOSP.NS')":191488
+  },
+  {
+    "('Date', '')":"2025-10-14",
+    "('Close', 'APOLLOHOSP.NS')":7759.0,
+    "('High', 'APOLLOHOSP.NS')":7848.5,
+    "('Low', 'APOLLOHOSP.NS')":7675.0,
+    "('Open', 'APOLLOHOSP.NS')":7848.5,
+    "('Volume', 'APOLLOHOSP.NS')":413862
+  },
+  {
+    "('Date', '')":"2025-10-15",
+    "('Close', 'APOLLOHOSP.NS')":7826.0,
+    "('High', 'APOLLOHOSP.NS')":7850.0,
+    "('Low', 'APOLLOHOSP.NS')":7740.5,
+    "('Open', 'APOLLOHOSP.NS')":7800.0,
+    "('Volume', 'APOLLOHOSP.NS')":212807
+  },
+  {
+    "('Date', '')":"2025-10-16",
+    "('Close', 'APOLLOHOSP.NS')":7833.5,
+    "('High', 'APOLLOHOSP.NS')":7870.0,
+    "('Low', 'APOLLOHOSP.NS')":7807.5,
+    "('Open', 'APOLLOHOSP.NS')":7814.0,
+    "('Volume', 'APOLLOHOSP.NS')":178563
+  },
+  {
+    "('Date', '')":"2025-10-17",
+    "('Close', 'APOLLOHOSP.NS')":7901.5,
+    "('High', 'APOLLOHOSP.NS')":8030.0,
+    "('Low', 'APOLLOHOSP.NS')":7840.5,
+    "('Open', 'APOLLOHOSP.NS')":7850.0,
+    "('Volume', 'APOLLOHOSP.NS')":610960
+  },
+  {
+    "('Date', '')":"2025-10-20",
+    "('Close', 'APOLLOHOSP.NS')":8010.0,
+    "('High', 'APOLLOHOSP.NS')":8065.0,
+    "('Low', 'APOLLOHOSP.NS')":7921.5,
+    "('Open', 'APOLLOHOSP.NS')":7950.0,
+    "('Volume', 'APOLLOHOSP.NS')":498555
+  },
+  {
+    "('Date', '')":"2025-10-21",
+    "('Close', 'APOLLOHOSP.NS')":8012.0,
+    "('High', 'APOLLOHOSP.NS')":8058.5,
+    "('Low', 'APOLLOHOSP.NS')":7992.5,
+    "('Open', 'APOLLOHOSP.NS')":8038.0,
+    "('Volume', 'APOLLOHOSP.NS')":31082
+  },
+  {
+    "('Date', '')":"2025-10-23",
+    "('Close', 'APOLLOHOSP.NS')":7968.5,
+    "('High', 'APOLLOHOSP.NS')":8099.5,
+    "('Low', 'APOLLOHOSP.NS')":7920.0,
+    "('Open', 'APOLLOHOSP.NS')":7950.0,
+    "('Volume', 'APOLLOHOSP.NS')":456860
+  },
+  {
+    "('Date', '')":"2025-10-24",
+    "('Close', 'APOLLOHOSP.NS')":7837.5,
+    "('High', 'APOLLOHOSP.NS')":7982.0,
+    "('Low', 'APOLLOHOSP.NS')":7824.5,
+    "('Open', 'APOLLOHOSP.NS')":7975.0,
+    "('Volume', 'APOLLOHOSP.NS')":287555
+  },
+  {
+    "('Date', '')":"2025-10-27",
+    "('Close', 'APOLLOHOSP.NS')":7845.5,
+    "('High', 'APOLLOHOSP.NS')":7903.0,
+    "('Low', 'APOLLOHOSP.NS')":7834.0,
+    "('Open', 'APOLLOHOSP.NS')":7837.5,
+    "('Volume', 'APOLLOHOSP.NS')":266541
+  },
+  {
+    "('Date', '')":"2025-10-28",
+    "('Close', 'APOLLOHOSP.NS')":7880.5,
+    "('High', 'APOLLOHOSP.NS')":7901.0,
+    "('Low', 'APOLLOHOSP.NS')":7828.5,
+    "('Open', 'APOLLOHOSP.NS')":7864.0,
+    "('Volume', 'APOLLOHOSP.NS')":348079
+  },
+  {
+    "('Date', '')":"2025-10-29",
+    "('Close', 'APOLLOHOSP.NS')":7858.5,
+    "('High', 'APOLLOHOSP.NS')":7905.0,
+    "('Low', 'APOLLOHOSP.NS')":7846.0,
+    "('Open', 'APOLLOHOSP.NS')":7890.5,
+    "('Volume', 'APOLLOHOSP.NS')":199897
+  },
+  {
+    "('Date', '')":"2025-10-30",
+    "('Close', 'APOLLOHOSP.NS')":7790.0,
+    "('High', 'APOLLOHOSP.NS')":7837.5,
+    "('Low', 'APOLLOHOSP.NS')":7765.0,
+    "('Open', 'APOLLOHOSP.NS')":7767.0,
+    "('Volume', 'APOLLOHOSP.NS')":209452
+  },
+  {
+    "('Date', '')":"2025-10-31",
+    "('Close', 'APOLLOHOSP.NS')":7681.0,
+    "('High', 'APOLLOHOSP.NS')":7833.0,
+    "('Low', 'APOLLOHOSP.NS')":7651.0,
+    "('Open', 'APOLLOHOSP.NS')":7833.0,
+    "('Volume', 'APOLLOHOSP.NS')":347031
+  },
+  {
+    "('Date', '')":"2025-11-03",
+    "('Close', 'APOLLOHOSP.NS')":7824.5,
+    "('High', 'APOLLOHOSP.NS')":7845.0,
+    "('Low', 'APOLLOHOSP.NS')":7661.5,
+    "('Open', 'APOLLOHOSP.NS')":7675.0,
+    "('Volume', 'APOLLOHOSP.NS')":332284
+  },
+  {
+    "('Date', '')":"2025-11-04",
+    "('Close', 'APOLLOHOSP.NS')":7810.5,
+    "('High', 'APOLLOHOSP.NS')":7883.5,
+    "('Low', 'APOLLOHOSP.NS')":7780.5,
+    "('Open', 'APOLLOHOSP.NS')":7824.5,
+    "('Volume', 'APOLLOHOSP.NS')":384562
+  },
+  {
+    "('Date', '')":"2025-11-05",
+    "('Close', 'APOLLOHOSP.NS')":7810.5,
+    "('High', 'APOLLOHOSP.NS')":7810.5,
+    "('Low', 'APOLLOHOSP.NS')":7810.5,
+    "('Open', 'APOLLOHOSP.NS')":7810.5,
+    "('Volume', 'APOLLOHOSP.NS')":0
+  },
+  {
+    "('Date', '')":"2025-11-06",
+    "('Close', 'APOLLOHOSP.NS')":7782.0,
+    "('High', 'APOLLOHOSP.NS')":7850.5,
+    "('Low', 'APOLLOHOSP.NS')":7700.0,
+    "('Open', 'APOLLOHOSP.NS')":7732.5,
+    "('Volume', 'APOLLOHOSP.NS')":425649
+  },
+  {
+    "('Date', '')":"2025-11-07",
+    "('Close', 'APOLLOHOSP.NS')":7642.0,
+    "('High', 'APOLLOHOSP.NS')":7891.0,
+    "('Low', 'APOLLOHOSP.NS')":7625.5,
+    "('Open', 'APOLLOHOSP.NS')":7789.0,
+    "('Volume', 'APOLLOHOSP.NS')":486385
+  },
+  {
+    "('Date', '')":"2025-11-10",
+    "('Close', 'APOLLOHOSP.NS')":7529.5,
+    "('High', 'APOLLOHOSP.NS')":7652.5,
+    "('Low', 'APOLLOHOSP.NS')":7515.0,
+    "('Open', 'APOLLOHOSP.NS')":7631.5,
+    "('Volume', 'APOLLOHOSP.NS')":377719
+  },
+  {
+    "('Date', '')":"2025-11-11",
+    "('Close', 'APOLLOHOSP.NS')":7501.0,
+    "('High', 'APOLLOHOSP.NS')":7569.0,
+    "('Low', 'APOLLOHOSP.NS')":7441.0,
+    "('Open', 'APOLLOHOSP.NS')":7501.5,
+    "('Volume', 'APOLLOHOSP.NS')":306725
+  }
+]

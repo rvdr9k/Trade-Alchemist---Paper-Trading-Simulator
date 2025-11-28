@@ -1,0 +1,1994 @@
+[
+  {
+    "('Date', '')":"2024-11-11",
+    "('Close', 'ADANIENT.NS')":2902.166015625,
+    "('High', 'ADANIENT.NS')":2945.2941105772,
+    "('Low', 'ADANIENT.NS')":2886.5241110368,
+    "('Open', 'ADANIENT.NS')":2926.5036693614,
+    "('Volume', 'ADANIENT.NS')":584144
+  },
+  {
+    "('Date', '')":"2024-11-12",
+    "('Close', 'ADANIENT.NS')":2868.533203125,
+    "('High', 'ADANIENT.NS')":2928.9522595932,
+    "('Low', 'ADANIENT.NS')":2853.5408693108,
+    "('Open', 'ADANIENT.NS')":2908.512759963,
+    "('Volume', 'ADANIENT.NS')":597231
+  },
+  {
+    "('Date', '')":"2024-11-13",
+    "('Close', 'ADANIENT.NS')":2815.2604980469,
+    "('High', 'ADANIENT.NS')":2887.523598484,
+    "('Low', 'ADANIENT.NS')":2806.564992919,
+    "('Open', 'ADANIENT.NS')":2858.5384187138,
+    "('Volume', 'ADANIENT.NS')":890146
+  },
+  {
+    "('Date', '')":"2024-11-14",
+    "('Close', 'ADANIENT.NS')":2825.35546875,
+    "('High', 'ADANIENT.NS')":2843.3462702071,
+    "('Low', 'ADANIENT.NS')":2799.5686045249,
+    "('Open', 'ADANIENT.NS')":2822.5568508313,
+    "('Volume', 'ADANIENT.NS')":646797
+  },
+  {
+    "('Date', '')":"2024-11-18",
+    "('Close', 'ADANIENT.NS')":2817.2595214844,
+    "('High', 'ADANIENT.NS')":2857.1890571822,
+    "('Low', 'ADANIENT.NS')":2791.8725991577,
+    "('Open', 'ADANIENT.NS')":2825.355479778,
+    "('Volume', 'ADANIENT.NS')":489692
+  },
+  {
+    "('Date', '')":"2024-11-19",
+    "('Close', 'ADANIENT.NS')":2820.0581054688,
+    "('High', 'ADANIENT.NS')":2893.3206951654,
+    "('Low', 'ADANIENT.NS')":2808.3641334199,
+    "('Open', 'ADANIENT.NS')":2829.553250605,
+    "('Volume', 'ADANIENT.NS')":536296
+  },
+  {
+    "('Date', '')":"2024-11-21",
+    "('Close', 'ADANIENT.NS')":2182.5339355469,
+    "('High', 'ADANIENT.NS')":2538.0523482361,
+    "('Low', 'ADANIENT.NS')":2153.9486981503,
+    "('Open', 'ADANIENT.NS')":2538.0523482361,
+    "('Volume', 'ADANIENT.NS')":21796668
+  },
+  {
+    "('Date', '')":"2024-11-22",
+    "('Close', 'ADANIENT.NS')":2226.861328125,
+    "('High', 'ADANIENT.NS')":2288.5297460836,
+    "('Low', 'ADANIENT.NS')":2023.9650760562,
+    "('Open', 'ADANIENT.NS')":2099.9262344662,
+    "('Volume', 'ADANIENT.NS')":20939196
+  },
+  {
+    "('Date', '')":"2024-11-25",
+    "('Close', 'ADANIENT.NS')":2256.3461914062,
+    "('High', 'ADANIENT.NS')":2332.4571735233,
+    "('Low', 'ADANIENT.NS')":2236.8561578592,
+    "('Open', 'ADANIENT.NS')":2313.8168031475,
+    "('Volume', 'ADANIENT.NS')":7466733
+  },
+  {
+    "('Date', '')":"2024-11-26",
+    "('Close', 'ADANIENT.NS')":2149.4008789062,
+    "('High', 'ADANIENT.NS')":2291.6782213916,
+    "('Low', 'ADANIENT.NS')":2134.9082898599,
+    "('Open', 'ADANIENT.NS')":2264.4421488735,
+    "('Volume', 'ADANIENT.NS')":7723187
+  },
+  {
+    "('Date', '')":"2024-11-27",
+    "('Close', 'ADANIENT.NS')":2396.5747070312,
+    "('High', 'ADANIENT.NS')":2416.7643354723,
+    "('Low', 'ADANIENT.NS')":2141.0552048056,
+    "('Open', 'ADANIENT.NS')":2178.8859600205,
+    "('Volume', 'ADANIENT.NS')":17502156
+  },
+  {
+    "('Date', '')":"2024-11-28",
+    "('Close', 'ADANIENT.NS')":2435.8547363281,
+    "('High', 'ADANIENT.NS')":2525.0091062086,
+    "('Low', 'ADANIENT.NS')":2398.7735968702,
+    "('Open', 'ADANIENT.NS')":2438.753156818,
+    "('Volume', 'ADANIENT.NS')":14445549
+  },
+  {
+    "('Date', '')":"2024-11-29",
+    "('Close', 'ADANIENT.NS')":2461.8911132812,
+    "('High', 'ADANIENT.NS')":2518.7121577804,
+    "('Low', 'ADANIENT.NS')":2398.7734836004,
+    "('Open', 'ADANIENT.NS')":2462.7907997471,
+    "('Volume', 'ADANIENT.NS')":8191680
+  },
+  {
+    "('Date', '')":"2024-12-02",
+    "('Close', 'ADANIENT.NS')":2455.7944335938,
+    "('High', 'ADANIENT.NS')":2506.7183480413,
+    "('Low', 'ADANIENT.NS')":2425.3600431235,
+    "('Open', 'ADANIENT.NS')":2490.0769542222,
+    "('Volume', 'ADANIENT.NS')":3807565
+  },
+  {
+    "('Date', '')":"2024-12-03",
+    "('Close', 'ADANIENT.NS')":2512.9150390625,
+    "('High', 'ADANIENT.NS')":2556.6927033491,
+    "('Low', 'ADANIENT.NS')":2460.7917885533,
+    "('Open', 'ADANIENT.NS')":2462.7407431791,
+    "('Volume', 'ADANIENT.NS')":4070042
+  },
+  {
+    "('Date', '')":"2024-12-04",
+    "('Close', 'ADANIENT.NS')":2493.4750976562,
+    "('High', 'ADANIENT.NS')":2528.7571069554,
+    "('Low', 'ADANIENT.NS')":2468.8377922534,
+    "('Open', 'ADANIENT.NS')":2526.7081057721,
+    "('Volume', 'ADANIENT.NS')":2344949
+  },
+  {
+    "('Date', '')":"2024-12-05",
+    "('Close', 'ADANIENT.NS')":2521.2609863281,
+    "('High', 'ADANIENT.NS')":2536.8528680748,
+    "('Low', 'ADANIENT.NS')":2468.9876636424,
+    "('Open', 'ADANIENT.NS')":2503.7199058492,
+    "('Volume', 'ADANIENT.NS')":3333144
+  },
+  {
+    "('Date', '')":"2024-12-06",
+    "('Close', 'ADANIENT.NS')":2505.1188964844,
+    "('High', 'ADANIENT.NS')":2533.7043768034,
+    "('Low', 'ADANIENT.NS')":2501.2209873572,
+    "('Open', 'ADANIENT.NS')":2518.7120432128,
+    "('Volume', 'ADANIENT.NS')":1240437
+  },
+  {
+    "('Date', '')":"2024-12-09",
+    "('Close', 'ADANIENT.NS')":2494.5747070312,
+    "('High', 'ADANIENT.NS')":2524.7092026393,
+    "('Low', 'ADANIENT.NS')":2481.8810015757,
+    "('Open', 'ADANIENT.NS')":2506.6183542144,
+    "('Volume', 'ADANIENT.NS')":958369
+  },
+  {
+    "('Date', '')":"2024-12-10",
+    "('Close', 'ADANIENT.NS')":2465.9392089844,
+    "('High', 'ADANIENT.NS')":2499.7219859463,
+    "('Low', 'ADANIENT.NS')":2453.7454920024,
+    "('Open', 'ADANIENT.NS')":2499.7219859463,
+    "('Volume', 'ADANIENT.NS')":1119816
+  },
+  {
+    "('Date', '')":"2024-12-11",
+    "('Close', 'ADANIENT.NS')":2455.994140625,
+    "('High', 'ADANIENT.NS')":2478.7325134805,
+    "('Low', 'ADANIENT.NS')":2449.7473348955,
+    "('Open', 'ADANIENT.NS')":2467.7381353965,
+    "('Volume', 'ADANIENT.NS')":712674
+  },
+  {
+    "('Date', '')":"2024-12-12",
+    "('Close', 'ADANIENT.NS')":2502.8203125,
+    "('High', 'ADANIENT.NS')":2533.5045736674,
+    "('Low', 'ADANIENT.NS')":2444.9997806332,
+    "('Open', 'ADANIENT.NS')":2455.7442865675,
+    "('Volume', 'ADANIENT.NS')":2579624
+  },
+  {
+    "('Date', '')":"2024-12-13",
+    "('Close', 'ADANIENT.NS')":2526.2583007812,
+    "('High', 'ADANIENT.NS')":2543.6993338546,
+    "('Low', 'ADANIENT.NS')":2477.7830875428,
+    "('Open', 'ADANIENT.NS')":2502.7202876118,
+    "('Volume', 'ADANIENT.NS')":1940935
+  },
+  {
+    "('Date', '')":"2024-12-16",
+    "('Close', 'ADANIENT.NS')":2511.1159667969,
+    "('High', 'ADANIENT.NS')":2536.2032373122,
+    "('Low', 'ADANIENT.NS')":2501.7208681744,
+    "('Open', 'ADANIENT.NS')":2528.7070701083,
+    "('Volume', 'ADANIENT.NS')":654321
+  },
+  {
+    "('Date', '')":"2024-12-17",
+    "('Close', 'ADANIENT.NS')":2486.3288574219,
+    "('High', 'ADANIENT.NS')":2523.7096472641,
+    "('Low', 'ADANIENT.NS')":2479.4822603764,
+    "('Open', 'ADANIENT.NS')":2510.7162906643,
+    "('Volume', 'ADANIENT.NS')":1061891
+  },
+  {
+    "('Date', '')":"2024-12-18",
+    "('Close', 'ADANIENT.NS')":2456.1440429688,
+    "('High', 'ADANIENT.NS')":2495.3242049392,
+    "('Low', 'ADANIENT.NS')":2450.7469002564,
+    "('Open', 'ADANIENT.NS')":2487.7279913288,
+    "('Volume', 'ADANIENT.NS')":990217
+  },
+  {
+    "('Date', '')":"2024-12-19",
+    "('Close', 'ADANIENT.NS')":2418.1137695312,
+    "('High', 'ADANIENT.NS')":2432.7561855313,
+    "('Low', 'ADANIENT.NS')":2395.8751396512,
+    "('Open', 'ADANIENT.NS')":2427.7587406145,
+    "('Volume', 'ADANIENT.NS')":1181898
+  },
+  {
+    "('Date', '')":"2024-12-20",
+    "('Close', 'ADANIENT.NS')":2343.7514648438,
+    "('High', 'ADANIENT.NS')":2452.5959532802,
+    "('Low', 'ADANIENT.NS')":2331.8076212023,
+    "('Open', 'ADANIENT.NS')":2427.7585563225,
+    "('Volume', 'ADANIENT.NS')":1337016
+  },
+  {
+    "('Date', '')":"2024-12-23",
+    "('Close', 'ADANIENT.NS')":2337.7546386719,
+    "('High', 'ADANIENT.NS')":2378.283964534,
+    "('Low', 'ADANIENT.NS')":2331.5578559642,
+    "('Open', 'ADANIENT.NS')":2372.7367520397,
+    "('Volume', 'ADANIENT.NS')":758920
+  },
+  {
+    "('Date', '')":"2024-12-24",
+    "('Close', 'ADANIENT.NS')":2371.2375488281,
+    "('High', 'ADANIENT.NS')":2411.6668287038,
+    "('Low', 'ADANIENT.NS')":2338.8041806813,
+    "('Open', 'ADANIENT.NS')":2353.9963641628,
+    "('Volume', 'ADANIENT.NS')":1156186
+  },
+  {
+    "('Date', '')":"2024-12-26",
+    "('Close', 'ADANIENT.NS')":2399.0234375,
+    "('High', 'ADANIENT.NS')":2408.7684551088,
+    "('Low', 'ADANIENT.NS')":2366.7899177169,
+    "('Open', 'ADANIENT.NS')":2376.8348308246,
+    "('Volume', 'ADANIENT.NS')":895785
+  },
+  {
+    "('Date', '')":"2024-12-27",
+    "('Close', 'ADANIENT.NS')":2408.7182617188,
+    "('High', 'ADANIENT.NS')":2444.8997116358,
+    "('Low', 'ADANIENT.NS')":2389.2782511266,
+    "('Open', 'ADANIENT.NS')":2413.7657295423,
+    "('Volume', 'ADANIENT.NS')":1982291
+  },
+  {
+    "('Date', '')":"2024-12-30",
+    "('Close', 'ADANIENT.NS')":2591.025390625,
+    "('High', 'ADANIENT.NS')":2608.6662737588,
+    "('Low', 'ADANIENT.NS')":2420.7123196758,
+    "('Open', 'ADANIENT.NS')":2423.76080991,
+    "('Volume', 'ADANIENT.NS')":7825097
+  },
+  {
+    "('Date', '')":"2024-12-31",
+    "('Close', 'ADANIENT.NS')":2527.3576660156,
+    "('High', 'ADANIENT.NS')":2576.4326716535,
+    "('Low', 'ADANIENT.NS')":2506.1685488256,
+    "('Open', 'ADANIENT.NS')":2573.6840770081,
+    "('Volume', 'ADANIENT.NS')":2745674
+  },
+  {
+    "('Date', '')":"2025-01-01",
+    "('Close', 'ADANIENT.NS')":2553.5444335938,
+    "('High', 'ADANIENT.NS')":2642.8486245897,
+    "('Low', 'ADANIENT.NS')":2516.9630405309,
+    "('Open', 'ADANIENT.NS')":2534.7039693383,
+    "('Volume', 'ADANIENT.NS')":2875721
+  },
+  {
+    "('Date', '')":"2025-01-02",
+    "('Close', 'ADANIENT.NS')":2596.3723144531,
+    "('High', 'ADANIENT.NS')":2600.6701656053,
+    "('Low', 'ADANIENT.NS')":2535.7033859111,
+    "('Open', 'ADANIENT.NS')":2564.3886690652,
+    "('Volume', 'ADANIENT.NS')":1167236
+  },
+  {
+    "('Date', '')":"2025-01-03",
+    "('Close', 'ADANIENT.NS')":2563.2895507812,
+    "('High', 'ADANIENT.NS')":2617.6616540065,
+    "('Low', 'ADANIENT.NS')":2555.2936388943,
+    "('Open', 'ADANIENT.NS')":2578.6815835574,
+    "('Volume', 'ADANIENT.NS')":932795
+  },
+  {
+    "('Date', '')":"2025-01-06",
+    "('Close', 'ADANIENT.NS')":2473.1853027344,
+    "('High', 'ADANIENT.NS')":2567.5372029418,
+    "('Low', 'ADANIENT.NS')":2462.2409478926,
+    "('Open', 'ADANIENT.NS')":2556.3427318548,
+    "('Volume', 'ADANIENT.NS')":1121398
+  },
+  {
+    "('Date', '')":"2025-01-07",
+    "('Close', 'ADANIENT.NS')":2519.2619628906,
+    "('High', 'ADANIENT.NS')":2523.7096399876,
+    "('Low', 'ADANIENT.NS')":2473.3852729265,
+    "('Open', 'ADANIENT.NS')":2473.3852729265,
+    "('Volume', 'ADANIENT.NS')":1019130
+  },
+  {
+    "('Date', '')":"2025-01-08",
+    "('Close', 'ADANIENT.NS')":2513.9645996094,
+    "('High', 'ADANIENT.NS')":2528.7070617281,
+    "('Low', 'ADANIENT.NS')":2488.72750344,
+    "('Open', 'ADANIENT.NS')":2519.2619398857,
+    "('Volume', 'ADANIENT.NS')":879641
+  },
+  {
+    "('Date', '')":"2025-01-09",
+    "('Close', 'ADANIENT.NS')":2476.6335449219,
+    "('High', 'ADANIENT.NS')":2516.263427772,
+    "('Low', 'ADANIENT.NS')":2468.2379354387,
+    "('Open', 'ADANIENT.NS')":2515.7136600523,
+    "('Volume', 'ADANIENT.NS')":705838
+  },
+  {
+    "('Date', '')":"2025-01-10",
+    "('Close', 'ADANIENT.NS')":2373.1865234375,
+    "('High', 'ADANIENT.NS')":2483.3304036397,
+    "('Low', 'ADANIENT.NS')":2367.0397638507,
+    "('Open', 'ADANIENT.NS')":2478.7326567506,
+    "('Volume', 'ADANIENT.NS')":1418808
+  },
+  {
+    "('Date', '')":"2025-01-13",
+    "('Close', 'ADANIENT.NS')":2224.0126953125,
+    "('High', 'ADANIENT.NS')":2363.7913198,
+    "('Low', 'ADANIENT.NS')":2215.7669116388,
+    "('Open', 'ADANIENT.NS')":2363.7913198,
+    "('Volume', 'ADANIENT.NS')":1559903
+  },
+  {
+    "('Date', '')":"2025-01-14",
+    "('Close', 'ADANIENT.NS')":2379.3334960938,
+    "('High', 'ADANIENT.NS')":2421.6617072036,
+    "('Low', 'ADANIENT.NS')":2240.3545071945,
+    "('Open', 'ADANIENT.NS')":2240.3545071945,
+    "('Volume', 'ADANIENT.NS')":4120705
+  },
+  {
+    "('Date', '')":"2025-01-15",
+    "('Close', 'ADANIENT.NS')":2386.9294433594,
+    "('High', 'ADANIENT.NS')":2420.7122187436,
+    "('Low', 'ADANIENT.NS')":2371.4373646018,
+    "('Open', 'ADANIENT.NS')":2397.773996096,
+    "('Volume', 'ADANIENT.NS')":1421437
+  },
+  {
+    "('Date', '')":"2025-01-16",
+    "('Close', 'ADANIENT.NS')":2426.609375,
+    "('High', 'ADANIENT.NS')":2568.6866334006,
+    "('Low', 'ADANIENT.NS')":2417.6139743383,
+    "('Open', 'ADANIENT.NS')":2498.7224060317,
+    "('Volume', 'ADANIENT.NS')":2841803
+  },
+  {
+    "('Date', '')":"2025-01-17",
+    "('Close', 'ADANIENT.NS')":2398.5737304688,
+    "('High', 'ADANIENT.NS')":2448.748029036,
+    "('Low', 'ADANIENT.NS')":2378.8338228877,
+    "('Open', 'ADANIENT.NS')":2448.748029036,
+    "('Volume', 'ADANIENT.NS')":1122205
+  },
+  {
+    "('Date', '')":"2025-01-20",
+    "('Close', 'ADANIENT.NS')":2441.5517578125,
+    "('High', 'ADANIENT.NS')":2452.7459857168,
+    "('Low', 'ADANIENT.NS')":2388.7786902457,
+    "('Open', 'ADANIENT.NS')":2412.5165537994,
+    "('Volume', 'ADANIENT.NS')":1039435
+  },
+  {
+    "('Date', '')":"2025-01-21",
+    "('Close', 'ADANIENT.NS')":2383.0815429688,
+    "('High', 'ADANIENT.NS')":2440.5021341185,
+    "('Low', 'ADANIENT.NS')":2372.4368392834,
+    "('Open', 'ADANIENT.NS')":2440.5021341185,
+    "('Volume', 'ADANIENT.NS')":1206512
+  },
+  {
+    "('Date', '')":"2025-01-22",
+    "('Close', 'ADANIENT.NS')":2375.3354492188,
+    "('High', 'ADANIENT.NS')":2397.7739267413,
+    "('Low', 'ADANIENT.NS')":2323.9615721571,
+    "('Open', 'ADANIENT.NS')":2397.7739267413,
+    "('Volume', 'ADANIENT.NS')":1147334
+  },
+  {
+    "('Date', '')":"2025-01-23",
+    "('Close', 'ADANIENT.NS')":2383.78125,
+    "('High', 'ADANIENT.NS')":2403.9208556169,
+    "('Low', 'ADANIENT.NS')":2353.7965801887,
+    "('Open', 'ADANIENT.NS')":2381.7822720126,
+    "('Volume', 'ADANIENT.NS')":826721
+  },
+  {
+    "('Date', '')":"2025-01-24",
+    "('Close', 'ADANIENT.NS')":2313.9169921875,
+    "('High', 'ADANIENT.NS')":2404.7704411741,
+    "('Low', 'ADANIENT.NS')":2298.2248202805,
+    "('Open', 'ADANIENT.NS')":2386.5297676282,
+    "('Volume', 'ADANIENT.NS')":1388583
+  },
+  {
+    "('Date', '')":"2025-01-27",
+    "('Close', 'ADANIENT.NS')":2258.5451660156,
+    "('High', 'ADANIENT.NS')":2316.9154679969,
+    "('Low', 'ADANIENT.NS')":2248.9001951071,
+    "('Open', 'ADANIENT.NS')":2308.8695330233,
+    "('Volume', 'ADANIENT.NS')":1032995
+  },
+  {
+    "('Date', '')":"2025-01-28",
+    "('Close', 'ADANIENT.NS')":2284.8818359375,
+    "('High', 'ADANIENT.NS')":2314.6666564021,
+    "('Low', 'ADANIENT.NS')":2240.8542974804,
+    "('Open', 'ADANIENT.NS')":2273.0377938953,
+    "('Volume', 'ADANIENT.NS')":966497
+  },
+  {
+    "('Date', '')":"2025-01-29",
+    "('Close', 'ADANIENT.NS')":2317.4152832031,
+    "('High', 'ADANIENT.NS')":2325.0612764144,
+    "('Low', 'ADANIENT.NS')":2281.4336793553,
+    "('Open', 'ADANIENT.NS')":2295.8262232881,
+    "('Volume', 'ADANIENT.NS')":785220
+  },
+  {
+    "('Date', '')":"2025-01-30",
+    "('Close', 'ADANIENT.NS')":2251.4489746094,
+    "('High', 'ADANIENT.NS')":2350.2983371538,
+    "('Low', 'ADANIENT.NS')":2200.1751411173,
+    "('Open', 'ADANIENT.NS')":2323.8118791761,
+    "('Volume', 'ADANIENT.NS')":2601625
+  },
+  {
+    "('Date', '')":"2025-01-31",
+    "('Close', 'ADANIENT.NS')":2286.630859375,
+    "('High', 'ADANIENT.NS')":2313.7668866515,
+    "('Low', 'ADANIENT.NS')":2212.6186541233,
+    "('Open', 'ADANIENT.NS')":2237.7059242733,
+    "('Volume', 'ADANIENT.NS')":2013345
+  },
+  {
+    "('Date', '')":"2025-02-01",
+    "('Close', 'ADANIENT.NS')":2268.83984375,
+    "('High', 'ADANIENT.NS')":2350.248167314,
+    "('Low', 'ADANIENT.NS')":2236.4064771656,
+    "('Open', 'ADANIENT.NS')":2295.8260445347,
+    "('Volume', 'ADANIENT.NS')":987362
+  },
+  {
+    "('Date', '')":"2025-02-03",
+    "('Close', 'ADANIENT.NS')":2260.6940917969,
+    "('High', 'ADANIENT.NS')":2277.8352290206,
+    "('Low', 'ADANIENT.NS')":2212.7684032838,
+    "('Open', 'ADANIENT.NS')":2265.5914898563,
+    "('Volume', 'ADANIENT.NS')":824942
+  },
+  {
+    "('Date', '')":"2025-02-04",
+    "('Close', 'ADANIENT.NS')":2300.3237304688,
+    "('High', 'ADANIENT.NS')":2310.8183640425,
+    "('Low', 'ADANIENT.NS')":2266.3911307169,
+    "('Open', 'ADANIENT.NS')":2277.7351834561,
+    "('Volume', 'ADANIENT.NS')":691187
+  },
+  {
+    "('Date', '')":"2025-02-05",
+    "('Close', 'ADANIENT.NS')":2323.412109375,
+    "('High', 'ADANIENT.NS')":2348.1992401074,
+    "('Low', 'ADANIENT.NS')":2307.8700074087,
+    "('Open', 'ADANIENT.NS')":2313.7668946038,
+    "('Volume', 'ADANIENT.NS')":560940
+  },
+  {
+    "('Date', '')":"2025-02-06",
+    "('Close', 'ADANIENT.NS')":2311.2680664062,
+    "('High', 'ADANIENT.NS')":2338.8040345045,
+    "('Low', 'ADANIENT.NS')":2297.0253495295,
+    "('Open', 'ADANIENT.NS')":2338.8040345045,
+    "('Volume', 'ADANIENT.NS')":680544
+  },
+  {
+    "('Date', '')":"2025-02-07",
+    "('Close', 'ADANIENT.NS')":2337.6047363281,
+    "('High', 'ADANIENT.NS')":2373.6861399527,
+    "('Low', 'ADANIENT.NS')":2306.1708585781,
+    "('Open', 'ADANIENT.NS')":2311.2681056637,
+    "('Volume', 'ADANIENT.NS')":892884
+  },
+  {
+    "('Date', '')":"2025-02-10",
+    "('Close', 'ADANIENT.NS')":2289.6293945312,
+    "('High', 'ADANIENT.NS')":2349.7485588184,
+    "('Low', 'ADANIENT.NS')":2278.9349112935,
+    "('Open', 'ADANIENT.NS')":2348.7990930945,
+    "('Volume', 'ADANIENT.NS')":739708
+  },
+  {
+    "('Date', '')":"2025-02-11",
+    "('Close', 'ADANIENT.NS')":2320.5634765625,
+    "('High', 'ADANIENT.NS')":2395.7750202736,
+    "('Low', 'ADANIENT.NS')":2304.8215255532,
+    "('Open', 'ADANIENT.NS')":2310.818459271,
+    "('Volume', 'ADANIENT.NS')":4895456
+  },
+  {
+    "('Date', '')":"2025-02-12",
+    "('Close', 'ADANIENT.NS')":2352.2473144531,
+    "('High', 'ADANIENT.NS')":2377.2345392004,
+    "('Low', 'ADANIENT.NS')":2279.8343859388,
+    "('Open', 'ADANIENT.NS')":2323.8119014939,
+    "('Volume', 'ADANIENT.NS')":1933098
+  },
+  {
+    "('Date', '')":"2025-02-13",
+    "('Close', 'ADANIENT.NS')":2243.552734375,
+    "('High', 'ADANIENT.NS')":2371.5373396383,
+    "('Low', 'ADANIENT.NS')":2232.2584607534,
+    "('Open', 'ADANIENT.NS')":2352.7969223511,
+    "('Volume', 'ADANIENT.NS')":2551665
+  },
+  {
+    "('Date', '')":"2025-02-14",
+    "('Close', 'ADANIENT.NS')":2151.5498046875,
+    "('High', 'ADANIENT.NS')":2248.1505587465,
+    "('Low', 'ADANIENT.NS')":2123.4643114183,
+    "('Open', 'ADANIENT.NS')":2244.5523008966,
+    "('Volume', 'ADANIENT.NS')":2549876
+  },
+  {
+    "('Date', '')":"2025-02-17",
+    "('Close', 'ADANIENT.NS')":2222.5634765625,
+    "('High', 'ADANIENT.NS')":2239.2548928282,
+    "('Low', 'ADANIENT.NS')":2109.5712046435,
+    "('Open', 'ADANIENT.NS')":2151.5497395472,
+    "('Volume', 'ADANIENT.NS')":1400160
+  },
+  {
+    "('Date', '')":"2025-02-18",
+    "('Close', 'ADANIENT.NS')":2219.1652832031,
+    "('High', 'ADANIENT.NS')":2238.8551659937,
+    "('Low', 'ADANIENT.NS')":2164.9430096517,
+    "('Open', 'ADANIENT.NS')":2238.8551659937,
+    "('Volume', 'ADANIENT.NS')":1138085
+  },
+  {
+    "('Date', '')":"2025-02-19",
+    "('Close', 'ADANIENT.NS')":2179.685546875,
+    "('High', 'ADANIENT.NS')":2218.2656738631,
+    "('Low', 'ADANIENT.NS')":2125.9129926627,
+    "('Open', 'ADANIENT.NS')":2164.8930616396,
+    "('Volume', 'ADANIENT.NS')":1203163
+  },
+  {
+    "('Date', '')":"2025-02-20",
+    "('Close', 'ADANIENT.NS')":2177.8864746094,
+    "('High', 'ADANIENT.NS')":2215.2174853991,
+    "('Low', 'ADANIENT.NS')":2155.6978681871,
+    "('Open', 'ADANIENT.NS')":2179.685603566,
+    "('Volume', 'ADANIENT.NS')":1086670
+  },
+  {
+    "('Date', '')":"2025-02-21",
+    "('Close', 'ADANIENT.NS')":2132.0100097656,
+    "('High', 'ADANIENT.NS')":2198.4760259667,
+    "('Low', 'ADANIENT.NS')":2115.7683140774,
+    "('Open', 'ADANIENT.NS')":2189.3305555235,
+    "('Volume', 'ADANIENT.NS')":1540308
+  },
+  {
+    "('Date', '')":"2025-02-24",
+    "('Close', 'ADANIENT.NS')":2114.0688476562,
+    "('High', 'ADANIENT.NS')":2137.4070110602,
+    "('Low', 'ADANIENT.NS')":2095.6283262681,
+    "('Open', 'ADANIENT.NS')":2127.8618432692,
+    "('Volume', 'ADANIENT.NS')":1032294
+  },
+  {
+    "('Date', '')":"2025-02-25",
+    "('Close', 'ADANIENT.NS')":2128.76171875,
+    "('High', 'ADANIENT.NS')":2157.1971316561,
+    "('Low', 'ADANIENT.NS')":2100.9258528272,
+    "('Open', 'ADANIENT.NS')":2114.0690354133,
+    "('Volume', 'ADANIENT.NS')":802131
+  },
+  {
+    "('Date', '')":"2025-02-27",
+    "('Close', 'ADANIENT.NS')":2109.87109375,
+    "('High', 'ADANIENT.NS')":2148.0017425818,
+    "('Low', 'ADANIENT.NS')":2101.4254611516,
+    "('Open', 'ADANIENT.NS')":2142.6543792361,
+    "('Volume', 'ADANIENT.NS')":941950
+  },
+  {
+    "('Date', '')":"2025-02-28",
+    "('Close', 'ADANIENT.NS')":2094.9289550781,
+    "('High', 'ADANIENT.NS')":2110.2712089156,
+    "('Low', 'ADANIENT.NS')":2070.9412189513,
+    "('Open', 'ADANIENT.NS')":2105.9233341363,
+    "('Volume', 'ADANIENT.NS')":2373922
+  },
+  {
+    "('Date', '')":"2025-03-03",
+    "('Close', 'ADANIENT.NS')":2116.0180664062,
+    "('High', 'ADANIENT.NS')":2126.1627812241,
+    "('Low', 'ADANIENT.NS')":2025.5142969121,
+    "('Open', 'ADANIENT.NS')":2107.9221086387,
+    "('Volume', 'ADANIENT.NS')":1592611
+  },
+  {
+    "('Date', '')":"2025-03-04",
+    "('Close', 'ADANIENT.NS')":2143.7038574219,
+    "('High', 'ADANIENT.NS')":2152.8991065669,
+    "('Low', 'ADANIENT.NS')":2078.9369274184,
+    "('Open', 'ADANIENT.NS')":2084.0344184525,
+    "('Volume', 'ADANIENT.NS')":852978
+  },
+  {
+    "('Date', '')":"2025-03-05",
+    "('Close', 'ADANIENT.NS')":2244.7023925781,
+    "('High', 'ADANIENT.NS')":2257.2457838925,
+    "('Low', 'ADANIENT.NS')":2146.9523228705,
+    "('Open', 'ADANIENT.NS')":2152.8492101654,
+    "('Volume', 'ADANIENT.NS')":1370106
+  },
+  {
+    "('Date', '')":"2025-03-06",
+    "('Close', 'ADANIENT.NS')":2251.6987304688,
+    "('High', 'ADANIENT.NS')":2267.7403325606,
+    "('Low', 'ADANIENT.NS')":2225.0121808617,
+    "('Open', 'ADANIENT.NS')":2258.8449787021,
+    "('Volume', 'ADANIENT.NS')":890270
+  },
+  {
+    "('Date', '')":"2025-03-07",
+    "('Close', 'ADANIENT.NS')":2246.3513183594,
+    "('High', 'ADANIENT.NS')":2266.490922228,
+    "('Low', 'ADANIENT.NS')":2225.861795767,
+    "('Open', 'ADANIENT.NS')":2248.8000173782,
+    "('Volume', 'ADANIENT.NS')":818806
+  },
+  {
+    "('Date', '')":"2025-03-10",
+    "('Close', 'ADANIENT.NS')":2227.1613769531,
+    "('High', 'ADANIENT.NS')":2286.8308211673,
+    "('Low', 'ADANIENT.NS')":2218.8655694892,
+    "('Open', 'ADANIENT.NS')":2243.8527943709,
+    "('Volume', 'ADANIENT.NS')":940113
+  },
+  {
+    "('Date', '')":"2025-03-11",
+    "('Close', 'ADANIENT.NS')":2249.4499511719,
+    "('High', 'ADANIENT.NS')":2266.6911357333,
+    "('Low', 'ADANIENT.NS')":2207.1715193571,
+    "('Open', 'ADANIENT.NS')":2222.0137840049,
+    "('Volume', 'ADANIENT.NS')":947079
+  },
+  {
+    "('Date', '')":"2025-03-12",
+    "('Close', 'ADANIENT.NS')":2240.654296875,
+    "('High', 'ADANIENT.NS')":2278.834724598,
+    "('Low', 'ADANIENT.NS')":2179.8352988337,
+    "('Open', 'ADANIENT.NS')":2268.839835455,
+    "('Volume', 'ADANIENT.NS')":1049076
+  },
+  {
+    "('Date', '')":"2025-03-13",
+    "('Close', 'ADANIENT.NS')":2219.9650878906,
+    "('High', 'ADANIENT.NS')":2271.838468739,
+    "('Low', 'ADANIENT.NS')":2214.467898459,
+    "('Open', 'ADANIENT.NS')":2247.8507330374,
+    "('Volume', 'ADANIENT.NS')":750310
+  },
+  {
+    "('Date', '')":"2025-03-17",
+    "('Close', 'ADANIENT.NS')":2251.548828125,
+    "('High', 'ADANIENT.NS')":2285.7313032225,
+    "('Low', 'ADANIENT.NS')":2196.8768284672,
+    "('Open', 'ADANIENT.NS')":2198.8758064731,
+    "('Volume', 'ADANIENT.NS')":927737
+  },
+  {
+    "('Date', '')":"2025-03-18",
+    "('Close', 'ADANIENT.NS')":2251.548828125,
+    "('High', 'ADANIENT.NS')":2251.548828125,
+    "('Low', 'ADANIENT.NS')":2251.548828125,
+    "('Open', 'ADANIENT.NS')":2251.548828125,
+    "('Volume', 'ADANIENT.NS')":0
+  },
+  {
+    "('Date', '')":"2025-03-19",
+    "('Close', 'ADANIENT.NS')":2317.46484375,
+    "('High', 'ADANIENT.NS')":2340.8030072053,
+    "('Low', 'ADANIENT.NS')":2309.8688745085,
+    "('Open', 'ADANIENT.NS')":2318.7642281251,
+    "('Volume', 'ADANIENT.NS')":1030345
+  },
+  {
+    "('Date', '')":"2025-03-20",
+    "('Close', 'ADANIENT.NS')":2338.1044921875,
+    "('High', 'ADANIENT.NS')":2346.799997036,
+    "('Low', 'ADANIENT.NS')":2297.8250396873,
+    "('Open', 'ADANIENT.NS')":2346.799997036,
+    "('Volume', 'ADANIENT.NS')":2587050
+  },
+  {
+    "('Date', '')":"2025-03-21",
+    "('Close', 'ADANIENT.NS')":2361.5925292969,
+    "('High', 'ADANIENT.NS')":2388.3288585898,
+    "('Low', 'ADANIENT.NS')":2336.8051546446,
+    "('Open', 'ADANIENT.NS')":2342.6022393318,
+    "('Volume', 'ADANIENT.NS')":1101418
+  },
+  {
+    "('Date', '')":"2025-03-24",
+    "('Close', 'ADANIENT.NS')":2367.4895019531,
+    "('High', 'ADANIENT.NS')":2393.7761109728,
+    "('Low', 'ADANIENT.NS')":2359.8935321024,
+    "('Open', 'ADANIENT.NS')":2368.7888864324,
+    "('Volume', 'ADANIENT.NS')":1010184
+  },
+  {
+    "('Date', '')":"2025-03-25",
+    "('Close', 'ADANIENT.NS')":2319.1643066406,
+    "('High', 'ADANIENT.NS')":2386.4297184562,
+    "('Low', 'ADANIENT.NS')":2313.916989599,
+    "('Open', 'ADANIENT.NS')":2383.7811703177,
+    "('Volume', 'ADANIENT.NS')":763065
+  },
+  {
+    "('Date', '')":"2025-03-26",
+    "('Close', 'ADANIENT.NS')":2311.4182128906,
+    "('High', 'ADANIENT.NS')":2358.6440651553,
+    "('Low', 'ADANIENT.NS')":2306.8704894249,
+    "('Open', 'ADANIENT.NS')":2323.7117316008,
+    "('Volume', 'ADANIENT.NS')":1078870
+  },
+  {
+    "('Date', '')":"2025-03-27",
+    "('Close', 'ADANIENT.NS')":2362.1423339844,
+    "('High', 'ADANIENT.NS')":2372.686747312,
+    "('Low', 'ADANIENT.NS')":2290.4290010205,
+    "('Open', 'ADANIENT.NS')":2308.8195002997,
+    "('Volume', 'ADANIENT.NS')":1696042
+  },
+  {
+    "('Date', '')":"2025-03-28",
+    "('Close', 'ADANIENT.NS')":2314.6164550781,
+    "('High', 'ADANIENT.NS')":2385.7299930649,
+    "('Low', 'ADANIENT.NS')":2292.5276526706,
+    "('Open', 'ADANIENT.NS')":2374.7856383579,
+    "('Volume', 'ADANIENT.NS')":1838836
+  },
+  {
+    "('Date', '')":"2025-04-01",
+    "('Close', 'ADANIENT.NS')":2334.056640625,
+    "('High', 'ADANIENT.NS')":2357.7444806486,
+    "('Low', 'ADANIENT.NS')":2299.8241430588,
+    "('Open', 'ADANIENT.NS')":2310.8185218392,
+    "('Volume', 'ADANIENT.NS')":501942
+  },
+  {
+    "('Date', '')":"2025-04-02",
+    "('Close', 'ADANIENT.NS')":2368.1889648438,
+    "('High', 'ADANIENT.NS')":2377.6343304119,
+    "('Low', 'ADANIENT.NS')":2313.3671436347,
+    "('Open', 'ADANIENT.NS')":2338.5542157794,
+    "('Volume', 'ADANIENT.NS')":573928
+  },
+  {
+    "('Date', '')":"2025-04-03",
+    "('Close', 'ADANIENT.NS')":2409.5681152344,
+    "('High', 'ADANIENT.NS')":2428.6582086078,
+    "('Low', 'ADANIENT.NS')":2338.5043501636,
+    "('Open', 'ADANIENT.NS')":2338.5543734165,
+    "('Volume', 'ADANIENT.NS')":1023200
+  },
+  {
+    "('Date', '')":"2025-04-04",
+    "('Close', 'ADANIENT.NS')":2333.4567871094,
+    "('High', 'ADANIENT.NS')":2408.8184005943,
+    "('Low', 'ADANIENT.NS')":2314.3166712609,
+    "('Open', 'ADANIENT.NS')":2393.7260197938,
+    "('Volume', 'ADANIENT.NS')":1219733
+  },
+  {
+    "('Date', '')":"2025-04-07",
+    "('Close', 'ADANIENT.NS')":2211.5690917969,
+    "('High', 'ADANIENT.NS')":2237.855699283,
+    "('Low', 'ADANIENT.NS')":2143.9037404922,
+    "('Open', 'ADANIENT.NS')":2148.9512083581,
+    "('Volume', 'ADANIENT.NS')":1567177
+  },
+  {
+    "('Date', '')":"2025-04-08",
+    "('Close', 'ADANIENT.NS')":2284.5317382812,
+    "('High', 'ADANIENT.NS')":2299.8239673103,
+    "('Low', 'ADANIENT.NS')":2223.8628106326,
+    "('Open', 'ADANIENT.NS')":2268.839811297,
+    "('Volume', 'ADANIENT.NS')":1224337
+  },
+  {
+    "('Date', '')":"2025-04-09",
+    "('Close', 'ADANIENT.NS')":2235.7568359375,
+    "('High', 'ADANIENT.NS')":2278.3851879958,
+    "('Low', 'ADANIENT.NS')":2214.0679735431,
+    "('Open', 'ADANIENT.NS')":2264.5421678048,
+    "('Volume', 'ADANIENT.NS')":1001633
+  },
+  {
+    "('Date', '')":"2025-04-11",
+    "('Close', 'ADANIENT.NS')":2320.2136230469,
+    "('High', 'ADANIENT.NS')":2342.3024271348,
+    "('Low', 'ADANIENT.NS')":2279.834365818,
+    "('Open', 'ADANIENT.NS')":2301.8731466538,
+    "('Volume', 'ADANIENT.NS')":981463
+  },
+  {
+    "('Date', '')":"2025-04-15",
+    "('Close', 'ADANIENT.NS')":2416.9641113281,
+    "('High', 'ADANIENT.NS')":2438.7530190722,
+    "('Low', 'ADANIENT.NS')":2357.7944147505,
+    "('Open', 'ADANIENT.NS')":2373.7862378264,
+    "('Volume', 'ADANIENT.NS')":1145125
+  },
+  {
+    "('Date', '')":"2025-04-16",
+    "('Close', 'ADANIENT.NS')":2414.3657226562,
+    "('High', 'ADANIENT.NS')":2426.7592886327,
+    "('Low', 'ADANIENT.NS')":2381.6822371889,
+    "('Open', 'ADANIENT.NS')":2398.7735966715,
+    "('Volume', 'ADANIENT.NS')":889949
+  },
+  {
+    "('Date', '')":"2025-04-17",
+    "('Close', 'ADANIENT.NS')":2416.8642578125,
+    "('High', 'ADANIENT.NS')":2447.3486699072,
+    "('Low', 'ADANIENT.NS')":2390.7774993644,
+    "('Open', 'ADANIENT.NS')":2416.764211314,
+    "('Volume', 'ADANIENT.NS')":1054797
+  },
+  {
+    "('Date', '')":"2025-04-21",
+    "('Close', 'ADANIENT.NS')":2441.4516601562,
+    "('High', 'ADANIENT.NS')":2463.6402665047,
+    "('Low', 'ADANIENT.NS')":2394.2758295379,
+    "('Open', 'ADANIENT.NS')":2424.8602896506,
+    "('Volume', 'ADANIENT.NS')":782559
+  },
+  {
+    "('Date', '')":"2025-04-22",
+    "('Close', 'ADANIENT.NS')":2444.2502441406,
+    "('High', 'ADANIENT.NS')":2482.1307780014,
+    "('Low', 'ADANIENT.NS')":2439.7525438345,
+    "('Open', 'ADANIENT.NS')":2457.643298557,
+    "('Volume', 'ADANIENT.NS')":766567
+  },
+  {
+    "('Date', '')":"2025-04-23",
+    "('Close', 'ADANIENT.NS')":2452.3461914062,
+    "('High', 'ADANIENT.NS')":2472.5358194431,
+    "('Low', 'ADANIENT.NS')":2419.9626029364,
+    "('Open', 'ADANIENT.NS')":2458.7428230958,
+    "('Volume', 'ADANIENT.NS')":672262
+  },
+  {
+    "('Date', '')":"2025-04-24",
+    "('Close', 'ADANIENT.NS')":2441.2517089844,
+    "('High', 'ADANIENT.NS')":2460.1419521354,
+    "('Low', 'ADANIENT.NS')":2423.8606992268,
+    "('Open', 'ADANIENT.NS')":2448.7478759516,
+    "('Volume', 'ADANIENT.NS')":596626
+  },
+  {
+    "('Date', '')":"2025-04-25",
+    "('Close', 'ADANIENT.NS')":2353.0969238281,
+    "('High', 'ADANIENT.NS')":2458.2431143541,
+    "('Low', 'ADANIENT.NS')":2322.3126148411,
+    "('Open', 'ADANIENT.NS')":2448.8480156706,
+    "('Volume', 'ADANIENT.NS')":1414809
+  },
+  {
+    "('Date', '')":"2025-04-28",
+    "('Close', 'ADANIENT.NS')":2368.5888671875,
+    "('High', 'ADANIENT.NS')":2400.7723612791,
+    "('Low', 'ADANIENT.NS')":2336.4053730959,
+    "('Open', 'ADANIENT.NS')":2344.8009823317,
+    "('Volume', 'ADANIENT.NS')":681421
+  },
+  {
+    "('Date', '')":"2025-04-29",
+    "('Close', 'ADANIENT.NS')":2329.4089355469,
+    "('High', 'ADANIENT.NS')":2398.7733678269,
+    "('Low', 'ADANIENT.NS')":2324.4114910306,
+    "('Open', 'ADANIENT.NS')":2390.7774566008,
+    "('Volume', 'ADANIENT.NS')":670730
+  },
+  {
+    "('Date', '')":"2025-04-30",
+    "('Close', 'ADANIENT.NS')":2300.1240234375,
+    "('High', 'ADANIENT.NS')":2338.8041979074,
+    "('Low', 'ADANIENT.NS')":2283.8323043669,
+    "('Open', 'ADANIENT.NS')":2330.2084951293,
+    "('Volume', 'ADANIENT.NS')":837464
+  },
+  {
+    "('Date', '')":"2025-05-02",
+    "('Close', 'ADANIENT.NS')":2297.9250488281,
+    "('High', 'ADANIENT.NS')":2371.1873906624,
+    "('Low', 'ADANIENT.NS')":2288.8296021477,
+    "('Open', 'ADANIENT.NS')":2348.6988902046,
+    "('Volume', 'ADANIENT.NS')":1695797
+  },
+  {
+    "('Date', '')":"2025-05-05",
+    "('Close', 'ADANIENT.NS')":2454.2451171875,
+    "('High', 'ADANIENT.NS')":2495.7239086203,
+    "('Low', 'ADANIENT.NS')":2296.625758546,
+    "('Open', 'ADANIENT.NS')":2311.4182438119,
+    "('Volume', 'ADANIENT.NS')":4227194
+  },
+  {
+    "('Date', '')":"2025-05-06",
+    "('Close', 'ADANIENT.NS')":2352.796875,
+    "('High', 'ADANIENT.NS')":2461.9410142809,
+    "('Low', 'ADANIENT.NS')":2342.3022415304,
+    "('Open', 'ADANIENT.NS')":2452.7457651869,
+    "('Volume', 'ADANIENT.NS')":1524692
+  },
+  {
+    "('Date', '')":"2025-05-07",
+    "('Close', 'ADANIENT.NS')":2351.8974609375,
+    "('High', 'ADANIENT.NS')":2378.2838706585,
+    "('Low', 'ADANIENT.NS')":2313.816835711,
+    "('Open', 'ADANIENT.NS')":2313.816835711,
+    "('Volume', 'ADANIENT.NS')":1012640
+  },
+  {
+    "('Date', '')":"2025-05-08",
+    "('Close', 'ADANIENT.NS')":2284.1320800781,
+    "('High', 'ADANIENT.NS')":2366.5899160647,
+    "('Low', 'ADANIENT.NS')":2258.8449615724,
+    "('Open', 'ADANIENT.NS')":2360.7928315195,
+    "('Volume', 'ADANIENT.NS')":1380069
+  },
+  {
+    "('Date', '')":"2025-05-09",
+    "('Close', 'ADANIENT.NS')":2249.849609375,
+    "('High', 'ADANIENT.NS')":2271.9384126087,
+    "('Low', 'ADANIENT.NS')":2231.8588084115,
+    "('Open', 'ADANIENT.NS')":2238.8552310084,
+    "('Volume', 'ADANIENT.NS')":1006000
+  },
+  {
+    "('Date', '')":"2025-05-12",
+    "('Close', 'ADANIENT.NS')":2424.060546875,
+    "('High', 'ADANIENT.NS')":2432.0564583023,
+    "('Low', 'ADANIENT.NS')":2313.8168692682,
+    "('Open', 'ADANIENT.NS')":2348.7989817626,
+    "('Volume', 'ADANIENT.NS')":2147039
+  },
+  {
+    "('Date', '')":"2025-05-13",
+    "('Close', 'ADANIENT.NS')":2439.9523925781,
+    "('High', 'ADANIENT.NS')":2453.6453424833,
+    "('Low', 'ADANIENT.NS')":2403.7709411445,
+    "('Open', 'ADANIENT.NS')":2423.7607202809,
+    "('Volume', 'ADANIENT.NS')":1815174
+  },
+  {
+    "('Date', '')":"2025-05-14",
+    "('Close', 'ADANIENT.NS')":2460.6418457031,
+    "('High', 'ADANIENT.NS')":2480.6316254936,
+    "('Low', 'ADANIENT.NS')":2428.858291049,
+    "('Open', 'ADANIENT.NS')":2443.6505328812,
+    "('Volume', 'ADANIENT.NS')":774441
+  },
+  {
+    "('Date', '')":"2025-05-15",
+    "('Close', 'ADANIENT.NS')":2518.7121582031,
+    "('High', 'ADANIENT.NS')":2525.5087318776,
+    "('Low', 'ADANIENT.NS')":2449.4475250494,
+    "('Open', 'ADANIENT.NS')":2462.1409859324,
+    "('Volume', 'ADANIENT.NS')":1554800
+  },
+  {
+    "('Date', '')":"2025-05-16",
+    "('Close', 'ADANIENT.NS')":2553.6943359375,
+    "('High', 'ADANIENT.NS')":2582.8793652593,
+    "('Low', 'ADANIENT.NS')":2514.9141148312,
+    "('Open', 'ADANIENT.NS')":2527.7076225385,
+    "('Volume', 'ADANIENT.NS')":1641135
+  },
+  {
+    "('Date', '')":"2025-05-19",
+    "('Close', 'ADANIENT.NS')":2539.3017578125,
+    "('High', 'ADANIENT.NS')":2577.4821874081,
+    "('Low', 'ADANIENT.NS')":2534.7040109749,
+    "('Open', 'ADANIENT.NS')":2569.9860201832,
+    "('Volume', 'ADANIENT.NS')":680957
+  },
+  {
+    "('Date', '')":"2025-05-20",
+    "('Close', 'ADANIENT.NS')":2500.3215332031,
+    "('High', 'ADANIENT.NS')":2563.4891829648,
+    "('Low', 'ADANIENT.NS')":2491.2260865946,
+    "('Open', 'ADANIENT.NS')":2543.699253915,
+    "('Volume', 'ADANIENT.NS')":628023
+  },
+  {
+    "('Date', '')":"2025-05-21",
+    "('Close', 'ADANIENT.NS')":2499.1220703125,
+    "('High', 'ADANIENT.NS')":2523.2098515882,
+    "('Low', 'ADANIENT.NS')":2482.4306536684,
+    "('Open', 'ADANIENT.NS')":2508.4173663408,
+    "('Volume', 'ADANIENT.NS')":529234
+  },
+  {
+    "('Date', '')":"2025-05-22",
+    "('Close', 'ADANIENT.NS')":2486.3288574219,
+    "('High', 'ADANIENT.NS')":2520.6111338532,
+    "('Low', 'ADANIENT.NS')":2464.0402046052,
+    "('Open', 'ADANIENT.NS')":2499.1221210151,
+    "('Volume', 'ADANIENT.NS')":906909
+  },
+  {
+    "('Date', '')":"2025-05-23",
+    "('Close', 'ADANIENT.NS')":2538.7019042969,
+    "('High', 'ADANIENT.NS')":2546.7978623067,
+    "('Low', 'ADANIENT.NS')":2489.2272018312,
+    "('Open', 'ADANIENT.NS')":2497.7228578102,
+    "('Volume', 'ADANIENT.NS')":968415
+  },
+  {
+    "('Date', '')":"2025-05-26",
+    "('Close', 'ADANIENT.NS')":2546.3979492188,
+    "('High', 'ADANIENT.NS')":2567.5870661565,
+    "('Low', 'ADANIENT.NS')":2540.0013175448,
+    "('Open', 'ADANIENT.NS')":2547.7973801583,
+    "('Volume', 'ADANIENT.NS')":552912
+  },
+  {
+    "('Date', '')":"2025-05-27",
+    "('Close', 'ADANIENT.NS')":2539.0017089844,
+    "('High', 'ADANIENT.NS')":2567.7870381927,
+    "('Low', 'ADANIENT.NS')":2524.8090153656,
+    "('Open', 'ADANIENT.NS')":2544.5987004314,
+    "('Volume', 'ADANIENT.NS')":514936
+  },
+  {
+    "('Date', '')":"2025-05-28",
+    "('Close', 'ADANIENT.NS')":2513.7145996094,
+    "('High', 'ADANIENT.NS')":2557.6921114912,
+    "('Low', 'ADANIENT.NS')":2508.7171550773,
+    "('Open', 'ADANIENT.NS')":2557.6921114912,
+    "('Volume', 'ADANIENT.NS')":575989
+  },
+  {
+    "('Date', '')":"2025-05-29",
+    "('Close', 'ADANIENT.NS')":2539.5014648438,
+    "('High', 'ADANIENT.NS')":2557.6921141561,
+    "('Low', 'ADANIENT.NS')":2509.7166465987,
+    "('Open', 'ADANIENT.NS')":2535.4034627169,
+    "('Volume', 'ADANIENT.NS')":802317
+  },
+  {
+    "('Date', '')":"2025-05-30",
+    "('Close', 'ADANIENT.NS')":2518.6120605469,
+    "('High', 'ADANIENT.NS')":2562.6896200265,
+    "('Low', 'ADANIENT.NS')":2512.515324475,
+    "('Open', 'ADANIENT.NS')":2548.6967749874,
+    "('Volume', 'ADANIENT.NS')":684592
+  },
+  {
+    "('Date', '')":"2025-06-02",
+    "('Close', 'ADANIENT.NS')":2517.5126953125,
+    "('High', 'ADANIENT.NS')":2562.6895448825,
+    "('Low', 'ADANIENT.NS')":2513.614542185,
+    "('Open', 'ADANIENT.NS')":2525.7084555062,
+    "('Volume', 'ADANIENT.NS')":1008716
+  },
+  {
+    "('Date', '')":"2025-06-03",
+    "('Close', 'ADANIENT.NS')":2469.6372070312,
+    "('High', 'ADANIENT.NS')":2511.2160459355,
+    "('Low', 'ADANIENT.NS')":2450.7469630383,
+    "('Open', 'ADANIENT.NS')":2509.7168124752,
+    "('Volume', 'ADANIENT.NS')":962656
+  },
+  {
+    "('Date', '')":"2025-06-04",
+    "('Close', 'ADANIENT.NS')":2488.1276855469,
+    "('High', 'ADANIENT.NS')":2501.7208328242,
+    "('Low', 'ADANIENT.NS')":2439.8525646487,
+    "('Open', 'ADANIENT.NS')":2478.7325870571,
+    "('Volume', 'ADANIENT.NS')":552667
+  },
+  {
+    "('Date', '')":"2025-06-05",
+    "('Close', 'ADANIENT.NS')":2503.1201171875,
+    "('High', 'ADANIENT.NS')":2528.8071793225,
+    "('Low', 'ADANIENT.NS')":2486.2288509422,
+    "('Open', 'ADANIENT.NS')":2493.725018332,
+    "('Volume', 'ADANIENT.NS')":673209
+  },
+  {
+    "('Date', '')":"2025-06-06",
+    "('Close', 'ADANIENT.NS')":2532.9047851562,
+    "('High', 'ADANIENT.NS')":2551.9951212318,
+    "('Low', 'ADANIENT.NS')":2502.7202684217,
+    "('Open', 'ADANIENT.NS')":2513.6146000989,
+    "('Volume', 'ADANIENT.NS')":640680
+  },
+  {
+    "('Date', '')":"2025-06-09",
+    "('Close', 'ADANIENT.NS')":2580.7805175781,
+    "('High', 'ADANIENT.NS')":2602.7692744967,
+    "('Low', 'ADANIENT.NS')":2523.2098564032,
+    "('Open', 'ADANIENT.NS')":2543.6993798955,
+    "('Volume', 'ADANIENT.NS')":1711167
+  },
+  {
+    "('Date', '')":"2025-06-10",
+    "('Close', 'ADANIENT.NS')":2611.7646484375,
+    "('High', 'ADANIENT.NS')":2661.8388979549,
+    "('Low', 'ADANIENT.NS')":2576.3825935287,
+    "('Open', 'ADANIENT.NS')":2598.6712457085,
+    "('Volume', 'ADANIENT.NS')":2084054
+  },
+  {
+    "('Date', '')":"2025-06-11",
+    "('Close', 'ADANIENT.NS')":2579.880859375,
+    "('High', 'ADANIENT.NS')":2629.5554119729,
+    "('Low', 'ADANIENT.NS')":2561.7902555761,
+    "('Open', 'ADANIENT.NS')":2628.6559695136,
+    "('Volume', 'ADANIENT.NS')":745432
+  },
+  {
+    "('Date', '')":"2025-06-12",
+    "('Close', 'ADANIENT.NS')":2542.3999023438,
+    "('High', 'ADANIENT.NS')":2600.4703058673,
+    "('Low', 'ADANIENT.NS')":2528.7069530219,
+    "('Open', 'ADANIENT.NS')":2590.1755212475,
+    "('Volume', 'ADANIENT.NS')":955097
+  },
+  {
+    "('Date', '')":"2025-06-13",
+    "('Close', 'ADANIENT.NS')":2507.8999023438,
+    "('High', 'ADANIENT.NS')":2516.0,
+    "('Low', 'ADANIENT.NS')":2460.0,
+    "('Open', 'ADANIENT.NS')":2498.0,
+    "('Volume', 'ADANIENT.NS')":695869
+  },
+  {
+    "('Date', '')":"2025-06-16",
+    "('Close', 'ADANIENT.NS')":2544.0,
+    "('High', 'ADANIENT.NS')":2563.3000488281,
+    "('Low', 'ADANIENT.NS')":2462.0,
+    "('Open', 'ADANIENT.NS')":2500.0,
+    "('Volume', 'ADANIENT.NS')":956459
+  },
+  {
+    "('Date', '')":"2025-06-17",
+    "('Close', 'ADANIENT.NS')":2488.5,
+    "('High', 'ADANIENT.NS')":2539.6000976562,
+    "('Low', 'ADANIENT.NS')":2479.0,
+    "('Open', 'ADANIENT.NS')":2535.0,
+    "('Volume', 'ADANIENT.NS')":703343
+  },
+  {
+    "('Date', '')":"2025-06-18",
+    "('Close', 'ADANIENT.NS')":2459.1000976562,
+    "('High', 'ADANIENT.NS')":2495.8999023438,
+    "('Low', 'ADANIENT.NS')":2445.3999023438,
+    "('Open', 'ADANIENT.NS')":2491.8999023438,
+    "('Volume', 'ADANIENT.NS')":667044
+  },
+  {
+    "('Date', '')":"2025-06-19",
+    "('Close', 'ADANIENT.NS')":2420.6000976562,
+    "('High', 'ADANIENT.NS')":2468.8999023438,
+    "('Low', 'ADANIENT.NS')":2405.1000976562,
+    "('Open', 'ADANIENT.NS')":2466.3000488281,
+    "('Volume', 'ADANIENT.NS')":688209
+  },
+  {
+    "('Date', '')":"2025-06-20",
+    "('Close', 'ADANIENT.NS')":2448.3999023438,
+    "('High', 'ADANIENT.NS')":2461.3000488281,
+    "('Low', 'ADANIENT.NS')":2415.0,
+    "('Open', 'ADANIENT.NS')":2428.0,
+    "('Volume', 'ADANIENT.NS')":3002549
+  },
+  {
+    "('Date', '')":"2025-06-23",
+    "('Close', 'ADANIENT.NS')":2472.0,
+    "('High', 'ADANIENT.NS')":2492.6000976562,
+    "('Low', 'ADANIENT.NS')":2421.0,
+    "('Open', 'ADANIENT.NS')":2438.0,
+    "('Volume', 'ADANIENT.NS')":790533
+  },
+  {
+    "('Date', '')":"2025-06-24",
+    "('Close', 'ADANIENT.NS')":2505.6000976562,
+    "('High', 'ADANIENT.NS')":2544.6000976562,
+    "('Low', 'ADANIENT.NS')":2500.1999511719,
+    "('Open', 'ADANIENT.NS')":2504.0,
+    "('Volume', 'ADANIENT.NS')":996372
+  },
+  {
+    "('Date', '')":"2025-06-25",
+    "('Close', 'ADANIENT.NS')":2527.1999511719,
+    "('High', 'ADANIENT.NS')":2541.6000976562,
+    "('Low', 'ADANIENT.NS')":2512.1000976562,
+    "('Open', 'ADANIENT.NS')":2519.8999023438,
+    "('Volume', 'ADANIENT.NS')":921346
+  },
+  {
+    "('Date', '')":"2025-06-26",
+    "('Close', 'ADANIENT.NS')":2586.1999511719,
+    "('High', 'ADANIENT.NS')":2593.6000976562,
+    "('Low', 'ADANIENT.NS')":2522.1999511719,
+    "('Open', 'ADANIENT.NS')":2535.0,
+    "('Volume', 'ADANIENT.NS')":1339627
+  },
+  {
+    "('Date', '')":"2025-06-27",
+    "('Close', 'ADANIENT.NS')":2646.3000488281,
+    "('High', 'ADANIENT.NS')":2681.6000976562,
+    "('Low', 'ADANIENT.NS')":2582.0,
+    "('Open', 'ADANIENT.NS')":2587.6999511719,
+    "('Volume', 'ADANIENT.NS')":4049316
+  },
+  {
+    "('Date', '')":"2025-06-30",
+    "('Close', 'ADANIENT.NS')":2619.3999023438,
+    "('High', 'ADANIENT.NS')":2653.8999023438,
+    "('Low', 'ADANIENT.NS')":2605.8999023438,
+    "('Open', 'ADANIENT.NS')":2650.0,
+    "('Volume', 'ADANIENT.NS')":694814
+  },
+  {
+    "('Date', '')":"2025-07-01",
+    "('Close', 'ADANIENT.NS')":2621.8000488281,
+    "('High', 'ADANIENT.NS')":2645.0,
+    "('Low', 'ADANIENT.NS')":2603.0,
+    "('Open', 'ADANIENT.NS')":2624.8999023438,
+    "('Volume', 'ADANIENT.NS')":729197
+  },
+  {
+    "('Date', '')":"2025-07-02",
+    "('Close', 'ADANIENT.NS')":2630.1999511719,
+    "('High', 'ADANIENT.NS')":2646.0,
+    "('Low', 'ADANIENT.NS')":2613.6000976562,
+    "('Open', 'ADANIENT.NS')":2634.0,
+    "('Volume', 'ADANIENT.NS')":621409
+  },
+  {
+    "('Date', '')":"2025-07-03",
+    "('Close', 'ADANIENT.NS')":2611.1999511719,
+    "('High', 'ADANIENT.NS')":2644.0,
+    "('Low', 'ADANIENT.NS')":2605.1000976562,
+    "('Open', 'ADANIENT.NS')":2634.0,
+    "('Volume', 'ADANIENT.NS')":502724
+  },
+  {
+    "('Date', '')":"2025-07-04",
+    "('Close', 'ADANIENT.NS')":2599.1000976562,
+    "('High', 'ADANIENT.NS')":2617.0,
+    "('Low', 'ADANIENT.NS')":2582.1999511719,
+    "('Open', 'ADANIENT.NS')":2617.0,
+    "('Volume', 'ADANIENT.NS')":370305
+  },
+  {
+    "('Date', '')":"2025-07-07",
+    "('Close', 'ADANIENT.NS')":2576.1000976562,
+    "('High', 'ADANIENT.NS')":2605.3999023438,
+    "('Low', 'ADANIENT.NS')":2572.0,
+    "('Open', 'ADANIENT.NS')":2602.0,
+    "('Volume', 'ADANIENT.NS')":412159
+  },
+  {
+    "('Date', '')":"2025-07-08",
+    "('Close', 'ADANIENT.NS')":2591.3000488281,
+    "('High', 'ADANIENT.NS')":2600.0,
+    "('Low', 'ADANIENT.NS')":2573.0,
+    "('Open', 'ADANIENT.NS')":2586.0,
+    "('Volume', 'ADANIENT.NS')":357686
+  },
+  {
+    "('Date', '')":"2025-07-09",
+    "('Close', 'ADANIENT.NS')":2583.0,
+    "('High', 'ADANIENT.NS')":2609.8999023438,
+    "('Low', 'ADANIENT.NS')":2570.0,
+    "('Open', 'ADANIENT.NS')":2599.0,
+    "('Volume', 'ADANIENT.NS')":396880
+  },
+  {
+    "('Date', '')":"2025-07-10",
+    "('Close', 'ADANIENT.NS')":2581.0,
+    "('High', 'ADANIENT.NS')":2604.0,
+    "('Low', 'ADANIENT.NS')":2575.0,
+    "('Open', 'ADANIENT.NS')":2591.0,
+    "('Volume', 'ADANIENT.NS')":306565
+  },
+  {
+    "('Date', '')":"2025-07-11",
+    "('Close', 'ADANIENT.NS')":2558.6999511719,
+    "('High', 'ADANIENT.NS')":2591.8999023438,
+    "('Low', 'ADANIENT.NS')":2551.8999023438,
+    "('Open', 'ADANIENT.NS')":2575.0,
+    "('Volume', 'ADANIENT.NS')":390645
+  },
+  {
+    "('Date', '')":"2025-07-14",
+    "('Close', 'ADANIENT.NS')":2581.3000488281,
+    "('High', 'ADANIENT.NS')":2604.8000488281,
+    "('Low', 'ADANIENT.NS')":2543.5,
+    "('Open', 'ADANIENT.NS')":2555.0,
+    "('Volume', 'ADANIENT.NS')":536585
+  },
+  {
+    "('Date', '')":"2025-07-15",
+    "('Close', 'ADANIENT.NS')":2598.1999511719,
+    "('High', 'ADANIENT.NS')":2606.8999023438,
+    "('Low', 'ADANIENT.NS')":2576.0,
+    "('Open', 'ADANIENT.NS')":2588.0,
+    "('Volume', 'ADANIENT.NS')":379425
+  },
+  {
+    "('Date', '')":"2025-07-16",
+    "('Close', 'ADANIENT.NS')":2608.5,
+    "('High', 'ADANIENT.NS')":2619.5,
+    "('Low', 'ADANIENT.NS')":2595.5,
+    "('Open', 'ADANIENT.NS')":2602.5,
+    "('Volume', 'ADANIENT.NS')":686644
+  },
+  {
+    "('Date', '')":"2025-07-17",
+    "('Close', 'ADANIENT.NS')":2616.6000976562,
+    "('High', 'ADANIENT.NS')":2654.5,
+    "('Low', 'ADANIENT.NS')":2605.3000488281,
+    "('Open', 'ADANIENT.NS')":2612.0,
+    "('Volume', 'ADANIENT.NS')":785771
+  },
+  {
+    "('Date', '')":"2025-07-18",
+    "('Close', 'ADANIENT.NS')":2596.1000976562,
+    "('High', 'ADANIENT.NS')":2626.6999511719,
+    "('Low', 'ADANIENT.NS')":2584.1999511719,
+    "('Open', 'ADANIENT.NS')":2612.0,
+    "('Volume', 'ADANIENT.NS')":479942
+  },
+  {
+    "('Date', '')":"2025-07-21",
+    "('Close', 'ADANIENT.NS')":2619.5,
+    "('High', 'ADANIENT.NS')":2624.8999023438,
+    "('Low', 'ADANIENT.NS')":2585.0,
+    "('Open', 'ADANIENT.NS')":2596.3000488281,
+    "('Volume', 'ADANIENT.NS')":369782
+  },
+  {
+    "('Date', '')":"2025-07-22",
+    "('Close', 'ADANIENT.NS')":2587.8000488281,
+    "('High', 'ADANIENT.NS')":2630.0,
+    "('Low', 'ADANIENT.NS')":2581.6000976562,
+    "('Open', 'ADANIENT.NS')":2626.0,
+    "('Volume', 'ADANIENT.NS')":387055
+  },
+  {
+    "('Date', '')":"2025-07-23",
+    "('Close', 'ADANIENT.NS')":2614.5,
+    "('High', 'ADANIENT.NS')":2625.8999023438,
+    "('Low', 'ADANIENT.NS')":2593.5,
+    "('Open', 'ADANIENT.NS')":2600.6999511719,
+    "('Volume', 'ADANIENT.NS')":316424
+  },
+  {
+    "('Date', '')":"2025-07-24",
+    "('Close', 'ADANIENT.NS')":2608.3999023438,
+    "('High', 'ADANIENT.NS')":2624.1999511719,
+    "('Low', 'ADANIENT.NS')":2595.0,
+    "('Open', 'ADANIENT.NS')":2615.3999023438,
+    "('Volume', 'ADANIENT.NS')":253782
+  },
+  {
+    "('Date', '')":"2025-07-25",
+    "('Close', 'ADANIENT.NS')":2550.1000976562,
+    "('High', 'ADANIENT.NS')":2617.0,
+    "('Low', 'ADANIENT.NS')":2544.1000976562,
+    "('Open', 'ADANIENT.NS')":2605.0,
+    "('Volume', 'ADANIENT.NS')":424612
+  },
+  {
+    "('Date', '')":"2025-07-28",
+    "('Close', 'ADANIENT.NS')":2522.3000488281,
+    "('High', 'ADANIENT.NS')":2585.0,
+    "('Low', 'ADANIENT.NS')":2512.6000976562,
+    "('Open', 'ADANIENT.NS')":2549.0,
+    "('Volume', 'ADANIENT.NS')":428409
+  },
+  {
+    "('Date', '')":"2025-07-29",
+    "('Close', 'ADANIENT.NS')":2547.8999023438,
+    "('High', 'ADANIENT.NS')":2557.3999023438,
+    "('Low', 'ADANIENT.NS')":2507.5,
+    "('Open', 'ADANIENT.NS')":2529.0,
+    "('Volume', 'ADANIENT.NS')":424781
+  },
+  {
+    "('Date', '')":"2025-07-30",
+    "('Close', 'ADANIENT.NS')":2532.8999023438,
+    "('High', 'ADANIENT.NS')":2552.6000976562,
+    "('Low', 'ADANIENT.NS')":2525.0,
+    "('Open', 'ADANIENT.NS')":2547.8999023438,
+    "('Volume', 'ADANIENT.NS')":262063
+  },
+  {
+    "('Date', '')":"2025-07-31",
+    "('Close', 'ADANIENT.NS')":2430.6999511719,
+    "('High', 'ADANIENT.NS')":2520.0,
+    "('Low', 'ADANIENT.NS')":2422.6000976562,
+    "('Open', 'ADANIENT.NS')":2509.8999023438,
+    "('Volume', 'ADANIENT.NS')":1457616
+  },
+  {
+    "('Date', '')":"2025-08-01",
+    "('Close', 'ADANIENT.NS')":2350.8999023438,
+    "('High', 'ADANIENT.NS')":2444.8999023438,
+    "('Low', 'ADANIENT.NS')":2333.0,
+    "('Open', 'ADANIENT.NS')":2425.0,
+    "('Volume', 'ADANIENT.NS')":976341
+  },
+  {
+    "('Date', '')":"2025-08-04",
+    "('Close', 'ADANIENT.NS')":2363.6000976562,
+    "('High', 'ADANIENT.NS')":2374.6999511719,
+    "('Low', 'ADANIENT.NS')":2338.1999511719,
+    "('Open', 'ADANIENT.NS')":2360.0,
+    "('Volume', 'ADANIENT.NS')":576426
+  },
+  {
+    "('Date', '')":"2025-08-05",
+    "('Close', 'ADANIENT.NS')":2328.1999511719,
+    "('High', 'ADANIENT.NS')":2370.0,
+    "('Low', 'ADANIENT.NS')":2316.0,
+    "('Open', 'ADANIENT.NS')":2370.0,
+    "('Volume', 'ADANIENT.NS')":576742
+  },
+  {
+    "('Date', '')":"2025-08-06",
+    "('Close', 'ADANIENT.NS')":2300.3000488281,
+    "('High', 'ADANIENT.NS')":2347.8999023438,
+    "('Low', 'ADANIENT.NS')":2296.0,
+    "('Open', 'ADANIENT.NS')":2333.8999023438,
+    "('Volume', 'ADANIENT.NS')":631582
+  },
+  {
+    "('Date', '')":"2025-08-07",
+    "('Close', 'ADANIENT.NS')":2249.8000488281,
+    "('High', 'ADANIENT.NS')":2295.0,
+    "('Low', 'ADANIENT.NS')":2202.8000488281,
+    "('Open', 'ADANIENT.NS')":2290.0,
+    "('Volume', 'ADANIENT.NS')":1529410
+  },
+  {
+    "('Date', '')":"2025-08-08",
+    "('Close', 'ADANIENT.NS')":2178.1000976562,
+    "('High', 'ADANIENT.NS')":2260.8999023438,
+    "('Low', 'ADANIENT.NS')":2164.8000488281,
+    "('Open', 'ADANIENT.NS')":2247.0,
+    "('Volume', 'ADANIENT.NS')":2552736
+  },
+  {
+    "('Date', '')":"2025-08-11",
+    "('Close', 'ADANIENT.NS')":2283.3999023438,
+    "('High', 'ADANIENT.NS')":2302.0,
+    "('Low', 'ADANIENT.NS')":2183.0,
+    "('Open', 'ADANIENT.NS')":2196.0,
+    "('Volume', 'ADANIENT.NS')":2376286
+  },
+  {
+    "('Date', '')":"2025-08-12",
+    "('Close', 'ADANIENT.NS')":2288.1999511719,
+    "('High', 'ADANIENT.NS')":2314.6999511719,
+    "('Low', 'ADANIENT.NS')":2267.0,
+    "('Open', 'ADANIENT.NS')":2280.1000976562,
+    "('Volume', 'ADANIENT.NS')":1075526
+  },
+  {
+    "('Date', '')":"2025-08-13",
+    "('Close', 'ADANIENT.NS')":2280.1000976562,
+    "('High', 'ADANIENT.NS')":2314.8999023438,
+    "('Low', 'ADANIENT.NS')":2245.3999023438,
+    "('Open', 'ADANIENT.NS')":2299.0,
+    "('Volume', 'ADANIENT.NS')":833679
+  },
+  {
+    "('Date', '')":"2025-08-14",
+    "('Close', 'ADANIENT.NS')":2281.6000976562,
+    "('High', 'ADANIENT.NS')":2304.0,
+    "('Low', 'ADANIENT.NS')":2267.6999511719,
+    "('Open', 'ADANIENT.NS')":2288.0,
+    "('Volume', 'ADANIENT.NS')":998109
+  },
+  {
+    "('Date', '')":"2025-08-18",
+    "('Close', 'ADANIENT.NS')":2333.6000976562,
+    "('High', 'ADANIENT.NS')":2360.0,
+    "('Low', 'ADANIENT.NS')":2300.0,
+    "('Open', 'ADANIENT.NS')":2309.6000976562,
+    "('Volume', 'ADANIENT.NS')":988629
+  },
+  {
+    "('Date', '')":"2025-08-19",
+    "('Close', 'ADANIENT.NS')":2388.3999023438,
+    "('High', 'ADANIENT.NS')":2395.6000976562,
+    "('Low', 'ADANIENT.NS')":2314.1000976562,
+    "('Open', 'ADANIENT.NS')":2339.8999023438,
+    "('Volume', 'ADANIENT.NS')":1069432
+  },
+  {
+    "('Date', '')":"2025-08-20",
+    "('Close', 'ADANIENT.NS')":2387.1000976562,
+    "('High', 'ADANIENT.NS')":2406.0,
+    "('Low', 'ADANIENT.NS')":2372.1000976562,
+    "('Open', 'ADANIENT.NS')":2380.0,
+    "('Volume', 'ADANIENT.NS')":780025
+  },
+  {
+    "('Date', '')":"2025-08-21",
+    "('Close', 'ADANIENT.NS')":2377.1999511719,
+    "('High', 'ADANIENT.NS')":2397.0,
+    "('Low', 'ADANIENT.NS')":2371.3999023438,
+    "('Open', 'ADANIENT.NS')":2387.1000976562,
+    "('Volume', 'ADANIENT.NS')":441867
+  },
+  {
+    "('Date', '')":"2025-08-22",
+    "('Close', 'ADANIENT.NS')":2324.8999023438,
+    "('High', 'ADANIENT.NS')":2376.3000488281,
+    "('Low', 'ADANIENT.NS')":2321.0,
+    "('Open', 'ADANIENT.NS')":2369.8999023438,
+    "('Volume', 'ADANIENT.NS')":584211
+  },
+  {
+    "('Date', '')":"2025-08-25",
+    "('Close', 'ADANIENT.NS')":2302.8999023438,
+    "('High', 'ADANIENT.NS')":2348.3999023438,
+    "('Low', 'ADANIENT.NS')":2300.0,
+    "('Open', 'ADANIENT.NS')":2335.6999511719,
+    "('Volume', 'ADANIENT.NS')":542455
+  },
+  {
+    "('Date', '')":"2025-08-26",
+    "('Close', 'ADANIENT.NS')":2272.0,
+    "('High', 'ADANIENT.NS')":2309.3000488281,
+    "('Low', 'ADANIENT.NS')":2249.3999023438,
+    "('Open', 'ADANIENT.NS')":2304.0,
+    "('Volume', 'ADANIENT.NS')":1071550
+  },
+  {
+    "('Date', '')":"2025-08-28",
+    "('Close', 'ADANIENT.NS')":2275.1999511719,
+    "('High', 'ADANIENT.NS')":2327.8999023438,
+    "('Low', 'ADANIENT.NS')":2255.0,
+    "('Open', 'ADANIENT.NS')":2271.8999023438,
+    "('Volume', 'ADANIENT.NS')":907868
+  },
+  {
+    "('Date', '')":"2025-08-29",
+    "('Close', 'ADANIENT.NS')":2244.6999511719,
+    "('High', 'ADANIENT.NS')":2289.6999511719,
+    "('Low', 'ADANIENT.NS')":2240.0,
+    "('Open', 'ADANIENT.NS')":2283.0,
+    "('Volume', 'ADANIENT.NS')":795699
+  },
+  {
+    "('Date', '')":"2025-09-01",
+    "('Close', 'ADANIENT.NS')":2284.1999511719,
+    "('High', 'ADANIENT.NS')":2288.0,
+    "('Low', 'ADANIENT.NS')":2252.1000976562,
+    "('Open', 'ADANIENT.NS')":2259.0,
+    "('Volume', 'ADANIENT.NS')":425639
+  },
+  {
+    "('Date', '')":"2025-09-02",
+    "('Close', 'ADANIENT.NS')":2274.1999511719,
+    "('High', 'ADANIENT.NS')":2302.0,
+    "('Low', 'ADANIENT.NS')":2264.0,
+    "('Open', 'ADANIENT.NS')":2291.0,
+    "('Volume', 'ADANIENT.NS')":481894
+  },
+  {
+    "('Date', '')":"2025-09-03",
+    "('Close', 'ADANIENT.NS')":2288.6999511719,
+    "('High', 'ADANIENT.NS')":2293.0,
+    "('Low', 'ADANIENT.NS')":2263.1000976562,
+    "('Open', 'ADANIENT.NS')":2285.0,
+    "('Volume', 'ADANIENT.NS')":443629
+  },
+  {
+    "('Date', '')":"2025-09-04",
+    "('Close', 'ADANIENT.NS')":2278.8000488281,
+    "('High', 'ADANIENT.NS')":2317.3000488281,
+    "('Low', 'ADANIENT.NS')":2275.0,
+    "('Open', 'ADANIENT.NS')":2309.8999023438,
+    "('Volume', 'ADANIENT.NS')":392697
+  },
+  {
+    "('Date', '')":"2025-09-05",
+    "('Close', 'ADANIENT.NS')":2281.3999023438,
+    "('High', 'ADANIENT.NS')":2293.5,
+    "('Low', 'ADANIENT.NS')":2248.0,
+    "('Open', 'ADANIENT.NS')":2275.0,
+    "('Volume', 'ADANIENT.NS')":443010
+  },
+  {
+    "('Date', '')":"2025-09-08",
+    "('Close', 'ADANIENT.NS')":2310.8999023438,
+    "('High', 'ADANIENT.NS')":2333.8999023438,
+    "('Low', 'ADANIENT.NS')":2286.0,
+    "('Open', 'ADANIENT.NS')":2290.0,
+    "('Volume', 'ADANIENT.NS')":542811
+  },
+  {
+    "('Date', '')":"2025-09-09",
+    "('Close', 'ADANIENT.NS')":2311.6000976562,
+    "('High', 'ADANIENT.NS')":2325.0,
+    "('Low', 'ADANIENT.NS')":2297.0,
+    "('Open', 'ADANIENT.NS')":2320.0,
+    "('Volume', 'ADANIENT.NS')":369431
+  },
+  {
+    "('Date', '')":"2025-09-10",
+    "('Close', 'ADANIENT.NS')":2340.1999511719,
+    "('High', 'ADANIENT.NS')":2345.8999023438,
+    "('Low', 'ADANIENT.NS')":2325.1000976562,
+    "('Open', 'ADANIENT.NS')":2330.0,
+    "('Volume', 'ADANIENT.NS')":390490
+  },
+  {
+    "('Date', '')":"2025-09-11",
+    "('Close', 'ADANIENT.NS')":2398.8000488281,
+    "('High', 'ADANIENT.NS')":2418.6999511719,
+    "('Low', 'ADANIENT.NS')":2340.1999511719,
+    "('Open', 'ADANIENT.NS')":2348.0,
+    "('Volume', 'ADANIENT.NS')":2111888
+  },
+  {
+    "('Date', '')":"2025-09-12",
+    "('Close', 'ADANIENT.NS')":2392.0,
+    "('High', 'ADANIENT.NS')":2421.6000976562,
+    "('Low', 'ADANIENT.NS')":2387.1000976562,
+    "('Open', 'ADANIENT.NS')":2416.8999023438,
+    "('Volume', 'ADANIENT.NS')":533971
+  },
+  {
+    "('Date', '')":"2025-09-15",
+    "('Close', 'ADANIENT.NS')":2383.3999023438,
+    "('High', 'ADANIENT.NS')":2402.8000488281,
+    "('Low', 'ADANIENT.NS')":2378.1000976562,
+    "('Open', 'ADANIENT.NS')":2392.0,
+    "('Volume', 'ADANIENT.NS')":298129
+  },
+  {
+    "('Date', '')":"2025-09-16",
+    "('Close', 'ADANIENT.NS')":2399.3999023438,
+    "('High', 'ADANIENT.NS')":2415.8000488281,
+    "('Low', 'ADANIENT.NS')":2388.0,
+    "('Open', 'ADANIENT.NS')":2410.0,
+    "('Volume', 'ADANIENT.NS')":752979
+  },
+  {
+    "('Date', '')":"2025-09-17",
+    "('Close', 'ADANIENT.NS')":2402.0,
+    "('High', 'ADANIENT.NS')":2417.0,
+    "('Low', 'ADANIENT.NS')":2391.0,
+    "('Open', 'ADANIENT.NS')":2417.0,
+    "('Volume', 'ADANIENT.NS')":514354
+  },
+  {
+    "('Date', '')":"2025-09-18",
+    "('Close', 'ADANIENT.NS')":2402.0,
+    "('High', 'ADANIENT.NS')":2438.0,
+    "('Low', 'ADANIENT.NS')":2388.3999023438,
+    "('Open', 'ADANIENT.NS')":2414.5,
+    "('Volume', 'ADANIENT.NS')":703730
+  },
+  {
+    "('Date', '')":"2025-09-19",
+    "('Close', 'ADANIENT.NS')":2524.0,
+    "('High', 'ADANIENT.NS')":2579.0,
+    "('Low', 'ADANIENT.NS')":2466.1000976562,
+    "('Open', 'ADANIENT.NS')":2495.0,
+    "('Volume', 'ADANIENT.NS')":7965135
+  },
+  {
+    "('Date', '')":"2025-09-22",
+    "('Close', 'ADANIENT.NS')":2629.5,
+    "('High', 'ADANIENT.NS')":2659.0,
+    "('Low', 'ADANIENT.NS')":2522.1000976562,
+    "('Open', 'ADANIENT.NS')":2535.0,
+    "('Volume', 'ADANIENT.NS')":7022985
+  },
+  {
+    "('Date', '')":"2025-09-23",
+    "('Close', 'ADANIENT.NS')":2676.3999023438,
+    "('High', 'ADANIENT.NS')":2695.0,
+    "('Low', 'ADANIENT.NS')":2593.0,
+    "('Open', 'ADANIENT.NS')":2642.6000976562,
+    "('Volume', 'ADANIENT.NS')":5610022
+  },
+  {
+    "('Date', '')":"2025-09-24",
+    "('Close', 'ADANIENT.NS')":2619.8000488281,
+    "('High', 'ADANIENT.NS')":2676.0,
+    "('Low', 'ADANIENT.NS')":2614.3999023438,
+    "('Open', 'ADANIENT.NS')":2655.0,
+    "('Volume', 'ADANIENT.NS')":1720785
+  },
+  {
+    "('Date', '')":"2025-09-25",
+    "('Close', 'ADANIENT.NS')":2576.3999023438,
+    "('High', 'ADANIENT.NS')":2647.8999023438,
+    "('Low', 'ADANIENT.NS')":2567.0,
+    "('Open', 'ADANIENT.NS')":2625.0,
+    "('Volume', 'ADANIENT.NS')":1489682
+  },
+  {
+    "('Date', '')":"2025-09-26",
+    "('Close', 'ADANIENT.NS')":2543.6999511719,
+    "('High', 'ADANIENT.NS')":2605.0,
+    "('Low', 'ADANIENT.NS')":2535.0,
+    "('Open', 'ADANIENT.NS')":2572.8000488281,
+    "('Volume', 'ADANIENT.NS')":1037808
+  },
+  {
+    "('Date', '')":"2025-09-29",
+    "('Close', 'ADANIENT.NS')":2509.5,
+    "('High', 'ADANIENT.NS')":2555.0,
+    "('Low', 'ADANIENT.NS')":2505.0,
+    "('Open', 'ADANIENT.NS')":2543.6999511719,
+    "('Volume', 'ADANIENT.NS')":1012402
+  },
+  {
+    "('Date', '')":"2025-09-30",
+    "('Close', 'ADANIENT.NS')":2505.8999023438,
+    "('High', 'ADANIENT.NS')":2535.0,
+    "('Low', 'ADANIENT.NS')":2490.6000976562,
+    "('Open', 'ADANIENT.NS')":2522.0,
+    "('Volume', 'ADANIENT.NS')":712592
+  },
+  {
+    "('Date', '')":"2025-10-01",
+    "('Close', 'ADANIENT.NS')":2592.6999511719,
+    "('High', 'ADANIENT.NS')":2603.3999023438,
+    "('Low', 'ADANIENT.NS')":2472.1000976562,
+    "('Open', 'ADANIENT.NS')":2518.3999023438,
+    "('Volume', 'ADANIENT.NS')":1573485
+  },
+  {
+    "('Date', '')":"2025-10-03",
+    "('Close', 'ADANIENT.NS')":2589.8999023438,
+    "('High', 'ADANIENT.NS')":2612.8999023438,
+    "('Low', 'ADANIENT.NS')":2564.3999023438,
+    "('Open', 'ADANIENT.NS')":2595.0,
+    "('Volume', 'ADANIENT.NS')":917651
+  },
+  {
+    "('Date', '')":"2025-10-06",
+    "('Close', 'ADANIENT.NS')":2573.5,
+    "('High', 'ADANIENT.NS')":2599.8000488281,
+    "('Low', 'ADANIENT.NS')":2562.6000976562,
+    "('Open', 'ADANIENT.NS')":2589.1000976562,
+    "('Volume', 'ADANIENT.NS')":654955
+  },
+  {
+    "('Date', '')":"2025-10-07",
+    "('Close', 'ADANIENT.NS')":2542.1999511719,
+    "('High', 'ADANIENT.NS')":2617.3000488281,
+    "('Low', 'ADANIENT.NS')":2533.1000976562,
+    "('Open', 'ADANIENT.NS')":2580.6999511719,
+    "('Volume', 'ADANIENT.NS')":1120230
+  },
+  {
+    "('Date', '')":"2025-10-08",
+    "('Close', 'ADANIENT.NS')":2524.1000976562,
+    "('High', 'ADANIENT.NS')":2565.0,
+    "('Low', 'ADANIENT.NS')":2500.0,
+    "('Open', 'ADANIENT.NS')":2562.0,
+    "('Volume', 'ADANIENT.NS')":1063357
+  },
+  {
+    "('Date', '')":"2025-10-09",
+    "('Close', 'ADANIENT.NS')":2542.3999023438,
+    "('High', 'ADANIENT.NS')":2559.0,
+    "('Low', 'ADANIENT.NS')":2522.1999511719,
+    "('Open', 'ADANIENT.NS')":2535.0,
+    "('Volume', 'ADANIENT.NS')":651703
+  },
+  {
+    "('Date', '')":"2025-10-10",
+    "('Close', 'ADANIENT.NS')":2550.8999023438,
+    "('High', 'ADANIENT.NS')":2565.0,
+    "('Low', 'ADANIENT.NS')":2538.8000488281,
+    "('Open', 'ADANIENT.NS')":2552.0,
+    "('Volume', 'ADANIENT.NS')":690142
+  },
+  {
+    "('Date', '')":"2025-10-13",
+    "('Close', 'ADANIENT.NS')":2527.3999023438,
+    "('High', 'ADANIENT.NS')":2542.1000976562,
+    "('Low', 'ADANIENT.NS')":2504.0,
+    "('Open', 'ADANIENT.NS')":2529.1000976562,
+    "('Volume', 'ADANIENT.NS')":645483
+  },
+  {
+    "('Date', '')":"2025-10-14",
+    "('Close', 'ADANIENT.NS')":2517.0,
+    "('High', 'ADANIENT.NS')":2538.8999023438,
+    "('Low', 'ADANIENT.NS')":2485.1999511719,
+    "('Open', 'ADANIENT.NS')":2538.8999023438,
+    "('Volume', 'ADANIENT.NS')":673048
+  },
+  {
+    "('Date', '')":"2025-10-15",
+    "('Close', 'ADANIENT.NS')":2532.8000488281,
+    "('High', 'ADANIENT.NS')":2561.3999023438,
+    "('Low', 'ADANIENT.NS')":2527.3000488281,
+    "('Open', 'ADANIENT.NS')":2535.0,
+    "('Volume', 'ADANIENT.NS')":759772
+  },
+  {
+    "('Date', '')":"2025-10-16",
+    "('Close', 'ADANIENT.NS')":2557.6000976562,
+    "('High', 'ADANIENT.NS')":2579.6999511719,
+    "('Low', 'ADANIENT.NS')":2540.8999023438,
+    "('Open', 'ADANIENT.NS')":2544.8000488281,
+    "('Volume', 'ADANIENT.NS')":1020102
+  },
+  {
+    "('Date', '')":"2025-10-17",
+    "('Close', 'ADANIENT.NS')":2549.3999023438,
+    "('High', 'ADANIENT.NS')":2577.1999511719,
+    "('Low', 'ADANIENT.NS')":2543.1000976562,
+    "('Open', 'ADANIENT.NS')":2560.0,
+    "('Volume', 'ADANIENT.NS')":682968
+  },
+  {
+    "('Date', '')":"2025-10-20",
+    "('Close', 'ADANIENT.NS')":2548.1000976562,
+    "('High', 'ADANIENT.NS')":2579.0,
+    "('Low', 'ADANIENT.NS')":2537.1000976562,
+    "('Open', 'ADANIENT.NS')":2561.3000488281,
+    "('Volume', 'ADANIENT.NS')":747349
+  },
+  {
+    "('Date', '')":"2025-10-21",
+    "('Close', 'ADANIENT.NS')":2549.8999023438,
+    "('High', 'ADANIENT.NS')":2562.0,
+    "('Low', 'ADANIENT.NS')":2542.3000488281,
+    "('Open', 'ADANIENT.NS')":2554.8999023438,
+    "('Volume', 'ADANIENT.NS')":101019
+  },
+  {
+    "('Date', '')":"2025-10-23",
+    "('Close', 'ADANIENT.NS')":2545.8000488281,
+    "('High', 'ADANIENT.NS')":2577.8000488281,
+    "('Low', 'ADANIENT.NS')":2540.8999023438,
+    "('Open', 'ADANIENT.NS')":2559.8999023438,
+    "('Volume', 'ADANIENT.NS')":852445
+  },
+  {
+    "('Date', '')":"2025-10-24",
+    "('Close', 'ADANIENT.NS')":2504.1999511719,
+    "('High', 'ADANIENT.NS')":2554.8000488281,
+    "('Low', 'ADANIENT.NS')":2497.6999511719,
+    "('Open', 'ADANIENT.NS')":2554.8000488281,
+    "('Volume', 'ADANIENT.NS')":473765
+  },
+  {
+    "('Date', '')":"2025-10-27",
+    "('Close', 'ADANIENT.NS')":2492.8000488281,
+    "('High', 'ADANIENT.NS')":2514.6000976562,
+    "('Low', 'ADANIENT.NS')":2487.1000976562,
+    "('Open', 'ADANIENT.NS')":2504.1999511719,
+    "('Volume', 'ADANIENT.NS')":478055
+  },
+  {
+    "('Date', '')":"2025-10-28",
+    "('Close', 'ADANIENT.NS')":2494.3999023438,
+    "('High', 'ADANIENT.NS')":2516.0,
+    "('Low', 'ADANIENT.NS')":2479.1000976562,
+    "('Open', 'ADANIENT.NS')":2495.0,
+    "('Volume', 'ADANIENT.NS')":626988
+  },
+  {
+    "('Date', '')":"2025-10-29",
+    "('Close', 'ADANIENT.NS')":2537.3999023438,
+    "('High', 'ADANIENT.NS')":2600.0,
+    "('Low', 'ADANIENT.NS')":2495.5,
+    "('Open', 'ADANIENT.NS')":2500.0,
+    "('Volume', 'ADANIENT.NS')":1526734
+  },
+  {
+    "('Date', '')":"2025-10-30",
+    "('Close', 'ADANIENT.NS')":2526.8999023438,
+    "('High', 'ADANIENT.NS')":2559.3999023438,
+    "('Low', 'ADANIENT.NS')":2511.8000488281,
+    "('Open', 'ADANIENT.NS')":2550.0,
+    "('Volume', 'ADANIENT.NS')":783328
+  },
+  {
+    "('Date', '')":"2025-10-31",
+    "('Close', 'ADANIENT.NS')":2481.0,
+    "('High', 'ADANIENT.NS')":2543.5,
+    "('Low', 'ADANIENT.NS')":2464.8999023438,
+    "('Open', 'ADANIENT.NS')":2535.0,
+    "('Volume', 'ADANIENT.NS')":848642
+  },
+  {
+    "('Date', '')":"2025-11-03",
+    "('Close', 'ADANIENT.NS')":2467.0,
+    "('High', 'ADANIENT.NS')":2501.8999023438,
+    "('Low', 'ADANIENT.NS')":2457.5,
+    "('Open', 'ADANIENT.NS')":2484.0,
+    "('Volume', 'ADANIENT.NS')":731108
+  },
+  {
+    "('Date', '')":"2025-11-04",
+    "('Close', 'ADANIENT.NS')":2419.8000488281,
+    "('High', 'ADANIENT.NS')":2488.8999023438,
+    "('Low', 'ADANIENT.NS')":2390.6000976562,
+    "('Open', 'ADANIENT.NS')":2479.8000488281,
+    "('Volume', 'ADANIENT.NS')":2072668
+  },
+  {
+    "('Date', '')":"2025-11-05",
+    "('Close', 'ADANIENT.NS')":2419.8000488281,
+    "('High', 'ADANIENT.NS')":2419.8000488281,
+    "('Low', 'ADANIENT.NS')":2419.8000488281,
+    "('Open', 'ADANIENT.NS')":2419.8000488281,
+    "('Volume', 'ADANIENT.NS')":0
+  },
+  {
+    "('Date', '')":"2025-11-06",
+    "('Close', 'ADANIENT.NS')":2314.3000488281,
+    "('High', 'ADANIENT.NS')":2427.1000976562,
+    "('Low', 'ADANIENT.NS')":2307.6000976562,
+    "('Open', 'ADANIENT.NS')":2425.1000976562,
+    "('Volume', 'ADANIENT.NS')":1978147
+  },
+  {
+    "('Date', '')":"2025-11-07",
+    "('Close', 'ADANIENT.NS')":2369.3999023438,
+    "('High', 'ADANIENT.NS')":2402.5,
+    "('Low', 'ADANIENT.NS')":2291.3999023438,
+    "('Open', 'ADANIENT.NS')":2315.0,
+    "('Volume', 'ADANIENT.NS')":2232889
+  },
+  {
+    "('Date', '')":"2025-11-10",
+    "('Close', 'ADANIENT.NS')":2370.6999511719,
+    "('High', 'ADANIENT.NS')":2388.0,
+    "('Low', 'ADANIENT.NS')":2364.0,
+    "('Open', 'ADANIENT.NS')":2380.8999023438,
+    "('Volume', 'ADANIENT.NS')":559808
+  },
+  {
+    "('Date', '')":"2025-11-11",
+    "('Close', 'ADANIENT.NS')":2366.8000488281,
+    "('High', 'ADANIENT.NS')":2378.8999023438,
+    "('Low', 'ADANIENT.NS')":2338.5,
+    "('Open', 'ADANIENT.NS')":2368.0,
+    "('Volume', 'ADANIENT.NS')":633791
+  }
+]
