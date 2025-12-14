@@ -24,7 +24,6 @@ This project is built with a modern, high-performance technology stack:
 - **Backend & Database**: [Firebase](https://firebase.google.com/) (Authentication & Firestore)
 - **UI Components**: [ShadCN UI](https://ui.shadcn.com/)
 - **Styling**: [Tailwind CSS](https://tailwindcss.com/)
-- **AI Integration**: [Genkit](https://firebase.google.com/docs/genkit) (ready for future AI features)
 - **Charting**: [Recharts](https://recharts.org/)
 - **Form Management**: [React Hook Form](https://react-hook-form.com/) & [Zod](https://zod.dev/)
 
