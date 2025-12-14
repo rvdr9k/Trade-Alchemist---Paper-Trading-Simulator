@@ -1,4 +1,4 @@
-# StockSim: A Stock Market Simulation Application
+# TradeAlchemist: A Stock Market Simulation Application
 
 Welcome to StockSim, a realistic, risk-free stock market trading simulator. This application allows users to practice trading strategies, manage a virtual portfolio, and learn about the stock market using real-world data.
 
