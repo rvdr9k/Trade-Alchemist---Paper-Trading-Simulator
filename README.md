@@ -1,4 +1,4 @@
-# TradeAlchemist: A Stock Market Simulation Application
+# StockSim: A Stock Market Simulation Application
 
 Welcome to StockSim, a realistic, risk-free stock market trading simulator. This application allows users to practice trading strategies, manage a virtual portfolio, and learn about the stock market using real-world data.
 
@@ -24,6 +24,7 @@ This project is built with a modern, high-performance technology stack:
 - **Backend & Database**: [Firebase](https://firebase.google.com/) (Authentication & Firestore)
 - **UI Components**: [ShadCN UI](https://ui.shadcn.com/)
 - **Styling**: [Tailwind CSS](https://tailwindcss.com/)
+- **AI Integration**: [Genkit](https://firebase.google.com/docs/genkit) (ready for future AI features)
 - **Charting**: [Recharts](https://recharts.org/)
 - **Form Management**: [React Hook Form](https://react-hook-form.com/) & [Zod](https://zod.dev/)
 
