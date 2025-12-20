@@ -1,0 +1,1994 @@
+[
+  {
+    "('Date', '')":"2024-11-11",
+    "('Close', 'AXISBANK.NS')":1170.0001220703,
+    "('High', 'AXISBANK.NS')":1175.7952184298,
+    "('Low', 'AXISBANK.NS')":1141.9740242454,
+    "('Open', 'AXISBANK.NS')":1151.016345538,
+    "('Volume', 'AXISBANK.NS')":6620678
+  },
+  {
+    "('Date', '')":"2024-11-12",
+    "('Close', 'AXISBANK.NS')":1157.1611328125,
+    "('High', 'AXISBANK.NS')":1185.9864747172,
+    "('Low', 'AXISBANK.NS')":1152.8148714728,
+    "('Open', 'AXISBANK.NS')":1170.6496057768,
+    "('Volume', 'AXISBANK.NS')":9606088
+  },
+  {
+    "('Date', '')":"2024-11-13",
+    "('Close', 'AXISBANK.NS')":1138.1773681641,
+    "('High', 'AXISBANK.NS')":1164.5048449852,
+    "('Low', 'AXISBANK.NS')":1134.1307774452,
+    "('Open', 'AXISBANK.NS')":1150.9164816549,
+    "('Volume', 'AXISBANK.NS')":8079113
+  },
+  {
+    "('Date', '')":"2024-11-14",
+    "('Close', 'AXISBANK.NS')":1139.7259521484,
+    "('High', 'AXISBANK.NS')":1149.7674196334,
+    "('Low', 'AXISBANK.NS')":1130.6337466753,
+    "('Open', 'AXISBANK.NS')":1136.578739383,
+    "('Volume', 'AXISBANK.NS')":5975873
+  },
+  {
+    "('Date', '')":"2024-11-18",
+    "('Close', 'AXISBANK.NS')":1125.23828125,
+    "('High', 'AXISBANK.NS')":1134.0308156556,
+    "('Low', 'AXISBANK.NS')":1120.59234949,
+    "('Open', 'AXISBANK.NS')":1130.2340117154,
+    "('Volume', 'AXISBANK.NS')":9474971
+  },
+  {
+    "('Date', '')":"2024-11-19",
+    "('Close', 'AXISBANK.NS')":1132.9816894531,
+    "('High', 'AXISBANK.NS')":1138.0274261254,
+    "('Low', 'AXISBANK.NS')":1121.0919482456,
+    "('Open', 'AXISBANK.NS')":1129.0351110814,
+    "('Volume', 'AXISBANK.NS')":19225966
+  },
+  {
+    "('Date', '')":"2024-11-21",
+    "('Close', 'AXISBANK.NS')":1138.1773681641,
+    "('High', 'AXISBANK.NS')":1151.0163718773,
+    "('Low', 'AXISBANK.NS')":1114.7973237171,
+    "('Open', 'AXISBANK.NS')":1137.0283256913,
+    "('Volume', 'AXISBANK.NS')":8126248
+  },
+  {
+    "('Date', '')":"2024-11-22",
+    "('Close', 'AXISBANK.NS')":1141.4245605469,
+    "('High', 'AXISBANK.NS')":1146.9198642486,
+    "('Low', 'AXISBANK.NS')":1126.5872649454,
+    "('Open', 'AXISBANK.NS')":1135.6794703133,
+    "('Volume', 'AXISBANK.NS')":16687505
+  },
+  {
+    "('Date', '')":"2024-11-25",
+    "('Close', 'AXISBANK.NS')":1154.9129638672,
+    "('High', 'AXISBANK.NS')":1163.5055956549,
+    "('Low', 'AXISBANK.NS')":1141.0248091351,
+    "('Open', 'AXISBANK.NS')":1159.0094383509,
+    "('Volume', 'AXISBANK.NS')":12385823
+  },
+  {
+    "('Date', '')":"2024-11-26",
+    "('Close', 'AXISBANK.NS')":1143.8225097656,
+    "('High', 'AXISBANK.NS')":1158.6097989397,
+    "('Low', 'AXISBANK.NS')":1141.6743212467,
+    "('Open', 'AXISBANK.NS')":1156.1119336772,
+    "('Volume', 'AXISBANK.NS')":5127437
+  },
+  {
+    "('Date', '')":"2024-11-27",
+    "('Close', 'AXISBANK.NS')":1148.6683349609,
+    "('High', 'AXISBANK.NS')":1154.4633091447,
+    "('Low', 'AXISBANK.NS')":1132.5821071903,
+    "('Open', 'AXISBANK.NS')":1144.2220616491,
+    "('Volume', 'AXISBANK.NS')":5989943
+  },
+  {
+    "('Date', '')":"2024-11-28",
+    "('Close', 'AXISBANK.NS')":1131.5329589844,
+    "('High', 'AXISBANK.NS')":1153.4641671072,
+    "('Low', 'AXISBANK.NS')":1128.4356304656,
+    "('Open', 'AXISBANK.NS')":1147.5192965948,
+    "('Volume', 'AXISBANK.NS')":10731275
+  },
+  {
+    "('Date', '')":"2024-11-29",
+    "('Close', 'AXISBANK.NS')":1135.3297119141,
+    "('High', 'AXISBANK.NS')":1139.9257593772,
+    "('Low', 'AXISBANK.NS')":1126.7369582619,
+    "('Open', 'AXISBANK.NS')":1132.5820602608,
+    "('Volume', 'AXISBANK.NS')":6406277
+  },
+  {
+    "('Date', '')":"2024-12-02",
+    "('Close', 'AXISBANK.NS')":1136.1290283203,
+    "('High', 'AXISBANK.NS')":1140.4254054215,
+    "('Low', 'AXISBANK.NS')":1125.6379940634,
+    "('Open', 'AXISBANK.NS')":1131.7327610004,
+    "('Volume', 'AXISBANK.NS')":4785858
+  },
+  {
+    "('Date', '')":"2024-12-03",
+    "('Close', 'AXISBANK.NS')":1159.5090332031,
+    "('High', 'AXISBANK.NS')":1163.9053003763,
+    "('Low', 'AXISBANK.NS')":1137.0282462604,
+    "('Open', 'AXISBANK.NS')":1143.4228056062,
+    "('Volume', 'AXISBANK.NS')":8382042
+  },
+  {
+    "('Date', '')":"2024-12-04",
+    "('Close', 'AXISBANK.NS')":1158.4599609375,
+    "('High', 'AXISBANK.NS')":1167.0027093515,
+    "('Low', 'AXISBANK.NS')":1152.9147729554,
+    "('Open', 'AXISBANK.NS')":1156.5116747212,
+    "('Volume', 'AXISBANK.NS')":18379798
+  },
+  {
+    "('Date', '')":"2024-12-05",
+    "('Close', 'AXISBANK.NS')":1165.4040527344,
+    "('High', 'AXISBANK.NS')":1175.8950869401,
+    "('Low', 'AXISBANK.NS')":1149.1179222762,
+    "('Open', 'AXISBANK.NS')":1163.0060776656,
+    "('Volume', 'AXISBANK.NS')":10640451
+  },
+  {
+    "('Date', '')":"2024-12-06",
+    "('Close', 'AXISBANK.NS')":1183.5385742188,
+    "('High', 'AXISBANK.NS')":1192.8305598686,
+    "('Low', 'AXISBANK.NS')":1159.0094884146,
+    "('Open', 'AXISBANK.NS')":1166.5030842448,
+    "('Volume', 'AXISBANK.NS')":7542210
+  },
+  {
+    "('Date', '')":"2024-12-09",
+    "('Close', 'AXISBANK.NS')":1162.2567138672,
+    "('High', 'AXISBANK.NS')":1184.9872878973,
+    "('Low', 'AXISBANK.NS')":1160.008635117,
+    "('Open', 'AXISBANK.NS')":1183.2387822026,
+    "('Volume', 'AXISBANK.NS')":6308112
+  },
+  {
+    "('Date', '')":"2024-12-10",
+    "('Close', 'AXISBANK.NS')":1152.6649169922,
+    "('High', 'AXISBANK.NS')":1164.0552068694,
+    "('Low', 'AXISBANK.NS')":1150.2669419708,
+    "('Open', 'AXISBANK.NS')":1156.0120320175,
+    "('Volume', 'AXISBANK.NS')":4714389
+  },
+  {
+    "('Date', '')":"2024-12-11",
+    "('Close', 'AXISBANK.NS')":1146.2703857422,
+    "('High', 'AXISBANK.NS')":1157.3608832768,
+    "('Low', 'AXISBANK.NS')":1143.5727400056,
+    "('Open', 'AXISBANK.NS')":1149.0180375712,
+    "('Volume', 'AXISBANK.NS')":7788242
+  },
+  {
+    "('Date', '')":"2024-12-12",
+    "('Close', 'AXISBANK.NS')":1144.6717529297,
+    "('High', 'AXISBANK.NS')":1153.5641776057,
+    "('Low', 'AXISBANK.NS')":1142.6234546399,
+    "('Open', 'AXISBANK.NS')":1144.022283572,
+    "('Volume', 'AXISBANK.NS')":4825283
+  },
+  {
+    "('Date', '')":"2024-12-13",
+    "('Close', 'AXISBANK.NS')":1147.1696777344,
+    "('High', 'AXISBANK.NS')":1151.7157195421,
+    "('Low', 'AXISBANK.NS')":1112.6991355228,
+    "('Open', 'AXISBANK.NS')":1140.0257583611,
+    "('Volume', 'AXISBANK.NS')":8731618
+  },
+  {
+    "('Date', '')":"2024-12-16",
+    "('Close', 'AXISBANK.NS')":1149.9172363281,
+    "('High', 'AXISBANK.NS')":1154.0137108218,
+    "('Low', 'AXISBANK.NS')":1140.7750253946,
+    "('Open', 'AXISBANK.NS')":1145.520969227,
+    "('Volume', 'AXISBANK.NS')":3975202
+  },
+  {
+    "('Date', '')":"2024-12-17",
+    "('Close', 'AXISBANK.NS')":1135.2797851562,
+    "('High', 'AXISBANK.NS')":1150.8664403216,
+    "('Low', 'AXISBANK.NS')":1129.0351218716,
+    "('Open', 'AXISBANK.NS')":1144.2721002862,
+    "('Volume', 'AXISBANK.NS')":7292817
+  },
+  {
+    "('Date', '')":"2024-12-18",
+    "('Close', 'AXISBANK.NS')":1121.2917480469,
+    "('High', 'AXISBANK.NS')":1138.9267016921,
+    "('Low', 'AXISBANK.NS')":1114.9970786209,
+    "('Open', 'AXISBANK.NS')":1135.2297878194,
+    "('Volume', 'AXISBANK.NS')":7222127
+  },
+  {
+    "('Date', '')":"2024-12-19",
+    "('Close', 'AXISBANK.NS')":1107.953125,
+    "('High', 'AXISBANK.NS')":1118.0944822196,
+    "('Low', 'AXISBANK.NS')":1100.1098525768,
+    "('Open', 'AXISBANK.NS')":1103.9565406349,
+    "('Volume', 'AXISBANK.NS')":11677610
+  },
+  {
+    "('Date', '')":"2024-12-20",
+    "('Close', 'AXISBANK.NS')":1070.9346923828,
+    "('High', 'AXISBANK.NS')":1104.905658815,
+    "('Low', 'AXISBANK.NS')":1064.090566186,
+    "('Open', 'AXISBANK.NS')":1103.0072568859,
+    "('Volume', 'AXISBANK.NS')":12623056
+  },
+  {
+    "('Date', '')":"2024-12-23",
+    "('Close', 'AXISBANK.NS')":1078.228515625,
+    "('High', 'AXISBANK.NS')":1082.6247827661,
+    "('Low', 'AXISBANK.NS')":1071.4842795913,
+    "('Open', 'AXISBANK.NS')":1074.1819252183,
+    "('Volume', 'AXISBANK.NS')":3886921
+  },
+  {
+    "('Date', '')":"2024-12-24",
+    "('Close', 'AXISBANK.NS')":1077.9787597656,
+    "('High', 'AXISBANK.NS')":1083.8237401012,
+    "('Low', 'AXISBANK.NS')":1075.0812116607,
+    "('Open', 'AXISBANK.NS')":1076.3801503869,
+    "('Volume', 'AXISBANK.NS')":4343694
+  },
+  {
+    "('Date', '')":"2024-12-26",
+    "('Close', 'AXISBANK.NS')":1075.7805175781,
+    "('High', 'AXISBANK.NS')":1091.6669643779,
+    "('Low', 'AXISBANK.NS')":1071.8339394145,
+    "('Open', 'AXISBANK.NS')":1082.0751865634,
+    "('Volume', 'AXISBANK.NS')":4775460
+  },
+  {
+    "('Date', '')":"2024-12-27",
+    "('Close', 'AXISBANK.NS')":1076.5299072266,
+    "('High', 'AXISBANK.NS')":1085.322441616,
+    "('Low', 'AXISBANK.NS')":1075.0811941807,
+    "('Open', 'AXISBANK.NS')":1077.1793765791,
+    "('Volume', 'AXISBANK.NS')":3801667
+  },
+  {
+    "('Date', '')":"2024-12-30",
+    "('Close', 'AXISBANK.NS')":1069.0363769531,
+    "('High', 'AXISBANK.NS')":1095.5637560853,
+    "('Low', 'AXISBANK.NS')":1063.0415000388,
+    "('Open', 'AXISBANK.NS')":1073.1828578787,
+    "('Volume', 'AXISBANK.NS')":9452155
+  },
+  {
+    "('Date', '')":"2024-12-31",
+    "('Close', 'AXISBANK.NS')":1063.7907714844,
+    "('High', 'AXISBANK.NS')":1069.5358613844,
+    "('Low', 'AXISBANK.NS')":1057.5961146395,
+    "('Open', 'AXISBANK.NS')":1061.093125883,
+    "('Volume', 'AXISBANK.NS')":5292136
+  },
+  {
+    "('Date', '')":"2025-01-01",
+    "('Close', 'AXISBANK.NS')":1070.8848876953,
+    "('High', 'AXISBANK.NS')":1076.0303927725,
+    "('Low', 'AXISBANK.NS')":1053.0500314226,
+    "('Open', 'AXISBANK.NS')":1063.2413952879,
+    "('Volume', 'AXISBANK.NS')":2985355
+  },
+  {
+    "('Date', '')":"2025-01-02",
+    "('Close', 'AXISBANK.NS')":1085.6721191406,
+    "('High', 'AXISBANK.NS')":1087.7703015405,
+    "('Low', 'AXISBANK.NS')":1066.5884531772,
+    "('Open', 'AXISBANK.NS')":1071.0846105911,
+    "('Volume', 'AXISBANK.NS')":6557076
+  },
+  {
+    "('Date', '')":"2025-01-03",
+    "('Close', 'AXISBANK.NS')":1083.9736328125,
+    "('High', 'AXISBANK.NS')":1092.5662649152,
+    "('Low', 'AXISBANK.NS')":1078.8780120744,
+    "('Open', 'AXISBANK.NS')":1085.0726691339,
+    "('Volume', 'AXISBANK.NS')":7357220
+  },
+  {
+    "('Date', '')":"2025-01-06",
+    "('Close', 'AXISBANK.NS')":1062.4919433594,
+    "('High', 'AXISBANK.NS')":1089.0692041312,
+    "('Low', 'AXISBANK.NS')":1058.9949321534,
+    "('Open', 'AXISBANK.NS')":1086.8211254988,
+    "('Volume', 'AXISBANK.NS')":5283413
+  },
+  {
+    "('Date', '')":"2025-01-07",
+    "('Close', 'AXISBANK.NS')":1066.5885009766,
+    "('High', 'AXISBANK.NS')":1069.5859393868,
+    "('Low', 'AXISBANK.NS')":1055.098320404,
+    "('Open', 'AXISBANK.NS')":1063.6410686596,
+    "('Volume', 'AXISBANK.NS')":4619462
+  },
+  {
+    "('Date', '')":"2025-01-08",
+    "('Close', 'AXISBANK.NS')":1074.0321044922,
+    "('High', 'AXISBANK.NS')":1081.4258103908,
+    "('Low', 'AXISBANK.NS')":1058.1956624177,
+    "('Open', 'AXISBANK.NS')":1062.8417164055,
+    "('Volume', 'AXISBANK.NS')":8780098
+  },
+  {
+    "('Date', '')":"2025-01-09",
+    "('Close', 'AXISBANK.NS')":1060.8433837891,
+    "('High', 'AXISBANK.NS')":1079.2276966322,
+    "('Low', 'AXISBANK.NS')":1053.3497879535,
+    "('Open', 'AXISBANK.NS')":1078.6781174845,
+    "('Volume', 'AXISBANK.NS')":9054190
+  },
+  {
+    "('Date', '')":"2025-01-10",
+    "('Close', 'AXISBANK.NS')":1039.8112792969,
+    "('High', 'AXISBANK.NS')":1063.9406815831,
+    "('Low', 'AXISBANK.NS')":1036.114487578,
+    "('Open', 'AXISBANK.NS')":1055.3480496666,
+    "('Volume', 'AXISBANK.NS')":5612886
+  },
+  {
+    "('Date', '')":"2025-01-13",
+    "('Close', 'AXISBANK.NS')":1048.4040527344,
+    "('High', 'AXISBANK.NS')":1062.0923055338,
+    "('Low', 'AXISBANK.NS')":1022.3762480127,
+    "('Open', 'AXISBANK.NS')":1025.7233630584,
+    "('Volume', 'AXISBANK.NS')":7180930
+  },
+  {
+    "('Date', '')":"2025-01-14",
+    "('Close', 'AXISBANK.NS')":1050.7520751953,
+    "('High', 'AXISBANK.NS')":1060.0940673238,
+    "('Low', 'AXISBANK.NS')":1044.607301967,
+    "('Open', 'AXISBANK.NS')":1052.0508920133,
+    "('Volume', 'AXISBANK.NS')":6892897
+  },
+  {
+    "('Date', '')":"2025-01-15",
+    "('Close', 'AXISBANK.NS')":1025.9232177734,
+    "('High', 'AXISBANK.NS')":1052.0009054084,
+    "('Low', 'AXISBANK.NS')":1013.7835688154,
+    "('Open', 'AXISBANK.NS')":1042.1093350735,
+    "('Volume', 'AXISBANK.NS')":11418721
+  },
+  {
+    "('Date', '')":"2025-01-16",
+    "('Close', 'AXISBANK.NS')":1037.1136474609,
+    "('High', 'AXISBANK.NS')":1045.5563831842,
+    "('Low', 'AXISBANK.NS')":1026.1730464981,
+    "('Open', 'AXISBANK.NS')":1033.0171728613,
+    "('Volume', 'AXISBANK.NS')":10261727
+  },
+  {
+    "('Date', '')":"2025-01-17",
+    "('Close', 'AXISBANK.NS')":990.2037353516,
+    "('High', 'AXISBANK.NS')":1010.8361268169,
+    "('Low', 'AXISBANK.NS')":973.7677697246,
+    "('Open', 'AXISBANK.NS')":999.1461051896,
+    "('Volume', 'AXISBANK.NS')":33831617
+  },
+  {
+    "('Date', '')":"2025-01-20",
+    "('Close', 'AXISBANK.NS')":987.2062988281,
+    "('High', 'AXISBANK.NS')":993.3510717794,
+    "('Low', 'AXISBANK.NS')":975.6661734888,
+    "('Open', 'AXISBANK.NS')":991.2028832561,
+    "('Volume', 'AXISBANK.NS')":33440507
+  },
+  {
+    "('Date', '')":"2025-01-21",
+    "('Close', 'AXISBANK.NS')":969.3715820312,
+    "('High', 'AXISBANK.NS')":993.6008755465,
+    "('Low', 'AXISBANK.NS')":962.1777177394,
+    "('Open', 'AXISBANK.NS')":992.751564751,
+    "('Volume', 'AXISBANK.NS')":11894500
+  },
+  {
+    "('Date', '')":"2025-01-22",
+    "('Close', 'AXISBANK.NS')":958.4808349609,
+    "('High', 'AXISBANK.NS')":974.9168003898,
+    "('Low', 'AXISBANK.NS')":953.1853728639,
+    "('Open', 'AXISBANK.NS')":974.9168003898,
+    "('Volume', 'AXISBANK.NS')":17303146
+  },
+  {
+    "('Date', '')":"2025-01-23",
+    "('Close', 'AXISBANK.NS')":950.2379150391,
+    "('High', 'AXISBANK.NS')":962.8771379808,
+    "('Low', 'AXISBANK.NS')":947.1905315382,
+    "('Open', 'AXISBANK.NS')":953.1854083201,
+    "('Volume', 'AXISBANK.NS')":24649522
+  },
+  {
+    "('Date', '')":"2025-01-24",
+    "('Close', 'AXISBANK.NS')":947.6900634766,
+    "('High', 'AXISBANK.NS')":960.9786942365,
+    "('Low', 'AXISBANK.NS')":945.2920884747,
+    "('Open', 'AXISBANK.NS')":947.1904904331,
+    "('Volume', 'AXISBANK.NS')":14421921
+  },
+  {
+    "('Date', '')":"2025-01-27",
+    "('Close', 'AXISBANK.NS')":947.2904052734,
+    "('High', 'AXISBANK.NS')":948.939020753,
+    "('Low', 'AXISBANK.NS')":932.7028964179,
+    "('Open', 'AXISBANK.NS')":942.2946747088,
+    "('Volume', 'AXISBANK.NS')":12713296
+  },
+  {
+    "('Date', '')":"2025-01-28",
+    "('Close', 'AXISBANK.NS')":982.9598999023,
+    "('High', 'AXISBANK.NS')":993.0013057954,
+    "('Low', 'AXISBANK.NS')":957.3817846841,
+    "('Open', 'AXISBANK.NS')":959.1802354289,
+    "('Volume', 'AXISBANK.NS')":21781371
+  },
+  {
+    "('Date', '')":"2025-01-29",
+    "('Close', 'AXISBANK.NS')":982.5603027344,
+    "('High', 'AXISBANK.NS')":987.8058197786,
+    "('Low', 'AXISBANK.NS')":976.7652065467,
+    "('Open', 'AXISBANK.NS')":987.156350418,
+    "('Volume', 'AXISBANK.NS')":11175206
+  },
+  {
+    "('Date', '')":"2025-01-30",
+    "('Close', 'AXISBANK.NS')":983.8591918945,
+    "('High', 'AXISBANK.NS')":990.5534830634,
+    "('Low', 'AXISBANK.NS')":973.9676209602,
+    "('Open', 'AXISBANK.NS')":983.8092467854,
+    "('Volume', 'AXISBANK.NS')":10473118
+  },
+  {
+    "('Date', '')":"2025-01-31",
+    "('Close', 'AXISBANK.NS')":985.2579345703,
+    "('High', 'AXISBANK.NS')":989.154628713,
+    "('Low', 'AXISBANK.NS')":977.2148207456,
+    "('Open', 'AXISBANK.NS')":981.1614599961,
+    "('Volume', 'AXISBANK.NS')":9036312
+  },
+  {
+    "('Date', '')":"2025-02-01",
+    "('Close', 'AXISBANK.NS')":997.2977294922,
+    "('High', 'AXISBANK.NS')":1004.0919109485,
+    "('Low', 'AXISBANK.NS')":981.1614951733,
+    "('Open', 'AXISBANK.NS')":988.655091114,
+    "('Volume', 'AXISBANK.NS')":4830391
+  },
+  {
+    "('Date', '')":"2025-02-03",
+    "('Close', 'AXISBANK.NS')":988.5551757812,
+    "('High', 'AXISBANK.NS')":999.6456730986,
+    "('Low', 'AXISBANK.NS')":982.5102930895,
+    "('Open', 'AXISBANK.NS')":986.2570909647,
+    "('Volume', 'AXISBANK.NS')":7124605
+  },
+  {
+    "('Date', '')":"2025-02-04",
+    "('Close', 'AXISBANK.NS')":1014.4330444336,
+    "('High', 'AXISBANK.NS')":1016.2314952547,
+    "('Low', 'AXISBANK.NS')":986.9565261067,
+    "('Open', 'AXISBANK.NS')":993.1512442533,
+    "('Volume', 'AXISBANK.NS')":16058171
+  },
+  {
+    "('Date', '')":"2025-02-05",
+    "('Close', 'AXISBANK.NS')":1012.434753418,
+    "('High', 'AXISBANK.NS')":1021.1772819871,
+    "('Low', 'AXISBANK.NS')":1009.6371564724,
+    "('Open', 'AXISBANK.NS')":1019.7285079133,
+    "('Volume', 'AXISBANK.NS')":7858373
+  },
+  {
+    "('Date', '')":"2025-02-06",
+    "('Close', 'AXISBANK.NS')":1019.8284301758,
+    "('High', 'AXISBANK.NS')":1020.9774115939,
+    "('Low', 'AXISBANK.NS')":1009.1874998832,
+    "('Open', 'AXISBANK.NS')":1011.1358469628,
+    "('Volume', 'AXISBANK.NS')":5815563
+  },
+  {
+    "('Date', '')":"2025-02-07",
+    "('Close', 'AXISBANK.NS')":1023.2255249023,
+    "('High', 'AXISBANK.NS')":1026.4727498171,
+    "('Low', 'AXISBANK.NS')":1006.7896198894,
+    "('Open', 'AXISBANK.NS')":1018.6294771085,
+    "('Volume', 'AXISBANK.NS')":8638651
+  },
+  {
+    "('Date', '')":"2025-02-10",
+    "('Close', 'AXISBANK.NS')":1010.8860473633,
+    "('High', 'AXISBANK.NS')":1025.873238577,
+    "('Low', 'AXISBANK.NS')":1005.3407988108,
+    "('Open', 'AXISBANK.NS')":1020.1281486117,
+    "('Volume', 'AXISBANK.NS')":3960565
+  },
+  {
+    "('Date', '')":"2025-02-11",
+    "('Close', 'AXISBANK.NS')":1006.5397949219,
+    "('High', 'AXISBANK.NS')":1015.4821036362,
+    "('Low', 'AXISBANK.NS')":1001.743844906,
+    "('Open', 'AXISBANK.NS')":1008.1384042718,
+    "('Volume', 'AXISBANK.NS')":4808215
+  },
+  {
+    "('Date', '')":"2025-02-12",
+    "('Close', 'AXISBANK.NS')":1006.040222168,
+    "('High', 'AXISBANK.NS')":1009.7870200046,
+    "('Low', 'AXISBANK.NS')":983.1597523194,
+    "('Open', 'AXISBANK.NS')":999.1460897554,
+    "('Volume', 'AXISBANK.NS')":7669283
+  },
+  {
+    "('Date', '')":"2025-02-13",
+    "('Close', 'AXISBANK.NS')":1007.3391113281,
+    "('High', 'AXISBANK.NS')":1016.5812127633,
+    "('Low', 'AXISBANK.NS')":1000.195192312,
+    "('Open', 'AXISBANK.NS')":1002.1435394058,
+    "('Volume', 'AXISBANK.NS')":6348246
+  },
+  {
+    "('Date', '')":"2025-02-14",
+    "('Close', 'AXISBANK.NS')":996.6482543945,
+    "('High', 'AXISBANK.NS')":1015.1324576089,
+    "('Low', 'AXISBANK.NS')":986.8066895088,
+    "('Open', 'AXISBANK.NS')":1009.6870990599,
+    "('Volume', 'AXISBANK.NS')":5375755
+  },
+  {
+    "('Date', '')":"2025-02-17",
+    "('Close', 'AXISBANK.NS')":992.1021118164,
+    "('High', 'AXISBANK.NS')":998.7964027455,
+    "('Low', 'AXISBANK.NS')":977.2148108389,
+    "('Open', 'AXISBANK.NS')":991.6025387767,
+    "('Volume', 'AXISBANK.NS')":7166803
+  },
+  {
+    "('Date', '')":"2025-02-18",
+    "('Close', 'AXISBANK.NS')":993.3011474609,
+    "('High', 'AXISBANK.NS')":996.4983662838,
+    "('Low', 'AXISBANK.NS')":985.707600299,
+    "('Open', 'AXISBANK.NS')":992.1021599108,
+    "('Volume', 'AXISBANK.NS')":3090004
+  },
+  {
+    "('Date', '')":"2025-02-19",
+    "('Close', 'AXISBANK.NS')":1010.4863891602,
+    "('High', 'AXISBANK.NS')":1012.584632571,
+    "('Low', 'AXISBANK.NS')":987.3062483046,
+    "('Open', 'AXISBANK.NS')":990.803259673,
+    "('Volume', 'AXISBANK.NS')":6401381
+  },
+  {
+    "('Date', '')":"2025-02-20",
+    "('Close', 'AXISBANK.NS')":1016.3314208984,
+    "('High', 'AXISBANK.NS')":1018.7793410299,
+    "('Low', 'AXISBANK.NS')":1005.6405454762,
+    "('Open', 'AXISBANK.NS')":1007.5389474515,
+    "('Volume', 'AXISBANK.NS')":5011212
+  },
+  {
+    "('Date', '')":"2025-02-21",
+    "('Close', 'AXISBANK.NS')":1008.0885009766,
+    "('High', 'AXISBANK.NS')":1021.0274555684,
+    "('Low', 'AXISBANK.NS')":999.7956002866,
+    "('Open', 'AXISBANK.NS')":1011.1358844792,
+    "('Volume', 'AXISBANK.NS')":5019937
+  },
+  {
+    "('Date', '')":"2025-02-24",
+    "('Close', 'AXISBANK.NS')":1009.1875,
+    "('High', 'AXISBANK.NS')":1012.1349931738,
+    "('Low', 'AXISBANK.NS')":997.6973199195,
+    "('Open', 'AXISBANK.NS')":1000.494916786,
+    "('Volume', 'AXISBANK.NS')":4265454
+  },
+  {
+    "('Date', '')":"2025-02-25",
+    "('Close', 'AXISBANK.NS')":1008.23828125,
+    "('High', 'AXISBANK.NS')":1012.834389791,
+    "('Low', 'AXISBANK.NS')":996.2485283338,
+    "('Open', 'AXISBANK.NS')":1003.1426606538,
+    "('Volume', 'AXISBANK.NS')":5708975
+  },
+  {
+    "('Date', '')":"2025-02-27",
+    "('Close', 'AXISBANK.NS')":1015.8318481445,
+    "('High', 'AXISBANK.NS')":1022.6759745099,
+    "('Low', 'AXISBANK.NS')":1004.2917229307,
+    "('Open', 'AXISBANK.NS')":1006.7895881711,
+    "('Volume', 'AXISBANK.NS')":9777690
+  },
+  {
+    "('Date', '')":"2025-02-28",
+    "('Close', 'AXISBANK.NS')":1014.682800293,
+    "('High', 'AXISBANK.NS')":1034.6157770006,
+    "('Low', 'AXISBANK.NS')":1009.0876065778,
+    "('Open', 'AXISBANK.NS')":1013.9334407249,
+    "('Volume', 'AXISBANK.NS')":15026849
+  },
+  {
+    "('Date', '')":"2025-03-03",
+    "('Close', 'AXISBANK.NS')":1006.3898925781,
+    "('High', 'AXISBANK.NS')":1018.5295418855,
+    "('Low', 'AXISBANK.NS')":991.1529148052,
+    "('Open', 'AXISBANK.NS')":1016.1815119996,
+    "('Volume', 'AXISBANK.NS')":6763184
+  },
+  {
+    "('Date', '')":"2025-03-04",
+    "('Close', 'AXISBANK.NS')":1000.9445800781,
+    "('High', 'AXISBANK.NS')":1010.2366268835,
+    "('Low', 'AXISBANK.NS')":997.7473002679,
+    "('Open', 'AXISBANK.NS')":1000.245165591,
+    "('Volume', 'AXISBANK.NS')":5786420
+  },
+  {
+    "('Date', '')":"2025-03-05",
+    "('Close', 'AXISBANK.NS')":1013.5838012695,
+    "('High', 'AXISBANK.NS')":1016.5312945424,
+    "('Low', 'AXISBANK.NS')":1001.6939379587,
+    "('Open', 'AXISBANK.NS')":1002.1435659127,
+    "('Volume', 'AXISBANK.NS')":5133873
+  },
+  {
+    "('Date', '')":"2025-03-06",
+    "('Close', 'AXISBANK.NS')":1033.2169189453,
+    "('High', 'AXISBANK.NS')":1038.6123320766,
+    "('Low', 'AXISBANK.NS')":1014.2831498454,
+    "('Open', 'AXISBANK.NS')":1021.7267392254,
+    "('Volume', 'AXISBANK.NS')":7861120
+  },
+  {
+    "('Date', '')":"2025-03-07",
+    "('Close', 'AXISBANK.NS')":1036.7640380859,
+    "('High', 'AXISBANK.NS')":1049.4531455409,
+    "('Low', 'AXISBANK.NS')":1029.8198990891,
+    "('Open', 'AXISBANK.NS')":1032.8173375714,
+    "('Volume', 'AXISBANK.NS')":7597321
+  },
+  {
+    "('Date', '')":"2025-03-10",
+    "('Close', 'AXISBANK.NS')":1034.9654541016,
+    "('High', 'AXISBANK.NS')":1049.6029687298,
+    "('Low', 'AXISBANK.NS')":1031.4684427826,
+    "('Open', 'AXISBANK.NS')":1035.1153504084,
+    "('Volume', 'AXISBANK.NS')":5995655
+  },
+  {
+    "('Date', '')":"2025-03-11",
+    "('Close', 'AXISBANK.NS')":1024.7741699219,
+    "('High', 'AXISBANK.NS')":1035.9146727655,
+    "('Low', 'AXISBANK.NS')":1020.2280066108,
+    "('Open', 'AXISBANK.NS')":1029.5201136563,
+    "('Volume', 'AXISBANK.NS')":4771085
+  },
+  {
+    "('Date', '')":"2025-03-12",
+    "('Close', 'AXISBANK.NS')":1010.3365478516,
+    "('High', 'AXISBANK.NS')":1028.9207018892,
+    "('Low', 'AXISBANK.NS')":998.3467946595,
+    "('Open', 'AXISBANK.NS')":1024.3245322593,
+    "('Volume', 'AXISBANK.NS')":7504702
+  },
+  {
+    "('Date', '')":"2025-03-13",
+    "('Close', 'AXISBANK.NS')":1009.3374023438,
+    "('High', 'AXISBANK.NS')":1015.1324375267,
+    "('Low', 'AXISBANK.NS')":1004.2417206443,
+    "('Open', 'AXISBANK.NS')":1014.1332914268,
+    "('Volume', 'AXISBANK.NS')":4004140
+  },
+  {
+    "('Date', '')":"2025-03-17",
+    "('Close', 'AXISBANK.NS')":1033.2669677734,
+    "('High', 'AXISBANK.NS')":1038.1128019843,
+    "('Low', 'AXISBANK.NS')":1010.2366012914,
+    "('Open', 'AXISBANK.NS')":1010.2366012914,
+    "('Volume', 'AXISBANK.NS')":5938668
+  },
+  {
+    "('Date', '')":"2025-03-18",
+    "('Close', 'AXISBANK.NS')":1033.2669677734,
+    "('High', 'AXISBANK.NS')":1033.2669677734,
+    "('Low', 'AXISBANK.NS')":1033.2669677734,
+    "('Open', 'AXISBANK.NS')":1033.2669677734,
+    "('Volume', 'AXISBANK.NS')":0
+  },
+  {
+    "('Date', '')":"2025-03-19",
+    "('Close', 'AXISBANK.NS')":1051.1517333984,
+    "('High', 'AXISBANK.NS')":1057.6461832345,
+    "('Low', 'AXISBANK.NS')":1042.6089852123,
+    "('Open', 'AXISBANK.NS')":1046.9053623518,
+    "('Volume', 'AXISBANK.NS')":4822365
+  },
+  {
+    "('Date', '')":"2025-03-20",
+    "('Close', 'AXISBANK.NS')":1053.4497070312,
+    "('High', 'AXISBANK.NS')":1057.9958707491,
+    "('Low', 'AXISBANK.NS')":1046.0061170838,
+    "('Open', 'AXISBANK.NS')":1055.3481090882,
+    "('Volume', 'AXISBANK.NS')":3742644
+  },
+  {
+    "('Date', '')":"2025-03-21",
+    "('Close', 'AXISBANK.NS')":1069.2362060547,
+    "('High', 'AXISBANK.NS')":1074.6316193008,
+    "('Low', 'AXISBANK.NS')":1049.6529672039,
+    "('Open', 'AXISBANK.NS')":1053.449649143,
+    "('Volume', 'AXISBANK.NS')":6848565
+  },
+  {
+    "('Date', '')":"2025-03-24",
+    "('Close', 'AXISBANK.NS')":1096.9124755859,
+    "('High', 'AXISBANK.NS')":1104.0063882058,
+    "('Low', 'AXISBANK.NS')":1072.7830738875,
+    "('Open', 'AXISBANK.NS')":1081.0760349569,
+    "('Volume', 'AXISBANK.NS')":8284863
+  },
+  {
+    "('Date', '')":"2025-03-25",
+    "('Close', 'AXISBANK.NS')":1117.5949707031,
+    "('High', 'AXISBANK.NS')":1122.5406953408,
+    "('Low', 'AXISBANK.NS')":1095.4138530762,
+    "('Open', 'AXISBANK.NS')":1109.0022162723,
+    "('Volume', 'AXISBANK.NS')":11720528
+  },
+  {
+    "('Date', '')":"2025-03-26",
+    "('Close', 'AXISBANK.NS')":1095.3139648438,
+    "('High', 'AXISBANK.NS')":1117.8946433974,
+    "('Low', 'AXISBANK.NS')":1088.1201613639,
+    "('Open', 'AXISBANK.NS')":1114.0479551204,
+    "('Volume', 'AXISBANK.NS')":7127060
+  },
+  {
+    "('Date', '')":"2025-03-27",
+    "('Close', 'AXISBANK.NS')":1097.412109375,
+    "('High', 'AXISBANK.NS')":1107.0538937635,
+    "('Low', 'AXISBANK.NS')":1087.1708617116,
+    "('Open', 'AXISBANK.NS')":1091.0675559475,
+    "('Volume', 'AXISBANK.NS')":8508917
+  },
+  {
+    "('Date', '')":"2025-03-28",
+    "('Close', 'AXISBANK.NS')":1101.0589599609,
+    "('High', 'AXISBANK.NS')":1106.0546902693,
+    "('Low', 'AXISBANK.NS')":1085.572196005,
+    "('Open', 'AXISBANK.NS')":1097.4620585321,
+    "('Volume', 'AXISBANK.NS')":4921190
+  },
+  {
+    "('Date', '')":"2025-04-01",
+    "('Close', 'AXISBANK.NS')":1084.6729736328,
+    "('High', 'AXISBANK.NS')":1100.3096343738,
+    "('Low', 'AXISBANK.NS')":1069.0863189829,
+    "('Open', 'AXISBANK.NS')":1092.2664595427,
+    "('Volume', 'AXISBANK.NS')":6638140
+  },
+  {
+    "('Date', '')":"2025-04-02",
+    "('Close', 'AXISBANK.NS')":1083.5239257812,
+    "('High', 'AXISBANK.NS')":1094.6644290499,
+    "('Low', 'AXISBANK.NS')":1079.827134044,
+    "('Open', 'AXISBANK.NS')":1090.7677349155,
+    "('Volume', 'AXISBANK.NS')":4065344
+  },
+  {
+    "('Date', '')":"2025-04-03",
+    "('Close', 'AXISBANK.NS')":1088.9193115234,
+    "('High', 'AXISBANK.NS')":1091.0174938609,
+    "('Low', 'AXISBANK.NS')":1074.3818094977,
+    "('Open', 'AXISBANK.NS')":1077.9787109285,
+    "('Volume', 'AXISBANK.NS')":5345660
+  },
+  {
+    "('Date', '')":"2025-04-04",
+    "('Close', 'AXISBANK.NS')":1090.3681640625,
+    "('High', 'AXISBANK.NS')":1100.9590880995,
+    "('Low', 'AXISBANK.NS')":1074.5316011482,
+    "('Open', 'AXISBANK.NS')":1080.5764837085,
+    "('Volume', 'AXISBANK.NS')":6059991
+  },
+  {
+    "('Date', '')":"2025-04-07",
+    "('Close', 'AXISBANK.NS')":1047.0550537109,
+    "('High', 'AXISBANK.NS')":1068.0871268378,
+    "('Low', 'AXISBANK.NS')":1031.4683997331,
+    "('Open', 'AXISBANK.NS')":1034.1161611573,
+    "('Volume', 'AXISBANK.NS')":9720457
+  },
+  {
+    "('Date', '')":"2025-04-08",
+    "('Close', 'AXISBANK.NS')":1076.9295654297,
+    "('High', 'AXISBANK.NS')":1084.0234781221,
+    "('Low', 'AXISBANK.NS')":1059.3946251089,
+    "('Open', 'AXISBANK.NS')":1060.0939785704,
+    "('Volume', 'AXISBANK.NS')":8723357
+  },
+  {
+    "('Date', '')":"2025-04-09",
+    "('Close', 'AXISBANK.NS')":1060.7435302734,
+    "('High', 'AXISBANK.NS')":1080.9262336358,
+    "('Low', 'AXISBANK.NS')":1057.0966224474,
+    "('Open', 'AXISBANK.NS')":1072.1837048585,
+    "('Volume', 'AXISBANK.NS')":6690201
+  },
+  {
+    "('Date', '')":"2025-04-11",
+    "('Close', 'AXISBANK.NS')":1068.0372314453,
+    "('High', 'AXISBANK.NS')":1071.784029519,
+    "('Low', 'AXISBANK.NS')":1056.6470628742,
+    "('Open', 'AXISBANK.NS')":1062.3921532538,
+    "('Volume', 'AXISBANK.NS')":8144072
+  },
+  {
+    "('Date', '')":"2025-04-15",
+    "('Close', 'AXISBANK.NS')":1111.8498535156,
+    "('High', 'AXISBANK.NS')":1116.0462184422,
+    "('Low', 'AXISBANK.NS')":1082.0752502891,
+    "('Open', 'AXISBANK.NS')":1089.0692731442,
+    "('Volume', 'AXISBANK.NS')":9320299
+  },
+  {
+    "('Date', '')":"2025-04-16",
+    "('Close', 'AXISBANK.NS')":1160.3084716797,
+    "('High', 'AXISBANK.NS')":1162.5065444212,
+    "('Low', 'AXISBANK.NS')":1111.6499810412,
+    "('Open', 'AXISBANK.NS')":1121.7413327534,
+    "('Volume', 'AXISBANK.NS')":12836428
+  },
+  {
+    "('Date', '')":"2025-04-17",
+    "('Close', 'AXISBANK.NS')":1189.783203125,
+    "('High', 'AXISBANK.NS')":1198.1759326402,
+    "('Low', 'AXISBANK.NS')":1152.6148956983,
+    "('Open', 'AXISBANK.NS')":1154.6131878621,
+    "('Volume', 'AXISBANK.NS')":13446336
+  },
+  {
+    "('Date', '')":"2025-04-21",
+    "('Close', 'AXISBANK.NS')":1221.9556884766,
+    "('High', 'AXISBANK.NS')":1237.6422335651,
+    "('Low', 'AXISBANK.NS')":1197.0769260269,
+    "('Open', 'AXISBANK.NS')":1200.9736202362,
+    "('Volume', 'AXISBANK.NS')":15166580
+  },
+  {
+    "('Date', '')":"2025-04-22",
+    "('Close', 'AXISBANK.NS')":1215.7609863281,
+    "('High', 'AXISBANK.NS')":1233.9453960092,
+    "('Low', 'AXISBANK.NS')":1211.0649266212,
+    "('Open', 'AXISBANK.NS')":1229.3493484821,
+    "('Volume', 'AXISBANK.NS')":8461710
+  },
+  {
+    "('Date', '')":"2025-04-23",
+    "('Close', 'AXISBANK.NS')":1205.8695068359,
+    "('High', 'AXISBANK.NS')":1228.949758393,
+    "('Low', 'AXISBANK.NS')":1193.8797530955,
+    "('Open', 'AXISBANK.NS')":1224.2538202978,
+    "('Volume', 'AXISBANK.NS')":9433911
+  },
+  {
+    "('Date', '')":"2025-04-24",
+    "('Close', 'AXISBANK.NS')":1206.0692138672,
+    "('High', 'AXISBANK.NS')":1218.9582227468,
+    "('Low', 'AXISBANK.NS')":1198.0760451934,
+    "('Open', 'AXISBANK.NS')":1198.0760451934,
+    "('Volume', 'AXISBANK.NS')":9078137
+  },
+  {
+    "('Date', '')":"2025-04-25",
+    "('Close', 'AXISBANK.NS')":1165.3041992188,
+    "('High', 'AXISBANK.NS')":1178.8925624152,
+    "('Low', 'AXISBANK.NS')":1145.0214836624,
+    "('Open', 'AXISBANK.NS')":1175.9950141978,
+    "('Volume', 'AXISBANK.NS')":17243807
+  },
+  {
+    "('Date', '')":"2025-04-28",
+    "('Close', 'AXISBANK.NS')":1191.7814941406,
+    "('High', 'AXISBANK.NS')":1194.9787128132,
+    "('Low', 'AXISBANK.NS')":1163.3058308336,
+    "('Open', 'AXISBANK.NS')":1165.3041229955,
+    "('Volume', 'AXISBANK.NS')":5523502
+  },
+  {
+    "('Date', '')":"2025-04-29",
+    "('Close', 'AXISBANK.NS')":1186.2862548828,
+    "('High', 'AXISBANK.NS')":1208.9668233611,
+    "('Low', 'AXISBANK.NS')":1183.3887066981,
+    "('Open', 'AXISBANK.NS')":1192.9804852009,
+    "('Volume', 'AXISBANK.NS')":6074520
+  },
+  {
+    "('Date', '')":"2025-04-30",
+    "('Close', 'AXISBANK.NS')":1183.9881591797,
+    "('High', 'AXISBANK.NS')":1192.8805840933,
+    "('Low', 'AXISBANK.NS')":1173.9966979208,
+    "('Open', 'AXISBANK.NS')":1184.0880493991,
+    "('Volume', 'AXISBANK.NS')":6288257
+  },
+  {
+    "('Date', '')":"2025-05-02",
+    "('Close', 'AXISBANK.NS')":1182.3895263672,
+    "('High', 'AXISBANK.NS')":1209.4663614496,
+    "('Low', 'AXISBANK.NS')":1179.0922954306,
+    "('Open', 'AXISBANK.NS')":1181.0905876428,
+    "('Volume', 'AXISBANK.NS')":5249372
+  },
+  {
+    "('Date', '')":"2025-05-05",
+    "('Close', 'AXISBANK.NS')":1172.1981201172,
+    "('High', 'AXISBANK.NS')":1188.9838228736,
+    "('Low', 'AXISBANK.NS')":1163.3058176702,
+    "('Open', 'AXISBANK.NS')":1188.9838228736,
+    "('Volume', 'AXISBANK.NS')":7236056
+  },
+  {
+    "('Date', '')":"2025-05-06",
+    "('Close', 'AXISBANK.NS')":1160.4083251953,
+    "('High', 'AXISBANK.NS')":1177.7934920321,
+    "('Low', 'AXISBANK.NS')":1156.7114113811,
+    "('Open', 'AXISBANK.NS')":1176.9941263517,
+    "('Volume', 'AXISBANK.NS')":5348267
+  },
+  {
+    "('Date', '')":"2025-05-07",
+    "('Close', 'AXISBANK.NS')":1160.3084716797,
+    "('High', 'AXISBANK.NS')":1167.6021653881,
+    "('Low', 'AXISBANK.NS')":1151.9156196344,
+    "('Open', 'AXISBANK.NS')":1158.0103867504,
+    "('Volume', 'AXISBANK.NS')":4263817
+  },
+  {
+    "('Date', '')":"2025-05-08",
+    "('Close', 'AXISBANK.NS')":1171.1989746094,
+    "('High', 'AXISBANK.NS')":1177.9932166726,
+    "('Low', 'AXISBANK.NS')":1164.6046349398,
+    "('Open', 'AXISBANK.NS')":1169.0009020415,
+    "('Volume', 'AXISBANK.NS')":9912347
+  },
+  {
+    "('Date', '')":"2025-05-09",
+    "('Close', 'AXISBANK.NS')":1150.1170654297,
+    "('High', 'AXISBANK.NS')":1171.1990240052,
+    "('Low', 'AXISBANK.NS')":1147.519309931,
+    "('Open', 'AXISBANK.NS')":1159.009490222,
+    "('Volume', 'AXISBANK.NS')":5379571
+  },
+  {
+    "('Date', '')":"2025-05-12",
+    "('Close', 'AXISBANK.NS')":1201.9727783203,
+    "('High', 'AXISBANK.NS')":1207.9676550202,
+    "('Low', 'AXISBANK.NS')":1174.1964674912,
+    "('Open', 'AXISBANK.NS')":1183.9881482208,
+    "('Volume', 'AXISBANK.NS')":7616208
+  },
+  {
+    "('Date', '')":"2025-05-13",
+    "('Close', 'AXISBANK.NS')":1192.5808105469,
+    "('High', 'AXISBANK.NS')":1213.7627819342,
+    "('Low', 'AXISBANK.NS')":1188.9839088293,
+    "('Open', 'AXISBANK.NS')":1204.1708813994,
+    "('Volume', 'AXISBANK.NS')":5569926
+  },
+  {
+    "('Date', '')":"2025-05-14",
+    "('Close', 'AXISBANK.NS')":1194.4791259766,
+    "('High', 'AXISBANK.NS')":1198.3758200405,
+    "('Low', 'AXISBANK.NS')":1184.8873481035,
+    "('Open', 'AXISBANK.NS')":1194.8788087975,
+    "('Volume', 'AXISBANK.NS')":4084921
+  },
+  {
+    "('Date', '')":"2025-05-15",
+    "('Close', 'AXISBANK.NS')":1208.0675048828,
+    "('High', 'AXISBANK.NS')":1215.9607833338,
+    "('Low', 'AXISBANK.NS')":1183.9881086693,
+    "('Open', 'AXISBANK.NS')":1195.9778616685,
+    "('Volume', 'AXISBANK.NS')":6705748
+  },
+  {
+    "('Date', '')":"2025-05-16",
+    "('Close', 'AXISBANK.NS')":1207.7678222656,
+    "('High', 'AXISBANK.NS')":1212.2639795958,
+    "('Low', 'AXISBANK.NS')":1202.1725066819,
+    "('Open', 'AXISBANK.NS')":1204.9701644738,
+    "('Volume', 'AXISBANK.NS')":4016269
+  },
+  {
+    "('Date', '')":"2025-05-19",
+    "('Close', 'AXISBANK.NS')":1201.7729492188,
+    "('High', 'AXISBANK.NS')":1217.9590668665,
+    "('Low', 'AXISBANK.NS')":1200.0743277096,
+    "('Open', 'AXISBANK.NS')":1206.9684600285,
+    "('Volume', 'AXISBANK.NS')":4550022
+  },
+  {
+    "('Date', '')":"2025-05-20",
+    "('Close', 'AXISBANK.NS')":1194.7789306641,
+    "('High', 'AXISBANK.NS')":1209.6661096759,
+    "('Low', 'AXISBANK.NS')":1191.8813826403,
+    "('Open', 'AXISBANK.NS')":1206.9684640477,
+    "('Volume', 'AXISBANK.NS')":4724482
+  },
+  {
+    "('Date', '')":"2025-05-21",
+    "('Close', 'AXISBANK.NS')":1196.7772216797,
+    "('High', 'AXISBANK.NS')":1203.8711344442,
+    "('Low', 'AXISBANK.NS')":1181.6900183206,
+    "('Open', 'AXISBANK.NS')":1196.0777462451,
+    "('Volume', 'AXISBANK.NS')":3712472
+  },
+  {
+    "('Date', '')":"2025-05-22",
+    "('Close', 'AXISBANK.NS')":1187.4851074219,
+    "('High', 'AXISBANK.NS')":1195.6780564317,
+    "('Low', 'AXISBANK.NS')":1176.494500622,
+    "('Open', 'AXISBANK.NS')":1195.6780564317,
+    "('Volume', 'AXISBANK.NS')":4795583
+  },
+  {
+    "('Date', '')":"2025-05-23",
+    "('Close', 'AXISBANK.NS')":1209.0666503906,
+    "('High', 'AXISBANK.NS')":1212.064088639,
+    "('Low', 'AXISBANK.NS')":1187.0854365693,
+    "('Open', 'AXISBANK.NS')":1187.4851193956,
+    "('Volume', 'AXISBANK.NS')":3676469
+  },
+  {
+    "('Date', '')":"2025-05-26",
+    "('Close', 'AXISBANK.NS')":1214.1623535156,
+    "('High', 'AXISBANK.NS')":1223.1546688717,
+    "('Low', 'AXISBANK.NS')":1207.6679035362,
+    "('Open', 'AXISBANK.NS')":1215.1614996663,
+    "('Volume', 'AXISBANK.NS')":3607612
+  },
+  {
+    "('Date', '')":"2025-05-27",
+    "('Close', 'AXISBANK.NS')":1194.5791015625,
+    "('High', 'AXISBANK.NS')":1215.6610607404,
+    "('Low', 'AXISBANK.NS')":1189.3835904167,
+    "('Open', 'AXISBANK.NS')":1214.1623415292,
+    "('Volume', 'AXISBANK.NS')":7249163
+  },
+  {
+    "('Date', '')":"2025-05-28",
+    "('Close', 'AXISBANK.NS')":1193.6798095703,
+    "('High', 'AXISBANK.NS')":1201.1734054,
+    "('Low', 'AXISBANK.NS')":1190.6823712385,
+    "('Open', 'AXISBANK.NS')":1194.5790654631,
+    "('Volume', 'AXISBANK.NS')":3525421
+  },
+  {
+    "('Date', '')":"2025-05-29",
+    "('Close', 'AXISBANK.NS')":1200.673828125,
+    "('High', 'AXISBANK.NS')":1207.9676434933,
+    "('Low', 'AXISBANK.NS')":1187.9847213512,
+    "('Open', 'AXISBANK.NS')":1198.9753285293,
+    "('Volume', 'AXISBANK.NS')":7788068
+  },
+  {
+    "('Date', '')":"2025-05-30",
+    "('Close', 'AXISBANK.NS')":1191.1818847656,
+    "('High', 'AXISBANK.NS')":1207.7678069459,
+    "('Low', 'AXISBANK.NS')":1188.5841294011,
+    "('Open', 'AXISBANK.NS')":1200.3741017036,
+    "('Volume', 'AXISBANK.NS')":9998488
+  },
+  {
+    "('Date', '')":"2025-06-02",
+    "('Close', 'AXISBANK.NS')":1193.3801269531,
+    "('High', 'AXISBANK.NS')":1199.874576607,
+    "('Low', 'AXISBANK.NS')":1178.1930330443,
+    "('Open', 'AXISBANK.NS')":1188.7840792836,
+    "('Volume', 'AXISBANK.NS')":3761853
+  },
+  {
+    "('Date', '')":"2025-06-03",
+    "('Close', 'AXISBANK.NS')":1180.4910888672,
+    "('High', 'AXISBANK.NS')":1197.8762549839,
+    "('Low', 'AXISBANK.NS')":1173.8967491584,
+    "('Open', 'AXISBANK.NS')":1193.979560894,
+    "('Volume', 'AXISBANK.NS')":8155665
+  },
+  {
+    "('Date', '')":"2025-06-04",
+    "('Close', 'AXISBANK.NS')":1170.0001220703,
+    "('High', 'AXISBANK.NS')":1190.2828373623,
+    "('Low', 'AXISBANK.NS')":1167.6021469572,
+    "('Open', 'AXISBANK.NS')":1180.7909490962,
+    "('Volume', 'AXISBANK.NS')":4306355
+  },
+  {
+    "('Date', '')":"2025-06-05",
+    "('Close', 'AXISBANK.NS')":1158.0103759766,
+    "('High', 'AXISBANK.NS')":1174.4962872825,
+    "('Low', 'AXISBANK.NS')":1156.0120836971,
+    "('Open', 'AXISBANK.NS')":1171.4988488633,
+    "('Volume', 'AXISBANK.NS')":10481600
+  },
+  {
+    "('Date', '')":"2025-06-06",
+    "('Close', 'AXISBANK.NS')":1193.5799560547,
+    "('High', 'AXISBANK.NS')":1200.1742961943,
+    "('Low', 'AXISBANK.NS')":1150.2169891272,
+    "('Open', 'AXISBANK.NS')":1157.9104875952,
+    "('Volume', 'AXISBANK.NS')":14715421
+  },
+  {
+    "('Date', '')":"2025-06-09",
+    "('Close', 'AXISBANK.NS')":1218.8583984375,
+    "('High', 'AXISBANK.NS')":1223.4544462802,
+    "('Low', 'AXISBANK.NS')":1205.1700231639,
+    "('Open', 'AXISBANK.NS')":1211.4646926213,
+    "('Volume', 'AXISBANK.NS')":9138108
+  },
+  {
+    "('Date', '')":"2025-06-10",
+    "('Close', 'AXISBANK.NS')":1231.7473144531,
+    "('High', 'AXISBANK.NS')":1234.8446428532,
+    "('Low', 'AXISBANK.NS')":1217.3595867621,
+    "('Open', 'AXISBANK.NS')":1223.3544631362,
+    "('Volume', 'AXISBANK.NS')":7747558
+  },
+  {
+    "('Date', '')":"2025-06-11",
+    "('Close', 'AXISBANK.NS')":1230.3485107422,
+    "('High', 'AXISBANK.NS')":1240.7396543964,
+    "('Low', 'AXISBANK.NS')":1227.0512798825,
+    "('Open', 'AXISBANK.NS')":1231.5474372551,
+    "('Volume', 'AXISBANK.NS')":4135775
+  },
+  {
+    "('Date', '')":"2025-06-12",
+    "('Close', 'AXISBANK.NS')":1211.8643798828,
+    "('High', 'AXISBANK.NS')":1236.0436677299,
+    "('Low', 'AXISBANK.NS')":1209.7661973781,
+    "('Open', 'AXISBANK.NS')":1229.9489006577,
+    "('Volume', 'AXISBANK.NS')":3461744
+  },
+  {
+    "('Date', '')":"2025-06-13",
+    "('Close', 'AXISBANK.NS')":1204.7703857422,
+    "('High', 'AXISBANK.NS')":1210.6652500105,
+    "('Low', 'AXISBANK.NS')":1194.5790225999,
+    "('Open', 'AXISBANK.NS')":1196.9769975726,
+    "('Volume', 'AXISBANK.NS')":3906868
+  },
+  {
+    "('Date', '')":"2025-06-16",
+    "('Close', 'AXISBANK.NS')":1214.3621826172,
+    "('High', 'AXISBANK.NS')":1216.9599380589,
+    "('Low', 'AXISBANK.NS')":1194.978724071,
+    "('Open', 'AXISBANK.NS')":1205.0700751904,
+    "('Volume', 'AXISBANK.NS')":5697424
+  },
+  {
+    "('Date', '')":"2025-06-17",
+    "('Close', 'AXISBANK.NS')":1214.0623779297,
+    "('High', 'AXISBANK.NS')":1225.9522406799,
+    "('Low', 'AXISBANK.NS')":1210.2656960037,
+    "('Open', 'AXISBANK.NS')":1214.3621705402,
+    "('Volume', 'AXISBANK.NS')":4492946
+  },
+  {
+    "('Date', '')":"2025-06-18",
+    "('Close', 'AXISBANK.NS')":1219.9573974609,
+    "('High', 'AXISBANK.NS')":1222.255482295,
+    "('Low', 'AXISBANK.NS')":1202.8720234131,
+    "('Open', 'AXISBANK.NS')":1208.7670098415,
+    "('Volume', 'AXISBANK.NS')":3135662
+  },
+  {
+    "('Date', '')":"2025-06-19",
+    "('Close', 'AXISBANK.NS')":1216.4603271484,
+    "('High', 'AXISBANK.NS')":1226.7515803452,
+    "('Low', 'AXISBANK.NS')":1212.7635355156,
+    "('Open', 'AXISBANK.NS')":1216.9599001781,
+    "('Volume', 'AXISBANK.NS')":4243763
+  },
+  {
+    "('Date', '')":"2025-06-20",
+    "('Close', 'AXISBANK.NS')":1219.6575927734,
+    "('High', 'AXISBANK.NS')":1224.9531158781,
+    "('Low', 'AXISBANK.NS')":1213.1631431379,
+    "('Open', 'AXISBANK.NS')":1216.460374047,
+    "('Volume', 'AXISBANK.NS')":4652390
+  },
+  {
+    "('Date', '')":"2025-06-23",
+    "('Close', 'AXISBANK.NS')":1213.0632324219,
+    "('High', 'AXISBANK.NS')":1221.8557667202,
+    "('Low', 'AXISBANK.NS')":1204.5704907343,
+    "('Open', 'AXISBANK.NS')":1211.5645133005,
+    "('Volume', 'AXISBANK.NS')":2312469
+  },
+  {
+    "('Date', '')":"2025-06-24",
+    "('Close', 'AXISBANK.NS')":1220.1572265625,
+    "('High', 'AXISBANK.NS')":1237.3426134795,
+    "('Low', 'AXISBANK.NS')":1214.5620325296,
+    "('Open', 'AXISBANK.NS')":1221.8558481929,
+    "('Volume', 'AXISBANK.NS')":6745788
+  },
+  {
+    "('Date', '')":"2025-06-25",
+    "('Close', 'AXISBANK.NS')":1212.2640380859,
+    "('High', 'AXISBANK.NS')":1225.2529376663,
+    "('Low', 'AXISBANK.NS')":1209.9659532199,
+    "('Open', 'AXISBANK.NS')":1225.2529376663,
+    "('Volume', 'AXISBANK.NS')":4229259
+  },
+  {
+    "('Date', '')":"2025-06-26",
+    "('Close', 'AXISBANK.NS')":1232.4467773438,
+    "('High', 'AXISBANK.NS')":1237.9420811746,
+    "('Low', 'AXISBANK.NS')":1210.1657693885,
+    "('Open', 'AXISBANK.NS')":1214.1623539928,
+    "('Volume', 'AXISBANK.NS')":8678448
+  },
+  {
+    "('Date', '')":"2025-06-27",
+    "('Close', 'AXISBANK.NS')":1224.0538330078,
+    "('High', 'AXISBANK.NS')":1245.9351564599,
+    "('Low', 'AXISBANK.NS')":1219.3578952382,
+    "('Open', 'AXISBANK.NS')":1235.8438054881,
+    "('Volume', 'AXISBANK.NS')":6068274
+  },
+  {
+    "('Date', '')":"2025-06-30",
+    "('Close', 'AXISBANK.NS')":1198.1759033203,
+    "('High', 'AXISBANK.NS')":1234.9445270213,
+    "('Low', 'AXISBANK.NS')":1192.081136763,
+    "('Open', 'AXISBANK.NS')":1227.8506144065,
+    "('Volume', 'AXISBANK.NS')":6559872
+  },
+  {
+    "('Date', '')":"2025-07-01",
+    "('Close', 'AXISBANK.NS')":1172.2982177734,
+    "('High', 'AXISBANK.NS')":1200.9736632766,
+    "('Low', 'AXISBANK.NS')":1166.0035482893,
+    "('Open', 'AXISBANK.NS')":1200.9736632766,
+    "('Volume', 'AXISBANK.NS')":8702198
+  },
+  {
+    "('Date', '')":"2025-07-02",
+    "('Close', 'AXISBANK.NS')":1174.2965087891,
+    "('High', 'AXISBANK.NS')":1180.8908489292,
+    "('Low', 'AXISBANK.NS')":1170.999277736,
+    "('Open', 'AXISBANK.NS')":1178.9924468673,
+    "('Volume', 'AXISBANK.NS')":5471100
+  },
+  {
+    "('Date', '')":"2025-07-03",
+    "('Close', 'AXISBANK.NS')":1170.0999755859,
+    "('High', 'AXISBANK.NS')":1179.9915463883,
+    "('Low', 'AXISBANK.NS')":1167.0026470631,
+    "('Open', 'AXISBANK.NS')":1176.9941080825,
+    "('Volume', 'AXISBANK.NS')":6237185
+  },
+  {
+    "('Date', '')":"2025-07-04",
+    "('Close', 'AXISBANK.NS')":1177.5999755859,
+    "('High', 'AXISBANK.NS')":1179.5,
+    "('Low', 'AXISBANK.NS')":1162.0,
+    "('Open', 'AXISBANK.NS')":1174.0,
+    "('Volume', 'AXISBANK.NS')":3926186
+  },
+  {
+    "('Date', '')":"2025-07-07",
+    "('Close', 'AXISBANK.NS')":1175.0999755859,
+    "('High', 'AXISBANK.NS')":1177.5999755859,
+    "('Low', 'AXISBANK.NS')":1167.5999755859,
+    "('Open', 'AXISBANK.NS')":1177.5999755859,
+    "('Volume', 'AXISBANK.NS')":5783402
+  },
+  {
+    "('Date', '')":"2025-07-08",
+    "('Close', 'AXISBANK.NS')":1165.4000244141,
+    "('High', 'AXISBANK.NS')":1180.0,
+    "('Low', 'AXISBANK.NS')":1161.9000244141,
+    "('Open', 'AXISBANK.NS')":1180.0,
+    "('Volume', 'AXISBANK.NS')":9973619
+  },
+  {
+    "('Date', '')":"2025-07-09",
+    "('Close', 'AXISBANK.NS')":1164.6999511719,
+    "('High', 'AXISBANK.NS')":1171.0,
+    "('Low', 'AXISBANK.NS')":1158.5999755859,
+    "('Open', 'AXISBANK.NS')":1160.0,
+    "('Volume', 'AXISBANK.NS')":8674795
+  },
+  {
+    "('Date', '')":"2025-07-10",
+    "('Close', 'AXISBANK.NS')":1164.3000488281,
+    "('High', 'AXISBANK.NS')":1176.5999755859,
+    "('Low', 'AXISBANK.NS')":1163.0,
+    "('Open', 'AXISBANK.NS')":1170.0999755859,
+    "('Volume', 'AXISBANK.NS')":4339755
+  },
+  {
+    "('Date', '')":"2025-07-11",
+    "('Close', 'AXISBANK.NS')":1173.8000488281,
+    "('High', 'AXISBANK.NS')":1175.9000244141,
+    "('Low', 'AXISBANK.NS')":1160.5999755859,
+    "('Open', 'AXISBANK.NS')":1162.0,
+    "('Volume', 'AXISBANK.NS')":4468654
+  },
+  {
+    "('Date', '')":"2025-07-14",
+    "('Close', 'AXISBANK.NS')":1172.6999511719,
+    "('High', 'AXISBANK.NS')":1179.9000244141,
+    "('Low', 'AXISBANK.NS')":1163.0,
+    "('Open', 'AXISBANK.NS')":1179.0,
+    "('Volume', 'AXISBANK.NS')":4772502
+  },
+  {
+    "('Date', '')":"2025-07-15",
+    "('Close', 'AXISBANK.NS')":1165.9000244141,
+    "('High', 'AXISBANK.NS')":1179.0,
+    "('Low', 'AXISBANK.NS')":1162.3000488281,
+    "('Open', 'AXISBANK.NS')":1174.0,
+    "('Volume', 'AXISBANK.NS')":4776756
+  },
+  {
+    "('Date', '')":"2025-07-16",
+    "('Close', 'AXISBANK.NS')":1168.4000244141,
+    "('High', 'AXISBANK.NS')":1174.0,
+    "('Low', 'AXISBANK.NS')":1157.0999755859,
+    "('Open', 'AXISBANK.NS')":1164.9000244141,
+    "('Volume', 'AXISBANK.NS')":4388279
+  },
+  {
+    "('Date', '')":"2025-07-17",
+    "('Close', 'AXISBANK.NS')":1159.8000488281,
+    "('High', 'AXISBANK.NS')":1172.9000244141,
+    "('Low', 'AXISBANK.NS')":1154.8000488281,
+    "('Open', 'AXISBANK.NS')":1170.0,
+    "('Volume', 'AXISBANK.NS')":5694428
+  },
+  {
+    "('Date', '')":"2025-07-18",
+    "('Close', 'AXISBANK.NS')":1099.3000488281,
+    "('High', 'AXISBANK.NS')":1115.9000244141,
+    "('Low', 'AXISBANK.NS')":1086.0,
+    "('Open', 'AXISBANK.NS')":1090.0,
+    "('Volume', 'AXISBANK.NS')":38053695
+  },
+  {
+    "('Date', '')":"2025-07-21",
+    "('Close', 'AXISBANK.NS')":1099.5999755859,
+    "('High', 'AXISBANK.NS')":1101.5,
+    "('Low', 'AXISBANK.NS')":1071.9000244141,
+    "('Open', 'AXISBANK.NS')":1086.0,
+    "('Volume', 'AXISBANK.NS')":15905500
+  },
+  {
+    "('Date', '')":"2025-07-22",
+    "('Close', 'AXISBANK.NS')":1098.0,
+    "('High', 'AXISBANK.NS')":1110.5999755859,
+    "('Low', 'AXISBANK.NS')":1095.0,
+    "('Open', 'AXISBANK.NS')":1102.0,
+    "('Volume', 'AXISBANK.NS')":9999957
+  },
+  {
+    "('Date', '')":"2025-07-23",
+    "('Close', 'AXISBANK.NS')":1104.8000488281,
+    "('High', 'AXISBANK.NS')":1110.5,
+    "('Low', 'AXISBANK.NS')":1098.0999755859,
+    "('Open', 'AXISBANK.NS')":1099.5,
+    "('Volume', 'AXISBANK.NS')":6633979
+  },
+  {
+    "('Date', '')":"2025-07-24",
+    "('Close', 'AXISBANK.NS')":1095.0999755859,
+    "('High', 'AXISBANK.NS')":1105.0,
+    "('Low', 'AXISBANK.NS')":1089.4000244141,
+    "('Open', 'AXISBANK.NS')":1104.0,
+    "('Volume', 'AXISBANK.NS')":9901209
+  },
+  {
+    "('Date', '')":"2025-07-25",
+    "('Close', 'AXISBANK.NS')":1086.0999755859,
+    "('High', 'AXISBANK.NS')":1101.0,
+    "('Low', 'AXISBANK.NS')":1076.1999511719,
+    "('Open', 'AXISBANK.NS')":1086.0999755859,
+    "('Volume', 'AXISBANK.NS')":11779887
+  },
+  {
+    "('Date', '')":"2025-07-28",
+    "('Close', 'AXISBANK.NS')":1073.5999755859,
+    "('High', 'AXISBANK.NS')":1092.1999511719,
+    "('Low', 'AXISBANK.NS')":1067.4000244141,
+    "('Open', 'AXISBANK.NS')":1080.9000244141,
+    "('Volume', 'AXISBANK.NS')":9029557
+  },
+  {
+    "('Date', '')":"2025-07-29",
+    "('Close', 'AXISBANK.NS')":1064.1999511719,
+    "('High', 'AXISBANK.NS')":1078.6999511719,
+    "('Low', 'AXISBANK.NS')":1055.4000244141,
+    "('Open', 'AXISBANK.NS')":1070.9000244141,
+    "('Volume', 'AXISBANK.NS')":15599773
+  },
+  {
+    "('Date', '')":"2025-07-30",
+    "('Close', 'AXISBANK.NS')":1073.3000488281,
+    "('High', 'AXISBANK.NS')":1080.5999755859,
+    "('Low', 'AXISBANK.NS')":1062.0,
+    "('Open', 'AXISBANK.NS')":1070.5,
+    "('Volume', 'AXISBANK.NS')":8247433
+  },
+  {
+    "('Date', '')":"2025-07-31",
+    "('Close', 'AXISBANK.NS')":1068.4000244141,
+    "('High', 'AXISBANK.NS')":1081.3000488281,
+    "('Low', 'AXISBANK.NS')":1063.9000244141,
+    "('Open', 'AXISBANK.NS')":1066.0,
+    "('Volume', 'AXISBANK.NS')":7634413
+  },
+  {
+    "('Date', '')":"2025-08-01",
+    "('Close', 'AXISBANK.NS')":1062.4000244141,
+    "('High', 'AXISBANK.NS')":1070.9000244141,
+    "('Low', 'AXISBANK.NS')":1060.0,
+    "('Open', 'AXISBANK.NS')":1065.0,
+    "('Volume', 'AXISBANK.NS')":5545447
+  },
+  {
+    "('Date', '')":"2025-08-04",
+    "('Close', 'AXISBANK.NS')":1068.5999755859,
+    "('High', 'AXISBANK.NS')":1070.0,
+    "('Low', 'AXISBANK.NS')":1059.0,
+    "('Open', 'AXISBANK.NS')":1064.4000244141,
+    "('Volume', 'AXISBANK.NS')":4465845
+  },
+  {
+    "('Date', '')":"2025-08-05",
+    "('Close', 'AXISBANK.NS')":1070.8000488281,
+    "('High', 'AXISBANK.NS')":1079.9000244141,
+    "('Low', 'AXISBANK.NS')":1062.5,
+    "('Open', 'AXISBANK.NS')":1068.0,
+    "('Volume', 'AXISBANK.NS')":5318081
+  },
+  {
+    "('Date', '')":"2025-08-06",
+    "('Close', 'AXISBANK.NS')":1071.0,
+    "('High', 'AXISBANK.NS')":1077.6999511719,
+    "('Low', 'AXISBANK.NS')":1065.5999755859,
+    "('Open', 'AXISBANK.NS')":1074.0,
+    "('Volume', 'AXISBANK.NS')":4216651
+  },
+  {
+    "('Date', '')":"2025-08-07",
+    "('Close', 'AXISBANK.NS')":1076.1999511719,
+    "('High', 'AXISBANK.NS')":1079.6999511719,
+    "('Low', 'AXISBANK.NS')":1064.5,
+    "('Open', 'AXISBANK.NS')":1067.8000488281,
+    "('Volume', 'AXISBANK.NS')":5321131
+  },
+  {
+    "('Date', '')":"2025-08-08",
+    "('Close', 'AXISBANK.NS')":1058.0999755859,
+    "('High', 'AXISBANK.NS')":1080.4000244141,
+    "('Low', 'AXISBANK.NS')":1054.1999511719,
+    "('Open', 'AXISBANK.NS')":1073.0,
+    "('Volume', 'AXISBANK.NS')":5084903
+  },
+  {
+    "('Date', '')":"2025-08-11",
+    "('Close', 'AXISBANK.NS')":1073.3000488281,
+    "('High', 'AXISBANK.NS')":1075.4000244141,
+    "('Low', 'AXISBANK.NS')":1052.5999755859,
+    "('Open', 'AXISBANK.NS')":1058.0999755859,
+    "('Volume', 'AXISBANK.NS')":5452775
+  },
+  {
+    "('Date', '')":"2025-08-12",
+    "('Close', 'AXISBANK.NS')":1070.0,
+    "('High', 'AXISBANK.NS')":1076.5999755859,
+    "('Low', 'AXISBANK.NS')":1066.3000488281,
+    "('Open', 'AXISBANK.NS')":1071.0999755859,
+    "('Volume', 'AXISBANK.NS')":4573025
+  },
+  {
+    "('Date', '')":"2025-08-13",
+    "('Close', 'AXISBANK.NS')":1066.0,
+    "('High', 'AXISBANK.NS')":1072.8000488281,
+    "('Low', 'AXISBANK.NS')":1063.1999511719,
+    "('Open', 'AXISBANK.NS')":1071.0999755859,
+    "('Volume', 'AXISBANK.NS')":4966778
+  },
+  {
+    "('Date', '')":"2025-08-14",
+    "('Close', 'AXISBANK.NS')":1068.1999511719,
+    "('High', 'AXISBANK.NS')":1072.4000244141,
+    "('Low', 'AXISBANK.NS')":1062.0,
+    "('Open', 'AXISBANK.NS')":1067.0,
+    "('Volume', 'AXISBANK.NS')":6761305
+  },
+  {
+    "('Date', '')":"2025-08-18",
+    "('Close', 'AXISBANK.NS')":1082.5999755859,
+    "('High', 'AXISBANK.NS')":1090.0,
+    "('Low', 'AXISBANK.NS')":1079.4000244141,
+    "('Open', 'AXISBANK.NS')":1080.0,
+    "('Volume', 'AXISBANK.NS')":7964987
+  },
+  {
+    "('Date', '')":"2025-08-19",
+    "('Close', 'AXISBANK.NS')":1083.1999511719,
+    "('High', 'AXISBANK.NS')":1095.0,
+    "('Low', 'AXISBANK.NS')":1075.8000488281,
+    "('Open', 'AXISBANK.NS')":1078.0,
+    "('Volume', 'AXISBANK.NS')":5661531
+  },
+  {
+    "('Date', '')":"2025-08-20",
+    "('Close', 'AXISBANK.NS')":1080.1999511719,
+    "('High', 'AXISBANK.NS')":1083.6999511719,
+    "('Low', 'AXISBANK.NS')":1077.8000488281,
+    "('Open', 'AXISBANK.NS')":1081.0,
+    "('Volume', 'AXISBANK.NS')":3034728
+  },
+  {
+    "('Date', '')":"2025-08-21",
+    "('Close', 'AXISBANK.NS')":1078.9000244141,
+    "('High', 'AXISBANK.NS')":1090.0,
+    "('Low', 'AXISBANK.NS')":1076.4000244141,
+    "('Open', 'AXISBANK.NS')":1090.0,
+    "('Volume', 'AXISBANK.NS')":6459262
+  },
+  {
+    "('Date', '')":"2025-08-22",
+    "('Close', 'AXISBANK.NS')":1070.9000244141,
+    "('High', 'AXISBANK.NS')":1078.5,
+    "('Low', 'AXISBANK.NS')":1069.5,
+    "('Open', 'AXISBANK.NS')":1076.0,
+    "('Volume', 'AXISBANK.NS')":3853718
+  },
+  {
+    "('Date', '')":"2025-08-25",
+    "('Close', 'AXISBANK.NS')":1070.0,
+    "('High', 'AXISBANK.NS')":1074.5,
+    "('Low', 'AXISBANK.NS')":1068.1999511719,
+    "('Open', 'AXISBANK.NS')":1073.0,
+    "('Volume', 'AXISBANK.NS')":2711278
+  },
+  {
+    "('Date', '')":"2025-08-26",
+    "('Close', 'AXISBANK.NS')":1050.0999755859,
+    "('High', 'AXISBANK.NS')":1069.8000488281,
+    "('Low', 'AXISBANK.NS')":1048.0,
+    "('Open', 'AXISBANK.NS')":1068.0,
+    "('Volume', 'AXISBANK.NS')":7197666
+  },
+  {
+    "('Date', '')":"2025-08-28",
+    "('Close', 'AXISBANK.NS')":1051.9000244141,
+    "('High', 'AXISBANK.NS')":1059.5,
+    "('Low', 'AXISBANK.NS')":1047.0,
+    "('Open', 'AXISBANK.NS')":1057.0,
+    "('Volume', 'AXISBANK.NS')":8564803
+  },
+  {
+    "('Date', '')":"2025-08-29",
+    "('Close', 'AXISBANK.NS')":1045.1999511719,
+    "('High', 'AXISBANK.NS')":1063.0,
+    "('Low', 'AXISBANK.NS')":1042.5,
+    "('Open', 'AXISBANK.NS')":1052.0999755859,
+    "('Volume', 'AXISBANK.NS')":4718016
+  },
+  {
+    "('Date', '')":"2025-09-01",
+    "('Close', 'AXISBANK.NS')":1061.5,
+    "('High', 'AXISBANK.NS')":1064.0,
+    "('Low', 'AXISBANK.NS')":1047.5999755859,
+    "('Open', 'AXISBANK.NS')":1047.5999755859,
+    "('Volume', 'AXISBANK.NS')":3190426
+  },
+  {
+    "('Date', '')":"2025-09-02",
+    "('Close', 'AXISBANK.NS')":1056.1999511719,
+    "('High', 'AXISBANK.NS')":1064.9000244141,
+    "('Low', 'AXISBANK.NS')":1049.0,
+    "('Open', 'AXISBANK.NS')":1061.5,
+    "('Volume', 'AXISBANK.NS')":4933541
+  },
+  {
+    "('Date', '')":"2025-09-03",
+    "('Close', 'AXISBANK.NS')":1054.6999511719,
+    "('High', 'AXISBANK.NS')":1064.9000244141,
+    "('Low', 'AXISBANK.NS')":1045.0,
+    "('Open', 'AXISBANK.NS')":1056.1999511719,
+    "('Volume', 'AXISBANK.NS')":8303296
+  },
+  {
+    "('Date', '')":"2025-09-04",
+    "('Close', 'AXISBANK.NS')":1050.4000244141,
+    "('High', 'AXISBANK.NS')":1062.1999511719,
+    "('Low', 'AXISBANK.NS')":1047.3000488281,
+    "('Open', 'AXISBANK.NS')":1058.1999511719,
+    "('Volume', 'AXISBANK.NS')":8088417
+  },
+  {
+    "('Date', '')":"2025-09-05",
+    "('Close', 'AXISBANK.NS')":1055.9000244141,
+    "('High', 'AXISBANK.NS')":1058.0,
+    "('Low', 'AXISBANK.NS')":1047.8000488281,
+    "('Open', 'AXISBANK.NS')":1056.5999755859,
+    "('Volume', 'AXISBANK.NS')":2849589
+  },
+  {
+    "('Date', '')":"2025-09-08",
+    "('Close', 'AXISBANK.NS')":1055.5,
+    "('High', 'AXISBANK.NS')":1063.0,
+    "('Low', 'AXISBANK.NS')":1054.0,
+    "('Open', 'AXISBANK.NS')":1055.9000244141,
+    "('Volume', 'AXISBANK.NS')":2260147
+  },
+  {
+    "('Date', '')":"2025-09-09",
+    "('Close', 'AXISBANK.NS')":1052.1999511719,
+    "('High', 'AXISBANK.NS')":1059.0,
+    "('Low', 'AXISBANK.NS')":1048.6999511719,
+    "('Open', 'AXISBANK.NS')":1057.5,
+    "('Volume', 'AXISBANK.NS')":4310419
+  },
+  {
+    "('Date', '')":"2025-09-10",
+    "('Close', 'AXISBANK.NS')":1070.0999755859,
+    "('High', 'AXISBANK.NS')":1074.0999755859,
+    "('Low', 'AXISBANK.NS')":1055.0999755859,
+    "('Open', 'AXISBANK.NS')":1058.0,
+    "('Volume', 'AXISBANK.NS')":5241075
+  },
+  {
+    "('Date', '')":"2025-09-11",
+    "('Close', 'AXISBANK.NS')":1087.4000244141,
+    "('High', 'AXISBANK.NS')":1093.0,
+    "('Low', 'AXISBANK.NS')":1069.0,
+    "('Open', 'AXISBANK.NS')":1069.0,
+    "('Volume', 'AXISBANK.NS')":5227539
+  },
+  {
+    "('Date', '')":"2025-09-12",
+    "('Close', 'AXISBANK.NS')":1105.3000488281,
+    "('High', 'AXISBANK.NS')":1108.6999511719,
+    "('Low', 'AXISBANK.NS')":1088.4000244141,
+    "('Open', 'AXISBANK.NS')":1088.4000244141,
+    "('Volume', 'AXISBANK.NS')":6014850
+  },
+  {
+    "('Date', '')":"2025-09-15",
+    "('Close', 'AXISBANK.NS')":1104.4000244141,
+    "('High', 'AXISBANK.NS')":1110.0,
+    "('Low', 'AXISBANK.NS')":1100.0,
+    "('Open', 'AXISBANK.NS')":1105.0,
+    "('Volume', 'AXISBANK.NS')":3881807
+  },
+  {
+    "('Date', '')":"2025-09-16",
+    "('Close', 'AXISBANK.NS')":1121.1999511719,
+    "('High', 'AXISBANK.NS')":1127.0999755859,
+    "('Low', 'AXISBANK.NS')":1104.0,
+    "('Open', 'AXISBANK.NS')":1105.6999511719,
+    "('Volume', 'AXISBANK.NS')":7965606
+  },
+  {
+    "('Date', '')":"2025-09-17",
+    "('Close', 'AXISBANK.NS')":1126.0,
+    "('High', 'AXISBANK.NS')":1128.5,
+    "('Low', 'AXISBANK.NS')":1116.0999755859,
+    "('Open', 'AXISBANK.NS')":1121.3000488281,
+    "('Volume', 'AXISBANK.NS')":5590739
+  },
+  {
+    "('Date', '')":"2025-09-18",
+    "('Close', 'AXISBANK.NS')":1133.0,
+    "('High', 'AXISBANK.NS')":1134.4000244141,
+    "('Low', 'AXISBANK.NS')":1121.1999511719,
+    "('Open', 'AXISBANK.NS')":1129.0,
+    "('Volume', 'AXISBANK.NS')":5713032
+  },
+  {
+    "('Date', '')":"2025-09-19",
+    "('Close', 'AXISBANK.NS')":1135.9000244141,
+    "('High', 'AXISBANK.NS')":1144.0999755859,
+    "('Low', 'AXISBANK.NS')":1126.5999755859,
+    "('Open', 'AXISBANK.NS')":1133.0,
+    "('Volume', 'AXISBANK.NS')":8910732
+  },
+  {
+    "('Date', '')":"2025-09-22",
+    "('Close', 'AXISBANK.NS')":1144.4000244141,
+    "('High', 'AXISBANK.NS')":1147.5999755859,
+    "('Low', 'AXISBANK.NS')":1131.1999511719,
+    "('Open', 'AXISBANK.NS')":1136.0,
+    "('Volume', 'AXISBANK.NS')":7689900
+  },
+  {
+    "('Date', '')":"2025-09-23",
+    "('Close', 'AXISBANK.NS')":1170.8000488281,
+    "('High', 'AXISBANK.NS')":1172.8000488281,
+    "('Low', 'AXISBANK.NS')":1141.9000244141,
+    "('Open', 'AXISBANK.NS')":1146.0,
+    "('Volume', 'AXISBANK.NS')":16079093
+  },
+  {
+    "('Date', '')":"2025-09-24",
+    "('Close', 'AXISBANK.NS')":1158.9000244141,
+    "('High', 'AXISBANK.NS')":1172.8000488281,
+    "('Low', 'AXISBANK.NS')":1154.0,
+    "('Open', 'AXISBANK.NS')":1168.0,
+    "('Volume', 'AXISBANK.NS')":12812055
+  },
+  {
+    "('Date', '')":"2025-09-25",
+    "('Close', 'AXISBANK.NS')":1166.5999755859,
+    "('High', 'AXISBANK.NS')":1171.8000488281,
+    "('Low', 'AXISBANK.NS')":1153.4000244141,
+    "('Open', 'AXISBANK.NS')":1154.6999511719,
+    "('Volume', 'AXISBANK.NS')":11188302
+  },
+  {
+    "('Date', '')":"2025-09-26",
+    "('Close', 'AXISBANK.NS')":1154.0,
+    "('High', 'AXISBANK.NS')":1169.6999511719,
+    "('Low', 'AXISBANK.NS')":1148.0,
+    "('Open', 'AXISBANK.NS')":1161.5999755859,
+    "('Volume', 'AXISBANK.NS')":5618932
+  },
+  {
+    "('Date', '')":"2025-09-29",
+    "('Close', 'AXISBANK.NS')":1132.1999511719,
+    "('High', 'AXISBANK.NS')":1158.3000488281,
+    "('Low', 'AXISBANK.NS')":1126.6999511719,
+    "('Open', 'AXISBANK.NS')":1155.4000244141,
+    "('Volume', 'AXISBANK.NS')":9693881
+  },
+  {
+    "('Date', '')":"2025-09-30",
+    "('Close', 'AXISBANK.NS')":1131.5999755859,
+    "('High', 'AXISBANK.NS')":1137.0,
+    "('Low', 'AXISBANK.NS')":1125.4000244141,
+    "('Open', 'AXISBANK.NS')":1130.0,
+    "('Volume', 'AXISBANK.NS')":8165203
+  },
+  {
+    "('Date', '')":"2025-10-01",
+    "('Close', 'AXISBANK.NS')":1159.5,
+    "('High', 'AXISBANK.NS')":1164.8000488281,
+    "('Low', 'AXISBANK.NS')":1131.0,
+    "('Open', 'AXISBANK.NS')":1132.5,
+    "('Volume', 'AXISBANK.NS')":9655009
+  },
+  {
+    "('Date', '')":"2025-10-03",
+    "('Close', 'AXISBANK.NS')":1181.0,
+    "('High', 'AXISBANK.NS')":1188.0,
+    "('Low', 'AXISBANK.NS')":1169.5,
+    "('Open', 'AXISBANK.NS')":1171.0,
+    "('Volume', 'AXISBANK.NS')":11095015
+  },
+  {
+    "('Date', '')":"2025-10-06",
+    "('Close', 'AXISBANK.NS')":1212.8000488281,
+    "('High', 'AXISBANK.NS')":1215.1999511719,
+    "('Low', 'AXISBANK.NS')":1182.0999755859,
+    "('Open', 'AXISBANK.NS')":1185.0,
+    "('Volume', 'AXISBANK.NS')":20128505
+  },
+  {
+    "('Date', '')":"2025-10-07",
+    "('Close', 'AXISBANK.NS')":1186.8000488281,
+    "('High', 'AXISBANK.NS')":1212.0,
+    "('Low', 'AXISBANK.NS')":1184.0,
+    "('Open', 'AXISBANK.NS')":1212.0,
+    "('Volume', 'AXISBANK.NS')":8620156
+  },
+  {
+    "('Date', '')":"2025-10-08",
+    "('Close', 'AXISBANK.NS')":1180.5999755859,
+    "('High', 'AXISBANK.NS')":1194.8000488281,
+    "('Low', 'AXISBANK.NS')":1174.0999755859,
+    "('Open', 'AXISBANK.NS')":1180.0999755859,
+    "('Volume', 'AXISBANK.NS')":5160430
+  },
+  {
+    "('Date', '')":"2025-10-09",
+    "('Close', 'AXISBANK.NS')":1167.4000244141,
+    "('High', 'AXISBANK.NS')":1187.3000488281,
+    "('Low', 'AXISBANK.NS')":1163.0999755859,
+    "('Open', 'AXISBANK.NS')":1178.0,
+    "('Volume', 'AXISBANK.NS')":7194651
+  },
+  {
+    "('Date', '')":"2025-10-10",
+    "('Close', 'AXISBANK.NS')":1180.4000244141,
+    "('High', 'AXISBANK.NS')":1191.6999511719,
+    "('Low', 'AXISBANK.NS')":1165.1999511719,
+    "('Open', 'AXISBANK.NS')":1168.0,
+    "('Volume', 'AXISBANK.NS')":6933035
+  },
+  {
+    "('Date', '')":"2025-10-13",
+    "('Close', 'AXISBANK.NS')":1189.5999755859,
+    "('High', 'AXISBANK.NS')":1193.5999755859,
+    "('Low', 'AXISBANK.NS')":1167.5,
+    "('Open', 'AXISBANK.NS')":1171.0,
+    "('Volume', 'AXISBANK.NS')":4138448
+  },
+  {
+    "('Date', '')":"2025-10-14",
+    "('Close', 'AXISBANK.NS')":1176.8000488281,
+    "('High', 'AXISBANK.NS')":1191.8000488281,
+    "('Low', 'AXISBANK.NS')":1166.5999755859,
+    "('Open', 'AXISBANK.NS')":1191.8000488281,
+    "('Volume', 'AXISBANK.NS')":5742538
+  },
+  {
+    "('Date', '')":"2025-10-15",
+    "('Close', 'AXISBANK.NS')":1169.5999755859,
+    "('High', 'AXISBANK.NS')":1181.6999511719,
+    "('Low', 'AXISBANK.NS')":1164.0,
+    "('Open', 'AXISBANK.NS')":1180.0,
+    "('Volume', 'AXISBANK.NS')":6328142
+  },
+  {
+    "('Date', '')":"2025-10-16",
+    "('Close', 'AXISBANK.NS')":1196.3000488281,
+    "('High', 'AXISBANK.NS')":1216.9000244141,
+    "('Low', 'AXISBANK.NS')":1185.3000488281,
+    "('Open', 'AXISBANK.NS')":1216.4000244141,
+    "('Volume', 'AXISBANK.NS')":17747171
+  },
+  {
+    "('Date', '')":"2025-10-17",
+    "('Close', 'AXISBANK.NS')":1200.1999511719,
+    "('High', 'AXISBANK.NS')":1212.9000244141,
+    "('Low', 'AXISBANK.NS')":1191.5999755859,
+    "('Open', 'AXISBANK.NS')":1196.3000488281,
+    "('Volume', 'AXISBANK.NS')":6404414
+  },
+  {
+    "('Date', '')":"2025-10-20",
+    "('Close', 'AXISBANK.NS')":1226.0,
+    "('High', 'AXISBANK.NS')":1231.6999511719,
+    "('Low', 'AXISBANK.NS')":1207.0,
+    "('Open', 'AXISBANK.NS')":1207.9000244141,
+    "('Volume', 'AXISBANK.NS')":7418616
+  },
+  {
+    "('Date', '')":"2025-10-21",
+    "('Close', 'AXISBANK.NS')":1237.3000488281,
+    "('High', 'AXISBANK.NS')":1238.8000488281,
+    "('Low', 'AXISBANK.NS')":1222.0,
+    "('Open', 'AXISBANK.NS')":1225.8000488281,
+    "('Volume', 'AXISBANK.NS')":1940248
+  },
+  {
+    "('Date', '')":"2025-10-23",
+    "('Close', 'AXISBANK.NS')":1258.8000488281,
+    "('High', 'AXISBANK.NS')":1276.0999755859,
+    "('Low', 'AXISBANK.NS')":1241.3000488281,
+    "('Open', 'AXISBANK.NS')":1246.0,
+    "('Volume', 'AXISBANK.NS')":14611221
+  },
+  {
+    "('Date', '')":"2025-10-24",
+    "('Close', 'AXISBANK.NS')":1241.9000244141,
+    "('High', 'AXISBANK.NS')":1256.0,
+    "('Low', 'AXISBANK.NS')":1240.0999755859,
+    "('Open', 'AXISBANK.NS')":1254.1999511719,
+    "('Volume', 'AXISBANK.NS')":4882046
+  },
+  {
+    "('Date', '')":"2025-10-27",
+    "('Close', 'AXISBANK.NS')":1254.0999755859,
+    "('High', 'AXISBANK.NS')":1258.5,
+    "('Low', 'AXISBANK.NS')":1242.5999755859,
+    "('Open', 'AXISBANK.NS')":1243.4000244141,
+    "('Volume', 'AXISBANK.NS')":6185072
+  },
+  {
+    "('Date', '')":"2025-10-28",
+    "('Close', 'AXISBANK.NS')":1246.3000488281,
+    "('High', 'AXISBANK.NS')":1258.9000244141,
+    "('Low', 'AXISBANK.NS')":1236.5999755859,
+    "('Open', 'AXISBANK.NS')":1249.0,
+    "('Volume', 'AXISBANK.NS')":8146777
+  },
+  {
+    "('Date', '')":"2025-10-29",
+    "('Close', 'AXISBANK.NS')":1248.8000488281,
+    "('High', 'AXISBANK.NS')":1251.0,
+    "('Low', 'AXISBANK.NS')":1239.1999511719,
+    "('Open', 'AXISBANK.NS')":1246.9000244141,
+    "('Volume', 'AXISBANK.NS')":4578825
+  },
+  {
+    "('Date', '')":"2025-10-30",
+    "('Close', 'AXISBANK.NS')":1238.5999755859,
+    "('High', 'AXISBANK.NS')":1248.0,
+    "('Low', 'AXISBANK.NS')":1235.0,
+    "('Open', 'AXISBANK.NS')":1243.0,
+    "('Volume', 'AXISBANK.NS')":4017532
+  },
+  {
+    "('Date', '')":"2025-10-31",
+    "('Close', 'AXISBANK.NS')":1232.8000488281,
+    "('High', 'AXISBANK.NS')":1245.4000244141,
+    "('Low', 'AXISBANK.NS')":1231.0,
+    "('Open', 'AXISBANK.NS')":1243.0,
+    "('Volume', 'AXISBANK.NS')":4106607
+  },
+  {
+    "('Date', '')":"2025-11-03",
+    "('Close', 'AXISBANK.NS')":1233.6999511719,
+    "('High', 'AXISBANK.NS')":1241.0,
+    "('Low', 'AXISBANK.NS')":1222.3000488281,
+    "('Open', 'AXISBANK.NS')":1226.0,
+    "('Volume', 'AXISBANK.NS')":6118907
+  },
+  {
+    "('Date', '')":"2025-11-04",
+    "('Close', 'AXISBANK.NS')":1226.5999755859,
+    "('High', 'AXISBANK.NS')":1235.9000244141,
+    "('Low', 'AXISBANK.NS')":1222.8000488281,
+    "('Open', 'AXISBANK.NS')":1230.0999755859,
+    "('Volume', 'AXISBANK.NS')":3299345
+  },
+  {
+    "('Date', '')":"2025-11-05",
+    "('Close', 'AXISBANK.NS')":1226.5999755859,
+    "('High', 'AXISBANK.NS')":1226.5999755859,
+    "('Low', 'AXISBANK.NS')":1226.5999755859,
+    "('Open', 'AXISBANK.NS')":1226.5999755859,
+    "('Volume', 'AXISBANK.NS')":0
+  },
+  {
+    "('Date', '')":"2025-11-06",
+    "('Close', 'AXISBANK.NS')":1228.5,
+    "('High', 'AXISBANK.NS')":1239.5999755859,
+    "('Low', 'AXISBANK.NS')":1225.0,
+    "('Open', 'AXISBANK.NS')":1225.0,
+    "('Volume', 'AXISBANK.NS')":3733721
+  },
+  {
+    "('Date', '')":"2025-11-07",
+    "('Close', 'AXISBANK.NS')":1222.8000488281,
+    "('High', 'AXISBANK.NS')":1228.8000488281,
+    "('Low', 'AXISBANK.NS')":1217.0,
+    "('Open', 'AXISBANK.NS')":1227.0,
+    "('Volume', 'AXISBANK.NS')":3461466
+  },
+  {
+    "('Date', '')":"2025-11-10",
+    "('Close', 'AXISBANK.NS')":1217.0,
+    "('High', 'AXISBANK.NS')":1232.8000488281,
+    "('Low', 'AXISBANK.NS')":1215.5,
+    "('Open', 'AXISBANK.NS')":1222.0,
+    "('Volume', 'AXISBANK.NS')":4140568
+  },
+  {
+    "('Date', '')":"2025-11-11",
+    "('Close', 'AXISBANK.NS')":1222.5,
+    "('High', 'AXISBANK.NS')":1225.0,
+    "('Low', 'AXISBANK.NS')":1209.4000244141,
+    "('Open', 'AXISBANK.NS')":1218.0999755859,
+    "('Volume', 'AXISBANK.NS')":5615400
+  }
+]

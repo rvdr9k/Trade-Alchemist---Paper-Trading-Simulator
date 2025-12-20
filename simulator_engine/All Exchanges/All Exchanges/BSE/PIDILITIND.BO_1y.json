@@ -1,0 +1,1986 @@
+[
+  {
+    "('Date', '')":"2024-11-13",
+    "('Close', 'PIDILITIND.BO')":1462.1253662109,
+    "('High', 'PIDILITIND.BO')":1487.4096633225,
+    "('Low', 'PIDILITIND.BO')":1454.8977949594,
+    "('Open', 'PIDILITIND.BO')":1482.2646126011,
+    "('Volume', 'PIDILITIND.BO')":36088
+  },
+  {
+    "('Date', '')":"2024-11-14",
+    "('Close', 'PIDILITIND.BO')":1480.5496826172,
+    "('High', 'PIDILITIND.BO')":1487.9488038459,
+    "('Low', 'PIDILITIND.BO')":1455.3389565281,
+    "('Open', 'PIDILITIND.BO')":1464.3549980887,
+    "('Volume', 'PIDILITIND.BO')":7270
+  },
+  {
+    "('Date', '')":"2024-11-18",
+    "('Close', 'PIDILITIND.BO')":1478.7365722656,
+    "('High', 'PIDILITIND.BO')":1496.4747228541,
+    "('Low', 'PIDILITIND.BO')":1474.914510737,
+    "('Open', 'PIDILITIND.BO')":1494.5637519049,
+    "('Volume', 'PIDILITIND.BO')":6940
+  },
+  {
+    "('Date', '')":"2024-11-19",
+    "('Close', 'PIDILITIND.BO')":1470.5291748047,
+    "('High', 'PIDILITIND.BO')":1508.161573662,
+    "('Low', 'PIDILITIND.BO')":1460.9986037774,
+    "('Open', 'PIDILITIND.BO')":1508.161573662,
+    "('Volume', 'PIDILITIND.BO')":9458
+  },
+  {
+    "('Date', '')":"2024-11-21",
+    "('Close', 'PIDILITIND.BO')":1439.5362548828,
+    "('High', 'PIDILITIND.BO')":1481.774648517,
+    "('Low', 'PIDILITIND.BO')":1434.7832318212,
+    "('Open', 'PIDILITIND.BO')":1481.774648517,
+    "('Volume', 'PIDILITIND.BO')":8076
+  },
+  {
+    "('Date', '')":"2024-11-22",
+    "('Close', 'PIDILITIND.BO')":1449.7283935547,
+    "('High', 'PIDILITIND.BO')":1458.0828805229,
+    "('Low', 'PIDILITIND.BO')":1429.8586730092,
+    "('Open', 'PIDILITIND.BO')":1433.2641827825,
+    "('Volume', 'PIDILITIND.BO')":4652
+  },
+  {
+    "('Date', '')":"2024-11-25",
+    "('Close', 'PIDILITIND.BO')":1464.2080078125,
+    "('High', 'PIDILITIND.BO')":1484.8617849087,
+    "('Low', 'PIDILITIND.BO')":1452.0069343734,
+    "('Open', 'PIDILITIND.BO')":1454.7264853342,
+    "('Volume', 'PIDILITIND.BO')":22460
+  },
+  {
+    "('Date', '')":"2024-11-26",
+    "('Close', 'PIDILITIND.BO')":1476.3355712891,
+    "('High', 'PIDILITIND.BO')":1484.3471984743,
+    "('Low', 'PIDILITIND.BO')":1465.0165309817,
+    "('Open', 'PIDILITIND.BO')":1470.0390807166,
+    "('Volume', 'PIDILITIND.BO')":19922
+  },
+  {
+    "('Date', '')":"2024-11-27",
+    "('Close', 'PIDILITIND.BO')":1492.1872558594,
+    "('High', 'PIDILITIND.BO')":1501.8158032221,
+    "('Low', 'PIDILITIND.BO')":1463.3014941412,
+    "('Open', 'PIDILITIND.BO')":1478.8346238186,
+    "('Volume', 'PIDILITIND.BO')":14228
+  },
+  {
+    "('Date', '')":"2024-11-28",
+    "('Close', 'PIDILITIND.BO')":1492.236328125,
+    "('High', 'PIDILITIND.BO')":1506.6914713,
+    "('Low', 'PIDILITIND.BO')":1471.1170710918,
+    "('Open', 'PIDILITIND.BO')":1506.6914713,
+    "('Volume', 'PIDILITIND.BO')":7450
+  },
+  {
+    "('Date', '')":"2024-11-29",
+    "('Close', 'PIDILITIND.BO')":1501.9873046875,
+    "('High', 'PIDILITIND.BO')":1505.147811914,
+    "('Low', 'PIDILITIND.BO')":1485.1555909302,
+    "('Open', 'PIDILITIND.BO')":1499.2188252509,
+    "('Volume', 'PIDILITIND.BO')":11642
+  },
+  {
+    "('Date', '')":"2024-12-02",
+    "('Close', 'PIDILITIND.BO')":1535.6018066406,
+    "('High', 'PIDILITIND.BO')":1539.9873262924,
+    "('Low', 'PIDILITIND.BO')":1498.3858411342,
+    "('Open', 'PIDILITIND.BO')":1509.1904724222,
+    "('Volume', 'PIDILITIND.BO')":16798
+  },
+  {
+    "('Date', '')":"2024-12-03",
+    "('Close', 'PIDILITIND.BO')":1541.7022705078,
+    "('High', 'PIDILITIND.BO')":1549.8853275079,
+    "('Low', 'PIDILITIND.BO')":1520.9015887264,
+    "('Open', 'PIDILITIND.BO')":1531.2896675329,
+    "('Volume', 'PIDILITIND.BO')":13488
+  },
+  {
+    "('Date', '')":"2024-12-04",
+    "('Close', 'PIDILITIND.BO')":1570.7105712891,
+    "('High', 'PIDILITIND.BO')":1572.9155931486,
+    "('Low', 'PIDILITIND.BO')":1535.7732010106,
+    "('Open', 'PIDILITIND.BO')":1537.9292941624,
+    "('Volume', 'PIDILITIND.BO')":11162
+  },
+  {
+    "('Date', '')":"2024-12-05",
+    "('Close', 'PIDILITIND.BO')":1561.3270263672,
+    "('High', 'PIDILITIND.BO')":1587.1257342761,
+    "('Low', 'PIDILITIND.BO')":1552.0169340698,
+    "('Open', 'PIDILITIND.BO')":1572.4255885434,
+    "('Volume', 'PIDILITIND.BO')":19578
+  },
+  {
+    "('Date', '')":"2024-12-06",
+    "('Close', 'PIDILITIND.BO')":1548.5867919922,
+    "('High', 'PIDILITIND.BO')":1567.7704329826,
+    "('Low', 'PIDILITIND.BO')":1542.8292353153,
+    "('Open', 'PIDILITIND.BO')":1567.7704329826,
+    "('Volume', 'PIDILITIND.BO')":7142
+  },
+  {
+    "('Date', '')":"2024-12-09",
+    "('Close', 'PIDILITIND.BO')":1550.8898925781,
+    "('High', 'PIDILITIND.BO')":1551.8453781208,
+    "('Low', 'PIDILITIND.BO')":1529.060152329,
+    "('Open', 'PIDILITIND.BO')":1538.6397711847,
+    "('Volume', 'PIDILITIND.BO')":12076
+  },
+  {
+    "('Date', '')":"2024-12-10",
+    "('Close', 'PIDILITIND.BO')":1573.0380859375,
+    "('High', 'PIDILITIND.BO')":1575.8556138541,
+    "('Low', 'PIDILITIND.BO')":1543.4662450829,
+    "('Open', 'PIDILITIND.BO')":1544.2748248718,
+    "('Volume', 'PIDILITIND.BO')":30932
+  },
+  {
+    "('Date', '')":"2024-12-11",
+    "('Close', 'PIDILITIND.BO')":1565.2958984375,
+    "('High', 'PIDILITIND.BO')":1587.7136193122,
+    "('Low', 'PIDILITIND.BO')":1557.0883175708,
+    "('Open', 'PIDILITIND.BO')":1580.3880710617,
+    "('Volume', 'PIDILITIND.BO')":7314
+  },
+  {
+    "('Date', '')":"2024-12-12",
+    "('Close', 'PIDILITIND.BO')":1562.8459472656,
+    "('High', 'PIDILITIND.BO')":1567.0355126655,
+    "('Low', 'PIDILITIND.BO')":1550.3262994032,
+    "('Open', 'PIDILITIND.BO')":1555.789925267,
+    "('Volume', 'PIDILITIND.BO')":16242
+  },
+  {
+    "('Date', '')":"2024-12-13",
+    "('Close', 'PIDILITIND.BO')":1561.08203125,
+    "('High', 'PIDILITIND.BO')":1577.5215986007,
+    "('Low', 'PIDILITIND.BO')":1537.1452459844,
+    "('Open', 'PIDILITIND.BO')":1577.5215986007,
+    "('Volume', 'PIDILITIND.BO')":5242
+  },
+  {
+    "('Date', '')":"2024-12-16",
+    "('Close', 'PIDILITIND.BO')":1564.3895263672,
+    "('High', 'PIDILITIND.BO')":1574.361053251,
+    "('Low', 'PIDILITIND.BO')":1556.0103956101,
+    "('Open', 'PIDILITIND.BO')":1561.473901816,
+    "('Volume', 'PIDILITIND.BO')":17332
+  },
+  {
+    "('Date', '')":"2024-12-17",
+    "('Close', 'PIDILITIND.BO')":1508.4798583984,
+    "('High', 'PIDILITIND.BO')":1563.1644448885,
+    "('Low', 'PIDILITIND.BO')":1506.5443632598,
+    "('Open', 'PIDILITIND.BO')":1557.1373615965,
+    "('Volume', 'PIDILITIND.BO')":20036
+  },
+  {
+    "('Date', '')":"2024-12-18",
+    "('Close', 'PIDILITIND.BO')":1498.7532958984,
+    "('High', 'PIDILITIND.BO')":1516.5650201585,
+    "('Low', 'PIDILITIND.BO')":1494.8332570741,
+    "('Open', 'PIDILITIND.BO')":1516.5404959898,
+    "('Volume', 'PIDILITIND.BO')":3656
+  },
+  {
+    "('Date', '')":"2024-12-19",
+    "('Close', 'PIDILITIND.BO')":1464.2814941406,
+    "('High', 'PIDILITIND.BO')":1494.2207182265,
+    "('Low', 'PIDILITIND.BO')":1461.9049228035,
+    "('Open', 'PIDILITIND.BO')":1494.2207182265,
+    "('Volume', 'PIDILITIND.BO')":26268
+  },
+  {
+    "('Date', '')":"2024-12-20",
+    "('Close', 'PIDILITIND.BO')":1458.107421875,
+    "('High', 'PIDILITIND.BO')":1478.663101599,
+    "('Low', 'PIDILITIND.BO')":1453.5503528013,
+    "('Open', 'PIDILITIND.BO')":1477.1686824966,
+    "('Volume', 'PIDILITIND.BO')":16044
+  },
+  {
+    "('Date', '')":"2024-12-23",
+    "('Close', 'PIDILITIND.BO')":1444.7302246094,
+    "('High', 'PIDILITIND.BO')":1482.1176178845,
+    "('Low', 'PIDILITIND.BO')":1441.3001907241,
+    "('Open', 'PIDILITIND.BO')":1482.1176178845,
+    "('Volume', 'PIDILITIND.BO')":12338
+  },
+  {
+    "('Date', '')":"2024-12-24",
+    "('Close', 'PIDILITIND.BO')":1455.1918945312,
+    "('High', 'PIDILITIND.BO')":1464.1344829899,
+    "('Low', 'PIDILITIND.BO')":1449.8508895504,
+    "('Open', 'PIDILITIND.BO')":1454.7509380209,
+    "('Volume', 'PIDILITIND.BO')":68630
+  },
+  {
+    "('Date', '')":"2024-12-26",
+    "('Close', 'PIDILITIND.BO')":1438.8012695312,
+    "('High', 'PIDILITIND.BO')":1457.7644333602,
+    "('Low', 'PIDILITIND.BO')":1434.2442004858,
+    "('Open', 'PIDILITIND.BO')":1455.1919078896,
+    "('Volume', 'PIDILITIND.BO')":16162
+  },
+  {
+    "('Date', '')":"2024-12-27",
+    "('Close', 'PIDILITIND.BO')":1426.4040527344,
+    "('High', 'PIDILITIND.BO')":1449.4097554576,
+    "('Low', 'PIDILITIND.BO')":1425.9140479069,
+    "('Open', 'PIDILITIND.BO')":1436.0081952046,
+    "('Volume', 'PIDILITIND.BO')":35120
+  },
+  {
+    "('Date', '')":"2024-12-30",
+    "('Close', 'PIDILITIND.BO')":1427.7515869141,
+    "('High', 'PIDILITIND.BO')":1441.4471981161,
+    "('Low', 'PIDILITIND.BO')":1404.8193367272,
+    "('Open', 'PIDILITIND.BO')":1430.8141171305,
+    "('Volume', 'PIDILITIND.BO')":22556
+  },
+  {
+    "('Date', '')":"2024-12-31",
+    "('Close', 'PIDILITIND.BO')":1423.0476074219,
+    "('High', 'PIDILITIND.BO')":1437.7722778162,
+    "('Low', 'PIDILITIND.BO')":1411.2140375631,
+    "('Open', 'PIDILITIND.BO')":1421.1856846042,
+    "('Volume', 'PIDILITIND.BO')":14342
+  },
+  {
+    "('Date', '')":"2025-01-01",
+    "('Close', 'PIDILITIND.BO')":1402.5408935547,
+    "('High', 'PIDILITIND.BO')":1433.5582242087,
+    "('Low', 'PIDILITIND.BO')":1398.7678801694,
+    "('Open', 'PIDILITIND.BO')":1417.118537712,
+    "('Volume', 'PIDILITIND.BO')":52232
+  },
+  {
+    "('Date', '')":"2025-01-02",
+    "('Close', 'PIDILITIND.BO')":1433.4600830078,
+    "('High', 'PIDILITIND.BO')":1436.5471373654,
+    "('Low', 'PIDILITIND.BO')":1405.7993342576,
+    "('Open', 'PIDILITIND.BO')":1416.0894356961,
+    "('Volume', 'PIDILITIND.BO')":42538
+  },
+  {
+    "('Date', '')":"2025-01-03",
+    "('Close', 'PIDILITIND.BO')":1436.0571289062,
+    "('High', 'PIDILITIND.BO')":1448.8463027995,
+    "('Low', 'PIDILITIND.BO')":1425.2770226646,
+    "('Open', 'PIDILITIND.BO')":1435.8366506591,
+    "('Volume', 'PIDILITIND.BO')":38070
+  },
+  {
+    "('Date', '')":"2025-01-06",
+    "('Close', 'PIDILITIND.BO')":1419.0540771484,
+    "('High', 'PIDILITIND.BO')":1445.7838662362,
+    "('Low', 'PIDILITIND.BO')":1406.3629991033,
+    "('Open', 'PIDILITIND.BO')":1433.2642181144,
+    "('Volume', 'PIDILITIND.BO')":69542
+  },
+  {
+    "('Date', '')":"2025-01-07",
+    "('Close', 'PIDILITIND.BO')":1432.0391845703,
+    "('High', 'PIDILITIND.BO')":1451.9334294775,
+    "('Low', 'PIDILITIND.BO')":1410.2830169237,
+    "('Open', 'PIDILITIND.BO')":1410.2830169237,
+    "('Volume', 'PIDILITIND.BO')":21974
+  },
+  {
+    "('Date', '')":"2025-01-08",
+    "('Close', 'PIDILITIND.BO')":1425.2525634766,
+    "('High', 'PIDILITIND.BO')":1444.2158469339,
+    "('Low', 'PIDILITIND.BO')":1410.3074155057,
+    "('Open', 'PIDILITIND.BO')":1441.3983190377,
+    "('Volume', 'PIDILITIND.BO')":9732
+  },
+  {
+    "('Date', '')":"2025-01-09",
+    "('Close', 'PIDILITIND.BO')":1449.6059570312,
+    "('High', 'PIDILITIND.BO')":1453.3544464399,
+    "('Low', 'PIDILITIND.BO')":1423.1211698449,
+    "('Open', 'PIDILITIND.BO')":1423.1211698449,
+    "('Volume', 'PIDILITIND.BO')":81074
+  },
+  {
+    "('Date', '')":"2025-01-10",
+    "('Close', 'PIDILITIND.BO')":1421.6511230469,
+    "('High', 'PIDILITIND.BO')":1457.0784983211,
+    "('Low', 'PIDILITIND.BO')":1419.8136048234,
+    "('Open', 'PIDILITIND.BO')":1457.0784983211,
+    "('Volume', 'PIDILITIND.BO')":17948
+  },
+  {
+    "('Date', '')":"2025-01-13",
+    "('Close', 'PIDILITIND.BO')":1370.396484375,
+    "('High', 'PIDILITIND.BO')":1416.015981908,
+    "('Low', 'PIDILITIND.BO')":1368.1180097671,
+    "('Open', 'PIDILITIND.BO')":1416.015981908,
+    "('Volume', 'PIDILITIND.BO')":114490
+  },
+  {
+    "('Date', '')":"2025-01-14",
+    "('Close', 'PIDILITIND.BO')":1376.4235839844,
+    "('High', 'PIDILITIND.BO')":1381.813637179,
+    "('Low', 'PIDILITIND.BO')":1364.7614449644,
+    "('Open', 'PIDILITIND.BO')":1370.4210247449,
+    "('Volume', 'PIDILITIND.BO')":19172
+  },
+  {
+    "('Date', '')":"2025-01-15",
+    "('Close', 'PIDILITIND.BO')":1372.3076171875,
+    "('High', 'PIDILITIND.BO')":1390.2171985738,
+    "('Low', 'PIDILITIND.BO')":1368.0935276671,
+    "('Open', 'PIDILITIND.BO')":1376.9381390482,
+    "('Volume', 'PIDILITIND.BO')":58512
+  },
+  {
+    "('Date', '')":"2025-01-16",
+    "('Close', 'PIDILITIND.BO')":1366.0109863281,
+    "('High', 'PIDILITIND.BO')":1396.4158104341,
+    "('Low', 'PIDILITIND.BO')":1358.538412553,
+    "('Open', 'PIDILITIND.BO')":1396.4158104341,
+    "('Volume', 'PIDILITIND.BO')":9670
+  },
+  {
+    "('Date', '')":"2025-01-17",
+    "('Close', 'PIDILITIND.BO')":1378.8245849609,
+    "('High', 'PIDILITIND.BO')":1392.5937689522,
+    "('Low', 'PIDILITIND.BO')":1353.0258777337,
+    "('Open', 'PIDILITIND.BO')":1365.0555205998,
+    "('Volume', 'PIDILITIND.BO')":27520
+  },
+  {
+    "('Date', '')":"2025-01-20",
+    "('Close', 'PIDILITIND.BO')":1365.5455322266,
+    "('High', 'PIDILITIND.BO')":1396.2442880544,
+    "('Low', 'PIDILITIND.BO')":1363.2180092022,
+    "('Open', 'PIDILITIND.BO')":1396.2442880544,
+    "('Volume', 'PIDILITIND.BO')":51782
+  },
+  {
+    "('Date', '')":"2025-01-21",
+    "('Close', 'PIDILITIND.BO')":1347.0233154297,
+    "('High', 'PIDILITIND.BO')":1379.5841133699,
+    "('Low', 'PIDILITIND.BO')":1343.1032766798,
+    "('Open', 'PIDILITIND.BO')":1378.9961314834,
+    "('Volume', 'PIDILITIND.BO')":13644
+  },
+  {
+    "('Date', '')":"2025-01-22",
+    "('Close', 'PIDILITIND.BO')":1349.5712890625,
+    "('High', 'PIDILITIND.BO')":1353.19739661,
+    "('Low', 'PIDILITIND.BO')":1335.9981790949,
+    "('Open', 'PIDILITIND.BO')":1350.9433265229,
+    "('Volume', 'PIDILITIND.BO')":13948
+  },
+  {
+    "('Date', '')":"2025-01-23",
+    "('Close', 'PIDILITIND.BO')":1425.4240722656,
+    "('High', 'PIDILITIND.BO')":1468.0544931275,
+    "('Low', 'PIDILITIND.BO')":1368.3875570335,
+    "('Open', 'PIDILITIND.BO')":1368.3875570335,
+    "('Volume', 'PIDILITIND.BO')":199766
+  },
+  {
+    "('Date', '')":"2025-01-24",
+    "('Close', 'PIDILITIND.BO')":1398.3269042969,
+    "('High', 'PIDILITIND.BO')":1441.9373386845,
+    "('Low', 'PIDILITIND.BO')":1392.9368506085,
+    "('Open', 'PIDILITIND.BO')":1433.1172508308,
+    "('Volume', 'PIDILITIND.BO')":12296
+  },
+  {
+    "('Date', '')":"2025-01-27",
+    "('Close', 'PIDILITIND.BO')":1405.4073486328,
+    "('High', 'PIDILITIND.BO')":1413.5660010818,
+    "('Low', 'PIDILITIND.BO')":1378.3591051091,
+    "('Open', 'PIDILITIND.BO')":1378.4081534456,
+    "('Volume', 'PIDILITIND.BO')":6742
+  },
+  {
+    "('Date', '')":"2025-01-28",
+    "('Close', 'PIDILITIND.BO')":1403.3004150391,
+    "('High', 'PIDILITIND.BO')":1412.6349115779,
+    "('Low', 'PIDILITIND.BO')":1396.5872529976,
+    "('Open', 'PIDILITIND.BO')":1396.5872529976,
+    "('Volume', 'PIDILITIND.BO')":21622
+  },
+  {
+    "('Date', '')":"2025-01-29",
+    "('Close', 'PIDILITIND.BO')":1415.060546875,
+    "('High', 'PIDILITIND.BO')":1419.6910687584,
+    "('Low', 'PIDILITIND.BO')":1396.7097696298,
+    "('Open', 'PIDILITIND.BO')":1403.4963846206,
+    "('Volume', 'PIDILITIND.BO')":8796
+  },
+  {
+    "('Date', '')":"2025-01-30",
+    "('Close', 'PIDILITIND.BO')":1415.2810058594,
+    "('High', 'PIDILITIND.BO')":1421.0140385717,
+    "('Low', 'PIDILITIND.BO')":1398.0328593862,
+    "('Open', 'PIDILITIND.BO')":1416.4324454574,
+    "('Volume', 'PIDILITIND.BO')":11616
+  },
+  {
+    "('Date', '')":"2025-01-31",
+    "('Close', 'PIDILITIND.BO')":1406.9998779297,
+    "('High', 'PIDILITIND.BO')":1432.4312014136,
+    "('Low', 'PIDILITIND.BO')":1394.4558255523,
+    "('Open', 'PIDILITIND.BO')":1432.4312014136,
+    "('Volume', 'PIDILITIND.BO')":22330
+  },
+  {
+    "('Date', '')":"2025-02-01",
+    "('Close', 'PIDILITIND.BO')":1444.6568603516,
+    "('High', 'PIDILITIND.BO')":1473.3955981723,
+    "('Low', 'PIDILITIND.BO')":1403.863954857,
+    "('Open', 'PIDILITIND.BO')":1427.7762164783,
+    "('Volume', 'PIDILITIND.BO')":11770
+  },
+  {
+    "('Date', '')":"2025-02-03",
+    "('Close', 'PIDILITIND.BO')":1449.8017578125,
+    "('High', 'PIDILITIND.BO')":1456.2697974955,
+    "('Low', 'PIDILITIND.BO')":1427.6780880928,
+    "('Open', 'PIDILITIND.BO')":1443.4071710003,
+    "('Volume', 'PIDILITIND.BO')":21290
+  },
+  {
+    "('Date', '')":"2025-02-04",
+    "('Close', 'PIDILITIND.BO')":1434.8566894531,
+    "('High', 'PIDILITIND.BO')":1463.6199499703,
+    "('Low', 'PIDILITIND.BO')":1429.2950866023,
+    "('Open', 'PIDILITIND.BO')":1450.6102973907,
+    "('Volume', 'PIDILITIND.BO')":9128
+  },
+  {
+    "('Date', '')":"2025-02-05",
+    "('Close', 'PIDILITIND.BO')":1415.5749511719,
+    "('High', 'PIDILITIND.BO')":1440.5651983075,
+    "('Low', 'PIDILITIND.BO')":1412.2184897562,
+    "('Open', 'PIDILITIND.BO')":1433.9991812259,
+    "('Volume', 'PIDILITIND.BO')":13022
+  },
+  {
+    "('Date', '')":"2025-02-06",
+    "('Close', 'PIDILITIND.BO')":1421.2099609375,
+    "('High', 'PIDILITIND.BO')":1428.7070587618,
+    "('Low', 'PIDILITIND.BO')":1408.4698353588,
+    "('Open', 'PIDILITIND.BO')":1422.6065225549,
+    "('Volume', 'PIDILITIND.BO')":4974
+  },
+  {
+    "('Date', '')":"2025-02-07",
+    "('Close', 'PIDILITIND.BO')":1406.6323242188,
+    "('High', 'PIDILITIND.BO')":1424.174521144,
+    "('Low', 'PIDILITIND.BO')":1396.3422227388,
+    "('Open', 'PIDILITIND.BO')":1418.6619667797,
+    "('Volume', 'PIDILITIND.BO')":13160
+  },
+  {
+    "('Date', '')":"2025-02-10",
+    "('Close', 'PIDILITIND.BO')":1404.6968994141,
+    "('High', 'PIDILITIND.BO')":1413.0269819817,
+    "('Low', 'PIDILITIND.BO')":1387.2282741168,
+    "('Open', 'PIDILITIND.BO')":1387.2282741168,
+    "('Volume', 'PIDILITIND.BO')":22822
+  },
+  {
+    "('Date', '')":"2025-02-11",
+    "('Close', 'PIDILITIND.BO')":1396.3668212891,
+    "('High', 'PIDILITIND.BO')":1405.8484631527,
+    "('Low', 'PIDILITIND.BO')":1386.713749503,
+    "('Open', 'PIDILITIND.BO')":1405.8484631527,
+    "('Volume', 'PIDILITIND.BO')":6598
+  },
+  {
+    "('Date', '')":"2025-02-12",
+    "('Close', 'PIDILITIND.BO')":1383.0877685547,
+    "('High', 'PIDILITIND.BO')":1396.5138538945,
+    "('Low', 'PIDILITIND.BO')":1373.9736302878,
+    "('Open', 'PIDILITIND.BO')":1396.5138538945,
+    "('Volume', 'PIDILITIND.BO')":8994
+  },
+  {
+    "('Date', '')":"2025-02-13",
+    "('Close', 'PIDILITIND.BO')":1379.5352783203,
+    "('High', 'PIDILITIND.BO')":1395.0929331651,
+    "('Low', 'PIDILITIND.BO')":1373.0916424097,
+    "('Open', 'PIDILITIND.BO')":1383.7982968242,
+    "('Volume', 'PIDILITIND.BO')":5476
+  },
+  {
+    "('Date', '')":"2025-02-14",
+    "('Close', 'PIDILITIND.BO')":1374.7331542969,
+    "('High', 'PIDILITIND.BO')":1384.0187224368,
+    "('Low', 'PIDILITIND.BO')":1360.4494408976,
+    "('Open', 'PIDILITIND.BO')":1383.4796692405,
+    "('Volume', 'PIDILITIND.BO')":17696
+  },
+  {
+    "('Date', '')":"2025-02-17",
+    "('Close', 'PIDILITIND.BO')":1363.2669677734,
+    "('High', 'PIDILITIND.BO')":1370.6170406431,
+    "('Low', 'PIDILITIND.BO')":1346.7783521545,
+    "('Open', 'PIDILITIND.BO')":1362.2135051808,
+    "('Volume', 'PIDILITIND.BO')":6784
+  },
+  {
+    "('Date', '')":"2025-02-18",
+    "('Close', 'PIDILITIND.BO')":1355.3044433594,
+    "('High', 'PIDILITIND.BO')":1374.4636819292,
+    "('Low', 'PIDILITIND.BO')":1351.7275034563,
+    "('Open', 'PIDILITIND.BO')":1370.5436429077,
+    "('Volume', 'PIDILITIND.BO')":12950
+  },
+  {
+    "('Date', '')":"2025-02-19",
+    "('Close', 'PIDILITIND.BO')":1356.9704589844,
+    "('High', 'PIDILITIND.BO')":1358.9550025587,
+    "('Low', 'PIDILITIND.BO')":1341.6332832087,
+    "('Open', 'PIDILITIND.BO')":1352.4133899401,
+    "('Volume', 'PIDILITIND.BO')":29050
+  },
+  {
+    "('Date', '')":"2025-02-20",
+    "('Close', 'PIDILITIND.BO')":1382.8182373047,
+    "('High', 'PIDILITIND.BO')":1385.7337422919,
+    "('Low', 'PIDILITIND.BO')":1348.6893270717,
+    "('Open', 'PIDILITIND.BO')":1356.8234555892,
+    "('Volume', 'PIDILITIND.BO')":13100
+  },
+  {
+    "('Date', '')":"2025-02-21",
+    "('Close', 'PIDILITIND.BO')":1369.1225585938,
+    "('High', 'PIDILITIND.BO')":1382.7691214831,
+    "('Low', 'PIDILITIND.BO')":1355.8924280365,
+    "('Open', 'PIDILITIND.BO')":1375.9335779545,
+    "('Volume', 'PIDILITIND.BO')":39932
+  },
+  {
+    "('Date', '')":"2025-02-24",
+    "('Close', 'PIDILITIND.BO')":1353.5893554688,
+    "('High', 'PIDILITIND.BO')":1369.00010377,
+    "('Low', 'PIDILITIND.BO')":1336.243231558,
+    "('Open', 'PIDILITIND.BO')":1369.00010377,
+    "('Volume', 'PIDILITIND.BO')":11910
+  },
+  {
+    "('Date', '')":"2025-02-25",
+    "('Close', 'PIDILITIND.BO')":1320.2690429688,
+    "('High', 'PIDILITIND.BO')":1359.6900295415,
+    "('Low', 'PIDILITIND.BO')":1318.6275984707,
+    "('Open', 'PIDILITIND.BO')":1359.6900295415,
+    "('Volume', 'PIDILITIND.BO')":68178
+  },
+  {
+    "('Date', '')":"2025-02-27",
+    "('Close', 'PIDILITIND.BO')":1311.5471191406,
+    "('High', 'PIDILITIND.BO')":1325.9286906945,
+    "('Low', 'PIDILITIND.BO')":1303.4129902218,
+    "('Open', 'PIDILITIND.BO')":1320.6611381964,
+    "('Volume', 'PIDILITIND.BO')":11792
+  },
+  {
+    "('Date', '')":"2025-02-28",
+    "('Close', 'PIDILITIND.BO')":1302.1633300781,
+    "('High', 'PIDILITIND.BO')":1315.6139389269,
+    "('Low', 'PIDILITIND.BO')":1294.7398046501,
+    "('Open', 'PIDILITIND.BO')":1315.6139389269,
+    "('Volume', 'PIDILITIND.BO')":11706
+  },
+  {
+    "('Date', '')":"2025-03-03",
+    "('Close', 'PIDILITIND.BO')":1314.6339111328,
+    "('High', 'PIDILITIND.BO')":1318.1129932794,
+    "('Low', 'PIDILITIND.BO')":1283.8861080368,
+    "('Open', 'PIDILITIND.BO')":1293.7843013112,
+    "('Volume', 'PIDILITIND.BO')":29198
+  },
+  {
+    "('Date', '')":"2025-03-04",
+    "('Close', 'PIDILITIND.BO')":1321.7145996094,
+    "('High', 'PIDILITIND.BO')":1327.6681105479,
+    "('Low', 'PIDILITIND.BO')":1294.9848117305,
+    "('Open', 'PIDILITIND.BO')":1313.1884436374,
+    "('Volume', 'PIDILITIND.BO')":21110
+  },
+  {
+    "('Date', '')":"2025-03-05",
+    "('Close', 'PIDILITIND.BO')":1319.4605712891,
+    "('High', 'PIDILITIND.BO')":1341.5842426065,
+    "('Low', 'PIDILITIND.BO')":1313.2620577348,
+    "('Open', 'PIDILITIND.BO')":1319.5830725026,
+    "('Volume', 'PIDILITIND.BO')":7934
+  },
+  {
+    "('Date', '')":"2025-03-06",
+    "('Close', 'PIDILITIND.BO')":1340.677734375,
+    "('High', 'PIDILITIND.BO')":1361.4049625378,
+    "('Low', 'PIDILITIND.BO')":1328.8685701611,
+    "('Open', 'PIDILITIND.BO')":1361.4049625378,
+    "('Volume', 'PIDILITIND.BO')":80448
+  },
+  {
+    "('Date', '')":"2025-03-07",
+    "('Close', 'PIDILITIND.BO')":1346.8273925781,
+    "('High', 'PIDILITIND.BO')":1354.2263941121,
+    "('Low', 'PIDILITIND.BO')":1334.9691793806,
+    "('Open', 'PIDILITIND.BO')":1334.9691793806,
+    "('Volume', 'PIDILITIND.BO')":65790
+  },
+  {
+    "('Date', '')":"2025-03-10",
+    "('Close', 'PIDILITIND.BO')":1338.1541748047,
+    "('High', 'PIDILITIND.BO')":1365.6925426217,
+    "('Low', 'PIDILITIND.BO')":1330.1426674182,
+    "('Open', 'PIDILITIND.BO')":1351.335376829,
+    "('Volume', 'PIDILITIND.BO')":101432
+  },
+  {
+    "('Date', '')":"2025-03-11",
+    "('Close', 'PIDILITIND.BO')":1333.744140625,
+    "('High', 'PIDILITIND.BO')":1341.1187374731,
+    "('Low', 'PIDILITIND.BO')":1316.0059891504,
+    "('Open', 'PIDILITIND.BO')":1316.0059891504,
+    "('Volume', 'PIDILITIND.BO')":205114
+  },
+  {
+    "('Date', '')":"2025-03-12",
+    "('Close', 'PIDILITIND.BO')":1346.7537841797,
+    "('High', 'PIDILITIND.BO')":1353.2463483367,
+    "('Low', 'PIDILITIND.BO')":1331.1226775706,
+    "('Open', 'PIDILITIND.BO')":1338.6932284541,
+    "('Volume', 'PIDILITIND.BO')":55432
+  },
+  {
+    "('Date', '')":"2025-03-13",
+    "('Close', 'PIDILITIND.BO')":1338.5953369141,
+    "('High', 'PIDILITIND.BO')":1370.1026741958,
+    "('Low', 'PIDILITIND.BO')":1334.1362447146,
+    "('Open', 'PIDILITIND.BO')":1370.1026741958,
+    "('Volume', 'PIDILITIND.BO')":9906
+  },
+  {
+    "('Date', '')":"2025-03-17",
+    "('Close', 'PIDILITIND.BO')":1346.5577392578,
+    "('High', 'PIDILITIND.BO')":1353.0748271433,
+    "('Low', 'PIDILITIND.BO')":1335.826562163,
+    "('Open', 'PIDILITIND.BO')":1338.6196852783,
+    "('Volume', 'PIDILITIND.BO')":11030
+  },
+  {
+    "('Date', '')":"2025-03-18",
+    "('Close', 'PIDILITIND.BO')":1337.7376708984,
+    "('High', 'PIDILITIND.BO')":1353.1237742579,
+    "('Low', 'PIDILITIND.BO')":1333.7931082064,
+    "('Open', 'PIDILITIND.BO')":1347.8807466564,
+    "('Volume', 'PIDILITIND.BO')":8540
+  },
+  {
+    "('Date', '')":"2025-03-19",
+    "('Close', 'PIDILITIND.BO')":1338.0073242188,
+    "('High', 'PIDILITIND.BO')":1351.3109083719,
+    "('Low', 'PIDILITIND.BO')":1337.0517190336,
+    "('Open', 'PIDILITIND.BO')":1351.3109083719,
+    "('Volume', 'PIDILITIND.BO')":18176
+  },
+  {
+    "('Date', '')":"2025-03-20",
+    "('Close', 'PIDILITIND.BO')":1352.3399658203,
+    "('High', 'PIDILITIND.BO')":1358.0484746088,
+    "('Low', 'PIDILITIND.BO')":1336.2432582566,
+    "('Open', 'PIDILITIND.BO')":1349.5224378647,
+    "('Volume', 'PIDILITIND.BO')":8600
+  },
+  {
+    "('Date', '')":"2025-03-21",
+    "('Close', 'PIDILITIND.BO')":1384.9986572266,
+    "('High', 'PIDILITIND.BO')":1389.1391741297,
+    "('Low', 'PIDILITIND.BO')":1352.4867887812,
+    "('Open', 'PIDILITIND.BO')":1357.2888600594,
+    "('Volume', 'PIDILITIND.BO')":32460
+  },
+  {
+    "('Date', '')":"2025-03-24",
+    "('Close', 'PIDILITIND.BO')":1383.2102050781,
+    "('High', 'PIDILITIND.BO')":1401.3893127935,
+    "('Low', 'PIDILITIND.BO')":1370.347578078,
+    "('Open', 'PIDILITIND.BO')":1401.3893127935,
+    "('Volume', 'PIDILITIND.BO')":29274
+  },
+  {
+    "('Date', '')":"2025-03-25",
+    "('Close', 'PIDILITIND.BO')":1383.0877685547,
+    "('High', 'PIDILITIND.BO')":1401.4139025046,
+    "('Low', 'PIDILITIND.BO')":1375.4436448708,
+    "('Open', 'PIDILITIND.BO')":1386.4932784127,
+    "('Volume', 'PIDILITIND.BO')":24818
+  },
+  {
+    "('Date', '')":"2025-03-26",
+    "('Close', 'PIDILITIND.BO')":1395.6318359375,
+    "('High', 'PIDILITIND.BO')":1410.2340048758,
+    "('Low', 'PIDILITIND.BO')":1376.9871268532,
+    "('Open', 'PIDILITIND.BO')":1383.4307626216,
+    "('Volume', 'PIDILITIND.BO')":21542
+  },
+  {
+    "('Date', '')":"2025-03-27",
+    "('Close', 'PIDILITIND.BO')":1403.5698242188,
+    "('High', 'PIDILITIND.BO')":1408.2493943947,
+    "('Low', 'PIDILITIND.BO')":1368.0935214431,
+    "('Open', 'PIDILITIND.BO')":1391.5157768609,
+    "('Volume', 'PIDILITIND.BO')":29500
+  },
+  {
+    "('Date', '')":"2025-03-28",
+    "('Close', 'PIDILITIND.BO')":1396.1707763672,
+    "('High', 'PIDILITIND.BO')":1413.075942885,
+    "('Low', 'PIDILITIND.BO')":1384.802688316,
+    "('Open', 'PIDILITIND.BO')":1384.802688316,
+    "('Volume', 'PIDILITIND.BO')":10738
+  },
+  {
+    "('Date', '')":"2025-04-01",
+    "('Close', 'PIDILITIND.BO')":1385.9541015625,
+    "('High', 'PIDILITIND.BO')":1408.5923001957,
+    "('Low', 'PIDILITIND.BO')":1382.1320400616,
+    "('Open', 'PIDILITIND.BO')":1396.1707498552,
+    "('Volume', 'PIDILITIND.BO')":17474
+  },
+  {
+    "('Date', '')":"2025-04-02",
+    "('Close', 'PIDILITIND.BO')":1396.3668212891,
+    "('High', 'PIDILITIND.BO')":1403.9618965955,
+    "('Low', 'PIDILITIND.BO')":1378.4571197855,
+    "('Open', 'PIDILITIND.BO')":1393.7697716131,
+    "('Volume', 'PIDILITIND.BO')":18972
+  },
+  {
+    "('Date', '')":"2025-04-03",
+    "('Close', 'PIDILITIND.BO')":1402.58984375,
+    "('High', 'PIDILITIND.BO')":1404.1579549841,
+    "('Low', 'PIDILITIND.BO')":1384.2637100949,
+    "('Open', 'PIDILITIND.BO')":1384.2637100949,
+    "('Volume', 'PIDILITIND.BO')":7914
+  },
+  {
+    "('Date', '')":"2025-04-04",
+    "('Close', 'PIDILITIND.BO')":1417.6086425781,
+    "('High', 'PIDILITIND.BO')":1423.6112023605,
+    "('Low', 'PIDILITIND.BO')":1397.2489158799,
+    "('Open', 'PIDILITIND.BO')":1402.1734888519,
+    "('Volume', 'PIDILITIND.BO')":30360
+  },
+  {
+    "('Date', '')":"2025-04-07",
+    "('Close', 'PIDILITIND.BO')":1394.8233642578,
+    "('High', 'PIDILITIND.BO')":1400.9484250346,
+    "('Low', 'PIDILITIND.BO')":1323.0376519539,
+    "('Open', 'PIDILITIND.BO')":1323.0376519539,
+    "('Volume', 'PIDILITIND.BO')":58994
+  },
+  {
+    "('Date', '')":"2025-04-08",
+    "('Close', 'PIDILITIND.BO')":1436.2042236328,
+    "('High', 'PIDILITIND.BO')":1443.0642915724,
+    "('Low', 'PIDILITIND.BO')":1397.0038354067,
+    "('Open', 'PIDILITIND.BO')":1397.0038354067,
+    "('Volume', 'PIDILITIND.BO')":18034
+  },
+  {
+    "('Date', '')":"2025-04-09",
+    "('Close', 'PIDILITIND.BO')":1439.1442871094,
+    "('High', 'PIDILITIND.BO')":1456.7844622323,
+    "('Low', 'PIDILITIND.BO')":1428.1191776576,
+    "('Open', 'PIDILITIND.BO')":1428.8541849544,
+    "('Volume', 'PIDILITIND.BO')":25222
+  },
+  {
+    "('Date', '')":"2025-04-11",
+    "('Close', 'PIDILITIND.BO')":1445.3673095703,
+    "('High', 'PIDILITIND.BO')":1476.8746459497,
+    "('Low', 'PIDILITIND.BO')":1430.9612145587,
+    "('Open', 'PIDILITIND.BO')":1476.8746459497,
+    "('Volume', 'PIDILITIND.BO')":14108
+  },
+  {
+    "('Date', '')":"2025-04-15",
+    "('Close', 'PIDILITIND.BO')":1465.9720458984,
+    "('High', 'PIDILITIND.BO')":1468.544571424,
+    "('Low', 'PIDILITIND.BO')":1443.2847968617,
+    "('Open', 'PIDILITIND.BO')":1452.9378687171,
+    "('Volume', 'PIDILITIND.BO')":10632
+  },
+  {
+    "('Date', '')":"2025-04-16",
+    "('Close', 'PIDILITIND.BO')":1482.2155761719,
+    "('High', 'PIDILITIND.BO')":1484.9596510974,
+    "('Low', 'PIDILITIND.BO')":1461.4148948713,
+    "('Open', 'PIDILITIND.BO')":1465.6044601327,
+    "('Volume', 'PIDILITIND.BO')":21220
+  },
+  {
+    "('Date', '')":"2025-04-17",
+    "('Close', 'PIDILITIND.BO')":1486.7237548828,
+    "('High', 'PIDILITIND.BO')":1496.2788494041,
+    "('Low', 'PIDILITIND.BO')":1477.0950878564,
+    "('Open', 'PIDILITIND.BO')":1481.7746580736,
+    "('Volume', 'PIDILITIND.BO')":5412
+  },
+  {
+    "('Date', '')":"2025-04-21",
+    "('Close', 'PIDILITIND.BO')":1479.7166748047,
+    "('High', 'PIDILITIND.BO')":1494.5147973972,
+    "('Low', 'PIDILITIND.BO')":1469.9900306483,
+    "('Open', 'PIDILITIND.BO')":1489.6147488811,
+    "('Volume', 'PIDILITIND.BO')":7242
+  },
+  {
+    "('Date', '')":"2025-04-22",
+    "('Close', 'PIDILITIND.BO')":1483.9061279297,
+    "('High', 'PIDILITIND.BO')":1501.8647565301,
+    "('Low', 'PIDILITIND.BO')":1479.8145398763,
+    "('Open', 'PIDILITIND.BO')":1479.8145398763,
+    "('Volume', 'PIDILITIND.BO')":19056
+  },
+  {
+    "('Date', '')":"2025-04-23",
+    "('Close', 'PIDILITIND.BO')":1502.5998535156,
+    "('High', 'PIDILITIND.BO')":1504.3148704689,
+    "('Low', 'PIDILITIND.BO')":1480.9661875138,
+    "('Open', 'PIDILITIND.BO')":1483.2937105219,
+    "('Volume', 'PIDILITIND.BO')":6860
+  },
+  {
+    "('Date', '')":"2025-04-24",
+    "('Close', 'PIDILITIND.BO')":1506.8139648438,
+    "('High', 'PIDILITIND.BO')":1513.1349795683,
+    "('Low', 'PIDILITIND.BO')":1494.5147952342,
+    "('Open', 'PIDILITIND.BO')":1502.8448776995,
+    "('Volume', 'PIDILITIND.BO')":7178
+  },
+  {
+    "('Date', '')":"2025-04-25",
+    "('Close', 'PIDILITIND.BO')":1472.8565673828,
+    "('High', 'PIDILITIND.BO')":1516.1240185453,
+    "('Low', 'PIDILITIND.BO')":1462.590989943,
+    "('Open', 'PIDILITIND.BO')":1495.4702428259,
+    "('Volume', 'PIDILITIND.BO')":9966
+  },
+  {
+    "('Date', '')":"2025-04-28",
+    "('Close', 'PIDILITIND.BO')":1490.1047363281,
+    "('High', 'PIDILITIND.BO')":1494.5147799411,
+    "('Low', 'PIDILITIND.BO')":1468.7895255322,
+    "('Open', 'PIDILITIND.BO')":1469.4754844644,
+    "('Volume', 'PIDILITIND.BO')":62340
+  },
+  {
+    "('Date', '')":"2025-04-29",
+    "('Close', 'PIDILITIND.BO')":1472.4155273438,
+    "('High', 'PIDILITIND.BO')":1503.3103570923,
+    "('Low', 'PIDILITIND.BO')":1470.1615768096,
+    "('Open', 'PIDILITIND.BO')":1474.9391241018,
+    "('Volume', 'PIDILITIND.BO')":10254
+  },
+  {
+    "('Date', '')":"2025-04-30",
+    "('Close', 'PIDILITIND.BO')":1485.2045898438,
+    "('High', 'PIDILITIND.BO')":1490.5946427927,
+    "('Low', 'PIDILITIND.BO')":1464.5264106383,
+    "('Open', 'PIDILITIND.BO')":1470.1859901607,
+    "('Volume', 'PIDILITIND.BO')":7460
+  },
+  {
+    "('Date', '')":"2025-05-02",
+    "('Close', 'PIDILITIND.BO')":1473.7386474609,
+    "('High', 'PIDILITIND.BO')":1486.5031782098,
+    "('Low', 'PIDILITIND.BO')":1466.5110758609,
+    "('Open', 'PIDILITIND.BO')":1475.4046161133,
+    "('Volume', 'PIDILITIND.BO')":5478
+  },
+  {
+    "('Date', '')":"2025-05-05",
+    "('Close', 'PIDILITIND.BO')":1485.4495849609,
+    "('High', 'PIDILITIND.BO')":1507.4507531289,
+    "('Low', 'PIDILITIND.BO')":1465.6289142765,
+    "('Open', 'PIDILITIND.BO')":1465.6289142765,
+    "('Volume', 'PIDILITIND.BO')":11358
+  },
+  {
+    "('Date', '')":"2025-05-06",
+    "('Close', 'PIDILITIND.BO')":1471.4846191406,
+    "('High', 'PIDILITIND.BO')":1490.1538524703,
+    "('Low', 'PIDILITIND.BO')":1460.1165301249,
+    "('Open', 'PIDILITIND.BO')":1484.7147505814,
+    "('Volume', 'PIDILITIND.BO')":7392
+  },
+  {
+    "('Date', '')":"2025-05-07",
+    "('Close', 'PIDILITIND.BO')":1461.0474853516,
+    "('High', 'PIDILITIND.BO')":1465.8005086268,
+    "('Low', 'PIDILITIND.BO')":1435.5917564832,
+    "('Open', 'PIDILITIND.BO')":1435.5917564832,
+    "('Volume', 'PIDILITIND.BO')":7078
+  },
+  {
+    "('Date', '')":"2025-05-08",
+    "('Close', 'PIDILITIND.BO')":1448.4298095703,
+    "('High', 'PIDILITIND.BO')":1468.0300035316,
+    "('Low', 'PIDILITIND.BO')":1440.8837827473,
+    "('Open', 'PIDILITIND.BO')":1461.9049429187,
+    "('Volume', 'PIDILITIND.BO')":18916
+  },
+  {
+    "('Date', '')":"2025-05-09",
+    "('Close', 'PIDILITIND.BO')":1458.646484375,
+    "('High', 'PIDILITIND.BO')":1485.474250335,
+    "('Low', 'PIDILITIND.BO')":1422.5331502873,
+    "('Open', 'PIDILITIND.BO')":1422.5331502873,
+    "('Volume', 'PIDILITIND.BO')":31906
+  },
+  {
+    "('Date', '')":"2025-05-12",
+    "('Close', 'PIDILITIND.BO')":1507.2059326172,
+    "('High', 'PIDILITIND.BO')":1511.9590755629,
+    "('Low', 'PIDILITIND.BO')":1482.2647325724,
+    "('Open', 'PIDILITIND.BO')":1491.5993492771,
+    "('Volume', 'PIDILITIND.BO')":11348
+  },
+  {
+    "('Date', '')":"2025-05-13",
+    "('Close', 'PIDILITIND.BO')":1519.9460449219,
+    "('High', 'PIDILITIND.BO')":1532.171762024,
+    "('Low', 'PIDILITIND.BO')":1504.3149375595,
+    "('Open', 'PIDILITIND.BO')":1514.2130119197,
+    "('Volume', 'PIDILITIND.BO')":205654
+  },
+  {
+    "('Date', '')":"2025-05-14",
+    "('Close', 'PIDILITIND.BO')":1523.1800537109,
+    "('High', 'PIDILITIND.BO')":1528.7171323601,
+    "('Low', 'PIDILITIND.BO')":1515.0949738054,
+    "('Open', 'PIDILITIND.BO')":1520.2400246544,
+    "('Volume', 'PIDILITIND.BO')":18694
+  },
+  {
+    "('Date', '')":"2025-05-15",
+    "('Close', 'PIDILITIND.BO')":1524.5275878906,
+    "('High', 'PIDILITIND.BO')":1540.2567914104,
+    "('Low', 'PIDILITIND.BO')":1521.4650575815,
+    "('Open', 'PIDILITIND.BO')":1536.1406788969,
+    "('Volume', 'PIDILITIND.BO')":22124
+  },
+  {
+    "('Date', '')":"2025-05-16",
+    "('Close', 'PIDILITIND.BO')":1514.4334716797,
+    "('High', 'PIDILITIND.BO')":1543.490783784,
+    "('Low', 'PIDILITIND.BO')":1508.6024617017,
+    "('Open', 'PIDILITIND.BO')":1543.490783784,
+    "('Volume', 'PIDILITIND.BO')":7710
+  },
+  {
+    "('Date', '')":"2025-05-19",
+    "('Close', 'PIDILITIND.BO')":1502.9183349609,
+    "('High', 'PIDILITIND.BO')":1521.9550713259,
+    "('Low', 'PIDILITIND.BO')":1500.3948578235,
+    "('Open', 'PIDILITIND.BO')":1515.3400058194,
+    "('Volume', 'PIDILITIND.BO')":4764
+  },
+  {
+    "('Date', '')":"2025-05-20",
+    "('Close', 'PIDILITIND.BO')":1472.2685546875,
+    "('High', 'PIDILITIND.BO')":1508.1858128911,
+    "('Low', 'PIDILITIND.BO')":1470.0144846257,
+    "('Open', 'PIDILITIND.BO')":1499.7332296045,
+    "('Volume', 'PIDILITIND.BO')":9896
+  },
+  {
+    "('Date', '')":"2025-05-21",
+    "('Close', 'PIDILITIND.BO')":1463.3504638672,
+    "('High', 'PIDILITIND.BO')":1478.8346652721,
+    "('Low', 'PIDILITIND.BO')":1456.122892193,
+    "('Open', 'PIDILITIND.BO')":1472.1461467951,
+    "('Volume', 'PIDILITIND.BO')":76258
+  },
+  {
+    "('Date', '')":"2025-05-22",
+    "('Close', 'PIDILITIND.BO')":1467.5155029297,
+    "('High', 'PIDILITIND.BO')":1472.4400756838,
+    "('Low', 'PIDILITIND.BO')":1454.8244249461,
+    "('Open', 'PIDILITIND.BO')":1472.4400756838,
+    "('Volume', 'PIDILITIND.BO')":12826
+  },
+  {
+    "('Date', '')":"2025-05-23",
+    "('Close', 'PIDILITIND.BO')":1482.6812744141,
+    "('High', 'PIDILITIND.BO')":1489.5902712595,
+    "('Low', 'PIDILITIND.BO')":1457.9360286347,
+    "('Open', 'PIDILITIND.BO')":1465.2861016385,
+    "('Volume', 'PIDILITIND.BO')":19482
+  },
+  {
+    "('Date', '')":"2025-05-26",
+    "('Close', 'PIDILITIND.BO')":1491.6727294922,
+    "('High', 'PIDILITIND.BO')":1505.5153664031,
+    "('Low', 'PIDILITIND.BO')":1483.0241918052,
+    "('Open', 'PIDILITIND.BO')":1483.0241918052,
+    "('Volume', 'PIDILITIND.BO')":10496
+  },
+  {
+    "('Date', '')":"2025-05-27",
+    "('Close', 'PIDILITIND.BO')":1484.2491455078,
+    "('High', 'PIDILITIND.BO')":1493.5837613904,
+    "('Low', 'PIDILITIND.BO')":1475.5270356591,
+    "('Open', 'PIDILITIND.BO')":1489.908725187,
+    "('Volume', 'PIDILITIND.BO')":8030
+  },
+  {
+    "('Date', '')":"2025-05-28",
+    "('Close', 'PIDILITIND.BO')":1469.9899902344,
+    "('High', 'PIDILITIND.BO')":1485.3762139298,
+    "('Low', 'PIDILITIND.BO')":1466.1189998652,
+    "('Open', 'PIDILITIND.BO')":1473.0279963048,
+    "('Volume', 'PIDILITIND.BO')":13132
+  },
+  {
+    "('Date', '')":"2025-05-29",
+    "('Close', 'PIDILITIND.BO')":1484.1267089844,
+    "('High', 'PIDILITIND.BO')":1492.0647636036,
+    "('Low', 'PIDILITIND.BO')":1466.6090356514,
+    "('Open', 'PIDILITIND.BO')":1466.6090356514,
+    "('Volume', 'PIDILITIND.BO')":9520
+  },
+  {
+    "('Date', '')":"2025-05-30",
+    "('Close', 'PIDILITIND.BO')":1522.0285644531,
+    "('High', 'PIDILITIND.BO')":1532.3677149627,
+    "('Low', 'PIDILITIND.BO')":1469.7941175918,
+    "('Open', 'PIDILITIND.BO')":1469.7941175918,
+    "('Volume', 'PIDILITIND.BO')":364984
+  },
+  {
+    "('Date', '')":"2025-06-02",
+    "('Close', 'PIDILITIND.BO')":1509.7540283203,
+    "('High', 'PIDILITIND.BO')":1533.0292592678,
+    "('Low', 'PIDILITIND.BO')":1502.0119275739,
+    "('Open', 'PIDILITIND.BO')":1527.4431320623,
+    "('Volume', 'PIDILITIND.BO')":15794
+  },
+  {
+    "('Date', '')":"2025-06-03",
+    "('Close', 'PIDILITIND.BO')":1516.5649414062,
+    "('High', 'PIDILITIND.BO')":1526.9530198252,
+    "('Low', 'PIDILITIND.BO')":1507.0343714355,
+    "('Open', 'PIDILITIND.BO')":1523.44953316,
+    "('Volume', 'PIDILITIND.BO')":17340
+  },
+  {
+    "('Date', '')":"2025-06-04",
+    "('Close', 'PIDILITIND.BO')":1515.8544921875,
+    "('High', 'PIDILITIND.BO')":1524.723507987,
+    "('Low', 'PIDILITIND.BO')":1510.1949123764,
+    "('Open', 'PIDILITIND.BO')":1513.2574426172,
+    "('Volume', 'PIDILITIND.BO')":7880
+  },
+  {
+    "('Date', '')":"2025-06-05",
+    "('Close', 'PIDILITIND.BO')":1495.1762695312,
+    "('High', 'PIDILITIND.BO')":1528.3985009381,
+    "('Low', 'PIDILITIND.BO')":1491.3296838058,
+    "('Open', 'PIDILITIND.BO')":1511.1994033711,
+    "('Volume', 'PIDILITIND.BO')":9934
+  },
+  {
+    "('Date', '')":"2025-06-06",
+    "('Close', 'PIDILITIND.BO')":1494.0738525391,
+    "('High', 'PIDILITIND.BO')":1512.302009235,
+    "('Low', 'PIDILITIND.BO')":1490.2027424031,
+    "('Open', 'PIDILITIND.BO')":1512.302009235,
+    "('Volume', 'PIDILITIND.BO')":29232
+  },
+  {
+    "('Date', '')":"2025-06-09",
+    "('Close', 'PIDILITIND.BO')":1498.3123779297,
+    "('High', 'PIDILITIND.BO')":1503.5799302354,
+    "('Low', 'PIDILITIND.BO')":1476.9971662741,
+    "('Open', 'PIDILITIND.BO')":1485.6212997615,
+    "('Volume', 'PIDILITIND.BO')":14882
+  },
+  {
+    "('Date', '')":"2025-06-10",
+    "('Close', 'PIDILITIND.BO')":1508.1368408203,
+    "('High', 'PIDILITIND.BO')":1518.0103899728,
+    "('Low', 'PIDILITIND.BO')":1502.4282129578,
+    "('Open', 'PIDILITIND.BO')":1502.4282129578,
+    "('Volume', 'PIDILITIND.BO')":19448
+  },
+  {
+    "('Date', '')":"2025-06-11",
+    "('Close', 'PIDILITIND.BO')":1499.0717773438,
+    "('High', 'PIDILITIND.BO')":1514.7028833289,
+    "('Low', 'PIDILITIND.BO')":1496.4992520257,
+    "('Open', 'PIDILITIND.BO')":1514.7028833289,
+    "('Volume', 'PIDILITIND.BO')":9048
+  },
+  {
+    "('Date', '')":"2025-06-12",
+    "('Close', 'PIDILITIND.BO')":1493.2164306641,
+    "('High', 'PIDILITIND.BO')":1504.9520237063,
+    "('Low', 'PIDILITIND.BO')":1485.6948078449,
+    "('Open', 'PIDILITIND.BO')":1499.6108986943,
+    "('Volume', 'PIDILITIND.BO')":7458
+  },
+  {
+    "('Date', '')":"2025-06-13",
+    "('Close', 'PIDILITIND.BO')":1474.9390869141,
+    "('High', 'PIDILITIND.BO')":1479.7411582537,
+    "('Low', 'PIDILITIND.BO')":1412.071442257,
+    "('Open', 'PIDILITIND.BO')":1450.8308728045,
+    "('Volume', 'PIDILITIND.BO')":27348
+  },
+  {
+    "('Date', '')":"2025-06-16",
+    "('Close', 'PIDILITIND.BO')":1468.9854736328,
+    "('High', 'PIDILITIND.BO')":1489.6147254124,
+    "('Low', 'PIDILITIND.BO')":1466.9029530463,
+    "('Open', 'PIDILITIND.BO')":1474.8900559277,
+    "('Volume', 'PIDILITIND.BO')":10274
+  },
+  {
+    "('Date', '')":"2025-06-17",
+    "('Close', 'PIDILITIND.BO')":1478.1730957031,
+    "('High', 'PIDILITIND.BO')":1482.0687299984,
+    "('Low', 'PIDILITIND.BO')":1465.1145141896,
+    "('Open', 'PIDILITIND.BO')":1467.6870396743,
+    "('Volume', 'PIDILITIND.BO')":5462
+  },
+  {
+    "('Date', '')":"2025-06-18",
+    "('Close', 'PIDILITIND.BO')":1454.2852783203,
+    "('High', 'PIDILITIND.BO')":1478.34456318,
+    "('Low', 'PIDILITIND.BO')":1451.8843025198,
+    "('Open', 'PIDILITIND.BO')":1475.7720378381,
+    "('Volume', 'PIDILITIND.BO')":11614
+  },
+  {
+    "('Date', '')":"2025-06-19",
+    "('Close', 'PIDILITIND.BO')":1454.4079589844,
+    "('High', 'PIDILITIND.BO')":1459.3080078594,
+    "('Low', 'PIDILITIND.BO')":1446.5924049548,
+    "('Open', 'PIDILITIND.BO')":1454.2610532222,
+    "('Volume', 'PIDILITIND.BO')":4632
+  },
+  {
+    "('Date', '')":"2025-06-20",
+    "('Close', 'PIDILITIND.BO')":1447.8908691406,
+    "('High', 'PIDILITIND.BO')":1460.2144431832,
+    "('Low', 'PIDILITIND.BO')":1443.0642735485,
+    "('Open', 'PIDILITIND.BO')":1446.2493050521,
+    "('Volume', 'PIDILITIND.BO')":10060
+  },
+  {
+    "('Date', '')":"2025-06-23",
+    "('Close', 'PIDILITIND.BO')":1446.5434570312,
+    "('High', 'PIDILITIND.BO')":1447.9644233341,
+    "('Low', 'PIDILITIND.BO')":1437.4047942227,
+    "('Open', 'PIDILITIND.BO')":1445.4898747591,
+    "('Volume', 'PIDILITIND.BO')":43624
+  },
+  {
+    "('Date', '')":"2025-06-24",
+    "('Close', 'PIDILITIND.BO')":1470.4554443359,
+    "('High', 'PIDILITIND.BO')":1483.2446182322,
+    "('Low', 'PIDILITIND.BO')":1464.0364528504,
+    "('Open', 'PIDILITIND.BO')":1481.2845989151,
+    "('Volume', 'PIDILITIND.BO')":62030
+  },
+  {
+    "('Date', '')":"2025-06-25",
+    "('Close', 'PIDILITIND.BO')":1472.6115722656,
+    "('High', 'PIDILITIND.BO')":1485.5967005493,
+    "('Low', 'PIDILITIND.BO')":1455.314377456,
+    "('Open', 'PIDILITIND.BO')":1470.8965553225,
+    "('Volume', 'PIDILITIND.BO')":1515024
+  },
+  {
+    "('Date', '')":"2025-06-26",
+    "('Close', 'PIDILITIND.BO')":1479.8392333984,
+    "('High', 'PIDILITIND.BO')":1482.2402094124,
+    "('Low', 'PIDILITIND.BO')":1470.0146118168,
+    "('Open', 'PIDILITIND.BO')":1472.8811881619,
+    "('Volume', 'PIDILITIND.BO')":9768
+  },
+  {
+    "('Date', '')":"2025-06-27",
+    "('Close', 'PIDILITIND.BO')":1495.7397460938,
+    "('High', 'PIDILITIND.BO')":1500.3947919866,
+    "('Low', 'PIDILITIND.BO')":1474.9145407837,
+    "('Open', 'PIDILITIND.BO')":1474.9145407837,
+    "('Volume', 'PIDILITIND.BO')":18472
+  },
+  {
+    "('Date', '')":"2025-06-30",
+    "('Close', 'PIDILITIND.BO')":1496.8913574219,
+    "('High', 'PIDILITIND.BO')":1504.4619083957,
+    "('Low', 'PIDILITIND.BO')":1488.1692472035,
+    "('Open', 'PIDILITIND.BO')":1503.0898708956,
+    "('Volume', 'PIDILITIND.BO')":8386
+  },
+  {
+    "('Date', '')":"2025-07-01",
+    "('Close', 'PIDILITIND.BO')":1492.015625,
+    "('High', 'PIDILITIND.BO')":1510.1948516306,
+    "('Low', 'PIDILITIND.BO')":1484.8371022562,
+    "('Open', 'PIDILITIND.BO')":1484.8371022562,
+    "('Volume', 'PIDILITIND.BO')":14944
+  },
+  {
+    "('Date', '')":"2025-07-02",
+    "('Close', 'PIDILITIND.BO')":1507.7204589844,
+    "('High', 'PIDILITIND.BO')":1509.4600001968,
+    "('Low', 'PIDILITIND.BO')":1479.0796982938,
+    "('Open', 'PIDILITIND.BO')":1488.9288440208,
+    "('Volume', 'PIDILITIND.BO')":8776
+  },
+  {
+    "('Date', '')":"2025-07-03",
+    "('Close', 'PIDILITIND.BO')":1525.8260498047,
+    "('High', 'PIDILITIND.BO')":1530.5546683705,
+    "('Low', 'PIDILITIND.BO')":1511.6649575359,
+    "('Open', 'PIDILITIND.BO')":1511.6649575359,
+    "('Volume', 'PIDILITIND.BO')":36030
+  },
+  {
+    "('Date', '')":"2025-07-04",
+    "('Close', 'PIDILITIND.BO')":1508.626953125,
+    "('High', 'PIDILITIND.BO')":1533.4456508764,
+    "('Low', 'PIDILITIND.BO')":1499.9048428862,
+    "('Open', 'PIDILITIND.BO')":1533.4456508764,
+    "('Volume', 'PIDILITIND.BO')":23652
+  },
+  {
+    "('Date', '')":"2025-07-07",
+    "('Close', 'PIDILITIND.BO')":1501.8648681641,
+    "('High', 'PIDILITIND.BO')":1515.6095281592,
+    "('Low', 'PIDILITIND.BO')":1482.4116995073,
+    "('Open', 'PIDILITIND.BO')":1499.4393680779,
+    "('Volume', 'PIDILITIND.BO')":9390
+  },
+  {
+    "('Date', '')":"2025-07-08",
+    "('Close', 'PIDILITIND.BO')":1501.7913818359,
+    "('High', 'PIDILITIND.BO')":1510.7583747045,
+    "('Low', 'PIDILITIND.BO')":1493.6327294713,
+    "('Open', 'PIDILITIND.BO')":1507.7448927903,
+    "('Volume', 'PIDILITIND.BO')":5642
+  },
+  {
+    "('Date', '')":"2025-07-09",
+    "('Close', 'PIDILITIND.BO')":1494.3188476562,
+    "('High', 'PIDILITIND.BO')":1509.5334026388,
+    "('Low', 'PIDILITIND.BO')":1484.7147046848,
+    "('Open', 'PIDILITIND.BO')":1507.1569508797,
+    "('Volume', 'PIDILITIND.BO')":3718
+  },
+  {
+    "('Date', '')":"2025-07-10",
+    "('Close', 'PIDILITIND.BO')":1502.0364990234,
+    "('High', 'PIDILITIND.BO')":1511.5670699643,
+    "('Low', 'PIDILITIND.BO')":1490.7418626716,
+    "('Open', 'PIDILITIND.BO')":1496.9649006895,
+    "('Volume', 'PIDILITIND.BO')":10770
+  },
+  {
+    "('Date', '')":"2025-07-11",
+    "('Close', 'PIDILITIND.BO')":1469.7940673828,
+    "('High', 'PIDILITIND.BO')":1503.7269031446,
+    "('Low', 'PIDILITIND.BO')":1466.5845116988,
+    "('Open', 'PIDILITIND.BO')":1503.7269031446,
+    "('Volume', 'PIDILITIND.BO')":13438
+  },
+  {
+    "('Date', '')":"2025-07-14",
+    "('Close', 'PIDILITIND.BO')":1453.4769287109,
+    "('High', 'PIDILITIND.BO')":1470.0145928808,
+    "('Low', 'PIDILITIND.BO')":1441.0063288407,
+    "('Open', 'PIDILITIND.BO')":1470.0145928808,
+    "('Volume', 'PIDILITIND.BO')":120508
+  },
+  {
+    "('Date', '')":"2025-07-15",
+    "('Close', 'PIDILITIND.BO')":1469.6225585938,
+    "('High', 'PIDILITIND.BO')":1471.2395985648,
+    "('Low', 'PIDILITIND.BO')":1453.5014464815,
+    "('Open', 'PIDILITIND.BO')":1453.9178788363,
+    "('Volume', 'PIDILITIND.BO')":12258
+  },
+  {
+    "('Date', '')":"2025-07-16",
+    "('Close', 'PIDILITIND.BO')":1462.1745605469,
+    "('High', 'PIDILITIND.BO')":1469.6226107899,
+    "('Low', 'PIDILITIND.BO')":1456.2945019924,
+    "('Open', 'PIDILITIND.BO')":1465.0900656541,
+    "('Volume', 'PIDILITIND.BO')":10524
+  },
+  {
+    "('Date', '')":"2025-07-17",
+    "('Close', 'PIDILITIND.BO')":1465.6290283203,
+    "('High', 'PIDILITIND.BO')":1473.4691059086,
+    "('Low', 'PIDILITIND.BO')":1460.2144508099,
+    "('Open', 'PIDILITIND.BO')":1461.7824424015,
+    "('Volume', 'PIDILITIND.BO')":5894
+  },
+  {
+    "('Date', '')":"2025-07-18",
+    "('Close', 'PIDILITIND.BO')":1449.6547851562,
+    "('High', 'PIDILITIND.BO')":1464.5999326751,
+    "('Low', 'PIDILITIND.BO')":1445.0487875435,
+    "('Open', 'PIDILITIND.BO')":1460.2389374806,
+    "('Volume', 'PIDILITIND.BO')":5894
+  },
+  {
+    "('Date', '')":"2025-07-21",
+    "('Close', 'PIDILITIND.BO')":1454.1384277344,
+    "('High', 'PIDILITIND.BO')":1462.6644641962,
+    "('Low', 'PIDILITIND.BO')":1445.6122716424,
+    "('Open', 'PIDILITIND.BO')":1445.6122716424,
+    "('Volume', 'PIDILITIND.BO')":14742
+  },
+  {
+    "('Date', '')":"2025-07-22",
+    "('Close', 'PIDILITIND.BO')":1437.8946533203,
+    "('High', 'PIDILITIND.BO')":1462.566444429,
+    "('Low', 'PIDILITIND.BO')":1435.9101098275,
+    "('Open', 'PIDILITIND.BO')":1449.0913115678,
+    "('Volume', 'PIDILITIND.BO')":17176
+  },
+  {
+    "('Date', '')":"2025-07-23",
+    "('Close', 'PIDILITIND.BO')":1450.8109130859,
+    "('High', 'PIDILITIND.BO')":1453.0712704299,
+    "('Low', 'PIDILITIND.BO')":1441.0244402392,
+    "('Open', 'PIDILITIND.BO')":1446.4392556054,
+    "('Volume', 'PIDILITIND.BO')":532274
+  },
+  {
+    "('Date', '')":"2025-07-24",
+    "('Close', 'PIDILITIND.BO')":1444.0051269531,
+    "('High', 'PIDILITIND.BO')":1461.2681107535,
+    "('Low', 'PIDILITIND.BO')":1436.7025364799,
+    "('Open', 'PIDILITIND.BO')":1452.2516655696,
+    "('Volume', 'PIDILITIND.BO')":17166
+  },
+  {
+    "('Date', '')":"2025-07-25",
+    "('Close', 'PIDILITIND.BO')":1433.8211669922,
+    "('High', 'PIDILITIND.BO')":1442.7880070355,
+    "('Low', 'PIDILITIND.BO')":1429.8966811723,
+    "('Open', 'PIDILITIND.BO')":1436.2057184387,
+    "('Volume', 'PIDILITIND.BO')":162030
+  },
+  {
+    "('Date', '')":"2025-07-28",
+    "('Close', 'PIDILITIND.BO')":1429.8469238281,
+    "('High', 'PIDILITIND.BO')":1442.1670049634,
+    "('Low', 'PIDILITIND.BO')":1420.8800839804,
+    "('Open', 'PIDILITIND.BO')":1440.6518124213,
+    "('Volume', 'PIDILITIND.BO')":8182
+  },
+  {
+    "('Date', '')":"2025-07-29",
+    "('Close', 'PIDILITIND.BO')":1436.6279296875,
+    "('High', 'PIDILITIND.BO')":1438.4163736231,
+    "('Low', 'PIDILITIND.BO')":1418.5701764581,
+    "('Open', 'PIDILITIND.BO')":1418.5701764581,
+    "('Volume', 'PIDILITIND.BO')":5150
+  },
+  {
+    "('Date', '')":"2025-07-30",
+    "('Close', 'PIDILITIND.BO')":1427.263671875,
+    "('High', 'PIDILITIND.BO')":1438.267222253,
+    "('Low', 'PIDILITIND.BO')":1421.5258793477,
+    "('Open', 'PIDILITIND.BO')":1437.1246121069,
+    "('Volume', 'PIDILITIND.BO')":6304
+  },
+  {
+    "('Date', '')":"2025-07-31",
+    "('Close', 'PIDILITIND.BO')":1425.5994873047,
+    "('High', 'PIDILITIND.BO')":1432.9766667887,
+    "('Low', 'PIDILITIND.BO')":1413.9252396406,
+    "('Open', 'PIDILITIND.BO')":1421.203088082,
+    "('Volume', 'PIDILITIND.BO')":16820
+  },
+  {
+    "('Date', '')":"2025-08-01",
+    "('Close', 'PIDILITIND.BO')":1419.6381835938,
+    "('High', 'PIDILITIND.BO')":1432.7282929171,
+    "('Low', 'PIDILITIND.BO')":1417.00524388,
+    "('Open', 'PIDILITIND.BO')":1422.0475981385,
+    "('Volume', 'PIDILITIND.BO')":15084
+  },
+  {
+    "('Date', '')":"2025-08-04",
+    "('Close', 'PIDILITIND.BO')":1465.9377441406,
+    "('High', 'PIDILITIND.BO')":1478.1336316287,
+    "('Low', 'PIDILITIND.BO')":1426.7172632192,
+    "('Open', 'PIDILITIND.BO')":1460.4980656525,
+    "('Volume', 'PIDILITIND.BO')":37490
+  },
+  {
+    "('Date', '')":"2025-08-05",
+    "('Close', 'PIDILITIND.BO')":1489.1372070312,
+    "('High', 'PIDILITIND.BO')":1501.9043381569,
+    "('Low', 'PIDILITIND.BO')":1466.012237909,
+    "('Open', 'PIDILITIND.BO')":1475.1528765176,
+    "('Volume', 'PIDILITIND.BO')":46106
+  },
+  {
+    "('Date', '')":"2025-08-06",
+    "('Close', 'PIDILITIND.BO')":1510.6228027344,
+    "('High', 'PIDILITIND.BO')":1519.6392473033,
+    "('Low', 'PIDILITIND.BO')":1475.4510038098,
+    "('Open', 'PIDILITIND.BO')":1510.0514370143,
+    "('Volume', 'PIDILITIND.BO')":77944
+  },
+  {
+    "('Date', '')":"2025-08-07",
+    "('Close', 'PIDILITIND.BO')":1515.4415283203,
+    "('High', 'PIDILITIND.BO')":1548.9490779271,
+    "('Low', 'PIDILITIND.BO')":1501.6062547203,
+    "('Open', 'PIDILITIND.BO')":1525.1038066825,
+    "('Volume', 'PIDILITIND.BO')":79850
+  },
+  {
+    "('Date', '')":"2025-08-08",
+    "('Close', 'PIDILITIND.BO')":1530.4193115234,
+    "('High', 'PIDILITIND.BO')":1534.0209410831,
+    "('Low', 'PIDILITIND.BO')":1507.6669239796,
+    "('Open', 'PIDILITIND.BO')":1525.1038273266,
+    "('Volume', 'PIDILITIND.BO')":21036
+  },
+  {
+    "('Date', '')":"2025-08-11",
+    "('Close', 'PIDILITIND.BO')":1537.9206542969,
+    "('High', 'PIDILITIND.BO')":1545.9684090333,
+    "('Low', 'PIDILITIND.BO')":1521.9244758637,
+    "('Open', 'PIDILITIND.BO')":1545.9684090333,
+    "('Volume', 'PIDILITIND.BO')":22100
+  },
+  {
+    "('Date', '')":"2025-08-12",
+    "('Close', 'PIDILITIND.BO')":1541.0999755859,
+    "('High', 'PIDILITIND.BO')":1553.1965314154,
+    "('Low', 'PIDILITIND.BO')":1530.9657838837,
+    "('Open', 'PIDILITIND.BO')":1553.1965314154,
+    "('Volume', 'PIDILITIND.BO')":12350
+  },
+  {
+    "('Date', '')":"2025-08-13",
+    "('Close', 'PIDILITIND.BO')":1530.0999755859,
+    "('High', 'PIDILITIND.BO')":1553.7750244141,
+    "('Low', 'PIDILITIND.BO')":1527.5,
+    "('Open', 'PIDILITIND.BO')":1553.7750244141,
+    "('Volume', 'PIDILITIND.BO')":25906
+  },
+  {
+    "('Date', '')":"2025-08-14",
+    "('Close', 'PIDILITIND.BO')":1542.1750488281,
+    "('High', 'PIDILITIND.BO')":1546.0250244141,
+    "('Low', 'PIDILITIND.BO')":1528.6750488281,
+    "('Open', 'PIDILITIND.BO')":1537.4749755859,
+    "('Volume', 'PIDILITIND.BO')":10000
+  },
+  {
+    "('Date', '')":"2025-08-18",
+    "('Close', 'PIDILITIND.BO')":1539.1999511719,
+    "('High', 'PIDILITIND.BO')":1559.4749755859,
+    "('Low', 'PIDILITIND.BO')":1533.125,
+    "('Open', 'PIDILITIND.BO')":1550.0749511719,
+    "('Volume', 'PIDILITIND.BO')":10578
+  },
+  {
+    "('Date', '')":"2025-08-19",
+    "('Close', 'PIDILITIND.BO')":1547.9250488281,
+    "('High', 'PIDILITIND.BO')":1555.5,
+    "('Low', 'PIDILITIND.BO')":1539.1999511719,
+    "('Open', 'PIDILITIND.BO')":1541.0,
+    "('Volume', 'PIDILITIND.BO')":20396
+  },
+  {
+    "('Date', '')":"2025-08-20",
+    "('Close', 'PIDILITIND.BO')":1542.1500244141,
+    "('High', 'PIDILITIND.BO')":1552.875,
+    "('Low', 'PIDILITIND.BO')":1540.1500244141,
+    "('Open', 'PIDILITIND.BO')":1545.0250244141,
+    "('Volume', 'PIDILITIND.BO')":12722
+  },
+  {
+    "('Date', '')":"2025-08-21",
+    "('Close', 'PIDILITIND.BO')":1538.875,
+    "('High', 'PIDILITIND.BO')":1551.2249755859,
+    "('Low', 'PIDILITIND.BO')":1536.6500244141,
+    "('Open', 'PIDILITIND.BO')":1540.125,
+    "('Volume', 'PIDILITIND.BO')":9188
+  },
+  {
+    "('Date', '')":"2025-08-22",
+    "('Close', 'PIDILITIND.BO')":1543.0500488281,
+    "('High', 'PIDILITIND.BO')":1552.5,
+    "('Low', 'PIDILITIND.BO')":1533.375,
+    "('Open', 'PIDILITIND.BO')":1539.0,
+    "('Volume', 'PIDILITIND.BO')":10050
+  },
+  {
+    "('Date', '')":"2025-08-25",
+    "('Close', 'PIDILITIND.BO')":1553.0,
+    "('High', 'PIDILITIND.BO')":1567.4749755859,
+    "('Low', 'PIDILITIND.BO')":1544.4749755859,
+    "('Open', 'PIDILITIND.BO')":1544.4749755859,
+    "('Volume', 'PIDILITIND.BO')":23496
+  },
+  {
+    "('Date', '')":"2025-08-26",
+    "('Close', 'PIDILITIND.BO')":1550.4749755859,
+    "('High', 'PIDILITIND.BO')":1572.1999511719,
+    "('Low', 'PIDILITIND.BO')":1538.5,
+    "('Open', 'PIDILITIND.BO')":1553.5250244141,
+    "('Volume', 'PIDILITIND.BO')":12326
+  },
+  {
+    "('Date', '')":"2025-08-28",
+    "('Close', 'PIDILITIND.BO')":1532.0500488281,
+    "('High', 'PIDILITIND.BO')":1551.5,
+    "('Low', 'PIDILITIND.BO')":1529.0,
+    "('Open', 'PIDILITIND.BO')":1535.3249511719,
+    "('Volume', 'PIDILITIND.BO')":17782
+  },
+  {
+    "('Date', '')":"2025-08-29",
+    "('Close', 'PIDILITIND.BO')":1525.7249755859,
+    "('High', 'PIDILITIND.BO')":1533.7750244141,
+    "('Low', 'PIDILITIND.BO')":1512.8499755859,
+    "('Open', 'PIDILITIND.BO')":1530.0,
+    "('Volume', 'PIDILITIND.BO')":13044
+  },
+  {
+    "('Date', '')":"2025-09-01",
+    "('Close', 'PIDILITIND.BO')":1562.3499755859,
+    "('High', 'PIDILITIND.BO')":1568.1750488281,
+    "('Low', 'PIDILITIND.BO')":1526.0999755859,
+    "('Open', 'PIDILITIND.BO')":1526.0999755859,
+    "('Volume', 'PIDILITIND.BO')":29560
+  },
+  {
+    "('Date', '')":"2025-09-02",
+    "('Close', 'PIDILITIND.BO')":1563.9499511719,
+    "('High', 'PIDILITIND.BO')":1574.4749755859,
+    "('Low', 'PIDILITIND.BO')":1558.3499755859,
+    "('Open', 'PIDILITIND.BO')":1574.4749755859,
+    "('Volume', 'PIDILITIND.BO')":9592
+  },
+  {
+    "('Date', '')":"2025-09-03",
+    "('Close', 'PIDILITIND.BO')":1556.125,
+    "('High', 'PIDILITIND.BO')":1575.0,
+    "('Low', 'PIDILITIND.BO')":1553.0250244141,
+    "('Open', 'PIDILITIND.BO')":1567.5,
+    "('Volume', 'PIDILITIND.BO')":16408
+  },
+  {
+    "('Date', '')":"2025-09-04",
+    "('Close', 'PIDILITIND.BO')":1560.8249511719,
+    "('High', 'PIDILITIND.BO')":1574.5,
+    "('Low', 'PIDILITIND.BO')":1549.5749511719,
+    "('Open', 'PIDILITIND.BO')":1558.5,
+    "('Volume', 'PIDILITIND.BO')":63808
+  },
+  {
+    "('Date', '')":"2025-09-05",
+    "('Close', 'PIDILITIND.BO')":1546.8249511719,
+    "('High', 'PIDILITIND.BO')":1569.9749755859,
+    "('Low', 'PIDILITIND.BO')":1545.5250244141,
+    "('Open', 'PIDILITIND.BO')":1565.0250244141,
+    "('Volume', 'PIDILITIND.BO')":12266
+  },
+  {
+    "('Date', '')":"2025-09-08",
+    "('Close', 'PIDILITIND.BO')":1551.4499511719,
+    "('High', 'PIDILITIND.BO')":1561.0,
+    "('Low', 'PIDILITIND.BO')":1540.0749511719,
+    "('Open', 'PIDILITIND.BO')":1540.0749511719,
+    "('Volume', 'PIDILITIND.BO')":5778
+  },
+  {
+    "('Date', '')":"2025-09-09",
+    "('Close', 'PIDILITIND.BO')":1550.3499755859,
+    "('High', 'PIDILITIND.BO')":1567.0,
+    "('Low', 'PIDILITIND.BO')":1546.6999511719,
+    "('Open', 'PIDILITIND.BO')":1559.875,
+    "('Volume', 'PIDILITIND.BO')":6502
+  },
+  {
+    "('Date', '')":"2025-09-10",
+    "('Close', 'PIDILITIND.BO')":1535.1750488281,
+    "('High', 'PIDILITIND.BO')":1562.6750488281,
+    "('Low', 'PIDILITIND.BO')":1531.3249511719,
+    "('Open', 'PIDILITIND.BO')":1555.25,
+    "('Volume', 'PIDILITIND.BO')":14840
+  },
+  {
+    "('Date', '')":"2025-09-11",
+    "('Close', 'PIDILITIND.BO')":1539.3499755859,
+    "('High', 'PIDILITIND.BO')":1542.5500488281,
+    "('Low', 'PIDILITIND.BO')":1528.5,
+    "('Open', 'PIDILITIND.BO')":1536.9749755859,
+    "('Volume', 'PIDILITIND.BO')":8122
+  },
+  {
+    "('Date', '')":"2025-09-12",
+    "('Close', 'PIDILITIND.BO')":1539.7750244141,
+    "('High', 'PIDILITIND.BO')":1553.1750488281,
+    "('Low', 'PIDILITIND.BO')":1537.5,
+    "('Open', 'PIDILITIND.BO')":1543.0250244141,
+    "('Volume', 'PIDILITIND.BO')":8858
+  },
+  {
+    "('Date', '')":"2025-09-15",
+    "('Close', 'PIDILITIND.BO')":1535.75,
+    "('High', 'PIDILITIND.BO')":1550.5,
+    "('Low', 'PIDILITIND.BO')":1532.7249755859,
+    "('Open', 'PIDILITIND.BO')":1540.0999755859,
+    "('Volume', 'PIDILITIND.BO')":59884
+  },
+  {
+    "('Date', '')":"2025-09-16",
+    "('Close', 'PIDILITIND.BO')":1537.2249755859,
+    "('High', 'PIDILITIND.BO')":1548.8249511719,
+    "('Low', 'PIDILITIND.BO')":1527.5500488281,
+    "('Open', 'PIDILITIND.BO')":1548.8249511719,
+    "('Volume', 'PIDILITIND.BO')":9616
+  },
+  {
+    "('Date', '')":"2025-09-17",
+    "('Close', 'PIDILITIND.BO')":1530.3499755859,
+    "('High', 'PIDILITIND.BO')":1543.6999511719,
+    "('Low', 'PIDILITIND.BO')":1528.4499511719,
+    "('Open', 'PIDILITIND.BO')":1543.0999755859,
+    "('Volume', 'PIDILITIND.BO')":14514
+  },
+  {
+    "('Date', '')":"2025-09-18",
+    "('Close', 'PIDILITIND.BO')":1527.0999755859,
+    "('High', 'PIDILITIND.BO')":1543.625,
+    "('Low', 'PIDILITIND.BO')":1523.2249755859,
+    "('Open', 'PIDILITIND.BO')":1531.6750488281,
+    "('Volume', 'PIDILITIND.BO')":16178
+  },
+  {
+    "('Date', '')":"2025-09-19",
+    "('Close', 'PIDILITIND.BO')":1524.6999511719,
+    "('High', 'PIDILITIND.BO')":1539.5,
+    "('Low', 'PIDILITIND.BO')":1520.7750244141,
+    "('Open', 'PIDILITIND.BO')":1539.4749755859,
+    "('Volume', 'PIDILITIND.BO')":22710
+  },
+  {
+    "('Date', '')":"2025-09-22",
+    "('Close', 'PIDILITIND.BO')":1518.875,
+    "('High', 'PIDILITIND.BO')":1539.0,
+    "('Low', 'PIDILITIND.BO')":1512.5250244141,
+    "('Open', 'PIDILITIND.BO')":1525.5999755859,
+    "('Volume', 'PIDILITIND.BO')":44804
+  },
+  {
+    "('Date', '')":"2025-09-23",
+    "('Close', 'PIDILITIND.BO')":1489.4499511719,
+    "('High', 'PIDILITIND.BO')":1539.9000244141,
+    "('Low', 'PIDILITIND.BO')":1483.6999511719,
+    "('Open', 'PIDILITIND.BO')":1539.9000244141,
+    "('Volume', 'PIDILITIND.BO')":27146
+  },
+  {
+    "('Date', '')":"2025-09-24",
+    "('Close', 'PIDILITIND.BO')":1519.1999511719,
+    "('High', 'PIDILITIND.BO')":1521.4000244141,
+    "('Low', 'PIDILITIND.BO')":1475.25,
+    "('Open', 'PIDILITIND.BO')":1489.4499511719,
+    "('Volume', 'PIDILITIND.BO')":26385
+  },
+  {
+    "('Date', '')":"2025-09-25",
+    "('Close', 'PIDILITIND.BO')":1495.8499755859,
+    "('High', 'PIDILITIND.BO')":1519.1999511719,
+    "('Low', 'PIDILITIND.BO')":1491.0,
+    "('Open', 'PIDILITIND.BO')":1519.1999511719,
+    "('Volume', 'PIDILITIND.BO')":13096
+  },
+  {
+    "('Date', '')":"2025-09-26",
+    "('Close', 'PIDILITIND.BO')":1475.5500488281,
+    "('High', 'PIDILITIND.BO')":1497.8499755859,
+    "('Low', 'PIDILITIND.BO')":1473.3000488281,
+    "('Open', 'PIDILITIND.BO')":1486.0,
+    "('Volume', 'PIDILITIND.BO')":19468
+  },
+  {
+    "('Date', '')":"2025-09-29",
+    "('Close', 'PIDILITIND.BO')":1466.8000488281,
+    "('High', 'PIDILITIND.BO')":1482.3499755859,
+    "('Low', 'PIDILITIND.BO')":1460.0,
+    "('Open', 'PIDILITIND.BO')":1482.0500488281,
+    "('Volume', 'PIDILITIND.BO')":23326
+  },
+  {
+    "('Date', '')":"2025-09-30",
+    "('Close', 'PIDILITIND.BO')":1468.0500488281,
+    "('High', 'PIDILITIND.BO')":1475.75,
+    "('Low', 'PIDILITIND.BO')":1456.3000488281,
+    "('Open', 'PIDILITIND.BO')":1467.0500488281,
+    "('Volume', 'PIDILITIND.BO')":19475
+  },
+  {
+    "('Date', '')":"2025-10-01",
+    "('Close', 'PIDILITIND.BO')":1475.0500488281,
+    "('High', 'PIDILITIND.BO')":1479.8000488281,
+    "('Low', 'PIDILITIND.BO')":1448.5,
+    "('Open', 'PIDILITIND.BO')":1462.9499511719,
+    "('Volume', 'PIDILITIND.BO')":16825
+  },
+  {
+    "('Date', '')":"2025-10-03",
+    "('Close', 'PIDILITIND.BO')":1489.3499755859,
+    "('High', 'PIDILITIND.BO')":1491.5,
+    "('Low', 'PIDILITIND.BO')":1471.3499755859,
+    "('Open', 'PIDILITIND.BO')":1481.4499511719,
+    "('Volume', 'PIDILITIND.BO')":9924
+  },
+  {
+    "('Date', '')":"2025-10-06",
+    "('Close', 'PIDILITIND.BO')":1488.8499755859,
+    "('High', 'PIDILITIND.BO')":1494.6999511719,
+    "('Low', 'PIDILITIND.BO')":1480.5500488281,
+    "('Open', 'PIDILITIND.BO')":1494.6999511719,
+    "('Volume', 'PIDILITIND.BO')":7555
+  },
+  {
+    "('Date', '')":"2025-10-07",
+    "('Close', 'PIDILITIND.BO')":1470.5999755859,
+    "('High', 'PIDILITIND.BO')":1489.3000488281,
+    "('Low', 'PIDILITIND.BO')":1469.0,
+    "('Open', 'PIDILITIND.BO')":1489.3000488281,
+    "('Volume', 'PIDILITIND.BO')":8866
+  },
+  {
+    "('Date', '')":"2025-10-08",
+    "('Close', 'PIDILITIND.BO')":1493.4000244141,
+    "('High', 'PIDILITIND.BO')":1498.0,
+    "('Low', 'PIDILITIND.BO')":1462.0,
+    "('Open', 'PIDILITIND.BO')":1470.5999755859,
+    "('Volume', 'PIDILITIND.BO')":14522
+  },
+  {
+    "('Date', '')":"2025-10-09",
+    "('Close', 'PIDILITIND.BO')":1509.1999511719,
+    "('High', 'PIDILITIND.BO')":1515.6500244141,
+    "('Low', 'PIDILITIND.BO')":1487.5,
+    "('Open', 'PIDILITIND.BO')":1495.0,
+    "('Volume', 'PIDILITIND.BO')":13262
+  },
+  {
+    "('Date', '')":"2025-10-10",
+    "('Close', 'PIDILITIND.BO')":1509.9499511719,
+    "('High', 'PIDILITIND.BO')":1520.0,
+    "('Low', 'PIDILITIND.BO')":1504.0,
+    "('Open', 'PIDILITIND.BO')":1515.0,
+    "('Volume', 'PIDILITIND.BO')":13026
+  },
+  {
+    "('Date', '')":"2025-10-13",
+    "('Close', 'PIDILITIND.BO')":1512.1500244141,
+    "('High', 'PIDILITIND.BO')":1517.25,
+    "('Low', 'PIDILITIND.BO')":1500.0,
+    "('Open', 'PIDILITIND.BO')":1503.1500244141,
+    "('Volume', 'PIDILITIND.BO')":11032
+  },
+  {
+    "('Date', '')":"2025-10-14",
+    "('Close', 'PIDILITIND.BO')":1490.8000488281,
+    "('High', 'PIDILITIND.BO')":1521.4000244141,
+    "('Low', 'PIDILITIND.BO')":1488.1500244141,
+    "('Open', 'PIDILITIND.BO')":1502.0500488281,
+    "('Volume', 'PIDILITIND.BO')":5141
+  },
+  {
+    "('Date', '')":"2025-10-15",
+    "('Close', 'PIDILITIND.BO')":1501.5,
+    "('High', 'PIDILITIND.BO')":1508.4000244141,
+    "('Low', 'PIDILITIND.BO')":1472.0500488281,
+    "('Open', 'PIDILITIND.BO')":1472.0500488281,
+    "('Volume', 'PIDILITIND.BO')":6584
+  },
+  {
+    "('Date', '')":"2025-10-16",
+    "('Close', 'PIDILITIND.BO')":1521.9499511719,
+    "('High', 'PIDILITIND.BO')":1525.5,
+    "('Low', 'PIDILITIND.BO')":1495.25,
+    "('Open', 'PIDILITIND.BO')":1495.25,
+    "('Volume', 'PIDILITIND.BO')":22090
+  },
+  {
+    "('Date', '')":"2025-10-17",
+    "('Close', 'PIDILITIND.BO')":1541.9499511719,
+    "('High', 'PIDILITIND.BO')":1544.9000244141,
+    "('Low', 'PIDILITIND.BO')":1516.0,
+    "('Open', 'PIDILITIND.BO')":1522.9000244141,
+    "('Volume', 'PIDILITIND.BO')":24525
+  },
+  {
+    "('Date', '')":"2025-10-20",
+    "('Close', 'PIDILITIND.BO')":1525.6500244141,
+    "('High', 'PIDILITIND.BO')":1545.6500244141,
+    "('Low', 'PIDILITIND.BO')":1523.0999755859,
+    "('Open', 'PIDILITIND.BO')":1545.6500244141,
+    "('Volume', 'PIDILITIND.BO')":7176
+  },
+  {
+    "('Date', '')":"2025-10-21",
+    "('Close', 'PIDILITIND.BO')":1532.1999511719,
+    "('High', 'PIDILITIND.BO')":1540.8499755859,
+    "('Low', 'PIDILITIND.BO')":1527.0,
+    "('Open', 'PIDILITIND.BO')":1540.8499755859,
+    "('Volume', 'PIDILITIND.BO')":3751
+  },
+  {
+    "('Date', '')":"2025-10-23",
+    "('Close', 'PIDILITIND.BO')":1516.9000244141,
+    "('High', 'PIDILITIND.BO')":1535.5,
+    "('Low', 'PIDILITIND.BO')":1510.5,
+    "('Open', 'PIDILITIND.BO')":1531.9499511719,
+    "('Volume', 'PIDILITIND.BO')":20067
+  },
+  {
+    "('Date', '')":"2025-10-24",
+    "('Close', 'PIDILITIND.BO')":1506.8000488281,
+    "('High', 'PIDILITIND.BO')":1523.8000488281,
+    "('Low', 'PIDILITIND.BO')":1504.3000488281,
+    "('Open', 'PIDILITIND.BO')":1523.8000488281,
+    "('Volume', 'PIDILITIND.BO')":6637
+  },
+  {
+    "('Date', '')":"2025-10-27",
+    "('Close', 'PIDILITIND.BO')":1504.1999511719,
+    "('High', 'PIDILITIND.BO')":1522.3499755859,
+    "('Low', 'PIDILITIND.BO')":1495.0,
+    "('Open', 'PIDILITIND.BO')":1506.0,
+    "('Volume', 'PIDILITIND.BO')":8589
+  },
+  {
+    "('Date', '')":"2025-10-28",
+    "('Close', 'PIDILITIND.BO')":1492.0,
+    "('High', 'PIDILITIND.BO')":1513.0,
+    "('Low', 'PIDILITIND.BO')":1485.0,
+    "('Open', 'PIDILITIND.BO')":1500.0500488281,
+    "('Volume', 'PIDILITIND.BO')":12169
+  },
+  {
+    "('Date', '')":"2025-10-29",
+    "('Close', 'PIDILITIND.BO')":1507.0,
+    "('High', 'PIDILITIND.BO')":1509.9499511719,
+    "('Low', 'PIDILITIND.BO')":1484.0,
+    "('Open', 'PIDILITIND.BO')":1495.0,
+    "('Volume', 'PIDILITIND.BO')":17582
+  },
+  {
+    "('Date', '')":"2025-10-30",
+    "('Close', 'PIDILITIND.BO')":1485.1999511719,
+    "('High', 'PIDILITIND.BO')":1511.9499511719,
+    "('Low', 'PIDILITIND.BO')":1481.0,
+    "('Open', 'PIDILITIND.BO')":1507.1500244141,
+    "('Volume', 'PIDILITIND.BO')":15729
+  },
+  {
+    "('Date', '')":"2025-10-31",
+    "('Close', 'PIDILITIND.BO')":1445.5999755859,
+    "('High', 'PIDILITIND.BO')":1490.0500488281,
+    "('Low', 'PIDILITIND.BO')":1440.0500488281,
+    "('Open', 'PIDILITIND.BO')":1490.0500488281,
+    "('Volume', 'PIDILITIND.BO')":29455
+  },
+  {
+    "('Date', '')":"2025-11-03",
+    "('Close', 'PIDILITIND.BO')":1460.25,
+    "('High', 'PIDILITIND.BO')":1471.0,
+    "('Low', 'PIDILITIND.BO')":1442.4000244141,
+    "('Open', 'PIDILITIND.BO')":1442.4000244141,
+    "('Volume', 'PIDILITIND.BO')":233354
+  },
+  {
+    "('Date', '')":"2025-11-04",
+    "('Close', 'PIDILITIND.BO')":1455.0,
+    "('High', 'PIDILITIND.BO')":1472.4000244141,
+    "('Low', 'PIDILITIND.BO')":1448.5,
+    "('Open', 'PIDILITIND.BO')":1472.4000244141,
+    "('Volume', 'PIDILITIND.BO')":249173
+  },
+  {
+    "('Date', '')":"2025-11-06",
+    "('Close', 'PIDILITIND.BO')":1441.8000488281,
+    "('High', 'PIDILITIND.BO')":1468.0500488281,
+    "('Low', 'PIDILITIND.BO')":1438.4000244141,
+    "('Open', 'PIDILITIND.BO')":1456.6500244141,
+    "('Volume', 'PIDILITIND.BO')":17340
+  },
+  {
+    "('Date', '')":"2025-11-07",
+    "('Close', 'PIDILITIND.BO')":1455.75,
+    "('High', 'PIDILITIND.BO')":1458.0999755859,
+    "('Low', 'PIDILITIND.BO')":1444.0999755859,
+    "('Open', 'PIDILITIND.BO')":1444.0999755859,
+    "('Volume', 'PIDILITIND.BO')":27967
+  },
+  {
+    "('Date', '')":"2025-11-10",
+    "('Close', 'PIDILITIND.BO')":1456.4000244141,
+    "('High', 'PIDILITIND.BO')":1466.9499511719,
+    "('Low', 'PIDILITIND.BO')":1452.0,
+    "('Open', 'PIDILITIND.BO')":1455.8000488281,
+    "('Volume', 'PIDILITIND.BO')":15170
+  },
+  {
+    "('Date', '')":"2025-11-11",
+    "('Close', 'PIDILITIND.BO')":1472.8000488281,
+    "('High', 'PIDILITIND.BO')":1476.5999755859,
+    "('Low', 'PIDILITIND.BO')":1454.0,
+    "('Open', 'PIDILITIND.BO')":1459.9000244141,
+    "('Volume', 'PIDILITIND.BO')":6739
+  },
+  {
+    "('Date', '')":"2025-11-12",
+    "('Close', 'PIDILITIND.BO')":1481.4000244141,
+    "('High', 'PIDILITIND.BO')":1486.8000488281,
+    "('Low', 'PIDILITIND.BO')":1470.3499755859,
+    "('Open', 'PIDILITIND.BO')":1473.6500244141,
+    "('Volume', 'PIDILITIND.BO')":10765
+  },
+  {
+    "('Date', '')":"2025-11-13",
+    "('Close', 'PIDILITIND.BO')":1478.75,
+    "('High', 'PIDILITIND.BO')":1496.3499755859,
+    "('Low', 'PIDILITIND.BO')":1475.3000488281,
+    "('Open', 'PIDILITIND.BO')":1489.0,
+    "('Volume', 'PIDILITIND.BO')":22552
+  }
+]

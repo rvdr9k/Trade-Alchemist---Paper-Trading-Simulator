@@ -1,0 +1,1994 @@
+[
+  {
+    "('Date', '')":"2024-11-11",
+    "('Close', 'KOTAKBANK.NS')":1741.9915771484,
+    "('High', 'KOTAKBANK.NS')":1761.2693996812,
+    "('Low', 'KOTAKBANK.NS')":1735.1993593831,
+    "('Open', 'KOTAKBANK.NS')":1742.9904255298,
+    "('Volume', 'KOTAKBANK.NS')":3205030
+  },
+  {
+    "('Date', '')":"2024-11-12",
+    "('Close', 'KOTAKBANK.NS')":1719.4176025391,
+    "('High', 'KOTAKBANK.NS')":1747.385356802,
+    "('Low', 'KOTAKBANK.NS')":1713.2246695087,
+    "('Open', 'KOTAKBANK.NS')":1742.7906787019,
+    "('Volume', 'KOTAKBANK.NS')":3228390
+  },
+  {
+    "('Date', '')":"2024-11-13",
+    "('Close', 'KOTAKBANK.NS')":1685.90625,
+    "('High', 'KOTAKBANK.NS')":1726.1598893503,
+    "('Low', 'KOTAKBANK.NS')":1677.1164572251,
+    "('Open', 'KOTAKBANK.NS')":1712.0261600838,
+    "('Volume', 'KOTAKBANK.NS')":3593490
+  },
+  {
+    "('Date', '')":"2024-11-14",
+    "('Close', 'KOTAKBANK.NS')":1705.9332275391,
+    "('High', 'KOTAKBANK.NS')":1710.6277663044,
+    "('Low', 'KOTAKBANK.NS')":1687.8540956646,
+    "('Open', 'KOTAKBANK.NS')":1688.0538165752,
+    "('Volume', 'KOTAKBANK.NS')":3327758
+  },
+  {
+    "('Date', '')":"2024-11-18",
+    "('Close', 'KOTAKBANK.NS')":1720.7659912109,
+    "('High', 'KOTAKBANK.NS')":1726.259657124,
+    "('Low', 'KOTAKBANK.NS')":1697.7424880217,
+    "('Open', 'KOTAKBANK.NS')":1712.0260681675,
+    "('Volume', 'KOTAKBANK.NS')":2082415
+  },
+  {
+    "('Date', '')":"2024-11-19",
+    "('Close', 'KOTAKBANK.NS')":1725.7602539062,
+    "('High', 'KOTAKBANK.NS')":1737.7964254156,
+    "('Low', 'KOTAKBANK.NS')":1711.5266647769,
+    "('Open', 'KOTAKBANK.NS')":1727.807941816,
+    "('Volume', 'KOTAKBANK.NS')":2759663
+  },
+  {
+    "('Date', '')":"2024-11-21",
+    "('Close', 'KOTAKBANK.NS')":1735.0994873047,
+    "('High', 'KOTAKBANK.NS')":1738.7453082583,
+    "('Low', 'KOTAKBANK.NS')":1701.7879183944,
+    "('Open', 'KOTAKBANK.NS')":1713.1248230613,
+    "('Volume', 'KOTAKBANK.NS')":3294059
+  },
+  {
+    "('Date', '')":"2024-11-22",
+    "('Close', 'KOTAKBANK.NS')":1759.4213867188,
+    "('High', 'KOTAKBANK.NS')":1770.1590065385,
+    "('Low', 'KOTAKBANK.NS')":1730.904339332,
+    "('Open', 'KOTAKBANK.NS')":1732.0030481369,
+    "('Volume', 'KOTAKBANK.NS')":3553726
+  },
+  {
+    "('Date', '')":"2024-11-25",
+    "('Close', 'KOTAKBANK.NS')":1788.6877441406,
+    "('High', 'KOTAKBANK.NS')":1792.5332860341,
+    "('Low', 'KOTAKBANK.NS')":1764.8652345616,
+    "('Open', 'KOTAKBANK.NS')":1779.9478207782,
+    "('Volume', 'KOTAKBANK.NS')":6871432
+  },
+  {
+    "('Date', '')":"2024-11-26",
+    "('Close', 'KOTAKBANK.NS')":1781.5458984375,
+    "('High', 'KOTAKBANK.NS')":1793.881651214,
+    "('Low', 'KOTAKBANK.NS')":1772.9558269857,
+    "('Open', 'KOTAKBANK.NS')":1792.9327940503,
+    "('Volume', 'KOTAKBANK.NS')":2312739
+  },
+  {
+    "('Date', '')":"2024-11-27",
+    "('Close', 'KOTAKBANK.NS')":1781.1463623047,
+    "('High', 'KOTAKBANK.NS')":1803.4207296987,
+    "('Low', 'KOTAKBANK.NS')":1777.0511083789,
+    "('Open', 'KOTAKBANK.NS')":1778.8989534751,
+    "('Volume', 'KOTAKBANK.NS')":3202444
+  },
+  {
+    "('Date', '')":"2024-11-28",
+    "('Close', 'KOTAKBANK.NS')":1757.1740722656,
+    "('High', 'KOTAKBANK.NS')":1786.8399431695,
+    "('Low', 'KOTAKBANK.NS')":1751.4806851065,
+    "('Open', 'KOTAKBANK.NS')":1781.1964252729,
+    "('Volume', 'KOTAKBANK.NS')":3971395
+  },
+  {
+    "('Date', '')":"2024-11-29",
+    "('Close', 'KOTAKBANK.NS')":1763.2170410156,
+    "('High', 'KOTAKBANK.NS')":1771.5574003104,
+    "('Low', 'KOTAKBANK.NS')":1754.9765421694,
+    "('Open', 'KOTAKBANK.NS')":1754.9765421694,
+    "('Volume', 'KOTAKBANK.NS')":2987994
+  },
+  {
+    "('Date', '')":"2024-12-02",
+    "('Close', 'KOTAKBANK.NS')":1751.9300537109,
+    "('High', 'KOTAKBANK.NS')":1770.5586002391,
+    "('Low', 'KOTAKBANK.NS')":1743.9892579236,
+    "('Open', 'KOTAKBANK.NS')":1762.967376996,
+    "('Volume', 'KOTAKBANK.NS')":4265280
+  },
+  {
+    "('Date', '')":"2024-12-03",
+    "('Close', 'KOTAKBANK.NS')":1747.884765625,
+    "('High', 'KOTAKBANK.NS')":1759.1716789098,
+    "('Low', 'KOTAKBANK.NS')":1737.9961424973,
+    "('Open', 'KOTAKBANK.NS')":1757.9731096524,
+    "('Volume', 'KOTAKBANK.NS')":3971650
+  },
+  {
+    "('Date', '')":"2024-12-04",
+    "('Close', 'KOTAKBANK.NS')":1755.4760742188,
+    "('High', 'KOTAKBANK.NS')":1764.9651340794,
+    "('Low', 'KOTAKBANK.NS')":1744.3888812938,
+    "('Open', 'KOTAKBANK.NS')":1749.9824079836,
+    "('Volume', 'KOTAKBANK.NS')":3186786
+  },
+  {
+    "('Date', '')":"2024-12-05",
+    "('Close', 'KOTAKBANK.NS')":1773.1057128906,
+    "('High', 'KOTAKBANK.NS')":1786.5901659198,
+    "('Low', 'KOTAKBANK.NS')":1745.9869551904,
+    "('Open', 'KOTAKBANK.NS')":1761.9685291509,
+    "('Volume', 'KOTAKBANK.NS')":5697229
+  },
+  {
+    "('Date', '')":"2024-12-06",
+    "('Close', 'KOTAKBANK.NS')":1774.9035644531,
+    "('High', 'KOTAKBANK.NS')":1782.9943338037,
+    "('Low', 'KOTAKBANK.NS')":1758.9719817042,
+    "('Open', 'KOTAKBANK.NS')":1771.8571500788,
+    "('Volume', 'KOTAKBANK.NS')":2595882
+  },
+  {
+    "('Date', '')":"2024-12-09",
+    "('Close', 'KOTAKBANK.NS')":1784.1928710938,
+    "('High', 'KOTAKBANK.NS')":1802.8712865287,
+    "('Low', 'KOTAKBANK.NS')":1766.0637490953,
+    "('Open', 'KOTAKBANK.NS')":1766.0637490953,
+    "('Volume', 'KOTAKBANK.NS')":2554023
+  },
+  {
+    "('Date', '')":"2024-12-10",
+    "('Close', 'KOTAKBANK.NS')":1792.6331787109,
+    "('High', 'KOTAKBANK.NS')":1800.7239483128,
+    "('Low', 'KOTAKBANK.NS')":1781.1964132773,
+    "('Open', 'KOTAKBANK.NS')":1781.1964132773,
+    "('Volume', 'KOTAKBANK.NS')":1979884
+  },
+  {
+    "('Date', '')":"2024-12-11",
+    "('Close', 'KOTAKBANK.NS')":1792.6331787109,
+    "('High', 'KOTAKBANK.NS')":1804.7193419217,
+    "('Low', 'KOTAKBANK.NS')":1787.8886488003,
+    "('Open', 'KOTAKBANK.NS')":1793.9317304057,
+    "('Volume', 'KOTAKBANK.NS')":2393428
+  },
+  {
+    "('Date', '')":"2024-12-12",
+    "('Close', 'KOTAKBANK.NS')":1766.6630859375,
+    "('High', 'KOTAKBANK.NS')":1794.381128561,
+    "('Low', 'KOTAKBANK.NS')":1763.316968241,
+    "('Open', 'KOTAKBANK.NS')":1787.9386052636,
+    "('Volume', 'KOTAKBANK.NS')":3488259
+  },
+  {
+    "('Date', '')":"2024-12-13",
+    "('Close', 'KOTAKBANK.NS')":1803.5705566406,
+    "('High', 'KOTAKBANK.NS')":1806.916674244,
+    "('Low', 'KOTAKBANK.NS')":1746.036915777,
+    "('Open', 'KOTAKBANK.NS')":1756.324980676,
+    "('Volume', 'KOTAKBANK.NS')":3893531
+  },
+  {
+    "('Date', '')":"2024-12-16",
+    "('Close', 'KOTAKBANK.NS')":1802.3719482422,
+    "('High', 'KOTAKBANK.NS')":1810.9121508418,
+    "('Low', 'KOTAKBANK.NS')":1791.7841795785,
+    "('Open', 'KOTAKBANK.NS')":1800.9236668328,
+    "('Volume', 'KOTAKBANK.NS')":2989393
+  },
+  {
+    "('Date', '')":"2024-12-17",
+    "('Close', 'KOTAKBANK.NS')":1781.9954833984,
+    "('High', 'KOTAKBANK.NS')":1804.7691530782,
+    "('Low', 'KOTAKBANK.NS')":1772.9558568774,
+    "('Open', 'KOTAKBANK.NS')":1794.0315331,
+    "('Volume', 'KOTAKBANK.NS')":3592861
+  },
+  {
+    "('Date', '')":"2024-12-18",
+    "('Close', 'KOTAKBANK.NS')":1777.9500732422,
+    "('High', 'KOTAKBANK.NS')":1784.6423084538,
+    "('Low', 'KOTAKBANK.NS')":1768.3111622232,
+    "('Open', 'KOTAKBANK.NS')":1779.9477699537,
+    "('Volume', 'KOTAKBANK.NS')":3529430
+  },
+  {
+    "('Date', '')":"2024-12-19",
+    "('Close', 'KOTAKBANK.NS')":1760.0706787109,
+    "('High', 'KOTAKBANK.NS')":1765.9639084475,
+    "('Low', 'KOTAKBANK.NS')":1743.3899597956,
+    "('Open', 'KOTAKBANK.NS')":1761.4190996171,
+    "('Volume', 'KOTAKBANK.NS')":4074080
+  },
+  {
+    "('Date', '')":"2024-12-20",
+    "('Close', 'KOTAKBANK.NS')":1741.5421142578,
+    "('High', 'KOTAKBANK.NS')":1766.8129047155,
+    "('Low', 'KOTAKBANK.NS')":1731.3537877846,
+    "('Open', 'KOTAKBANK.NS')":1752.9788792566,
+    "('Volume', 'KOTAKBANK.NS')":14685688
+  },
+  {
+    "('Date', '')":"2024-12-23",
+    "('Close', 'KOTAKBANK.NS')":1743.3399658203,
+    "('High', 'KOTAKBANK.NS')":1762.1682330752,
+    "('Low', 'KOTAKBANK.NS')":1737.9961514647,
+    "('Open', 'KOTAKBANK.NS')":1745.4875141865,
+    "('Volume', 'KOTAKBANK.NS')":2748036
+  },
+  {
+    "('Date', '')":"2024-12-24",
+    "('Close', 'KOTAKBANK.NS')":1747.0357666016,
+    "('High', 'KOTAKBANK.NS')":1752.6292930117,
+    "('Low', 'KOTAKBANK.NS')":1736.0484346807,
+    "('Open', 'KOTAKBANK.NS')":1740.5432522847,
+    "('Volume', 'KOTAKBANK.NS')":2712625
+  },
+  {
+    "('Date', '')":"2024-12-26",
+    "('Close', 'KOTAKBANK.NS')":1750.7814941406,
+    "('High', 'KOTAKBANK.NS')":1767.4122221704,
+    "('Low', 'KOTAKBANK.NS')":1740.0438740255,
+    "('Open', 'KOTAKBANK.NS')":1754.7768876718,
+    "('Volume', 'KOTAKBANK.NS')":1132006
+  },
+  {
+    "('Date', '')":"2024-12-27",
+    "('Close', 'KOTAKBANK.NS')":1757.8732910156,
+    "('High', 'KOTAKBANK.NS')":1775.153294858,
+    "('Low', 'KOTAKBANK.NS')":1751.9800611787,
+    "('Open', 'KOTAKBANK.NS')":1757.9731514678,
+    "('Volume', 'KOTAKBANK.NS')":2448271
+  },
+  {
+    "('Date', '')":"2024-12-30",
+    "('Close', 'KOTAKBANK.NS')":1738.6953125,
+    "('High', 'KOTAKBANK.NS')":1778.9489506665,
+    "('Low', 'KOTAKBANK.NS')":1731.5036529929,
+    "('Open', 'KOTAKBANK.NS')":1762.9673767133,
+    "('Volume', 'KOTAKBANK.NS')":5502772
+  },
+  {
+    "('Date', '')":"2024-12-31",
+    "('Close', 'KOTAKBANK.NS')":1783.9931640625,
+    "('High', 'KOTAKBANK.NS')":1794.530941114,
+    "('Low', 'KOTAKBANK.NS')":1733.0518976479,
+    "('Open', 'KOTAKBANK.NS')":1733.0518976479,
+    "('Volume', 'KOTAKBANK.NS')":4731698
+  },
+  {
+    "('Date', '')":"2025-01-01",
+    "('Close', 'KOTAKBANK.NS')":1786.3404541016,
+    "('High', 'KOTAKBANK.NS')":1794.6808136276,
+    "('Low', 'KOTAKBANK.NS')":1774.953558267,
+    "('Open', 'KOTAKBANK.NS')":1777.2009671055,
+    "('Volume', 'KOTAKBANK.NS')":1484828
+  },
+  {
+    "('Date', '')":"2025-01-02",
+    "('Close', 'KOTAKBANK.NS')":1835.0343017578,
+    "('High', 'KOTAKBANK.NS')":1838.0807161192,
+    "('Low', 'KOTAKBANK.NS')":1794.8306549874,
+    "('Open', 'KOTAKBANK.NS')":1797.9270605391,
+    "('Volume', 'KOTAKBANK.NS')":5096987
+  },
+  {
+    "('Date', '')":"2025-01-03",
+    "('Close', 'KOTAKBANK.NS')":1836.5325927734,
+    "('High', 'KOTAKBANK.NS')":1850.8660425976,
+    "('Low', 'KOTAKBANK.NS')":1815.007361477,
+    "('Open', 'KOTAKBANK.NS')":1848.8683458436,
+    "('Volume', 'KOTAKBANK.NS')":4277149
+  },
+  {
+    "('Date', '')":"2025-01-06",
+    "('Close', 'KOTAKBANK.NS')":1777.6005859375,
+    "('High', 'KOTAKBANK.NS')":1822.898336657,
+    "('Low', 'KOTAKBANK.NS')":1770.8583592129,
+    "('Open', 'KOTAKBANK.NS')":1818.9029430424,
+    "('Volume', 'KOTAKBANK.NS')":3992395
+  },
+  {
+    "('Date', '')":"2025-01-07",
+    "('Close', 'KOTAKBANK.NS')":1770.0092773438,
+    "('High', 'KOTAKBANK.NS')":1795.3799280326,
+    "('Low', 'KOTAKBANK.NS')":1767.8617289932,
+    "('Open', 'KOTAKBANK.NS')":1784.9420114883,
+    "('Volume', 'KOTAKBANK.NS')":4399938
+  },
+  {
+    "('Date', '')":"2025-01-08",
+    "('Close', 'KOTAKBANK.NS')":1766.6131591797,
+    "('High', 'KOTAKBANK.NS')":1782.6446020445,
+    "('Low', 'KOTAKBANK.NS')":1760.4202262499,
+    "('Open', 'KOTAKBANK.NS')":1778.049924019,
+    "('Volume', 'KOTAKBANK.NS')":4364679
+  },
+  {
+    "('Date', '')":"2025-01-09",
+    "('Close', 'KOTAKBANK.NS')":1788.1383056641,
+    "('High', 'KOTAKBANK.NS')":1806.6170005345,
+    "('Low', 'KOTAKBANK.NS')":1771.9570108197,
+    "('Open', 'KOTAKBANK.NS')":1771.9570108197,
+    "('Volume', 'KOTAKBANK.NS')":5469827
+  },
+  {
+    "('Date', '')":"2025-01-10",
+    "('Close', 'KOTAKBANK.NS')":1754.1774902344,
+    "('High', 'KOTAKBANK.NS')":1787.5890419708,
+    "('Low', 'KOTAKBANK.NS')":1751.3307967145,
+    "('Open', 'KOTAKBANK.NS')":1782.1452450984,
+    "('Volume', 'KOTAKBANK.NS')":3502618
+  },
+  {
+    "('Date', '')":"2025-01-13",
+    "('Close', 'KOTAKBANK.NS')":1736.3980712891,
+    "('High', 'KOTAKBANK.NS')":1742.5410132938,
+    "('Low', 'KOTAKBANK.NS')":1721.7649179414,
+    "('Open', 'KOTAKBANK.NS')":1730.9044051259,
+    "('Volume', 'KOTAKBANK.NS')":3092388
+  },
+  {
+    "('Date', '')":"2025-01-14",
+    "('Close', 'KOTAKBANK.NS')":1748.583984375,
+    "('High', 'KOTAKBANK.NS')":1766.8129676721,
+    "('Low', 'KOTAKBANK.NS')":1727.6081679783,
+    "('Open', 'KOTAKBANK.NS')":1747.5851359752,
+    "('Volume', 'KOTAKBANK.NS')":4948961
+  },
+  {
+    "('Date', '')":"2025-01-15",
+    "('Close', 'KOTAKBANK.NS')":1787.5390625,
+    "('High', 'KOTAKBANK.NS')":1792.9328682165,
+    "('Low', 'KOTAKBANK.NS')":1758.0730348608,
+    "('Open', 'KOTAKBANK.NS')":1758.0730348608,
+    "('Volume', 'KOTAKBANK.NS')":3509861
+  },
+  {
+    "('Date', '')":"2025-01-16",
+    "('Close', 'KOTAKBANK.NS')":1803.470703125,
+    "('High', 'KOTAKBANK.NS')":1812.8597801546,
+    "('Low', 'KOTAKBANK.NS')":1783.293893118,
+    "('Open', 'KOTAKBANK.NS')":1793.731931626,
+    "('Volume', 'KOTAKBANK.NS')":4451534
+  },
+  {
+    "('Date', '')":"2025-01-17",
+    "('Close', 'KOTAKBANK.NS')":1756.5747070312,
+    "('High', 'KOTAKBANK.NS')":1803.4207196484,
+    "('Low', 'KOTAKBANK.NS')":1746.2866420488,
+    "('Open', 'KOTAKBANK.NS')":1794.9305085618,
+    "('Volume', 'KOTAKBANK.NS')":3521728
+  },
+  {
+    "('Date', '')":"2025-01-20",
+    "('Close', 'KOTAKBANK.NS')":1918.2883300781,
+    "('High', 'KOTAKBANK.NS')":1927.6775293158,
+    "('Low', 'KOTAKBANK.NS')":1863.8510929059,
+    "('Open', 'KOTAKBANK.NS')":1887.8234542294,
+    "('Volume', 'KOTAKBANK.NS')":13324315
+  },
+  {
+    "('Date', '')":"2025-01-21",
+    "('Close', 'KOTAKBANK.NS')":1891.1196289062,
+    "('High', 'KOTAKBANK.NS')":1918.7376882265,
+    "('Low', 'KOTAKBANK.NS')":1888.8222289305,
+    "('Open', 'KOTAKBANK.NS')":1918.7376882265,
+    "('Volume', 'KOTAKBANK.NS')":4415663
+  },
+  {
+    "('Date', '')":"2025-01-22",
+    "('Close', 'KOTAKBANK.NS')":1915.2917480469,
+    "('High', 'KOTAKBANK.NS')":1918.2882931546,
+    "('Low', 'KOTAKBANK.NS')":1884.8768639749,
+    "('Open', 'KOTAKBANK.NS')":1896.8130532157,
+    "('Volume', 'KOTAKBANK.NS')":4176669
+  },
+  {
+    "('Date', '')":"2025-01-23",
+    "('Close', 'KOTAKBANK.NS')":1892.6678466797,
+    "('High', 'KOTAKBANK.NS')":1921.7343104316,
+    "('Low', 'KOTAKBANK.NS')":1889.9210136082,
+    "('Open', 'KOTAKBANK.NS')":1904.9037394525,
+    "('Volume', 'KOTAKBANK.NS')":3161159
+  },
+  {
+    "('Date', '')":"2025-01-24",
+    "('Close', 'KOTAKBANK.NS')":1884.0277099609,
+    "('High', 'KOTAKBANK.NS')":1916.2905604543,
+    "('Low', 'KOTAKBANK.NS')":1870.8929516955,
+    "('Open', 'KOTAKBANK.NS')":1888.8222308153,
+    "('Volume', 'KOTAKBANK.NS')":4025366
+  },
+  {
+    "('Date', '')":"2025-01-27",
+    "('Close', 'KOTAKBANK.NS')":1879.2333984375,
+    "('High', 'KOTAKBANK.NS')":1896.6133849307,
+    "('Low', 'KOTAKBANK.NS')":1860.6048514481,
+    "('Open', 'KOTAKBANK.NS')":1872.840744311,
+    "('Volume', 'KOTAKBANK.NS')":1928503
+  },
+  {
+    "('Date', '')":"2025-01-28",
+    "('Close', 'KOTAKBANK.NS')":1885.5760498047,
+    "('High', 'KOTAKBANK.NS')":1902.8061845466,
+    "('Low', 'KOTAKBANK.NS')":1868.6456183519,
+    "('Open', 'KOTAKBANK.NS')":1892.8177006383,
+    "('Volume', 'KOTAKBANK.NS')":5157384
+  },
+  {
+    "('Date', '')":"2025-01-29",
+    "('Close', 'KOTAKBANK.NS')":1918.1384277344,
+    "('High', 'KOTAKBANK.NS')":1922.4833937235,
+    "('Low', 'KOTAKBANK.NS')":1882.8291625208,
+    "('Open', 'KOTAKBANK.NS')":1885.6259867065,
+    "('Volume', 'KOTAKBANK.NS')":2351631
+  },
+  {
+    "('Date', '')":"2025-01-30",
+    "('Close', 'KOTAKBANK.NS')":1899.3101806641,
+    "('High', 'KOTAKBANK.NS')":1935.8680067185,
+    "('Low', 'KOTAKBANK.NS')":1875.2878285291,
+    "('Open', 'KOTAKBANK.NS')":1918.1384481033,
+    "('Volume', 'KOTAKBANK.NS')":4239181
+  },
+  {
+    "('Date', '')":"2025-01-31",
+    "('Close', 'KOTAKBANK.NS')":1899.1104736328,
+    "('High', 'KOTAKBANK.NS')":1906.7515661959,
+    "('Low', 'KOTAKBANK.NS')":1887.4238744292,
+    "('Open', 'KOTAKBANK.NS')":1900.8584582978,
+    "('Volume', 'KOTAKBANK.NS')":2333229
+  },
+  {
+    "('Date', '')":"2025-02-01",
+    "('Close', 'KOTAKBANK.NS')":1900.9083251953,
+    "('High', 'KOTAKBANK.NS')":1914.9421936885,
+    "('Low', 'KOTAKBANK.NS')":1869.444601265,
+    "('Open', 'KOTAKBANK.NS')":1896.8130712284,
+    "('Volume', 'KOTAKBANK.NS')":1096357
+  },
+  {
+    "('Date', '')":"2025-02-03",
+    "('Close', 'KOTAKBANK.NS')":1882.3297119141,
+    "('High', 'KOTAKBANK.NS')":1901.6075338035,
+    "('Low', 'KOTAKBANK.NS')":1879.3831580592,
+    "('Open', 'KOTAKBANK.NS')":1891.4192074954,
+    "('Volume', 'KOTAKBANK.NS')":3319808
+  },
+  {
+    "('Date', '')":"2025-02-04",
+    "('Close', 'KOTAKBANK.NS')":1926.2790527344,
+    "('High', 'KOTAKBANK.NS')":1938.9643780718,
+    "('Low', 'KOTAKBANK.NS')":1875.0380833479,
+    "('Open', 'KOTAKBANK.NS')":1888.8722306092,
+    "('Volume', 'KOTAKBANK.NS')":5332618
+  },
+  {
+    "('Date', '')":"2025-02-05",
+    "('Close', 'KOTAKBANK.NS')":1909.5483398438,
+    "('High', 'KOTAKBANK.NS')":1936.7169662876,
+    "('Low', 'KOTAKBANK.NS')":1900.1591409347,
+    "('Open', 'KOTAKBANK.NS')":1935.5683882249,
+    "('Volume', 'KOTAKBANK.NS')":3427385
+  },
+  {
+    "('Date', '')":"2025-02-06",
+    "('Close', 'KOTAKBANK.NS')":1913.7435302734,
+    "('High', 'KOTAKBANK.NS')":1917.788915038,
+    "('Low', 'KOTAKBANK.NS')":1894.2659866051,
+    "('Open', 'KOTAKBANK.NS')":1914.7923698582,
+    "('Volume', 'KOTAKBANK.NS')":3193971
+  },
+  {
+    "('Date', '')":"2025-02-07",
+    "('Close', 'KOTAKBANK.NS')":1927.0281982422,
+    "('High', 'KOTAKBANK.NS')":1958.3420699376,
+    "('Low', 'KOTAKBANK.NS')":1905.7028101453,
+    "('Open', 'KOTAKBANK.NS')":1918.7876992734,
+    "('Volume', 'KOTAKBANK.NS')":4414174
+  },
+  {
+    "('Date', '')":"2025-02-10",
+    "('Close', 'KOTAKBANK.NS')":1957.8927001953,
+    "('High', 'KOTAKBANK.NS')":1962.7370905111,
+    "('Low', 'KOTAKBANK.NS')":1921.3348734298,
+    "('Open', 'KOTAKBANK.NS')":1933.0713420371,
+    "('Volume', 'KOTAKBANK.NS')":3569373
+  },
+  {
+    "('Date', '')":"2025-02-11",
+    "('Close', 'KOTAKBANK.NS')":1916.3905029297,
+    "('High', 'KOTAKBANK.NS')":1968.230758926,
+    "('Low', 'KOTAKBANK.NS')":1904.4043222105,
+    "('Open', 'KOTAKBANK.NS')":1962.3375290198,
+    "('Volume', 'KOTAKBANK.NS')":3506682
+  },
+  {
+    "('Date', '')":"2025-02-12",
+    "('Close', 'KOTAKBANK.NS')":1941.7113037109,
+    "('High', 'KOTAKBANK.NS')":1946.7555369166,
+    "('Low', 'KOTAKBANK.NS')":1902.7562160046,
+    "('Open', 'KOTAKBANK.NS')":1921.234911455,
+    "('Volume', 'KOTAKBANK.NS')":3219004
+  },
+  {
+    "('Date', '')":"2025-02-13",
+    "('Close', 'KOTAKBANK.NS')":1970.5280761719,
+    "('High', 'KOTAKBANK.NS')":1990.5050431974,
+    "('Low', 'KOTAKBANK.NS')":1958.2921838687,
+    "('Open', 'KOTAKBANK.NS')":1960.7393135575,
+    "('Volume', 'KOTAKBANK.NS')":12678373
+  },
+  {
+    "('Date', '')":"2025-02-14",
+    "('Close', 'KOTAKBANK.NS')":1950.1516113281,
+    "('High', 'KOTAKBANK.NS')":1971.7267120589,
+    "('Low', 'KOTAKBANK.NS')":1931.1235008213,
+    "('Open', 'KOTAKBANK.NS')":1971.7267120589,
+    "('Volume', 'KOTAKBANK.NS')":2610048
+  },
+  {
+    "('Date', '')":"2025-02-17",
+    "('Close', 'KOTAKBANK.NS')":1943.0598144531,
+    "('High', 'KOTAKBANK.NS')":1961.688239312,
+    "('Low', 'KOTAKBANK.NS')":1930.4243579817,
+    "('Open', 'KOTAKBANK.NS')":1952.7485950274,
+    "('Volume', 'KOTAKBANK.NS')":2300119
+  },
+  {
+    "('Date', '')":"2025-02-18",
+    "('Close', 'KOTAKBANK.NS')":1961.0889892578,
+    "('High', 'KOTAKBANK.NS')":1963.7359619139,
+    "('Low', 'KOTAKBANK.NS')":1936.9169066572,
+    "('Open', 'KOTAKBANK.NS')":1939.8135914142,
+    "('Volume', 'KOTAKBANK.NS')":4344125
+  },
+  {
+    "('Date', '')":"2025-02-19",
+    "('Close', 'KOTAKBANK.NS')":1982.7139892578,
+    "('High', 'KOTAKBANK.NS')":1992.6026123811,
+    "('Low', 'KOTAKBANK.NS')":1959.7404770397,
+    "('Open', 'KOTAKBANK.NS')":1961.6881825646,
+    "('Volume', 'KOTAKBANK.NS')":3914165
+  },
+  {
+    "('Date', '')":"2025-02-20",
+    "('Close', 'KOTAKBANK.NS')":1968.2807617188,
+    "('High', 'KOTAKBANK.NS')":1980.0670996709,
+    "('Low', 'KOTAKBANK.NS')":1957.7428623358,
+    "('Open', 'KOTAKBANK.NS')":1980.0172304088,
+    "('Volume', 'KOTAKBANK.NS')":4724372
+  },
+  {
+    "('Date', '')":"2025-02-21",
+    "('Close', 'KOTAKBANK.NS')":1950.8009033203,
+    "('High', 'KOTAKBANK.NS')":1976.0716945131,
+    "('Low', 'KOTAKBANK.NS')":1932.2722168526,
+    "('Open', 'KOTAKBANK.NS')":1968.2807502032,
+    "('Volume', 'KOTAKBANK.NS')":4008552
+  },
+  {
+    "('Date', '')":"2025-02-24",
+    "('Close', 'KOTAKBANK.NS')":1963.8358154297,
+    "('High', 'KOTAKBANK.NS')":1967.7313485768,
+    "('Low', 'KOTAKBANK.NS')":1931.323373158,
+    "('Open', 'KOTAKBANK.NS')":1936.0679030594,
+    "('Volume', 'KOTAKBANK.NS')":2218081
+  },
+  {
+    "('Date', '')":"2025-02-25",
+    "('Close', 'KOTAKBANK.NS')":1964.9844970703,
+    "('High', 'KOTAKBANK.NS')":1977.2703810507,
+    "('Low', 'KOTAKBANK.NS')":1956.3444341028,
+    "('Open', 'KOTAKBANK.NS')":1966.7324817545,
+    "('Volume', 'KOTAKBANK.NS')":4019894
+  },
+  {
+    "('Date', '')":"2025-02-27",
+    "('Close', 'KOTAKBANK.NS')":1945.3072509766,
+    "('High', 'KOTAKBANK.NS')":1972.7255907957,
+    "('Low', 'KOTAKBANK.NS')":1937.6660363275,
+    "('Open', 'KOTAKBANK.NS')":1969.7290455945,
+    "('Volume', 'KOTAKBANK.NS')":3708068
+  },
+  {
+    "('Date', '')":"2025-02-28",
+    "('Close', 'KOTAKBANK.NS')":1900.7584228516,
+    "('High', 'KOTAKBANK.NS')":1934.8192492019,
+    "('Low', 'KOTAKBANK.NS')":1891.7189184229,
+    "('Open', 'KOTAKBANK.NS')":1934.8192492019,
+    "('Volume', 'KOTAKBANK.NS')":6970315
+  },
+  {
+    "('Date', '')":"2025-03-03",
+    "('Close', 'KOTAKBANK.NS')":1912.3951416016,
+    "('High', 'KOTAKBANK.NS')":1921.4347684849,
+    "('Low', 'KOTAKBANK.NS')":1893.0174580596,
+    "('Open', 'KOTAKBANK.NS')":1903.355636648,
+    "('Volume', 'KOTAKBANK.NS')":2607790
+  },
+  {
+    "('Date', '')":"2025-03-04",
+    "('Close', 'KOTAKBANK.NS')":1905.6030273438,
+    "('High', 'KOTAKBANK.NS')":1913.7935354564,
+    "('Low', 'KOTAKBANK.NS')":1894.5657037458,
+    "('Open', 'KOTAKBANK.NS')":1898.9606610941,
+    "('Volume', 'KOTAKBANK.NS')":3172050
+  },
+  {
+    "('Date', '')":"2025-03-05",
+    "('Close', 'KOTAKBANK.NS')":1930.8737792969,
+    "('High', 'KOTAKBANK.NS')":1951.400162281,
+    "('Low', 'KOTAKBANK.NS')":1893.2172441368,
+    "('Open', 'KOTAKBANK.NS')":1900.9083278921,
+    "('Volume', 'KOTAKBANK.NS')":3811688
+  },
+  {
+    "('Date', '')":"2025-03-06",
+    "('Close', 'KOTAKBANK.NS')":1919.4869384766,
+    "('High', 'KOTAKBANK.NS')":1942.7101639819,
+    "('Low', 'KOTAKBANK.NS')":1907.6506092179,
+    "('Open', 'KOTAKBANK.NS')":1941.7613067654,
+    "('Volume', 'KOTAKBANK.NS')":5193093
+  },
+  {
+    "('Date', '')":"2025-03-07",
+    "('Close', 'KOTAKBANK.NS')":1933.1711425781,
+    "('High', 'KOTAKBANK.NS')":1938.3651052843,
+    "('Low', 'KOTAKBANK.NS')":1907.8503610086,
+    "('Open', 'KOTAKBANK.NS')":1914.7923083468,
+    "('Volume', 'KOTAKBANK.NS')":2780338
+  },
+  {
+    "('Date', '')":"2025-03-10",
+    "('Close', 'KOTAKBANK.NS')":1919.5368652344,
+    "('High', 'KOTAKBANK.NS')":1937.8158392743,
+    "('Low', 'KOTAKBANK.NS')":1914.1430596218,
+    "('Open', 'KOTAKBANK.NS')":1930.2744852689,
+    "('Volume', 'KOTAKBANK.NS')":2228534
+  },
+  {
+    "('Date', '')":"2025-03-11",
+    "('Close', 'KOTAKBANK.NS')":1932.9713134766,
+    "('High', 'KOTAKBANK.NS')":1941.7612278891,
+    "('Low', 'KOTAKBANK.NS')":1902.2567261527,
+    "('Open', 'KOTAKBANK.NS')":1920.7854121557,
+    "('Volume', 'KOTAKBANK.NS')":3207052
+  },
+  {
+    "('Date', '')":"2025-03-12",
+    "('Close', 'KOTAKBANK.NS')":1980.2668457031,
+    "('High', 'KOTAKBANK.NS')":1995.3993006667,
+    "('Low', 'KOTAKBANK.NS')":1935.7681029244,
+    "('Open', 'KOTAKBANK.NS')":1937.765799625,
+    "('Volume', 'KOTAKBANK.NS')":6704494
+  },
+  {
+    "('Date', '')":"2025-03-13",
+    "('Close', 'KOTAKBANK.NS')":1982.8138427734,
+    "('High', 'KOTAKBANK.NS')":1991.0543416924,
+    "('Low', 'KOTAKBANK.NS')":1967.2818240294,
+    "('Open', 'KOTAKBANK.NS')":1973.4246438616,
+    "('Volume', 'KOTAKBANK.NS')":4925794
+  },
+  {
+    "('Date', '')":"2025-03-17",
+    "('Close', 'KOTAKBANK.NS')":1990.8046875,
+    "('High', 'KOTAKBANK.NS')":1996.5480657015,
+    "('Low', 'KOTAKBANK.NS')":1971.976419869,
+    "('Open', 'KOTAKBANK.NS')":1977.8196585228,
+    "('Volume', 'KOTAKBANK.NS')":3170929
+  },
+  {
+    "('Date', '')":"2025-03-18",
+    "('Close', 'KOTAKBANK.NS')":1990.8046875,
+    "('High', 'KOTAKBANK.NS')":1990.8046875,
+    "('Low', 'KOTAKBANK.NS')":1990.8046875,
+    "('Open', 'KOTAKBANK.NS')":1990.8046875,
+    "('Volume', 'KOTAKBANK.NS')":0
+  },
+  {
+    "('Date', '')":"2025-03-19",
+    "('Close', 'KOTAKBANK.NS')":2019.2220458984,
+    "('High', 'KOTAKBANK.NS')":2048.638082712,
+    "('Low', 'KOTAKBANK.NS')":2014.9269489765,
+    "('Open', 'KOTAKBANK.NS')":2036.9016139301,
+    "('Volume', 'KOTAKBANK.NS')":5338288
+  },
+  {
+    "('Date', '')":"2025-03-20",
+    "('Close', 'KOTAKBANK.NS')":2033.3057861328,
+    "('High', 'KOTAKBANK.NS')":2036.5520434588,
+    "('Low', 'KOTAKBANK.NS')":2014.1778147336,
+    "('Open', 'KOTAKBANK.NS')":2028.6611166497,
+    "('Volume', 'KOTAKBANK.NS')":2683306
+  },
+  {
+    "('Date', '')":"2025-03-21",
+    "('Close', 'KOTAKBANK.NS')":2076.6057128906,
+    "('High', 'KOTAKBANK.NS')":2095.1843896839,
+    "('Low', 'KOTAKBANK.NS')":2032.6563856337,
+    "('Open', 'KOTAKBANK.NS')":2037.6506273674,
+    "('Volume', 'KOTAKBANK.NS')":18850808
+  },
+  {
+    "('Date', '')":"2025-03-24",
+    "('Close', 'KOTAKBANK.NS')":2173.6437988281,
+    "('High', 'KOTAKBANK.NS')":2181.7345682285,
+    "('Low', 'KOTAKBANK.NS')":2087.8428207575,
+    "('Open', 'KOTAKBANK.NS')":2097.5815924366,
+    "('Volume', 'KOTAKBANK.NS')":8508351
+  },
+  {
+    "('Date', '')":"2025-03-25",
+    "('Close', 'KOTAKBANK.NS')":2167.5009765625,
+    "('High', 'KOTAKBANK.NS')":2199.9635487921,
+    "('Low', 'KOTAKBANK.NS')":2157.5124927995,
+    "('Open', 'KOTAKBANK.NS')":2177.389477944,
+    "('Volume', 'KOTAKBANK.NS')":7342433
+  },
+  {
+    "('Date', '')":"2025-03-26",
+    "('Close', 'KOTAKBANK.NS')":2142.4296875,
+    "('High', 'KOTAKBANK.NS')":2173.4939681362,
+    "('Low', 'KOTAKBANK.NS')":2127.4469625358,
+    "('Open', 'KOTAKBANK.NS')":2172.4951198052,
+    "('Volume', 'KOTAKBANK.NS')":3016916
+  },
+  {
+    "('Date', '')":"2025-03-27",
+    "('Close', 'KOTAKBANK.NS')":2126.1984863281,
+    "('High', 'KOTAKBANK.NS')":2148.9222867571,
+    "('Low', 'KOTAKBANK.NS')":2109.4180287912,
+    "('Open', 'KOTAKBANK.NS')":2141.5309063591,
+    "('Volume', 'KOTAKBANK.NS')":9421224
+  },
+  {
+    "('Date', '')":"2025-03-28",
+    "('Close', 'KOTAKBANK.NS')":2168.6994628906,
+    "('High', 'KOTAKBANK.NS')":2177.3893946601,
+    "('Low', 'KOTAKBANK.NS')":2136.536595176,
+    "('Open', 'KOTAKBANK.NS')":2136.8362984493,
+    "('Volume', 'KOTAKBANK.NS')":3672253
+  },
+  {
+    "('Date', '')":"2025-04-01",
+    "('Close', 'KOTAKBANK.NS')":2143.4287109375,
+    "('High', 'KOTAKBANK.NS')":2175.9912667303,
+    "('Low', 'KOTAKBANK.NS')":2133.440226812,
+    "('Open', 'KOTAKBANK.NS')":2171.7961521695,
+    "('Volume', 'KOTAKBANK.NS')":3750939
+  },
+  {
+    "('Date', '')":"2025-04-02",
+    "('Close', 'KOTAKBANK.NS')":2152.1188964844,
+    "('High', 'KOTAKBANK.NS')":2158.1617343187,
+    "('Low', 'KOTAKBANK.NS')":2137.1859175649,
+    "('Open', 'KOTAKBANK.NS')":2138.5344604715,
+    "('Volume', 'KOTAKBANK.NS')":2132192
+  },
+  {
+    "('Date', '')":"2025-04-03",
+    "('Close', 'KOTAKBANK.NS')":2130.1440429688,
+    "('High', 'KOTAKBANK.NS')":2149.221899728,
+    "('Low', 'KOTAKBANK.NS')":2124.7001244907,
+    "('Open', 'KOTAKBANK.NS')":2126.5480914423,
+    "('Volume', 'KOTAKBANK.NS')":1694038
+  },
+  {
+    "('Date', '')":"2025-04-04",
+    "('Close', 'KOTAKBANK.NS')":2129.4948730469,
+    "('High', 'KOTAKBANK.NS')":2143.8284456384,
+    "('Low', 'KOTAKBANK.NS')":2115.7107158667,
+    "('Open', 'KOTAKBANK.NS')":2128.4460334178,
+    "('Volume', 'KOTAKBANK.NS')":3788403
+  },
+  {
+    "('Date', '')":"2025-04-07",
+    "('Close', 'KOTAKBANK.NS')":2035.5031738281,
+    "('High', 'KOTAKBANK.NS')":2081.2006097497,
+    "('Low', 'KOTAKBANK.NS')":1998.4959140155,
+    "('Open', 'KOTAKBANK.NS')":2016.3752027112,
+    "('Volume', 'KOTAKBANK.NS')":7139049
+  },
+  {
+    "('Date', '')":"2025-04-08",
+    "('Close', 'KOTAKBANK.NS')":2052.783203125,
+    "('High', 'KOTAKBANK.NS')":2077.5047011624,
+    "('Low', 'KOTAKBANK.NS')":2035.6530505136,
+    "('Open', 'KOTAKBANK.NS')":2060.0748452574,
+    "('Volume', 'KOTAKBANK.NS')":4094339
+  },
+  {
+    "('Date', '')":"2025-04-09",
+    "('Close', 'KOTAKBANK.NS')":2050.3359375,
+    "('High', 'KOTAKBANK.NS')":2062.6218208464,
+    "('Low', 'KOTAKBANK.NS')":2039.7481694884,
+    "('Open', 'KOTAKBANK.NS')":2051.6344891131,
+    "('Volume', 'KOTAKBANK.NS')":3919578
+  },
+  {
+    "('Date', '')":"2025-04-11",
+    "('Close', 'KOTAKBANK.NS')":2108.7685546875,
+    "('High', 'KOTAKBANK.NS')":2137.0360113212,
+    "('Low', 'KOTAKBANK.NS')":2056.1292962397,
+    "('Open', 'KOTAKBANK.NS')":2062.6218104129,
+    "('Volume', 'KOTAKBANK.NS')":5594689
+  },
+  {
+    "('Date', '')":"2025-04-15",
+    "('Close', 'KOTAKBANK.NS')":2117.7583007812,
+    "('High', 'KOTAKBANK.NS')":2144.5274863176,
+    "('Low', 'KOTAKBANK.NS')":2097.1821703302,
+    "('Open', 'KOTAKBANK.NS')":2142.5297895441,
+    "('Volume', 'KOTAKBANK.NS')":5635664
+  },
+  {
+    "('Date', '')":"2025-04-16",
+    "('Close', 'KOTAKBANK.NS')":2120.9545898438,
+    "('High', 'KOTAKBANK.NS')":2149.1223097426,
+    "('Low', 'KOTAKBANK.NS')":2110.866367344,
+    "('Open', 'KOTAKBANK.NS')":2117.5586028358,
+    "('Volume', 'KOTAKBANK.NS')":2899779
+  },
+  {
+    "('Date', '')":"2025-04-17",
+    "('Close', 'KOTAKBANK.NS')":2185.5803222656,
+    "('High', 'KOTAKBANK.NS')":2191.3734480059,
+    "('Low', 'KOTAKBANK.NS')":2095.2842789092,
+    "('Open', 'KOTAKBANK.NS')":2112.5644053227,
+    "('Volume', 'KOTAKBANK.NS')":5388632
+  },
+  {
+    "('Date', '')":"2025-04-21",
+    "('Close', 'KOTAKBANK.NS')":2238.8186035156,
+    "('High', 'KOTAKBANK.NS')":2258.5958497003,
+    "('Low', 'KOTAKBANK.NS')":2172.8946121397,
+    "('Open', 'KOTAKBANK.NS')":2192.4721374255,
+    "('Volume', 'KOTAKBANK.NS')":4886498
+  },
+  {
+    "('Date', '')":"2025-04-22",
+    "('Close', 'KOTAKBANK.NS')":2266.1872558594,
+    "('High', 'KOTAKBANK.NS')":2299.2489909588,
+    "('Low', 'KOTAKBANK.NS')":2242.8140574255,
+    "('Open', 'KOTAKBANK.NS')":2246.4100091413,
+    "('Volume', 'KOTAKBANK.NS')":6732983
+  },
+  {
+    "('Date', '')":"2025-04-23",
+    "('Close', 'KOTAKBANK.NS')":2224.4353027344,
+    "('High', 'KOTAKBANK.NS')":2287.3627495562,
+    "('Low', 'KOTAKBANK.NS')":2217.4433641986,
+    "('Open', 'KOTAKBANK.NS')":2282.368507745,
+    "('Volume', 'KOTAKBANK.NS')":3523879
+  },
+  {
+    "('Date', '')":"2025-04-24",
+    "('Close', 'KOTAKBANK.NS')":2220.4399414062,
+    "('High', 'KOTAKBANK.NS')":2235.3226846753,
+    "('Low', 'KOTAKBANK.NS')":2211.150602731,
+    "('Open', 'KOTAKBANK.NS')":2215.4456995227,
+    "('Volume', 'KOTAKBANK.NS')":4168537
+  },
+  {
+    "('Date', '')":"2025-04-25",
+    "('Close', 'KOTAKBANK.NS')":2201.861328125,
+    "('High', 'KOTAKBANK.NS')":2230.8279318922,
+    "('Low', 'KOTAKBANK.NS')":2175.6915486658,
+    "('Open', 'KOTAKBANK.NS')":2217.4434607987,
+    "('Volume', 'KOTAKBANK.NS')":2136003
+  },
+  {
+    "('Date', '')":"2025-04-28",
+    "('Close', 'KOTAKBANK.NS')":2223.037109375,
+    "('High', 'KOTAKBANK.NS')":2229.2299207187,
+    "('Low', 'KOTAKBANK.NS')":2186.8786019994,
+    "('Open', 'KOTAKBANK.NS')":2194.4699474268,
+    "('Volume', 'KOTAKBANK.NS')":2438178
+  },
+  {
+    "('Date', '')":"2025-04-29",
+    "('Close', 'KOTAKBANK.NS')":2202.4606933594,
+    "('High', 'KOTAKBANK.NS')":2244.4123256138,
+    "('Low', 'KOTAKBANK.NS')":2196.2678821318,
+    "('Open', 'KOTAKBANK.NS')":2223.0370676756,
+    "('Volume', 'KOTAKBANK.NS')":3058265
+  },
+  {
+    "('Date', '')":"2025-04-30",
+    "('Close', 'KOTAKBANK.NS')":2205.5571289062,
+    "('High', 'KOTAKBANK.NS')":2228.4306584709,
+    "('Low', 'KOTAKBANK.NS')":2185.6799005182,
+    "('Open', 'KOTAKBANK.NS')":2211.3502542217,
+    "('Volume', 'KOTAKBANK.NS')":4622917
+  },
+  {
+    "('Date', '')":"2025-05-02",
+    "('Close', 'KOTAKBANK.NS')":2179.1875,
+    "('High', 'KOTAKBANK.NS')":2221.0393941699,
+    "('Low', 'KOTAKBANK.NS')":2168.6995918265,
+    "('Open', 'KOTAKBANK.NS')":2201.4618680356,
+    "('Volume', 'KOTAKBANK.NS')":1815806
+  },
+  {
+    "('Date', '')":"2025-05-05",
+    "('Close', 'KOTAKBANK.NS')":2082.4987792969,
+    "('High', 'KOTAKBANK.NS')":2131.3426088,
+    "('Low', 'KOTAKBANK.NS')":2055.6298568459,
+    "('Open', 'KOTAKBANK.NS')":2102.6757105887,
+    "('Volume', 'KOTAKBANK.NS')":8821617
+  },
+  {
+    "('Date', '')":"2025-05-06",
+    "('Close', 'KOTAKBANK.NS')":2071.6115722656,
+    "('High', 'KOTAKBANK.NS')":2088.9914368035,
+    "('Low', 'KOTAKBANK.NS')":2062.6219367061,
+    "('Open', 'KOTAKBANK.NS')":2083.5977530116,
+    "('Volume', 'KOTAKBANK.NS')":3405097
+  },
+  {
+    "('Date', '')":"2025-05-07",
+    "('Close', 'KOTAKBANK.NS')":2092.4873046875,
+    "('High', 'KOTAKBANK.NS')":2099.3795045978,
+    "('Low', 'KOTAKBANK.NS')":2052.1339290105,
+    "('Open', 'KOTAKBANK.NS')":2061.3232850315,
+    "('Volume', 'KOTAKBANK.NS')":3739456
+  },
+  {
+    "('Date', '')":"2025-05-08",
+    "('Close', 'KOTAKBANK.NS')":2110.1672363281,
+    "('High', 'KOTAKBANK.NS')":2136.2370333629,
+    "('Low', 'KOTAKBANK.NS')":2092.4874244856,
+    "('Open', 'KOTAKBANK.NS')":2096.5828004868,
+    "('Volume', 'KOTAKBANK.NS')":6924871
+  },
+  {
+    "('Date', '')":"2025-05-09",
+    "('Close', 'KOTAKBANK.NS')":2100.6782226562,
+    "('High', 'KOTAKBANK.NS')":2117.558663515,
+    "('Low', 'KOTAKBANK.NS')":2072.6104843366,
+    "('Open', 'KOTAKBANK.NS')":2072.6104843366,
+    "('Volume', 'KOTAKBANK.NS')":4654300
+  },
+  {
+    "('Date', '')":"2025-05-12",
+    "('Close', 'KOTAKBANK.NS')":2142.5297851562,
+    "('High', 'KOTAKBANK.NS')":2161.1084626552,
+    "('Low', 'KOTAKBANK.NS')":2123.6516482294,
+    "('Open', 'KOTAKBANK.NS')":2131.5424529247,
+    "('Volume', 'KOTAKBANK.NS')":3021874
+  },
+  {
+    "('Date', '')":"2025-05-13",
+    "('Close', 'KOTAKBANK.NS')":2113.1638183594,
+    "('High', 'KOTAKBANK.NS')":2143.6286952193,
+    "('Low', 'KOTAKBANK.NS')":2098.6805162456,
+    "('Open', 'KOTAKBANK.NS')":2132.5413801953,
+    "('Volume', 'KOTAKBANK.NS')":4307824
+  },
+  {
+    "('Date', '')":"2025-05-14",
+    "('Close', 'KOTAKBANK.NS')":2089.990234375,
+    "('High', 'KOTAKBANK.NS')":2117.4585645833,
+    "('Low', 'KOTAKBANK.NS')":2081.6000056006,
+    "('Open', 'KOTAKBANK.NS')":2108.5689116233,
+    "('Volume', 'KOTAKBANK.NS')":2137594
+  },
+  {
+    "('Date', '')":"2025-05-15",
+    "('Close', 'KOTAKBANK.NS')":2103.9741210938,
+    "('High', 'KOTAKBANK.NS')":2109.5677695416,
+    "('Low', 'KOTAKBANK.NS')":2063.0213376888,
+    "('Open', 'KOTAKBANK.NS')":2082.6988457783,
+    "('Volume', 'KOTAKBANK.NS')":4262359
+  },
+  {
+    "('Date', '')":"2025-05-16",
+    "('Close', 'KOTAKBANK.NS')":2105.7722167969,
+    "('High', 'KOTAKBANK.NS')":2112.4644525233,
+    "('Low', 'KOTAKBANK.NS')":2087.6932064828,
+    "('Open', 'KOTAKBANK.NS')":2097.4817260346,
+    "('Volume', 'KOTAKBANK.NS')":2057908
+  },
+  {
+    "('Date', '')":"2025-05-19",
+    "('Close', 'KOTAKBANK.NS')":2108.7685546875,
+    "('High', 'KOTAKBANK.NS')":2121.5538621389,
+    "('Low', 'KOTAKBANK.NS')":2097.9809439047,
+    "('Open', 'KOTAKBANK.NS')":2099.5791987835,
+    "('Volume', 'KOTAKBANK.NS')":1505704
+  },
+  {
+    "('Date', '')":"2025-05-20",
+    "('Close', 'KOTAKBANK.NS')":2087.6931152344,
+    "('High', 'KOTAKBANK.NS')":2115.4609053589,
+    "('Low', 'KOTAKBANK.NS')":2082.2991876185,
+    "('Open', 'KOTAKBANK.NS')":2112.3646216689,
+    "('Volume', 'KOTAKBANK.NS')":3909098
+  },
+  {
+    "('Date', '')":"2025-05-21",
+    "('Close', 'KOTAKBANK.NS')":2068.9147949219,
+    "('High', 'KOTAKBANK.NS')":2093.8860055885,
+    "('Low', 'KOTAKBANK.NS')":2057.6277589287,
+    "('Open', 'KOTAKBANK.NS')":2092.5874538619,
+    "('Volume', 'KOTAKBANK.NS')":2141740
+  },
+  {
+    "('Date', '')":"2025-05-22",
+    "('Close', 'KOTAKBANK.NS')":2063.4211425781,
+    "('High', 'KOTAKBANK.NS')":2075.2076028646,
+    "('Low', 'KOTAKBANK.NS')":2048.3384336893,
+    "('Open', 'KOTAKBANK.NS')":2071.6116509605,
+    "('Volume', 'KOTAKBANK.NS')":3289328
+  },
+  {
+    "('Date', '')":"2025-05-23",
+    "('Close', 'KOTAKBANK.NS')":2098.3806152344,
+    "('High', 'KOTAKBANK.NS')":2106.8708260183,
+    "('Low', 'KOTAKBANK.NS')":2063.420923771,
+    "('Open', 'KOTAKBANK.NS')":2063.420923771,
+    "('Volume', 'KOTAKBANK.NS')":1650953
+  },
+  {
+    "('Date', '')":"2025-05-26",
+    "('Close', 'KOTAKBANK.NS')":2086.8940429688,
+    "('High', 'KOTAKBANK.NS')":2109.5678532254,
+    "('Low', 'KOTAKBANK.NS')":2082.6989283962,
+    "('Open', 'KOTAKBANK.NS')":2087.6931704729,
+    "('Volume', 'KOTAKBANK.NS')":2040285
+  },
+  {
+    "('Date', '')":"2025-05-27",
+    "('Close', 'KOTAKBANK.NS')":2075.0075683594,
+    "('High', 'KOTAKBANK.NS')":2096.5827913405,
+    "('Low', 'KOTAKBANK.NS')":2058.8262730533,
+    "('Open', 'KOTAKBANK.NS')":2087.5931557416,
+    "('Volume', 'KOTAKBANK.NS')":3459940
+  },
+  {
+    "('Date', '')":"2025-05-28",
+    "('Close', 'KOTAKBANK.NS')":2071.9111328125,
+    "('High', 'KOTAKBANK.NS')":2078.0039612896,
+    "('Low', 'KOTAKBANK.NS')":2061.023539736,
+    "('Open', 'KOTAKBANK.NS')":2072.6102778693,
+    "('Volume', 'KOTAKBANK.NS')":1634636
+  },
+  {
+    "('Date', '')":"2025-05-29",
+    "('Close', 'KOTAKBANK.NS')":2079.2028808594,
+    "('High', 'KOTAKBANK.NS')":2093.5861999565,
+    "('Low', 'KOTAKBANK.NS')":2052.633416465,
+    "('Open', 'KOTAKBANK.NS')":2074.9077840628,
+    "('Volume', 'KOTAKBANK.NS')":4987382
+  },
+  {
+    "('Date', '')":"2025-05-30",
+    "('Close', 'KOTAKBANK.NS')":2072.3107910156,
+    "('High', 'KOTAKBANK.NS')":2087.7929416961,
+    "('Low', 'KOTAKBANK.NS')":2063.1214342224,
+    "('Open', 'KOTAKBANK.NS')":2079.2029915052,
+    "('Volume', 'KOTAKBANK.NS')":9807728
+  },
+  {
+    "('Date', '')":"2025-06-02",
+    "('Close', 'KOTAKBANK.NS')":2061.2236328125,
+    "('High', 'KOTAKBANK.NS')":2073.4095343848,
+    "('Low', 'KOTAKBANK.NS')":2048.8377664749,
+    "('Open', 'KOTAKBANK.NS')":2064.6196197909,
+    "('Volume', 'KOTAKBANK.NS')":2701140
+  },
+  {
+    "('Date', '')":"2025-06-03",
+    "('Close', 'KOTAKBANK.NS')":2042.1455078125,
+    "('High', 'KOTAKBANK.NS')":2073.4095108004,
+    "('Low', 'KOTAKBANK.NS')":2031.8573207523,
+    "('Open', 'KOTAKBANK.NS')":2067.6161414389,
+    "('Volume', 'KOTAKBANK.NS')":6463818
+  },
+  {
+    "('Date', '')":"2025-06-04",
+    "('Close', 'KOTAKBANK.NS')":2043.9434814453,
+    "('High', 'KOTAKBANK.NS')":2056.1293828658,
+    "('Low', 'KOTAKBANK.NS')":2038.449815375,
+    "('Open', 'KOTAKBANK.NS')":2044.7424869886,
+    "('Volume', 'KOTAKBANK.NS')":2331114
+  },
+  {
+    "('Date', '')":"2025-06-05",
+    "('Close', 'KOTAKBANK.NS')":2037.55078125,
+    "('High', 'KOTAKBANK.NS')":2054.0316571575,
+    "('Low', 'KOTAKBANK.NS')":2031.8572724756,
+    "('Open', 'KOTAKBANK.NS')":2052.4336461072,
+    "('Volume', 'KOTAKBANK.NS')":3725332
+  },
+  {
+    "('Date', '')":"2025-06-06",
+    "('Close', 'KOTAKBANK.NS')":2071.0122070312,
+    "('High', 'KOTAKBANK.NS')":2082.4989638088,
+    "('Low', 'KOTAKBANK.NS')":2031.4579560955,
+    "('Open', 'KOTAKBANK.NS')":2041.5463007055,
+    "('Volume', 'KOTAKBANK.NS')":4424324
+  },
+  {
+    "('Date', '')":"2025-06-09",
+    "('Close', 'KOTAKBANK.NS')":2135.7375488281,
+    "('High', 'KOTAKBANK.NS')":2139.9326632355,
+    "('Low', 'KOTAKBANK.NS')":2087.593105876,
+    "('Open', 'KOTAKBANK.NS')":2108.5689217723,
+    "('Volume', 'KOTAKBANK.NS')":5779088
+  },
+  {
+    "('Date', '')":"2025-06-10",
+    "('Close', 'KOTAKBANK.NS')":2148.6228027344,
+    "('High', 'KOTAKBANK.NS')":2170.3975018745,
+    "('Low', 'KOTAKBANK.NS')":2135.7375125867,
+    "('Open', 'KOTAKBANK.NS')":2144.2277236388,
+    "('Volume', 'KOTAKBANK.NS')":4915742
+  },
+  {
+    "('Date', '')":"2025-06-11",
+    "('Close', 'KOTAKBANK.NS')":2142.8295898438,
+    "('High', 'KOTAKBANK.NS')":2158.2117581521,
+    "('Low', 'KOTAKBANK.NS')":2130.5437053588,
+    "('Open', 'KOTAKBANK.NS')":2146.5252802701,
+    "('Volume', 'KOTAKBANK.NS')":1782061
+  },
+  {
+    "('Date', '')":"2025-06-12",
+    "('Close', 'KOTAKBANK.NS')":2124.3508300781,
+    "('High', 'KOTAKBANK.NS')":2146.3254949214,
+    "('Low', 'KOTAKBANK.NS')":2119.7560298853,
+    "('Open', 'KOTAKBANK.NS')":2142.8295255145,
+    "('Volume', 'KOTAKBANK.NS')":2978172
+  },
+  {
+    "('Date', '')":"2025-06-13",
+    "('Close', 'KOTAKBANK.NS')":2104.9729003906,
+    "('High', 'KOTAKBANK.NS')":2119.5561837415,
+    "('Low', 'KOTAKBANK.NS')":2069.613766594,
+    "('Open', 'KOTAKBANK.NS')":2069.613766594,
+    "('Volume', 'KOTAKBANK.NS')":4467274
+  },
+  {
+    "('Date', '')":"2025-06-16",
+    "('Close', 'KOTAKBANK.NS')":2136.5366210938,
+    "('High', 'KOTAKBANK.NS')":2142.230007918,
+    "('Low', 'KOTAKBANK.NS')":2086.3944826852,
+    "('Open', 'KOTAKBANK.NS')":2105.4723398585,
+    "('Volume', 'KOTAKBANK.NS')":2941596
+  },
+  {
+    "('Date', '')":"2025-06-17",
+    "('Close', 'KOTAKBANK.NS')":2134.3393554688,
+    "('High', 'KOTAKBANK.NS')":2153.317475474,
+    "('Low', 'KOTAKBANK.NS')":2127.7468583442,
+    "('Open', 'KOTAKBANK.NS')":2136.5367732238,
+    "('Volume', 'KOTAKBANK.NS')":3108300
+  },
+  {
+    "('Date', '')":"2025-06-18",
+    "('Close', 'KOTAKBANK.NS')":2129.9440917969,
+    "('High', 'KOTAKBANK.NS')":2134.9383334714,
+    "('Low', 'KOTAKBANK.NS')":2106.2714350316,
+    "('Open', 'KOTAKBANK.NS')":2122.5527116624,
+    "('Volume', 'KOTAKBANK.NS')":3900651
+  },
+  {
+    "('Date', '')":"2025-06-19",
+    "('Close', 'KOTAKBANK.NS')":2143.9279785156,
+    "('High', 'KOTAKBANK.NS')":2152.218468506,
+    "('Low', 'KOTAKBANK.NS')":2130.6434906869,
+    "('Open', 'KOTAKBANK.NS')":2137.0360225164,
+    "('Volume', 'KOTAKBANK.NS')":3405199
+  },
+  {
+    "('Date', '')":"2025-06-20",
+    "('Close', 'KOTAKBANK.NS')":2167.3012695312,
+    "('High', 'KOTAKBANK.NS')":2173.494080732,
+    "('Low', 'KOTAKBANK.NS')":2128.8456067977,
+    "('Open', 'KOTAKBANK.NS')":2142.5297808687,
+    "('Volume', 'KOTAKBANK.NS')":3372636
+  },
+  {
+    "('Date', '')":"2025-06-23",
+    "('Close', 'KOTAKBANK.NS')":2181.5849609375,
+    "('High', 'KOTAKBANK.NS')":2187.1783658489,
+    "('Low', 'KOTAKBANK.NS')":2148.7227011629,
+    "('Open', 'KOTAKBANK.NS')":2155.614901669,
+    "('Volume', 'KOTAKBANK.NS')":1720614
+  },
+  {
+    "('Date', '')":"2025-06-24",
+    "('Close', 'KOTAKBANK.NS')":2221.0393066406,
+    "('High', 'KOTAKBANK.NS')":2231.0277902217,
+    "('Low', 'KOTAKBANK.NS')":2188.8761944219,
+    "('Open', 'KOTAKBANK.NS')":2205.4571747103,
+    "('Volume', 'KOTAKBANK.NS')":5604520
+  },
+  {
+    "('Date', '')":"2025-06-25",
+    "('Close', 'KOTAKBANK.NS')":2195.7685546875,
+    "('High', 'KOTAKBANK.NS')":2221.0394687643,
+    "('Low', 'KOTAKBANK.NS')":2188.4769123691,
+    "('Open', 'KOTAKBANK.NS')":2220.4400621618,
+    "('Volume', 'KOTAKBANK.NS')":3575429
+  },
+  {
+    "('Date', '')":"2025-06-26",
+    "('Close', 'KOTAKBANK.NS')":2201.3618164062,
+    "('High', 'KOTAKBANK.NS')":2207.454888983,
+    "('Low', 'KOTAKBANK.NS')":2177.4894380013,
+    "('Open', 'KOTAKBANK.NS')":2199.8635438572,
+    "('Volume', 'KOTAKBANK.NS')":5670127
+  },
+  {
+    "('Date', '')":"2025-06-27",
+    "('Close', 'KOTAKBANK.NS')":2205.3571777344,
+    "('High', 'KOTAKBANK.NS')":2214.7464985542,
+    "('Low', 'KOTAKBANK.NS')":2180.086509529,
+    "('Open', 'KOTAKBANK.NS')":2207.4548568163,
+    "('Volume', 'KOTAKBANK.NS')":9649439
+  },
+  {
+    "('Date', '')":"2025-06-30",
+    "('Close', 'KOTAKBANK.NS')":2161.0085449219,
+    "('High', 'KOTAKBANK.NS')":2206.4561477848,
+    "('Low', 'KOTAKBANK.NS')":2152.0189091907,
+    "('Open', 'KOTAKBANK.NS')":2205.357316985,
+    "('Volume', 'KOTAKBANK.NS')":3727657
+  },
+  {
+    "('Date', '')":"2025-07-01",
+    "('Close', 'KOTAKBANK.NS')":2181.0854492188,
+    "('High', 'KOTAKBANK.NS')":2183.9820120156,
+    "('Low', 'KOTAKBANK.NS')":2156.8133844889,
+    "('Open', 'KOTAKBANK.NS')":2161.008498969,
+    "('Volume', 'KOTAKBANK.NS')":4025754
+  },
+  {
+    "('Date', '')":"2025-07-02",
+    "('Close', 'KOTAKBANK.NS')":2166.6020507812,
+    "('High', 'KOTAKBANK.NS')":2194.669543065,
+    "('Low', 'KOTAKBANK.NS')":2158.5112816127,
+    "('Open', 'KOTAKBANK.NS')":2182.4836419823,
+    "('Volume', 'KOTAKBANK.NS')":1876511
+  },
+  {
+    "('Date', '')":"2025-07-03",
+    "('Close', 'KOTAKBANK.NS')":2124.1511230469,
+    "('High', 'KOTAKBANK.NS')":2149.4217926942,
+    "('Low', 'KOTAKBANK.NS')":2119.4563404394,
+    "('Open', 'KOTAKBANK.NS')":2136.636728153,
+    "('Volume', 'KOTAKBANK.NS')":4667399
+  },
+  {
+    "('Date', '')":"2025-07-04",
+    "('Close', 'KOTAKBANK.NS')":2127.3474121094,
+    "('High', 'KOTAKBANK.NS')":2134.8387752538,
+    "('Low', 'KOTAKBANK.NS')":2108.5690130554,
+    "('Open', 'KOTAKBANK.NS')":2121.5540425058,
+    "('Volume', 'KOTAKBANK.NS')":1686215
+  },
+  {
+    "('Date', '')":"2025-07-07",
+    "('Close', 'KOTAKBANK.NS')":2147.32421875,
+    "('High', 'KOTAKBANK.NS')":2154.3161571582,
+    "('Low', 'KOTAKBANK.NS')":2119.3564651174,
+    "('Open', 'KOTAKBANK.NS')":2127.5469727665,
+    "('Volume', 'KOTAKBANK.NS')":2170585
+  },
+  {
+    "('Date', '')":"2025-07-08",
+    "('Close', 'KOTAKBANK.NS')":2221.9382324219,
+    "('High', 'KOTAKBANK.NS')":2238.9186549668,
+    "('Low', 'KOTAKBANK.NS')":2173.6938066547,
+    "('Open', 'KOTAKBANK.NS')":2182.4837212146,
+    "('Volume', 'KOTAKBANK.NS')":7526291
+  },
+  {
+    "('Date', '')":"2025-07-09",
+    "('Close', 'KOTAKBANK.NS')":2226.7326660156,
+    "('High', 'KOTAKBANK.NS')":2231.5271868473,
+    "('Low', 'KOTAKBANK.NS')":2211.4502375533,
+    "('Open', 'KOTAKBANK.NS')":2214.4467825907,
+    "('Volume', 'KOTAKBANK.NS')":2020902
+  },
+  {
+    "('Date', '')":"2025-07-10",
+    "('Close', 'KOTAKBANK.NS')":2201.2622070312,
+    "('High', 'KOTAKBANK.NS')":2240.1173132066,
+    "('Low', 'KOTAKBANK.NS')":2184.3815223389,
+    "('Open', 'KOTAKBANK.NS')":2226.533120947,
+    "('Volume', 'KOTAKBANK.NS')":5721813
+  },
+  {
+    "('Date', '')":"2025-07-11",
+    "('Close', 'KOTAKBANK.NS')":2218.0427246094,
+    "('High', 'KOTAKBANK.NS')":2222.4375597681,
+    "('Low', 'KOTAKBANK.NS')":2196.0680610971,
+    "('Open', 'KOTAKBANK.NS')":2199.2643270179,
+    "('Volume', 'KOTAKBANK.NS')":2679166
+  },
+  {
+    "('Date', '')":"2025-07-14",
+    "('Close', 'KOTAKBANK.NS')":2201.2622070312,
+    "('High', 'KOTAKBANK.NS')":2224.4354417114,
+    "('Low', 'KOTAKBANK.NS')":2194.769692271,
+    "('Open', 'KOTAKBANK.NS')":2221.3389140512,
+    "('Volume', 'KOTAKBANK.NS')":2395337
+  },
+  {
+    "('Date', '')":"2025-07-15",
+    "('Close', 'KOTAKBANK.NS')":2185.5803222656,
+    "('High', 'KOTAKBANK.NS')":2231.0279253116,
+    "('Low', 'KOTAKBANK.NS')":2179.3872669828,
+    "('Open', 'KOTAKBANK.NS')":2207.455005089,
+    "('Volume', 'KOTAKBANK.NS')":2974143
+  },
+  {
+    "('Date', '')":"2025-07-16",
+    "('Close', 'KOTAKBANK.NS')":2176.8901367188,
+    "('High', 'KOTAKBANK.NS')":2187.4780274548,
+    "('Low', 'KOTAKBANK.NS')":2153.5171813664,
+    "('Open', 'KOTAKBANK.NS')":2181.5849193538,
+    "('Volume', 'KOTAKBANK.NS')":2287703
+  },
+  {
+    "('Date', '')":"2025-07-17",
+    "('Close', 'KOTAKBANK.NS')":2168.3000488281,
+    "('High', 'KOTAKBANK.NS')":2189.1758818174,
+    "('Low', 'KOTAKBANK.NS')":2164.2046730458,
+    "('Open', 'KOTAKBANK.NS')":2172.4951631299,
+    "('Volume', 'KOTAKBANK.NS')":2179561
+  },
+  {
+    "('Date', '')":"2025-07-18",
+    "('Close', 'KOTAKBANK.NS')":2140.5,
+    "('High', 'KOTAKBANK.NS')":2168.0,
+    "('Low', 'KOTAKBANK.NS')":2131.0,
+    "('Open', 'KOTAKBANK.NS')":2167.6000976562,
+    "('Volume', 'KOTAKBANK.NS')":2566543
+  },
+  {
+    "('Date', '')":"2025-07-21",
+    "('Close', 'KOTAKBANK.NS')":2165.1999511719,
+    "('High', 'KOTAKBANK.NS')":2167.6000976562,
+    "('Low', 'KOTAKBANK.NS')":2130.1999511719,
+    "('Open', 'KOTAKBANK.NS')":2138.1000976562,
+    "('Volume', 'KOTAKBANK.NS')":1827099
+  },
+  {
+    "('Date', '')":"2025-07-22",
+    "('Close', 'KOTAKBANK.NS')":2160.1999511719,
+    "('High', 'KOTAKBANK.NS')":2175.0,
+    "('Low', 'KOTAKBANK.NS')":2145.0,
+    "('Open', 'KOTAKBANK.NS')":2172.0,
+    "('Volume', 'KOTAKBANK.NS')":1564562
+  },
+  {
+    "('Date', '')":"2025-07-23",
+    "('Close', 'KOTAKBANK.NS')":2170.3999023438,
+    "('High', 'KOTAKBANK.NS')":2179.8000488281,
+    "('Low', 'KOTAKBANK.NS')":2156.1999511719,
+    "('Open', 'KOTAKBANK.NS')":2171.0,
+    "('Volume', 'KOTAKBANK.NS')":2790541
+  },
+  {
+    "('Date', '')":"2025-07-24",
+    "('Close', 'KOTAKBANK.NS')":2142.1000976562,
+    "('High', 'KOTAKBANK.NS')":2171.8000488281,
+    "('Low', 'KOTAKBANK.NS')":2140.0,
+    "('Open', 'KOTAKBANK.NS')":2165.3999023438,
+    "('Volume', 'KOTAKBANK.NS')":2058400
+  },
+  {
+    "('Date', '')":"2025-07-25",
+    "('Close', 'KOTAKBANK.NS')":2124.6000976562,
+    "('High', 'KOTAKBANK.NS')":2149.8999023438,
+    "('Low', 'KOTAKBANK.NS')":2118.3000488281,
+    "('Open', 'KOTAKBANK.NS')":2139.1000976562,
+    "('Volume', 'KOTAKBANK.NS')":1745475
+  },
+  {
+    "('Date', '')":"2025-07-28",
+    "('Close', 'KOTAKBANK.NS')":1966.5999755859,
+    "('High', 'KOTAKBANK.NS')":2055.3000488281,
+    "('Low', 'KOTAKBANK.NS')":1960.0,
+    "('Open', 'KOTAKBANK.NS')":2025.3000488281,
+    "('Volume', 'KOTAKBANK.NS')":13824699
+  },
+  {
+    "('Date', '')":"2025-07-29",
+    "('Close', 'KOTAKBANK.NS')":1972.6999511719,
+    "('High', 'KOTAKBANK.NS')":1979.6999511719,
+    "('Low', 'KOTAKBANK.NS')":1953.0,
+    "('Open', 'KOTAKBANK.NS')":1967.0,
+    "('Volume', 'KOTAKBANK.NS')":5043934
+  },
+  {
+    "('Date', '')":"2025-07-30",
+    "('Close', 'KOTAKBANK.NS')":1959.6999511719,
+    "('High', 'KOTAKBANK.NS')":1980.9000244141,
+    "('Low', 'KOTAKBANK.NS')":1957.0,
+    "('Open', 'KOTAKBANK.NS')":1966.0999755859,
+    "('Volume', 'KOTAKBANK.NS')":3589991
+  },
+  {
+    "('Date', '')":"2025-07-31",
+    "('Close', 'KOTAKBANK.NS')":1978.5999755859,
+    "('High', 'KOTAKBANK.NS')":1998.5999755859,
+    "('Low', 'KOTAKBANK.NS')":1935.0,
+    "('Open', 'KOTAKBANK.NS')":1941.1999511719,
+    "('Volume', 'KOTAKBANK.NS')":4303918
+  },
+  {
+    "('Date', '')":"2025-08-01",
+    "('Close', 'KOTAKBANK.NS')":1992.4000244141,
+    "('High', 'KOTAKBANK.NS')":2007.0,
+    "('Low', 'KOTAKBANK.NS')":1972.0999755859,
+    "('Open', 'KOTAKBANK.NS')":1983.0,
+    "('Volume', 'KOTAKBANK.NS')":2672373
+  },
+  {
+    "('Date', '')":"2025-08-04",
+    "('Close', 'KOTAKBANK.NS')":1997.0,
+    "('High', 'KOTAKBANK.NS')":2007.0,
+    "('Low', 'KOTAKBANK.NS')":1982.0999755859,
+    "('Open', 'KOTAKBANK.NS')":1987.0,
+    "('Volume', 'KOTAKBANK.NS')":1543261
+  },
+  {
+    "('Date', '')":"2025-08-05",
+    "('Close', 'KOTAKBANK.NS')":2003.0,
+    "('High', 'KOTAKBANK.NS')":2008.0,
+    "('Low', 'KOTAKBANK.NS')":1994.8000488281,
+    "('Open', 'KOTAKBANK.NS')":2008.0,
+    "('Volume', 'KOTAKBANK.NS')":2421332
+  },
+  {
+    "('Date', '')":"2025-08-06",
+    "('Close', 'KOTAKBANK.NS')":2002.4000244141,
+    "('High', 'KOTAKBANK.NS')":2025.5999755859,
+    "('Low', 'KOTAKBANK.NS')":1992.6999511719,
+    "('Open', 'KOTAKBANK.NS')":2003.0,
+    "('Volume', 'KOTAKBANK.NS')":2662279
+  },
+  {
+    "('Date', '')":"2025-08-07",
+    "('Close', 'KOTAKBANK.NS')":1992.0999755859,
+    "('High', 'KOTAKBANK.NS')":1995.5,
+    "('Low', 'KOTAKBANK.NS')":1965.0,
+    "('Open', 'KOTAKBANK.NS')":1981.0,
+    "('Volume', 'KOTAKBANK.NS')":14552199
+  },
+  {
+    "('Date', '')":"2025-08-08",
+    "('Close', 'KOTAKBANK.NS')":1952.6999511719,
+    "('High', 'KOTAKBANK.NS')":1999.5,
+    "('Low', 'KOTAKBANK.NS')":1948.1999511719,
+    "('Open', 'KOTAKBANK.NS')":1993.9000244141,
+    "('Volume', 'KOTAKBANK.NS')":2185729
+  },
+  {
+    "('Date', '')":"2025-08-11",
+    "('Close', 'KOTAKBANK.NS')":1975.9000244141,
+    "('High', 'KOTAKBANK.NS')":2024.0,
+    "('Low', 'KOTAKBANK.NS')":1956.4000244141,
+    "('Open', 'KOTAKBANK.NS')":1964.0,
+    "('Volume', 'KOTAKBANK.NS')":2202513
+  },
+  {
+    "('Date', '')":"2025-08-12",
+    "('Close', 'KOTAKBANK.NS')":1959.0,
+    "('High', 'KOTAKBANK.NS')":1985.9000244141,
+    "('Low', 'KOTAKBANK.NS')":1956.4000244141,
+    "('Open', 'KOTAKBANK.NS')":1975.0,
+    "('Volume', 'KOTAKBANK.NS')":1577824
+  },
+  {
+    "('Date', '')":"2025-08-13",
+    "('Close', 'KOTAKBANK.NS')":1987.6999511719,
+    "('High', 'KOTAKBANK.NS')":1996.3000488281,
+    "('Low', 'KOTAKBANK.NS')":1962.1999511719,
+    "('Open', 'KOTAKBANK.NS')":1968.0,
+    "('Volume', 'KOTAKBANK.NS')":2746733
+  },
+  {
+    "('Date', '')":"2025-08-14",
+    "('Close', 'KOTAKBANK.NS')":1978.1999511719,
+    "('High', 'KOTAKBANK.NS')":1993.5,
+    "('Low', 'KOTAKBANK.NS')":1975.5,
+    "('Open', 'KOTAKBANK.NS')":1988.0,
+    "('Volume', 'KOTAKBANK.NS')":1984593
+  },
+  {
+    "('Date', '')":"2025-08-18",
+    "('Close', 'KOTAKBANK.NS')":2001.4000244141,
+    "('High', 'KOTAKBANK.NS')":2026.0,
+    "('Low', 'KOTAKBANK.NS')":1997.0999755859,
+    "('Open', 'KOTAKBANK.NS')":1997.9000244141,
+    "('Volume', 'KOTAKBANK.NS')":4303944
+  },
+  {
+    "('Date', '')":"2025-08-19",
+    "('Close', 'KOTAKBANK.NS')":2029.9000244141,
+    "('High', 'KOTAKBANK.NS')":2032.5,
+    "('Low', 'KOTAKBANK.NS')":1992.5,
+    "('Open', 'KOTAKBANK.NS')":1994.0,
+    "('Volume', 'KOTAKBANK.NS')":3111769
+  },
+  {
+    "('Date', '')":"2025-08-20",
+    "('Close', 'KOTAKBANK.NS')":2017.5,
+    "('High', 'KOTAKBANK.NS')":2024.1999511719,
+    "('Low', 'KOTAKBANK.NS')":2005.5,
+    "('Open', 'KOTAKBANK.NS')":2020.5,
+    "('Volume', 'KOTAKBANK.NS')":2626941
+  },
+  {
+    "('Date', '')":"2025-08-21",
+    "('Close', 'KOTAKBANK.NS')":2017.8000488281,
+    "('High', 'KOTAKBANK.NS')":2039.0,
+    "('Low', 'KOTAKBANK.NS')":2012.9000244141,
+    "('Open', 'KOTAKBANK.NS')":2039.0,
+    "('Volume', 'KOTAKBANK.NS')":2898787
+  },
+  {
+    "('Date', '')":"2025-08-22",
+    "('Close', 'KOTAKBANK.NS')":1986.5999755859,
+    "('High', 'KOTAKBANK.NS')":2018.5999755859,
+    "('Low', 'KOTAKBANK.NS')":1980.1999511719,
+    "('Open', 'KOTAKBANK.NS')":2010.1999511719,
+    "('Volume', 'KOTAKBANK.NS')":1791693
+  },
+  {
+    "('Date', '')":"2025-08-25",
+    "('Close', 'KOTAKBANK.NS')":1983.3000488281,
+    "('High', 'KOTAKBANK.NS')":1998.8000488281,
+    "('Low', 'KOTAKBANK.NS')":1976.6999511719,
+    "('Open', 'KOTAKBANK.NS')":1987.0,
+    "('Volume', 'KOTAKBANK.NS')":2369815
+  },
+  {
+    "('Date', '')":"2025-08-26",
+    "('Close', 'KOTAKBANK.NS')":1965.6999511719,
+    "('High', 'KOTAKBANK.NS')":1983.9000244141,
+    "('Low', 'KOTAKBANK.NS')":1961.1999511719,
+    "('Open', 'KOTAKBANK.NS')":1978.0,
+    "('Volume', 'KOTAKBANK.NS')":3710138
+  },
+  {
+    "('Date', '')":"2025-08-28",
+    "('Close', 'KOTAKBANK.NS')":1944.6999511719,
+    "('High', 'KOTAKBANK.NS')":1968.0,
+    "('Low', 'KOTAKBANK.NS')":1941.0999755859,
+    "('Open', 'KOTAKBANK.NS')":1955.0,
+    "('Volume', 'KOTAKBANK.NS')":3597940
+  },
+  {
+    "('Date', '')":"2025-08-29",
+    "('Close', 'KOTAKBANK.NS')":1960.3000488281,
+    "('High', 'KOTAKBANK.NS')":1984.9000244141,
+    "('Low', 'KOTAKBANK.NS')":1950.1999511719,
+    "('Open', 'KOTAKBANK.NS')":1950.1999511719,
+    "('Volume', 'KOTAKBANK.NS')":3074358
+  },
+  {
+    "('Date', '')":"2025-09-01",
+    "('Close', 'KOTAKBANK.NS')":1968.5999755859,
+    "('High', 'KOTAKBANK.NS')":1972.8000488281,
+    "('Low', 'KOTAKBANK.NS')":1955.1999511719,
+    "('Open', 'KOTAKBANK.NS')":1960.3000488281,
+    "('Volume', 'KOTAKBANK.NS')":1578322
+  },
+  {
+    "('Date', '')":"2025-09-02",
+    "('Close', 'KOTAKBANK.NS')":1942.5,
+    "('High', 'KOTAKBANK.NS')":1975.1999511719,
+    "('Low', 'KOTAKBANK.NS')":1940.4000244141,
+    "('Open', 'KOTAKBANK.NS')":1966.0,
+    "('Volume', 'KOTAKBANK.NS')":2583419
+  },
+  {
+    "('Date', '')":"2025-09-03",
+    "('Close', 'KOTAKBANK.NS')":1960.1999511719,
+    "('High', 'KOTAKBANK.NS')":1963.8000488281,
+    "('Low', 'KOTAKBANK.NS')":1931.0999755859,
+    "('Open', 'KOTAKBANK.NS')":1944.0,
+    "('Volume', 'KOTAKBANK.NS')":4007454
+  },
+  {
+    "('Date', '')":"2025-09-04",
+    "('Close', 'KOTAKBANK.NS')":1949.6999511719,
+    "('High', 'KOTAKBANK.NS')":1971.6999511719,
+    "('Low', 'KOTAKBANK.NS')":1946.5,
+    "('Open', 'KOTAKBANK.NS')":1961.0,
+    "('Volume', 'KOTAKBANK.NS')":1891459
+  },
+  {
+    "('Date', '')":"2025-09-05",
+    "('Close', 'KOTAKBANK.NS')":1945.5,
+    "('High', 'KOTAKBANK.NS')":1957.3000488281,
+    "('Low', 'KOTAKBANK.NS')":1937.0999755859,
+    "('Open', 'KOTAKBANK.NS')":1949.6999511719,
+    "('Volume', 'KOTAKBANK.NS')":1981252
+  },
+  {
+    "('Date', '')":"2025-09-08",
+    "('Close', 'KOTAKBANK.NS')":1950.0999755859,
+    "('High', 'KOTAKBANK.NS')":1961.5,
+    "('Low', 'KOTAKBANK.NS')":1931.5,
+    "('Open', 'KOTAKBANK.NS')":1942.5,
+    "('Volume', 'KOTAKBANK.NS')":2505558
+  },
+  {
+    "('Date', '')":"2025-09-09",
+    "('Close', 'KOTAKBANK.NS')":1960.4000244141,
+    "('High', 'KOTAKBANK.NS')":1965.9000244141,
+    "('Low', 'KOTAKBANK.NS')":1939.8000488281,
+    "('Open', 'KOTAKBANK.NS')":1956.0,
+    "('Volume', 'KOTAKBANK.NS')":3174784
+  },
+  {
+    "('Date', '')":"2025-09-10",
+    "('Close', 'KOTAKBANK.NS')":1973.3000488281,
+    "('High', 'KOTAKBANK.NS')":1988.9000244141,
+    "('Low', 'KOTAKBANK.NS')":1965.8000488281,
+    "('Open', 'KOTAKBANK.NS')":1984.9000244141,
+    "('Volume', 'KOTAKBANK.NS')":8520902
+  },
+  {
+    "('Date', '')":"2025-09-11",
+    "('Close', 'KOTAKBANK.NS')":1972.3000488281,
+    "('High', 'KOTAKBANK.NS')":1985.0,
+    "('Low', 'KOTAKBANK.NS')":1963.3000488281,
+    "('Open', 'KOTAKBANK.NS')":1977.0,
+    "('Volume', 'KOTAKBANK.NS')":2363267
+  },
+  {
+    "('Date', '')":"2025-09-12",
+    "('Close', 'KOTAKBANK.NS')":1972.3000488281,
+    "('High', 'KOTAKBANK.NS')":1985.0,
+    "('Low', 'KOTAKBANK.NS')":1966.0,
+    "('Open', 'KOTAKBANK.NS')":1973.1999511719,
+    "('Volume', 'KOTAKBANK.NS')":3615457
+  },
+  {
+    "('Date', '')":"2025-09-15",
+    "('Close', 'KOTAKBANK.NS')":1970.8000488281,
+    "('High', 'KOTAKBANK.NS')":1981.5999755859,
+    "('Low', 'KOTAKBANK.NS')":1964.9000244141,
+    "('Open', 'KOTAKBANK.NS')":1968.0,
+    "('Volume', 'KOTAKBANK.NS')":2619626
+  },
+  {
+    "('Date', '')":"2025-09-16",
+    "('Close', 'KOTAKBANK.NS')":2021.6999511719,
+    "('High', 'KOTAKBANK.NS')":2030.5,
+    "('Low', 'KOTAKBANK.NS')":1973.1999511719,
+    "('Open', 'KOTAKBANK.NS')":1976.4000244141,
+    "('Volume', 'KOTAKBANK.NS')":4016877
+  },
+  {
+    "('Date', '')":"2025-09-17",
+    "('Close', 'KOTAKBANK.NS')":2050.3000488281,
+    "('High', 'KOTAKBANK.NS')":2052.6999511719,
+    "('Low', 'KOTAKBANK.NS')":2020.3000488281,
+    "('Open', 'KOTAKBANK.NS')":2029.0,
+    "('Volume', 'KOTAKBANK.NS')":4783438
+  },
+  {
+    "('Date', '')":"2025-09-18",
+    "('Close', 'KOTAKBANK.NS')":2054.6000976562,
+    "('High', 'KOTAKBANK.NS')":2061.3000488281,
+    "('Low', 'KOTAKBANK.NS')":2042.1999511719,
+    "('Open', 'KOTAKBANK.NS')":2050.0,
+    "('Volume', 'KOTAKBANK.NS')":3484116
+  },
+  {
+    "('Date', '')":"2025-09-19",
+    "('Close', 'KOTAKBANK.NS')":2031.0,
+    "('High', 'KOTAKBANK.NS')":2054.6000976562,
+    "('Low', 'KOTAKBANK.NS')":2027.4000244141,
+    "('Open', 'KOTAKBANK.NS')":2054.6000976562,
+    "('Volume', 'KOTAKBANK.NS')":4486225
+  },
+  {
+    "('Date', '')":"2025-09-22",
+    "('Close', 'KOTAKBANK.NS')":2021.6999511719,
+    "('High', 'KOTAKBANK.NS')":2039.5999755859,
+    "('Low', 'KOTAKBANK.NS')":2017.4000244141,
+    "('Open', 'KOTAKBANK.NS')":2032.0,
+    "('Volume', 'KOTAKBANK.NS')":2645982
+  },
+  {
+    "('Date', '')":"2025-09-23",
+    "('Close', 'KOTAKBANK.NS')":2047.6999511719,
+    "('High', 'KOTAKBANK.NS')":2053.1000976562,
+    "('Low', 'KOTAKBANK.NS')":2008.4000244141,
+    "('Open', 'KOTAKBANK.NS')":2023.0,
+    "('Volume', 'KOTAKBANK.NS')":5085648
+  },
+  {
+    "('Date', '')":"2025-09-24",
+    "('Close', 'KOTAKBANK.NS')":2031.3000488281,
+    "('High', 'KOTAKBANK.NS')":2048.1000976562,
+    "('Low', 'KOTAKBANK.NS')":2029.0,
+    "('Open', 'KOTAKBANK.NS')":2042.0,
+    "('Volume', 'KOTAKBANK.NS')":3678877
+  },
+  {
+    "('Date', '')":"2025-09-25",
+    "('Close', 'KOTAKBANK.NS')":2013.5,
+    "('High', 'KOTAKBANK.NS')":2037.5,
+    "('Low', 'KOTAKBANK.NS')":2010.0,
+    "('Open', 'KOTAKBANK.NS')":2032.3000488281,
+    "('Volume', 'KOTAKBANK.NS')":4007855
+  },
+  {
+    "('Date', '')":"2025-09-26",
+    "('Close', 'KOTAKBANK.NS')":1994.8000488281,
+    "('High', 'KOTAKBANK.NS')":2019.1999511719,
+    "('Low', 'KOTAKBANK.NS')":1989.0999755859,
+    "('Open', 'KOTAKBANK.NS')":2009.0,
+    "('Volume', 'KOTAKBANK.NS')":1919165
+  },
+  {
+    "('Date', '')":"2025-09-29",
+    "('Close', 'KOTAKBANK.NS')":1991.5999755859,
+    "('High', 'KOTAKBANK.NS')":2003.6999511719,
+    "('Low', 'KOTAKBANK.NS')":1970.3000488281,
+    "('Open', 'KOTAKBANK.NS')":1995.9000244141,
+    "('Volume', 'KOTAKBANK.NS')":5306102
+  },
+  {
+    "('Date', '')":"2025-09-30",
+    "('Close', 'KOTAKBANK.NS')":1992.6999511719,
+    "('High', 'KOTAKBANK.NS')":2015.0,
+    "('Low', 'KOTAKBANK.NS')":1986.0999755859,
+    "('Open', 'KOTAKBANK.NS')":2004.0,
+    "('Volume', 'KOTAKBANK.NS')":5861937
+  },
+  {
+    "('Date', '')":"2025-10-01",
+    "('Close', 'KOTAKBANK.NS')":2063.3000488281,
+    "('High', 'KOTAKBANK.NS')":2072.0,
+    "('Low', 'KOTAKBANK.NS')":1986.0,
+    "('Open', 'KOTAKBANK.NS')":1986.0,
+    "('Volume', 'KOTAKBANK.NS')":6115951
+  },
+  {
+    "('Date', '')":"2025-10-03",
+    "('Close', 'KOTAKBANK.NS')":2100.5,
+    "('High', 'KOTAKBANK.NS')":2108.0,
+    "('Low', 'KOTAKBANK.NS')":2062.0,
+    "('Open', 'KOTAKBANK.NS')":2063.3000488281,
+    "('Volume', 'KOTAKBANK.NS')":4735930
+  },
+  {
+    "('Date', '')":"2025-10-06",
+    "('Close', 'KOTAKBANK.NS')":2146.0,
+    "('High', 'KOTAKBANK.NS')":2154.6000976562,
+    "('Low', 'KOTAKBANK.NS')":2093.0,
+    "('Open', 'KOTAKBANK.NS')":2114.0,
+    "('Volume', 'KOTAKBANK.NS')":5152836
+  },
+  {
+    "('Date', '')":"2025-10-07",
+    "('Close', 'KOTAKBANK.NS')":2126.8999023438,
+    "('High', 'KOTAKBANK.NS')":2153.1000976562,
+    "('Low', 'KOTAKBANK.NS')":2121.6999511719,
+    "('Open', 'KOTAKBANK.NS')":2142.0,
+    "('Volume', 'KOTAKBANK.NS')":2472939
+  },
+  {
+    "('Date', '')":"2025-10-08",
+    "('Close', 'KOTAKBANK.NS')":2117.8000488281,
+    "('High', 'KOTAKBANK.NS')":2132.5,
+    "('Low', 'KOTAKBANK.NS')":2112.1999511719,
+    "('Open', 'KOTAKBANK.NS')":2126.5,
+    "('Volume', 'KOTAKBANK.NS')":880495
+  },
+  {
+    "('Date', '')":"2025-10-09",
+    "('Close', 'KOTAKBANK.NS')":2144.6000976562,
+    "('High', 'KOTAKBANK.NS')":2152.0,
+    "('Low', 'KOTAKBANK.NS')":2101.3000488281,
+    "('Open', 'KOTAKBANK.NS')":2118.0,
+    "('Volume', 'KOTAKBANK.NS')":3165497
+  },
+  {
+    "('Date', '')":"2025-10-10",
+    "('Close', 'KOTAKBANK.NS')":2150.1000976562,
+    "('High', 'KOTAKBANK.NS')":2157.8000488281,
+    "('Low', 'KOTAKBANK.NS')":2136.6000976562,
+    "('Open', 'KOTAKBANK.NS')":2145.0,
+    "('Volume', 'KOTAKBANK.NS')":1936242
+  },
+  {
+    "('Date', '')":"2025-10-13",
+    "('Close', 'KOTAKBANK.NS')":2152.1000976562,
+    "('High', 'KOTAKBANK.NS')":2156.0,
+    "('Low', 'KOTAKBANK.NS')":2133.8000488281,
+    "('Open', 'KOTAKBANK.NS')":2136.0,
+    "('Volume', 'KOTAKBANK.NS')":2120004
+  },
+  {
+    "('Date', '')":"2025-10-14",
+    "('Close', 'KOTAKBANK.NS')":2151.8000488281,
+    "('High', 'KOTAKBANK.NS')":2165.0,
+    "('Low', 'KOTAKBANK.NS')":2141.6000976562,
+    "('Open', 'KOTAKBANK.NS')":2149.0,
+    "('Volume', 'KOTAKBANK.NS')":1604563
+  },
+  {
+    "('Date', '')":"2025-10-15",
+    "('Close', 'KOTAKBANK.NS')":2149.6000976562,
+    "('High', 'KOTAKBANK.NS')":2165.8999023438,
+    "('Low', 'KOTAKBANK.NS')":2141.1999511719,
+    "('Open', 'KOTAKBANK.NS')":2155.0,
+    "('Volume', 'KOTAKBANK.NS')":2308107
+  },
+  {
+    "('Date', '')":"2025-10-16",
+    "('Close', 'KOTAKBANK.NS')":2205.3999023438,
+    "('High', 'KOTAKBANK.NS')":2214.6000976562,
+    "('Low', 'KOTAKBANK.NS')":2152.1999511719,
+    "('Open', 'KOTAKBANK.NS')":2152.8999023438,
+    "('Volume', 'KOTAKBANK.NS')":6738420
+  },
+  {
+    "('Date', '')":"2025-10-17",
+    "('Close', 'KOTAKBANK.NS')":2205.8000488281,
+    "('High', 'KOTAKBANK.NS')":2209.8999023438,
+    "('Low', 'KOTAKBANK.NS')":2190.3999023438,
+    "('Open', 'KOTAKBANK.NS')":2203.8999023438,
+    "('Volume', 'KOTAKBANK.NS')":3341302
+  },
+  {
+    "('Date', '')":"2025-10-20",
+    "('Close', 'KOTAKBANK.NS')":2213.8000488281,
+    "('High', 'KOTAKBANK.NS')":2266.0,
+    "('Low', 'KOTAKBANK.NS')":2200.1999511719,
+    "('Open', 'KOTAKBANK.NS')":2214.0,
+    "('Volume', 'KOTAKBANK.NS')":3041417
+  },
+  {
+    "('Date', '')":"2025-10-21",
+    "('Close', 'KOTAKBANK.NS')":2197.0,
+    "('High', 'KOTAKBANK.NS')":2219.8000488281,
+    "('Low', 'KOTAKBANK.NS')":2186.8999023438,
+    "('Open', 'KOTAKBANK.NS')":2213.8000488281,
+    "('Volume', 'KOTAKBANK.NS')":226804
+  },
+  {
+    "('Date', '')":"2025-10-23",
+    "('Close', 'KOTAKBANK.NS')":2225.6000976562,
+    "('High', 'KOTAKBANK.NS')":2244.3999023438,
+    "('Low', 'KOTAKBANK.NS')":2211.0,
+    "('Open', 'KOTAKBANK.NS')":2225.0,
+    "('Volume', 'KOTAKBANK.NS')":4299221
+  },
+  {
+    "('Date', '')":"2025-10-24",
+    "('Close', 'KOTAKBANK.NS')":2187.0,
+    "('High', 'KOTAKBANK.NS')":2238.0,
+    "('Low', 'KOTAKBANK.NS')":2168.1999511719,
+    "('Open', 'KOTAKBANK.NS')":2238.0,
+    "('Volume', 'KOTAKBANK.NS')":3258737
+  },
+  {
+    "('Date', '')":"2025-10-27",
+    "('Close', 'KOTAKBANK.NS')":2148.6000976562,
+    "('High', 'KOTAKBANK.NS')":2186.0,
+    "('Low', 'KOTAKBANK.NS')":2122.0,
+    "('Open', 'KOTAKBANK.NS')":2172.1999511719,
+    "('Volume', 'KOTAKBANK.NS')":3719940
+  },
+  {
+    "('Date', '')":"2025-10-28",
+    "('Close', 'KOTAKBANK.NS')":2160.8000488281,
+    "('High', 'KOTAKBANK.NS')":2168.1000976562,
+    "('Low', 'KOTAKBANK.NS')":2142.0,
+    "('Open', 'KOTAKBANK.NS')":2142.0,
+    "('Volume', 'KOTAKBANK.NS')":4660869
+  },
+  {
+    "('Date', '')":"2025-10-29",
+    "('Close', 'KOTAKBANK.NS')":2150.5,
+    "('High', 'KOTAKBANK.NS')":2174.3000488281,
+    "('Low', 'KOTAKBANK.NS')":2146.8999023438,
+    "('Open', 'KOTAKBANK.NS')":2170.0,
+    "('Volume', 'KOTAKBANK.NS')":1417783
+  },
+  {
+    "('Date', '')":"2025-10-30",
+    "('Close', 'KOTAKBANK.NS')":2137.1999511719,
+    "('High', 'KOTAKBANK.NS')":2153.0,
+    "('Low', 'KOTAKBANK.NS')":2126.3999023438,
+    "('Open', 'KOTAKBANK.NS')":2150.0,
+    "('Volume', 'KOTAKBANK.NS')":2487693
+  },
+  {
+    "('Date', '')":"2025-10-31",
+    "('Close', 'KOTAKBANK.NS')":2102.1999511719,
+    "('High', 'KOTAKBANK.NS')":2146.8999023438,
+    "('Low', 'KOTAKBANK.NS')":2100.0,
+    "('Open', 'KOTAKBANK.NS')":2146.8999023438,
+    "('Volume', 'KOTAKBANK.NS')":3786254
+  },
+  {
+    "('Date', '')":"2025-11-03",
+    "('Close', 'KOTAKBANK.NS')":2113.5,
+    "('High', 'KOTAKBANK.NS')":2119.1999511719,
+    "('Low', 'KOTAKBANK.NS')":2087.8999023438,
+    "('Open', 'KOTAKBANK.NS')":2102.1999511719,
+    "('Volume', 'KOTAKBANK.NS')":1531453
+  },
+  {
+    "('Date', '')":"2025-11-04",
+    "('Close', 'KOTAKBANK.NS')":2096.6000976562,
+    "('High', 'KOTAKBANK.NS')":2121.1000976562,
+    "('Low', 'KOTAKBANK.NS')":2093.0,
+    "('Open', 'KOTAKBANK.NS')":2116.6999511719,
+    "('Volume', 'KOTAKBANK.NS')":1916377
+  },
+  {
+    "('Date', '')":"2025-11-05",
+    "('Close', 'KOTAKBANK.NS')":2096.6000976562,
+    "('High', 'KOTAKBANK.NS')":2096.6000976562,
+    "('Low', 'KOTAKBANK.NS')":2096.6000976562,
+    "('Open', 'KOTAKBANK.NS')":2096.6000976562,
+    "('Volume', 'KOTAKBANK.NS')":0
+  },
+  {
+    "('Date', '')":"2025-11-06",
+    "('Close', 'KOTAKBANK.NS')":2083.1999511719,
+    "('High', 'KOTAKBANK.NS')":2103.8000488281,
+    "('Low', 'KOTAKBANK.NS')":2072.1000976562,
+    "('Open', 'KOTAKBANK.NS')":2073.0,
+    "('Volume', 'KOTAKBANK.NS')":2380569
+  },
+  {
+    "('Date', '')":"2025-11-07",
+    "('Close', 'KOTAKBANK.NS')":2088.3000488281,
+    "('High', 'KOTAKBANK.NS')":2099.3000488281,
+    "('Low', 'KOTAKBANK.NS')":2059.1999511719,
+    "('Open', 'KOTAKBANK.NS')":2078.6999511719,
+    "('Volume', 'KOTAKBANK.NS')":1400189
+  },
+  {
+    "('Date', '')":"2025-11-10",
+    "('Close', 'KOTAKBANK.NS')":2092.6999511719,
+    "('High', 'KOTAKBANK.NS')":2104.8000488281,
+    "('Low', 'KOTAKBANK.NS')":2081.0,
+    "('Open', 'KOTAKBANK.NS')":2081.0,
+    "('Volume', 'KOTAKBANK.NS')":2173296
+  },
+  {
+    "('Date', '')":"2025-11-11",
+    "('Close', 'KOTAKBANK.NS')":2086.8999023438,
+    "('High', 'KOTAKBANK.NS')":2103.0,
+    "('Low', 'KOTAKBANK.NS')":2074.8999023438,
+    "('Open', 'KOTAKBANK.NS')":2100.0,
+    "('Volume', 'KOTAKBANK.NS')":2162814
+  }
+]

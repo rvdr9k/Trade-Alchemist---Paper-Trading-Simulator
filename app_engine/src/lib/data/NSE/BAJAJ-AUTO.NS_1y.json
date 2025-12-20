@@ -1,0 +1,1994 @@
+[
+  {
+    "('Date', '')":"2024-11-11",
+    "('Close', 'BAJAJ-AUTO.NS')":9674.16796875,
+    "('High', 'BAJAJ-AUTO.NS')":9784.9120572291,
+    "('Low', 'BAJAJ-AUTO.NS')":9557.7683847483,
+    "('Open', 'BAJAJ-AUTO.NS')":9606.5810827999,
+    "('Volume', 'BAJAJ-AUTO.NS')":359768
+  },
+  {
+    "('Date', '')":"2024-11-12",
+    "('Close', 'BAJAJ-AUTO.NS')":9439.466796875,
+    "('High', 'BAJAJ-AUTO.NS')":9751.8495869585,
+    "('Low', 'BAJAJ-AUTO.NS')":9423.1793888582,
+    "('Open', 'BAJAJ-AUTO.NS')":9655.296620751,
+    "('Volume', 'BAJAJ-AUTO.NS')":316606
+  },
+  {
+    "('Date', '')":"2024-11-13",
+    "('Close', 'BAJAJ-AUTO.NS')":9218.5166015625,
+    "('High', 'BAJAJ-AUTO.NS')":9469.9928060765,
+    "('Low', 'BAJAJ-AUTO.NS')":9183.3569064965,
+    "('Open', 'BAJAJ-AUTO.NS')":9439.4666551782,
+    "('Volume', 'BAJAJ-AUTO.NS')":494123
+  },
+  {
+    "('Date', '')":"2024-11-14",
+    "('Close', 'BAJAJ-AUTO.NS')":9248.5556640625,
+    "('High', 'BAJAJ-AUTO.NS')":9281.715270103,
+    "('Low', 'BAJAJ-AUTO.NS')":9167.6557876641,
+    "('Open', 'BAJAJ-AUTO.NS')":9177.4086129702,
+    "('Volume', 'BAJAJ-AUTO.NS')":275791
+  },
+  {
+    "('Date', '')":"2024-11-18",
+    "('Close', 'BAJAJ-AUTO.NS')":9281.275390625,
+    "('High', 'BAJAJ-AUTO.NS')":9365.6373221428,
+    "('Low', 'BAJAJ-AUTO.NS')":9202.6184804425,
+    "('Open', 'BAJAJ-AUTO.NS')":9225.2452236581,
+    "('Volume', 'BAJAJ-AUTO.NS')":292519
+  },
+  {
+    "('Date', '')":"2024-11-19",
+    "('Close', 'BAJAJ-AUTO.NS')":9309.75390625,
+    "('High', 'BAJAJ-AUTO.NS')":9458.8740219258,
+    "('Low', 'BAJAJ-AUTO.NS')":9265.622375232,
+    "('Open', 'BAJAJ-AUTO.NS')":9323.7002548493,
+    "('Volume', 'BAJAJ-AUTO.NS')":365397
+  },
+  {
+    "('Date', '')":"2024-11-21",
+    "('Close', 'BAJAJ-AUTO.NS')":9270.060546875,
+    "('High', 'BAJAJ-AUTO.NS')":9317.8493913565,
+    "('Low', 'BAJAJ-AUTO.NS')":9181.6508036144,
+    "('Open', 'BAJAJ-AUTO.NS')":9239.3391468512,
+    "('Volume', 'BAJAJ-AUTO.NS')":282212
+  },
+  {
+    "('Date', '')":"2024-11-22",
+    "('Close', 'BAJAJ-AUTO.NS')":9247.2880859375,
+    "('High', 'BAJAJ-AUTO.NS')":9365.541094035,
+    "('Low', 'BAJAJ-AUTO.NS')":9210.6654645831,
+    "('Open', 'BAJAJ-AUTO.NS')":9309.0718539407,
+    "('Volume', 'BAJAJ-AUTO.NS')":619823
+  },
+  {
+    "('Date', '')":"2024-11-25",
+    "('Close', 'BAJAJ-AUTO.NS')":9188.087890625,
+    "('High', 'BAJAJ-AUTO.NS')":9398.1631703967,
+    "('Low', 'BAJAJ-AUTO.NS')":9159.8532716675,
+    "('Open', 'BAJAJ-AUTO.NS')":9323.700732234,
+    "('Volume', 'BAJAJ-AUTO.NS')":1090141
+  },
+  {
+    "('Date', '')":"2024-11-26",
+    "('Close', 'BAJAJ-AUTO.NS')":8911.5947265625,
+    "('High', 'BAJAJ-AUTO.NS')":9249.5786658379,
+    "('Low', 'BAJAJ-AUTO.NS')":8894.673004765,
+    "('Open', 'BAJAJ-AUTO.NS')":9231.0482994681,
+    "('Volume', 'BAJAJ-AUTO.NS')":750430
+  },
+  {
+    "('Date', '')":"2024-11-27",
+    "('Close', 'BAJAJ-AUTO.NS')":8963.1875,
+    "('High', 'BAJAJ-AUTO.NS')":9028.1418885424,
+    "('Low', 'BAJAJ-AUTO.NS')":8877.9969512007,
+    "('Open', 'BAJAJ-AUTO.NS')":8948.2172939983,
+    "('Volume', 'BAJAJ-AUTO.NS')":461513
+  },
+  {
+    "('Date', '')":"2024-11-28",
+    "('Close', 'BAJAJ-AUTO.NS')":8790.708984375,
+    "('High', 'BAJAJ-AUTO.NS')":9043.2100094957,
+    "('Low', 'BAJAJ-AUTO.NS')":8769.9842308477,
+    "('Open', 'BAJAJ-AUTO.NS')":8938.561433275,
+    "('Volume', 'BAJAJ-AUTO.NS')":687966
+  },
+  {
+    "('Date', '')":"2024-11-29",
+    "('Close', 'BAJAJ-AUTO.NS')":8810.361328125,
+    "('High', 'BAJAJ-AUTO.NS')":8866.1962524606,
+    "('Low', 'BAJAJ-AUTO.NS')":8770.7157126707,
+    "('Open', 'BAJAJ-AUTO.NS')":8835.1815063487,
+    "('Volume', 'BAJAJ-AUTO.NS')":423101
+  },
+  {
+    "('Date', '')":"2024-12-02",
+    "('Close', 'BAJAJ-AUTO.NS')":8904.669921875,
+    "('High', 'BAJAJ-AUTO.NS')":8948.2166651443,
+    "('Low', 'BAJAJ-AUTO.NS')":8833.0847600084,
+    "('Open', 'BAJAJ-AUTO.NS')":8854.3943010151,
+    "('Volume', 'BAJAJ-AUTO.NS')":298320
+  },
+  {
+    "('Date', '')":"2024-12-03",
+    "('Close', 'BAJAJ-AUTO.NS')":8935.3427734375,
+    "('High', 'BAJAJ-AUTO.NS')":8997.029389874,
+    "('Low', 'BAJAJ-AUTO.NS')":8879.9469194387,
+    "('Open', 'BAJAJ-AUTO.NS')":8879.9469194387,
+    "('Volume', 'BAJAJ-AUTO.NS')":398985
+  },
+  {
+    "('Date', '')":"2024-12-04",
+    "('Close', 'BAJAJ-AUTO.NS')":8776.7138671875,
+    "('High', 'BAJAJ-AUTO.NS')":9011.6102757096,
+    "('Low', 'BAJAJ-AUTO.NS')":8729.7536339694,
+    "('Open', 'BAJAJ-AUTO.NS')":8935.3429939303,
+    "('Volume', 'BAJAJ-AUTO.NS')":456462
+  },
+  {
+    "('Date', '')":"2024-12-05",
+    "('Close', 'BAJAJ-AUTO.NS')":8672.1630859375,
+    "('High', 'BAJAJ-AUTO.NS')":8820.6012672666,
+    "('Low', 'BAJAJ-AUTO.NS')":8530.3080612325,
+    "('Open', 'BAJAJ-AUTO.NS')":8820.6012672666,
+    "('Volume', 'BAJAJ-AUTO.NS')":1803653
+  },
+  {
+    "('Date', '')":"2024-12-06",
+    "('Close', 'BAJAJ-AUTO.NS')":8874.9736328125,
+    "('High', 'BAJAJ-AUTO.NS')":8922.8110491148,
+    "('Low', 'BAJAJ-AUTO.NS')":8709.3699018115,
+    "('Open', 'BAJAJ-AUTO.NS')":8732.5823873297,
+    "('Volume', 'BAJAJ-AUTO.NS')":746013
+  },
+  {
+    "('Date', '')":"2024-12-09",
+    "('Close', 'BAJAJ-AUTO.NS')":8853.078125,
+    "('High', 'BAJAJ-AUTO.NS')":8944.3156103794,
+    "('Low', 'BAJAJ-AUTO.NS')":8803.2901449571,
+    "('Open', 'BAJAJ-AUTO.NS')":8871.1694244914,
+    "('Volume', 'BAJAJ-AUTO.NS')":304202
+  },
+  {
+    "('Date', '')":"2024-12-10",
+    "('Close', 'BAJAJ-AUTO.NS')":8790.513671875,
+    "('High', 'BAJAJ-AUTO.NS')":8870.0972962812,
+    "('Low', 'BAJAJ-AUTO.NS')":8758.0369547215,
+    "('Open', 'BAJAJ-AUTO.NS')":8850.7859406108,
+    "('Volume', 'BAJAJ-AUTO.NS')":393944
+  },
+  {
+    "('Date', '')":"2024-12-11",
+    "('Close', 'BAJAJ-AUTO.NS')":8845.6650390625,
+    "('High', 'BAJAJ-AUTO.NS')":8883.2629389857,
+    "('Low', 'BAJAJ-AUTO.NS')":8790.8549279879,
+    "('Open', 'BAJAJ-AUTO.NS')":8821.4782250857,
+    "('Volume', 'BAJAJ-AUTO.NS')":254311
+  },
+  {
+    "('Date', '')":"2024-12-12",
+    "('Close', 'BAJAJ-AUTO.NS')":8741.701171875,
+    "('High', 'BAJAJ-AUTO.NS')":8870.1946457148,
+    "('Low', 'BAJAJ-AUTO.NS')":8722.9269830976,
+    "('Open', 'BAJAJ-AUTO.NS')":8870.1946457148,
+    "('Volume', 'BAJAJ-AUTO.NS')":599056
+  },
+  {
+    "('Date', '')":"2024-12-13",
+    "('Close', 'BAJAJ-AUTO.NS')":8798.4140625,
+    "('High', 'BAJAJ-AUTO.NS')":8827.2820439766,
+    "('Low', 'BAJAJ-AUTO.NS')":8683.6716936313,
+    "('Open', 'BAJAJ-AUTO.NS')":8742.5791385117,
+    "('Volume', 'BAJAJ-AUTO.NS')":243931
+  },
+  {
+    "('Date', '')":"2024-12-16",
+    "('Close', 'BAJAJ-AUTO.NS')":8775.9326171875,
+    "('High', 'BAJAJ-AUTO.NS')":8854.3457086043,
+    "('Low', 'BAJAJ-AUTO.NS')":8748.2837401824,
+    "('Open', 'BAJAJ-AUTO.NS')":8839.9602921977,
+    "('Volume', 'BAJAJ-AUTO.NS')":228470
+  },
+  {
+    "('Date', '')":"2024-12-17",
+    "('Close', 'BAJAJ-AUTO.NS')":8675.1376953125,
+    "('High', 'BAJAJ-AUTO.NS')":8767.7895312939,
+    "('Low', 'BAJAJ-AUTO.NS')":8632.6157599792,
+    "('Open', 'BAJAJ-AUTO.NS')":8767.5942843123,
+    "('Volume', 'BAJAJ-AUTO.NS')":456493
+  },
+  {
+    "('Date', '')":"2024-12-18",
+    "('Close', 'BAJAJ-AUTO.NS')":8735.361328125,
+    "('High', 'BAJAJ-AUTO.NS')":8783.637810749,
+    "('Low', 'BAJAJ-AUTO.NS')":8582.4857998158,
+    "('Open', 'BAJAJ-AUTO.NS')":8606.8678617471,
+    "('Volume', 'BAJAJ-AUTO.NS')":303382
+  },
+  {
+    "('Date', '')":"2024-12-19",
+    "('Close', 'BAJAJ-AUTO.NS')":8760.6220703125,
+    "('High', 'BAJAJ-AUTO.NS')":8780.4686889896,
+    "('Low', 'BAJAJ-AUTO.NS')":8545.9618122594,
+    "('Open', 'BAJAJ-AUTO.NS')":8604.9178321621,
+    "('Volume', 'BAJAJ-AUTO.NS')":516640
+  },
+  {
+    "('Date', '')":"2024-12-20",
+    "('Close', 'BAJAJ-AUTO.NS')":8570.05078125,
+    "('High', 'BAJAJ-AUTO.NS')":8842.6422283306,
+    "('Low', 'BAJAJ-AUTO.NS')":8542.8895457575,
+    "('Open', 'BAJAJ-AUTO.NS')":8728.7780013301,
+    "('Volume', 'BAJAJ-AUTO.NS')":316335
+  },
+  {
+    "('Date', '')":"2024-12-23",
+    "('Close', 'BAJAJ-AUTO.NS')":8551.7158203125,
+    "('High', 'BAJAJ-AUTO.NS')":8655.5834040447,
+    "('Low', 'BAJAJ-AUTO.NS')":8504.3660465701,
+    "('Open', 'BAJAJ-AUTO.NS')":8631.2013421357,
+    "('Volume', 'BAJAJ-AUTO.NS')":514460
+  },
+  {
+    "('Date', '')":"2024-12-24",
+    "('Close', 'BAJAJ-AUTO.NS')":8561.078125,
+    "('High', 'BAJAJ-AUTO.NS')":8635.1510193383,
+    "('Low', 'BAJAJ-AUTO.NS')":8515.1912751122,
+    "('Open', 'BAJAJ-AUTO.NS')":8528.8452297395,
+    "('Volume', 'BAJAJ-AUTO.NS')":297827
+  },
+  {
+    "('Date', '')":"2024-12-26",
+    "('Close', 'BAJAJ-AUTO.NS')":8659.0458984375,
+    "('High', 'BAJAJ-AUTO.NS')":8678.6982222865,
+    "('Low', 'BAJAJ-AUTO.NS')":8580.1451611932,
+    "('Open', 'BAJAJ-AUTO.NS')":8592.2390454733,
+    "('Volume', 'BAJAJ-AUTO.NS')":240675
+  },
+  {
+    "('Date', '')":"2024-12-27",
+    "('Close', 'BAJAJ-AUTO.NS')":8707.6142578125,
+    "('High', 'BAJAJ-AUTO.NS')":8952.2644360629,
+    "('Low', 'BAJAJ-AUTO.NS')":8676.3566452365,
+    "('Open', 'BAJAJ-AUTO.NS')":8676.3566452365,
+    "('Volume', 'BAJAJ-AUTO.NS')":713799
+  },
+  {
+    "('Date', '')":"2024-12-30",
+    "('Close', 'BAJAJ-AUTO.NS')":8562.8828125,
+    "('High', 'BAJAJ-AUTO.NS')":8740.9204342768,
+    "('Low', 'BAJAJ-AUTO.NS')":8521.5790290527,
+    "('Open', 'BAJAJ-AUTO.NS')":8707.321763198,
+    "('Volume', 'BAJAJ-AUTO.NS')":1065253
+  },
+  {
+    "('Date', '')":"2024-12-31",
+    "('Close', 'BAJAJ-AUTO.NS')":8581.1201171875,
+    "('High', 'BAJAJ-AUTO.NS')":8621.2533725349,
+    "('Low', 'BAJAJ-AUTO.NS')":8524.1156177084,
+    "('Open', 'BAJAJ-AUTO.NS')":8553.2274190029,
+    "('Volume', 'BAJAJ-AUTO.NS')":294554
+  },
+  {
+    "('Date', '')":"2025-01-01",
+    "('Close', 'BAJAJ-AUTO.NS')":8524.5048828125,
+    "('High', 'BAJAJ-AUTO.NS')":8550.3012942661,
+    "('Low', 'BAJAJ-AUTO.NS')":8339.6402837082,
+    "('Open', 'BAJAJ-AUTO.NS')":8537.6711959724,
+    "('Volume', 'BAJAJ-AUTO.NS')":558535
+  },
+  {
+    "('Date', '')":"2025-01-02",
+    "('Close', 'BAJAJ-AUTO.NS')":8855.0771484375,
+    "('High', 'BAJAJ-AUTO.NS')":8882.1898105025,
+    "('Low', 'BAJAJ-AUTO.NS')":8463.0621708152,
+    "('Open', 'BAJAJ-AUTO.NS')":8524.4563925236,
+    "('Volume', 'BAJAJ-AUTO.NS')":734590
+  },
+  {
+    "('Date', '')":"2025-01-03",
+    "('Close', 'BAJAJ-AUTO.NS')":8744.0908203125,
+    "('High', 'BAJAJ-AUTO.NS')":8884.7753260792,
+    "('Low', 'BAJAJ-AUTO.NS')":8723.9022813398,
+    "('Open', 'BAJAJ-AUTO.NS')":8875.0710743647,
+    "('Volume', 'BAJAJ-AUTO.NS')":337802
+  },
+  {
+    "('Date', '')":"2025-01-06",
+    "('Close', 'BAJAJ-AUTO.NS')":8605.74609375,
+    "('High', 'BAJAJ-AUTO.NS')":8869.1218944195,
+    "('Low', 'BAJAJ-AUTO.NS')":8577.6095746369,
+    "('Open', 'BAJAJ-AUTO.NS')":8782.3703256897,
+    "('Volume', 'BAJAJ-AUTO.NS')":238306
+  },
+  {
+    "('Date', '')":"2025-01-07",
+    "('Close', 'BAJAJ-AUTO.NS')":8592.53125,
+    "('High', 'BAJAJ-AUTO.NS')":8668.2623173656,
+    "('Low', 'BAJAJ-AUTO.NS')":8519.1898152528,
+    "('Open', 'BAJAJ-AUTO.NS')":8650.7558059431,
+    "('Volume', 'BAJAJ-AUTO.NS')":270785
+  },
+  {
+    "('Date', '')":"2025-01-08",
+    "('Close', 'BAJAJ-AUTO.NS')":8428.634765625,
+    "('High', 'BAJAJ-AUTO.NS')":8612.6707546893,
+    "('Low', 'BAJAJ-AUTO.NS')":8399.1324714701,
+    "('Open', 'BAJAJ-AUTO.NS')":8559.0787935,
+    "('Volume', 'BAJAJ-AUTO.NS')":415288
+  },
+  {
+    "('Date', '')":"2025-01-09",
+    "('Close', 'BAJAJ-AUTO.NS')":8617.44921875,
+    "('High', 'BAJAJ-AUTO.NS')":8678.06340514,
+    "('Low', 'BAJAJ-AUTO.NS')":8477.2523638962,
+    "('Open', 'BAJAJ-AUTO.NS')":8504.4145520999,
+    "('Volume', 'BAJAJ-AUTO.NS')":612457
+  },
+  {
+    "('Date', '')":"2025-01-10",
+    "('Close', 'BAJAJ-AUTO.NS')":8547.3759765625,
+    "('High', 'BAJAJ-AUTO.NS')":8636.1266855843,
+    "('Low', 'BAJAJ-AUTO.NS')":8428.4886568042,
+    "('Open', 'BAJAJ-AUTO.NS')":8614.1342553171,
+    "('Volume', 'BAJAJ-AUTO.NS')":350859
+  },
+  {
+    "('Date', '')":"2025-01-13",
+    "('Close', 'BAJAJ-AUTO.NS')":8383.7724609375,
+    "('High', 'BAJAJ-AUTO.NS')":8533.6250028638,
+    "('Low', 'BAJAJ-AUTO.NS')":8339.6409263896,
+    "('Open', 'BAJAJ-AUTO.NS')":8489.3467949665,
+    "('Volume', 'BAJAJ-AUTO.NS')":341577
+  },
+  {
+    "('Date', '')":"2025-01-14",
+    "('Close', 'BAJAJ-AUTO.NS')":8398.3525390625,
+    "('High', 'BAJAJ-AUTO.NS')":8483.0068663982,
+    "('Low', 'BAJAJ-AUTO.NS')":8314.2830002351,
+    "('Open', 'BAJAJ-AUTO.NS')":8406.9348342553,
+    "('Volume', 'BAJAJ-AUTO.NS')":355464
+  },
+  {
+    "('Date', '')":"2025-01-15",
+    "('Close', 'BAJAJ-AUTO.NS')":8365.9736328125,
+    "('High', 'BAJAJ-AUTO.NS')":8581.5110742734,
+    "('Low', 'BAJAJ-AUTO.NS')":8349.6862239005,
+    "('Open', 'BAJAJ-AUTO.NS')":8410.7394823934,
+    "('Volume', 'BAJAJ-AUTO.NS')":347402
+  },
+  {
+    "('Date', '')":"2025-01-16",
+    "('Close', 'BAJAJ-AUTO.NS')":8369.826171875,
+    "('High', 'BAJAJ-AUTO.NS')":8426.3439854667,
+    "('Low', 'BAJAJ-AUTO.NS')":8338.373310008,
+    "('Open', 'BAJAJ-AUTO.NS')":8407.9107645191,
+    "('Volume', 'BAJAJ-AUTO.NS')":290855
+  },
+  {
+    "('Date', '')":"2025-01-17",
+    "('Close', 'BAJAJ-AUTO.NS')":8369.2890625,
+    "('High', 'BAJAJ-AUTO.NS')":8452.3823639613,
+    "('Low', 'BAJAJ-AUTO.NS')":8320.426841088,
+    "('Open', 'BAJAJ-AUTO.NS')":8354.1226587075,
+    "('Volume', 'BAJAJ-AUTO.NS')":183057
+  },
+  {
+    "('Date', '')":"2025-01-20",
+    "('Close', 'BAJAJ-AUTO.NS')":8333.2041015625,
+    "('High', 'BAJAJ-AUTO.NS')":8396.7917580705,
+    "('Low', 'BAJAJ-AUTO.NS')":8253.52333152,
+    "('Open', 'BAJAJ-AUTO.NS')":8387.4294271216,
+    "('Volume', 'BAJAJ-AUTO.NS')":294136
+  },
+  {
+    "('Date', '')":"2025-01-21",
+    "('Close', 'BAJAJ-AUTO.NS')":8259.228515625,
+    "('High', 'BAJAJ-AUTO.NS')":8396.0118877527,
+    "('Low', 'BAJAJ-AUTO.NS')":8204.1736274103,
+    "('Open', 'BAJAJ-AUTO.NS')":8370.3135745651,
+    "('Volume', 'BAJAJ-AUTO.NS')":343149
+  },
+  {
+    "('Date', '')":"2025-01-22",
+    "('Close', 'BAJAJ-AUTO.NS')":8251.71875,
+    "('High', 'BAJAJ-AUTO.NS')":8323.987756376,
+    "('Low', 'BAJAJ-AUTO.NS')":8187.4967768594,
+    "('Open', 'BAJAJ-AUTO.NS')":8271.1758268099,
+    "('Volume', 'BAJAJ-AUTO.NS')":344305
+  },
+  {
+    "('Date', '')":"2025-01-23",
+    "('Close', 'BAJAJ-AUTO.NS')":8192.32421875,
+    "('High', 'BAJAJ-AUTO.NS')":8292.0468518478,
+    "('Low', 'BAJAJ-AUTO.NS')":8168.6250450854,
+    "('Open', 'BAJAJ-AUTO.NS')":8230.555482266,
+    "('Volume', 'BAJAJ-AUTO.NS')":347894
+  },
+  {
+    "('Date', '')":"2025-01-24",
+    "('Close', 'BAJAJ-AUTO.NS')":8193.8359375,
+    "('High', 'BAJAJ-AUTO.NS')":8280.0998652546,
+    "('Low', 'BAJAJ-AUTO.NS')":8153.3617136821,
+    "('Open', 'BAJAJ-AUTO.NS')":8206.4174627408,
+    "('Volume', 'BAJAJ-AUTO.NS')":232317
+  },
+  {
+    "('Date', '')":"2025-01-27",
+    "('Close', 'BAJAJ-AUTO.NS')":8177.3530273438,
+    "('High', 'BAJAJ-AUTO.NS')":8210.8545516852,
+    "('Low', 'BAJAJ-AUTO.NS')":8085.4326544299,
+    "('Open', 'BAJAJ-AUTO.NS')":8170.965117642,
+    "('Volume', 'BAJAJ-AUTO.NS')":324406
+  },
+  {
+    "('Date', '')":"2025-01-28",
+    "('Close', 'BAJAJ-AUTO.NS')":8190.8129882812,
+    "('High', 'BAJAJ-AUTO.NS')":8279.1732024514,
+    "('Low', 'BAJAJ-AUTO.NS')":8154.6780094551,
+    "('Open', 'BAJAJ-AUTO.NS')":8218.1694721195,
+    "('Volume', 'BAJAJ-AUTO.NS')":651069
+  },
+  {
+    "('Date', '')":"2025-01-29",
+    "('Close', 'BAJAJ-AUTO.NS')":8412.6396484375,
+    "('High', 'BAJAJ-AUTO.NS')":8589.3124432942,
+    "('Low', 'BAJAJ-AUTO.NS')":8212.024812604,
+    "('Open', 'BAJAJ-AUTO.NS')":8212.024812604,
+    "('Volume', 'BAJAJ-AUTO.NS')":802600
+  },
+  {
+    "('Date', '')":"2025-01-30",
+    "('Close', 'BAJAJ-AUTO.NS')":8531.576171875,
+    "('High', 'BAJAJ-AUTO.NS')":8606.185284077,
+    "('Low', 'BAJAJ-AUTO.NS')":8389.8678133017,
+    "('Open', 'BAJAJ-AUTO.NS')":8445.8979841265,
+    "('Volume', 'BAJAJ-AUTO.NS')":322587
+  },
+  {
+    "('Date', '')":"2025-01-31",
+    "('Close', 'BAJAJ-AUTO.NS')":8629.1044921875,
+    "('High', 'BAJAJ-AUTO.NS')":8738.4342341622,
+    "('Low', 'BAJAJ-AUTO.NS')":8527.9189307115,
+    "('Open', 'BAJAJ-AUTO.NS')":8582.4861782044,
+    "('Volume', 'BAJAJ-AUTO.NS')":315913
+  },
+  {
+    "('Date', '')":"2025-02-01",
+    "('Close', 'BAJAJ-AUTO.NS')":8929.2958984375,
+    "('High', 'BAJAJ-AUTO.NS')":8951.1426069727,
+    "('Low', 'BAJAJ-AUTO.NS')":8588.6299184478,
+    "('Open', 'BAJAJ-AUTO.NS')":8668.2135403196,
+    "('Volume', 'BAJAJ-AUTO.NS')":418755
+  },
+  {
+    "('Date', '')":"2025-02-03",
+    "('Close', 'BAJAJ-AUTO.NS')":8705.908203125,
+    "('High', 'BAJAJ-AUTO.NS')":8923.8352780784,
+    "('Low', 'BAJAJ-AUTO.NS')":8666.8969013629,
+    "('Open', 'BAJAJ-AUTO.NS')":8923.8352780784,
+    "('Volume', 'BAJAJ-AUTO.NS')":667412
+  },
+  {
+    "('Date', '')":"2025-02-04",
+    "('Close', 'BAJAJ-AUTO.NS')":8691.1328125,
+    "('High', 'BAJAJ-AUTO.NS')":8835.7184424767,
+    "('Low', 'BAJAJ-AUTO.NS')":8658.1675022084,
+    "('Open', 'BAJAJ-AUTO.NS')":8728.7783358615,
+    "('Volume', 'BAJAJ-AUTO.NS')":440468
+  },
+  {
+    "('Date', '')":"2025-02-05",
+    "('Close', 'BAJAJ-AUTO.NS')":8707.126953125,
+    "('High', 'BAJAJ-AUTO.NS')":8746.3335002905,
+    "('Low', 'BAJAJ-AUTO.NS')":8675.1378774625,
+    "('Open', 'BAJAJ-AUTO.NS')":8709.2727651197,
+    "('Volume', 'BAJAJ-AUTO.NS')":329075
+  },
+  {
+    "('Date', '')":"2025-02-06",
+    "('Close', 'BAJAJ-AUTO.NS')":8627.689453125,
+    "('High', 'BAJAJ-AUTO.NS')":8740.1402806701,
+    "('Low', 'BAJAJ-AUTO.NS')":8593.2135997568,
+    "('Open', 'BAJAJ-AUTO.NS')":8701.4699508603,
+    "('Volume', 'BAJAJ-AUTO.NS')":580590
+  },
+  {
+    "('Date', '')":"2025-02-07",
+    "('Close', 'BAJAJ-AUTO.NS')":8767.205078125,
+    "('High', 'BAJAJ-AUTO.NS')":8802.9000374356,
+    "('Low', 'BAJAJ-AUTO.NS')":8632.2741698458,
+    "('Open', 'BAJAJ-AUTO.NS')":8670.7978294379,
+    "('Volume', 'BAJAJ-AUTO.NS')":244178
+  },
+  {
+    "('Date', '')":"2025-02-10",
+    "('Close', 'BAJAJ-AUTO.NS')":8661.044921875,
+    "('High', 'BAJAJ-AUTO.NS')":8845.6171372799,
+    "('Low', 'BAJAJ-AUTO.NS')":8627.2024282221,
+    "('Open', 'BAJAJ-AUTO.NS')":8767.2049947659,
+    "('Volume', 'BAJAJ-AUTO.NS')":192650
+  },
+  {
+    "('Date', '')":"2025-02-11",
+    "('Close', 'BAJAJ-AUTO.NS')":8545.4248046875,
+    "('High', 'BAJAJ-AUTO.NS')":8658.0213537322,
+    "('Low', 'BAJAJ-AUTO.NS')":8516.7025461248,
+    "('Open', 'BAJAJ-AUTO.NS')":8611.7440111151,
+    "('Volume', 'BAJAJ-AUTO.NS')":282926
+  },
+  {
+    "('Date', '')":"2025-02-12",
+    "('Close', 'BAJAJ-AUTO.NS')":8496.2705078125,
+    "('High', 'BAJAJ-AUTO.NS')":8601.4067215416,
+    "('Low', 'BAJAJ-AUTO.NS')":8433.2676403072,
+    "('Open', 'BAJAJ-AUTO.NS')":8516.1666514586,
+    "('Volume', 'BAJAJ-AUTO.NS')":411042
+  },
+  {
+    "('Date', '')":"2025-02-13",
+    "('Close', 'BAJAJ-AUTO.NS')":8476.521484375,
+    "('High', 'BAJAJ-AUTO.NS')":8560.1033881564,
+    "('Low', 'BAJAJ-AUTO.NS')":8437.6082826612,
+    "('Open', 'BAJAJ-AUTO.NS')":8499.6358709524,
+    "('Volume', 'BAJAJ-AUTO.NS')":206920
+  },
+  {
+    "('Date', '')":"2025-02-14",
+    "('Close', 'BAJAJ-AUTO.NS')":8296.240234375,
+    "('High', 'BAJAJ-AUTO.NS')":8507.0964924166,
+    "('Low', 'BAJAJ-AUTO.NS')":8211.781154427,
+    "('Open', 'BAJAJ-AUTO.NS')":8484.9573901208,
+    "('Volume', 'BAJAJ-AUTO.NS')":369356
+  },
+  {
+    "('Date', '')":"2025-02-17",
+    "('Close', 'BAJAJ-AUTO.NS')":8326.1328125,
+    "('High', 'BAJAJ-AUTO.NS')":8340.6639493122,
+    "('Low', 'BAJAJ-AUTO.NS')":8175.4516764451,
+    "('Open', 'BAJAJ-AUTO.NS')":8284.0489945027,
+    "('Volume', 'BAJAJ-AUTO.NS')":224417
+  },
+  {
+    "('Date', '')":"2025-02-18",
+    "('Close', 'BAJAJ-AUTO.NS')":8237.8203125,
+    "('High', 'BAJAJ-AUTO.NS')":8338.6648982035,
+    "('Low', 'BAJAJ-AUTO.NS')":8183.0587747108,
+    "('Open', 'BAJAJ-AUTO.NS')":8299.7507477089,
+    "('Volume', 'BAJAJ-AUTO.NS')":206278
+  },
+  {
+    "('Date', '')":"2025-02-19",
+    "('Close', 'BAJAJ-AUTO.NS')":8269.908203125,
+    "('High', 'BAJAJ-AUTO.NS')":8316.917011499,
+    "('Low', 'BAJAJ-AUTO.NS')":8197.2982283695,
+    "('Open', 'BAJAJ-AUTO.NS')":8231.4331168782,
+    "('Volume', 'BAJAJ-AUTO.NS')":200819
+  },
+  {
+    "('Date', '')":"2025-02-20",
+    "('Close', 'BAJAJ-AUTO.NS')":8416.8828125,
+    "('High', 'BAJAJ-AUTO.NS')":8426.4403900502,
+    "('Low', 'BAJAJ-AUTO.NS')":8250.7924013152,
+    "('Open', 'BAJAJ-AUTO.NS')":8250.840974953,
+    "('Volume', 'BAJAJ-AUTO.NS')":188845
+  },
+  {
+    "('Date', '')":"2025-02-21",
+    "('Close', 'BAJAJ-AUTO.NS')":8295.8017578125,
+    "('High', 'BAJAJ-AUTO.NS')":8401.0836972077,
+    "('Low', 'BAJAJ-AUTO.NS')":8241.1373625964,
+    "('Open', 'BAJAJ-AUTO.NS')":8338.6656154082,
+    "('Volume', 'BAJAJ-AUTO.NS')":222132
+  },
+  {
+    "('Date', '')":"2025-02-24",
+    "('Close', 'BAJAJ-AUTO.NS')":8238.1630859375,
+    "('High', 'BAJAJ-AUTO.NS')":8278.6373115647,
+    "('Low', 'BAJAJ-AUTO.NS')":8135.4164983426,
+    "('Open', 'BAJAJ-AUTO.NS')":8241.6251484882,
+    "('Volume', 'BAJAJ-AUTO.NS')":275998
+  },
+  {
+    "('Date', '')":"2025-02-25",
+    "('Close', 'BAJAJ-AUTO.NS')":8209.8310546875,
+    "('High', 'BAJAJ-AUTO.NS')":8258.7894749456,
+    "('Low', 'BAJAJ-AUTO.NS')":8158.2868023735,
+    "('Open', 'BAJAJ-AUTO.NS')":8241.1372424138,
+    "('Volume', 'BAJAJ-AUTO.NS')":237383
+  },
+  {
+    "('Date', '')":"2025-02-27",
+    "('Close', 'BAJAJ-AUTO.NS')":8028.8662109375,
+    "('High', 'BAJAJ-AUTO.NS')":8205.9780778412,
+    "('Low', 'BAJAJ-AUTO.NS')":7981.1264200556,
+    "('Open', 'BAJAJ-AUTO.NS')":8153.4585457041,
+    "('Volume', 'BAJAJ-AUTO.NS')":350992
+  },
+  {
+    "('Date', '')":"2025-02-28",
+    "('Close', 'BAJAJ-AUTO.NS')":7707.5600585938,
+    "('High', 'BAJAJ-AUTO.NS')":8031.207655013,
+    "('Low', 'BAJAJ-AUTO.NS')":7691.3702736736,
+    "('Open', 'BAJAJ-AUTO.NS')":8031.207655013,
+    "('Volume', 'BAJAJ-AUTO.NS')":580155
+  },
+  {
+    "('Date', '')":"2025-03-03",
+    "('Close', 'BAJAJ-AUTO.NS')":7524.109375,
+    "('High', 'BAJAJ-AUTO.NS')":7800.601968692,
+    "('Low', 'BAJAJ-AUTO.NS')":7489.7797161137,
+    "('Open', 'BAJAJ-AUTO.NS')":7738.8182021824,
+    "('Volume', 'BAJAJ-AUTO.NS')":497052
+  },
+  {
+    "('Date', '')":"2025-03-04",
+    "('Close', 'BAJAJ-AUTO.NS')":7152.0390625,
+    "('High', 'BAJAJ-AUTO.NS')":7490.169700261,
+    "('Low', 'BAJAJ-AUTO.NS')":7136.1907216629,
+    "('Open', 'BAJAJ-AUTO.NS')":7462.9594133892,
+    "('Volume', 'BAJAJ-AUTO.NS')":1078953
+  },
+  {
+    "('Date', '')":"2025-03-05",
+    "('Close', 'BAJAJ-AUTO.NS')":7236.888671875,
+    "('High', 'BAJAJ-AUTO.NS')":7259.3201697705,
+    "('Low', 'BAJAJ-AUTO.NS')":7120.5376580582,
+    "('Open', 'BAJAJ-AUTO.NS')":7150.9666630796,
+    "('Volume', 'BAJAJ-AUTO.NS')":749464
+  },
+  {
+    "('Date', '')":"2025-03-06",
+    "('Close', 'BAJAJ-AUTO.NS')":7277.8017578125,
+    "('High', 'BAJAJ-AUTO.NS')":7314.6186717939,
+    "('Low', 'BAJAJ-AUTO.NS')":7194.6103519368,
+    "('Open', 'BAJAJ-AUTO.NS')":7296.088304492,
+    "('Volume', 'BAJAJ-AUTO.NS')":917093
+  },
+  {
+    "('Date', '')":"2025-03-07",
+    "('Close', 'BAJAJ-AUTO.NS')":7387.5209960938,
+    "('High', 'BAJAJ-AUTO.NS')":7435.5536584334,
+    "('Low', 'BAJAJ-AUTO.NS')":7266.9274121828,
+    "('Open', 'BAJAJ-AUTO.NS')":7277.8017166376,
+    "('Volume', 'BAJAJ-AUTO.NS')":942308
+  },
+  {
+    "('Date', '')":"2025-03-10",
+    "('Close', 'BAJAJ-AUTO.NS')":7200.9008789062,
+    "('High', 'BAJAJ-AUTO.NS')":7385.8145403511,
+    "('Low', 'BAJAJ-AUTO.NS')":7170.2771029527,
+    "('Open', 'BAJAJ-AUTO.NS')":7385.8145403511,
+    "('Volume', 'BAJAJ-AUTO.NS')":495241
+  },
+  {
+    "('Date', '')":"2025-03-11",
+    "('Close', 'BAJAJ-AUTO.NS')":7314.5703125,
+    "('High', 'BAJAJ-AUTO.NS')":7330.1748327904,
+    "('Low', 'BAJAJ-AUTO.NS')":7146.8702930189,
+    "('Open', 'BAJAJ-AUTO.NS')":7173.6905622681,
+    "('Volume', 'BAJAJ-AUTO.NS')":412703
+  },
+  {
+    "('Date', '')":"2025-03-12",
+    "('Close', 'BAJAJ-AUTO.NS')":7329.2963867188,
+    "('High', 'BAJAJ-AUTO.NS')":7381.9130668265,
+    "('Low', 'BAJAJ-AUTO.NS')":7246.2026054235,
+    "('Open', 'BAJAJ-AUTO.NS')":7314.5700022889,
+    "('Volume', 'BAJAJ-AUTO.NS')":529286
+  },
+  {
+    "('Date', '')":"2025-03-13",
+    "('Close', 'BAJAJ-AUTO.NS')":7319.2026367188,
+    "('High', 'BAJAJ-AUTO.NS')":7358.7501508983,
+    "('Low', 'BAJAJ-AUTO.NS')":7231.7196075558,
+    "('Open', 'BAJAJ-AUTO.NS')":7358.7501508983,
+    "('Volume', 'BAJAJ-AUTO.NS')":454776
+  },
+  {
+    "('Date', '')":"2025-03-17",
+    "('Close', 'BAJAJ-AUTO.NS')":7301.0131835938,
+    "('High', 'BAJAJ-AUTO.NS')":7422.874919365,
+    "('Low', 'BAJAJ-AUTO.NS')":7249.2746387649,
+    "('Open', 'BAJAJ-AUTO.NS')":7314.6185646088,
+    "('Volume', 'BAJAJ-AUTO.NS')":286383
+  },
+  {
+    "('Date', '')":"2025-03-18",
+    "('Close', 'BAJAJ-AUTO.NS')":7301.0131835938,
+    "('High', 'BAJAJ-AUTO.NS')":7301.0131835938,
+    "('Low', 'BAJAJ-AUTO.NS')":7301.0131835938,
+    "('Open', 'BAJAJ-AUTO.NS')":7301.0131835938,
+    "('Volume', 'BAJAJ-AUTO.NS')":0
+  },
+  {
+    "('Date', '')":"2025-03-19",
+    "('Close', 'BAJAJ-AUTO.NS')":7530.9853515625,
+    "('High', 'BAJAJ-AUTO.NS')":7575.653100074,
+    "('Low', 'BAJAJ-AUTO.NS')":7430.921270708,
+    "('Open', 'BAJAJ-AUTO.NS')":7484.3179881764,
+    "('Volume', 'BAJAJ-AUTO.NS')":409356
+  },
+  {
+    "('Date', '')":"2025-03-20",
+    "('Close', 'BAJAJ-AUTO.NS')":7724.2373046875,
+    "('High', 'BAJAJ-AUTO.NS')":7755.3977706629,
+    "('Low', 'BAJAJ-AUTO.NS')":7531.1313720703,
+    "('Open', 'BAJAJ-AUTO.NS')":7543.7614707743,
+    "('Volume', 'BAJAJ-AUTO.NS')":606109
+  },
+  {
+    "('Date', '')":"2025-03-21",
+    "('Close', 'BAJAJ-AUTO.NS')":7868.4331054688,
+    "('High', 'BAJAJ-AUTO.NS')":7949.5277510557,
+    "('Low', 'BAJAJ-AUTO.NS')":7741.7925761109,
+    "('Open', 'BAJAJ-AUTO.NS')":7772.0263339667,
+    "('Volume', 'BAJAJ-AUTO.NS')":703280
+  },
+  {
+    "('Date', '')":"2025-03-24",
+    "('Close', 'BAJAJ-AUTO.NS')":7924.7065429688,
+    "('High', 'BAJAJ-AUTO.NS')":8010.921897108,
+    "('Low', 'BAJAJ-AUTO.NS')":7870.5297904721,
+    "('Open', 'BAJAJ-AUTO.NS')":7917.1481035789,
+    "('Volume', 'BAJAJ-AUTO.NS')":453508
+  },
+  {
+    "('Date', '')":"2025-03-25",
+    "('Close', 'BAJAJ-AUTO.NS')":7808.1118164062,
+    "('High', 'BAJAJ-AUTO.NS')":7966.059010222,
+    "('Low', 'BAJAJ-AUTO.NS')":7755.4465605874,
+    "('Open', 'BAJAJ-AUTO.NS')":7958.3053237416,
+    "('Volume', 'BAJAJ-AUTO.NS')":824076
+  },
+  {
+    "('Date', '')":"2025-03-26",
+    "('Close', 'BAJAJ-AUTO.NS')":7779.9262695312,
+    "('High', 'BAJAJ-AUTO.NS')":7848.5374899146,
+    "('Low', 'BAJAJ-AUTO.NS')":7714.4847173314,
+    "('Open', 'BAJAJ-AUTO.NS')":7816.2555433265,
+    "('Volume', 'BAJAJ-AUTO.NS')":391366
+  },
+  {
+    "('Date', '')":"2025-03-27",
+    "('Close', 'BAJAJ-AUTO.NS')":7777.1948242188,
+    "('High', 'BAJAJ-AUTO.NS')":7840.3934141173,
+    "('Low', 'BAJAJ-AUTO.NS')":7658.161789023,
+    "('Open', 'BAJAJ-AUTO.NS')":7705.7068095222,
+    "('Volume', 'BAJAJ-AUTO.NS')":651971
+  },
+  {
+    "('Date', '')":"2025-03-28",
+    "('Close', 'BAJAJ-AUTO.NS')":7684.1044921875,
+    "('High', 'BAJAJ-AUTO.NS')":7826.5443084516,
+    "('Low', 'BAJAJ-AUTO.NS')":7617.687659803,
+    "('Open', 'BAJAJ-AUTO.NS')":7773.3914130882,
+    "('Volume', 'BAJAJ-AUTO.NS')":392400
+  },
+  {
+    "('Date', '')":"2025-04-01",
+    "('Close', 'BAJAJ-AUTO.NS')":7795.4814453125,
+    "('High', 'BAJAJ-AUTO.NS')":7849.0734081355,
+    "('Low', 'BAJAJ-AUTO.NS')":7442.3806135042,
+    "('Open', 'BAJAJ-AUTO.NS')":7442.3806135042,
+    "('Volume', 'BAJAJ-AUTO.NS')":283618
+  },
+  {
+    "('Date', '')":"2025-04-02",
+    "('Close', 'BAJAJ-AUTO.NS')":7873.4067382812,
+    "('High', 'BAJAJ-AUTO.NS')":7883.9881720191,
+    "('Low', 'BAJAJ-AUTO.NS')":7748.6191568438,
+    "('Open', 'BAJAJ-AUTO.NS')":7765.1989586898,
+    "('Volume', 'BAJAJ-AUTO.NS')":237191
+  },
+  {
+    "('Date', '')":"2025-04-03",
+    "('Close', 'BAJAJ-AUTO.NS')":7716.6303710938,
+    "('High', 'BAJAJ-AUTO.NS')":7743.7916076931,
+    "('Low', 'BAJAJ-AUTO.NS')":7646.2147842539,
+    "('Open', 'BAJAJ-AUTO.NS')":7743.7916076931,
+    "('Volume', 'BAJAJ-AUTO.NS')":470005
+  },
+  {
+    "('Date', '')":"2025-04-04",
+    "('Close', 'BAJAJ-AUTO.NS')":7495.1435546875,
+    "('High', 'BAJAJ-AUTO.NS')":7694.8326443963,
+    "('Low', 'BAJAJ-AUTO.NS')":7463.1054296676,
+    "('Open', 'BAJAJ-AUTO.NS')":7685.2260166331,
+    "('Volume', 'BAJAJ-AUTO.NS')":461228
+  },
+  {
+    "('Date', '')":"2025-04-07",
+    "('Close', 'BAJAJ-AUTO.NS')":7126.1938476562,
+    "('High', 'BAJAJ-AUTO.NS')":7175.6894336085,
+    "('Low', 'BAJAJ-AUTO.NS')":6914.1189577124,
+    "('Open', 'BAJAJ-AUTO.NS')":7119.5621172648,
+    "('Volume', 'BAJAJ-AUTO.NS')":469629
+  },
+  {
+    "('Date', '')":"2025-04-08",
+    "('Close', 'BAJAJ-AUTO.NS')":7312.716796875,
+    "('High', 'BAJAJ-AUTO.NS')":7343.7310662645,
+    "('Low', 'BAJAJ-AUTO.NS')":7164.1814618332,
+    "('Open', 'BAJAJ-AUTO.NS')":7201.9736589058,
+    "('Volume', 'BAJAJ-AUTO.NS')":259199
+  },
+  {
+    "('Date', '')":"2025-04-09",
+    "('Close', 'BAJAJ-AUTO.NS')":7385.1313476562,
+    "('High', 'BAJAJ-AUTO.NS')":7442.6730140919,
+    "('Low', 'BAJAJ-AUTO.NS')":7276.094956658,
+    "('Open', 'BAJAJ-AUTO.NS')":7339.4397443462,
+    "('Volume', 'BAJAJ-AUTO.NS')":261256
+  },
+  {
+    "('Date', '')":"2025-04-11",
+    "('Close', 'BAJAJ-AUTO.NS')":7576.8232421875,
+    "('High', 'BAJAJ-AUTO.NS')":7587.6489727467,
+    "('Low', 'BAJAJ-AUTO.NS')":7447.5983161083,
+    "('Open', 'BAJAJ-AUTO.NS')":7528.692957496,
+    "('Volume', 'BAJAJ-AUTO.NS')":290737
+  },
+  {
+    "('Date', '')":"2025-04-15",
+    "('Close', 'BAJAJ-AUTO.NS')":7797.87109375,
+    "('High', 'BAJAJ-AUTO.NS')":7841.2711642486,
+    "('Low', 'BAJAJ-AUTO.NS')":7634.9989190697,
+    "('Open', 'BAJAJ-AUTO.NS')":7802.259864924,
+    "('Volume', 'BAJAJ-AUTO.NS')":387999
+  },
+  {
+    "('Date', '')":"2025-04-16",
+    "('Close', 'BAJAJ-AUTO.NS')":7764.7114257812,
+    "('High', 'BAJAJ-AUTO.NS')":7801.7721598364,
+    "('Low', 'BAJAJ-AUTO.NS')":7670.1090256932,
+    "('Open', 'BAJAJ-AUTO.NS')":7801.2845185988,
+    "('Volume', 'BAJAJ-AUTO.NS')":294161
+  },
+  {
+    "('Date', '')":"2025-04-17",
+    "('Close', 'BAJAJ-AUTO.NS')":7819.8149414062,
+    "('High', 'BAJAJ-AUTO.NS')":7855.9003932436,
+    "('Low', 'BAJAJ-AUTO.NS')":7670.1090804053,
+    "('Open', 'BAJAJ-AUTO.NS')":7796.4081618361,
+    "('Volume', 'BAJAJ-AUTO.NS')":274331
+  },
+  {
+    "('Date', '')":"2025-04-21",
+    "('Close', 'BAJAJ-AUTO.NS')":8043.642578125,
+    "('High', 'BAJAJ-AUTO.NS')":8070.4628474064,
+    "('Low', 'BAJAJ-AUTO.NS')":7753.4960286261,
+    "('Open', 'BAJAJ-AUTO.NS')":7812.0129797855,
+    "('Volume', 'BAJAJ-AUTO.NS')":285132
+  },
+  {
+    "('Date', '')":"2025-04-22",
+    "('Close', 'BAJAJ-AUTO.NS')":7939.7749023438,
+    "('High', 'BAJAJ-AUTO.NS')":7984.1502564841,
+    "('Low', 'BAJAJ-AUTO.NS')":7875.4062567775,
+    "('Open', 'BAJAJ-AUTO.NS')":7983.6626152298,
+    "('Volume', 'BAJAJ-AUTO.NS')":394636
+  },
+  {
+    "('Date', '')":"2025-04-23",
+    "('Close', 'BAJAJ-AUTO.NS')":8057.2963867188,
+    "('High', 'BAJAJ-AUTO.NS')":8089.4807092706,
+    "('Low', 'BAJAJ-AUTO.NS')":7851.9994201383,
+    "('Open', 'BAJAJ-AUTO.NS')":7910.5163702325,
+    "('Volume', 'BAJAJ-AUTO.NS')":598686
+  },
+  {
+    "('Date', '')":"2025-04-24",
+    "('Close', 'BAJAJ-AUTO.NS')":7998.779296875,
+    "('High', 'BAJAJ-AUTO.NS')":8122.1525311681,
+    "('Low', 'BAJAJ-AUTO.NS')":7967.0826161278,
+    "('Open', 'BAJAJ-AUTO.NS')":8055.83332222,
+    "('Volume', 'BAJAJ-AUTO.NS')":322100
+  },
+  {
+    "('Date', '')":"2025-04-25",
+    "('Close', 'BAJAJ-AUTO.NS')":7835.4194335938,
+    "('High', 'BAJAJ-AUTO.NS')":8055.3456325327,
+    "('Low', 'BAJAJ-AUTO.NS')":7768.1249425659,
+    "('Open', 'BAJAJ-AUTO.NS')":8021.6983870187,
+    "('Volume', 'BAJAJ-AUTO.NS')":508224
+  },
+  {
+    "('Date', '')":"2025-04-28",
+    "('Close', 'BAJAJ-AUTO.NS')":7895.8872070312,
+    "('High', 'BAJAJ-AUTO.NS')":7933.4355836951,
+    "('Low', 'BAJAJ-AUTO.NS')":7773.9768931875,
+    "('Open', 'BAJAJ-AUTO.NS')":7835.4196913648,
+    "('Volume', 'BAJAJ-AUTO.NS')":282481
+  },
+  {
+    "('Date', '')":"2025-04-29",
+    "('Close', 'BAJAJ-AUTO.NS')":7878.8198242188,
+    "('High', 'BAJAJ-AUTO.NS')":7967.5705333855,
+    "('Low', 'BAJAJ-AUTO.NS')":7821.7657968972,
+    "('Open', 'BAJAJ-AUTO.NS')":7935.3862102811,
+    "('Volume', 'BAJAJ-AUTO.NS')":228383
+  },
+  {
+    "('Date', '')":"2025-04-30",
+    "('Close', 'BAJAJ-AUTO.NS')":7831.5185546875,
+    "('High', 'BAJAJ-AUTO.NS')":7877.8444739089,
+    "('Low', 'BAJAJ-AUTO.NS')":7780.3162229165,
+    "('Open', 'BAJAJ-AUTO.NS')":7860.7770299852,
+    "('Volume', 'BAJAJ-AUTO.NS')":447067
+  },
+  {
+    "('Date', '')":"2025-05-02",
+    "('Close', 'BAJAJ-AUTO.NS')":7627.1967773438,
+    "('High', 'BAJAJ-AUTO.NS')":7886.1342806216,
+    "('Low', 'BAJAJ-AUTO.NS')":7610.1293336249,
+    "('Open', 'BAJAJ-AUTO.NS')":7802.2599857746,
+    "('Volume', 'BAJAJ-AUTO.NS')":379515
+  },
+  {
+    "('Date', '')":"2025-05-05",
+    "('Close', 'BAJAJ-AUTO.NS')":7724.7250976562,
+    "('High', 'BAJAJ-AUTO.NS')":7767.6375279696,
+    "('Low', 'BAJAJ-AUTO.NS')":7655.9676809042,
+    "('Open', 'BAJAJ-AUTO.NS')":7674.9856897931,
+    "('Volume', 'BAJAJ-AUTO.NS')":250175
+  },
+  {
+    "('Date', '')":"2025-05-06",
+    "('Close', 'BAJAJ-AUTO.NS')":7749.1069335938,
+    "('High', 'BAJAJ-AUTO.NS')":7845.1722577343,
+    "('Low', 'BAJAJ-AUTO.NS')":7714.484405604,
+    "('Open', 'BAJAJ-AUTO.NS')":7733.9900551757,
+    "('Volume', 'BAJAJ-AUTO.NS')":270568
+  },
+  {
+    "('Date', '')":"2025-05-07",
+    "('Close', 'BAJAJ-AUTO.NS')":7654.9921875,
+    "('High', 'BAJAJ-AUTO.NS')":7780.8036274525,
+    "('Low', 'BAJAJ-AUTO.NS')":7618.4190944905,
+    "('Open', 'BAJAJ-AUTO.NS')":7719.8484724368,
+    "('Volume', 'BAJAJ-AUTO.NS')":459640
+  },
+  {
+    "('Date', '')":"2025-05-08",
+    "('Close', 'BAJAJ-AUTO.NS')":7533.5698242188,
+    "('High', 'BAJAJ-AUTO.NS')":7674.9857895902,
+    "('Low', 'BAJAJ-AUTO.NS')":7480.4169268895,
+    "('Open', 'BAJAJ-AUTO.NS')":7656.4554217139,
+    "('Volume', 'BAJAJ-AUTO.NS')":461725
+  },
+  {
+    "('Date', '')":"2025-05-09",
+    "('Close', 'BAJAJ-AUTO.NS')":7492.6079101562,
+    "('High', 'BAJAJ-AUTO.NS')":7552.1001434813,
+    "('Low', 'BAJAJ-AUTO.NS')":7423.8504929527,
+    "('Open', 'BAJAJ-AUTO.NS')":7431.6527530609,
+    "('Volume', 'BAJAJ-AUTO.NS')":248982
+  },
+  {
+    "('Date', '')":"2025-05-12",
+    "('Close', 'BAJAJ-AUTO.NS')":7840.7836914062,
+    "('High', 'BAJAJ-AUTO.NS')":7849.5612339428,
+    "('Low', 'BAJAJ-AUTO.NS')":7585.747316594,
+    "('Open', 'BAJAJ-AUTO.NS')":7607.2035316834,
+    "('Volume', 'BAJAJ-AUTO.NS')":296774
+  },
+  {
+    "('Date', '')":"2025-05-13",
+    "('Close', 'BAJAJ-AUTO.NS')":7863.7026367188,
+    "('High', 'BAJAJ-AUTO.NS')":7908.5656308015,
+    "('Low', 'BAJAJ-AUTO.NS')":7753.495716472,
+    "('Open', 'BAJAJ-AUTO.NS')":7840.7834984374,
+    "('Volume', 'BAJAJ-AUTO.NS')":407395
+  },
+  {
+    "('Date', '')":"2025-05-14",
+    "('Close', 'BAJAJ-AUTO.NS')":7902.2265625,
+    "('High', 'BAJAJ-AUTO.NS')":8005.1188676334,
+    "('Low', 'BAJAJ-AUTO.NS')":7833.4691453255,
+    "('Open', 'BAJAJ-AUTO.NS')":7890.0355310861,
+    "('Volume', 'BAJAJ-AUTO.NS')":225717
+  },
+  {
+    "('Date', '')":"2025-05-15",
+    "('Close', 'BAJAJ-AUTO.NS')":8120.2021484375,
+    "('High', 'BAJAJ-AUTO.NS')":8159.2134486942,
+    "('Low', 'BAJAJ-AUTO.NS')":7877.3568043394,
+    "('Open', 'BAJAJ-AUTO.NS')":7933.9231897116,
+    "('Volume', 'BAJAJ-AUTO.NS')":497959
+  },
+  {
+    "('Date', '')":"2025-05-16",
+    "('Close', 'BAJAJ-AUTO.NS')":8272.833984375,
+    "('High', 'BAJAJ-AUTO.NS')":8285.0250158875,
+    "('Low', 'BAJAJ-AUTO.NS')":8075.3392738727,
+    "('Open', 'BAJAJ-AUTO.NS')":8143.6090503426,
+    "('Volume', 'BAJAJ-AUTO.NS')":483122
+  },
+  {
+    "('Date', '')":"2025-05-19",
+    "('Close', 'BAJAJ-AUTO.NS')":8632.2255859375,
+    "('High', 'BAJAJ-AUTO.NS')":8642.4660523992,
+    "('Low', 'BAJAJ-AUTO.NS')":8282.0991612,
+    "('Open', 'BAJAJ-AUTO.NS')":8289.9014213613,
+    "('Volume', 'BAJAJ-AUTO.NS')":858221
+  },
+  {
+    "('Date', '')":"2025-05-20",
+    "('Close', 'BAJAJ-AUTO.NS')":8353.294921875,
+    "('High', 'BAJAJ-AUTO.NS')":8631.2504446694,
+    "('Low', 'BAJAJ-AUTO.NS')":8315.7465442343,
+    "('Open', 'BAJAJ-AUTO.NS')":8631.2504446694,
+    "('Volume', 'BAJAJ-AUTO.NS')":449936
+  },
+  {
+    "('Date', '')":"2025-05-21",
+    "('Close', 'BAJAJ-AUTO.NS')":8472.7666015625,
+    "('High', 'BAJAJ-AUTO.NS')":8548.3509942671,
+    "('Low', 'BAJAJ-AUTO.NS')":8324.5236636129,
+    "('Open', 'BAJAJ-AUTO.NS')":8395.2316438849,
+    "('Volume', 'BAJAJ-AUTO.NS')":572628
+  },
+  {
+    "('Date', '')":"2025-05-22",
+    "('Close', 'BAJAJ-AUTO.NS')":8517.6298828125,
+    "('High', 'BAJAJ-AUTO.NS')":8558.5917486255,
+    "('Low', 'BAJAJ-AUTO.NS')":8302.0924460344,
+    "('Open', 'BAJAJ-AUTO.NS')":8445.9466176397,
+    "('Volume', 'BAJAJ-AUTO.NS')":916615
+  },
+  {
+    "('Date', '')":"2025-05-23",
+    "('Close', 'BAJAJ-AUTO.NS')":8524.9443359375,
+    "('High', 'BAJAJ-AUTO.NS')":8619.5467384756,
+    "('Low', 'BAJAJ-AUTO.NS')":8498.6117084269,
+    "('Open', 'BAJAJ-AUTO.NS')":8548.3511159469,
+    "('Volume', 'BAJAJ-AUTO.NS')":321989
+  },
+  {
+    "('Date', '')":"2025-05-26",
+    "('Close', 'BAJAJ-AUTO.NS')":8737.068359375,
+    "('High', 'BAJAJ-AUTO.NS')":8756.5740095606,
+    "('Low', 'BAJAJ-AUTO.NS')":8553.2276063759,
+    "('Open', 'BAJAJ-AUTO.NS')":8567.3692027605,
+    "('Volume', 'BAJAJ-AUTO.NS')":440577
+  },
+  {
+    "('Date', '')":"2025-05-27",
+    "('Close', 'BAJAJ-AUTO.NS')":8741.45703125,
+    "('High', 'BAJAJ-AUTO.NS')":8781.9312549248,
+    "('Low', 'BAJAJ-AUTO.NS')":8680.5018751133,
+    "('Open', 'BAJAJ-AUTO.NS')":8723.9019462826,
+    "('Volume', 'BAJAJ-AUTO.NS')":401273
+  },
+  {
+    "('Date', '')":"2025-05-28",
+    "('Close', 'BAJAJ-AUTO.NS')":8630.2744140625,
+    "('High', 'BAJAJ-AUTO.NS')":8784.3690414127,
+    "('Low', 'BAJAJ-AUTO.NS')":8558.1035126453,
+    "('Open', 'BAJAJ-AUTO.NS')":8767.7892397358,
+    "('Volume', 'BAJAJ-AUTO.NS')":312080
+  },
+  {
+    "('Date', '')":"2025-05-29",
+    "('Close', 'BAJAJ-AUTO.NS')":8655.14453125,
+    "('High', 'BAJAJ-AUTO.NS')":8719.0255348893,
+    "('Low', 'BAJAJ-AUTO.NS')":8584.4365501225,
+    "('Open', 'BAJAJ-AUTO.NS')":8686.8412124451,
+    "('Volume', 'BAJAJ-AUTO.NS')":330341
+  },
+  {
+    "('Date', '')":"2025-05-30",
+    "('Close', 'BAJAJ-AUTO.NS')":8394.2568359375,
+    "('High', 'BAJAJ-AUTO.NS')":8645.8797316819,
+    "('Low', 'BAJAJ-AUTO.NS')":8372.8006200213,
+    "('Open', 'BAJAJ-AUTO.NS')":8569.8076934336,
+    "('Volume', 'BAJAJ-AUTO.NS')":1434828
+  },
+  {
+    "('Date', '')":"2025-06-02",
+    "('Close', 'BAJAJ-AUTO.NS')":8303.0673828125,
+    "('High', 'BAJAJ-AUTO.NS')":8408.3978905172,
+    "('Low', 'BAJAJ-AUTO.NS')":8207.0020586559,
+    "('Open', 'BAJAJ-AUTO.NS')":8408.3978905172,
+    "('Volume', 'BAJAJ-AUTO.NS')":457251
+  },
+  {
+    "('Date', '')":"2025-06-03",
+    "('Close', 'BAJAJ-AUTO.NS')":8351.34375,
+    "('High', 'BAJAJ-AUTO.NS')":8387.4292012145,
+    "('Low', 'BAJAJ-AUTO.NS')":8280.1481300362,
+    "('Open', 'BAJAJ-AUTO.NS')":8302.5796267371,
+    "('Volume', 'BAJAJ-AUTO.NS')":566074
+  },
+  {
+    "('Date', '')":"2025-06-04",
+    "('Close', 'BAJAJ-AUTO.NS')":8351.83203125,
+    "('High', 'BAJAJ-AUTO.NS')":8426.9287868296,
+    "('Low', 'BAJAJ-AUTO.NS')":8316.2342185402,
+    "('Open', 'BAJAJ-AUTO.NS')":8339.1533582301,
+    "('Volume', 'BAJAJ-AUTO.NS')":431009
+  },
+  {
+    "('Date', '')":"2025-06-05",
+    "('Close', 'BAJAJ-AUTO.NS')":8345.9794921875,
+    "('High', 'BAJAJ-AUTO.NS')":8401.082950126,
+    "('Low', 'BAJAJ-AUTO.NS')":8299.1659350008,
+    "('Open', 'BAJAJ-AUTO.NS')":8401.082950126,
+    "('Volume', 'BAJAJ-AUTO.NS')":381642
+  },
+  {
+    "('Date', '')":"2025-06-06",
+    "('Close', 'BAJAJ-AUTO.NS')":8423.5146484375,
+    "('High', 'BAJAJ-AUTO.NS')":8470.3282067477,
+    "('Low', 'BAJAJ-AUTO.NS')":8329.8875318171,
+    "('Open', 'BAJAJ-AUTO.NS')":8395.2314569584,
+    "('Volume', 'BAJAJ-AUTO.NS')":435024
+  },
+  {
+    "('Date', '')":"2025-06-09",
+    "('Close', 'BAJAJ-AUTO.NS')":8427.416015625,
+    "('High', 'BAJAJ-AUTO.NS')":8489.8340951297,
+    "('Low', 'BAJAJ-AUTO.NS')":8386.9417921962,
+    "('Open', 'BAJAJ-AUTO.NS')":8465.4520328232,
+    "('Volume', 'BAJAJ-AUTO.NS')":443544
+  },
+  {
+    "('Date', '')":"2025-06-10",
+    "('Close', 'BAJAJ-AUTO.NS')":8412.787109375,
+    "('High', 'BAJAJ-AUTO.NS')":8449.8478455396,
+    "('Low', 'BAJAJ-AUTO.NS')":8362.0724177813,
+    "('Open', 'BAJAJ-AUTO.NS')":8431.3174774573,
+    "('Volume', 'BAJAJ-AUTO.NS')":350288
+  },
+  {
+    "('Date', '')":"2025-06-11",
+    "('Close', 'BAJAJ-AUTO.NS')":8503.48828125,
+    "('High', 'BAJAJ-AUTO.NS')":8553.2276897078,
+    "('Low', 'BAJAJ-AUTO.NS')":8397.1824867029,
+    "('Open', 'BAJAJ-AUTO.NS')":8422.0521909318,
+    "('Volume', 'BAJAJ-AUTO.NS')":462124
+  },
+  {
+    "('Date', '')":"2025-06-12",
+    "('Close', 'BAJAJ-AUTO.NS')":8355.2451171875,
+    "('High', 'BAJAJ-AUTO.NS')":8539.5735083569,
+    "('Low', 'BAJAJ-AUTO.NS')":8328.9124898776,
+    "('Open', 'BAJAJ-AUTO.NS')":8516.6543697724,
+    "('Volume', 'BAJAJ-AUTO.NS')":368162
+  },
+  {
+    "('Date', '')":"2025-06-13",
+    "('Close', 'BAJAJ-AUTO.NS')":8254.3037109375,
+    "('High', 'BAJAJ-AUTO.NS')":8275.759926645,
+    "('Low', 'BAJAJ-AUTO.NS')":8143.6091435373,
+    "('Open', 'BAJAJ-AUTO.NS')":8250.8902220749,
+    "('Volume', 'BAJAJ-AUTO.NS')":250910
+  },
+  {
+    "('Date', '')":"2025-06-16",
+    "('Close', 'BAJAJ-AUTO.NS')":8318.671875,
+    "('High', 'BAJAJ-AUTO.NS')":8382.552877147,
+    "('Low', 'BAJAJ-AUTO.NS')":8242.1122006712,
+    "('Open', 'BAJAJ-AUTO.NS')":8276.7347285524,
+    "('Volume', 'BAJAJ-AUTO.NS')":203598
+  },
+  {
+    "('Date', '')":"2025-06-17",
+    "('Close', 'BAJAJ-AUTO.NS')":8284.537109375,
+    "('High', 'BAJAJ-AUTO.NS')":8342.5664175165,
+    "('Low', 'BAJAJ-AUTO.NS')":8246.013451029,
+    "('Open', 'BAJAJ-AUTO.NS')":8280.148338171,
+    "('Volume', 'BAJAJ-AUTO.NS')":286217
+  },
+  {
+    "('Date', '')":"2025-06-18",
+    "('Close', 'BAJAJ-AUTO.NS')":8258.6923828125,
+    "('High', 'BAJAJ-AUTO.NS')":8443.5084204298,
+    "('Low', 'BAJAJ-AUTO.NS')":8231.8721135013,
+    "('Open', 'BAJAJ-AUTO.NS')":8294.7778360676,
+    "('Volume', 'BAJAJ-AUTO.NS')":561114
+  },
+  {
+    "('Date', '')":"2025-06-19",
+    "('Close', 'BAJAJ-AUTO.NS')":8286.0,
+    "('High', 'BAJAJ-AUTO.NS')":8343.5416666667,
+    "('Low', 'BAJAJ-AUTO.NS')":8242.5999293785,
+    "('Open', 'BAJAJ-AUTO.NS')":8270.395480226,
+    "('Volume', 'BAJAJ-AUTO.NS')":332303
+  },
+  {
+    "('Date', '')":"2025-06-20",
+    "('Close', 'BAJAJ-AUTO.NS')":8371.0,
+    "('High', 'BAJAJ-AUTO.NS')":8403.0,
+    "('Low', 'BAJAJ-AUTO.NS')":8250.0,
+    "('Open', 'BAJAJ-AUTO.NS')":8315.0,
+    "('Volume', 'BAJAJ-AUTO.NS')":567646
+  },
+  {
+    "('Date', '')":"2025-06-23",
+    "('Close', 'BAJAJ-AUTO.NS')":8286.5,
+    "('High', 'BAJAJ-AUTO.NS')":8328.5,
+    "('Low', 'BAJAJ-AUTO.NS')":8255.0,
+    "('Open', 'BAJAJ-AUTO.NS')":8275.0,
+    "('Volume', 'BAJAJ-AUTO.NS')":271619
+  },
+  {
+    "('Date', '')":"2025-06-24",
+    "('Close', 'BAJAJ-AUTO.NS')":8377.0,
+    "('High', 'BAJAJ-AUTO.NS')":8424.5,
+    "('Low', 'BAJAJ-AUTO.NS')":8331.5,
+    "('Open', 'BAJAJ-AUTO.NS')":8363.0,
+    "('Volume', 'BAJAJ-AUTO.NS')":214129
+  },
+  {
+    "('Date', '')":"2025-06-25",
+    "('Close', 'BAJAJ-AUTO.NS')":8389.5,
+    "('High', 'BAJAJ-AUTO.NS')":8437.0,
+    "('Low', 'BAJAJ-AUTO.NS')":8371.0,
+    "('Open', 'BAJAJ-AUTO.NS')":8407.0,
+    "('Volume', 'BAJAJ-AUTO.NS')":276176
+  },
+  {
+    "('Date', '')":"2025-06-26",
+    "('Close', 'BAJAJ-AUTO.NS')":8433.0,
+    "('High', 'BAJAJ-AUTO.NS')":8465.0,
+    "('Low', 'BAJAJ-AUTO.NS')":8361.0,
+    "('Open', 'BAJAJ-AUTO.NS')":8370.0,
+    "('Volume', 'BAJAJ-AUTO.NS')":371685
+  },
+  {
+    "('Date', '')":"2025-06-27",
+    "('Close', 'BAJAJ-AUTO.NS')":8436.0,
+    "('High', 'BAJAJ-AUTO.NS')":8507.0,
+    "('Low', 'BAJAJ-AUTO.NS')":8414.0,
+    "('Open', 'BAJAJ-AUTO.NS')":8468.0,
+    "('Volume', 'BAJAJ-AUTO.NS')":504248
+  },
+  {
+    "('Date', '')":"2025-06-30",
+    "('Close', 'BAJAJ-AUTO.NS')":8376.0,
+    "('High', 'BAJAJ-AUTO.NS')":8496.0,
+    "('Low', 'BAJAJ-AUTO.NS')":8360.0,
+    "('Open', 'BAJAJ-AUTO.NS')":8470.0,
+    "('Volume', 'BAJAJ-AUTO.NS')":303799
+  },
+  {
+    "('Date', '')":"2025-07-01",
+    "('Close', 'BAJAJ-AUTO.NS')":8399.0,
+    "('High', 'BAJAJ-AUTO.NS')":8409.0,
+    "('Low', 'BAJAJ-AUTO.NS')":8300.0,
+    "('Open', 'BAJAJ-AUTO.NS')":8370.0,
+    "('Volume', 'BAJAJ-AUTO.NS')":363782
+  },
+  {
+    "('Date', '')":"2025-07-02",
+    "('Close', 'BAJAJ-AUTO.NS')":8356.5,
+    "('High', 'BAJAJ-AUTO.NS')":8409.5,
+    "('Low', 'BAJAJ-AUTO.NS')":8314.5,
+    "('Open', 'BAJAJ-AUTO.NS')":8350.0,
+    "('Volume', 'BAJAJ-AUTO.NS')":267604
+  },
+  {
+    "('Date', '')":"2025-07-03",
+    "('Close', 'BAJAJ-AUTO.NS')":8382.5,
+    "('High', 'BAJAJ-AUTO.NS')":8464.5,
+    "('Low', 'BAJAJ-AUTO.NS')":8350.0,
+    "('Open', 'BAJAJ-AUTO.NS')":8378.0,
+    "('Volume', 'BAJAJ-AUTO.NS')":175619
+  },
+  {
+    "('Date', '')":"2025-07-04",
+    "('Close', 'BAJAJ-AUTO.NS')":8433.0,
+    "('High', 'BAJAJ-AUTO.NS')":8450.0,
+    "('Low', 'BAJAJ-AUTO.NS')":8364.5,
+    "('Open', 'BAJAJ-AUTO.NS')":8382.0,
+    "('Volume', 'BAJAJ-AUTO.NS')":183720
+  },
+  {
+    "('Date', '')":"2025-07-07",
+    "('Close', 'BAJAJ-AUTO.NS')":8463.5,
+    "('High', 'BAJAJ-AUTO.NS')":8484.0,
+    "('Low', 'BAJAJ-AUTO.NS')":8404.0,
+    "('Open', 'BAJAJ-AUTO.NS')":8433.0,
+    "('Volume', 'BAJAJ-AUTO.NS')":123117
+  },
+  {
+    "('Date', '')":"2025-07-08",
+    "('Close', 'BAJAJ-AUTO.NS')":8339.5,
+    "('High', 'BAJAJ-AUTO.NS')":8474.0,
+    "('Low', 'BAJAJ-AUTO.NS')":8291.0,
+    "('Open', 'BAJAJ-AUTO.NS')":8463.0,
+    "('Volume', 'BAJAJ-AUTO.NS')":253579
+  },
+  {
+    "('Date', '')":"2025-07-09",
+    "('Close', 'BAJAJ-AUTO.NS')":8361.0,
+    "('High', 'BAJAJ-AUTO.NS')":8376.0,
+    "('Low', 'BAJAJ-AUTO.NS')":8310.5,
+    "('Open', 'BAJAJ-AUTO.NS')":8350.0,
+    "('Volume', 'BAJAJ-AUTO.NS')":157280
+  },
+  {
+    "('Date', '')":"2025-07-10",
+    "('Close', 'BAJAJ-AUTO.NS')":8285.0,
+    "('High', 'BAJAJ-AUTO.NS')":8394.0,
+    "('Low', 'BAJAJ-AUTO.NS')":8268.0,
+    "('Open', 'BAJAJ-AUTO.NS')":8394.0,
+    "('Volume', 'BAJAJ-AUTO.NS')":229552
+  },
+  {
+    "('Date', '')":"2025-07-11",
+    "('Close', 'BAJAJ-AUTO.NS')":8067.0,
+    "('High', 'BAJAJ-AUTO.NS')":8300.0,
+    "('Low', 'BAJAJ-AUTO.NS')":8045.5,
+    "('Open', 'BAJAJ-AUTO.NS')":8285.5,
+    "('Volume', 'BAJAJ-AUTO.NS')":539579
+  },
+  {
+    "('Date', '')":"2025-07-14",
+    "('Close', 'BAJAJ-AUTO.NS')":8087.5,
+    "('High', 'BAJAJ-AUTO.NS')":8120.0,
+    "('Low', 'BAJAJ-AUTO.NS')":8035.5,
+    "('Open', 'BAJAJ-AUTO.NS')":8090.0,
+    "('Volume', 'BAJAJ-AUTO.NS')":248351
+  },
+  {
+    "('Date', '')":"2025-07-15",
+    "('Close', 'BAJAJ-AUTO.NS')":8311.0,
+    "('High', 'BAJAJ-AUTO.NS')":8326.0,
+    "('Low', 'BAJAJ-AUTO.NS')":8090.0,
+    "('Open', 'BAJAJ-AUTO.NS')":8128.0,
+    "('Volume', 'BAJAJ-AUTO.NS')":366546
+  },
+  {
+    "('Date', '')":"2025-07-16",
+    "('Close', 'BAJAJ-AUTO.NS')":8302.5,
+    "('High', 'BAJAJ-AUTO.NS')":8345.0,
+    "('Low', 'BAJAJ-AUTO.NS')":8184.5,
+    "('Open', 'BAJAJ-AUTO.NS')":8311.0,
+    "('Volume', 'BAJAJ-AUTO.NS')":275493
+  },
+  {
+    "('Date', '')":"2025-07-17",
+    "('Close', 'BAJAJ-AUTO.NS')":8330.0,
+    "('High', 'BAJAJ-AUTO.NS')":8355.0,
+    "('Low', 'BAJAJ-AUTO.NS')":8262.5,
+    "('Open', 'BAJAJ-AUTO.NS')":8278.5,
+    "('Volume', 'BAJAJ-AUTO.NS')":249880
+  },
+  {
+    "('Date', '')":"2025-07-18",
+    "('Close', 'BAJAJ-AUTO.NS')":8347.5,
+    "('High', 'BAJAJ-AUTO.NS')":8365.0,
+    "('Low', 'BAJAJ-AUTO.NS')":8305.0,
+    "('Open', 'BAJAJ-AUTO.NS')":8305.0,
+    "('Volume', 'BAJAJ-AUTO.NS')":268313
+  },
+  {
+    "('Date', '')":"2025-07-21",
+    "('Close', 'BAJAJ-AUTO.NS')":8438.5,
+    "('High', 'BAJAJ-AUTO.NS')":8450.0,
+    "('Low', 'BAJAJ-AUTO.NS')":8306.0,
+    "('Open', 'BAJAJ-AUTO.NS')":8306.0,
+    "('Volume', 'BAJAJ-AUTO.NS')":253964
+  },
+  {
+    "('Date', '')":"2025-07-22",
+    "('Close', 'BAJAJ-AUTO.NS')":8295.0,
+    "('High', 'BAJAJ-AUTO.NS')":8470.0,
+    "('Low', 'BAJAJ-AUTO.NS')":8277.0,
+    "('Open', 'BAJAJ-AUTO.NS')":8470.0,
+    "('Volume', 'BAJAJ-AUTO.NS')":302466
+  },
+  {
+    "('Date', '')":"2025-07-23",
+    "('Close', 'BAJAJ-AUTO.NS')":8397.0,
+    "('High', 'BAJAJ-AUTO.NS')":8405.0,
+    "('Low', 'BAJAJ-AUTO.NS')":8290.5,
+    "('Open', 'BAJAJ-AUTO.NS')":8313.5,
+    "('Volume', 'BAJAJ-AUTO.NS')":194644
+  },
+  {
+    "('Date', '')":"2025-07-24",
+    "('Close', 'BAJAJ-AUTO.NS')":8288.5,
+    "('High', 'BAJAJ-AUTO.NS')":8435.0,
+    "('Low', 'BAJAJ-AUTO.NS')":8276.0,
+    "('Open', 'BAJAJ-AUTO.NS')":8409.5,
+    "('Volume', 'BAJAJ-AUTO.NS')":298692
+  },
+  {
+    "('Date', '')":"2025-07-25",
+    "('Close', 'BAJAJ-AUTO.NS')":8075.5,
+    "('High', 'BAJAJ-AUTO.NS')":8280.0,
+    "('Low', 'BAJAJ-AUTO.NS')":8044.5,
+    "('Open', 'BAJAJ-AUTO.NS')":8275.0,
+    "('Volume', 'BAJAJ-AUTO.NS')":554118
+  },
+  {
+    "('Date', '')":"2025-07-28",
+    "('Close', 'BAJAJ-AUTO.NS')":8089.5,
+    "('High', 'BAJAJ-AUTO.NS')":8158.0,
+    "('Low', 'BAJAJ-AUTO.NS')":8075.0,
+    "('Open', 'BAJAJ-AUTO.NS')":8075.5,
+    "('Volume', 'BAJAJ-AUTO.NS')":232171
+  },
+  {
+    "('Date', '')":"2025-07-29",
+    "('Close', 'BAJAJ-AUTO.NS')":8127.5,
+    "('High', 'BAJAJ-AUTO.NS')":8146.0,
+    "('Low', 'BAJAJ-AUTO.NS')":8056.0,
+    "('Open', 'BAJAJ-AUTO.NS')":8089.5,
+    "('Volume', 'BAJAJ-AUTO.NS')":209998
+  },
+  {
+    "('Date', '')":"2025-07-30",
+    "('Close', 'BAJAJ-AUTO.NS')":8043.5,
+    "('High', 'BAJAJ-AUTO.NS')":8132.5,
+    "('Low', 'BAJAJ-AUTO.NS')":8025.0,
+    "('Open', 'BAJAJ-AUTO.NS')":8090.5,
+    "('Volume', 'BAJAJ-AUTO.NS')":222804
+  },
+  {
+    "('Date', '')":"2025-07-31",
+    "('Close', 'BAJAJ-AUTO.NS')":8008.0,
+    "('High', 'BAJAJ-AUTO.NS')":8094.0,
+    "('Low', 'BAJAJ-AUTO.NS')":7930.5,
+    "('Open', 'BAJAJ-AUTO.NS')":7990.0,
+    "('Volume', 'BAJAJ-AUTO.NS')":297025
+  },
+  {
+    "('Date', '')":"2025-08-01",
+    "('Close', 'BAJAJ-AUTO.NS')":8044.5,
+    "('High', 'BAJAJ-AUTO.NS')":8091.0,
+    "('Low', 'BAJAJ-AUTO.NS')":7951.5,
+    "('Open', 'BAJAJ-AUTO.NS')":8008.0,
+    "('Volume', 'BAJAJ-AUTO.NS')":329818
+  },
+  {
+    "('Date', '')":"2025-08-04",
+    "('Close', 'BAJAJ-AUTO.NS')":8187.5,
+    "('High', 'BAJAJ-AUTO.NS')":8205.0,
+    "('Low', 'BAJAJ-AUTO.NS')":8044.5,
+    "('Open', 'BAJAJ-AUTO.NS')":8044.5,
+    "('Volume', 'BAJAJ-AUTO.NS')":221221
+  },
+  {
+    "('Date', '')":"2025-08-05",
+    "('Close', 'BAJAJ-AUTO.NS')":8230.5,
+    "('High', 'BAJAJ-AUTO.NS')":8236.5,
+    "('Low', 'BAJAJ-AUTO.NS')":8130.0,
+    "('Open', 'BAJAJ-AUTO.NS')":8176.0,
+    "('Volume', 'BAJAJ-AUTO.NS')":194083
+  },
+  {
+    "('Date', '')":"2025-08-06",
+    "('Close', 'BAJAJ-AUTO.NS')":8178.5,
+    "('High', 'BAJAJ-AUTO.NS')":8269.0,
+    "('Low', 'BAJAJ-AUTO.NS')":8120.0,
+    "('Open', 'BAJAJ-AUTO.NS')":8269.0,
+    "('Volume', 'BAJAJ-AUTO.NS')":515934
+  },
+  {
+    "('Date', '')":"2025-08-07",
+    "('Close', 'BAJAJ-AUTO.NS')":8229.0,
+    "('High', 'BAJAJ-AUTO.NS')":8249.0,
+    "('Low', 'BAJAJ-AUTO.NS')":7858.5,
+    "('Open', 'BAJAJ-AUTO.NS')":8070.0,
+    "('Volume', 'BAJAJ-AUTO.NS')":456168
+  },
+  {
+    "('Date', '')":"2025-08-08",
+    "('Close', 'BAJAJ-AUTO.NS')":8224.0,
+    "('High', 'BAJAJ-AUTO.NS')":8277.0,
+    "('Low', 'BAJAJ-AUTO.NS')":8185.0,
+    "('Open', 'BAJAJ-AUTO.NS')":8229.0,
+    "('Volume', 'BAJAJ-AUTO.NS')":282679
+  },
+  {
+    "('Date', '')":"2025-08-11",
+    "('Close', 'BAJAJ-AUTO.NS')":8275.0,
+    "('High', 'BAJAJ-AUTO.NS')":8300.0,
+    "('Low', 'BAJAJ-AUTO.NS')":8132.5,
+    "('Open', 'BAJAJ-AUTO.NS')":8235.0,
+    "('Volume', 'BAJAJ-AUTO.NS')":180274
+  },
+  {
+    "('Date', '')":"2025-08-12",
+    "('Close', 'BAJAJ-AUTO.NS')":8196.5,
+    "('High', 'BAJAJ-AUTO.NS')":8321.5,
+    "('Low', 'BAJAJ-AUTO.NS')":8180.0,
+    "('Open', 'BAJAJ-AUTO.NS')":8275.5,
+    "('Volume', 'BAJAJ-AUTO.NS')":184529
+  },
+  {
+    "('Date', '')":"2025-08-13",
+    "('Close', 'BAJAJ-AUTO.NS')":8248.5,
+    "('High', 'BAJAJ-AUTO.NS')":8309.5,
+    "('Low', 'BAJAJ-AUTO.NS')":8189.0,
+    "('Open', 'BAJAJ-AUTO.NS')":8214.5,
+    "('Volume', 'BAJAJ-AUTO.NS')":367519
+  },
+  {
+    "('Date', '')":"2025-08-14",
+    "('Close', 'BAJAJ-AUTO.NS')":8213.5,
+    "('High', 'BAJAJ-AUTO.NS')":8280.0,
+    "('Low', 'BAJAJ-AUTO.NS')":8198.0,
+    "('Open', 'BAJAJ-AUTO.NS')":8250.0,
+    "('Volume', 'BAJAJ-AUTO.NS')":364270
+  },
+  {
+    "('Date', '')":"2025-08-18",
+    "('Close', 'BAJAJ-AUTO.NS')":8588.5,
+    "('High', 'BAJAJ-AUTO.NS')":8629.5,
+    "('Low', 'BAJAJ-AUTO.NS')":8400.0,
+    "('Open', 'BAJAJ-AUTO.NS')":8400.0,
+    "('Volume', 'BAJAJ-AUTO.NS')":995976
+  },
+  {
+    "('Date', '')":"2025-08-19",
+    "('Close', 'BAJAJ-AUTO.NS')":8795.5,
+    "('High', 'BAJAJ-AUTO.NS')":8856.0,
+    "('Low', 'BAJAJ-AUTO.NS')":8586.0,
+    "('Open', 'BAJAJ-AUTO.NS')":8609.0,
+    "('Volume', 'BAJAJ-AUTO.NS')":1052384
+  },
+  {
+    "('Date', '')":"2025-08-20",
+    "('Close', 'BAJAJ-AUTO.NS')":8827.5,
+    "('High', 'BAJAJ-AUTO.NS')":8872.5,
+    "('Low', 'BAJAJ-AUTO.NS')":8763.5,
+    "('Open', 'BAJAJ-AUTO.NS')":8794.5,
+    "('Volume', 'BAJAJ-AUTO.NS')":490202
+  },
+  {
+    "('Date', '')":"2025-08-21",
+    "('Close', 'BAJAJ-AUTO.NS')":8684.5,
+    "('High', 'BAJAJ-AUTO.NS')":8869.0,
+    "('Low', 'BAJAJ-AUTO.NS')":8630.0,
+    "('Open', 'BAJAJ-AUTO.NS')":8835.0,
+    "('Volume', 'BAJAJ-AUTO.NS')":510564
+  },
+  {
+    "('Date', '')":"2025-08-22",
+    "('Close', 'BAJAJ-AUTO.NS')":8679.5,
+    "('High', 'BAJAJ-AUTO.NS')":8715.0,
+    "('Low', 'BAJAJ-AUTO.NS')":8581.0,
+    "('Open', 'BAJAJ-AUTO.NS')":8684.5,
+    "('Volume', 'BAJAJ-AUTO.NS')":369875
+  },
+  {
+    "('Date', '')":"2025-08-25",
+    "('Close', 'BAJAJ-AUTO.NS')":8750.5,
+    "('High', 'BAJAJ-AUTO.NS')":8764.0,
+    "('Low', 'BAJAJ-AUTO.NS')":8633.5,
+    "('Open', 'BAJAJ-AUTO.NS')":8750.0,
+    "('Volume', 'BAJAJ-AUTO.NS')":360880
+  },
+  {
+    "('Date', '')":"2025-08-26",
+    "('Close', 'BAJAJ-AUTO.NS')":8691.5,
+    "('High', 'BAJAJ-AUTO.NS')":8825.0,
+    "('Low', 'BAJAJ-AUTO.NS')":8646.0,
+    "('Open', 'BAJAJ-AUTO.NS')":8730.0,
+    "('Volume', 'BAJAJ-AUTO.NS')":778390
+  },
+  {
+    "('Date', '')":"2025-08-28",
+    "('Close', 'BAJAJ-AUTO.NS')":8689.5,
+    "('High', 'BAJAJ-AUTO.NS')":8798.0,
+    "('Low', 'BAJAJ-AUTO.NS')":8661.0,
+    "('Open', 'BAJAJ-AUTO.NS')":8798.0,
+    "('Volume', 'BAJAJ-AUTO.NS')":394657
+  },
+  {
+    "('Date', '')":"2025-08-29",
+    "('Close', 'BAJAJ-AUTO.NS')":8631.5,
+    "('High', 'BAJAJ-AUTO.NS')":8730.0,
+    "('Low', 'BAJAJ-AUTO.NS')":8571.5,
+    "('Open', 'BAJAJ-AUTO.NS')":8714.0,
+    "('Volume', 'BAJAJ-AUTO.NS')":344340
+  },
+  {
+    "('Date', '')":"2025-09-01",
+    "('Close', 'BAJAJ-AUTO.NS')":8967.0,
+    "('High', 'BAJAJ-AUTO.NS')":9037.5,
+    "('Low', 'BAJAJ-AUTO.NS')":8665.0,
+    "('Open', 'BAJAJ-AUTO.NS')":8665.0,
+    "('Volume', 'BAJAJ-AUTO.NS')":658701
+  },
+  {
+    "('Date', '')":"2025-09-02",
+    "('Close', 'BAJAJ-AUTO.NS')":9030.5,
+    "('High', 'BAJAJ-AUTO.NS')":9109.5,
+    "('Low', 'BAJAJ-AUTO.NS')":8926.0,
+    "('Open', 'BAJAJ-AUTO.NS')":8970.0,
+    "('Volume', 'BAJAJ-AUTO.NS')":548186
+  },
+  {
+    "('Date', '')":"2025-09-03",
+    "('Close', 'BAJAJ-AUTO.NS')":9116.0,
+    "('High', 'BAJAJ-AUTO.NS')":9129.5,
+    "('Low', 'BAJAJ-AUTO.NS')":8992.0,
+    "('Open', 'BAJAJ-AUTO.NS')":9052.0,
+    "('Volume', 'BAJAJ-AUTO.NS')":322758
+  },
+  {
+    "('Date', '')":"2025-09-04",
+    "('Close', 'BAJAJ-AUTO.NS')":9071.0,
+    "('High', 'BAJAJ-AUTO.NS')":9353.5,
+    "('Low', 'BAJAJ-AUTO.NS')":9046.5,
+    "('Open', 'BAJAJ-AUTO.NS')":9350.0,
+    "('Volume', 'BAJAJ-AUTO.NS')":652617
+  },
+  {
+    "('Date', '')":"2025-09-05",
+    "('Close', 'BAJAJ-AUTO.NS')":9084.5,
+    "('High', 'BAJAJ-AUTO.NS')":9172.0,
+    "('Low', 'BAJAJ-AUTO.NS')":9053.0,
+    "('Open', 'BAJAJ-AUTO.NS')":9117.0,
+    "('Volume', 'BAJAJ-AUTO.NS')":231190
+  },
+  {
+    "('Date', '')":"2025-09-08",
+    "('Close', 'BAJAJ-AUTO.NS')":9433.5,
+    "('High', 'BAJAJ-AUTO.NS')":9490.0,
+    "('Low', 'BAJAJ-AUTO.NS')":9073.0,
+    "('Open', 'BAJAJ-AUTO.NS')":9102.0,
+    "('Volume', 'BAJAJ-AUTO.NS')":713087
+  },
+  {
+    "('Date', '')":"2025-09-09",
+    "('Close', 'BAJAJ-AUTO.NS')":9383.0,
+    "('High', 'BAJAJ-AUTO.NS')":9428.5,
+    "('Low', 'BAJAJ-AUTO.NS')":9236.5,
+    "('Open', 'BAJAJ-AUTO.NS')":9390.5,
+    "('Volume', 'BAJAJ-AUTO.NS')":505482
+  },
+  {
+    "('Date', '')":"2025-09-10",
+    "('Close', 'BAJAJ-AUTO.NS')":9244.0,
+    "('High', 'BAJAJ-AUTO.NS')":9440.0,
+    "('Low', 'BAJAJ-AUTO.NS')":9180.0,
+    "('Open', 'BAJAJ-AUTO.NS')":9425.0,
+    "('Volume', 'BAJAJ-AUTO.NS')":454231
+  },
+  {
+    "('Date', '')":"2025-09-11",
+    "('Close', 'BAJAJ-AUTO.NS')":9113.5,
+    "('High', 'BAJAJ-AUTO.NS')":9243.5,
+    "('Low', 'BAJAJ-AUTO.NS')":9075.0,
+    "('Open', 'BAJAJ-AUTO.NS')":9243.5,
+    "('Volume', 'BAJAJ-AUTO.NS')":472941
+  },
+  {
+    "('Date', '')":"2025-09-12",
+    "('Close', 'BAJAJ-AUTO.NS')":8999.5,
+    "('High', 'BAJAJ-AUTO.NS')":9205.0,
+    "('Low', 'BAJAJ-AUTO.NS')":8979.5,
+    "('Open', 'BAJAJ-AUTO.NS')":9115.0,
+    "('Volume', 'BAJAJ-AUTO.NS')":481492
+  },
+  {
+    "('Date', '')":"2025-09-15",
+    "('Close', 'BAJAJ-AUTO.NS')":9025.0,
+    "('High', 'BAJAJ-AUTO.NS')":9091.5,
+    "('Low', 'BAJAJ-AUTO.NS')":8964.0,
+    "('Open', 'BAJAJ-AUTO.NS')":9026.5,
+    "('Volume', 'BAJAJ-AUTO.NS')":325549
+  },
+  {
+    "('Date', '')":"2025-09-16",
+    "('Close', 'BAJAJ-AUTO.NS')":9072.5,
+    "('High', 'BAJAJ-AUTO.NS')":9099.0,
+    "('Low', 'BAJAJ-AUTO.NS')":9020.0,
+    "('Open', 'BAJAJ-AUTO.NS')":9032.0,
+    "('Volume', 'BAJAJ-AUTO.NS')":219134
+  },
+  {
+    "('Date', '')":"2025-09-17",
+    "('Close', 'BAJAJ-AUTO.NS')":9084.0,
+    "('High', 'BAJAJ-AUTO.NS')":9136.0,
+    "('Low', 'BAJAJ-AUTO.NS')":9070.0,
+    "('Open', 'BAJAJ-AUTO.NS')":9076.5,
+    "('Volume', 'BAJAJ-AUTO.NS')":172732
+  },
+  {
+    "('Date', '')":"2025-09-18",
+    "('Close', 'BAJAJ-AUTO.NS')":9075.0,
+    "('High', 'BAJAJ-AUTO.NS')":9115.0,
+    "('Low', 'BAJAJ-AUTO.NS')":9025.0,
+    "('Open', 'BAJAJ-AUTO.NS')":9099.5,
+    "('Volume', 'BAJAJ-AUTO.NS')":183574
+  },
+  {
+    "('Date', '')":"2025-09-19",
+    "('Close', 'BAJAJ-AUTO.NS')":8971.5,
+    "('High', 'BAJAJ-AUTO.NS')":9063.5,
+    "('Low', 'BAJAJ-AUTO.NS')":8950.5,
+    "('Open', 'BAJAJ-AUTO.NS')":9050.0,
+    "('Volume', 'BAJAJ-AUTO.NS')":467648
+  },
+  {
+    "('Date', '')":"2025-09-22",
+    "('Close', 'BAJAJ-AUTO.NS')":9054.5,
+    "('High', 'BAJAJ-AUTO.NS')":9195.0,
+    "('Low', 'BAJAJ-AUTO.NS')":8959.5,
+    "('Open', 'BAJAJ-AUTO.NS')":8971.5,
+    "('Volume', 'BAJAJ-AUTO.NS')":525239
+  },
+  {
+    "('Date', '')":"2025-09-23",
+    "('Close', 'BAJAJ-AUTO.NS')":8984.5,
+    "('High', 'BAJAJ-AUTO.NS')":9225.0,
+    "('Low', 'BAJAJ-AUTO.NS')":8950.0,
+    "('Open', 'BAJAJ-AUTO.NS')":9079.0,
+    "('Volume', 'BAJAJ-AUTO.NS')":451186
+  },
+  {
+    "('Date', '')":"2025-09-24",
+    "('Close', 'BAJAJ-AUTO.NS')":8839.0,
+    "('High', 'BAJAJ-AUTO.NS')":8999.0,
+    "('Low', 'BAJAJ-AUTO.NS')":8804.0,
+    "('Open', 'BAJAJ-AUTO.NS')":8990.0,
+    "('Volume', 'BAJAJ-AUTO.NS')":240914
+  },
+  {
+    "('Date', '')":"2025-09-25",
+    "('Close', 'BAJAJ-AUTO.NS')":8842.5,
+    "('High', 'BAJAJ-AUTO.NS')":8910.0,
+    "('Low', 'BAJAJ-AUTO.NS')":8758.0,
+    "('Open', 'BAJAJ-AUTO.NS')":8821.0,
+    "('Volume', 'BAJAJ-AUTO.NS')":441002
+  },
+  {
+    "('Date', '')":"2025-09-26",
+    "('Close', 'BAJAJ-AUTO.NS')":8702.0,
+    "('High', 'BAJAJ-AUTO.NS')":8880.0,
+    "('Low', 'BAJAJ-AUTO.NS')":8668.0,
+    "('Open', 'BAJAJ-AUTO.NS')":8830.0,
+    "('Volume', 'BAJAJ-AUTO.NS')":335841
+  },
+  {
+    "('Date', '')":"2025-09-29",
+    "('Close', 'BAJAJ-AUTO.NS')":8717.5,
+    "('High', 'BAJAJ-AUTO.NS')":8829.0,
+    "('Low', 'BAJAJ-AUTO.NS')":8675.5,
+    "('Open', 'BAJAJ-AUTO.NS')":8745.0,
+    "('Volume', 'BAJAJ-AUTO.NS')":394174
+  },
+  {
+    "('Date', '')":"2025-09-30",
+    "('Close', 'BAJAJ-AUTO.NS')":8678.5,
+    "('High', 'BAJAJ-AUTO.NS')":8769.0,
+    "('Low', 'BAJAJ-AUTO.NS')":8640.0,
+    "('Open', 'BAJAJ-AUTO.NS')":8721.0,
+    "('Volume', 'BAJAJ-AUTO.NS')":285609
+  },
+  {
+    "('Date', '')":"2025-10-01",
+    "('Close', 'BAJAJ-AUTO.NS')":8626.5,
+    "('High', 'BAJAJ-AUTO.NS')":8846.5,
+    "('Low', 'BAJAJ-AUTO.NS')":8586.5,
+    "('Open', 'BAJAJ-AUTO.NS')":8720.0,
+    "('Volume', 'BAJAJ-AUTO.NS')":551282
+  },
+  {
+    "('Date', '')":"2025-10-03",
+    "('Close', 'BAJAJ-AUTO.NS')":8679.5,
+    "('High', 'BAJAJ-AUTO.NS')":8698.5,
+    "('Low', 'BAJAJ-AUTO.NS')":8491.5,
+    "('Open', 'BAJAJ-AUTO.NS')":8626.5,
+    "('Volume', 'BAJAJ-AUTO.NS')":915075
+  },
+  {
+    "('Date', '')":"2025-10-06",
+    "('Close', 'BAJAJ-AUTO.NS')":8792.0,
+    "('High', 'BAJAJ-AUTO.NS')":8803.5,
+    "('Low', 'BAJAJ-AUTO.NS')":8651.0,
+    "('Open', 'BAJAJ-AUTO.NS')":8698.0,
+    "('Volume', 'BAJAJ-AUTO.NS')":300715
+  },
+  {
+    "('Date', '')":"2025-10-07",
+    "('Close', 'BAJAJ-AUTO.NS')":8904.0,
+    "('High', 'BAJAJ-AUTO.NS')":8915.0,
+    "('Low', 'BAJAJ-AUTO.NS')":8785.5,
+    "('Open', 'BAJAJ-AUTO.NS')":8800.0,
+    "('Volume', 'BAJAJ-AUTO.NS')":490577
+  },
+  {
+    "('Date', '')":"2025-10-08",
+    "('Close', 'BAJAJ-AUTO.NS')":8792.0,
+    "('High', 'BAJAJ-AUTO.NS')":8903.0,
+    "('Low', 'BAJAJ-AUTO.NS')":8750.5,
+    "('Open', 'BAJAJ-AUTO.NS')":8903.0,
+    "('Volume', 'BAJAJ-AUTO.NS')":408647
+  },
+  {
+    "('Date', '')":"2025-10-09",
+    "('Close', 'BAJAJ-AUTO.NS')":8810.0,
+    "('High', 'BAJAJ-AUTO.NS')":8817.5,
+    "('Low', 'BAJAJ-AUTO.NS')":8701.5,
+    "('Open', 'BAJAJ-AUTO.NS')":8775.0,
+    "('Volume', 'BAJAJ-AUTO.NS')":217161
+  },
+  {
+    "('Date', '')":"2025-10-10",
+    "('Close', 'BAJAJ-AUTO.NS')":8946.5,
+    "('High', 'BAJAJ-AUTO.NS')":8955.0,
+    "('Low', 'BAJAJ-AUTO.NS')":8781.5,
+    "('Open', 'BAJAJ-AUTO.NS')":8816.0,
+    "('Volume', 'BAJAJ-AUTO.NS')":228686
+  },
+  {
+    "('Date', '')":"2025-10-13",
+    "('Close', 'BAJAJ-AUTO.NS')":9066.0,
+    "('High', 'BAJAJ-AUTO.NS')":9084.0,
+    "('Low', 'BAJAJ-AUTO.NS')":8917.0,
+    "('Open', 'BAJAJ-AUTO.NS')":8947.0,
+    "('Volume', 'BAJAJ-AUTO.NS')":374531
+  },
+  {
+    "('Date', '')":"2025-10-14",
+    "('Close', 'BAJAJ-AUTO.NS')":9102.5,
+    "('High', 'BAJAJ-AUTO.NS')":9120.0,
+    "('Low', 'BAJAJ-AUTO.NS')":9032.5,
+    "('Open', 'BAJAJ-AUTO.NS')":9100.0,
+    "('Volume', 'BAJAJ-AUTO.NS')":297332
+  },
+  {
+    "('Date', '')":"2025-10-15",
+    "('Close', 'BAJAJ-AUTO.NS')":8998.0,
+    "('High', 'BAJAJ-AUTO.NS')":9180.0,
+    "('Low', 'BAJAJ-AUTO.NS')":8955.5,
+    "('Open', 'BAJAJ-AUTO.NS')":9106.5,
+    "('Volume', 'BAJAJ-AUTO.NS')":300055
+  },
+  {
+    "('Date', '')":"2025-10-16",
+    "('Close', 'BAJAJ-AUTO.NS')":9151.5,
+    "('High', 'BAJAJ-AUTO.NS')":9177.0,
+    "('Low', 'BAJAJ-AUTO.NS')":9022.0,
+    "('Open', 'BAJAJ-AUTO.NS')":9030.0,
+    "('Volume', 'BAJAJ-AUTO.NS')":334619
+  },
+  {
+    "('Date', '')":"2025-10-17",
+    "('Close', 'BAJAJ-AUTO.NS')":9150.5,
+    "('High', 'BAJAJ-AUTO.NS')":9194.5,
+    "('Low', 'BAJAJ-AUTO.NS')":9090.5,
+    "('Open', 'BAJAJ-AUTO.NS')":9150.0,
+    "('Volume', 'BAJAJ-AUTO.NS')":466036
+  },
+  {
+    "('Date', '')":"2025-10-20",
+    "('Close', 'BAJAJ-AUTO.NS')":9124.5,
+    "('High', 'BAJAJ-AUTO.NS')":9236.5,
+    "('Low', 'BAJAJ-AUTO.NS')":9100.5,
+    "('Open', 'BAJAJ-AUTO.NS')":9194.5,
+    "('Volume', 'BAJAJ-AUTO.NS')":303686
+  },
+  {
+    "('Date', '')":"2025-10-21",
+    "('Close', 'BAJAJ-AUTO.NS')":9118.0,
+    "('High', 'BAJAJ-AUTO.NS')":9165.0,
+    "('Low', 'BAJAJ-AUTO.NS')":9081.0,
+    "('Open', 'BAJAJ-AUTO.NS')":9159.5,
+    "('Volume', 'BAJAJ-AUTO.NS')":27642
+  },
+  {
+    "('Date', '')":"2025-10-23",
+    "('Close', 'BAJAJ-AUTO.NS')":9047.0,
+    "('High', 'BAJAJ-AUTO.NS')":9157.0,
+    "('Low', 'BAJAJ-AUTO.NS')":9017.0,
+    "('Open', 'BAJAJ-AUTO.NS')":9136.0,
+    "('Volume', 'BAJAJ-AUTO.NS')":249420
+  },
+  {
+    "('Date', '')":"2025-10-24",
+    "('Close', 'BAJAJ-AUTO.NS')":9076.5,
+    "('High', 'BAJAJ-AUTO.NS')":9099.0,
+    "('Low', 'BAJAJ-AUTO.NS')":9012.0,
+    "('Open', 'BAJAJ-AUTO.NS')":9070.0,
+    "('Volume', 'BAJAJ-AUTO.NS')":332130
+  },
+  {
+    "('Date', '')":"2025-10-27",
+    "('Close', 'BAJAJ-AUTO.NS')":9095.5,
+    "('High', 'BAJAJ-AUTO.NS')":9115.0,
+    "('Low', 'BAJAJ-AUTO.NS')":9055.0,
+    "('Open', 'BAJAJ-AUTO.NS')":9099.5,
+    "('Volume', 'BAJAJ-AUTO.NS')":310061
+  },
+  {
+    "('Date', '')":"2025-10-28",
+    "('Close', 'BAJAJ-AUTO.NS')":9057.5,
+    "('High', 'BAJAJ-AUTO.NS')":9130.0,
+    "('Low', 'BAJAJ-AUTO.NS')":9019.0,
+    "('Open', 'BAJAJ-AUTO.NS')":9100.0,
+    "('Volume', 'BAJAJ-AUTO.NS')":459991
+  },
+  {
+    "('Date', '')":"2025-10-29",
+    "('Close', 'BAJAJ-AUTO.NS')":9034.0,
+    "('High', 'BAJAJ-AUTO.NS')":9090.0,
+    "('Low', 'BAJAJ-AUTO.NS')":8960.0,
+    "('Open', 'BAJAJ-AUTO.NS')":9090.0,
+    "('Volume', 'BAJAJ-AUTO.NS')":226605
+  },
+  {
+    "('Date', '')":"2025-10-30",
+    "('Close', 'BAJAJ-AUTO.NS')":8923.0,
+    "('High', 'BAJAJ-AUTO.NS')":9065.0,
+    "('Low', 'BAJAJ-AUTO.NS')":8904.5,
+    "('Open', 'BAJAJ-AUTO.NS')":9034.0,
+    "('Volume', 'BAJAJ-AUTO.NS')":250532
+  },
+  {
+    "('Date', '')":"2025-10-31",
+    "('Close', 'BAJAJ-AUTO.NS')":8892.5,
+    "('High', 'BAJAJ-AUTO.NS')":9051.0,
+    "('Low', 'BAJAJ-AUTO.NS')":8802.0,
+    "('Open', 'BAJAJ-AUTO.NS')":8939.5,
+    "('Volume', 'BAJAJ-AUTO.NS')":261013
+  },
+  {
+    "('Date', '')":"2025-11-03",
+    "('Close', 'BAJAJ-AUTO.NS')":8922.5,
+    "('High', 'BAJAJ-AUTO.NS')":8957.5,
+    "('Low', 'BAJAJ-AUTO.NS')":8855.0,
+    "('Open', 'BAJAJ-AUTO.NS')":8900.0,
+    "('Volume', 'BAJAJ-AUTO.NS')":206987
+  },
+  {
+    "('Date', '')":"2025-11-04",
+    "('Close', 'BAJAJ-AUTO.NS')":8751.0,
+    "('High', 'BAJAJ-AUTO.NS')":8920.0,
+    "('Low', 'BAJAJ-AUTO.NS')":8713.0,
+    "('Open', 'BAJAJ-AUTO.NS')":8920.0,
+    "('Volume', 'BAJAJ-AUTO.NS')":517334
+  },
+  {
+    "('Date', '')":"2025-11-05",
+    "('Close', 'BAJAJ-AUTO.NS')":8751.0,
+    "('High', 'BAJAJ-AUTO.NS')":8751.0,
+    "('Low', 'BAJAJ-AUTO.NS')":8751.0,
+    "('Open', 'BAJAJ-AUTO.NS')":8751.0,
+    "('Volume', 'BAJAJ-AUTO.NS')":0
+  },
+  {
+    "('Date', '')":"2025-11-06",
+    "('Close', 'BAJAJ-AUTO.NS')":8720.5,
+    "('High', 'BAJAJ-AUTO.NS')":8820.5,
+    "('Low', 'BAJAJ-AUTO.NS')":8702.5,
+    "('Open', 'BAJAJ-AUTO.NS')":8755.0,
+    "('Volume', 'BAJAJ-AUTO.NS')":326774
+  },
+  {
+    "('Date', '')":"2025-11-07",
+    "('Close', 'BAJAJ-AUTO.NS')":8721.5,
+    "('High', 'BAJAJ-AUTO.NS')":8749.5,
+    "('Low', 'BAJAJ-AUTO.NS')":8605.0,
+    "('Open', 'BAJAJ-AUTO.NS')":8720.0,
+    "('Volume', 'BAJAJ-AUTO.NS')":290120
+  },
+  {
+    "('Date', '')":"2025-11-10",
+    "('Close', 'BAJAJ-AUTO.NS')":8772.0,
+    "('High', 'BAJAJ-AUTO.NS')":8838.0,
+    "('Low', 'BAJAJ-AUTO.NS')":8685.5,
+    "('Open', 'BAJAJ-AUTO.NS')":8795.0,
+    "('Volume', 'BAJAJ-AUTO.NS')":992874
+  },
+  {
+    "('Date', '')":"2025-11-11",
+    "('Close', 'BAJAJ-AUTO.NS')":8895.0,
+    "('High', 'BAJAJ-AUTO.NS')":8945.0,
+    "('Low', 'BAJAJ-AUTO.NS')":8726.0,
+    "('Open', 'BAJAJ-AUTO.NS')":8819.0,
+    "('Volume', 'BAJAJ-AUTO.NS')":380690
+  }
+]

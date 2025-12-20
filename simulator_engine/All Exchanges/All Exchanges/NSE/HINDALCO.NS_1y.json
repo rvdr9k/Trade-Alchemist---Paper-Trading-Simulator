@@ -1,0 +1,1994 @@
+[
+  {
+    "('Date', '')":"2024-11-11",
+    "('Close', 'HINDALCO.NS')":650.5789794922,
+    "('High', 'HINDALCO.NS')":652.8125993265,
+    "('Low', 'HINDALCO.NS')":634.0502290731,
+    "('Open', 'HINDALCO.NS')":642.7365284286,
+    "('Volume', 'HINDALCO.NS')":4933389
+  },
+  {
+    "('Date', '')":"2024-11-12",
+    "('Close', 'HINDALCO.NS')":646.9059448242,
+    "('High', 'HINDALCO.NS')":668.5968503275,
+    "('Low', 'HINDALCO.NS')":643.4314251863,
+    "('Open', 'HINDALCO.NS')":663.1368908965,
+    "('Volume', 'HINDALCO.NS')":12009560
+  },
+  {
+    "('Date', '')":"2024-11-13",
+    "('Close', 'HINDALCO.NS')":622.038269043,
+    "('High', 'HINDALCO.NS')":645.1686913321,
+    "('Low', 'HINDALCO.NS')":618.0177655407,
+    "('Open', 'HINDALCO.NS')":643.2824992738,
+    "('Volume', 'HINDALCO.NS')":7867492
+  },
+  {
+    "('Date', '')":"2024-11-14",
+    "('Close', 'HINDALCO.NS')":622.7827758789,
+    "('High', 'HINDALCO.NS')":631.8165629006,
+    "('Low', 'HINDALCO.NS')":620.5988406738,
+    "('Open', 'HINDALCO.NS')":625.4135077271,
+    "('Volume', 'HINDALCO.NS')":6937416
+  },
+  {
+    "('Date', '')":"2024-11-18",
+    "('Close', 'HINDALCO.NS')":646.3102416992,
+    "('High', 'HINDALCO.NS')":658.2725036898,
+    "('Low', 'HINDALCO.NS')":635.2414518037,
+    "('Open', 'HINDALCO.NS')":637.2268914898,
+    "('Volume', 'HINDALCO.NS')":13618683
+  },
+  {
+    "('Date', '')":"2024-11-19",
+    "('Close', 'HINDALCO.NS')":635.3406982422,
+    "('High', 'HINDALCO.NS')":650.7774796516,
+    "('Low', 'HINDALCO.NS')":633.0078308522,
+    "('Open', 'HINDALCO.NS')":646.359864241,
+    "('Volume', 'HINDALCO.NS')":5015887
+  },
+  {
+    "('Date', '')":"2024-11-21",
+    "('Close', 'HINDALCO.NS')":643.3320922852,
+    "('High', 'HINDALCO.NS')":649.1395398128,
+    "('Low', 'HINDALCO.NS')":629.6821942286,
+    "('Open', 'HINDALCO.NS')":636.3334293998,
+    "('Volume', 'HINDALCO.NS')":7910597
+  },
+  {
+    "('Date', '')":"2024-11-22",
+    "('Close', 'HINDALCO.NS')":647.3526000977,
+    "('High', 'HINDALCO.NS')":652.5147555167,
+    "('Low', 'HINDALCO.NS')":642.6868652022,
+    "('Open', 'HINDALCO.NS')":648.1964483379,
+    "('Volume', 'HINDALCO.NS')":3586402
+  },
+  {
+    "('Date', '')":"2024-11-25",
+    "('Close', 'HINDALCO.NS')":655.0462036133,
+    "('High', 'HINDALCO.NS')":658.1732955434,
+    "('Low', 'HINDALCO.NS')":649.6855524928,
+    "('Open', 'HINDALCO.NS')":655.294383589,
+    "('Volume', 'HINDALCO.NS')":5760810
+  },
+  {
+    "('Date', '')":"2024-11-26",
+    "('Close', 'HINDALCO.NS')":661.2506713867,
+    "('High', 'HINDALCO.NS')":665.3704830226,
+    "('Low', 'HINDALCO.NS')":654.4505646142,
+    "('Open', 'HINDALCO.NS')":658.0740163224,
+    "('Volume', 'HINDALCO.NS')":3604133
+  },
+  {
+    "('Date', '')":"2024-11-27",
+    "('Close', 'HINDALCO.NS')":656.287109375,
+    "('High', 'HINDALCO.NS')":664.9237847248,
+    "('Low', 'HINDALCO.NS')":655.3440739316,
+    "('Open', 'HINDALCO.NS')":662.3427371907,
+    "('Volume', 'HINDALCO.NS')":2910507
+  },
+  {
+    "('Date', '')":"2024-11-28",
+    "('Close', 'HINDALCO.NS')":645.5161132812,
+    "('High', 'HINDALCO.NS')":658.322224194,
+    "('Low', 'HINDALCO.NS')":642.8853813168,
+    "('Open', 'HINDALCO.NS')":656.1878521782,
+    "('Volume', 'HINDALCO.NS')":4686850
+  },
+  {
+    "('Date', '')":"2024-11-29",
+    "('Close', 'HINDALCO.NS')":651.4227905273,
+    "('High', 'HINDALCO.NS')":653.8052818598,
+    "('Low', 'HINDALCO.NS')":644.3744430989,
+    "('Open', 'HINDALCO.NS')":647.7497148918,
+    "('Volume', 'HINDALCO.NS')":3412007
+  },
+  {
+    "('Date', '')":"2024-12-02",
+    "('Close', 'HINDALCO.NS')":657.776184082,
+    "('High', 'HINDALCO.NS')":658.5704084778,
+    "('Low', 'HINDALCO.NS')":648.295721118,
+    "('Open', 'HINDALCO.NS')":651.4228130516,
+    "('Volume', 'HINDALCO.NS')":2174126
+  },
+  {
+    "('Date', '')":"2024-12-03",
+    "('Close', 'HINDALCO.NS')":662.6901245117,
+    "('High', 'HINDALCO.NS')":664.7251880884,
+    "('Low', 'HINDALCO.NS')":652.2169422003,
+    "('Open', 'HINDALCO.NS')":660.5558131863,
+    "('Volume', 'HINDALCO.NS')":3306465
+  },
+  {
+    "('Date', '')":"2024-12-04",
+    "('Close', 'HINDALCO.NS')":658.2229003906,
+    "('High', 'HINDALCO.NS')":666.3632154762,
+    "('Low', 'HINDALCO.NS')":654.8476891732,
+    "('Open', 'HINDALCO.NS')":662.690139824,
+    "('Volume', 'HINDALCO.NS')":2785457
+  },
+  {
+    "('Date', '')":"2024-12-05",
+    "('Close', 'HINDALCO.NS')":665.9661254883,
+    "('High', 'HINDALCO.NS')":669.043593555,
+    "('Low', 'HINDALCO.NS')":653.9046149707,
+    "('Open', 'HINDALCO.NS')":659.1660183605,
+    "('Volume', 'HINDALCO.NS')":5156111
+  },
+  {
+    "('Date', '')":"2024-12-06",
+    "('Close', 'HINDALCO.NS')":665.2712402344,
+    "('High', 'HINDALCO.NS')":671.5749871263,
+    "('Low', 'HINDALCO.NS')":662.3923283962,
+    "('Open', 'HINDALCO.NS')":668.5472036632,
+    "('Volume', 'HINDALCO.NS')":2723680
+  },
+  {
+    "('Date', '')":"2024-12-09",
+    "('Close', 'HINDALCO.NS')":666.0158081055,
+    "('High', 'HINDALCO.NS')":667.6041357162,
+    "('Low', 'HINDALCO.NS')":649.4869974607,
+    "('Open', 'HINDALCO.NS')":662.0945523649,
+    "('Volume', 'HINDALCO.NS')":5079369
+  },
+  {
+    "('Date', '')":"2024-12-10",
+    "('Close', 'HINDALCO.NS')":664.0303344727,
+    "('High', 'HINDALCO.NS')":671.0786211986,
+    "('Low', 'HINDALCO.NS')":659.8608989683,
+    "('Open', 'HINDALCO.NS')":670.0859013448,
+    "('Volume', 'HINDALCO.NS')":3950822
+  },
+  {
+    "('Date', '')":"2024-12-11",
+    "('Close', 'HINDALCO.NS')":665.6187133789,
+    "('High', 'HINDALCO.NS')":674.8509966141,
+    "('Low', 'HINDALCO.NS')":663.1865374311,
+    "('Open', 'HINDALCO.NS')":666.1150733441,
+    "('Volume', 'HINDALCO.NS')":3418716
+  },
+  {
+    "('Date', '')":"2024-12-12",
+    "('Close', 'HINDALCO.NS')":663.8317871094,
+    "('High', 'HINDALCO.NS')":674.8509533956,
+    "('Low', 'HINDALCO.NS')":657.180551883,
+    "('Open', 'HINDALCO.NS')":670.0859101526,
+    "('Volume', 'HINDALCO.NS')":6585440
+  },
+  {
+    "('Date', '')":"2024-12-13",
+    "('Close', 'HINDALCO.NS')":657.2797851562,
+    "('High', 'HINDALCO.NS')":660.7046807398,
+    "('Low', 'HINDALCO.NS')":643.2824595777,
+    "('Open', 'HINDALCO.NS')":658.1732572531,
+    "('Volume', 'HINDALCO.NS')":4198819
+  },
+  {
+    "('Date', '')":"2024-12-16",
+    "('Close', 'HINDALCO.NS')":648.7424316406,
+    "('High', 'HINDALCO.NS')":661.7470376331,
+    "('Low', 'HINDALCO.NS')":647.3029757185,
+    "('Open', 'HINDALCO.NS')":656.4856344678,
+    "('Volume', 'HINDALCO.NS')":2619582
+  },
+  {
+    "('Date', '')":"2024-12-17",
+    "('Close', 'HINDALCO.NS')":634.7947387695,
+    "('High', 'HINDALCO.NS')":648.8416887034,
+    "('Low', 'HINDALCO.NS')":632.4618106993,
+    "('Open', 'HINDALCO.NS')":644.7715614357,
+    "('Volume', 'HINDALCO.NS')":4800541
+  },
+  {
+    "('Date', '')":"2024-12-18",
+    "('Close', 'HINDALCO.NS')":628.3916625977,
+    "('High', 'HINDALCO.NS')":637.3757650869,
+    "('Low', 'HINDALCO.NS')":623.6762433286,
+    "('Open', 'HINDALCO.NS')":637.2765173386,
+    "('Volume', 'HINDALCO.NS')":3753662
+  },
+  {
+    "('Date', '')":"2024-12-19",
+    "('Close', 'HINDALCO.NS')":624.7682495117,
+    "('High', 'HINDALCO.NS')":628.6398813871,
+    "('Low', 'HINDALCO.NS')":609.6292709232,
+    "('Open', 'HINDALCO.NS')":616.0819503216,
+    "('Volume', 'HINDALCO.NS')":5198027
+  },
+  {
+    "('Date', '')":"2024-12-20",
+    "('Close', 'HINDALCO.NS')":618.1170654297,
+    "('High', 'HINDALCO.NS')":635.9363390311,
+    "('Low', 'HINDALCO.NS')":616.1812495207,
+    "('Open', 'HINDALCO.NS')":624.7682402382,
+    "('Volume', 'HINDALCO.NS')":5964142
+  },
+  {
+    "('Date', '')":"2024-12-23",
+    "('Close', 'HINDALCO.NS')":629.5333251953,
+    "('High', 'HINDALCO.NS')":631.2705849551,
+    "('Low', 'HINDALCO.NS')":620.9958980212,
+    "('Open', 'HINDALCO.NS')":620.9958980212,
+    "('Volume', 'HINDALCO.NS')":2921238
+  },
+  {
+    "('Date', '')":"2024-12-24",
+    "('Close', 'HINDALCO.NS')":622.8820800781,
+    "('High', 'HINDALCO.NS')":633.4545100935,
+    "('Low', 'HINDALCO.NS')":621.1944442202,
+    "('Open', 'HINDALCO.NS')":630.3771028043,
+    "('Volume', 'HINDALCO.NS')":4830151
+  },
+  {
+    "('Date', '')":"2024-12-26",
+    "('Close', 'HINDALCO.NS')":624.1726074219,
+    "('High', 'HINDALCO.NS')":628.838402848,
+    "('Low', 'HINDALCO.NS')":622.1871677164,
+    "('Open', 'HINDALCO.NS')":625.4135072378,
+    "('Volume', 'HINDALCO.NS')":4476967
+  },
+  {
+    "('Date', '')":"2024-12-27",
+    "('Close', 'HINDALCO.NS')":612.9052734375,
+    "('High', 'HINDALCO.NS')":628.242746993,
+    "('Low', 'HINDALCO.NS')":611.2176375363,
+    "('Open', 'HINDALCO.NS')":624.1726197526,
+    "('Volume', 'HINDALCO.NS')":3391148
+  },
+  {
+    "('Date', '')":"2024-12-30",
+    "('Close', 'HINDALCO.NS')":596.7238769531,
+    "('High', 'HINDALCO.NS')":615.7841101707,
+    "('Low', 'HINDALCO.NS')":594.7881217204,
+    "('Open', 'HINDALCO.NS')":610.9198192654,
+    "('Volume', 'HINDALCO.NS')":8023050
+  },
+  {
+    "('Date', '')":"2024-12-31",
+    "('Close', 'HINDALCO.NS')":598.0640869141,
+    "('High', 'HINDALCO.NS')":601.4889825214,
+    "('Low', 'HINDALCO.NS')":593.1004876544,
+    "('Open', 'HINDALCO.NS')":597.0217431877,
+    "('Volume', 'HINDALCO.NS')":3807525
+  },
+  {
+    "('Date', '')":"2025-01-01",
+    "('Close', 'HINDALCO.NS')":588.6332397461,
+    "('High', 'HINDALCO.NS')":599.3546018726,
+    "('Low', 'HINDALCO.NS')":583.2229045137,
+    "('Open', 'HINDALCO.NS')":597.1209822383,
+    "('Volume', 'HINDALCO.NS')":9217246
+  },
+  {
+    "('Date', '')":"2025-01-02",
+    "('Close', 'HINDALCO.NS')":594.6392211914,
+    "('High', 'HINDALCO.NS')":596.1779249211,
+    "('Low', 'HINDALCO.NS')":584.3149099761,
+    "('Open', 'HINDALCO.NS')":590.5690938303,
+    "('Volume', 'HINDALCO.NS')":8525001
+  },
+  {
+    "('Date', '')":"2025-01-03",
+    "('Close', 'HINDALCO.NS')":586.8463745117,
+    "('High', 'HINDALCO.NS')":595.3837411447,
+    "('Low', 'HINDALCO.NS')":585.7047224266,
+    "('Open', 'HINDALCO.NS')":594.6392012433,
+    "('Volume', 'HINDALCO.NS')":6291674
+  },
+  {
+    "('Date', '')":"2025-01-06",
+    "('Close', 'HINDALCO.NS')":569.9204711914,
+    "('High', 'HINDALCO.NS')":589.5266892452,
+    "('Low', 'HINDALCO.NS')":567.4386714378,
+    "('Open', 'HINDALCO.NS')":588.2857893684,
+    "('Volume', 'HINDALCO.NS')":11202314
+  },
+  {
+    "('Date', '')":"2025-01-07",
+    "('Close', 'HINDALCO.NS')":580.2447509766,
+    "('High', 'HINDALCO.NS')":584.1163826189,
+    "('Low', 'HINDALCO.NS')":567.8853767546,
+    "('Open', 'HINDALCO.NS')":568.8780966023,
+    "('Volume', 'HINDALCO.NS')":5379682
+  },
+  {
+    "('Date', '')":"2025-01-08",
+    "('Close', 'HINDALCO.NS')":582.3791503906,
+    "('High', 'HINDALCO.NS')":583.3221858178,
+    "('Low', 'HINDALCO.NS')":573.2461152423,
+    "('Open', 'HINDALCO.NS')":578.5075185654,
+    "('Volume', 'HINDALCO.NS')":4077369
+  },
+  {
+    "('Date', '')":"2025-01-09",
+    "('Close', 'HINDALCO.NS')":584.9602050781,
+    "('High', 'HINDALCO.NS')":592.5048521334,
+    "('Low', 'HINDALCO.NS')":574.4373983024,
+    "('Open', 'HINDALCO.NS')":575.7775459403,
+    "('Volume', 'HINDALCO.NS')":7595188
+  },
+  {
+    "('Date', '')":"2025-01-10",
+    "('Close', 'HINDALCO.NS')":570.2679443359,
+    "('High', 'HINDALCO.NS')":584.9601863684,
+    "('Low', 'HINDALCO.NS')":567.4386563376,
+    "('Open', 'HINDALCO.NS')":581.7338467745,
+    "('Volume', 'HINDALCO.NS')":10613705
+  },
+  {
+    "('Date', '')":"2025-01-13",
+    "('Close', 'HINDALCO.NS')":559.6458129883,
+    "('High', 'HINDALCO.NS')":569.7715675321,
+    "('Low', 'HINDALCO.NS')":557.9085532584,
+    "('Open', 'HINDALCO.NS')":567.4386395404,
+    "('Volume', 'HINDALCO.NS')":7689295
+  },
+  {
+    "('Date', '')":"2025-01-14",
+    "('Close', 'HINDALCO.NS')":586.5982055664,
+    "('High', 'HINDALCO.NS')":587.6405493298,
+    "('Low', 'HINDALCO.NS')":564.212323638,
+    "('Open', 'HINDALCO.NS')":565.7510879358,
+    "('Volume', 'HINDALCO.NS')":8506497
+  },
+  {
+    "('Date', '')":"2025-01-15",
+    "('Close', 'HINDALCO.NS')":587.2434082031,
+    "('High', 'HINDALCO.NS')":591.8595796873,
+    "('Low', 'HINDALCO.NS')":582.2798090118,
+    "('Open', 'HINDALCO.NS')":589.675583925,
+    "('Volume', 'HINDALCO.NS')":4390121
+  },
+  {
+    "('Date', '')":"2025-01-16",
+    "('Close', 'HINDALCO.NS')":598.2129516602,
+    "('High', 'HINDALCO.NS')":602.5809431948,
+    "('Low', 'HINDALCO.NS')":586.2506897001,
+    "('Open', 'HINDALCO.NS')":591.6610249491,
+    "('Volume', 'HINDALCO.NS')":4959410
+  },
+  {
+    "('Date', '')":"2025-01-17",
+    "('Close', 'HINDALCO.NS')":612.5081787109,
+    "('High', 'HINDALCO.NS')":614.4936185123,
+    "('Low', 'HINDALCO.NS')":599.3050161502,
+    "('Open', 'HINDALCO.NS')":599.4538877809,
+    "('Volume', 'HINDALCO.NS')":6414327
+  },
+  {
+    "('Date', '')":"2025-01-20",
+    "('Close', 'HINDALCO.NS')":613.6498413086,
+    "('High', 'HINDALCO.NS')":617.4221648774,
+    "('Low', 'HINDALCO.NS')":607.7927695584,
+    "('Open', 'HINDALCO.NS')":612.5578130447,
+    "('Volume', 'HINDALCO.NS')":2995173
+  },
+  {
+    "('Date', '')":"2025-01-21",
+    "('Close', 'HINDALCO.NS')":610.4730834961,
+    "('High', 'HINDALCO.NS')":623.7754931233,
+    "('Low', 'HINDALCO.NS')":608.984003722,
+    "('Open', 'HINDALCO.NS')":621.4922495879,
+    "('Volume', 'HINDALCO.NS')":3529837
+  },
+  {
+    "('Date', '')":"2025-01-22",
+    "('Close', 'HINDALCO.NS')":608.9840087891,
+    "('High', 'HINDALCO.NS')":610.9198246296,
+    "('Low', 'HINDALCO.NS')":600.9429415877,
+    "('Open', 'HINDALCO.NS')":610.5227124502,
+    "('Volume', 'HINDALCO.NS')":4426051
+  },
+  {
+    "('Date', '')":"2025-01-23",
+    "('Close', 'HINDALCO.NS')":603.8218994141,
+    "('High', 'HINDALCO.NS')":611.7140350018,
+    "('Low', 'HINDALCO.NS')":602.7795556023,
+    "('Open', 'HINDALCO.NS')":606.5518792306,
+    "('Volume', 'HINDALCO.NS')":6826419
+  },
+  {
+    "('Date', '')":"2025-01-24",
+    "('Close', 'HINDALCO.NS')":602.4817504883,
+    "('High', 'HINDALCO.NS')":610.8701854344,
+    "('Low', 'HINDALCO.NS')":595.5327109698,
+    "('Open', 'HINDALCO.NS')":604.2686342463,
+    "('Volume', 'HINDALCO.NS')":4608870
+  },
+  {
+    "('Date', '')":"2025-01-27",
+    "('Close', 'HINDALCO.NS')":582.6273193359,
+    "('High', 'HINDALCO.NS')":597.2202530374,
+    "('Low', 'HINDALCO.NS')":581.0885550558,
+    "('Open', 'HINDALCO.NS')":595.6815493481,
+    "('Volume', 'HINDALCO.NS')":2919161
+  },
+  {
+    "('Date', '')":"2025-01-28",
+    "('Close', 'HINDALCO.NS')":569.6723022461,
+    "('High', 'HINDALCO.NS')":587.3427653069,
+    "('Low', 'HINDALCO.NS')":564.1627188045,
+    "('Open', 'HINDALCO.NS')":585.8040009571,
+    "('Volume', 'HINDALCO.NS')":6250865
+  },
+  {
+    "('Date', '')":"2025-01-29",
+    "('Close', 'HINDALCO.NS')":579.84765625,
+    "('High', 'HINDALCO.NS')":583.5703557909,
+    "('Low', 'HINDALCO.NS')":567.4386577804,
+    "('Open', 'HINDALCO.NS')":572.3030094168,
+    "('Volume', 'HINDALCO.NS')":4618198
+  },
+  {
+    "('Date', '')":"2025-01-30",
+    "('Close', 'HINDALCO.NS')":583.5703735352,
+    "('High', 'HINDALCO.NS')":597.4684522437,
+    "('Low', 'HINDALCO.NS')":577.465182457,
+    "('Open', 'HINDALCO.NS')":582.6273380954,
+    "('Volume', 'HINDALCO.NS')":4604752
+  },
+  {
+    "('Date', '')":"2025-01-31",
+    "('Close', 'HINDALCO.NS')":589.9733886719,
+    "('High', 'HINDALCO.NS')":592.0581366899,
+    "('Low', 'HINDALCO.NS')":580.0461902739,
+    "('Open', 'HINDALCO.NS')":585.7047054789,
+    "('Volume', 'HINDALCO.NS')":3750965
+  },
+  {
+    "('Date', '')":"2025-02-01",
+    "('Close', 'HINDALCO.NS')":582.1806030273,
+    "('High', 'HINDALCO.NS')":591.0654583353,
+    "('Low', 'HINDALCO.NS')":577.762987312,
+    "('Open', 'HINDALCO.NS')":589.6756262257,
+    "('Volume', 'HINDALCO.NS')":1740719
+  },
+  {
+    "('Date', '')":"2025-02-03",
+    "('Close', 'HINDALCO.NS')":569.8708496094,
+    "('High', 'HINDALCO.NS')":572.4022732501,
+    "('Low', 'HINDALCO.NS')":553.5405950464,
+    "('Open', 'HINDALCO.NS')":570.8139456377,
+    "('Volume', 'HINDALCO.NS')":8169543
+  },
+  {
+    "('Date', '')":"2025-02-04",
+    "('Close', 'HINDALCO.NS')":579.6987915039,
+    "('High', 'HINDALCO.NS')":591.5618062998,
+    "('Low', 'HINDALCO.NS')":575.9760919188,
+    "('Open', 'HINDALCO.NS')":576.2738957675,
+    "('Volume', 'HINDALCO.NS')":5318376
+  },
+  {
+    "('Date', '')":"2025-02-05",
+    "('Close', 'HINDALCO.NS')":596.2275390625,
+    "('High', 'HINDALCO.NS')":600.0991708527,
+    "('Low', 'HINDALCO.NS')":580.2447731405,
+    "('Open', 'HINDALCO.NS')":580.2447731405,
+    "('Volume', 'HINDALCO.NS')":3974704
+  },
+  {
+    "('Date', '')":"2025-02-06",
+    "('Close', 'HINDALCO.NS')":591.1150512695,
+    "('High', 'HINDALCO.NS')":602.3823974159,
+    "('Low', 'HINDALCO.NS')":586.9456157498,
+    "('Open', 'HINDALCO.NS')":596.6742582352,
+    "('Volume', 'HINDALCO.NS')":3571342
+  },
+  {
+    "('Date', '')":"2025-02-07",
+    "('Close', 'HINDALCO.NS')":602.9780883789,
+    "('High', 'HINDALCO.NS')":606.1547435698,
+    "('Low', 'HINDALCO.NS')":589.6756175514,
+    "('Open', 'HINDALCO.NS')":591.1150735171,
+    "('Volume', 'HINDALCO.NS')":4687823
+  },
+  {
+    "('Date', '')":"2025-02-10",
+    "('Close', 'HINDALCO.NS')":591.6610717773,
+    "('High', 'HINDALCO.NS')":601.6875187238,
+    "('Low', 'HINDALCO.NS')":585.2083923033,
+    "('Open', 'HINDALCO.NS')":600.5955510491,
+    "('Volume', 'HINDALCO.NS')":3434505
+  },
+  {
+    "('Date', '')":"2025-02-11",
+    "('Close', 'HINDALCO.NS')":591.5121459961,
+    "('High', 'HINDALCO.NS')":602.5809974508,
+    "('Low', 'HINDALCO.NS')":587.3427707632,
+    "('Open', 'HINDALCO.NS')":589.7252622404,
+    "('Volume', 'HINDALCO.NS')":5303293
+  },
+  {
+    "('Date', '')":"2025-02-12",
+    "('Close', 'HINDALCO.NS')":594.5399780273,
+    "('High', 'HINDALCO.NS')":600.5459213616,
+    "('Low', 'HINDALCO.NS')":582.0812946906,
+    "('Open', 'HINDALCO.NS')":594.6888496593,
+    "('Volume', 'HINDALCO.NS')":3764143
+  },
+  {
+    "('Date', '')":"2025-02-13",
+    "('Close', 'HINDALCO.NS')":598.1137084961,
+    "('High', 'HINDALCO.NS')":603.5240437865,
+    "('Low', 'HINDALCO.NS')":585.803958143,
+    "('Open', 'HINDALCO.NS')":591.7106533575,
+    "('Volume', 'HINDALCO.NS')":4415122
+  },
+  {
+    "('Date', '')":"2025-02-14",
+    "('Close', 'HINDALCO.NS')":601.7868041992,
+    "('High', 'HINDALCO.NS')":611.5154469184,
+    "('Low', 'HINDALCO.NS')":590.7179532857,
+    "('Open', 'HINDALCO.NS')":604.5664077489,
+    "('Volume', 'HINDALCO.NS')":11475440
+  },
+  {
+    "('Date', '')":"2025-02-17",
+    "('Close', 'HINDALCO.NS')":606.4028930664,
+    "('High', 'HINDALCO.NS')":607.4452973763,
+    "('Low', 'HINDALCO.NS')":585.3572808256,
+    "('Open', 'HINDALCO.NS')":601.7867821418,
+    "('Volume', 'HINDALCO.NS')":4470099
+  },
+  {
+    "('Date', '')":"2025-02-18",
+    "('Close', 'HINDALCO.NS')":606.9985961914,
+    "('High', 'HINDALCO.NS')":609.2322159709,
+    "('Low', 'HINDALCO.NS')":597.319577147,
+    "('Open', 'HINDALCO.NS')":604.5664203134,
+    "('Volume', 'HINDALCO.NS')":2956837
+  },
+  {
+    "('Date', '')":"2025-02-19",
+    "('Close', 'HINDALCO.NS')":621.7404785156,
+    "('High', 'HINDALCO.NS')":623.775542249,
+    "('Low', 'HINDALCO.NS')":602.1342599462,
+    "('Open', 'HINDALCO.NS')":602.5809960318,
+    "('Volume', 'HINDALCO.NS')":6101855
+  },
+  {
+    "('Date', '')":"2025-02-20",
+    "('Close', 'HINDALCO.NS')":634.1494750977,
+    "('High', 'HINDALCO.NS')":639.5101869216,
+    "('Low', 'HINDALCO.NS')":620.4499522697,
+    "('Open', 'HINDALCO.NS')":622.435392117,
+    "('Volume', 'HINDALCO.NS')":6904537
+  },
+  {
+    "('Date', '')":"2025-02-21",
+    "('Close', 'HINDALCO.NS')":648.7920532227,
+    "('High', 'HINDALCO.NS')":651.4227850914,
+    "('Low', 'HINDALCO.NS')":633.305647623,
+    "('Open', 'HINDALCO.NS')":634.5465474496,
+    "('Volume', 'HINDALCO.NS')":7490723
+  },
+  {
+    "('Date', '')":"2025-02-24",
+    "('Close', 'HINDALCO.NS')":637.2269287109,
+    "('High', 'HINDALCO.NS')":643.1832481171,
+    "('Low', 'HINDALCO.NS')":631.6180370338,
+    "('Open', 'HINDALCO.NS')":637.3261764647,
+    "('Volume', 'HINDALCO.NS')":5931712
+  },
+  {
+    "('Date', '')":"2025-02-25",
+    "('Close', 'HINDALCO.NS')":614.9403686523,
+    "('High', 'HINDALCO.NS')":633.8020471965,
+    "('Low', 'HINDALCO.NS')":612.6074404779,
+    "('Open', 'HINDALCO.NS')":631.369871266,
+    "('Volume', 'HINDALCO.NS')":10249548
+  },
+  {
+    "('Date', '')":"2025-02-27",
+    "('Close', 'HINDALCO.NS')":627.3493652344,
+    "('High', 'HINDALCO.NS')":629.2851811955,
+    "('Low', 'HINDALCO.NS')":614.9899901187,
+    "('Open', 'HINDALCO.NS')":620.5491974314,
+    "('Volume', 'HINDALCO.NS')":7263151
+  },
+  {
+    "('Date', '')":"2025-02-28",
+    "('Close', 'HINDALCO.NS')":629.7318115234,
+    "('High', 'HINDALCO.NS')":631.9654311821,
+    "('Low', 'HINDALCO.NS')":614.9403221385,
+    "('Open', 'HINDALCO.NS')":625.4135044197,
+    "('Volume', 'HINDALCO.NS')":13041185
+  },
+  {
+    "('Date', '')":"2025-03-03",
+    "('Close', 'HINDALCO.NS')":631.9158325195,
+    "('High', 'HINDALCO.NS')":638.8152478585,
+    "('Low', 'HINDALCO.NS')":616.1812465328,
+    "('Open', 'HINDALCO.NS')":629.8311449913,
+    "('Volume', 'HINDALCO.NS')":5368388
+  },
+  {
+    "('Date', '')":"2025-03-04",
+    "('Close', 'HINDALCO.NS')":636.9787597656,
+    "('High', 'HINDALCO.NS')":639.1626951131,
+    "('Low', 'HINDALCO.NS')":619.5564767281,
+    "('Open', 'HINDALCO.NS')":623.4281086455,
+    "('Volume', 'HINDALCO.NS')":4430660
+  },
+  {
+    "('Date', '')":"2025-03-05",
+    "('Close', 'HINDALCO.NS')":652.5643920898,
+    "('High', 'HINDALCO.NS')":657.6769237333,
+    "('Low', 'HINDALCO.NS')":633.3552865537,
+    "('Open', 'HINDALCO.NS')":633.3552865537,
+    "('Volume', 'HINDALCO.NS')":7876653
+  },
+  {
+    "('Date', '')":"2025-03-06",
+    "('Close', 'HINDALCO.NS')":676.9853515625,
+    "('High', 'HINDALCO.NS')":682.5941826732,
+    "('Low', 'HINDALCO.NS')":657.0316451107,
+    "('Open', 'HINDALCO.NS')":660.1091131718,
+    "('Volume', 'HINDALCO.NS')":10993614
+  },
+  {
+    "('Date', '')":"2025-03-07",
+    "('Close', 'HINDALCO.NS')":686.3168945312,
+    "('High', 'HINDALCO.NS')":689.543234281,
+    "('Low', 'HINDALCO.NS')":673.659715513,
+    "('Open', 'HINDALCO.NS')":673.659715513,
+    "('Volume', 'HINDALCO.NS')":8142832
+  },
+  {
+    "('Date', '')":"2025-03-10",
+    "('Close', 'HINDALCO.NS')":684.1329345703,
+    "('High', 'HINDALCO.NS')":704.136203945,
+    "('Low', 'HINDALCO.NS')":681.5022026326,
+    "('Open', 'HINDALCO.NS')":684.7781661426,
+    "('Volume', 'HINDALCO.NS')":10707412
+  },
+  {
+    "('Date', '')":"2025-03-11",
+    "('Close', 'HINDALCO.NS')":690.436706543,
+    "('High', 'HINDALCO.NS')":693.911226274,
+    "('Low', 'HINDALCO.NS')":671.8728318621,
+    "('Open', 'HINDALCO.NS')":679.0204274269,
+    "('Volume', 'HINDALCO.NS')":5262297
+  },
+  {
+    "('Date', '')":"2025-03-12",
+    "('Close', 'HINDALCO.NS')":684.8278198242,
+    "('High', 'HINDALCO.NS')":696.8893912162,
+    "('Low', 'HINDALCO.NS')":678.8218763628,
+    "('Open', 'HINDALCO.NS')":694.9039513552,
+    "('Volume', 'HINDALCO.NS')":5219333
+  },
+  {
+    "('Date', '')":"2025-03-13",
+    "('Close', 'HINDALCO.NS')":672.418762207,
+    "('High', 'HINDALCO.NS')":687.9052281305,
+    "('Low', 'HINDALCO.NS')":668.3486350823,
+    "('Open', 'HINDALCO.NS')":685.175248559,
+    "('Volume', 'HINDALCO.NS')":4877884
+  },
+  {
+    "('Date', '')":"2025-03-17",
+    "('Close', 'HINDALCO.NS')":675.7940673828,
+    "('High', 'HINDALCO.NS')":682.4949266628,
+    "('Low', 'HINDALCO.NS')":672.9151554558,
+    "('Open', 'HINDALCO.NS')":673.3122676495,
+    "('Volume', 'HINDALCO.NS')":4033068
+  },
+  {
+    "('Date', '')":"2025-03-18",
+    "('Close', 'HINDALCO.NS')":675.7940673828,
+    "('High', 'HINDALCO.NS')":675.7940673828,
+    "('Low', 'HINDALCO.NS')":675.7940673828,
+    "('Open', 'HINDALCO.NS')":675.7940673828,
+    "('Volume', 'HINDALCO.NS')":0
+  },
+  {
+    "('Date', '')":"2025-03-19",
+    "('Close', 'HINDALCO.NS')":693.4644775391,
+    "('High', 'HINDALCO.NS')":697.8820932346,
+    "('Low', 'HINDALCO.NS')":685.4730944218,
+    "('Open', 'HINDALCO.NS')":697.8820932346,
+    "('Volume', 'HINDALCO.NS')":5462686
+  },
+  {
+    "('Date', '')":"2025-03-20",
+    "('Close', 'HINDALCO.NS')":700.8106079102,
+    "('High', 'HINDALCO.NS')":704.6821790684,
+    "('Low', 'HINDALCO.NS')":692.521360599,
+    "('Open', 'HINDALCO.NS')":697.3857122231,
+    "('Volume', 'HINDALCO.NS')":4670064
+  },
+  {
+    "('Date', '')":"2025-03-21",
+    "('Close', 'HINDALCO.NS')":690.2877807617,
+    "('High', 'HINDALCO.NS')":709.7947516698,
+    "('Low', 'HINDALCO.NS')":689.1461891939,
+    "('Open', 'HINDALCO.NS')":709.7947516698,
+    "('Volume', 'HINDALCO.NS')":7595841
+  },
+  {
+    "('Date', '')":"2025-03-24",
+    "('Close', 'HINDALCO.NS')":696.3930053711,
+    "('High', 'HINDALCO.NS')":700.612064919,
+    "('Low', 'HINDALCO.NS')":690.0395738156,
+    "('Open', 'HINDALCO.NS')":699.7185927784,
+    "('Volume', 'HINDALCO.NS')":4296847
+  },
+  {
+    "('Date', '')":"2025-03-25",
+    "('Close', 'HINDALCO.NS')":688.4016113281,
+    "('High', 'HINDALCO.NS')":699.2222216409,
+    "('Low', 'HINDALCO.NS')":678.2758564571,
+    "('Open', 'HINDALCO.NS')":695.3506504722,
+    "('Volume', 'HINDALCO.NS')":4552278
+  },
+  {
+    "('Date', '')":"2025-03-26",
+    "('Close', 'HINDALCO.NS')":686.2672729492,
+    "('High', 'HINDALCO.NS')":697.2865004859,
+    "('Low', 'HINDALCO.NS')":685.4731091263,
+    "('Open', 'HINDALCO.NS')":689.9403487948,
+    "('Volume', 'HINDALCO.NS')":3646226
+  },
+  {
+    "('Date', '')":"2025-03-27",
+    "('Close', 'HINDALCO.NS')":688.3023071289,
+    "('High', 'HINDALCO.NS')":692.8192310724,
+    "('Low', 'HINDALCO.NS')":684.182555966,
+    "('Open', 'HINDALCO.NS')":685.9198157625,
+    "('Volume', 'HINDALCO.NS')":5002247
+  },
+  {
+    "('Date', '')":"2025-03-28",
+    "('Close', 'HINDALCO.NS')":677.4816894531,
+    "('High', 'HINDALCO.NS')":692.3724875483,
+    "('Low', 'HINDALCO.NS')":674.3545976168,
+    "('Open', 'HINDALCO.NS')":685.4730723127,
+    "('Volume', 'HINDALCO.NS')":4362212
+  },
+  {
+    "('Date', '')":"2025-04-01",
+    "('Close', 'HINDALCO.NS')":658.9178466797,
+    "('High', 'HINDALCO.NS')":678.1269528889,
+    "('Low', 'HINDALCO.NS')":657.1309629424,
+    "('Open', 'HINDALCO.NS')":667.1077860169,
+    "('Volume', 'HINDALCO.NS')":5131883
+  },
+  {
+    "('Date', '')":"2025-04-02",
+    "('Close', 'HINDALCO.NS')":656.3864135742,
+    "('High', 'HINDALCO.NS')":664.1296167182,
+    "('Low', 'HINDALCO.NS')":647.9979182554,
+    "('Open', 'HINDALCO.NS')":663.8318128648,
+    "('Volume', 'HINDALCO.NS')":8357384
+  },
+  {
+    "('Date', '')":"2025-04-03",
+    "('Close', 'HINDALCO.NS')":647.8986816406,
+    "('High', 'HINDALCO.NS')":653.2097089895,
+    "('Low', 'HINDALCO.NS')":642.8853975595,
+    "('Open', 'HINDALCO.NS')":653.2097089895,
+    "('Volume', 'HINDALCO.NS')":5646497
+  },
+  {
+    "('Date', '')":"2025-04-04",
+    "('Close', 'HINDALCO.NS')":595.5823364258,
+    "('High', 'HINDALCO.NS')":640.3043573271,
+    "('Low', 'HINDALCO.NS')":592.2070644144,
+    "('Open', 'HINDALCO.NS')":640.3043573271,
+    "('Volume', 'HINDALCO.NS')":9393865
+  },
+  {
+    "('Date', '')":"2025-04-07",
+    "('Close', 'HINDALCO.NS')":557.7100219727,
+    "('High', 'HINDALCO.NS')":565.8503371872,
+    "('Low', 'HINDALCO.NS')":542.4717959005,
+    "('Open', 'HINDALCO.NS')":554.9304183994,
+    "('Volume', 'HINDALCO.NS')":13117998
+  },
+  {
+    "('Date', '')":"2025-04-08",
+    "('Close', 'HINDALCO.NS')":564.2123413086,
+    "('High', 'HINDALCO.NS')":580.0958600008,
+    "('Low', 'HINDALCO.NS')":551.9026506766,
+    "('Open', 'HINDALCO.NS')":570.8139530014,
+    "('Volume', 'HINDALCO.NS')":8831753
+  },
+  {
+    "('Date', '')":"2025-04-09",
+    "('Close', 'HINDALCO.NS')":559.8940429688,
+    "('High', 'HINDALCO.NS')":563.6167427225,
+    "('Low', 'HINDALCO.NS')":548.1799598617,
+    "('Open', 'HINDALCO.NS')":563.6167427225,
+    "('Volume', 'HINDALCO.NS')":7009318
+  },
+  {
+    "('Date', '')":"2025-04-11",
+    "('Close', 'HINDALCO.NS')":595.9297485352,
+    "('High', 'HINDALCO.NS')":603.5240800662,
+    "('Low', 'HINDALCO.NS')":571.9059146482,
+    "('Open', 'HINDALCO.NS')":580.741146064,
+    "('Volume', 'HINDALCO.NS')":12562852
+  },
+  {
+    "('Date', '')":"2025-04-15",
+    "('Close', 'HINDALCO.NS')":613.1037597656,
+    "('High', 'HINDALCO.NS')":614.7913956416,
+    "('Low', 'HINDALCO.NS')":601.9356613686,
+    "('Open', 'HINDALCO.NS')":608.5372726574,
+    "('Volume', 'HINDALCO.NS')":4871858
+  },
+  {
+    "('Date', '')":"2025-04-16",
+    "('Close', 'HINDALCO.NS')":605.4598999023,
+    "('High', 'HINDALCO.NS')":614.8410546188,
+    "('Low', 'HINDALCO.NS')":597.6173883439,
+    "('Open', 'HINDALCO.NS')":613.6498391944,
+    "('Volume', 'HINDALCO.NS')":4447732
+  },
+  {
+    "('Date', '')":"2025-04-17",
+    "('Close', 'HINDALCO.NS')":605.0627441406,
+    "('High', 'HINDALCO.NS')":611.5154231183,
+    "('Low', 'HINDALCO.NS')":599.6027850056,
+    "('Open', 'HINDALCO.NS')":604.4671364713,
+    "('Volume', 'HINDALCO.NS')":4518317
+  },
+  {
+    "('Date', '')":"2025-04-21",
+    "('Close', 'HINDALCO.NS')":617.4717407227,
+    "('High', 'HINDALCO.NS')":620.3506524961,
+    "('Low', 'HINDALCO.NS')":602.6305669907,
+    "('Open', 'HINDALCO.NS')":607.0481823986,
+    "('Volume', 'HINDALCO.NS')":2655716
+  },
+  {
+    "('Date', '')":"2025-04-22",
+    "('Close', 'HINDALCO.NS')":615.5855712891,
+    "('High', 'HINDALCO.NS')":626.4558660568,
+    "('Low', 'HINDALCO.NS')":614.5432275367,
+    "('Open', 'HINDALCO.NS')":620.4499229211,
+    "('Volume', 'HINDALCO.NS')":4970919
+  },
+  {
+    "('Date', '')":"2025-04-23",
+    "('Close', 'HINDALCO.NS')":624.5200805664,
+    "('High', 'HINDALCO.NS')":628.3917125101,
+    "('Low', 'HINDALCO.NS')":616.1812695511,
+    "('Open', 'HINDALCO.NS')":624.172652829,
+    "('Volume', 'HINDALCO.NS')":4674766
+  },
+  {
+    "('Date', '')":"2025-04-24",
+    "('Close', 'HINDALCO.NS')":623.7755126953,
+    "('High', 'HINDALCO.NS')":627.9449483117,
+    "('Low', 'HINDALCO.NS')":621.5418929641,
+    "('Open', 'HINDALCO.NS')":625.4135247345,
+    "('Volume', 'HINDALCO.NS')":3367773
+  },
+  {
+    "('Date', '')":"2025-04-25",
+    "('Close', 'HINDALCO.NS')":617.5710449219,
+    "('High', 'HINDALCO.NS')":629.6822401999,
+    "('Low', 'HINDALCO.NS')":608.4876939065,
+    "('Open', 'HINDALCO.NS')":627.7961086852,
+    "('Volume', 'HINDALCO.NS')":3925971
+  },
+  {
+    "('Date', '')":"2025-04-28",
+    "('Close', 'HINDALCO.NS')":624.0733642578,
+    "('High', 'HINDALCO.NS')":626.9025916226,
+    "('Low', 'HINDALCO.NS')":617.8688651325,
+    "('Open', 'HINDALCO.NS')":617.9184890073,
+    "('Volume', 'HINDALCO.NS')":3965901
+  },
+  {
+    "('Date', '')":"2025-04-29",
+    "('Close', 'HINDALCO.NS')":618.0177612305,
+    "('High', 'HINDALCO.NS')":629.6325961712,
+    "('Low', 'HINDALCO.NS')":617.1243496755,
+    "('Open', 'HINDALCO.NS')":626.4558803751,
+    "('Volume', 'HINDALCO.NS')":4528870
+  },
+  {
+    "('Date', '')":"2025-04-30",
+    "('Close', 'HINDALCO.NS')":620.1024780273,
+    "('High', 'HINDALCO.NS')":627.9449284814,
+    "('Low', 'HINDALCO.NS')":610.5227072464,
+    "('Open', 'HINDALCO.NS')":618.0177299896,
+    "('Volume', 'HINDALCO.NS')":5905186
+  },
+  {
+    "('Date', '')":"2025-05-02",
+    "('Close', 'HINDALCO.NS')":625.9099121094,
+    "('High', 'HINDALCO.NS')":645.3671983843,
+    "('Low', 'HINDALCO.NS')":617.273236652,
+    "('Open', 'HINDALCO.NS')":619.4572326031,
+    "('Volume', 'HINDALCO.NS')":5494275
+  },
+  {
+    "('Date', '')":"2025-05-05",
+    "('Close', 'HINDALCO.NS')":628.7888183594,
+    "('High', 'HINDALCO.NS')":636.9290731892,
+    "('Low', 'HINDALCO.NS')":624.9668103324,
+    "('Open', 'HINDALCO.NS')":630.6253259657,
+    "('Volume', 'HINDALCO.NS')":2552160
+  },
+  {
+    "('Date', '')":"2025-05-06",
+    "('Close', 'HINDALCO.NS')":625.4631347656,
+    "('High', 'HINDALCO.NS')":638.0210652127,
+    "('Low', 'HINDALCO.NS')":622.8820873697,
+    "('Open', 'HINDALCO.NS')":634.2983657431,
+    "('Volume', 'HINDALCO.NS')":2778131
+  },
+  {
+    "('Date', '')":"2025-05-07",
+    "('Close', 'HINDALCO.NS')":631.6676635742,
+    "('High', 'HINDALCO.NS')":634.0502155831,
+    "('Low', 'HINDALCO.NS')":624.7682481148,
+    "('Open', 'HINDALCO.NS')":628.3917000052,
+    "('Volume', 'HINDALCO.NS')":3587997
+  },
+  {
+    "('Date', '')":"2025-05-08",
+    "('Close', 'HINDALCO.NS')":615.6848754883,
+    "('High', 'HINDALCO.NS')":631.6676411589,
+    "('Low', 'HINDALCO.NS')":610.5723439215,
+    "('Open', 'HINDALCO.NS')":631.1712812239,
+    "('Volume', 'HINDALCO.NS')":5791783
+  },
+  {
+    "('Date', '')":"2025-05-09",
+    "('Close', 'HINDALCO.NS')":622.5842895508,
+    "('High', 'HINDALCO.NS')":625.711320781,
+    "('Low', 'HINDALCO.NS')":599.3546203996,
+    "('Open', 'HINDALCO.NS')":604.6656474579,
+    "('Volume', 'HINDALCO.NS')":3870212
+  },
+  {
+    "('Date', '')":"2025-05-12",
+    "('Close', 'HINDALCO.NS')":647.2037353516,
+    "('High', 'HINDALCO.NS')":649.4869789485,
+    "('Low', 'HINDALCO.NS')":633.4049048372,
+    "('Open', 'HINDALCO.NS')":635.4896529316,
+    "('Volume', 'HINDALCO.NS')":5474816
+  },
+  {
+    "('Date', '')":"2025-05-13",
+    "('Close', 'HINDALCO.NS')":630.1289672852,
+    "('High', 'HINDALCO.NS')":641.6444940855,
+    "('Low', 'HINDALCO.NS')":627.3989875135,
+    "('Open', 'HINDALCO.NS')":640.3043464339,
+    "('Volume', 'HINDALCO.NS')":6025310
+  },
+  {
+    "('Date', '')":"2025-05-14",
+    "('Close', 'HINDALCO.NS')":645.8139038086,
+    "('High', 'HINDALCO.NS')":648.1964557495,
+    "('Low', 'HINDALCO.NS')":629.3844019638,
+    "('Open', 'HINDALCO.NS')":630.8734817792,
+    "('Volume', 'HINDALCO.NS')":4819584
+  },
+  {
+    "('Date', '')":"2025-05-15",
+    "('Close', 'HINDALCO.NS')":656.5352783203,
+    "('High', 'HINDALCO.NS')":658.8185825515,
+    "('Low', 'HINDALCO.NS')":641.5948560188,
+    "('Open', 'HINDALCO.NS')":644.7715718009,
+    "('Volume', 'HINDALCO.NS')":7133226
+  },
+  {
+    "('Date', '')":"2025-05-16",
+    "('Close', 'HINDALCO.NS')":652.7629394531,
+    "('High', 'HINDALCO.NS')":658.1236509961,
+    "('Low', 'HINDALCO.NS')":649.5862237458,
+    "('Open', 'HINDALCO.NS')":654.6987553209,
+    "('Volume', 'HINDALCO.NS')":2701320
+  },
+  {
+    "('Date', '')":"2025-05-19",
+    "('Close', 'HINDALCO.NS')":653.5571289062,
+    "('High', 'HINDALCO.NS')":656.9324008386,
+    "('Low', 'HINDALCO.NS')":647.2533817103,
+    "('Open', 'HINDALCO.NS')":650.2315414421,
+    "('Volume', 'HINDALCO.NS')":3320756
+  },
+  {
+    "('Date', '')":"2025-05-20",
+    "('Close', 'HINDALCO.NS')":657.9251098633,
+    "('High', 'HINDALCO.NS')":666.1150489902,
+    "('Low', 'HINDALCO.NS')":650.7775145071,
+    "('Open', 'HINDALCO.NS')":663.1368893077,
+    "('Volume', 'HINDALCO.NS')":7950974
+  },
+  {
+    "('Date', '')":"2025-05-21",
+    "('Close', 'HINDALCO.NS')":658.1732788086,
+    "('High', 'HINDALCO.NS')":666.1150378289,
+    "('Low', 'HINDALCO.NS')":649.8344076009,
+    "('Open', 'HINDALCO.NS')":662.2434060702,
+    "('Volume', 'HINDALCO.NS')":8623519
+  },
+  {
+    "('Date', '')":"2025-05-22",
+    "('Close', 'HINDALCO.NS')":644.8211669922,
+    "('High', 'HINDALCO.NS')":658.8681771178,
+    "('Low', 'HINDALCO.NS')":637.822504162,
+    "('Open', 'HINDALCO.NS')":658.1732611041,
+    "('Volume', 'HINDALCO.NS')":6784976
+  },
+  {
+    "('Date', '')":"2025-05-23",
+    "('Close', 'HINDALCO.NS')":645.3671875,
+    "('High', 'HINDALCO.NS')":650.777523113,
+    "('Low', 'HINDALCO.NS')":637.9217881952,
+    "('Open', 'HINDALCO.NS')":648.2460994675,
+    "('Volume', 'HINDALCO.NS')":3448707
+  },
+  {
+    "('Date', '')":"2025-05-26",
+    "('Close', 'HINDALCO.NS')":656.6345825195,
+    "('High', 'HINDALCO.NS')":664.8245216016,
+    "('Low', 'HINDALCO.NS')":648.54389119,
+    "('Open', 'HINDALCO.NS')":650.2315271191,
+    "('Volume', 'HINDALCO.NS')":6826417
+  },
+  {
+    "('Date', '')":"2025-05-27",
+    "('Close', 'HINDALCO.NS')":654.6491699219,
+    "('High', 'HINDALCO.NS')":660.853669484,
+    "('Low', 'HINDALCO.NS')":651.7206340104,
+    "('Open', 'HINDALCO.NS')":656.5849859034,
+    "('Volume', 'HINDALCO.NS')":4223074
+  },
+  {
+    "('Date', '')":"2025-05-28",
+    "('Close', 'HINDALCO.NS')":645.2183227539,
+    "('High', 'HINDALCO.NS')":657.1805856464,
+    "('Low', 'HINDALCO.NS')":643.1832590404,
+    "('Open', 'HINDALCO.NS')":654.6491619739,
+    "('Volume', 'HINDALCO.NS')":3546275
+  },
+  {
+    "('Date', '')":"2025-05-29",
+    "('Close', 'HINDALCO.NS')":645.2679443359,
+    "('High', 'HINDALCO.NS')":648.7920879138,
+    "('Low', 'HINDALCO.NS')":640.4035925192,
+    "('Open', 'HINDALCO.NS')":645.2183204584,
+    "('Volume', 'HINDALCO.NS')":4545776
+  },
+  {
+    "('Date', '')":"2025-05-30",
+    "('Close', 'HINDALCO.NS')":628.8880615234,
+    "('High', 'HINDALCO.NS')":646.1614121536,
+    "('Low', 'HINDALCO.NS')":627.5479138844,
+    "('Open', 'HINDALCO.NS')":643.0839440853,
+    "('Volume', 'HINDALCO.NS')":9054009
+  },
+  {
+    "('Date', '')":"2025-06-02",
+    "('Close', 'HINDALCO.NS')":626.5054931641,
+    "('High', 'HINDALCO.NS')":631.1216648507,
+    "('Low', 'HINDALCO.NS')":613.5008869489,
+    "('Open', 'HINDALCO.NS')":624.3711817727,
+    "('Volume', 'HINDALCO.NS')":8397065
+  },
+  {
+    "('Date', '')":"2025-06-03",
+    "('Close', 'HINDALCO.NS')":627.3989868164,
+    "('High', 'HINDALCO.NS')":636.2342183038,
+    "('Low', 'HINDALCO.NS')":625.016434782,
+    "('Open', 'HINDALCO.NS')":631.3698664798,
+    "('Volume', 'HINDALCO.NS')":3783426
+  },
+  {
+    "('Date', '')":"2025-06-04",
+    "('Close', 'HINDALCO.NS')":631.2209472656,
+    "('High', 'HINDALCO.NS')":636.2342314166,
+    "('Low', 'HINDALCO.NS')":626.0588520695,
+    "('Open', 'HINDALCO.NS')":629.4836873771,
+    "('Volume', 'HINDALCO.NS')":3066925
+  },
+  {
+    "('Date', '')":"2025-06-05",
+    "('Close', 'HINDALCO.NS')":632.6107788086,
+    "('High', 'HINDALCO.NS')":636.7305907767,
+    "('Low', 'HINDALCO.NS')":628.888079051,
+    "('Open', 'HINDALCO.NS')":633.3553187601,
+    "('Volume', 'HINDALCO.NS')":3565664
+  },
+  {
+    "('Date', '')":"2025-06-06",
+    "('Close', 'HINDALCO.NS')":645.4168701172,
+    "('High', 'HINDALCO.NS')":646.5088377758,
+    "('Low', 'HINDALCO.NS')":630.4763870825,
+    "('Open', 'HINDALCO.NS')":632.6107591134,
+    "('Volume', 'HINDALCO.NS')":5492102
+  },
+  {
+    "('Date', '')":"2025-06-09",
+    "('Close', 'HINDALCO.NS')":646.0620727539,
+    "('High', 'HINDALCO.NS')":649.8343961037,
+    "('Low', 'HINDALCO.NS')":644.5233690891,
+    "('Open', 'HINDALCO.NS')":648.6431807443,
+    "('Volume', 'HINDALCO.NS')":2822003
+  },
+  {
+    "('Date', '')":"2025-06-10",
+    "('Close', 'HINDALCO.NS')":653.5571289062,
+    "('High', 'HINDALCO.NS')":658.6696606822,
+    "('Low', 'HINDALCO.NS')":647.4023139332,
+    "('Open', 'HINDALCO.NS')":649.0402654312,
+    "('Volume', 'HINDALCO.NS')":5693888
+  },
+  {
+    "('Date', '')":"2025-06-11",
+    "('Close', 'HINDALCO.NS')":650.4300537109,
+    "('High', 'HINDALCO.NS')":658.0740086256,
+    "('Low', 'HINDALCO.NS')":649.3380255284,
+    "('Open', 'HINDALCO.NS')":655.6914567644,
+    "('Volume', 'HINDALCO.NS')":3928464
+  },
+  {
+    "('Date', '')":"2025-06-12",
+    "('Close', 'HINDALCO.NS')":646.3102416992,
+    "('High', 'HINDALCO.NS')":656.932356138,
+    "('Low', 'HINDALCO.NS')":643.4810143829,
+    "('Open', 'HINDALCO.NS')":651.2242170405,
+    "('Volume', 'HINDALCO.NS')":6539340
+  },
+  {
+    "('Date', '')":"2025-06-13",
+    "('Close', 'HINDALCO.NS')":637.1276245117,
+    "('High', 'HINDALCO.NS')":643.2825000563,
+    "('Low', 'HINDALCO.NS')":630.3771412589,
+    "('Open', 'HINDALCO.NS')":630.3771412589,
+    "('Volume', 'HINDALCO.NS')":4543933
+  },
+  {
+    "('Date', '')":"2025-06-16",
+    "('Close', 'HINDALCO.NS')":644.8707885742,
+    "('High', 'HINDALCO.NS')":646.310244471,
+    "('Low', 'HINDALCO.NS')":631.3698228872,
+    "('Open', 'HINDALCO.NS')":637.1275858834,
+    "('Volume', 'HINDALCO.NS')":3422978
+  },
+  {
+    "('Date', '')":"2025-06-17",
+    "('Close', 'HINDALCO.NS')":637.0283813477,
+    "('High', 'HINDALCO.NS')":645.6650567233,
+    "('Low', 'HINDALCO.NS')":632.9581933431,
+    "('Open', 'HINDALCO.NS')":644.4241568299,
+    "('Volume', 'HINDALCO.NS')":4199339
+  },
+  {
+    "('Date', '')":"2025-06-18",
+    "('Close', 'HINDALCO.NS')":640.6517333984,
+    "('High', 'HINDALCO.NS')":644.175937352,
+    "('Low', 'HINDALCO.NS')":633.3552667095,
+    "('Open', 'HINDALCO.NS')":633.3552667095,
+    "('Volume', 'HINDALCO.NS')":3412544
+  },
+  {
+    "('Date', '')":"2025-06-19",
+    "('Close', 'HINDALCO.NS')":636.680847168,
+    "('High', 'HINDALCO.NS')":640.006494997,
+    "('Low', 'HINDALCO.NS')":630.4267242743,
+    "('Open', 'HINDALCO.NS')":638.3188591455,
+    "('Volume', 'HINDALCO.NS')":4392425
+  },
+  {
+    "('Date', '')":"2025-06-20",
+    "('Close', 'HINDALCO.NS')":644.4241333008,
+    "('High', 'HINDALCO.NS')":649.7351604139,
+    "('Low', 'HINDALCO.NS')":633.950890111,
+    "('Open', 'HINDALCO.NS')":636.6808697766,
+    "('Volume', 'HINDALCO.NS')":7166880
+  },
+  {
+    "('Date', '')":"2025-06-23",
+    "('Close', 'HINDALCO.NS')":656.5849609375,
+    "('High', 'HINDALCO.NS')":661.1514482053,
+    "('Low', 'HINDALCO.NS')":635.4896632282,
+    "('Open', 'HINDALCO.NS')":639.3116105769,
+    "('Volume', 'HINDALCO.NS')":6080547
+  },
+  {
+    "('Date', '')":"2025-06-24",
+    "('Close', 'HINDALCO.NS')":664.5267333984,
+    "('High', 'HINDALCO.NS')":669.0932207578,
+    "('Low', 'HINDALCO.NS')":659.8609376934,
+    "('Open', 'HINDALCO.NS')":663.9310650967,
+    "('Volume', 'HINDALCO.NS')":5510353
+  },
+  {
+    "('Date', '')":"2025-06-25",
+    "('Close', 'HINDALCO.NS')":667.7530517578,
+    "('High', 'HINDALCO.NS')":672.0217351252,
+    "('Low', 'HINDALCO.NS')":663.5836161422,
+    "('Open', 'HINDALCO.NS')":672.0217351252,
+    "('Volume', 'HINDALCO.NS')":5533268
+  },
+  {
+    "('Date', '')":"2025-06-26",
+    "('Close', 'HINDALCO.NS')":685.5723266602,
+    "('High', 'HINDALCO.NS')":687.9548786146,
+    "('Low', 'HINDALCO.NS')":667.8026771168,
+    "('Open', 'HINDALCO.NS')":669.1924485979,
+    "('Volume', 'HINDALCO.NS')":8196123
+  },
+  {
+    "('Date', '')":"2025-06-27",
+    "('Close', 'HINDALCO.NS')":692.2731933594,
+    "('High', 'HINDALCO.NS')":694.9535491895,
+    "('Low', 'HINDALCO.NS')":686.3168739995,
+    "('Open', 'HINDALCO.NS')":689.9403258464,
+    "('Volume', 'HINDALCO.NS')":5666934
+  },
+  {
+    "('Date', '')":"2025-06-30",
+    "('Close', 'HINDALCO.NS')":687.8059692383,
+    "('High', 'HINDALCO.NS')":694.9039408706,
+    "('Low', 'HINDALCO.NS')":686.416197711,
+    "('Open', 'HINDALCO.NS')":694.9039408706,
+    "('Volume', 'HINDALCO.NS')":4919088
+  },
+  {
+    "('Date', '')":"2025-07-01",
+    "('Close', 'HINDALCO.NS')":689.2454223633,
+    "('High', 'HINDALCO.NS')":694.5068257755,
+    "('Low', 'HINDALCO.NS')":679.3678471267,
+    "('Open', 'HINDALCO.NS')":687.3592908861,
+    "('Volume', 'HINDALCO.NS')":5468762
+  },
+  {
+    "('Date', '')":"2025-07-02",
+    "('Close', 'HINDALCO.NS')":693.2659301758,
+    "('High', 'HINDALCO.NS')":700.6120818019,
+    "('Low', 'HINDALCO.NS')":688.600195036,
+    "('Open', 'HINDALCO.NS')":690.6352587488,
+    "('Volume', 'HINDALCO.NS')":4566893
+  },
+  {
+    "('Date', '')":"2025-07-03",
+    "('Close', 'HINDALCO.NS')":687.8059692383,
+    "('High', 'HINDALCO.NS')":702.9449479501,
+    "('Low', 'HINDALCO.NS')":686.7636254451,
+    "('Open', 'HINDALCO.NS')":695.8966607862,
+    "('Volume', 'HINDALCO.NS')":4216075
+  },
+  {
+    "('Date', '')":"2025-07-04",
+    "('Close', 'HINDALCO.NS')":694.3579101562,
+    "('High', 'HINDALCO.NS')":695.6484338411,
+    "('Low', 'HINDALCO.NS')":684.3810877969,
+    "('Open', 'HINDALCO.NS')":686.9621351667,
+    "('Volume', 'HINDALCO.NS')":2680991
+  },
+  {
+    "('Date', '')":"2025-07-07",
+    "('Close', 'HINDALCO.NS')":687.0614013672,
+    "('High', 'HINDALCO.NS')":694.3579288042,
+    "('Low', 'HINDALCO.NS')":683.0905218665,
+    "('Open', 'HINDALCO.NS')":694.3579288042,
+    "('Volume', 'HINDALCO.NS')":2481724
+  },
+  {
+    "('Date', '')":"2025-07-08",
+    "('Close', 'HINDALCO.NS')":680.6087036133,
+    "('High', 'HINDALCO.NS')":691.230818106,
+    "('Low', 'HINDALCO.NS')":678.1269039931,
+    "('Open', 'HINDALCO.NS')":687.0613826259,
+    "('Volume', 'HINDALCO.NS')":3923236
+  },
+  {
+    "('Date', '')":"2025-07-09",
+    "('Close', 'HINDALCO.NS')":669.0435791016,
+    "('High', 'HINDALCO.NS')":686.9621609207,
+    "('Low', 'HINDALCO.NS')":659.2652518727,
+    "('Open', 'HINDALCO.NS')":686.9621609207,
+    "('Volume', 'HINDALCO.NS')":6703774
+  },
+  {
+    "('Date', '')":"2025-07-10",
+    "('Close', 'HINDALCO.NS')":670.135559082,
+    "('High', 'HINDALCO.NS')":674.553174773,
+    "('Low', 'HINDALCO.NS')":667.653759322,
+    "('Open', 'HINDALCO.NS')":670.085935205,
+    "('Volume', 'HINDALCO.NS')":3641238
+  },
+  {
+    "('Date', '')":"2025-07-11",
+    "('Close', 'HINDALCO.NS')":666.0654296875,
+    "('High', 'HINDALCO.NS')":671.1282769462,
+    "('Low', 'HINDALCO.NS')":656.7338383819,
+    "('Open', 'HINDALCO.NS')":668.1004933664,
+    "('Volume', 'HINDALCO.NS')":4450346
+  },
+  {
+    "('Date', '')":"2025-07-14",
+    "('Close', 'HINDALCO.NS')":661.6478271484,
+    "('High', 'HINDALCO.NS')":675.5955299161,
+    "('Low', 'HINDALCO.NS')":660.1587472674,
+    "('Open', 'HINDALCO.NS')":666.1150667916,
+    "('Volume', 'HINDALCO.NS')":4338084
+  },
+  {
+    "('Date', '')":"2025-07-15",
+    "('Close', 'HINDALCO.NS')":665.9661254883,
+    "('High', 'HINDALCO.NS')":669.341397409,
+    "('Low', 'HINDALCO.NS')":658.0740506989,
+    "('Open', 'HINDALCO.NS')":665.1223378035,
+    "('Volume', 'HINDALCO.NS')":4815703
+  },
+  {
+    "('Date', '')":"2025-07-16",
+    "('Close', 'HINDALCO.NS')":661.8959960938,
+    "('High', 'HINDALCO.NS')":665.7179434884,
+    "('Low', 'HINDALCO.NS')":659.1660163573,
+    "('Open', 'HINDALCO.NS')":663.1368959739,
+    "('Volume', 'HINDALCO.NS')":4497141
+  },
+  {
+    "('Date', '')":"2025-07-17",
+    "('Close', 'HINDALCO.NS')":669.6391601562,
+    "('High', 'HINDALCO.NS')":673.0640557439,
+    "('Low', 'HINDALCO.NS')":663.5339694564,
+    "('Open', 'HINDALCO.NS')":665.1222969741,
+    "('Volume', 'HINDALCO.NS')":4022119
+  },
+  {
+    "('Date', '')":"2025-07-18",
+    "('Close', 'HINDALCO.NS')":670.9793701172,
+    "('High', 'HINDALCO.NS')":674.354581249,
+    "('Low', 'HINDALCO.NS')":666.1150186212,
+    "('Open', 'HINDALCO.NS')":671.5749777902,
+    "('Volume', 'HINDALCO.NS')":3400654
+  },
+  {
+    "('Date', '')":"2025-07-21",
+    "('Close', 'HINDALCO.NS')":677.7298583984,
+    "('High', 'HINDALCO.NS')":682.1474738796,
+    "('Low', 'HINDALCO.NS')":674.0567828099,
+    "('Open', 'HINDALCO.NS')":674.0567828099,
+    "('Volume', 'HINDALCO.NS')":4912558
+  },
+  {
+    "('Date', '')":"2025-07-22",
+    "('Close', 'HINDALCO.NS')":685.0263671875,
+    "('High', 'HINDALCO.NS')":687.4585431044,
+    "('Low', 'HINDALCO.NS')":678.2262599866,
+    "('Open', 'HINDALCO.NS')":678.2262599866,
+    "('Volume', 'HINDALCO.NS')":3802270
+  },
+  {
+    "('Date', '')":"2025-07-23",
+    "('Close', 'HINDALCO.NS')":690.3374633789,
+    "('High', 'HINDALCO.NS')":690.9330711004,
+    "('Low', 'HINDALCO.NS')":684.5796393137,
+    "('Open', 'HINDALCO.NS')":686.9621913815,
+    "('Volume', 'HINDALCO.NS')":3640968
+  },
+  {
+    "('Date', '')":"2025-07-24",
+    "('Close', 'HINDALCO.NS')":690.535949707,
+    "('High', 'HINDALCO.NS')":699.2719334452,
+    "('Low', 'HINDALCO.NS')":686.5650700409,
+    "('Open', 'HINDALCO.NS')":691.9257818265,
+    "('Volume', 'HINDALCO.NS')":4593102
+  },
+  {
+    "('Date', '')":"2025-07-25",
+    "('Close', 'HINDALCO.NS')":688.4016113281,
+    "('High', 'HINDALCO.NS')":693.7126384376,
+    "('Low', 'HINDALCO.NS')":682.9416520006,
+    "('Open', 'HINDALCO.NS')":691.9257547759,
+    "('Volume', 'HINDALCO.NS')":5220901
+  },
+  {
+    "('Date', '')":"2025-07-28",
+    "('Close', 'HINDALCO.NS')":684.3314208984,
+    "('High', 'HINDALCO.NS')":688.8979686733,
+    "('Low', 'HINDALCO.NS')":677.829117842,
+    "('Open', 'HINDALCO.NS')":688.4016087363,
+    "('Volume', 'HINDALCO.NS')":5031797
+  },
+  {
+    "('Date', '')":"2025-07-29",
+    "('Close', 'HINDALCO.NS')":687.6571044922,
+    "('High', 'HINDALCO.NS')":689.9403482026,
+    "('Low', 'HINDALCO.NS')":680.0131489479,
+    "('Open', 'HINDALCO.NS')":681.1051166296,
+    "('Volume', 'HINDALCO.NS')":2985507
+  },
+  {
+    "('Date', '')":"2025-07-30",
+    "('Close', 'HINDALCO.NS')":683.7854614258,
+    "('High', 'HINDALCO.NS')":692.4717606324,
+    "('Low', 'HINDALCO.NS')":679.8145817885,
+    "('Open', 'HINDALCO.NS')":684.1329497485,
+    "('Volume', 'HINDALCO.NS')":2829322
+  },
+  {
+    "('Date', '')":"2025-07-31",
+    "('Close', 'HINDALCO.NS')":678.077331543,
+    "('High', 'HINDALCO.NS')":687.2599908342,
+    "('Low', 'HINDALCO.NS')":670.0363244,
+    "('Open', 'HINDALCO.NS')":672.1706358807,
+    "('Volume', 'HINDALCO.NS')":6136890
+  },
+  {
+    "('Date', '')":"2025-08-01",
+    "('Close', 'HINDALCO.NS')":667.5545043945,
+    "('High', 'HINDALCO.NS')":678.3254910009,
+    "('Low', 'HINDALCO.NS')":665.9661162107,
+    "('Open', 'HINDALCO.NS')":675.0495274711,
+    "('Volume', 'HINDALCO.NS')":3475656
+  },
+  {
+    "('Date', '')":"2025-08-04",
+    "('Close', 'HINDALCO.NS')":682.6934814453,
+    "('High', 'HINDALCO.NS')":683.7854490895,
+    "('Low', 'HINDALCO.NS')":666.9092109355,
+    "('Open', 'HINDALCO.NS')":671.0786465976,
+    "('Volume', 'HINDALCO.NS')":2286286
+  },
+  {
+    "('Date', '')":"2025-08-05",
+    "('Close', 'HINDALCO.NS')":682.0978393555,
+    "('High', 'HINDALCO.NS')":686.9621912466,
+    "('Low', 'HINDALCO.NS')":677.1839241769,
+    "('Open', 'HINDALCO.NS')":686.9621912466,
+    "('Volume', 'HINDALCO.NS')":3302614
+  },
+  {
+    "('Date', '')":"2025-08-06",
+    "('Close', 'HINDALCO.NS')":679.8641967773,
+    "('High', 'HINDALCO.NS')":686.9621682726,
+    "('Low', 'HINDALCO.NS')":678.3751169328,
+    "('Open', 'HINDALCO.NS')":686.9621682726,
+    "('Volume', 'HINDALCO.NS')":2498667
+  },
+  {
+    "('Date', '')":"2025-08-07",
+    "('Close', 'HINDALCO.NS')":681.799987793,
+    "('High', 'HINDALCO.NS')":684.8774557137,
+    "('Low', 'HINDALCO.NS')":669.4406134167,
+    "('Open', 'HINDALCO.NS')":676.935696833,
+    "('Volume', 'HINDALCO.NS')":3417324
+  },
+  {
+    "('Date', '')":"2025-08-08",
+    "('Close', 'HINDALCO.NS')":672.75,
+    "('High', 'HINDALCO.NS')":686.4000244141,
+    "('Low', 'HINDALCO.NS')":669.049987793,
+    "('Open', 'HINDALCO.NS')":684.0,
+    "('Volume', 'HINDALCO.NS')":3471816
+  },
+  {
+    "('Date', '')":"2025-08-11",
+    "('Close', 'HINDALCO.NS')":672.8499755859,
+    "('High', 'HINDALCO.NS')":683.450012207,
+    "('Low', 'HINDALCO.NS')":667.25,
+    "('Open', 'HINDALCO.NS')":673.75,
+    "('Volume', 'HINDALCO.NS')":3235082
+  },
+  {
+    "('Date', '')":"2025-08-12",
+    "('Close', 'HINDALCO.NS')":667.049987793,
+    "('High', 'HINDALCO.NS')":677.75,
+    "('Low', 'HINDALCO.NS')":657.5,
+    "('Open', 'HINDALCO.NS')":658.0,
+    "('Volume', 'HINDALCO.NS')":12238878
+  },
+  {
+    "('Date', '')":"2025-08-13",
+    "('Close', 'HINDALCO.NS')":700.5,
+    "('High', 'HINDALCO.NS')":704.950012207,
+    "('Low', 'HINDALCO.NS')":670.950012207,
+    "('Open', 'HINDALCO.NS')":673.0,
+    "('Volume', 'HINDALCO.NS')":13151356
+  },
+  {
+    "('Date', '')":"2025-08-14",
+    "('Close', 'HINDALCO.NS')":695.25,
+    "('High', 'HINDALCO.NS')":702.3499755859,
+    "('Low', 'HINDALCO.NS')":688.0,
+    "('Open', 'HINDALCO.NS')":701.0,
+    "('Volume', 'HINDALCO.NS')":4179259
+  },
+  {
+    "('Date', '')":"2025-08-18",
+    "('Close', 'HINDALCO.NS')":714.1500244141,
+    "('High', 'HINDALCO.NS')":719.0,
+    "('Low', 'HINDALCO.NS')":697.0999755859,
+    "('Open', 'HINDALCO.NS')":700.0,
+    "('Volume', 'HINDALCO.NS')":7211389
+  },
+  {
+    "('Date', '')":"2025-08-19",
+    "('Close', 'HINDALCO.NS')":706.700012207,
+    "('High', 'HINDALCO.NS')":715.1500244141,
+    "('Low', 'HINDALCO.NS')":705.549987793,
+    "('Open', 'HINDALCO.NS')":714.0,
+    "('Volume', 'HINDALCO.NS')":5641195
+  },
+  {
+    "('Date', '')":"2025-08-20",
+    "('Close', 'HINDALCO.NS')":700.8499755859,
+    "('High', 'HINDALCO.NS')":705.9000244141,
+    "('Low', 'HINDALCO.NS')":698.049987793,
+    "('Open', 'HINDALCO.NS')":701.0,
+    "('Volume', 'HINDALCO.NS')":5358070
+  },
+  {
+    "('Date', '')":"2025-08-21",
+    "('Close', 'HINDALCO.NS')":707.299987793,
+    "('High', 'HINDALCO.NS')":709.0,
+    "('Low', 'HINDALCO.NS')":700.5,
+    "('Open', 'HINDALCO.NS')":701.049987793,
+    "('Volume', 'HINDALCO.NS')":3231092
+  },
+  {
+    "('Date', '')":"2025-08-22",
+    "('Close', 'HINDALCO.NS')":704.200012207,
+    "('High', 'HINDALCO.NS')":709.5999755859,
+    "('Low', 'HINDALCO.NS')":701.549987793,
+    "('Open', 'HINDALCO.NS')":708.0,
+    "('Volume', 'HINDALCO.NS')":5623045
+  },
+  {
+    "('Date', '')":"2025-08-25",
+    "('Close', 'HINDALCO.NS')":715.8499755859,
+    "('High', 'HINDALCO.NS')":720.9000244141,
+    "('Low', 'HINDALCO.NS')":707.549987793,
+    "('Open', 'HINDALCO.NS')":708.0,
+    "('Volume', 'HINDALCO.NS')":4539337
+  },
+  {
+    "('Date', '')":"2025-08-26",
+    "('Close', 'HINDALCO.NS')":705.700012207,
+    "('High', 'HINDALCO.NS')":714.0,
+    "('Low', 'HINDALCO.NS')":701.25,
+    "('Open', 'HINDALCO.NS')":714.0,
+    "('Volume', 'HINDALCO.NS')":5229246
+  },
+  {
+    "('Date', '')":"2025-08-28",
+    "('Close', 'HINDALCO.NS')":701.4000244141,
+    "('High', 'HINDALCO.NS')":707.0,
+    "('Low', 'HINDALCO.NS')":698.0999755859,
+    "('Open', 'HINDALCO.NS')":700.799987793,
+    "('Volume', 'HINDALCO.NS')":5620555
+  },
+  {
+    "('Date', '')":"2025-08-29",
+    "('Close', 'HINDALCO.NS')":703.950012207,
+    "('High', 'HINDALCO.NS')":708.75,
+    "('Low', 'HINDALCO.NS')":697.0,
+    "('Open', 'HINDALCO.NS')":701.0,
+    "('Volume', 'HINDALCO.NS')":5335149
+  },
+  {
+    "('Date', '')":"2025-09-01",
+    "('Close', 'HINDALCO.NS')":719.5999755859,
+    "('High', 'HINDALCO.NS')":721.0,
+    "('Low', 'HINDALCO.NS')":702.4000244141,
+    "('Open', 'HINDALCO.NS')":704.5,
+    "('Volume', 'HINDALCO.NS')":3771744
+  },
+  {
+    "('Date', '')":"2025-09-02",
+    "('Close', 'HINDALCO.NS')":720.950012207,
+    "('High', 'HINDALCO.NS')":726.0999755859,
+    "('Low', 'HINDALCO.NS')":714.200012207,
+    "('Open', 'HINDALCO.NS')":720.0,
+    "('Volume', 'HINDALCO.NS')":4660894
+  },
+  {
+    "('Date', '')":"2025-09-03",
+    "('Close', 'HINDALCO.NS')":742.950012207,
+    "('High', 'HINDALCO.NS')":744.0,
+    "('Low', 'HINDALCO.NS')":723.0999755859,
+    "('Open', 'HINDALCO.NS')":725.0,
+    "('Volume', 'HINDALCO.NS')":8986550
+  },
+  {
+    "('Date', '')":"2025-09-04",
+    "('Close', 'HINDALCO.NS')":739.049987793,
+    "('High', 'HINDALCO.NS')":745.0,
+    "('Low', 'HINDALCO.NS')":737.200012207,
+    "('Open', 'HINDALCO.NS')":744.049987793,
+    "('Volume', 'HINDALCO.NS')":3763325
+  },
+  {
+    "('Date', '')":"2025-09-05",
+    "('Close', 'HINDALCO.NS')":743.799987793,
+    "('High', 'HINDALCO.NS')":746.6500244141,
+    "('Low', 'HINDALCO.NS')":738.0,
+    "('Open', 'HINDALCO.NS')":738.0,
+    "('Volume', 'HINDALCO.NS')":2778157
+  },
+  {
+    "('Date', '')":"2025-09-08",
+    "('Close', 'HINDALCO.NS')":738.75,
+    "('High', 'HINDALCO.NS')":749.8499755859,
+    "('Low', 'HINDALCO.NS')":737.4000244141,
+    "('Open', 'HINDALCO.NS')":745.0,
+    "('Volume', 'HINDALCO.NS')":2703395
+  },
+  {
+    "('Date', '')":"2025-09-09",
+    "('Close', 'HINDALCO.NS')":742.9000244141,
+    "('High', 'HINDALCO.NS')":750.549987793,
+    "('Low', 'HINDALCO.NS')":739.0,
+    "('Open', 'HINDALCO.NS')":740.700012207,
+    "('Volume', 'HINDALCO.NS')":3393363
+  },
+  {
+    "('Date', '')":"2025-09-10",
+    "('Close', 'HINDALCO.NS')":743.1500244141,
+    "('High', 'HINDALCO.NS')":749.799987793,
+    "('Low', 'HINDALCO.NS')":741.049987793,
+    "('Open', 'HINDALCO.NS')":745.0,
+    "('Volume', 'HINDALCO.NS')":3351988
+  },
+  {
+    "('Date', '')":"2025-09-11",
+    "('Close', 'HINDALCO.NS')":742.6500244141,
+    "('High', 'HINDALCO.NS')":747.950012207,
+    "('Low', 'HINDALCO.NS')":738.0,
+    "('Open', 'HINDALCO.NS')":742.0,
+    "('Volume', 'HINDALCO.NS')":3756027
+  },
+  {
+    "('Date', '')":"2025-09-12",
+    "('Close', 'HINDALCO.NS')":758.049987793,
+    "('High', 'HINDALCO.NS')":759.5999755859,
+    "('Low', 'HINDALCO.NS')":745.1500244141,
+    "('Open', 'HINDALCO.NS')":748.9000244141,
+    "('Volume', 'HINDALCO.NS')":5698959
+  },
+  {
+    "('Date', '')":"2025-09-15",
+    "('Close', 'HINDALCO.NS')":753.6500244141,
+    "('High', 'HINDALCO.NS')":763.4000244141,
+    "('Low', 'HINDALCO.NS')":752.5999755859,
+    "('Open', 'HINDALCO.NS')":758.1500244141,
+    "('Volume', 'HINDALCO.NS')":2554957
+  },
+  {
+    "('Date', '')":"2025-09-16",
+    "('Close', 'HINDALCO.NS')":755.950012207,
+    "('High', 'HINDALCO.NS')":757.299987793,
+    "('Low', 'HINDALCO.NS')":749.1500244141,
+    "('Open', 'HINDALCO.NS')":754.4000244141,
+    "('Volume', 'HINDALCO.NS')":2662690
+  },
+  {
+    "('Date', '')":"2025-09-17",
+    "('Close', 'HINDALCO.NS')":750.0999755859,
+    "('High', 'HINDALCO.NS')":759.700012207,
+    "('Low', 'HINDALCO.NS')":744.4000244141,
+    "('Open', 'HINDALCO.NS')":756.0,
+    "('Volume', 'HINDALCO.NS')":4182521
+  },
+  {
+    "('Date', '')":"2025-09-18",
+    "('Close', 'HINDALCO.NS')":750.1500244141,
+    "('High', 'HINDALCO.NS')":751.450012207,
+    "('Low', 'HINDALCO.NS')":736.25,
+    "('Open', 'HINDALCO.NS')":746.3499755859,
+    "('Volume', 'HINDALCO.NS')":4915450
+  },
+  {
+    "('Date', '')":"2025-09-19",
+    "('Close', 'HINDALCO.NS')":743.299987793,
+    "('High', 'HINDALCO.NS')":756.799987793,
+    "('Low', 'HINDALCO.NS')":739.0,
+    "('Open', 'HINDALCO.NS')":752.0,
+    "('Volume', 'HINDALCO.NS')":5132517
+  },
+  {
+    "('Date', '')":"2025-09-22",
+    "('Close', 'HINDALCO.NS')":745.700012207,
+    "('High', 'HINDALCO.NS')":752.5,
+    "('Low', 'HINDALCO.NS')":741.549987793,
+    "('Open', 'HINDALCO.NS')":743.299987793,
+    "('Volume', 'HINDALCO.NS')":2232330
+  },
+  {
+    "('Date', '')":"2025-09-23",
+    "('Close', 'HINDALCO.NS')":745.9000244141,
+    "('High', 'HINDALCO.NS')":752.25,
+    "('Low', 'HINDALCO.NS')":739.6500244141,
+    "('Open', 'HINDALCO.NS')":745.0,
+    "('Volume', 'HINDALCO.NS')":3783529
+  },
+  {
+    "('Date', '')":"2025-09-24",
+    "('Close', 'HINDALCO.NS')":741.049987793,
+    "('High', 'HINDALCO.NS')":748.950012207,
+    "('Low', 'HINDALCO.NS')":737.700012207,
+    "('Open', 'HINDALCO.NS')":744.0,
+    "('Volume', 'HINDALCO.NS')":2415165
+  },
+  {
+    "('Date', '')":"2025-09-25",
+    "('Close', 'HINDALCO.NS')":745.6500244141,
+    "('High', 'HINDALCO.NS')":769.0999755859,
+    "('Low', 'HINDALCO.NS')":740.049987793,
+    "('Open', 'HINDALCO.NS')":746.0,
+    "('Volume', 'HINDALCO.NS')":4702510
+  },
+  {
+    "('Date', '')":"2025-09-26",
+    "('Close', 'HINDALCO.NS')":743.8499755859,
+    "('High', 'HINDALCO.NS')":749.5,
+    "('Low', 'HINDALCO.NS')":731.950012207,
+    "('Open', 'HINDALCO.NS')":745.9000244141,
+    "('Volume', 'HINDALCO.NS')":3636265
+  },
+  {
+    "('Date', '')":"2025-09-29",
+    "('Close', 'HINDALCO.NS')":753.799987793,
+    "('High', 'HINDALCO.NS')":758.799987793,
+    "('Low', 'HINDALCO.NS')":744.8499755859,
+    "('Open', 'HINDALCO.NS')":745.0,
+    "('Volume', 'HINDALCO.NS')":4347158
+  },
+  {
+    "('Date', '')":"2025-09-30",
+    "('Close', 'HINDALCO.NS')":761.950012207,
+    "('High', 'HINDALCO.NS')":769.700012207,
+    "('Low', 'HINDALCO.NS')":758.049987793,
+    "('Open', 'HINDALCO.NS')":759.950012207,
+    "('Volume', 'HINDALCO.NS')":4718308
+  },
+  {
+    "('Date', '')":"2025-10-01",
+    "('Close', 'HINDALCO.NS')":765.950012207,
+    "('High', 'HINDALCO.NS')":769.4000244141,
+    "('Low', 'HINDALCO.NS')":755.299987793,
+    "('Open', 'HINDALCO.NS')":761.9000244141,
+    "('Volume', 'HINDALCO.NS')":3663841
+  },
+  {
+    "('Date', '')":"2025-10-03",
+    "('Close', 'HINDALCO.NS')":780.3499755859,
+    "('High', 'HINDALCO.NS')":790.5999755859,
+    "('Low', 'HINDALCO.NS')":764.0999755859,
+    "('Open', 'HINDALCO.NS')":766.0,
+    "('Volume', 'HINDALCO.NS')":6522416
+  },
+  {
+    "('Date', '')":"2025-10-06",
+    "('Close', 'HINDALCO.NS')":776.700012207,
+    "('High', 'HINDALCO.NS')":784.950012207,
+    "('Low', 'HINDALCO.NS')":774.3499755859,
+    "('Open', 'HINDALCO.NS')":782.049987793,
+    "('Volume', 'HINDALCO.NS')":3544658
+  },
+  {
+    "('Date', '')":"2025-10-07",
+    "('Close', 'HINDALCO.NS')":767.799987793,
+    "('High', 'HINDALCO.NS')":780.75,
+    "('Low', 'HINDALCO.NS')":765.9000244141,
+    "('Open', 'HINDALCO.NS')":771.0,
+    "('Volume', 'HINDALCO.NS')":4918764
+  },
+  {
+    "('Date', '')":"2025-10-08",
+    "('Close', 'HINDALCO.NS')":768.200012207,
+    "('High', 'HINDALCO.NS')":781.5,
+    "('Low', 'HINDALCO.NS')":766.1500244141,
+    "('Open', 'HINDALCO.NS')":770.0,
+    "('Volume', 'HINDALCO.NS')":6393179
+  },
+  {
+    "('Date', '')":"2025-10-09",
+    "('Close', 'HINDALCO.NS')":774.0999755859,
+    "('High', 'HINDALCO.NS')":780.0,
+    "('Low', 'HINDALCO.NS')":769.25,
+    "('Open', 'HINDALCO.NS')":770.25,
+    "('Volume', 'HINDALCO.NS')":6806889
+  },
+  {
+    "('Date', '')":"2025-10-10",
+    "('Close', 'HINDALCO.NS')":773.950012207,
+    "('High', 'HINDALCO.NS')":775.75,
+    "('Low', 'HINDALCO.NS')":764.299987793,
+    "('Open', 'HINDALCO.NS')":774.5,
+    "('Volume', 'HINDALCO.NS')":4365229
+  },
+  {
+    "('Date', '')":"2025-10-13",
+    "('Close', 'HINDALCO.NS')":770.200012207,
+    "('High', 'HINDALCO.NS')":774.5999755859,
+    "('Low', 'HINDALCO.NS')":767.200012207,
+    "('Open', 'HINDALCO.NS')":772.25,
+    "('Volume', 'HINDALCO.NS')":3077938
+  },
+  {
+    "('Date', '')":"2025-10-14",
+    "('Close', 'HINDALCO.NS')":760.0999755859,
+    "('High', 'HINDALCO.NS')":781.549987793,
+    "('Low', 'HINDALCO.NS')":754.450012207,
+    "('Open', 'HINDALCO.NS')":776.049987793,
+    "('Volume', 'HINDALCO.NS')":3510594
+  },
+  {
+    "('Date', '')":"2025-10-15",
+    "('Close', 'HINDALCO.NS')":764.25,
+    "('High', 'HINDALCO.NS')":768.700012207,
+    "('Low', 'HINDALCO.NS')":759.3499755859,
+    "('Open', 'HINDALCO.NS')":765.0,
+    "('Volume', 'HINDALCO.NS')":5690264
+  },
+  {
+    "('Date', '')":"2025-10-16",
+    "('Close', 'HINDALCO.NS')":780.0999755859,
+    "('High', 'HINDALCO.NS')":780.8499755859,
+    "('Low', 'HINDALCO.NS')":763.5,
+    "('Open', 'HINDALCO.NS')":765.0999755859,
+    "('Volume', 'HINDALCO.NS')":4180590
+  },
+  {
+    "('Date', '')":"2025-10-17",
+    "('Close', 'HINDALCO.NS')":772.799987793,
+    "('High', 'HINDALCO.NS')":781.950012207,
+    "('Low', 'HINDALCO.NS')":766.0,
+    "('Open', 'HINDALCO.NS')":780.0,
+    "('Volume', 'HINDALCO.NS')":3254932
+  },
+  {
+    "('Date', '')":"2025-10-20",
+    "('Close', 'HINDALCO.NS')":786.3499755859,
+    "('High', 'HINDALCO.NS')":789.450012207,
+    "('Low', 'HINDALCO.NS')":772.049987793,
+    "('Open', 'HINDALCO.NS')":774.299987793,
+    "('Volume', 'HINDALCO.NS')":4845432
+  },
+  {
+    "('Date', '')":"2025-10-21",
+    "('Close', 'HINDALCO.NS')":784.950012207,
+    "('High', 'HINDALCO.NS')":791.950012207,
+    "('Low', 'HINDALCO.NS')":782.5,
+    "('Open', 'HINDALCO.NS')":791.0,
+    "('Volume', 'HINDALCO.NS')":457667
+  },
+  {
+    "('Date', '')":"2025-10-23",
+    "('Close', 'HINDALCO.NS')":792.4000244141,
+    "('High', 'HINDALCO.NS')":799.8499755859,
+    "('Low', 'HINDALCO.NS')":784.0,
+    "('Open', 'HINDALCO.NS')":791.5,
+    "('Volume', 'HINDALCO.NS')":5916416
+  },
+  {
+    "('Date', '')":"2025-10-24",
+    "('Close', 'HINDALCO.NS')":824.450012207,
+    "('High', 'HINDALCO.NS')":826.5,
+    "('Low', 'HINDALCO.NS')":811.3499755859,
+    "('Open', 'HINDALCO.NS')":811.3499755859,
+    "('Volume', 'HINDALCO.NS')":16905398
+  },
+  {
+    "('Date', '')":"2025-10-27",
+    "('Close', 'HINDALCO.NS')":840.8499755859,
+    "('High', 'HINDALCO.NS')":845.0999755859,
+    "('Low', 'HINDALCO.NS')":827.0,
+    "('Open', 'HINDALCO.NS')":834.9000244141,
+    "('Volume', 'HINDALCO.NS')":7308067
+  },
+  {
+    "('Date', '')":"2025-10-28",
+    "('Close', 'HINDALCO.NS')":848.950012207,
+    "('High', 'HINDALCO.NS')":859.9000244141,
+    "('Low', 'HINDALCO.NS')":837.0,
+    "('Open', 'HINDALCO.NS')":838.0,
+    "('Volume', 'HINDALCO.NS')":8010504
+  },
+  {
+    "('Date', '')":"2025-10-29",
+    "('Close', 'HINDALCO.NS')":856.25,
+    "('High', 'HINDALCO.NS')":858.8499755859,
+    "('Low', 'HINDALCO.NS')":849.549987793,
+    "('Open', 'HINDALCO.NS')":854.0,
+    "('Volume', 'HINDALCO.NS')":5663683
+  },
+  {
+    "('Date', '')":"2025-10-30",
+    "('Close', 'HINDALCO.NS')":861.3499755859,
+    "('High', 'HINDALCO.NS')":864.0,
+    "('Low', 'HINDALCO.NS')":848.0999755859,
+    "('Open', 'HINDALCO.NS')":852.0999755859,
+    "('Volume', 'HINDALCO.NS')":4704178
+  },
+  {
+    "('Date', '')":"2025-10-31",
+    "('Close', 'HINDALCO.NS')":847.8499755859,
+    "('High', 'HINDALCO.NS')":860.5999755859,
+    "('Low', 'HINDALCO.NS')":845.700012207,
+    "('Open', 'HINDALCO.NS')":856.950012207,
+    "('Volume', 'HINDALCO.NS')":4138495
+  },
+  {
+    "('Date', '')":"2025-11-03",
+    "('Close', 'HINDALCO.NS')":847.200012207,
+    "('High', 'HINDALCO.NS')":856.0,
+    "('Low', 'HINDALCO.NS')":842.5999755859,
+    "('Open', 'HINDALCO.NS')":847.8499755859,
+    "('Volume', 'HINDALCO.NS')":4885067
+  },
+  {
+    "('Date', '')":"2025-11-04",
+    "('Close', 'HINDALCO.NS')":831.4000244141,
+    "('High', 'HINDALCO.NS')":847.0,
+    "('Low', 'HINDALCO.NS')":829.25,
+    "('Open', 'HINDALCO.NS')":841.549987793,
+    "('Volume', 'HINDALCO.NS')":4673187
+  },
+  {
+    "('Date', '')":"2025-11-05",
+    "('Close', 'HINDALCO.NS')":831.4000244141,
+    "('High', 'HINDALCO.NS')":831.4000244141,
+    "('Low', 'HINDALCO.NS')":831.4000244141,
+    "('Open', 'HINDALCO.NS')":831.4000244141,
+    "('Volume', 'HINDALCO.NS')":0
+  },
+  {
+    "('Date', '')":"2025-11-06",
+    "('Close', 'HINDALCO.NS')":788.4000244141,
+    "('High', 'HINDALCO.NS')":795.0,
+    "('Low', 'HINDALCO.NS')":770.1500244141,
+    "('Open', 'HINDALCO.NS')":788.0,
+    "('Volume', 'HINDALCO.NS')":34786635
+  },
+  {
+    "('Date', '')":"2025-11-07",
+    "('Close', 'HINDALCO.NS')":790.4000244141,
+    "('High', 'HINDALCO.NS')":802.5999755859,
+    "('Low', 'HINDALCO.NS')":783.0,
+    "('Open', 'HINDALCO.NS')":788.5,
+    "('Volume', 'HINDALCO.NS')":13189011
+  },
+  {
+    "('Date', '')":"2025-11-10",
+    "('Close', 'HINDALCO.NS')":785.200012207,
+    "('High', 'HINDALCO.NS')":799.9000244141,
+    "('Low', 'HINDALCO.NS')":783.8499755859,
+    "('Open', 'HINDALCO.NS')":792.0,
+    "('Volume', 'HINDALCO.NS')":5914226
+  },
+  {
+    "('Date', '')":"2025-11-11",
+    "('Close', 'HINDALCO.NS')":793.75,
+    "('High', 'HINDALCO.NS')":794.700012207,
+    "('Low', 'HINDALCO.NS')":778.0999755859,
+    "('Open', 'HINDALCO.NS')":790.799987793,
+    "('Volume', 'HINDALCO.NS')":5410903
+  }
+]

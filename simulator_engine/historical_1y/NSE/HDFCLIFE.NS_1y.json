@@ -1,0 +1,1986 @@
+[
+  {
+    "('Date', '')":"2024-11-11",
+    "('Close', 'HDFCLIFE.NS')":703.4057006836,
+    "('High', 'HDFCLIFE.NS')":709.6384727562,
+    "('Low', 'HDFCLIFE.NS')":693.88203713,
+    "('Open', 'HDFCLIFE.NS')":702.1591462691,
+    "('Volume', 'HDFCLIFE.NS')":1888427
+  },
+  {
+    "('Date', '')":"2024-11-12",
+    "('Close', 'HDFCLIFE.NS')":698.0704956055,
+    "('High', 'HDFCLIFE.NS')":717.8657560269,
+    "('Low', 'HDFCLIFE.NS')":694.1812213546,
+    "('Open', 'HDFCLIFE.NS')":705.599672349,
+    "('Volume', 'HDFCLIFE.NS')":2502158
+  },
+  {
+    "('Date', '')":"2024-11-13",
+    "('Close', 'HDFCLIFE.NS')":683.1616821289,
+    "('High', 'HDFCLIFE.NS')":696.9236309531,
+    "('Low', 'HDFCLIFE.NS')":681.266955903,
+    "('Open', 'HDFCLIFE.NS')":693.0842676302,
+    "('Volume', 'HDFCLIFE.NS')":2080391
+  },
+  {
+    "('Date', '')":"2024-11-14",
+    "('Close', 'HDFCLIFE.NS')":692.0869750977,
+    "('High', 'HDFCLIFE.NS')":694.779544667,
+    "('Low', 'HDFCLIFE.NS')":679.6214315981,
+    "('Open', 'HDFCLIFE.NS')":679.6214315981,
+    "('Volume', 'HDFCLIFE.NS')":1715862
+  },
+  {
+    "('Date', '')":"2024-11-18",
+    "('Close', 'HDFCLIFE.NS')":688.5966796875,
+    "('High', 'HDFCLIFE.NS')":692.0371821504,
+    "('Low', 'HDFCLIFE.NS')":680.61873119,
+    "('Open', 'HDFCLIFE.NS')":685.1063272199,
+    "('Volume', 'HDFCLIFE.NS')":1666040
+  },
+  {
+    "('Date', '')":"2024-11-19",
+    "('Close', 'HDFCLIFE.NS')":678.5245361328,
+    "('High', 'HDFCLIFE.NS')":691.0897805228,
+    "('Low', 'HDFCLIFE.NS')":666.4578526512,
+    "('Open', 'HDFCLIFE.NS')":686.1534127743,
+    "('Volume', 'HDFCLIFE.NS')":6438490
+  },
+  {
+    "('Date', '')":"2024-11-21",
+    "('Close', 'HDFCLIFE.NS')":672.5410766602,
+    "('High', 'HDFCLIFE.NS')":679.0730097606,
+    "('Low', 'HDFCLIFE.NS')":667.0063262461,
+    "('Open', 'HDFCLIFE.NS')":678.5245379797,
+    "('Volume', 'HDFCLIFE.NS')":2194259
+  },
+  {
+    "('Date', '')":"2024-11-22",
+    "('Close', 'HDFCLIFE.NS')":686.3029785156,
+    "('High', 'HDFCLIFE.NS')":689.3944089722,
+    "('Low', 'HDFCLIFE.NS')":672.2917197255,
+    "('Open', 'HDFCLIFE.NS')":678.1255697657,
+    "('Volume', 'HDFCLIFE.NS')":1788502
+  },
+  {
+    "('Date', '')":"2024-11-25",
+    "('Close', 'HDFCLIFE.NS')":682.9123535156,
+    "('High', 'HDFCLIFE.NS')":693.8820322869,
+    "('Low', 'HDFCLIFE.NS')":679.5217620519,
+    "('Open', 'HDFCLIFE.NS')":688.0980320173,
+    "('Volume', 'HDFCLIFE.NS')":4622983
+  },
+  {
+    "('Date', '')":"2024-11-26",
+    "('Close', 'HDFCLIFE.NS')":680.5189819336,
+    "('High', 'HDFCLIFE.NS')":691.4886603238,
+    "('Low', 'HDFCLIFE.NS')":673.1393557607,
+    "('Open', 'HDFCLIFE.NS')":682.1145471709,
+    "('Volume', 'HDFCLIFE.NS')":1767673
+  },
+  {
+    "('Date', '')":"2024-11-27",
+    "('Close', 'HDFCLIFE.NS')":678.6740722656,
+    "('High', 'HDFCLIFE.NS')":687.3999531544,
+    "('Low', 'HDFCLIFE.NS')":677.4275178529,
+    "('Open', 'HDFCLIFE.NS')":679.9704766814,
+    "('Volume', 'HDFCLIFE.NS')":2422336
+  },
+  {
+    "('Date', '')":"2024-11-28",
+    "('Close', 'HDFCLIFE.NS')":655.8870849609,
+    "('High', 'HDFCLIFE.NS')":688.2476498361,
+    "('Low', 'HDFCLIFE.NS')":636.8896077978,
+    "('Open', 'HDFCLIFE.NS')":680.1200906813,
+    "('Volume', 'HDFCLIFE.NS')":13625371
+  },
+  {
+    "('Date', '')":"2024-11-29",
+    "('Close', 'HDFCLIFE.NS')":655.9369506836,
+    "('High', 'HDFCLIFE.NS')":672.2418585203,
+    "('Low', 'HDFCLIFE.NS')":649.5047175571,
+    "('Open', 'HDFCLIFE.NS')":668.1531842767,
+    "('Volume', 'HDFCLIFE.NS')":5934406
+  },
+  {
+    "('Date', '')":"2024-12-02",
+    "('Close', 'HDFCLIFE.NS')":638.4353027344,
+    "('High', 'HDFCLIFE.NS')":662.1696859302,
+    "('Low', 'HDFCLIFE.NS')":637.338298361,
+    "('Open', 'HDFCLIFE.NS')":648.2082768895,
+    "('Volume', 'HDFCLIFE.NS')":4977558
+  },
+  {
+    "('Date', '')":"2024-12-03",
+    "('Close', 'HDFCLIFE.NS')":632.2523803711,
+    "('High', 'HDFCLIFE.NS')":645.0170850254,
+    "('Low', 'HDFCLIFE.NS')":630.557054244,
+    "('Open', 'HDFCLIFE.NS')":645.0170850254,
+    "('Volume', 'HDFCLIFE.NS')":8256858
+  },
+  {
+    "('Date', '')":"2024-12-04",
+    "('Close', 'HDFCLIFE.NS')":648.4575805664,
+    "('High', 'HDFCLIFE.NS')":649.2055131853,
+    "('Low', 'HDFCLIFE.NS')":633.2496173159,
+    "('Open', 'HDFCLIFE.NS')":633.2496173159,
+    "('Volume', 'HDFCLIFE.NS')":7392523
+  },
+  {
+    "('Date', '')":"2024-12-05",
+    "('Close', 'HDFCLIFE.NS')":641.3771972656,
+    "('High', 'HDFCLIFE.NS')":651.6986433996,
+    "('Low', 'HDFCLIFE.NS')":637.5876231782,
+    "('Open', 'HDFCLIFE.NS')":648.4077519415,
+    "('Volume', 'HDFCLIFE.NS')":6163444
+  },
+  {
+    "('Date', '')":"2024-12-06",
+    "('Close', 'HDFCLIFE.NS')":634.7454833984,
+    "('High', 'HDFCLIFE.NS')":645.665311822,
+    "('Low', 'HDFCLIFE.NS')":633.4490790307,
+    "('Open', 'HDFCLIFE.NS')":643.2220530903,
+    "('Volume', 'HDFCLIFE.NS')":6455327
+  },
+  {
+    "('Date', '')":"2024-12-09",
+    "('Close', 'HDFCLIFE.NS')":640.0308837891,
+    "('High', 'HDFCLIFE.NS')":644.5683296659,
+    "('Low', 'HDFCLIFE.NS')":632.9504790904,
+    "('Open', 'HDFCLIFE.NS')":636.1416705519,
+    "('Volume', 'HDFCLIFE.NS')":4027169
+  },
+  {
+    "('Date', '')":"2024-12-10",
+    "('Close', 'HDFCLIFE.NS')":631.5543212891,
+    "('High', 'HDFCLIFE.NS')":642.6736110994,
+    "('Low', 'HDFCLIFE.NS')":628.6124406746,
+    "('Open', 'HDFCLIFE.NS')":640.0308913734,
+    "('Volume', 'HDFCLIFE.NS')":6158405
+  },
+  {
+    "('Date', '')":"2024-12-11",
+    "('Close', 'HDFCLIFE.NS')":632.9006347656,
+    "('High', 'HDFCLIFE.NS')":638.8341851141,
+    "('Low', 'HDFCLIFE.NS')":631.055697703,
+    "('Open', 'HDFCLIFE.NS')":633.0501847759,
+    "('Volume', 'HDFCLIFE.NS')":2396993
+  },
+  {
+    "('Date', '')":"2024-12-12",
+    "('Close', 'HDFCLIFE.NS')":624.8229370117,
+    "('High', 'HDFCLIFE.NS')":635.0446834472,
+    "('Low', 'HDFCLIFE.NS')":618.1913038932,
+    "('Open', 'HDFCLIFE.NS')":634.2469007768,
+    "('Volume', 'HDFCLIFE.NS')":3807072
+  },
+  {
+    "('Date', '')":"2024-12-13",
+    "('Close', 'HDFCLIFE.NS')":630.8063964844,
+    "('High', 'HDFCLIFE.NS')":632.1527117994,
+    "('Low', 'HDFCLIFE.NS')":619.4378565146,
+    "('Open', 'HDFCLIFE.NS')":623.2772198421,
+    "('Volume', 'HDFCLIFE.NS')":2573194
+  },
+  {
+    "('Date', '')":"2024-12-16",
+    "('Close', 'HDFCLIFE.NS')":633.1997680664,
+    "('High', 'HDFCLIFE.NS')":634.6457833047,
+    "('Low', 'HDFCLIFE.NS')":626.8173853643,
+    "('Open', 'HDFCLIFE.NS')":630.8063593364,
+    "('Volume', 'HDFCLIFE.NS')":2175242
+  },
+  {
+    "('Date', '')":"2024-12-17",
+    "('Close', 'HDFCLIFE.NS')":625.0223999023,
+    "('High', 'HDFCLIFE.NS')":634.5959137112,
+    "('Low', 'HDFCLIFE.NS')":623.875545464,
+    "('Open', 'HDFCLIFE.NS')":633.1998092504,
+    "('Volume', 'HDFCLIFE.NS')":3179067
+  },
+  {
+    "('Date', '')":"2024-12-18",
+    "('Close', 'HDFCLIFE.NS')":622.8284301758,
+    "('High', 'HDFCLIFE.NS')":628.063958672,
+    "('Low', 'HDFCLIFE.NS')":618.5901452026,
+    "('Open', 'HDFCLIFE.NS')":621.4323257636,
+    "('Volume', 'HDFCLIFE.NS')":4331195
+  },
+  {
+    "('Date', '')":"2024-12-19",
+    "('Close', 'HDFCLIFE.NS')":621.8311767578,
+    "('High', 'HDFCLIFE.NS')":623.2771920167,
+    "('Low', 'HDFCLIFE.NS')":613.6039178232,
+    "('Open', 'HDFCLIFE.NS')":616.3463374681,
+    "('Volume', 'HDFCLIFE.NS')":3779968
+  },
+  {
+    "('Date', '')":"2024-12-20",
+    "('Close', 'HDFCLIFE.NS')":622.0805053711,
+    "('High', 'HDFCLIFE.NS')":624.7730750908,
+    "('Low', 'HDFCLIFE.NS')":616.4959659182,
+    "('Open', 'HDFCLIFE.NS')":617.9918312217,
+    "('Volume', 'HDFCLIFE.NS')":3996244
+  },
+  {
+    "('Date', '')":"2024-12-23",
+    "('Close', 'HDFCLIFE.NS')":620.8339233398,
+    "('High', 'HDFCLIFE.NS')":624.7231973027,
+    "('Low', 'HDFCLIFE.NS')":611.9085819193,
+    "('Open', 'HDFCLIFE.NS')":623.3270320681,
+    "('Volume', 'HDFCLIFE.NS')":2924609
+  },
+  {
+    "('Date', '')":"2024-12-24",
+    "('Close', 'HDFCLIFE.NS')":620.7841186523,
+    "('High', 'HDFCLIFE.NS')":626.3188082597,
+    "('Low', 'HDFCLIFE.NS')":617.293766178,
+    "('Open', 'HDFCLIFE.NS')":620.8339686572,
+    "('Volume', 'HDFCLIFE.NS')":1445089
+  },
+  {
+    "('Date', '')":"2024-12-26",
+    "('Close', 'HDFCLIFE.NS')":624.6733398438,
+    "('High', 'HDFCLIFE.NS')":627.7149202825,
+    "('Low', 'HDFCLIFE.NS')":617.4931746187,
+    "('Open', 'HDFCLIFE.NS')":618.1912572276,
+    "('Volume', 'HDFCLIFE.NS')":3523864
+  },
+  {
+    "('Date', '')":"2024-12-27",
+    "('Close', 'HDFCLIFE.NS')":620.1857910156,
+    "('High', 'HDFCLIFE.NS')":627.6651176759,
+    "('Low', 'HDFCLIFE.NS')":618.889325701,
+    "('Open', 'HDFCLIFE.NS')":624.6733870118,
+    "('Volume', 'HDFCLIFE.NS')":726298
+  },
+  {
+    "('Date', '')":"2024-12-30",
+    "('Close', 'HDFCLIFE.NS')":615.6981811523,
+    "('High', 'HDFCLIFE.NS')":622.1802641119,
+    "('Low', 'HDFCLIFE.NS')":612.6565396855,
+    "('Open', 'HDFCLIFE.NS')":618.6400008789,
+    "('Volume', 'HDFCLIFE.NS')":1564417
+  },
+  {
+    "('Date', '')":"2024-12-31",
+    "('Close', 'HDFCLIFE.NS')":615.3491210938,
+    "('High', 'HDFCLIFE.NS')":617.4433690714,
+    "('Low', 'HDFCLIFE.NS')":609.3656597866,
+    "('Open', 'HDFCLIFE.NS')":615.4987319732,
+    "('Volume', 'HDFCLIFE.NS')":2645522
+  },
+  {
+    "('Date', '')":"2025-01-01",
+    "('Close', 'HDFCLIFE.NS')":615.4987182617,
+    "('High', 'HDFCLIFE.NS')":617.792366205,
+    "('Low', 'HDFCLIFE.NS')":610.9612723782,
+    "('Open', 'HDFCLIFE.NS')":613.4044703307,
+    "('Volume', 'HDFCLIFE.NS')":1386549
+  },
+  {
+    "('Date', '')":"2025-01-02",
+    "('Close', 'HDFCLIFE.NS')":618.440612793,
+    "('High', 'HDFCLIFE.NS')":619.3879454733,
+    "('Low', 'HDFCLIFE.NS')":612.3075406046,
+    "('Open', 'HDFCLIFE.NS')":615.2992712591,
+    "('Volume', 'HDFCLIFE.NS')":2449967
+  },
+  {
+    "('Date', '')":"2025-01-03",
+    "('Close', 'HDFCLIFE.NS')":621.2827148438,
+    "('High', 'HDFCLIFE.NS')":622.3298083695,
+    "('Low', 'HDFCLIFE.NS')":613.9529992963,
+    "('Open', 'HDFCLIFE.NS')":617.2937407517,
+    "('Volume', 'HDFCLIFE.NS')":2956679
+  },
+  {
+    "('Date', '')":"2025-01-06",
+    "('Close', 'HDFCLIFE.NS')":604.2797241211,
+    "('High', 'HDFCLIFE.NS')":625.2716880786,
+    "('Low', 'HDFCLIFE.NS')":601.6868544446,
+    "('Open', 'HDFCLIFE.NS')":625.2716880786,
+    "('Volume', 'HDFCLIFE.NS')":5743310
+  },
+  {
+    "('Date', '')":"2025-01-07",
+    "('Close', 'HDFCLIFE.NS')":618.1413574219,
+    "('High', 'HDFCLIFE.NS')":618.9890509147,
+    "('Low', 'HDFCLIFE.NS')":603.8309375831,
+    "('Open', 'HDFCLIFE.NS')":604.3295593318,
+    "('Volume', 'HDFCLIFE.NS')":2813892
+  },
+  {
+    "('Date', '')":"2025-01-08",
+    "('Close', 'HDFCLIFE.NS')":616.2965087891,
+    "('High', 'HDFCLIFE.NS')":621.5320373831,
+    "('Low', 'HDFCLIFE.NS')":613.4044781713,
+    "('Open', 'HDFCLIFE.NS')":618.3408458762,
+    "('Volume', 'HDFCLIFE.NS')":1861556
+  },
+  {
+    "('Date', '')":"2025-01-09",
+    "('Close', 'HDFCLIFE.NS')":610.512512207,
+    "('High', 'HDFCLIFE.NS')":619.3879432633,
+    "('Low', 'HDFCLIFE.NS')":608.2188642202,
+    "('Open', 'HDFCLIFE.NS')":614.4017255238,
+    "('Volume', 'HDFCLIFE.NS')":2141675
+  },
+  {
+    "('Date', '')":"2025-01-10",
+    "('Close', 'HDFCLIFE.NS')":606.9722900391,
+    "('High', 'HDFCLIFE.NS')":613.2050620108,
+    "('Low', 'HDFCLIFE.NS')":601.3378398299,
+    "('Open', 'HDFCLIFE.NS')":608.3683944406,
+    "('Volume', 'HDFCLIFE.NS')":1966939
+  },
+  {
+    "('Date', '')":"2025-01-13",
+    "('Close', 'HDFCLIFE.NS')":598.0968017578,
+    "('High', 'HDFCLIFE.NS')":606.7728325644,
+    "('Low', 'HDFCLIFE.NS')":595.6535429578,
+    "('Open', 'HDFCLIFE.NS')":605.3268172855,
+    "('Volume', 'HDFCLIFE.NS')":2105862
+  },
+  {
+    "('Date', '')":"2025-01-14",
+    "('Close', 'HDFCLIFE.NS')":598.7948608398,
+    "('High', 'HDFCLIFE.NS')":606.373886955,
+    "('Low', 'HDFCLIFE.NS')":593.2102608214,
+    "('Open', 'HDFCLIFE.NS')":603.3323065088,
+    "('Volume', 'HDFCLIFE.NS')":3122102
+  },
+  {
+    "('Date', '')":"2025-01-15",
+    "('Close', 'HDFCLIFE.NS')":592.5621337891,
+    "('High', 'HDFCLIFE.NS')":602.8337302536,
+    "('Low', 'HDFCLIFE.NS')":582.6893982272,
+    "('Open', 'HDFCLIFE.NS')":602.8337302536,
+    "('Volume', 'HDFCLIFE.NS')":5633587
+  },
+  {
+    "('Date', '')":"2025-01-16",
+    "('Close', 'HDFCLIFE.NS')":639.632019043,
+    "('High', 'HDFCLIFE.NS')":661.7707765269,
+    "('Low', 'HDFCLIFE.NS')":627.2163250268,
+    "('Open', 'HDFCLIFE.NS')":628.3631185564,
+    "('Volume', 'HDFCLIFE.NS')":24198675
+  },
+  {
+    "('Date', '')":"2025-01-17",
+    "('Close', 'HDFCLIFE.NS')":640.4298095703,
+    "('High', 'HDFCLIFE.NS')":648.1584469571,
+    "('Low', 'HDFCLIFE.NS')":631.6540786464,
+    "('Open', 'HDFCLIFE.NS')":638.2358616226,
+    "('Volume', 'HDFCLIFE.NS')":3671715
+  },
+  {
+    "('Date', '')":"2025-01-20",
+    "('Close', 'HDFCLIFE.NS')":632.3022460938,
+    "('High', 'HDFCLIFE.NS')":642.2746813633,
+    "('Low', 'HDFCLIFE.NS')":628.8118937494,
+    "('Open', 'HDFCLIFE.NS')":640.2303443064,
+    "('Volume', 'HDFCLIFE.NS')":1956252
+  },
+  {
+    "('Date', '')":"2025-01-21",
+    "('Close', 'HDFCLIFE.NS')":622.2799682617,
+    "('High', 'HDFCLIFE.NS')":635.2939842707,
+    "('Low', 'HDFCLIFE.NS')":621.1830247157,
+    "('Open', 'HDFCLIFE.NS')":634.2468907283,
+    "('Volume', 'HDFCLIFE.NS')":1820019
+  },
+  {
+    "('Date', '')":"2025-01-22",
+    "('Close', 'HDFCLIFE.NS')":616.4959716797,
+    "('High', 'HDFCLIFE.NS')":627.2661897921,
+    "('Low', 'HDFCLIFE.NS')":611.2105930647,
+    "('Open', 'HDFCLIFE.NS')":627.2661897921,
+    "('Volume', 'HDFCLIFE.NS')":2296057
+  },
+  {
+    "('Date', '')":"2025-01-23",
+    "('Close', 'HDFCLIFE.NS')":619.2882080078,
+    "('High', 'HDFCLIFE.NS')":623.476642844,
+    "('Low', 'HDFCLIFE.NS')":610.9113383353,
+    "('Open', 'HDFCLIFE.NS')":616.2964775343,
+    "('Volume', 'HDFCLIFE.NS')":1673008
+  },
+  {
+    "('Date', '')":"2025-01-24",
+    "('Close', 'HDFCLIFE.NS')":619.3879394531,
+    "('High', 'HDFCLIFE.NS')":623.2772136128,
+    "('Low', 'HDFCLIFE.NS')":611.6094520006,
+    "('Open', 'HDFCLIFE.NS')":618.8394676785,
+    "('Volume', 'HDFCLIFE.NS')":1793560
+  },
+  {
+    "('Date', '')":"2025-01-27",
+    "('Close', 'HDFCLIFE.NS')":608.5180053711,
+    "('High', 'HDFCLIFE.NS')":618.0416687714,
+    "('Low', 'HDFCLIFE.NS')":604.7284921853,
+    "('Open', 'HDFCLIFE.NS')":616.2964926191,
+    "('Volume', 'HDFCLIFE.NS')":1730503
+  },
+  {
+    "('Date', '')":"2025-01-28",
+    "('Close', 'HDFCLIFE.NS')":609.8642578125,
+    "('High', 'HDFCLIFE.NS')":612.3075165912,
+    "('Low', 'HDFCLIFE.NS')":598.4458074226,
+    "('Open', 'HDFCLIFE.NS')":609.2659360518,
+    "('Volume', 'HDFCLIFE.NS')":2662789
+  },
+  {
+    "('Date', '')":"2025-01-29",
+    "('Close', 'HDFCLIFE.NS')":626.6179199219,
+    "('High', 'HDFCLIFE.NS')":627.9642351478,
+    "('Low', 'HDFCLIFE.NS')":603.4819197461,
+    "('Open', 'HDFCLIFE.NS')":610.3130132767,
+    "('Volume', 'HDFCLIFE.NS')":2005819
+  },
+  {
+    "('Date', '')":"2025-01-30",
+    "('Close', 'HDFCLIFE.NS')":632.4019775391,
+    "('High', 'HDFCLIFE.NS')":634.3465536326,
+    "('Low', 'HDFCLIFE.NS')":622.2799318647,
+    "('Open', 'HDFCLIFE.NS')":622.9780144745,
+    "('Volume', 'HDFCLIFE.NS')":2899445
+  },
+  {
+    "('Date', '')":"2025-01-31",
+    "('Close', 'HDFCLIFE.NS')":636.2911987305,
+    "('High', 'HDFCLIFE.NS')":639.2330792091,
+    "('Low', 'HDFCLIFE.NS')":628.4130116535,
+    "('Open', 'HDFCLIFE.NS')":636.2413487292,
+    "('Volume', 'HDFCLIFE.NS')":1012392
+  },
+  {
+    "('Date', '')":"2025-02-01",
+    "('Close', 'HDFCLIFE.NS')":623.7758178711,
+    "('High', 'HDFCLIFE.NS')":665.7098954523,
+    "('Low', 'HDFCLIFE.NS')":593.6092015792,
+    "('Open', 'HDFCLIFE.NS')":637.2884553095,
+    "('Volume', 'HDFCLIFE.NS')":10039413
+  },
+  {
+    "('Date', '')":"2025-02-03",
+    "('Close', 'HDFCLIFE.NS')":619.6871337891,
+    "('High', 'HDFCLIFE.NS')":628.6124143995,
+    "('Low', 'HDFCLIFE.NS')":608.318533569,
+    "('Open', 'HDFCLIFE.NS')":613.8033728061,
+    "('Volume', 'HDFCLIFE.NS')":3293387
+  },
+  {
+    "('Date', '')":"2025-02-04",
+    "('Close', 'HDFCLIFE.NS')":624.1747436523,
+    "('High', 'HDFCLIFE.NS')":626.268930698,
+    "('Low', 'HDFCLIFE.NS')":613.70368669,
+    "('Open', 'HDFCLIFE.NS')":626.2190806954,
+    "('Volume', 'HDFCLIFE.NS')":3244955
+  },
+  {
+    "('Date', '')":"2025-02-05",
+    "('Close', 'HDFCLIFE.NS')":626.1193237305,
+    "('High', 'HDFCLIFE.NS')":637.2386133971,
+    "('Low', 'HDFCLIFE.NS')":622.9780431423,
+    "('Open', 'HDFCLIFE.NS')":624.2744475533,
+    "('Volume', 'HDFCLIFE.NS')":4467504
+  },
+  {
+    "('Date', '')":"2025-02-06",
+    "('Close', 'HDFCLIFE.NS')":630.2080688477,
+    "('High', 'HDFCLIFE.NS')":636.6403018701,
+    "('Low', 'HDFCLIFE.NS')":621.4323378472,
+    "('Open', 'HDFCLIFE.NS')":624.723229364,
+    "('Volume', 'HDFCLIFE.NS')":4837012
+  },
+  {
+    "('Date', '')":"2025-02-07",
+    "('Close', 'HDFCLIFE.NS')":633.9476928711,
+    "('High', 'HDFCLIFE.NS')":635.742718963,
+    "('Low', 'HDFCLIFE.NS')":622.8284037142,
+    "('Open', 'HDFCLIFE.NS')":630.2080298184,
+    "('Volume', 'HDFCLIFE.NS')":2538330
+  },
+  {
+    "('Date', '')":"2025-02-10",
+    "('Close', 'HDFCLIFE.NS')":633.9476928711,
+    "('High', 'HDFCLIFE.NS')":639.033610276,
+    "('Low', 'HDFCLIFE.NS')":625.0223515452,
+    "('Open', 'HDFCLIFE.NS')":634.2468537419,
+    "('Volume', 'HDFCLIFE.NS')":3394573
+  },
+  {
+    "('Date', '')":"2025-02-11",
+    "('Close', 'HDFCLIFE.NS')":616.8948364258,
+    "('High', 'HDFCLIFE.NS')":633.1000441328,
+    "('Low', 'HDFCLIFE.NS')":611.2604468816,
+    "('Open', 'HDFCLIFE.NS')":630.5072352464,
+    "('Volume', 'HDFCLIFE.NS')":2327875
+  },
+  {
+    "('Date', '')":"2025-02-12",
+    "('Close', 'HDFCLIFE.NS')":627.4157714844,
+    "('High', 'HDFCLIFE.NS')":635.1444085984,
+    "('Low', 'HDFCLIFE.NS')":606.473658014,
+    "('Open', 'HDFCLIFE.NS')":616.3961821314,
+    "('Volume', 'HDFCLIFE.NS')":3378279
+  },
+  {
+    "('Date', '')":"2025-02-13",
+    "('Close', 'HDFCLIFE.NS')":627.8645019531,
+    "('High', 'HDFCLIFE.NS')":638.2358590088,
+    "('Low', 'HDFCLIFE.NS')":625.9199257637,
+    "('Open', 'HDFCLIFE.NS')":627.4157910583,
+    "('Volume', 'HDFCLIFE.NS')":2808139
+  },
+  {
+    "('Date', '')":"2025-02-14",
+    "('Close', 'HDFCLIFE.NS')":624.4738769531,
+    "('High', 'HDFCLIFE.NS')":632.152663893,
+    "('Low', 'HDFCLIFE.NS')":620.7840639179,
+    "('Open', 'HDFCLIFE.NS')":628.2633899892,
+    "('Volume', 'HDFCLIFE.NS')":1693078
+  },
+  {
+    "('Date', '')":"2025-02-17",
+    "('Close', 'HDFCLIFE.NS')":621.532043457,
+    "('High', 'HDFCLIFE.NS')":625.2717067751,
+    "('Low', 'HDFCLIFE.NS')":612.2576906017,
+    "('Open', 'HDFCLIFE.NS')":624.4739241073,
+    "('Volume', 'HDFCLIFE.NS')":1860572
+  },
+  {
+    "('Date', '')":"2025-02-18",
+    "('Close', 'HDFCLIFE.NS')":617.2438964844,
+    "('High', 'HDFCLIFE.NS')":624.2744512136,
+    "('Low', 'HDFCLIFE.NS')":609.6648091188,
+    "('Open', 'HDFCLIFE.NS')":622.2799641491,
+    "('Volume', 'HDFCLIFE.NS')":1887686
+  },
+  {
+    "('Date', '')":"2025-02-19",
+    "('Close', 'HDFCLIFE.NS')":621.1331176758,
+    "('High', 'HDFCLIFE.NS')":622.2799720993,
+    "('Low', 'HDFCLIFE.NS')":612.1080757666,
+    "('Open', 'HDFCLIFE.NS')":615.2992672841,
+    "('Volume', 'HDFCLIFE.NS')":2007325
+  },
+  {
+    "('Date', '')":"2025-02-20",
+    "('Close', 'HDFCLIFE.NS')":618.2909545898,
+    "('High', 'HDFCLIFE.NS')":628.2633893413,
+    "('Low', 'HDFCLIFE.NS')":614.6011415584,
+    "('Open', 'HDFCLIFE.NS')":621.2826850153,
+    "('Volume', 'HDFCLIFE.NS')":2881981
+  },
+  {
+    "('Date', '')":"2025-02-21",
+    "('Close', 'HDFCLIFE.NS')":621.1331176758,
+    "('High', 'HDFCLIFE.NS')":622.1802720916,
+    "('Low', 'HDFCLIFE.NS')":611.7590648726,
+    "('Open', 'HDFCLIFE.NS')":616.0970499468,
+    "('Volume', 'HDFCLIFE.NS')":1627631
+  },
+  {
+    "('Date', '')":"2025-02-24",
+    "('Close', 'HDFCLIFE.NS')":615.2992553711,
+    "('High', 'HDFCLIFE.NS')":619.7868512368,
+    "('Low', 'HDFCLIFE.NS')":612.8061465568,
+    "('Open', 'HDFCLIFE.NS')":614.3020118454,
+    "('Volume', 'HDFCLIFE.NS')":983443
+  },
+  {
+    "('Date', '')":"2025-02-25",
+    "('Close', 'HDFCLIFE.NS')":620.4350585938,
+    "('High', 'HDFCLIFE.NS')":621.5818520815,
+    "('Low', 'HDFCLIFE.NS')":611.4099563602,
+    "('Open', 'HDFCLIFE.NS')":615.3490802997,
+    "('Volume', 'HDFCLIFE.NS')":1606709
+  },
+  {
+    "('Date', '')":"2025-02-27",
+    "('Close', 'HDFCLIFE.NS')":616.6954345703,
+    "('High', 'HDFCLIFE.NS')":626.1193374075,
+    "('Low', 'HDFCLIFE.NS')":613.3047821596,
+    "('Open', 'HDFCLIFE.NS')":623.2772176418,
+    "('Volume', 'HDFCLIFE.NS')":1831493
+  },
+  {
+    "('Date', '')":"2025-02-28",
+    "('Close', 'HDFCLIFE.NS')":606.8226928711,
+    "('High', 'HDFCLIFE.NS')":615.2494129406,
+    "('Low', 'HDFCLIFE.NS')":598.6951336897,
+    "('Open', 'HDFCLIFE.NS')":612.3075323301,
+    "('Volume', 'HDFCLIFE.NS')":5013148
+  },
+  {
+    "('Date', '')":"2025-03-03",
+    "('Close', 'HDFCLIFE.NS')":616.2965087891,
+    "('High', 'HDFCLIFE.NS')":618.4406067505,
+    "('Low', 'HDFCLIFE.NS')":605.32682983,
+    "('Open', 'HDFCLIFE.NS')":606.8226951426,
+    "('Volume', 'HDFCLIFE.NS')":3624490
+  },
+  {
+    "('Date', '')":"2025-03-04",
+    "('Close', 'HDFCLIFE.NS')":614.8006591797,
+    "('High', 'HDFCLIFE.NS')":619.0887943453,
+    "('Low', 'HDFCLIFE.NS')":607.6204933225,
+    "('Open', 'HDFCLIFE.NS')":611.4100067044,
+    "('Volume', 'HDFCLIFE.NS')":3262295
+  },
+  {
+    "('Date', '')":"2025-03-05",
+    "('Close', 'HDFCLIFE.NS')":619.4876708984,
+    "('High', 'HDFCLIFE.NS')":623.2771840038,
+    "('Low', 'HDFCLIFE.NS')":610.3130185765,
+    "('Open', 'HDFCLIFE.NS')":611.3102620709,
+    "('Volume', 'HDFCLIFE.NS')":2661830
+  },
+  {
+    "('Date', '')":"2025-03-06",
+    "('Close', 'HDFCLIFE.NS')":616.5458374023,
+    "('High', 'HDFCLIFE.NS')":626.2689622138,
+    "('Low', 'HDFCLIFE.NS')":610.9113868828,
+    "('Open', 'HDFCLIFE.NS')":619.4877181084,
+    "('Volume', 'HDFCLIFE.NS')":2491123
+  },
+  {
+    "('Date', '')":"2025-03-07",
+    "('Close', 'HDFCLIFE.NS')":623.4766845703,
+    "('High', 'HDFCLIFE.NS')":631.2551721485,
+    "('Low', 'HDFCLIFE.NS')":616.4461296605,
+    "('Open', 'HDFCLIFE.NS')":616.5956796741,
+    "('Volume', 'HDFCLIFE.NS')":3169440
+  },
+  {
+    "('Date', '')":"2025-03-10",
+    "('Close', 'HDFCLIFE.NS')":624.1747436523,
+    "('High', 'HDFCLIFE.NS')":631.2551482991,
+    "('Low', 'HDFCLIFE.NS')":621.2827130969,
+    "('Open', 'HDFCLIFE.NS')":623.32705014,
+    "('Volume', 'HDFCLIFE.NS')":2316148
+  },
+  {
+    "('Date', '')":"2025-03-11",
+    "('Close', 'HDFCLIFE.NS')":635.1942749023,
+    "('High', 'HDFCLIFE.NS')":635.7925966701,
+    "('Low', 'HDFCLIFE.NS')":612.9557564864,
+    "('Open', 'HDFCLIFE.NS')":621.2827155666,
+    "('Volume', 'HDFCLIFE.NS')":2677293
+  },
+  {
+    "('Date', '')":"2025-03-12",
+    "('Close', 'HDFCLIFE.NS')":630.2579345703,
+    "('High', 'HDFCLIFE.NS')":637.9865722173,
+    "('Low', 'HDFCLIFE.NS')":625.3714167435,
+    "('Open', 'HDFCLIFE.NS')":635.1943024021,
+    "('Volume', 'HDFCLIFE.NS')":2704337
+  },
+  {
+    "('Date', '')":"2025-03-13",
+    "('Close', 'HDFCLIFE.NS')":620.684387207,
+    "('High', 'HDFCLIFE.NS')":630.5570614715,
+    "('Low', 'HDFCLIFE.NS')":617.7425066685,
+    "('Open', 'HDFCLIFE.NS')":629.2606570772,
+    "('Volume', 'HDFCLIFE.NS')":2211232
+  },
+  {
+    "('Date', '')":"2025-03-17",
+    "('Close', 'HDFCLIFE.NS')":628.0639648438,
+    "('High', 'HDFCLIFE.NS')":629.6096801464,
+    "('Low', 'HDFCLIFE.NS')":620.6843992205,
+    "('Open', 'HDFCLIFE.NS')":620.6843992205,
+    "('Volume', 'HDFCLIFE.NS')":1075106
+  },
+  {
+    "('Date', '')":"2025-03-18",
+    "('Close', 'HDFCLIFE.NS')":628.0639648438,
+    "('High', 'HDFCLIFE.NS')":628.0639648438,
+    "('Low', 'HDFCLIFE.NS')":628.0639648438,
+    "('Open', 'HDFCLIFE.NS')":628.0639648438,
+    "('Volume', 'HDFCLIFE.NS')":0
+  },
+  {
+    "('Date', '')":"2025-03-19",
+    "('Close', 'HDFCLIFE.NS')":662.7182006836,
+    "('High', 'HDFCLIFE.NS')":664.06451602,
+    "('Low', 'HDFCLIFE.NS')":638.8841159378,
+    "('Open', 'HDFCLIFE.NS')":640.2303704073,
+    "('Volume', 'HDFCLIFE.NS')":2470532
+  },
+  {
+    "('Date', '')":"2025-03-20",
+    "('Close', 'HDFCLIFE.NS')":672.4911499023,
+    "('High', 'HDFCLIFE.NS')":676.4801240211,
+    "('Low', 'HDFCLIFE.NS')":657.2831860745,
+    "('Open', 'HDFCLIFE.NS')":663.1669472465,
+    "('Volume', 'HDFCLIFE.NS')":4425855
+  },
+  {
+    "('Date', '')":"2025-03-21",
+    "('Close', 'HDFCLIFE.NS')":677.7266845703,
+    "('High', 'HDFCLIFE.NS')":679.2225498784,
+    "('Low', 'HDFCLIFE.NS')":667.2057774102,
+    "('Open', 'HDFCLIFE.NS')":675.931658374,
+    "('Volume', 'HDFCLIFE.NS')":3725271
+  },
+  {
+    "('Date', '')":"2025-03-24",
+    "('Close', 'HDFCLIFE.NS')":678.0258789062,
+    "('High', 'HDFCLIFE.NS')":685.5550551458,
+    "('Low', 'HDFCLIFE.NS')":673.7376831696,
+    "('Open', 'HDFCLIFE.NS')":677.7266571632,
+    "('Volume', 'HDFCLIFE.NS')":1401023
+  },
+  {
+    "('Date', '')":"2025-03-25",
+    "('Close', 'HDFCLIFE.NS')":671.2445678711,
+    "('High', 'HDFCLIFE.NS')":684.1090332216,
+    "('Low', 'HDFCLIFE.NS')":669.4993917659,
+    "('Open', 'HDFCLIFE.NS')":681.1173027556,
+    "('Volume', 'HDFCLIFE.NS')":2019661
+  },
+  {
+    "('Date', '')":"2025-03-26",
+    "('Close', 'HDFCLIFE.NS')":666.5576171875,
+    "('High', 'HDFCLIFE.NS')":678.5245398597,
+    "('Low', 'HDFCLIFE.NS')":663.0173538701,
+    "('Open', 'HDFCLIFE.NS')":671.2446132072,
+    "('Volume', 'HDFCLIFE.NS')":2231203
+  },
+  {
+    "('Date', '')":"2025-03-27",
+    "('Close', 'HDFCLIFE.NS')":680.0203857422,
+    "('High', 'HDFCLIFE.NS')":682.7128945729,
+    "('Low', 'HDFCLIFE.NS')":665.2112828388,
+    "('Open', 'HDFCLIFE.NS')":666.5575981211,
+    "('Volume', 'HDFCLIFE.NS')":5951034
+  },
+  {
+    "('Date', '')":"2025-03-28",
+    "('Close', 'HDFCLIFE.NS')":683.8098754883,
+    "('High', 'HDFCLIFE.NS')":686.3528342227,
+    "('Low', 'HDFCLIFE.NS')":676.0812384157,
+    "('Open', 'HDFCLIFE.NS')":682.0148493738,
+    "('Volume', 'HDFCLIFE.NS')":3116601
+  },
+  {
+    "('Date', '')":"2025-04-01",
+    "('Close', 'HDFCLIFE.NS')":690.9900512695,
+    "('High', 'HDFCLIFE.NS')":696.1258188173,
+    "('Low', 'HDFCLIFE.NS')":678.1255856653,
+    "('Open', 'HDFCLIFE.NS')":681.1173161903,
+    "('Volume', 'HDFCLIFE.NS')":4620146
+  },
+  {
+    "('Date', '')":"2025-04-02",
+    "('Close', 'HDFCLIFE.NS')":694.2310791016,
+    "('High', 'HDFCLIFE.NS')":699.8156182923,
+    "('Low', 'HDFCLIFE.NS')":688.2974681696,
+    "('Open', 'HDFCLIFE.NS')":691.3888986382,
+    "('Volume', 'HDFCLIFE.NS')":3047499
+  },
+  {
+    "('Date', '')":"2025-04-03",
+    "('Close', 'HDFCLIFE.NS')":690.9900512695,
+    "('High', 'HDFCLIFE.NS')":695.8765079402,
+    "('Low', 'HDFCLIFE.NS')":673.1393681236,
+    "('Open', 'HDFCLIFE.NS')":686.6021554861,
+    "('Volume', 'HDFCLIFE.NS')":1353987
+  },
+  {
+    "('Date', '')":"2025-04-04",
+    "('Close', 'HDFCLIFE.NS')":687.1506347656,
+    "('High', 'HDFCLIFE.NS')":693.0842458785,
+    "('Low', 'HDFCLIFE.NS')":682.2641780414,
+    "('Open', 'HDFCLIFE.NS')":685.1062977245,
+    "('Volume', 'HDFCLIFE.NS')":3867188
+  },
+  {
+    "('Date', '')":"2025-04-07",
+    "('Close', 'HDFCLIFE.NS')":664.1143188477,
+    "('High', 'HDFCLIFE.NS')":678.1255778039,
+    "('Low', 'HDFCLIFE.NS')":649.9035990187,
+    "('Open', 'HDFCLIFE.NS')":661.9203709814,
+    "('Volume', 'HDFCLIFE.NS')":3861746
+  },
+  {
+    "('Date', '')":"2025-04-08",
+    "('Close', 'HDFCLIFE.NS')":683.8597412109,
+    "('High', 'HDFCLIFE.NS')":687.8487152756,
+    "('Low', 'HDFCLIFE.NS')":666.4578296805,
+    "('Open', 'HDFCLIFE.NS')":672.6407516541,
+    "('Volume', 'HDFCLIFE.NS')":3279965
+  },
+  {
+    "('Date', '')":"2025-04-09",
+    "('Close', 'HDFCLIFE.NS')":682.9123535156,
+    "('High', 'HDFCLIFE.NS')":689.6935973099,
+    "('Low', 'HDFCLIFE.NS')":677.2779641214,
+    "('Open', 'HDFCLIFE.NS')":683.6104361563,
+    "('Volume', 'HDFCLIFE.NS')":3054715
+  },
+  {
+    "('Date', '')":"2025-04-11",
+    "('Close', 'HDFCLIFE.NS')":683.6602783203,
+    "('High', 'HDFCLIFE.NS')":688.4969458796,
+    "('Low', 'HDFCLIFE.NS')":680.2696868955,
+    "('Open', 'HDFCLIFE.NS')":681.516241287,
+    "('Volume', 'HDFCLIFE.NS')":3264303
+  },
+  {
+    "('Date', '')":"2025-04-15",
+    "('Close', 'HDFCLIFE.NS')":702.7575073242,
+    "('High', 'HDFCLIFE.NS')":705.5497769536,
+    "('Low', 'HDFCLIFE.NS')":688.3971765631,
+    "('Open', 'HDFCLIFE.NS')":689.2448700591,
+    "('Volume', 'HDFCLIFE.NS')":2306442
+  },
+  {
+    "('Date', '')":"2025-04-16",
+    "('Close', 'HDFCLIFE.NS')":714.0762329102,
+    "('High', 'HDFCLIFE.NS')":719.36161156,
+    "('Low', 'HDFCLIFE.NS')":698.2699469649,
+    "('Open', 'HDFCLIFE.NS')":698.2699469649,
+    "('Volume', 'HDFCLIFE.NS')":3452538
+  },
+  {
+    "('Date', '')":"2025-04-17",
+    "('Close', 'HDFCLIFE.NS')":718.0651855469,
+    "('High', 'HDFCLIFE.NS')":721.7549987501,
+    "('Low', 'HDFCLIFE.NS')":707.5941285702,
+    "('Open', 'HDFCLIFE.NS')":714.0762114605,
+    "('Volume', 'HDFCLIFE.NS')":3105731
+  },
+  {
+    "('Date', '')":"2025-04-21",
+    "('Close', 'HDFCLIFE.NS')":710.2368774414,
+    "('High', 'HDFCLIFE.NS')":723.001582869,
+    "('Low', 'HDFCLIFE.NS')":701.6605462831,
+    "('Open', 'HDFCLIFE.NS')":723.001582869,
+    "('Volume', 'HDFCLIFE.NS')":6168127
+  },
+  {
+    "('Date', '')":"2025-04-22",
+    "('Close', 'HDFCLIFE.NS')":710.5858764648,
+    "('High', 'HDFCLIFE.NS')":719.8602292684,
+    "('Low', 'HDFCLIFE.NS')":706.5969022812,
+    "('Open', 'HDFCLIFE.NS')":716.0208659634,
+    "('Volume', 'HDFCLIFE.NS')":2669384
+  },
+  {
+    "('Date', '')":"2025-04-23",
+    "('Close', 'HDFCLIFE.NS')":707.1453857422,
+    "('High', 'HDFCLIFE.NS')":713.92669066,
+    "('Low', 'HDFCLIFE.NS')":703.1564114926,
+    "('Open', 'HDFCLIFE.NS')":713.4280688788,
+    "('Volume', 'HDFCLIFE.NS')":2091384
+  },
+  {
+    "('Date', '')":"2025-04-24",
+    "('Close', 'HDFCLIFE.NS')":706.4473266602,
+    "('High', 'HDFCLIFE.NS')":714.0263529876,
+    "('Low', 'HDFCLIFE.NS')":703.0566743802,
+    "('Open', 'HDFCLIFE.NS')":711.0346224583,
+    "('Volume', 'HDFCLIFE.NS')":3814638
+  },
+  {
+    "('Date', '')":"2025-04-25",
+    "('Close', 'HDFCLIFE.NS')":702.6079101562,
+    "('High', 'HDFCLIFE.NS')":731.4781222465,
+    "('Low', 'HDFCLIFE.NS')":690.7407487831,
+    "('Open', 'HDFCLIFE.NS')":709.4889147941,
+    "('Volume', 'HDFCLIFE.NS')":3714671
+  },
+  {
+    "('Date', '')":"2025-04-28",
+    "('Close', 'HDFCLIFE.NS')":708.8905639648,
+    "('High', 'HDFCLIFE.NS')":712.5305273245,
+    "('Low', 'HDFCLIFE.NS')":696.1757085087,
+    "('Open', 'HDFCLIFE.NS')":700.7630654287,
+    "('Volume', 'HDFCLIFE.NS')":1944250
+  },
+  {
+    "('Date', '')":"2025-04-29",
+    "('Close', 'HDFCLIFE.NS')":713.0789794922,
+    "('High', 'HDFCLIFE.NS')":717.0181036397,
+    "('Low', 'HDFCLIFE.NS')":705.0511811867,
+    "('Open', 'HDFCLIFE.NS')":713.9266730194,
+    "('Volume', 'HDFCLIFE.NS')":2545118
+  },
+  {
+    "('Date', '')":"2025-04-30",
+    "('Close', 'HDFCLIFE.NS')":741.6500244141,
+    "('High', 'HDFCLIFE.NS')":747.7331855919,
+    "('Low', 'HDFCLIFE.NS')":710.1370923893,
+    "('Open', 'HDFCLIFE.NS')":710.1370923893,
+    "('Volume', 'HDFCLIFE.NS')":8732964
+  },
+  {
+    "('Date', '')":"2025-05-02",
+    "('Close', 'HDFCLIFE.NS')":727.1401367188,
+    "('High', 'HDFCLIFE.NS')":747.2844071227,
+    "('Low', 'HDFCLIFE.NS')":725.3450496898,
+    "('Open', 'HDFCLIFE.NS')":741.6500177567,
+    "('Volume', 'HDFCLIFE.NS')":2512684
+  },
+  {
+    "('Date', '')":"2025-05-05",
+    "('Close', 'HDFCLIFE.NS')":736.86328125,
+    "('High', 'HDFCLIFE.NS')":739.3064792467,
+    "('Low', 'HDFCLIFE.NS')":725.2952195843,
+    "('Open', 'HDFCLIFE.NS')":728.0874893426,
+    "('Volume', 'HDFCLIFE.NS')":2761798
+  },
+  {
+    "('Date', '')":"2025-05-06",
+    "('Close', 'HDFCLIFE.NS')":720.6081542969,
+    "('High', 'HDFCLIFE.NS')":740.6029358742,
+    "('Low', 'HDFCLIFE.NS')":716.8186410359,
+    "('Open', 'HDFCLIFE.NS')":736.8632726166,
+    "('Volume', 'HDFCLIFE.NS')":1498360
+  },
+  {
+    "('Date', '')":"2025-05-07",
+    "('Close', 'HDFCLIFE.NS')":721.9046020508,
+    "('High', 'HDFCLIFE.NS')":726.8409087373,
+    "('Low', 'HDFCLIFE.NS')":716.0208409884,
+    "('Open', 'HDFCLIFE.NS')":717.0180844995,
+    "('Volume', 'HDFCLIFE.NS')":1657343
+  },
+  {
+    "('Date', '')":"2025-05-08",
+    "('Close', 'HDFCLIFE.NS')":720.9572143555,
+    "('High', 'HDFCLIFE.NS')":724.1982557928,
+    "('Low', 'HDFCLIFE.NS')":713.5277379643,
+    "('Open', 'HDFCLIFE.NS')":716.5194685218,
+    "('Volume', 'HDFCLIFE.NS')":3057761
+  },
+  {
+    "('Date', '')":"2025-05-09",
+    "('Close', 'HDFCLIFE.NS')":711.6329345703,
+    "('High', 'HDFCLIFE.NS')":715.0235868043,
+    "('Low', 'HDFCLIFE.NS')":706.4473170834,
+    "('Open', 'HDFCLIFE.NS')":707.0456388344,
+    "('Volume', 'HDFCLIFE.NS')":3210705
+  },
+  {
+    "('Date', '')":"2025-05-12",
+    "('Close', 'HDFCLIFE.NS')":732.5750732422,
+    "('High', 'HDFCLIFE.NS')":734.9684820624,
+    "('Low', 'HDFCLIFE.NS')":718.015342042,
+    "('Open', 'HDFCLIFE.NS')":718.015342042,
+    "('Volume', 'HDFCLIFE.NS')":1488045
+  },
+  {
+    "('Date', '')":"2025-05-13",
+    "('Close', 'HDFCLIFE.NS')":733.0238647461,
+    "('High', 'HDFCLIFE.NS')":740.3536414137,
+    "('Low', 'HDFCLIFE.NS')":730.1318949496,
+    "('Open', 'HDFCLIFE.NS')":733.3729365114,
+    "('Volume', 'HDFCLIFE.NS')":1445358
+  },
+  {
+    "('Date', '')":"2025-05-14",
+    "('Close', 'HDFCLIFE.NS')":739.6555175781,
+    "('High', 'HDFCLIFE.NS')":747.932626471,
+    "('Low', 'HDFCLIFE.NS')":732.1263413117,
+    "('Open', 'HDFCLIFE.NS')":737.9601914514,
+    "('Volume', 'HDFCLIFE.NS')":2058831
+  },
+  {
+    "('Date', '')":"2025-05-15",
+    "('Close', 'HDFCLIFE.NS')":749.1293334961,
+    "('High', 'HDFCLIFE.NS')":751.5226813891,
+    "('Low', 'HDFCLIFE.NS')":731.9767330283,
+    "('Open', 'HDFCLIFE.NS')":741.0017745796,
+    "('Volume', 'HDFCLIFE.NS')":3338741
+  },
+  {
+    "('Date', '')":"2025-05-16",
+    "('Close', 'HDFCLIFE.NS')":748.4811401367,
+    "('High', 'HDFCLIFE.NS')":751.9216425845,
+    "('Low', 'HDFCLIFE.NS')":744.9907876844,
+    "('Open', 'HDFCLIFE.NS')":747.9326683533,
+    "('Volume', 'HDFCLIFE.NS')":1426234
+  },
+  {
+    "('Date', '')":"2025-05-19",
+    "('Close', 'HDFCLIFE.NS')":748.880065918,
+    "('High', 'HDFCLIFE.NS')":753.9161337385,
+    "('Low', 'HDFCLIFE.NS')":744.2927090073,
+    "('Open', 'HDFCLIFE.NS')":744.9409416702,
+    "('Volume', 'HDFCLIFE.NS')":1187450
+  },
+  {
+    "('Date', '')":"2025-05-20",
+    "('Close', 'HDFCLIFE.NS')":744.9907836914,
+    "('High', 'HDFCLIFE.NS')":755.5616018676,
+    "('Low', 'HDFCLIFE.NS')":743.6943792466,
+    "('Open', 'HDFCLIFE.NS')":746.4866490201,
+    "('Volume', 'HDFCLIFE.NS')":2191829
+  },
+  {
+    "('Date', '')":"2025-05-21",
+    "('Close', 'HDFCLIFE.NS')":757.6058959961,
+    "('High', 'HDFCLIFE.NS')":758.9023003674,
+    "('Low', 'HDFCLIFE.NS')":743.9436479291,
+    "('Open', 'HDFCLIFE.NS')":745.9381349209,
+    "('Volume', 'HDFCLIFE.NS')":1928533
+  },
+  {
+    "('Date', '')":"2025-05-22",
+    "('Close', 'HDFCLIFE.NS')":753.7664794922,
+    "('High', 'HDFCLIFE.NS')":759.9494014014,
+    "('Low', 'HDFCLIFE.NS')":750.1265772163,
+    "('Open', 'HDFCLIFE.NS')":757.6059035096,
+    "('Volume', 'HDFCLIFE.NS')":2391952
+  },
+  {
+    "('Date', '')":"2025-05-23",
+    "('Close', 'HDFCLIFE.NS')":778.248840332,
+    "('High', 'HDFCLIFE.NS')":779.1961729496,
+    "('Low', 'HDFCLIFE.NS')":749.9769510016,
+    "('Open', 'HDFCLIFE.NS')":753.7166140717,
+    "('Volume', 'HDFCLIFE.NS')":4511523
+  },
+  {
+    "('Date', '')":"2025-05-26",
+    "('Close', 'HDFCLIFE.NS')":777.8499755859,
+    "('High', 'HDFCLIFE.NS')":783.9830478171,
+    "('Low', 'HDFCLIFE.NS')":775.5563275749,
+    "('Open', 'HDFCLIFE.NS')":782.1381107139,
+    "('Volume', 'HDFCLIFE.NS')":2343463
+  },
+  {
+    "('Date', '')":"2025-05-27",
+    "('Close', 'HDFCLIFE.NS')":773.6614990234,
+    "('High', 'HDFCLIFE.NS')":779.0466382973,
+    "('Low', 'HDFCLIFE.NS')":767.5783379896,
+    "('Open', 'HDFCLIFE.NS')":777.8499339179,
+    "('Volume', 'HDFCLIFE.NS')":3472288
+  },
+  {
+    "('Date', '')":"2025-05-28",
+    "('Close', 'HDFCLIFE.NS')":787.2739257812,
+    "('High', 'HDFCLIFE.NS')":788.5703302114,
+    "('Low', 'HDFCLIFE.NS')":773.9108379823,
+    "('Open', 'HDFCLIFE.NS')":777.6505012618,
+    "('Volume', 'HDFCLIFE.NS')":4163057
+  },
+  {
+    "('Date', '')":"2025-05-29",
+    "('Close', 'HDFCLIFE.NS')":778.7474975586,
+    "('High', 'HDFCLIFE.NS')":788.9193328794,
+    "('Low', 'HDFCLIFE.NS')":776.5036996143,
+    "('Open', 'HDFCLIFE.NS')":785.8279022806,
+    "('Volume', 'HDFCLIFE.NS')":2916417
+  },
+  {
+    "('Date', '')":"2025-05-30",
+    "('Close', 'HDFCLIFE.NS')":774.7086181641,
+    "('High', 'HDFCLIFE.NS')":784.5813535372,
+    "('Low', 'HDFCLIFE.NS')":773.212752857,
+    "('Open', 'HDFCLIFE.NS')":778.7475031866,
+    "('Volume', 'HDFCLIFE.NS')":3184086
+  },
+  {
+    "('Date', '')":"2025-06-02",
+    "('Close', 'HDFCLIFE.NS')":764.5866088867,
+    "('High', 'HDFCLIFE.NS')":780.3430441218,
+    "('Low', 'HDFCLIFE.NS')":760.3981739845,
+    "('Open', 'HDFCLIFE.NS')":769.622676423,
+    "('Volume', 'HDFCLIFE.NS')":3456222
+  },
+  {
+    "('Date', '')":"2025-06-03",
+    "('Close', 'HDFCLIFE.NS')":755.8109130859,
+    "('High', 'HDFCLIFE.NS')":766.3816703999,
+    "('Low', 'HDFCLIFE.NS')":744.9409340126,
+    "('Open', 'HDFCLIFE.NS')":746.3370993334,
+    "('Volume', 'HDFCLIFE.NS')":3357675
+  },
+  {
+    "('Date', '')":"2025-06-04",
+    "('Close', 'HDFCLIFE.NS')":756.7083740234,
+    "('High', 'HDFCLIFE.NS')":764.2874613278,
+    "('Low', 'HDFCLIFE.NS')":751.9216172804,
+    "('Open', 'HDFCLIFE.NS')":751.9216172804,
+    "('Volume', 'HDFCLIFE.NS')":2322495
+  },
+  {
+    "('Date', '')":"2025-06-05",
+    "('Close', 'HDFCLIFE.NS')":759.5006713867,
+    "('High', 'HDFCLIFE.NS')":766.032665402,
+    "('Low', 'HDFCLIFE.NS')":753.417510014,
+    "('Open', 'HDFCLIFE.NS')":756.907862476,
+    "('Volume', 'HDFCLIFE.NS')":1638871
+  },
+  {
+    "('Date', '')":"2025-06-06",
+    "('Close', 'HDFCLIFE.NS')":753.0185546875,
+    "('High', 'HDFCLIFE.NS')":762.2929680811,
+    "('Low', 'HDFCLIFE.NS')":748.4811088625,
+    "('Open', 'HDFCLIFE.NS')":762.2929680811,
+    "('Volume', 'HDFCLIFE.NS')":1215092
+  },
+  {
+    "('Date', '')":"2025-06-09",
+    "('Close', 'HDFCLIFE.NS')":758.3040161133,
+    "('High', 'HDFCLIFE.NS')":763.7389447411,
+    "('Low', 'HDFCLIFE.NS')":742.9962911744,
+    "('Open', 'HDFCLIFE.NS')":753.0185766302,
+    "('Volume', 'HDFCLIFE.NS')":3151657
+  },
+  {
+    "('Date', '')":"2025-06-10",
+    "('Close', 'HDFCLIFE.NS')":760.3483276367,
+    "('High', 'HDFCLIFE.NS')":763.4896081783,
+    "('Low', 'HDFCLIFE.NS')":748.1320946189,
+    "('Open', 'HDFCLIFE.NS')":762.0436537799,
+    "('Volume', 'HDFCLIFE.NS')":2167862
+  },
+  {
+    "('Date', '')":"2025-06-11",
+    "('Close', 'HDFCLIFE.NS')":762.0935058594,
+    "('High', 'HDFCLIFE.NS')":770.1213039767,
+    "('Low', 'HDFCLIFE.NS')":758.1543818042,
+    "('Open', 'HDFCLIFE.NS')":760.0990188306,
+    "('Volume', 'HDFCLIFE.NS')":1530367
+  },
+  {
+    "('Date', '')":"2025-06-12",
+    "('Close', 'HDFCLIFE.NS')":752.4202270508,
+    "('High', 'HDFCLIFE.NS')":766.8802579219,
+    "('Low', 'HDFCLIFE.NS')":750.5753509071,
+    "('Open', 'HDFCLIFE.NS')":762.9909838925,
+    "('Volume', 'HDFCLIFE.NS')":1600355
+  },
+  {
+    "('Date', '')":"2025-06-13",
+    "('Close', 'HDFCLIFE.NS')":750.7747802734,
+    "('High', 'HDFCLIFE.NS')":751.8717846957,
+    "('Low', 'HDFCLIFE.NS')":738.2095359236,
+    "('Open', 'HDFCLIFE.NS')":741.8494992182,
+    "('Volume', 'HDFCLIFE.NS')":1490695
+  },
+  {
+    "('Date', '')":"2025-06-16",
+    "('Close', 'HDFCLIFE.NS')":768.4259643555,
+    "('High', 'HDFCLIFE.NS')":771.1683839719,
+    "('Low', 'HDFCLIFE.NS')":748.0323226707,
+    "('Open', 'HDFCLIFE.NS')":748.7802552933,
+    "('Volume', 'HDFCLIFE.NS')":2304692
+  },
+  {
+    "('Date', '')":"2025-06-17",
+    "('Close', 'HDFCLIFE.NS')":771.8166503906,
+    "('High', 'HDFCLIFE.NS')":775.7058636787,
+    "('Low', 'HDFCLIFE.NS')":764.2874738328,
+    "('Open', 'HDFCLIFE.NS')":771.766800387,
+    "('Volume', 'HDFCLIFE.NS')":1899985
+  },
+  {
+    "('Date', '')":"2025-06-18",
+    "('Close', 'HDFCLIFE.NS')":764.0880126953,
+    "('High', 'HDFCLIFE.NS')":772.3152719022,
+    "('Low', 'HDFCLIFE.NS')":762.8913082737,
+    "('Open', 'HDFCLIFE.NS')":771.8665001357,
+    "('Volume', 'HDFCLIFE.NS')":1059077
+  },
+  {
+    "('Date', '')":"2025-06-19",
+    "('Close', 'HDFCLIFE.NS')":759.7499389648,
+    "('High', 'HDFCLIFE.NS')":765.8331608577,
+    "('Low', 'HDFCLIFE.NS')":751.6224409296,
+    "('Open', 'HDFCLIFE.NS')":763.8885238521,
+    "('Volume', 'HDFCLIFE.NS')":3059158
+  },
+  {
+    "('Date', '')":"2025-06-20",
+    "('Close', 'HDFCLIFE.NS')":778.950012207,
+    "('High', 'HDFCLIFE.NS')":781.200012207,
+    "('Low', 'HDFCLIFE.NS')":758.0,
+    "('Open', 'HDFCLIFE.NS')":760.799987793,
+    "('Volume', 'HDFCLIFE.NS')":5256299
+  },
+  {
+    "('Date', '')":"2025-06-23",
+    "('Close', 'HDFCLIFE.NS')":774.1500244141,
+    "('High', 'HDFCLIFE.NS')":784.0,
+    "('Low', 'HDFCLIFE.NS')":769.0,
+    "('Open', 'HDFCLIFE.NS')":769.950012207,
+    "('Volume', 'HDFCLIFE.NS')":1848140
+  },
+  {
+    "('Date', '')":"2025-06-24",
+    "('Close', 'HDFCLIFE.NS')":779.700012207,
+    "('High', 'HDFCLIFE.NS')":787.049987793,
+    "('Low', 'HDFCLIFE.NS')":777.299987793,
+    "('Open', 'HDFCLIFE.NS')":779.5,
+    "('Volume', 'HDFCLIFE.NS')":1965197
+  },
+  {
+    "('Date', '')":"2025-06-25",
+    "('Close', 'HDFCLIFE.NS')":785.0999755859,
+    "('High', 'HDFCLIFE.NS')":787.6500244141,
+    "('Low', 'HDFCLIFE.NS')":778.549987793,
+    "('Open', 'HDFCLIFE.NS')":780.049987793,
+    "('Volume', 'HDFCLIFE.NS')":2733266
+  },
+  {
+    "('Date', '')":"2025-06-26",
+    "('Close', 'HDFCLIFE.NS')":799.450012207,
+    "('High', 'HDFCLIFE.NS')":802.1500244141,
+    "('Low', 'HDFCLIFE.NS')":785.5999755859,
+    "('Open', 'HDFCLIFE.NS')":789.0,
+    "('Volume', 'HDFCLIFE.NS')":4290163
+  },
+  {
+    "('Date', '')":"2025-06-27",
+    "('Close', 'HDFCLIFE.NS')":806.950012207,
+    "('High', 'HDFCLIFE.NS')":811.200012207,
+    "('Low', 'HDFCLIFE.NS')":794.0,
+    "('Open', 'HDFCLIFE.NS')":801.0,
+    "('Volume', 'HDFCLIFE.NS')":17236651
+  },
+  {
+    "('Date', '')":"2025-06-30",
+    "('Close', 'HDFCLIFE.NS')":814.299987793,
+    "('High', 'HDFCLIFE.NS')":820.75,
+    "('Low', 'HDFCLIFE.NS')":801.549987793,
+    "('Open', 'HDFCLIFE.NS')":809.0,
+    "('Volume', 'HDFCLIFE.NS')":2971593
+  },
+  {
+    "('Date', '')":"2025-07-01",
+    "('Close', 'HDFCLIFE.NS')":809.9000244141,
+    "('High', 'HDFCLIFE.NS')":818.9000244141,
+    "('Low', 'HDFCLIFE.NS')":806.049987793,
+    "('Open', 'HDFCLIFE.NS')":814.299987793,
+    "('Volume', 'HDFCLIFE.NS')":2596888
+  },
+  {
+    "('Date', '')":"2025-07-02",
+    "('Close', 'HDFCLIFE.NS')":789.700012207,
+    "('High', 'HDFCLIFE.NS')":812.5999755859,
+    "('Low', 'HDFCLIFE.NS')":788.0,
+    "('Open', 'HDFCLIFE.NS')":808.5,
+    "('Volume', 'HDFCLIFE.NS')":3248677
+  },
+  {
+    "('Date', '')":"2025-07-03",
+    "('Close', 'HDFCLIFE.NS')":785.8499755859,
+    "('High', 'HDFCLIFE.NS')":789.049987793,
+    "('Low', 'HDFCLIFE.NS')":777.200012207,
+    "('Open', 'HDFCLIFE.NS')":788.950012207,
+    "('Volume', 'HDFCLIFE.NS')":3442861
+  },
+  {
+    "('Date', '')":"2025-07-04",
+    "('Close', 'HDFCLIFE.NS')":785.0999755859,
+    "('High', 'HDFCLIFE.NS')":788.799987793,
+    "('Low', 'HDFCLIFE.NS')":780.200012207,
+    "('Open', 'HDFCLIFE.NS')":783.9000244141,
+    "('Volume', 'HDFCLIFE.NS')":1536851
+  },
+  {
+    "('Date', '')":"2025-07-07",
+    "('Close', 'HDFCLIFE.NS')":789.450012207,
+    "('High', 'HDFCLIFE.NS')":792.75,
+    "('Low', 'HDFCLIFE.NS')":781.049987793,
+    "('Open', 'HDFCLIFE.NS')":781.049987793,
+    "('Volume', 'HDFCLIFE.NS')":2169992
+  },
+  {
+    "('Date', '')":"2025-07-08",
+    "('Close', 'HDFCLIFE.NS')":794.1500244141,
+    "('High', 'HDFCLIFE.NS')":796.5,
+    "('Low', 'HDFCLIFE.NS')":783.0999755859,
+    "('Open', 'HDFCLIFE.NS')":785.0,
+    "('Volume', 'HDFCLIFE.NS')":5033587
+  },
+  {
+    "('Date', '')":"2025-07-09",
+    "('Close', 'HDFCLIFE.NS')":786.299987793,
+    "('High', 'HDFCLIFE.NS')":797.950012207,
+    "('Low', 'HDFCLIFE.NS')":784.0,
+    "('Open', 'HDFCLIFE.NS')":792.0,
+    "('Volume', 'HDFCLIFE.NS')":2165913
+  },
+  {
+    "('Date', '')":"2025-07-10",
+    "('Close', 'HDFCLIFE.NS')":771.25,
+    "('High', 'HDFCLIFE.NS')":788.0,
+    "('Low', 'HDFCLIFE.NS')":763.4000244141,
+    "('Open', 'HDFCLIFE.NS')":783.0,
+    "('Volume', 'HDFCLIFE.NS')":2602721
+  },
+  {
+    "('Date', '')":"2025-07-11",
+    "('Close', 'HDFCLIFE.NS')":759.0,
+    "('High', 'HDFCLIFE.NS')":777.4000244141,
+    "('Low', 'HDFCLIFE.NS')":756.8499755859,
+    "('Open', 'HDFCLIFE.NS')":765.0,
+    "('Volume', 'HDFCLIFE.NS')":3508424
+  },
+  {
+    "('Date', '')":"2025-07-14",
+    "('Close', 'HDFCLIFE.NS')":764.75,
+    "('High', 'HDFCLIFE.NS')":767.450012207,
+    "('Low', 'HDFCLIFE.NS')":753.0,
+    "('Open', 'HDFCLIFE.NS')":755.200012207,
+    "('Volume', 'HDFCLIFE.NS')":1794592
+  },
+  {
+    "('Date', '')":"2025-07-15",
+    "('Close', 'HDFCLIFE.NS')":756.8499755859,
+    "('High', 'HDFCLIFE.NS')":770.299987793,
+    "('Low', 'HDFCLIFE.NS')":752.1500244141,
+    "('Open', 'HDFCLIFE.NS')":769.0,
+    "('Volume', 'HDFCLIFE.NS')":2842400
+  },
+  {
+    "('Date', '')":"2025-07-16",
+    "('Close', 'HDFCLIFE.NS')":755.950012207,
+    "('High', 'HDFCLIFE.NS')":776.9000244141,
+    "('Low', 'HDFCLIFE.NS')":754.799987793,
+    "('Open', 'HDFCLIFE.NS')":765.0,
+    "('Volume', 'HDFCLIFE.NS')":6273181
+  },
+  {
+    "('Date', '')":"2025-07-17",
+    "('Close', 'HDFCLIFE.NS')":751.799987793,
+    "('High', 'HDFCLIFE.NS')":760.700012207,
+    "('Low', 'HDFCLIFE.NS')":746.299987793,
+    "('Open', 'HDFCLIFE.NS')":759.6500244141,
+    "('Volume', 'HDFCLIFE.NS')":4378210
+  },
+  {
+    "('Date', '')":"2025-07-18",
+    "('Close', 'HDFCLIFE.NS')":739.5,
+    "('High', 'HDFCLIFE.NS')":757.0,
+    "('Low', 'HDFCLIFE.NS')":736.4000244141,
+    "('Open', 'HDFCLIFE.NS')":755.0,
+    "('Volume', 'HDFCLIFE.NS')":3450063
+  },
+  {
+    "('Date', '')":"2025-07-21",
+    "('Close', 'HDFCLIFE.NS')":752.299987793,
+    "('High', 'HDFCLIFE.NS')":753.5,
+    "('Low', 'HDFCLIFE.NS')":732.8499755859,
+    "('Open', 'HDFCLIFE.NS')":738.0,
+    "('Volume', 'HDFCLIFE.NS')":2073697
+  },
+  {
+    "('Date', '')":"2025-07-22",
+    "('Close', 'HDFCLIFE.NS')":763.299987793,
+    "('High', 'HDFCLIFE.NS')":768.549987793,
+    "('Low', 'HDFCLIFE.NS')":751.549987793,
+    "('Open', 'HDFCLIFE.NS')":752.0,
+    "('Volume', 'HDFCLIFE.NS')":4334529
+  },
+  {
+    "('Date', '')":"2025-07-23",
+    "('Close', 'HDFCLIFE.NS')":762.5,
+    "('High', 'HDFCLIFE.NS')":768.299987793,
+    "('Low', 'HDFCLIFE.NS')":758.0999755859,
+    "('Open', 'HDFCLIFE.NS')":765.0,
+    "('Volume', 'HDFCLIFE.NS')":1312711
+  },
+  {
+    "('Date', '')":"2025-07-24",
+    "('Close', 'HDFCLIFE.NS')":757.299987793,
+    "('High', 'HDFCLIFE.NS')":766.3499755859,
+    "('Low', 'HDFCLIFE.NS')":756.0,
+    "('Open', 'HDFCLIFE.NS')":762.0,
+    "('Volume', 'HDFCLIFE.NS')":1258684
+  },
+  {
+    "('Date', '')":"2025-07-25",
+    "('Close', 'HDFCLIFE.NS')":762.3499755859,
+    "('High', 'HDFCLIFE.NS')":766.5,
+    "('Low', 'HDFCLIFE.NS')":751.0999755859,
+    "('Open', 'HDFCLIFE.NS')":752.8499755859,
+    "('Volume', 'HDFCLIFE.NS')":1708286
+  },
+  {
+    "('Date', '')":"2025-07-28",
+    "('Close', 'HDFCLIFE.NS')":761.200012207,
+    "('High', 'HDFCLIFE.NS')":769.799987793,
+    "('Low', 'HDFCLIFE.NS')":756.549987793,
+    "('Open', 'HDFCLIFE.NS')":762.0,
+    "('Volume', 'HDFCLIFE.NS')":1509806
+  },
+  {
+    "('Date', '')":"2025-07-29",
+    "('Close', 'HDFCLIFE.NS')":756.3499755859,
+    "('High', 'HDFCLIFE.NS')":765.0,
+    "('Low', 'HDFCLIFE.NS')":755.0999755859,
+    "('Open', 'HDFCLIFE.NS')":762.0,
+    "('Volume', 'HDFCLIFE.NS')":1129341
+  },
+  {
+    "('Date', '')":"2025-07-30",
+    "('Close', 'HDFCLIFE.NS')":757.450012207,
+    "('High', 'HDFCLIFE.NS')":762.0,
+    "('Low', 'HDFCLIFE.NS')":750.0,
+    "('Open', 'HDFCLIFE.NS')":752.299987793,
+    "('Volume', 'HDFCLIFE.NS')":2011152
+  },
+  {
+    "('Date', '')":"2025-07-31",
+    "('Close', 'HDFCLIFE.NS')":755.5,
+    "('High', 'HDFCLIFE.NS')":761.25,
+    "('Low', 'HDFCLIFE.NS')":746.0,
+    "('Open', 'HDFCLIFE.NS')":746.0,
+    "('Volume', 'HDFCLIFE.NS')":1783473
+  },
+  {
+    "('Date', '')":"2025-08-01",
+    "('Close', 'HDFCLIFE.NS')":741.700012207,
+    "('High', 'HDFCLIFE.NS')":756.3499755859,
+    "('Low', 'HDFCLIFE.NS')":740.0999755859,
+    "('Open', 'HDFCLIFE.NS')":752.549987793,
+    "('Volume', 'HDFCLIFE.NS')":1697685
+  },
+  {
+    "('Date', '')":"2025-08-04",
+    "('Close', 'HDFCLIFE.NS')":739.799987793,
+    "('High', 'HDFCLIFE.NS')":747.549987793,
+    "('Low', 'HDFCLIFE.NS')":732.1500244141,
+    "('Open', 'HDFCLIFE.NS')":741.5,
+    "('Volume', 'HDFCLIFE.NS')":2555375
+  },
+  {
+    "('Date', '')":"2025-08-05",
+    "('Close', 'HDFCLIFE.NS')":738.5,
+    "('High', 'HDFCLIFE.NS')":742.25,
+    "('Low', 'HDFCLIFE.NS')":731.6500244141,
+    "('Open', 'HDFCLIFE.NS')":735.799987793,
+    "('Volume', 'HDFCLIFE.NS')":1988095
+  },
+  {
+    "('Date', '')":"2025-08-06",
+    "('Close', 'HDFCLIFE.NS')":752.549987793,
+    "('High', 'HDFCLIFE.NS')":755.0,
+    "('Low', 'HDFCLIFE.NS')":734.0999755859,
+    "('Open', 'HDFCLIFE.NS')":734.0999755859,
+    "('Volume', 'HDFCLIFE.NS')":1797969
+  },
+  {
+    "('Date', '')":"2025-08-07",
+    "('Close', 'HDFCLIFE.NS')":755.700012207,
+    "('High', 'HDFCLIFE.NS')":757.6500244141,
+    "('Low', 'HDFCLIFE.NS')":747.049987793,
+    "('Open', 'HDFCLIFE.NS')":747.049987793,
+    "('Volume', 'HDFCLIFE.NS')":1423219
+  },
+  {
+    "('Date', '')":"2025-08-08",
+    "('Close', 'HDFCLIFE.NS')":761.549987793,
+    "('High', 'HDFCLIFE.NS')":764.5,
+    "('Low', 'HDFCLIFE.NS')":756.0,
+    "('Open', 'HDFCLIFE.NS')":756.0,
+    "('Volume', 'HDFCLIFE.NS')":2210684
+  },
+  {
+    "('Date', '')":"2025-08-11",
+    "('Close', 'HDFCLIFE.NS')":764.75,
+    "('High', 'HDFCLIFE.NS')":765.8499755859,
+    "('Low', 'HDFCLIFE.NS')":753.700012207,
+    "('Open', 'HDFCLIFE.NS')":763.5,
+    "('Volume', 'HDFCLIFE.NS')":1719052
+  },
+  {
+    "('Date', '')":"2025-08-12",
+    "('Close', 'HDFCLIFE.NS')":766.200012207,
+    "('High', 'HDFCLIFE.NS')":772.950012207,
+    "('Low', 'HDFCLIFE.NS')":758.3499755859,
+    "('Open', 'HDFCLIFE.NS')":764.75,
+    "('Volume', 'HDFCLIFE.NS')":1996036
+  },
+  {
+    "('Date', '')":"2025-08-13",
+    "('Close', 'HDFCLIFE.NS')":776.5999755859,
+    "('High', 'HDFCLIFE.NS')":783.700012207,
+    "('Low', 'HDFCLIFE.NS')":763.5999755859,
+    "('Open', 'HDFCLIFE.NS')":765.8499755859,
+    "('Volume', 'HDFCLIFE.NS')":1720968
+  },
+  {
+    "('Date', '')":"2025-08-14",
+    "('Close', 'HDFCLIFE.NS')":788.75,
+    "('High', 'HDFCLIFE.NS')":790.75,
+    "('Low', 'HDFCLIFE.NS')":777.950012207,
+    "('Open', 'HDFCLIFE.NS')":778.75,
+    "('Volume', 'HDFCLIFE.NS')":2861621
+  },
+  {
+    "('Date', '')":"2025-08-18",
+    "('Close', 'HDFCLIFE.NS')":791.0,
+    "('High', 'HDFCLIFE.NS')":815.0,
+    "('Low', 'HDFCLIFE.NS')":789.0999755859,
+    "('Open', 'HDFCLIFE.NS')":809.0,
+    "('Volume', 'HDFCLIFE.NS')":3954373
+  },
+  {
+    "('Date', '')":"2025-08-19",
+    "('Close', 'HDFCLIFE.NS')":793.75,
+    "('High', 'HDFCLIFE.NS')":796.0999755859,
+    "('Low', 'HDFCLIFE.NS')":785.200012207,
+    "('Open', 'HDFCLIFE.NS')":791.799987793,
+    "('Volume', 'HDFCLIFE.NS')":1531303
+  },
+  {
+    "('Date', '')":"2025-08-20",
+    "('Close', 'HDFCLIFE.NS')":796.549987793,
+    "('High', 'HDFCLIFE.NS')":801.8499755859,
+    "('Low', 'HDFCLIFE.NS')":792.5999755859,
+    "('Open', 'HDFCLIFE.NS')":793.049987793,
+    "('Volume', 'HDFCLIFE.NS')":1097339
+  },
+  {
+    "('Date', '')":"2025-08-21",
+    "('Close', 'HDFCLIFE.NS')":795.450012207,
+    "('High', 'HDFCLIFE.NS')":807.0,
+    "('Low', 'HDFCLIFE.NS')":791.4000244141,
+    "('Open', 'HDFCLIFE.NS')":792.5,
+    "('Volume', 'HDFCLIFE.NS')":2142925
+  },
+  {
+    "('Date', '')":"2025-08-22",
+    "('Close', 'HDFCLIFE.NS')":788.75,
+    "('High', 'HDFCLIFE.NS')":795.0,
+    "('Low', 'HDFCLIFE.NS')":786.5999755859,
+    "('Open', 'HDFCLIFE.NS')":793.799987793,
+    "('Volume', 'HDFCLIFE.NS')":1331814
+  },
+  {
+    "('Date', '')":"2025-08-25",
+    "('Close', 'HDFCLIFE.NS')":787.0,
+    "('High', 'HDFCLIFE.NS')":791.950012207,
+    "('Low', 'HDFCLIFE.NS')":785.3499755859,
+    "('Open', 'HDFCLIFE.NS')":788.75,
+    "('Volume', 'HDFCLIFE.NS')":2326398
+  },
+  {
+    "('Date', '')":"2025-08-26",
+    "('Close', 'HDFCLIFE.NS')":776.5999755859,
+    "('High', 'HDFCLIFE.NS')":792.0,
+    "('Low', 'HDFCLIFE.NS')":770.5,
+    "('Open', 'HDFCLIFE.NS')":786.049987793,
+    "('Volume', 'HDFCLIFE.NS')":5054056
+  },
+  {
+    "('Date', '')":"2025-08-28",
+    "('Close', 'HDFCLIFE.NS')":775.3499755859,
+    "('High', 'HDFCLIFE.NS')":788.9000244141,
+    "('Low', 'HDFCLIFE.NS')":771.0,
+    "('Open', 'HDFCLIFE.NS')":775.5,
+    "('Volume', 'HDFCLIFE.NS')":2892634
+  },
+  {
+    "('Date', '')":"2025-08-29",
+    "('Close', 'HDFCLIFE.NS')":772.049987793,
+    "('High', 'HDFCLIFE.NS')":778.450012207,
+    "('Low', 'HDFCLIFE.NS')":766.6500244141,
+    "('Open', 'HDFCLIFE.NS')":776.0,
+    "('Volume', 'HDFCLIFE.NS')":1865283
+  },
+  {
+    "('Date', '')":"2025-09-01",
+    "('Close', 'HDFCLIFE.NS')":781.799987793,
+    "('High', 'HDFCLIFE.NS')":785.0,
+    "('Low', 'HDFCLIFE.NS')":771.5,
+    "('Open', 'HDFCLIFE.NS')":772.049987793,
+    "('Volume', 'HDFCLIFE.NS')":2218344
+  },
+  {
+    "('Date', '')":"2025-09-02",
+    "('Close', 'HDFCLIFE.NS')":782.75,
+    "('High', 'HDFCLIFE.NS')":795.75,
+    "('Low', 'HDFCLIFE.NS')":777.25,
+    "('Open', 'HDFCLIFE.NS')":780.0,
+    "('Volume', 'HDFCLIFE.NS')":2957512
+  },
+  {
+    "('Date', '')":"2025-09-03",
+    "('Close', 'HDFCLIFE.NS')":776.450012207,
+    "('High', 'HDFCLIFE.NS')":787.5,
+    "('Low', 'HDFCLIFE.NS')":770.700012207,
+    "('Open', 'HDFCLIFE.NS')":783.0,
+    "('Volume', 'HDFCLIFE.NS')":1879623
+  },
+  {
+    "('Date', '')":"2025-09-04",
+    "('Close', 'HDFCLIFE.NS')":754.25,
+    "('High', 'HDFCLIFE.NS')":803.0,
+    "('Low', 'HDFCLIFE.NS')":750.049987793,
+    "('Open', 'HDFCLIFE.NS')":803.0,
+    "('Volume', 'HDFCLIFE.NS')":10041489
+  },
+  {
+    "('Date', '')":"2025-09-05",
+    "('Close', 'HDFCLIFE.NS')":759.549987793,
+    "('High', 'HDFCLIFE.NS')":773.0,
+    "('Low', 'HDFCLIFE.NS')":753.4000244141,
+    "('Open', 'HDFCLIFE.NS')":764.0,
+    "('Volume', 'HDFCLIFE.NS')":3234619
+  },
+  {
+    "('Date', '')":"2025-09-08",
+    "('Close', 'HDFCLIFE.NS')":753.75,
+    "('High', 'HDFCLIFE.NS')":763.200012207,
+    "('Low', 'HDFCLIFE.NS')":748.5,
+    "('Open', 'HDFCLIFE.NS')":762.299987793,
+    "('Volume', 'HDFCLIFE.NS')":3455695
+  },
+  {
+    "('Date', '')":"2025-09-09",
+    "('Close', 'HDFCLIFE.NS')":761.0999755859,
+    "('High', 'HDFCLIFE.NS')":762.9000244141,
+    "('Low', 'HDFCLIFE.NS')":752.3499755859,
+    "('Open', 'HDFCLIFE.NS')":755.0,
+    "('Volume', 'HDFCLIFE.NS')":2393107
+  },
+  {
+    "('Date', '')":"2025-09-10",
+    "('Close', 'HDFCLIFE.NS')":777.5999755859,
+    "('High', 'HDFCLIFE.NS')":778.6500244141,
+    "('Low', 'HDFCLIFE.NS')":760.0,
+    "('Open', 'HDFCLIFE.NS')":763.0,
+    "('Volume', 'HDFCLIFE.NS')":2301647
+  },
+  {
+    "('Date', '')":"2025-09-11",
+    "('Close', 'HDFCLIFE.NS')":774.25,
+    "('High', 'HDFCLIFE.NS')":779.299987793,
+    "('Low', 'HDFCLIFE.NS')":771.200012207,
+    "('Open', 'HDFCLIFE.NS')":777.950012207,
+    "('Volume', 'HDFCLIFE.NS')":1238513
+  },
+  {
+    "('Date', '')":"2025-09-12",
+    "('Close', 'HDFCLIFE.NS')":779.6500244141,
+    "('High', 'HDFCLIFE.NS')":781.450012207,
+    "('Low', 'HDFCLIFE.NS')":770.1500244141,
+    "('Open', 'HDFCLIFE.NS')":775.700012207,
+    "('Volume', 'HDFCLIFE.NS')":2259316
+  },
+  {
+    "('Date', '')":"2025-09-15",
+    "('Close', 'HDFCLIFE.NS')":777.200012207,
+    "('High', 'HDFCLIFE.NS')":780.0,
+    "('Low', 'HDFCLIFE.NS')":771.5999755859,
+    "('Open', 'HDFCLIFE.NS')":775.0,
+    "('Volume', 'HDFCLIFE.NS')":1362719
+  },
+  {
+    "('Date', '')":"2025-09-16",
+    "('Close', 'HDFCLIFE.NS')":774.3499755859,
+    "('High', 'HDFCLIFE.NS')":781.5999755859,
+    "('Low', 'HDFCLIFE.NS')":770.0999755859,
+    "('Open', 'HDFCLIFE.NS')":776.8499755859,
+    "('Volume', 'HDFCLIFE.NS')":1758601
+  },
+  {
+    "('Date', '')":"2025-09-17",
+    "('Close', 'HDFCLIFE.NS')":768.049987793,
+    "('High', 'HDFCLIFE.NS')":776.950012207,
+    "('Low', 'HDFCLIFE.NS')":762.799987793,
+    "('Open', 'HDFCLIFE.NS')":775.049987793,
+    "('Volume', 'HDFCLIFE.NS')":2329049
+  },
+  {
+    "('Date', '')":"2025-09-18",
+    "('Close', 'HDFCLIFE.NS')":784.5999755859,
+    "('High', 'HDFCLIFE.NS')":789.6500244141,
+    "('Low', 'HDFCLIFE.NS')":766.200012207,
+    "('Open', 'HDFCLIFE.NS')":766.200012207,
+    "('Volume', 'HDFCLIFE.NS')":4824420
+  },
+  {
+    "('Date', '')":"2025-09-19",
+    "('Close', 'HDFCLIFE.NS')":782.200012207,
+    "('High', 'HDFCLIFE.NS')":793.6500244141,
+    "('Low', 'HDFCLIFE.NS')":780.5,
+    "('Open', 'HDFCLIFE.NS')":786.799987793,
+    "('Volume', 'HDFCLIFE.NS')":3634175
+  },
+  {
+    "('Date', '')":"2025-09-22",
+    "('Close', 'HDFCLIFE.NS')":787.799987793,
+    "('High', 'HDFCLIFE.NS')":796.9000244141,
+    "('Low', 'HDFCLIFE.NS')":783.5,
+    "('Open', 'HDFCLIFE.NS')":786.799987793,
+    "('Volume', 'HDFCLIFE.NS')":1976223
+  },
+  {
+    "('Date', '')":"2025-09-23",
+    "('Close', 'HDFCLIFE.NS')":775.049987793,
+    "('High', 'HDFCLIFE.NS')":791.5,
+    "('Low', 'HDFCLIFE.NS')":774.0,
+    "('Open', 'HDFCLIFE.NS')":787.450012207,
+    "('Volume', 'HDFCLIFE.NS')":2220802
+  },
+  {
+    "('Date', '')":"2025-09-24",
+    "('Close', 'HDFCLIFE.NS')":770.25,
+    "('High', 'HDFCLIFE.NS')":775.5999755859,
+    "('Low', 'HDFCLIFE.NS')":768.049987793,
+    "('Open', 'HDFCLIFE.NS')":771.25,
+    "('Volume', 'HDFCLIFE.NS')":1102305
+  },
+  {
+    "('Date', '')":"2025-09-25",
+    "('Close', 'HDFCLIFE.NS')":765.049987793,
+    "('High', 'HDFCLIFE.NS')":769.950012207,
+    "('Low', 'HDFCLIFE.NS')":758.75,
+    "('Open', 'HDFCLIFE.NS')":768.0,
+    "('Volume', 'HDFCLIFE.NS')":2080916
+  },
+  {
+    "('Date', '')":"2025-09-26",
+    "('Close', 'HDFCLIFE.NS')":764.4000244141,
+    "('High', 'HDFCLIFE.NS')":775.450012207,
+    "('Low', 'HDFCLIFE.NS')":762.200012207,
+    "('Open', 'HDFCLIFE.NS')":766.5999755859,
+    "('Volume', 'HDFCLIFE.NS')":2956314
+  },
+  {
+    "('Date', '')":"2025-09-29",
+    "('Close', 'HDFCLIFE.NS')":756.5999755859,
+    "('High', 'HDFCLIFE.NS')":768.950012207,
+    "('Low', 'HDFCLIFE.NS')":754.4000244141,
+    "('Open', 'HDFCLIFE.NS')":762.0,
+    "('Volume', 'HDFCLIFE.NS')":3463773
+  },
+  {
+    "('Date', '')":"2025-09-30",
+    "('Close', 'HDFCLIFE.NS')":756.450012207,
+    "('High', 'HDFCLIFE.NS')":761.6500244141,
+    "('Low', 'HDFCLIFE.NS')":750.5999755859,
+    "('Open', 'HDFCLIFE.NS')":757.0,
+    "('Volume', 'HDFCLIFE.NS')":3435577
+  },
+  {
+    "('Date', '')":"2025-10-01",
+    "('Close', 'HDFCLIFE.NS')":764.0,
+    "('High', 'HDFCLIFE.NS')":766.75,
+    "('Low', 'HDFCLIFE.NS')":748.950012207,
+    "('Open', 'HDFCLIFE.NS')":753.200012207,
+    "('Volume', 'HDFCLIFE.NS')":1540724
+  },
+  {
+    "('Date', '')":"2025-10-03",
+    "('Close', 'HDFCLIFE.NS')":759.200012207,
+    "('High', 'HDFCLIFE.NS')":767.1500244141,
+    "('Low', 'HDFCLIFE.NS')":754.950012207,
+    "('Open', 'HDFCLIFE.NS')":756.6500244141,
+    "('Volume', 'HDFCLIFE.NS')":5421803
+  },
+  {
+    "('Date', '')":"2025-10-06",
+    "('Close', 'HDFCLIFE.NS')":763.049987793,
+    "('High', 'HDFCLIFE.NS')":764.700012207,
+    "('Low', 'HDFCLIFE.NS')":752.6500244141,
+    "('Open', 'HDFCLIFE.NS')":755.200012207,
+    "('Volume', 'HDFCLIFE.NS')":1323764
+  },
+  {
+    "('Date', '')":"2025-10-07",
+    "('Close', 'HDFCLIFE.NS')":755.5999755859,
+    "('High', 'HDFCLIFE.NS')":770.0,
+    "('Low', 'HDFCLIFE.NS')":753.0999755859,
+    "('Open', 'HDFCLIFE.NS')":767.0,
+    "('Volume', 'HDFCLIFE.NS')":3289846
+  },
+  {
+    "('Date', '')":"2025-10-08",
+    "('Close', 'HDFCLIFE.NS')":747.299987793,
+    "('High', 'HDFCLIFE.NS')":757.049987793,
+    "('Low', 'HDFCLIFE.NS')":742.700012207,
+    "('Open', 'HDFCLIFE.NS')":755.5999755859,
+    "('Volume', 'HDFCLIFE.NS')":2259319
+  },
+  {
+    "('Date', '')":"2025-10-09",
+    "('Close', 'HDFCLIFE.NS')":754.3499755859,
+    "('High', 'HDFCLIFE.NS')":757.450012207,
+    "('Low', 'HDFCLIFE.NS')":742.0,
+    "('Open', 'HDFCLIFE.NS')":746.0999755859,
+    "('Volume', 'HDFCLIFE.NS')":4476278
+  },
+  {
+    "('Date', '')":"2025-10-10",
+    "('Close', 'HDFCLIFE.NS')":747.299987793,
+    "('High', 'HDFCLIFE.NS')":759.700012207,
+    "('Low', 'HDFCLIFE.NS')":743.5999755859,
+    "('Open', 'HDFCLIFE.NS')":754.9000244141,
+    "('Volume', 'HDFCLIFE.NS')":2771300
+  },
+  {
+    "('Date', '')":"2025-10-13",
+    "('Close', 'HDFCLIFE.NS')":746.549987793,
+    "('High', 'HDFCLIFE.NS')":750.0,
+    "('Low', 'HDFCLIFE.NS')":742.1500244141,
+    "('Open', 'HDFCLIFE.NS')":742.200012207,
+    "('Volume', 'HDFCLIFE.NS')":1676403
+  },
+  {
+    "('Date', '')":"2025-10-14",
+    "('Close', 'HDFCLIFE.NS')":743.549987793,
+    "('High', 'HDFCLIFE.NS')":748.1500244141,
+    "('Low', 'HDFCLIFE.NS')":739.6500244141,
+    "('Open', 'HDFCLIFE.NS')":746.950012207,
+    "('Volume', 'HDFCLIFE.NS')":3412592
+  },
+  {
+    "('Date', '')":"2025-10-15",
+    "('Close', 'HDFCLIFE.NS')":761.1500244141,
+    "('High', 'HDFCLIFE.NS')":763.700012207,
+    "('Low', 'HDFCLIFE.NS')":743.549987793,
+    "('Open', 'HDFCLIFE.NS')":744.700012207,
+    "('Volume', 'HDFCLIFE.NS')":2764842
+  },
+  {
+    "('Date', '')":"2025-10-16",
+    "('Close', 'HDFCLIFE.NS')":742.8499755859,
+    "('High', 'HDFCLIFE.NS')":759.950012207,
+    "('Low', 'HDFCLIFE.NS')":726.0,
+    "('Open', 'HDFCLIFE.NS')":759.950012207,
+    "('Volume', 'HDFCLIFE.NS')":10209104
+  },
+  {
+    "('Date', '')":"2025-10-17",
+    "('Close', 'HDFCLIFE.NS')":745.950012207,
+    "('High', 'HDFCLIFE.NS')":749.5,
+    "('Low', 'HDFCLIFE.NS')":736.049987793,
+    "('Open', 'HDFCLIFE.NS')":740.75,
+    "('Volume', 'HDFCLIFE.NS')":4205888
+  },
+  {
+    "('Date', '')":"2025-10-20",
+    "('Close', 'HDFCLIFE.NS')":742.25,
+    "('High', 'HDFCLIFE.NS')":753.9000244141,
+    "('Low', 'HDFCLIFE.NS')":737.549987793,
+    "('Open', 'HDFCLIFE.NS')":751.9000244141,
+    "('Volume', 'HDFCLIFE.NS')":2361964
+  },
+  {
+    "('Date', '')":"2025-10-21",
+    "('Close', 'HDFCLIFE.NS')":743.700012207,
+    "('High', 'HDFCLIFE.NS')":746.4000244141,
+    "('Low', 'HDFCLIFE.NS')":740.5999755859,
+    "('Open', 'HDFCLIFE.NS')":740.5999755859,
+    "('Volume', 'HDFCLIFE.NS')":119115
+  },
+  {
+    "('Date', '')":"2025-10-23",
+    "('Close', 'HDFCLIFE.NS')":743.6500244141,
+    "('High', 'HDFCLIFE.NS')":752.549987793,
+    "('Low', 'HDFCLIFE.NS')":742.700012207,
+    "('Open', 'HDFCLIFE.NS')":745.0,
+    "('Volume', 'HDFCLIFE.NS')":3312072
+  },
+  {
+    "('Date', '')":"2025-10-24",
+    "('Close', 'HDFCLIFE.NS')":734.950012207,
+    "('High', 'HDFCLIFE.NS')":745.5,
+    "('Low', 'HDFCLIFE.NS')":733.799987793,
+    "('Open', 'HDFCLIFE.NS')":743.5999755859,
+    "('Volume', 'HDFCLIFE.NS')":2349228
+  },
+  {
+    "('Date', '')":"2025-10-27",
+    "('Close', 'HDFCLIFE.NS')":737.25,
+    "('High', 'HDFCLIFE.NS')":743.549987793,
+    "('Low', 'HDFCLIFE.NS')":732.299987793,
+    "('Open', 'HDFCLIFE.NS')":734.950012207,
+    "('Volume', 'HDFCLIFE.NS')":3739804
+  },
+  {
+    "('Date', '')":"2025-10-28",
+    "('Close', 'HDFCLIFE.NS')":747.0,
+    "('High', 'HDFCLIFE.NS')":748.9000244141,
+    "('Low', 'HDFCLIFE.NS')":735.549987793,
+    "('Open', 'HDFCLIFE.NS')":736.0,
+    "('Volume', 'HDFCLIFE.NS')":3859058
+  },
+  {
+    "('Date', '')":"2025-10-29",
+    "('Close', 'HDFCLIFE.NS')":761.299987793,
+    "('High', 'HDFCLIFE.NS')":763.4000244141,
+    "('Low', 'HDFCLIFE.NS')":749.0,
+    "('Open', 'HDFCLIFE.NS')":750.200012207,
+    "('Volume', 'HDFCLIFE.NS')":2270288
+  },
+  {
+    "('Date', '')":"2025-10-30",
+    "('Close', 'HDFCLIFE.NS')":746.5999755859,
+    "('High', 'HDFCLIFE.NS')":761.200012207,
+    "('Low', 'HDFCLIFE.NS')":744.049987793,
+    "('Open', 'HDFCLIFE.NS')":758.0,
+    "('Volume', 'HDFCLIFE.NS')":1517376
+  },
+  {
+    "('Date', '')":"2025-10-31",
+    "('Close', 'HDFCLIFE.NS')":731.8499755859,
+    "('High', 'HDFCLIFE.NS')":748.5999755859,
+    "('Low', 'HDFCLIFE.NS')":730.049987793,
+    "('Open', 'HDFCLIFE.NS')":745.0,
+    "('Volume', 'HDFCLIFE.NS')":2584942
+  },
+  {
+    "('Date', '')":"2025-11-03",
+    "('Close', 'HDFCLIFE.NS')":736.0,
+    "('High', 'HDFCLIFE.NS')":737.950012207,
+    "('Low', 'HDFCLIFE.NS')":728.450012207,
+    "('Open', 'HDFCLIFE.NS')":730.0,
+    "('Volume', 'HDFCLIFE.NS')":2222765
+  },
+  {
+    "('Date', '')":"2025-11-04",
+    "('Close', 'HDFCLIFE.NS')":742.450012207,
+    "('High', 'HDFCLIFE.NS')":748.6500244141,
+    "('Low', 'HDFCLIFE.NS')":734.200012207,
+    "('Open', 'HDFCLIFE.NS')":736.0,
+    "('Volume', 'HDFCLIFE.NS')":2311438
+  },
+  {
+    "('Date', '')":"2025-11-06",
+    "('Close', 'HDFCLIFE.NS')":736.049987793,
+    "('High', 'HDFCLIFE.NS')":746.799987793,
+    "('Low', 'HDFCLIFE.NS')":734.5999755859,
+    "('Open', 'HDFCLIFE.NS')":738.8499755859,
+    "('Volume', 'HDFCLIFE.NS')":1640119
+  },
+  {
+    "('Date', '')":"2025-11-07",
+    "('Close', 'HDFCLIFE.NS')":749.25,
+    "('High', 'HDFCLIFE.NS')":750.5,
+    "('Low', 'HDFCLIFE.NS')":731.049987793,
+    "('Open', 'HDFCLIFE.NS')":731.049987793,
+    "('Volume', 'HDFCLIFE.NS')":1709430
+  },
+  {
+    "('Date', '')":"2025-11-10",
+    "('Close', 'HDFCLIFE.NS')":750.700012207,
+    "('High', 'HDFCLIFE.NS')":759.799987793,
+    "('Low', 'HDFCLIFE.NS')":749.200012207,
+    "('Open', 'HDFCLIFE.NS')":750.0,
+    "('Volume', 'HDFCLIFE.NS')":2046515
+  },
+  {
+    "('Date', '')":"2025-11-11",
+    "('Close', 'HDFCLIFE.NS')":763.9000244141,
+    "('High', 'HDFCLIFE.NS')":765.0,
+    "('Low', 'HDFCLIFE.NS')":747.3499755859,
+    "('Open', 'HDFCLIFE.NS')":754.4000244141,
+    "('Volume', 'HDFCLIFE.NS')":2303410
+  }
+]

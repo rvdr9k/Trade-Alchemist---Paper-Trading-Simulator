@@ -1,0 +1,1986 @@
+[
+  {
+    "('Date', '')":"2024-11-13",
+    "('Close', 'TATASTEEL.BO')":136.0772094727,
+    "('High', 'TATASTEEL.BO')":140.4258139027,
+    "('Low', 'TATASTEEL.BO')":135.4908744189,
+    "('Open', 'TATASTEEL.BO')":140.4258139027,
+    "('Volume', 'TATASTEEL.BO')":2077910
+  },
+  {
+    "('Date', '')":"2024-11-14",
+    "('Close', 'TATASTEEL.BO')":134.8556976318,
+    "('High', 'TATASTEEL.BO')":137.5919031747,
+    "('Low', 'TATASTEEL.BO')":134.3670900317,
+    "('Open', 'TATASTEEL.BO')":136.51696049,
+    "('Volume', 'TATASTEEL.BO')":2441717
+  },
+  {
+    "('Date', '')":"2024-11-18",
+    "('Close', 'TATASTEEL.BO')":138.0805053711,
+    "('High', 'TATASTEEL.BO')":139.9372082144,
+    "('Low', 'TATASTEEL.BO')":135.1488598851,
+    "('Open', 'TATASTEEL.BO')":136.4680914071,
+    "('Volume', 'TATASTEEL.BO')":3171225
+  },
+  {
+    "('Date', '')":"2024-11-19",
+    "('Close', 'TATASTEEL.BO')":136.2726593018,
+    "('High', 'TATASTEEL.BO')":139.2531687018,
+    "('Low', 'TATASTEEL.BO')":135.8817791786,
+    "('Open', 'TATASTEEL.BO')":138.5202572876,
+    "('Volume', 'TATASTEEL.BO')":1760152
+  },
+  {
+    "('Date', '')":"2024-11-21",
+    "('Close', 'TATASTEEL.BO')":137.0544281006,
+    "('High', 'TATASTEEL.BO')":138.4225233792,
+    "('Low', 'TATASTEEL.BO')":134.0739188388,
+    "('Open', 'TATASTEEL.BO')":136.5658205138,
+    "('Volume', 'TATASTEEL.BO')":1572799
+  },
+  {
+    "('Date', '')":"2024-11-22",
+    "('Close', 'TATASTEEL.BO')":139.5463256836,
+    "('High', 'TATASTEEL.BO')":139.9372057771,
+    "('Low', 'TATASTEEL.BO')":136.4192402019,
+    "('Open', 'TATASTEEL.BO')":137.0544240817,
+    "('Volume', 'TATASTEEL.BO')":1918444
+  },
+  {
+    "('Date', '')":"2024-11-25",
+    "('Close', 'TATASTEEL.BO')":140.3281097412,
+    "('High', 'TATASTEEL.BO')":142.8199965911,
+    "('Low', 'TATASTEEL.BO')":139.5951983357,
+    "('Open', 'TATASTEEL.BO')":141.5007650078,
+    "('Volume', 'TATASTEEL.BO')":1928708
+  },
+  {
+    "('Date', '')":"2024-11-26",
+    "('Close', 'TATASTEEL.BO')":141.1587219238,
+    "('High', 'TATASTEEL.BO')":142.477968308,
+    "('Low', 'TATASTEEL.BO')":140.3280980137,
+    "('Open', 'TATASTEEL.BO')":140.767841838,
+    "('Volume', 'TATASTEEL.BO')":744230
+  },
+  {
+    "('Date', '')":"2024-11-27",
+    "('Close', 'TATASTEEL.BO')":141.2075958252,
+    "('High', 'TATASTEEL.BO')":141.5984759392,
+    "('Low', 'TATASTEEL.BO')":139.6440455471,
+    "('Open', 'TATASTEEL.BO')":141.1587320832,
+    "('Volume', 'TATASTEEL.BO')":825909
+  },
+  {
+    "('Date', '')":"2024-11-28",
+    "('Close', 'TATASTEEL.BO')":140.1815185547,
+    "('High', 'TATASTEEL.BO')":141.9405089107,
+    "('Low', 'TATASTEEL.BO')":139.8395021787,
+    "('Open', 'TATASTEEL.BO')":140.963293703,
+    "('Volume', 'TATASTEEL.BO')":835743
+  },
+  {
+    "('Date', '')":"2024-11-29",
+    "('Close', 'TATASTEEL.BO')":141.2564544678,
+    "('High', 'TATASTEEL.BO')":142.135942148,
+    "('Low', 'TATASTEEL.BO')":139.7906317267,
+    "('Open', 'TATASTEEL.BO')":140.5724068375,
+    "('Volume', 'TATASTEEL.BO')":1883423
+  },
+  {
+    "('Date', '')":"2024-12-02",
+    "('Close', 'TATASTEEL.BO')":143.0643005371,
+    "('High', 'TATASTEEL.BO')":143.4551955671,
+    "('Low', 'TATASTEEL.BO')":139.9372148526,
+    "('Open', 'TATASTEEL.BO')":141.2075976057,
+    "('Volume', 'TATASTEEL.BO')":1734595
+  },
+  {
+    "('Date', '')":"2024-12-03",
+    "('Close', 'TATASTEEL.BO')":143.2108917236,
+    "('High', 'TATASTEEL.BO')":144.8721545951,
+    "('Low', 'TATASTEEL.BO')":143.0154516642,
+    "('Open', 'TATASTEEL.BO')":143.5529080998,
+    "('Volume', 'TATASTEEL.BO')":1210952
+  },
+  {
+    "('Date', '')":"2024-12-04",
+    "('Close', 'TATASTEEL.BO')":142.4779815674,
+    "('High', 'TATASTEEL.BO')":143.7483643312,
+    "('Low', 'TATASTEEL.BO')":140.7189911952,
+    "('Open', 'TATASTEEL.BO')":143.6506368451,
+    "('Volume', 'TATASTEEL.BO')":1398405
+  },
+  {
+    "('Date', '')":"2024-12-05",
+    "('Close', 'TATASTEEL.BO')":143.7483520508,
+    "('High', 'TATASTEEL.BO')":144.5301122284,
+    "('Low', 'TATASTEEL.BO')":141.5007542623,
+    "('Open', 'TATASTEEL.BO')":143.1620170064,
+    "('Volume', 'TATASTEEL.BO')":1209830
+  },
+  {
+    "('Date', '')":"2024-12-06",
+    "('Close', 'TATASTEEL.BO')":144.8721466064,
+    "('High', 'TATASTEEL.BO')":145.2630267037,
+    "('Low', 'TATASTEEL.BO')":143.3085963953,
+    "('Open', 'TATASTEEL.BO')":144.2369627207,
+    "('Volume', 'TATASTEEL.BO')":1872363
+  },
+  {
+    "('Date', '')":"2024-12-09",
+    "('Close', 'TATASTEEL.BO')":146.3868408203,
+    "('High', 'TATASTEEL.BO')":147.1686159672,
+    "('Low', 'TATASTEEL.BO')":143.2597551438,
+    "('Open', 'TATASTEEL.BO')":144.9210180115,
+    "('Volume', 'TATASTEEL.BO')":1457874
+  },
+  {
+    "('Date', '')":"2024-12-10",
+    "('Close', 'TATASTEEL.BO')":146.9243011475,
+    "('High', 'TATASTEEL.BO')":149.0253077181,
+    "('Low', 'TATASTEEL.BO')":145.9470860149,
+    "('Open', 'TATASTEEL.BO')":146.9243011475,
+    "('Volume', 'TATASTEEL.BO')":1070598
+  },
+  {
+    "('Date', '')":"2024-12-11",
+    "('Close', 'TATASTEEL.BO')":147.1686096191,
+    "('High', 'TATASTEEL.BO')":148.6344323647,
+    "('Low', 'TATASTEEL.BO')":146.6800020373,
+    "('Open', 'TATASTEEL.BO')":147.0220183979,
+    "('Volume', 'TATASTEEL.BO')":1633667
+  },
+  {
+    "('Date', '')":"2024-12-12",
+    "('Close', 'TATASTEEL.BO')":147.4129180908,
+    "('High', 'TATASTEEL.BO')":148.0969657449,
+    "('Low', 'TATASTEEL.BO')":145.3118964755,
+    "('Open', 'TATASTEEL.BO')":147.5594944056,
+    "('Volume', 'TATASTEEL.BO')":1983700
+  },
+  {
+    "('Date', '')":"2024-12-13",
+    "('Close', 'TATASTEEL.BO')":145.5561981201,
+    "('High', 'TATASTEEL.BO')":147.3151884268,
+    "('Low', 'TATASTEEL.BO')":142.2825362129,
+    "('Open', 'TATASTEEL.BO')":146.6311407829,
+    "('Volume', 'TATASTEEL.BO')":2578810
+  },
+  {
+    "('Date', '')":"2024-12-16",
+    "('Close', 'TATASTEEL.BO')":144.5301208496,
+    "('High', 'TATASTEEL.BO')":146.38683866,
+    "('Low', 'TATASTEEL.BO')":143.6994968836,
+    "('Open', 'TATASTEEL.BO')":145.4096234686,
+    "('Volume', 'TATASTEEL.BO')":1330991
+  },
+  {
+    "('Date', '')":"2024-12-17",
+    "('Close', 'TATASTEEL.BO')":142.3313903809,
+    "('High', 'TATASTEEL.BO')":145.1164597135,
+    "('Low', 'TATASTEEL.BO')":142.0382377447,
+    "('Open', 'TATASTEEL.BO')":144.1392444966,
+    "('Volume', 'TATASTEEL.BO')":1288867
+  },
+  {
+    "('Date', '')":"2024-12-18",
+    "('Close', 'TATASTEEL.BO')":141.2075958252,
+    "('High', 'TATASTEEL.BO')":143.2108899593,
+    "('Low', 'TATASTEEL.BO')":140.0349405722,
+    "('Open', 'TATASTEEL.BO')":142.4779785622,
+    "('Volume', 'TATASTEEL.BO')":615562
+  },
+  {
+    "('Date', '')":"2024-12-19",
+    "('Close', 'TATASTEEL.BO')":140.034942627,
+    "('High', 'TATASTEEL.BO')":140.5235502321,
+    "('Low', 'TATASTEEL.BO')":137.933920978,
+    "('Open', 'TATASTEEL.BO')":138.1782247806,
+    "('Volume', 'TATASTEEL.BO')":1362645
+  },
+  {
+    "('Date', '')":"2024-12-20",
+    "('Close', 'TATASTEEL.BO')":137.6407623291,
+    "('High', 'TATASTEEL.BO')":141.2075917266,
+    "('Low', 'TATASTEEL.BO')":136.8589872128,
+    "('Open', 'TATASTEEL.BO')":139.986072767,
+    "('Volume', 'TATASTEEL.BO')":1521457
+  },
+  {
+    "('Date', '')":"2024-12-23",
+    "('Close', 'TATASTEEL.BO')":138.4713897705,
+    "('High', 'TATASTEEL.BO')":140.5235476388,
+    "('Low', 'TATASTEEL.BO')":137.4453108363,
+    "('Open', 'TATASTEEL.BO')":139.399741221,
+    "('Volume', 'TATASTEEL.BO')":1391144
+  },
+  {
+    "('Date', '')":"2024-12-24",
+    "('Close', 'TATASTEEL.BO')":137.1521606445,
+    "('High', 'TATASTEEL.BO')":138.3736796566,
+    "('Low', 'TATASTEEL.BO')":136.1260816921,
+    "('Open', 'TATASTEEL.BO')":138.2270884285,
+    "('Volume', 'TATASTEEL.BO')":1028658
+  },
+  {
+    "('Date', '')":"2024-12-26",
+    "('Close', 'TATASTEEL.BO')":137.1521606445,
+    "('High', 'TATASTEEL.BO')":137.9827846261,
+    "('Low', 'TATASTEEL.BO')":136.3215217518,
+    "('Open', 'TATASTEEL.BO')":137.7873445664,
+    "('Volume', 'TATASTEEL.BO')":699622
+  },
+  {
+    "('Date', '')":"2024-12-27",
+    "('Close', 'TATASTEEL.BO')":135.7840423584,
+    "('High', 'TATASTEEL.BO')":138.5202477656,
+    "('Low', 'TATASTEEL.BO')":135.5397385705,
+    "('Open', 'TATASTEEL.BO')":137.7873364018,
+    "('Volume', 'TATASTEEL.BO')":796986
+  },
+  {
+    "('Date', '')":"2024-12-30",
+    "('Close', 'TATASTEEL.BO')":133.78074646,
+    "('High', 'TATASTEEL.BO')":136.1260717384,
+    "('Low', 'TATASTEEL.BO')":132.9501225391,
+    "('Open', 'TATASTEEL.BO')":135.5886004301,
+    "('Volume', 'TATASTEEL.BO')":1712394
+  },
+  {
+    "('Date', '')":"2024-12-31",
+    "('Close', 'TATASTEEL.BO')":134.953414917,
+    "('High', 'TATASTEEL.BO')":135.5397350461,
+    "('Low', 'TATASTEEL.BO')":133.5364410549,
+    "('Open', 'TATASTEEL.BO')":133.5853047934,
+    "('Volume', 'TATASTEEL.BO')":1106246
+  },
+  {
+    "('Date', '')":"2025-01-01",
+    "('Close', 'TATASTEEL.BO')":133.6341705322,
+    "('High', 'TATASTEEL.BO')":135.1977207223,
+    "('Low', 'TATASTEEL.BO')":133.4875942255,
+    "('Open', 'TATASTEEL.BO')":135.1977207223,
+    "('Volume', 'TATASTEEL.BO')":1153543
+  },
+  {
+    "('Date', '')":"2025-01-02",
+    "('Close', 'TATASTEEL.BO')":135.0022735596,
+    "('High', 'TATASTEEL.BO')":135.2465773589,
+    "('Low', 'TATASTEEL.BO')":133.2432981331,
+    "('Open', 'TATASTEEL.BO')":133.6830419897,
+    "('Volume', 'TATASTEEL.BO')":1394322
+  },
+  {
+    "('Date', '')":"2025-01-03",
+    "('Close', 'TATASTEEL.BO')":135.1488647461,
+    "('High', 'TATASTEEL.BO')":136.5169600576,
+    "('Low', 'TATASTEEL.BO')":134.6113934054,
+    "('Open', 'TATASTEEL.BO')":135.100001004,
+    "('Volume', 'TATASTEEL.BO')":860541
+  },
+  {
+    "('Date', '')":"2025-01-06",
+    "('Close', 'TATASTEEL.BO')":129.1878356934,
+    "('High', 'TATASTEEL.BO')":135.2465664463,
+    "('Low', 'TATASTEEL.BO')":128.3572117892,
+    "('Open', 'TATASTEEL.BO')":135.1488538811,
+    "('Volume', 'TATASTEEL.BO')":1364385
+  },
+  {
+    "('Date', '')":"2025-01-07",
+    "('Close', 'TATASTEEL.BO')":130.3116455078,
+    "('High', 'TATASTEEL.BO')":130.8979656479,
+    "('Low', 'TATASTEEL.BO')":128.992399098,
+    "('Open', 'TATASTEEL.BO')":129.5298704098,
+    "('Volume', 'TATASTEEL.BO')":1451194
+  },
+  {
+    "('Date', '')":"2025-01-08",
+    "('Close', 'TATASTEEL.BO')":129.5787353516,
+    "('High', 'TATASTEEL.BO')":131.1911343908,
+    "('Low', 'TATASTEEL.BO')":128.7969602463,
+    "('Open', 'TATASTEEL.BO')":130.653663074,
+    "('Volume', 'TATASTEEL.BO')":732083
+  },
+  {
+    "('Date', '')":"2025-01-09",
+    "('Close', 'TATASTEEL.BO')":126.8913955688,
+    "('High', 'TATASTEEL.BO')":129.4810098004,
+    "('Low', 'TATASTEEL.BO')":126.6470917768,
+    "('Open', 'TATASTEEL.BO')":129.1878422677,
+    "('Volume', 'TATASTEEL.BO')":809900
+  },
+  {
+    "('Date', '')":"2025-01-10",
+    "('Close', 'TATASTEEL.BO')":124.497215271,
+    "('High', 'TATASTEEL.BO')":127.477717093,
+    "('Low', 'TATASTEEL.BO')":123.8131601725,
+    "('Open', 'TATASTEEL.BO')":126.9402457625,
+    "('Volume', 'TATASTEEL.BO')":892971
+  },
+  {
+    "('Date', '')":"2025-01-13",
+    "('Close', 'TATASTEEL.BO')":120.1486053467,
+    "('High', 'TATASTEEL.BO')":123.7154423026,
+    "('Low', 'TATASTEEL.BO')":119.8065815192,
+    "('Open', 'TATASTEEL.BO')":123.7154423026,
+    "('Volume', 'TATASTEEL.BO')":2156267
+  },
+  {
+    "('Date', '')":"2025-01-14",
+    "('Close', 'TATASTEEL.BO')":124.1063232422,
+    "('High', 'TATASTEEL.BO')":124.7903708605,
+    "('Low', 'TATASTEEL.BO')":120.1485989282,
+    "('Open', 'TATASTEEL.BO')":120.1485989282,
+    "('Volume', 'TATASTEEL.BO')":2928101
+  },
+  {
+    "('Date', '')":"2025-01-15",
+    "('Close', 'TATASTEEL.BO')":123.6665802002,
+    "('High', 'TATASTEEL.BO')":125.5232830205,
+    "('Low', 'TATASTEEL.BO')":122.8848050981,
+    "('Open', 'TATASTEEL.BO')":125.5232830205,
+    "('Volume', 'TATASTEEL.BO')":1246039
+  },
+  {
+    "('Date', '')":"2025-01-16",
+    "('Close', 'TATASTEEL.BO')":124.8880996704,
+    "('High', 'TATASTEEL.BO')":125.5232835561,
+    "('Low', 'TATASTEEL.BO')":123.6665807278,
+    "('Open', 'TATASTEEL.BO')":125.2301160277,
+    "('Volume', 'TATASTEEL.BO')":1007111
+  },
+  {
+    "('Date', '')":"2025-01-17",
+    "('Close', 'TATASTEEL.BO')":127.3311386108,
+    "('High', 'TATASTEEL.BO')":128.1129137228,
+    "('Low', 'TATASTEEL.BO')":124.6926531997,
+    "('Open', 'TATASTEEL.BO')":125.0346770153,
+    "('Volume', 'TATASTEEL.BO')":1943098
+  },
+  {
+    "('Date', '')":"2025-01-20",
+    "('Close', 'TATASTEEL.BO')":128.6503753662,
+    "('High', 'TATASTEEL.BO')":129.090134136,
+    "('Low', 'TATASTEEL.BO')":125.963033561,
+    "('Open', 'TATASTEEL.BO')":128.2594952499,
+    "('Volume', 'TATASTEEL.BO')":1064805
+  },
+  {
+    "('Date', '')":"2025-01-21",
+    "('Close', 'TATASTEEL.BO')":126.6959381104,
+    "('High', 'TATASTEEL.BO')":129.4321435099,
+    "('Low', 'TATASTEEL.BO')":126.2561942755,
+    "('Open', 'TATASTEEL.BO')":129.2367034623,
+    "('Volume', 'TATASTEEL.BO')":1984757
+  },
+  {
+    "('Date', '')":"2025-01-22",
+    "('Close', 'TATASTEEL.BO')":126.0118942261,
+    "('High', 'TATASTEEL.BO')":127.428853252,
+    "('Low', 'TATASTEEL.BO')":124.2040476378,
+    "('Open', 'TATASTEEL.BO')":127.428853252,
+    "('Volume', 'TATASTEEL.BO')":849907
+  },
+  {
+    "('Date', '')":"2025-01-23",
+    "('Close', 'TATASTEEL.BO')":127.5265808105,
+    "('High', 'TATASTEEL.BO')":127.8197483464,
+    "('Low', 'TATASTEEL.BO')":124.7903753282,
+    "('Open', 'TATASTEEL.BO')":125.083542864,
+    "('Volume', 'TATASTEEL.BO')":1153060
+  },
+  {
+    "('Date', '')":"2025-01-24",
+    "('Close', 'TATASTEEL.BO')":127.0379714966,
+    "('High', 'TATASTEEL.BO')":130.116193303,
+    "('Low', 'TATASTEEL.BO')":126.4027876035,
+    "('Open', 'TATASTEEL.BO')":127.4777153388,
+    "('Volume', 'TATASTEEL.BO')":1772241
+  },
+  {
+    "('Date', '')":"2025-01-27",
+    "('Close', 'TATASTEEL.BO')":123.5199966431,
+    "('High', 'TATASTEEL.BO')":126.4027858134,
+    "('Low', 'TATASTEEL.BO')":122.9336690433,
+    "('Open', 'TATASTEEL.BO')":126.3539220736,
+    "('Volume', 'TATASTEEL.BO')":1617780
+  },
+  {
+    "('Date', '')":"2025-01-28",
+    "('Close', 'TATASTEEL.BO')":125.7675857544,
+    "('High', 'TATASTEEL.BO')":127.5265759917,
+    "('Low', 'TATASTEEL.BO')":121.8587251876,
+    "('Open', 'TATASTEEL.BO')":123.3245479001,
+    "('Volume', 'TATASTEEL.BO')":2491387
+  },
+  {
+    "('Date', '')":"2025-01-29",
+    "('Close', 'TATASTEEL.BO')":127.8197479248,
+    "('High', 'TATASTEEL.BO')":128.3083555125,
+    "('Low', 'TATASTEEL.BO')":125.5721500392,
+    "('Open', 'TATASTEEL.BO')":126.2073339387,
+    "('Volume', 'TATASTEEL.BO')":1073295
+  },
+  {
+    "('Date', '')":"2025-01-30",
+    "('Close', 'TATASTEEL.BO')":128.1617584229,
+    "('High', 'TATASTEEL.BO')":129.1389735535,
+    "('Low', 'TATASTEEL.BO')":127.1356944645,
+    "('Open', 'TATASTEEL.BO')":127.9663183789,
+    "('Volume', 'TATASTEEL.BO')":2301113
+  },
+  {
+    "('Date', '')":"2025-01-31",
+    "('Close', 'TATASTEEL.BO')":131.5820159912,
+    "('High', 'TATASTEEL.BO')":131.9240472634,
+    "('Low', 'TATASTEEL.BO')":126.8913951285,
+    "('Open', 'TATASTEEL.BO')":128.1129140847,
+    "('Volume', 'TATASTEEL.BO')":2332575
+  },
+  {
+    "('Date', '')":"2025-02-01",
+    "('Close', 'TATASTEEL.BO')":129.9207611084,
+    "('High', 'TATASTEEL.BO')":132.6569667191,
+    "('Low', 'TATASTEEL.BO')":127.3800104715,
+    "('Open', 'TATASTEEL.BO')":132.6569667191,
+    "('Volume', 'TATASTEEL.BO')":1686209
+  },
+  {
+    "('Date', '')":"2025-02-03",
+    "('Close', 'TATASTEEL.BO')":128.8946685791,
+    "('High', 'TATASTEEL.BO')":129.3832761399,
+    "('Low', 'TATASTEEL.BO')":124.8880955271,
+    "('Open', 'TATASTEEL.BO')":128.699228537,
+    "('Volume', 'TATASTEEL.BO')":751685
+  },
+  {
+    "('Date', '')":"2025-02-04",
+    "('Close', 'TATASTEEL.BO')":130.3605041504,
+    "('High', 'TATASTEEL.BO')":131.2888705366,
+    "('Low', 'TATASTEEL.BO')":128.894681323,
+    "('Open', 'TATASTEEL.BO')":129.5298801615,
+    "('Volume', 'TATASTEEL.BO')":1134755
+  },
+  {
+    "('Date', '')":"2025-02-05",
+    "('Close', 'TATASTEEL.BO')":131.3377075195,
+    "('High', 'TATASTEEL.BO')":132.3149226496,
+    "('Low', 'TATASTEEL.BO')":130.0673397793,
+    "('Open', 'TATASTEEL.BO')":130.0673397793,
+    "('Volume', 'TATASTEEL.BO')":535771
+  },
+  {
+    "('Date', '')":"2025-02-06",
+    "('Close', 'TATASTEEL.BO')":129.529876709,
+    "('High', 'TATASTEEL.BO')":131.5820196659,
+    "('Low', 'TATASTEEL.BO')":129.0412691129,
+    "('Open', 'TATASTEEL.BO')":131.2400032953,
+    "('Volume', 'TATASTEEL.BO')":727932
+  },
+  {
+    "('Date', '')":"2025-02-07",
+    "('Close', 'TATASTEEL.BO')":135.1488647461,
+    "('High', 'TATASTEEL.BO')":135.5886086026,
+    "('Low', 'TATASTEEL.BO')":129.5787411046,
+    "('Open', 'TATASTEEL.BO')":130.3116525025,
+    "('Volume', 'TATASTEEL.BO')":3171397
+  },
+  {
+    "('Date', '')":"2025-02-10",
+    "('Close', 'TATASTEEL.BO')":130.9468383789,
+    "('High', 'TATASTEEL.BO')":135.100003029,
+    "('Low', 'TATASTEEL.BO')":129.9696231671,
+    "('Open', 'TATASTEEL.BO')":135.100003029,
+    "('Volume', 'TATASTEEL.BO')":1124302
+  },
+  {
+    "('Date', '')":"2025-02-11",
+    "('Close', 'TATASTEEL.BO')":127.1356964111,
+    "('High', 'TATASTEEL.BO')":131.2888607801,
+    "('Low', 'TATASTEEL.BO')":126.7448014062,
+    "('Open', 'TATASTEEL.BO')":129.5787342752,
+    "('Volume', 'TATASTEEL.BO')":955033
+  },
+  {
+    "('Date', '')":"2025-02-12",
+    "('Close', 'TATASTEEL.BO')":129.2367095947,
+    "('High', 'TATASTEEL.BO')":130.2139247901,
+    "('Low', 'TATASTEEL.BO')":125.425576297,
+    "('Open', 'TATASTEEL.BO')":126.1584876936,
+    "('Volume', 'TATASTEEL.BO')":2030785
+  },
+  {
+    "('Date', '')":"2025-02-13",
+    "('Close', 'TATASTEEL.BO')":133.0967102051,
+    "('High', 'TATASTEEL.BO')":134.5625330375,
+    "('Low', 'TATASTEEL.BO')":129.0412729997,
+    "('Open', 'TATASTEEL.BO')":129.0412729997,
+    "('Volume', 'TATASTEEL.BO')":1056230
+  },
+  {
+    "('Date', '')":"2025-02-14",
+    "('Close', 'TATASTEEL.BO')":131.3377075195,
+    "('High', 'TATASTEEL.BO')":136.0283431262,
+    "('Low', 'TATASTEEL.BO')":130.3116435618,
+    "('Open', 'TATASTEEL.BO')":133.0966977359,
+    "('Volume', 'TATASTEEL.BO')":1110874
+  },
+  {
+    "('Date', '')":"2025-02-17",
+    "('Close', 'TATASTEEL.BO')":131.2888641357,
+    "('High', 'TATASTEEL.BO')":131.7286079803,
+    "('Low', 'TATASTEEL.BO')":127.8197472979,
+    "('Open', 'TATASTEEL.BO')":129.2855700538,
+    "('Volume', 'TATASTEEL.BO')":760563
+  },
+  {
+    "('Date', '')":"2025-02-18",
+    "('Close', 'TATASTEEL.BO')":131.4354400635,
+    "('High', 'TATASTEEL.BO')":131.8263201661,
+    "('Low', 'TATASTEEL.BO')":128.6992346115,
+    "('Open', 'TATASTEEL.BO')":131.2888637528,
+    "('Volume', 'TATASTEEL.BO')":2309704
+  },
+  {
+    "('Date', '')":"2025-02-19",
+    "('Close', 'TATASTEEL.BO')":132.7546844482,
+    "('High', 'TATASTEEL.BO')":133.7318996009,
+    "('Low', 'TATASTEEL.BO')":130.0184790387,
+    "('Open', 'TATASTEEL.BO')":131.6308780761,
+    "('Volume', 'TATASTEEL.BO')":653303
+  },
+  {
+    "('Date', '')":"2025-02-20",
+    "('Close', 'TATASTEEL.BO')":134.8556976318,
+    "('High', 'TATASTEEL.BO')":135.1977289164,
+    "('Low', 'TATASTEEL.BO')":131.9240520311,
+    "('Open', 'TATASTEEL.BO')":132.4615233735,
+    "('Volume', 'TATASTEEL.BO')":1107248
+  },
+  {
+    "('Date', '')":"2025-02-21",
+    "('Close', 'TATASTEEL.BO')":137.3964538574,
+    "('High', 'TATASTEEL.BO')":138.3248052529,
+    "('Low', 'TATASTEEL.BO')":134.0739134539,
+    "('Open', 'TATASTEEL.BO')":134.3670809764,
+    "('Volume', 'TATASTEEL.BO')":1733736
+  },
+  {
+    "('Date', '')":"2025-02-24",
+    "('Close', 'TATASTEEL.BO')":134.5136566162,
+    "('High', 'TATASTEEL.BO')":137.4453020048,
+    "('Low', 'TATASTEEL.BO')":133.5853052254,
+    "('Open', 'TATASTEEL.BO')":135.7840392668,
+    "('Volume', 'TATASTEEL.BO')":1476632
+  },
+  {
+    "('Date', '')":"2025-02-25",
+    "('Close', 'TATASTEEL.BO')":133.9273376465,
+    "('High', 'TATASTEEL.BO')":136.1749354461,
+    "('Low', 'TATASTEEL.BO')":133.6341701229,
+    "('Open', 'TATASTEEL.BO')":135.0511290907,
+    "('Volume', 'TATASTEEL.BO')":1189913
+  },
+  {
+    "('Date', '')":"2025-02-27",
+    "('Close', 'TATASTEEL.BO')":135.4908752441,
+    "('High', 'TATASTEEL.BO')":135.7840427728,
+    "('Low', 'TATASTEEL.BO')":132.7546847397,
+    "('Open', 'TATASTEEL.BO')":134.6113875693,
+    "('Volume', 'TATASTEEL.BO')":614177
+  },
+  {
+    "('Date', '')":"2025-02-28",
+    "('Close', 'TATASTEEL.BO')":134.0739135742,
+    "('High', 'TATASTEEL.BO')":134.464808575,
+    "('Low', 'TATASTEEL.BO')":130.9956918626,
+    "('Open', 'TATASTEEL.BO')":133.5364422676,
+    "('Volume', 'TATASTEEL.BO')":1009170
+  },
+  {
+    "('Date', '')":"2025-03-03",
+    "('Close', 'TATASTEEL.BO')":135.3442993164,
+    "('High', 'TATASTEEL.BO')":135.8329068952,
+    "('Low', 'TATASTEEL.BO')":131.239998637,
+    "('Open', 'TATASTEEL.BO')":133.9273403202,
+    "('Volume', 'TATASTEEL.BO')":2845036
+  },
+  {
+    "('Date', '')":"2025-03-04",
+    "('Close', 'TATASTEEL.BO')":136.126083374,
+    "('High', 'TATASTEEL.BO')":137.64076995,
+    "('Low', 'TATASTEEL.BO')":132.7546938412,
+    "('Open', 'TATASTEEL.BO')":132.7546938412,
+    "('Volume', 'TATASTEEL.BO')":855423
+  },
+  {
+    "('Date', '')":"2025-03-05",
+    "('Close', 'TATASTEEL.BO')":142.8199920654,
+    "('High', 'TATASTEEL.BO')":143.1620233416,
+    "('Low', 'TATASTEEL.BO')":135.2465744484,
+    "('Open', 'TATASTEEL.BO')":135.2465744484,
+    "('Volume', 'TATASTEEL.BO')":1710944
+  },
+  {
+    "('Date', '')":"2025-03-06",
+    "('Close', 'TATASTEEL.BO')":146.9243011475,
+    "('High', 'TATASTEEL.BO')":148.7321401961,
+    "('Low', 'TATASTEEL.BO')":143.1620169226,
+    "('Open', 'TATASTEEL.BO')":143.308593228,
+    "('Volume', 'TATASTEEL.BO')":4187239
+  },
+  {
+    "('Date', '')":"2025-03-07",
+    "('Close', 'TATASTEEL.BO')":148.0969696045,
+    "('High', 'TATASTEEL.BO')":148.9764573382,
+    "('Low', 'TATASTEEL.BO')":145.9959479344,
+    "('Open', 'TATASTEEL.BO')":146.5334192877,
+    "('Volume', 'TATASTEEL.BO')":1483606
+  },
+  {
+    "('Date', '')":"2025-03-10",
+    "('Close', 'TATASTEEL.BO')":147.5106201172,
+    "('High', 'TATASTEEL.BO')":150.686569273,
+    "('Low', 'TATASTEEL.BO')":147.0220125548,
+    "('Open', 'TATASTEEL.BO')":148.145818895,
+    "('Volume', 'TATASTEEL.BO')":1308760
+  },
+  {
+    "('Date', '')":"2025-03-11",
+    "('Close', 'TATASTEEL.BO')":147.4129180908,
+    "('High', 'TATASTEEL.BO')":148.2924058016,
+    "('Low', 'TATASTEEL.BO')":144.6278488214,
+    "('Open', 'TATASTEEL.BO')":144.6278488214,
+    "('Volume', 'TATASTEEL.BO')":1181607
+  },
+  {
+    "('Date', '')":"2025-03-12",
+    "('Close', 'TATASTEEL.BO')":146.8754425049,
+    "('High', 'TATASTEEL.BO')":148.5367053057,
+    "('Low', 'TATASTEEL.BO')":144.3346771076,
+    "('Open', 'TATASTEEL.BO')":147.3151863476,
+    "('Volume', 'TATASTEEL.BO')":1104497
+  },
+  {
+    "('Date', '')":"2025-03-13",
+    "('Close', 'TATASTEEL.BO')":147.4129180908,
+    "('High', 'TATASTEEL.BO')":150.0025323924,
+    "('Low', 'TATASTEEL.BO')":146.6311429528,
+    "('Open', 'TATASTEEL.BO')":148.0969657449,
+    "('Volume', 'TATASTEEL.BO')":1603311
+  },
+  {
+    "('Date', '')":"2025-03-17",
+    "('Close', 'TATASTEEL.BO')":148.3412628174,
+    "('High', 'TATASTEEL.BO')":149.12303792,
+    "('Low', 'TATASTEEL.BO')":147.5106239751,
+    "('Open', 'TATASTEEL.BO')":147.8526552422,
+    "('Volume', 'TATASTEEL.BO')":737225
+  },
+  {
+    "('Date', '')":"2025-03-18",
+    "('Close', 'TATASTEEL.BO')":151.1263275146,
+    "('High', 'TATASTEEL.BO')":151.3217824872,
+    "('Low', 'TATASTEEL.BO')":148.8298806988,
+    "('Open', 'TATASTEEL.BO')":149.3184883078,
+    "('Volume', 'TATASTEEL.BO')":4994631
+  },
+  {
+    "('Date', '')":"2025-03-19",
+    "('Close', 'TATASTEEL.BO')":154.9374694824,
+    "('High', 'TATASTEEL.BO')":155.6215171249,
+    "('Low', 'TATASTEEL.BO')":152.7875990727,
+    "('Open', 'TATASTEEL.BO')":152.7875990727,
+    "('Volume', 'TATASTEEL.BO')":1318411
+  },
+  {
+    "('Date', '')":"2025-03-20",
+    "('Close', 'TATASTEEL.BO')":155.3772125244,
+    "('High', 'TATASTEEL.BO')":156.4521551793,
+    "('Low', 'TATASTEEL.BO')":153.0807509032,
+    "('Open', 'TATASTEEL.BO')":156.1589876451,
+    "('Volume', 'TATASTEEL.BO')":906870
+  },
+  {
+    "('Date', '')":"2025-03-21",
+    "('Close', 'TATASTEEL.BO')":153.6670837402,
+    "('High', 'TATASTEEL.BO')":156.1589853777,
+    "('Low', 'TATASTEEL.BO')":153.3250524702,
+    "('Open', 'TATASTEEL.BO')":155.5726503179,
+    "('Volume', 'TATASTEEL.BO')":684394
+  },
+  {
+    "('Date', '')":"2025-03-24",
+    "('Close', 'TATASTEEL.BO')":154.7420349121,
+    "('High', 'TATASTEEL.BO')":155.377218836,
+    "('Low', 'TATASTEEL.BO')":153.6182284707,
+    "('Open', 'TATASTEEL.BO')":154.4000036232,
+    "('Volume', 'TATASTEEL.BO')":498706
+  },
+  {
+    "('Date', '')":"2025-03-25",
+    "('Close', 'TATASTEEL.BO')":153.1296081543,
+    "('High', 'TATASTEEL.BO')":155.6703734612,
+    "('Low', 'TATASTEEL.BO')":152.4944242831,
+    "('Open', 'TATASTEEL.BO')":155.6703734612,
+    "('Volume', 'TATASTEEL.BO')":870454
+  },
+  {
+    "('Date', '')":"2025-03-26",
+    "('Close', 'TATASTEEL.BO')":152.2501220703,
+    "('High', 'TATASTEEL.BO')":153.9113848291,
+    "('Low', 'TATASTEEL.BO')":151.4683469747,
+    "('Open', 'TATASTEEL.BO')":152.4944258558,
+    "('Volume', 'TATASTEEL.BO')":433210
+  },
+  {
+    "('Date', '')":"2025-03-27",
+    "('Close', 'TATASTEEL.BO')":151.7615203857,
+    "('High', 'TATASTEEL.BO')":152.5432955117,
+    "('Low', 'TATASTEEL.BO')":150.9797452598,
+    "('Open', 'TATASTEEL.BO')":151.3217765371,
+    "('Volume', 'TATASTEEL.BO')":462970
+  },
+  {
+    "('Date', '')":"2025-03-28",
+    "('Close', 'TATASTEEL.BO')":150.7354431152,
+    "('High', 'TATASTEEL.BO')":153.3250574053,
+    "('Low', 'TATASTEEL.BO')":149.904804239,
+    "('Open', 'TATASTEEL.BO')":151.9569621032,
+    "('Volume', 'TATASTEEL.BO')":577842
+  },
+  {
+    "('Date', '')":"2025-04-01",
+    "('Close', 'TATASTEEL.BO')":149.6116485596,
+    "('High', 'TATASTEEL.BO')":151.8103826931,
+    "('Low', 'TATASTEEL.BO')":148.292402115,
+    "('Open', 'TATASTEEL.BO')":148.292402115,
+    "('Volume', 'TATASTEEL.BO')":1382436
+  },
+  {
+    "('Date', '')":"2025-04-02",
+    "('Close', 'TATASTEEL.BO')":151.1263275146,
+    "('High', 'TATASTEEL.BO')":152.6410140849,
+    "('Low', 'TATASTEEL.BO')":148.7810169557,
+    "('Open', 'TATASTEEL.BO')":150.4911435873,
+    "('Volume', 'TATASTEEL.BO')":567963
+  },
+  {
+    "('Date', '')":"2025-04-03",
+    "('Close', 'TATASTEEL.BO')":150.1491088867,
+    "('High', 'TATASTEEL.BO')":152.3967068195,
+    "('Low', 'TATASTEEL.BO')":149.2207574328,
+    "('Open', 'TATASTEEL.BO')":149.3673486589,
+    "('Volume', 'TATASTEEL.BO')":349236
+  },
+  {
+    "('Date', '')":"2025-04-04",
+    "('Close', 'TATASTEEL.BO')":137.2498626709,
+    "('High', 'TATASTEEL.BO')":149.8559468538,
+    "('Low', 'TATASTEEL.BO')":136.8101188426,
+    "('Open', 'TATASTEEL.BO')":149.8559468538,
+    "('Volume', 'TATASTEEL.BO')":3086794
+  },
+  {
+    "('Date', '')":"2025-04-07",
+    "('Close', 'TATASTEEL.BO')":126.6470947266,
+    "('High', 'TATASTEEL.BO')":127.4777186923,
+    "('Low', 'TATASTEEL.BO')":121.3701237481,
+    "('Open', 'TATASTEEL.BO')":123.568857928,
+    "('Volume', 'TATASTEEL.BO')":7768312
+  },
+  {
+    "('Date', '')":"2025-04-08",
+    "('Close', 'TATASTEEL.BO')":127.2334136963,
+    "('High', 'TATASTEEL.BO')":133.1455685288,
+    "('Low', 'TATASTEEL.BO')":125.181270761,
+    "('Open', 'TATASTEEL.BO')":131.3865782192,
+    "('Volume', 'TATASTEEL.BO')":3198084
+  },
+  {
+    "('Date', '')":"2025-04-09",
+    "('Close', 'TATASTEEL.BO')":124.3017654419,
+    "('High', 'TATASTEEL.BO')":127.4288509735,
+    "('Low', 'TATASTEEL.BO')":122.493918886,
+    "('Open', 'TATASTEEL.BO')":127.4288509735,
+    "('Volume', 'TATASTEEL.BO')":1799410
+  },
+  {
+    "('Date', '')":"2025-04-11",
+    "('Close', 'TATASTEEL.BO')":130.409362793,
+    "('High', 'TATASTEEL.BO')":131.875185563,
+    "('Low', 'TATASTEEL.BO')":127.4288535116,
+    "('Open', 'TATASTEEL.BO')":131.875185563,
+    "('Volume', 'TATASTEEL.BO')":4556027
+  },
+  {
+    "('Date', '')":"2025-04-15",
+    "('Close', 'TATASTEEL.BO')":133.341003418,
+    "('High', 'TATASTEEL.BO')":133.7807472505,
+    "('Low', 'TATASTEEL.BO')":131.7286043948,
+    "('Open', 'TATASTEEL.BO')":132.363788274,
+    "('Volume', 'TATASTEEL.BO')":2156934
+  },
+  {
+    "('Date', '')":"2025-04-16",
+    "('Close', 'TATASTEEL.BO')":133.8296203613,
+    "('High', 'TATASTEEL.BO')":134.4648191961,
+    "('Low', 'TATASTEEL.BO')":131.5820223905,
+    "('Open', 'TATASTEEL.BO')":133.3410127551,
+    "('Volume', 'TATASTEEL.BO')":1925844
+  },
+  {
+    "('Date', '')":"2025-04-17",
+    "('Close', 'TATASTEEL.BO')":134.0250549316,
+    "('High', 'TATASTEEL.BO')":134.7579663109,
+    "('Low', 'TATASTEEL.BO')":130.6048018282,
+    "('Open', 'TATASTEEL.BO')":132.2660795502,
+    "('Volume', 'TATASTEEL.BO')":1378982
+  },
+  {
+    "('Date', '')":"2025-04-21",
+    "('Close', 'TATASTEEL.BO')":136.0283508301,
+    "('High', 'TATASTEEL.BO')":137.054429757,
+    "('Low', 'TATASTEEL.BO')":133.8784804043,
+    "('Open', 'TATASTEEL.BO')":134.8068318483,
+    "('Volume', 'TATASTEEL.BO')":1727408
+  },
+  {
+    "('Date', '')":"2025-04-22",
+    "('Close', 'TATASTEEL.BO')":134.953414917,
+    "('High', 'TATASTEEL.BO')":139.5951867673,
+    "('Low', 'TATASTEEL.BO')":134.6602473969,
+    "('Open', 'TATASTEEL.BO')":138.8622754225,
+    "('Volume', 'TATASTEEL.BO')":2241957
+  },
+  {
+    "('Date', '')":"2025-04-23",
+    "('Close', 'TATASTEEL.BO')":137.8850708008,
+    "('High', 'TATASTEEL.BO')":138.1782234321,
+    "('Low', 'TATASTEEL.BO')":134.1716500554,
+    "('Open', 'TATASTEEL.BO')":136.0772167148,
+    "('Volume', 'TATASTEEL.BO')":1229528
+  },
+  {
+    "('Date', '')":"2025-04-24",
+    "('Close', 'TATASTEEL.BO')":138.2759399414,
+    "('High', 'TATASTEEL.BO')":138.6668200263,
+    "('Low', 'TATASTEEL.BO')":137.0544210373,
+    "('Open', 'TATASTEEL.BO')":137.689604903,
+    "('Volume', 'TATASTEEL.BO')":846390
+  },
+  {
+    "('Date', '')":"2025-04-25",
+    "('Close', 'TATASTEEL.BO')":135.5397338867,
+    "('High', 'TATASTEEL.BO')":140.1815056973,
+    "('Low', 'TATASTEEL.BO')":134.9045500245,
+    "('Open', 'TATASTEEL.BO')":138.4225155026,
+    "('Volume', 'TATASTEEL.BO')":2064151
+  },
+  {
+    "('Date', '')":"2025-04-28",
+    "('Close', 'TATASTEEL.BO')":138.8134155273,
+    "('High', 'TATASTEEL.BO')":139.350886844,
+    "('Low', 'TATASTEEL.BO')":135.148858702,
+    "('Open', 'TATASTEEL.BO')":135.5397387989,
+    "('Volume', 'TATASTEEL.BO')":913452
+  },
+  {
+    "('Date', '')":"2025-04-29",
+    "('Close', 'TATASTEEL.BO')":138.2270812988,
+    "('High', 'TATASTEEL.BO')":140.0837990481,
+    "('Low', 'TATASTEEL.BO')":137.7873374594,
+    "('Open', 'TATASTEEL.BO')":138.6668251383,
+    "('Volume', 'TATASTEEL.BO')":1433385
+  },
+  {
+    "('Date', '')":"2025-04-30",
+    "('Close', 'TATASTEEL.BO')":136.565826416,
+    "('High', 'TATASTEEL.BO')":138.3248167868,
+    "('Low', 'TATASTEEL.BO')":135.3443073962,
+    "('Open', 'TATASTEEL.BO')":137.2010103419,
+    "('Volume', 'TATASTEEL.BO')":752026
+  },
+  {
+    "('Date', '')":"2025-05-02",
+    "('Close', 'TATASTEEL.BO')":138.0805053711,
+    "('High', 'TATASTEEL.BO')":139.7906319046,
+    "('Low', 'TATASTEEL.BO')":136.3215150973,
+    "('Open', 'TATASTEEL.BO')":136.6635463684,
+    "('Volume', 'TATASTEEL.BO')":703628
+  },
+  {
+    "('Date', '')":"2025-05-05",
+    "('Close', 'TATASTEEL.BO')":138.8622741699,
+    "('High', 'TATASTEEL.BO')":139.4485942938,
+    "('Low', 'TATASTEEL.BO')":137.9339078793,
+    "('Open', 'TATASTEEL.BO')":138.1293628318,
+    "('Volume', 'TATASTEEL.BO')":1287804
+  },
+  {
+    "('Date', '')":"2025-05-06",
+    "('Close', 'TATASTEEL.BO')":141.1098632812,
+    "('High', 'TATASTEEL.BO')":142.0382296131,
+    "('Low', 'TATASTEEL.BO')":138.2759452789,
+    "('Open', 'TATASTEEL.BO')":138.3736727594,
+    "('Volume', 'TATASTEEL.BO')":3407650
+  },
+  {
+    "('Date', '')":"2025-05-07",
+    "('Close', 'TATASTEEL.BO')":142.966583252,
+    "('High', 'TATASTEEL.BO')":144.041510999,
+    "('Low', 'TATASTEEL.BO')":138.8134187533,
+    "('Open', 'TATASTEEL.BO')":138.8134187533,
+    "('Volume', 'TATASTEEL.BO')":1667608
+  },
+  {
+    "('Date', '')":"2025-05-08",
+    "('Close', 'TATASTEEL.BO')":140.376953125,
+    "('High', 'TATASTEEL.BO')":143.357462374,
+    "('Low', 'TATASTEEL.BO')":139.7417692293,
+    "('Open', 'TATASTEEL.BO')":142.91771853,
+    "('Volume', 'TATASTEEL.BO')":1737854
+  },
+  {
+    "('Date', '')":"2025-05-09",
+    "('Close', 'TATASTEEL.BO')":139.497467041,
+    "('High', 'TATASTEEL.BO')":140.0349383726,
+    "('Low', 'TATASTEEL.BO')":137.201005402,
+    "('Open', 'TATASTEEL.BO')":137.396460367,
+    "('Volume', 'TATASTEEL.BO')":1082494
+  },
+  {
+    "('Date', '')":"2025-05-12",
+    "('Close', 'TATASTEEL.BO')":148.0969696045,
+    "('High', 'TATASTEEL.BO')":148.4878497281,
+    "('Low', 'TATASTEEL.BO')":141.6473431867,
+    "('Open', 'TATASTEEL.BO')":142.4291183451,
+    "('Volume', 'TATASTEEL.BO')":1709993
+  },
+  {
+    "('Date', '')":"2025-05-13",
+    "('Close', 'TATASTEEL.BO')":146.0936737061,
+    "('High', 'TATASTEEL.BO')":149.465063194,
+    "('Low', 'TATASTEEL.BO')":145.6539298443,
+    "('Open', 'TATASTEEL.BO')":148.8787430154,
+    "('Volume', 'TATASTEEL.BO')":3408140
+  },
+  {
+    "('Date', '')":"2025-05-14",
+    "('Close', 'TATASTEEL.BO')":151.7615203857,
+    "('High', 'TATASTEEL.BO')":153.5693595215,
+    "('Low', 'TATASTEEL.BO')":147.5594921309,
+    "('Open', 'TATASTEEL.BO')":147.7549321846,
+    "('Volume', 'TATASTEEL.BO')":4546411
+  },
+  {
+    "('Date', '')":"2025-05-15",
+    "('Close', 'TATASTEEL.BO')":153.7648162842,
+    "('High', 'TATASTEEL.BO')":154.2534238797,
+    "('Low', 'TATASTEEL.BO')":150.7843069691,
+    "('Open', 'TATASTEEL.BO')":152.4944335535,
+    "('Volume', 'TATASTEEL.BO')":1810366
+  },
+  {
+    "('Date', '')":"2025-05-16",
+    "('Close', 'TATASTEEL.BO')":153.8625183105,
+    "('High', 'TATASTEEL.BO')":154.6442933921,
+    "('Low', 'TATASTEEL.BO')":153.4227744869,
+    "('Open', 'TATASTEEL.BO')":154.15568583,
+    "('Volume', 'TATASTEEL.BO')":918450
+  },
+  {
+    "('Date', '')":"2025-05-19",
+    "('Close', 'TATASTEEL.BO')":153.9113922119,
+    "('High', 'TATASTEEL.BO')":154.4488635479,
+    "('Low', 'TATASTEEL.BO')":152.5921457428,
+    "('Open', 'TATASTEEL.BO')":153.4716483592,
+    "('Volume', 'TATASTEEL.BO')":837651
+  },
+  {
+    "('Date', '')":"2025-05-20",
+    "('Close', 'TATASTEEL.BO')":155.0351867676,
+    "('High', 'TATASTEEL.BO')":158.3088636785,
+    "('Low', 'TATASTEEL.BO')":154.4488665895,
+    "('Open', 'TATASTEEL.BO')":154.4488665895,
+    "('Volume', 'TATASTEEL.BO')":1759376
+  },
+  {
+    "('Date', '')":"2025-05-21",
+    "('Close', 'TATASTEEL.BO')":157.9179840088,
+    "('High', 'TATASTEEL.BO')":158.2111366431,
+    "('Low', 'TATASTEEL.BO')":154.9863383768,
+    "('Open', 'TATASTEEL.BO')":155.7192497848,
+    "('Volume', 'TATASTEEL.BO')":986711
+  },
+  {
+    "('Date', '')":"2025-05-22",
+    "('Close', 'TATASTEEL.BO')":157.5759429932,
+    "('High', 'TATASTEEL.BO')":159.8235408212,
+    "('Low', 'TATASTEEL.BO')":156.403287795,
+    "('Open', 'TATASTEEL.BO')":156.403287795,
+    "('Volume', 'TATASTEEL.BO')":1971611
+  },
+  {
+    "('Date', '')":"2025-05-23",
+    "('Close', 'TATASTEEL.BO')":159.1883392334,
+    "('High', 'TATASTEEL.BO')":159.5303704945,
+    "('Low', 'TATASTEEL.BO')":157.8202440114,
+    "('Open', 'TATASTEEL.BO')":157.8202440114,
+    "('Volume', 'TATASTEEL.BO')":1313619
+  },
+  {
+    "('Date', '')":"2025-05-26",
+    "('Close', 'TATASTEEL.BO')":158.6997375488,
+    "('High', 'TATASTEEL.BO')":161.8268380199,
+    "('Low', 'TATASTEEL.BO')":158.3088574455,
+    "('Open', 'TATASTEEL.BO')":159.2860726149,
+    "('Volume', 'TATASTEEL.BO')":1107656
+  },
+  {
+    "('Date', '')":"2025-05-27",
+    "('Close', 'TATASTEEL.BO')":158.0156860352,
+    "('High', 'TATASTEEL.BO')":160.1655563729,
+    "('Low', 'TATASTEEL.BO')":156.8918945824,
+    "('Open', 'TATASTEEL.BO')":158.6020210869,
+    "('Volume', 'TATASTEEL.BO')":1240748
+  },
+  {
+    "('Date', '')":"2025-05-28",
+    "('Close', 'TATASTEEL.BO')":157.3805084229,
+    "('High', 'TATASTEEL.BO')":158.9929075126,
+    "('Low', 'TATASTEEL.BO')":156.9407645721,
+    "('Open', 'TATASTEEL.BO')":158.8951949408,
+    "('Volume', 'TATASTEEL.BO')":1164070
+  },
+  {
+    "('Date', '')":"2025-05-29",
+    "('Close', 'TATASTEEL.BO')":159.3838043213,
+    "('High', 'TATASTEEL.BO')":160.2144282906,
+    "('Low', 'TATASTEEL.BO')":157.7225265603,
+    "('Open', 'TATASTEEL.BO')":158.308861642,
+    "('Volume', 'TATASTEEL.BO')":1081277
+  },
+  {
+    "('Date', '')":"2025-05-30",
+    "('Close', 'TATASTEEL.BO')":157.3316497803,
+    "('High', 'TATASTEEL.BO')":160.1655679423,
+    "('Low', 'TATASTEEL.BO')":156.8430421723,
+    "('Open', 'TATASTEEL.BO')":159.3838076984,
+    "('Volume', 'TATASTEEL.BO')":632196
+  },
+  {
+    "('Date', '')":"2025-06-02",
+    "('Close', 'TATASTEEL.BO')":155.426071167,
+    "('High', 'TATASTEEL.BO')":156.5498626148,
+    "('Low', 'TATASTEEL.BO')":153.6670809309,
+    "('Open', 'TATASTEEL.BO')":154.4488560259,
+    "('Volume', 'TATASTEEL.BO')":1058729
+  },
+  {
+    "('Date', '')":"2025-06-03",
+    "('Close', 'TATASTEEL.BO')":153.7159423828,
+    "('High', 'TATASTEEL.BO')":156.9407552825,
+    "('Low', 'TATASTEEL.BO')":153.4716386012,
+    "('Open', 'TATASTEEL.BO')":155.3772051157,
+    "('Volume', 'TATASTEEL.BO')":1679863
+  },
+  {
+    "('Date', '')":"2025-06-04",
+    "('Close', 'TATASTEEL.BO')":154.5465698242,
+    "('High', 'TATASTEEL.BO')":155.3283449255,
+    "('Low', 'TATASTEEL.BO')":153.22733832,
+    "('Open', 'TATASTEEL.BO')":153.6670821547,
+    "('Volume', 'TATASTEEL.BO')":699088
+  },
+  {
+    "('Date', '')":"2025-06-05",
+    "('Close', 'TATASTEEL.BO')":154.3999938965,
+    "('High', 'TATASTEEL.BO')":155.4749365273,
+    "('Low', 'TATASTEEL.BO')":153.4227787452,
+    "('Open', 'TATASTEEL.BO')":154.9863289517,
+    "('Volume', 'TATASTEEL.BO')":641989
+  },
+  {
+    "('Date', '')":"2025-06-06",
+    "('Close', 'TATASTEEL.BO')":157.5,
+    "('High', 'TATASTEEL.BO')":157.8500061035,
+    "('Low', 'TATASTEEL.BO')":154.3000030518,
+    "('Open', 'TATASTEEL.BO')":155.8999938965,
+    "('Volume', 'TATASTEEL.BO')":1469254
+  },
+  {
+    "('Date', '')":"2025-06-09",
+    "('Close', 'TATASTEEL.BO')":157.25,
+    "('High', 'TATASTEEL.BO')":158.25,
+    "('Low', 'TATASTEEL.BO')":156.75,
+    "('Open', 'TATASTEEL.BO')":157.5,
+    "('Volume', 'TATASTEEL.BO')":1526657
+  },
+  {
+    "('Date', '')":"2025-06-10",
+    "('Close', 'TATASTEEL.BO')":155.6999969482,
+    "('High', 'TATASTEEL.BO')":159.3500061035,
+    "('Low', 'TATASTEEL.BO')":155.4499969482,
+    "('Open', 'TATASTEEL.BO')":157.8000030518,
+    "('Volume', 'TATASTEEL.BO')":1172765
+  },
+  {
+    "('Date', '')":"2025-06-11",
+    "('Close', 'TATASTEEL.BO')":156.3500061035,
+    "('High', 'TATASTEEL.BO')":157.5500030518,
+    "('Low', 'TATASTEEL.BO')":155.25,
+    "('Open', 'TATASTEEL.BO')":156.1999969482,
+    "('Volume', 'TATASTEEL.BO')":1282320
+  },
+  {
+    "('Date', '')":"2025-06-12",
+    "('Close', 'TATASTEEL.BO')":152.8500061035,
+    "('High', 'TATASTEEL.BO')":156.1999969482,
+    "('Low', 'TATASTEEL.BO')":151.8500061035,
+    "('Open', 'TATASTEEL.BO')":156.1999969482,
+    "('Volume', 'TATASTEEL.BO')":806446
+  },
+  {
+    "('Date', '')":"2025-06-13",
+    "('Close', 'TATASTEEL.BO')":152.1999969482,
+    "('High', 'TATASTEEL.BO')":152.3999938965,
+    "('Low', 'TATASTEEL.BO')":149.6999969482,
+    "('Open', 'TATASTEEL.BO')":150.8500061035,
+    "('Volume', 'TATASTEEL.BO')":1405591
+  },
+  {
+    "('Date', '')":"2025-06-16",
+    "('Close', 'TATASTEEL.BO')":154.1000061035,
+    "('High', 'TATASTEEL.BO')":154.4499969482,
+    "('Low', 'TATASTEEL.BO')":150.8000030518,
+    "('Open', 'TATASTEEL.BO')":151.3999938965,
+    "('Volume', 'TATASTEEL.BO')":1127804
+  },
+  {
+    "('Date', '')":"2025-06-17",
+    "('Close', 'TATASTEEL.BO')":152.6000061035,
+    "('High', 'TATASTEEL.BO')":154.8999938965,
+    "('Low', 'TATASTEEL.BO')":152.3999938965,
+    "('Open', 'TATASTEEL.BO')":153.9499969482,
+    "('Volume', 'TATASTEEL.BO')":442379
+  },
+  {
+    "('Date', '')":"2025-06-18",
+    "('Close', 'TATASTEEL.BO')":152.0500030518,
+    "('High', 'TATASTEEL.BO')":153.1999969482,
+    "('Low', 'TATASTEEL.BO')":150.8000030518,
+    "('Open', 'TATASTEEL.BO')":152.0,
+    "('Volume', 'TATASTEEL.BO')":754067
+  },
+  {
+    "('Date', '')":"2025-06-19",
+    "('Close', 'TATASTEEL.BO')":150.9499969482,
+    "('High', 'TATASTEEL.BO')":152.5,
+    "('Low', 'TATASTEEL.BO')":150.4499969482,
+    "('Open', 'TATASTEEL.BO')":151.8000030518,
+    "('Volume', 'TATASTEEL.BO')":502194
+  },
+  {
+    "('Date', '')":"2025-06-20",
+    "('Close', 'TATASTEEL.BO')":151.8999938965,
+    "('High', 'TATASTEEL.BO')":153.1999969482,
+    "('Low', 'TATASTEEL.BO')":150.6000061035,
+    "('Open', 'TATASTEEL.BO')":150.9499969482,
+    "('Volume', 'TATASTEEL.BO')":488365
+  },
+  {
+    "('Date', '')":"2025-06-23",
+    "('Close', 'TATASTEEL.BO')":152.4499969482,
+    "('High', 'TATASTEEL.BO')":153.3500061035,
+    "('Low', 'TATASTEEL.BO')":150.4499969482,
+    "('Open', 'TATASTEEL.BO')":150.5,
+    "('Volume', 'TATASTEEL.BO')":566461
+  },
+  {
+    "('Date', '')":"2025-06-24",
+    "('Close', 'TATASTEEL.BO')":154.8000030518,
+    "('High', 'TATASTEEL.BO')":157.0,
+    "('Low', 'TATASTEEL.BO')":153.3000030518,
+    "('Open', 'TATASTEEL.BO')":153.3000030518,
+    "('Volume', 'TATASTEEL.BO')":1831943
+  },
+  {
+    "('Date', '')":"2025-06-25",
+    "('Close', 'TATASTEEL.BO')":156.3999938965,
+    "('High', 'TATASTEEL.BO')":156.8500061035,
+    "('Low', 'TATASTEEL.BO')":155.5,
+    "('Open', 'TATASTEEL.BO')":156.0,
+    "('Volume', 'TATASTEEL.BO')":833954
+  },
+  {
+    "('Date', '')":"2025-06-26",
+    "('Close', 'TATASTEEL.BO')":160.5,
+    "('High', 'TATASTEEL.BO')":161.0,
+    "('Low', 'TATASTEEL.BO')":156.5500030518,
+    "('Open', 'TATASTEEL.BO')":156.6000061035,
+    "('Volume', 'TATASTEEL.BO')":3293862
+  },
+  {
+    "('Date', '')":"2025-06-27",
+    "('Close', 'TATASTEEL.BO')":161.3999938965,
+    "('High', 'TATASTEEL.BO')":163.3500061035,
+    "('Low', 'TATASTEEL.BO')":160.75,
+    "('Open', 'TATASTEEL.BO')":160.75,
+    "('Volume', 'TATASTEEL.BO')":1855477
+  },
+  {
+    "('Date', '')":"2025-06-30",
+    "('Close', 'TATASTEEL.BO')":159.75,
+    "('High', 'TATASTEEL.BO')":162.25,
+    "('Low', 'TATASTEEL.BO')":159.5,
+    "('Open', 'TATASTEEL.BO')":161.0,
+    "('Volume', 'TATASTEEL.BO')":759212
+  },
+  {
+    "('Date', '')":"2025-07-01",
+    "('Close', 'TATASTEEL.BO')":159.9499969482,
+    "('High', 'TATASTEEL.BO')":160.3500061035,
+    "('Low', 'TATASTEEL.BO')":157.75,
+    "('Open', 'TATASTEEL.BO')":160.3500061035,
+    "('Volume', 'TATASTEEL.BO')":1482091
+  },
+  {
+    "('Date', '')":"2025-07-02",
+    "('Close', 'TATASTEEL.BO')":165.8999938965,
+    "('High', 'TATASTEEL.BO')":166.1000061035,
+    "('Low', 'TATASTEEL.BO')":159.8999938965,
+    "('Open', 'TATASTEEL.BO')":160.1000061035,
+    "('Volume', 'TATASTEEL.BO')":2591744
+  },
+  {
+    "('Date', '')":"2025-07-03",
+    "('Close', 'TATASTEEL.BO')":165.8500061035,
+    "('High', 'TATASTEEL.BO')":168.75,
+    "('Low', 'TATASTEEL.BO')":165.1499938965,
+    "('Open', 'TATASTEEL.BO')":166.25,
+    "('Volume', 'TATASTEEL.BO')":3584427
+  },
+  {
+    "('Date', '')":"2025-07-04",
+    "('Close', 'TATASTEEL.BO')":163.0,
+    "('High', 'TATASTEEL.BO')":166.3999938965,
+    "('Low', 'TATASTEEL.BO')":162.0500030518,
+    "('Open', 'TATASTEEL.BO')":166.0,
+    "('Volume', 'TATASTEEL.BO')":932221
+  },
+  {
+    "('Date', '')":"2025-07-07",
+    "('Close', 'TATASTEEL.BO')":162.3999938965,
+    "('High', 'TATASTEEL.BO')":163.3999938965,
+    "('Low', 'TATASTEEL.BO')":161.5500030518,
+    "('Open', 'TATASTEEL.BO')":162.8000030518,
+    "('Volume', 'TATASTEEL.BO')":527792
+  },
+  {
+    "('Date', '')":"2025-07-08",
+    "('Close', 'TATASTEEL.BO')":161.9499969482,
+    "('High', 'TATASTEEL.BO')":162.9499969482,
+    "('Low', 'TATASTEEL.BO')":161.5500030518,
+    "('Open', 'TATASTEEL.BO')":162.1999969482,
+    "('Volume', 'TATASTEEL.BO')":1019797
+  },
+  {
+    "('Date', '')":"2025-07-09",
+    "('Close', 'TATASTEEL.BO')":159.0,
+    "('High', 'TATASTEEL.BO')":161.9499969482,
+    "('Low', 'TATASTEEL.BO')":157.5500030518,
+    "('Open', 'TATASTEEL.BO')":161.8999938965,
+    "('Volume', 'TATASTEEL.BO')":770093
+  },
+  {
+    "('Date', '')":"2025-07-10",
+    "('Close', 'TATASTEEL.BO')":160.6499938965,
+    "('High', 'TATASTEEL.BO')":161.5500030518,
+    "('Low', 'TATASTEEL.BO')":159.25,
+    "('Open', 'TATASTEEL.BO')":160.0,
+    "('Volume', 'TATASTEEL.BO')":1051278
+  },
+  {
+    "('Date', '')":"2025-07-11",
+    "('Close', 'TATASTEEL.BO')":159.8500061035,
+    "('High', 'TATASTEEL.BO')":161.6499938965,
+    "('Low', 'TATASTEEL.BO')":159.3500061035,
+    "('Open', 'TATASTEEL.BO')":160.8500061035,
+    "('Volume', 'TATASTEEL.BO')":512079
+  },
+  {
+    "('Date', '')":"2025-07-14",
+    "('Close', 'TATASTEEL.BO')":160.3500061035,
+    "('High', 'TATASTEEL.BO')":161.1000061035,
+    "('Low', 'TATASTEEL.BO')":159.25,
+    "('Open', 'TATASTEEL.BO')":159.6999969482,
+    "('Volume', 'TATASTEEL.BO')":702508
+  },
+  {
+    "('Date', '')":"2025-07-15",
+    "('Close', 'TATASTEEL.BO')":159.0500030518,
+    "('High', 'TATASTEEL.BO')":160.8500061035,
+    "('Low', 'TATASTEEL.BO')":158.0500030518,
+    "('Open', 'TATASTEEL.BO')":160.6000061035,
+    "('Volume', 'TATASTEEL.BO')":673404
+  },
+  {
+    "('Date', '')":"2025-07-16",
+    "('Close', 'TATASTEEL.BO')":157.3000030518,
+    "('High', 'TATASTEEL.BO')":159.3000030518,
+    "('Low', 'TATASTEEL.BO')":157.0,
+    "('Open', 'TATASTEEL.BO')":158.8000030518,
+    "('Volume', 'TATASTEEL.BO')":774017
+  },
+  {
+    "('Date', '')":"2025-07-17",
+    "('Close', 'TATASTEEL.BO')":159.8500061035,
+    "('High', 'TATASTEEL.BO')":160.75,
+    "('Low', 'TATASTEEL.BO')":157.1499938965,
+    "('Open', 'TATASTEEL.BO')":157.3500061035,
+    "('Volume', 'TATASTEEL.BO')":875470
+  },
+  {
+    "('Date', '')":"2025-07-18",
+    "('Close', 'TATASTEEL.BO')":162.5,
+    "('High', 'TATASTEEL.BO')":162.8500061035,
+    "('Low', 'TATASTEEL.BO')":160.0500030518,
+    "('Open', 'TATASTEEL.BO')":160.0500030518,
+    "('Volume', 'TATASTEEL.BO')":973692
+  },
+  {
+    "('Date', '')":"2025-07-21",
+    "('Close', 'TATASTEEL.BO')":162.9499969482,
+    "('High', 'TATASTEEL.BO')":165.5500030518,
+    "('Low', 'TATASTEEL.BO')":162.3000030518,
+    "('Open', 'TATASTEEL.BO')":162.3000030518,
+    "('Volume', 'TATASTEEL.BO')":2818643
+  },
+  {
+    "('Date', '')":"2025-07-22",
+    "('Close', 'TATASTEEL.BO')":163.0,
+    "('High', 'TATASTEEL.BO')":164.3999938965,
+    "('Low', 'TATASTEEL.BO')":162.8000030518,
+    "('Open', 'TATASTEEL.BO')":163.1000061035,
+    "('Volume', 'TATASTEEL.BO')":1038097
+  },
+  {
+    "('Date', '')":"2025-07-23",
+    "('Close', 'TATASTEEL.BO')":162.8000030518,
+    "('High', 'TATASTEEL.BO')":164.1499938965,
+    "('Low', 'TATASTEEL.BO')":161.8999938965,
+    "('Open', 'TATASTEEL.BO')":163.1000061035,
+    "('Volume', 'TATASTEEL.BO')":459930
+  },
+  {
+    "('Date', '')":"2025-07-24",
+    "('Close', 'TATASTEEL.BO')":163.4499969482,
+    "('High', 'TATASTEEL.BO')":164.6999969482,
+    "('Low', 'TATASTEEL.BO')":162.75,
+    "('Open', 'TATASTEEL.BO')":162.75,
+    "('Volume', 'TATASTEEL.BO')":1230280
+  },
+  {
+    "('Date', '')":"2025-07-25",
+    "('Close', 'TATASTEEL.BO')":161.3999938965,
+    "('High', 'TATASTEEL.BO')":163.6999969482,
+    "('Low', 'TATASTEEL.BO')":160.8000030518,
+    "('Open', 'TATASTEEL.BO')":163.6999969482,
+    "('Volume', 'TATASTEEL.BO')":992201
+  },
+  {
+    "('Date', '')":"2025-07-28",
+    "('Close', 'TATASTEEL.BO')":159.6499938965,
+    "('High', 'TATASTEEL.BO')":162.3000030518,
+    "('Low', 'TATASTEEL.BO')":159.0500030518,
+    "('Open', 'TATASTEEL.BO')":161.3999938965,
+    "('Volume', 'TATASTEEL.BO')":631727
+  },
+  {
+    "('Date', '')":"2025-07-29",
+    "('Close', 'TATASTEEL.BO')":161.6999969482,
+    "('High', 'TATASTEEL.BO')":162.3500061035,
+    "('Low', 'TATASTEEL.BO')":158.3000030518,
+    "('Open', 'TATASTEEL.BO')":158.9499969482,
+    "('Volume', 'TATASTEEL.BO')":631719
+  },
+  {
+    "('Date', '')":"2025-07-30",
+    "('Close', 'TATASTEEL.BO')":161.3500061035,
+    "('High', 'TATASTEEL.BO')":162.8500061035,
+    "('Low', 'TATASTEEL.BO')":161.0500030518,
+    "('Open', 'TATASTEEL.BO')":161.1000061035,
+    "('Volume', 'TATASTEEL.BO')":802351
+  },
+  {
+    "('Date', '')":"2025-07-31",
+    "('Close', 'TATASTEEL.BO')":157.8000030518,
+    "('High', 'TATASTEEL.BO')":162.1999969482,
+    "('Low', 'TATASTEEL.BO')":156.5,
+    "('Open', 'TATASTEEL.BO')":161.3500061035,
+    "('Volume', 'TATASTEEL.BO')":1053251
+  },
+  {
+    "('Date', '')":"2025-08-01",
+    "('Close', 'TATASTEEL.BO')":153.0,
+    "('High', 'TATASTEEL.BO')":157.9499969482,
+    "('Low', 'TATASTEEL.BO')":152.5500030518,
+    "('Open', 'TATASTEEL.BO')":157.8000030518,
+    "('Volume', 'TATASTEEL.BO')":860398
+  },
+  {
+    "('Date', '')":"2025-08-04",
+    "('Close', 'TATASTEEL.BO')":159.6000061035,
+    "('High', 'TATASTEEL.BO')":159.8999938965,
+    "('Low', 'TATASTEEL.BO')":153.6499938965,
+    "('Open', 'TATASTEEL.BO')":154.3500061035,
+    "('Volume', 'TATASTEEL.BO')":1200553
+  },
+  {
+    "('Date', '')":"2025-08-05",
+    "('Close', 'TATASTEEL.BO')":159.6000061035,
+    "('High', 'TATASTEEL.BO')":160.1499938965,
+    "('Low', 'TATASTEEL.BO')":158.1999969482,
+    "('Open', 'TATASTEEL.BO')":159.6000061035,
+    "('Volume', 'TATASTEEL.BO')":950491
+  },
+  {
+    "('Date', '')":"2025-08-06",
+    "('Close', 'TATASTEEL.BO')":158.6999969482,
+    "('High', 'TATASTEEL.BO')":159.8500061035,
+    "('Low', 'TATASTEEL.BO')":157.8000030518,
+    "('Open', 'TATASTEEL.BO')":159.6000061035,
+    "('Volume', 'TATASTEEL.BO')":417517
+  },
+  {
+    "('Date', '')":"2025-08-07",
+    "('Close', 'TATASTEEL.BO')":159.6999969482,
+    "('High', 'TATASTEEL.BO')":160.0,
+    "('Low', 'TATASTEEL.BO')":156.25,
+    "('Open', 'TATASTEEL.BO')":156.8000030518,
+    "('Volume', 'TATASTEEL.BO')":930942
+  },
+  {
+    "('Date', '')":"2025-08-08",
+    "('Close', 'TATASTEEL.BO')":158.0,
+    "('High', 'TATASTEEL.BO')":160.0,
+    "('Low', 'TATASTEEL.BO')":157.0,
+    "('Open', 'TATASTEEL.BO')":159.1999969482,
+    "('Volume', 'TATASTEEL.BO')":731632
+  },
+  {
+    "('Date', '')":"2025-08-11",
+    "('Close', 'TATASTEEL.BO')":158.8500061035,
+    "('High', 'TATASTEEL.BO')":160.0,
+    "('Low', 'TATASTEEL.BO')":157.0500030518,
+    "('Open', 'TATASTEEL.BO')":157.8999938965,
+    "('Volume', 'TATASTEEL.BO')":1371736
+  },
+  {
+    "('Date', '')":"2025-08-12",
+    "('Close', 'TATASTEEL.BO')":160.1999969482,
+    "('High', 'TATASTEEL.BO')":161.6499938965,
+    "('Low', 'TATASTEEL.BO')":158.3500061035,
+    "('Open', 'TATASTEEL.BO')":158.3500061035,
+    "('Volume', 'TATASTEEL.BO')":2702852
+  },
+  {
+    "('Date', '')":"2025-08-13",
+    "('Close', 'TATASTEEL.BO')":160.1499938965,
+    "('High', 'TATASTEEL.BO')":162.3999938965,
+    "('Low', 'TATASTEEL.BO')":159.8500061035,
+    "('Open', 'TATASTEEL.BO')":160.5,
+    "('Volume', 'TATASTEEL.BO')":1993101
+  },
+  {
+    "('Date', '')":"2025-08-14",
+    "('Close', 'TATASTEEL.BO')":155.3000030518,
+    "('High', 'TATASTEEL.BO')":162.0,
+    "('Low', 'TATASTEEL.BO')":154.8999938965,
+    "('Open', 'TATASTEEL.BO')":160.1499938965,
+    "('Volume', 'TATASTEEL.BO')":1151146
+  },
+  {
+    "('Date', '')":"2025-08-18",
+    "('Close', 'TATASTEEL.BO')":157.9499969482,
+    "('High', 'TATASTEEL.BO')":158.6000061035,
+    "('Low', 'TATASTEEL.BO')":156.0,
+    "('Open', 'TATASTEEL.BO')":158.4499969482,
+    "('Volume', 'TATASTEEL.BO')":1252561
+  },
+  {
+    "('Date', '')":"2025-08-19",
+    "('Close', 'TATASTEEL.BO')":159.1000061035,
+    "('High', 'TATASTEEL.BO')":159.5,
+    "('Low', 'TATASTEEL.BO')":156.75,
+    "('Open', 'TATASTEEL.BO')":158.3000030518,
+    "('Volume', 'TATASTEEL.BO')":547420
+  },
+  {
+    "('Date', '')":"2025-08-20",
+    "('Close', 'TATASTEEL.BO')":161.9499969482,
+    "('High', 'TATASTEEL.BO')":162.6999969482,
+    "('Low', 'TATASTEEL.BO')":158.0,
+    "('Open', 'TATASTEEL.BO')":158.1000061035,
+    "('Volume', 'TATASTEEL.BO')":996007
+  },
+  {
+    "('Date', '')":"2025-08-21",
+    "('Close', 'TATASTEEL.BO')":161.5,
+    "('High', 'TATASTEEL.BO')":162.5500030518,
+    "('Low', 'TATASTEEL.BO')":161.1000061035,
+    "('Open', 'TATASTEEL.BO')":162.0,
+    "('Volume', 'TATASTEEL.BO')":2531809
+  },
+  {
+    "('Date', '')":"2025-08-22",
+    "('Close', 'TATASTEEL.BO')":158.5500030518,
+    "('High', 'TATASTEEL.BO')":161.3999938965,
+    "('Low', 'TATASTEEL.BO')":158.25,
+    "('Open', 'TATASTEEL.BO')":161.3999938965,
+    "('Volume', 'TATASTEEL.BO')":511168
+  },
+  {
+    "('Date', '')":"2025-08-25",
+    "('Close', 'TATASTEEL.BO')":159.6000061035,
+    "('High', 'TATASTEEL.BO')":160.3500061035,
+    "('Low', 'TATASTEEL.BO')":158.6499938965,
+    "('Open', 'TATASTEEL.BO')":159.0,
+    "('Volume', 'TATASTEEL.BO')":776129
+  },
+  {
+    "('Date', '')":"2025-08-26",
+    "('Close', 'TATASTEEL.BO')":155.0,
+    "('High', 'TATASTEEL.BO')":159.5,
+    "('Low', 'TATASTEEL.BO')":154.6000061035,
+    "('Open', 'TATASTEEL.BO')":159.5,
+    "('Volume', 'TATASTEEL.BO')":1027421
+  },
+  {
+    "('Date', '')":"2025-08-28",
+    "('Close', 'TATASTEEL.BO')":153.5500030518,
+    "('High', 'TATASTEEL.BO')":156.1000061035,
+    "('Low', 'TATASTEEL.BO')":153.1999969482,
+    "('Open', 'TATASTEEL.BO')":156.1000061035,
+    "('Volume', 'TATASTEEL.BO')":725103
+  },
+  {
+    "('Date', '')":"2025-08-29",
+    "('Close', 'TATASTEEL.BO')":154.4499969482,
+    "('High', 'TATASTEEL.BO')":155.1999969482,
+    "('Low', 'TATASTEEL.BO')":153.0,
+    "('Open', 'TATASTEEL.BO')":154.25,
+    "('Volume', 'TATASTEEL.BO')":385029
+  },
+  {
+    "('Date', '')":"2025-09-01",
+    "('Close', 'TATASTEEL.BO')":156.1999969482,
+    "('High', 'TATASTEEL.BO')":156.3500061035,
+    "('Low', 'TATASTEEL.BO')":153.8999938965,
+    "('Open', 'TATASTEEL.BO')":154.3000030518,
+    "('Volume', 'TATASTEEL.BO')":430231
+  },
+  {
+    "('Date', '')":"2025-09-02",
+    "('Close', 'TATASTEEL.BO')":158.4499969482,
+    "('High', 'TATASTEEL.BO')":159.0500030518,
+    "('Low', 'TATASTEEL.BO')":155.5,
+    "('Open', 'TATASTEEL.BO')":155.75,
+    "('Volume', 'TATASTEEL.BO')":1582539
+  },
+  {
+    "('Date', '')":"2025-09-03",
+    "('Close', 'TATASTEEL.BO')":167.8000030518,
+    "('High', 'TATASTEEL.BO')":168.0,
+    "('Low', 'TATASTEEL.BO')":158.4499969482,
+    "('Open', 'TATASTEEL.BO')":158.4499969482,
+    "('Volume', 'TATASTEEL.BO')":8779590
+  },
+  {
+    "('Date', '')":"2025-09-04",
+    "('Close', 'TATASTEEL.BO')":166.75,
+    "('High', 'TATASTEEL.BO')":169.1999969482,
+    "('Low', 'TATASTEEL.BO')":166.6000061035,
+    "('Open', 'TATASTEEL.BO')":169.0,
+    "('Volume', 'TATASTEEL.BO')":1328191
+  },
+  {
+    "('Date', '')":"2025-09-05",
+    "('Close', 'TATASTEEL.BO')":167.6499938965,
+    "('High', 'TATASTEEL.BO')":168.0,
+    "('Low', 'TATASTEEL.BO')":165.9499969482,
+    "('Open', 'TATASTEEL.BO')":166.8000030518,
+    "('Volume', 'TATASTEEL.BO')":609853
+  },
+  {
+    "('Date', '')":"2025-09-08",
+    "('Close', 'TATASTEEL.BO')":168.8500061035,
+    "('High', 'TATASTEEL.BO')":172.4499969482,
+    "('Low', 'TATASTEEL.BO')":168.4499969482,
+    "('Open', 'TATASTEEL.BO')":169.25,
+    "('Volume', 'TATASTEEL.BO')":1643011
+  },
+  {
+    "('Date', '')":"2025-09-09",
+    "('Close', 'TATASTEEL.BO')":169.1499938965,
+    "('High', 'TATASTEEL.BO')":169.8000030518,
+    "('Low', 'TATASTEEL.BO')":168.0,
+    "('Open', 'TATASTEEL.BO')":169.1000061035,
+    "('Volume', 'TATASTEEL.BO')":1189204
+  },
+  {
+    "('Date', '')":"2025-09-10",
+    "('Close', 'TATASTEEL.BO')":169.3500061035,
+    "('High', 'TATASTEEL.BO')":170.6999969482,
+    "('Low', 'TATASTEEL.BO')":168.3000030518,
+    "('Open', 'TATASTEEL.BO')":169.1499938965,
+    "('Volume', 'TATASTEEL.BO')":1843576
+  },
+  {
+    "('Date', '')":"2025-09-11",
+    "('Close', 'TATASTEEL.BO')":169.3999938965,
+    "('High', 'TATASTEEL.BO')":170.8500061035,
+    "('Low', 'TATASTEEL.BO')":168.5,
+    "('Open', 'TATASTEEL.BO')":169.1999969482,
+    "('Volume', 'TATASTEEL.BO')":657665
+  },
+  {
+    "('Date', '')":"2025-09-12",
+    "('Close', 'TATASTEEL.BO')":169.8000030518,
+    "('High', 'TATASTEEL.BO')":171.0,
+    "('Low', 'TATASTEEL.BO')":168.6000061035,
+    "('Open', 'TATASTEEL.BO')":169.8000030518,
+    "('Volume', 'TATASTEEL.BO')":1234298
+  },
+  {
+    "('Date', '')":"2025-09-15",
+    "('Close', 'TATASTEEL.BO')":169.1999969482,
+    "('High', 'TATASTEEL.BO')":170.1999969482,
+    "('Low', 'TATASTEEL.BO')":168.6000061035,
+    "('Open', 'TATASTEEL.BO')":169.6000061035,
+    "('Volume', 'TATASTEEL.BO')":1933165
+  },
+  {
+    "('Date', '')":"2025-09-16",
+    "('Close', 'TATASTEEL.BO')":172.0,
+    "('High', 'TATASTEEL.BO')":172.3000030518,
+    "('Low', 'TATASTEEL.BO')":168.6000061035,
+    "('Open', 'TATASTEEL.BO')":168.6000061035,
+    "('Volume', 'TATASTEEL.BO')":1714698
+  },
+  {
+    "('Date', '')":"2025-09-17",
+    "('Close', 'TATASTEEL.BO')":171.25,
+    "('High', 'TATASTEEL.BO')":172.6000061035,
+    "('Low', 'TATASTEEL.BO')":169.3000030518,
+    "('Open', 'TATASTEEL.BO')":172.6000061035,
+    "('Volume', 'TATASTEEL.BO')":1225524
+  },
+  {
+    "('Date', '')":"2025-09-18",
+    "('Close', 'TATASTEEL.BO')":172.0,
+    "('High', 'TATASTEEL.BO')":172.25,
+    "('Low', 'TATASTEEL.BO')":169.8000030518,
+    "('Open', 'TATASTEEL.BO')":171.6499938965,
+    "('Volume', 'TATASTEEL.BO')":1025203
+  },
+  {
+    "('Date', '')":"2025-09-19",
+    "('Close', 'TATASTEEL.BO')":171.5,
+    "('High', 'TATASTEEL.BO')":172.6000061035,
+    "('Low', 'TATASTEEL.BO')":170.5,
+    "('Open', 'TATASTEEL.BO')":171.8999938965,
+    "('Volume', 'TATASTEEL.BO')":1040051
+  },
+  {
+    "('Date', '')":"2025-09-22",
+    "('Close', 'TATASTEEL.BO')":171.3500061035,
+    "('High', 'TATASTEEL.BO')":172.1999969482,
+    "('Low', 'TATASTEEL.BO')":170.3999938965,
+    "('Open', 'TATASTEEL.BO')":170.3999938965,
+    "('Volume', 'TATASTEEL.BO')":1093309
+  },
+  {
+    "('Date', '')":"2025-09-23",
+    "('Close', 'TATASTEEL.BO')":173.25,
+    "('High', 'TATASTEEL.BO')":173.8000030518,
+    "('Low', 'TATASTEEL.BO')":171.1499938965,
+    "('Open', 'TATASTEEL.BO')":171.3500061035,
+    "('Volume', 'TATASTEEL.BO')":1642861
+  },
+  {
+    "('Date', '')":"2025-09-24",
+    "('Close', 'TATASTEEL.BO')":172.6999969482,
+    "('High', 'TATASTEEL.BO')":174.3500061035,
+    "('Low', 'TATASTEEL.BO')":172.3999938965,
+    "('Open', 'TATASTEEL.BO')":173.3999938965,
+    "('Volume', 'TATASTEEL.BO')":1010448
+  },
+  {
+    "('Date', '')":"2025-09-25",
+    "('Close', 'TATASTEEL.BO')":172.3000030518,
+    "('High', 'TATASTEEL.BO')":173.8999938965,
+    "('Low', 'TATASTEEL.BO')":171.8500061035,
+    "('Open', 'TATASTEEL.BO')":172.6000061035,
+    "('Volume', 'TATASTEEL.BO')":1346330
+  },
+  {
+    "('Date', '')":"2025-09-26",
+    "('Close', 'TATASTEEL.BO')":167.4499969482,
+    "('High', 'TATASTEEL.BO')":173.3000030518,
+    "('Low', 'TATASTEEL.BO')":167.1499938965,
+    "('Open', 'TATASTEEL.BO')":172.4499969482,
+    "('Volume', 'TATASTEEL.BO')":663772
+  },
+  {
+    "('Date', '')":"2025-09-29",
+    "('Close', 'TATASTEEL.BO')":169.0500030518,
+    "('High', 'TATASTEEL.BO')":170.25,
+    "('Low', 'TATASTEEL.BO')":167.4499969482,
+    "('Open', 'TATASTEEL.BO')":167.4499969482,
+    "('Volume', 'TATASTEEL.BO')":674725
+  },
+  {
+    "('Date', '')":"2025-09-30",
+    "('Close', 'TATASTEEL.BO')":168.6999969482,
+    "('High', 'TATASTEEL.BO')":170.25,
+    "('Low', 'TATASTEEL.BO')":168.3500061035,
+    "('Open', 'TATASTEEL.BO')":169.5,
+    "('Volume', 'TATASTEEL.BO')":841187
+  },
+  {
+    "('Date', '')":"2025-10-01",
+    "('Close', 'TATASTEEL.BO')":167.5,
+    "('High', 'TATASTEEL.BO')":169.8000030518,
+    "('Low', 'TATASTEEL.BO')":166.0500030518,
+    "('Open', 'TATASTEEL.BO')":168.6999969482,
+    "('Volume', 'TATASTEEL.BO')":2058940
+  },
+  {
+    "('Date', '')":"2025-10-03",
+    "('Close', 'TATASTEEL.BO')":173.1999969482,
+    "('High', 'TATASTEEL.BO')":174.6999969482,
+    "('Low', 'TATASTEEL.BO')":167.8000030518,
+    "('Open', 'TATASTEEL.BO')":167.8000030518,
+    "('Volume', 'TATASTEEL.BO')":2937112
+  },
+  {
+    "('Date', '')":"2025-10-06",
+    "('Close', 'TATASTEEL.BO')":169.9499969482,
+    "('High', 'TATASTEEL.BO')":173.5500030518,
+    "('Low', 'TATASTEEL.BO')":169.3000030518,
+    "('Open', 'TATASTEEL.BO')":172.8500061035,
+    "('Volume', 'TATASTEEL.BO')":1820741
+  },
+  {
+    "('Date', '')":"2025-10-07",
+    "('Close', 'TATASTEEL.BO')":171.3999938965,
+    "('High', 'TATASTEEL.BO')":172.1999969482,
+    "('Low', 'TATASTEEL.BO')":170.1499938965,
+    "('Open', 'TATASTEEL.BO')":170.1499938965,
+    "('Volume', 'TATASTEEL.BO')":1157174
+  },
+  {
+    "('Date', '')":"2025-10-08",
+    "('Close', 'TATASTEEL.BO')":171.8500061035,
+    "('High', 'TATASTEEL.BO')":173.6499938965,
+    "('Low', 'TATASTEEL.BO')":170.1000061035,
+    "('Open', 'TATASTEEL.BO')":171.8000030518,
+    "('Volume', 'TATASTEEL.BO')":2483705
+  },
+  {
+    "('Date', '')":"2025-10-09",
+    "('Close', 'TATASTEEL.BO')":176.3999938965,
+    "('High', 'TATASTEEL.BO')":177.8500061035,
+    "('Low', 'TATASTEEL.BO')":172.5500030518,
+    "('Open', 'TATASTEEL.BO')":172.5500030518,
+    "('Volume', 'TATASTEEL.BO')":7972981
+  },
+  {
+    "('Date', '')":"2025-10-10",
+    "('Close', 'TATASTEEL.BO')":173.8000030518,
+    "('High', 'TATASTEEL.BO')":176.1999969482,
+    "('Low', 'TATASTEEL.BO')":172.75,
+    "('Open', 'TATASTEEL.BO')":176.1999969482,
+    "('Volume', 'TATASTEEL.BO')":1628547
+  },
+  {
+    "('Date', '')":"2025-10-13",
+    "('Close', 'TATASTEEL.BO')":172.9499969482,
+    "('High', 'TATASTEEL.BO')":173.8500061035,
+    "('Low', 'TATASTEEL.BO')":171.0500030518,
+    "('Open', 'TATASTEEL.BO')":172.3999938965,
+    "('Volume', 'TATASTEEL.BO')":816382
+  },
+  {
+    "('Date', '')":"2025-10-14",
+    "('Close', 'TATASTEEL.BO')":170.3999938965,
+    "('High', 'TATASTEEL.BO')":176.1999969482,
+    "('Low', 'TATASTEEL.BO')":169.25,
+    "('Open', 'TATASTEEL.BO')":174.1999969482,
+    "('Volume', 'TATASTEEL.BO')":882765
+  },
+  {
+    "('Date', '')":"2025-10-15",
+    "('Close', 'TATASTEEL.BO')":173.1499938965,
+    "('High', 'TATASTEEL.BO')":173.9499969482,
+    "('Low', 'TATASTEEL.BO')":170.1000061035,
+    "('Open', 'TATASTEEL.BO')":170.8000030518,
+    "('Volume', 'TATASTEEL.BO')":567138
+  },
+  {
+    "('Date', '')":"2025-10-16",
+    "('Close', 'TATASTEEL.BO')":174.0500030518,
+    "('High', 'TATASTEEL.BO')":174.3999938965,
+    "('Low', 'TATASTEEL.BO')":172.1999969482,
+    "('Open', 'TATASTEEL.BO')":172.75,
+    "('Volume', 'TATASTEEL.BO')":732680
+  },
+  {
+    "('Date', '')":"2025-10-17",
+    "('Close', 'TATASTEEL.BO')":172.25,
+    "('High', 'TATASTEEL.BO')":174.25,
+    "('Low', 'TATASTEEL.BO')":171.0,
+    "('Open', 'TATASTEEL.BO')":173.3999938965,
+    "('Volume', 'TATASTEEL.BO')":1861036
+  },
+  {
+    "('Date', '')":"2025-10-20",
+    "('Close', 'TATASTEEL.BO')":171.8999938965,
+    "('High', 'TATASTEEL.BO')":173.3500061035,
+    "('Low', 'TATASTEEL.BO')":170.8000030518,
+    "('Open', 'TATASTEEL.BO')":173.0500030518,
+    "('Volume', 'TATASTEEL.BO')":1036618
+  },
+  {
+    "('Date', '')":"2025-10-21",
+    "('Close', 'TATASTEEL.BO')":172.8000030518,
+    "('High', 'TATASTEEL.BO')":173.25,
+    "('Low', 'TATASTEEL.BO')":171.8500061035,
+    "('Open', 'TATASTEEL.BO')":171.8500061035,
+    "('Volume', 'TATASTEEL.BO')":323998
+  },
+  {
+    "('Date', '')":"2025-10-23",
+    "('Close', 'TATASTEEL.BO')":174.1000061035,
+    "('High', 'TATASTEEL.BO')":176.0,
+    "('Low', 'TATASTEEL.BO')":173.1999969482,
+    "('Open', 'TATASTEEL.BO')":173.1999969482,
+    "('Volume', 'TATASTEEL.BO')":4453408
+  },
+  {
+    "('Date', '')":"2025-10-24",
+    "('Close', 'TATASTEEL.BO')":174.5,
+    "('High', 'TATASTEEL.BO')":177.3000030518,
+    "('Low', 'TATASTEEL.BO')":173.6999969482,
+    "('Open', 'TATASTEEL.BO')":174.4499969482,
+    "('Volume', 'TATASTEEL.BO')":1791097
+  },
+  {
+    "('Date', '')":"2025-10-27",
+    "('Close', 'TATASTEEL.BO')":176.6000061035,
+    "('High', 'TATASTEEL.BO')":177.8500061035,
+    "('Low', 'TATASTEEL.BO')":175.3999938965,
+    "('Open', 'TATASTEEL.BO')":175.3999938965,
+    "('Volume', 'TATASTEEL.BO')":2114987
+  },
+  {
+    "('Date', '')":"2025-10-28",
+    "('Close', 'TATASTEEL.BO')":181.8500061035,
+    "('High', 'TATASTEEL.BO')":182.1000061035,
+    "('Low', 'TATASTEEL.BO')":176.8999938965,
+    "('Open', 'TATASTEEL.BO')":176.8999938965,
+    "('Volume', 'TATASTEEL.BO')":4099313
+  },
+  {
+    "('Date', '')":"2025-10-29",
+    "('Close', 'TATASTEEL.BO')":185.1499938965,
+    "('High', 'TATASTEEL.BO')":187.0,
+    "('Low', 'TATASTEEL.BO')":182.0,
+    "('Open', 'TATASTEEL.BO')":183.0,
+    "('Volume', 'TATASTEEL.BO')":3979455
+  },
+  {
+    "('Date', '')":"2025-10-30",
+    "('Close', 'TATASTEEL.BO')":184.3500061035,
+    "('High', 'TATASTEEL.BO')":185.1000061035,
+    "('Low', 'TATASTEEL.BO')":182.5500030518,
+    "('Open', 'TATASTEEL.BO')":185.1000061035,
+    "('Volume', 'TATASTEEL.BO')":1198104
+  },
+  {
+    "('Date', '')":"2025-10-31",
+    "('Close', 'TATASTEEL.BO')":182.9499969482,
+    "('High', 'TATASTEEL.BO')":184.25,
+    "('Low', 'TATASTEEL.BO')":182.1999969482,
+    "('Open', 'TATASTEEL.BO')":183.75,
+    "('Volume', 'TATASTEEL.BO')":642210
+  },
+  {
+    "('Date', '')":"2025-11-03",
+    "('Close', 'TATASTEEL.BO')":182.6499938965,
+    "('High', 'TATASTEEL.BO')":184.1000061035,
+    "('Low', 'TATASTEEL.BO')":181.8000030518,
+    "('Open', 'TATASTEEL.BO')":182.25,
+    "('Volume', 'TATASTEEL.BO')":1474266
+  },
+  {
+    "('Date', '')":"2025-11-04",
+    "('Close', 'TATASTEEL.BO')":179.25,
+    "('High', 'TATASTEEL.BO')":183.1000061035,
+    "('Low', 'TATASTEEL.BO')":178.8999938965,
+    "('Open', 'TATASTEEL.BO')":182.9499969482,
+    "('Volume', 'TATASTEEL.BO')":758037
+  },
+  {
+    "('Date', '')":"2025-11-06",
+    "('Close', 'TATASTEEL.BO')":177.25,
+    "('High', 'TATASTEEL.BO')":180.6999969482,
+    "('Low', 'TATASTEEL.BO')":176.5,
+    "('Open', 'TATASTEEL.BO')":179.3500061035,
+    "('Volume', 'TATASTEEL.BO')":914344
+  },
+  {
+    "('Date', '')":"2025-11-07",
+    "('Close', 'TATASTEEL.BO')":181.4499969482,
+    "('High', 'TATASTEEL.BO')":182.1999969482,
+    "('Low', 'TATASTEEL.BO')":175.0500030518,
+    "('Open', 'TATASTEEL.BO')":177.25,
+    "('Volume', 'TATASTEEL.BO')":957768
+  },
+  {
+    "('Date', '')":"2025-11-10",
+    "('Close', 'TATASTEEL.BO')":181.3999938965,
+    "('High', 'TATASTEEL.BO')":182.3999938965,
+    "('Low', 'TATASTEEL.BO')":180.1000061035,
+    "('Open', 'TATASTEEL.BO')":182.0500030518,
+    "('Volume', 'TATASTEEL.BO')":1132449
+  },
+  {
+    "('Date', '')":"2025-11-11",
+    "('Close', 'TATASTEEL.BO')":181.0,
+    "('High', 'TATASTEEL.BO')":183.0,
+    "('Low', 'TATASTEEL.BO')":179.0500030518,
+    "('Open', 'TATASTEEL.BO')":183.0,
+    "('Volume', 'TATASTEEL.BO')":849941
+  },
+  {
+    "('Date', '')":"2025-11-12",
+    "('Close', 'TATASTEEL.BO')":178.6499938965,
+    "('High', 'TATASTEEL.BO')":182.3000030518,
+    "('Low', 'TATASTEEL.BO')":178.0,
+    "('Open', 'TATASTEEL.BO')":181.1499938965,
+    "('Volume', 'TATASTEEL.BO')":1448755
+  },
+  {
+    "('Date', '')":"2025-11-13",
+    "('Close', 'TATASTEEL.BO')":176.6000061035,
+    "('High', 'TATASTEEL.BO')":184.1999969482,
+    "('Low', 'TATASTEEL.BO')":175.0500030518,
+    "('Open', 'TATASTEEL.BO')":184.1999969482,
+    "('Volume', 'TATASTEEL.BO')":4141292
+  }
+]

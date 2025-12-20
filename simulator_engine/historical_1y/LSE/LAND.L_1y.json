@@ -1,0 +1,2288 @@
+[
+  {
+    "('Date', '')":"2024-11-14",
+    "('Adj Close', 'LAND.L')":579.7046508789,
+    "('Close', 'LAND.L')":580.0,
+    "('High', 'LAND.L')":581.0,
+    "('Low', 'LAND.L')":570.0,
+    "('Open', 'LAND.L')":572.5,
+    "('Volume', 'LAND.L')":2148129
+  },
+  {
+    "('Date', '')":"2024-11-15",
+    "('Adj Close', 'LAND.L')":604.6920166016,
+    "('Close', 'LAND.L')":605.0,
+    "('High', 'LAND.L')":609.5,
+    "('Low', 'LAND.L')":580.0,
+    "('Open', 'LAND.L')":596.5,
+    "('Volume', 'LAND.L')":3203480
+  },
+  {
+    "('Date', '')":"2024-11-18",
+    "('Adj Close', 'LAND.L')":584.2023925781,
+    "('Close', 'LAND.L')":584.5,
+    "('High', 'LAND.L')":607.8900146484,
+    "('Low', 'LAND.L')":584.0,
+    "('Open', 'LAND.L')":603.5,
+    "('Volume', 'LAND.L')":2241821
+  },
+  {
+    "('Date', '')":"2024-11-19",
+    "('Adj Close', 'LAND.L')":596.1962890625,
+    "('Close', 'LAND.L')":596.5,
+    "('High', 'LAND.L')":596.5,
+    "('Low', 'LAND.L')":583.0,
+    "('Open', 'LAND.L')":588.0,
+    "('Volume', 'LAND.L')":6106633
+  },
+  {
+    "('Date', '')":"2024-11-20",
+    "('Adj Close', 'LAND.L')":585.7016601562,
+    "('Close', 'LAND.L')":586.0,
+    "('High', 'LAND.L')":597.0,
+    "('Low', 'LAND.L')":582.5,
+    "('Open', 'LAND.L')":595.5,
+    "('Volume', 'LAND.L')":2498761
+  },
+  {
+    "('Date', '')":"2024-11-21",
+    "('Adj Close', 'LAND.L')":593.1978149414,
+    "('Close', 'LAND.L')":593.5,
+    "('High', 'LAND.L')":594.0,
+    "('Low', 'LAND.L')":584.5,
+    "('Open', 'LAND.L')":588.0,
+    "('Volume', 'LAND.L')":2263598
+  },
+  {
+    "('Date', '')":"2024-11-22",
+    "('Adj Close', 'LAND.L')":609.6893920898,
+    "('Close', 'LAND.L')":610.0,
+    "('High', 'LAND.L')":613.0,
+    "('Low', 'LAND.L')":594.0,
+    "('Open', 'LAND.L')":597.0,
+    "('Volume', 'LAND.L')":2743325
+  },
+  {
+    "('Date', '')":"2024-11-25",
+    "('Adj Close', 'LAND.L')":618.6848144531,
+    "('Close', 'LAND.L')":619.0,
+    "('High', 'LAND.L')":619.5,
+    "('Low', 'LAND.L')":604.0,
+    "('Open', 'LAND.L')":616.0,
+    "('Volume', 'LAND.L')":9462377
+  },
+  {
+    "('Date', '')":"2024-11-26",
+    "('Adj Close', 'LAND.L')":612.1881713867,
+    "('Close', 'LAND.L')":612.5,
+    "('High', 'LAND.L')":617.0,
+    "('Low', 'LAND.L')":610.4899902344,
+    "('Open', 'LAND.L')":614.5,
+    "('Volume', 'LAND.L')":21279962
+  },
+  {
+    "('Date', '')":"2024-11-27",
+    "('Adj Close', 'LAND.L')":621.6832275391,
+    "('Close', 'LAND.L')":622.0,
+    "('High', 'LAND.L')":622.5,
+    "('Low', 'LAND.L')":612.0,
+    "('Open', 'LAND.L')":614.5,
+    "('Volume', 'LAND.L')":1567707
+  },
+  {
+    "('Date', '')":"2024-11-28",
+    "('Adj Close', 'LAND.L')":605.7829589844,
+    "('Close', 'LAND.L')":606.0,
+    "('High', 'LAND.L')":616.0,
+    "('Low', 'LAND.L')":603.0,
+    "('Open', 'LAND.L')":614.5,
+    "('Volume', 'LAND.L')":1691128
+  },
+  {
+    "('Date', '')":"2024-11-29",
+    "('Adj Close', 'LAND.L')":602.7840576172,
+    "('Close', 'LAND.L')":603.0,
+    "('High', 'LAND.L')":609.0,
+    "('Low', 'LAND.L')":602.0,
+    "('Open', 'LAND.L')":604.0,
+    "('Volume', 'LAND.L')":1305354
+  },
+  {
+    "('Date', '')":"2024-12-02",
+    "('Adj Close', 'LAND.L')":594.287109375,
+    "('Close', 'LAND.L')":594.5,
+    "('High', 'LAND.L')":604.5,
+    "('Low', 'LAND.L')":591.0,
+    "('Open', 'LAND.L')":602.5,
+    "('Volume', 'LAND.L')":1347591
+  },
+  {
+    "('Date', '')":"2024-12-03",
+    "('Adj Close', 'LAND.L')":591.7880249023,
+    "('Close', 'LAND.L')":592.0,
+    "('High', 'LAND.L')":597.0,
+    "('Low', 'LAND.L')":589.0,
+    "('Open', 'LAND.L')":594.0,
+    "('Volume', 'LAND.L')":1323446
+  },
+  {
+    "('Date', '')":"2024-12-04",
+    "('Adj Close', 'LAND.L')":598.7854614258,
+    "('Close', 'LAND.L')":599.0,
+    "('High', 'LAND.L')":602.5,
+    "('Low', 'LAND.L')":591.0,
+    "('Open', 'LAND.L')":591.0,
+    "('Volume', 'LAND.L')":1585133
+  },
+  {
+    "('Date', '')":"2024-12-05",
+    "('Adj Close', 'LAND.L')":594.7868652344,
+    "('Close', 'LAND.L')":595.0,
+    "('High', 'LAND.L')":600.5,
+    "('Low', 'LAND.L')":592.5,
+    "('Open', 'LAND.L')":599.0,
+    "('Volume', 'LAND.L')":1656613
+  },
+  {
+    "('Date', '')":"2024-12-06",
+    "('Adj Close', 'LAND.L')":593.7872314453,
+    "('Close', 'LAND.L')":594.0,
+    "('High', 'LAND.L')":597.75,
+    "('Low', 'LAND.L')":590.0,
+    "('Open', 'LAND.L')":590.0,
+    "('Volume', 'LAND.L')":3524930
+  },
+  {
+    "('Date', '')":"2024-12-09",
+    "('Adj Close', 'LAND.L')":585.2903442383,
+    "('Close', 'LAND.L')":585.5,
+    "('High', 'LAND.L')":597.5,
+    "('Low', 'LAND.L')":582.5,
+    "('Open', 'LAND.L')":597.0,
+    "('Volume', 'LAND.L')":1835278
+  },
+  {
+    "('Date', '')":"2024-12-10",
+    "('Adj Close', 'LAND.L')":586.7897949219,
+    "('Close', 'LAND.L')":587.0,
+    "('High', 'LAND.L')":590.0,
+    "('Low', 'LAND.L')":581.5,
+    "('Open', 'LAND.L')":586.0,
+    "('Volume', 'LAND.L')":4213570
+  },
+  {
+    "('Date', '')":"2024-12-11",
+    "('Adj Close', 'LAND.L')":576.7933959961,
+    "('Close', 'LAND.L')":577.0,
+    "('High', 'LAND.L')":587.0,
+    "('Low', 'LAND.L')":575.5,
+    "('Open', 'LAND.L')":587.0,
+    "('Volume', 'LAND.L')":1991106
+  },
+  {
+    "('Date', '')":"2024-12-12",
+    "('Adj Close', 'LAND.L')":579.2924804688,
+    "('Close', 'LAND.L')":579.5,
+    "('High', 'LAND.L')":582.5,
+    "('Low', 'LAND.L')":574.0,
+    "('Open', 'LAND.L')":578.0,
+    "('Volume', 'LAND.L')":1643801
+  },
+  {
+    "('Date', '')":"2024-12-13",
+    "('Adj Close', 'LAND.L')":579.2924804688,
+    "('Close', 'LAND.L')":579.5,
+    "('High', 'LAND.L')":581.5,
+    "('Low', 'LAND.L')":576.5,
+    "('Open', 'LAND.L')":579.0,
+    "('Volume', 'LAND.L')":1999668
+  },
+  {
+    "('Date', '')":"2024-12-16",
+    "('Adj Close', 'LAND.L')":570.2956542969,
+    "('Close', 'LAND.L')":570.5,
+    "('High', 'LAND.L')":587.5,
+    "('Low', 'LAND.L')":568.5,
+    "('Open', 'LAND.L')":587.0,
+    "('Volume', 'LAND.L')":1449668
+  },
+  {
+    "('Date', '')":"2024-12-17",
+    "('Adj Close', 'LAND.L')":571.7951660156,
+    "('Close', 'LAND.L')":572.0,
+    "('High', 'LAND.L')":574.5,
+    "('Low', 'LAND.L')":565.0,
+    "('Open', 'LAND.L')":571.0,
+    "('Volume', 'LAND.L')":2560436
+  },
+  {
+    "('Date', '')":"2024-12-18",
+    "('Adj Close', 'LAND.L')":575.7937011719,
+    "('Close', 'LAND.L')":576.0,
+    "('High', 'LAND.L')":579.7600097656,
+    "('Low', 'LAND.L')":572.5,
+    "('Open', 'LAND.L')":574.5,
+    "('Volume', 'LAND.L')":2139093
+  },
+  {
+    "('Date', '')":"2024-12-19",
+    "('Adj Close', 'LAND.L')":559.299621582,
+    "('Close', 'LAND.L')":559.5,
+    "('High', 'LAND.L')":571.3640136719,
+    "('Low', 'LAND.L')":556.5,
+    "('Open', 'LAND.L')":566.0,
+    "('Volume', 'LAND.L')":2799099
+  },
+  {
+    "('Date', '')":"2024-12-20",
+    "('Adj Close', 'LAND.L')":565.7973022461,
+    "('Close', 'LAND.L')":566.0,
+    "('High', 'LAND.L')":567.0,
+    "('Low', 'LAND.L')":557.5,
+    "('Open', 'LAND.L')":559.0,
+    "('Volume', 'LAND.L')":5512129
+  },
+  {
+    "('Date', '')":"2024-12-23",
+    "('Adj Close', 'LAND.L')":574.7940673828,
+    "('Close', 'LAND.L')":575.0,
+    "('High', 'LAND.L')":575.0,
+    "('Low', 'LAND.L')":561.5,
+    "('Open', 'LAND.L')":565.5,
+    "('Volume', 'LAND.L')":2705625
+  },
+  {
+    "('Date', '')":"2024-12-24",
+    "('Adj Close', 'LAND.L')":581.7915649414,
+    "('Close', 'LAND.L')":582.0,
+    "('High', 'LAND.L')":583.0,
+    "('Low', 'LAND.L')":572.5,
+    "('Open', 'LAND.L')":577.5,
+    "('Volume', 'LAND.L')":1345112
+  },
+  {
+    "('Date', '')":"2024-12-27",
+    "('Adj Close', 'LAND.L')":581.7915649414,
+    "('Close', 'LAND.L')":582.0,
+    "('High', 'LAND.L')":584.5,
+    "('Low', 'LAND.L')":578.5,
+    "('Open', 'LAND.L')":582.5,
+    "('Volume', 'LAND.L')":2976736
+  },
+  {
+    "('Date', '')":"2024-12-30",
+    "('Adj Close', 'LAND.L')":580.2921142578,
+    "('Close', 'LAND.L')":580.5,
+    "('High', 'LAND.L')":584.5,
+    "('Low', 'LAND.L')":578.0,
+    "('Open', 'LAND.L')":579.0,
+    "('Volume', 'LAND.L')":3353430
+  },
+  {
+    "('Date', '')":"2024-12-31",
+    "('Adj Close', 'LAND.L')":583.7908325195,
+    "('Close', 'LAND.L')":584.0,
+    "('High', 'LAND.L')":586.5,
+    "('Low', 'LAND.L')":577.8289794922,
+    "('Open', 'LAND.L')":581.0,
+    "('Volume', 'LAND.L')":740673
+  },
+  {
+    "('Date', '')":"2025-01-02",
+    "('Adj Close', 'LAND.L')":581.2917480469,
+    "('Close', 'LAND.L')":581.5,
+    "('High', 'LAND.L')":588.0,
+    "('Low', 'LAND.L')":577.0,
+    "('Open', 'LAND.L')":588.0,
+    "('Volume', 'LAND.L')":1034222
+  },
+  {
+    "('Date', '')":"2025-01-03",
+    "('Adj Close', 'LAND.L')":579.2924804688,
+    "('Close', 'LAND.L')":579.5,
+    "('High', 'LAND.L')":582.5,
+    "('Low', 'LAND.L')":574.8400268555,
+    "('Open', 'LAND.L')":581.5,
+    "('Volume', 'LAND.L')":1868738
+  },
+  {
+    "('Date', '')":"2025-01-06",
+    "('Adj Close', 'LAND.L')":579.7922973633,
+    "('Close', 'LAND.L')":580.0,
+    "('High', 'LAND.L')":584.5,
+    "('Low', 'LAND.L')":576.5,
+    "('Open', 'LAND.L')":582.0,
+    "('Volume', 'LAND.L')":1653744
+  },
+  {
+    "('Date', '')":"2025-01-07",
+    "('Adj Close', 'LAND.L')":572.2949829102,
+    "('Close', 'LAND.L')":572.5,
+    "('High', 'LAND.L')":583.0,
+    "('Low', 'LAND.L')":572.5,
+    "('Open', 'LAND.L')":579.0,
+    "('Volume', 'LAND.L')":1542518
+  },
+  {
+    "('Date', '')":"2025-01-08",
+    "('Adj Close', 'LAND.L')":558.7998046875,
+    "('Close', 'LAND.L')":559.0,
+    "('High', 'LAND.L')":575.0,
+    "('Low', 'LAND.L')":555.0,
+    "('Open', 'LAND.L')":572.5,
+    "('Volume', 'LAND.L')":2385617
+  },
+  {
+    "('Date', '')":"2025-01-09",
+    "('Adj Close', 'LAND.L')":550.3028564453,
+    "('Close', 'LAND.L')":550.5,
+    "('High', 'LAND.L')":558.5,
+    "('Low', 'LAND.L')":536.0,
+    "('Open', 'LAND.L')":552.0,
+    "('Volume', 'LAND.L')":4040536
+  },
+  {
+    "('Date', '')":"2025-01-10",
+    "('Adj Close', 'LAND.L')":540.3063964844,
+    "('Close', 'LAND.L')":540.5,
+    "('High', 'LAND.L')":554.5,
+    "('Low', 'LAND.L')":538.0,
+    "('Open', 'LAND.L')":551.0,
+    "('Volume', 'LAND.L')":3174278
+  },
+  {
+    "('Date', '')":"2025-01-13",
+    "('Adj Close', 'LAND.L')":533.3089599609,
+    "('Close', 'LAND.L')":533.5,
+    "('High', 'LAND.L')":541.0,
+    "('Low', 'LAND.L')":531.825012207,
+    "('Open', 'LAND.L')":538.0,
+    "('Volume', 'LAND.L')":3748898
+  },
+  {
+    "('Date', '')":"2025-01-14",
+    "('Adj Close', 'LAND.L')":532.3093261719,
+    "('Close', 'LAND.L')":532.5,
+    "('High', 'LAND.L')":541.0,
+    "('Low', 'LAND.L')":531.0,
+    "('Open', 'LAND.L')":538.5,
+    "('Volume', 'LAND.L')":3532615
+  },
+  {
+    "('Date', '')":"2025-01-15",
+    "('Adj Close', 'LAND.L')":556.8005371094,
+    "('Close', 'LAND.L')":557.0,
+    "('High', 'LAND.L')":561.0,
+    "('Low', 'LAND.L')":544.0,
+    "('Open', 'LAND.L')":544.0,
+    "('Volume', 'LAND.L')":3118405
+  },
+  {
+    "('Date', '')":"2025-01-16",
+    "('Adj Close', 'LAND.L')":561.2988891602,
+    "('Close', 'LAND.L')":561.5,
+    "('High', 'LAND.L')":561.5,
+    "('Low', 'LAND.L')":552.0,
+    "('Open', 'LAND.L')":559.5,
+    "('Volume', 'LAND.L')":3728353
+  },
+  {
+    "('Date', '')":"2025-01-17",
+    "('Adj Close', 'LAND.L')":571.7951660156,
+    "('Close', 'LAND.L')":572.0,
+    "('High', 'LAND.L')":575.0,
+    "('Low', 'LAND.L')":561.5,
+    "('Open', 'LAND.L')":565.0,
+    "('Volume', 'LAND.L')":2861840
+  },
+  {
+    "('Date', '')":"2025-01-20",
+    "('Adj Close', 'LAND.L')":568.2963867188,
+    "('Close', 'LAND.L')":568.5,
+    "('High', 'LAND.L')":574.0,
+    "('Low', 'LAND.L')":566.0,
+    "('Open', 'LAND.L')":574.0,
+    "('Volume', 'LAND.L')":2060052
+  },
+  {
+    "('Date', '')":"2025-01-21",
+    "('Adj Close', 'LAND.L')":567.2967529297,
+    "('Close', 'LAND.L')":567.5,
+    "('High', 'LAND.L')":573.0,
+    "('Low', 'LAND.L')":561.5,
+    "('Open', 'LAND.L')":570.5,
+    "('Volume', 'LAND.L')":1633880
+  },
+  {
+    "('Date', '')":"2025-01-22",
+    "('Adj Close', 'LAND.L')":561.2988891602,
+    "('Close', 'LAND.L')":561.5,
+    "('High', 'LAND.L')":571.0,
+    "('Low', 'LAND.L')":560.5,
+    "('Open', 'LAND.L')":568.0,
+    "('Volume', 'LAND.L')":2673268
+  },
+  {
+    "('Date', '')":"2025-01-23",
+    "('Adj Close', 'LAND.L')":557.3003540039,
+    "('Close', 'LAND.L')":557.5,
+    "('High', 'LAND.L')":563.0949707031,
+    "('Low', 'LAND.L')":554.0,
+    "('Open', 'LAND.L')":562.0,
+    "('Volume', 'LAND.L')":3224422
+  },
+  {
+    "('Date', '')":"2025-01-24",
+    "('Adj Close', 'LAND.L')":550.3028564453,
+    "('Close', 'LAND.L')":550.5,
+    "('High', 'LAND.L')":564.5,
+    "('Low', 'LAND.L')":547.0,
+    "('Open', 'LAND.L')":558.0,
+    "('Volume', 'LAND.L')":3016466
+  },
+  {
+    "('Date', '')":"2025-01-27",
+    "('Adj Close', 'LAND.L')":555.3010253906,
+    "('Close', 'LAND.L')":555.5,
+    "('High', 'LAND.L')":561.0,
+    "('Low', 'LAND.L')":548.0,
+    "('Open', 'LAND.L')":550.5,
+    "('Volume', 'LAND.L')":3294547
+  },
+  {
+    "('Date', '')":"2025-01-28",
+    "('Adj Close', 'LAND.L')":561.2988891602,
+    "('Close', 'LAND.L')":561.5,
+    "('High', 'LAND.L')":562.0,
+    "('Low', 'LAND.L')":553.0,
+    "('Open', 'LAND.L')":554.0,
+    "('Volume', 'LAND.L')":3193307
+  },
+  {
+    "('Date', '')":"2025-01-29",
+    "('Adj Close', 'LAND.L')":562.7983398438,
+    "('Close', 'LAND.L')":563.0,
+    "('High', 'LAND.L')":567.0,
+    "('Low', 'LAND.L')":558.0,
+    "('Open', 'LAND.L')":561.5,
+    "('Volume', 'LAND.L')":4114373
+  },
+  {
+    "('Date', '')":"2025-01-30",
+    "('Adj Close', 'LAND.L')":569.296081543,
+    "('Close', 'LAND.L')":569.5,
+    "('High', 'LAND.L')":572.0,
+    "('Low', 'LAND.L')":559.0,
+    "('Open', 'LAND.L')":563.0,
+    "('Volume', 'LAND.L')":2178336
+  },
+  {
+    "('Date', '')":"2025-01-31",
+    "('Adj Close', 'LAND.L')":584.7904663086,
+    "('Close', 'LAND.L')":585.0,
+    "('High', 'LAND.L')":585.0,
+    "('Low', 'LAND.L')":565.5,
+    "('Open', 'LAND.L')":569.5,
+    "('Volume', 'LAND.L')":5422363
+  },
+  {
+    "('Date', '')":"2025-02-03",
+    "('Adj Close', 'LAND.L')":577.7930297852,
+    "('Close', 'LAND.L')":578.0,
+    "('High', 'LAND.L')":579.0,
+    "('Low', 'LAND.L')":570.0,
+    "('Open', 'LAND.L')":577.5,
+    "('Volume', 'LAND.L')":2718768
+  },
+  {
+    "('Date', '')":"2025-02-04",
+    "('Adj Close', 'LAND.L')":572.2949829102,
+    "('Close', 'LAND.L')":572.5,
+    "('High', 'LAND.L')":580.5,
+    "('Low', 'LAND.L')":569.5,
+    "('Open', 'LAND.L')":574.5,
+    "('Volume', 'LAND.L')":2489910
+  },
+  {
+    "('Date', '')":"2025-02-05",
+    "('Adj Close', 'LAND.L')":587.2896118164,
+    "('Close', 'LAND.L')":587.5,
+    "('High', 'LAND.L')":587.5,
+    "('Low', 'LAND.L')":572.5,
+    "('Open', 'LAND.L')":573.0,
+    "('Volume', 'LAND.L')":2257581
+  },
+  {
+    "('Date', '')":"2025-02-06",
+    "('Adj Close', 'LAND.L')":592.7876586914,
+    "('Close', 'LAND.L')":593.0,
+    "('High', 'LAND.L')":602.5,
+    "('Low', 'LAND.L')":585.5,
+    "('Open', 'LAND.L')":588.5,
+    "('Volume', 'LAND.L')":4449390
+  },
+  {
+    "('Date', '')":"2025-02-07",
+    "('Adj Close', 'LAND.L')":579.7922973633,
+    "('Close', 'LAND.L')":580.0,
+    "('High', 'LAND.L')":597.0,
+    "('Low', 'LAND.L')":577.7849731445,
+    "('Open', 'LAND.L')":593.0,
+    "('Volume', 'LAND.L')":3205376
+  },
+  {
+    "('Date', '')":"2025-02-10",
+    "('Adj Close', 'LAND.L')":587.2896118164,
+    "('Close', 'LAND.L')":587.5,
+    "('High', 'LAND.L')":591.0,
+    "('Low', 'LAND.L')":581.5,
+    "('Open', 'LAND.L')":582.0,
+    "('Volume', 'LAND.L')":2111613
+  },
+  {
+    "('Date', '')":"2025-02-11",
+    "('Adj Close', 'LAND.L')":582.7912597656,
+    "('Close', 'LAND.L')":583.0,
+    "('High', 'LAND.L')":589.0,
+    "('Low', 'LAND.L')":580.0,
+    "('Open', 'LAND.L')":587.5,
+    "('Volume', 'LAND.L')":4827378
+  },
+  {
+    "('Date', '')":"2025-02-12",
+    "('Adj Close', 'LAND.L')":587.7894287109,
+    "('Close', 'LAND.L')":588.0,
+    "('High', 'LAND.L')":601.5,
+    "('Low', 'LAND.L')":583.5,
+    "('Open', 'LAND.L')":587.0,
+    "('Volume', 'LAND.L')":4076222
+  },
+  {
+    "('Date', '')":"2025-02-13",
+    "('Adj Close', 'LAND.L')":589.7886962891,
+    "('Close', 'LAND.L')":590.0,
+    "('High', 'LAND.L')":593.5,
+    "('Low', 'LAND.L')":585.5,
+    "('Open', 'LAND.L')":592.0,
+    "('Volume', 'LAND.L')":2143275
+  },
+  {
+    "('Date', '')":"2025-02-14",
+    "('Adj Close', 'LAND.L')":591.7880249023,
+    "('Close', 'LAND.L')":592.0,
+    "('High', 'LAND.L')":596.0,
+    "('Low', 'LAND.L')":587.5,
+    "('Open', 'LAND.L')":593.5,
+    "('Volume', 'LAND.L')":1787416
+  },
+  {
+    "('Date', '')":"2025-02-17",
+    "('Adj Close', 'LAND.L')":587.2896118164,
+    "('Close', 'LAND.L')":587.5,
+    "('High', 'LAND.L')":593.5,
+    "('Low', 'LAND.L')":583.2969970703,
+    "('Open', 'LAND.L')":588.5,
+    "('Volume', 'LAND.L')":2189090
+  },
+  {
+    "('Date', '')":"2025-02-18",
+    "('Adj Close', 'LAND.L')":588.2892456055,
+    "('Close', 'LAND.L')":588.5,
+    "('High', 'LAND.L')":590.5,
+    "('Low', 'LAND.L')":583.0,
+    "('Open', 'LAND.L')":589.5,
+    "('Volume', 'LAND.L')":1746172
+  },
+  {
+    "('Date', '')":"2025-02-19",
+    "('Adj Close', 'LAND.L')":581.7915649414,
+    "('Close', 'LAND.L')":582.0,
+    "('High', 'LAND.L')":590.5,
+    "('Low', 'LAND.L')":578.5,
+    "('Open', 'LAND.L')":589.5,
+    "('Volume', 'LAND.L')":3178098
+  },
+  {
+    "('Date', '')":"2025-02-20",
+    "('Adj Close', 'LAND.L')":572.8883056641,
+    "('Close', 'LAND.L')":573.0,
+    "('High', 'LAND.L')":582.5,
+    "('Low', 'LAND.L')":566.5,
+    "('Open', 'LAND.L')":579.0,
+    "('Volume', 'LAND.L')":2167944
+  },
+  {
+    "('Date', '')":"2025-02-21",
+    "('Adj Close', 'LAND.L')":570.3887939453,
+    "('Close', 'LAND.L')":570.5,
+    "('High', 'LAND.L')":576.5,
+    "('Low', 'LAND.L')":570.5,
+    "('Open', 'LAND.L')":575.0,
+    "('Volume', 'LAND.L')":2130526
+  },
+  {
+    "('Date', '')":"2025-02-24",
+    "('Adj Close', 'LAND.L')":572.8883056641,
+    "('Close', 'LAND.L')":573.0,
+    "('High', 'LAND.L')":583.5,
+    "('Low', 'LAND.L')":571.0,
+    "('Open', 'LAND.L')":575.0,
+    "('Volume', 'LAND.L')":2071679
+  },
+  {
+    "('Date', '')":"2025-02-25",
+    "('Adj Close', 'LAND.L')":575.8877563477,
+    "('Close', 'LAND.L')":576.0,
+    "('High', 'LAND.L')":582.0,
+    "('Low', 'LAND.L')":572.5,
+    "('Open', 'LAND.L')":573.0,
+    "('Volume', 'LAND.L')":1650002
+  },
+  {
+    "('Date', '')":"2025-02-26",
+    "('Adj Close', 'LAND.L')":575.3878173828,
+    "('Close', 'LAND.L')":575.5,
+    "('High', 'LAND.L')":581.5,
+    "('Low', 'LAND.L')":573.4810180664,
+    "('Open', 'LAND.L')":575.5,
+    "('Volume', 'LAND.L')":1430788
+  },
+  {
+    "('Date', '')":"2025-02-27",
+    "('Adj Close', 'LAND.L')":575.8877563477,
+    "('Close', 'LAND.L')":576.0,
+    "('High', 'LAND.L')":579.0,
+    "('Low', 'LAND.L')":569.0,
+    "('Open', 'LAND.L')":573.5,
+    "('Volume', 'LAND.L')":3490321
+  },
+  {
+    "('Date', '')":"2025-02-28",
+    "('Adj Close', 'LAND.L')":564.3899536133,
+    "('Close', 'LAND.L')":564.5,
+    "('High', 'LAND.L')":577.0,
+    "('Low', 'LAND.L')":561.5,
+    "('Open', 'LAND.L')":567.5,
+    "('Volume', 'LAND.L')":6750762
+  },
+  {
+    "('Date', '')":"2025-03-03",
+    "('Adj Close', 'LAND.L')":557.8912353516,
+    "('Close', 'LAND.L')":558.0,
+    "('High', 'LAND.L')":562.5,
+    "('Low', 'LAND.L')":554.5,
+    "('Open', 'LAND.L')":560.5,
+    "('Volume', 'LAND.L')":3849759
+  },
+  {
+    "('Date', '')":"2025-03-04",
+    "('Adj Close', 'LAND.L')":552.3923339844,
+    "('Close', 'LAND.L')":552.5,
+    "('High', 'LAND.L')":560.0,
+    "('Low', 'LAND.L')":551.3499755859,
+    "('Open', 'LAND.L')":555.0,
+    "('Volume', 'LAND.L')":3843580
+  },
+  {
+    "('Date', '')":"2025-03-05",
+    "('Adj Close', 'LAND.L')":536.3954467773,
+    "('Close', 'LAND.L')":536.5,
+    "('High', 'LAND.L')":556.5,
+    "('Low', 'LAND.L')":535.0,
+    "('Open', 'LAND.L')":545.0,
+    "('Volume', 'LAND.L')":6078343
+  },
+  {
+    "('Date', '')":"2025-03-06",
+    "('Adj Close', 'LAND.L')":537.8951416016,
+    "('Close', 'LAND.L')":538.0,
+    "('High', 'LAND.L')":541.0,
+    "('Low', 'LAND.L')":530.0,
+    "('Open', 'LAND.L')":540.0,
+    "('Volume', 'LAND.L')":6684287
+  },
+  {
+    "('Date', '')":"2025-03-07",
+    "('Adj Close', 'LAND.L')":548.8930053711,
+    "('Close', 'LAND.L')":549.0,
+    "('High', 'LAND.L')":552.0,
+    "('Low', 'LAND.L')":530.9459838867,
+    "('Open', 'LAND.L')":539.0,
+    "('Volume', 'LAND.L')":3954752
+  },
+  {
+    "('Date', '')":"2025-03-10",
+    "('Adj Close', 'LAND.L')":563.8900756836,
+    "('Close', 'LAND.L')":564.0,
+    "('High', 'LAND.L')":571.5,
+    "('Low', 'LAND.L')":550.5,
+    "('Open', 'LAND.L')":553.5,
+    "('Volume', 'LAND.L')":8125750
+  },
+  {
+    "('Date', '')":"2025-03-11",
+    "('Adj Close', 'LAND.L')":562.8902587891,
+    "('Close', 'LAND.L')":563.0,
+    "('High', 'LAND.L')":572.5,
+    "('Low', 'LAND.L')":562.5,
+    "('Open', 'LAND.L')":563.0,
+    "('Volume', 'LAND.L')":4031015
+  },
+  {
+    "('Date', '')":"2025-03-12",
+    "('Adj Close', 'LAND.L')":560.3907470703,
+    "('Close', 'LAND.L')":560.5,
+    "('High', 'LAND.L')":576.0,
+    "('Low', 'LAND.L')":557.0,
+    "('Open', 'LAND.L')":565.0,
+    "('Volume', 'LAND.L')":2902664
+  },
+  {
+    "('Date', '')":"2025-03-13",
+    "('Adj Close', 'LAND.L')":557.3913574219,
+    "('Close', 'LAND.L')":557.5,
+    "('High', 'LAND.L')":561.0,
+    "('Low', 'LAND.L')":550.5,
+    "('Open', 'LAND.L')":557.5,
+    "('Volume', 'LAND.L')":3957660
+  },
+  {
+    "('Date', '')":"2025-03-14",
+    "('Adj Close', 'LAND.L')":559.8908691406,
+    "('Close', 'LAND.L')":560.0,
+    "('High', 'LAND.L')":563.0,
+    "('Low', 'LAND.L')":551.9400024414,
+    "('Open', 'LAND.L')":557.0,
+    "('Volume', 'LAND.L')":1886603
+  },
+  {
+    "('Date', '')":"2025-03-17",
+    "('Adj Close', 'LAND.L')":563.8900756836,
+    "('Close', 'LAND.L')":564.0,
+    "('High', 'LAND.L')":568.5,
+    "('Low', 'LAND.L')":560.0,
+    "('Open', 'LAND.L')":560.5,
+    "('Volume', 'LAND.L')":1707661
+  },
+  {
+    "('Date', '')":"2025-03-18",
+    "('Adj Close', 'LAND.L')":563.8900756836,
+    "('Close', 'LAND.L')":564.0,
+    "('High', 'LAND.L')":569.0,
+    "('Low', 'LAND.L')":562.0,
+    "('Open', 'LAND.L')":564.5,
+    "('Volume', 'LAND.L')":2141668
+  },
+  {
+    "('Date', '')":"2025-03-19",
+    "('Adj Close', 'LAND.L')":561.8904418945,
+    "('Close', 'LAND.L')":562.0,
+    "('High', 'LAND.L')":566.0,
+    "('Low', 'LAND.L')":560.0,
+    "('Open', 'LAND.L')":564.5,
+    "('Volume', 'LAND.L')":2522009
+  },
+  {
+    "('Date', '')":"2025-03-20",
+    "('Adj Close', 'LAND.L')":568.3892211914,
+    "('Close', 'LAND.L')":568.5,
+    "('High', 'LAND.L')":571.0,
+    "('Low', 'LAND.L')":563.5,
+    "('Open', 'LAND.L')":564.5,
+    "('Volume', 'LAND.L')":2950504
+  },
+  {
+    "('Date', '')":"2025-03-21",
+    "('Adj Close', 'LAND.L')":565.3897705078,
+    "('Close', 'LAND.L')":565.5,
+    "('High', 'LAND.L')":570.0,
+    "('Low', 'LAND.L')":562.5,
+    "('Open', 'LAND.L')":566.5,
+    "('Volume', 'LAND.L')":7871101
+  },
+  {
+    "('Date', '')":"2025-03-24",
+    "('Adj Close', 'LAND.L')":558.3911743164,
+    "('Close', 'LAND.L')":558.5,
+    "('High', 'LAND.L')":569.0,
+    "('Low', 'LAND.L')":557.0,
+    "('Open', 'LAND.L')":567.0,
+    "('Volume', 'LAND.L')":1588729
+  },
+  {
+    "('Date', '')":"2025-03-25",
+    "('Adj Close', 'LAND.L')":548.3930664062,
+    "('Close', 'LAND.L')":548.5,
+    "('High', 'LAND.L')":559.5,
+    "('Low', 'LAND.L')":546.5,
+    "('Open', 'LAND.L')":554.5,
+    "('Volume', 'LAND.L')":4111153
+  },
+  {
+    "('Date', '')":"2025-03-26",
+    "('Adj Close', 'LAND.L')":545.3936767578,
+    "('Close', 'LAND.L')":545.5,
+    "('High', 'LAND.L')":550.0,
+    "('Low', 'LAND.L')":539.5,
+    "('Open', 'LAND.L')":548.5,
+    "('Volume', 'LAND.L')":3766463
+  },
+  {
+    "('Date', '')":"2025-03-27",
+    "('Adj Close', 'LAND.L')":540.89453125,
+    "('Close', 'LAND.L')":541.0,
+    "('High', 'LAND.L')":547.5,
+    "('Low', 'LAND.L')":538.5,
+    "('Open', 'LAND.L')":543.0,
+    "('Volume', 'LAND.L')":3760022
+  },
+  {
+    "('Date', '')":"2025-03-28",
+    "('Adj Close', 'LAND.L')":553.3920898438,
+    "('Close', 'LAND.L')":553.5,
+    "('High', 'LAND.L')":557.5,
+    "('Low', 'LAND.L')":539.5,
+    "('Open', 'LAND.L')":540.5,
+    "('Volume', 'LAND.L')":2483077
+  },
+  {
+    "('Date', '')":"2025-03-31",
+    "('Adj Close', 'LAND.L')":549.8928222656,
+    "('Close', 'LAND.L')":550.0,
+    "('High', 'LAND.L')":555.0,
+    "('Low', 'LAND.L')":546.0,
+    "('Open', 'LAND.L')":554.0,
+    "('Volume', 'LAND.L')":2996476
+  },
+  {
+    "('Date', '')":"2025-04-01",
+    "('Adj Close', 'LAND.L')":552.3923339844,
+    "('Close', 'LAND.L')":552.5,
+    "('High', 'LAND.L')":558.0,
+    "('Low', 'LAND.L')":550.5,
+    "('Open', 'LAND.L')":551.5,
+    "('Volume', 'LAND.L')":2873594
+  },
+  {
+    "('Date', '')":"2025-04-02",
+    "('Adj Close', 'LAND.L')":550.3927001953,
+    "('Close', 'LAND.L')":550.5,
+    "('High', 'LAND.L')":552.5,
+    "('Low', 'LAND.L')":545.5,
+    "('Open', 'LAND.L')":549.0,
+    "('Volume', 'LAND.L')":10627237
+  },
+  {
+    "('Date', '')":"2025-04-03",
+    "('Adj Close', 'LAND.L')":562.8902587891,
+    "('Close', 'LAND.L')":563.0,
+    "('High', 'LAND.L')":569.0,
+    "('Low', 'LAND.L')":546.0,
+    "('Open', 'LAND.L')":548.0,
+    "('Volume', 'LAND.L')":3789901
+  },
+  {
+    "('Date', '')":"2025-04-04",
+    "('Adj Close', 'LAND.L')":538.8949584961,
+    "('Close', 'LAND.L')":539.0,
+    "('High', 'LAND.L')":567.6149902344,
+    "('Low', 'LAND.L')":537.5,
+    "('Open', 'LAND.L')":562.0,
+    "('Volume', 'LAND.L')":7996403
+  },
+  {
+    "('Date', '')":"2025-04-07",
+    "('Adj Close', 'LAND.L')":507.9010009766,
+    "('Close', 'LAND.L')":508.0,
+    "('High', 'LAND.L')":540.0,
+    "('Low', 'LAND.L')":507.5,
+    "('Open', 'LAND.L')":518.0,
+    "('Volume', 'LAND.L')":7271784
+  },
+  {
+    "('Date', '')":"2025-04-08",
+    "('Adj Close', 'LAND.L')":521.8982543945,
+    "('Close', 'LAND.L')":522.0,
+    "('High', 'LAND.L')":527.0,
+    "('Low', 'LAND.L')":500.0,
+    "('Open', 'LAND.L')":509.5,
+    "('Volume', 'LAND.L')":10613748
+  },
+  {
+    "('Date', '')":"2025-04-09",
+    "('Adj Close', 'LAND.L')":499.3026428223,
+    "('Close', 'LAND.L')":499.3999938965,
+    "('High', 'LAND.L')":514.0,
+    "('Low', 'LAND.L')":490.200012207,
+    "('Open', 'LAND.L')":511.0,
+    "('Volume', 'LAND.L')":3299429
+  },
+  {
+    "('Date', '')":"2025-04-10",
+    "('Adj Close', 'LAND.L')":525.8974609375,
+    "('Close', 'LAND.L')":526.0,
+    "('High', 'LAND.L')":537.5,
+    "('Low', 'LAND.L')":520.0,
+    "('Open', 'LAND.L')":532.0,
+    "('Volume', 'LAND.L')":2740145
+  },
+  {
+    "('Date', '')":"2025-04-11",
+    "('Adj Close', 'LAND.L')":532.8961181641,
+    "('Close', 'LAND.L')":533.0,
+    "('High', 'LAND.L')":537.0,
+    "('Low', 'LAND.L')":521.0,
+    "('Open', 'LAND.L')":527.0,
+    "('Volume', 'LAND.L')":3208400
+  },
+  {
+    "('Date', '')":"2025-04-14",
+    "('Adj Close', 'LAND.L')":542.3942871094,
+    "('Close', 'LAND.L')":542.5,
+    "('High', 'LAND.L')":544.0,
+    "('Low', 'LAND.L')":535.0,
+    "('Open', 'LAND.L')":540.5,
+    "('Volume', 'LAND.L')":2015740
+  },
+  {
+    "('Date', '')":"2025-04-15",
+    "('Adj Close', 'LAND.L')":552.3923339844,
+    "('Close', 'LAND.L')":552.5,
+    "('High', 'LAND.L')":554.5,
+    "('Low', 'LAND.L')":540.5,
+    "('Open', 'LAND.L')":542.5,
+    "('Volume', 'LAND.L')":2307718
+  },
+  {
+    "('Date', '')":"2025-04-16",
+    "('Adj Close', 'LAND.L')":564.3899536133,
+    "('Close', 'LAND.L')":564.5,
+    "('High', 'LAND.L')":567.0,
+    "('Low', 'LAND.L')":552.0,
+    "('Open', 'LAND.L')":554.5,
+    "('Volume', 'LAND.L')":4108791
+  },
+  {
+    "('Date', '')":"2025-04-17",
+    "('Adj Close', 'LAND.L')":576.3876342773,
+    "('Close', 'LAND.L')":576.5,
+    "('High', 'LAND.L')":580.0,
+    "('Low', 'LAND.L')":563.5,
+    "('Open', 'LAND.L')":564.5,
+    "('Volume', 'LAND.L')":2560477
+  },
+  {
+    "('Date', '')":"2025-04-22",
+    "('Adj Close', 'LAND.L')":581.3866577148,
+    "('Close', 'LAND.L')":581.5,
+    "('High', 'LAND.L')":588.0,
+    "('Low', 'LAND.L')":576.0,
+    "('Open', 'LAND.L')":579.0,
+    "('Volume', 'LAND.L')":1887896
+  },
+  {
+    "('Date', '')":"2025-04-23",
+    "('Adj Close', 'LAND.L')":575.8877563477,
+    "('Close', 'LAND.L')":576.0,
+    "('High', 'LAND.L')":588.0,
+    "('Low', 'LAND.L')":573.0,
+    "('Open', 'LAND.L')":585.5,
+    "('Volume', 'LAND.L')":2141717
+  },
+  {
+    "('Date', '')":"2025-04-24",
+    "('Adj Close', 'LAND.L')":579.8869628906,
+    "('Close', 'LAND.L')":580.0,
+    "('High', 'LAND.L')":589.0,
+    "('Low', 'LAND.L')":574.0,
+    "('Open', 'LAND.L')":578.5,
+    "('Volume', 'LAND.L')":4093787
+  },
+  {
+    "('Date', '')":"2025-04-25",
+    "('Adj Close', 'LAND.L')":579.3870239258,
+    "('Close', 'LAND.L')":579.5,
+    "('High', 'LAND.L')":584.5,
+    "('Low', 'LAND.L')":577.0,
+    "('Open', 'LAND.L')":580.0,
+    "('Volume', 'LAND.L')":1679167
+  },
+  {
+    "('Date', '')":"2025-04-28",
+    "('Adj Close', 'LAND.L')":584.8859863281,
+    "('Close', 'LAND.L')":585.0,
+    "('High', 'LAND.L')":587.0,
+    "('Low', 'LAND.L')":579.0,
+    "('Open', 'LAND.L')":583.0,
+    "('Volume', 'LAND.L')":2750228
+  },
+  {
+    "('Date', '')":"2025-04-29",
+    "('Adj Close', 'LAND.L')":587.3854980469,
+    "('Close', 'LAND.L')":587.5,
+    "('High', 'LAND.L')":594.5,
+    "('Low', 'LAND.L')":585.0,
+    "('Open', 'LAND.L')":588.5,
+    "('Volume', 'LAND.L')":2358926
+  },
+  {
+    "('Date', '')":"2025-04-30",
+    "('Adj Close', 'LAND.L')":592.3845214844,
+    "('Close', 'LAND.L')":592.5,
+    "('High', 'LAND.L')":593.0,
+    "('Low', 'LAND.L')":584.5,
+    "('Open', 'LAND.L')":589.0,
+    "('Volume', 'LAND.L')":2715928
+  },
+  {
+    "('Date', '')":"2025-05-01",
+    "('Adj Close', 'LAND.L')":602.8824462891,
+    "('Close', 'LAND.L')":603.0,
+    "('High', 'LAND.L')":604.0,
+    "('Low', 'LAND.L')":591.0,
+    "('Open', 'LAND.L')":593.5,
+    "('Volume', 'LAND.L')":1072274
+  },
+  {
+    "('Date', '')":"2025-05-02",
+    "('Adj Close', 'LAND.L')":600.3829345703,
+    "('Close', 'LAND.L')":600.5,
+    "('High', 'LAND.L')":608.0,
+    "('Low', 'LAND.L')":600.0,
+    "('Open', 'LAND.L')":605.5,
+    "('Volume', 'LAND.L')":2198759
+  },
+  {
+    "('Date', '')":"2025-05-06",
+    "('Adj Close', 'LAND.L')":609.3812255859,
+    "('Close', 'LAND.L')":609.5,
+    "('High', 'LAND.L')":614.5,
+    "('Low', 'LAND.L')":604.0,
+    "('Open', 'LAND.L')":606.0,
+    "('Volume', 'LAND.L')":3305402
+  },
+  {
+    "('Date', '')":"2025-05-07",
+    "('Adj Close', 'LAND.L')":606.3817749023,
+    "('Close', 'LAND.L')":606.5,
+    "('High', 'LAND.L')":610.5,
+    "('Low', 'LAND.L')":600.0,
+    "('Open', 'LAND.L')":609.5,
+    "('Volume', 'LAND.L')":2562432
+  },
+  {
+    "('Date', '')":"2025-05-08",
+    "('Adj Close', 'LAND.L')":591.8846435547,
+    "('Close', 'LAND.L')":592.0,
+    "('High', 'LAND.L')":610.5,
+    "('Low', 'LAND.L')":591.0,
+    "('Open', 'LAND.L')":608.0,
+    "('Volume', 'LAND.L')":4128618
+  },
+  {
+    "('Date', '')":"2025-05-09",
+    "('Adj Close', 'LAND.L')":598.8832397461,
+    "('Close', 'LAND.L')":599.0,
+    "('High', 'LAND.L')":600.5,
+    "('Low', 'LAND.L')":592.0,
+    "('Open', 'LAND.L')":593.0,
+    "('Volume', 'LAND.L')":1176733
+  },
+  {
+    "('Date', '')":"2025-05-12",
+    "('Adj Close', 'LAND.L')":596.3837280273,
+    "('Close', 'LAND.L')":596.5,
+    "('High', 'LAND.L')":605.5,
+    "('Low', 'LAND.L')":587.0,
+    "('Open', 'LAND.L')":600.0,
+    "('Volume', 'LAND.L')":2727217
+  },
+  {
+    "('Date', '')":"2025-05-13",
+    "('Adj Close', 'LAND.L')":591.3847045898,
+    "('Close', 'LAND.L')":591.5,
+    "('High', 'LAND.L')":596.5,
+    "('Low', 'LAND.L')":585.0,
+    "('Open', 'LAND.L')":591.0,
+    "('Volume', 'LAND.L')":2446349
+  },
+  {
+    "('Date', '')":"2025-05-14",
+    "('Adj Close', 'LAND.L')":591.8846435547,
+    "('Close', 'LAND.L')":592.0,
+    "('High', 'LAND.L')":597.5,
+    "('Low', 'LAND.L')":587.5,
+    "('Open', 'LAND.L')":591.5,
+    "('Volume', 'LAND.L')":10372731
+  },
+  {
+    "('Date', '')":"2025-05-15",
+    "('Adj Close', 'LAND.L')":603.3823852539,
+    "('Close', 'LAND.L')":603.5,
+    "('High', 'LAND.L')":603.5,
+    "('Low', 'LAND.L')":586.0,
+    "('Open', 'LAND.L')":592.0,
+    "('Volume', 'LAND.L')":5062792
+  },
+  {
+    "('Date', '')":"2025-05-16",
+    "('Adj Close', 'LAND.L')":602.8824462891,
+    "('Close', 'LAND.L')":603.0,
+    "('High', 'LAND.L')":605.0,
+    "('Low', 'LAND.L')":587.5,
+    "('Open', 'LAND.L')":593.0,
+    "('Volume', 'LAND.L')":4926242
+  },
+  {
+    "('Date', '')":"2025-05-19",
+    "('Adj Close', 'LAND.L')":603.3823852539,
+    "('Close', 'LAND.L')":603.5,
+    "('High', 'LAND.L')":603.5,
+    "('Low', 'LAND.L')":589.5,
+    "('Open', 'LAND.L')":601.5,
+    "('Volume', 'LAND.L')":1496052
+  },
+  {
+    "('Date', '')":"2025-05-20",
+    "('Adj Close', 'LAND.L')":612.3806152344,
+    "('Close', 'LAND.L')":612.5,
+    "('High', 'LAND.L')":613.0,
+    "('Low', 'LAND.L')":602.0,
+    "('Open', 'LAND.L')":603.0,
+    "('Volume', 'LAND.L')":2224151
+  },
+  {
+    "('Date', '')":"2025-05-21",
+    "('Adj Close', 'LAND.L')":615.3800048828,
+    "('Close', 'LAND.L')":615.5,
+    "('High', 'LAND.L')":619.5,
+    "('Low', 'LAND.L')":608.0,
+    "('Open', 'LAND.L')":611.5,
+    "('Volume', 'LAND.L')":3009234
+  },
+  {
+    "('Date', '')":"2025-05-22",
+    "('Adj Close', 'LAND.L')":602.3825683594,
+    "('Close', 'LAND.L')":602.5,
+    "('High', 'LAND.L')":613.5,
+    "('Low', 'LAND.L')":600.0,
+    "('Open', 'LAND.L')":613.0,
+    "('Volume', 'LAND.L')":3165008
+  },
+  {
+    "('Date', '')":"2025-05-23",
+    "('Adj Close', 'LAND.L')":610.3809814453,
+    "('Close', 'LAND.L')":610.5,
+    "('High', 'LAND.L')":610.5,
+    "('Low', 'LAND.L')":595.5,
+    "('Open', 'LAND.L')":605.0,
+    "('Volume', 'LAND.L')":3199436
+  },
+  {
+    "('Date', '')":"2025-05-27",
+    "('Adj Close', 'LAND.L')":622.8786010742,
+    "('Close', 'LAND.L')":623.0,
+    "('High', 'LAND.L')":627.0,
+    "('Low', 'LAND.L')":615.0,
+    "('Open', 'LAND.L')":617.5,
+    "('Volume', 'LAND.L')":3639462
+  },
+  {
+    "('Date', '')":"2025-05-28",
+    "('Adj Close', 'LAND.L')":624.8781738281,
+    "('Close', 'LAND.L')":625.0,
+    "('High', 'LAND.L')":629.5,
+    "('Low', 'LAND.L')":622.0,
+    "('Open', 'LAND.L')":624.5,
+    "('Volume', 'LAND.L')":2213589
+  },
+  {
+    "('Date', '')":"2025-05-29",
+    "('Adj Close', 'LAND.L')":629.8771972656,
+    "('Close', 'LAND.L')":630.0,
+    "('High', 'LAND.L')":632.5,
+    "('Low', 'LAND.L')":622.5,
+    "('Open', 'LAND.L')":628.5,
+    "('Volume', 'LAND.L')":1850907
+  },
+  {
+    "('Date', '')":"2025-05-30",
+    "('Adj Close', 'LAND.L')":632.8766479492,
+    "('Close', 'LAND.L')":633.0,
+    "('High', 'LAND.L')":638.5,
+    "('Low', 'LAND.L')":631.5,
+    "('Open', 'LAND.L')":633.0,
+    "('Volume', 'LAND.L')":9204939
+  },
+  {
+    "('Date', '')":"2025-06-02",
+    "('Adj Close', 'LAND.L')":634.8762207031,
+    "('Close', 'LAND.L')":635.0,
+    "('High', 'LAND.L')":636.0,
+    "('Low', 'LAND.L')":625.5,
+    "('Open', 'LAND.L')":631.5,
+    "('Volume', 'LAND.L')":2222810
+  },
+  {
+    "('Date', '')":"2025-06-03",
+    "('Adj Close', 'LAND.L')":631.3768920898,
+    "('Close', 'LAND.L')":631.5,
+    "('High', 'LAND.L')":640.5,
+    "('Low', 'LAND.L')":629.0,
+    "('Open', 'LAND.L')":637.5,
+    "('Volume', 'LAND.L')":3232867
+  },
+  {
+    "('Date', '')":"2025-06-04",
+    "('Adj Close', 'LAND.L')":623.3784790039,
+    "('Close', 'LAND.L')":623.5,
+    "('High', 'LAND.L')":632.5,
+    "('Low', 'LAND.L')":621.5,
+    "('Open', 'LAND.L')":631.0,
+    "('Volume', 'LAND.L')":2214963
+  },
+  {
+    "('Date', '')":"2025-06-05",
+    "('Adj Close', 'LAND.L')":621.8787841797,
+    "('Close', 'LAND.L')":622.0,
+    "('High', 'LAND.L')":626.5,
+    "('Low', 'LAND.L')":616.5,
+    "('Open', 'LAND.L')":626.0,
+    "('Volume', 'LAND.L')":1968492
+  },
+  {
+    "('Date', '')":"2025-06-06",
+    "('Adj Close', 'LAND.L')":623.3784790039,
+    "('Close', 'LAND.L')":623.5,
+    "('High', 'LAND.L')":626.0,
+    "('Low', 'LAND.L')":620.5,
+    "('Open', 'LAND.L')":621.5,
+    "('Volume', 'LAND.L')":3672385
+  },
+  {
+    "('Date', '')":"2025-06-09",
+    "('Adj Close', 'LAND.L')":624.3782958984,
+    "('Close', 'LAND.L')":624.5,
+    "('High', 'LAND.L')":626.5,
+    "('Low', 'LAND.L')":621.0,
+    "('Open', 'LAND.L')":624.0,
+    "('Volume', 'LAND.L')":1079251
+  },
+  {
+    "('Date', '')":"2025-06-10",
+    "('Adj Close', 'LAND.L')":634.3763427734,
+    "('Close', 'LAND.L')":634.5,
+    "('High', 'LAND.L')":638.0,
+    "('Low', 'LAND.L')":627.0,
+    "('Open', 'LAND.L')":630.0,
+    "('Volume', 'LAND.L')":1729925
+  },
+  {
+    "('Date', '')":"2025-06-11",
+    "('Adj Close', 'LAND.L')":630.8770141602,
+    "('Close', 'LAND.L')":631.0,
+    "('High', 'LAND.L')":636.0,
+    "('Low', 'LAND.L')":628.0,
+    "('Open', 'LAND.L')":634.5,
+    "('Volume', 'LAND.L')":4992631
+  },
+  {
+    "('Date', '')":"2025-06-12",
+    "('Adj Close', 'LAND.L')":623.0,
+    "('Close', 'LAND.L')":623.0,
+    "('High', 'LAND.L')":625.0,
+    "('Low', 'LAND.L')":614.0,
+    "('Open', 'LAND.L')":616.5,
+    "('Volume', 'LAND.L')":2780600
+  },
+  {
+    "('Date', '')":"2025-06-13",
+    "('Adj Close', 'LAND.L')":616.0,
+    "('Close', 'LAND.L')":616.0,
+    "('High', 'LAND.L')":624.0,
+    "('Low', 'LAND.L')":615.0,
+    "('Open', 'LAND.L')":622.5,
+    "('Volume', 'LAND.L')":3464954
+  },
+  {
+    "('Date', '')":"2025-06-16",
+    "('Adj Close', 'LAND.L')":617.5,
+    "('Close', 'LAND.L')":617.5,
+    "('High', 'LAND.L')":619.0,
+    "('Low', 'LAND.L')":612.0640258789,
+    "('Open', 'LAND.L')":616.5,
+    "('Volume', 'LAND.L')":3904152
+  },
+  {
+    "('Date', '')":"2025-06-17",
+    "('Adj Close', 'LAND.L')":618.5,
+    "('Close', 'LAND.L')":618.5,
+    "('High', 'LAND.L')":619.0,
+    "('Low', 'LAND.L')":611.5,
+    "('Open', 'LAND.L')":616.5,
+    "('Volume', 'LAND.L')":2262706
+  },
+  {
+    "('Date', '')":"2025-06-18",
+    "('Adj Close', 'LAND.L')":625.5,
+    "('Close', 'LAND.L')":625.5,
+    "('High', 'LAND.L')":626.5,
+    "('Low', 'LAND.L')":616.0,
+    "('Open', 'LAND.L')":620.5,
+    "('Volume', 'LAND.L')":1943355
+  },
+  {
+    "('Date', '')":"2025-06-19",
+    "('Adj Close', 'LAND.L')":622.0,
+    "('Close', 'LAND.L')":622.0,
+    "('High', 'LAND.L')":625.0,
+    "('Low', 'LAND.L')":618.5,
+    "('Open', 'LAND.L')":621.5,
+    "('Volume', 'LAND.L')":1621929
+  },
+  {
+    "('Date', '')":"2025-06-20",
+    "('Adj Close', 'LAND.L')":625.0,
+    "('Close', 'LAND.L')":625.0,
+    "('High', 'LAND.L')":631.5,
+    "('Low', 'LAND.L')":624.0,
+    "('Open', 'LAND.L')":626.5,
+    "('Volume', 'LAND.L')":5853818
+  },
+  {
+    "('Date', '')":"2025-06-23",
+    "('Adj Close', 'LAND.L')":621.0,
+    "('Close', 'LAND.L')":621.0,
+    "('High', 'LAND.L')":624.5,
+    "('Low', 'LAND.L')":615.5,
+    "('Open', 'LAND.L')":615.5,
+    "('Volume', 'LAND.L')":1176524
+  },
+  {
+    "('Date', '')":"2025-06-24",
+    "('Adj Close', 'LAND.L')":625.5,
+    "('Close', 'LAND.L')":625.5,
+    "('High', 'LAND.L')":630.0,
+    "('Low', 'LAND.L')":622.0,
+    "('Open', 'LAND.L')":628.0,
+    "('Volume', 'LAND.L')":2917865
+  },
+  {
+    "('Date', '')":"2025-06-25",
+    "('Adj Close', 'LAND.L')":622.5,
+    "('Close', 'LAND.L')":622.5,
+    "('High', 'LAND.L')":629.0,
+    "('Low', 'LAND.L')":619.5,
+    "('Open', 'LAND.L')":629.0,
+    "('Volume', 'LAND.L')":1787621
+  },
+  {
+    "('Date', '')":"2025-06-26",
+    "('Adj Close', 'LAND.L')":631.5,
+    "('Close', 'LAND.L')":631.5,
+    "('High', 'LAND.L')":635.0,
+    "('Low', 'LAND.L')":622.5,
+    "('Open', 'LAND.L')":624.5,
+    "('Volume', 'LAND.L')":1738610
+  },
+  {
+    "('Date', '')":"2025-06-27",
+    "('Adj Close', 'LAND.L')":634.0,
+    "('Close', 'LAND.L')":634.0,
+    "('High', 'LAND.L')":637.5,
+    "('Low', 'LAND.L')":629.5,
+    "('Open', 'LAND.L')":632.0,
+    "('Volume', 'LAND.L')":1617469
+  },
+  {
+    "('Date', '')":"2025-06-30",
+    "('Adj Close', 'LAND.L')":631.0,
+    "('Close', 'LAND.L')":631.0,
+    "('High', 'LAND.L')":638.0,
+    "('Low', 'LAND.L')":627.5,
+    "('Open', 'LAND.L')":628.0,
+    "('Volume', 'LAND.L')":2606179
+  },
+  {
+    "('Date', '')":"2025-07-01",
+    "('Adj Close', 'LAND.L')":633.5,
+    "('Close', 'LAND.L')":633.5,
+    "('High', 'LAND.L')":636.5,
+    "('Low', 'LAND.L')":628.0,
+    "('Open', 'LAND.L')":630.0,
+    "('Volume', 'LAND.L')":3468046
+  },
+  {
+    "('Date', '')":"2025-07-02",
+    "('Adj Close', 'LAND.L')":600.0,
+    "('Close', 'LAND.L')":600.0,
+    "('High', 'LAND.L')":634.0,
+    "('Low', 'LAND.L')":600.0,
+    "('Open', 'LAND.L')":631.0,
+    "('Volume', 'LAND.L')":3641189
+  },
+  {
+    "('Date', '')":"2025-07-03",
+    "('Adj Close', 'LAND.L')":600.5,
+    "('Close', 'LAND.L')":600.5,
+    "('High', 'LAND.L')":611.0,
+    "('Low', 'LAND.L')":599.0,
+    "('Open', 'LAND.L')":602.0,
+    "('Volume', 'LAND.L')":3233879
+  },
+  {
+    "('Date', '')":"2025-07-04",
+    "('Adj Close', 'LAND.L')":598.5,
+    "('Close', 'LAND.L')":598.5,
+    "('High', 'LAND.L')":601.0,
+    "('Low', 'LAND.L')":593.158996582,
+    "('Open', 'LAND.L')":600.5,
+    "('Volume', 'LAND.L')":1119434
+  },
+  {
+    "('Date', '')":"2025-07-07",
+    "('Adj Close', 'LAND.L')":599.0,
+    "('Close', 'LAND.L')":599.0,
+    "('High', 'LAND.L')":603.5,
+    "('Low', 'LAND.L')":596.5,
+    "('Open', 'LAND.L')":600.5,
+    "('Volume', 'LAND.L')":2116921
+  },
+  {
+    "('Date', '')":"2025-07-08",
+    "('Adj Close', 'LAND.L')":591.5,
+    "('Close', 'LAND.L')":591.5,
+    "('High', 'LAND.L')":599.0,
+    "('Low', 'LAND.L')":588.0,
+    "('Open', 'LAND.L')":594.5,
+    "('Volume', 'LAND.L')":1858343
+  },
+  {
+    "('Date', '')":"2025-07-09",
+    "('Adj Close', 'LAND.L')":595.5,
+    "('Close', 'LAND.L')":595.5,
+    "('High', 'LAND.L')":597.0,
+    "('Low', 'LAND.L')":589.5,
+    "('Open', 'LAND.L')":595.5,
+    "('Volume', 'LAND.L')":1720296
+  },
+  {
+    "('Date', '')":"2025-07-10",
+    "('Adj Close', 'LAND.L')":580.5,
+    "('Close', 'LAND.L')":580.5,
+    "('High', 'LAND.L')":595.5,
+    "('Low', 'LAND.L')":579.200012207,
+    "('Open', 'LAND.L')":593.0,
+    "('Volume', 'LAND.L')":2626211
+  },
+  {
+    "('Date', '')":"2025-07-11",
+    "('Adj Close', 'LAND.L')":576.0,
+    "('Close', 'LAND.L')":576.0,
+    "('High', 'LAND.L')":580.7299804688,
+    "('Low', 'LAND.L')":572.0,
+    "('Open', 'LAND.L')":577.5,
+    "('Volume', 'LAND.L')":1869084
+  },
+  {
+    "('Date', '')":"2025-07-14",
+    "('Adj Close', 'LAND.L')":581.0,
+    "('Close', 'LAND.L')":581.0,
+    "('High', 'LAND.L')":581.0,
+    "('Low', 'LAND.L')":573.5,
+    "('Open', 'LAND.L')":573.5,
+    "('Volume', 'LAND.L')":1135959
+  },
+  {
+    "('Date', '')":"2025-07-15",
+    "('Adj Close', 'LAND.L')":577.5,
+    "('Close', 'LAND.L')":577.5,
+    "('High', 'LAND.L')":584.0,
+    "('Low', 'LAND.L')":577.0,
+    "('Open', 'LAND.L')":580.5,
+    "('Volume', 'LAND.L')":2283353
+  },
+  {
+    "('Date', '')":"2025-07-16",
+    "('Adj Close', 'LAND.L')":572.0,
+    "('Close', 'LAND.L')":572.0,
+    "('High', 'LAND.L')":575.5,
+    "('Low', 'LAND.L')":563.5,
+    "('Open', 'LAND.L')":573.0,
+    "('Volume', 'LAND.L')":4445907
+  },
+  {
+    "('Date', '')":"2025-07-17",
+    "('Adj Close', 'LAND.L')":571.5,
+    "('Close', 'LAND.L')":571.5,
+    "('High', 'LAND.L')":576.0,
+    "('Low', 'LAND.L')":569.0,
+    "('Open', 'LAND.L')":572.0,
+    "('Volume', 'LAND.L')":2480656
+  },
+  {
+    "('Date', '')":"2025-07-18",
+    "('Adj Close', 'LAND.L')":578.5,
+    "('Close', 'LAND.L')":578.5,
+    "('High', 'LAND.L')":582.0,
+    "('Low', 'LAND.L')":573.5,
+    "('Open', 'LAND.L')":576.0,
+    "('Volume', 'LAND.L')":1899125
+  },
+  {
+    "('Date', '')":"2025-07-21",
+    "('Adj Close', 'LAND.L')":586.0,
+    "('Close', 'LAND.L')":586.0,
+    "('High', 'LAND.L')":587.5,
+    "('Low', 'LAND.L')":576.5,
+    "('Open', 'LAND.L')":582.5399780273,
+    "('Volume', 'LAND.L')":1458979
+  },
+  {
+    "('Date', '')":"2025-07-22",
+    "('Adj Close', 'LAND.L')":592.0,
+    "('Close', 'LAND.L')":592.0,
+    "('High', 'LAND.L')":592.5,
+    "('Low', 'LAND.L')":582.5,
+    "('Open', 'LAND.L')":587.0,
+    "('Volume', 'LAND.L')":1302314
+  },
+  {
+    "('Date', '')":"2025-07-23",
+    "('Adj Close', 'LAND.L')":585.5,
+    "('Close', 'LAND.L')":585.5,
+    "('High', 'LAND.L')":596.0,
+    "('Low', 'LAND.L')":585.5,
+    "('Open', 'LAND.L')":595.5,
+    "('Volume', 'LAND.L')":1882855
+  },
+  {
+    "('Date', '')":"2025-07-24",
+    "('Adj Close', 'LAND.L')":589.5,
+    "('Close', 'LAND.L')":589.5,
+    "('High', 'LAND.L')":589.5,
+    "('Low', 'LAND.L')":583.5,
+    "('Open', 'LAND.L')":587.0,
+    "('Volume', 'LAND.L')":1090580
+  },
+  {
+    "('Date', '')":"2025-07-25",
+    "('Adj Close', 'LAND.L')":584.5,
+    "('Close', 'LAND.L')":584.5,
+    "('High', 'LAND.L')":590.0,
+    "('Low', 'LAND.L')":578.5,
+    "('Open', 'LAND.L')":590.0,
+    "('Volume', 'LAND.L')":1541853
+  },
+  {
+    "('Date', '')":"2025-07-28",
+    "('Adj Close', 'LAND.L')":590.5,
+    "('Close', 'LAND.L')":590.5,
+    "('High', 'LAND.L')":591.5,
+    "('Low', 'LAND.L')":586.0,
+    "('Open', 'LAND.L')":588.5,
+    "('Volume', 'LAND.L')":1516157
+  },
+  {
+    "('Date', '')":"2025-07-29",
+    "('Adj Close', 'LAND.L')":582.5,
+    "('Close', 'LAND.L')":582.5,
+    "('High', 'LAND.L')":590.5,
+    "('Low', 'LAND.L')":581.9680175781,
+    "('Open', 'LAND.L')":586.5,
+    "('Volume', 'LAND.L')":1155132
+  },
+  {
+    "('Date', '')":"2025-07-30",
+    "('Adj Close', 'LAND.L')":577.5,
+    "('Close', 'LAND.L')":577.5,
+    "('High', 'LAND.L')":587.5,
+    "('Low', 'LAND.L')":575.0,
+    "('Open', 'LAND.L')":585.0,
+    "('Volume', 'LAND.L')":1477035
+  },
+  {
+    "('Date', '')":"2025-07-31",
+    "('Adj Close', 'LAND.L')":577.5,
+    "('Close', 'LAND.L')":577.5,
+    "('High', 'LAND.L')":583.0,
+    "('Low', 'LAND.L')":576.0,
+    "('Open', 'LAND.L')":580.5,
+    "('Volume', 'LAND.L')":3286648
+  },
+  {
+    "('Date', '')":"2025-08-01",
+    "('Adj Close', 'LAND.L')":573.5,
+    "('Close', 'LAND.L')":573.5,
+    "('High', 'LAND.L')":576.5,
+    "('Low', 'LAND.L')":567.5,
+    "('Open', 'LAND.L')":570.5,
+    "('Volume', 'LAND.L')":1403011
+  },
+  {
+    "('Date', '')":"2025-08-04",
+    "('Adj Close', 'LAND.L')":576.5,
+    "('Close', 'LAND.L')":576.5,
+    "('High', 'LAND.L')":581.0,
+    "('Low', 'LAND.L')":573.0,
+    "('Open', 'LAND.L')":574.0,
+    "('Volume', 'LAND.L')":2127751
+  },
+  {
+    "('Date', '')":"2025-08-05",
+    "('Adj Close', 'LAND.L')":577.5,
+    "('Close', 'LAND.L')":577.5,
+    "('High', 'LAND.L')":580.5,
+    "('Low', 'LAND.L')":574.0,
+    "('Open', 'LAND.L')":577.0,
+    "('Volume', 'LAND.L')":1708271
+  },
+  {
+    "('Date', '')":"2025-08-06",
+    "('Adj Close', 'LAND.L')":586.5,
+    "('Close', 'LAND.L')":586.5,
+    "('High', 'LAND.L')":587.5,
+    "('Low', 'LAND.L')":579.5,
+    "('Open', 'LAND.L')":581.0,
+    "('Volume', 'LAND.L')":2099002
+  },
+  {
+    "('Date', '')":"2025-08-07",
+    "('Adj Close', 'LAND.L')":583.0,
+    "('Close', 'LAND.L')":583.0,
+    "('High', 'LAND.L')":586.0,
+    "('Low', 'LAND.L')":574.5,
+    "('Open', 'LAND.L')":583.0,
+    "('Volume', 'LAND.L')":3653597
+  },
+  {
+    "('Date', '')":"2025-08-08",
+    "('Adj Close', 'LAND.L')":585.0,
+    "('Close', 'LAND.L')":585.0,
+    "('High', 'LAND.L')":590.5,
+    "('Low', 'LAND.L')":583.0,
+    "('Open', 'LAND.L')":590.5,
+    "('Volume', 'LAND.L')":1673078
+  },
+  {
+    "('Date', '')":"2025-08-11",
+    "('Adj Close', 'LAND.L')":584.0,
+    "('Close', 'LAND.L')":584.0,
+    "('High', 'LAND.L')":588.5,
+    "('Low', 'LAND.L')":582.5,
+    "('Open', 'LAND.L')":588.0,
+    "('Volume', 'LAND.L')":1275363
+  },
+  {
+    "('Date', '')":"2025-08-12",
+    "('Adj Close', 'LAND.L')":573.0,
+    "('Close', 'LAND.L')":573.0,
+    "('High', 'LAND.L')":587.0,
+    "('Low', 'LAND.L')":573.0,
+    "('Open', 'LAND.L')":585.0,
+    "('Volume', 'LAND.L')":1222868
+  },
+  {
+    "('Date', '')":"2025-08-13",
+    "('Adj Close', 'LAND.L')":577.0,
+    "('Close', 'LAND.L')":577.0,
+    "('High', 'LAND.L')":578.0,
+    "('Low', 'LAND.L')":571.0,
+    "('Open', 'LAND.L')":576.5,
+    "('Volume', 'LAND.L')":1839163
+  },
+  {
+    "('Date', '')":"2025-08-14",
+    "('Adj Close', 'LAND.L')":577.5,
+    "('Close', 'LAND.L')":577.5,
+    "('High', 'LAND.L')":581.0,
+    "('Low', 'LAND.L')":573.5,
+    "('Open', 'LAND.L')":577.5,
+    "('Volume', 'LAND.L')":1343784
+  },
+  {
+    "('Date', '')":"2025-08-15",
+    "('Adj Close', 'LAND.L')":574.0,
+    "('Close', 'LAND.L')":574.0,
+    "('High', 'LAND.L')":584.0,
+    "('Low', 'LAND.L')":572.0,
+    "('Open', 'LAND.L')":584.0,
+    "('Volume', 'LAND.L')":1539398
+  },
+  {
+    "('Date', '')":"2025-08-18",
+    "('Adj Close', 'LAND.L')":568.0,
+    "('Close', 'LAND.L')":568.0,
+    "('High', 'LAND.L')":578.0,
+    "('Low', 'LAND.L')":568.0,
+    "('Open', 'LAND.L')":577.0,
+    "('Volume', 'LAND.L')":1288906
+  },
+  {
+    "('Date', '')":"2025-08-19",
+    "('Adj Close', 'LAND.L')":567.0,
+    "('Close', 'LAND.L')":567.0,
+    "('High', 'LAND.L')":570.5,
+    "('Low', 'LAND.L')":565.0,
+    "('Open', 'LAND.L')":567.0,
+    "('Volume', 'LAND.L')":1271232
+  },
+  {
+    "('Date', '')":"2025-08-20",
+    "('Adj Close', 'LAND.L')":576.0,
+    "('Close', 'LAND.L')":576.0,
+    "('High', 'LAND.L')":576.0,
+    "('Low', 'LAND.L')":565.0,
+    "('Open', 'LAND.L')":569.0,
+    "('Volume', 'LAND.L')":1800113
+  },
+  {
+    "('Date', '')":"2025-08-21",
+    "('Adj Close', 'LAND.L')":574.5,
+    "('Close', 'LAND.L')":574.5,
+    "('High', 'LAND.L')":577.5,
+    "('Low', 'LAND.L')":568.5,
+    "('Open', 'LAND.L')":577.0,
+    "('Volume', 'LAND.L')":1194599
+  },
+  {
+    "('Date', '')":"2025-08-22",
+    "('Adj Close', 'LAND.L')":578.0,
+    "('Close', 'LAND.L')":578.0,
+    "('High', 'LAND.L')":580.0,
+    "('Low', 'LAND.L')":569.0,
+    "('Open', 'LAND.L')":573.0,
+    "('Volume', 'LAND.L')":1152795
+  },
+  {
+    "('Date', '')":"2025-08-26",
+    "('Adj Close', 'LAND.L')":571.5,
+    "('Close', 'LAND.L')":571.5,
+    "('High', 'LAND.L')":580.5,
+    "('Low', 'LAND.L')":567.5,
+    "('Open', 'LAND.L')":580.0,
+    "('Volume', 'LAND.L')":4181930
+  },
+  {
+    "('Date', '')":"2025-08-27",
+    "('Adj Close', 'LAND.L')":571.5,
+    "('Close', 'LAND.L')":571.5,
+    "('High', 'LAND.L')":578.5,
+    "('Low', 'LAND.L')":568.5,
+    "('Open', 'LAND.L')":569.5,
+    "('Volume', 'LAND.L')":1207958
+  },
+  {
+    "('Date', '')":"2025-08-28",
+    "('Adj Close', 'LAND.L')":559.0,
+    "('Close', 'LAND.L')":559.0,
+    "('High', 'LAND.L')":573.0,
+    "('Low', 'LAND.L')":555.0,
+    "('Open', 'LAND.L')":570.0,
+    "('Volume', 'LAND.L')":3120102
+  },
+  {
+    "('Date', '')":"2025-08-29",
+    "('Adj Close', 'LAND.L')":554.0,
+    "('Close', 'LAND.L')":554.0,
+    "('High', 'LAND.L')":560.5,
+    "('Low', 'LAND.L')":551.0,
+    "('Open', 'LAND.L')":560.0,
+    "('Volume', 'LAND.L')":2509228
+  },
+  {
+    "('Date', '')":"2025-09-01",
+    "('Adj Close', 'LAND.L')":552.0,
+    "('Close', 'LAND.L')":552.0,
+    "('High', 'LAND.L')":555.5,
+    "('Low', 'LAND.L')":551.0,
+    "('Open', 'LAND.L')":553.0,
+    "('Volume', 'LAND.L')":921508
+  },
+  {
+    "('Date', '')":"2025-09-02",
+    "('Adj Close', 'LAND.L')":529.0,
+    "('Close', 'LAND.L')":529.0,
+    "('High', 'LAND.L')":551.0,
+    "('Low', 'LAND.L')":528.5,
+    "('Open', 'LAND.L')":550.0,
+    "('Volume', 'LAND.L')":2766858
+  },
+  {
+    "('Date', '')":"2025-09-03",
+    "('Adj Close', 'LAND.L')":534.0,
+    "('Close', 'LAND.L')":534.0,
+    "('High', 'LAND.L')":537.0,
+    "('Low', 'LAND.L')":522.5,
+    "('Open', 'LAND.L')":529.5,
+    "('Volume', 'LAND.L')":2681283
+  },
+  {
+    "('Date', '')":"2025-09-04",
+    "('Adj Close', 'LAND.L')":535.5,
+    "('Close', 'LAND.L')":535.5,
+    "('High', 'LAND.L')":541.5,
+    "('Low', 'LAND.L')":534.0,
+    "('Open', 'LAND.L')":535.0,
+    "('Volume', 'LAND.L')":1918780
+  },
+  {
+    "('Date', '')":"2025-09-05",
+    "('Adj Close', 'LAND.L')":539.5,
+    "('Close', 'LAND.L')":539.5,
+    "('High', 'LAND.L')":543.5,
+    "('Low', 'LAND.L')":532.0,
+    "('Open', 'LAND.L')":538.5,
+    "('Volume', 'LAND.L')":2416323
+  },
+  {
+    "('Date', '')":"2025-09-08",
+    "('Adj Close', 'LAND.L')":541.5,
+    "('Close', 'LAND.L')":541.5,
+    "('High', 'LAND.L')":546.8800048828,
+    "('Low', 'LAND.L')":539.5,
+    "('Open', 'LAND.L')":541.0,
+    "('Volume', 'LAND.L')":2085604
+  },
+  {
+    "('Date', '')":"2025-09-09",
+    "('Adj Close', 'LAND.L')":546.0,
+    "('Close', 'LAND.L')":546.0,
+    "('High', 'LAND.L')":551.5,
+    "('Low', 'LAND.L')":542.5,
+    "('Open', 'LAND.L')":543.0,
+    "('Volume', 'LAND.L')":1657900
+  },
+  {
+    "('Date', '')":"2025-09-10",
+    "('Adj Close', 'LAND.L')":542.0,
+    "('Close', 'LAND.L')":542.0,
+    "('High', 'LAND.L')":552.0,
+    "('Low', 'LAND.L')":538.0,
+    "('Open', 'LAND.L')":546.0,
+    "('Volume', 'LAND.L')":2380082
+  },
+  {
+    "('Date', '')":"2025-09-11",
+    "('Adj Close', 'LAND.L')":549.5,
+    "('Close', 'LAND.L')":549.5,
+    "('High', 'LAND.L')":549.5,
+    "('Low', 'LAND.L')":541.0,
+    "('Open', 'LAND.L')":542.0,
+    "('Volume', 'LAND.L')":2504863
+  },
+  {
+    "('Date', '')":"2025-09-12",
+    "('Adj Close', 'LAND.L')":544.5,
+    "('Close', 'LAND.L')":544.5,
+    "('High', 'LAND.L')":552.0,
+    "('Low', 'LAND.L')":539.5,
+    "('Open', 'LAND.L')":550.5,
+    "('Volume', 'LAND.L')":1786152
+  },
+  {
+    "('Date', '')":"2025-09-15",
+    "('Adj Close', 'LAND.L')":554.0,
+    "('Close', 'LAND.L')":554.0,
+    "('High', 'LAND.L')":554.0,
+    "('Low', 'LAND.L')":542.0,
+    "('Open', 'LAND.L')":544.5,
+    "('Volume', 'LAND.L')":3149168
+  },
+  {
+    "('Date', '')":"2025-09-16",
+    "('Adj Close', 'LAND.L')":545.0,
+    "('Close', 'LAND.L')":545.0,
+    "('High', 'LAND.L')":559.5,
+    "('Low', 'LAND.L')":545.0,
+    "('Open', 'LAND.L')":556.5,
+    "('Volume', 'LAND.L')":1880560
+  },
+  {
+    "('Date', '')":"2025-09-17",
+    "('Adj Close', 'LAND.L')":550.0,
+    "('Close', 'LAND.L')":550.0,
+    "('High', 'LAND.L')":552.0,
+    "('Low', 'LAND.L')":545.9349975586,
+    "('Open', 'LAND.L')":547.5,
+    "('Volume', 'LAND.L')":1849500
+  },
+  {
+    "('Date', '')":"2025-09-18",
+    "('Adj Close', 'LAND.L')":554.0,
+    "('Close', 'LAND.L')":554.0,
+    "('High', 'LAND.L')":561.950012207,
+    "('Low', 'LAND.L')":545.0,
+    "('Open', 'LAND.L')":546.5,
+    "('Volume', 'LAND.L')":5427646
+  },
+  {
+    "('Date', '')":"2025-09-19",
+    "('Adj Close', 'LAND.L')":561.5,
+    "('Close', 'LAND.L')":561.5,
+    "('High', 'LAND.L')":566.5,
+    "('Low', 'LAND.L')":552.0,
+    "('Open', 'LAND.L')":557.0,
+    "('Volume', 'LAND.L')":11234466
+  },
+  {
+    "('Date', '')":"2025-09-22",
+    "('Adj Close', 'LAND.L')":563.0,
+    "('Close', 'LAND.L')":563.0,
+    "('High', 'LAND.L')":569.5,
+    "('Low', 'LAND.L')":553.5,
+    "('Open', 'LAND.L')":560.0,
+    "('Volume', 'LAND.L')":6141575
+  },
+  {
+    "('Date', '')":"2025-09-23",
+    "('Adj Close', 'LAND.L')":575.5,
+    "('Close', 'LAND.L')":575.5,
+    "('High', 'LAND.L')":590.0,
+    "('Low', 'LAND.L')":564.0,
+    "('Open', 'LAND.L')":565.0,
+    "('Volume', 'LAND.L')":16857007
+  },
+  {
+    "('Date', '')":"2025-09-24",
+    "('Adj Close', 'LAND.L')":580.5,
+    "('Close', 'LAND.L')":580.5,
+    "('High', 'LAND.L')":586.0,
+    "('Low', 'LAND.L')":572.5,
+    "('Open', 'LAND.L')":574.5,
+    "('Volume', 'LAND.L')":9311996
+  },
+  {
+    "('Date', '')":"2025-09-25",
+    "('Adj Close', 'LAND.L')":575.0,
+    "('Close', 'LAND.L')":575.0,
+    "('High', 'LAND.L')":579.5,
+    "('Low', 'LAND.L')":572.0,
+    "('Open', 'LAND.L')":575.5,
+    "('Volume', 'LAND.L')":2707303
+  },
+  {
+    "('Date', '')":"2025-09-26",
+    "('Adj Close', 'LAND.L')":579.0,
+    "('Close', 'LAND.L')":579.0,
+    "('High', 'LAND.L')":582.5,
+    "('Low', 'LAND.L')":574.0,
+    "('Open', 'LAND.L')":575.0,
+    "('Volume', 'LAND.L')":2265917
+  },
+  {
+    "('Date', '')":"2025-09-29",
+    "('Adj Close', 'LAND.L')":582.0,
+    "('Close', 'LAND.L')":582.0,
+    "('High', 'LAND.L')":583.0,
+    "('Low', 'LAND.L')":575.5,
+    "('Open', 'LAND.L')":581.0,
+    "('Volume', 'LAND.L')":5037943
+  },
+  {
+    "('Date', '')":"2025-09-30",
+    "('Adj Close', 'LAND.L')":582.0,
+    "('Close', 'LAND.L')":582.0,
+    "('High', 'LAND.L')":582.0,
+    "('Low', 'LAND.L')":573.5,
+    "('Open', 'LAND.L')":581.5,
+    "('Volume', 'LAND.L')":3604523
+  },
+  {
+    "('Date', '')":"2025-10-01",
+    "('Adj Close', 'LAND.L')":597.5,
+    "('Close', 'LAND.L')":597.5,
+    "('High', 'LAND.L')":597.5,
+    "('Low', 'LAND.L')":577.5,
+    "('Open', 'LAND.L')":581.5,
+    "('Volume', 'LAND.L')":4083496
+  },
+  {
+    "('Date', '')":"2025-10-02",
+    "('Adj Close', 'LAND.L')":586.5,
+    "('Close', 'LAND.L')":586.5,
+    "('High', 'LAND.L')":599.0,
+    "('Low', 'LAND.L')":583.5,
+    "('Open', 'LAND.L')":597.0,
+    "('Volume', 'LAND.L')":1940981
+  },
+  {
+    "('Date', '')":"2025-10-03",
+    "('Adj Close', 'LAND.L')":598.5,
+    "('Close', 'LAND.L')":598.5,
+    "('High', 'LAND.L')":598.5,
+    "('Low', 'LAND.L')":584.0,
+    "('Open', 'LAND.L')":587.5,
+    "('Volume', 'LAND.L')":3134337
+  },
+  {
+    "('Date', '')":"2025-10-06",
+    "('Adj Close', 'LAND.L')":601.0,
+    "('Close', 'LAND.L')":601.0,
+    "('High', 'LAND.L')":604.5,
+    "('Low', 'LAND.L')":592.0,
+    "('Open', 'LAND.L')":597.5,
+    "('Volume', 'LAND.L')":2001988
+  },
+  {
+    "('Date', '')":"2025-10-07",
+    "('Adj Close', 'LAND.L')":594.5,
+    "('Close', 'LAND.L')":594.5,
+    "('High', 'LAND.L')":601.0,
+    "('Low', 'LAND.L')":594.5,
+    "('Open', 'LAND.L')":599.5,
+    "('Volume', 'LAND.L')":2383835
+  },
+  {
+    "('Date', '')":"2025-10-08",
+    "('Adj Close', 'LAND.L')":587.5,
+    "('Close', 'LAND.L')":587.5,
+    "('High', 'LAND.L')":595.5,
+    "('Low', 'LAND.L')":584.5,
+    "('Open', 'LAND.L')":593.0,
+    "('Volume', 'LAND.L')":2655215
+  },
+  {
+    "('Date', '')":"2025-10-09",
+    "('Adj Close', 'LAND.L')":590.0,
+    "('Close', 'LAND.L')":590.0,
+    "('High', 'LAND.L')":595.5,
+    "('Low', 'LAND.L')":586.5,
+    "('Open', 'LAND.L')":586.5,
+    "('Volume', 'LAND.L')":8839370
+  },
+  {
+    "('Date', '')":"2025-10-10",
+    "('Adj Close', 'LAND.L')":587.0,
+    "('Close', 'LAND.L')":587.0,
+    "('High', 'LAND.L')":597.5,
+    "('Low', 'LAND.L')":586.0,
+    "('Open', 'LAND.L')":592.0,
+    "('Volume', 'LAND.L')":2129966
+  },
+  {
+    "('Date', '')":"2025-10-13",
+    "('Adj Close', 'LAND.L')":602.0,
+    "('Close', 'LAND.L')":602.0,
+    "('High', 'LAND.L')":602.5,
+    "('Low', 'LAND.L')":586.0,
+    "('Open', 'LAND.L')":588.5,
+    "('Volume', 'LAND.L')":2540385
+  },
+  {
+    "('Date', '')":"2025-10-14",
+    "('Adj Close', 'LAND.L')":610.0,
+    "('Close', 'LAND.L')":610.0,
+    "('High', 'LAND.L')":616.4400024414,
+    "('Low', 'LAND.L')":600.2700195312,
+    "('Open', 'LAND.L')":601.0,
+    "('Volume', 'LAND.L')":6746866
+  },
+  {
+    "('Date', '')":"2025-10-15",
+    "('Adj Close', 'LAND.L')":621.0,
+    "('Close', 'LAND.L')":621.0,
+    "('High', 'LAND.L')":638.5,
+    "('Low', 'LAND.L')":612.700012207,
+    "('Open', 'LAND.L')":614.5,
+    "('Volume', 'LAND.L')":7683415
+  },
+  {
+    "('Date', '')":"2025-10-16",
+    "('Adj Close', 'LAND.L')":621.0,
+    "('Close', 'LAND.L')":621.0,
+    "('High', 'LAND.L')":625.5,
+    "('Low', 'LAND.L')":617.0,
+    "('Open', 'LAND.L')":624.0,
+    "('Volume', 'LAND.L')":2038124
+  },
+  {
+    "('Date', '')":"2025-10-17",
+    "('Adj Close', 'LAND.L')":620.5,
+    "('Close', 'LAND.L')":620.5,
+    "('High', 'LAND.L')":620.5,
+    "('Low', 'LAND.L')":612.5,
+    "('Open', 'LAND.L')":616.5,
+    "('Volume', 'LAND.L')":2226966
+  },
+  {
+    "('Date', '')":"2025-10-20",
+    "('Adj Close', 'LAND.L')":621.0,
+    "('Close', 'LAND.L')":621.0,
+    "('High', 'LAND.L')":624.5,
+    "('Low', 'LAND.L')":615.0,
+    "('Open', 'LAND.L')":620.0,
+    "('Volume', 'LAND.L')":1797779
+  },
+  {
+    "('Date', '')":"2025-10-21",
+    "('Adj Close', 'LAND.L')":627.5,
+    "('Close', 'LAND.L')":627.5,
+    "('High', 'LAND.L')":629.0,
+    "('Low', 'LAND.L')":621.0,
+    "('Open', 'LAND.L')":622.0,
+    "('Volume', 'LAND.L')":1873503
+  },
+  {
+    "('Date', '')":"2025-10-22",
+    "('Adj Close', 'LAND.L')":645.5,
+    "('Close', 'LAND.L')":645.5,
+    "('High', 'LAND.L')":648.5,
+    "('Low', 'LAND.L')":632.5,
+    "('Open', 'LAND.L')":635.5,
+    "('Volume', 'LAND.L')":2877828
+  },
+  {
+    "('Date', '')":"2025-10-23",
+    "('Adj Close', 'LAND.L')":645.5,
+    "('Close', 'LAND.L')":645.5,
+    "('High', 'LAND.L')":651.0,
+    "('Low', 'LAND.L')":641.0,
+    "('Open', 'LAND.L')":645.5,
+    "('Volume', 'LAND.L')":3481910
+  },
+  {
+    "('Date', '')":"2025-10-24",
+    "('Adj Close', 'LAND.L')":650.0,
+    "('Close', 'LAND.L')":650.0,
+    "('High', 'LAND.L')":650.0,
+    "('Low', 'LAND.L')":636.5,
+    "('Open', 'LAND.L')":647.5,
+    "('Volume', 'LAND.L')":2041283
+  },
+  {
+    "('Date', '')":"2025-10-27",
+    "('Adj Close', 'LAND.L')":645.0,
+    "('Close', 'LAND.L')":645.0,
+    "('High', 'LAND.L')":652.5,
+    "('Low', 'LAND.L')":643.8099975586,
+    "('Open', 'LAND.L')":650.0,
+    "('Volume', 'LAND.L')":3649433
+  },
+  {
+    "('Date', '')":"2025-10-28",
+    "('Adj Close', 'LAND.L')":639.5,
+    "('Close', 'LAND.L')":639.5,
+    "('High', 'LAND.L')":647.0,
+    "('Low', 'LAND.L')":634.0,
+    "('Open', 'LAND.L')":646.0,
+    "('Volume', 'LAND.L')":1885052
+  },
+  {
+    "('Date', '')":"2025-10-29",
+    "('Adj Close', 'LAND.L')":640.0,
+    "('Close', 'LAND.L')":640.0,
+    "('High', 'LAND.L')":645.5,
+    "('Low', 'LAND.L')":637.0,
+    "('Open', 'LAND.L')":641.0,
+    "('Volume', 'LAND.L')":2585825
+  },
+  {
+    "('Date', '')":"2025-10-30",
+    "('Adj Close', 'LAND.L')":630.0,
+    "('Close', 'LAND.L')":630.0,
+    "('High', 'LAND.L')":643.0,
+    "('Low', 'LAND.L')":628.5,
+    "('Open', 'LAND.L')":640.5,
+    "('Volume', 'LAND.L')":1681575
+  },
+  {
+    "('Date', '')":"2025-10-31",
+    "('Adj Close', 'LAND.L')":621.5,
+    "('Close', 'LAND.L')":621.5,
+    "('High', 'LAND.L')":631.5,
+    "('Low', 'LAND.L')":620.5,
+    "('Open', 'LAND.L')":629.0,
+    "('Volume', 'LAND.L')":2626971
+  },
+  {
+    "('Date', '')":"2025-11-03",
+    "('Adj Close', 'LAND.L')":615.0,
+    "('Close', 'LAND.L')":615.0,
+    "('High', 'LAND.L')":625.0,
+    "('Low', 'LAND.L')":614.0,
+    "('Open', 'LAND.L')":621.0,
+    "('Volume', 'LAND.L')":1643598
+  },
+  {
+    "('Date', '')":"2025-11-04",
+    "('Adj Close', 'LAND.L')":627.5,
+    "('Close', 'LAND.L')":627.5,
+    "('High', 'LAND.L')":629.5,
+    "('Low', 'LAND.L')":592.0,
+    "('Open', 'LAND.L')":592.0,
+    "('Volume', 'LAND.L')":4547200
+  },
+  {
+    "('Date', '')":"2025-11-05",
+    "('Adj Close', 'LAND.L')":630.5,
+    "('Close', 'LAND.L')":630.5,
+    "('High', 'LAND.L')":640.4669799805,
+    "('Low', 'LAND.L')":626.0,
+    "('Open', 'LAND.L')":630.0,
+    "('Volume', 'LAND.L')":2776211
+  },
+  {
+    "('Date', '')":"2025-11-06",
+    "('Adj Close', 'LAND.L')":638.0,
+    "('Close', 'LAND.L')":638.0,
+    "('High', 'LAND.L')":645.5,
+    "('Low', 'LAND.L')":632.0,
+    "('Open', 'LAND.L')":634.0,
+    "('Volume', 'LAND.L')":3622933
+  },
+  {
+    "('Date', '')":"2025-11-07",
+    "('Adj Close', 'LAND.L')":642.5,
+    "('Close', 'LAND.L')":642.5,
+    "('High', 'LAND.L')":644.0,
+    "('Low', 'LAND.L')":636.5,
+    "('Open', 'LAND.L')":637.5,
+    "('Volume', 'LAND.L')":1863897
+  },
+  {
+    "('Date', '')":"2025-11-10",
+    "('Adj Close', 'LAND.L')":640.0,
+    "('Close', 'LAND.L')":640.0,
+    "('High', 'LAND.L')":645.5,
+    "('Low', 'LAND.L')":639.0,
+    "('Open', 'LAND.L')":643.0,
+    "('Volume', 'LAND.L')":1083753
+  },
+  {
+    "('Date', '')":"2025-11-11",
+    "('Adj Close', 'LAND.L')":646.0,
+    "('Close', 'LAND.L')":646.0,
+    "('High', 'LAND.L')":650.5,
+    "('Low', 'LAND.L')":641.799987793,
+    "('Open', 'LAND.L')":646.0,
+    "('Volume', 'LAND.L')":3073904
+  },
+  {
+    "('Date', '')":"2025-11-12",
+    "('Adj Close', 'LAND.L')":641.0,
+    "('Close', 'LAND.L')":641.0,
+    "('High', 'LAND.L')":647.5,
+    "('Low', 'LAND.L')":641.0,
+    "('Open', 'LAND.L')":644.5,
+    "('Volume', 'LAND.L')":2444130
+  },
+  {
+    "('Date', '')":"2025-11-13",
+    "('Adj Close', 'LAND.L')":647.0,
+    "('Close', 'LAND.L')":647.0,
+    "('High', 'LAND.L')":647.0,
+    "('Low', 'LAND.L')":639.5,
+    "('Open', 'LAND.L')":643.0,
+    "('Volume', 'LAND.L')":6930409
+  },
+  {
+    "('Date', '')":"2025-11-14",
+    "('Adj Close', 'LAND.L')":613.0,
+    "('Close', 'LAND.L')":613.0,
+    "('High', 'LAND.L')":635.8200073242,
+    "('Low', 'LAND.L')":611.0,
+    "('Open', 'LAND.L')":635.0,
+    "('Volume', 'LAND.L')":6068694
+  }
+]

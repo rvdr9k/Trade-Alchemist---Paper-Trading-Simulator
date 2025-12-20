@@ -1,0 +1,1986 @@
+[
+  {
+    "('Date', '')":"2024-11-13",
+    "('Close', 'SBILIFE.BO')":1543.4116210938,
+    "('High', 'SBILIFE.BO')":1567.6155415532,
+    "('Low', 'SBILIFE.BO')":1538.0718114632,
+    "('Open', 'SBILIFE.BO')":1546.2063493048,
+    "('Volume', 'SBILIFE.BO')":38659
+  },
+  {
+    "('Date', '')":"2024-11-14",
+    "('Close', 'SBILIFE.BO')":1559.181640625,
+    "('High', 'SBILIFE.BO')":1564.0723540556,
+    "('Low', 'SBILIFE.BO')":1528.1407609402,
+    "('Open', 'SBILIFE.BO')":1528.1407609402,
+    "('Volume', 'SBILIFE.BO')":5193
+  },
+  {
+    "('Date', '')":"2024-11-18",
+    "('Close', 'SBILIFE.BO')":1559.4311523438,
+    "('High', 'SBILIFE.BO')":1562.1759267946,
+    "('Low', 'SBILIFE.BO')":1548.6516257653,
+    "('Open', 'SBILIFE.BO')":1557.0356884554,
+    "('Volume', 'SBILIFE.BO')":4300
+  },
+  {
+    "('Date', '')":"2024-11-19",
+    "('Close', 'SBILIFE.BO')":1520.0560302734,
+    "('High', 'SBILIFE.BO')":1570.8593340801,
+    "('Low', 'SBILIFE.BO')":1498.1477885631,
+    "('Open', 'SBILIFE.BO')":1570.8593340801,
+    "('Volume', 'SBILIFE.BO')":41424
+  },
+  {
+    "('Date', '')":"2024-11-21",
+    "('Close', 'SBILIFE.BO')":1474.9420166016,
+    "('High', 'SBILIFE.BO')":1512.570331274,
+    "('Low', 'SBILIFE.BO')":1470.7998779596,
+    "('Open', 'SBILIFE.BO')":1507.1806896889,
+    "('Volume', 'SBILIFE.BO')":20226
+  },
+  {
+    "('Date', '')":"2024-11-22",
+    "('Close', 'SBILIFE.BO')":1479.2836914062,
+    "('High', 'SBILIFE.BO')":1492.8079924516,
+    "('Low', 'SBILIFE.BO')":1471.049368044,
+    "('Open', 'SBILIFE.BO')":1477.4372311412,
+    "('Volume', 'SBILIFE.BO')":8679
+  },
+  {
+    "('Date', '')":"2024-11-25",
+    "('Close', 'SBILIFE.BO')":1493.7561035156,
+    "('High', 'SBILIFE.BO')":1508.2785040221,
+    "('Low', 'SBILIFE.BO')":1487.1686693479,
+    "('Open', 'SBILIFE.BO')":1507.0807111854,
+    "('Volume', 'SBILIFE.BO')":7597
+  },
+  {
+    "('Date', '')":"2024-11-26",
+    "('Close', 'SBILIFE.BO')":1503.3878173828,
+    "('High', 'SBILIFE.BO')":1513.2690297286,
+    "('Low', 'SBILIFE.BO')":1486.3203352428,
+    "('Open', 'SBILIFE.BO')":1501.0921391172,
+    "('Volume', 'SBILIFE.BO')":13229
+  },
+  {
+    "('Date', '')":"2024-11-27",
+    "('Close', 'SBILIFE.BO')":1502.6392822266,
+    "('High', 'SBILIFE.BO')":1508.1288312483,
+    "('Low', 'SBILIFE.BO')":1492.2590197087,
+    "('Open', 'SBILIFE.BO')":1508.0788775219,
+    "('Volume', 'SBILIFE.BO')":3255
+  },
+  {
+    "('Date', '')":"2024-11-28",
+    "('Close', 'SBILIFE.BO')":1425.2365722656,
+    "('High', 'SBILIFE.BO')":1515.864083578,
+    "('Low', 'SBILIFE.BO')":1400.5336020147,
+    "('Open', 'SBILIFE.BO')":1509.0769561475,
+    "('Volume', 'SBILIFE.BO')":311730
+  },
+  {
+    "('Date', '')":"2024-11-29",
+    "('Close', 'SBILIFE.BO')":1433.5708007812,
+    "('High', 'SBILIFE.BO')":1453.9319393627,
+    "('Low', 'SBILIFE.BO')":1395.1439582318,
+    "('Open', 'SBILIFE.BO')":1436.7646714266,
+    "('Volume', 'SBILIFE.BO')":87085
+  },
+  {
+    "('Date', '')":"2024-12-02",
+    "('Close', 'SBILIFE.BO')":1419.8469238281,
+    "('High', 'SBILIFE.BO')":1446.2965686139,
+    "('Low', 'SBILIFE.BO')":1409.3169221686,
+    "('Open', 'SBILIFE.BO')":1432.2232639176,
+    "('Volume', 'SBILIFE.BO')":14675
+  },
+  {
+    "('Date', '')":"2024-12-03",
+    "('Close', 'SBILIFE.BO')":1438.6611328125,
+    "('High', 'SBILIFE.BO')":1445.1487817683,
+    "('Low', 'SBILIFE.BO')":1414.3074723646,
+    "('Open', 'SBILIFE.BO')":1440.8070718348,
+    "('Volume', 'SBILIFE.BO')":173979
+  },
+  {
+    "('Date', '')":"2024-12-04",
+    "('Close', 'SBILIFE.BO')":1449.5404052734,
+    "('High', 'SBILIFE.BO')":1469.2029228287,
+    "('Low', 'SBILIFE.BO')":1433.2713296073,
+    "('Open', 'SBILIFE.BO')":1433.2713296073,
+    "('Volume', 'SBILIFE.BO')":82503
+  },
+  {
+    "('Date', '')":"2024-12-05",
+    "('Close', 'SBILIFE.BO')":1430.4765625,
+    "('High', 'SBILIFE.BO')":1454.1316004971,
+    "('Low', 'SBILIFE.BO')":1415.1557551746,
+    "('Open', 'SBILIFE.BO')":1454.1316004971,
+    "('Volume', 'SBILIFE.BO')":29055
+  },
+  {
+    "('Date', '')":"2024-12-06",
+    "('Close', 'SBILIFE.BO')":1445.5977783203,
+    "('High', 'SBILIFE.BO')":1449.9894416784,
+    "('Low', 'SBILIFE.BO')":1425.9352615757,
+    "('Open', 'SBILIFE.BO')":1435.7165662241,
+    "('Volume', 'SBILIFE.BO')":27250
+  },
+  {
+    "('Date', '')":"2024-12-09",
+    "('Close', 'SBILIFE.BO')":1466.4581298828,
+    "('High', 'SBILIFE.BO')":1481.1801019201,
+    "('Low', 'SBILIFE.BO')":1446.8454444621,
+    "('Open', 'SBILIFE.BO')":1466.7576085579,
+    "('Volume', 'SBILIFE.BO')":24372
+  },
+  {
+    "('Date', '')":"2024-12-10",
+    "('Close', 'SBILIFE.BO')":1459.2219238281,
+    "('High', 'SBILIFE.BO')":1481.3796908992,
+    "('Low', 'SBILIFE.BO')":1452.2352251504,
+    "('Open', 'SBILIFE.BO')":1467.2566760428,
+    "('Volume', 'SBILIFE.BO')":11825
+  },
+  {
+    "('Date', '')":"2024-12-11",
+    "('Close', 'SBILIFE.BO')":1453.8321533203,
+    "('High', 'SBILIFE.BO')":1470.5004931866,
+    "('Low', 'SBILIFE.BO')":1451.9357393209,
+    "('Open', 'SBILIFE.BO')":1457.225717029,
+    "('Volume', 'SBILIFE.BO')":22507
+  },
+  {
+    "('Date', '')":"2024-12-12",
+    "('Close', 'SBILIFE.BO')":1432.2731933594,
+    "('High', 'SBILIFE.BO')":1460.2199873761,
+    "('Low', 'SBILIFE.BO')":1417.5012677866,
+    "('Open', 'SBILIFE.BO')":1460.2199873761,
+    "('Volume', 'SBILIFE.BO')":31577
+  },
+  {
+    "('Date', '')":"2024-12-13",
+    "('Close', 'SBILIFE.BO')":1425.8853759766,
+    "('High', 'SBILIFE.BO')":1439.6092484774,
+    "('Low', 'SBILIFE.BO')":1407.0212650441,
+    "('Open', 'SBILIFE.BO')":1432.273239181,
+    "('Volume', 'SBILIFE.BO')":36188
+  },
+  {
+    "('Date', '')":"2024-12-16",
+    "('Close', 'SBILIFE.BO')":1419.0983886719,
+    "('High', 'SBILIFE.BO')":1436.5151819902,
+    "('Low', 'SBILIFE.BO')":1413.8084108314,
+    "('Open', 'SBILIFE.BO')":1436.5151819902,
+    "('Volume', 'SBILIFE.BO')":9391
+  },
+  {
+    "('Date', '')":"2024-12-17",
+    "('Close', 'SBILIFE.BO')":1407.0212402344,
+    "('High', 'SBILIFE.BO')":1426.8834506349,
+    "('Low', 'SBILIFE.BO')":1403.278365982,
+    "('Open', 'SBILIFE.BO')":1426.8834506349,
+    "('Volume', 'SBILIFE.BO')":28773
+  },
+  {
+    "('Date', '')":"2024-12-18",
+    "('Close', 'SBILIFE.BO')":1395.2437744141,
+    "('High', 'SBILIFE.BO')":1433.1216141645,
+    "('Low', 'SBILIFE.BO')":1390.3031071607,
+    "('Open', 'SBILIFE.BO')":1433.1216141645,
+    "('Volume', 'SBILIFE.BO')":24768
+  },
+  {
+    "('Date', '')":"2024-12-19",
+    "('Close', 'SBILIFE.BO')":1402.779296875,
+    "('High', 'SBILIFE.BO')":1406.6719104119,
+    "('Low', 'SBILIFE.BO')":1375.3815064578,
+    "('Open', 'SBILIFE.BO')":1394.0958774636,
+    "('Volume', 'SBILIFE.BO')":32026
+  },
+  {
+    "('Date', '')":"2024-12-20",
+    "('Close', 'SBILIFE.BO')":1399.8848876953,
+    "('High', 'SBILIFE.BO')":1411.8620849913,
+    "('Low', 'SBILIFE.BO')":1388.8558364499,
+    "('Open', 'SBILIFE.BO')":1402.6794939614,
+    "('Volume', 'SBILIFE.BO')":62223
+  },
+  {
+    "('Date', '')":"2024-12-23",
+    "('Close', 'SBILIFE.BO')":1402.9290771484,
+    "('High', 'SBILIFE.BO')":1404.6757518266,
+    "('Low', 'SBILIFE.BO')":1379.823042038,
+    "('Open', 'SBILIFE.BO')":1398.936677884,
+    "('Volume', 'SBILIFE.BO')":28956
+  },
+  {
+    "('Date', '')":"2024-12-24",
+    "('Close', 'SBILIFE.BO')":1383.9152832031,
+    "('High', 'SBILIFE.BO')":1415.2056865882,
+    "('Low', 'SBILIFE.BO')":1382.4181335499,
+    "('Open', 'SBILIFE.BO')":1402.6794857541,
+    "('Volume', 'SBILIFE.BO')":21661
+  },
+  {
+    "('Date', '')":"2024-12-26",
+    "('Close', 'SBILIFE.BO')":1407.1710205078,
+    "('High', 'SBILIFE.BO')":1409.1173882787,
+    "('Low', 'SBILIFE.BO')":1383.2665783223,
+    "('Open', 'SBILIFE.BO')":1397.0902365957,
+    "('Volume', 'SBILIFE.BO')":18392
+  },
+  {
+    "('Date', '')":"2024-12-27",
+    "('Close', 'SBILIFE.BO')":1401.8311767578,
+    "('High', 'SBILIFE.BO')":1418.100252322,
+    "('Low', 'SBILIFE.BO')":1395.5930529737,
+    "('Open', 'SBILIFE.BO')":1411.1135536839,
+    "('Volume', 'SBILIFE.BO')":15803
+  },
+  {
+    "('Date', '')":"2024-12-30",
+    "('Close', 'SBILIFE.BO')":1401.6813964844,
+    "('High', 'SBILIFE.BO')":1407.3206845882,
+    "('Low', 'SBILIFE.BO')":1387.3586890621,
+    "('Open', 'SBILIFE.BO')":1401.6315645986,
+    "('Volume', 'SBILIFE.BO')":32953
+  },
+  {
+    "('Date', '')":"2024-12-31",
+    "('Close', 'SBILIFE.BO')":1387.8577880859,
+    "('High', 'SBILIFE.BO')":1398.3378361082,
+    "('Low', 'SBILIFE.BO')":1379.9727752063,
+    "('Open', 'SBILIFE.BO')":1398.3378361082,
+    "('Volume', 'SBILIFE.BO')":18842
+  },
+  {
+    "('Date', '')":"2025-01-01",
+    "('Close', 'SBILIFE.BO')":1397.9385986328,
+    "('High', 'SBILIFE.BO')":1401.2323768098,
+    "('Low', 'SBILIFE.BO')":1382.3682656402,
+    "('Open', 'SBILIFE.BO')":1388.9557001557,
+    "('Volume', 'SBILIFE.BO')":10917
+  },
+  {
+    "('Date', '')":"2025-01-02",
+    "('Close', 'SBILIFE.BO')":1419.8967285156,
+    "('High', 'SBILIFE.BO')":1423.140552814,
+    "('Low', 'SBILIFE.BO')":1395.4432838048,
+    "('Open', 'SBILIFE.BO')":1397.3396977623,
+    "('Volume', 'SBILIFE.BO')":25512
+  },
+  {
+    "('Date', '')":"2025-01-03",
+    "('Close', 'SBILIFE.BO')":1443.2023925781,
+    "('High', 'SBILIFE.BO')":1447.9433667448,
+    "('Low', 'SBILIFE.BO')":1417.4015364811,
+    "('Open', 'SBILIFE.BO')":1417.4015364811,
+    "('Volume', 'SBILIFE.BO')":43700
+  },
+  {
+    "('Date', '')":"2025-01-06",
+    "('Close', 'SBILIFE.BO')":1431.6243896484,
+    "('High', 'SBILIFE.BO')":1459.7708764408,
+    "('Low', 'SBILIFE.BO')":1423.0407559406,
+    "('Open', 'SBILIFE.BO')":1448.2427752901,
+    "('Volume', 'SBILIFE.BO')":36393
+  },
+  {
+    "('Date', '')":"2025-01-07",
+    "('Close', 'SBILIFE.BO')":1473.1453857422,
+    "('High', 'SBILIFE.BO')":1487.3683082269,
+    "('Low', 'SBILIFE.BO')":1432.2232929792,
+    "('Open', 'SBILIFE.BO')":1432.6725110028,
+    "('Volume', 'SBILIFE.BO')":21818
+  },
+  {
+    "('Date', '')":"2025-01-08",
+    "('Close', 'SBILIFE.BO')":1459.8208007812,
+    "('High', 'SBILIFE.BO')":1480.6311580657,
+    "('Low', 'SBILIFE.BO')":1454.0817267045,
+    "('Open', 'SBILIFE.BO')":1478.934437074,
+    "('Volume', 'SBILIFE.BO')":54639
+  },
+  {
+    "('Date', '')":"2025-01-09",
+    "('Close', 'SBILIFE.BO')":1466.2585449219,
+    "('High', 'SBILIFE.BO')":1478.6848385694,
+    "('Low', 'SBILIFE.BO')":1451.0873550141,
+    "('Open', 'SBILIFE.BO')":1459.8207281747,
+    "('Volume', 'SBILIFE.BO')":9067
+  },
+  {
+    "('Date', '')":"2025-01-10",
+    "('Close', 'SBILIFE.BO')":1475.4410400391,
+    "('High', 'SBILIFE.BO')":1484.1744133523,
+    "('Low', 'SBILIFE.BO')":1456.2276187499,
+    "('Open', 'SBILIFE.BO')":1466.2086168222,
+    "('Volume', 'SBILIFE.BO')":39507
+  },
+  {
+    "('Date', '')":"2025-01-13",
+    "('Close', 'SBILIFE.BO')":1466.6079101562,
+    "('High', 'SBILIFE.BO')":1481.7789787913,
+    "('Low', 'SBILIFE.BO')":1443.4519210669,
+    "('Open', 'SBILIFE.BO')":1481.7789787913,
+    "('Volume', 'SBILIFE.BO')":62984
+  },
+  {
+    "('Date', '')":"2025-01-14",
+    "('Close', 'SBILIFE.BO')":1496.7005615234,
+    "('High', 'SBILIFE.BO')":1500.6430068867,
+    "('Low', 'SBILIFE.BO')":1466.158611036,
+    "('Open', 'SBILIFE.BO')":1466.6078290363,
+    "('Volume', 'SBILIFE.BO')":32147
+  },
+  {
+    "('Date', '')":"2025-01-15",
+    "('Close', 'SBILIFE.BO')":1469.4523925781,
+    "('High', 'SBILIFE.BO')":1501.8906352399,
+    "('Low', 'SBILIFE.BO')":1465.4599934813,
+    "('Open', 'SBILIFE.BO')":1496.7005651494,
+    "('Volume', 'SBILIFE.BO')":19234
+  },
+  {
+    "('Date', '')":"2025-01-16",
+    "('Close', 'SBILIFE.BO')":1510.9733886719,
+    "('High', 'SBILIFE.BO')":1541.6151262597,
+    "('Low', 'SBILIFE.BO')":1486.7196361403,
+    "('Open', 'SBILIFE.BO')":1491.8099208565,
+    "('Volume', 'SBILIFE.BO')":39646
+  },
+  {
+    "('Date', '')":"2025-01-17",
+    "('Close', 'SBILIFE.BO')":1537.5727539062,
+    "('High', 'SBILIFE.BO')":1552.5942047489,
+    "('Low', 'SBILIFE.BO')":1496.9501404644,
+    "('Open', 'SBILIFE.BO')":1517.1117078465,
+    "('Volume', 'SBILIFE.BO')":72188
+  },
+  {
+    "('Date', '')":"2025-01-20",
+    "('Close', 'SBILIFE.BO')":1496.7005615234,
+    "('High', 'SBILIFE.BO')":1542.7627685209,
+    "('Low', 'SBILIFE.BO')":1484.872981757,
+    "('Open', 'SBILIFE.BO')":1539.3693267675,
+    "('Volume', 'SBILIFE.BO')":58472
+  },
+  {
+    "('Date', '')":"2025-01-21",
+    "('Close', 'SBILIFE.BO')":1464.4619140625,
+    "('High', 'SBILIFE.BO')":1502.4396597343,
+    "('Low', 'SBILIFE.BO')":1457.2756443237,
+    "('Open', 'SBILIFE.BO')":1501.3416524968,
+    "('Volume', 'SBILIFE.BO')":15835
+  },
+  {
+    "('Date', '')":"2025-01-22",
+    "('Close', 'SBILIFE.BO')":1458.3236083984,
+    "('High', 'SBILIFE.BO')":1466.2086212671,
+    "('Low', 'SBILIFE.BO')":1447.3944642115,
+    "('Open', 'SBILIFE.BO')":1464.4619465992,
+    "('Volume', 'SBILIFE.BO')":19916
+  },
+  {
+    "('Date', '')":"2025-01-23",
+    "('Close', 'SBILIFE.BO')":1446.6956787109,
+    "('High', 'SBILIFE.BO')":1460.3197650881,
+    "('Low', 'SBILIFE.BO')":1443.801286817,
+    "('Open', 'SBILIFE.BO')":1449.6401461676,
+    "('Volume', 'SBILIFE.BO')":18317
+  },
+  {
+    "('Date', '')":"2025-01-24",
+    "('Close', 'SBILIFE.BO')":1438.2119140625,
+    "('High', 'SBILIFE.BO')":1451.8859549578,
+    "('Low', 'SBILIFE.BO')":1416.2038857188,
+    "('Open', 'SBILIFE.BO')":1451.8859549578,
+    "('Volume', 'SBILIFE.BO')":60543
+  },
+  {
+    "('Date', '')":"2025-01-27",
+    "('Close', 'SBILIFE.BO')":1421.9428710938,
+    "('High', 'SBILIFE.BO')":1443.4020162905,
+    "('Low', 'SBILIFE.BO')":1416.3035829883,
+    "('Open', 'SBILIFE.BO')":1428.2308265833,
+    "('Volume', 'SBILIFE.BO')":61195
+  },
+  {
+    "('Date', '')":"2025-01-28",
+    "('Close', 'SBILIFE.BO')":1416.9523925781,
+    "('High', 'SBILIFE.BO')":1432.6225105606,
+    "('Low', 'SBILIFE.BO')":1409.6662153689,
+    "('Open', 'SBILIFE.BO')":1421.5436272488,
+    "('Volume', 'SBILIFE.BO')":16875
+  },
+  {
+    "('Date', '')":"2025-01-29",
+    "('Close', 'SBILIFE.BO')":1458.6728515625,
+    "('High', 'SBILIFE.BO')":1469.3525921418,
+    "('Low', 'SBILIFE.BO')":1409.3668206848,
+    "('Open', 'SBILIFE.BO')":1421.2940641309,
+    "('Volume', 'SBILIFE.BO')":13257
+  },
+  {
+    "('Date', '')":"2025-01-30",
+    "('Close', 'SBILIFE.BO')":1470.9495849609,
+    "('High', 'SBILIFE.BO')":1477.1877087309,
+    "('Low', 'SBILIFE.BO')":1452.235213651,
+    "('Open', 'SBILIFE.BO')":1455.3292986732,
+    "('Volume', 'SBILIFE.BO')":20452
+  },
+  {
+    "('Date', '')":"2025-01-31",
+    "('Close', 'SBILIFE.BO')":1481.5294189453,
+    "('High', 'SBILIFE.BO')":1486.2703930119,
+    "('Low', 'SBILIFE.BO')":1463.3140975316,
+    "('Open', 'SBILIFE.BO')":1469.901531867,
+    "('Volume', 'SBILIFE.BO')":14446
+  },
+  {
+    "('Date', '')":"2025-02-01",
+    "('Close', 'SBILIFE.BO')":1451.8359375,
+    "('High', 'SBILIFE.BO')":1523.9486476918,
+    "('Low', 'SBILIFE.BO')":1370.5407579292,
+    "('Open', 'SBILIFE.BO')":1492.0094542504,
+    "('Volume', 'SBILIFE.BO')":128980
+  },
+  {
+    "('Date', '')":"2025-02-03",
+    "('Close', 'SBILIFE.BO')":1457.3754882812,
+    "('High', 'SBILIFE.BO')":1479.3336844981,
+    "('Low', 'SBILIFE.BO')":1429.578432438,
+    "('Open', 'SBILIFE.BO')":1446.2466508309,
+    "('Volume', 'SBILIFE.BO')":27003
+  },
+  {
+    "('Date', '')":"2025-02-04",
+    "('Close', 'SBILIFE.BO')":1469.5024414062,
+    "('High', 'SBILIFE.BO')":1476.2396153182,
+    "('Low', 'SBILIFE.BO')":1451.5366443078,
+    "('Open', 'SBILIFE.BO')":1456.1278791986,
+    "('Volume', 'SBILIFE.BO')":14194
+  },
+  {
+    "('Date', '')":"2025-02-05",
+    "('Close', 'SBILIFE.BO')":1466.408203125,
+    "('High', 'SBILIFE.BO')":1480.6810792505,
+    "('Low', 'SBILIFE.BO')":1462.5157113075,
+    "('Open', 'SBILIFE.BO')":1469.5024100299,
+    "('Volume', 'SBILIFE.BO')":28449
+  },
+  {
+    "('Date', '')":"2025-02-06",
+    "('Close', 'SBILIFE.BO')":1462.5655517578,
+    "('High', 'SBILIFE.BO')":1477.1877385374,
+    "('Low', 'SBILIFE.BO')":1454.1814888741,
+    "('Open', 'SBILIFE.BO')":1471.2490933239,
+    "('Volume', 'SBILIFE.BO')":52387
+  },
+  {
+    "('Date', '')":"2025-02-07",
+    "('Close', 'SBILIFE.BO')":1468.3544921875,
+    "('High', 'SBILIFE.BO')":1473.1952516753,
+    "('Low', 'SBILIFE.BO')":1451.8858460814,
+    "('Open', 'SBILIFE.BO')":1462.3658936035,
+    "('Volume', 'SBILIFE.BO')":15318
+  },
+  {
+    "('Date', '')":"2025-02-10",
+    "('Close', 'SBILIFE.BO')":1444.2004394531,
+    "('High', 'SBILIFE.BO')":1469.4024590991,
+    "('Low', 'SBILIFE.BO')":1442.9528147182,
+    "('Open', 'SBILIFE.BO')":1462.1662356364,
+    "('Volume', 'SBILIFE.BO')":9711
+  },
+  {
+    "('Date', '')":"2025-02-11",
+    "('Close', 'SBILIFE.BO')":1415.4553222656,
+    "('High', 'SBILIFE.BO')":1466.1587213857,
+    "('Low', 'SBILIFE.BO')":1399.0864604086,
+    "('Open', 'SBILIFE.BO')":1466.1587213857,
+    "('Volume', 'SBILIFE.BO')":15663
+  },
+  {
+    "('Date', '')":"2025-02-12",
+    "('Close', 'SBILIFE.BO')":1449.7399902344,
+    "('High', 'SBILIFE.BO')":1464.0128664123,
+    "('Low', 'SBILIFE.BO')":1406.1729086731,
+    "('Open', 'SBILIFE.BO')":1421.5436702866,
+    "('Volume', 'SBILIFE.BO')":22682
+  },
+  {
+    "('Date', '')":"2025-02-13",
+    "('Close', 'SBILIFE.BO')":1467.1567382812,
+    "('High', 'SBILIFE.BO')":1476.0898045091,
+    "('Low', 'SBILIFE.BO')":1444.7994004452,
+    "('Open', 'SBILIFE.BO')":1445.0987572793,
+    "('Volume', 'SBILIFE.BO')":11854
+  },
+  {
+    "('Date', '')":"2025-02-14",
+    "('Close', 'SBILIFE.BO')":1461.7670898438,
+    "('High', 'SBILIFE.BO')":1474.19338344,
+    "('Low', 'SBILIFE.BO')":1447.2446892269,
+    "('Open', 'SBILIFE.BO')":1460.4195576624,
+    "('Volume', 'SBILIFE.BO')":9062
+  },
+  {
+    "('Date', '')":"2025-02-17",
+    "('Close', 'SBILIFE.BO')":1475.8901367188,
+    "('High', 'SBILIFE.BO')":1478.4353399634,
+    "('Low', 'SBILIFE.BO')":1450.2390203995,
+    "('Open', 'SBILIFE.BO')":1463.214317898,
+    "('Volume', 'SBILIFE.BO')":9357
+  },
+  {
+    "('Date', '')":"2025-02-18",
+    "('Close', 'SBILIFE.BO')":1472.4467773438,
+    "('High', 'SBILIFE.BO')":1477.3374908888,
+    "('Low', 'SBILIFE.BO')":1452.2352557432,
+    "('Open', 'SBILIFE.BO')":1467.256706952,
+    "('Volume', 'SBILIFE.BO')":8124
+  },
+  {
+    "('Date', '')":"2025-02-19",
+    "('Close', 'SBILIFE.BO')":1467.5062255859,
+    "('High', 'SBILIFE.BO')":1479.6330410233,
+    "('Low', 'SBILIFE.BO')":1464.412018649,
+    "('Open', 'SBILIFE.BO')":1476.2894309678,
+    "('Volume', 'SBILIFE.BO')":5945
+  },
+  {
+    "('Date', '')":"2025-02-20",
+    "('Close', 'SBILIFE.BO')":1467.0070800781,
+    "('High', 'SBILIFE.BO')":1486.2703323969,
+    "('Low', 'SBILIFE.BO')":1464.4618769477,
+    "('Open', 'SBILIFE.BO')":1467.2066512953,
+    "('Volume', 'SBILIFE.BO')":5961
+  },
+  {
+    "('Date', '')":"2025-02-21",
+    "('Close', 'SBILIFE.BO')":1492.1092529297,
+    "('High', 'SBILIFE.BO')":1497.3992306251,
+    "('Low', 'SBILIFE.BO')":1458.9224344539,
+    "('Open', 'SBILIFE.BO')":1466.9571866097,
+    "('Volume', 'SBILIFE.BO')":100285
+  },
+  {
+    "('Date', '')":"2025-02-24",
+    "('Close', 'SBILIFE.BO')":1482.8270263672,
+    "('High', 'SBILIFE.BO')":1492.1092816178,
+    "('Low', 'SBILIFE.BO')":1473.6943886193,
+    "('Open', 'SBILIFE.BO')":1486.0708507918,
+    "('Volume', 'SBILIFE.BO')":5869
+  },
+  {
+    "('Date', '')":"2025-02-25",
+    "('Close', 'SBILIFE.BO')":1468.9034423828,
+    "('High', 'SBILIFE.BO')":1482.9267934557,
+    "('Low', 'SBILIFE.BO')":1460.9685976247,
+    "('Open', 'SBILIFE.BO')":1482.9267934557,
+    "('Volume', 'SBILIFE.BO')":2588
+  },
+  {
+    "('Date', '')":"2025-02-27",
+    "('Close', 'SBILIFE.BO')":1465.6097412109,
+    "('High', 'SBILIFE.BO')":1477.1876742904,
+    "('Low', 'SBILIFE.BO')":1452.1852260679,
+    "('Open', 'SBILIFE.BO')":1463.2142773714,
+    "('Volume', 'SBILIFE.BO')":10082
+  },
+  {
+    "('Date', '')":"2025-02-28",
+    "('Close', 'SBILIFE.BO')":1428.3308105469,
+    "('High', 'SBILIFE.BO')":1465.5598611052,
+    "('Low', 'SBILIFE.BO')":1410.9138954093,
+    "('Open', 'SBILIFE.BO')":1465.5598611052,
+    "('Volume', 'SBILIFE.BO')":22997
+  },
+  {
+    "('Date', '')":"2025-03-03",
+    "('Close', 'SBILIFE.BO')":1404.67578125,
+    "('High', 'SBILIFE.BO')":1449.0413921082,
+    "('Low', 'SBILIFE.BO')":1401.8312210822,
+    "('Open', 'SBILIFE.BO')":1434.9680869356,
+    "('Volume', 'SBILIFE.BO')":14418
+  },
+  {
+    "('Date', '')":"2025-03-04",
+    "('Close', 'SBILIFE.BO')":1391.1516113281,
+    "('High', 'SBILIFE.BO')":1412.4610186302,
+    "('Low', 'SBILIFE.BO')":1382.418237693,
+    "('Open', 'SBILIFE.BO')":1382.418237693,
+    "('Volume', 'SBILIFE.BO')":9083
+  },
+  {
+    "('Date', '')":"2025-03-05",
+    "('Close', 'SBILIFE.BO')":1418.2000732422,
+    "('High', 'SBILIFE.BO')":1421.892993879,
+    "('Low', 'SBILIFE.BO')":1377.3777658152,
+    "('Open', 'SBILIFE.BO')":1403.8274113182,
+    "('Volume', 'SBILIFE.BO')":8863
+  },
+  {
+    "('Date', '')":"2025-03-06",
+    "('Close', 'SBILIFE.BO')":1418.2000732422,
+    "('High', 'SBILIFE.BO')":1422.741354367,
+    "('Low', 'SBILIFE.BO')":1392.3492632697,
+    "('Open', 'SBILIFE.BO')":1418.0003801731,
+    "('Volume', 'SBILIFE.BO')":34650
+  },
+  {
+    "('Date', '')":"2025-03-07",
+    "('Close', 'SBILIFE.BO')":1412.1500244141,
+    "('High', 'SBILIFE.BO')":1445.0,
+    "('Low', 'SBILIFE.BO')":1408.1999511719,
+    "('Open', 'SBILIFE.BO')":1425.5500488281,
+    "('Volume', 'SBILIFE.BO')":37788
+  },
+  {
+    "('Date', '')":"2025-03-10",
+    "('Close', 'SBILIFE.BO')":1419.5500488281,
+    "('High', 'SBILIFE.BO')":1427.3499755859,
+    "('Low', 'SBILIFE.BO')":1406.0,
+    "('Open', 'SBILIFE.BO')":1423.1500244141,
+    "('Volume', 'SBILIFE.BO')":57561
+  },
+  {
+    "('Date', '')":"2025-03-11",
+    "('Close', 'SBILIFE.BO')":1416.9499511719,
+    "('High', 'SBILIFE.BO')":1424.4499511719,
+    "('Low', 'SBILIFE.BO')":1392.5999755859,
+    "('Open', 'SBILIFE.BO')":1392.5999755859,
+    "('Volume', 'SBILIFE.BO')":25092
+  },
+  {
+    "('Date', '')":"2025-03-12",
+    "('Close', 'SBILIFE.BO')":1409.3499755859,
+    "('High', 'SBILIFE.BO')":1431.75,
+    "('Low', 'SBILIFE.BO')":1405.0,
+    "('Open', 'SBILIFE.BO')":1431.75,
+    "('Volume', 'SBILIFE.BO')":93026
+  },
+  {
+    "('Date', '')":"2025-03-13",
+    "('Close', 'SBILIFE.BO')":1386.25,
+    "('High', 'SBILIFE.BO')":1419.9499511719,
+    "('Low', 'SBILIFE.BO')":1382.0,
+    "('Open', 'SBILIFE.BO')":1419.9499511719,
+    "('Volume', 'SBILIFE.BO')":28594
+  },
+  {
+    "('Date', '')":"2025-03-17",
+    "('Close', 'SBILIFE.BO')":1435.0500488281,
+    "('High', 'SBILIFE.BO')":1440.0,
+    "('Low', 'SBILIFE.BO')":1391.1500244141,
+    "('Open', 'SBILIFE.BO')":1403.6999511719,
+    "('Volume', 'SBILIFE.BO')":28486
+  },
+  {
+    "('Date', '')":"2025-03-18",
+    "('Close', 'SBILIFE.BO')":1457.3000488281,
+    "('High', 'SBILIFE.BO')":1459.0,
+    "('Low', 'SBILIFE.BO')":1432.3499755859,
+    "('Open', 'SBILIFE.BO')":1445.5999755859,
+    "('Volume', 'SBILIFE.BO')":12843
+  },
+  {
+    "('Date', '')":"2025-03-19",
+    "('Close', 'SBILIFE.BO')":1485.9000244141,
+    "('High', 'SBILIFE.BO')":1488.6999511719,
+    "('Low', 'SBILIFE.BO')":1454.8499755859,
+    "('Open', 'SBILIFE.BO')":1464.9499511719,
+    "('Volume', 'SBILIFE.BO')":6470
+  },
+  {
+    "('Date', '')":"2025-03-20",
+    "('Close', 'SBILIFE.BO')":1499.25,
+    "('High', 'SBILIFE.BO')":1505.25,
+    "('Low', 'SBILIFE.BO')":1488.25,
+    "('Open', 'SBILIFE.BO')":1499.8000488281,
+    "('Volume', 'SBILIFE.BO')":14903
+  },
+  {
+    "('Date', '')":"2025-03-21",
+    "('Close', 'SBILIFE.BO')":1546.8499755859,
+    "('High', 'SBILIFE.BO')":1552.0,
+    "('Low', 'SBILIFE.BO')":1492.8499755859,
+    "('Open', 'SBILIFE.BO')":1513.1999511719,
+    "('Volume', 'SBILIFE.BO')":30014
+  },
+  {
+    "('Date', '')":"2025-03-24",
+    "('Close', 'SBILIFE.BO')":1570.0500488281,
+    "('High', 'SBILIFE.BO')":1583.75,
+    "('Low', 'SBILIFE.BO')":1538.1500244141,
+    "('Open', 'SBILIFE.BO')":1559.9000244141,
+    "('Volume', 'SBILIFE.BO')":34638
+  },
+  {
+    "('Date', '')":"2025-03-25",
+    "('Close', 'SBILIFE.BO')":1556.4000244141,
+    "('High', 'SBILIFE.BO')":1583.3499755859,
+    "('Low', 'SBILIFE.BO')":1551.75,
+    "('Open', 'SBILIFE.BO')":1576.0500488281,
+    "('Volume', 'SBILIFE.BO')":28069
+  },
+  {
+    "('Date', '')":"2025-03-26",
+    "('Close', 'SBILIFE.BO')":1542.6999511719,
+    "('High', 'SBILIFE.BO')":1569.6999511719,
+    "('Low', 'SBILIFE.BO')":1532.9499511719,
+    "('Open', 'SBILIFE.BO')":1557.0,
+    "('Volume', 'SBILIFE.BO')":7138
+  },
+  {
+    "('Date', '')":"2025-03-27",
+    "('Close', 'SBILIFE.BO')":1545.0500488281,
+    "('High', 'SBILIFE.BO')":1552.1999511719,
+    "('Low', 'SBILIFE.BO')":1520.4000244141,
+    "('Open', 'SBILIFE.BO')":1520.4000244141,
+    "('Volume', 'SBILIFE.BO')":16445
+  },
+  {
+    "('Date', '')":"2025-03-28",
+    "('Close', 'SBILIFE.BO')":1548.0500488281,
+    "('High', 'SBILIFE.BO')":1564.5,
+    "('Low', 'SBILIFE.BO')":1535.8000488281,
+    "('Open', 'SBILIFE.BO')":1545.0500488281,
+    "('Volume', 'SBILIFE.BO')":28151
+  },
+  {
+    "('Date', '')":"2025-04-01",
+    "('Close', 'SBILIFE.BO')":1544.9000244141,
+    "('High', 'SBILIFE.BO')":1566.0,
+    "('Low', 'SBILIFE.BO')":1506.9000244141,
+    "('Open', 'SBILIFE.BO')":1506.9000244141,
+    "('Volume', 'SBILIFE.BO')":13479
+  },
+  {
+    "('Date', '')":"2025-04-02",
+    "('Close', 'SBILIFE.BO')":1560.0,
+    "('High', 'SBILIFE.BO')":1563.0,
+    "('Low', 'SBILIFE.BO')":1520.5999755859,
+    "('Open', 'SBILIFE.BO')":1520.5999755859,
+    "('Volume', 'SBILIFE.BO')":7863
+  },
+  {
+    "('Date', '')":"2025-04-03",
+    "('Close', 'SBILIFE.BO')":1540.5500488281,
+    "('High', 'SBILIFE.BO')":1559.0,
+    "('Low', 'SBILIFE.BO')":1530.4000244141,
+    "('Open', 'SBILIFE.BO')":1530.4000244141,
+    "('Volume', 'SBILIFE.BO')":9278
+  },
+  {
+    "('Date', '')":"2025-04-04",
+    "('Close', 'SBILIFE.BO')":1512.3499755859,
+    "('High', 'SBILIFE.BO')":1545.0,
+    "('Low', 'SBILIFE.BO')":1501.0,
+    "('Open', 'SBILIFE.BO')":1535.6999511719,
+    "('Volume', 'SBILIFE.BO')":8596
+  },
+  {
+    "('Date', '')":"2025-04-07",
+    "('Close', 'SBILIFE.BO')":1461.5,
+    "('High', 'SBILIFE.BO')":1484.9499511719,
+    "('Low', 'SBILIFE.BO')":1434.0,
+    "('Open', 'SBILIFE.BO')":1482.3499755859,
+    "('Volume', 'SBILIFE.BO')":13430
+  },
+  {
+    "('Date', '')":"2025-04-08",
+    "('Close', 'SBILIFE.BO')":1488.1999511719,
+    "('High', 'SBILIFE.BO')":1496.6999511719,
+    "('Low', 'SBILIFE.BO')":1459.0,
+    "('Open', 'SBILIFE.BO')":1486.9499511719,
+    "('Volume', 'SBILIFE.BO')":19846
+  },
+  {
+    "('Date', '')":"2025-04-09",
+    "('Close', 'SBILIFE.BO')":1481.5500488281,
+    "('High', 'SBILIFE.BO')":1500.3000488281,
+    "('Low', 'SBILIFE.BO')":1475.5,
+    "('Open', 'SBILIFE.BO')":1488.1999511719,
+    "('Volume', 'SBILIFE.BO')":9548
+  },
+  {
+    "('Date', '')":"2025-04-11",
+    "('Close', 'SBILIFE.BO')":1522.75,
+    "('High', 'SBILIFE.BO')":1530.0,
+    "('Low', 'SBILIFE.BO')":1503.6999511719,
+    "('Open', 'SBILIFE.BO')":1516.4000244141,
+    "('Volume', 'SBILIFE.BO')":6963
+  },
+  {
+    "('Date', '')":"2025-04-15",
+    "('Close', 'SBILIFE.BO')":1562.9499511719,
+    "('High', 'SBILIFE.BO')":1573.5,
+    "('Low', 'SBILIFE.BO')":1526.1500244141,
+    "('Open', 'SBILIFE.BO')":1535.1500244141,
+    "('Volume', 'SBILIFE.BO')":24449
+  },
+  {
+    "('Date', '')":"2025-04-16",
+    "('Close', 'SBILIFE.BO')":1564.4499511719,
+    "('High', 'SBILIFE.BO')":1576.3000488281,
+    "('Low', 'SBILIFE.BO')":1550.0,
+    "('Open', 'SBILIFE.BO')":1557.9499511719,
+    "('Volume', 'SBILIFE.BO')":12010
+  },
+  {
+    "('Date', '')":"2025-04-17",
+    "('Close', 'SBILIFE.BO')":1609.0999755859,
+    "('High', 'SBILIFE.BO')":1612.1999511719,
+    "('Low', 'SBILIFE.BO')":1548.9000244141,
+    "('Open', 'SBILIFE.BO')":1550.0500488281,
+    "('Volume', 'SBILIFE.BO')":13226
+  },
+  {
+    "('Date', '')":"2025-04-21",
+    "('Close', 'SBILIFE.BO')":1628.9499511719,
+    "('High', 'SBILIFE.BO')":1630.0,
+    "('Low', 'SBILIFE.BO')":1593.8000488281,
+    "('Open', 'SBILIFE.BO')":1623.5,
+    "('Volume', 'SBILIFE.BO')":23450
+  },
+  {
+    "('Date', '')":"2025-04-22",
+    "('Close', 'SBILIFE.BO')":1617.8499755859,
+    "('High', 'SBILIFE.BO')":1639.3000488281,
+    "('Low', 'SBILIFE.BO')":1612.0,
+    "('Open', 'SBILIFE.BO')":1616.5,
+    "('Volume', 'SBILIFE.BO')":16600
+  },
+  {
+    "('Date', '')":"2025-04-23",
+    "('Close', 'SBILIFE.BO')":1615.5500488281,
+    "('High', 'SBILIFE.BO')":1637.1999511719,
+    "('Low', 'SBILIFE.BO')":1601.6500244141,
+    "('Open', 'SBILIFE.BO')":1637.1999511719,
+    "('Volume', 'SBILIFE.BO')":9375
+  },
+  {
+    "('Date', '')":"2025-04-24",
+    "('Close', 'SBILIFE.BO')":1608.8499755859,
+    "('High', 'SBILIFE.BO')":1636.3499755859,
+    "('Low', 'SBILIFE.BO')":1603.6999511719,
+    "('Open', 'SBILIFE.BO')":1615.1999511719,
+    "('Volume', 'SBILIFE.BO')":18772
+  },
+  {
+    "('Date', '')":"2025-04-25",
+    "('Close', 'SBILIFE.BO')":1694.5500488281,
+    "('High', 'SBILIFE.BO')":1763.0,
+    "('Low', 'SBILIFE.BO')":1651.8000488281,
+    "('Open', 'SBILIFE.BO')":1715.3000488281,
+    "('Volume', 'SBILIFE.BO')":477658
+  },
+  {
+    "('Date', '')":"2025-04-28",
+    "('Close', 'SBILIFE.BO')":1737.6500244141,
+    "('High', 'SBILIFE.BO')":1753.9000244141,
+    "('Low', 'SBILIFE.BO')":1683.0,
+    "('Open', 'SBILIFE.BO')":1692.9000244141,
+    "('Volume', 'SBILIFE.BO')":67832
+  },
+  {
+    "('Date', '')":"2025-04-29",
+    "('Close', 'SBILIFE.BO')":1728.9000244141,
+    "('High', 'SBILIFE.BO')":1764.9000244141,
+    "('Low', 'SBILIFE.BO')":1721.0,
+    "('Open', 'SBILIFE.BO')":1721.3000488281,
+    "('Volume', 'SBILIFE.BO')":38502
+  },
+  {
+    "('Date', '')":"2025-04-30",
+    "('Close', 'SBILIFE.BO')":1761.6999511719,
+    "('High', 'SBILIFE.BO')":1771.1999511719,
+    "('Low', 'SBILIFE.BO')":1717.1500244141,
+    "('Open', 'SBILIFE.BO')":1717.1500244141,
+    "('Volume', 'SBILIFE.BO')":32470
+  },
+  {
+    "('Date', '')":"2025-05-02",
+    "('Close', 'SBILIFE.BO')":1763.6999511719,
+    "('High', 'SBILIFE.BO')":1776.5,
+    "('Low', 'SBILIFE.BO')":1749.1999511719,
+    "('Open', 'SBILIFE.BO')":1765.8000488281,
+    "('Volume', 'SBILIFE.BO')":12438
+  },
+  {
+    "('Date', '')":"2025-05-05",
+    "('Close', 'SBILIFE.BO')":1770.0500488281,
+    "('High', 'SBILIFE.BO')":1788.5999755859,
+    "('Low', 'SBILIFE.BO')":1763.9499511719,
+    "('Open', 'SBILIFE.BO')":1763.9499511719,
+    "('Volume', 'SBILIFE.BO')":14693
+  },
+  {
+    "('Date', '')":"2025-05-06",
+    "('Close', 'SBILIFE.BO')":1725.8000488281,
+    "('High', 'SBILIFE.BO')":1798.0,
+    "('Low', 'SBILIFE.BO')":1718.4000244141,
+    "('Open', 'SBILIFE.BO')":1776.0999755859,
+    "('Volume', 'SBILIFE.BO')":35611
+  },
+  {
+    "('Date', '')":"2025-05-07",
+    "('Close', 'SBILIFE.BO')":1744.1999511719,
+    "('High', 'SBILIFE.BO')":1755.0,
+    "('Low', 'SBILIFE.BO')":1675.4000244141,
+    "('Open', 'SBILIFE.BO')":1675.4000244141,
+    "('Volume', 'SBILIFE.BO')":8108
+  },
+  {
+    "('Date', '')":"2025-05-08",
+    "('Close', 'SBILIFE.BO')":1731.5,
+    "('High', 'SBILIFE.BO')":1741.4499511719,
+    "('Low', 'SBILIFE.BO')":1720.0,
+    "('Open', 'SBILIFE.BO')":1739.25,
+    "('Volume', 'SBILIFE.BO')":4634
+  },
+  {
+    "('Date', '')":"2025-05-09",
+    "('Close', 'SBILIFE.BO')":1699.0999755859,
+    "('High', 'SBILIFE.BO')":1727.8000488281,
+    "('Low', 'SBILIFE.BO')":1663.1999511719,
+    "('Open', 'SBILIFE.BO')":1663.1999511719,
+    "('Volume', 'SBILIFE.BO')":14249
+  },
+  {
+    "('Date', '')":"2025-05-12",
+    "('Close', 'SBILIFE.BO')":1748.3499755859,
+    "('High', 'SBILIFE.BO')":1755.0,
+    "('Low', 'SBILIFE.BO')":1725.8499755859,
+    "('Open', 'SBILIFE.BO')":1737.3499755859,
+    "('Volume', 'SBILIFE.BO')":20614
+  },
+  {
+    "('Date', '')":"2025-05-13",
+    "('Close', 'SBILIFE.BO')":1739.8000488281,
+    "('High', 'SBILIFE.BO')":1755.9499511719,
+    "('Low', 'SBILIFE.BO')":1729.1500244141,
+    "('Open', 'SBILIFE.BO')":1729.1500244141,
+    "('Volume', 'SBILIFE.BO')":6308
+  },
+  {
+    "('Date', '')":"2025-05-14",
+    "('Close', 'SBILIFE.BO')":1754.9499511719,
+    "('High', 'SBILIFE.BO')":1757.1999511719,
+    "('Low', 'SBILIFE.BO')":1739.0,
+    "('Open', 'SBILIFE.BO')":1749.9000244141,
+    "('Volume', 'SBILIFE.BO')":8032
+  },
+  {
+    "('Date', '')":"2025-05-15",
+    "('Close', 'SBILIFE.BO')":1782.8499755859,
+    "('High', 'SBILIFE.BO')":1788.0999755859,
+    "('Low', 'SBILIFE.BO')":1737.0,
+    "('Open', 'SBILIFE.BO')":1752.3499755859,
+    "('Volume', 'SBILIFE.BO')":10848
+  },
+  {
+    "('Date', '')":"2025-05-16",
+    "('Close', 'SBILIFE.BO')":1772.3499755859,
+    "('High', 'SBILIFE.BO')":1790.5,
+    "('Low', 'SBILIFE.BO')":1768.0,
+    "('Open', 'SBILIFE.BO')":1784.9499511719,
+    "('Volume', 'SBILIFE.BO')":12167
+  },
+  {
+    "('Date', '')":"2025-05-19",
+    "('Close', 'SBILIFE.BO')":1770.1500244141,
+    "('High', 'SBILIFE.BO')":1781.0500488281,
+    "('Low', 'SBILIFE.BO')":1763.5999755859,
+    "('Open', 'SBILIFE.BO')":1772.6500244141,
+    "('Volume', 'SBILIFE.BO')":3824
+  },
+  {
+    "('Date', '')":"2025-05-20",
+    "('Close', 'SBILIFE.BO')":1758.0999755859,
+    "('High', 'SBILIFE.BO')":1775.0500488281,
+    "('Low', 'SBILIFE.BO')":1753.5500488281,
+    "('Open', 'SBILIFE.BO')":1773.5,
+    "('Volume', 'SBILIFE.BO')":6288
+  },
+  {
+    "('Date', '')":"2025-05-21",
+    "('Close', 'SBILIFE.BO')":1763.75,
+    "('High', 'SBILIFE.BO')":1778.0999755859,
+    "('Low', 'SBILIFE.BO')":1755.9000244141,
+    "('Open', 'SBILIFE.BO')":1762.0,
+    "('Volume', 'SBILIFE.BO')":8184
+  },
+  {
+    "('Date', '')":"2025-05-22",
+    "('Close', 'SBILIFE.BO')":1759.5,
+    "('High', 'SBILIFE.BO')":1769.1500244141,
+    "('Low', 'SBILIFE.BO')":1742.0,
+    "('Open', 'SBILIFE.BO')":1769.1500244141,
+    "('Volume', 'SBILIFE.BO')":4697
+  },
+  {
+    "('Date', '')":"2025-05-23",
+    "('Close', 'SBILIFE.BO')":1798.6999511719,
+    "('High', 'SBILIFE.BO')":1805.0,
+    "('Low', 'SBILIFE.BO')":1764.1999511719,
+    "('Open', 'SBILIFE.BO')":1765.0,
+    "('Volume', 'SBILIFE.BO')":228388
+  },
+  {
+    "('Date', '')":"2025-05-26",
+    "('Close', 'SBILIFE.BO')":1801.0999755859,
+    "('High', 'SBILIFE.BO')":1811.1500244141,
+    "('Low', 'SBILIFE.BO')":1790.0999755859,
+    "('Open', 'SBILIFE.BO')":1805.0,
+    "('Volume', 'SBILIFE.BO')":34331
+  },
+  {
+    "('Date', '')":"2025-05-27",
+    "('Close', 'SBILIFE.BO')":1804.4000244141,
+    "('High', 'SBILIFE.BO')":1809.0,
+    "('Low', 'SBILIFE.BO')":1794.5,
+    "('Open', 'SBILIFE.BO')":1800.0,
+    "('Volume', 'SBILIFE.BO')":8104
+  },
+  {
+    "('Date', '')":"2025-05-28",
+    "('Close', 'SBILIFE.BO')":1807.5500488281,
+    "('High', 'SBILIFE.BO')":1814.5500488281,
+    "('Low', 'SBILIFE.BO')":1802.1999511719,
+    "('Open', 'SBILIFE.BO')":1808.8000488281,
+    "('Volume', 'SBILIFE.BO')":9993
+  },
+  {
+    "('Date', '')":"2025-05-29",
+    "('Close', 'SBILIFE.BO')":1825.6500244141,
+    "('High', 'SBILIFE.BO')":1830.0,
+    "('Low', 'SBILIFE.BO')":1801.0500488281,
+    "('Open', 'SBILIFE.BO')":1807.5999755859,
+    "('Volume', 'SBILIFE.BO')":26197
+  },
+  {
+    "('Date', '')":"2025-05-30",
+    "('Close', 'SBILIFE.BO')":1812.8499755859,
+    "('High', 'SBILIFE.BO')":1832.0,
+    "('Low', 'SBILIFE.BO')":1805.0500488281,
+    "('Open', 'SBILIFE.BO')":1825.6500244141,
+    "('Volume', 'SBILIFE.BO')":23052
+  },
+  {
+    "('Date', '')":"2025-06-02",
+    "('Close', 'SBILIFE.BO')":1802.0999755859,
+    "('High', 'SBILIFE.BO')":1828.1999511719,
+    "('Low', 'SBILIFE.BO')":1796.4499511719,
+    "('Open', 'SBILIFE.BO')":1823.8000488281,
+    "('Volume', 'SBILIFE.BO')":10624
+  },
+  {
+    "('Date', '')":"2025-06-03",
+    "('Close', 'SBILIFE.BO')":1777.9499511719,
+    "('High', 'SBILIFE.BO')":1811.8000488281,
+    "('Low', 'SBILIFE.BO')":1770.75,
+    "('Open', 'SBILIFE.BO')":1796.25,
+    "('Volume', 'SBILIFE.BO')":7143
+  },
+  {
+    "('Date', '')":"2025-06-04",
+    "('Close', 'SBILIFE.BO')":1775.1500244141,
+    "('High', 'SBILIFE.BO')":1778.6500244141,
+    "('Low', 'SBILIFE.BO')":1762.0,
+    "('Open', 'SBILIFE.BO')":1778.0,
+    "('Volume', 'SBILIFE.BO')":9754
+  },
+  {
+    "('Date', '')":"2025-06-05",
+    "('Close', 'SBILIFE.BO')":1774.0999755859,
+    "('High', 'SBILIFE.BO')":1790.75,
+    "('Low', 'SBILIFE.BO')":1766.0,
+    "('Open', 'SBILIFE.BO')":1766.0500488281,
+    "('Volume', 'SBILIFE.BO')":3807
+  },
+  {
+    "('Date', '')":"2025-06-06",
+    "('Close', 'SBILIFE.BO')":1780.9499511719,
+    "('High', 'SBILIFE.BO')":1782.6999511719,
+    "('Low', 'SBILIFE.BO')":1751.8499755859,
+    "('Open', 'SBILIFE.BO')":1781.4000244141,
+    "('Volume', 'SBILIFE.BO')":7212
+  },
+  {
+    "('Date', '')":"2025-06-09",
+    "('Close', 'SBILIFE.BO')":1790.5500488281,
+    "('High', 'SBILIFE.BO')":1799.0,
+    "('Low', 'SBILIFE.BO')":1758.8000488281,
+    "('Open', 'SBILIFE.BO')":1781.0999755859,
+    "('Volume', 'SBILIFE.BO')":21961
+  },
+  {
+    "('Date', '')":"2025-06-10",
+    "('Close', 'SBILIFE.BO')":1785.6999511719,
+    "('High', 'SBILIFE.BO')":1813.25,
+    "('Low', 'SBILIFE.BO')":1772.0,
+    "('Open', 'SBILIFE.BO')":1813.25,
+    "('Volume', 'SBILIFE.BO')":7472
+  },
+  {
+    "('Date', '')":"2025-06-11",
+    "('Close', 'SBILIFE.BO')":1798.9000244141,
+    "('High', 'SBILIFE.BO')":1800.4000244141,
+    "('Low', 'SBILIFE.BO')":1773.0500488281,
+    "('Open', 'SBILIFE.BO')":1773.0500488281,
+    "('Volume', 'SBILIFE.BO')":10905
+  },
+  {
+    "('Date', '')":"2025-06-12",
+    "('Close', 'SBILIFE.BO')":1766.0500488281,
+    "('High', 'SBILIFE.BO')":1812.6500244141,
+    "('Low', 'SBILIFE.BO')":1761.0999755859,
+    "('Open', 'SBILIFE.BO')":1794.0999755859,
+    "('Volume', 'SBILIFE.BO')":14018
+  },
+  {
+    "('Date', '')":"2025-06-13",
+    "('Close', 'SBILIFE.BO')":1754.1999511719,
+    "('High', 'SBILIFE.BO')":1766.0,
+    "('Low', 'SBILIFE.BO')":1724.0,
+    "('Open', 'SBILIFE.BO')":1749.25,
+    "('Volume', 'SBILIFE.BO')":31386
+  },
+  {
+    "('Date', '')":"2025-06-16",
+    "('Close', 'SBILIFE.BO')":1797.4000244141,
+    "('High', 'SBILIFE.BO')":1799.6999511719,
+    "('Low', 'SBILIFE.BO')":1734.1500244141,
+    "('Open', 'SBILIFE.BO')":1734.1500244141,
+    "('Volume', 'SBILIFE.BO')":18001
+  },
+  {
+    "('Date', '')":"2025-06-17",
+    "('Close', 'SBILIFE.BO')":1799.5,
+    "('High', 'SBILIFE.BO')":1807.4499511719,
+    "('Low', 'SBILIFE.BO')":1787.0500488281,
+    "('Open', 'SBILIFE.BO')":1804.3499755859,
+    "('Volume', 'SBILIFE.BO')":5686
+  },
+  {
+    "('Date', '')":"2025-06-18",
+    "('Close', 'SBILIFE.BO')":1797.9000244141,
+    "('High', 'SBILIFE.BO')":1802.6999511719,
+    "('Low', 'SBILIFE.BO')":1785.3000488281,
+    "('Open', 'SBILIFE.BO')":1785.3000488281,
+    "('Volume', 'SBILIFE.BO')":3533
+  },
+  {
+    "('Date', '')":"2025-06-19",
+    "('Close', 'SBILIFE.BO')":1789.0500488281,
+    "('High', 'SBILIFE.BO')":1804.9000244141,
+    "('Low', 'SBILIFE.BO')":1751.6999511719,
+    "('Open', 'SBILIFE.BO')":1751.6999511719,
+    "('Volume', 'SBILIFE.BO')":5519
+  },
+  {
+    "('Date', '')":"2025-06-20",
+    "('Close', 'SBILIFE.BO')":1810.8000488281,
+    "('High', 'SBILIFE.BO')":1820.5,
+    "('Low', 'SBILIFE.BO')":1765.9000244141,
+    "('Open', 'SBILIFE.BO')":1765.9000244141,
+    "('Volume', 'SBILIFE.BO')":7291
+  },
+  {
+    "('Date', '')":"2025-06-23",
+    "('Close', 'SBILIFE.BO')":1819.0,
+    "('High', 'SBILIFE.BO')":1826.1999511719,
+    "('Low', 'SBILIFE.BO')":1791.6500244141,
+    "('Open', 'SBILIFE.BO')":1791.6500244141,
+    "('Volume', 'SBILIFE.BO')":7362
+  },
+  {
+    "('Date', '')":"2025-06-24",
+    "('Close', 'SBILIFE.BO')":1844.0500488281,
+    "('High', 'SBILIFE.BO')":1850.9499511719,
+    "('Low', 'SBILIFE.BO')":1825.1999511719,
+    "('Open', 'SBILIFE.BO')":1825.1999511719,
+    "('Volume', 'SBILIFE.BO')":15237
+  },
+  {
+    "('Date', '')":"2025-06-25",
+    "('Close', 'SBILIFE.BO')":1843.9499511719,
+    "('High', 'SBILIFE.BO')":1849.9499511719,
+    "('Low', 'SBILIFE.BO')":1824.6999511719,
+    "('Open', 'SBILIFE.BO')":1849.9499511719,
+    "('Volume', 'SBILIFE.BO')":38192
+  },
+  {
+    "('Date', '')":"2025-06-26",
+    "('Close', 'SBILIFE.BO')":1860.4000244141,
+    "('High', 'SBILIFE.BO')":1865.9000244141,
+    "('Low', 'SBILIFE.BO')":1844.4499511719,
+    "('Open', 'SBILIFE.BO')":1844.4499511719,
+    "('Volume', 'SBILIFE.BO')":15484
+  },
+  {
+    "('Date', '')":"2025-06-27",
+    "('Close', 'SBILIFE.BO')":1850.5500488281,
+    "('High', 'SBILIFE.BO')":1863.0,
+    "('Low', 'SBILIFE.BO')":1815.8000488281,
+    "('Open', 'SBILIFE.BO')":1854.9499511719,
+    "('Volume', 'SBILIFE.BO')":26459
+  },
+  {
+    "('Date', '')":"2025-06-30",
+    "('Close', 'SBILIFE.BO')":1838.0999755859,
+    "('High', 'SBILIFE.BO')":1867.75,
+    "('Low', 'SBILIFE.BO')":1826.0,
+    "('Open', 'SBILIFE.BO')":1867.75,
+    "('Volume', 'SBILIFE.BO')":12009
+  },
+  {
+    "('Date', '')":"2025-07-01",
+    "('Close', 'SBILIFE.BO')":1864.6999511719,
+    "('High', 'SBILIFE.BO')":1865.8000488281,
+    "('Low', 'SBILIFE.BO')":1827.4000244141,
+    "('Open', 'SBILIFE.BO')":1838.0999755859,
+    "('Volume', 'SBILIFE.BO')":13304
+  },
+  {
+    "('Date', '')":"2025-07-02",
+    "('Close', 'SBILIFE.BO')":1856.1999511719,
+    "('High', 'SBILIFE.BO')":1875.3499755859,
+    "('Low', 'SBILIFE.BO')":1854.0500488281,
+    "('Open', 'SBILIFE.BO')":1868.8499755859,
+    "('Volume', 'SBILIFE.BO')":8589
+  },
+  {
+    "('Date', '')":"2025-07-03",
+    "('Close', 'SBILIFE.BO')":1809.5,
+    "('High', 'SBILIFE.BO')":1862.3499755859,
+    "('Low', 'SBILIFE.BO')":1805.0,
+    "('Open', 'SBILIFE.BO')":1855.9499511719,
+    "('Volume', 'SBILIFE.BO')":15394
+  },
+  {
+    "('Date', '')":"2025-07-04",
+    "('Close', 'SBILIFE.BO')":1799.75,
+    "('High', 'SBILIFE.BO')":1811.0,
+    "('Low', 'SBILIFE.BO')":1783.4000244141,
+    "('Open', 'SBILIFE.BO')":1811.0,
+    "('Volume', 'SBILIFE.BO')":7109
+  },
+  {
+    "('Date', '')":"2025-07-07",
+    "('Close', 'SBILIFE.BO')":1809.4000244141,
+    "('High', 'SBILIFE.BO')":1811.25,
+    "('Low', 'SBILIFE.BO')":1792.6999511719,
+    "('Open', 'SBILIFE.BO')":1797.1500244141,
+    "('Volume', 'SBILIFE.BO')":6099
+  },
+  {
+    "('Date', '')":"2025-07-08",
+    "('Close', 'SBILIFE.BO')":1815.6999511719,
+    "('High', 'SBILIFE.BO')":1818.0,
+    "('Low', 'SBILIFE.BO')":1798.5500488281,
+    "('Open', 'SBILIFE.BO')":1809.3499755859,
+    "('Volume', 'SBILIFE.BO')":10670
+  },
+  {
+    "('Date', '')":"2025-07-09",
+    "('Close', 'SBILIFE.BO')":1814.8000488281,
+    "('High', 'SBILIFE.BO')":1821.0,
+    "('Low', 'SBILIFE.BO')":1785.6500244141,
+    "('Open', 'SBILIFE.BO')":1785.6500244141,
+    "('Volume', 'SBILIFE.BO')":16587
+  },
+  {
+    "('Date', '')":"2025-07-10",
+    "('Close', 'SBILIFE.BO')":1813.0,
+    "('High', 'SBILIFE.BO')":1823.0,
+    "('Low', 'SBILIFE.BO')":1802.0999755859,
+    "('Open', 'SBILIFE.BO')":1809.4499511719,
+    "('Volume', 'SBILIFE.BO')":7702
+  },
+  {
+    "('Date', '')":"2025-07-11",
+    "('Close', 'SBILIFE.BO')":1834.75,
+    "('High', 'SBILIFE.BO')":1839.1500244141,
+    "('Low', 'SBILIFE.BO')":1813.0999755859,
+    "('Open', 'SBILIFE.BO')":1819.9499511719,
+    "('Volume', 'SBILIFE.BO')":12164
+  },
+  {
+    "('Date', '')":"2025-07-14",
+    "('Close', 'SBILIFE.BO')":1850.75,
+    "('High', 'SBILIFE.BO')":1855.8499755859,
+    "('Low', 'SBILIFE.BO')":1832.0,
+    "('Open', 'SBILIFE.BO')":1848.9499511719,
+    "('Volume', 'SBILIFE.BO')":25023
+  },
+  {
+    "('Date', '')":"2025-07-15",
+    "('Close', 'SBILIFE.BO')":1824.8000488281,
+    "('High', 'SBILIFE.BO')":1851.5,
+    "('Low', 'SBILIFE.BO')":1822.4499511719,
+    "('Open', 'SBILIFE.BO')":1845.3499755859,
+    "('Volume', 'SBILIFE.BO')":43547
+  },
+  {
+    "('Date', '')":"2025-07-16",
+    "('Close', 'SBILIFE.BO')":1828.8000488281,
+    "('High', 'SBILIFE.BO')":1839.4000244141,
+    "('Low', 'SBILIFE.BO')":1821.6500244141,
+    "('Open', 'SBILIFE.BO')":1830.3499755859,
+    "('Volume', 'SBILIFE.BO')":12227
+  },
+  {
+    "('Date', '')":"2025-07-17",
+    "('Close', 'SBILIFE.BO')":1802.0500488281,
+    "('High', 'SBILIFE.BO')":1828.8000488281,
+    "('Low', 'SBILIFE.BO')":1797.5999755859,
+    "('Open', 'SBILIFE.BO')":1822.0500488281,
+    "('Volume', 'SBILIFE.BO')":16439
+  },
+  {
+    "('Date', '')":"2025-07-18",
+    "('Close', 'SBILIFE.BO')":1787.8000488281,
+    "('High', 'SBILIFE.BO')":1800.0,
+    "('Low', 'SBILIFE.BO')":1754.5999755859,
+    "('Open', 'SBILIFE.BO')":1800.0,
+    "('Volume', 'SBILIFE.BO')":31273
+  },
+  {
+    "('Date', '')":"2025-07-21",
+    "('Close', 'SBILIFE.BO')":1804.6500244141,
+    "('High', 'SBILIFE.BO')":1807.5,
+    "('Low', 'SBILIFE.BO')":1782.25,
+    "('Open', 'SBILIFE.BO')":1782.25,
+    "('Volume', 'SBILIFE.BO')":4706
+  },
+  {
+    "('Date', '')":"2025-07-22",
+    "('Close', 'SBILIFE.BO')":1807.0,
+    "('High', 'SBILIFE.BO')":1815.5,
+    "('Low', 'SBILIFE.BO')":1786.1999511719,
+    "('Open', 'SBILIFE.BO')":1786.1999511719,
+    "('Volume', 'SBILIFE.BO')":3409
+  },
+  {
+    "('Date', '')":"2025-07-23",
+    "('Close', 'SBILIFE.BO')":1808.75,
+    "('High', 'SBILIFE.BO')":1817.8000488281,
+    "('Low', 'SBILIFE.BO')":1793.0,
+    "('Open', 'SBILIFE.BO')":1808.3000488281,
+    "('Volume', 'SBILIFE.BO')":6334
+  },
+  {
+    "('Date', '')":"2025-07-24",
+    "('Close', 'SBILIFE.BO')":1798.3499755859,
+    "('High', 'SBILIFE.BO')":1818.1999511719,
+    "('Low', 'SBILIFE.BO')":1780.0,
+    "('Open', 'SBILIFE.BO')":1806.5999755859,
+    "('Volume', 'SBILIFE.BO')":15044
+  },
+  {
+    "('Date', '')":"2025-07-25",
+    "('Close', 'SBILIFE.BO')":1832.8499755859,
+    "('High', 'SBILIFE.BO')":1847.3000488281,
+    "('Low', 'SBILIFE.BO')":1809.3000488281,
+    "('Open', 'SBILIFE.BO')":1816.9499511719,
+    "('Volume', 'SBILIFE.BO')":64706
+  },
+  {
+    "('Date', '')":"2025-07-28",
+    "('Close', 'SBILIFE.BO')":1848.5999755859,
+    "('High', 'SBILIFE.BO')":1857.5,
+    "('Low', 'SBILIFE.BO')":1820.4000244141,
+    "('Open', 'SBILIFE.BO')":1830.4000244141,
+    "('Volume', 'SBILIFE.BO')":226819
+  },
+  {
+    "('Date', '')":"2025-07-29",
+    "('Close', 'SBILIFE.BO')":1832.8499755859,
+    "('High', 'SBILIFE.BO')":1850.4000244141,
+    "('Low', 'SBILIFE.BO')":1823.6500244141,
+    "('Open', 'SBILIFE.BO')":1848.5999755859,
+    "('Volume', 'SBILIFE.BO')":9056
+  },
+  {
+    "('Date', '')":"2025-07-30",
+    "('Close', 'SBILIFE.BO')":1838.8000488281,
+    "('High', 'SBILIFE.BO')":1846.8000488281,
+    "('Low', 'SBILIFE.BO')":1824.6999511719,
+    "('Open', 'SBILIFE.BO')":1831.0,
+    "('Volume', 'SBILIFE.BO')":5583
+  },
+  {
+    "('Date', '')":"2025-07-31",
+    "('Close', 'SBILIFE.BO')":1839.3499755859,
+    "('High', 'SBILIFE.BO')":1857.0999755859,
+    "('Low', 'SBILIFE.BO')":1821.1999511719,
+    "('Open', 'SBILIFE.BO')":1821.1999511719,
+    "('Volume', 'SBILIFE.BO')":318990
+  },
+  {
+    "('Date', '')":"2025-08-01",
+    "('Close', 'SBILIFE.BO')":1793.75,
+    "('High', 'SBILIFE.BO')":1841.0,
+    "('Low', 'SBILIFE.BO')":1790.0,
+    "('Open', 'SBILIFE.BO')":1837.8000488281,
+    "('Volume', 'SBILIFE.BO')":7179
+  },
+  {
+    "('Date', '')":"2025-08-04",
+    "('Close', 'SBILIFE.BO')":1831.9499511719,
+    "('High', 'SBILIFE.BO')":1835.0,
+    "('Low', 'SBILIFE.BO')":1782.0,
+    "('Open', 'SBILIFE.BO')":1790.3499755859,
+    "('Volume', 'SBILIFE.BO')":5947
+  },
+  {
+    "('Date', '')":"2025-08-05",
+    "('Close', 'SBILIFE.BO')":1856.9499511719,
+    "('High', 'SBILIFE.BO')":1860.3000488281,
+    "('Low', 'SBILIFE.BO')":1819.25,
+    "('Open', 'SBILIFE.BO')":1827.0,
+    "('Volume', 'SBILIFE.BO')":63386
+  },
+  {
+    "('Date', '')":"2025-08-06",
+    "('Close', 'SBILIFE.BO')":1854.0500488281,
+    "('High', 'SBILIFE.BO')":1875.5,
+    "('Low', 'SBILIFE.BO')":1851.5500488281,
+    "('Open', 'SBILIFE.BO')":1861.9499511719,
+    "('Volume', 'SBILIFE.BO')":6945
+  },
+  {
+    "('Date', '')":"2025-08-07",
+    "('Close', 'SBILIFE.BO')":1861.0500488281,
+    "('High', 'SBILIFE.BO')":1862.8000488281,
+    "('Low', 'SBILIFE.BO')":1818.0,
+    "('Open', 'SBILIFE.BO')":1818.0,
+    "('Volume', 'SBILIFE.BO')":5052
+  },
+  {
+    "('Date', '')":"2025-08-08",
+    "('Close', 'SBILIFE.BO')":1833.3499755859,
+    "('High', 'SBILIFE.BO')":1868.5,
+    "('Low', 'SBILIFE.BO')":1831.0,
+    "('Open', 'SBILIFE.BO')":1854.0,
+    "('Volume', 'SBILIFE.BO')":8881
+  },
+  {
+    "('Date', '')":"2025-08-11",
+    "('Close', 'SBILIFE.BO')":1850.3000488281,
+    "('High', 'SBILIFE.BO')":1852.6500244141,
+    "('Low', 'SBILIFE.BO')":1826.5,
+    "('Open', 'SBILIFE.BO')":1848.3499755859,
+    "('Volume', 'SBILIFE.BO')":4871
+  },
+  {
+    "('Date', '')":"2025-08-12",
+    "('Close', 'SBILIFE.BO')":1837.9499511719,
+    "('High', 'SBILIFE.BO')":1866.0500488281,
+    "('Low', 'SBILIFE.BO')":1833.6999511719,
+    "('Open', 'SBILIFE.BO')":1866.0500488281,
+    "('Volume', 'SBILIFE.BO')":22539
+  },
+  {
+    "('Date', '')":"2025-08-13",
+    "('Close', 'SBILIFE.BO')":1839.5,
+    "('High', 'SBILIFE.BO')":1858.4000244141,
+    "('Low', 'SBILIFE.BO')":1834.5500488281,
+    "('Open', 'SBILIFE.BO')":1834.5500488281,
+    "('Volume', 'SBILIFE.BO')":9741
+  },
+  {
+    "('Date', '')":"2025-08-14",
+    "('Close', 'SBILIFE.BO')":1839.5,
+    "('High', 'SBILIFE.BO')":1852.5500488281,
+    "('Low', 'SBILIFE.BO')":1832.4000244141,
+    "('Open', 'SBILIFE.BO')":1845.0,
+    "('Volume', 'SBILIFE.BO')":4046
+  },
+  {
+    "('Date', '')":"2025-08-18",
+    "('Close', 'SBILIFE.BO')":1863.4499511719,
+    "('High', 'SBILIFE.BO')":1912.0999755859,
+    "('Low', 'SBILIFE.BO')":1853.4499511719,
+    "('Open', 'SBILIFE.BO')":1897.8000488281,
+    "('Volume', 'SBILIFE.BO')":30228
+  },
+  {
+    "('Date', '')":"2025-08-19",
+    "('Close', 'SBILIFE.BO')":1854.0,
+    "('High', 'SBILIFE.BO')":1865.4499511719,
+    "('Low', 'SBILIFE.BO')":1837.1999511719,
+    "('Open', 'SBILIFE.BO')":1865.0,
+    "('Volume', 'SBILIFE.BO')":14954
+  },
+  {
+    "('Date', '')":"2025-08-20",
+    "('Close', 'SBILIFE.BO')":1858.1500244141,
+    "('High', 'SBILIFE.BO')":1863.3499755859,
+    "('Low', 'SBILIFE.BO')":1843.4499511719,
+    "('Open', 'SBILIFE.BO')":1857.0500488281,
+    "('Volume', 'SBILIFE.BO')":6123
+  },
+  {
+    "('Date', '')":"2025-08-21",
+    "('Close', 'SBILIFE.BO')":1876.6999511719,
+    "('High', 'SBILIFE.BO')":1892.4000244141,
+    "('Low', 'SBILIFE.BO')":1870.8499755859,
+    "('Open', 'SBILIFE.BO')":1875.25,
+    "('Volume', 'SBILIFE.BO')":19706
+  },
+  {
+    "('Date', '')":"2025-08-22",
+    "('Close', 'SBILIFE.BO')":1858.8499755859,
+    "('High', 'SBILIFE.BO')":1877.4499511719,
+    "('Low', 'SBILIFE.BO')":1850.0,
+    "('Open', 'SBILIFE.BO')":1877.4499511719,
+    "('Volume', 'SBILIFE.BO')":9144
+  },
+  {
+    "('Date', '')":"2025-08-25",
+    "('Close', 'SBILIFE.BO')":1847.0999755859,
+    "('High', 'SBILIFE.BO')":1860.4499511719,
+    "('Low', 'SBILIFE.BO')":1843.4000244141,
+    "('Open', 'SBILIFE.BO')":1860.0,
+    "('Volume', 'SBILIFE.BO')":5483
+  },
+  {
+    "('Date', '')":"2025-08-26",
+    "('Close', 'SBILIFE.BO')":1816.5999755859,
+    "('High', 'SBILIFE.BO')":1854.1999511719,
+    "('Low', 'SBILIFE.BO')":1811.5,
+    "('Open', 'SBILIFE.BO')":1851.5,
+    "('Volume', 'SBILIFE.BO')":15709
+  },
+  {
+    "('Date', '')":"2025-08-28",
+    "('Close', 'SBILIFE.BO')":1816.5999755859,
+    "('High', 'SBILIFE.BO')":1841.0,
+    "('Low', 'SBILIFE.BO')":1802.1999511719,
+    "('Open', 'SBILIFE.BO')":1802.1999511719,
+    "('Volume', 'SBILIFE.BO')":17495
+  },
+  {
+    "('Date', '')":"2025-08-29",
+    "('Close', 'SBILIFE.BO')":1804.3499755859,
+    "('High', 'SBILIFE.BO')":1822.3000488281,
+    "('Low', 'SBILIFE.BO')":1801.0,
+    "('Open', 'SBILIFE.BO')":1807.5500488281,
+    "('Volume', 'SBILIFE.BO')":10811
+  },
+  {
+    "('Date', '')":"2025-09-01",
+    "('Close', 'SBILIFE.BO')":1809.5999755859,
+    "('High', 'SBILIFE.BO')":1815.5999755859,
+    "('Low', 'SBILIFE.BO')":1798.0500488281,
+    "('Open', 'SBILIFE.BO')":1801.0,
+    "('Volume', 'SBILIFE.BO')":4054
+  },
+  {
+    "('Date', '')":"2025-09-02",
+    "('Close', 'SBILIFE.BO')":1814.8000488281,
+    "('High', 'SBILIFE.BO')":1822.4000244141,
+    "('Low', 'SBILIFE.BO')":1801.9499511719,
+    "('Open', 'SBILIFE.BO')":1803.0500488281,
+    "('Volume', 'SBILIFE.BO')":10183
+  },
+  {
+    "('Date', '')":"2025-09-03",
+    "('Close', 'SBILIFE.BO')":1810.5500488281,
+    "('High', 'SBILIFE.BO')":1814.4000244141,
+    "('Low', 'SBILIFE.BO')":1798.0,
+    "('Open', 'SBILIFE.BO')":1802.0500488281,
+    "('Volume', 'SBILIFE.BO')":7815
+  },
+  {
+    "('Date', '')":"2025-09-04",
+    "('Close', 'SBILIFE.BO')":1790.5500488281,
+    "('High', 'SBILIFE.BO')":1899.0,
+    "('Low', 'SBILIFE.BO')":1772.0,
+    "('Open', 'SBILIFE.BO')":1899.0,
+    "('Volume', 'SBILIFE.BO')":42316
+  },
+  {
+    "('Date', '')":"2025-09-05",
+    "('Close', 'SBILIFE.BO')":1805.8000488281,
+    "('High', 'SBILIFE.BO')":1833.8000488281,
+    "('Low', 'SBILIFE.BO')":1800.1999511719,
+    "('Open', 'SBILIFE.BO')":1833.8000488281,
+    "('Volume', 'SBILIFE.BO')":12131
+  },
+  {
+    "('Date', '')":"2025-09-08",
+    "('Close', 'SBILIFE.BO')":1780.4000244141,
+    "('High', 'SBILIFE.BO')":1808.3499755859,
+    "('Low', 'SBILIFE.BO')":1770.0,
+    "('Open', 'SBILIFE.BO')":1801.1500244141,
+    "('Volume', 'SBILIFE.BO')":18754
+  },
+  {
+    "('Date', '')":"2025-09-09",
+    "('Close', 'SBILIFE.BO')":1806.0,
+    "('High', 'SBILIFE.BO')":1810.0,
+    "('Low', 'SBILIFE.BO')":1780.0,
+    "('Open', 'SBILIFE.BO')":1783.1999511719,
+    "('Volume', 'SBILIFE.BO')":11217
+  },
+  {
+    "('Date', '')":"2025-09-10",
+    "('Close', 'SBILIFE.BO')":1833.8000488281,
+    "('High', 'SBILIFE.BO')":1842.5,
+    "('Low', 'SBILIFE.BO')":1800.6500244141,
+    "('Open', 'SBILIFE.BO')":1803.0500488281,
+    "('Volume', 'SBILIFE.BO')":15072
+  },
+  {
+    "('Date', '')":"2025-09-11",
+    "('Close', 'SBILIFE.BO')":1813.25,
+    "('High', 'SBILIFE.BO')":1824.0,
+    "('Low', 'SBILIFE.BO')":1803.9000244141,
+    "('Open', 'SBILIFE.BO')":1820.25,
+    "('Volume', 'SBILIFE.BO')":446775
+  },
+  {
+    "('Date', '')":"2025-09-12",
+    "('Close', 'SBILIFE.BO')":1830.0999755859,
+    "('High', 'SBILIFE.BO')":1834.0,
+    "('Low', 'SBILIFE.BO')":1804.3499755859,
+    "('Open', 'SBILIFE.BO')":1820.5500488281,
+    "('Volume', 'SBILIFE.BO')":9578
+  },
+  {
+    "('Date', '')":"2025-09-15",
+    "('Close', 'SBILIFE.BO')":1821.25,
+    "('High', 'SBILIFE.BO')":1831.75,
+    "('Low', 'SBILIFE.BO')":1812.5999755859,
+    "('Open', 'SBILIFE.BO')":1830.3499755859,
+    "('Volume', 'SBILIFE.BO')":11128
+  },
+  {
+    "('Date', '')":"2025-09-16",
+    "('Close', 'SBILIFE.BO')":1818.0500488281,
+    "('High', 'SBILIFE.BO')":1827.1500244141,
+    "('Low', 'SBILIFE.BO')":1811.1999511719,
+    "('Open', 'SBILIFE.BO')":1815.6500244141,
+    "('Volume', 'SBILIFE.BO')":7237
+  },
+  {
+    "('Date', '')":"2025-09-17",
+    "('Close', 'SBILIFE.BO')":1803.0,
+    "('High', 'SBILIFE.BO')":1827.25,
+    "('Low', 'SBILIFE.BO')":1800.0999755859,
+    "('Open', 'SBILIFE.BO')":1815.9499511719,
+    "('Volume', 'SBILIFE.BO')":6553
+  },
+  {
+    "('Date', '')":"2025-09-18",
+    "('Close', 'SBILIFE.BO')":1820.3499755859,
+    "('High', 'SBILIFE.BO')":1830.5,
+    "('Low', 'SBILIFE.BO')":1797.8000488281,
+    "('Open', 'SBILIFE.BO')":1800.25,
+    "('Volume', 'SBILIFE.BO')":7032
+  },
+  {
+    "('Date', '')":"2025-09-19",
+    "('Close', 'SBILIFE.BO')":1842.5500488281,
+    "('High', 'SBILIFE.BO')":1849.9499511719,
+    "('Low', 'SBILIFE.BO')":1824.3000488281,
+    "('Open', 'SBILIFE.BO')":1849.9499511719,
+    "('Volume', 'SBILIFE.BO')":61763
+  },
+  {
+    "('Date', '')":"2025-09-22",
+    "('Close', 'SBILIFE.BO')":1858.9499511719,
+    "('High', 'SBILIFE.BO')":1879.6500244141,
+    "('Low', 'SBILIFE.BO')":1845.0500488281,
+    "('Open', 'SBILIFE.BO')":1845.0500488281,
+    "('Volume', 'SBILIFE.BO')":35354
+  },
+  {
+    "('Date', '')":"2025-09-23",
+    "('Close', 'SBILIFE.BO')":1819.6999511719,
+    "('High', 'SBILIFE.BO')":1878.5,
+    "('Low', 'SBILIFE.BO')":1815.6999511719,
+    "('Open', 'SBILIFE.BO')":1878.5,
+    "('Volume', 'SBILIFE.BO')":11752
+  },
+  {
+    "('Date', '')":"2025-09-24",
+    "('Close', 'SBILIFE.BO')":1815.0500488281,
+    "('High', 'SBILIFE.BO')":1824.25,
+    "('Low', 'SBILIFE.BO')":1806.6500244141,
+    "('Open', 'SBILIFE.BO')":1820.9000244141,
+    "('Volume', 'SBILIFE.BO')":78544
+  },
+  {
+    "('Date', '')":"2025-09-25",
+    "('Close', 'SBILIFE.BO')":1810.0999755859,
+    "('High', 'SBILIFE.BO')":1820.0,
+    "('Low', 'SBILIFE.BO')":1799.75,
+    "('Open', 'SBILIFE.BO')":1815.0500488281,
+    "('Volume', 'SBILIFE.BO')":58977
+  },
+  {
+    "('Date', '')":"2025-09-26",
+    "('Close', 'SBILIFE.BO')":1798.6999511719,
+    "('High', 'SBILIFE.BO')":1816.6999511719,
+    "('Low', 'SBILIFE.BO')":1790.9000244141,
+    "('Open', 'SBILIFE.BO')":1800.0500488281,
+    "('Volume', 'SBILIFE.BO')":52052
+  },
+  {
+    "('Date', '')":"2025-09-29",
+    "('Close', 'SBILIFE.BO')":1788.9000244141,
+    "('High', 'SBILIFE.BO')":1805.1999511719,
+    "('Low', 'SBILIFE.BO')":1785.5,
+    "('Open', 'SBILIFE.BO')":1800.0500488281,
+    "('Volume', 'SBILIFE.BO')":18641
+  },
+  {
+    "('Date', '')":"2025-09-30",
+    "('Close', 'SBILIFE.BO')":1790.9000244141,
+    "('High', 'SBILIFE.BO')":1796.4000244141,
+    "('Low', 'SBILIFE.BO')":1777.4499511719,
+    "('Open', 'SBILIFE.BO')":1777.4499511719,
+    "('Volume', 'SBILIFE.BO')":2090499
+  },
+  {
+    "('Date', '')":"2025-10-01",
+    "('Close', 'SBILIFE.BO')":1800.3499755859,
+    "('High', 'SBILIFE.BO')":1804.25,
+    "('Low', 'SBILIFE.BO')":1769.8000488281,
+    "('Open', 'SBILIFE.BO')":1770.0,
+    "('Volume', 'SBILIFE.BO')":76243
+  },
+  {
+    "('Date', '')":"2025-10-03",
+    "('Close', 'SBILIFE.BO')":1785.0999755859,
+    "('High', 'SBILIFE.BO')":1802.9499511719,
+    "('Low', 'SBILIFE.BO')":1767.3000488281,
+    "('Open', 'SBILIFE.BO')":1800.0,
+    "('Volume', 'SBILIFE.BO')":11544
+  },
+  {
+    "('Date', '')":"2025-10-06",
+    "('Close', 'SBILIFE.BO')":1771.4000244141,
+    "('High', 'SBILIFE.BO')":1775.6500244141,
+    "('Low', 'SBILIFE.BO')":1759.5999755859,
+    "('Open', 'SBILIFE.BO')":1772.4000244141,
+    "('Volume', 'SBILIFE.BO')":17237
+  },
+  {
+    "('Date', '')":"2025-10-07",
+    "('Close', 'SBILIFE.BO')":1784.6999511719,
+    "('High', 'SBILIFE.BO')":1793.3499755859,
+    "('Low', 'SBILIFE.BO')":1771.8000488281,
+    "('Open', 'SBILIFE.BO')":1779.75,
+    "('Volume', 'SBILIFE.BO')":38433
+  },
+  {
+    "('Date', '')":"2025-10-08",
+    "('Close', 'SBILIFE.BO')":1773.3000488281,
+    "('High', 'SBILIFE.BO')":1795.0,
+    "('Low', 'SBILIFE.BO')":1759.3499755859,
+    "('Open', 'SBILIFE.BO')":1775.5500488281,
+    "('Volume', 'SBILIFE.BO')":8495
+  },
+  {
+    "('Date', '')":"2025-10-09",
+    "('Close', 'SBILIFE.BO')":1810.6500244141,
+    "('High', 'SBILIFE.BO')":1813.0,
+    "('Low', 'SBILIFE.BO')":1771.0500488281,
+    "('Open', 'SBILIFE.BO')":1772.75,
+    "('Volume', 'SBILIFE.BO')":13556
+  },
+  {
+    "('Date', '')":"2025-10-10",
+    "('Close', 'SBILIFE.BO')":1810.75,
+    "('High', 'SBILIFE.BO')":1842.75,
+    "('Low', 'SBILIFE.BO')":1806.6500244141,
+    "('Open', 'SBILIFE.BO')":1818.3000488281,
+    "('Volume', 'SBILIFE.BO')":16907
+  },
+  {
+    "('Date', '')":"2025-10-13",
+    "('Close', 'SBILIFE.BO')":1814.3000488281,
+    "('High', 'SBILIFE.BO')":1827.5,
+    "('Low', 'SBILIFE.BO')":1792.5500488281,
+    "('Open', 'SBILIFE.BO')":1792.5500488281,
+    "('Volume', 'SBILIFE.BO')":10082
+  },
+  {
+    "('Date', '')":"2025-10-14",
+    "('Close', 'SBILIFE.BO')":1815.75,
+    "('High', 'SBILIFE.BO')":1824.6999511719,
+    "('Low', 'SBILIFE.BO')":1807.5,
+    "('Open', 'SBILIFE.BO')":1807.5,
+    "('Volume', 'SBILIFE.BO')":3657
+  },
+  {
+    "('Date', '')":"2025-10-15",
+    "('Close', 'SBILIFE.BO')":1840.8499755859,
+    "('High', 'SBILIFE.BO')":1858.0999755859,
+    "('Low', 'SBILIFE.BO')":1814.4499511719,
+    "('Open', 'SBILIFE.BO')":1835.0999755859,
+    "('Volume', 'SBILIFE.BO')":9726
+  },
+  {
+    "('Date', '')":"2025-10-16",
+    "('Close', 'SBILIFE.BO')":1835.0999755859,
+    "('High', 'SBILIFE.BO')":1844.0,
+    "('Low', 'SBILIFE.BO')":1810.0,
+    "('Open', 'SBILIFE.BO')":1842.1500244141,
+    "('Volume', 'SBILIFE.BO')":17844
+  },
+  {
+    "('Date', '')":"2025-10-17",
+    "('Close', 'SBILIFE.BO')":1843.6500244141,
+    "('High', 'SBILIFE.BO')":1851.4000244141,
+    "('Low', 'SBILIFE.BO')":1821.0,
+    "('Open', 'SBILIFE.BO')":1836.4499511719,
+    "('Volume', 'SBILIFE.BO')":9791
+  },
+  {
+    "('Date', '')":"2025-10-20",
+    "('Close', 'SBILIFE.BO')":1839.6500244141,
+    "('High', 'SBILIFE.BO')":1857.6500244141,
+    "('Low', 'SBILIFE.BO')":1829.6500244141,
+    "('Open', 'SBILIFE.BO')":1844.0500488281,
+    "('Volume', 'SBILIFE.BO')":6112
+  },
+  {
+    "('Date', '')":"2025-10-21",
+    "('Close', 'SBILIFE.BO')":1840.0500488281,
+    "('High', 'SBILIFE.BO')":1847.0,
+    "('Low', 'SBILIFE.BO')":1832.3000488281,
+    "('Open', 'SBILIFE.BO')":1835.0999755859,
+    "('Volume', 'SBILIFE.BO')":2254
+  },
+  {
+    "('Date', '')":"2025-10-23",
+    "('Close', 'SBILIFE.BO')":1852.4499511719,
+    "('High', 'SBILIFE.BO')":1863.8000488281,
+    "('Low', 'SBILIFE.BO')":1843.0500488281,
+    "('Open', 'SBILIFE.BO')":1843.0500488281,
+    "('Volume', 'SBILIFE.BO')":11040
+  },
+  {
+    "('Date', '')":"2025-10-24",
+    "('Close', 'SBILIFE.BO')":1840.5,
+    "('High', 'SBILIFE.BO')":1863.8499755859,
+    "('Low', 'SBILIFE.BO')":1832.6500244141,
+    "('Open', 'SBILIFE.BO')":1863.8499755859,
+    "('Volume', 'SBILIFE.BO')":63889
+  },
+  {
+    "('Date', '')":"2025-10-27",
+    "('Close', 'SBILIFE.BO')":1902.9499511719,
+    "('High', 'SBILIFE.BO')":1923.0,
+    "('Low', 'SBILIFE.BO')":1872.0500488281,
+    "('Open', 'SBILIFE.BO')":1872.0500488281,
+    "('Volume', 'SBILIFE.BO')":134522
+  },
+  {
+    "('Date', '')":"2025-10-28",
+    "('Close', 'SBILIFE.BO')":1935.6500244141,
+    "('High', 'SBILIFE.BO')":1946.0,
+    "('Low', 'SBILIFE.BO')":1896.5,
+    "('Open', 'SBILIFE.BO')":1905.0,
+    "('Volume', 'SBILIFE.BO')":174752
+  },
+  {
+    "('Date', '')":"2025-10-29",
+    "('Close', 'SBILIFE.BO')":1970.3000488281,
+    "('High', 'SBILIFE.BO')":1974.6999511719,
+    "('Low', 'SBILIFE.BO')":1935.0500488281,
+    "('Open', 'SBILIFE.BO')":1943.9499511719,
+    "('Volume', 'SBILIFE.BO')":48123
+  },
+  {
+    "('Date', '')":"2025-10-30",
+    "('Close', 'SBILIFE.BO')":1969.3000488281,
+    "('High', 'SBILIFE.BO')":1971.1500244141,
+    "('Low', 'SBILIFE.BO')":1955.0,
+    "('Open', 'SBILIFE.BO')":1971.0999755859,
+    "('Volume', 'SBILIFE.BO')":12183
+  },
+  {
+    "('Date', '')":"2025-10-31",
+    "('Close', 'SBILIFE.BO')":1954.75,
+    "('High', 'SBILIFE.BO')":1978.1999511719,
+    "('Low', 'SBILIFE.BO')":1951.5500488281,
+    "('Open', 'SBILIFE.BO')":1969.3000488281,
+    "('Volume', 'SBILIFE.BO')":22306
+  },
+  {
+    "('Date', '')":"2025-11-03",
+    "('Close', 'SBILIFE.BO')":1970.25,
+    "('High', 'SBILIFE.BO')":1981.0,
+    "('Low', 'SBILIFE.BO')":1945.3499755859,
+    "('Open', 'SBILIFE.BO')":1954.75,
+    "('Volume', 'SBILIFE.BO')":17749
+  },
+  {
+    "('Date', '')":"2025-11-04",
+    "('Close', 'SBILIFE.BO')":1972.5,
+    "('High', 'SBILIFE.BO')":1996.4000244141,
+    "('Low', 'SBILIFE.BO')":1959.9499511719,
+    "('Open', 'SBILIFE.BO')":1959.9499511719,
+    "('Volume', 'SBILIFE.BO')":15027
+  },
+  {
+    "('Date', '')":"2025-11-06",
+    "('Close', 'SBILIFE.BO')":1970.75,
+    "('High', 'SBILIFE.BO')":1990.0,
+    "('Low', 'SBILIFE.BO')":1963.9499511719,
+    "('Open', 'SBILIFE.BO')":1968.0999755859,
+    "('Volume', 'SBILIFE.BO')":21829
+  },
+  {
+    "('Date', '')":"2025-11-07",
+    "('Close', 'SBILIFE.BO')":1999.0500488281,
+    "('High', 'SBILIFE.BO')":2003.0500488281,
+    "('Low', 'SBILIFE.BO')":1959.5500488281,
+    "('Open', 'SBILIFE.BO')":1960.0,
+    "('Volume', 'SBILIFE.BO')":25369
+  },
+  {
+    "('Date', '')":"2025-11-10",
+    "('Close', 'SBILIFE.BO')":1989.1999511719,
+    "('High', 'SBILIFE.BO')":2018.8000488281,
+    "('Low', 'SBILIFE.BO')":1985.0,
+    "('Open', 'SBILIFE.BO')":2000.3499755859,
+    "('Volume', 'SBILIFE.BO')":26958
+  },
+  {
+    "('Date', '')":"2025-11-11",
+    "('Close', 'SBILIFE.BO')":1995.4000244141,
+    "('High', 'SBILIFE.BO')":2001.5,
+    "('Low', 'SBILIFE.BO')":1982.25,
+    "('Open', 'SBILIFE.BO')":1989.4499511719,
+    "('Volume', 'SBILIFE.BO')":12274
+  },
+  {
+    "('Date', '')":"2025-11-12",
+    "('Close', 'SBILIFE.BO')":1996.0,
+    "('High', 'SBILIFE.BO')":2006.0999755859,
+    "('Low', 'SBILIFE.BO')":1983.5999755859,
+    "('Open', 'SBILIFE.BO')":1995.5,
+    "('Volume', 'SBILIFE.BO')":4274
+  },
+  {
+    "('Date', '')":"2025-11-13",
+    "('Close', 'SBILIFE.BO')":1988.1999511719,
+    "('High', 'SBILIFE.BO')":2000.0,
+    "('Low', 'SBILIFE.BO')":1977.0,
+    "('Open', 'SBILIFE.BO')":1992.3499755859,
+    "('Volume', 'SBILIFE.BO')":5273
+  }
+]

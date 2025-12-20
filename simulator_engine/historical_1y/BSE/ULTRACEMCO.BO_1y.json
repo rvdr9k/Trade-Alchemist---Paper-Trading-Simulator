@@ -1,0 +1,1986 @@
+[
+  {
+    "('Date', '')":"2024-11-13",
+    "('Close', 'ULTRACEMCO.BO')":10725.33203125,
+    "('High', 'ULTRACEMCO.BO')":10805.2257543391,
+    "('Low', 'ULTRACEMCO.BO')":10688.5157071849,
+    "('Open', 'ULTRACEMCO.BO')":10770.8441849349,
+    "('Volume', 'ULTRACEMCO.BO')":10775
+  },
+  {
+    "('Date', '')":"2024-11-14",
+    "('Close', 'ULTRACEMCO.BO')":10667.84765625,
+    "('High', 'ULTRACEMCO.BO')":10761.7521416969,
+    "('Low', 'ULTRACEMCO.BO')":10483.0197801322,
+    "('Open', 'ULTRACEMCO.BO')":10686.2310740359,
+    "('Volume', 'ULTRACEMCO.BO')":8199
+  },
+  {
+    "('Date', '')":"2024-11-18",
+    "('Close', 'ULTRACEMCO.BO')":10559.435546875,
+    "('High', 'ULTRACEMCO.BO')":10689.1626602511,
+    "('Low', 'ULTRACEMCO.BO')":10469.3564117101,
+    "('Open', 'ULTRACEMCO.BO')":10469.3564117101,
+    "('Volume', 'ULTRACEMCO.BO')":2289
+  },
+  {
+    "('Date', '')":"2024-11-19",
+    "('Close', 'ULTRACEMCO.BO')":10706.7001953125,
+    "('High', 'ULTRACEMCO.BO')":10795.1393347636,
+    "('Low', 'ULTRACEMCO.BO')":10534.1450858084,
+    "('Open', 'ULTRACEMCO.BO')":10534.1450858084,
+    "('Volume', 'ULTRACEMCO.BO')":6467
+  },
+  {
+    "('Date', '')":"2024-11-21",
+    "('Close', 'ULTRACEMCO.BO')":10886.7099609375,
+    "('High', 'ULTRACEMCO.BO')":10938.6801870422,
+    "('Low', 'ULTRACEMCO.BO')":10487.6411187595,
+    "('Open', 'ULTRACEMCO.BO')":10487.6411187595,
+    "('Volume', 'ULTRACEMCO.BO')":5187
+  },
+  {
+    "('Date', '')":"2024-11-22",
+    "('Close', 'ULTRACEMCO.BO')":11315.3916015625,
+    "('High', 'ULTRACEMCO.BO')":11333.128727453,
+    "('Low', 'ULTRACEMCO.BO')":10863.1589383123,
+    "('Open', 'ULTRACEMCO.BO')":10930.6809295908,
+    "('Volume', 'ULTRACEMCO.BO')":14903
+  },
+  {
+    "('Date', '')":"2024-11-25",
+    "('Close', 'ULTRACEMCO.BO')":11384.6513671875,
+    "('High', 'ULTRACEMCO.BO')":11607.9355572565,
+    "('Low', 'ULTRACEMCO.BO')":11362.0447320797,
+    "('Open', 'ULTRACEMCO.BO')":11396.6756982151,
+    "('Volume', 'ULTRACEMCO.BO')":10923
+  },
+  {
+    "('Date', '')":"2024-11-26",
+    "('Close', 'ULTRACEMCO.BO')":11050.0234375,
+    "('High', 'ULTRACEMCO.BO')":11396.3272749874,
+    "('Low', 'ULTRACEMCO.BO')":11035.0189822027,
+    "('Open', 'ULTRACEMCO.BO')":11384.6513206388,
+    "('Volume', 'ULTRACEMCO.BO')":6040
+  },
+  {
+    "('Date', '')":"2024-11-27",
+    "('Close', 'ULTRACEMCO.BO')":11069.052734375,
+    "('High', 'ULTRACEMCO.BO')":11117.0976544422,
+    "('Low', 'ULTRACEMCO.BO')":10890.9323310591,
+    "('Open', 'ULTRACEMCO.BO')":11035.0185708404,
+    "('Volume', 'ULTRACEMCO.BO')":4756
+  },
+  {
+    "('Date', '')":"2024-11-28",
+    "('Close', 'ULTRACEMCO.BO')":10928.3955078125,
+    "('High', 'ULTRACEMCO.BO')":11142.7364157863,
+    "('Low', 'ULTRACEMCO.BO')":10893.1687105436,
+    "('Open', 'ULTRACEMCO.BO')":11142.7364157863,
+    "('Volume', 'ULTRACEMCO.BO')":4419
+  },
+  {
+    "('Date', '')":"2024-11-29",
+    "('Close', 'ULTRACEMCO.BO')":11128.923828125,
+    "('High', 'ULTRACEMCO.BO')":11166.7338533978,
+    "('Low', 'ULTRACEMCO.BO')":10869.7180213184,
+    "('Open', 'ULTRACEMCO.BO')":10869.7180213184,
+    "('Volume', 'ULTRACEMCO.BO')":11993
+  },
+  {
+    "('Date', '')":"2024-12-02",
+    "('Close', 'ULTRACEMCO.BO')":11583.689453125,
+    "('High', 'ULTRACEMCO.BO')":11702.7837951861,
+    "('Low', 'ULTRACEMCO.BO')":11138.5621467861,
+    "('Open', 'ULTRACEMCO.BO')":11203.8978039597,
+    "('Volume', 'ULTRACEMCO.BO')":11261
+  },
+  {
+    "('Date', '')":"2024-12-03",
+    "('Close', 'ULTRACEMCO.BO')":11774.77734375,
+    "('High', 'ULTRACEMCO.BO')":11857.3037852742,
+    "('Low', 'ULTRACEMCO.BO')":11557.7037776262,
+    "('Open', 'ULTRACEMCO.BO')":11626.2194626774,
+    "('Volume', 'ULTRACEMCO.BO')":7123
+  },
+  {
+    "('Date', '')":"2024-12-04",
+    "('Close', 'ULTRACEMCO.BO')":11688.0771484375,
+    "('High', 'ULTRACEMCO.BO')":11873.6502870702,
+    "('Low', 'ULTRACEMCO.BO')":11670.9853453358,
+    "('Open', 'ULTRACEMCO.BO')":11873.6502870702,
+    "('Volume', 'ULTRACEMCO.BO')":3422
+  },
+  {
+    "('Date', '')":"2024-12-05",
+    "('Close', 'ULTRACEMCO.BO')":11847.2685546875,
+    "('High', 'ULTRACEMCO.BO')":11924.3791517051,
+    "('Low', 'ULTRACEMCO.BO')":11602.6693391748,
+    "('Open', 'ULTRACEMCO.BO')":11602.6693391748,
+    "('Volume', 'ULTRACEMCO.BO')":9669
+  },
+  {
+    "('Date', '')":"2024-12-06",
+    "('Close', 'ULTRACEMCO.BO')":11778.255859375,
+    "('High', 'ULTRACEMCO.BO')":11888.6553467206,
+    "('Low', 'ULTRACEMCO.BO')":11739.8490338721,
+    "('Open', 'ULTRACEMCO.BO')":11869.7255891511,
+    "('Volume', 'ULTRACEMCO.BO')":4395
+  },
+  {
+    "('Date', '')":"2024-12-09",
+    "('Close', 'ULTRACEMCO.BO')":11735.775390625,
+    "('High', 'ULTRACEMCO.BO')":11783.1245304943,
+    "('Low', 'ULTRACEMCO.BO')":11646.0941226119,
+    "('Open', 'ULTRACEMCO.BO')":11700.8465086039,
+    "('Volume', 'ULTRACEMCO.BO')":4650
+  },
+  {
+    "('Date', '')":"2024-12-10",
+    "('Close', 'ULTRACEMCO.BO')":11672.029296875,
+    "('High', 'ULTRACEMCO.BO')":11736.520702356,
+    "('Low', 'ULTRACEMCO.BO')":11626.2696859109,
+    "('Open', 'ULTRACEMCO.BO')":11736.520702356,
+    "('Volume', 'ULTRACEMCO.BO')":2048
+  },
+  {
+    "('Date', '')":"2024-12-11",
+    "('Close', 'ULTRACEMCO.BO')":11811.693359375,
+    "('High', 'ULTRACEMCO.BO')":11981.5167803194,
+    "('Low', 'ULTRACEMCO.BO')":11775.5728157561,
+    "('Open', 'ULTRACEMCO.BO')":11788.3919114846,
+    "('Volume', 'ULTRACEMCO.BO')":36486
+  },
+  {
+    "('Date', '')":"2024-12-12",
+    "('Close', 'ULTRACEMCO.BO')":11796.4892578125,
+    "('High', 'ULTRACEMCO.BO')":11872.1102731431,
+    "('Low', 'ULTRACEMCO.BO')":11703.3300514817,
+    "('Open', 'ULTRACEMCO.BO')":11823.567533786,
+    "('Volume', 'ULTRACEMCO.BO')":6746
+  },
+  {
+    "('Date', '')":"2024-12-13",
+    "('Close', 'ULTRACEMCO.BO')":12016.693359375,
+    "('High', 'ULTRACEMCO.BO')":12041.5853052208,
+    "('Low', 'ULTRACEMCO.BO')":11656.2788279004,
+    "('Open', 'ULTRACEMCO.BO')":11800.1166424514,
+    "('Volume', 'ULTRACEMCO.BO')":8550
+  },
+  {
+    "('Date', '')":"2024-12-16",
+    "('Close', 'ULTRACEMCO.BO')":11861.1796875,
+    "('High', 'ULTRACEMCO.BO')":12067.3720658228,
+    "('Low', 'ULTRACEMCO.BO')":11796.2904181396,
+    "('Open', 'ULTRACEMCO.BO')":12006.8554567445,
+    "('Volume', 'ULTRACEMCO.BO')":5420
+  },
+  {
+    "('Date', '')":"2024-12-17",
+    "('Close', 'ULTRACEMCO.BO')":11702.7841796875,
+    "('High', 'ULTRACEMCO.BO')":11890.5436563328,
+    "('Low', 'ULTRACEMCO.BO')":11611.4134323815,
+    "('Open', 'ULTRACEMCO.BO')":11890.5436563328,
+    "('Volume', 'ULTRACEMCO.BO')":3636
+  },
+  {
+    "('Date', '')":"2024-12-18",
+    "('Close', 'ULTRACEMCO.BO')":11689.767578125,
+    "('High', 'ULTRACEMCO.BO')":11822.9726384074,
+    "('Low', 'ULTRACEMCO.BO')":11628.8036064339,
+    "('Open', 'ULTRACEMCO.BO')":11822.9726384074,
+    "('Volume', 'ULTRACEMCO.BO')":8241
+  },
+  {
+    "('Date', '')":"2024-12-19",
+    "('Close', 'ULTRACEMCO.BO')":11601.27734375,
+    "('High', 'ULTRACEMCO.BO')":11671.7804269548,
+    "('Low', 'ULTRACEMCO.BO')":11456.4962885723,
+    "('Open', 'ULTRACEMCO.BO')":11456.4962885723,
+    "('Volume', 'ULTRACEMCO.BO')":8788
+  },
+  {
+    "('Date', '')":"2024-12-20",
+    "('Close', 'ULTRACEMCO.BO')":11352.7041015625,
+    "('High', 'ULTRACEMCO.BO')":11630.1943259154,
+    "('Low', 'ULTRACEMCO.BO')":11328.4574771441,
+    "('Open', 'ULTRACEMCO.BO')":11601.2771258416,
+    "('Volume', 'ULTRACEMCO.BO')":4245
+  },
+  {
+    "('Date', '')":"2024-12-23",
+    "('Close', 'ULTRACEMCO.BO')":11395.6328125,
+    "('High', 'ULTRACEMCO.BO')":11512.3923595714,
+    "('Low', 'ULTRACEMCO.BO')":11293.0334658182,
+    "('Open', 'ULTRACEMCO.BO')":11512.3923595714,
+    "('Volume', 'ULTRACEMCO.BO')":2493
+  },
+  {
+    "('Date', '')":"2024-12-24",
+    "('Close', 'ULTRACEMCO.BO')":11323.7373046875,
+    "('High', 'ULTRACEMCO.BO')":11480.2447708525,
+    "('Low', 'ULTRACEMCO.BO')":11300.3359062093,
+    "('Open', 'ULTRACEMCO.BO')":11426.5850681673,
+    "('Volume', 'ULTRACEMCO.BO')":3223
+  },
+  {
+    "('Date', '')":"2024-12-26",
+    "('Close', 'ULTRACEMCO.BO')":11385.0986328125,
+    "('High', 'ULTRACEMCO.BO')":11412.624268098,
+    "('Low', 'ULTRACEMCO.BO')":11277.4813076748,
+    "('Open', 'ULTRACEMCO.BO')":11298.3984615115,
+    "('Volume', 'ULTRACEMCO.BO')":28440
+  },
+  {
+    "('Date', '')":"2024-12-27",
+    "('Close', 'ULTRACEMCO.BO')":11328.16015625,
+    "('High', 'ULTRACEMCO.BO')":11521.7818739152,
+    "('Low', 'ULTRACEMCO.BO')":11303.3671905983,
+    "('Open', 'ULTRACEMCO.BO')":11521.7818739152,
+    "('Volume', 'ULTRACEMCO.BO')":4124
+  },
+  {
+    "('Date', '')":"2024-12-30",
+    "('Close', 'ULTRACEMCO.BO')":11224.9140625,
+    "('High', 'ULTRACEMCO.BO')":11430.609593815,
+    "('Low', 'ULTRACEMCO.BO')":11174.7827636826,
+    "('Open', 'ULTRACEMCO.BO')":11278.6737183882,
+    "('Volume', 'ULTRACEMCO.BO')":1409
+  },
+  {
+    "('Date', '')":"2024-12-31",
+    "('Close', 'ULTRACEMCO.BO')":11350.46875,
+    "('High', 'ULTRACEMCO.BO')":11381.7207539897,
+    "('Low', 'ULTRACEMCO.BO')":11124.5508710114,
+    "('Open', 'ULTRACEMCO.BO')":11208.4193913285,
+    "('Volume', 'ULTRACEMCO.BO')":1821
+  },
+  {
+    "('Date', '')":"2025-01-01",
+    "('Close', 'ULTRACEMCO.BO')":11378.0439453125,
+    "('High', 'ULTRACEMCO.BO')":11446.0123236606,
+    "('Low', 'ULTRACEMCO.BO')":11233.7587647084,
+    "('Open', 'ULTRACEMCO.BO')":11417.5434509204,
+    "('Volume', 'ULTRACEMCO.BO')":1088
+  },
+  {
+    "('Date', '')":"2025-01-02",
+    "('Close', 'ULTRACEMCO.BO')":11717.7890625,
+    "('High', 'ULTRACEMCO.BO')":11750.4821239724,
+    "('Low', 'ULTRACEMCO.BO')":11391.0117723151,
+    "('Open', 'ULTRACEMCO.BO')":11397.5203019469,
+    "('Volume', 'ULTRACEMCO.BO')":4331
+  },
+  {
+    "('Date', '')":"2025-01-03",
+    "('Close', 'ULTRACEMCO.BO')":11716.646484375,
+    "('High', 'ULTRACEMCO.BO')":11783.4232003407,
+    "('Low', 'ULTRACEMCO.BO')":11639.3369552041,
+    "('Open', 'ULTRACEMCO.BO')":11697.8651994318,
+    "('Volume', 'ULTRACEMCO.BO')":5877
+  },
+  {
+    "('Date', '')":"2025-01-06",
+    "('Close', 'ULTRACEMCO.BO')":11432.0009765625,
+    "('High', 'ULTRACEMCO.BO')":11775.5721302542,
+    "('Low', 'ULTRACEMCO.BO')":11377.8444244983,
+    "('Open', 'ULTRACEMCO.BO')":11482.3321787085,
+    "('Volume', 'ULTRACEMCO.BO')":3094
+  },
+  {
+    "('Date', '')":"2025-01-07",
+    "('Close', 'ULTRACEMCO.BO')":11541.7060546875,
+    "('High', 'ULTRACEMCO.BO')":11563.6663975877,
+    "('Low', 'ULTRACEMCO.BO')":11407.8547079243,
+    "('Open', 'ULTRACEMCO.BO')":11407.8547079243,
+    "('Volume', 'ULTRACEMCO.BO')":2726
+  },
+  {
+    "('Date', '')":"2025-01-08",
+    "('Close', 'ULTRACEMCO.BO')":11325.328125,
+    "('High', 'ULTRACEMCO.BO')":11545.7796882821,
+    "('Low', 'ULTRACEMCO.BO')":11310.2732087122,
+    "('Open', 'ULTRACEMCO.BO')":11541.804895378,
+    "('Volume', 'ULTRACEMCO.BO')":2338
+  },
+  {
+    "('Date', '')":"2025-01-09",
+    "('Close', 'ULTRACEMCO.BO')":11197.1416015625,
+    "('High', 'ULTRACEMCO.BO')":11333.0793314517,
+    "('Low', 'ULTRACEMCO.BO')":11109.5962013215,
+    "('Open', 'ULTRACEMCO.BO')":11332.3835485778,
+    "('Volume', 'ULTRACEMCO.BO')":1389
+  },
+  {
+    "('Date', '')":"2025-01-10",
+    "('Close', 'ULTRACEMCO.BO')":10797.7236328125,
+    "('High', 'ULTRACEMCO.BO')":11208.9157560954,
+    "('Low', 'ULTRACEMCO.BO')":10769.3032818951,
+    "('Open', 'ULTRACEMCO.BO')":11099.7079351665,
+    "('Volume', 'ULTRACEMCO.BO')":3349
+  },
+  {
+    "('Date', '')":"2025-01-13",
+    "('Close', 'ULTRACEMCO.BO')":10545.275390625,
+    "('High', 'ULTRACEMCO.BO')":10761.7521686613,
+    "('Low', 'ULTRACEMCO.BO')":10527.8856710542,
+    "('Open', 'ULTRACEMCO.BO')":10662.3823425426,
+    "('Volume', 'ULTRACEMCO.BO')":2944
+  },
+  {
+    "('Date', '')":"2025-01-14",
+    "('Close', 'ULTRACEMCO.BO')":10413.9580078125,
+    "('High', 'ULTRACEMCO.BO')":10659.6004174983,
+    "('Low', 'ULTRACEMCO.BO')":10396.17042038,
+    "('Open', 'ULTRACEMCO.BO')":10545.1261811933,
+    "('Volume', 'ULTRACEMCO.BO')":11645
+  },
+  {
+    "('Date', '')":"2025-01-15",
+    "('Close', 'ULTRACEMCO.BO')":10458.1767578125,
+    "('High', 'ULTRACEMCO.BO')":10577.5195240615,
+    "('Low', 'ULTRACEMCO.BO')":10414.0066785216,
+    "('Open', 'ULTRACEMCO.BO')":10468.6105889643,
+    "('Volume', 'ULTRACEMCO.BO')":6731
+  },
+  {
+    "('Date', '')":"2025-01-16",
+    "('Close', 'ULTRACEMCO.BO')":10575.185546875,
+    "('High', 'ULTRACEMCO.BO')":10736.9099423509,
+    "('Low', 'ULTRACEMCO.BO')":10488.9327300362,
+    "('Open', 'ULTRACEMCO.BO')":10488.9327300362,
+    "('Volume', 'ULTRACEMCO.BO')":63264
+  },
+  {
+    "('Date', '')":"2025-01-17",
+    "('Close', 'ULTRACEMCO.BO')":10519.2900390625,
+    "('High', 'ULTRACEMCO.BO')":10652.4456091772,
+    "('Low', 'ULTRACEMCO.BO')":10436.9120631192,
+    "('Open', 'ULTRACEMCO.BO')":10578.6635115577,
+    "('Volume', 'ULTRACEMCO.BO')":3372
+  },
+  {
+    "('Date', '')":"2025-01-20",
+    "('Close', 'ULTRACEMCO.BO')":10557.19921875,
+    "('High', 'ULTRACEMCO.BO')":10582.8859292977,
+    "('Low', 'ULTRACEMCO.BO')":10423.4963483588,
+    "('Open', 'ULTRACEMCO.BO')":10520.3819237678,
+    "('Volume', 'ULTRACEMCO.BO')":2127
+  },
+  {
+    "('Date', '')":"2025-01-21",
+    "('Close', 'ULTRACEMCO.BO')":10598.6865234375,
+    "('High', 'ULTRACEMCO.BO')":10895.9012810246,
+    "('Low', 'ULTRACEMCO.BO')":10572.9493506705,
+    "('Open', 'ULTRACEMCO.BO')":10681.8087995743,
+    "('Volume', 'ULTRACEMCO.BO')":29941
+  },
+  {
+    "('Date', '')":"2025-01-22",
+    "('Close', 'ULTRACEMCO.BO')":10626.7080078125,
+    "('High', 'ULTRACEMCO.BO')":10730.9968326492,
+    "('Low', 'ULTRACEMCO.BO')":10568.4281880206,
+    "('Open', 'ULTRACEMCO.BO')":10598.7359844763,
+    "('Volume', 'ULTRACEMCO.BO')":1300
+  },
+  {
+    "('Date', '')":"2025-01-23",
+    "('Close', 'ULTRACEMCO.BO')":11350.716796875,
+    "('High', 'ULTRACEMCO.BO')":11490.6788023229,
+    "('Low', 'ULTRACEMCO.BO')":10632.5214118374,
+    "('Open', 'ULTRACEMCO.BO')":10632.5214118374,
+    "('Volume', 'ULTRACEMCO.BO')":30822
+  },
+  {
+    "('Date', '')":"2025-01-24",
+    "('Close', 'ULTRACEMCO.BO')":11216.5185546875,
+    "('High', 'ULTRACEMCO.BO')":11532.9609893152,
+    "('Low', 'ULTRACEMCO.BO')":11159.2314618247,
+    "('Open', 'ULTRACEMCO.BO')":11228.740849206,
+    "('Volume', 'ULTRACEMCO.BO')":20680
+  },
+  {
+    "('Date', '')":"2025-01-27",
+    "('Close', 'ULTRACEMCO.BO')":11169.267578125,
+    "('High', 'ULTRACEMCO.BO')":11280.6617368526,
+    "('Low', 'ULTRACEMCO.BO')":11074.8662421229,
+    "('Open', 'ULTRACEMCO.BO')":11198.9795446722,
+    "('Volume', 'ULTRACEMCO.BO')":4881
+  },
+  {
+    "('Date', '')":"2025-01-28",
+    "('Close', 'ULTRACEMCO.BO')":11210.5556640625,
+    "('High', 'ULTRACEMCO.BO')":11328.159457637,
+    "('Low', 'ULTRACEMCO.BO')":10945.3372268427,
+    "('Open', 'ULTRACEMCO.BO')":10945.3372268427,
+    "('Volume', 'ULTRACEMCO.BO')":7347
+  },
+  {
+    "('Date', '')":"2025-01-29",
+    "('Close', 'ULTRACEMCO.BO')":11472.6435546875,
+    "('High', 'ULTRACEMCO.BO')":11504.0440295572,
+    "('Low', 'ULTRACEMCO.BO')":11200.0218720271,
+    "('Open', 'ULTRACEMCO.BO')":11229.2864780177,
+    "('Volume', 'ULTRACEMCO.BO')":3452
+  },
+  {
+    "('Date', '')":"2025-01-30",
+    "('Close', 'ULTRACEMCO.BO')":11414.9091796875,
+    "('High', 'ULTRACEMCO.BO')":11532.1160768792,
+    "('Low', 'ULTRACEMCO.BO')":11380.2791854568,
+    "('Open', 'ULTRACEMCO.BO')":11392.7993946583,
+    "('Volume', 'ULTRACEMCO.BO')":5521
+  },
+  {
+    "('Date', '')":"2025-01-31",
+    "('Close', 'ULTRACEMCO.BO')":11430.80859375,
+    "('High', 'ULTRACEMCO.BO')":11525.9057079325,
+    "('Low', 'ULTRACEMCO.BO')":11318.2722698063,
+    "('Open', 'ULTRACEMCO.BO')":11382.3163144679,
+    "('Volume', 'ULTRACEMCO.BO')":4291
+  },
+  {
+    "('Date', '')":"2025-02-01",
+    "('Close', 'ULTRACEMCO.BO')":11198.830078125,
+    "('High', 'ULTRACEMCO.BO')":11715.2552639617,
+    "('Low', 'ULTRACEMCO.BO')":10732.0907762772,
+    "('Open', 'ULTRACEMCO.BO')":11576.3859305044,
+    "('Volume', 'ULTRACEMCO.BO')":18013
+  },
+  {
+    "('Date', '')":"2025-02-03",
+    "('Close', 'ULTRACEMCO.BO')":11103.0869140625,
+    "('High', 'ULTRACEMCO.BO')":11208.9157730903,
+    "('Low', 'ULTRACEMCO.BO')":10883.5291011808,
+    "('Open', 'ULTRACEMCO.BO')":11154.0634379914,
+    "('Volume', 'ULTRACEMCO.BO')":6300
+  },
+  {
+    "('Date', '')":"2025-02-04",
+    "('Close', 'ULTRACEMCO.BO')":11452.421875,
+    "('High', 'ULTRACEMCO.BO')":11470.4578864842,
+    "('Low', 'ULTRACEMCO.BO')":11036.8570708481,
+    "('Open', 'ULTRACEMCO.BO')":11169.1188907793,
+    "('Volume', 'ULTRACEMCO.BO')":4993
+  },
+  {
+    "('Date', '')":"2025-02-05",
+    "('Close', 'ULTRACEMCO.BO')":11511.8447265625,
+    "('High', 'ULTRACEMCO.BO')":11563.7159690383,
+    "('Low', 'ULTRACEMCO.BO')":11368.5037547071,
+    "('Open', 'ULTRACEMCO.BO')":11430.4119317035,
+    "('Volume', 'ULTRACEMCO.BO')":3971
+  },
+  {
+    "('Date', '')":"2025-02-06",
+    "('Close', 'ULTRACEMCO.BO')":11402.2890625,
+    "('High', 'ULTRACEMCO.BO')":11536.0909142901,
+    "('Low', 'ULTRACEMCO.BO')":11258.6006898729,
+    "('Open', 'ULTRACEMCO.BO')":11536.0909142901,
+    "('Volume', 'ULTRACEMCO.BO')":3634
+  },
+  {
+    "('Date', '')":"2025-02-07",
+    "('Close', 'ULTRACEMCO.BO')":11576.5849609375,
+    "('High', 'ULTRACEMCO.BO')":11652.9007947528,
+    "('Low', 'ULTRACEMCO.BO')":11400.601383729,
+    "('Open', 'ULTRACEMCO.BO')":11437.4672017503,
+    "('Volume', 'ULTRACEMCO.BO')":6457
+  },
+  {
+    "('Date', '')":"2025-02-10",
+    "('Close', 'ULTRACEMCO.BO')":11459.4267578125,
+    "('High', 'ULTRACEMCO.BO')":11538.7741422537,
+    "('Low', 'ULTRACEMCO.BO')":11419.1819802428,
+    "('Open', 'ULTRACEMCO.BO')":11427.5789242124,
+    "('Volume', 'ULTRACEMCO.BO')":3106
+  },
+  {
+    "('Date', '')":"2025-02-11",
+    "('Close', 'ULTRACEMCO.BO')":11229.486328125,
+    "('High', 'ULTRACEMCO.BO')":11445.8146374014,
+    "('Low', 'ULTRACEMCO.BO')":11171.7023850761,
+    "('Open', 'ULTRACEMCO.BO')":11378.0442207369,
+    "('Volume', 'ULTRACEMCO.BO')":5860
+  },
+  {
+    "('Date', '')":"2025-02-12",
+    "('Close', 'ULTRACEMCO.BO')":11407.2578125,
+    "('High', 'ULTRACEMCO.BO')":11525.8562784909,
+    "('Low', 'ULTRACEMCO.BO')":11000.4383393989,
+    "('Open', 'ULTRACEMCO.BO')":11387.7322245263,
+    "('Volume', 'ULTRACEMCO.BO')":6317
+  },
+  {
+    "('Date', '')":"2025-02-13",
+    "('Close', 'ULTRACEMCO.BO')":11470.408203125,
+    "('High', 'ULTRACEMCO.BO')":11574.7465181058,
+    "('Low', 'ULTRACEMCO.BO')":11365.3741052959,
+    "('Open', 'ULTRACEMCO.BO')":11388.0797218689,
+    "('Volume', 'ULTRACEMCO.BO')":3079
+  },
+  {
+    "('Date', '')":"2025-02-14",
+    "('Close', 'ULTRACEMCO.BO')":11186.6572265625,
+    "('High', 'ULTRACEMCO.BO')":11504.4921996253,
+    "('Low', 'ULTRACEMCO.BO')":11105.969703579,
+    "('Open', 'ULTRACEMCO.BO')":11472.2959875992,
+    "('Volume', 'ULTRACEMCO.BO')":4157
+  },
+  {
+    "('Date', '')":"2025-02-17",
+    "('Close', 'ULTRACEMCO.BO')":11409.79296875,
+    "('High', 'ULTRACEMCO.BO')":11429.0206420938,
+    "('Low', 'ULTRACEMCO.BO')":10981.0616564636,
+    "('Open', 'ULTRACEMCO.BO')":11174.087545237,
+    "('Volume', 'ULTRACEMCO.BO')":5340
+  },
+  {
+    "('Date', '')":"2025-02-18",
+    "('Close', 'ULTRACEMCO.BO')":11251.8935546875,
+    "('High', 'ULTRACEMCO.BO')":11385.2480520866,
+    "('Low', 'ULTRACEMCO.BO')":11180.6451970599,
+    "('Open', 'ULTRACEMCO.BO')":11367.9078237807,
+    "('Volume', 'ULTRACEMCO.BO')":3752
+  },
+  {
+    "('Date', '')":"2025-02-19",
+    "('Close', 'ULTRACEMCO.BO')":11217.859375,
+    "('High', 'ULTRACEMCO.BO')":11384.3038293638,
+    "('Low', 'ULTRACEMCO.BO')":11179.1051438347,
+    "('Open', 'ULTRACEMCO.BO')":11238.7270379352,
+    "('Volume', 'ULTRACEMCO.BO')":1692
+  },
+  {
+    "('Date', '')":"2025-02-20",
+    "('Close', 'ULTRACEMCO.BO')":11208.8662109375,
+    "('High', 'ULTRACEMCO.BO')":11258.0542718628,
+    "('Low', 'ULTRACEMCO.BO')":11175.5773212204,
+    "('Open', 'ULTRACEMCO.BO')":11248.2657623427,
+    "('Volume', 'ULTRACEMCO.BO')":13926
+  },
+  {
+    "('Date', '')":"2025-02-21",
+    "('Close', 'ULTRACEMCO.BO')":11087.93359375,
+    "('High', 'ULTRACEMCO.BO')":11198.9793741458,
+    "('Low', 'ULTRACEMCO.BO')":10930.6808443304,
+    "('Open', 'ULTRACEMCO.BO')":11198.9793741458,
+    "('Volume', 'ULTRACEMCO.BO')":7026
+  },
+  {
+    "('Date', '')":"2025-02-24",
+    "('Close', 'ULTRACEMCO.BO')":10973.7568359375,
+    "('High', 'ULTRACEMCO.BO')":11099.6091035063,
+    "('Low', 'ULTRACEMCO.BO')":10930.6804063178,
+    "('Open', 'ULTRACEMCO.BO')":10980.3158264263,
+    "('Volume', 'ULTRACEMCO.BO')":5710
+  },
+  {
+    "('Date', '')":"2025-02-25",
+    "('Close', 'ULTRACEMCO.BO')":10899.330078125,
+    "('High', 'ULTRACEMCO.BO')":10976.3911855497,
+    "('Low', 'ULTRACEMCO.BO')":10768.3608390856,
+    "('Open', 'ULTRACEMCO.BO')":10976.3911855497,
+    "('Volume', 'ULTRACEMCO.BO')":10765
+  },
+  {
+    "('Date', '')":"2025-02-27",
+    "('Close', 'ULTRACEMCO.BO')":10354.982421875,
+    "('High', 'ULTRACEMCO.BO')":10731.941478131,
+    "('Low', 'ULTRACEMCO.BO')":10201.9024247421,
+    "('Open', 'ULTRACEMCO.BO')":10728.1161278971,
+    "('Volume', 'ULTRACEMCO.BO')":210785
+  },
+  {
+    "('Date', '')":"2025-02-28",
+    "('Close', 'ULTRACEMCO.BO')":10050.263671875,
+    "('High', 'ULTRACEMCO.BO')":10436.3154255356,
+    "('Low', 'ULTRACEMCO.BO')":9989.6480812101,
+    "('Open', 'ULTRACEMCO.BO')":10382.208364049,
+    "('Volume', 'ULTRACEMCO.BO')":6873
+  },
+  {
+    "('Date', '')":"2025-03-03",
+    "('Close', 'ULTRACEMCO.BO')":10276.677734375,
+    "('High', 'ULTRACEMCO.BO')":10545.9204660396,
+    "('Low', 'ULTRACEMCO.BO')":10222.4716895744,
+    "('Open', 'ULTRACEMCO.BO')":10249.9973248484,
+    "('Volume', 'ULTRACEMCO.BO')":11958
+  },
+  {
+    "('Date', '')":"2025-03-04",
+    "('Close', 'ULTRACEMCO.BO')":10310.7119140625,
+    "('High', 'ULTRACEMCO.BO')":10386.6803385492,
+    "('Low', 'ULTRACEMCO.BO')":10178.8984248462,
+    "('Open', 'ULTRACEMCO.BO')":10235.0423753744,
+    "('Volume', 'ULTRACEMCO.BO')":5797
+  },
+  {
+    "('Date', '')":"2025-03-05",
+    "('Close', 'ULTRACEMCO.BO')":10397.51171875,
+    "('High', 'ULTRACEMCO.BO')":10433.9301758638,
+    "('Low', 'ULTRACEMCO.BO')":10227.7377975021,
+    "('Open', 'ULTRACEMCO.BO')":10333.1697597191,
+    "('Volume', 'ULTRACEMCO.BO')":5066
+  },
+  {
+    "('Date', '')":"2025-03-06",
+    "('Close', 'ULTRACEMCO.BO')":10422.8515625,
+    "('High', 'ULTRACEMCO.BO')":10459.419464401,
+    "('Low', 'ULTRACEMCO.BO')":10254.4691981936,
+    "('Open', 'ULTRACEMCO.BO')":10443.7687167997,
+    "('Volume', 'ULTRACEMCO.BO')":3590
+  },
+  {
+    "('Date', '')":"2025-03-07",
+    "('Close', 'ULTRACEMCO.BO')":10513.0791015625,
+    "('High', 'ULTRACEMCO.BO')":10541.8468600942,
+    "('Low', 'ULTRACEMCO.BO')":10335.5050295112,
+    "('Open', 'ULTRACEMCO.BO')":10335.5050295112,
+    "('Volume', 'ULTRACEMCO.BO')":6146
+  },
+  {
+    "('Date', '')":"2025-03-10",
+    "('Close', 'ULTRACEMCO.BO')":10448.1416015625,
+    "('High', 'ULTRACEMCO.BO')":10576.080255335,
+    "('Low', 'ULTRACEMCO.BO')":10401.0399148452,
+    "('Open', 'ULTRACEMCO.BO')":10557.9452616934,
+    "('Volume', 'ULTRACEMCO.BO')":3074
+  },
+  {
+    "('Date', '')":"2025-03-11",
+    "('Close', 'ULTRACEMCO.BO')":10373.2158203125,
+    "('High', 'ULTRACEMCO.BO')":10444.7620928542,
+    "('Low', 'ULTRACEMCO.BO')":10314.1402664724,
+    "('Open', 'ULTRACEMCO.BO')":10413.2616648896,
+    "('Volume', 'ULTRACEMCO.BO')":4140
+  },
+  {
+    "('Date', '')":"2025-03-12",
+    "('Close', 'ULTRACEMCO.BO')":10452.4140625,
+    "('High', 'ULTRACEMCO.BO')":10474.1259812781,
+    "('Low', 'ULTRACEMCO.BO')":10304.6509374255,
+    "('Open', 'ULTRACEMCO.BO')":10384.1962889119,
+    "('Volume', 'ULTRACEMCO.BO')":7650
+  },
+  {
+    "('Date', '')":"2025-03-13",
+    "('Close', 'ULTRACEMCO.BO')":10382.65625,
+    "('High', 'ULTRACEMCO.BO')":10531.6614978873,
+    "('Low', 'ULTRACEMCO.BO')":10322.3385716502,
+    "('Open', 'ULTRACEMCO.BO')":10531.6614978873,
+    "('Volume', 'ULTRACEMCO.BO')":1071
+  },
+  {
+    "('Date', '')":"2025-03-17",
+    "('Close', 'ULTRACEMCO.BO')":10481.330078125,
+    "('High', 'ULTRACEMCO.BO')":10510.7936190379,
+    "('Low', 'ULTRACEMCO.BO')":10383.9476508249,
+    "('Open', 'ULTRACEMCO.BO')":10458.6739523858,
+    "('Volume', 'ULTRACEMCO.BO')":14803
+  },
+  {
+    "('Date', '')":"2025-03-18",
+    "('Close', 'ULTRACEMCO.BO')":10632.0244140625,
+    "('High', 'ULTRACEMCO.BO')":10675.946068642,
+    "('Low', 'ULTRACEMCO.BO')":10479.8886371973,
+    "('Open', 'ULTRACEMCO.BO')":10532.1577448311,
+    "('Volume', 'ULTRACEMCO.BO')":4724
+  },
+  {
+    "('Date', '')":"2025-03-19",
+    "('Close', 'ULTRACEMCO.BO')":10865.7919921875,
+    "('High', 'ULTRACEMCO.BO')":10878.1637289623,
+    "('Low', 'ULTRACEMCO.BO')":10633.0181868973,
+    "('Open', 'ULTRACEMCO.BO')":10681.9578236553,
+    "('Volume', 'ULTRACEMCO.BO')":9198
+  },
+  {
+    "('Date', '')":"2025-03-20",
+    "('Close', 'ULTRACEMCO.BO')":10881.1455078125,
+    "('High', 'ULTRACEMCO.BO')":11035.9635043164,
+    "('Low', 'ULTRACEMCO.BO')":10745.9520817478,
+    "('Open', 'ULTRACEMCO.BO')":10864.1031943054,
+    "('Volume', 'ULTRACEMCO.BO')":13065
+  },
+  {
+    "('Date', '')":"2025-03-21",
+    "('Close', 'ULTRACEMCO.BO')":10909.8125,
+    "('High', 'ULTRACEMCO.BO')":10995.2210540758,
+    "('Low', 'ULTRACEMCO.BO')":10815.9080204254,
+    "('Open', 'ULTRACEMCO.BO')":10942.5055588301,
+    "('Volume', 'ULTRACEMCO.BO')":24178
+  },
+  {
+    "('Date', '')":"2025-03-24",
+    "('Close', 'ULTRACEMCO.BO')":10981.16015625,
+    "('High', 'ULTRACEMCO.BO')":11009.4310648471,
+    "('Low', 'ULTRACEMCO.BO')":10783.5636522731,
+    "('Open', 'ULTRACEMCO.BO')":10909.8128177409,
+    "('Volume', 'ULTRACEMCO.BO')":5072
+  },
+  {
+    "('Date', '')":"2025-03-25",
+    "('Close', 'ULTRACEMCO.BO')":11356.033203125,
+    "('High', 'ULTRACEMCO.BO')":11404.3275207934,
+    "('Low', 'ULTRACEMCO.BO')":11030.1001739307,
+    "('Open', 'ULTRACEMCO.BO')":11030.1001739307,
+    "('Volume', 'ULTRACEMCO.BO')":46535
+  },
+  {
+    "('Date', '')":"2025-03-26",
+    "('Close', 'ULTRACEMCO.BO')":11327.513671875,
+    "('High', 'ULTRACEMCO.BO')":11413.5190310855,
+    "('Low', 'ULTRACEMCO.BO')":11224.5669221209,
+    "('Open', 'ULTRACEMCO.BO')":11224.5669221209,
+    "('Volume', 'ULTRACEMCO.BO')":5423
+  },
+  {
+    "('Date', '')":"2025-03-27",
+    "('Close', 'ULTRACEMCO.BO')":11515.4716796875,
+    "('High', 'ULTRACEMCO.BO')":11551.7416642678,
+    "('Low', 'ULTRACEMCO.BO')":11271.6682125968,
+    "('Open', 'ULTRACEMCO.BO')":11327.2648509897,
+    "('Volume', 'ULTRACEMCO.BO')":3692
+  },
+  {
+    "('Date', '')":"2025-03-28",
+    "('Close', 'ULTRACEMCO.BO')":11432.0009765625,
+    "('High', 'ULTRACEMCO.BO')":11613.9971906077,
+    "('Low', 'ULTRACEMCO.BO')":11387.9803402507,
+    "('Open', 'ULTRACEMCO.BO')":11515.4716256156,
+    "('Volume', 'ULTRACEMCO.BO')":7714
+  },
+  {
+    "('Date', '')":"2025-04-01",
+    "('Close', 'ULTRACEMCO.BO')":11304.658203125,
+    "('High', 'ULTRACEMCO.BO')":11493.4113715276,
+    "('Low', 'ULTRACEMCO.BO')":11270.0282087925,
+    "('Open', 'ULTRACEMCO.BO')":11432.0010164488,
+    "('Volume', 'ULTRACEMCO.BO')":8449
+  },
+  {
+    "('Date', '')":"2025-04-02",
+    "('Close', 'ULTRACEMCO.BO')":11184.4716796875,
+    "('High', 'ULTRACEMCO.BO')":11319.6146417899,
+    "('Low', 'ULTRACEMCO.BO')":11114.5149346711,
+    "('Open', 'ULTRACEMCO.BO')":11319.6146417899,
+    "('Volume', 'ULTRACEMCO.BO')":6250
+  },
+  {
+    "('Date', '')":"2025-04-03",
+    "('Close', 'ULTRACEMCO.BO')":11534.650390625,
+    "('High', 'ULTRACEMCO.BO')":11571.119310603,
+    "('Low', 'ULTRACEMCO.BO')":11034.9201212833,
+    "('Open', 'ULTRACEMCO.BO')":11034.9201212833,
+    "('Volume', 'ULTRACEMCO.BO')":6494
+  },
+  {
+    "('Date', '')":"2025-04-04",
+    "('Close', 'ULTRACEMCO.BO')":11424.4990234375,
+    "('High', 'ULTRACEMCO.BO')":11533.8553192223,
+    "('Low', 'ULTRACEMCO.BO')":11353.0022419329,
+    "('Open', 'ULTRACEMCO.BO')":11533.8553192223,
+    "('Volume', 'ULTRACEMCO.BO')":6593
+  },
+  {
+    "('Date', '')":"2025-04-07",
+    "('Close', 'ULTRACEMCO.BO')":11122.1171875,
+    "('High', 'ULTRACEMCO.BO')":11222.0333531877,
+    "('Low', 'ULTRACEMCO.BO')":10950.5547952174,
+    "('Open', 'ULTRACEMCO.BO')":11129.4204815276,
+    "('Volume', 'ULTRACEMCO.BO')":5200
+  },
+  {
+    "('Date', '')":"2025-04-08",
+    "('Close', 'ULTRACEMCO.BO')":11205.6865234375,
+    "('High', 'ULTRACEMCO.BO')":11465.2901862169,
+    "('Low', 'ULTRACEMCO.BO')":11165.6901696504,
+    "('Open', 'ULTRACEMCO.BO')":11328.1598303756,
+    "('Volume', 'ULTRACEMCO.BO')":76025
+  },
+  {
+    "('Date', '')":"2025-04-09",
+    "('Close', 'ULTRACEMCO.BO')":11321.25390625,
+    "('High', 'ULTRACEMCO.BO')":11348.0342687681,
+    "('Low', 'ULTRACEMCO.BO')":11104.0813429377,
+    "('Open', 'ULTRACEMCO.BO')":11199.6753108071,
+    "('Volume', 'ULTRACEMCO.BO')":3513
+  },
+  {
+    "('Date', '')":"2025-04-11",
+    "('Close', 'ULTRACEMCO.BO')":11433.6416015625,
+    "('High', 'ULTRACEMCO.BO')":11794.1551355498,
+    "('Low', 'ULTRACEMCO.BO')":11387.7820387839,
+    "('Open', 'ULTRACEMCO.BO')":11794.1551355498,
+    "('Volume', 'ULTRACEMCO.BO')":4606
+  },
+  {
+    "('Date', '')":"2025-04-15",
+    "('Close', 'ULTRACEMCO.BO')":11644.2548828125,
+    "('High', 'ULTRACEMCO.BO')":11670.9362626293,
+    "('Low', 'ULTRACEMCO.BO')":11521.7815755231,
+    "('Open', 'ULTRACEMCO.BO')":11576.5349304387,
+    "('Volume', 'ULTRACEMCO.BO')":11311
+  },
+  {
+    "('Date', '')":"2025-04-16",
+    "('Close', 'ULTRACEMCO.BO')":11652.900390625,
+    "('High', 'ULTRACEMCO.BO')":11753.1154409234,
+    "('Low', 'ULTRACEMCO.BO')":11595.3153832197,
+    "('Open', 'ULTRACEMCO.BO')":11645.1497383922,
+    "('Volume', 'ULTRACEMCO.BO')":1872
+  },
+  {
+    "('Date', '')":"2025-04-17",
+    "('Close', 'ULTRACEMCO.BO')":11827.990234375,
+    "('High', 'ULTRACEMCO.BO')":11850.2494632718,
+    "('Low', 'ULTRACEMCO.BO')":11527.5459575494,
+    "('Open', 'ULTRACEMCO.BO')":11626.2694902283,
+    "('Volume', 'ULTRACEMCO.BO')":3786
+  },
+  {
+    "('Date', '')":"2025-04-21",
+    "('Close', 'ULTRACEMCO.BO')":11858.1484375,
+    "('High', 'ULTRACEMCO.BO')":12027.6739385364,
+    "('Low', 'ULTRACEMCO.BO')":11717.8885139573,
+    "('Open', 'ULTRACEMCO.BO')":11736.1719792255,
+    "('Volume', 'ULTRACEMCO.BO')":6700
+  },
+  {
+    "('Date', '')":"2025-04-22",
+    "('Close', 'ULTRACEMCO.BO')":11884.2333984375,
+    "('High', 'ULTRACEMCO.BO')":11943.9057556604,
+    "('Low', 'ULTRACEMCO.BO')":11778.8024005379,
+    "('Open', 'ULTRACEMCO.BO')":11858.7951109816,
+    "('Volume', 'ULTRACEMCO.BO')":3679
+  },
+  {
+    "('Date', '')":"2025-04-23",
+    "('Close', 'ULTRACEMCO.BO')":11872.8564453125,
+    "('High', 'ULTRACEMCO.BO')":11957.2208467052,
+    "('Low', 'ULTRACEMCO.BO')":11755.4506058322,
+    "('Open', 'ULTRACEMCO.BO')":11953.1470719367,
+    "('Volume', 'ULTRACEMCO.BO')":4104
+  },
+  {
+    "('Date', '')":"2025-04-24",
+    "('Close', 'ULTRACEMCO.BO')":12086.5009765625,
+    "('High', 'ULTRACEMCO.BO')":12111.095007678,
+    "('Low', 'ULTRACEMCO.BO')":11797.2348404697,
+    "('Open', 'ULTRACEMCO.BO')":11869.6263385437,
+    "('Volume', 'ULTRACEMCO.BO')":5494
+  },
+  {
+    "('Date', '')":"2025-04-25",
+    "('Close', 'ULTRACEMCO.BO')":12159.0908203125,
+    "('High', 'ULTRACEMCO.BO')":12222.4885751,
+    "('Low', 'ULTRACEMCO.BO')":11792.8130601177,
+    "('Open', 'ULTRACEMCO.BO')":12068.4653450886,
+    "('Volume', 'ULTRACEMCO.BO')":10446
+  },
+  {
+    "('Date', '')":"2025-04-28",
+    "('Close', 'ULTRACEMCO.BO')":12031.9462890625,
+    "('High', 'ULTRACEMCO.BO')":12263.2295462449,
+    "('Low', 'ULTRACEMCO.BO')":11944.2524224831,
+    "('Open', 'ULTRACEMCO.BO')":12215.035183309,
+    "('Volume', 'ULTRACEMCO.BO')":6078
+  },
+  {
+    "('Date', '')":"2025-04-29",
+    "('Close', 'ULTRACEMCO.BO')":11792.16796875,
+    "('High', 'ULTRACEMCO.BO')":12123.2179676678,
+    "('Low', 'ULTRACEMCO.BO')":11733.4398183022,
+    "('Open', 'ULTRACEMCO.BO')":12123.1684768356,
+    "('Volume', 'ULTRACEMCO.BO')":11147
+  },
+  {
+    "('Date', '')":"2025-04-30",
+    "('Close', 'ULTRACEMCO.BO')":11565.90234375,
+    "('High', 'ULTRACEMCO.BO')":11839.4672775962,
+    "('Low', 'ULTRACEMCO.BO')":11477.2147750338,
+    "('Open', 'ULTRACEMCO.BO')":11824.7607375938,
+    "('Volume', 'ULTRACEMCO.BO')":5566
+  },
+  {
+    "('Date', '')":"2025-05-02",
+    "('Close', 'ULTRACEMCO.BO')":11569.7783203125,
+    "('High', 'ULTRACEMCO.BO')":11666.9123255317,
+    "('Low', 'ULTRACEMCO.BO')":11412.4256181037,
+    "('Open', 'ULTRACEMCO.BO')":11565.8530180915,
+    "('Volume', 'ULTRACEMCO.BO')":2830
+  },
+  {
+    "('Date', '')":"2025-05-05",
+    "('Close', 'ULTRACEMCO.BO')":11587.763671875,
+    "('High', 'ULTRACEMCO.BO')":11702.4368376338,
+    "('Low', 'ULTRACEMCO.BO')":11574.6961517759,
+    "('Open', 'ULTRACEMCO.BO')":11702.4368376338,
+    "('Volume', 'ULTRACEMCO.BO')":2529
+  },
+  {
+    "('Date', '')":"2025-05-06",
+    "('Close', 'ULTRACEMCO.BO')":11618.8662109375,
+    "('High', 'ULTRACEMCO.BO')":11715.6528080843,
+    "('Low', 'ULTRACEMCO.BO')":11477.2147203109,
+    "('Open', 'ULTRACEMCO.BO')":11715.6528080843,
+    "('Volume', 'ULTRACEMCO.BO')":2218
+  },
+  {
+    "('Date', '')":"2025-05-07",
+    "('Close', 'ULTRACEMCO.BO')":11583.0439453125,
+    "('High', 'ULTRACEMCO.BO')":11616.332837533,
+    "('Low', 'ULTRACEMCO.BO')":11462.3590957031,
+    "('Open', 'ULTRACEMCO.BO')":11462.3590957031,
+    "('Volume', 'ULTRACEMCO.BO')":1419
+  },
+  {
+    "('Date', '')":"2025-05-08",
+    "('Close', 'ULTRACEMCO.BO')":11555.96484375,
+    "('High', 'ULTRACEMCO.BO')":11637.1996719613,
+    "('Low', 'ULTRACEMCO.BO')":11462.3087879834,
+    "('Open', 'ULTRACEMCO.BO')":11548.760531768,
+    "('Volume', 'ULTRACEMCO.BO')":1327
+  },
+  {
+    "('Date', '')":"2025-05-09",
+    "('Close', 'ULTRACEMCO.BO')":11301.92578125,
+    "('High', 'ULTRACEMCO.BO')":11473.8860359844,
+    "('Low', 'ULTRACEMCO.BO')":11241.4101413915,
+    "('Open', 'ULTRACEMCO.BO')":11263.5694178009,
+    "('Volume', 'ULTRACEMCO.BO')":2943
+  },
+  {
+    "('Date', '')":"2025-05-12",
+    "('Close', 'ULTRACEMCO.BO')":11664.576171875,
+    "('High', 'ULTRACEMCO.BO')":11694.1386942383,
+    "('Low', 'ULTRACEMCO.BO')":11492.6663779643,
+    "('Open', 'ULTRACEMCO.BO')":11616.2828260265,
+    "('Volume', 'ULTRACEMCO.BO')":4416
+  },
+  {
+    "('Date', '')":"2025-05-13",
+    "('Close', 'ULTRACEMCO.BO')":11590.1484375,
+    "('High', 'ULTRACEMCO.BO')":11675.9043983662,
+    "('Low', 'ULTRACEMCO.BO')":11490.8281079949,
+    "('Open', 'ULTRACEMCO.BO')":11664.5263598563,
+    "('Volume', 'ULTRACEMCO.BO')":11408
+  },
+  {
+    "('Date', '')":"2025-05-14",
+    "('Close', 'ULTRACEMCO.BO')":11600.7802734375,
+    "('High', 'ULTRACEMCO.BO')":11670.8864582603,
+    "('Low', 'ULTRACEMCO.BO')":11546.9720977795,
+    "('Open', 'ULTRACEMCO.BO')":11670.8864582603,
+    "('Volume', 'ULTRACEMCO.BO')":3328
+  },
+  {
+    "('Date', '')":"2025-05-15",
+    "('Close', 'ULTRACEMCO.BO')":11814.1279296875,
+    "('High', 'ULTRACEMCO.BO')":11854.8200669159,
+    "('Low', 'ULTRACEMCO.BO')":11566.6475757671,
+    "('Open', 'ULTRACEMCO.BO')":11665.4710603479,
+    "('Volume', 'ULTRACEMCO.BO')":7445
+  },
+  {
+    "('Date', '')":"2025-05-16",
+    "('Close', 'ULTRACEMCO.BO')":11826.5,
+    "('High', 'ULTRACEMCO.BO')":11910.5169949281,
+    "('Low', 'ULTRACEMCO.BO')":11791.7205604336,
+    "('Open', 'ULTRACEMCO.BO')":11874.6943662564,
+    "('Volume', 'ULTRACEMCO.BO')":2184
+  },
+  {
+    "('Date', '')":"2025-05-19",
+    "('Close', 'ULTRACEMCO.BO')":11841.7529296875,
+    "('High', 'ULTRACEMCO.BO')":11971.4810161378,
+    "('Low', 'ULTRACEMCO.BO')":11816.3641327799,
+    "('Open', 'ULTRACEMCO.BO')":11971.4810161378,
+    "('Volume', 'ULTRACEMCO.BO')":1074
+  },
+  {
+    "('Date', '')":"2025-05-20",
+    "('Close', 'ULTRACEMCO.BO')":11619.859375,
+    "('High', 'ULTRACEMCO.BO')":11924.3288911841,
+    "('Low', 'ULTRACEMCO.BO')":11599.7369864804,
+    "('Open', 'ULTRACEMCO.BO')":11924.3288911841,
+    "('Volume', 'ULTRACEMCO.BO')":3193
+  },
+  {
+    "('Date', '')":"2025-05-21",
+    "('Close', 'ULTRACEMCO.BO')":11586.4228515625,
+    "('High', 'ULTRACEMCO.BO')":11838.6232785162,
+    "('Low', 'ULTRACEMCO.BO')":11561.6298856336,
+    "('Open', 'ULTRACEMCO.BO')":11601.3778164508,
+    "('Volume', 'ULTRACEMCO.BO')":1266
+  },
+  {
+    "('Date', '')":"2025-05-22",
+    "('Close', 'ULTRACEMCO.BO')":11605.103515625,
+    "('High', 'ULTRACEMCO.BO')":11623.2879988434,
+    "('Low', 'ULTRACEMCO.BO')":11457.3403972526,
+    "('Open', 'ULTRACEMCO.BO')":11586.4221833001,
+    "('Volume', 'ULTRACEMCO.BO')":1213
+  },
+  {
+    "('Date', '')":"2025-05-23",
+    "('Close', 'ULTRACEMCO.BO')":11666.6640625,
+    "('High', 'ULTRACEMCO.BO')":11803.2975755697,
+    "('Low', 'ULTRACEMCO.BO')":11483.0278446076,
+    "('Open', 'ULTRACEMCO.BO')":11483.0278446076,
+    "('Volume', 'ULTRACEMCO.BO')":2153
+  },
+  {
+    "('Date', '')":"2025-05-26",
+    "('Close', 'ULTRACEMCO.BO')":11614.8916015625,
+    "('High', 'ULTRACEMCO.BO')":11800.1668362008,
+    "('Low', 'ULTRACEMCO.BO')":11567.6909342177,
+    "('Open', 'ULTRACEMCO.BO')":11681.1219787476,
+    "('Volume', 'ULTRACEMCO.BO')":1262
+  },
+  {
+    "('Date', '')":"2025-05-27",
+    "('Close', 'ULTRACEMCO.BO')":11349.0771484375,
+    "('High', 'ULTRACEMCO.BO')":11638.3432898393,
+    "('Low', 'ULTRACEMCO.BO')":11299.3427453505,
+    "('Open', 'ULTRACEMCO.BO')":11527.4954742685,
+    "('Volume', 'ULTRACEMCO.BO')":20152
+  },
+  {
+    "('Date', '')":"2025-05-28",
+    "('Close', 'ULTRACEMCO.BO')":11165.740234375,
+    "('High', 'ULTRACEMCO.BO')":11425.2944196651,
+    "('Low', 'ULTRACEMCO.BO')":11135.3829459474,
+    "('Open', 'ULTRACEMCO.BO')":11425.2944196651,
+    "('Volume', 'ULTRACEMCO.BO')":4668
+  },
+  {
+    "('Date', '')":"2025-05-29",
+    "('Close', 'ULTRACEMCO.BO')":11195.4521484375,
+    "('High', 'ULTRACEMCO.BO')":11258.0551398966,
+    "('Low', 'ULTRACEMCO.BO')":11079.9347237213,
+    "('Open', 'ULTRACEMCO.BO')":11165.7896726201,
+    "('Volume', 'ULTRACEMCO.BO')":2603
+  },
+  {
+    "('Date', '')":"2025-05-30",
+    "('Close', 'ULTRACEMCO.BO')":11126.6875,
+    "('High', 'ULTRACEMCO.BO')":11235.8448623446,
+    "('Low', 'ULTRACEMCO.BO')":11099.2618170298,
+    "('Open', 'ULTRACEMCO.BO')":11195.4516115614,
+    "('Volume', 'ULTRACEMCO.BO')":1610
+  },
+  {
+    "('Date', '')":"2025-06-02",
+    "('Close', 'ULTRACEMCO.BO')":11118.4892578125,
+    "('High', 'ULTRACEMCO.BO')":11178.9554056522,
+    "('Low', 'ULTRACEMCO.BO')":10951.3985158462,
+    "('Open', 'ULTRACEMCO.BO')":11178.9554056522,
+    "('Volume', 'ULTRACEMCO.BO')":3306
+  },
+  {
+    "('Date', '')":"2025-06-03",
+    "('Close', 'ULTRACEMCO.BO')":10978.3779296875,
+    "('High', 'ULTRACEMCO.BO')":11179.1049700384,
+    "('Low', 'ULTRACEMCO.BO')":10932.7173024171,
+    "('Open', 'ULTRACEMCO.BO')":11179.1049700384,
+    "('Volume', 'ULTRACEMCO.BO')":6298
+  },
+  {
+    "('Date', '')":"2025-06-04",
+    "('Close', 'ULTRACEMCO.BO')":10966.65234375,
+    "('High', 'ULTRACEMCO.BO')":10981.3588831287,
+    "('Low', 'ULTRACEMCO.BO')":10851.5822854865,
+    "('Open', 'ULTRACEMCO.BO')":10981.3588831287,
+    "('Volume', 'ULTRACEMCO.BO')":4531
+  },
+  {
+    "('Date', '')":"2025-06-05",
+    "('Close', 'ULTRACEMCO.BO')":11088.77734375,
+    "('High', 'ULTRACEMCO.BO')":11099.6090424382,
+    "('Low', 'ULTRACEMCO.BO')":10937.3878091188,
+    "('Open', 'ULTRACEMCO.BO')":10966.6524155818,
+    "('Volume', 'ULTRACEMCO.BO')":3967
+  },
+  {
+    "('Date', '')":"2025-06-06",
+    "('Close', 'ULTRACEMCO.BO')":11175.3291015625,
+    "('High', 'ULTRACEMCO.BO')":11236.8889002945,
+    "('Low', 'ULTRACEMCO.BO')":11054.8926833707,
+    "('Open', 'ULTRACEMCO.BO')":11138.7107399573,
+    "('Volume', 'ULTRACEMCO.BO')":5017
+  },
+  {
+    "('Date', '')":"2025-06-09",
+    "('Close', 'ULTRACEMCO.BO')":11187.8994140625,
+    "('High', 'ULTRACEMCO.BO')":11229.7841844376,
+    "('Low', 'ULTRACEMCO.BO')":11091.8095673794,
+    "('Open', 'ULTRACEMCO.BO')":11229.7346936056,
+    "('Volume', 'ULTRACEMCO.BO')":5174
+  },
+  {
+    "('Date', '')":"2025-06-10",
+    "('Close', 'ULTRACEMCO.BO')":11318.0732421875,
+    "('High', 'ULTRACEMCO.BO')":11409.1955627154,
+    "('Low', 'ULTRACEMCO.BO')":11254.6754900613,
+    "('Open', 'ULTRACEMCO.BO')":11254.6754900613,
+    "('Volume', 'ULTRACEMCO.BO')":17012
+  },
+  {
+    "('Date', '')":"2025-06-11",
+    "('Close', 'ULTRACEMCO.BO')":11394.091796875,
+    "('High', 'ULTRACEMCO.BO')":11437.467114626,
+    "('Low', 'ULTRACEMCO.BO')":11269.3826636964,
+    "('Open', 'ULTRACEMCO.BO')":11382.415842175,
+    "('Volume', 'ULTRACEMCO.BO')":2472
+  },
+  {
+    "('Date', '')":"2025-06-12",
+    "('Close', 'ULTRACEMCO.BO')":11243.7451171875,
+    "('High', 'ULTRACEMCO.BO')":11433.5414817155,
+    "('Low', 'ULTRACEMCO.BO')":11214.1825944403,
+    "('Open', 'ULTRACEMCO.BO')":11343.6612815,
+    "('Volume', 'ULTRACEMCO.BO')":4093
+  },
+  {
+    "('Date', '')":"2025-06-13",
+    "('Close', 'ULTRACEMCO.BO')":11149.990234375,
+    "('High', 'ULTRACEMCO.BO')":11179.1053992442,
+    "('Low', 'ULTRACEMCO.BO')":10968.4908594408,
+    "('Open', 'ULTRACEMCO.BO')":11078.7418752155,
+    "('Volume', 'ULTRACEMCO.BO')":4005
+  },
+  {
+    "('Date', '')":"2025-06-16",
+    "('Close', 'ULTRACEMCO.BO')":11423.6044921875,
+    "('High', 'ULTRACEMCO.BO')":11443.627899947,
+    "('Low', 'ULTRACEMCO.BO')":11115.8559522533,
+    "('Open', 'ULTRACEMCO.BO')":11115.8559522533,
+    "('Volume', 'ULTRACEMCO.BO')":5954
+  },
+  {
+    "('Date', '')":"2025-06-17",
+    "('Close', 'ULTRACEMCO.BO')":11311.6650390625,
+    "('High', 'ULTRACEMCO.BO')":11427.5793575964,
+    "('Low', 'ULTRACEMCO.BO')":11287.5678565174,
+    "('Open', 'ULTRACEMCO.BO')":11427.5298667656,
+    "('Volume', 'ULTRACEMCO.BO')":2637
+  },
+  {
+    "('Date', '')":"2025-06-18",
+    "('Close', 'ULTRACEMCO.BO')":11332.333984375,
+    "('High', 'ULTRACEMCO.BO')":11407.2087607211,
+    "('Low', 'ULTRACEMCO.BO')":11260.0424353629,
+    "('Open', 'ULTRACEMCO.BO')":11322.1485771259,
+    "('Volume', 'ULTRACEMCO.BO')":2803
+  },
+  {
+    "('Date', '')":"2025-06-19",
+    "('Close', 'ULTRACEMCO.BO')":11336.109375,
+    "('High', 'ULTRACEMCO.BO')":11411.5809494315,
+    "('Low', 'ULTRACEMCO.BO')":11271.5189902371,
+    "('Open', 'ULTRACEMCO.BO')":11343.4631300441,
+    "('Volume', 'ULTRACEMCO.BO')":1548
+  },
+  {
+    "('Date', '')":"2025-06-20",
+    "('Close', 'ULTRACEMCO.BO')":11371.0380859375,
+    "('High', 'ULTRACEMCO.BO')":11447.9497453224,
+    "('Low', 'ULTRACEMCO.BO')":11303.3171646077,
+    "('Open', 'ULTRACEMCO.BO')":11343.0650930986,
+    "('Volume', 'ULTRACEMCO.BO')":2211
+  },
+  {
+    "('Date', '')":"2025-06-23",
+    "('Close', 'ULTRACEMCO.BO')":11374.3173828125,
+    "('High', 'ULTRACEMCO.BO')":11409.6926518982,
+    "('Low', 'ULTRACEMCO.BO')":11257.8062644851,
+    "('Open', 'ULTRACEMCO.BO')":11362.9393439133,
+    "('Volume', 'ULTRACEMCO.BO')":1469
+  },
+  {
+    "('Date', '')":"2025-06-24",
+    "('Close', 'ULTRACEMCO.BO')":11506.23046875,
+    "('High', 'ULTRACEMCO.BO')":11750.4812938677,
+    "('Low', 'ULTRACEMCO.BO')":11447.3538500048,
+    "('Open', 'ULTRACEMCO.BO')":11457.5887474518,
+    "('Volume', 'ULTRACEMCO.BO')":13152
+  },
+  {
+    "('Date', '')":"2025-06-25",
+    "('Close', 'ULTRACEMCO.BO')":11659.2607421875,
+    "('High', 'ULTRACEMCO.BO')":11688.8232657366,
+    "('Low', 'ULTRACEMCO.BO')":11519.0493339668,
+    "('Open', 'ULTRACEMCO.BO')":11519.0493339668,
+    "('Volume', 'ULTRACEMCO.BO')":2951
+  },
+  {
+    "('Date', '')":"2025-06-26",
+    "('Close', 'ULTRACEMCO.BO')":11869.5263671875,
+    "('High', 'ULTRACEMCO.BO')":11911.2122018195,
+    "('Low', 'ULTRACEMCO.BO')":11596.4582889635,
+    "('Open', 'ULTRACEMCO.BO')":11596.4582889635,
+    "('Volume', 'ULTRACEMCO.BO')":7595
+  },
+  {
+    "('Date', '')":"2025-06-27",
+    "('Close', 'ULTRACEMCO.BO')":12157.8486328125,
+    "('High', 'ULTRACEMCO.BO')":12222.4885100788,
+    "('Low', 'ULTRACEMCO.BO')":11843.3431357849,
+    "('Open', 'ULTRACEMCO.BO')":11923.3853359704,
+    "('Volume', 'ULTRACEMCO.BO')":6691
+  },
+  {
+    "('Date', '')":"2025-06-30",
+    "('Close', 'ULTRACEMCO.BO')":11996.2724609375,
+    "('High', 'ULTRACEMCO.BO')":12187.708813464,
+    "('Low', 'ULTRACEMCO.BO')":11944.2527466643,
+    "('Open', 'ULTRACEMCO.BO')":11947.3328230196,
+    "('Volume', 'ULTRACEMCO.BO')":4817
+  },
+  {
+    "('Date', '')":"2025-07-01",
+    "('Close', 'ULTRACEMCO.BO')":12127.689453125,
+    "('High', 'ULTRACEMCO.BO')":12146.5697201542,
+    "('Low', 'ULTRACEMCO.BO')":11980.0757699863,
+    "('Open', 'ULTRACEMCO.BO')":12056.2431301386,
+    "('Volume', 'ULTRACEMCO.BO')":2484
+  },
+  {
+    "('Date', '')":"2025-07-02",
+    "('Close', 'ULTRACEMCO.BO')":12359.419921875,
+    "('High', 'ULTRACEMCO.BO')":12453.1759341753,
+    "('Low', 'ULTRACEMCO.BO')":12034.828970177,
+    "('Open', 'ULTRACEMCO.BO')":12034.828970177,
+    "('Volume', 'ULTRACEMCO.BO')":10260
+  },
+  {
+    "('Date', '')":"2025-07-03",
+    "('Close', 'ULTRACEMCO.BO')":12315.548828125,
+    "('High', 'ULTRACEMCO.BO')":12500.1282799187,
+    "('Low', 'ULTRACEMCO.BO')":12297.0159674127,
+    "('Open', 'ULTRACEMCO.BO')":12332.4911893762,
+    "('Volume', 'ULTRACEMCO.BO')":7972
+  },
+  {
+    "('Date', '')":"2025-07-04",
+    "('Close', 'ULTRACEMCO.BO')":12426.7919921875,
+    "('High', 'ULTRACEMCO.BO')":12450.0449185498,
+    "('Low', 'ULTRACEMCO.BO')":12268.1981454558,
+    "('Open', 'ULTRACEMCO.BO')":12319.8209617355,
+    "('Volume', 'ULTRACEMCO.BO')":3660
+  },
+  {
+    "('Date', '')":"2025-07-07",
+    "('Close', 'ULTRACEMCO.BO')":12270.4833984375,
+    "('High', 'ULTRACEMCO.BO')":12432.1582911014,
+    "('Low', 'ULTRACEMCO.BO')":12233.4186493285,
+    "('Open', 'ULTRACEMCO.BO')":12432.1582911014,
+    "('Volume', 'ULTRACEMCO.BO')":1932
+  },
+  {
+    "('Date', '')":"2025-07-08",
+    "('Close', 'ULTRACEMCO.BO')":12365.1337890625,
+    "('High', 'ULTRACEMCO.BO')":12416.4586923546,
+    "('Low', 'ULTRACEMCO.BO')":12207.7820577559,
+    "('Open', 'ULTRACEMCO.BO')":12207.7820577559,
+    "('Volume', 'ULTRACEMCO.BO')":4168
+  },
+  {
+    "('Date', '')":"2025-07-09",
+    "('Close', 'ULTRACEMCO.BO')":12485.22265625,
+    "('High', 'ULTRACEMCO.BO')":12497.7428660123,
+    "('Low', 'ULTRACEMCO.BO')":12299.8474717453,
+    "('Open', 'ULTRACEMCO.BO')":12351.6692235456,
+    "('Volume', 'ULTRACEMCO.BO')":2673
+  },
+  {
+    "('Date', '')":"2025-07-10",
+    "('Close', 'ULTRACEMCO.BO')":12424.3076171875,
+    "('High', 'ULTRACEMCO.BO')":12583.8961308783,
+    "('Low', 'ULTRACEMCO.BO')":12401.3535768552,
+    "('Open', 'ULTRACEMCO.BO')":12485.2220933749,
+    "('Volume', 'ULTRACEMCO.BO')":4373
+  },
+  {
+    "('Date', '')":"2025-07-11",
+    "('Close', 'ULTRACEMCO.BO')":12415.017578125,
+    "('High', 'ULTRACEMCO.BO')":12555.3774566971,
+    "('Low', 'ULTRACEMCO.BO')":12378.4991672399,
+    "('Open', 'ULTRACEMCO.BO')":12518.561130417,
+    "('Volume', 'ULTRACEMCO.BO')":15682
+  },
+  {
+    "('Date', '')":"2025-07-14",
+    "('Close', 'ULTRACEMCO.BO')":12434.2451171875,
+    "('High', 'ULTRACEMCO.BO')":12500.9723424803,
+    "('Low', 'ULTRACEMCO.BO')":12364.4882767386,
+    "('Open', 'ULTRACEMCO.BO')":12414.3216614636,
+    "('Volume', 'ULTRACEMCO.BO')":1643
+  },
+  {
+    "('Date', '')":"2025-07-15",
+    "('Close', 'ULTRACEMCO.BO')":12421.078125,
+    "('High', 'ULTRACEMCO.BO')":12508.523567078,
+    "('Low', 'ULTRACEMCO.BO')":12350.1286553772,
+    "('Open', 'ULTRACEMCO.BO')":12508.523567078,
+    "('Volume', 'ULTRACEMCO.BO')":1862
+  },
+  {
+    "('Date', '')":"2025-07-16",
+    "('Close', 'ULTRACEMCO.BO')":12375.021484375,
+    "('High', 'ULTRACEMCO.BO')":12514.8845167696,
+    "('Low', 'ULTRACEMCO.BO')":12317.9333243177,
+    "('Open', 'ULTRACEMCO.BO')":12514.8845167696,
+    "('Volume', 'ULTRACEMCO.BO')":1415
+  },
+  {
+    "('Date', '')":"2025-07-17",
+    "('Close', 'ULTRACEMCO.BO')":12417.8486328125,
+    "('High', 'ULTRACEMCO.BO')":12469.8693162249,
+    "('Low', 'ULTRACEMCO.BO')":12353.0098247672,
+    "('Open', 'ULTRACEMCO.BO')":12401.3041399012,
+    "('Volume', 'ULTRACEMCO.BO')":2446
+  },
+  {
+    "('Date', '')":"2025-07-18",
+    "('Close', 'ULTRACEMCO.BO')":12419.587890625,
+    "('High', 'ULTRACEMCO.BO')":12472.4033397378,
+    "('Low', 'ULTRACEMCO.BO')":12365.8786953498,
+    "('Open', 'ULTRACEMCO.BO')":12417.8489187217,
+    "('Volume', 'ULTRACEMCO.BO')":3604
+  },
+  {
+    "('Date', '')":"2025-07-21",
+    "('Close', 'ULTRACEMCO.BO')":12495.109375,
+    "('High', 'ULTRACEMCO.BO')":12631.8428383412,
+    "('Low', 'ULTRACEMCO.BO')":12302.9782038615,
+    "('Open', 'ULTRACEMCO.BO')":12525.1192566479,
+    "('Volume', 'ULTRACEMCO.BO')":17697
+  },
+  {
+    "('Date', '')":"2025-07-22",
+    "('Close', 'ULTRACEMCO.BO')":12375.7666015625,
+    "('High', 'ULTRACEMCO.BO')":12608.0930615503,
+    "('Low', 'ULTRACEMCO.BO')":12222.4886443759,
+    "('Open', 'ULTRACEMCO.BO')":12599.5476446453,
+    "('Volume', 'ULTRACEMCO.BO')":10151
+  },
+  {
+    "('Date', '')":"2025-07-23",
+    "('Close', 'ULTRACEMCO.BO')":12291.8974609375,
+    "('High', 'ULTRACEMCO.BO')":12442.9395894244,
+    "('Low', 'ULTRACEMCO.BO')":12278.1351288407,
+    "('Open', 'ULTRACEMCO.BO')":12421.1781807887,
+    "('Volume', 'ULTRACEMCO.BO')":21253
+  },
+  {
+    "('Date', '')":"2025-07-24",
+    "('Close', 'ULTRACEMCO.BO')":12220.7001953125,
+    "('High', 'ULTRACEMCO.BO')":12391.3183814753,
+    "('Low', 'ULTRACEMCO.BO')":12152.9297795655,
+    "('Open', 'ULTRACEMCO.BO')":12391.3183814753,
+    "('Volume', 'ULTRACEMCO.BO')":3213
+  },
+  {
+    "('Date', '')":"2025-07-25",
+    "('Close', 'ULTRACEMCO.BO')":12254.2001953125,
+    "('High', 'ULTRACEMCO.BO')":12345.2998046875,
+    "('Low', 'ULTRACEMCO.BO')":12200.0,
+    "('Open', 'ULTRACEMCO.BO')":12297.9501953125,
+    "('Volume', 'ULTRACEMCO.BO')":2958
+  },
+  {
+    "('Date', '')":"2025-07-28",
+    "('Close', 'ULTRACEMCO.BO')":12236.5,
+    "('High', 'ULTRACEMCO.BO')":12364.5,
+    "('Low', 'ULTRACEMCO.BO')":12210.349609375,
+    "('Open', 'ULTRACEMCO.BO')":12254.25,
+    "('Volume', 'ULTRACEMCO.BO')":2940
+  },
+  {
+    "('Date', '')":"2025-07-29",
+    "('Close', 'ULTRACEMCO.BO')":12217.7998046875,
+    "('High', 'ULTRACEMCO.BO')":12258.849609375,
+    "('Low', 'ULTRACEMCO.BO')":12125.4501953125,
+    "('Open', 'ULTRACEMCO.BO')":12201.5,
+    "('Volume', 'ULTRACEMCO.BO')":16120
+  },
+  {
+    "('Date', '')":"2025-07-30",
+    "('Close', 'ULTRACEMCO.BO')":12271.0498046875,
+    "('High', 'ULTRACEMCO.BO')":12380.4501953125,
+    "('Low', 'ULTRACEMCO.BO')":12213.9501953125,
+    "('Open', 'ULTRACEMCO.BO')":12236.2998046875,
+    "('Volume', 'ULTRACEMCO.BO')":24057
+  },
+  {
+    "('Date', '')":"2025-07-31",
+    "('Close', 'ULTRACEMCO.BO')":12238.0,
+    "('High', 'ULTRACEMCO.BO')":12327.9501953125,
+    "('Low', 'ULTRACEMCO.BO')":12157.349609375,
+    "('Open', 'ULTRACEMCO.BO')":12200.0,
+    "('Volume', 'ULTRACEMCO.BO')":3546
+  },
+  {
+    "('Date', '')":"2025-08-01",
+    "('Close', 'ULTRACEMCO.BO')":12105.5,
+    "('High', 'ULTRACEMCO.BO')":12281.599609375,
+    "('Low', 'ULTRACEMCO.BO')":12079.7001953125,
+    "('Open', 'ULTRACEMCO.BO')":12250.0,
+    "('Volume', 'ULTRACEMCO.BO')":4897
+  },
+  {
+    "('Date', '')":"2025-08-04",
+    "('Close', 'ULTRACEMCO.BO')":12252.849609375,
+    "('High', 'ULTRACEMCO.BO')":12297.599609375,
+    "('Low', 'ULTRACEMCO.BO')":12115.2998046875,
+    "('Open', 'ULTRACEMCO.BO')":12115.2998046875,
+    "('Volume', 'ULTRACEMCO.BO')":3784
+  },
+  {
+    "('Date', '')":"2025-08-05",
+    "('Close', 'ULTRACEMCO.BO')":12297.2998046875,
+    "('High', 'ULTRACEMCO.BO')":12377.0498046875,
+    "('Low', 'ULTRACEMCO.BO')":12250.2001953125,
+    "('Open', 'ULTRACEMCO.BO')":12250.2001953125,
+    "('Volume', 'ULTRACEMCO.BO')":11001
+  },
+  {
+    "('Date', '')":"2025-08-06",
+    "('Close', 'ULTRACEMCO.BO')":12225.4501953125,
+    "('High', 'ULTRACEMCO.BO')":12385.650390625,
+    "('Low', 'ULTRACEMCO.BO')":12202.599609375,
+    "('Open', 'ULTRACEMCO.BO')":12305.0,
+    "('Volume', 'ULTRACEMCO.BO')":3244
+  },
+  {
+    "('Date', '')":"2025-08-07",
+    "('Close', 'ULTRACEMCO.BO')":12276.150390625,
+    "('High', 'ULTRACEMCO.BO')":12308.4501953125,
+    "('Low', 'ULTRACEMCO.BO')":12113.0498046875,
+    "('Open', 'ULTRACEMCO.BO')":12113.0498046875,
+    "('Volume', 'ULTRACEMCO.BO')":1898
+  },
+  {
+    "('Date', '')":"2025-08-08",
+    "('Close', 'ULTRACEMCO.BO')":12154.099609375,
+    "('High', 'ULTRACEMCO.BO')":12315.9501953125,
+    "('Low', 'ULTRACEMCO.BO')":12131.0,
+    "('Open', 'ULTRACEMCO.BO')":12276.150390625,
+    "('Volume', 'ULTRACEMCO.BO')":3352
+  },
+  {
+    "('Date', '')":"2025-08-11",
+    "('Close', 'ULTRACEMCO.BO')":12404.7001953125,
+    "('High', 'ULTRACEMCO.BO')":12429.900390625,
+    "('Low', 'ULTRACEMCO.BO')":12160.0,
+    "('Open', 'ULTRACEMCO.BO')":12160.0,
+    "('Volume', 'ULTRACEMCO.BO')":3062
+  },
+  {
+    "('Date', '')":"2025-08-12",
+    "('Close', 'ULTRACEMCO.BO')":12453.7998046875,
+    "('High', 'ULTRACEMCO.BO')":12531.900390625,
+    "('Low', 'ULTRACEMCO.BO')":12404.0,
+    "('Open', 'ULTRACEMCO.BO')":12430.0498046875,
+    "('Volume', 'ULTRACEMCO.BO')":5191
+  },
+  {
+    "('Date', '')":"2025-08-13",
+    "('Close', 'ULTRACEMCO.BO')":12396.650390625,
+    "('High', 'ULTRACEMCO.BO')":12516.5498046875,
+    "('Low', 'ULTRACEMCO.BO')":12385.0,
+    "('Open', 'ULTRACEMCO.BO')":12460.650390625,
+    "('Volume', 'ULTRACEMCO.BO')":8898
+  },
+  {
+    "('Date', '')":"2025-08-14",
+    "('Close', 'ULTRACEMCO.BO')":12297.849609375,
+    "('High', 'ULTRACEMCO.BO')":12457.599609375,
+    "('Low', 'ULTRACEMCO.BO')":12239.0,
+    "('Open', 'ULTRACEMCO.BO')":12457.599609375,
+    "('Volume', 'ULTRACEMCO.BO')":18294
+  },
+  {
+    "('Date', '')":"2025-08-18",
+    "('Close', 'ULTRACEMCO.BO')":12764.5,
+    "('High', 'ULTRACEMCO.BO')":12905.9501953125,
+    "('Low', 'ULTRACEMCO.BO')":12560.849609375,
+    "('Open', 'ULTRACEMCO.BO')":12649.5498046875,
+    "('Volume', 'ULTRACEMCO.BO')":19960
+  },
+  {
+    "('Date', '')":"2025-08-19",
+    "('Close', 'ULTRACEMCO.BO')":12855.7001953125,
+    "('High', 'ULTRACEMCO.BO')":12880.0,
+    "('Low', 'ULTRACEMCO.BO')":12629.400390625,
+    "('Open', 'ULTRACEMCO.BO')":12848.9501953125,
+    "('Volume', 'ULTRACEMCO.BO')":3080
+  },
+  {
+    "('Date', '')":"2025-08-20",
+    "('Close', 'ULTRACEMCO.BO')":12871.25,
+    "('High', 'ULTRACEMCO.BO')":12929.349609375,
+    "('Low', 'ULTRACEMCO.BO')":12774.150390625,
+    "('Open', 'ULTRACEMCO.BO')":12848.0,
+    "('Volume', 'ULTRACEMCO.BO')":2951
+  },
+  {
+    "('Date', '')":"2025-08-21",
+    "('Close', 'ULTRACEMCO.BO')":12864.7998046875,
+    "('High', 'ULTRACEMCO.BO')":12946.7998046875,
+    "('Low', 'ULTRACEMCO.BO')":12785.150390625,
+    "('Open', 'ULTRACEMCO.BO')":12946.7998046875,
+    "('Volume', 'ULTRACEMCO.BO')":1502
+  },
+  {
+    "('Date', '')":"2025-08-22",
+    "('Close', 'ULTRACEMCO.BO')":12578.5498046875,
+    "('High', 'ULTRACEMCO.BO')":12857.349609375,
+    "('Low', 'ULTRACEMCO.BO')":12557.2998046875,
+    "('Open', 'ULTRACEMCO.BO')":12850.0,
+    "('Volume', 'ULTRACEMCO.BO')":6258
+  },
+  {
+    "('Date', '')":"2025-08-25",
+    "('Close', 'ULTRACEMCO.BO')":12604.650390625,
+    "('High', 'ULTRACEMCO.BO')":12722.25,
+    "('Low', 'ULTRACEMCO.BO')":12562.2998046875,
+    "('Open', 'ULTRACEMCO.BO')":12614.75,
+    "('Volume', 'ULTRACEMCO.BO')":9696
+  },
+  {
+    "('Date', '')":"2025-08-26",
+    "('Close', 'ULTRACEMCO.BO')":12608.349609375,
+    "('High', 'ULTRACEMCO.BO')":12770.0,
+    "('Low', 'ULTRACEMCO.BO')":12239.0498046875,
+    "('Open', 'ULTRACEMCO.BO')":12599.900390625,
+    "('Volume', 'ULTRACEMCO.BO')":17397
+  },
+  {
+    "('Date', '')":"2025-08-28",
+    "('Close', 'ULTRACEMCO.BO')":12524.2001953125,
+    "('High', 'ULTRACEMCO.BO')":12645.099609375,
+    "('Low', 'ULTRACEMCO.BO')":12475.0498046875,
+    "('Open', 'ULTRACEMCO.BO')":12607.0,
+    "('Volume', 'ULTRACEMCO.BO')":2892
+  },
+  {
+    "('Date', '')":"2025-08-29",
+    "('Close', 'ULTRACEMCO.BO')":12637.25,
+    "('High', 'ULTRACEMCO.BO')":12725.0,
+    "('Low', 'ULTRACEMCO.BO')":12524.2001953125,
+    "('Open', 'ULTRACEMCO.BO')":12546.400390625,
+    "('Volume', 'ULTRACEMCO.BO')":13883
+  },
+  {
+    "('Date', '')":"2025-09-01",
+    "('Close', 'ULTRACEMCO.BO')":12816.5,
+    "('High', 'ULTRACEMCO.BO')":12845.0,
+    "('Low', 'ULTRACEMCO.BO')":12637.25,
+    "('Open', 'ULTRACEMCO.BO')":12637.25,
+    "('Volume', 'ULTRACEMCO.BO')":2394
+  },
+  {
+    "('Date', '')":"2025-09-02",
+    "('Close', 'ULTRACEMCO.BO')":12728.900390625,
+    "('High', 'ULTRACEMCO.BO')":12822.0,
+    "('Low', 'ULTRACEMCO.BO')":12690.0,
+    "('Open', 'ULTRACEMCO.BO')":12819.9501953125,
+    "('Volume', 'ULTRACEMCO.BO')":1903
+  },
+  {
+    "('Date', '')":"2025-09-03",
+    "('Close', 'ULTRACEMCO.BO')":12730.0,
+    "('High', 'ULTRACEMCO.BO')":12764.9501953125,
+    "('Low', 'ULTRACEMCO.BO')":12657.2998046875,
+    "('Open', 'ULTRACEMCO.BO')":12729.0,
+    "('Volume', 'ULTRACEMCO.BO')":18357
+  },
+  {
+    "('Date', '')":"2025-09-04",
+    "('Close', 'ULTRACEMCO.BO')":12654.5,
+    "('High', 'ULTRACEMCO.BO')":13101.7998046875,
+    "('Low', 'ULTRACEMCO.BO')":12633.7998046875,
+    "('Open', 'ULTRACEMCO.BO')":12990.0,
+    "('Volume', 'ULTRACEMCO.BO')":9861
+  },
+  {
+    "('Date', '')":"2025-09-05",
+    "('Close', 'ULTRACEMCO.BO')":12596.900390625,
+    "('High', 'ULTRACEMCO.BO')":12797.849609375,
+    "('Low', 'ULTRACEMCO.BO')":12527.75,
+    "('Open', 'ULTRACEMCO.BO')":12797.849609375,
+    "('Volume', 'ULTRACEMCO.BO')":3228
+  },
+  {
+    "('Date', '')":"2025-09-08",
+    "('Close', 'ULTRACEMCO.BO')":12667.349609375,
+    "('High', 'ULTRACEMCO.BO')":12738.2998046875,
+    "('Low', 'ULTRACEMCO.BO')":12550.150390625,
+    "('Open', 'ULTRACEMCO.BO')":12550.150390625,
+    "('Volume', 'ULTRACEMCO.BO')":1523
+  },
+  {
+    "('Date', '')":"2025-09-09",
+    "('Close', 'ULTRACEMCO.BO')":12570.400390625,
+    "('High', 'ULTRACEMCO.BO')":12708.4501953125,
+    "('Low', 'ULTRACEMCO.BO')":12535.349609375,
+    "('Open', 'ULTRACEMCO.BO')":12627.5498046875,
+    "('Volume', 'ULTRACEMCO.BO')":1767
+  },
+  {
+    "('Date', '')":"2025-09-10",
+    "('Close', 'ULTRACEMCO.BO')":12482.599609375,
+    "('High', 'ULTRACEMCO.BO')":12621.400390625,
+    "('Low', 'ULTRACEMCO.BO')":12433.25,
+    "('Open', 'ULTRACEMCO.BO')":12600.0,
+    "('Volume', 'ULTRACEMCO.BO')":2774
+  },
+  {
+    "('Date', '')":"2025-09-11",
+    "('Close', 'ULTRACEMCO.BO')":12382.4501953125,
+    "('High', 'ULTRACEMCO.BO')":12517.0,
+    "('Low', 'ULTRACEMCO.BO')":12355.599609375,
+    "('Open', 'ULTRACEMCO.BO')":12451.9501953125,
+    "('Volume', 'ULTRACEMCO.BO')":3456
+  },
+  {
+    "('Date', '')":"2025-09-12",
+    "('Close', 'ULTRACEMCO.BO')":12371.849609375,
+    "('High', 'ULTRACEMCO.BO')":12499.849609375,
+    "('Low', 'ULTRACEMCO.BO')":12340.0,
+    "('Open', 'ULTRACEMCO.BO')":12499.849609375,
+    "('Volume', 'ULTRACEMCO.BO')":3809
+  },
+  {
+    "('Date', '')":"2025-09-15",
+    "('Close', 'ULTRACEMCO.BO')":12429.0498046875,
+    "('High', 'ULTRACEMCO.BO')":12479.150390625,
+    "('Low', 'ULTRACEMCO.BO')":12321.900390625,
+    "('Open', 'ULTRACEMCO.BO')":12350.5498046875,
+    "('Volume', 'ULTRACEMCO.BO')":13615
+  },
+  {
+    "('Date', '')":"2025-09-16",
+    "('Close', 'ULTRACEMCO.BO')":12578.599609375,
+    "('High', 'ULTRACEMCO.BO')":12600.0,
+    "('Low', 'ULTRACEMCO.BO')":12450.0,
+    "('Open', 'ULTRACEMCO.BO')":12508.150390625,
+    "('Volume', 'ULTRACEMCO.BO')":7410
+  },
+  {
+    "('Date', '')":"2025-09-17",
+    "('Close', 'ULTRACEMCO.BO')":12716.099609375,
+    "('High', 'ULTRACEMCO.BO')":12800.0,
+    "('Low', 'ULTRACEMCO.BO')":12618.75,
+    "('Open', 'ULTRACEMCO.BO')":12650.0498046875,
+    "('Volume', 'ULTRACEMCO.BO')":13262
+  },
+  {
+    "('Date', '')":"2025-09-18",
+    "('Close', 'ULTRACEMCO.BO')":12625.349609375,
+    "('High', 'ULTRACEMCO.BO')":12730.0,
+    "('Low', 'ULTRACEMCO.BO')":12565.9501953125,
+    "('Open', 'ULTRACEMCO.BO')":12729.9501953125,
+    "('Volume', 'ULTRACEMCO.BO')":5726
+  },
+  {
+    "('Date', '')":"2025-09-19",
+    "('Close', 'ULTRACEMCO.BO')":12519.25,
+    "('High', 'ULTRACEMCO.BO')":12639.9501953125,
+    "('Low', 'ULTRACEMCO.BO')":12485.25,
+    "('Open', 'ULTRACEMCO.BO')":12639.9501953125,
+    "('Volume', 'ULTRACEMCO.BO')":3211
+  },
+  {
+    "('Date', '')":"2025-09-22",
+    "('Close', 'ULTRACEMCO.BO')":12646.5,
+    "('High', 'ULTRACEMCO.BO')":12701.0,
+    "('Low', 'ULTRACEMCO.BO')":12532.2001953125,
+    "('Open', 'ULTRACEMCO.BO')":12532.2001953125,
+    "('Volume', 'ULTRACEMCO.BO')":15301
+  },
+  {
+    "('Date', '')":"2025-09-23",
+    "('Close', 'ULTRACEMCO.BO')":12400.7001953125,
+    "('High', 'ULTRACEMCO.BO')":12687.4501953125,
+    "('Low', 'ULTRACEMCO.BO')":12362.0498046875,
+    "('Open', 'ULTRACEMCO.BO')":12664.9501953125,
+    "('Volume', 'ULTRACEMCO.BO')":11711
+  },
+  {
+    "('Date', '')":"2025-09-24",
+    "('Close', 'ULTRACEMCO.BO')":12211.7998046875,
+    "('High', 'ULTRACEMCO.BO')":12450.0,
+    "('Low', 'ULTRACEMCO.BO')":12201.0,
+    "('Open', 'ULTRACEMCO.BO')":12450.0,
+    "('Volume', 'ULTRACEMCO.BO')":2839
+  },
+  {
+    "('Date', '')":"2025-09-25",
+    "('Close', 'ULTRACEMCO.BO')":12136.400390625,
+    "('High', 'ULTRACEMCO.BO')":12262.0,
+    "('Low', 'ULTRACEMCO.BO')":12119.900390625,
+    "('Open', 'ULTRACEMCO.BO')":12232.5,
+    "('Volume', 'ULTRACEMCO.BO')":5748
+  },
+  {
+    "('Date', '')":"2025-09-26",
+    "('Close', 'ULTRACEMCO.BO')":12070.5498046875,
+    "('High', 'ULTRACEMCO.BO')":12162.099609375,
+    "('Low', 'ULTRACEMCO.BO')":11991.0,
+    "('Open', 'ULTRACEMCO.BO')":12136.400390625,
+    "('Volume', 'ULTRACEMCO.BO')":2048
+  },
+  {
+    "('Date', '')":"2025-09-29",
+    "('Close', 'ULTRACEMCO.BO')":12051.5,
+    "('High', 'ULTRACEMCO.BO')":12148.099609375,
+    "('Low', 'ULTRACEMCO.BO')":11960.0,
+    "('Open', 'ULTRACEMCO.BO')":12092.099609375,
+    "('Volume', 'ULTRACEMCO.BO')":3625
+  },
+  {
+    "('Date', '')":"2025-09-30",
+    "('Close', 'ULTRACEMCO.BO')":12223.900390625,
+    "('High', 'ULTRACEMCO.BO')":12256.900390625,
+    "('Low', 'ULTRACEMCO.BO')":12050.0,
+    "('Open', 'ULTRACEMCO.BO')":12050.0,
+    "('Volume', 'ULTRACEMCO.BO')":6118
+  },
+  {
+    "('Date', '')":"2025-10-01",
+    "('Close', 'ULTRACEMCO.BO')":12118.75,
+    "('High', 'ULTRACEMCO.BO')":12261.099609375,
+    "('Low', 'ULTRACEMCO.BO')":12066.650390625,
+    "('Open', 'ULTRACEMCO.BO')":12200.2001953125,
+    "('Volume', 'ULTRACEMCO.BO')":11854
+  },
+  {
+    "('Date', '')":"2025-10-03",
+    "('Close', 'ULTRACEMCO.BO')":12014.900390625,
+    "('High', 'ULTRACEMCO.BO')":12119.2001953125,
+    "('Low', 'ULTRACEMCO.BO')":11982.0,
+    "('Open', 'ULTRACEMCO.BO')":12119.150390625,
+    "('Volume', 'ULTRACEMCO.BO')":5552
+  },
+  {
+    "('Date', '')":"2025-10-06",
+    "('Close', 'ULTRACEMCO.BO')":12059.849609375,
+    "('High', 'ULTRACEMCO.BO')":12097.900390625,
+    "('Low', 'ULTRACEMCO.BO')":11988.849609375,
+    "('Open', 'ULTRACEMCO.BO')":12015.9501953125,
+    "('Volume', 'ULTRACEMCO.BO')":2729
+  },
+  {
+    "('Date', '')":"2025-10-07",
+    "('Close', 'ULTRACEMCO.BO')":12179.2998046875,
+    "('High', 'ULTRACEMCO.BO')":12202.400390625,
+    "('Low', 'ULTRACEMCO.BO')":12056.0,
+    "('Open', 'ULTRACEMCO.BO')":12056.0,
+    "('Volume', 'ULTRACEMCO.BO')":4839
+  },
+  {
+    "('Date', '')":"2025-10-08",
+    "('Close', 'ULTRACEMCO.BO')":11991.2001953125,
+    "('High', 'ULTRACEMCO.BO')":12179.25,
+    "('Low', 'ULTRACEMCO.BO')":11941.2001953125,
+    "('Open', 'ULTRACEMCO.BO')":12179.25,
+    "('Volume', 'ULTRACEMCO.BO')":2150
+  },
+  {
+    "('Date', '')":"2025-10-09",
+    "('Close', 'ULTRACEMCO.BO')":12192.599609375,
+    "('High', 'ULTRACEMCO.BO')":12211.25,
+    "('Low', 'ULTRACEMCO.BO')":11980.0,
+    "('Open', 'ULTRACEMCO.BO')":12053.0,
+    "('Volume', 'ULTRACEMCO.BO')":3335
+  },
+  {
+    "('Date', '')":"2025-10-10",
+    "('Close', 'ULTRACEMCO.BO')":12274.25,
+    "('High', 'ULTRACEMCO.BO')":12322.0498046875,
+    "('Low', 'ULTRACEMCO.BO')":12114.9501953125,
+    "('Open', 'ULTRACEMCO.BO')":12135.0498046875,
+    "('Volume', 'ULTRACEMCO.BO')":3048
+  },
+  {
+    "('Date', '')":"2025-10-13",
+    "('Close', 'ULTRACEMCO.BO')":12171.400390625,
+    "('High', 'ULTRACEMCO.BO')":12240.0,
+    "('Low', 'ULTRACEMCO.BO')":12154.400390625,
+    "('Open', 'ULTRACEMCO.BO')":12239.150390625,
+    "('Volume', 'ULTRACEMCO.BO')":1014
+  },
+  {
+    "('Date', '')":"2025-10-14",
+    "('Close', 'ULTRACEMCO.BO')":12070.150390625,
+    "('High', 'ULTRACEMCO.BO')":12250.0,
+    "('Low', 'ULTRACEMCO.BO')":12029.400390625,
+    "('Open', 'ULTRACEMCO.BO')":12141.0498046875,
+    "('Volume', 'ULTRACEMCO.BO')":1665
+  },
+  {
+    "('Date', '')":"2025-10-15",
+    "('Close', 'ULTRACEMCO.BO')":12307.150390625,
+    "('High', 'ULTRACEMCO.BO')":12320.5,
+    "('Low', 'ULTRACEMCO.BO')":12080.150390625,
+    "('Open', 'ULTRACEMCO.BO')":12080.150390625,
+    "('Volume', 'ULTRACEMCO.BO')":4469
+  },
+  {
+    "('Date', '')":"2025-10-16",
+    "('Close', 'ULTRACEMCO.BO')":12356.0498046875,
+    "('High', 'ULTRACEMCO.BO')":12400.0,
+    "('Low', 'ULTRACEMCO.BO')":12272.0498046875,
+    "('Open', 'ULTRACEMCO.BO')":12380.849609375,
+    "('Volume', 'ULTRACEMCO.BO')":4584
+  },
+  {
+    "('Date', '')":"2025-10-17",
+    "('Close', 'ULTRACEMCO.BO')":12362.25,
+    "('High', 'ULTRACEMCO.BO')":12392.900390625,
+    "('Low', 'ULTRACEMCO.BO')":12270.0,
+    "('Open', 'ULTRACEMCO.BO')":12340.0,
+    "('Volume', 'ULTRACEMCO.BO')":2084
+  },
+  {
+    "('Date', '')":"2025-10-20",
+    "('Close', 'ULTRACEMCO.BO')":12336.400390625,
+    "('High', 'ULTRACEMCO.BO')":12424.099609375,
+    "('Low', 'ULTRACEMCO.BO')":12178.9501953125,
+    "('Open', 'ULTRACEMCO.BO')":12424.0498046875,
+    "('Volume', 'ULTRACEMCO.BO')":6694
+  },
+  {
+    "('Date', '')":"2025-10-21",
+    "('Close', 'ULTRACEMCO.BO')":12346.5,
+    "('High', 'ULTRACEMCO.BO')":12413.0,
+    "('Low', 'ULTRACEMCO.BO')":12310.0,
+    "('Open', 'ULTRACEMCO.BO')":12370.0,
+    "('Volume', 'ULTRACEMCO.BO')":529
+  },
+  {
+    "('Date', '')":"2025-10-23",
+    "('Close', 'ULTRACEMCO.BO')":12142.75,
+    "('High', 'ULTRACEMCO.BO')":12417.9501953125,
+    "('Low', 'ULTRACEMCO.BO')":12117.25,
+    "('Open', 'ULTRACEMCO.BO')":12346.5,
+    "('Volume', 'ULTRACEMCO.BO')":14559
+  },
+  {
+    "('Date', '')":"2025-10-24",
+    "('Close', 'ULTRACEMCO.BO')":11911.400390625,
+    "('High', 'ULTRACEMCO.BO')":12164.0,
+    "('Low', 'ULTRACEMCO.BO')":11878.0,
+    "('Open', 'ULTRACEMCO.BO')":12158.0,
+    "('Volume', 'ULTRACEMCO.BO')":80535
+  },
+  {
+    "('Date', '')":"2025-10-27",
+    "('Close', 'ULTRACEMCO.BO')":12014.7001953125,
+    "('High', 'ULTRACEMCO.BO')":12047.599609375,
+    "('Low', 'ULTRACEMCO.BO')":11925.0,
+    "('Open', 'ULTRACEMCO.BO')":11939.9501953125,
+    "('Volume', 'ULTRACEMCO.BO')":56733
+  },
+  {
+    "('Date', '')":"2025-10-28",
+    "('Close', 'ULTRACEMCO.BO')":11932.7001953125,
+    "('High', 'ULTRACEMCO.BO')":12040.2998046875,
+    "('Low', 'ULTRACEMCO.BO')":11868.0,
+    "('Open', 'ULTRACEMCO.BO')":12040.25,
+    "('Volume', 'ULTRACEMCO.BO')":3394
+  },
+  {
+    "('Date', '')":"2025-10-29",
+    "('Close', 'ULTRACEMCO.BO')":11998.900390625,
+    "('High', 'ULTRACEMCO.BO')":12058.5498046875,
+    "('Low', 'ULTRACEMCO.BO')":11896.0,
+    "('Open', 'ULTRACEMCO.BO')":11932.7001953125,
+    "('Volume', 'ULTRACEMCO.BO')":4380
+  },
+  {
+    "('Date', '')":"2025-10-30",
+    "('Close', 'ULTRACEMCO.BO')":12051.150390625,
+    "('High', 'ULTRACEMCO.BO')":12080.0,
+    "('Low', 'ULTRACEMCO.BO')":11951.599609375,
+    "('Open', 'ULTRACEMCO.BO')":12010.2001953125,
+    "('Volume', 'ULTRACEMCO.BO')":3252
+  },
+  {
+    "('Date', '')":"2025-10-31",
+    "('Close', 'ULTRACEMCO.BO')":11946.7998046875,
+    "('High', 'ULTRACEMCO.BO')":12100.0,
+    "('Low', 'ULTRACEMCO.BO')":11929.75,
+    "('Open', 'ULTRACEMCO.BO')":12053.0498046875,
+    "('Volume', 'ULTRACEMCO.BO')":2168
+  },
+  {
+    "('Date', '')":"2025-11-03",
+    "('Close', 'ULTRACEMCO.BO')":11953.0498046875,
+    "('High', 'ULTRACEMCO.BO')":11977.0,
+    "('Low', 'ULTRACEMCO.BO')":11880.0498046875,
+    "('Open', 'ULTRACEMCO.BO')":11892.2998046875,
+    "('Volume', 'ULTRACEMCO.BO')":2705
+  },
+  {
+    "('Date', '')":"2025-11-04",
+    "('Close', 'ULTRACEMCO.BO')":11815.5498046875,
+    "('High', 'ULTRACEMCO.BO')":11958.0,
+    "('Low', 'ULTRACEMCO.BO')":11775.0,
+    "('Open', 'ULTRACEMCO.BO')":11924.2998046875,
+    "('Volume', 'ULTRACEMCO.BO')":4630
+  },
+  {
+    "('Date', '')":"2025-11-06",
+    "('Close', 'ULTRACEMCO.BO')":11906.5,
+    "('High', 'ULTRACEMCO.BO')":11982.4501953125,
+    "('Low', 'ULTRACEMCO.BO')":11804.150390625,
+    "('Open', 'ULTRACEMCO.BO')":11815.5498046875,
+    "('Volume', 'ULTRACEMCO.BO')":27334
+  },
+  {
+    "('Date', '')":"2025-11-07",
+    "('Close', 'ULTRACEMCO.BO')":11850.599609375,
+    "('High', 'ULTRACEMCO.BO')":11952.400390625,
+    "('Low', 'ULTRACEMCO.BO')":11829.349609375,
+    "('Open', 'ULTRACEMCO.BO')":11905.900390625,
+    "('Volume', 'ULTRACEMCO.BO')":1108
+  },
+  {
+    "('Date', '')":"2025-11-10",
+    "('Close', 'ULTRACEMCO.BO')":11734.849609375,
+    "('High', 'ULTRACEMCO.BO')":11891.9501953125,
+    "('Low', 'ULTRACEMCO.BO')":11705.0,
+    "('Open', 'ULTRACEMCO.BO')":11850.7998046875,
+    "('Volume', 'ULTRACEMCO.BO')":2421
+  },
+  {
+    "('Date', '')":"2025-11-11",
+    "('Close', 'ULTRACEMCO.BO')":11828.25,
+    "('High', 'ULTRACEMCO.BO')":11846.9501953125,
+    "('Low', 'ULTRACEMCO.BO')":11718.400390625,
+    "('Open', 'ULTRACEMCO.BO')":11760.0,
+    "('Volume', 'ULTRACEMCO.BO')":2162
+  },
+  {
+    "('Date', '')":"2025-11-12",
+    "('Close', 'ULTRACEMCO.BO')":11920.4501953125,
+    "('High', 'ULTRACEMCO.BO')":11940.0,
+    "('Low', 'ULTRACEMCO.BO')":11752.099609375,
+    "('Open', 'ULTRACEMCO.BO')":11752.099609375,
+    "('Volume', 'ULTRACEMCO.BO')":5577
+  },
+  {
+    "('Date', '')":"2025-11-13",
+    "('Close', 'ULTRACEMCO.BO')":11939.2001953125,
+    "('High', 'ULTRACEMCO.BO')":12017.0,
+    "('Low', 'ULTRACEMCO.BO')":11907.0498046875,
+    "('Open', 'ULTRACEMCO.BO')":11921.0,
+    "('Volume', 'ULTRACEMCO.BO')":4414
+  }
+]

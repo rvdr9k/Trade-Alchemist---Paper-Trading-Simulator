@@ -1,0 +1,1986 @@
+[
+  {
+    "('Date', '')":"2024-11-13",
+    "('Close', 'SHREECEM.BO')":23926.14453125,
+    "('High', 'SHREECEM.BO')":24096.0745405354,
+    "('Low', 'SHREECEM.BO')":23783.1385075414,
+    "('Open', 'SHREECEM.BO')":24096.0745405354,
+    "('Volume', 'SHREECEM.BO')":429
+  },
+  {
+    "('Date', '')":"2024-11-14",
+    "('Close', 'SHREECEM.BO')":23939.16015625,
+    "('High', 'SHREECEM.BO')":24076.2559416037,
+    "('Low', 'SHREECEM.BO')":23510.1886546428,
+    "('Open', 'SHREECEM.BO')":23842.7452788974,
+    "('Volume', 'SHREECEM.BO')":397
+  },
+  {
+    "('Date', '')":"2024-11-18",
+    "('Close', 'SHREECEM.BO')":23779.564453125,
+    "('High', 'SHREECEM.BO')":24190.4036291259,
+    "('Low', 'SHREECEM.BO')":23679.9713105671,
+    "('Open', 'SHREECEM.BO')":24190.4036291259,
+    "('Volume', 'SHREECEM.BO')":409
+  },
+  {
+    "('Date', '')":"2024-11-19",
+    "('Close', 'SHREECEM.BO')":23960.072265625,
+    "('High', 'SHREECEM.BO')":24160.649758387,
+    "('Low', 'SHREECEM.BO')":23755.3230683614,
+    "('Open', 'SHREECEM.BO')":23755.3230683614,
+    "('Volume', 'SHREECEM.BO')":157952
+  },
+  {
+    "('Date', '')":"2024-11-21",
+    "('Close', 'SHREECEM.BO')":23908.810546875,
+    "('High', 'SHREECEM.BO')":24242.5585461464,
+    "('Low', 'SHREECEM.BO')":23702.61968789,
+    "('Open', 'SHREECEM.BO')":23743.4519431408,
+    "('Volume', 'SHREECEM.BO')":389
+  },
+  {
+    "('Date', '')":"2024-11-22",
+    "('Close', 'SHREECEM.BO')":24635.3203125,
+    "('High', 'SHREECEM.BO')":24666.7128745086,
+    "('Low', 'SHREECEM.BO')":23940.6014988098,
+    "('Open', 'SHREECEM.BO')":24106.2084687979,
+    "('Volume', 'SHREECEM.BO')":410
+  },
+  {
+    "('Date', '')":"2024-11-25",
+    "('Close', 'SHREECEM.BO')":25326.708984375,
+    "('High', 'SHREECEM.BO')":25581.2799744116,
+    "('Low', 'SHREECEM.BO')":24781.2072041318,
+    "('Open', 'SHREECEM.BO')":24822.1364759598,
+    "('Volume', 'SHREECEM.BO')":1230
+  },
+  {
+    "('Date', '')":"2024-11-26",
+    "('Close', 'SHREECEM.BO')":24828.24609375,
+    "('High', 'SHREECEM.BO')":25387.6076238458,
+    "('Low', 'SHREECEM.BO')":24768.6392289283,
+    "('Open', 'SHREECEM.BO')":25387.6076238458,
+    "('Volume', 'SHREECEM.BO')":276
+  },
+  {
+    "('Date', '')":"2024-11-27",
+    "('Close', 'SHREECEM.BO')":25242.6640625,
+    "('High', 'SHREECEM.BO')":25382.590794332,
+    "('Low', 'SHREECEM.BO')":24644.8064120038,
+    "('Open', 'SHREECEM.BO')":24836.1945150019,
+    "('Volume', 'SHREECEM.BO')":649
+  },
+  {
+    "('Date', '')":"2024-11-28",
+    "('Close', 'SHREECEM.BO')":25384.775390625,
+    "('High', 'SHREECEM.BO')":25494.6522665009,
+    "('Low', 'SHREECEM.BO')":25084.5562499742,
+    "('Open', 'SHREECEM.BO')":25217.1310790534,
+    "('Volume', 'SHREECEM.BO')":381
+  },
+  {
+    "('Date', '')":"2024-11-29",
+    "('Close', 'SHREECEM.BO')":25889.3984375,
+    "('High', 'SHREECEM.BO')":26132.6437372914,
+    "('Low', 'SHREECEM.BO')":25384.7754756848,
+    "('Open', 'SHREECEM.BO')":25384.7754756848,
+    "('Volume', 'SHREECEM.BO')":1531
+  },
+  {
+    "('Date', '')":"2024-12-02",
+    "('Close', 'SHREECEM.BO')":26608.357421875,
+    "('High', 'SHREECEM.BO')":26834.5162097013,
+    "('Low', 'SHREECEM.BO')":25881.3030115003,
+    "('Open', 'SHREECEM.BO')":25907.0822067014,
+    "('Volume', 'SHREECEM.BO')":1126
+  },
+  {
+    "('Date', '')":"2024-12-03",
+    "('Close', 'SHREECEM.BO')":26977.125,
+    "('High', 'SHREECEM.BO')":27180.7313470258,
+    "('Low', 'SHREECEM.BO')":26608.5054239305,
+    "('Open', 'SHREECEM.BO')":26608.5054239305,
+    "('Volume', 'SHREECEM.BO')":494
+  },
+  {
+    "('Date', '')":"2024-12-04",
+    "('Close', 'SHREECEM.BO')":27240.140625,
+    "('High', 'SHREECEM.BO')":27319.8143620265,
+    "('Low', 'SHREECEM.BO')":26798.3047181814,
+    "('Open', 'SHREECEM.BO')":26798.3047181814,
+    "('Volume', 'SHREECEM.BO')":324
+  },
+  {
+    "('Date', '')":"2024-12-05",
+    "('Close', 'SHREECEM.BO')":26434.998046875,
+    "('High', 'SHREECEM.BO')":27260.9508801829,
+    "('Low', 'SHREECEM.BO')":26341.912770421,
+    "('Open', 'SHREECEM.BO')":27220.4678850618,
+    "('Volume', 'SHREECEM.BO')":647
+  },
+  {
+    "('Date', '')":"2024-12-06",
+    "('Close', 'SHREECEM.BO')":26852.64453125,
+    "('High', 'SHREECEM.BO')":26942.303191391,
+    "('Low', 'SHREECEM.BO')":26402.9600156187,
+    "('Open', 'SHREECEM.BO')":26475.3827452275,
+    "('Volume', 'SHREECEM.BO')":538
+  },
+  {
+    "('Date', '')":"2024-12-09",
+    "('Close', 'SHREECEM.BO')":26549.693359375,
+    "('High', 'SHREECEM.BO')":26942.3031363219,
+    "('Low', 'SHREECEM.BO')":26258.9100370663,
+    "('Open', 'SHREECEM.BO')":26742.6201374133,
+    "('Volume', 'SHREECEM.BO')":407
+  },
+  {
+    "('Date', '')":"2024-12-10",
+    "('Close', 'SHREECEM.BO')":26895.51171875,
+    "('High', 'SHREECEM.BO')":26973.6952797873,
+    "('Low', 'SHREECEM.BO')":26405.990344675,
+    "('Open', 'SHREECEM.BO')":26813.1545130065,
+    "('Volume', 'SHREECEM.BO')":511
+  },
+  {
+    "('Date', '')":"2024-12-11",
+    "('Close', 'SHREECEM.BO')":27092.166015625,
+    "('High', 'SHREECEM.BO')":27370.0830424662,
+    "('Low', 'SHREECEM.BO')":26771.4317759312,
+    "('Open', 'SHREECEM.BO')":27101.3068997392,
+    "('Volume', 'SHREECEM.BO')":536
+  },
+  {
+    "('Date', '')":"2024-12-12",
+    "('Close', 'SHREECEM.BO')":27043.583984375,
+    "('High', 'SHREECEM.BO')":27152.6653225783,
+    "('Low', 'SHREECEM.BO')":26957.6507546915,
+    "('Open', 'SHREECEM.BO')":27014.6750431481,
+    "('Volume', 'SHREECEM.BO')":175
+  },
+  {
+    "('Date', '')":"2024-12-13",
+    "('Close', 'SHREECEM.BO')":27405.34765625,
+    "('High', 'SHREECEM.BO')":27487.7048599898,
+    "('Low', 'SHREECEM.BO')":26926.8046674796,
+    "('Open', 'SHREECEM.BO')":27081.9319164323,
+    "('Volume', 'SHREECEM.BO')":238
+  },
+  {
+    "('Date', '')":"2024-12-16",
+    "('Close', 'SHREECEM.BO')":27899.091796875,
+    "('High', 'SHREECEM.BO')":27939.2779220937,
+    "('Low', 'SHREECEM.BO')":27223.2504645731,
+    "('Open', 'SHREECEM.BO')":27223.2504645731,
+    "('Volume', 'SHREECEM.BO')":289
+  },
+  {
+    "('Date', '')":"2024-12-17",
+    "('Close', 'SHREECEM.BO')":28159.724609375,
+    "('High', 'SHREECEM.BO')":28223.505123335,
+    "('Low', 'SHREECEM.BO')":27810.4791939875,
+    "('Open', 'SHREECEM.BO')":27817.382880175,
+    "('Volume', 'SHREECEM.BO')":398
+  },
+  {
+    "('Date', '')":"2024-12-18",
+    "('Close', 'SHREECEM.BO')":27742.576171875,
+    "('High', 'SHREECEM.BO')":28161.5123206885,
+    "('Low', 'SHREECEM.BO')":27662.3048158636,
+    "('Open', 'SHREECEM.BO')":28001.9649967642,
+    "('Volume', 'SHREECEM.BO')":91
+  },
+  {
+    "('Date', '')":"2024-12-19",
+    "('Close', 'SHREECEM.BO')":27414.490234375,
+    "('High', 'SHREECEM.BO')":27647.5022464233,
+    "('Low', 'SHREECEM.BO')":26138.7034341361,
+    "('Open', 'SHREECEM.BO')":26138.7034341361,
+    "('Volume', 'SHREECEM.BO')":423
+  },
+  {
+    "('Date', '')":"2024-12-20",
+    "('Close', 'SHREECEM.BO')":26885.12890625,
+    "('High', 'SHREECEM.BO')":27582.8280273548,
+    "('Low', 'SHREECEM.BO')":26806.94534556,
+    "('Open', 'SHREECEM.BO')":27071.5012537806,
+    "('Volume', 'SHREECEM.BO')":265
+  },
+  {
+    "('Date', '')":"2024-12-23",
+    "('Close', 'SHREECEM.BO')":27007.373046875,
+    "('High', 'SHREECEM.BO')":27140.0972744709,
+    "('Low', 'SHREECEM.BO')":26810.2726307614,
+    "('Open', 'SHREECEM.BO')":27003.1508940564,
+    "('Volume', 'SHREECEM.BO')":78
+  },
+  {
+    "('Date', '')":"2024-12-24",
+    "('Close', 'SHREECEM.BO')":26550.08984375,
+    "('High', 'SHREECEM.BO')":27174.0759468611,
+    "('Low', 'SHREECEM.BO')":26435.6958841028,
+    "('Open', 'SHREECEM.BO')":26999.1282404762,
+    "('Volume', 'SHREECEM.BO')":217
+  },
+  {
+    "('Date', '')":"2024-12-26",
+    "('Close', 'SHREECEM.BO')":26159.716796875,
+    "('High', 'SHREECEM.BO')":26674.0744143054,
+    "('Low', 'SHREECEM.BO')":26077.9552637868,
+    "('Open', 'SHREECEM.BO')":26525.1076873295,
+    "('Volume', 'SHREECEM.BO')":594
+  },
+  {
+    "('Date', '')":"2024-12-27",
+    "('Close', 'SHREECEM.BO')":25845.2890625,
+    "('High', 'SHREECEM.BO')":26217.1858505892,
+    "('Low', 'SHREECEM.BO')":25722.0510893555,
+    "('Open', 'SHREECEM.BO')":26177.44793942,
+    "('Volume', 'SHREECEM.BO')":131
+  },
+  {
+    "('Date', '')":"2024-12-30",
+    "('Close', 'SHREECEM.BO')":25716.9375,
+    "('High', 'SHREECEM.BO')":26297.8561140788,
+    "('Low', 'SHREECEM.BO')":25459.7334707459,
+    "('Open', 'SHREECEM.BO')":25740.035161868,
+    "('Volume', 'SHREECEM.BO')":1226
+  },
+  {
+    "('Date', '')":"2024-12-31",
+    "('Close', 'SHREECEM.BO')":25533.84375,
+    "('High', 'SHREECEM.BO')":25846.5314454474,
+    "('Low', 'SHREECEM.BO')":25501.8050584093,
+    "('Open', 'SHREECEM.BO')":25608.7501022807,
+    "('Volume', 'SHREECEM.BO')":241
+  },
+  {
+    "('Date', '')":"2025-01-01",
+    "('Close', 'SHREECEM.BO')":25328.197265625,
+    "('High', 'SHREECEM.BO')":25679.5304299131,
+    "('Low', 'SHREECEM.BO')":25034.8818346064,
+    "('Open', 'SHREECEM.BO')":25608.1516013192,
+    "('Volume', 'SHREECEM.BO')":485
+  },
+  {
+    "('Date', '')":"2025-01-02",
+    "('Close', 'SHREECEM.BO')":26530.8671875,
+    "('High', 'SHREECEM.BO')":26591.6169077248,
+    "('Low', 'SHREECEM.BO')":25429.2325487162,
+    "('Open', 'SHREECEM.BO')":25468.9704601859,
+    "('Volume', 'SHREECEM.BO')":542
+  },
+  {
+    "('Date', '')":"2025-01-03",
+    "('Close', 'SHREECEM.BO')":25939.01953125,
+    "('High', 'SHREECEM.BO')":26768.4998886183,
+    "('Low', 'SHREECEM.BO')":25861.7789692174,
+    "('Open', 'SHREECEM.BO')":26574.7271301791,
+    "('Volume', 'SHREECEM.BO')":405
+  },
+  {
+    "('Date', '')":"2025-01-06",
+    "('Close', 'SHREECEM.BO')":25674.763671875,
+    "('High', 'SHREECEM.BO')":26167.6631815327,
+    "('Low', 'SHREECEM.BO')":25604.6266458835,
+    "('Open', 'SHREECEM.BO')":25985.0667013834,
+    "('Volume', 'SHREECEM.BO')":558
+  },
+  {
+    "('Date', '')":"2025-01-07",
+    "('Close', 'SHREECEM.BO')":25812.904296875,
+    "('High', 'SHREECEM.BO')":26091.7643258119,
+    "('Low', 'SHREECEM.BO')":25707.598827202,
+    "('Open', 'SHREECEM.BO')":25752.6008495731,
+    "('Volume', 'SHREECEM.BO')":311
+  },
+  {
+    "('Date', '')":"2025-01-08",
+    "('Close', 'SHREECEM.BO')":25857.30859375,
+    "('High', 'SHREECEM.BO')":26013.9260193727,
+    "('Low', 'SHREECEM.BO')":25644.3130083977,
+    "('Open', 'SHREECEM.BO')":25916.6185885344,
+    "('Volume', 'SHREECEM.BO')":133
+  },
+  {
+    "('Date', '')":"2025-01-09",
+    "('Close', 'SHREECEM.BO')":25807.33984375,
+    "('High', 'SHREECEM.BO')":25896.649245838,
+    "('Low', 'SHREECEM.BO')":25512.7321319956,
+    "('Open', 'SHREECEM.BO')":25598.4170019923,
+    "('Volume', 'SHREECEM.BO')":466
+  },
+  {
+    "('Date', '')":"2025-01-10",
+    "('Close', 'SHREECEM.BO')":25561.908203125,
+    "('High', 'SHREECEM.BO')":25837.2426444929,
+    "('Low', 'SHREECEM.BO')":25416.9637833914,
+    "('Open', 'SHREECEM.BO')":25833.2688533574,
+    "('Volume', 'SHREECEM.BO')":382
+  },
+  {
+    "('Date', '')":"2025-01-13",
+    "('Close', 'SHREECEM.BO')":24698.69921875,
+    "('High', 'SHREECEM.BO')":25263.970966195,
+    "('Low', 'SHREECEM.BO')":24648.5805578712,
+    "('Open', 'SHREECEM.BO')":25084.6051462066,
+    "('Volume', 'SHREECEM.BO')":270
+  },
+  {
+    "('Date', '')":"2025-01-14",
+    "('Close', 'SHREECEM.BO')":24987.296875,
+    "('High', 'SHREECEM.BO')":25054.6029603596,
+    "('Low', 'SHREECEM.BO')":24763.324854905,
+    "('Open', 'SHREECEM.BO')":24818.162394816,
+    "('Volume', 'SHREECEM.BO')":67
+  },
+  {
+    "('Date', '')":"2025-01-15",
+    "('Close', 'SHREECEM.BO')":25122.2578125,
+    "('High', 'SHREECEM.BO')":25283.1478497935,
+    "('Low', 'SHREECEM.BO')":24966.3369545925,
+    "('Open', 'SHREECEM.BO')":25283.1478497935,
+    "('Volume', 'SHREECEM.BO')":100
+  },
+  {
+    "('Date', '')":"2025-01-16",
+    "('Close', 'SHREECEM.BO')":25243.208984375,
+    "('High', 'SHREECEM.BO')":25561.6089941446,
+    "('Low', 'SHREECEM.BO')":25203.2731602167,
+    "('Open', 'SHREECEM.BO')":25358.4993740279,
+    "('Volume', 'SHREECEM.BO')":103
+  },
+  {
+    "('Date', '')":"2025-01-17",
+    "('Close', 'SHREECEM.BO')":25131.345703125,
+    "('High', 'SHREECEM.BO')":25415.7201104129,
+    "('Low', 'SHREECEM.BO')":25081.9721280169,
+    "('Open', 'SHREECEM.BO')":25233.5214121409,
+    "('Volume', 'SHREECEM.BO')":63
+  },
+  {
+    "('Date', '')":"2025-01-20",
+    "('Close', 'SHREECEM.BO')":24989.98046875,
+    "('High', 'SHREECEM.BO')":25148.3849378202,
+    "('Low', 'SHREECEM.BO')":24826.2595019061,
+    "('Open', 'SHREECEM.BO')":24956.2517531292,
+    "('Volume', 'SHREECEM.BO')":93
+  },
+  {
+    "('Date', '')":"2025-01-21",
+    "('Close', 'SHREECEM.BO')":24976.171875,
+    "('High', 'SHREECEM.BO')":25373.8983087584,
+    "('Low', 'SHREECEM.BO')":24828.9921971799,
+    "('Open', 'SHREECEM.BO')":24886.6121688692,
+    "('Volume', 'SHREECEM.BO')":175
+  },
+  {
+    "('Date', '')":"2025-01-22",
+    "('Close', 'SHREECEM.BO')":25113.61328125,
+    "('High', 'SHREECEM.BO')":25255.8257104643,
+    "('Low', 'SHREECEM.BO')":24866.3437556229,
+    "('Open', 'SHREECEM.BO')":24866.3437556229,
+    "('Volume', 'SHREECEM.BO')":211
+  },
+  {
+    "('Date', '')":"2025-01-23",
+    "('Close', 'SHREECEM.BO')":25740.677734375,
+    "('High', 'SHREECEM.BO')":25848.1194976737,
+    "('Low', 'SHREECEM.BO')":25013.6233793576,
+    "('Open', 'SHREECEM.BO')":25184.8437127108,
+    "('Volume', 'SHREECEM.BO')":284
+  },
+  {
+    "('Date', '')":"2025-01-24",
+    "('Close', 'SHREECEM.BO')":25636.16796875,
+    "('High', 'SHREECEM.BO')":26162.4469228948,
+    "('Low', 'SHREECEM.BO')":25515.8618323286,
+    "('Open', 'SHREECEM.BO')":26028.2810259383,
+    "('Volume', 'SHREECEM.BO')":319
+  },
+  {
+    "('Date', '')":"2025-01-27",
+    "('Close', 'SHREECEM.BO')":24898.185546875,
+    "('High', 'SHREECEM.BO')":25516.7057346472,
+    "('Low', 'SHREECEM.BO')":24732.031408891,
+    "('Open', 'SHREECEM.BO')":25516.7057346472,
+    "('Volume', 'SHREECEM.BO')":655
+  },
+  {
+    "('Date', '')":"2025-01-28",
+    "('Close', 'SHREECEM.BO')":25828.99609375,
+    "('High', 'SHREECEM.BO')":26088.8331361654,
+    "('Low', 'SHREECEM.BO')":24955.4081784047,
+    "('Open', 'SHREECEM.BO')":24955.4081784047,
+    "('Volume', 'SHREECEM.BO')":380
+  },
+  {
+    "('Date', '')":"2025-01-29",
+    "('Close', 'SHREECEM.BO')":26456.20703125,
+    "('High', 'SHREECEM.BO')":26897.5461743604,
+    "('Low', 'SHREECEM.BO')":25780.1658677461,
+    "('Open', 'SHREECEM.BO')":25780.1658677461,
+    "('Volume', 'SHREECEM.BO')":688
+  },
+  {
+    "('Date', '')":"2025-01-30",
+    "('Close', 'SHREECEM.BO')":26633.392578125,
+    "('High', 'SHREECEM.BO')":27170.7973906025,
+    "('Low', 'SHREECEM.BO')":26208.7925993924,
+    "('Open', 'SHREECEM.BO')":26821.9982553101,
+    "('Volume', 'SHREECEM.BO')":1477
+  },
+  {
+    "('Date', '')":"2025-01-31",
+    "('Close', 'SHREECEM.BO')":27647.552734375,
+    "('High', 'SHREECEM.BO')":27792.1478944198,
+    "('Low', 'SHREECEM.BO')":26484.0255313497,
+    "('Open', 'SHREECEM.BO')":27160.6643659259,
+    "('Volume', 'SHREECEM.BO')":961
+  },
+  {
+    "('Date', '')":"2025-02-01",
+    "('Close', 'SHREECEM.BO')":27165.978515625,
+    "('High', 'SHREECEM.BO')":27684.2594380455,
+    "('Low', 'SHREECEM.BO')":25956.8536299563,
+    "('Open', 'SHREECEM.BO')":25956.8536299563,
+    "('Volume', 'SHREECEM.BO')":692
+  },
+  {
+    "('Date', '')":"2025-02-03",
+    "('Close', 'SHREECEM.BO')":27340.1796875,
+    "('High', 'SHREECEM.BO')":27495.9026273454,
+    "('Low', 'SHREECEM.BO')":26670.894692825,
+    "('Open', 'SHREECEM.BO')":26676.1588018735,
+    "('Volume', 'SHREECEM.BO')":786
+  },
+  {
+    "('Date', '')":"2025-02-04",
+    "('Close', 'SHREECEM.BO')":27780.525390625,
+    "('High', 'SHREECEM.BO')":27842.3675150027,
+    "('Low', 'SHREECEM.BO')":27175.7640538392,
+    "('Open', 'SHREECEM.BO')":27546.170670982,
+    "('Volume', 'SHREECEM.BO')":570
+  },
+  {
+    "('Date', '')":"2025-02-05",
+    "('Close', 'SHREECEM.BO')":28262.015625,
+    "('High', 'SHREECEM.BO')":28423.6895099751,
+    "('Low', 'SHREECEM.BO')":27659.4541361055,
+    "('Open', 'SHREECEM.BO')":27892.1876336162,
+    "('Volume', 'SHREECEM.BO')":852
+  },
+  {
+    "('Date', '')":"2025-02-06",
+    "('Close', 'SHREECEM.BO')":27679.41015625,
+    "('High', 'SHREECEM.BO')":28214.6927478934,
+    "('Low', 'SHREECEM.BO')":27614.5707116684,
+    "('Open', 'SHREECEM.BO')":27995.6922123765,
+    "('Volume', 'SHREECEM.BO')":247
+  },
+  {
+    "('Date', '')":"2025-02-07",
+    "('Close', 'SHREECEM.BO')":28127.2109375,
+    "('High', 'SHREECEM.BO')":28283.5607456234,
+    "('Low', 'SHREECEM.BO')":27766.839548465,
+    "('Open', 'SHREECEM.BO')":27859.1974123697,
+    "('Volume', 'SHREECEM.BO')":405
+  },
+  {
+    "('Date', '')":"2025-02-10",
+    "('Close', 'SHREECEM.BO')":27916.96875,
+    "('High', 'SHREECEM.BO')":28270.2744089822,
+    "('Low', 'SHREECEM.BO')":27837.6499190117,
+    "('Open', 'SHREECEM.BO')":28264.402179692,
+    "('Volume', 'SHREECEM.BO')":190
+  },
+  {
+    "('Date', '')":"2025-02-11",
+    "('Close', 'SHREECEM.BO')":27836.90625,
+    "('High', 'SHREECEM.BO')":28284.3600583625,
+    "('Low', 'SHREECEM.BO')":27667.4688010227,
+    "('Open', 'SHREECEM.BO')":27906.1736817904,
+    "('Volume', 'SHREECEM.BO')":698
+  },
+  {
+    "('Date', '')":"2025-02-12",
+    "('Close', 'SHREECEM.BO')":28116.513671875,
+    "('High', 'SHREECEM.BO')":28189.8125494005,
+    "('Low', 'SHREECEM.BO')":27209.4631451612,
+    "('Open', 'SHREECEM.BO')":27856.4114124526,
+    "('Volume', 'SHREECEM.BO')":318
+  },
+  {
+    "('Date', '')":"2025-02-13",
+    "('Close', 'SHREECEM.BO')":28065.5078125,
+    "('High', 'SHREECEM.BO')":28596.8600343624,
+    "('Low', 'SHREECEM.BO')":27968.074675171,
+    "('Open', 'SHREECEM.BO')":28164.9314043452,
+    "('Volume', 'SHREECEM.BO')":613
+  },
+  {
+    "('Date', '')":"2025-02-14",
+    "('Close', 'SHREECEM.BO')":28359.845703125,
+    "('High', 'SHREECEM.BO')":28576.6069730974,
+    "('Low', 'SHREECEM.BO')":27826.3047695577,
+    "('Open', 'SHREECEM.BO')":28278.934894952,
+    "('Volume', 'SHREECEM.BO')":701
+  },
+  {
+    "('Date', '')":"2025-02-17",
+    "('Close', 'SHREECEM.BO')":28173.541015625,
+    "('High', 'SHREECEM.BO')":28359.8467841717,
+    "('Low', 'SHREECEM.BO')":27975.0417691439,
+    "('Open', 'SHREECEM.BO')":28359.8467841717,
+    "('Volume', 'SHREECEM.BO')":251
+  },
+  {
+    "('Date', '')":"2025-02-18",
+    "('Close', 'SHREECEM.BO')":28203.197265625,
+    "('High', 'SHREECEM.BO')":28294.3110991127,
+    "('Low', 'SHREECEM.BO')":27911.0980638104,
+    "('Open', 'SHREECEM.BO')":28194.7883727704,
+    "('Volume', 'SHREECEM.BO')":324
+  },
+  {
+    "('Date', '')":"2025-02-19",
+    "('Close', 'SHREECEM.BO')":28513.2109375,
+    "('High', 'SHREECEM.BO')":28648.2644452251,
+    "('Low', 'SHREECEM.BO')":28108.6024544548,
+    "('Open', 'SHREECEM.BO')":28164.9319295532,
+    "('Volume', 'SHREECEM.BO')":266
+  },
+  {
+    "('Date', '')":"2025-02-20",
+    "('Close', 'SHREECEM.BO')":28347.15625,
+    "('High', 'SHREECEM.BO')":28756.2937743947,
+    "('Low', 'SHREECEM.BO')":28195.7825774838,
+    "('Open', 'SHREECEM.BO')":28460.4624810709,
+    "('Volume', 'SHREECEM.BO')":173
+  },
+  {
+    "('Date', '')":"2025-02-21",
+    "('Close', 'SHREECEM.BO')":28232.85546875,
+    "('High', 'SHREECEM.BO')":28430.1087324158,
+    "('Low', 'SHREECEM.BO')":27949.9621225974,
+    "('Open', 'SHREECEM.BO')":27949.9621225974,
+    "('Volume', 'SHREECEM.BO')":162
+  },
+  {
+    "('Date', '')":"2025-02-24",
+    "('Close', 'SHREECEM.BO')":28184.93359375,
+    "('High', 'SHREECEM.BO')":28304.5105312516,
+    "('Low', 'SHREECEM.BO')":28039.0336741842,
+    "('Open', 'SHREECEM.BO')":28039.0336741842,
+    "('Volume', 'SHREECEM.BO')":102
+  },
+  {
+    "('Date', '')":"2025-02-25",
+    "('Close', 'SHREECEM.BO')":28044.359375,
+    "('High', 'SHREECEM.BO')":28432.4980076222,
+    "('Low', 'SHREECEM.BO')":27915.7262512399,
+    "('Open', 'SHREECEM.BO')":28066.6023155704,
+    "('Volume', 'SHREECEM.BO')":256
+  },
+  {
+    "('Date', '')":"2025-02-27",
+    "('Close', 'SHREECEM.BO')":28163.73828125,
+    "('High', 'SHREECEM.BO')":28355.2689920813,
+    "('Low', 'SHREECEM.BO')":27612.5806409089,
+    "('Open', 'SHREECEM.BO')":27883.1833247232,
+    "('Volume', 'SHREECEM.BO')":150
+  },
+  {
+    "('Date', '')":"2025-02-28",
+    "('Close', 'SHREECEM.BO')":27147.162109375,
+    "('High', 'SHREECEM.BO')":27910.6510962013,
+    "('Low', 'SHREECEM.BO')":26871.7835020501,
+    "('Open', 'SHREECEM.BO')":27866.3634828089,
+    "('Volume', 'SHREECEM.BO')":261
+  },
+  {
+    "('Date', '')":"2025-03-03",
+    "('Close', 'SHREECEM.BO')":27542.86328125,
+    "('High', 'SHREECEM.BO')":27653.333504702,
+    "('Low', 'SHREECEM.BO')":27153.7799699553,
+    "('Open', 'SHREECEM.BO')":27153.7799699553,
+    "('Volume', 'SHREECEM.BO')":109
+  },
+  {
+    "('Date', '')":"2025-03-04",
+    "('Close', 'SHREECEM.BO')":27189.7578125,
+    "('High', 'SHREECEM.BO')":27468.1726323048,
+    "('Low', 'SHREECEM.BO')":27023.0572501504,
+    "('Open', 'SHREECEM.BO')":27167.413794727,
+    "('Volume', 'SHREECEM.BO')":219
+  },
+  {
+    "('Date', '')":"2025-03-05",
+    "('Close', 'SHREECEM.BO')":27938.568359375,
+    "('High', 'SHREECEM.BO')":28065.6581055219,
+    "('Low', 'SHREECEM.BO')":27106.4086803622,
+    "('Open', 'SHREECEM.BO')":27332.6732137314,
+    "('Volume', 'SHREECEM.BO')":322
+  },
+  {
+    "('Date', '')":"2025-03-06",
+    "('Close', 'SHREECEM.BO')":27902.83984375,
+    "('High', 'SHREECEM.BO')":28363.978024022,
+    "('Low', 'SHREECEM.BO')":27866.3643744777,
+    "('Open', 'SHREECEM.BO')":28077.7510415648,
+    "('Volume', 'SHREECEM.BO')":200
+  },
+  {
+    "('Date', '')":"2025-03-07",
+    "('Close', 'SHREECEM.BO')":27796.3984375,
+    "('High', 'SHREECEM.BO')":28758.0873305927,
+    "('Low', 'SHREECEM.BO')":27751.4654810886,
+    "('Open', 'SHREECEM.BO')":28085.6616336609,
+    "('Volume', 'SHREECEM.BO')":225
+  },
+  {
+    "('Date', '')":"2025-03-10",
+    "('Close', 'SHREECEM.BO')":27742.109375,
+    "('High', 'SHREECEM.BO')":28202.8004595858,
+    "('Low', 'SHREECEM.BO')":27601.4829865042,
+    "('Open', 'SHREECEM.BO')":27868.4041022791,
+    "('Volume', 'SHREECEM.BO')":329
+  },
+  {
+    "('Date', '')":"2025-03-11",
+    "('Close', 'SHREECEM.BO')":27827.99609375,
+    "('High', 'SHREECEM.BO')":28014.6517412157,
+    "('Low', 'SHREECEM.BO')":27531.1209726184,
+    "('Open', 'SHREECEM.BO')":27531.1209726184,
+    "('Volume', 'SHREECEM.BO')":104
+  },
+  {
+    "('Date', '')":"2025-03-12",
+    "('Close', 'SHREECEM.BO')":27413.68359375,
+    "('High', 'SHREECEM.BO')":27971.5570486104,
+    "('Low', 'SHREECEM.BO')":27115.6616348518,
+    "('Open', 'SHREECEM.BO')":27899.1056728904,
+    "('Volume', 'SHREECEM.BO')":260
+  },
+  {
+    "('Date', '')":"2025-03-13",
+    "('Close', 'SHREECEM.BO')":27327.99609375,
+    "('High', 'SHREECEM.BO')":27526.9910084861,
+    "('Low', 'SHREECEM.BO')":27269.2271460472,
+    "('Open', 'SHREECEM.BO')":27434.9830250712,
+    "('Volume', 'SHREECEM.BO')":87
+  },
+  {
+    "('Date', '')":"2025-03-17",
+    "('Close', 'SHREECEM.BO')":27620.890625,
+    "('High', 'SHREECEM.BO')":27854.4210948636,
+    "('Low', 'SHREECEM.BO')":27260.8185616078,
+    "('Open', 'SHREECEM.BO')":27471.0097854883,
+    "('Volume', 'SHREECEM.BO')":245
+  },
+  {
+    "('Date', '')":"2025-03-18",
+    "('Close', 'SHREECEM.BO')":27701.3046875,
+    "('High', 'SHREECEM.BO')":27842.7260896276,
+    "('Low', 'SHREECEM.BO')":27503.0056598119,
+    "('Open', 'SHREECEM.BO')":27684.7337651835,
+    "('Volume', 'SHREECEM.BO')":168
+  },
+  {
+    "('Date', '')":"2025-03-19",
+    "('Close', 'SHREECEM.BO')":28402.73828125,
+    "('High', 'SHREECEM.BO')":28548.9880833326,
+    "('Low', 'SHREECEM.BO')":27640.8918661055,
+    "('Open', 'SHREECEM.BO')":27760.3696679743,
+    "('Volume', 'SHREECEM.BO')":339
+  },
+  {
+    "('Date', '')":"2025-03-20",
+    "('Close', 'SHREECEM.BO')":28501.763671875,
+    "('High', 'SHREECEM.BO')":28761.517971472,
+    "('Low', 'SHREECEM.BO')":28051.4233631868,
+    "('Open', 'SHREECEM.BO')":28761.517971472,
+    "('Volume', 'SHREECEM.BO')":261
+  },
+  {
+    "('Date', '')":"2025-03-21",
+    "('Close', 'SHREECEM.BO')":28822.12890625,
+    "('High', 'SHREECEM.BO')":29160.1582281917,
+    "('Low', 'SHREECEM.BO')":28513.2605200578,
+    "('Open', 'SHREECEM.BO')":28513.2605200578,
+    "('Volume', 'SHREECEM.BO')":1063
+  },
+  {
+    "('Date', '')":"2025-03-24",
+    "('Close', 'SHREECEM.BO')":29283.12109375,
+    "('High', 'SHREECEM.BO')":29487.2418248698,
+    "('Low', 'SHREECEM.BO')":28816.8065633277,
+    "('Open', 'SHREECEM.BO')":29160.1094440354,
+    "('Volume', 'SHREECEM.BO')":159
+  },
+  {
+    "('Date', '')":"2025-03-25",
+    "('Close', 'SHREECEM.BO')":29396.623046875,
+    "('High', 'SHREECEM.BO')":30037.7495861471,
+    "('Low', 'SHREECEM.BO')":29346.8616860406,
+    "('Open', 'SHREECEM.BO')":29616.7179346061,
+    "('Volume', 'SHREECEM.BO')":314
+  },
+  {
+    "('Date', '')":"2025-03-26",
+    "('Close', 'SHREECEM.BO')":29807.5546875,
+    "('High', 'SHREECEM.BO')":29956.341166049,
+    "('Low', 'SHREECEM.BO')":29345.4212882057,
+    "('Open', 'SHREECEM.BO')":29956.1914931961,
+    "('Volume', 'SHREECEM.BO')":483
+  },
+  {
+    "('Date', '')":"2025-03-27",
+    "('Close', 'SHREECEM.BO')":29987.390625,
+    "('High', 'SHREECEM.BO')":30341.1453183245,
+    "('Low', 'SHREECEM.BO')":29663.5452319496,
+    "('Open', 'SHREECEM.BO')":30025.5591451912,
+    "('Volume', 'SHREECEM.BO')":2107
+  },
+  {
+    "('Date', '')":"2025-03-28",
+    "('Close', 'SHREECEM.BO')":30356.37109375,
+    "('High', 'SHREECEM.BO')":31066.1177970904,
+    "('Low', 'SHREECEM.BO')":30288.7967183993,
+    "('Open', 'SHREECEM.BO')":30364.5331234962,
+    "('Volume', 'SHREECEM.BO')":924
+  },
+  {
+    "('Date', '')":"2025-04-01",
+    "('Close', 'SHREECEM.BO')":30032.17578125,
+    "('High', 'SHREECEM.BO')":30456.8404153519,
+    "('Low', 'SHREECEM.BO')":29945.1944745924,
+    "('Open', 'SHREECEM.BO')":30456.6402036198,
+    "('Volume', 'SHREECEM.BO')":165
+  },
+  {
+    "('Date', '')":"2025-04-02",
+    "('Close', 'SHREECEM.BO')":30122.345703125,
+    "('High', 'SHREECEM.BO')":30301.1872671506,
+    "('Low', 'SHREECEM.BO')":29949.1761570529,
+    "('Open', 'SHREECEM.BO')":29949.1761570529,
+    "('Volume', 'SHREECEM.BO')":365
+  },
+  {
+    "('Date', '')":"2025-04-03",
+    "('Close', 'SHREECEM.BO')":30750.779296875,
+    "('High', 'SHREECEM.BO')":30832.4870624685,
+    "('Low', 'SHREECEM.BO')":30129.458169009,
+    "('Open', 'SHREECEM.BO')":30129.458169009,
+    "('Volume', 'SHREECEM.BO')":700
+  },
+  {
+    "('Date', '')":"2025-04-04",
+    "('Close', 'SHREECEM.BO')":30565.26953125,
+    "('High', 'SHREECEM.BO')":30766.008033214,
+    "('Low', 'SHREECEM.BO')":30386.2782996715,
+    "('Open', 'SHREECEM.BO')":30600.3026966197,
+    "('Volume', 'SHREECEM.BO')":489
+  },
+  {
+    "('Date', '')":"2025-04-07",
+    "('Close', 'SHREECEM.BO')":29614.578125,
+    "('High', 'SHREECEM.BO')":30128.86179474,
+    "('Low', 'SHREECEM.BO')":28716.3369572251,
+    "('Open', 'SHREECEM.BO')":28716.3369572251,
+    "('Volume', 'SHREECEM.BO')":1457
+  },
+  {
+    "('Date', '')":"2025-04-08",
+    "('Close', 'SHREECEM.BO')":30248.689453125,
+    "('High', 'SHREECEM.BO')":30369.0128212772,
+    "('Low', 'SHREECEM.BO')":30060.8403020898,
+    "('Open', 'SHREECEM.BO')":30301.4364995084,
+    "('Volume', 'SHREECEM.BO')":1049
+  },
+  {
+    "('Date', '')":"2025-04-09",
+    "('Close', 'SHREECEM.BO')":30190.81640625,
+    "('High', 'SHREECEM.BO')":30445.3457841204,
+    "('Low', 'SHREECEM.BO')":30015.0091177795,
+    "('Open', 'SHREECEM.BO')":30387.574006569,
+    "('Volume', 'SHREECEM.BO')":541
+  },
+  {
+    "('Date', '')":"2025-04-11",
+    "('Close', 'SHREECEM.BO')":29966.142578125,
+    "('High', 'SHREECEM.BO')":30524.4650607818,
+    "('Low', 'SHREECEM.BO')":29601.2926600372,
+    "('Open', 'SHREECEM.BO')":30504.7101887924,
+    "('Volume', 'SHREECEM.BO')":461
+  },
+  {
+    "('Date', '')":"2025-04-15",
+    "('Close', 'SHREECEM.BO')":30997.845703125,
+    "('High', 'SHREECEM.BO')":31051.0903612765,
+    "('Low', 'SHREECEM.BO')":30091.4424804797,
+    "('Open', 'SHREECEM.BO')":30455.9950015695,
+    "('Volume', 'SHREECEM.BO')":1031
+  },
+  {
+    "('Date', '')":"2025-04-16",
+    "('Close', 'SHREECEM.BO')":30624.138671875,
+    "('High', 'SHREECEM.BO')":31174.4993584158,
+    "('Low', 'SHREECEM.BO')":30412.6023357203,
+    "('Open', 'SHREECEM.BO')":30976.4491294436,
+    "('Volume', 'SHREECEM.BO')":2983
+  },
+  {
+    "('Date', '')":"2025-04-17",
+    "('Close', 'SHREECEM.BO')":30863.390625,
+    "('High', 'SHREECEM.BO')":30912.156760085,
+    "('Low', 'SHREECEM.BO')":30439.025338275,
+    "('Open', 'SHREECEM.BO')":30734.9071762203,
+    "('Volume', 'SHREECEM.BO')":149
+  },
+  {
+    "('Date', '')":"2025-04-21",
+    "('Close', 'SHREECEM.BO')":31023.919921875,
+    "('High', 'SHREECEM.BO')":31250.1358548038,
+    "('Low', 'SHREECEM.BO')":30608.2142743469,
+    "('Open', 'SHREECEM.BO')":30831.1451798079,
+    "('Volume', 'SHREECEM.BO')":316
+  },
+  {
+    "('Date', '')":"2025-04-22",
+    "('Close', 'SHREECEM.BO')":30765.857421875,
+    "('High', 'SHREECEM.BO')":31215.3016440648,
+    "('Low', 'SHREECEM.BO')":30691.7129942492,
+    "('Open', 'SHREECEM.BO')":31006.7024082568,
+    "('Volume', 'SHREECEM.BO')":197
+  },
+  {
+    "('Date', '')":"2025-04-23",
+    "('Close', 'SHREECEM.BO')":30206.837890625,
+    "('High', 'SHREECEM.BO')":30936.6388043941,
+    "('Low', 'SHREECEM.BO')":30170.3138283804,
+    "('Open', 'SHREECEM.BO')":30804.8217337686,
+    "('Volume', 'SHREECEM.BO')":389
+  },
+  {
+    "('Date', '')":"2025-04-24",
+    "('Close', 'SHREECEM.BO')":30551.0390625,
+    "('High', 'SHREECEM.BO')":30659.9659075509,
+    "('Low', 'SHREECEM.BO')":30155.3856915244,
+    "('Open', 'SHREECEM.BO')":30206.340549231,
+    "('Volume', 'SHREECEM.BO')":294
+  },
+  {
+    "('Date', '')":"2025-04-25",
+    "('Close', 'SHREECEM.BO')":30422.056640625,
+    "('High', 'SHREECEM.BO')":30753.4187263462,
+    "('Low', 'SHREECEM.BO')":29836.9135449393,
+    "('Open', 'SHREECEM.BO')":30753.4187263462,
+    "('Volume', 'SHREECEM.BO')":227
+  },
+  {
+    "('Date', '')":"2025-04-28",
+    "('Close', 'SHREECEM.BO')":30269.490234375,
+    "('High', 'SHREECEM.BO')":30692.809775511,
+    "('Low', 'SHREECEM.BO')":29786.3559777713,
+    "('Open', 'SHREECEM.BO')":30374.3370411348,
+    "('Volume', 'SHREECEM.BO')":200
+  },
+  {
+    "('Date', '')":"2025-04-29",
+    "('Close', 'SHREECEM.BO')":29877.619140625,
+    "('High', 'SHREECEM.BO')":30444.053137726,
+    "('Low', 'SHREECEM.BO')":29582.7325190358,
+    "('Open', 'SHREECEM.BO')":30436.4392602474,
+    "('Volume', 'SHREECEM.BO')":216
+  },
+  {
+    "('Date', '')":"2025-04-30",
+    "('Close', 'SHREECEM.BO')":29588.802734375,
+    "('High', 'SHREECEM.BO')":30284.7154056439,
+    "('Low', 'SHREECEM.BO')":29448.7750344597,
+    "('Open', 'SHREECEM.BO')":29802.1312555763,
+    "('Volume', 'SHREECEM.BO')":232
+  },
+  {
+    "('Date', '')":"2025-05-02",
+    "('Close', 'SHREECEM.BO')":29178.22265625,
+    "('High', 'SHREECEM.BO')":29632.5924982418,
+    "('Low', 'SHREECEM.BO')":28861.5907128243,
+    "('Open', 'SHREECEM.BO')":29578.2048831998,
+    "('Volume', 'SHREECEM.BO')":828
+  },
+  {
+    "('Date', '')":"2025-05-05",
+    "('Close', 'SHREECEM.BO')":29315.662109375,
+    "('High', 'SHREECEM.BO')":29463.7021599167,
+    "('Low', 'SHREECEM.BO')":29209.9192161309,
+    "('Open', 'SHREECEM.BO')":29396.4251878934,
+    "('Volume', 'SHREECEM.BO')":56
+  },
+  {
+    "('Date', '')":"2025-05-06",
+    "('Close', 'SHREECEM.BO')":29331.0390625,
+    "('High', 'SHREECEM.BO')":29716.0442909687,
+    "('Low', 'SHREECEM.BO')":29238.0863895525,
+    "('Open', 'SHREECEM.BO')":29528.9901573339,
+    "('Volume', 'SHREECEM.BO')":91
+  },
+  {
+    "('Date', '')":"2025-05-07",
+    "('Close', 'SHREECEM.BO')":29424.541015625,
+    "('High', 'SHREECEM.BO')":29464.7971804796,
+    "('Low', 'SHREECEM.BO')":28862.3367517554,
+    "('Open', 'SHREECEM.BO')":28862.3367517554,
+    "('Volume', 'SHREECEM.BO')":82
+  },
+  {
+    "('Date', '')":"2025-05-08",
+    "('Close', 'SHREECEM.BO')":29139.109375,
+    "('High', 'SHREECEM.BO')":29558.3002646658,
+    "('Low', 'SHREECEM.BO')":29035.7554124468,
+    "('Open', 'SHREECEM.BO')":29309.4429099077,
+    "('Volume', 'SHREECEM.BO')":111
+  },
+  {
+    "('Date', '')":"2025-05-09",
+    "('Close', 'SHREECEM.BO')":29147.51953125,
+    "('High', 'SHREECEM.BO')":29382.0938142585,
+    "('Low', 'SHREECEM.BO')":28607.8070213346,
+    "('Open', 'SHREECEM.BO')":28951.4092260351,
+    "('Volume', 'SHREECEM.BO')":215
+  },
+  {
+    "('Date', '')":"2025-05-12",
+    "('Close', 'SHREECEM.BO')":29955.94140625,
+    "('High', 'SHREECEM.BO')":30042.924655676,
+    "('Low', 'SHREECEM.BO')":29489.1312362035,
+    "('Open', 'SHREECEM.BO')":29489.1312362035,
+    "('Volume', 'SHREECEM.BO')":293
+  },
+  {
+    "('Date', '')":"2025-05-13",
+    "('Close', 'SHREECEM.BO')":30056.609375,
+    "('High', 'SHREECEM.BO')":30274.8129495956,
+    "('Low', 'SHREECEM.BO')":29586.5627672324,
+    "('Open', 'SHREECEM.BO')":30085.7197720669,
+    "('Volume', 'SHREECEM.BO')":184
+  },
+  {
+    "('Date', '')":"2025-05-14",
+    "('Close', 'SHREECEM.BO')":30485.701171875,
+    "('High', 'SHREECEM.BO')":30752.5212016961,
+    "('Low', 'SHREECEM.BO')":30039.5905690057,
+    "('Open', 'SHREECEM.BO')":30076.2137645433,
+    "('Volume', 'SHREECEM.BO')":1860
+  },
+  {
+    "('Date', '')":"2025-05-15",
+    "('Close', 'SHREECEM.BO')":31235.5546875,
+    "('High', 'SHREECEM.BO')":31713.114087091,
+    "('Low', 'SHREECEM.BO')":30747.5959408324,
+    "('Open', 'SHREECEM.BO')":30951.0188324692,
+    "('Volume', 'SHREECEM.BO')":4146
+  },
+  {
+    "('Date', '')":"2025-05-16",
+    "('Close', 'SHREECEM.BO')":31408.82421875,
+    "('High', 'SHREECEM.BO')":31509.3927110405,
+    "('Low', 'SHREECEM.BO')":30873.9401046066,
+    "('Open', 'SHREECEM.BO')":31081.2467206873,
+    "('Volume', 'SHREECEM.BO')":359
+  },
+  {
+    "('Date', '')":"2025-05-19",
+    "('Close', 'SHREECEM.BO')":31432.66015625,
+    "('High', 'SHREECEM.BO')":31482.1727110551,
+    "('Low', 'SHREECEM.BO')":31051.0896466393,
+    "('Open', 'SHREECEM.BO')":31349.6578163185,
+    "('Volume', 'SHREECEM.BO')":140
+  },
+  {
+    "('Date', '')":"2025-05-20",
+    "('Close', 'SHREECEM.BO')":31370.755859375,
+    "('High', 'SHREECEM.BO')":31772.1823185929,
+    "('Low', 'SHREECEM.BO')":31270.0396409807,
+    "('Open', 'SHREECEM.BO')":31299.8964579517,
+    "('Volume', 'SHREECEM.BO')":174
+  },
+  {
+    "('Date', '')":"2025-05-21",
+    "('Close', 'SHREECEM.BO')":31327.513671875,
+    "('High', 'SHREECEM.BO')":31598.464282931,
+    "('Low', 'SHREECEM.BO')":31281.1850671925,
+    "('Open', 'SHREECEM.BO')":31443.307970337,
+    "('Volume', 'SHREECEM.BO')":125
+  },
+  {
+    "('Date', '')":"2025-05-22",
+    "('Close', 'SHREECEM.BO')":31318.359375,
+    "('High', 'SHREECEM.BO')":31475.0571285891,
+    "('Low', 'SHREECEM.BO')":31245.2101718459,
+    "('Open', 'SHREECEM.BO')":31275.0164505758,
+    "('Volume', 'SHREECEM.BO')":122
+  },
+  {
+    "('Date', '')":"2025-05-23",
+    "('Close', 'SHREECEM.BO')":31307.310546875,
+    "('High', 'SHREECEM.BO')":31693.0116435185,
+    "('Low', 'SHREECEM.BO')":31230.2309742066,
+    "('Open', 'SHREECEM.BO')":31250.1355191232,
+    "('Volume', 'SHREECEM.BO')":395
+  },
+  {
+    "('Date', '')":"2025-05-26",
+    "('Close', 'SHREECEM.BO')":30933.953125,
+    "('High', 'SHREECEM.BO')":31601.2530046416,
+    "('Low', 'SHREECEM.BO')":30861.9974163854,
+    "('Open', 'SHREECEM.BO')":31305.8687755504,
+    "('Volume', 'SHREECEM.BO')":223
+  },
+  {
+    "('Date', '')":"2025-05-27",
+    "('Close', 'SHREECEM.BO')":30823.234375,
+    "('High', 'SHREECEM.BO')":31034.0728837784,
+    "('Low', 'SHREECEM.BO')":30648.0743751564,
+    "('Open', 'SHREECEM.BO')":31034.0728837784,
+    "('Volume', 'SHREECEM.BO')":220
+  },
+  {
+    "('Date', '')":"2025-05-28",
+    "('Close', 'SHREECEM.BO')":29751.572265625,
+    "('High', 'SHREECEM.BO')":31283.9734262494,
+    "('Low', 'SHREECEM.BO')":29675.6861876918,
+    "('Open', 'SHREECEM.BO')":31051.0397104952,
+    "('Volume', 'SHREECEM.BO')":761
+  },
+  {
+    "('Date', '')":"2025-05-29",
+    "('Close', 'SHREECEM.BO')":29772.322265625,
+    "('High', 'SHREECEM.BO')":29851.1940250495,
+    "('Low', 'SHREECEM.BO')":29463.7026847006,
+    "('Open', 'SHREECEM.BO')":29752.4682595435,
+    "('Volume', 'SHREECEM.BO')":531
+  },
+  {
+    "('Date', '')":"2025-05-30",
+    "('Close', 'SHREECEM.BO')":29466.98828125,
+    "('High', 'SHREECEM.BO')":29826.9612063762,
+    "('Low', 'SHREECEM.BO')":29359.2043906606,
+    "('Open', 'SHREECEM.BO')":29658.3693185045,
+    "('Volume', 'SHREECEM.BO')":308
+  },
+  {
+    "('Date', '')":"2025-06-02",
+    "('Close', 'SHREECEM.BO')":29269.93359375,
+    "('High', 'SHREECEM.BO')":29488.5842492207,
+    "('Low', 'SHREECEM.BO')":29075.5649288216,
+    "('Open', 'SHREECEM.BO')":29359.2552419568,
+    "('Volume', 'SHREECEM.BO')":460
+  },
+  {
+    "('Date', '')":"2025-06-03",
+    "('Close', 'SHREECEM.BO')":29248.0390625,
+    "('High', 'SHREECEM.BO')":29485.0022924466,
+    "('Low', 'SHREECEM.BO')":29110.3983502151,
+    "('Open', 'SHREECEM.BO')":29300.9843770208,
+    "('Volume', 'SHREECEM.BO')":857
+  },
+  {
+    "('Date', '')":"2025-06-04",
+    "('Close', 'SHREECEM.BO')":29270.08203125,
+    "('High', 'SHREECEM.BO')":29473.5574194583,
+    "('Low', 'SHREECEM.BO')":29095.7695243196,
+    "('Open', 'SHREECEM.BO')":29185.0406358019,
+    "('Volume', 'SHREECEM.BO')":355
+  },
+  {
+    "('Date', '')":"2025-06-05",
+    "('Close', 'SHREECEM.BO')":29385.52734375,
+    "('High', 'SHREECEM.BO')":29438.8225413893,
+    "('Low', 'SHREECEM.BO')":29219.2757951726,
+    "('Open', 'SHREECEM.BO')":29279.5861787584,
+    "('Volume', 'SHREECEM.BO')":461
+  },
+  {
+    "('Date', '')":"2025-06-06",
+    "('Close', 'SHREECEM.BO')":29455.09375,
+    "('High', 'SHREECEM.BO')":29659.9122963934,
+    "('Low', 'SHREECEM.BO')":29344.7226587714,
+    "('Open', 'SHREECEM.BO')":29417.922400824,
+    "('Volume', 'SHREECEM.BO')":432
+  },
+  {
+    "('Date', '')":"2025-06-09",
+    "('Close', 'SHREECEM.BO')":29700.119140625,
+    "('High', 'SHREECEM.BO')":29737.0416820855,
+    "('Low', 'SHREECEM.BO')":29236.8894602883,
+    "('Open', 'SHREECEM.BO')":29503.5112238803,
+    "('Volume', 'SHREECEM.BO')":200
+  },
+  {
+    "('Date', '')":"2025-06-10",
+    "('Close', 'SHREECEM.BO')":29698.326171875,
+    "('High', 'SHREECEM.BO')":29971.267232426,
+    "('Low', 'SHREECEM.BO')":29558.9943633895,
+    "('Open', 'SHREECEM.BO')":29578.251621016,
+    "('Volume', 'SHREECEM.BO')":345
+  },
+  {
+    "('Date', '')":"2025-06-11",
+    "('Close', 'SHREECEM.BO')":29679.3671875,
+    "('High', 'SHREECEM.BO')":30049.7413909051,
+    "('Low', 'SHREECEM.BO')":29523.4158576592,
+    "('Open', 'SHREECEM.BO')":29773.1673541807,
+    "('Volume', 'SHREECEM.BO')":364
+  },
+  {
+    "('Date', '')":"2025-06-12",
+    "('Close', 'SHREECEM.BO')":29553.076171875,
+    "('High', 'SHREECEM.BO')":29862.6404548102,
+    "('Low', 'SHREECEM.BO')":29410.0608437139,
+    "('Open', 'SHREECEM.BO')":29833.0829817552,
+    "('Volume', 'SHREECEM.BO')":543
+  },
+  {
+    "('Date', '')":"2025-06-13",
+    "('Close', 'SHREECEM.BO')":29502.71484375,
+    "('High', 'SHREECEM.BO')":29524.4115753042,
+    "('Low', 'SHREECEM.BO')":29127.4150368305,
+    "('Open', 'SHREECEM.BO')":29289.5884833725,
+    "('Volume', 'SHREECEM.BO')":240
+  },
+  {
+    "('Date', '')":"2025-06-16",
+    "('Close', 'SHREECEM.BO')":29711.017578125,
+    "('High', 'SHREECEM.BO')":29762.2717830013,
+    "('Low', 'SHREECEM.BO')":29421.1070941871,
+    "('Open', 'SHREECEM.BO')":29567.306370255,
+    "('Volume', 'SHREECEM.BO')":209
+  },
+  {
+    "('Date', '')":"2025-06-17",
+    "('Close', 'SHREECEM.BO')":29455.2421875,
+    "('High', 'SHREECEM.BO')":29760.2287891742,
+    "('Low', 'SHREECEM.BO')":29407.5218201936,
+    "('Open', 'SHREECEM.BO')":29677.8251422814,
+    "('Volume', 'SHREECEM.BO')":313
+  },
+  {
+    "('Date', '')":"2025-06-18",
+    "('Close', 'SHREECEM.BO')":29169.861328125,
+    "('High', 'SHREECEM.BO')":29657.720939145,
+    "('Low', 'SHREECEM.BO')":29118.6071257385,
+    "('Open', 'SHREECEM.BO')":29657.720939145,
+    "('Volume', 'SHREECEM.BO')":197
+  },
+  {
+    "('Date', '')":"2025-06-19",
+    "('Close', 'SHREECEM.BO')":29138.611328125,
+    "('High', 'SHREECEM.BO')":29271.474165826,
+    "('Low', 'SHREECEM.BO')":29019.6816719057,
+    "('Open', 'SHREECEM.BO')":29169.8618524947,
+    "('Volume', 'SHREECEM.BO')":407
+  },
+  {
+    "('Date', '')":"2025-06-20",
+    "('Close', 'SHREECEM.BO')":28749.77734375,
+    "('High', 'SHREECEM.BO')":29392.0468716459,
+    "('Low', 'SHREECEM.BO')":28480.4186952186,
+    "('Open', 'SHREECEM.BO')":29170.1617300247,
+    "('Volume', 'SHREECEM.BO')":571
+  },
+  {
+    "('Date', '')":"2025-06-23",
+    "('Close', 'SHREECEM.BO')":28441.205078125,
+    "('High', 'SHREECEM.BO')":28762.0667233426,
+    "('Low', 'SHREECEM.BO')":28339.0951538817,
+    "('Open', 'SHREECEM.BO')":28563.0212788904,
+    "('Volume', 'SHREECEM.BO')":587
+  },
+  {
+    "('Date', '')":"2025-06-24",
+    "('Close', 'SHREECEM.BO')":28372.087890625,
+    "('High', 'SHREECEM.BO')":28612.7326714828,
+    "('Low', 'SHREECEM.BO')":28198.6190048057,
+    "('Open', 'SHREECEM.BO')":28458.7717946512,
+    "('Volume', 'SHREECEM.BO')":960
+  },
+  {
+    "('Date', '')":"2025-06-25",
+    "('Close', 'SHREECEM.BO')":28988.4296875,
+    "('High', 'SHREECEM.BO')":29060.6341982776,
+    "('Low', 'SHREECEM.BO')":28363.9751592778,
+    "('Open', 'SHREECEM.BO')":28448.5694711563,
+    "('Volume', 'SHREECEM.BO')":1797
+  },
+  {
+    "('Date', '')":"2025-06-26",
+    "('Close', 'SHREECEM.BO')":29964.650390625,
+    "('High', 'SHREECEM.BO')":30006.101994911,
+    "('Low', 'SHREECEM.BO')":29064.9163493282,
+    "('Open', 'SHREECEM.BO')":29147.8176140969,
+    "('Volume', 'SHREECEM.BO')":2354
+  },
+  {
+    "('Date', '')":"2025-06-27",
+    "('Close', 'SHREECEM.BO')":30851.59765625,
+    "('High', 'SHREECEM.BO')":31143.4966422132,
+    "('Low', 'SHREECEM.BO')":29904.1413148338,
+    "('Open', 'SHREECEM.BO')":29904.1413148338,
+    "('Volume', 'SHREECEM.BO')":2301
+  },
+  {
+    "('Date', '')":"2025-06-30",
+    "('Close', 'SHREECEM.BO')":30881.552734375,
+    "('High', 'SHREECEM.BO')":30982.6168924102,
+    "('Low', 'SHREECEM.BO')":30468.6831104034,
+    "('Open', 'SHREECEM.BO')":30663.9459136898,
+    "('Volume', 'SHREECEM.BO')":702
+  },
+  {
+    "('Date', '')":"2025-07-01",
+    "('Close', 'SHREECEM.BO')":31037.35546875,
+    "('High', 'SHREECEM.BO')":31484.5623912071,
+    "('Low', 'SHREECEM.BO')":30983.5646018535,
+    "('Open', 'SHREECEM.BO')":31149.9172264288,
+    "('Volume', 'SHREECEM.BO')":921
+  },
+  {
+    "('Date', '')":"2025-07-02",
+    "('Close', 'SHREECEM.BO')":31475.705078125,
+    "('High', 'SHREECEM.BO')":31535.5178485776,
+    "('Low', 'SHREECEM.BO')":30864.7852042728,
+    "('Open', 'SHREECEM.BO')":31150.6642389483,
+    "('Volume', 'SHREECEM.BO')":681
+  },
+  {
+    "('Date', '')":"2025-07-03",
+    "('Close', 'SHREECEM.BO')":31239.2890625,
+    "('High', 'SHREECEM.BO')":31737.7482702765,
+    "('Low', 'SHREECEM.BO')":31170.5192443709,
+    "('Open', 'SHREECEM.BO')":31448.7358154671,
+    "('Volume', 'SHREECEM.BO')":474
+  },
+  {
+    "('Date', '')":"2025-07-04",
+    "('Close', 'SHREECEM.BO')":31149.220703125,
+    "('High', 'SHREECEM.BO')":31374.5405520277,
+    "('Low', 'SHREECEM.BO')":31016.4569928849,
+    "('Open', 'SHREECEM.BO')":31305.2225819999,
+    "('Volume', 'SHREECEM.BO')":149
+  },
+  {
+    "('Date', '')":"2025-07-07",
+    "('Close', 'SHREECEM.BO')":30952.1640625,
+    "('High', 'SHREECEM.BO')":31048.4522984395,
+    "('Low', 'SHREECEM.BO')":30691.9121379711,
+    "('Open', 'SHREECEM.BO')":31046.0633642912,
+    "('Volume', 'SHREECEM.BO')":169
+  },
+  {
+    "('Date', '')":"2025-07-08",
+    "('Close', 'SHREECEM.BO')":31147.181640625,
+    "('High', 'SHREECEM.BO')":31214.2098103198,
+    "('Low', 'SHREECEM.BO')":30916.9847892989,
+    "('Open', 'SHREECEM.BO')":31213.364255878,
+    "('Volume', 'SHREECEM.BO')":128
+  },
+  {
+    "('Date', '')":"2025-07-09",
+    "('Close', 'SHREECEM.BO')":31476.998046875,
+    "('High', 'SHREECEM.BO')":31543.728813889,
+    "('Low', 'SHREECEM.BO')":31096.9708966679,
+    "('Open', 'SHREECEM.BO')":31120.757217552,
+    "('Volume', 'SHREECEM.BO')":1089
+  },
+  {
+    "('Date', '')":"2025-07-10",
+    "('Close', 'SHREECEM.BO')":31029.791015625,
+    "('High', 'SHREECEM.BO')":31539.7458319612,
+    "('Low', 'SHREECEM.BO')":30871.9483672789,
+    "('Open', 'SHREECEM.BO')":31539.7458319612,
+    "('Volume', 'SHREECEM.BO')":384
+  },
+  {
+    "('Date', '')":"2025-07-11",
+    "('Close', 'SHREECEM.BO')":31095.576171875,
+    "('High', 'SHREECEM.BO')":31424.5493178499,
+    "('Low', 'SHREECEM.BO')":30920.0682345827,
+    "('Open', 'SHREECEM.BO')":31248.9908416737,
+    "('Volume', 'SHREECEM.BO')":341
+  },
+  {
+    "('Date', '')":"2025-07-14",
+    "('Close', 'SHREECEM.BO')":30983.564453125,
+    "('High', 'SHREECEM.BO')":31334.729999904,
+    "('Low', 'SHREECEM.BO')":30722.6652404966,
+    "('Open', 'SHREECEM.BO')":31080.9975897653,
+    "('Volume', 'SHREECEM.BO')":652
+  },
+  {
+    "('Date', '')":"2025-07-15",
+    "('Close', 'SHREECEM.BO')":30895.783203125,
+    "('High', 'SHREECEM.BO')":31001.3278270688,
+    "('Low', 'SHREECEM.BO')":30673.3499199998,
+    "('Open', 'SHREECEM.BO')":30966.4443355719,
+    "('Volume', 'SHREECEM.BO')":383
+  },
+  {
+    "('Date', '')":"2025-07-16",
+    "('Close', 'SHREECEM.BO')":30845.5234375,
+    "('High', 'SHREECEM.BO')":30874.8826396651,
+    "('Low', 'SHREECEM.BO')":30543.5225235978,
+    "('Open', 'SHREECEM.BO')":30682.8543304829,
+    "('Volume', 'SHREECEM.BO')":297
+  },
+  {
+    "('Date', '')":"2025-07-17",
+    "('Close', 'SHREECEM.BO')":30704.453125,
+    "('High', 'SHREECEM.BO')":30807.2608819789,
+    "('Low', 'SHREECEM.BO')":30539.3464719884,
+    "('Open', 'SHREECEM.BO')":30714.7552825343,
+    "('Volume', 'SHREECEM.BO')":133
+  },
+  {
+    "('Date', '')":"2025-07-18",
+    "('Close', 'SHREECEM.BO')":30618.662109375,
+    "('High', 'SHREECEM.BO')":30892.4001254649,
+    "('Low', 'SHREECEM.BO')":30594.1799092653,
+    "('Open', 'SHREECEM.BO')":30792.3292540041,
+    "('Volume', 'SHREECEM.BO')":2068
+  },
+  {
+    "('Date', '')":"2025-07-21",
+    "('Close', 'SHREECEM.BO')":31435.498046875,
+    "('High', 'SHREECEM.BO')":31493.7332800237,
+    "('Low', 'SHREECEM.BO')":30872.345171205,
+    "('Open', 'SHREECEM.BO')":30872.345171205,
+    "('Volume', 'SHREECEM.BO')":673
+  },
+  {
+    "('Date', '')":"2025-07-22",
+    "('Close', 'SHREECEM.BO')":32202.474609375,
+    "('High', 'SHREECEM.BO')":32416.2667327194,
+    "('Low', 'SHREECEM.BO')":31515.6217418736,
+    "('Open', 'SHREECEM.BO')":31540.4517147311,
+    "('Volume', 'SHREECEM.BO')":2237
+  },
+  {
+    "('Date', '')":"2025-07-23",
+    "('Close', 'SHREECEM.BO')":32017.546875,
+    "('High', 'SHREECEM.BO')":32298.0521348224,
+    "('Low', 'SHREECEM.BO')":31510.6348834132,
+    "('Open', 'SHREECEM.BO')":32199.980659128,
+    "('Volume', 'SHREECEM.BO')":501
+  },
+  {
+    "('Date', '')":"2025-07-24",
+    "('Close', 'SHREECEM.BO')":31628.25,
+    "('High', 'SHREECEM.BO')":32192.4506813288,
+    "('Low', 'SHREECEM.BO')":31571.5124728211,
+    "('Open', 'SHREECEM.BO')":32120.20635093,
+    "('Volume', 'SHREECEM.BO')":311
+  },
+  {
+    "('Date', '')":"2025-07-25",
+    "('Close', 'SHREECEM.BO')":30845.421875,
+    "('High', 'SHREECEM.BO')":31535.5642205644,
+    "('Low', 'SHREECEM.BO')":30702.2770566278,
+    "('Open', 'SHREECEM.BO')":31535.5642205644,
+    "('Volume', 'SHREECEM.BO')":318
+  },
+  {
+    "('Date', '')":"2025-07-28",
+    "('Close', 'SHREECEM.BO')":30591.091796875,
+    "('High', 'SHREECEM.BO')":31362.4549549867,
+    "('Low', 'SHREECEM.BO')":30390.2609721599,
+    "('Open', 'SHREECEM.BO')":30862.5231762602,
+    "('Volume', 'SHREECEM.BO')":288
+  },
+  {
+    "('Date', '')":"2025-07-29",
+    "('Close', 'SHREECEM.BO')":30337.162109375,
+    "('High', 'SHREECEM.BO')":30812.665130923,
+    "('Low', 'SHREECEM.BO')":30064.7355007274,
+    "('Open', 'SHREECEM.BO')":30613.1800952681,
+    "('Volume', 'SHREECEM.BO')":537
+  },
+  {
+    "('Date', '')":"2025-07-30",
+    "('Close', 'SHREECEM.BO')":30511.8671875,
+    "('High', 'SHREECEM.BO')":30632.9729441807,
+    "('Low', 'SHREECEM.BO')":30140.0213704748,
+    "('Open', 'SHREECEM.BO')":30314.0278791892,
+    "('Volume', 'SHREECEM.BO')":242
+  },
+  {
+    "('Date', '')":"2025-07-31",
+    "('Close', 'SHREECEM.BO')":30731.1953125,
+    "('High', 'SHREECEM.BO')":30879.2753544799,
+    "('Low', 'SHREECEM.BO')":30115.1436195447,
+    "('Open', 'SHREECEM.BO')":30115.1436195447,
+    "('Volume', 'SHREECEM.BO')":254
+  },
+  {
+    "('Date', '')":"2025-08-01",
+    "('Close', 'SHREECEM.BO')":30566.5625,
+    "('High', 'SHREECEM.BO')":30923.6494024063,
+    "('Low', 'SHREECEM.BO')":30450.2926347349,
+    "('Open', 'SHREECEM.BO')":30674.4557309746,
+    "('Volume', 'SHREECEM.BO')":232
+  },
+  {
+    "('Date', '')":"2025-08-04",
+    "('Close', 'SHREECEM.BO')":30534.3046875,
+    "('High', 'SHREECEM.BO')":30946.6353122437,
+    "('Low', 'SHREECEM.BO')":30104.4729149992,
+    "('Open', 'SHREECEM.BO')":30833.7055824923,
+    "('Volume', 'SHREECEM.BO')":1451
+  },
+  {
+    "('Date', '')":"2025-08-05",
+    "('Close', 'SHREECEM.BO')":30119.830078125,
+    "('High', 'SHREECEM.BO')":30912.182573619,
+    "('Low', 'SHREECEM.BO')":29915.5091422424,
+    "('Open', 'SHREECEM.BO')":30912.182573619,
+    "('Volume', 'SHREECEM.BO')":684
+  },
+  {
+    "('Date', '')":"2025-08-06",
+    "('Close', 'SHREECEM.BO')":30471.8828125,
+    "('High', 'SHREECEM.BO')":30566.3142246666,
+    "('Low', 'SHREECEM.BO')":30047.8840969346,
+    "('Open', 'SHREECEM.BO')":30249.2135192399,
+    "('Volume', 'SHREECEM.BO')":2097
+  },
+  {
+    "('Date', '')":"2025-08-07",
+    "('Close', 'SHREECEM.BO')":30539.041015625,
+    "('High', 'SHREECEM.BO')":30623.5513425262,
+    "('Low', 'SHREECEM.BO')":30124.5660847891,
+    "('Open', 'SHREECEM.BO')":30214.3115646842,
+    "('Volume', 'SHREECEM.BO')":100
+  },
+  {
+    "('Date', '')":"2025-08-08",
+    "('Close', 'SHREECEM.BO')":30358.205078125,
+    "('High', 'SHREECEM.BO')":30792.6721506399,
+    "('Low', 'SHREECEM.BO')":30234.3064539438,
+    "('Open', 'SHREECEM.BO')":30737.8276892317,
+    "('Volume', 'SHREECEM.BO')":178
+  },
+  {
+    "('Date', '')":"2025-08-11",
+    "('Close', 'SHREECEM.BO')":30491.275390625,
+    "('High', 'SHREECEM.BO')":30750.0921560491,
+    "('Low', 'SHREECEM.BO')":30214.8600979049,
+    "('Open', 'SHREECEM.BO')":30214.8600979049,
+    "('Volume', 'SHREECEM.BO')":155
+  },
+  {
+    "('Date', '')":"2025-08-12",
+    "('Close', 'SHREECEM.BO')":30314.27734375,
+    "('High', 'SHREECEM.BO')":30558.0352540846,
+    "('Low', 'SHREECEM.BO')":30294.0846112491,
+    "('Open', 'SHREECEM.BO')":30506.9808279871,
+    "('Volume', 'SHREECEM.BO')":74
+  },
+  {
+    "('Date', '')":"2025-08-13",
+    "('Close', 'SHREECEM.BO')":30304.705078125,
+    "('High', 'SHREECEM.BO')":30468.5899038131,
+    "('Low', 'SHREECEM.BO')":30206.3336726004,
+    "('Open', 'SHREECEM.BO')":30468.5899038131,
+    "('Volume', 'SHREECEM.BO')":699
+  },
+  {
+    "('Date', '')":"2025-08-14",
+    "('Close', 'SHREECEM.BO')":30348.830078125,
+    "('High', 'SHREECEM.BO')":30513.4627835578,
+    "('Low', 'SHREECEM.BO')":30164.452588321,
+    "('Open', 'SHREECEM.BO')":30314.0283862797,
+    "('Volume', 'SHREECEM.BO')":248
+  },
+  {
+    "('Date', '')":"2025-08-18",
+    "('Close', 'SHREECEM.BO')":31236.962890625,
+    "('High', 'SHREECEM.BO')":31809.7875810494,
+    "('Low', 'SHREECEM.BO')":30687.9690535045,
+    "('Open', 'SHREECEM.BO')":30763.156213671,
+    "('Volume', 'SHREECEM.BO')":612
+  },
+  {
+    "('Date', '')":"2025-08-19",
+    "('Close', 'SHREECEM.BO')":30830.314453125,
+    "('High', 'SHREECEM.BO')":31385.9885474237,
+    "('Low', 'SHREECEM.BO')":30603.757754867,
+    "('Open', 'SHREECEM.BO')":31237.3105924668,
+    "('Volume', 'SHREECEM.BO')":494
+  },
+  {
+    "('Date', '')":"2025-08-20",
+    "('Close', 'SHREECEM.BO')":30606.19921875,
+    "('High', 'SHREECEM.BO')":31111.7654066074,
+    "('Low', 'SHREECEM.BO')":30563.3208241191,
+    "('Open', 'SHREECEM.BO')":30812.6138161592,
+    "('Volume', 'SHREECEM.BO')":248
+  },
+  {
+    "('Date', '')":"2025-08-21",
+    "('Close', 'SHREECEM.BO')":30513.763671875,
+    "('High', 'SHREECEM.BO')":30675.4048664218,
+    "('Low', 'SHREECEM.BO')":30331.97843401,
+    "('Open', 'SHREECEM.BO')":30621.2089567808,
+    "('Volume', 'SHREECEM.BO')":299
+  },
+  {
+    "('Date', '')":"2025-08-22",
+    "('Close', 'SHREECEM.BO')":29908.529296875,
+    "('High', 'SHREECEM.BO')":30653.5161304793,
+    "('Low', 'SHREECEM.BO')":29858.2227470351,
+    "('Open', 'SHREECEM.BO')":30513.5147356404,
+    "('Volume', 'SHREECEM.BO')":244
+  },
+  {
+    "('Date', '')":"2025-08-25",
+    "('Close', 'SHREECEM.BO')":29950.009765625,
+    "('High', 'SHREECEM.BO')":30296.0790801393,
+    "('Low', 'SHREECEM.BO')":29902.1961482502,
+    "('Open', 'SHREECEM.BO')":29975.5876164186,
+    "('Volume', 'SHREECEM.BO')":174
+  },
+  {
+    "('Date', '')":"2025-08-26",
+    "('Close', 'SHREECEM.BO')":30027.689453125,
+    "('High', 'SHREECEM.BO')":30413.744969363,
+    "('Low', 'SHREECEM.BO')":29616.0073963961,
+    "('Open', 'SHREECEM.BO')":29817.4361335702,
+    "('Volume', 'SHREECEM.BO')":361
+  },
+  {
+    "('Date', '')":"2025-08-28",
+    "('Close', 'SHREECEM.BO')":29573.62890625,
+    "('High', 'SHREECEM.BO')":30054.5657460336,
+    "('Low', 'SHREECEM.BO')":29537.9293692276,
+    "('Open', 'SHREECEM.BO')":30014.8775209686,
+    "('Volume', 'SHREECEM.BO')":248
+  },
+  {
+    "('Date', '')":"2025-08-29",
+    "('Close', 'SHREECEM.BO')":29164.439453125,
+    "('High', 'SHREECEM.BO')":29795.4487262464,
+    "('Low', 'SHREECEM.BO')":29127.7427444796,
+    "('Open', 'SHREECEM.BO')":29730.7825115583,
+    "('Volume', 'SHREECEM.BO')":463
+  },
+  {
+    "('Date', '')":"2025-09-01",
+    "('Close', 'SHREECEM.BO')":29837.62890625,
+    "('High', 'SHREECEM.BO')":29895.1162597,
+    "('Low', 'SHREECEM.BO')":29296.8130791654,
+    "('Open', 'SHREECEM.BO')":29366.663806932,
+    "('Volume', 'SHREECEM.BO')":139
+  },
+  {
+    "('Date', '')":"2025-09-02",
+    "('Close', 'SHREECEM.BO')":29904.638671875,
+    "('High', 'SHREECEM.BO')":30064.7354134573,
+    "('Low', 'SHREECEM.BO')":29637.6965099477,
+    "('Open', 'SHREECEM.BO')":29837.6294933772,
+    "('Volume', 'SHREECEM.BO')":277
+  },
+  {
+    "('Date', '')":"2025-09-03",
+    "('Close', 'SHREECEM.BO')":29836.533203125,
+    "('High', 'SHREECEM.BO')":30149.5945716566,
+    "('Low', 'SHREECEM.BO')":29785.8273967414,
+    "('Open', 'SHREECEM.BO')":29855.4288333741,
+    "('Volume', 'SHREECEM.BO')":1956
+  },
+  {
+    "('Date', '')":"2025-09-04",
+    "('Close', 'SHREECEM.BO')":29877.3671875,
+    "('High', 'SHREECEM.BO')":30658.053546163,
+    "('Low', 'SHREECEM.BO')":29775.7062797938,
+    "('Open', 'SHREECEM.BO')":30613.1808055685,
+    "('Volume', 'SHREECEM.BO')":3106
+  },
+  {
+    "('Date', '')":"2025-09-05",
+    "('Close', 'SHREECEM.BO')":29930.517578125,
+    "('High', 'SHREECEM.BO')":30792.5727934328,
+    "('Low', 'SHREECEM.BO')":29584.8981439025,
+    "('Open', 'SHREECEM.BO')":30792.5727934328,
+    "('Volume', 'SHREECEM.BO')":440
+  },
+  {
+    "('Date', '')":"2025-09-08",
+    "('Close', 'SHREECEM.BO')":30404.22265625,
+    "('High', 'SHREECEM.BO')":30513.463629428,
+    "('Low', 'SHREECEM.BO')":30024.7987049102,
+    "('Open', 'SHREECEM.BO')":30024.7987049102,
+    "('Volume', 'SHREECEM.BO')":122
+  },
+  {
+    "('Date', '')":"2025-09-09",
+    "('Close', 'SHREECEM.BO')":30073.7109375,
+    "('High', 'SHREECEM.BO')":30552.852092892,
+    "('Low', 'SHREECEM.BO')":30064.7363893241,
+    "('Open', 'SHREECEM.BO')":30314.2786872156,
+    "('Volume', 'SHREECEM.BO')":3501
+  },
+  {
+    "('Date', '')":"2025-09-10",
+    "('Close', 'SHREECEM.BO')":29778.19921875,
+    "('High', 'SHREECEM.BO')":30413.74641204,
+    "('Low', 'SHREECEM.BO')":29683.816498151,
+    "('Open', 'SHREECEM.BO')":30413.74641204,
+    "('Volume', 'SHREECEM.BO')":275
+  },
+  {
+    "('Date', '')":"2025-09-11",
+    "('Close', 'SHREECEM.BO')":29746.087890625,
+    "('High', 'SHREECEM.BO')":29965.0177762471,
+    "('Low', 'SHREECEM.BO')":29575.1235349655,
+    "('Open', 'SHREECEM.BO')":29960.0319163842,
+    "('Volume', 'SHREECEM.BO')":409
+  },
+  {
+    "('Date', '')":"2025-09-12",
+    "('Close', 'SHREECEM.BO')":29485.478515625,
+    "('High', 'SHREECEM.BO')":29790.6637885772,
+    "('Low', 'SHREECEM.BO')":29422.9566095872,
+    "('Open', 'SHREECEM.BO')":29765.5845229847,
+    "('Volume', 'SHREECEM.BO')":251
+  },
+  {
+    "('Date', '')":"2025-09-15",
+    "('Close', 'SHREECEM.BO')":29189.916015625,
+    "('High', 'SHREECEM.BO')":29436.5174301834,
+    "('Low', 'SHREECEM.BO')":29134.9722279636,
+    "('Open', 'SHREECEM.BO')":29425.1492798669,
+    "('Volume', 'SHREECEM.BO')":213
+  },
+  {
+    "('Date', '')":"2025-09-16",
+    "('Close', 'SHREECEM.BO')":29468.177734375,
+    "('High', 'SHREECEM.BO')":29785.4770866321,
+    "('Low', 'SHREECEM.BO')":29217.1396826647,
+    "('Open', 'SHREECEM.BO')":29217.1396826647,
+    "('Volume', 'SHREECEM.BO')":417
+  },
+  {
+    "('Date', '')":"2025-09-17",
+    "('Close', 'SHREECEM.BO')":29637.84765625,
+    "('High', 'SHREECEM.BO')":30104.7228202104,
+    "('Low', 'SHREECEM.BO')":29471.4192554378,
+    "('Open', 'SHREECEM.BO')":29775.5567236465,
+    "('Volume', 'SHREECEM.BO')":828
+  },
+  {
+    "('Date', '')":"2025-09-18",
+    "('Close', 'SHREECEM.BO')":29887.638671875,
+    "('High', 'SHREECEM.BO')":29935.1036699192,
+    "('Low', 'SHREECEM.BO')":29551.3911023315,
+    "('Open', 'SHREECEM.BO')":29716.9722932439,
+    "('Volume', 'SHREECEM.BO')":633
+  },
+  {
+    "('Date', '')":"2025-09-19",
+    "('Close', 'SHREECEM.BO')":29831.947265625,
+    "('High', 'SHREECEM.BO')":30004.9059728252,
+    "('Low', 'SHREECEM.BO')":29601.6492198815,
+    "('Open', 'SHREECEM.BO')":29905.5880295142,
+    "('Volume', 'SHREECEM.BO')":203
+  },
+  {
+    "('Date', '')":"2025-09-22",
+    "('Close', 'SHREECEM.BO')":29629.96875,
+    "('High', 'SHREECEM.BO')":29890.2306414905,
+    "('Low', 'SHREECEM.BO')":29571.1356021152,
+    "('Open', 'SHREECEM.BO')":29691.29482788,
+    "('Volume', 'SHREECEM.BO')":307
+  },
+  {
+    "('Date', '')":"2025-09-23",
+    "('Close', 'SHREECEM.BO')":29711.685546875,
+    "('High', 'SHREECEM.BO')":30019.86232497,
+    "('Low', 'SHREECEM.BO')":29596.114872986,
+    "('Open', 'SHREECEM.BO')":29840.3713693648,
+    "('Volume', 'SHREECEM.BO')":392
+  },
+  {
+    "('Date', '')":"2025-09-24",
+    "('Close', 'SHREECEM.BO')":29575.7734375,
+    "('High', 'SHREECEM.BO')":29869.0413385162,
+    "('Low', 'SHREECEM.BO')":29513.5495140474,
+    "('Open', 'SHREECEM.BO')":29869.0413385162,
+    "('Volume', 'SHREECEM.BO')":316
+  },
+  {
+    "('Date', '')":"2025-09-25",
+    "('Close', 'SHREECEM.BO')":29425.099609375,
+    "('High', 'SHREECEM.BO')":29820.478294069,
+    "('Low', 'SHREECEM.BO')":29370.703099565,
+    "('Open', 'SHREECEM.BO')":29596.0639639808,
+    "('Volume', 'SHREECEM.BO')":470
+  },
+  {
+    "('Date', '')":"2025-09-26",
+    "('Close', 'SHREECEM.BO')":28828.83984375,
+    "('High', 'SHREECEM.BO')":29426.5451178394,
+    "('Low', 'SHREECEM.BO')":28746.2245347609,
+    "('Open', 'SHREECEM.BO')":29426.5451178394,
+    "('Volume', 'SHREECEM.BO')":168
+  },
+  {
+    "('Date', '')":"2025-09-29",
+    "('Close', 'SHREECEM.BO')":29551.939453125,
+    "('High', 'SHREECEM.BO')":29992.9387604867,
+    "('Low', 'SHREECEM.BO')":28631.000493612,
+    "('Open', 'SHREECEM.BO')":28916.8908683247,
+    "('Volume', 'SHREECEM.BO')":645
+  },
+  {
+    "('Date', '')":"2025-09-30",
+    "('Close', 'SHREECEM.BO')":29212.453125,
+    "('High', 'SHREECEM.BO')":29915.1088035943,
+    "('Low', 'SHREECEM.BO')":29067.5632570657,
+    "('Open', 'SHREECEM.BO')":29915.1088035943,
+    "('Volume', 'SHREECEM.BO')":132
+  },
+  {
+    "('Date', '')":"2025-10-01",
+    "('Close', 'SHREECEM.BO')":29179.345703125,
+    "('High', 'SHREECEM.BO')":29291.9268087887,
+    "('Low', 'SHREECEM.BO')":28852.9724837875,
+    "('Open', 'SHREECEM.BO')":29192.5095417753,
+    "('Volume', 'SHREECEM.BO')":340
+  },
+  {
+    "('Date', '')":"2025-10-03",
+    "('Close', 'SHREECEM.BO')":29059.037109375,
+    "('High', 'SHREECEM.BO')":29904.5902726885,
+    "('Low', 'SHREECEM.BO')":28917.9879094573,
+    "('Open', 'SHREECEM.BO')":29904.5902726885,
+    "('Volume', 'SHREECEM.BO')":123
+  },
+  {
+    "('Date', '')":"2025-10-06",
+    "('Close', 'SHREECEM.BO')":29197.1953125,
+    "('High', 'SHREECEM.BO')":29255.9778211531,
+    "('Low', 'SHREECEM.BO')":28851.0266732278,
+    "('Open', 'SHREECEM.BO')":29017.70435771,
+    "('Volume', 'SHREECEM.BO')":142
+  },
+  {
+    "('Date', '')":"2025-10-07",
+    "('Close', 'SHREECEM.BO')":29470.720703125,
+    "('High', 'SHREECEM.BO')":29628.8211523985,
+    "('Low', 'SHREECEM.BO')":29396.6806834201,
+    "('Open', 'SHREECEM.BO')":29628.8211523985,
+    "('Volume', 'SHREECEM.BO')":62
+  },
+  {
+    "('Date', '')":"2025-10-08",
+    "('Close', 'SHREECEM.BO')":29189.318359375,
+    "('High', 'SHREECEM.BO')":29665.7679240587,
+    "('Low', 'SHREECEM.BO')":29071.2528040528,
+    "('Open', 'SHREECEM.BO')":29665.7679240587,
+    "('Volume', 'SHREECEM.BO')":146
+  },
+  {
+    "('Date', '')":"2025-10-09",
+    "('Close', 'SHREECEM.BO')":29387.107421875,
+    "('High', 'SHREECEM.BO')":29643.7311996884,
+    "('Low', 'SHREECEM.BO')":29299.2569563015,
+    "('Open', 'SHREECEM.BO')":29371.7018931835,
+    "('Volume', 'SHREECEM.BO')":100
+  },
+  {
+    "('Date', '')":"2025-10-10",
+    "('Close', 'SHREECEM.BO')":29356.9921875,
+    "('High', 'SHREECEM.BO')":29616.0076075696,
+    "('Low', 'SHREECEM.BO')":29303.0455732638,
+    "('Open', 'SHREECEM.BO')":29322.0405307946,
+    "('Volume', 'SHREECEM.BO')":168
+  },
+  {
+    "('Date', '')":"2025-10-13",
+    "('Close', 'SHREECEM.BO')":29482.087890625,
+    "('High', 'SHREECEM.BO')":29574.9748534238,
+    "('Low', 'SHREECEM.BO')":29187.0749392496,
+    "('Open', 'SHREECEM.BO')":29242.0693654453,
+    "('Volume', 'SHREECEM.BO')":74
+  },
+  {
+    "('Date', '')":"2025-10-14",
+    "('Close', 'SHREECEM.BO')":29517.0390625,
+    "('High', 'SHREECEM.BO')":29586.0932234614,
+    "('Low', 'SHREECEM.BO')":29369.5569342621,
+    "('Open', 'SHREECEM.BO')":29586.0932234614,
+    "('Volume', 'SHREECEM.BO')":71
+  },
+  {
+    "('Date', '')":"2025-10-15",
+    "('Close', 'SHREECEM.BO')":29837.828125,
+    "('High', 'SHREECEM.BO')":29979.9757707,
+    "('Low', 'SHREECEM.BO')":29506.2684395266,
+    "('Open', 'SHREECEM.BO')":29566.1493963497,
+    "('Volume', 'SHREECEM.BO')":75
+  },
+  {
+    "('Date', '')":"2025-10-16",
+    "('Close', 'SHREECEM.BO')":29943.728515625,
+    "('High', 'SHREECEM.BO')":30188.3842693459,
+    "('Low', 'SHREECEM.BO')":29895.0657443685,
+    "('Open', 'SHREECEM.BO')":29915.1591491173,
+    "('Volume', 'SHREECEM.BO')":100
+  },
+  {
+    "('Date', '')":"2025-10-17",
+    "('Close', 'SHREECEM.BO')":29614.51171875,
+    "('High', 'SHREECEM.BO')":29885.2439083098,
+    "('Low', 'SHREECEM.BO')":29471.4681788501,
+    "('Open', 'SHREECEM.BO')":29865.3004689315,
+    "('Volume', 'SHREECEM.BO')":315
+  },
+  {
+    "('Date', '')":"2025-10-20",
+    "('Close', 'SHREECEM.BO')":28798.92578125,
+    "('High', 'SHREECEM.BO')":29625.2834007752,
+    "('Low', 'SHREECEM.BO')":28708.582385978,
+    "('Open', 'SHREECEM.BO')":29625.2834007752,
+    "('Volume', 'SHREECEM.BO')":796
+  },
+  {
+    "('Date', '')":"2025-10-21",
+    "('Close', 'SHREECEM.BO')":28875.7578125,
+    "('High', 'SHREECEM.BO')":28997.7614157312,
+    "('Low', 'SHREECEM.BO')":28768.4118584541,
+    "('Open', 'SHREECEM.BO')":28917.9876566783,
+    "('Volume', 'SHREECEM.BO')":228
+  },
+  {
+    "('Date', '')":"2025-10-23",
+    "('Close', 'SHREECEM.BO')":28904.328125,
+    "('High', 'SHREECEM.BO')":29266.9988099173,
+    "('Low', 'SHREECEM.BO')":28783.868965849,
+    "('Open', 'SHREECEM.BO')":29004.2439824416,
+    "('Volume', 'SHREECEM.BO')":549
+  },
+  {
+    "('Date', '')":"2025-10-24",
+    "('Close', 'SHREECEM.BO')":28598.7421875,
+    "('High', 'SHREECEM.BO')":28874.4115476804,
+    "('Low', 'SHREECEM.BO')":28469.2597964749,
+    "('Open', 'SHREECEM.BO')":28874.4115476804,
+    "('Volume', 'SHREECEM.BO')":331
+  },
+  {
+    "('Date', '')":"2025-10-27",
+    "('Close', 'SHREECEM.BO')":28520.515625,
+    "('High', 'SHREECEM.BO')":28843.2000946195,
+    "('Low', 'SHREECEM.BO')":28436.2545910157,
+    "('Open', 'SHREECEM.BO')":28515.4791273603,
+    "('Volume', 'SHREECEM.BO')":334
+  },
+  {
+    "('Date', '')":"2025-10-28",
+    "('Close', 'SHREECEM.BO')":28512.8359375,
+    "('High', 'SHREECEM.BO')":28585.5301650558,
+    "('Low', 'SHREECEM.BO')":28245.2452236345,
+    "('Open', 'SHREECEM.BO')":28580.0963567536,
+    "('Volume', 'SHREECEM.BO')":150
+  },
+  {
+    "('Date', '')":"2025-10-29",
+    "('Close', 'SHREECEM.BO')":29129.986328125,
+    "('High', 'SHREECEM.BO')":29350.7099604292,
+    "('Low', 'SHREECEM.BO')":28379.515071722,
+    "('Open', 'SHREECEM.BO')":28787.3077813876,
+    "('Volume', 'SHREECEM.BO')":2201
+  },
+  {
+    "('Date', '')":"2025-10-30",
+    "('Close', 'SHREECEM.BO')":28652.939453125,
+    "('High', 'SHREECEM.BO')":29018.8528941067,
+    "('Low', 'SHREECEM.BO')":28598.8935087286,
+    "('Open', 'SHREECEM.BO')":29018.8528941067,
+    "('Volume', 'SHREECEM.BO')":414
+  },
+  {
+    "('Date', '')":"2025-10-31",
+    "('Close', 'SHREECEM.BO')":28208.349609375,
+    "('High', 'SHREECEM.BO')":28673.8302689843,
+    "('Low', 'SHREECEM.BO')":28174.3970719947,
+    "('Open', 'SHREECEM.BO')":28389.6849445364,
+    "('Volume', 'SHREECEM.BO')":427
+  },
+  {
+    "('Date', '')":"2025-11-03",
+    "('Close', 'SHREECEM.BO')":28000.75,
+    "('High', 'SHREECEM.BO')":28302.05078125,
+    "('Low', 'SHREECEM.BO')":27868.099609375,
+    "('Open', 'SHREECEM.BO')":28302.05078125,
+    "('Volume', 'SHREECEM.BO')":520
+  },
+  {
+    "('Date', '')":"2025-11-04",
+    "('Close', 'SHREECEM.BO')":27608.150390625,
+    "('High', 'SHREECEM.BO')":28248.44921875,
+    "('Low', 'SHREECEM.BO')":27523.25,
+    "('Open', 'SHREECEM.BO')":28248.44921875,
+    "('Volume', 'SHREECEM.BO')":631
+  },
+  {
+    "('Date', '')":"2025-11-06",
+    "('Close', 'SHREECEM.BO')":27427.150390625,
+    "('High', 'SHREECEM.BO')":27680.0,
+    "('Low', 'SHREECEM.BO')":27400.0,
+    "('Open', 'SHREECEM.BO')":27644.94921875,
+    "('Volume', 'SHREECEM.BO')":436
+  },
+  {
+    "('Date', '')":"2025-11-07",
+    "('Close', 'SHREECEM.BO')":27370.75,
+    "('High', 'SHREECEM.BO')":27724.25,
+    "('Low', 'SHREECEM.BO')":27215.0,
+    "('Open', 'SHREECEM.BO')":27420.0,
+    "('Volume', 'SHREECEM.BO')":217
+  },
+  {
+    "('Date', '')":"2025-11-10",
+    "('Close', 'SHREECEM.BO')":27087.55078125,
+    "('High', 'SHREECEM.BO')":27407.05078125,
+    "('Low', 'SHREECEM.BO')":27040.0,
+    "('Open', 'SHREECEM.BO')":27267.25,
+    "('Volume', 'SHREECEM.BO')":195
+  },
+  {
+    "('Date', '')":"2025-11-11",
+    "('Close', 'SHREECEM.BO')":26975.94921875,
+    "('High', 'SHREECEM.BO')":28306.44921875,
+    "('Low', 'SHREECEM.BO')":26925.0,
+    "('Open', 'SHREECEM.BO')":28306.44921875,
+    "('Volume', 'SHREECEM.BO')":273
+  },
+  {
+    "('Date', '')":"2025-11-12",
+    "('Close', 'SHREECEM.BO')":27091.30078125,
+    "('High', 'SHREECEM.BO')":27140.19921875,
+    "('Low', 'SHREECEM.BO')":26950.05078125,
+    "('Open', 'SHREECEM.BO')":26950.05078125,
+    "('Volume', 'SHREECEM.BO')":78
+  },
+  {
+    "('Date', '')":"2025-11-13",
+    "('Close', 'SHREECEM.BO')":27005.75,
+    "('High', 'SHREECEM.BO')":27874.94921875,
+    "('Low', 'SHREECEM.BO')":26974.94921875,
+    "('Open', 'SHREECEM.BO')":27874.94921875,
+    "('Volume', 'SHREECEM.BO')":221
+  }
+]

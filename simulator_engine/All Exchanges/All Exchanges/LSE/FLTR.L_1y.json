@@ -1,0 +1,2288 @@
+[
+  {
+    "('Date', '')":"2024-11-14",
+    "('Adj Close', 'FLTR.L')":21080.0,
+    "('Close', 'FLTR.L')":21080.0,
+    "('High', 'FLTR.L')":21200.0,
+    "('Low', 'FLTR.L')":20530.0,
+    "('Open', 'FLTR.L')":20700.0,
+    "('Volume', 'FLTR.L')":190174
+  },
+  {
+    "('Date', '')":"2024-11-15",
+    "('Adj Close', 'FLTR.L')":20760.0,
+    "('Close', 'FLTR.L')":20760.0,
+    "('High', 'FLTR.L')":21070.0,
+    "('Low', 'FLTR.L')":20620.0,
+    "('Open', 'FLTR.L')":20620.0,
+    "('Volume', 'FLTR.L')":247688
+  },
+  {
+    "('Date', '')":"2024-11-18",
+    "('Adj Close', 'FLTR.L')":21000.0,
+    "('Close', 'FLTR.L')":21000.0,
+    "('High', 'FLTR.L')":21054.72265625,
+    "('Low', 'FLTR.L')":20660.0,
+    "('Open', 'FLTR.L')":20740.0,
+    "('Volume', 'FLTR.L')":146824
+  },
+  {
+    "('Date', '')":"2024-11-19",
+    "('Adj Close', 'FLTR.L')":21040.0,
+    "('Close', 'FLTR.L')":21040.0,
+    "('High', 'FLTR.L')":21210.0,
+    "('Low', 'FLTR.L')":20780.0,
+    "('Open', 'FLTR.L')":20950.0,
+    "('Volume', 'FLTR.L')":96745
+  },
+  {
+    "('Date', '')":"2024-11-20",
+    "('Adj Close', 'FLTR.L')":20780.0,
+    "('Close', 'FLTR.L')":20780.0,
+    "('High', 'FLTR.L')":21030.0,
+    "('Low', 'FLTR.L')":20660.0,
+    "('Open', 'FLTR.L')":20830.0,
+    "('Volume', 'FLTR.L')":100740
+  },
+  {
+    "('Date', '')":"2024-11-21",
+    "('Adj Close', 'FLTR.L')":21350.0,
+    "('Close', 'FLTR.L')":21350.0,
+    "('High', 'FLTR.L')":21350.0,
+    "('Low', 'FLTR.L')":20490.0,
+    "('Open', 'FLTR.L')":20760.0,
+    "('Volume', 'FLTR.L')":132705
+  },
+  {
+    "('Date', '')":"2024-11-22",
+    "('Adj Close', 'FLTR.L')":21580.0,
+    "('Close', 'FLTR.L')":21580.0,
+    "('High', 'FLTR.L')":21990.0,
+    "('Low', 'FLTR.L')":21280.0,
+    "('Open', 'FLTR.L')":21280.0,
+    "('Volume', 'FLTR.L')":235707
+  },
+  {
+    "('Date', '')":"2024-11-25",
+    "('Adj Close', 'FLTR.L')":21830.0,
+    "('Close', 'FLTR.L')":21830.0,
+    "('High', 'FLTR.L')":22090.0,
+    "('Low', 'FLTR.L')":21750.0,
+    "('Open', 'FLTR.L')":21760.0,
+    "('Volume', 'FLTR.L')":264880
+  },
+  {
+    "('Date', '')":"2024-11-26",
+    "('Adj Close', 'FLTR.L')":21970.0,
+    "('Close', 'FLTR.L')":21970.0,
+    "('High', 'FLTR.L')":22270.0,
+    "('Low', 'FLTR.L')":21830.0,
+    "('Open', 'FLTR.L')":22060.0,
+    "('Volume', 'FLTR.L')":94756
+  },
+  {
+    "('Date', '')":"2024-11-27",
+    "('Adj Close', 'FLTR.L')":21650.0,
+    "('Close', 'FLTR.L')":21650.0,
+    "('High', 'FLTR.L')":21810.0,
+    "('Low', 'FLTR.L')":21560.0,
+    "('Open', 'FLTR.L')":21740.0,
+    "('Volume', 'FLTR.L')":126053
+  },
+  {
+    "('Date', '')":"2024-11-28",
+    "('Adj Close', 'FLTR.L')":21510.0,
+    "('Close', 'FLTR.L')":21510.0,
+    "('High', 'FLTR.L')":21750.0,
+    "('Low', 'FLTR.L')":21510.0,
+    "('Open', 'FLTR.L')":21560.0,
+    "('Volume', 'FLTR.L')":214362
+  },
+  {
+    "('Date', '')":"2024-11-29",
+    "('Adj Close', 'FLTR.L')":21610.0,
+    "('Close', 'FLTR.L')":21610.0,
+    "('High', 'FLTR.L')":21700.0,
+    "('Low', 'FLTR.L')":21370.0,
+    "('Open', 'FLTR.L')":21480.0,
+    "('Volume', 'FLTR.L')":75624
+  },
+  {
+    "('Date', '')":"2024-12-02",
+    "('Adj Close', 'FLTR.L')":21790.0,
+    "('Close', 'FLTR.L')":21790.0,
+    "('High', 'FLTR.L')":21900.0,
+    "('Low', 'FLTR.L')":21240.0,
+    "('Open', 'FLTR.L')":21630.0,
+    "('Volume', 'FLTR.L')":75746
+  },
+  {
+    "('Date', '')":"2024-12-03",
+    "('Adj Close', 'FLTR.L')":22130.0,
+    "('Close', 'FLTR.L')":22130.0,
+    "('High', 'FLTR.L')":22250.0,
+    "('Low', 'FLTR.L')":21780.0,
+    "('Open', 'FLTR.L')":21870.0,
+    "('Volume', 'FLTR.L')":1036677
+  },
+  {
+    "('Date', '')":"2024-12-04",
+    "('Adj Close', 'FLTR.L')":21810.0,
+    "('Close', 'FLTR.L')":21810.0,
+    "('High', 'FLTR.L')":22410.0,
+    "('Low', 'FLTR.L')":21810.0,
+    "('Open', 'FLTR.L')":22220.0,
+    "('Volume', 'FLTR.L')":147035
+  },
+  {
+    "('Date', '')":"2024-12-05",
+    "('Adj Close', 'FLTR.L')":21970.0,
+    "('Close', 'FLTR.L')":21970.0,
+    "('High', 'FLTR.L')":22090.0,
+    "('Low', 'FLTR.L')":21790.0,
+    "('Open', 'FLTR.L')":21800.0,
+    "('Volume', 'FLTR.L')":64072
+  },
+  {
+    "('Date', '')":"2024-12-06",
+    "('Adj Close', 'FLTR.L')":21750.0,
+    "('Close', 'FLTR.L')":21750.0,
+    "('High', 'FLTR.L')":22300.0,
+    "('Low', 'FLTR.L')":21390.0,
+    "('Open', 'FLTR.L')":21670.0,
+    "('Volume', 'FLTR.L')":107962
+  },
+  {
+    "('Date', '')":"2024-12-09",
+    "('Adj Close', 'FLTR.L')":21320.0,
+    "('Close', 'FLTR.L')":21320.0,
+    "('High', 'FLTR.L')":22190.0,
+    "('Low', 'FLTR.L')":21250.0,
+    "('Open', 'FLTR.L')":22030.0,
+    "('Volume', 'FLTR.L')":181057
+  },
+  {
+    "('Date', '')":"2024-12-10",
+    "('Adj Close', 'FLTR.L')":21650.0,
+    "('Close', 'FLTR.L')":21650.0,
+    "('High', 'FLTR.L')":21730.0,
+    "('Low', 'FLTR.L')":21120.0,
+    "('Open', 'FLTR.L')":21180.0,
+    "('Volume', 'FLTR.L')":158783
+  },
+  {
+    "('Date', '')":"2024-12-11",
+    "('Adj Close', 'FLTR.L')":21890.0,
+    "('Close', 'FLTR.L')":21890.0,
+    "('High', 'FLTR.L')":22020.0,
+    "('Low', 'FLTR.L')":21410.0,
+    "('Open', 'FLTR.L')":21530.0,
+    "('Volume', 'FLTR.L')":52225
+  },
+  {
+    "('Date', '')":"2024-12-12",
+    "('Adj Close', 'FLTR.L')":22100.0,
+    "('Close', 'FLTR.L')":22100.0,
+    "('High', 'FLTR.L')":22160.0,
+    "('Low', 'FLTR.L')":21510.0,
+    "('Open', 'FLTR.L')":21650.0,
+    "('Volume', 'FLTR.L')":53242
+  },
+  {
+    "('Date', '')":"2024-12-13",
+    "('Adj Close', 'FLTR.L')":21980.0,
+    "('Close', 'FLTR.L')":21980.0,
+    "('High', 'FLTR.L')":22450.0,
+    "('Low', 'FLTR.L')":21920.0,
+    "('Open', 'FLTR.L')":22170.0,
+    "('Volume', 'FLTR.L')":68914
+  },
+  {
+    "('Date', '')":"2024-12-16",
+    "('Adj Close', 'FLTR.L')":21700.0,
+    "('Close', 'FLTR.L')":21700.0,
+    "('High', 'FLTR.L')":22030.0,
+    "('Low', 'FLTR.L')":21650.0,
+    "('Open', 'FLTR.L')":21700.0,
+    "('Volume', 'FLTR.L')":485517
+  },
+  {
+    "('Date', '')":"2024-12-17",
+    "('Adj Close', 'FLTR.L')":21490.0,
+    "('Close', 'FLTR.L')":21490.0,
+    "('High', 'FLTR.L')":21910.0,
+    "('Low', 'FLTR.L')":21430.0,
+    "('Open', 'FLTR.L')":21760.0,
+    "('Volume', 'FLTR.L')":84547
+  },
+  {
+    "('Date', '')":"2024-12-18",
+    "('Adj Close', 'FLTR.L')":21560.0,
+    "('Close', 'FLTR.L')":21560.0,
+    "('High', 'FLTR.L')":21680.0,
+    "('Low', 'FLTR.L')":21420.0,
+    "('Open', 'FLTR.L')":21430.0,
+    "('Volume', 'FLTR.L')":49751
+  },
+  {
+    "('Date', '')":"2024-12-19",
+    "('Adj Close', 'FLTR.L')":20860.0,
+    "('Close', 'FLTR.L')":20860.0,
+    "('High', 'FLTR.L')":21350.0,
+    "('Low', 'FLTR.L')":20710.0,
+    "('Open', 'FLTR.L')":21050.0,
+    "('Volume', 'FLTR.L')":390749
+  },
+  {
+    "('Date', '')":"2024-12-20",
+    "('Adj Close', 'FLTR.L')":21120.0,
+    "('Close', 'FLTR.L')":21120.0,
+    "('High', 'FLTR.L')":21124.224609375,
+    "('Low', 'FLTR.L')":20540.0,
+    "('Open', 'FLTR.L')":20790.0,
+    "('Volume', 'FLTR.L')":295928
+  },
+  {
+    "('Date', '')":"2024-12-23",
+    "('Adj Close', 'FLTR.L')":20910.0,
+    "('Close', 'FLTR.L')":20910.0,
+    "('High', 'FLTR.L')":21220.0,
+    "('Low', 'FLTR.L')":20800.0,
+    "('Open', 'FLTR.L')":21200.0,
+    "('Volume', 'FLTR.L')":70850
+  },
+  {
+    "('Date', '')":"2024-12-24",
+    "('Adj Close', 'FLTR.L')":20710.0,
+    "('Close', 'FLTR.L')":20710.0,
+    "('High', 'FLTR.L')":20900.0,
+    "('Low', 'FLTR.L')":20450.0,
+    "('Open', 'FLTR.L')":20730.0,
+    "('Volume', 'FLTR.L')":35872
+  },
+  {
+    "('Date', '')":"2024-12-27",
+    "('Adj Close', 'FLTR.L')":20770.0,
+    "('Close', 'FLTR.L')":20770.0,
+    "('High', 'FLTR.L')":20810.0,
+    "('Low', 'FLTR.L')":20420.0,
+    "('Open', 'FLTR.L')":20430.0,
+    "('Volume', 'FLTR.L')":88668
+  },
+  {
+    "('Date', '')":"2024-12-30",
+    "('Adj Close', 'FLTR.L')":20720.0,
+    "('Close', 'FLTR.L')":20720.0,
+    "('High', 'FLTR.L')":20770.0,
+    "('Low', 'FLTR.L')":20260.0,
+    "('Open', 'FLTR.L')":20390.0,
+    "('Volume', 'FLTR.L')":68175
+  },
+  {
+    "('Date', '')":"2024-12-31",
+    "('Adj Close', 'FLTR.L')":20720.0,
+    "('Close', 'FLTR.L')":20720.0,
+    "('High', 'FLTR.L')":20870.0,
+    "('Low', 'FLTR.L')":20260.0,
+    "('Open', 'FLTR.L')":20270.0,
+    "('Volume', 'FLTR.L')":27965
+  },
+  {
+    "('Date', '')":"2025-01-02",
+    "('Adj Close', 'FLTR.L')":20900.0,
+    "('Close', 'FLTR.L')":20900.0,
+    "('High', 'FLTR.L')":20990.0,
+    "('Low', 'FLTR.L')":20410.0,
+    "('Open', 'FLTR.L')":20490.0,
+    "('Volume', 'FLTR.L')":47622
+  },
+  {
+    "('Date', '')":"2025-01-03",
+    "('Adj Close', 'FLTR.L')":20410.0,
+    "('Close', 'FLTR.L')":20410.0,
+    "('High', 'FLTR.L')":20660.0,
+    "('Low', 'FLTR.L')":20310.0,
+    "('Open', 'FLTR.L')":20520.0,
+    "('Volume', 'FLTR.L')":45905
+  },
+  {
+    "('Date', '')":"2025-01-06",
+    "('Adj Close', 'FLTR.L')":20720.0,
+    "('Close', 'FLTR.L')":20720.0,
+    "('High', 'FLTR.L')":20850.0,
+    "('Low', 'FLTR.L')":20010.0,
+    "('Open', 'FLTR.L')":20690.0,
+    "('Volume', 'FLTR.L')":60438
+  },
+  {
+    "('Date', '')":"2025-01-07",
+    "('Adj Close', 'FLTR.L')":20530.0,
+    "('Close', 'FLTR.L')":20530.0,
+    "('High', 'FLTR.L')":20770.0,
+    "('Low', 'FLTR.L')":20430.0,
+    "('Open', 'FLTR.L')":20510.0,
+    "('Volume', 'FLTR.L')":60376
+  },
+  {
+    "('Date', '')":"2025-01-08",
+    "('Adj Close', 'FLTR.L')":20610.0,
+    "('Close', 'FLTR.L')":20610.0,
+    "('High', 'FLTR.L')":20780.0,
+    "('Low', 'FLTR.L')":19545.0,
+    "('Open', 'FLTR.L')":19600.0,
+    "('Volume', 'FLTR.L')":389152
+  },
+  {
+    "('Date', '')":"2025-01-09",
+    "('Adj Close', 'FLTR.L')":20210.0,
+    "('Close', 'FLTR.L')":20210.0,
+    "('High', 'FLTR.L')":20740.0,
+    "('Low', 'FLTR.L')":20210.0,
+    "('Open', 'FLTR.L')":20600.0,
+    "('Volume', 'FLTR.L')":92929
+  },
+  {
+    "('Date', '')":"2025-01-10",
+    "('Adj Close', 'FLTR.L')":20470.0,
+    "('Close', 'FLTR.L')":20470.0,
+    "('High', 'FLTR.L')":20580.0,
+    "('Low', 'FLTR.L')":20070.0,
+    "('Open', 'FLTR.L')":20190.0,
+    "('Volume', 'FLTR.L')":275984
+  },
+  {
+    "('Date', '')":"2025-01-13",
+    "('Adj Close', 'FLTR.L')":20880.0,
+    "('Close', 'FLTR.L')":20880.0,
+    "('High', 'FLTR.L')":21030.0,
+    "('Low', 'FLTR.L')":20710.0,
+    "('Open', 'FLTR.L')":20800.0,
+    "('Volume', 'FLTR.L')":89437
+  },
+  {
+    "('Date', '')":"2025-01-14",
+    "('Adj Close', 'FLTR.L')":21470.0,
+    "('Close', 'FLTR.L')":21470.0,
+    "('High', 'FLTR.L')":21620.0,
+    "('Low', 'FLTR.L')":20930.0,
+    "('Open', 'FLTR.L')":21030.0,
+    "('Volume', 'FLTR.L')":138933
+  },
+  {
+    "('Date', '')":"2025-01-15",
+    "('Adj Close', 'FLTR.L')":21410.0,
+    "('Close', 'FLTR.L')":21410.0,
+    "('High', 'FLTR.L')":21620.0,
+    "('Low', 'FLTR.L')":21210.0,
+    "('Open', 'FLTR.L')":21250.0,
+    "('Volume', 'FLTR.L')":430718
+  },
+  {
+    "('Date', '')":"2025-01-16",
+    "('Adj Close', 'FLTR.L')":21170.0,
+    "('Close', 'FLTR.L')":21170.0,
+    "('High', 'FLTR.L')":21370.0,
+    "('Low', 'FLTR.L')":20880.0,
+    "('Open', 'FLTR.L')":21260.0,
+    "('Volume', 'FLTR.L')":151456
+  },
+  {
+    "('Date', '')":"2025-01-17",
+    "('Adj Close', 'FLTR.L')":21360.0,
+    "('Close', 'FLTR.L')":21360.0,
+    "('High', 'FLTR.L')":21540.0,
+    "('Low', 'FLTR.L')":21140.0,
+    "('Open', 'FLTR.L')":21420.0,
+    "('Volume', 'FLTR.L')":259026
+  },
+  {
+    "('Date', '')":"2025-01-20",
+    "('Adj Close', 'FLTR.L')":21830.0,
+    "('Close', 'FLTR.L')":21830.0,
+    "('High', 'FLTR.L')":21870.0,
+    "('Low', 'FLTR.L')":21580.0,
+    "('Open', 'FLTR.L')":21610.0,
+    "('Volume', 'FLTR.L')":69033
+  },
+  {
+    "('Date', '')":"2025-01-21",
+    "('Adj Close', 'FLTR.L')":22070.0,
+    "('Close', 'FLTR.L')":22070.0,
+    "('High', 'FLTR.L')":22090.0,
+    "('Low', 'FLTR.L')":21350.0,
+    "('Open', 'FLTR.L')":21920.0,
+    "('Volume', 'FLTR.L')":54487
+  },
+  {
+    "('Date', '')":"2025-01-22",
+    "('Adj Close', 'FLTR.L')":21830.0,
+    "('Close', 'FLTR.L')":21830.0,
+    "('High', 'FLTR.L')":22250.0,
+    "('Low', 'FLTR.L')":21630.0,
+    "('Open', 'FLTR.L')":22000.0,
+    "('Volume', 'FLTR.L')":65331
+  },
+  {
+    "('Date', '')":"2025-01-23",
+    "('Adj Close', 'FLTR.L')":21830.0,
+    "('Close', 'FLTR.L')":21830.0,
+    "('High', 'FLTR.L')":21830.0,
+    "('Low', 'FLTR.L')":21390.0,
+    "('Open', 'FLTR.L')":21550.0,
+    "('Volume', 'FLTR.L')":44118
+  },
+  {
+    "('Date', '')":"2025-01-24",
+    "('Adj Close', 'FLTR.L')":21430.0,
+    "('Close', 'FLTR.L')":21430.0,
+    "('High', 'FLTR.L')":21750.0,
+    "('Low', 'FLTR.L')":21380.0,
+    "('Open', 'FLTR.L')":21700.0,
+    "('Volume', 'FLTR.L')":41291
+  },
+  {
+    "('Date', '')":"2025-01-27",
+    "('Adj Close', 'FLTR.L')":21010.0,
+    "('Close', 'FLTR.L')":21010.0,
+    "('High', 'FLTR.L')":21390.0,
+    "('Low', 'FLTR.L')":20810.0,
+    "('Open', 'FLTR.L')":21320.0,
+    "('Volume', 'FLTR.L')":55049
+  },
+  {
+    "('Date', '')":"2025-01-28",
+    "('Adj Close', 'FLTR.L')":21390.0,
+    "('Close', 'FLTR.L')":21390.0,
+    "('High', 'FLTR.L')":21560.0,
+    "('Low', 'FLTR.L')":20650.0,
+    "('Open', 'FLTR.L')":21330.0,
+    "('Volume', 'FLTR.L')":55110
+  },
+  {
+    "('Date', '')":"2025-01-29",
+    "('Adj Close', 'FLTR.L')":21460.0,
+    "('Close', 'FLTR.L')":21460.0,
+    "('High', 'FLTR.L')":21650.0,
+    "('Low', 'FLTR.L')":21380.0,
+    "('Open', 'FLTR.L')":21500.0,
+    "('Volume', 'FLTR.L')":44613
+  },
+  {
+    "('Date', '')":"2025-01-30",
+    "('Adj Close', 'FLTR.L')":21850.0,
+    "('Close', 'FLTR.L')":21850.0,
+    "('High', 'FLTR.L')":21970.0,
+    "('Low', 'FLTR.L')":21400.0,
+    "('Open', 'FLTR.L')":21590.0,
+    "('Volume', 'FLTR.L')":43451
+  },
+  {
+    "('Date', '')":"2025-01-31",
+    "('Adj Close', 'FLTR.L')":21810.0,
+    "('Close', 'FLTR.L')":21810.0,
+    "('High', 'FLTR.L')":22070.0,
+    "('Low', 'FLTR.L')":21680.0,
+    "('Open', 'FLTR.L')":21710.0,
+    "('Volume', 'FLTR.L')":69688
+  },
+  {
+    "('Date', '')":"2025-02-03",
+    "('Adj Close', 'FLTR.L')":21320.0,
+    "('Close', 'FLTR.L')":21320.0,
+    "('High', 'FLTR.L')":21523.890625,
+    "('Low', 'FLTR.L')":21130.0,
+    "('Open', 'FLTR.L')":21340.0,
+    "('Volume', 'FLTR.L')":160898
+  },
+  {
+    "('Date', '')":"2025-02-04",
+    "('Adj Close', 'FLTR.L')":20870.0,
+    "('Close', 'FLTR.L')":20870.0,
+    "('High', 'FLTR.L')":21060.0,
+    "('Low', 'FLTR.L')":19975.0,
+    "('Open', 'FLTR.L')":20650.0,
+    "('Volume', 'FLTR.L')":129851
+  },
+  {
+    "('Date', '')":"2025-02-05",
+    "('Adj Close', 'FLTR.L')":21170.0,
+    "('Close', 'FLTR.L')":21170.0,
+    "('High', 'FLTR.L')":21430.0,
+    "('Low', 'FLTR.L')":20900.0,
+    "('Open', 'FLTR.L')":21020.0,
+    "('Volume', 'FLTR.L')":98540
+  },
+  {
+    "('Date', '')":"2025-02-06",
+    "('Adj Close', 'FLTR.L')":21410.0,
+    "('Close', 'FLTR.L')":21410.0,
+    "('High', 'FLTR.L')":21470.0,
+    "('Low', 'FLTR.L')":21030.0,
+    "('Open', 'FLTR.L')":21260.0,
+    "('Volume', 'FLTR.L')":112593
+  },
+  {
+    "('Date', '')":"2025-02-07",
+    "('Adj Close', 'FLTR.L')":21520.0,
+    "('Close', 'FLTR.L')":21520.0,
+    "('High', 'FLTR.L')":21560.0,
+    "('Low', 'FLTR.L')":21170.0,
+    "('Open', 'FLTR.L')":21200.0,
+    "('Volume', 'FLTR.L')":44793
+  },
+  {
+    "('Date', '')":"2025-02-10",
+    "('Adj Close', 'FLTR.L')":21470.0,
+    "('Close', 'FLTR.L')":21470.0,
+    "('High', 'FLTR.L')":21860.0,
+    "('Low', 'FLTR.L')":21410.0,
+    "('Open', 'FLTR.L')":21680.0,
+    "('Volume', 'FLTR.L')":55911
+  },
+  {
+    "('Date', '')":"2025-02-11",
+    "('Adj Close', 'FLTR.L')":21340.0,
+    "('Close', 'FLTR.L')":21340.0,
+    "('High', 'FLTR.L')":21740.0,
+    "('Low', 'FLTR.L')":21140.0,
+    "('Open', 'FLTR.L')":21590.0,
+    "('Volume', 'FLTR.L')":64039
+  },
+  {
+    "('Date', '')":"2025-02-12",
+    "('Adj Close', 'FLTR.L')":21820.0,
+    "('Close', 'FLTR.L')":21820.0,
+    "('High', 'FLTR.L')":22040.0,
+    "('Low', 'FLTR.L')":21450.0,
+    "('Open', 'FLTR.L')":21500.0,
+    "('Volume', 'FLTR.L')":50825
+  },
+  {
+    "('Date', '')":"2025-02-13",
+    "('Adj Close', 'FLTR.L')":22020.0,
+    "('Close', 'FLTR.L')":22020.0,
+    "('High', 'FLTR.L')":22660.0,
+    "('Low', 'FLTR.L')":21880.0,
+    "('Open', 'FLTR.L')":22210.0,
+    "('Volume', 'FLTR.L')":86504
+  },
+  {
+    "('Date', '')":"2025-02-14",
+    "('Adj Close', 'FLTR.L')":23630.0,
+    "('Close', 'FLTR.L')":23630.0,
+    "('High', 'FLTR.L')":23700.0,
+    "('Low', 'FLTR.L')":22510.0,
+    "('Open', 'FLTR.L')":23000.0,
+    "('Volume', 'FLTR.L')":150393
+  },
+  {
+    "('Date', '')":"2025-02-17",
+    "('Adj Close', 'FLTR.L')":23270.0,
+    "('Close', 'FLTR.L')":23270.0,
+    "('High', 'FLTR.L')":23620.0,
+    "('Low', 'FLTR.L')":22970.0,
+    "('Open', 'FLTR.L')":23350.0,
+    "('Volume', 'FLTR.L')":74867
+  },
+  {
+    "('Date', '')":"2025-02-18",
+    "('Adj Close', 'FLTR.L')":23160.0,
+    "('Close', 'FLTR.L')":23160.0,
+    "('High', 'FLTR.L')":23570.0,
+    "('Low', 'FLTR.L')":23070.0,
+    "('Open', 'FLTR.L')":23320.0,
+    "('Volume', 'FLTR.L')":69588
+  },
+  {
+    "('Date', '')":"2025-02-19",
+    "('Adj Close', 'FLTR.L')":23130.0,
+    "('Close', 'FLTR.L')":23130.0,
+    "('High', 'FLTR.L')":23330.0,
+    "('Low', 'FLTR.L')":23000.0,
+    "('Open', 'FLTR.L')":23240.0,
+    "('Volume', 'FLTR.L')":93750
+  },
+  {
+    "('Date', '')":"2025-02-20",
+    "('Adj Close', 'FLTR.L')":22490.0,
+    "('Close', 'FLTR.L')":22490.0,
+    "('High', 'FLTR.L')":23320.0,
+    "('Low', 'FLTR.L')":22420.0,
+    "('Open', 'FLTR.L')":23060.0,
+    "('Volume', 'FLTR.L')":78293
+  },
+  {
+    "('Date', '')":"2025-02-21",
+    "('Adj Close', 'FLTR.L')":22290.0,
+    "('Close', 'FLTR.L')":22290.0,
+    "('High', 'FLTR.L')":22740.0,
+    "('Low', 'FLTR.L')":22150.0,
+    "('Open', 'FLTR.L')":22700.0,
+    "('Volume', 'FLTR.L')":242034
+  },
+  {
+    "('Date', '')":"2025-02-24",
+    "('Adj Close', 'FLTR.L')":21420.0,
+    "('Close', 'FLTR.L')":21420.0,
+    "('High', 'FLTR.L')":21990.0,
+    "('Low', 'FLTR.L')":21210.0,
+    "('Open', 'FLTR.L')":21710.0,
+    "('Volume', 'FLTR.L')":98321
+  },
+  {
+    "('Date', '')":"2025-02-25",
+    "('Adj Close', 'FLTR.L')":20750.0,
+    "('Close', 'FLTR.L')":20750.0,
+    "('High', 'FLTR.L')":21490.0,
+    "('Low', 'FLTR.L')":20480.0,
+    "('Open', 'FLTR.L')":21340.0,
+    "('Volume', 'FLTR.L')":90425
+  },
+  {
+    "('Date', '')":"2025-02-26",
+    "('Adj Close', 'FLTR.L')":21570.0,
+    "('Close', 'FLTR.L')":21570.0,
+    "('High', 'FLTR.L')":21670.0,
+    "('Low', 'FLTR.L')":20440.0,
+    "('Open', 'FLTR.L')":20460.0,
+    "('Volume', 'FLTR.L')":85670
+  },
+  {
+    "('Date', '')":"2025-02-27",
+    "('Adj Close', 'FLTR.L')":21810.0,
+    "('Close', 'FLTR.L')":21810.0,
+    "('High', 'FLTR.L')":21930.0,
+    "('Low', 'FLTR.L')":21300.0,
+    "('Open', 'FLTR.L')":21610.0,
+    "('Volume', 'FLTR.L')":136380
+  },
+  {
+    "('Date', '')":"2025-02-28",
+    "('Adj Close', 'FLTR.L')":21780.0,
+    "('Close', 'FLTR.L')":21780.0,
+    "('High', 'FLTR.L')":21890.0,
+    "('Low', 'FLTR.L')":21270.0,
+    "('Open', 'FLTR.L')":21300.0,
+    "('Volume', 'FLTR.L')":89882
+  },
+  {
+    "('Date', '')":"2025-03-03",
+    "('Adj Close', 'FLTR.L')":21690.0,
+    "('Close', 'FLTR.L')":21690.0,
+    "('High', 'FLTR.L')":22250.0,
+    "('Low', 'FLTR.L')":21690.0,
+    "('Open', 'FLTR.L')":22160.0,
+    "('Volume', 'FLTR.L')":267107
+  },
+  {
+    "('Date', '')":"2025-03-04",
+    "('Adj Close', 'FLTR.L')":20550.0,
+    "('Close', 'FLTR.L')":20550.0,
+    "('High', 'FLTR.L')":21570.0,
+    "('Low', 'FLTR.L')":20410.0,
+    "('Open', 'FLTR.L')":21210.0,
+    "('Volume', 'FLTR.L')":98742
+  },
+  {
+    "('Date', '')":"2025-03-05",
+    "('Adj Close', 'FLTR.L')":20650.0,
+    "('Close', 'FLTR.L')":20650.0,
+    "('High', 'FLTR.L')":21280.0,
+    "('Low', 'FLTR.L')":20440.0,
+    "('Open', 'FLTR.L')":20870.0,
+    "('Volume', 'FLTR.L')":83299
+  },
+  {
+    "('Date', '')":"2025-03-06",
+    "('Adj Close', 'FLTR.L')":20170.0,
+    "('Close', 'FLTR.L')":20170.0,
+    "('High', 'FLTR.L')":20960.0,
+    "('Low', 'FLTR.L')":20060.0,
+    "('Open', 'FLTR.L')":20830.0,
+    "('Volume', 'FLTR.L')":130263
+  },
+  {
+    "('Date', '')":"2025-03-07",
+    "('Adj Close', 'FLTR.L')":18855.0,
+    "('Close', 'FLTR.L')":18855.0,
+    "('High', 'FLTR.L')":20100.0,
+    "('Low', 'FLTR.L')":18815.0,
+    "('Open', 'FLTR.L')":19745.0,
+    "('Volume', 'FLTR.L')":161918
+  },
+  {
+    "('Date', '')":"2025-03-10",
+    "('Adj Close', 'FLTR.L')":17840.0,
+    "('Close', 'FLTR.L')":17840.0,
+    "('High', 'FLTR.L')":19180.0,
+    "('Low', 'FLTR.L')":17630.0,
+    "('Open', 'FLTR.L')":18950.0,
+    "('Volume', 'FLTR.L')":185089
+  },
+  {
+    "('Date', '')":"2025-03-11",
+    "('Adj Close', 'FLTR.L')":17900.0,
+    "('Close', 'FLTR.L')":17900.0,
+    "('High', 'FLTR.L')":18170.0,
+    "('Low', 'FLTR.L')":17525.0,
+    "('Open', 'FLTR.L')":17820.0,
+    "('Volume', 'FLTR.L')":94271
+  },
+  {
+    "('Date', '')":"2025-03-12",
+    "('Adj Close', 'FLTR.L')":18095.0,
+    "('Close', 'FLTR.L')":18095.0,
+    "('High', 'FLTR.L')":18785.0,
+    "('Low', 'FLTR.L')":17850.0,
+    "('Open', 'FLTR.L')":18010.0,
+    "('Volume', 'FLTR.L')":133388
+  },
+  {
+    "('Date', '')":"2025-03-13",
+    "('Adj Close', 'FLTR.L')":18005.0,
+    "('Close', 'FLTR.L')":18005.0,
+    "('High', 'FLTR.L')":18300.0,
+    "('Low', 'FLTR.L')":17835.0,
+    "('Open', 'FLTR.L')":17955.0,
+    "('Volume', 'FLTR.L')":73341
+  },
+  {
+    "('Date', '')":"2025-03-14",
+    "('Adj Close', 'FLTR.L')":18155.0,
+    "('Close', 'FLTR.L')":18155.0,
+    "('High', 'FLTR.L')":18365.0,
+    "('Low', 'FLTR.L')":17905.0,
+    "('Open', 'FLTR.L')":17945.0,
+    "('Volume', 'FLTR.L')":137255
+  },
+  {
+    "('Date', '')":"2025-03-17",
+    "('Adj Close', 'FLTR.L')":18160.0,
+    "('Close', 'FLTR.L')":18160.0,
+    "('High', 'FLTR.L')":18350.0,
+    "('Low', 'FLTR.L')":18025.0,
+    "('Open', 'FLTR.L')":18260.0,
+    "('Volume', 'FLTR.L')":73237
+  },
+  {
+    "('Date', '')":"2025-03-18",
+    "('Adj Close', 'FLTR.L')":18280.0,
+    "('Close', 'FLTR.L')":18280.0,
+    "('High', 'FLTR.L')":18645.0,
+    "('Low', 'FLTR.L')":17955.0,
+    "('Open', 'FLTR.L')":18400.0,
+    "('Volume', 'FLTR.L')":109201
+  },
+  {
+    "('Date', '')":"2025-03-19",
+    "('Adj Close', 'FLTR.L')":18355.0,
+    "('Close', 'FLTR.L')":18355.0,
+    "('High', 'FLTR.L')":18380.0,
+    "('Low', 'FLTR.L')":17835.0,
+    "('Open', 'FLTR.L')":17940.0,
+    "('Volume', 'FLTR.L')":86380
+  },
+  {
+    "('Date', '')":"2025-03-20",
+    "('Adj Close', 'FLTR.L')":18790.0,
+    "('Close', 'FLTR.L')":18790.0,
+    "('High', 'FLTR.L')":18925.0,
+    "('Low', 'FLTR.L')":18500.0,
+    "('Open', 'FLTR.L')":18500.0,
+    "('Volume', 'FLTR.L')":159119
+  },
+  {
+    "('Date', '')":"2025-03-21",
+    "('Adj Close', 'FLTR.L')":18375.0,
+    "('Close', 'FLTR.L')":18375.0,
+    "('High', 'FLTR.L')":18740.0,
+    "('Low', 'FLTR.L')":18305.0,
+    "('Open', 'FLTR.L')":18400.0,
+    "('Volume', 'FLTR.L')":7399748
+  },
+  {
+    "('Date', '')":"2025-03-24",
+    "('Adj Close', 'FLTR.L')":19160.0,
+    "('Close', 'FLTR.L')":19160.0,
+    "('High', 'FLTR.L')":19202.5,
+    "('Low', 'FLTR.L')":18555.0,
+    "('Open', 'FLTR.L')":18610.0,
+    "('Volume', 'FLTR.L')":174826
+  },
+  {
+    "('Date', '')":"2025-03-25",
+    "('Adj Close', 'FLTR.L')":18615.0,
+    "('Close', 'FLTR.L')":18615.0,
+    "('High', 'FLTR.L')":19120.0,
+    "('Low', 'FLTR.L')":18610.0,
+    "('Open', 'FLTR.L')":18895.0,
+    "('Volume', 'FLTR.L')":294600
+  },
+  {
+    "('Date', '')":"2025-03-26",
+    "('Adj Close', 'FLTR.L')":18465.0,
+    "('Close', 'FLTR.L')":18465.0,
+    "('High', 'FLTR.L')":18630.0,
+    "('Low', 'FLTR.L')":18200.0,
+    "('Open', 'FLTR.L')":18600.0,
+    "('Volume', 'FLTR.L')":253562
+  },
+  {
+    "('Date', '')":"2025-03-27",
+    "('Adj Close', 'FLTR.L')":18355.0,
+    "('Close', 'FLTR.L')":18355.0,
+    "('High', 'FLTR.L')":18470.0,
+    "('Low', 'FLTR.L')":18130.0,
+    "('Open', 'FLTR.L')":18200.0,
+    "('Volume', 'FLTR.L')":74988
+  },
+  {
+    "('Date', '')":"2025-03-28",
+    "('Adj Close', 'FLTR.L')":17795.0,
+    "('Close', 'FLTR.L')":17795.0,
+    "('High', 'FLTR.L')":18415.0,
+    "('Low', 'FLTR.L')":17785.0,
+    "('Open', 'FLTR.L')":18040.0,
+    "('Volume', 'FLTR.L')":132546
+  },
+  {
+    "('Date', '')":"2025-03-31",
+    "('Adj Close', 'FLTR.L')":16950.0,
+    "('Close', 'FLTR.L')":16950.0,
+    "('High', 'FLTR.L')":17650.0,
+    "('Low', 'FLTR.L')":16555.0,
+    "('Open', 'FLTR.L')":17570.0,
+    "('Volume', 'FLTR.L')":181239
+  },
+  {
+    "('Date', '')":"2025-04-01",
+    "('Adj Close', 'FLTR.L')":17020.0,
+    "('Close', 'FLTR.L')":17020.0,
+    "('High', 'FLTR.L')":17170.0,
+    "('Low', 'FLTR.L')":16600.0,
+    "('Open', 'FLTR.L')":17170.0,
+    "('Volume', 'FLTR.L')":165734
+  },
+  {
+    "('Date', '')":"2025-04-02",
+    "('Adj Close', 'FLTR.L')":17605.0,
+    "('Close', 'FLTR.L')":17605.0,
+    "('High', 'FLTR.L')":17680.0,
+    "('Low', 'FLTR.L')":17040.0,
+    "('Open', 'FLTR.L')":17085.0,
+    "('Volume', 'FLTR.L')":321486
+  },
+  {
+    "('Date', '')":"2025-04-03",
+    "('Adj Close', 'FLTR.L')":16540.0,
+    "('Close', 'FLTR.L')":16540.0,
+    "('High', 'FLTR.L')":17135.0,
+    "('Low', 'FLTR.L')":16305.0,
+    "('Open', 'FLTR.L')":16970.0,
+    "('Volume', 'FLTR.L')":292798
+  },
+  {
+    "('Date', '')":"2025-04-04",
+    "('Adj Close', 'FLTR.L')":16085.0,
+    "('Close', 'FLTR.L')":16085.0,
+    "('High', 'FLTR.L')":16795.0,
+    "('Low', 'FLTR.L')":15635.0,
+    "('Open', 'FLTR.L')":16795.0,
+    "('Volume', 'FLTR.L')":231201
+  },
+  {
+    "('Date', '')":"2025-04-07",
+    "('Adj Close', 'FLTR.L')":16160.0,
+    "('Close', 'FLTR.L')":16160.0,
+    "('High', 'FLTR.L')":16985.0,
+    "('Low', 'FLTR.L')":14745.0,
+    "('Open', 'FLTR.L')":14805.0,
+    "('Volume', 'FLTR.L')":238768
+  },
+  {
+    "('Date', '')":"2025-04-08",
+    "('Adj Close', 'FLTR.L')":17280.0,
+    "('Close', 'FLTR.L')":17280.0,
+    "('High', 'FLTR.L')":17515.0,
+    "('Low', 'FLTR.L')":16530.0,
+    "('Open', 'FLTR.L')":16790.0,
+    "('Volume', 'FLTR.L')":504584
+  },
+  {
+    "('Date', '')":"2025-04-09",
+    "('Adj Close', 'FLTR.L')":16750.0,
+    "('Close', 'FLTR.L')":16750.0,
+    "('High', 'FLTR.L')":17040.0,
+    "('Low', 'FLTR.L')":16310.0,
+    "('Open', 'FLTR.L')":16735.0,
+    "('Volume', 'FLTR.L')":130227
+  },
+  {
+    "('Date', '')":"2025-04-10",
+    "('Adj Close', 'FLTR.L')":17530.0,
+    "('Close', 'FLTR.L')":17530.0,
+    "('High', 'FLTR.L')":18550.0,
+    "('Low', 'FLTR.L')":17445.0,
+    "('Open', 'FLTR.L')":18320.0,
+    "('Volume', 'FLTR.L')":391892
+  },
+  {
+    "('Date', '')":"2025-04-11",
+    "('Adj Close', 'FLTR.L')":17400.0,
+    "('Close', 'FLTR.L')":17400.0,
+    "('High', 'FLTR.L')":17910.0,
+    "('Low', 'FLTR.L')":17275.0,
+    "('Open', 'FLTR.L')":17525.0,
+    "('Volume', 'FLTR.L')":486472
+  },
+  {
+    "('Date', '')":"2025-04-14",
+    "('Adj Close', 'FLTR.L')":17635.0,
+    "('Close', 'FLTR.L')":17635.0,
+    "('High', 'FLTR.L')":17970.0,
+    "('Low', 'FLTR.L')":17510.0,
+    "('Open', 'FLTR.L')":17615.0,
+    "('Volume', 'FLTR.L')":74003
+  },
+  {
+    "('Date', '')":"2025-04-15",
+    "('Adj Close', 'FLTR.L')":17470.0,
+    "('Close', 'FLTR.L')":17470.0,
+    "('High', 'FLTR.L')":17810.0,
+    "('Low', 'FLTR.L')":17295.0,
+    "('Open', 'FLTR.L')":17545.0,
+    "('Volume', 'FLTR.L')":62776
+  },
+  {
+    "('Date', '')":"2025-04-16",
+    "('Adj Close', 'FLTR.L')":17220.0,
+    "('Close', 'FLTR.L')":17220.0,
+    "('High', 'FLTR.L')":17435.0,
+    "('Low', 'FLTR.L')":16910.0,
+    "('Open', 'FLTR.L')":17300.0,
+    "('Volume', 'FLTR.L')":173094
+  },
+  {
+    "('Date', '')":"2025-04-17",
+    "('Adj Close', 'FLTR.L')":17255.0,
+    "('Close', 'FLTR.L')":17255.0,
+    "('High', 'FLTR.L')":17410.0,
+    "('Low', 'FLTR.L')":17050.0,
+    "('Open', 'FLTR.L')":17335.0,
+    "('Volume', 'FLTR.L')":486620
+  },
+  {
+    "('Date', '')":"2025-04-22",
+    "('Adj Close', 'FLTR.L')":16835.0,
+    "('Close', 'FLTR.L')":16835.0,
+    "('High', 'FLTR.L')":16880.0,
+    "('Low', 'FLTR.L')":16110.0,
+    "('Open', 'FLTR.L')":16435.0,
+    "('Volume', 'FLTR.L')":251991
+  },
+  {
+    "('Date', '')":"2025-04-23",
+    "('Adj Close', 'FLTR.L')":17525.0,
+    "('Close', 'FLTR.L')":17525.0,
+    "('High', 'FLTR.L')":17840.0,
+    "('Low', 'FLTR.L')":17100.0,
+    "('Open', 'FLTR.L')":17200.0,
+    "('Volume', 'FLTR.L')":83148
+  },
+  {
+    "('Date', '')":"2025-04-24",
+    "('Adj Close', 'FLTR.L')":17320.0,
+    "('Close', 'FLTR.L')":17320.0,
+    "('High', 'FLTR.L')":17495.0,
+    "('Low', 'FLTR.L')":17175.0,
+    "('Open', 'FLTR.L')":17295.0,
+    "('Volume', 'FLTR.L')":213368
+  },
+  {
+    "('Date', '')":"2025-04-25",
+    "('Adj Close', 'FLTR.L')":17270.0,
+    "('Close', 'FLTR.L')":17270.0,
+    "('High', 'FLTR.L')":17650.0,
+    "('Low', 'FLTR.L')":17038.919921875,
+    "('Open', 'FLTR.L')":17545.0,
+    "('Volume', 'FLTR.L')":67998
+  },
+  {
+    "('Date', '')":"2025-04-28",
+    "('Adj Close', 'FLTR.L')":17460.0,
+    "('Close', 'FLTR.L')":17460.0,
+    "('High', 'FLTR.L')":17810.0,
+    "('Low', 'FLTR.L')":17275.0,
+    "('Open', 'FLTR.L')":17395.0,
+    "('Volume', 'FLTR.L')":74557
+  },
+  {
+    "('Date', '')":"2025-04-29",
+    "('Adj Close', 'FLTR.L')":17640.0,
+    "('Close', 'FLTR.L')":17640.0,
+    "('High', 'FLTR.L')":17805.0,
+    "('Low', 'FLTR.L')":17400.0,
+    "('Open', 'FLTR.L')":17515.0,
+    "('Volume', 'FLTR.L')":70980
+  },
+  {
+    "('Date', '')":"2025-04-30",
+    "('Adj Close', 'FLTR.L')":17960.0,
+    "('Close', 'FLTR.L')":17960.0,
+    "('High', 'FLTR.L')":17960.0,
+    "('Low', 'FLTR.L')":17485.0,
+    "('Open', 'FLTR.L')":17700.0,
+    "('Volume', 'FLTR.L')":59133
+  },
+  {
+    "('Date', '')":"2025-05-01",
+    "('Adj Close', 'FLTR.L')":18335.0,
+    "('Close', 'FLTR.L')":18335.0,
+    "('High', 'FLTR.L')":18370.0,
+    "('Low', 'FLTR.L')":17815.0,
+    "('Open', 'FLTR.L')":17945.0,
+    "('Volume', 'FLTR.L')":43728
+  },
+  {
+    "('Date', '')":"2025-05-02",
+    "('Adj Close', 'FLTR.L')":18625.0,
+    "('Close', 'FLTR.L')":18625.0,
+    "('High', 'FLTR.L')":18625.0,
+    "('Low', 'FLTR.L')":18265.0,
+    "('Open', 'FLTR.L')":18480.0,
+    "('Volume', 'FLTR.L')":40901
+  },
+  {
+    "('Date', '')":"2025-05-06",
+    "('Adj Close', 'FLTR.L')":18610.0,
+    "('Close', 'FLTR.L')":18610.0,
+    "('High', 'FLTR.L')":19210.0,
+    "('Low', 'FLTR.L')":18365.0,
+    "('Open', 'FLTR.L')":18735.0,
+    "('Volume', 'FLTR.L')":60989
+  },
+  {
+    "('Date', '')":"2025-05-07",
+    "('Adj Close', 'FLTR.L')":18285.0,
+    "('Close', 'FLTR.L')":18285.0,
+    "('High', 'FLTR.L')":18670.0,
+    "('Low', 'FLTR.L')":18155.0,
+    "('Open', 'FLTR.L')":18390.0,
+    "('Volume', 'FLTR.L')":96734
+  },
+  {
+    "('Date', '')":"2025-05-08",
+    "('Adj Close', 'FLTR.L')":18200.0,
+    "('Close', 'FLTR.L')":18200.0,
+    "('High', 'FLTR.L')":18520.0,
+    "('Low', 'FLTR.L')":17300.0,
+    "('Open', 'FLTR.L')":18230.0,
+    "('Volume', 'FLTR.L')":227395
+  },
+  {
+    "('Date', '')":"2025-05-09",
+    "('Adj Close', 'FLTR.L')":17885.0,
+    "('Close', 'FLTR.L')":17885.0,
+    "('High', 'FLTR.L')":18425.0,
+    "('Low', 'FLTR.L')":17740.0,
+    "('Open', 'FLTR.L')":18175.0,
+    "('Volume', 'FLTR.L')":54621
+  },
+  {
+    "('Date', '')":"2025-05-12",
+    "('Adj Close', 'FLTR.L')":18605.0,
+    "('Close', 'FLTR.L')":18605.0,
+    "('High', 'FLTR.L')":18775.0,
+    "('Low', 'FLTR.L')":17765.0,
+    "('Open', 'FLTR.L')":18010.0,
+    "('Volume', 'FLTR.L')":82995
+  },
+  {
+    "('Date', '')":"2025-05-13",
+    "('Adj Close', 'FLTR.L')":18420.0,
+    "('Close', 'FLTR.L')":18420.0,
+    "('High', 'FLTR.L')":18790.0,
+    "('Low', 'FLTR.L')":18361.35546875,
+    "('Open', 'FLTR.L')":18790.0,
+    "('Volume', 'FLTR.L')":37288
+  },
+  {
+    "('Date', '')":"2025-05-14",
+    "('Adj Close', 'FLTR.L')":18605.0,
+    "('Close', 'FLTR.L')":18605.0,
+    "('High', 'FLTR.L')":18605.0,
+    "('Low', 'FLTR.L')":17940.0,
+    "('Open', 'FLTR.L')":18240.0,
+    "('Volume', 'FLTR.L')":56080
+  },
+  {
+    "('Date', '')":"2025-05-15",
+    "('Adj Close', 'FLTR.L')":18410.0,
+    "('Close', 'FLTR.L')":18410.0,
+    "('High', 'FLTR.L')":18693.984375,
+    "('Low', 'FLTR.L')":18235.0,
+    "('Open', 'FLTR.L')":18615.0,
+    "('Volume', 'FLTR.L')":30170
+  },
+  {
+    "('Date', '')":"2025-05-16",
+    "('Adj Close', 'FLTR.L')":18730.0,
+    "('Close', 'FLTR.L')":18730.0,
+    "('High', 'FLTR.L')":18780.0,
+    "('Low', 'FLTR.L')":18150.0,
+    "('Open', 'FLTR.L')":18245.0,
+    "('Volume', 'FLTR.L')":77718
+  },
+  {
+    "('Date', '')":"2025-05-19",
+    "('Adj Close', 'FLTR.L')":18615.0,
+    "('Close', 'FLTR.L')":18615.0,
+    "('High', 'FLTR.L')":18695.0,
+    "('Low', 'FLTR.L')":18215.0,
+    "('Open', 'FLTR.L')":18650.0,
+    "('Volume', 'FLTR.L')":39791
+  },
+  {
+    "('Date', '')":"2025-05-20",
+    "('Adj Close', 'FLTR.L')":18445.0,
+    "('Close', 'FLTR.L')":18445.0,
+    "('High', 'FLTR.L')":18800.0,
+    "('Low', 'FLTR.L')":18345.0,
+    "('Open', 'FLTR.L')":18800.0,
+    "('Volume', 'FLTR.L')":29557
+  },
+  {
+    "('Date', '')":"2025-05-21",
+    "('Adj Close', 'FLTR.L')":18285.0,
+    "('Close', 'FLTR.L')":18285.0,
+    "('High', 'FLTR.L')":18465.0,
+    "('Low', 'FLTR.L')":18080.0,
+    "('Open', 'FLTR.L')":18465.0,
+    "('Volume', 'FLTR.L')":92715
+  },
+  {
+    "('Date', '')":"2025-05-22",
+    "('Adj Close', 'FLTR.L')":17760.0,
+    "('Close', 'FLTR.L')":17760.0,
+    "('High', 'FLTR.L')":18105.0,
+    "('Low', 'FLTR.L')":17675.0,
+    "('Open', 'FLTR.L')":18000.0,
+    "('Volume', 'FLTR.L')":55378
+  },
+  {
+    "('Date', '')":"2025-05-23",
+    "('Adj Close', 'FLTR.L')":17820.0,
+    "('Close', 'FLTR.L')":17820.0,
+    "('High', 'FLTR.L')":17995.0,
+    "('Low', 'FLTR.L')":17310.0,
+    "('Open', 'FLTR.L')":17660.0,
+    "('Volume', 'FLTR.L')":44167
+  },
+  {
+    "('Date', '')":"2025-05-27",
+    "('Adj Close', 'FLTR.L')":17940.0,
+    "('Close', 'FLTR.L')":17940.0,
+    "('High', 'FLTR.L')":18135.0,
+    "('Low', 'FLTR.L')":17785.0,
+    "('Open', 'FLTR.L')":17970.0,
+    "('Volume', 'FLTR.L')":33466
+  },
+  {
+    "('Date', '')":"2025-05-28",
+    "('Adj Close', 'FLTR.L')":18180.0,
+    "('Close', 'FLTR.L')":18180.0,
+    "('High', 'FLTR.L')":18370.0,
+    "('Low', 'FLTR.L')":17980.0,
+    "('Open', 'FLTR.L')":18075.0,
+    "('Volume', 'FLTR.L')":34323
+  },
+  {
+    "('Date', '')":"2025-05-29",
+    "('Adj Close', 'FLTR.L')":18315.0,
+    "('Close', 'FLTR.L')":18315.0,
+    "('High', 'FLTR.L')":18625.0,
+    "('Low', 'FLTR.L')":18200.0,
+    "('Open', 'FLTR.L')":18330.0,
+    "('Volume', 'FLTR.L')":38111
+  },
+  {
+    "('Date', '')":"2025-05-30",
+    "('Adj Close', 'FLTR.L')":18745.0,
+    "('Close', 'FLTR.L')":18745.0,
+    "('High', 'FLTR.L')":18800.0,
+    "('Low', 'FLTR.L')":18145.0,
+    "('Open', 'FLTR.L')":18600.0,
+    "('Volume', 'FLTR.L')":84196
+  },
+  {
+    "('Date', '')":"2025-06-02",
+    "('Adj Close', 'FLTR.L')":18210.0,
+    "('Close', 'FLTR.L')":18210.0,
+    "('High', 'FLTR.L')":18340.0,
+    "('Low', 'FLTR.L')":17750.0,
+    "('Open', 'FLTR.L')":18275.0,
+    "('Volume', 'FLTR.L')":85802
+  },
+  {
+    "('Date', '')":"2025-06-03",
+    "('Adj Close', 'FLTR.L')":18280.0,
+    "('Close', 'FLTR.L')":18280.0,
+    "('High', 'FLTR.L')":18290.0,
+    "('Low', 'FLTR.L')":17867.603515625,
+    "('Open', 'FLTR.L')":18110.0,
+    "('Volume', 'FLTR.L')":42682
+  },
+  {
+    "('Date', '')":"2025-06-04",
+    "('Adj Close', 'FLTR.L')":18070.0,
+    "('Close', 'FLTR.L')":18070.0,
+    "('High', 'FLTR.L')":18380.0,
+    "('Low', 'FLTR.L')":17935.0,
+    "('Open', 'FLTR.L')":18070.0,
+    "('Volume', 'FLTR.L')":46343
+  },
+  {
+    "('Date', '')":"2025-06-05",
+    "('Adj Close', 'FLTR.L')":17975.0,
+    "('Close', 'FLTR.L')":17975.0,
+    "('High', 'FLTR.L')":18180.0,
+    "('Low', 'FLTR.L')":17795.0,
+    "('Open', 'FLTR.L')":18180.0,
+    "('Volume', 'FLTR.L')":43462
+  },
+  {
+    "('Date', '')":"2025-06-06",
+    "('Adj Close', 'FLTR.L')":18435.0,
+    "('Close', 'FLTR.L')":18435.0,
+    "('High', 'FLTR.L')":18455.0,
+    "('Low', 'FLTR.L')":18000.0,
+    "('Open', 'FLTR.L')":18125.0,
+    "('Volume', 'FLTR.L')":51359
+  },
+  {
+    "('Date', '')":"2025-06-09",
+    "('Adj Close', 'FLTR.L')":19300.0,
+    "('Close', 'FLTR.L')":19300.0,
+    "('High', 'FLTR.L')":19500.0,
+    "('Low', 'FLTR.L')":18350.0,
+    "('Open', 'FLTR.L')":18550.0,
+    "('Volume', 'FLTR.L')":105859
+  },
+  {
+    "('Date', '')":"2025-06-10",
+    "('Adj Close', 'FLTR.L')":19465.0,
+    "('Close', 'FLTR.L')":19465.0,
+    "('High', 'FLTR.L')":19550.0,
+    "('Low', 'FLTR.L')":19135.0,
+    "('Open', 'FLTR.L')":19365.0,
+    "('Volume', 'FLTR.L')":60645
+  },
+  {
+    "('Date', '')":"2025-06-11",
+    "('Adj Close', 'FLTR.L')":19990.0,
+    "('Close', 'FLTR.L')":19990.0,
+    "('High', 'FLTR.L')":20110.0,
+    "('Low', 'FLTR.L')":19595.0,
+    "('Open', 'FLTR.L')":19625.0,
+    "('Volume', 'FLTR.L')":97587
+  },
+  {
+    "('Date', '')":"2025-06-12",
+    "('Adj Close', 'FLTR.L')":19770.0,
+    "('Close', 'FLTR.L')":19770.0,
+    "('High', 'FLTR.L')":19985.0,
+    "('Low', 'FLTR.L')":19590.0,
+    "('Open', 'FLTR.L')":19875.0,
+    "('Volume', 'FLTR.L')":43327
+  },
+  {
+    "('Date', '')":"2025-06-13",
+    "('Adj Close', 'FLTR.L')":19695.0,
+    "('Close', 'FLTR.L')":19695.0,
+    "('High', 'FLTR.L')":19920.0,
+    "('Low', 'FLTR.L')":19515.0,
+    "('Open', 'FLTR.L')":19565.0,
+    "('Volume', 'FLTR.L')":85835
+  },
+  {
+    "('Date', '')":"2025-06-16",
+    "('Adj Close', 'FLTR.L')":20030.0,
+    "('Close', 'FLTR.L')":20030.0,
+    "('High', 'FLTR.L')":20150.0,
+    "('Low', 'FLTR.L')":19340.0,
+    "('Open', 'FLTR.L')":19750.0,
+    "('Volume', 'FLTR.L')":83812
+  },
+  {
+    "('Date', '')":"2025-06-17",
+    "('Adj Close', 'FLTR.L')":19875.0,
+    "('Close', 'FLTR.L')":19875.0,
+    "('High', 'FLTR.L')":19980.0,
+    "('Low', 'FLTR.L')":19640.0,
+    "('Open', 'FLTR.L')":19640.0,
+    "('Volume', 'FLTR.L')":42804
+  },
+  {
+    "('Date', '')":"2025-06-18",
+    "('Adj Close', 'FLTR.L')":20230.0,
+    "('Close', 'FLTR.L')":20230.0,
+    "('High', 'FLTR.L')":20470.0,
+    "('Low', 'FLTR.L')":20080.0,
+    "('Open', 'FLTR.L')":20200.0,
+    "('Volume', 'FLTR.L')":60289
+  },
+  {
+    "('Date', '')":"2025-06-19",
+    "('Adj Close', 'FLTR.L')":19745.0,
+    "('Close', 'FLTR.L')":19745.0,
+    "('High', 'FLTR.L')":20160.87109375,
+    "('Low', 'FLTR.L')":19745.0,
+    "('Open', 'FLTR.L')":20030.0,
+    "('Volume', 'FLTR.L')":18234
+  },
+  {
+    "('Date', '')":"2025-06-20",
+    "('Adj Close', 'FLTR.L')":19985.0,
+    "('Close', 'FLTR.L')":19985.0,
+    "('High', 'FLTR.L')":20260.0,
+    "('Low', 'FLTR.L')":19895.0,
+    "('Open', 'FLTR.L')":20090.0,
+    "('Volume', 'FLTR.L')":55427
+  },
+  {
+    "('Date', '')":"2025-06-23",
+    "('Adj Close', 'FLTR.L')":19955.0,
+    "('Close', 'FLTR.L')":19955.0,
+    "('High', 'FLTR.L')":20140.0,
+    "('Low', 'FLTR.L')":19525.0,
+    "('Open', 'FLTR.L')":19800.0,
+    "('Volume', 'FLTR.L')":75995
+  },
+  {
+    "('Date', '')":"2025-06-24",
+    "('Adj Close', 'FLTR.L')":20280.0,
+    "('Close', 'FLTR.L')":20280.0,
+    "('High', 'FLTR.L')":20380.0,
+    "('Low', 'FLTR.L')":19885.0,
+    "('Open', 'FLTR.L')":20120.0,
+    "('Volume', 'FLTR.L')":238854
+  },
+  {
+    "('Date', '')":"2025-06-25",
+    "('Adj Close', 'FLTR.L')":19755.0,
+    "('Close', 'FLTR.L')":19755.0,
+    "('High', 'FLTR.L')":20440.0,
+    "('Low', 'FLTR.L')":19755.0,
+    "('Open', 'FLTR.L')":20240.0,
+    "('Volume', 'FLTR.L')":62966
+  },
+  {
+    "('Date', '')":"2025-06-26",
+    "('Adj Close', 'FLTR.L')":19620.0,
+    "('Close', 'FLTR.L')":19620.0,
+    "('High', 'FLTR.L')":19805.0,
+    "('Low', 'FLTR.L')":19440.0,
+    "('Open', 'FLTR.L')":19790.0,
+    "('Volume', 'FLTR.L')":53269
+  },
+  {
+    "('Date', '')":"2025-06-27",
+    "('Adj Close', 'FLTR.L')":20300.0,
+    "('Close', 'FLTR.L')":20300.0,
+    "('High', 'FLTR.L')":20340.0,
+    "('Low', 'FLTR.L')":19620.0,
+    "('Open', 'FLTR.L')":20000.0,
+    "('Volume', 'FLTR.L')":96968
+  },
+  {
+    "('Date', '')":"2025-06-30",
+    "('Adj Close', 'FLTR.L')":20640.0,
+    "('Close', 'FLTR.L')":20640.0,
+    "('High', 'FLTR.L')":20830.0,
+    "('Low', 'FLTR.L')":20310.0,
+    "('Open', 'FLTR.L')":20450.0,
+    "('Volume', 'FLTR.L')":94170
+  },
+  {
+    "('Date', '')":"2025-07-01",
+    "('Adj Close', 'FLTR.L')":20600.0,
+    "('Close', 'FLTR.L')":20600.0,
+    "('High', 'FLTR.L')":20820.0,
+    "('Low', 'FLTR.L')":20390.0,
+    "('Open', 'FLTR.L')":20770.0,
+    "('Volume', 'FLTR.L')":67629
+  },
+  {
+    "('Date', '')":"2025-07-02",
+    "('Adj Close', 'FLTR.L')":20540.0,
+    "('Close', 'FLTR.L')":20540.0,
+    "('High', 'FLTR.L')":20870.0,
+    "('Low', 'FLTR.L')":20490.0,
+    "('Open', 'FLTR.L')":20660.0,
+    "('Volume', 'FLTR.L')":140711
+  },
+  {
+    "('Date', '')":"2025-07-03",
+    "('Adj Close', 'FLTR.L')":20520.0,
+    "('Close', 'FLTR.L')":20520.0,
+    "('High', 'FLTR.L')":20900.0,
+    "('Low', 'FLTR.L')":20440.0,
+    "('Open', 'FLTR.L')":20650.0,
+    "('Volume', 'FLTR.L')":48345
+  },
+  {
+    "('Date', '')":"2025-07-04",
+    "('Adj Close', 'FLTR.L')":20170.0,
+    "('Close', 'FLTR.L')":20170.0,
+    "('High', 'FLTR.L')":20540.0,
+    "('Low', 'FLTR.L')":20170.0,
+    "('Open', 'FLTR.L')":20510.0,
+    "('Volume', 'FLTR.L')":23677
+  },
+  {
+    "('Date', '')":"2025-07-07",
+    "('Adj Close', 'FLTR.L')":20790.0,
+    "('Close', 'FLTR.L')":20790.0,
+    "('High', 'FLTR.L')":20910.0,
+    "('Low', 'FLTR.L')":20240.0,
+    "('Open', 'FLTR.L')":20300.0,
+    "('Volume', 'FLTR.L')":55517
+  },
+  {
+    "('Date', '')":"2025-07-08",
+    "('Adj Close', 'FLTR.L')":20960.0,
+    "('Close', 'FLTR.L')":20960.0,
+    "('High', 'FLTR.L')":21300.0,
+    "('Low', 'FLTR.L')":20560.0,
+    "('Open', 'FLTR.L')":20920.0,
+    "('Volume', 'FLTR.L')":62672
+  },
+  {
+    "('Date', '')":"2025-07-09",
+    "('Adj Close', 'FLTR.L')":20980.0,
+    "('Close', 'FLTR.L')":20980.0,
+    "('High', 'FLTR.L')":21080.0,
+    "('Low', 'FLTR.L')":20710.0,
+    "('Open', 'FLTR.L')":20910.0,
+    "('Volume', 'FLTR.L')":34473
+  },
+  {
+    "('Date', '')":"2025-07-10",
+    "('Adj Close', 'FLTR.L')":21320.0,
+    "('Close', 'FLTR.L')":21320.0,
+    "('High', 'FLTR.L')":21320.0,
+    "('Low', 'FLTR.L')":20890.0,
+    "('Open', 'FLTR.L')":21230.0,
+    "('Volume', 'FLTR.L')":69842
+  },
+  {
+    "('Date', '')":"2025-07-11",
+    "('Adj Close', 'FLTR.L')":21430.0,
+    "('Close', 'FLTR.L')":21430.0,
+    "('High', 'FLTR.L')":21540.0,
+    "('Low', 'FLTR.L')":21110.0,
+    "('Open', 'FLTR.L')":21110.0,
+    "('Volume', 'FLTR.L')":24242
+  },
+  {
+    "('Date', '')":"2025-07-14",
+    "('Adj Close', 'FLTR.L')":21640.0,
+    "('Close', 'FLTR.L')":21640.0,
+    "('High', 'FLTR.L')":21640.0,
+    "('Low', 'FLTR.L')":21180.0,
+    "('Open', 'FLTR.L')":21180.0,
+    "('Volume', 'FLTR.L')":48724
+  },
+  {
+    "('Date', '')":"2025-07-15",
+    "('Adj Close', 'FLTR.L')":21860.0,
+    "('Close', 'FLTR.L')":21860.0,
+    "('High', 'FLTR.L')":22070.0,
+    "('Low', 'FLTR.L')":21630.0,
+    "('Open', 'FLTR.L')":21820.0,
+    "('Volume', 'FLTR.L')":55487
+  },
+  {
+    "('Date', '')":"2025-07-16",
+    "('Adj Close', 'FLTR.L')":21830.0,
+    "('Close', 'FLTR.L')":21830.0,
+    "('High', 'FLTR.L')":22210.0,
+    "('Low', 'FLTR.L')":21720.0,
+    "('Open', 'FLTR.L')":21720.0,
+    "('Volume', 'FLTR.L')":51337
+  },
+  {
+    "('Date', '')":"2025-07-17",
+    "('Adj Close', 'FLTR.L')":22430.0,
+    "('Close', 'FLTR.L')":22430.0,
+    "('High', 'FLTR.L')":22460.0,
+    "('Low', 'FLTR.L')":21870.0,
+    "('Open', 'FLTR.L')":22000.0,
+    "('Volume', 'FLTR.L')":42824
+  },
+  {
+    "('Date', '')":"2025-07-18",
+    "('Adj Close', 'FLTR.L')":22820.0,
+    "('Close', 'FLTR.L')":22820.0,
+    "('High', 'FLTR.L')":23000.0,
+    "('Low', 'FLTR.L')":22510.0,
+    "('Open', 'FLTR.L')":22940.0,
+    "('Volume', 'FLTR.L')":82451
+  },
+  {
+    "('Date', '')":"2025-07-21",
+    "('Adj Close', 'FLTR.L')":22300.0,
+    "('Close', 'FLTR.L')":22300.0,
+    "('High', 'FLTR.L')":22770.0,
+    "('Low', 'FLTR.L')":21550.0,
+    "('Open', 'FLTR.L')":22550.0,
+    "('Volume', 'FLTR.L')":84110
+  },
+  {
+    "('Date', '')":"2025-07-22",
+    "('Adj Close', 'FLTR.L')":22210.0,
+    "('Close', 'FLTR.L')":22210.0,
+    "('High', 'FLTR.L')":22750.0,
+    "('Low', 'FLTR.L')":22080.0,
+    "('Open', 'FLTR.L')":22210.0,
+    "('Volume', 'FLTR.L')":36304
+  },
+  {
+    "('Date', '')":"2025-07-23",
+    "('Adj Close', 'FLTR.L')":22280.0,
+    "('Close', 'FLTR.L')":22280.0,
+    "('High', 'FLTR.L')":22450.0,
+    "('Low', 'FLTR.L')":22200.0,
+    "('Open', 'FLTR.L')":22220.0,
+    "('Volume', 'FLTR.L')":46476
+  },
+  {
+    "('Date', '')":"2025-07-24",
+    "('Adj Close', 'FLTR.L')":22260.0,
+    "('Close', 'FLTR.L')":22260.0,
+    "('High', 'FLTR.L')":22590.0,
+    "('Low', 'FLTR.L')":22250.0,
+    "('Open', 'FLTR.L')":22320.0,
+    "('Volume', 'FLTR.L')":53115
+  },
+  {
+    "('Date', '')":"2025-07-25",
+    "('Adj Close', 'FLTR.L')":22360.0,
+    "('Close', 'FLTR.L')":22360.0,
+    "('High', 'FLTR.L')":22440.0,
+    "('Low', 'FLTR.L')":22010.0,
+    "('Open', 'FLTR.L')":22010.0,
+    "('Volume', 'FLTR.L')":23930
+  },
+  {
+    "('Date', '')":"2025-07-28",
+    "('Adj Close', 'FLTR.L')":22780.0,
+    "('Close', 'FLTR.L')":22780.0,
+    "('High', 'FLTR.L')":22800.0,
+    "('Low', 'FLTR.L')":22510.0,
+    "('Open', 'FLTR.L')":22580.0,
+    "('Volume', 'FLTR.L')":59147
+  },
+  {
+    "('Date', '')":"2025-07-29",
+    "('Adj Close', 'FLTR.L')":22620.0,
+    "('Close', 'FLTR.L')":22620.0,
+    "('High', 'FLTR.L')":23040.0,
+    "('Low', 'FLTR.L')":22410.0,
+    "('Open', 'FLTR.L')":22730.0,
+    "('Volume', 'FLTR.L')":40454
+  },
+  {
+    "('Date', '')":"2025-07-30",
+    "('Adj Close', 'FLTR.L')":22860.0,
+    "('Close', 'FLTR.L')":22860.0,
+    "('High', 'FLTR.L')":23040.0,
+    "('Low', 'FLTR.L')":22640.0,
+    "('Open', 'FLTR.L')":22900.0,
+    "('Volume', 'FLTR.L')":48442
+  },
+  {
+    "('Date', '')":"2025-07-31",
+    "('Adj Close', 'FLTR.L')":23100.0,
+    "('Close', 'FLTR.L')":23100.0,
+    "('High', 'FLTR.L')":23380.0,
+    "('Low', 'FLTR.L')":22810.0,
+    "('Open', 'FLTR.L')":22930.0,
+    "('Volume', 'FLTR.L')":37637
+  },
+  {
+    "('Date', '')":"2025-08-01",
+    "('Adj Close', 'FLTR.L')":22520.0,
+    "('Close', 'FLTR.L')":22520.0,
+    "('High', 'FLTR.L')":22740.0,
+    "('Low', 'FLTR.L')":22180.0,
+    "('Open', 'FLTR.L')":22530.0,
+    "('Volume', 'FLTR.L')":51480
+  },
+  {
+    "('Date', '')":"2025-08-04",
+    "('Adj Close', 'FLTR.L')":22620.0,
+    "('Close', 'FLTR.L')":22620.0,
+    "('High', 'FLTR.L')":22740.0,
+    "('Low', 'FLTR.L')":22420.0,
+    "('Open', 'FLTR.L')":22490.0,
+    "('Volume', 'FLTR.L')":28190
+  },
+  {
+    "('Date', '')":"2025-08-05",
+    "('Adj Close', 'FLTR.L')":22580.0,
+    "('Close', 'FLTR.L')":22580.0,
+    "('High', 'FLTR.L')":23030.0,
+    "('Low', 'FLTR.L')":22440.0,
+    "('Open', 'FLTR.L')":22880.0,
+    "('Volume', 'FLTR.L')":74977
+  },
+  {
+    "('Date', '')":"2025-08-06",
+    "('Adj Close', 'FLTR.L')":22820.0,
+    "('Close', 'FLTR.L')":22820.0,
+    "('High', 'FLTR.L')":22922.2109375,
+    "('Low', 'FLTR.L')":22610.0,
+    "('Open', 'FLTR.L')":22730.0,
+    "('Volume', 'FLTR.L')":135914
+  },
+  {
+    "('Date', '')":"2025-08-07",
+    "('Adj Close', 'FLTR.L')":22910.0,
+    "('Close', 'FLTR.L')":22910.0,
+    "('High', 'FLTR.L')":23610.0,
+    "('Low', 'FLTR.L')":22800.0,
+    "('Open', 'FLTR.L')":23220.0,
+    "('Volume', 'FLTR.L')":97493
+  },
+  {
+    "('Date', '')":"2025-08-08",
+    "('Adj Close', 'FLTR.L')":21060.0,
+    "('Close', 'FLTR.L')":21060.0,
+    "('High', 'FLTR.L')":22940.0,
+    "('Low', 'FLTR.L')":20590.0,
+    "('Open', 'FLTR.L')":22810.0,
+    "('Volume', 'FLTR.L')":162421
+  },
+  {
+    "('Date', '')":"2025-08-11",
+    "('Adj Close', 'FLTR.L')":21200.0,
+    "('Close', 'FLTR.L')":21200.0,
+    "('High', 'FLTR.L')":21370.0,
+    "('Low', 'FLTR.L')":20860.0,
+    "('Open', 'FLTR.L')":20990.0,
+    "('Volume', 'FLTR.L')":71533
+  },
+  {
+    "('Date', '')":"2025-08-12",
+    "('Adj Close', 'FLTR.L')":21150.0,
+    "('Close', 'FLTR.L')":21150.0,
+    "('High', 'FLTR.L')":21360.0,
+    "('Low', 'FLTR.L')":20730.0,
+    "('Open', 'FLTR.L')":21180.0,
+    "('Volume', 'FLTR.L')":42729
+  },
+  {
+    "('Date', '')":"2025-08-13",
+    "('Adj Close', 'FLTR.L')":21350.0,
+    "('Close', 'FLTR.L')":21350.0,
+    "('High', 'FLTR.L')":21430.0,
+    "('Low', 'FLTR.L')":21230.0,
+    "('Open', 'FLTR.L')":21280.0,
+    "('Volume', 'FLTR.L')":45321
+  },
+  {
+    "('Date', '')":"2025-08-14",
+    "('Adj Close', 'FLTR.L')":21350.0,
+    "('Close', 'FLTR.L')":21350.0,
+    "('High', 'FLTR.L')":21700.0,
+    "('Low', 'FLTR.L')":21300.0,
+    "('Open', 'FLTR.L')":21380.0,
+    "('Volume', 'FLTR.L')":37021
+  },
+  {
+    "('Date', '')":"2025-08-15",
+    "('Adj Close', 'FLTR.L')":21680.0,
+    "('Close', 'FLTR.L')":21680.0,
+    "('High', 'FLTR.L')":21680.0,
+    "('Low', 'FLTR.L')":21040.0,
+    "('Open', 'FLTR.L')":21380.0,
+    "('Volume', 'FLTR.L')":33899
+  },
+  {
+    "('Date', '')":"2025-08-18",
+    "('Adj Close', 'FLTR.L')":21830.0,
+    "('Close', 'FLTR.L')":21830.0,
+    "('High', 'FLTR.L')":21890.0,
+    "('Low', 'FLTR.L')":21480.0,
+    "('Open', 'FLTR.L')":21890.0,
+    "('Volume', 'FLTR.L')":24425
+  },
+  {
+    "('Date', '')":"2025-08-19",
+    "('Adj Close', 'FLTR.L')":21760.0,
+    "('Close', 'FLTR.L')":21760.0,
+    "('High', 'FLTR.L')":21910.0,
+    "('Low', 'FLTR.L')":21430.0,
+    "('Open', 'FLTR.L')":21510.0,
+    "('Volume', 'FLTR.L')":78638
+  },
+  {
+    "('Date', '')":"2025-08-20",
+    "('Adj Close', 'FLTR.L')":21560.0,
+    "('Close', 'FLTR.L')":21560.0,
+    "('High', 'FLTR.L')":21630.0,
+    "('Low', 'FLTR.L')":21230.0,
+    "('Open', 'FLTR.L')":21360.0,
+    "('Volume', 'FLTR.L')":104033
+  },
+  {
+    "('Date', '')":"2025-08-21",
+    "('Adj Close', 'FLTR.L')":21940.0,
+    "('Close', 'FLTR.L')":21940.0,
+    "('High', 'FLTR.L')":22290.0,
+    "('Low', 'FLTR.L')":21690.0,
+    "('Open', 'FLTR.L')":21710.0,
+    "('Volume', 'FLTR.L')":52429
+  },
+  {
+    "('Date', '')":"2025-08-22",
+    "('Adj Close', 'FLTR.L')":22110.0,
+    "('Close', 'FLTR.L')":22110.0,
+    "('High', 'FLTR.L')":22220.0,
+    "('Low', 'FLTR.L')":21870.0,
+    "('Open', 'FLTR.L')":22200.0,
+    "('Volume', 'FLTR.L')":27864
+  },
+  {
+    "('Date', '')":"2025-08-26",
+    "('Adj Close', 'FLTR.L')":21940.0,
+    "('Close', 'FLTR.L')":21940.0,
+    "('High', 'FLTR.L')":22300.0,
+    "('Low', 'FLTR.L')":21860.0,
+    "('Open', 'FLTR.L')":22230.0,
+    "('Volume', 'FLTR.L')":42416
+  },
+  {
+    "('Date', '')":"2025-08-27",
+    "('Adj Close', 'FLTR.L')":22500.0,
+    "('Close', 'FLTR.L')":22500.0,
+    "('High', 'FLTR.L')":22620.0,
+    "('Low', 'FLTR.L')":22090.0,
+    "('Open', 'FLTR.L')":22110.0,
+    "('Volume', 'FLTR.L')":34025
+  },
+  {
+    "('Date', '')":"2025-08-28",
+    "('Adj Close', 'FLTR.L')":22750.0,
+    "('Close', 'FLTR.L')":22750.0,
+    "('High', 'FLTR.L')":22820.0,
+    "('Low', 'FLTR.L')":21990.0,
+    "('Open', 'FLTR.L')":22630.0,
+    "('Volume', 'FLTR.L')":101771
+  },
+  {
+    "('Date', '')":"2025-08-29",
+    "('Adj Close', 'FLTR.L')":22640.0,
+    "('Close', 'FLTR.L')":22640.0,
+    "('High', 'FLTR.L')":22970.0,
+    "('Low', 'FLTR.L')":22518.203125,
+    "('Open', 'FLTR.L')":22750.0,
+    "('Volume', 'FLTR.L')":47152
+  },
+  {
+    "('Date', '')":"2025-09-01",
+    "('Adj Close', 'FLTR.L')":22280.0,
+    "('Close', 'FLTR.L')":22280.0,
+    "('High', 'FLTR.L')":22710.0,
+    "('Low', 'FLTR.L')":22255.6328125,
+    "('Open', 'FLTR.L')":22620.0,
+    "('Volume', 'FLTR.L')":35609
+  },
+  {
+    "('Date', '')":"2025-09-02",
+    "('Adj Close', 'FLTR.L')":22400.0,
+    "('Close', 'FLTR.L')":22400.0,
+    "('High', 'FLTR.L')":22440.0,
+    "('Low', 'FLTR.L')":21680.0,
+    "('Open', 'FLTR.L')":22310.0,
+    "('Volume', 'FLTR.L')":175224
+  },
+  {
+    "('Date', '')":"2025-09-03",
+    "('Adj Close', 'FLTR.L')":22060.0,
+    "('Close', 'FLTR.L')":22060.0,
+    "('High', 'FLTR.L')":22500.0,
+    "('Low', 'FLTR.L')":22050.0,
+    "('Open', 'FLTR.L')":22460.0,
+    "('Volume', 'FLTR.L')":73702
+  },
+  {
+    "('Date', '')":"2025-09-04",
+    "('Adj Close', 'FLTR.L')":21740.0,
+    "('Close', 'FLTR.L')":21740.0,
+    "('High', 'FLTR.L')":21940.0,
+    "('Low', 'FLTR.L')":21490.0,
+    "('Open', 'FLTR.L')":21790.0,
+    "('Volume', 'FLTR.L')":68639
+  },
+  {
+    "('Date', '')":"2025-09-05",
+    "('Adj Close', 'FLTR.L')":21760.0,
+    "('Close', 'FLTR.L')":21760.0,
+    "('High', 'FLTR.L')":21950.0,
+    "('Low', 'FLTR.L')":21410.0,
+    "('Open', 'FLTR.L')":21730.0,
+    "('Volume', 'FLTR.L')":32289
+  },
+  {
+    "('Date', '')":"2025-09-08",
+    "('Adj Close', 'FLTR.L')":21190.0,
+    "('Close', 'FLTR.L')":21190.0,
+    "('High', 'FLTR.L')":21870.0,
+    "('Low', 'FLTR.L')":21130.0,
+    "('Open', 'FLTR.L')":21760.0,
+    "('Volume', 'FLTR.L')":53759
+  },
+  {
+    "('Date', '')":"2025-09-09",
+    "('Adj Close', 'FLTR.L')":21510.0,
+    "('Close', 'FLTR.L')":21510.0,
+    "('High', 'FLTR.L')":21550.0,
+    "('Low', 'FLTR.L')":21140.0,
+    "('Open', 'FLTR.L')":21140.0,
+    "('Volume', 'FLTR.L')":28730
+  },
+  {
+    "('Date', '')":"2025-09-10",
+    "('Adj Close', 'FLTR.L')":21460.0,
+    "('Close', 'FLTR.L')":21460.0,
+    "('High', 'FLTR.L')":21590.0,
+    "('Low', 'FLTR.L')":21360.0,
+    "('Open', 'FLTR.L')":21390.0,
+    "('Volume', 'FLTR.L')":166908
+  },
+  {
+    "('Date', '')":"2025-09-11",
+    "('Adj Close', 'FLTR.L')":21180.0,
+    "('Close', 'FLTR.L')":21180.0,
+    "('High', 'FLTR.L')":21680.0,
+    "('Low', 'FLTR.L')":21110.0,
+    "('Open', 'FLTR.L')":21680.0,
+    "('Volume', 'FLTR.L')":58486
+  },
+  {
+    "('Date', '')":"2025-09-12",
+    "('Adj Close', 'FLTR.L')":20870.0,
+    "('Close', 'FLTR.L')":20870.0,
+    "('High', 'FLTR.L')":21570.0,
+    "('Low', 'FLTR.L')":20690.0,
+    "('Open', 'FLTR.L')":21300.0,
+    "('Volume', 'FLTR.L')":35845
+  },
+  {
+    "('Date', '')":"2025-09-15",
+    "('Adj Close', 'FLTR.L')":20620.0,
+    "('Close', 'FLTR.L')":20620.0,
+    "('High', 'FLTR.L')":20880.0,
+    "('Low', 'FLTR.L')":20500.0,
+    "('Open', 'FLTR.L')":20710.0,
+    "('Volume', 'FLTR.L')":51135
+  },
+  {
+    "('Date', '')":"2025-09-16",
+    "('Adj Close', 'FLTR.L')":20250.0,
+    "('Close', 'FLTR.L')":20250.0,
+    "('High', 'FLTR.L')":20500.0,
+    "('Low', 'FLTR.L')":20200.0,
+    "('Open', 'FLTR.L')":20420.0,
+    "('Volume', 'FLTR.L')":273577
+  },
+  {
+    "('Date', '')":"2025-09-17",
+    "('Adj Close', 'FLTR.L')":20300.0,
+    "('Close', 'FLTR.L')":20300.0,
+    "('High', 'FLTR.L')":20590.0,
+    "('Low', 'FLTR.L')":20260.0,
+    "('Open', 'FLTR.L')":20470.0,
+    "('Volume', 'FLTR.L')":132886
+  },
+  {
+    "('Date', '')":"2025-09-18",
+    "('Adj Close', 'FLTR.L')":20620.0,
+    "('Close', 'FLTR.L')":20620.0,
+    "('High', 'FLTR.L')":20710.0,
+    "('Low', 'FLTR.L')":20360.0,
+    "('Open', 'FLTR.L')":20410.0,
+    "('Volume', 'FLTR.L')":63610
+  },
+  {
+    "('Date', '')":"2025-09-19",
+    "('Adj Close', 'FLTR.L')":20950.0,
+    "('Close', 'FLTR.L')":20950.0,
+    "('High', 'FLTR.L')":21050.0,
+    "('Low', 'FLTR.L')":20580.0,
+    "('Open', 'FLTR.L')":20640.0,
+    "('Volume', 'FLTR.L')":93930
+  },
+  {
+    "('Date', '')":"2025-09-22",
+    "('Adj Close', 'FLTR.L')":20800.0,
+    "('Close', 'FLTR.L')":20800.0,
+    "('High', 'FLTR.L')":21050.0,
+    "('Low', 'FLTR.L')":20660.0,
+    "('Open', 'FLTR.L')":21020.0,
+    "('Volume', 'FLTR.L')":88274
+  },
+  {
+    "('Date', '')":"2025-09-23",
+    "('Adj Close', 'FLTR.L')":21130.0,
+    "('Close', 'FLTR.L')":21130.0,
+    "('High', 'FLTR.L')":21190.0,
+    "('Low', 'FLTR.L')":20870.0,
+    "('Open', 'FLTR.L')":20890.0,
+    "('Volume', 'FLTR.L')":133360
+  },
+  {
+    "('Date', '')":"2025-09-24",
+    "('Adj Close', 'FLTR.L')":20960.0,
+    "('Close', 'FLTR.L')":20960.0,
+    "('High', 'FLTR.L')":21270.0,
+    "('Low', 'FLTR.L')":20770.0,
+    "('Open', 'FLTR.L')":20840.0,
+    "('Volume', 'FLTR.L')":69330
+  },
+  {
+    "('Date', '')":"2025-09-25",
+    "('Adj Close', 'FLTR.L')":20930.0,
+    "('Close', 'FLTR.L')":20930.0,
+    "('High', 'FLTR.L')":21050.0,
+    "('Low', 'FLTR.L')":20640.0,
+    "('Open', 'FLTR.L')":21050.0,
+    "('Volume', 'FLTR.L')":40290
+  },
+  {
+    "('Date', '')":"2025-09-26",
+    "('Adj Close', 'FLTR.L')":20770.0,
+    "('Close', 'FLTR.L')":20770.0,
+    "('High', 'FLTR.L')":21100.0,
+    "('Low', 'FLTR.L')":20670.0,
+    "('Open', 'FLTR.L')":20880.0,
+    "('Volume', 'FLTR.L')":75190
+  },
+  {
+    "('Date', '')":"2025-09-29",
+    "('Adj Close', 'FLTR.L')":21080.0,
+    "('Close', 'FLTR.L')":21080.0,
+    "('High', 'FLTR.L')":21220.0,
+    "('Low', 'FLTR.L')":20750.0,
+    "('Open', 'FLTR.L')":20780.0,
+    "('Volume', 'FLTR.L')":77608
+  },
+  {
+    "('Date', '')":"2025-09-30",
+    "('Adj Close', 'FLTR.L')":19340.0,
+    "('Close', 'FLTR.L')":19340.0,
+    "('High', 'FLTR.L')":21340.0,
+    "('Low', 'FLTR.L')":19290.0,
+    "('Open', 'FLTR.L')":21340.0,
+    "('Volume', 'FLTR.L')":130451
+  },
+  {
+    "('Date', '')":"2025-10-01",
+    "('Adj Close', 'FLTR.L')":19250.0,
+    "('Close', 'FLTR.L')":19250.0,
+    "('High', 'FLTR.L')":19335.0,
+    "('Low', 'FLTR.L')":18300.0,
+    "('Open', 'FLTR.L')":18570.0,
+    "('Volume', 'FLTR.L')":187158
+  },
+  {
+    "('Date', '')":"2025-10-02",
+    "('Adj Close', 'FLTR.L')":18775.0,
+    "('Close', 'FLTR.L')":18775.0,
+    "('High', 'FLTR.L')":19060.0,
+    "('Low', 'FLTR.L')":18525.0,
+    "('Open', 'FLTR.L')":18900.0,
+    "('Volume', 'FLTR.L')":128284
+  },
+  {
+    "('Date', '')":"2025-10-03",
+    "('Adj Close', 'FLTR.L')":18945.0,
+    "('Close', 'FLTR.L')":18945.0,
+    "('High', 'FLTR.L')":19125.0,
+    "('Low', 'FLTR.L')":18465.0,
+    "('Open', 'FLTR.L')":18555.0,
+    "('Volume', 'FLTR.L')":139548
+  },
+  {
+    "('Date', '')":"2025-10-06",
+    "('Adj Close', 'FLTR.L')":18545.0,
+    "('Close', 'FLTR.L')":18545.0,
+    "('High', 'FLTR.L')":19085.0,
+    "('Low', 'FLTR.L')":18545.0,
+    "('Open', 'FLTR.L')":19020.0,
+    "('Volume', 'FLTR.L')":87994
+  },
+  {
+    "('Date', '')":"2025-10-07",
+    "('Adj Close', 'FLTR.L')":17390.0,
+    "('Close', 'FLTR.L')":17390.0,
+    "('High', 'FLTR.L')":18260.0,
+    "('Low', 'FLTR.L')":17340.0,
+    "('Open', 'FLTR.L')":18200.0,
+    "('Volume', 'FLTR.L')":204949
+  },
+  {
+    "('Date', '')":"2025-10-08",
+    "('Adj Close', 'FLTR.L')":18050.0,
+    "('Close', 'FLTR.L')":18050.0,
+    "('High', 'FLTR.L')":18100.0,
+    "('Low', 'FLTR.L')":17495.0,
+    "('Open', 'FLTR.L')":17625.0,
+    "('Volume', 'FLTR.L')":83513
+  },
+  {
+    "('Date', '')":"2025-10-09",
+    "('Adj Close', 'FLTR.L')":18425.0,
+    "('Close', 'FLTR.L')":18425.0,
+    "('High', 'FLTR.L')":18590.0,
+    "('Low', 'FLTR.L')":18165.0,
+    "('Open', 'FLTR.L')":18215.0,
+    "('Volume', 'FLTR.L')":102141
+  },
+  {
+    "('Date', '')":"2025-10-10",
+    "('Adj Close', 'FLTR.L')":17940.0,
+    "('Close', 'FLTR.L')":17940.0,
+    "('High', 'FLTR.L')":18695.0,
+    "('Low', 'FLTR.L')":17925.0,
+    "('Open', 'FLTR.L')":18535.0,
+    "('Volume', 'FLTR.L')":86152
+  },
+  {
+    "('Date', '')":"2025-10-13",
+    "('Adj Close', 'FLTR.L')":18690.0,
+    "('Close', 'FLTR.L')":18690.0,
+    "('High', 'FLTR.L')":18800.0,
+    "('Low', 'FLTR.L')":18035.0,
+    "('Open', 'FLTR.L')":18130.0,
+    "('Volume', 'FLTR.L')":88849
+  },
+  {
+    "('Date', '')":"2025-10-14",
+    "('Adj Close', 'FLTR.L')":18780.0,
+    "('Close', 'FLTR.L')":18780.0,
+    "('High', 'FLTR.L')":18885.0,
+    "('Low', 'FLTR.L')":18480.0,
+    "('Open', 'FLTR.L')":18610.0,
+    "('Volume', 'FLTR.L')":118157
+  },
+  {
+    "('Date', '')":"2025-10-15",
+    "('Adj Close', 'FLTR.L')":18855.0,
+    "('Close', 'FLTR.L')":18855.0,
+    "('High', 'FLTR.L')":19040.0,
+    "('Low', 'FLTR.L')":18325.0,
+    "('Open', 'FLTR.L')":18555.0,
+    "('Volume', 'FLTR.L')":96803
+  },
+  {
+    "('Date', '')":"2025-10-16",
+    "('Adj Close', 'FLTR.L')":18680.0,
+    "('Close', 'FLTR.L')":18680.0,
+    "('High', 'FLTR.L')":19025.0,
+    "('Low', 'FLTR.L')":18515.0,
+    "('Open', 'FLTR.L')":18735.0,
+    "('Volume', 'FLTR.L')":42401
+  },
+  {
+    "('Date', '')":"2025-10-17",
+    "('Adj Close', 'FLTR.L')":18785.0,
+    "('Close', 'FLTR.L')":18785.0,
+    "('High', 'FLTR.L')":18815.0,
+    "('Low', 'FLTR.L')":18220.0,
+    "('Open', 'FLTR.L')":18405.0,
+    "('Volume', 'FLTR.L')":41213
+  },
+  {
+    "('Date', '')":"2025-10-20",
+    "('Adj Close', 'FLTR.L')":18580.0,
+    "('Close', 'FLTR.L')":18580.0,
+    "('High', 'FLTR.L')":19010.0,
+    "('Low', 'FLTR.L')":18360.0,
+    "('Open', 'FLTR.L')":18690.0,
+    "('Volume', 'FLTR.L')":63373
+  },
+  {
+    "('Date', '')":"2025-10-21",
+    "('Adj Close', 'FLTR.L')":18750.0,
+    "('Close', 'FLTR.L')":18750.0,
+    "('High', 'FLTR.L')":18805.0,
+    "('Low', 'FLTR.L')":18425.0,
+    "('Open', 'FLTR.L')":18600.0,
+    "('Volume', 'FLTR.L')":113376
+  },
+  {
+    "('Date', '')":"2025-10-22",
+    "('Adj Close', 'FLTR.L')":18885.0,
+    "('Close', 'FLTR.L')":18885.0,
+    "('High', 'FLTR.L')":18985.0,
+    "('Low', 'FLTR.L')":18370.0,
+    "('Open', 'FLTR.L')":18710.0,
+    "('Volume', 'FLTR.L')":73586
+  },
+  {
+    "('Date', '')":"2025-10-23",
+    "('Adj Close', 'FLTR.L')":18885.0,
+    "('Close', 'FLTR.L')":18885.0,
+    "('High', 'FLTR.L')":19020.0,
+    "('Low', 'FLTR.L')":18715.0,
+    "('Open', 'FLTR.L')":18715.0,
+    "('Volume', 'FLTR.L')":42729
+  },
+  {
+    "('Date', '')":"2025-10-24",
+    "('Adj Close', 'FLTR.L')":18865.0,
+    "('Close', 'FLTR.L')":18865.0,
+    "('High', 'FLTR.L')":19110.0,
+    "('Low', 'FLTR.L')":18775.0,
+    "('Open', 'FLTR.L')":18840.0,
+    "('Volume', 'FLTR.L')":39950
+  },
+  {
+    "('Date', '')":"2025-10-27",
+    "('Adj Close', 'FLTR.L')":18315.0,
+    "('Close', 'FLTR.L')":18315.0,
+    "('High', 'FLTR.L')":18580.0,
+    "('Low', 'FLTR.L')":18150.0,
+    "('Open', 'FLTR.L')":18415.0,
+    "('Volume', 'FLTR.L')":49239
+  },
+  {
+    "('Date', '')":"2025-10-28",
+    "('Adj Close', 'FLTR.L')":18065.0,
+    "('Close', 'FLTR.L')":18065.0,
+    "('High', 'FLTR.L')":18370.0,
+    "('Low', 'FLTR.L')":17655.0,
+    "('Open', 'FLTR.L')":18230.0,
+    "('Volume', 'FLTR.L')":105727
+  },
+  {
+    "('Date', '')":"2025-10-29",
+    "('Adj Close', 'FLTR.L')":18095.0,
+    "('Close', 'FLTR.L')":18095.0,
+    "('High', 'FLTR.L')":18130.0,
+    "('Low', 'FLTR.L')":17720.0,
+    "('Open', 'FLTR.L')":17785.0,
+    "('Volume', 'FLTR.L')":87669
+  },
+  {
+    "('Date', '')":"2025-10-30",
+    "('Adj Close', 'FLTR.L')":17865.0,
+    "('Close', 'FLTR.L')":17865.0,
+    "('High', 'FLTR.L')":17960.0,
+    "('Low', 'FLTR.L')":17640.0,
+    "('Open', 'FLTR.L')":17695.0,
+    "('Volume', 'FLTR.L')":77903
+  },
+  {
+    "('Date', '')":"2025-10-31",
+    "('Adj Close', 'FLTR.L')":17535.0,
+    "('Close', 'FLTR.L')":17535.0,
+    "('High', 'FLTR.L')":17820.0,
+    "('Low', 'FLTR.L')":17400.0,
+    "('Open', 'FLTR.L')":17610.0,
+    "('Volume', 'FLTR.L')":36291
+  },
+  {
+    "('Date', '')":"2025-11-03",
+    "('Adj Close', 'FLTR.L')":17635.0,
+    "('Close', 'FLTR.L')":17635.0,
+    "('High', 'FLTR.L')":17780.0,
+    "('Low', 'FLTR.L')":17495.0,
+    "('Open', 'FLTR.L')":17615.0,
+    "('Volume', 'FLTR.L')":83526
+  },
+  {
+    "('Date', '')":"2025-11-04",
+    "('Adj Close', 'FLTR.L')":16980.0,
+    "('Close', 'FLTR.L')":16980.0,
+    "('High', 'FLTR.L')":17615.0,
+    "('Low', 'FLTR.L')":16955.0,
+    "('Open', 'FLTR.L')":17500.0,
+    "('Volume', 'FLTR.L')":138426
+  },
+  {
+    "('Date', '')":"2025-11-05",
+    "('Adj Close', 'FLTR.L')":16385.0,
+    "('Close', 'FLTR.L')":16385.0,
+    "('High', 'FLTR.L')":17010.0,
+    "('Low', 'FLTR.L')":16220.0,
+    "('Open', 'FLTR.L')":16930.0,
+    "('Volume', 'FLTR.L')":270354
+  },
+  {
+    "('Date', '')":"2025-11-06",
+    "('Adj Close', 'FLTR.L')":16350.0,
+    "('Close', 'FLTR.L')":16350.0,
+    "('High', 'FLTR.L')":16835.0,
+    "('Low', 'FLTR.L')":16275.0,
+    "('Open', 'FLTR.L')":16505.0,
+    "('Volume', 'FLTR.L')":69721
+  },
+  {
+    "('Date', '')":"2025-11-07",
+    "('Adj Close', 'FLTR.L')":16670.0,
+    "('Close', 'FLTR.L')":16670.0,
+    "('High', 'FLTR.L')":16880.0,
+    "('Low', 'FLTR.L')":15700.0,
+    "('Open', 'FLTR.L')":16145.0,
+    "('Volume', 'FLTR.L')":89827
+  },
+  {
+    "('Date', '')":"2025-11-10",
+    "('Adj Close', 'FLTR.L')":17595.0,
+    "('Close', 'FLTR.L')":17595.0,
+    "('High', 'FLTR.L')":17630.0,
+    "('Low', 'FLTR.L')":16865.0,
+    "('Open', 'FLTR.L')":16870.0,
+    "('Volume', 'FLTR.L')":88482
+  },
+  {
+    "('Date', '')":"2025-11-11",
+    "('Adj Close', 'FLTR.L')":17570.0,
+    "('Close', 'FLTR.L')":17570.0,
+    "('High', 'FLTR.L')":17690.0,
+    "('Low', 'FLTR.L')":17300.0,
+    "('Open', 'FLTR.L')":17420.0,
+    "('Volume', 'FLTR.L')":82041
+  },
+  {
+    "('Date', '')":"2025-11-12",
+    "('Adj Close', 'FLTR.L')":17810.0,
+    "('Close', 'FLTR.L')":17810.0,
+    "('High', 'FLTR.L')":17970.0,
+    "('Low', 'FLTR.L')":17450.0,
+    "('Open', 'FLTR.L')":17630.0,
+    "('Volume', 'FLTR.L')":66571
+  },
+  {
+    "('Date', '')":"2025-11-13",
+    "('Adj Close', 'FLTR.L')":15540.0,
+    "('Close', 'FLTR.L')":15540.0,
+    "('High', 'FLTR.L')":17675.0,
+    "('Low', 'FLTR.L')":15450.0,
+    "('Open', 'FLTR.L')":17100.0,
+    "('Volume', 'FLTR.L')":144874
+  },
+  {
+    "('Date', '')":"2025-11-14",
+    "('Adj Close', 'FLTR.L')":15230.0,
+    "('Close', 'FLTR.L')":15230.0,
+    "('High', 'FLTR.L')":15410.0,
+    "('Low', 'FLTR.L')":14682.5048828125,
+    "('Open', 'FLTR.L')":15390.0,
+    "('Volume', 'FLTR.L')":89998
+  }
+]

@@ -1,0 +1,1986 @@
+[
+  {
+    "('Date', '')":"2024-11-11",
+    "('Close', 'TATAMOTORS.NS')":797.8403320312,
+    "('High', 'TATAMOTORS.NS')":824.3623011602,
+    "('Low', 'TATAMOTORS.NS')":785.2485813138,
+    "('Open', 'TATAMOTORS.NS')":794.1718606469,
+    "('Volume', 'TATAMOTORS.NS')":27587619
+  },
+  {
+    "('Date', '')":"2024-11-12",
+    "('Close', 'TATAMOTORS.NS')":778.1594848633,
+    "('High', 'TATAMOTORS.NS')":806.1686664027,
+    "('Low', 'TATAMOTORS.NS')":776.3748411514,
+    "('Open', 'TATAMOTORS.NS')":799.1292148943,
+    "('Volume', 'TATAMOTORS.NS')":16526921
+  },
+  {
+    "('Date', '')":"2024-11-13",
+    "('Close', 'TATAMOTORS.NS')":779.5476074219,
+    "('High', 'TATAMOTORS.NS')":785.8930747916,
+    "('Low', 'TATAMOTORS.NS')":768.9388075295,
+    "('Open', 'TATAMOTORS.NS')":780.2912140426,
+    "('Volume', 'TATAMOTORS.NS')":14674022
+  },
+  {
+    "('Date', '')":"2024-11-14",
+    "('Close', 'TATAMOTORS.NS')":767.6994628906,
+    "('High', 'TATAMOTORS.NS')":785.2485912372,
+    "('Low', 'TATAMOTORS.NS')":765.4190813574,
+    "('Open', 'TATAMOTORS.NS')":779.8945993637,
+    "('Volume', 'TATAMOTORS.NS')":11740909
+  },
+  {
+    "('Date', '')":"2024-11-18",
+    "('Close', 'TATAMOTORS.NS')":765.3199462891,
+    "('High', 'TATAMOTORS.NS')":775.0859555493,
+    "('Low', 'TATAMOTORS.NS')":752.7281956054,
+    "('Open', 'TATAMOTORS.NS')":771.3679225038,
+    "('Volume', 'TATAMOTORS.NS')":17053446
+  },
+  {
+    "('Date', '')":"2024-11-19",
+    "('Close', 'TATAMOTORS.NS')":776.5236206055,
+    "('High', 'TATAMOTORS.NS')":793.0812734924,
+    "('Low', 'TATAMOTORS.NS')":765.3199596031,
+    "('Open', 'TATAMOTORS.NS')":765.3199596031,
+    "('Volume', 'TATAMOTORS.NS')":14012014
+  },
+  {
+    "('Date', '')":"2024-11-21",
+    "('Close', 'TATAMOTORS.NS')":767.2532348633,
+    "('High', 'TATAMOTORS.NS')":779.2501238371,
+    "('Low', 'TATAMOTORS.NS')":759.7180458252,
+    "('Open', 'TATAMOTORS.NS')":778.2586484103,
+    "('Volume', 'TATAMOTORS.NS')":14194678
+  },
+  {
+    "('Date', '')":"2024-11-22",
+    "('Close', 'TATAMOTORS.NS')":784.2570800781,
+    "('High', 'TATAMOTORS.NS')":787.2315064248,
+    "('Low', 'TATAMOTORS.NS')":768.3934728958,
+    "('Open', 'TATAMOTORS.NS')":768.3934728958,
+    "('Volume', 'TATAMOTORS.NS')":14535112
+  },
+  {
+    "('Date', '')":"2024-11-25",
+    "('Close', 'TATAMOTORS.NS')":789.8093261719,
+    "('High', 'TATAMOTORS.NS')":803.2934287187,
+    "('Low', 'TATAMOTORS.NS')":786.8845219807,
+    "('Open', 'TATAMOTORS.NS')":801.1617322766,
+    "('Volume', 'TATAMOTORS.NS')":15194167
+  },
+  {
+    "('Date', '')":"2024-11-26",
+    "('Close', 'TATAMOTORS.NS')":776.3253173828,
+    "('High', 'TATAMOTORS.NS')":794.965044701,
+    "('Low', 'TATAMOTORS.NS')":773.4996364105,
+    "('Open', 'TATAMOTORS.NS')":790.3547199297,
+    "('Volume', 'TATAMOTORS.NS')":10310838
+  },
+  {
+    "('Date', '')":"2024-11-27",
+    "('Close', 'TATAMOTORS.NS')":777.2672119141,
+    "('High', 'TATAMOTORS.NS')":785.1494540553,
+    "('Low', 'TATAMOTORS.NS')":772.4585195441,
+    "('Open', 'TATAMOTORS.NS')":778.3578107323,
+    "('Volume', 'TATAMOTORS.NS')":10014685
+  },
+  {
+    "('Date', '')":"2024-11-28",
+    "('Close', 'TATAMOTORS.NS')":772.8055419922,
+    "('High', 'TATAMOTORS.NS')":785.7938460197,
+    "('Low', 'TATAMOTORS.NS')":771.3678905046,
+    "('Open', 'TATAMOTORS.NS')":776.3252676929,
+    "('Volume', 'TATAMOTORS.NS')":10939142
+  },
+  {
+    "('Date', '')":"2024-11-29",
+    "('Close', 'TATAMOTORS.NS')":779.7459106445,
+    "('High', 'TATAMOTORS.NS')":782.6707754409,
+    "('Low', 'TATAMOTORS.NS')":770.4260168394,
+    "('Open', 'TATAMOTORS.NS')":772.8551438911,
+    "('Volume', 'TATAMOTORS.NS')":10358590
+  },
+  {
+    "('Date', '')":"2024-12-02",
+    "('Close', 'TATAMOTORS.NS')":783.3151855469,
+    "('High', 'TATAMOTORS.NS')":789.9580833207,
+    "('Low', 'TATAMOTORS.NS')":778.3082465099,
+    "('Open', 'TATAMOTORS.NS')":780.5886279954,
+    "('Volume', 'TATAMOTORS.NS')":8425826
+  },
+  {
+    "('Date', '')":"2024-12-03",
+    "('Close', 'TATAMOTORS.NS')":794.4197387695,
+    "('High', 'TATAMOTORS.NS')":799.1292473613,
+    "('Low', 'TATAMOTORS.NS')":783.2656394732,
+    "('Open', 'TATAMOTORS.NS')":788.2230169383,
+    "('Volume', 'TATAMOTORS.NS')":9874135
+  },
+  {
+    "('Date', '')":"2024-12-04",
+    "('Close', 'TATAMOTORS.NS')":781.3817749023,
+    "('High', 'TATAMOTORS.NS')":799.1292095943,
+    "('Low', 'TATAMOTORS.NS')":777.3663114484,
+    "('Open', 'TATAMOTORS.NS')":798.1377341482,
+    "('Volume', 'TATAMOTORS.NS')":12392259
+  },
+  {
+    "('Date', '')":"2024-12-05",
+    "('Close', 'TATAMOTORS.NS')":785.7938842773,
+    "('High', 'TATAMOTORS.NS')":790.7017000357,
+    "('Low', 'TATAMOTORS.NS')":774.3423545177,
+    "('Open', 'TATAMOTORS.NS')":786.240060349,
+    "('Volume', 'TATAMOTORS.NS')":12169428
+  },
+  {
+    "('Date', '')":"2024-12-06",
+    "('Close', 'TATAMOTORS.NS')":809.8371582031,
+    "('High', 'TATAMOTORS.NS')":811.8696708297,
+    "('Low', 'TATAMOTORS.NS')":778.6056806509,
+    "('Open', 'TATAMOTORS.NS')":786.2400539333,
+    "('Volume', 'TATAMOTORS.NS')":19716910
+  },
+  {
+    "('Date', '')":"2024-12-09",
+    "('Close', 'TATAMOTORS.NS')":791.9410400391,
+    "('High', 'TATAMOTORS.NS')":813.3568862116,
+    "('Low', 'TATAMOTORS.NS')":790.2059579482,
+    "('Open', 'TATAMOTORS.NS')":809.8371603589,
+    "('Volume', 'TATAMOTORS.NS')":15573233
+  },
+  {
+    "('Date', '')":"2024-12-10",
+    "('Close', 'TATAMOTORS.NS')":793.081237793,
+    "('High', 'TATAMOTORS.NS')":803.5412917024,
+    "('Low', 'TATAMOTORS.NS')":790.652110834,
+    "('Open', 'TATAMOTORS.NS')":797.939431196,
+    "('Volume', 'TATAMOTORS.NS')":13113082
+  },
+  {
+    "('Date', '')":"2024-12-11",
+    "('Close', 'TATAMOTORS.NS')":792.2880249023,
+    "('High', 'TATAMOTORS.NS')":800.0711436609,
+    "('Low', 'TATAMOTORS.NS')":791.3957332871,
+    "('Open', 'TATAMOTORS.NS')":796.0556801051,
+    "('Volume', 'TATAMOTORS.NS')":7763357
+  },
+  {
+    "('Date', '')":"2024-12-12",
+    "('Close', 'TATAMOTORS.NS')":779.6467285156,
+    "('High', 'TATAMOTORS.NS')":795.1633441632,
+    "('Low', 'TATAMOTORS.NS')":778.8039985538,
+    "('Open', 'TATAMOTORS.NS')":792.38722489,
+    "('Volume', 'TATAMOTORS.NS')":10602758
+  },
+  {
+    "('Date', '')":"2024-12-13",
+    "('Close', 'TATAMOTORS.NS')":783.5630493164,
+    "('High', 'TATAMOTORS.NS')":785.7443074464,
+    "('Low', 'TATAMOTORS.NS')":768.3934867772,
+    "('Open', 'TATAMOTORS.NS')":782.2741433125,
+    "('Volume', 'TATAMOTORS.NS')":14101869
+  },
+  {
+    "('Date', '')":"2024-12-16",
+    "('Close', 'TATAMOTORS.NS')":778.1099243164,
+    "('High', 'TATAMOTORS.NS')":787.1819489279,
+    "('Low', 'TATAMOTORS.NS')":776.3252806019,
+    "('Open', 'TATAMOTORS.NS')":784.6536986227,
+    "('Volume', 'TATAMOTORS.NS')":10015361
+  },
+  {
+    "('Date', '')":"2024-12-17",
+    "('Close', 'TATAMOTORS.NS')":773.1029663086,
+    "('High', 'TATAMOTORS.NS')":789.5614342357,
+    "('Low', 'TATAMOTORS.NS')":771.3678843066,
+    "('Open', 'TATAMOTORS.NS')":778.8039500294,
+    "('Volume', 'TATAMOTORS.NS')":10270253
+  },
+  {
+    "('Date', '')":"2024-12-18",
+    "('Close', 'TATAMOTORS.NS')":749.2579956055,
+    "('High', 'TATAMOTORS.NS')":767.6498527548,
+    "('Low', 'TATAMOTORS.NS')":747.5724752691,
+    "('Open', 'TATAMOTORS.NS')":767.401983897,
+    "('Volume', 'TATAMOTORS.NS')":19085263
+  },
+  {
+    "('Date', '')":"2024-12-19",
+    "('Close', 'TATAMOTORS.NS')":737.7073364258,
+    "('High', 'TATAMOTORS.NS')":749.3571735943,
+    "('Low', 'TATAMOTORS.NS')":735.0799626499,
+    "('Open', 'TATAMOTORS.NS')":738.1039508332,
+    "('Volume', 'TATAMOTORS.NS')":17119599
+  },
+  {
+    "('Date', '')":"2024-12-20",
+    "('Close', 'TATAMOTORS.NS')":717.8778076172,
+    "('High', 'TATAMOTORS.NS')":743.1604323018,
+    "('Low', 'TATAMOTORS.NS')":715.3495572517,
+    "('Open', 'TATAMOTORS.NS')":737.9551860432,
+    "('Volume', 'TATAMOTORS.NS')":17962656
+  },
+  {
+    "('Date', '')":"2024-12-23",
+    "('Close', 'TATAMOTORS.NS')":716.0435791016,
+    "('High', 'TATAMOTORS.NS')":728.139591644,
+    "('Low', 'TATAMOTORS.NS')":711.5819395952,
+    "('Open', 'TATAMOTORS.NS')":727.4455467289,
+    "('Volume', 'TATAMOTORS.NS')":9653868
+  },
+  {
+    "('Date', '')":"2024-12-24",
+    "('Close', 'TATAMOTORS.NS')":729.8250732422,
+    "('High', 'TATAMOTORS.NS')":738.9466597189,
+    "('Low', 'TATAMOTORS.NS')":716.3410309826,
+    "('Open', 'TATAMOTORS.NS')":717.332506458,
+    "('Volume', 'TATAMOTORS.NS')":12553555
+  },
+  {
+    "('Date', '')":"2024-12-26",
+    "('Close', 'TATAMOTORS.NS')":734.4849853516,
+    "('High', 'TATAMOTORS.NS')":741.4253133513,
+    "('Low', 'TATAMOTORS.NS')":729.2797393518,
+    "('Open', 'TATAMOTORS.NS')":729.8250387345,
+    "('Volume', 'TATAMOTORS.NS')":9343210
+  },
+  {
+    "('Date', '')":"2024-12-27",
+    "('Close', 'TATAMOTORS.NS')":744.102355957,
+    "('High', 'TATAMOTORS.NS')":760.3129560281,
+    "('Low', 'TATAMOTORS.NS')":739.3432857034,
+    "('Open', 'TATAMOTORS.NS')":742.6151427206,
+    "('Volume', 'TATAMOTORS.NS')":15835079
+  },
+  {
+    "('Date', '')":"2024-12-30",
+    "('Close', 'TATAMOTORS.NS')":727.3959960938,
+    "('High', 'TATAMOTORS.NS')":748.4648496378,
+    "('Low', 'TATAMOTORS.NS')":724.4711313811,
+    "('Open', 'TATAMOTORS.NS')":747.4733741769,
+    "('Volume', 'TATAMOTORS.NS')":17441198
+  },
+  {
+    "('Date', '')":"2024-12-31",
+    "('Close', 'TATAMOTORS.NS')":733.8405761719,
+    "('High', 'TATAMOTORS.NS')":737.062871374,
+    "('Low', 'TATAMOTORS.NS')":726.5036336594,
+    "('Open', 'TATAMOTORS.NS')":727.3959857675,
+    "('Volume', 'TATAMOTORS.NS')":7092699
+  },
+  {
+    "('Date', '')":"2025-01-01",
+    "('Close', 'TATAMOTORS.NS')":742.8629760742,
+    "('High', 'TATAMOTORS.NS')":744.6971814388,
+    "('Low', 'TATAMOTORS.NS')":729.7259264473,
+    "('Open', 'TATAMOTORS.NS')":734.138004274,
+    "('Volume', 'TATAMOTORS.NS')":7792251
+  },
+  {
+    "('Date', '')":"2025-01-02",
+    "('Close', 'TATAMOTORS.NS')":758.5283203125,
+    "('High', 'TATAMOTORS.NS')":760.808701863,
+    "('Low', 'TATAMOTORS.NS')":742.9621428361,
+    "('Open', 'TATAMOTORS.NS')":752.8273361789,
+    "('Volume', 'TATAMOTORS.NS')":15294572
+  },
+  {
+    "('Date', '')":"2025-01-03",
+    "('Close', 'TATAMOTORS.NS')":783.6622314453,
+    "('High', 'TATAMOTORS.NS')":793.7752327726,
+    "('Low', 'TATAMOTORS.NS')":754.9590046415,
+    "('Open', 'TATAMOTORS.NS')":761.4531568318,
+    "('Volume', 'TATAMOTORS.NS')":24773025
+  },
+  {
+    "('Date', '')":"2025-01-06",
+    "('Close', 'TATAMOTORS.NS')":769.6328125,
+    "('High', 'TATAMOTORS.NS')":790.8999728518,
+    "('Low', 'TATAMOTORS.NS')":758.776144298,
+    "('Open', 'TATAMOTORS.NS')":790.8999728518,
+    "('Volume', 'TATAMOTORS.NS')":16948151
+  },
+  {
+    "('Date', '')":"2025-01-07",
+    "('Close', 'TATAMOTORS.NS')":786.4879150391,
+    "('High', 'TATAMOTORS.NS')":790.1563863739,
+    "('Low', 'TATAMOTORS.NS')":765.9147990768,
+    "('Open', 'TATAMOTORS.NS')":769.384963215,
+    "('Volume', 'TATAMOTORS.NS')":15547971
+  },
+  {
+    "('Date', '')":"2025-01-08",
+    "('Close', 'TATAMOTORS.NS')":788.1734008789,
+    "('High', 'TATAMOTORS.NS')":790.2059133963,
+    "('Low', 'TATAMOTORS.NS')":774.9867898349,
+    "('Open', 'TATAMOTORS.NS')":785.8433973222,
+    "('Volume', 'TATAMOTORS.NS')":11861066
+  },
+  {
+    "('Date', '')":"2025-01-09",
+    "('Close', 'TATAMOTORS.NS')":773.450012207,
+    "('High', 'TATAMOTORS.NS')":803.0951538194,
+    "('Low', 'TATAMOTORS.NS')":762.8908344565,
+    "('Open', 'TATAMOTORS.NS')":793.180398834,
+    "('Volume', 'TATAMOTORS.NS')":17948464
+  },
+  {
+    "('Date', '')":"2025-01-10",
+    "('Close', 'TATAMOTORS.NS')":768.0465087891,
+    "('High', 'TATAMOTORS.NS')":781.2331206388,
+    "('Low', 'TATAMOTORS.NS')":760.2633899216,
+    "('Open', 'TATAMOTORS.NS')":773.4004401,
+    "('Volume', 'TATAMOTORS.NS')":11144005
+  },
+  {
+    "('Date', '')":"2025-01-13",
+    "('Close', 'TATAMOTORS.NS')":744.5980834961,
+    "('High', 'TATAMOTORS.NS')":766.9558434076,
+    "('Low', 'TATAMOTORS.NS')":742.4168253429,
+    "('Open', 'TATAMOTORS.NS')":762.4446420885,
+    "('Volume', 'TATAMOTORS.NS')":12230175
+  },
+  {
+    "('Date', '')":"2025-01-14",
+    "('Close', 'TATAMOTORS.NS')":763.9318237305,
+    "('High', 'TATAMOTORS.NS')":772.3593649397,
+    "('Low', 'TATAMOTORS.NS')":745.0937904393,
+    "('Open', 'TATAMOTORS.NS')":745.0937904393,
+    "('Volume', 'TATAMOTORS.NS')":11377053
+  },
+  {
+    "('Date', '')":"2025-01-15",
+    "('Close', 'TATAMOTORS.NS')":757.090637207,
+    "('High', 'TATAMOTORS.NS')":778.3082362614,
+    "('Low', 'TATAMOTORS.NS')":749.6050095855,
+    "('Open', 'TATAMOTORS.NS')":764.4275798185,
+    "('Volume', 'TATAMOTORS.NS')":10500910
+  },
+  {
+    "('Date', '')":"2025-01-16",
+    "('Close', 'TATAMOTORS.NS')":767.7490234375,
+    "('High', 'TATAMOTORS.NS')":774.3423596688,
+    "('Low', 'TATAMOTORS.NS')":760.8086949898,
+    "('Open', 'TATAMOTORS.NS')":763.3370059076,
+    "('Volume', 'TATAMOTORS.NS')":8680163
+  },
+  {
+    "('Date', '')":"2025-01-17",
+    "('Close', 'TATAMOTORS.NS')":773.1029663086,
+    "('High', 'TATAMOTORS.NS')":778.8039500294,
+    "('Low', 'TATAMOTORS.NS')":765.6669005858,
+    "('Open', 'TATAMOTORS.NS')":767.3028592508,
+    "('Volume', 'TATAMOTORS.NS')":7007239
+  },
+  {
+    "('Date', '')":"2025-01-20",
+    "('Close', 'TATAMOTORS.NS')":767.7490234375,
+    "('High', 'TATAMOTORS.NS')":776.3253106539,
+    "('Low', 'TATAMOTORS.NS')":760.4617027733,
+    "('Open', 'TATAMOTORS.NS')":773.3508841763,
+    "('Volume', 'TATAMOTORS.NS')":9956101
+  },
+  {
+    "('Date', '')":"2025-01-21",
+    "('Close', 'TATAMOTORS.NS')":754.2649536133,
+    "('High', 'TATAMOTORS.NS')":779.9441921453,
+    "('Low', 'TATAMOTORS.NS')":751.9350104962,
+    "('Open', 'TATAMOTORS.NS')":768.3934788699,
+    "('Volume', 'TATAMOTORS.NS')":11657178
+  },
+  {
+    "('Date', '')":"2025-01-22",
+    "('Close', 'TATAMOTORS.NS')":736.4183959961,
+    "('High', 'TATAMOTORS.NS')":758.9249009824,
+    "('Low', 'TATAMOTORS.NS')":724.7685593715,
+    "('Open', 'TATAMOTORS.NS')":757.6359949908,
+    "('Volume', 'TATAMOTORS.NS')":12418474
+  },
+  {
+    "('Date', '')":"2025-01-23",
+    "('Close', 'TATAMOTORS.NS')":746.0852661133,
+    "('High', 'TATAMOTORS.NS')":753.2239013605,
+    "('Low', 'TATAMOTORS.NS')":733.4935159643,
+    "('Open', 'TATAMOTORS.NS')":736.4183806055,
+    "('Volume', 'TATAMOTORS.NS')":7916689
+  },
+  {
+    "('Date', '')":"2025-01-24",
+    "('Close', 'TATAMOTORS.NS')":727.8421020508,
+    "('High', 'TATAMOTORS.NS')":747.7212331918,
+    "('Low', 'TATAMOTORS.NS')":725.9583350088,
+    "('Open', 'TATAMOTORS.NS')":743.6561475467,
+    "('Volume', 'TATAMOTORS.NS')":9513166
+  },
+  {
+    "('Date', '')":"2025-01-27",
+    "('Close', 'TATAMOTORS.NS')":706.9715576172,
+    "('High', 'TATAMOTORS.NS')":726.7019432809,
+    "('Low', 'TATAMOTORS.NS')":703.2535246792,
+    "('Open', 'TATAMOTORS.NS')":726.7019432809,
+    "('Volume', 'TATAMOTORS.NS')":14123990
+  },
+  {
+    "('Date', '')":"2025-01-28",
+    "('Close', 'TATAMOTORS.NS')":722.0419921875,
+    "('High', 'TATAMOTORS.NS')":734.5345585776,
+    "('Low', 'TATAMOTORS.NS')":701.4688767218,
+    "('Open', 'TATAMOTORS.NS')":710.392155719,
+    "('Volume', 'TATAMOTORS.NS')":16104653
+  },
+  {
+    "('Date', '')":"2025-01-29",
+    "('Close', 'TATAMOTORS.NS')":746.0852661133,
+    "('High', 'TATAMOTORS.NS')":748.563954705,
+    "('Low', 'TATAMOTORS.NS')":720.3564664281,
+    "('Open', 'TATAMOTORS.NS')":725.2642819427,
+    "('Volume', 'TATAMOTORS.NS')":12461404
+  },
+  {
+    "('Date', '')":"2025-01-30",
+    "('Close', 'TATAMOTORS.NS')":690.9096679688,
+    "('High', 'TATAMOTORS.NS')":704.6416397539,
+    "('Low', 'TATAMOTORS.NS')":677.3760638986,
+    "('Open', 'TATAMOTORS.NS')":702.9561193253,
+    "('Volume', 'TATAMOTORS.NS')":59390998
+  },
+  {
+    "('Date', '')":"2025-01-31",
+    "('Close', 'TATAMOTORS.NS')":709.9955444336,
+    "('High', 'TATAMOTORS.NS')":710.8878965431,
+    "('Low', 'TATAMOTORS.NS')":690.5130881803,
+    "('Open', 'TATAMOTORS.NS')":699.9816666101,
+    "('Volume', 'TATAMOTORS.NS')":19157717
+  },
+  {
+    "('Date', '')":"2025-02-01",
+    "('Close', 'TATAMOTORS.NS')":700.5269775391,
+    "('High', 'TATAMOTORS.NS')":718.5718431011,
+    "('Low', 'TATAMOTORS.NS')":694.925177472,
+    "('Open', 'TATAMOTORS.NS')":713.366596911,
+    "('Volume', 'TATAMOTORS.NS')":14087493
+  },
+  {
+    "('Date', '')":"2025-02-03",
+    "('Close', 'TATAMOTORS.NS')":681.58984375,
+    "('High', 'TATAMOTORS.NS')":694.0328491569,
+    "('Low', 'TATAMOTORS.NS')":680.1521921738,
+    "('Open', 'TATAMOTORS.NS')":694.0328491569,
+    "('Volume', 'TATAMOTORS.NS')":17806760
+  },
+  {
+    "('Date', '')":"2025-02-04",
+    "('Close', 'TATAMOTORS.NS')":704.4928588867,
+    "('High', 'TATAMOTORS.NS')":707.2689780043,
+    "('Low', 'TATAMOTORS.NS')":687.8360836663,
+    "('Open', 'TATAMOTORS.NS')":690.3643339249,
+    "('Volume', 'TATAMOTORS.NS')":16792005
+  },
+  {
+    "('Date', '')":"2025-02-05",
+    "('Close', 'TATAMOTORS.NS')":710.9374389648,
+    "('High', 'TATAMOTORS.NS')":719.2658567123,
+    "('Low', 'TATAMOTORS.NS')":704.6415942435,
+    "('Open', 'TATAMOTORS.NS')":704.9390247671,
+    "('Volume', 'TATAMOTORS.NS')":12907325
+  },
+  {
+    "('Date', '')":"2025-02-06",
+    "('Close', 'TATAMOTORS.NS')":703.6005859375,
+    "('High', 'TATAMOTORS.NS')":717.2333735424,
+    "('Low', 'TATAMOTORS.NS')":702.1133727442,
+    "('Open', 'TATAMOTORS.NS')":716.8367591516,
+    "('Volume', 'TATAMOTORS.NS')":10016927
+  },
+  {
+    "('Date', '')":"2025-02-07",
+    "('Close', 'TATAMOTORS.NS')":700.7252807617,
+    "('High', 'TATAMOTORS.NS')":709.846867089,
+    "('Low', 'TATAMOTORS.NS')":697.1063711298,
+    "('Open', 'TATAMOTORS.NS')":704.9390514632,
+    "('Volume', 'TATAMOTORS.NS')":12259132
+  },
+  {
+    "('Date', '')":"2025-02-10",
+    "('Close', 'TATAMOTORS.NS')":690.0668945312,
+    "('High', 'TATAMOTORS.NS')":703.8484271194,
+    "('Low', 'TATAMOTORS.NS')":687.1420299299,
+    "('Open', 'TATAMOTORS.NS')":703.6996815999,
+    "('Volume', 'TATAMOTORS.NS')":10981963
+  },
+  {
+    "('Date', '')":"2025-02-11",
+    "('Close', 'TATAMOTORS.NS')":671.9724731445,
+    "('High', 'TATAMOTORS.NS')":691.0583751852,
+    "('Low', 'TATAMOTORS.NS')":669.3450390473,
+    "('Open', 'TATAMOTORS.NS')":690.0668997545,
+    "('Volume', 'TATAMOTORS.NS')":11939990
+  },
+  {
+    "('Date', '')":"2025-02-12",
+    "('Close', 'TATAMOTORS.NS')":678.5162353516,
+    "('High', 'TATAMOTORS.NS')":681.6889690598,
+    "('Low', 'TATAMOTORS.NS')":661.3637212759,
+    "('Open', 'TATAMOTORS.NS')":674.2033411253,
+    "('Volume', 'TATAMOTORS.NS')":12312424
+  },
+  {
+    "('Date', '')":"2025-02-13",
+    "('Close', 'TATAMOTORS.NS')":678.0204467773,
+    "('High', 'TATAMOTORS.NS')":687.2412166634,
+    "('Low', 'TATAMOTORS.NS')":673.5588073543,
+    "('Open', 'TATAMOTORS.NS')":678.516184491,
+    "('Volume', 'TATAMOTORS.NS')":8490769
+  },
+  {
+    "('Date', '')":"2025-02-14",
+    "('Close', 'TATAMOTORS.NS')":674.8477783203,
+    "('High', 'TATAMOTORS.NS')":685.059963187,
+    "('Low', 'TATAMOTORS.NS')":663.44581083,
+    "('Open', 'TATAMOTORS.NS')":680.1025860172,
+    "('Volume', 'TATAMOTORS.NS')":9968127
+  },
+  {
+    "('Date', '')":"2025-02-17",
+    "('Close', 'TATAMOTORS.NS')":680.7470092773,
+    "('High', 'TATAMOTORS.NS')":684.8120948686,
+    "('Low', 'TATAMOTORS.NS')":661.3636766314,
+    "('Open', 'TATAMOTORS.NS')":672.2203447446,
+    "('Volume', 'TATAMOTORS.NS')":10313575
+  },
+  {
+    "('Date', '')":"2025-02-18",
+    "('Close', 'TATAMOTORS.NS')":676.5828857422,
+    "('High', 'TATAMOTORS.NS')":682.0855625043,
+    "('Low', 'TATAMOTORS.NS')":666.4202621625,
+    "('Open', 'TATAMOTORS.NS')":680.7470343093,
+    "('Volume', 'TATAMOTORS.NS')":7810143
+  },
+  {
+    "('Date', '')":"2025-02-19",
+    "('Close', 'TATAMOTORS.NS')":675.1947631836,
+    "('High', 'TATAMOTORS.NS')":685.0599557472,
+    "('Low', 'TATAMOTORS.NS')":669.2954723127,
+    "('Open', 'TATAMOTORS.NS')":675.938369751,
+    "('Volume', 'TATAMOTORS.NS')":9986815
+  },
+  {
+    "('Date', '')":"2025-02-20",
+    "('Close', 'TATAMOTORS.NS')":683.9197387695,
+    "('High', 'TATAMOTORS.NS')":686.9437267248,
+    "('Low', 'TATAMOTORS.NS')":669.2459145244,
+    "('Open', 'TATAMOTORS.NS')":674.203291669,
+    "('Volume', 'TATAMOTORS.NS')":8673335
+  },
+  {
+    "('Date', '')":"2025-02-21",
+    "('Close', 'TATAMOTORS.NS')":667.4613037109,
+    "('High', 'TATAMOTORS.NS')":684.1180796338,
+    "('Low', 'TATAMOTORS.NS')":665.3791688988,
+    "('Open', 'TATAMOTORS.NS')":680.1521777229,
+    "('Volume', 'TATAMOTORS.NS')":14577524
+  },
+  {
+    "('Date', '')":"2025-02-24",
+    "('Close', 'TATAMOTORS.NS')":662.5534667969,
+    "('High', 'TATAMOTORS.NS')":670.8322625651,
+    "('Low', 'TATAMOTORS.NS')":660.3226470434,
+    "('Open', 'TATAMOTORS.NS')":664.2885488274,
+    "('Volume', 'TATAMOTORS.NS')":8861769
+  },
+  {
+    "('Date', '')":"2025-02-25",
+    "('Close', 'TATAMOTORS.NS')":655.960144043,
+    "('High', 'TATAMOTORS.NS')":666.7672508274,
+    "('Low', 'TATAMOTORS.NS')":654.3738075034,
+    "('Open', 'TATAMOTORS.NS')":662.0577423643,
+    "('Volume', 'TATAMOTORS.NS')":10251257
+  },
+  {
+    "('Date', '')":"2025-02-27",
+    "('Close', 'TATAMOTORS.NS')":643.0214233398,
+    "('High', 'TATAMOTORS.NS')":659.3312074157,
+    "('Low', 'TATAMOTORS.NS')":640.1461806991,
+    "('Open', 'TATAMOTORS.NS')":656.3567809161,
+    "('Volume', 'TATAMOTORS.NS')":12281857
+  },
+  {
+    "('Date', '')":"2025-02-28",
+    "('Close', 'TATAMOTORS.NS')":615.3592529297,
+    "('High', 'TATAMOTORS.NS')":639.5016555656,
+    "('Low', 'TATAMOTORS.NS')":613.1779948697,
+    "('Open', 'TATAMOTORS.NS')":639.5016555656,
+    "('Volume', 'TATAMOTORS.NS')":20477619
+  },
+  {
+    "('Date', '')":"2025-03-03",
+    "('Close', 'TATAMOTORS.NS')":615.8549804688,
+    "('High', 'TATAMOTORS.NS')":621.5063419429,
+    "('Low', 'TATAMOTORS.NS')":601.1315341936,
+    "('Open', 'TATAMOTORS.NS')":615.3592427595,
+    "('Volume', 'TATAMOTORS.NS')":18362700
+  },
+  {
+    "('Date', '')":"2025-03-04",
+    "('Close', 'TATAMOTORS.NS')":613.9216308594,
+    "('High', 'TATAMOTORS.NS')":623.7868240131,
+    "('Low', 'TATAMOTORS.NS')":607.774470765,
+    "('Open', 'TATAMOTORS.NS')":608.2206468351,
+    "('Volume', 'TATAMOTORS.NS')":11878225
+  },
+  {
+    "('Date', '')":"2025-03-05",
+    "('Close', 'TATAMOTORS.NS')":635.3374633789,
+    "('High', 'TATAMOTORS.NS')":636.1306316448,
+    "('Low', 'TATAMOTORS.NS')":613.3266960392,
+    "('Open', 'TATAMOTORS.NS')":613.7233104296,
+    "('Volume', 'TATAMOTORS.NS')":12373061
+  },
+  {
+    "('Date', '')":"2025-03-06",
+    "('Close', 'TATAMOTORS.NS')":634.1973266602,
+    "('High', 'TATAMOTORS.NS')":650.3583651786,
+    "('Low', 'TATAMOTORS.NS')":630.1818024804,
+    "('Open', 'TATAMOTORS.NS')":647.6813692304,
+    "('Volume', 'TATAMOTORS.NS')":16991501
+  },
+  {
+    "('Date', '')":"2025-03-07",
+    "('Close', 'TATAMOTORS.NS')":642.7735595703,
+    "('High', 'TATAMOTORS.NS')":645.9462932981,
+    "('Low', 'TATAMOTORS.NS')":629.5869474202,
+    "('Open', 'TATAMOTORS.NS')":634.544324959,
+    "('Volume', 'TATAMOTORS.NS')":10123450
+  },
+  {
+    "('Date', '')":"2025-03-10",
+    "('Close', 'TATAMOTORS.NS')":642.6248168945,
+    "('High', 'TATAMOTORS.NS')":648.6727927432,
+    "('Low', 'TATAMOTORS.NS')":637.8656864725,
+    "('Open', 'TATAMOTORS.NS')":642.7735018984,
+    "('Volume', 'TATAMOTORS.NS')":10309166
+  },
+  {
+    "('Date', '')":"2025-03-11",
+    "('Close', 'TATAMOTORS.NS')":642.5256347656,
+    "('High', 'TATAMOTORS.NS')":645.599244881,
+    "('Low', 'TATAMOTORS.NS')":633.0074949257,
+    "('Open', 'TATAMOTORS.NS')":634.5442697259,
+    "('Volume', 'TATAMOTORS.NS')":9534750
+  },
+  {
+    "('Date', '')":"2025-03-12",
+    "('Close', 'TATAMOTORS.NS')":662.6030273438,
+    "('High', 'TATAMOTORS.NS')":666.1723752523,
+    "('Low', 'TATAMOTORS.NS')":646.6898585652,
+    "('Open', 'TATAMOTORS.NS')":648.9206783149,
+    "('Volume', 'TATAMOTORS.NS')":18732785
+  },
+  {
+    "('Date', '')":"2025-03-13",
+    "('Close', 'TATAMOTORS.NS')":649.9121704102,
+    "('High', 'TATAMOTORS.NS')":666.1227701344,
+    "('Low', 'TATAMOTORS.NS')":644.0624409328,
+    "('Open', 'TATAMOTORS.NS')":664.9330479826,
+    "('Volume', 'TATAMOTORS.NS')":14004345
+  },
+  {
+    "('Date', '')":"2025-03-17",
+    "('Close', 'TATAMOTORS.NS')":655.414855957,
+    "('High', 'TATAMOTORS.NS')":660.7688477714,
+    "('Low', 'TATAMOTORS.NS')":651.8455684241,
+    "('Open', 'TATAMOTORS.NS')":659.3807578892,
+    "('Volume', 'TATAMOTORS.NS')":9174398
+  },
+  {
+    "('Date', '')":"2025-03-18",
+    "('Close', 'TATAMOTORS.NS')":655.414855957,
+    "('High', 'TATAMOTORS.NS')":655.414855957,
+    "('Low', 'TATAMOTORS.NS')":655.414855957,
+    "('Open', 'TATAMOTORS.NS')":655.414855957,
+    "('Volume', 'TATAMOTORS.NS')":0
+  },
+  {
+    "('Date', '')":"2025-03-19",
+    "('Close', 'TATAMOTORS.NS')":676.4341430664,
+    "('High', 'TATAMOTORS.NS')":679.9043072302,
+    "('Low', 'TATAMOTORS.NS')":672.7656717046,
+    "('Open', 'TATAMOTORS.NS')":679.5573150197,
+    "('Volume', 'TATAMOTORS.NS')":9338414
+  },
+  {
+    "('Date', '')":"2025-03-20",
+    "('Close', 'TATAMOTORS.NS')":684.1676025391,
+    "('High', 'TATAMOTORS.NS')":686.7950366121,
+    "('Low', 'TATAMOTORS.NS')":673.2118112339,
+    "('Open', 'TATAMOTORS.NS')":679.1606637632,
+    "('Volume', 'TATAMOTORS.NS')":9712600
+  },
+  {
+    "('Date', '')":"2025-03-21",
+    "('Close', 'TATAMOTORS.NS')":696.9577026367,
+    "('High', 'TATAMOTORS.NS')":698.9902152732,
+    "('Low', 'TATAMOTORS.NS')":682.6804314805,
+    "('Open', 'TATAMOTORS.NS')":687.0925094813,
+    "('Volume', 'TATAMOTORS.NS')":14823483
+  },
+  {
+    "('Date', '')":"2025-03-24",
+    "('Close', 'TATAMOTORS.NS')":707.4177246094,
+    "('High', 'TATAMOTORS.NS')":711.3836263591,
+    "('Low', 'TATAMOTORS.NS')":696.0653187478,
+    "('Open', 'TATAMOTORS.NS')":703.9475605784,
+    "('Volume', 'TATAMOTORS.NS')":11671359
+  },
+  {
+    "('Date', '')":"2025-03-25",
+    "('Close', 'TATAMOTORS.NS')":704.2449951172,
+    "('High', 'TATAMOTORS.NS')":716.8863070165,
+    "('Low', 'TATAMOTORS.NS')":700.328655014,
+    "('Open', 'TATAMOTORS.NS')":712.870843575,
+    "('Volume', 'TATAMOTORS.NS')":13617465
+  },
+  {
+    "('Date', '')":"2025-03-26",
+    "('Close', 'TATAMOTORS.NS')":702.2125244141,
+    "('High', 'TATAMOTORS.NS')":711.730665029,
+    "('Low', 'TATAMOTORS.NS')":700.9731800363,
+    "('Open', 'TATAMOTORS.NS')":704.2450370905,
+    "('Volume', 'TATAMOTORS.NS')":9363180
+  },
+  {
+    "('Date', '')":"2025-03-27",
+    "('Close', 'TATAMOTORS.NS')":662.8508911133,
+    "('High', 'TATAMOTORS.NS')":670.8322562759,
+    "('Low', 'TATAMOTORS.NS')":655.4643870068,
+    "('Open', 'TATAMOTORS.NS')":662.3055917261,
+    "('Volume', 'TATAMOTORS.NS')":34238666
+  },
+  {
+    "('Date', '')":"2025-03-28",
+    "('Close', 'TATAMOTORS.NS')":668.7006225586,
+    "('High', 'TATAMOTORS.NS')":679.1111146778,
+    "('Low', 'TATAMOTORS.NS')":663.5944998371,
+    "('Open', 'TATAMOTORS.NS')":666.1227501059,
+    "('Volume', 'TATAMOTORS.NS')":16013687
+  },
+  {
+    "('Date', '')":"2025-04-01",
+    "('Close', 'TATAMOTORS.NS')":666.1227416992,
+    "('High', 'TATAMOTORS.NS')":676.0374959733,
+    "('Low', 'TATAMOTORS.NS')":660.074765798,
+    "('Open', 'TATAMOTORS.NS')":664.8338357466,
+    "('Volume', 'TATAMOTORS.NS')":9594669
+  },
+  {
+    "('Date', '')":"2025-04-02",
+    "('Close', 'TATAMOTORS.NS')":666.1723632812,
+    "('High', 'TATAMOTORS.NS')":669.5929050908,
+    "('Low', 'TATAMOTORS.NS')":656.4558556895,
+    "('Open', 'TATAMOTORS.NS')":669.1963512291,
+    "('Volume', 'TATAMOTORS.NS')":8025225
+  },
+  {
+    "('Date', '')":"2025-04-03",
+    "('Close', 'TATAMOTORS.NS')":648.3753662109,
+    "('High', 'TATAMOTORS.NS')":663.2970592526,
+    "('Low', 'TATAMOTORS.NS')":646.9377147419,
+    "('Open', 'TATAMOTORS.NS')":654.3737804286,
+    "('Volume', 'TATAMOTORS.NS')":13473832
+  },
+  {
+    "('Date', '')":"2025-04-04",
+    "('Close', 'TATAMOTORS.NS')":608.6171875,
+    "('High', 'TATAMOTORS.NS')":644.4590496194,
+    "('Low', 'TATAMOTORS.NS')":604.8000311813,
+    "('Open', 'TATAMOTORS.NS')":644.4590496194,
+    "('Volume', 'TATAMOTORS.NS')":26621179
+  },
+  {
+    "('Date', '')":"2025-04-07",
+    "('Close', 'TATAMOTORS.NS')":574.8079223633,
+    "('High', 'TATAMOTORS.NS')":577.0387422431,
+    "('Low', 'TATAMOTORS.NS')":531.1830002693,
+    "('Open', 'TATAMOTORS.NS')":555.7220189472,
+    "('Volume', 'TATAMOTORS.NS')":49463598
+  },
+  {
+    "('Date', '')":"2025-04-08",
+    "('Close', 'TATAMOTORS.NS')":583.8303222656,
+    "('High', 'TATAMOTORS.NS')":601.4290123393,
+    "('Low', 'TATAMOTORS.NS')":579.219997513,
+    "('Open', 'TATAMOTORS.NS')":586.1603259927,
+    "('Volume', 'TATAMOTORS.NS')":20987855
+  },
+  {
+    "('Date', '')":"2025-04-09",
+    "('Close', 'TATAMOTORS.NS')":577.9310913086,
+    "('High', 'TATAMOTORS.NS')":589.8287972706,
+    "('Low', 'TATAMOTORS.NS')":576.0968253305,
+    "('Open', 'TATAMOTORS.NS')":582.9875921365,
+    "('Volume', 'TATAMOTORS.NS')":17483412
+  },
+  {
+    "('Date', '')":"2025-04-11",
+    "('Close', 'TATAMOTORS.NS')":589.9774780273,
+    "('High', 'TATAMOTORS.NS')":607.5761679691,
+    "('Low', 'TATAMOTORS.NS')":585.9620143971,
+    "('Open', 'TATAMOTORS.NS')":604.8000487009,
+    "('Volume', 'TATAMOTORS.NS')":21055814
+  },
+  {
+    "('Date', '')":"2025-04-15",
+    "('Close', 'TATAMOTORS.NS')":616.8960571289,
+    "('High', 'TATAMOTORS.NS')":622.9440333644,
+    "('Low', 'TATAMOTORS.NS')":607.4274783769,
+    "('Open', 'TATAMOTORS.NS')":608.7659460719,
+    "('Volume', 'TATAMOTORS.NS')":19722072
+  },
+  {
+    "('Date', '')":"2025-04-16",
+    "('Close', 'TATAMOTORS.NS')":610.7984619141,
+    "('High', 'TATAMOTORS.NS')":619.6721796293,
+    "('Low', 'TATAMOTORS.NS')":608.3693348669,
+    "('Open', 'TATAMOTORS.NS')":619.6721796293,
+    "('Volume', 'TATAMOTORS.NS')":12318376
+  },
+  {
+    "('Date', '')":"2025-04-17",
+    "('Close', 'TATAMOTORS.NS')":616.2515869141,
+    "('High', 'TATAMOTORS.NS')":621.6551405095,
+    "('Low', 'TATAMOTORS.NS')":603.0649748244,
+    "('Open', 'TATAMOTORS.NS')":610.7984716464,
+    "('Volume', 'TATAMOTORS.NS')":14342652
+  },
+  {
+    "('Date', '')":"2025-04-21",
+    "('Close', 'TATAMOTORS.NS')":624.6790771484,
+    "('High', 'TATAMOTORS.NS')":630.3304991534,
+    "('Low', 'TATAMOTORS.NS')":614.9130684536,
+    "('Open', 'TATAMOTORS.NS')":619.2755239989,
+    "('Volume', 'TATAMOTORS.NS')":12785568
+  },
+  {
+    "('Date', '')":"2025-04-22",
+    "('Close', 'TATAMOTORS.NS')":625.4722900391,
+    "('High', 'TATAMOTORS.NS')":628.5459003738,
+    "('Low', 'TATAMOTORS.NS')":620.8619653093,
+    "('Open', 'TATAMOTORS.NS')":624.8774289497,
+    "('Volume', 'TATAMOTORS.NS')":10292748
+  },
+  {
+    "('Date', '')":"2025-04-23",
+    "('Close', 'TATAMOTORS.NS')":654.2746582031,
+    "('High', 'TATAMOTORS.NS')":655.8609946797,
+    "('Low', 'TATAMOTORS.NS')":627.9509372157,
+    "('Open', 'TATAMOTORS.NS')":630.5288096337,
+    "('Volume', 'TATAMOTORS.NS')":23390570
+  },
+  {
+    "('Date', '')":"2025-04-24",
+    "('Close', 'TATAMOTORS.NS')":662.6525878906,
+    "('High', 'TATAMOTORS.NS')":665.2800220196,
+    "('Low', 'TATAMOTORS.NS')":654.4729154887,
+    "('Open', 'TATAMOTORS.NS')":654.4729154887,
+    "('Volume', 'TATAMOTORS.NS')":15172229
+  },
+  {
+    "('Date', '')":"2025-04-25",
+    "('Close', 'TATAMOTORS.NS')":649.6643066406,
+    "('High', 'TATAMOTORS.NS')":667.2629963665,
+    "('Low', 'TATAMOTORS.NS')":645.9462735999,
+    "('Open', 'TATAMOTORS.NS')":662.6526111901,
+    "('Volume', 'TATAMOTORS.NS')":13207043
+  },
+  {
+    "('Date', '')":"2025-04-28",
+    "('Close', 'TATAMOTORS.NS')":662.4543457031,
+    "('High', 'TATAMOTORS.NS')":663.8919366928,
+    "('Low', 'TATAMOTORS.NS')":646.987292384,
+    "('Open', 'TATAMOTORS.NS')":648.7223744204,
+    "('Volume', 'TATAMOTORS.NS')":10243493
+  },
+  {
+    "('Date', '')":"2025-04-29",
+    "('Close', 'TATAMOTORS.NS')":659.9260253906,
+    "('High', 'TATAMOTORS.NS')":677.0785988296,
+    "('Low', 'TATAMOTORS.NS')":655.9601236503,
+    "('Open', 'TATAMOTORS.NS')":665.7261929948,
+    "('Volume', 'TATAMOTORS.NS')":13754685
+  },
+  {
+    "('Date', '')":"2025-04-30",
+    "('Close', 'TATAMOTORS.NS')":638.7580566406,
+    "('High', 'TATAMOTORS.NS')":661.3141230567,
+    "('Low', 'TATAMOTORS.NS')":635.6348847771,
+    "('Open', 'TATAMOTORS.NS')":661.3141230567,
+    "('Volume', 'TATAMOTORS.NS')":19485917
+  },
+  {
+    "('Date', '')":"2025-05-02",
+    "('Close', 'TATAMOTORS.NS')":643.5667114258,
+    "('High', 'TATAMOTORS.NS')":655.7122860853,
+    "('Low', 'TATAMOTORS.NS')":630.1322307421,
+    "('Open', 'TATAMOTORS.NS')":635.5357842242,
+    "('Volume', 'TATAMOTORS.NS')":11488717
+  },
+  {
+    "('Date', '')":"2025-05-05",
+    "('Close', 'TATAMOTORS.NS')":655.9105834961,
+    "('High', 'TATAMOTORS.NS')":660.9671446898,
+    "('Low', 'TATAMOTORS.NS')":650.2591612277,
+    "('Open', 'TATAMOTORS.NS')":657.2986733567,
+    "('Volume', 'TATAMOTORS.NS')":8868484
+  },
+  {
+    "('Date', '')":"2025-05-06",
+    "('Close', 'TATAMOTORS.NS')":642.6743774414,
+    "('High', 'TATAMOTORS.NS')":657.5465086973,
+    "('Low', 'TATAMOTORS.NS')":639.9973817124,
+    "('Open', 'TATAMOTORS.NS')":655.9105500532,
+    "('Volume', 'TATAMOTORS.NS')":12718175
+  },
+  {
+    "('Date', '')":"2025-05-07",
+    "('Close', 'TATAMOTORS.NS')":674.5007324219,
+    "('High', 'TATAMOTORS.NS')":676.6819905016,
+    "('Low', 'TATAMOTORS.NS')":635.6845050998,
+    "('Open', 'TATAMOTORS.NS')":636.5272350212,
+    "('Volume', 'TATAMOTORS.NS')":30390515
+  },
+  {
+    "('Date', '')":"2025-05-08",
+    "('Close', 'TATAMOTORS.NS')":677.0289916992,
+    "('High', 'TATAMOTORS.NS')":698.4944595522,
+    "('Low', 'TATAMOTORS.NS')":671.4271916753,
+    "('Open', 'TATAMOTORS.NS')":694.032819995,
+    "('Volume', 'TATAMOTORS.NS')":29315465
+  },
+  {
+    "('Date', '')":"2025-05-09",
+    "('Close', 'TATAMOTORS.NS')":702.4603881836,
+    "('High', 'TATAMOTORS.NS')":704.939076921,
+    "('Low', 'TATAMOTORS.NS')":660.3226796475,
+    "('Open', 'TATAMOTORS.NS')":661.80989289,
+    "('Volume', 'TATAMOTORS.NS')":40183276
+  },
+  {
+    "('Date', '')":"2025-05-12",
+    "('Close', 'TATAMOTORS.NS')":714.6555175781,
+    "('High', 'TATAMOTORS.NS')":725.7600551145,
+    "('Low', 'TATAMOTORS.NS')":705.1373771268,
+    "('Open', 'TATAMOTORS.NS')":721.794153174,
+    "('Volume', 'TATAMOTORS.NS')":20133616
+  },
+  {
+    "('Date', '')":"2025-05-13",
+    "('Close', 'TATAMOTORS.NS')":701.667175293,
+    "('High', 'TATAMOTORS.NS')":719.8111635947,
+    "('Low', 'TATAMOTORS.NS')":697.2550975178,
+    "('Open', 'TATAMOTORS.NS')":714.6554792456,
+    "('Volume', 'TATAMOTORS.NS')":16125700
+  },
+  {
+    "('Date', '')":"2025-05-14",
+    "('Close', 'TATAMOTORS.NS')":692.9917602539,
+    "('High', 'TATAMOTORS.NS')":701.9646007452,
+    "('Low', 'TATAMOTORS.NS')":680.1521414,
+    "('Open', 'TATAMOTORS.NS')":684.1180430991,
+    "('Volume', 'TATAMOTORS.NS')":31505402
+  },
+  {
+    "('Date', '')":"2025-05-15",
+    "('Close', 'TATAMOTORS.NS')":721.8932495117,
+    "('High', 'TATAMOTORS.NS')":723.5787698764,
+    "('Low', 'TATAMOTORS.NS')":690.2156573587,
+    "('Open', 'TATAMOTORS.NS')":692.7934693177,
+    "('Volume', 'TATAMOTORS.NS')":28634074
+  },
+  {
+    "('Date', '')":"2025-05-16",
+    "('Close', 'TATAMOTORS.NS')":724.4711303711,
+    "('High', 'TATAMOTORS.NS')":735.6747909606,
+    "('Low', 'TATAMOTORS.NS')":719.3650075486,
+    "('Open', 'TATAMOTORS.NS')":723.7770854465,
+    "('Volume', 'TATAMOTORS.NS')":20631512
+  },
+  {
+    "('Date', '')":"2025-05-19",
+    "('Close', 'TATAMOTORS.NS')":723.2813720703,
+    "('High', 'TATAMOTORS.NS')":731.8080371033,
+    "('Low', 'TATAMOTORS.NS')":721.794158831,
+    "('Open', 'TATAMOTORS.NS')":725.7600608026,
+    "('Volume', 'TATAMOTORS.NS')":10460217
+  },
+  {
+    "('Date', '')":"2025-05-20",
+    "('Close', 'TATAMOTORS.NS')":712.7717285156,
+    "('High', 'TATAMOTORS.NS')":731.4610166288,
+    "('Low', 'TATAMOTORS.NS')":710.8879009459,
+    "('Open', 'TATAMOTORS.NS')":723.7770818557,
+    "('Volume', 'TATAMOTORS.NS')":14472506
+  },
+  {
+    "('Date', '')":"2025-05-21",
+    "('Close', 'TATAMOTORS.NS')":720.6043701172,
+    "('High', 'TATAMOTORS.NS')":723.2813660286,
+    "('Low', 'TATAMOTORS.NS')":711.8793979555,
+    "('Open', 'TATAMOTORS.NS')":712.8708734401,
+    "('Volume', 'TATAMOTORS.NS')":8998596
+  },
+  {
+    "('Date', '')":"2025-05-22",
+    "('Close', 'TATAMOTORS.NS')":711.3341064453,
+    "('High', 'TATAMOTORS.NS')":718.8197343344,
+    "('Low', 'TATAMOTORS.NS')":704.592085178,
+    "('Open', 'TATAMOTORS.NS')":718.8197343344,
+    "('Volume', 'TATAMOTORS.NS')":10046820
+  },
+  {
+    "('Date', '')":"2025-05-23",
+    "('Close', 'TATAMOTORS.NS')":712.1272583008,
+    "('High', 'TATAMOTORS.NS')":715.6469841261,
+    "('Low', 'TATAMOTORS.NS')":708.9049630144,
+    "('Open', 'TATAMOTORS.NS')":712.6229960372,
+    "('Volume', 'TATAMOTORS.NS')":7915166
+  },
+  {
+    "('Date', '')":"2025-05-26",
+    "('Close', 'TATAMOTORS.NS')":722.7855834961,
+    "('High', 'TATAMOTORS.NS')":731.7088623047,
+    "('Low', 'TATAMOTORS.NS')":715.0520872983,
+    "('Open', 'TATAMOTORS.NS')":715.8452555339,
+    "('Volume', 'TATAMOTORS.NS')":13017400
+  },
+  {
+    "('Date', '')":"2025-05-27",
+    "('Close', 'TATAMOTORS.NS')":710.342590332,
+    "('High', 'TATAMOTORS.NS')":723.1325871855,
+    "('Low', 'TATAMOTORS.NS')":709.1032460334,
+    "('Open', 'TATAMOTORS.NS')":722.7855949878,
+    "('Volume', 'TATAMOTORS.NS')":12223125
+  },
+  {
+    "('Date', '')":"2025-05-28",
+    "('Close', 'TATAMOTORS.NS')":711.8298339844,
+    "('High', 'TATAMOTORS.NS')":715.8452975811,
+    "('Low', 'TATAMOTORS.NS')":710.0947518919,
+    "('Open', 'TATAMOTORS.NS')":713.8623466183,
+    "('Volume', 'TATAMOTORS.NS')":7568961
+  },
+  {
+    "('Date', '')":"2025-05-29",
+    "('Close', 'TATAMOTORS.NS')":718.2744140625,
+    "('High', 'TATAMOTORS.NS')":722.4881847966,
+    "('Low', 'TATAMOTORS.NS')":713.862336132,
+    "('Open', 'TATAMOTORS.NS')":718.3239757329,
+    "('Volume', 'TATAMOTORS.NS')":8838921
+  },
+  {
+    "('Date', '')":"2025-05-30",
+    "('Close', 'TATAMOTORS.NS')":713.3665771484,
+    "('High', 'TATAMOTORS.NS')":722.3394177532,
+    "('Low', 'TATAMOTORS.NS')":706.4262490872,
+    "('Open', 'TATAMOTORS.NS')":718.2743926661,
+    "('Volume', 'TATAMOTORS.NS')":14533919
+  },
+  {
+    "('Date', '')":"2025-06-02",
+    "('Close', 'TATAMOTORS.NS')":705.5339355469,
+    "('High', 'TATAMOTORS.NS')":712.8708783899,
+    "('Low', 'TATAMOTORS.NS')":701.3697868945,
+    "('Open', 'TATAMOTORS.NS')":710.8879274069,
+    "('Volume', 'TATAMOTORS.NS')":9712446
+  },
+  {
+    "('Date', '')":"2025-06-03",
+    "('Close', 'TATAMOTORS.NS')":697.8499755859,
+    "('High', 'TATAMOTORS.NS')":712.2263696997,
+    "('Low', 'TATAMOTORS.NS')":696.3132007319,
+    "('Open', 'TATAMOTORS.NS')":708.9049511276,
+    "('Volume', 'TATAMOTORS.NS')":9161608
+  },
+  {
+    "('Date', '')":"2025-06-04",
+    "('Close', 'TATAMOTORS.NS')":709.1500244141,
+    "('High', 'TATAMOTORS.NS')":715.450012207,
+    "('Low', 'TATAMOTORS.NS')":698.4000244141,
+    "('Open', 'TATAMOTORS.NS')":701.799987793,
+    "('Volume', 'TATAMOTORS.NS')":11287991
+  },
+  {
+    "('Date', '')":"2025-06-05",
+    "('Close', 'TATAMOTORS.NS')":710.1500244141,
+    "('High', 'TATAMOTORS.NS')":714.450012207,
+    "('Low', 'TATAMOTORS.NS')":704.0,
+    "('Open', 'TATAMOTORS.NS')":712.799987793,
+    "('Volume', 'TATAMOTORS.NS')":10203331
+  },
+  {
+    "('Date', '')":"2025-06-06",
+    "('Close', 'TATAMOTORS.NS')":711.0,
+    "('High', 'TATAMOTORS.NS')":715.9000244141,
+    "('Low', 'TATAMOTORS.NS')":701.200012207,
+    "('Open', 'TATAMOTORS.NS')":710.0,
+    "('Volume', 'TATAMOTORS.NS')":11975812
+  },
+  {
+    "('Date', '')":"2025-06-09",
+    "('Close', 'TATAMOTORS.NS')":717.799987793,
+    "('High', 'TATAMOTORS.NS')":726.0,
+    "('Low', 'TATAMOTORS.NS')":713.0999755859,
+    "('Open', 'TATAMOTORS.NS')":715.0,
+    "('Volume', 'TATAMOTORS.NS')":9900412
+  },
+  {
+    "('Date', '')":"2025-06-10",
+    "('Close', 'TATAMOTORS.NS')":732.25,
+    "('High', 'TATAMOTORS.NS')":734.75,
+    "('Low', 'TATAMOTORS.NS')":715.3499755859,
+    "('Open', 'TATAMOTORS.NS')":721.0,
+    "('Volume', 'TATAMOTORS.NS')":19151889
+  },
+  {
+    "('Date', '')":"2025-06-11",
+    "('Close', 'TATAMOTORS.NS')":736.4000244141,
+    "('High', 'TATAMOTORS.NS')":744.0,
+    "('Low', 'TATAMOTORS.NS')":730.1500244141,
+    "('Open', 'TATAMOTORS.NS')":734.950012207,
+    "('Volume', 'TATAMOTORS.NS')":12626754
+  },
+  {
+    "('Date', '')":"2025-06-12",
+    "('Close', 'TATAMOTORS.NS')":715.3499755859,
+    "('High', 'TATAMOTORS.NS')":737.700012207,
+    "('Low', 'TATAMOTORS.NS')":711.25,
+    "('Open', 'TATAMOTORS.NS')":737.0,
+    "('Volume', 'TATAMOTORS.NS')":12585149
+  },
+  {
+    "('Date', '')":"2025-06-13",
+    "('Close', 'TATAMOTORS.NS')":712.049987793,
+    "('High', 'TATAMOTORS.NS')":714.950012207,
+    "('Low', 'TATAMOTORS.NS')":698.299987793,
+    "('Open', 'TATAMOTORS.NS')":700.0,
+    "('Volume', 'TATAMOTORS.NS')":10516625
+  },
+  {
+    "('Date', '')":"2025-06-16",
+    "('Close', 'TATAMOTORS.NS')":686.6500244141,
+    "('High', 'TATAMOTORS.NS')":714.0,
+    "('Low', 'TATAMOTORS.NS')":672.950012207,
+    "('Open', 'TATAMOTORS.NS')":711.0,
+    "('Volume', 'TATAMOTORS.NS')":31246328
+  },
+  {
+    "('Date', '')":"2025-06-17",
+    "('Close', 'TATAMOTORS.NS')":674.75,
+    "('High', 'TATAMOTORS.NS')":686.1500244141,
+    "('Low', 'TATAMOTORS.NS')":672.0,
+    "('Open', 'TATAMOTORS.NS')":686.0999755859,
+    "('Volume', 'TATAMOTORS.NS')":17112867
+  },
+  {
+    "('Date', '')":"2025-06-18",
+    "('Close', 'TATAMOTORS.NS')":670.25,
+    "('High', 'TATAMOTORS.NS')":679.3499755859,
+    "('Low', 'TATAMOTORS.NS')":668.0,
+    "('Open', 'TATAMOTORS.NS')":671.8499755859,
+    "('Volume', 'TATAMOTORS.NS')":12556088
+  },
+  {
+    "('Date', '')":"2025-06-19",
+    "('Close', 'TATAMOTORS.NS')":672.299987793,
+    "('High', 'TATAMOTORS.NS')":676.299987793,
+    "('Low', 'TATAMOTORS.NS')":666.6500244141,
+    "('Open', 'TATAMOTORS.NS')":670.25,
+    "('Volume', 'TATAMOTORS.NS')":10895470
+  },
+  {
+    "('Date', '')":"2025-06-20",
+    "('Close', 'TATAMOTORS.NS')":676.200012207,
+    "('High', 'TATAMOTORS.NS')":678.799987793,
+    "('Low', 'TATAMOTORS.NS')":670.0999755859,
+    "('Open', 'TATAMOTORS.NS')":673.4000244141,
+    "('Volume', 'TATAMOTORS.NS')":11393470
+  },
+  {
+    "('Date', '')":"2025-06-23",
+    "('Close', 'TATAMOTORS.NS')":671.25,
+    "('High', 'TATAMOTORS.NS')":676.0,
+    "('Low', 'TATAMOTORS.NS')":666.0999755859,
+    "('Open', 'TATAMOTORS.NS')":670.0,
+    "('Volume', 'TATAMOTORS.NS')":10265601
+  },
+  {
+    "('Date', '')":"2025-06-24",
+    "('Close', 'TATAMOTORS.NS')":673.6500244141,
+    "('High', 'TATAMOTORS.NS')":686.5,
+    "('Low', 'TATAMOTORS.NS')":672.0,
+    "('Open', 'TATAMOTORS.NS')":678.0,
+    "('Volume', 'TATAMOTORS.NS')":15359947
+  },
+  {
+    "('Date', '')":"2025-06-25",
+    "('Close', 'TATAMOTORS.NS')":674.5,
+    "('High', 'TATAMOTORS.NS')":679.0,
+    "('Low', 'TATAMOTORS.NS')":673.450012207,
+    "('Open', 'TATAMOTORS.NS')":676.0,
+    "('Volume', 'TATAMOTORS.NS')":10456015
+  },
+  {
+    "('Date', '')":"2025-06-26",
+    "('Close', 'TATAMOTORS.NS')":682.75,
+    "('High', 'TATAMOTORS.NS')":683.700012207,
+    "('Low', 'TATAMOTORS.NS')":674.450012207,
+    "('Open', 'TATAMOTORS.NS')":677.0,
+    "('Volume', 'TATAMOTORS.NS')":10104914
+  },
+  {
+    "('Date', '')":"2025-06-27",
+    "('Close', 'TATAMOTORS.NS')":686.9000244141,
+    "('High', 'TATAMOTORS.NS')":691.450012207,
+    "('Low', 'TATAMOTORS.NS')":683.0,
+    "('Open', 'TATAMOTORS.NS')":685.0,
+    "('Volume', 'TATAMOTORS.NS')":7198028
+  },
+  {
+    "('Date', '')":"2025-06-30",
+    "('Close', 'TATAMOTORS.NS')":688.0,
+    "('High', 'TATAMOTORS.NS')":691.9000244141,
+    "('Low', 'TATAMOTORS.NS')":685.0,
+    "('Open', 'TATAMOTORS.NS')":688.9000244141,
+    "('Volume', 'TATAMOTORS.NS')":6960104
+  },
+  {
+    "('Date', '')":"2025-07-01",
+    "('Close', 'TATAMOTORS.NS')":683.799987793,
+    "('High', 'TATAMOTORS.NS')":693.8499755859,
+    "('Low', 'TATAMOTORS.NS')":680.4000244141,
+    "('Open', 'TATAMOTORS.NS')":691.0999755859,
+    "('Volume', 'TATAMOTORS.NS')":6866073
+  },
+  {
+    "('Date', '')":"2025-07-02",
+    "('Close', 'TATAMOTORS.NS')":688.549987793,
+    "('High', 'TATAMOTORS.NS')":692.450012207,
+    "('Low', 'TATAMOTORS.NS')":680.6500244141,
+    "('Open', 'TATAMOTORS.NS')":683.799987793,
+    "('Volume', 'TATAMOTORS.NS')":8034013
+  },
+  {
+    "('Date', '')":"2025-07-03",
+    "('Close', 'TATAMOTORS.NS')":690.4000244141,
+    "('High', 'TATAMOTORS.NS')":696.950012207,
+    "('Low', 'TATAMOTORS.NS')":688.5,
+    "('Open', 'TATAMOTORS.NS')":693.8499755859,
+    "('Volume', 'TATAMOTORS.NS')":9668110
+  },
+  {
+    "('Date', '')":"2025-07-04",
+    "('Close', 'TATAMOTORS.NS')":689.049987793,
+    "('High', 'TATAMOTORS.NS')":692.8499755859,
+    "('Low', 'TATAMOTORS.NS')":686.3499755859,
+    "('Open', 'TATAMOTORS.NS')":691.0,
+    "('Volume', 'TATAMOTORS.NS')":4942900
+  },
+  {
+    "('Date', '')":"2025-07-07",
+    "('Close', 'TATAMOTORS.NS')":688.8499755859,
+    "('High', 'TATAMOTORS.NS')":691.950012207,
+    "('Low', 'TATAMOTORS.NS')":683.3499755859,
+    "('Open', 'TATAMOTORS.NS')":689.049987793,
+    "('Volume', 'TATAMOTORS.NS')":5428220
+  },
+  {
+    "('Date', '')":"2025-07-08",
+    "('Close', 'TATAMOTORS.NS')":693.200012207,
+    "('High', 'TATAMOTORS.NS')":696.950012207,
+    "('Low', 'TATAMOTORS.NS')":687.5,
+    "('Open', 'TATAMOTORS.NS')":693.0,
+    "('Volume', 'TATAMOTORS.NS')":7615926
+  },
+  {
+    "('Date', '')":"2025-07-09",
+    "('Close', 'TATAMOTORS.NS')":692.799987793,
+    "('High', 'TATAMOTORS.NS')":695.5,
+    "('Low', 'TATAMOTORS.NS')":688.5,
+    "('Open', 'TATAMOTORS.NS')":688.950012207,
+    "('Volume', 'TATAMOTORS.NS')":5478813
+  },
+  {
+    "('Date', '')":"2025-07-10",
+    "('Close', 'TATAMOTORS.NS')":695.5999755859,
+    "('High', 'TATAMOTORS.NS')":696.75,
+    "('Low', 'TATAMOTORS.NS')":685.0,
+    "('Open', 'TATAMOTORS.NS')":692.0,
+    "('Volume', 'TATAMOTORS.NS')":7733963
+  },
+  {
+    "('Date', '')":"2025-07-11",
+    "('Close', 'TATAMOTORS.NS')":681.799987793,
+    "('High', 'TATAMOTORS.NS')":698.4000244141,
+    "('Low', 'TATAMOTORS.NS')":677.049987793,
+    "('Open', 'TATAMOTORS.NS')":692.950012207,
+    "('Volume', 'TATAMOTORS.NS')":8280654
+  },
+  {
+    "('Date', '')":"2025-07-14",
+    "('Close', 'TATAMOTORS.NS')":674.5,
+    "('High', 'TATAMOTORS.NS')":681.0,
+    "('Low', 'TATAMOTORS.NS')":672.0,
+    "('Open', 'TATAMOTORS.NS')":681.0,
+    "('Volume', 'TATAMOTORS.NS')":7748550
+  },
+  {
+    "('Date', '')":"2025-07-15",
+    "('Close', 'TATAMOTORS.NS')":684.4000244141,
+    "('High', 'TATAMOTORS.NS')":685.950012207,
+    "('Low', 'TATAMOTORS.NS')":674.299987793,
+    "('Open', 'TATAMOTORS.NS')":676.0,
+    "('Volume', 'TATAMOTORS.NS')":7041706
+  },
+  {
+    "('Date', '')":"2025-07-16",
+    "('Close', 'TATAMOTORS.NS')":679.0,
+    "('High', 'TATAMOTORS.NS')":684.4000244141,
+    "('Low', 'TATAMOTORS.NS')":676.3499755859,
+    "('Open', 'TATAMOTORS.NS')":684.4000244141,
+    "('Volume', 'TATAMOTORS.NS')":6244205
+  },
+  {
+    "('Date', '')":"2025-07-17",
+    "('Close', 'TATAMOTORS.NS')":681.700012207,
+    "('High', 'TATAMOTORS.NS')":686.9000244141,
+    "('Low', 'TATAMOTORS.NS')":678.1500244141,
+    "('Open', 'TATAMOTORS.NS')":679.0,
+    "('Volume', 'TATAMOTORS.NS')":6598144
+  },
+  {
+    "('Date', '')":"2025-07-18",
+    "('Close', 'TATAMOTORS.NS')":680.25,
+    "('High', 'TATAMOTORS.NS')":686.0,
+    "('Low', 'TATAMOTORS.NS')":678.0,
+    "('Open', 'TATAMOTORS.NS')":683.200012207,
+    "('Volume', 'TATAMOTORS.NS')":5558670
+  },
+  {
+    "('Date', '')":"2025-07-21",
+    "('Close', 'TATAMOTORS.NS')":687.450012207,
+    "('High', 'TATAMOTORS.NS')":688.5,
+    "('Low', 'TATAMOTORS.NS')":671.25,
+    "('Open', 'TATAMOTORS.NS')":680.5,
+    "('Volume', 'TATAMOTORS.NS')":6731863
+  },
+  {
+    "('Date', '')":"2025-07-22",
+    "('Close', 'TATAMOTORS.NS')":673.4000244141,
+    "('High', 'TATAMOTORS.NS')":688.8499755859,
+    "('Low', 'TATAMOTORS.NS')":672.3499755859,
+    "('Open', 'TATAMOTORS.NS')":688.0,
+    "('Volume', 'TATAMOTORS.NS')":7749518
+  },
+  {
+    "('Date', '')":"2025-07-23",
+    "('Close', 'TATAMOTORS.NS')":690.0999755859,
+    "('High', 'TATAMOTORS.NS')":693.0999755859,
+    "('Low', 'TATAMOTORS.NS')":676.25,
+    "('Open', 'TATAMOTORS.NS')":676.700012207,
+    "('Volume', 'TATAMOTORS.NS')":14460727
+  },
+  {
+    "('Date', '')":"2025-07-24",
+    "('Close', 'TATAMOTORS.NS')":700.5,
+    "('High', 'TATAMOTORS.NS')":706.5,
+    "('Low', 'TATAMOTORS.NS')":692.299987793,
+    "('Open', 'TATAMOTORS.NS')":692.700012207,
+    "('Volume', 'TATAMOTORS.NS')":15197664
+  },
+  {
+    "('Date', '')":"2025-07-25",
+    "('Close', 'TATAMOTORS.NS')":687.4000244141,
+    "('High', 'TATAMOTORS.NS')":702.450012207,
+    "('Low', 'TATAMOTORS.NS')":684.700012207,
+    "('Open', 'TATAMOTORS.NS')":701.0,
+    "('Volume', 'TATAMOTORS.NS')":7271718
+  },
+  {
+    "('Date', '')":"2025-07-28",
+    "('Close', 'TATAMOTORS.NS')":682.9000244141,
+    "('High', 'TATAMOTORS.NS')":700.5,
+    "('Low', 'TATAMOTORS.NS')":681.4000244141,
+    "('Open', 'TATAMOTORS.NS')":690.700012207,
+    "('Volume', 'TATAMOTORS.NS')":7788718
+  },
+  {
+    "('Date', '')":"2025-07-29",
+    "('Close', 'TATAMOTORS.NS')":692.3499755859,
+    "('High', 'TATAMOTORS.NS')":694.0,
+    "('Low', 'TATAMOTORS.NS')":680.5999755859,
+    "('Open', 'TATAMOTORS.NS')":681.9000244141,
+    "('Volume', 'TATAMOTORS.NS')":6239871
+  },
+  {
+    "('Date', '')":"2025-07-30",
+    "('Close', 'TATAMOTORS.NS')":668.450012207,
+    "('High', 'TATAMOTORS.NS')":690.0,
+    "('Low', 'TATAMOTORS.NS')":665.25,
+    "('Open', 'TATAMOTORS.NS')":690.0,
+    "('Volume', 'TATAMOTORS.NS')":18923129
+  },
+  {
+    "('Date', '')":"2025-07-31",
+    "('Close', 'TATAMOTORS.NS')":665.950012207,
+    "('High', 'TATAMOTORS.NS')":673.4000244141,
+    "('Low', 'TATAMOTORS.NS')":652.3499755859,
+    "('Open', 'TATAMOTORS.NS')":659.8499755859,
+    "('Volume', 'TATAMOTORS.NS')":18723710
+  },
+  {
+    "('Date', '')":"2025-08-01",
+    "('Close', 'TATAMOTORS.NS')":648.8499755859,
+    "('High', 'TATAMOTORS.NS')":667.950012207,
+    "('Low', 'TATAMOTORS.NS')":647.0,
+    "('Open', 'TATAMOTORS.NS')":667.950012207,
+    "('Volume', 'TATAMOTORS.NS')":12546169
+  },
+  {
+    "('Date', '')":"2025-08-04",
+    "('Close', 'TATAMOTORS.NS')":653.5999755859,
+    "('High', 'TATAMOTORS.NS')":656.799987793,
+    "('Low', 'TATAMOTORS.NS')":646.0,
+    "('Open', 'TATAMOTORS.NS')":650.049987793,
+    "('Volume', 'TATAMOTORS.NS')":8033881
+  },
+  {
+    "('Date', '')":"2025-08-05",
+    "('Close', 'TATAMOTORS.NS')":654.5999755859,
+    "('High', 'TATAMOTORS.NS')":658.9000244141,
+    "('Low', 'TATAMOTORS.NS')":650.549987793,
+    "('Open', 'TATAMOTORS.NS')":655.950012207,
+    "('Volume', 'TATAMOTORS.NS')":6714804
+  },
+  {
+    "('Date', '')":"2025-08-06",
+    "('Close', 'TATAMOTORS.NS')":652.8499755859,
+    "('High', 'TATAMOTORS.NS')":658.0,
+    "('Low', 'TATAMOTORS.NS')":650.4000244141,
+    "('Open', 'TATAMOTORS.NS')":655.0,
+    "('Volume', 'TATAMOTORS.NS')":6410830
+  },
+  {
+    "('Date', '')":"2025-08-07",
+    "('Close', 'TATAMOTORS.NS')":646.5,
+    "('High', 'TATAMOTORS.NS')":651.700012207,
+    "('Low', 'TATAMOTORS.NS')":635.5,
+    "('Open', 'TATAMOTORS.NS')":650.0,
+    "('Volume', 'TATAMOTORS.NS')":13609913
+  },
+  {
+    "('Date', '')":"2025-08-08",
+    "('Close', 'TATAMOTORS.NS')":633.700012207,
+    "('High', 'TATAMOTORS.NS')":652.950012207,
+    "('Low', 'TATAMOTORS.NS')":630.0,
+    "('Open', 'TATAMOTORS.NS')":647.950012207,
+    "('Volume', 'TATAMOTORS.NS')":10144452
+  },
+  {
+    "('Date', '')":"2025-08-11",
+    "('Close', 'TATAMOTORS.NS')":653.75,
+    "('High', 'TATAMOTORS.NS')":655.0,
+    "('Low', 'TATAMOTORS.NS')":627.0999755859,
+    "('Open', 'TATAMOTORS.NS')":636.200012207,
+    "('Volume', 'TATAMOTORS.NS')":17275390
+  },
+  {
+    "('Date', '')":"2025-08-12",
+    "('Close', 'TATAMOTORS.NS')":654.0999755859,
+    "('High', 'TATAMOTORS.NS')":660.950012207,
+    "('Low', 'TATAMOTORS.NS')":650.799987793,
+    "('Open', 'TATAMOTORS.NS')":651.0999755859,
+    "('Volume', 'TATAMOTORS.NS')":11212223
+  },
+  {
+    "('Date', '')":"2025-08-13",
+    "('Close', 'TATAMOTORS.NS')":663.75,
+    "('High', 'TATAMOTORS.NS')":667.0,
+    "('Low', 'TATAMOTORS.NS')":656.6500244141,
+    "('Open', 'TATAMOTORS.NS')":657.200012207,
+    "('Volume', 'TATAMOTORS.NS')":7557556
+  },
+  {
+    "('Date', '')":"2025-08-14",
+    "('Close', 'TATAMOTORS.NS')":664.5999755859,
+    "('High', 'TATAMOTORS.NS')":666.549987793,
+    "('Low', 'TATAMOTORS.NS')":657.700012207,
+    "('Open', 'TATAMOTORS.NS')":666.0,
+    "('Volume', 'TATAMOTORS.NS')":6250494
+  },
+  {
+    "('Date', '')":"2025-08-18",
+    "('Close', 'TATAMOTORS.NS')":676.0,
+    "('High', 'TATAMOTORS.NS')":685.0,
+    "('Low', 'TATAMOTORS.NS')":672.9000244141,
+    "('Open', 'TATAMOTORS.NS')":677.0,
+    "('Volume', 'TATAMOTORS.NS')":14226172
+  },
+  {
+    "('Date', '')":"2025-08-19",
+    "('Close', 'TATAMOTORS.NS')":700.25,
+    "('High', 'TATAMOTORS.NS')":703.3499755859,
+    "('Low', 'TATAMOTORS.NS')":673.0999755859,
+    "('Open', 'TATAMOTORS.NS')":676.75,
+    "('Volume', 'TATAMOTORS.NS')":19440384
+  },
+  {
+    "('Date', '')":"2025-08-20",
+    "('Close', 'TATAMOTORS.NS')":689.5999755859,
+    "('High', 'TATAMOTORS.NS')":700.799987793,
+    "('Low', 'TATAMOTORS.NS')":689.0,
+    "('Open', 'TATAMOTORS.NS')":700.25,
+    "('Volume', 'TATAMOTORS.NS')":10050137
+  },
+  {
+    "('Date', '')":"2025-08-21",
+    "('Close', 'TATAMOTORS.NS')":685.4000244141,
+    "('High', 'TATAMOTORS.NS')":694.950012207,
+    "('Low', 'TATAMOTORS.NS')":685.0,
+    "('Open', 'TATAMOTORS.NS')":694.0,
+    "('Volume', 'TATAMOTORS.NS')":8432614
+  },
+  {
+    "('Date', '')":"2025-08-22",
+    "('Close', 'TATAMOTORS.NS')":680.299987793,
+    "('High', 'TATAMOTORS.NS')":691.5,
+    "('Low', 'TATAMOTORS.NS')":678.5999755859,
+    "('Open', 'TATAMOTORS.NS')":685.9000244141,
+    "('Volume', 'TATAMOTORS.NS')":6429718
+  },
+  {
+    "('Date', '')":"2025-08-25",
+    "('Close', 'TATAMOTORS.NS')":686.799987793,
+    "('High', 'TATAMOTORS.NS')":688.9000244141,
+    "('Low', 'TATAMOTORS.NS')":680.299987793,
+    "('Open', 'TATAMOTORS.NS')":683.75,
+    "('Volume', 'TATAMOTORS.NS')":6429311
+  },
+  {
+    "('Date', '')":"2025-08-26",
+    "('Close', 'TATAMOTORS.NS')":681.6500244141,
+    "('High', 'TATAMOTORS.NS')":686.950012207,
+    "('Low', 'TATAMOTORS.NS')":678.299987793,
+    "('Open', 'TATAMOTORS.NS')":686.799987793,
+    "('Volume', 'TATAMOTORS.NS')":7496633
+  },
+  {
+    "('Date', '')":"2025-08-28",
+    "('Close', 'TATAMOTORS.NS')":675.450012207,
+    "('High', 'TATAMOTORS.NS')":680.9000244141,
+    "('Low', 'TATAMOTORS.NS')":667.799987793,
+    "('Open', 'TATAMOTORS.NS')":679.9000244141,
+    "('Volume', 'TATAMOTORS.NS')":9466045
+  },
+  {
+    "('Date', '')":"2025-08-29",
+    "('Close', 'TATAMOTORS.NS')":669.0,
+    "('High', 'TATAMOTORS.NS')":681.1500244141,
+    "('Low', 'TATAMOTORS.NS')":668.0,
+    "('Open', 'TATAMOTORS.NS')":675.450012207,
+    "('Volume', 'TATAMOTORS.NS')":8201917
+  },
+  {
+    "('Date', '')":"2025-09-01",
+    "('Close', 'TATAMOTORS.NS')":690.1500244141,
+    "('High', 'TATAMOTORS.NS')":691.5,
+    "('Low', 'TATAMOTORS.NS')":670.549987793,
+    "('Open', 'TATAMOTORS.NS')":671.299987793,
+    "('Volume', 'TATAMOTORS.NS')":7644947
+  },
+  {
+    "('Date', '')":"2025-09-02",
+    "('Close', 'TATAMOTORS.NS')":684.4000244141,
+    "('High', 'TATAMOTORS.NS')":694.6500244141,
+    "('Low', 'TATAMOTORS.NS')":681.6500244141,
+    "('Open', 'TATAMOTORS.NS')":690.1500244141,
+    "('Volume', 'TATAMOTORS.NS')":7854694
+  },
+  {
+    "('Date', '')":"2025-09-03",
+    "('Close', 'TATAMOTORS.NS')":692.049987793,
+    "('High', 'TATAMOTORS.NS')":693.450012207,
+    "('Low', 'TATAMOTORS.NS')":685.0,
+    "('Open', 'TATAMOTORS.NS')":688.0,
+    "('Volume', 'TATAMOTORS.NS')":6094892
+  },
+  {
+    "('Date', '')":"2025-09-04",
+    "('Close', 'TATAMOTORS.NS')":687.5,
+    "('High', 'TATAMOTORS.NS')":706.3499755859,
+    "('Low', 'TATAMOTORS.NS')":685.700012207,
+    "('Open', 'TATAMOTORS.NS')":705.9000244141,
+    "('Volume', 'TATAMOTORS.NS')":13439418
+  },
+  {
+    "('Date', '')":"2025-09-05",
+    "('Close', 'TATAMOTORS.NS')":691.700012207,
+    "('High', 'TATAMOTORS.NS')":697.3499755859,
+    "('Low', 'TATAMOTORS.NS')":683.0999755859,
+    "('Open', 'TATAMOTORS.NS')":690.9000244141,
+    "('Volume', 'TATAMOTORS.NS')":6692975
+  },
+  {
+    "('Date', '')":"2025-09-08",
+    "('Close', 'TATAMOTORS.NS')":719.5,
+    "('High', 'TATAMOTORS.NS')":722.0,
+    "('Low', 'TATAMOTORS.NS')":694.049987793,
+    "('Open', 'TATAMOTORS.NS')":695.0,
+    "('Volume', 'TATAMOTORS.NS')":20531027
+  },
+  {
+    "('Date', '')":"2025-09-09",
+    "('Close', 'TATAMOTORS.NS')":715.549987793,
+    "('High', 'TATAMOTORS.NS')":722.25,
+    "('Low', 'TATAMOTORS.NS')":713.5,
+    "('Open', 'TATAMOTORS.NS')":721.1500244141,
+    "('Volume', 'TATAMOTORS.NS')":9409853
+  },
+  {
+    "('Date', '')":"2025-09-10",
+    "('Close', 'TATAMOTORS.NS')":709.0999755859,
+    "('High', 'TATAMOTORS.NS')":720.0,
+    "('Low', 'TATAMOTORS.NS')":702.700012207,
+    "('Open', 'TATAMOTORS.NS')":717.6500244141,
+    "('Volume', 'TATAMOTORS.NS')":10363493
+  },
+  {
+    "('Date', '')":"2025-09-11",
+    "('Close', 'TATAMOTORS.NS')":705.8499755859,
+    "('High', 'TATAMOTORS.NS')":712.0,
+    "('Low', 'TATAMOTORS.NS')":704.549987793,
+    "('Open', 'TATAMOTORS.NS')":710.200012207,
+    "('Volume', 'TATAMOTORS.NS')":5530633
+  },
+  {
+    "('Date', '')":"2025-09-12",
+    "('Close', 'TATAMOTORS.NS')":715.25,
+    "('High', 'TATAMOTORS.NS')":718.9000244141,
+    "('Low', 'TATAMOTORS.NS')":707.3499755859,
+    "('Open', 'TATAMOTORS.NS')":708.0,
+    "('Volume', 'TATAMOTORS.NS')":8252416
+  },
+  {
+    "('Date', '')":"2025-09-15",
+    "('Close', 'TATAMOTORS.NS')":712.9000244141,
+    "('High', 'TATAMOTORS.NS')":721.950012207,
+    "('Low', 'TATAMOTORS.NS')":711.549987793,
+    "('Open', 'TATAMOTORS.NS')":715.299987793,
+    "('Volume', 'TATAMOTORS.NS')":6007524
+  },
+  {
+    "('Date', '')":"2025-09-16",
+    "('Close', 'TATAMOTORS.NS')":713.25,
+    "('High', 'TATAMOTORS.NS')":719.700012207,
+    "('Low', 'TATAMOTORS.NS')":705.0,
+    "('Open', 'TATAMOTORS.NS')":715.0,
+    "('Volume', 'TATAMOTORS.NS')":9765743
+  },
+  {
+    "('Date', '')":"2025-09-17",
+    "('Close', 'TATAMOTORS.NS')":719.1500244141,
+    "('High', 'TATAMOTORS.NS')":722.950012207,
+    "('Low', 'TATAMOTORS.NS')":714.299987793,
+    "('Open', 'TATAMOTORS.NS')":715.0,
+    "('Volume', 'TATAMOTORS.NS')":11872451
+  },
+  {
+    "('Date', '')":"2025-09-18",
+    "('Close', 'TATAMOTORS.NS')":711.200012207,
+    "('High', 'TATAMOTORS.NS')":725.25,
+    "('Low', 'TATAMOTORS.NS')":707.5999755859,
+    "('Open', 'TATAMOTORS.NS')":722.0,
+    "('Volume', 'TATAMOTORS.NS')":12199357
+  },
+  {
+    "('Date', '')":"2025-09-19",
+    "('Close', 'TATAMOTORS.NS')":707.450012207,
+    "('High', 'TATAMOTORS.NS')":713.5,
+    "('Low', 'TATAMOTORS.NS')":704.950012207,
+    "('Open', 'TATAMOTORS.NS')":713.5,
+    "('Volume', 'TATAMOTORS.NS')":12127319
+  },
+  {
+    "('Date', '')":"2025-09-22",
+    "('Close', 'TATAMOTORS.NS')":696.25,
+    "('High', 'TATAMOTORS.NS')":712.0,
+    "('Low', 'TATAMOTORS.NS')":694.8499755859,
+    "('Open', 'TATAMOTORS.NS')":709.0,
+    "('Volume', 'TATAMOTORS.NS')":9688597
+  },
+  {
+    "('Date', '')":"2025-09-23",
+    "('Close', 'TATAMOTORS.NS')":701.3499755859,
+    "('High', 'TATAMOTORS.NS')":707.799987793,
+    "('Low', 'TATAMOTORS.NS')":697.0,
+    "('Open', 'TATAMOTORS.NS')":701.799987793,
+    "('Volume', 'TATAMOTORS.NS')":11904667
+  },
+  {
+    "('Date', '')":"2025-09-24",
+    "('Close', 'TATAMOTORS.NS')":682.950012207,
+    "('High', 'TATAMOTORS.NS')":703.299987793,
+    "('Low', 'TATAMOTORS.NS')":681.299987793,
+    "('Open', 'TATAMOTORS.NS')":700.5,
+    "('Volume', 'TATAMOTORS.NS')":13252215
+  },
+  {
+    "('Date', '')":"2025-09-25",
+    "('Close', 'TATAMOTORS.NS')":664.299987793,
+    "('High', 'TATAMOTORS.NS')":675.0,
+    "('Low', 'TATAMOTORS.NS')":655.299987793,
+    "('Open', 'TATAMOTORS.NS')":669.9000244141,
+    "('Volume', 'TATAMOTORS.NS')":24687611
+  },
+  {
+    "('Date', '')":"2025-09-26",
+    "('Close', 'TATAMOTORS.NS')":672.9000244141,
+    "('High', 'TATAMOTORS.NS')":680.3499755859,
+    "('Low', 'TATAMOTORS.NS')":662.3499755859,
+    "('Open', 'TATAMOTORS.NS')":666.0,
+    "('Volume', 'TATAMOTORS.NS')":15780434
+  },
+  {
+    "('Date', '')":"2025-09-29",
+    "('Close', 'TATAMOTORS.NS')":672.5,
+    "('High', 'TATAMOTORS.NS')":685.0,
+    "('Low', 'TATAMOTORS.NS')":670.0,
+    "('Open', 'TATAMOTORS.NS')":684.0,
+    "('Volume', 'TATAMOTORS.NS')":13014474
+  },
+  {
+    "('Date', '')":"2025-09-30",
+    "('Close', 'TATAMOTORS.NS')":680.200012207,
+    "('High', 'TATAMOTORS.NS')":683.5,
+    "('Low', 'TATAMOTORS.NS')":666.6500244141,
+    "('Open', 'TATAMOTORS.NS')":672.0,
+    "('Volume', 'TATAMOTORS.NS')":15001606
+  },
+  {
+    "('Date', '')":"2025-10-01",
+    "('Close', 'TATAMOTORS.NS')":718.3499755859,
+    "('High', 'TATAMOTORS.NS')":720.0,
+    "('Low', 'TATAMOTORS.NS')":679.200012207,
+    "('Open', 'TATAMOTORS.NS')":681.0,
+    "('Volume', 'TATAMOTORS.NS')":30163206
+  },
+  {
+    "('Date', '')":"2025-10-03",
+    "('Close', 'TATAMOTORS.NS')":716.0999755859,
+    "('High', 'TATAMOTORS.NS')":739.700012207,
+    "('Low', 'TATAMOTORS.NS')":715.0,
+    "('Open', 'TATAMOTORS.NS')":718.5,
+    "('Volume', 'TATAMOTORS.NS')":27786917
+  },
+  {
+    "('Date', '')":"2025-10-06",
+    "('Close', 'TATAMOTORS.NS')":712.6500244141,
+    "('High', 'TATAMOTORS.NS')":718.5,
+    "('Low', 'TATAMOTORS.NS')":703.950012207,
+    "('Open', 'TATAMOTORS.NS')":718.0,
+    "('Volume', 'TATAMOTORS.NS')":10333314
+  },
+  {
+    "('Date', '')":"2025-10-07",
+    "('Close', 'TATAMOTORS.NS')":698.049987793,
+    "('High', 'TATAMOTORS.NS')":712.9000244141,
+    "('Low', 'TATAMOTORS.NS')":697.1500244141,
+    "('Open', 'TATAMOTORS.NS')":712.6500244141,
+    "('Volume', 'TATAMOTORS.NS')":13099357
+  },
+  {
+    "('Date', '')":"2025-10-08",
+    "('Close', 'TATAMOTORS.NS')":681.549987793,
+    "('High', 'TATAMOTORS.NS')":702.0,
+    "('Low', 'TATAMOTORS.NS')":679.0,
+    "('Open', 'TATAMOTORS.NS')":694.9000244141,
+    "('Volume', 'TATAMOTORS.NS')":16568975
+  },
+  {
+    "('Date', '')":"2025-10-09",
+    "('Close', 'TATAMOTORS.NS')":681.0999755859,
+    "('High', 'TATAMOTORS.NS')":685.0,
+    "('Low', 'TATAMOTORS.NS')":668.799987793,
+    "('Open', 'TATAMOTORS.NS')":684.5999755859,
+    "('Volume', 'TATAMOTORS.NS')":16202851
+  },
+  {
+    "('Date', '')":"2025-10-10",
+    "('Close', 'TATAMOTORS.NS')":678.950012207,
+    "('High', 'TATAMOTORS.NS')":688.5999755859,
+    "('Low', 'TATAMOTORS.NS')":666.9000244141,
+    "('Open', 'TATAMOTORS.NS')":684.799987793,
+    "('Volume', 'TATAMOTORS.NS')":16069904
+  },
+  {
+    "('Date', '')":"2025-10-13",
+    "('Close', 'TATAMOTORS.NS')":660.75,
+    "('High', 'TATAMOTORS.NS')":679.4000244141,
+    "('Low', 'TATAMOTORS.NS')":658.0999755859,
+    "('Open', 'TATAMOTORS.NS')":679.0,
+    "('Volume', 'TATAMOTORS.NS')":33288645
+  },
+  {
+    "('Date', '')":"2025-10-14",
+    "('Close', 'TATAMOTORS.NS')":395.450012207,
+    "('High', 'TATAMOTORS.NS')":421.549987793,
+    "('Low', 'TATAMOTORS.NS')":376.299987793,
+    "('Open', 'TATAMOTORS.NS')":400.0,
+    "('Volume', 'TATAMOTORS.NS')":52267874
+  },
+  {
+    "('Date', '')":"2025-10-15",
+    "('Close', 'TATAMOTORS.NS')":390.8500061035,
+    "('High', 'TATAMOTORS.NS')":403.0,
+    "('Low', 'TATAMOTORS.NS')":388.0,
+    "('Open', 'TATAMOTORS.NS')":403.0,
+    "('Volume', 'TATAMOTORS.NS')":26953559
+  },
+  {
+    "('Date', '')":"2025-10-16",
+    "('Close', 'TATAMOTORS.NS')":396.799987793,
+    "('High', 'TATAMOTORS.NS')":400.450012207,
+    "('Low', 'TATAMOTORS.NS')":389.549987793,
+    "('Open', 'TATAMOTORS.NS')":395.450012207,
+    "('Volume', 'TATAMOTORS.NS')":21983752
+  },
+  {
+    "('Date', '')":"2025-10-17",
+    "('Close', 'TATAMOTORS.NS')":396.6000061035,
+    "('High', 'TATAMOTORS.NS')":402.5,
+    "('Low', 'TATAMOTORS.NS')":392.25,
+    "('Open', 'TATAMOTORS.NS')":396.799987793,
+    "('Volume', 'TATAMOTORS.NS')":16564547
+  },
+  {
+    "('Date', '')":"2025-10-20",
+    "('Close', 'TATAMOTORS.NS')":399.75,
+    "('High', 'TATAMOTORS.NS')":403.3999938965,
+    "('Low', 'TATAMOTORS.NS')":396.6000061035,
+    "('Open', 'TATAMOTORS.NS')":400.049987793,
+    "('Volume', 'TATAMOTORS.NS')":10471672
+  },
+  {
+    "('Date', '')":"2025-10-21",
+    "('Close', 'TATAMOTORS.NS')":401.8500061035,
+    "('High', 'TATAMOTORS.NS')":403.3999938965,
+    "('Low', 'TATAMOTORS.NS')":400.049987793,
+    "('Open', 'TATAMOTORS.NS')":402.799987793,
+    "('Volume', 'TATAMOTORS.NS')":3449156
+  },
+  {
+    "('Date', '')":"2025-10-23",
+    "('Close', 'TATAMOTORS.NS')":405.8500061035,
+    "('High', 'TATAMOTORS.NS')":408.8999938965,
+    "('Low', 'TATAMOTORS.NS')":403.6000061035,
+    "('Open', 'TATAMOTORS.NS')":407.5,
+    "('Volume', 'TATAMOTORS.NS')":14126009
+  },
+  {
+    "('Date', '')":"2025-10-24",
+    "('Close', 'TATAMOTORS.NS')":403.299987793,
+    "('High', 'TATAMOTORS.NS')":408.5,
+    "('Low', 'TATAMOTORS.NS')":401.0,
+    "('Open', 'TATAMOTORS.NS')":406.950012207,
+    "('Volume', 'TATAMOTORS.NS')":6311744
+  },
+  {
+    "('Date', '')":"2025-10-27",
+    "('Close', 'TATAMOTORS.NS')":410.049987793,
+    "('High', 'TATAMOTORS.NS')":411.3999938965,
+    "('Low', 'TATAMOTORS.NS')":403.6499938965,
+    "('Open', 'TATAMOTORS.NS')":404.0,
+    "('Volume', 'TATAMOTORS.NS')":10699376
+  },
+  {
+    "('Date', '')":"2025-10-28",
+    "('Close', 'TATAMOTORS.NS')":411.5,
+    "('High', 'TATAMOTORS.NS')":414.1499938965,
+    "('Low', 'TATAMOTORS.NS')":408.549987793,
+    "('Open', 'TATAMOTORS.NS')":411.299987793,
+    "('Volume', 'TATAMOTORS.NS')":10332279
+  },
+  {
+    "('Date', '')":"2025-10-29",
+    "('Close', 'TATAMOTORS.NS')":411.3500061035,
+    "('High', 'TATAMOTORS.NS')":415.0,
+    "('Low', 'TATAMOTORS.NS')":407.049987793,
+    "('Open', 'TATAMOTORS.NS')":412.5,
+    "('Volume', 'TATAMOTORS.NS')":8485023
+  },
+  {
+    "('Date', '')":"2025-10-30",
+    "('Close', 'TATAMOTORS.NS')":412.450012207,
+    "('High', 'TATAMOTORS.NS')":419.0,
+    "('Low', 'TATAMOTORS.NS')":408.1000061035,
+    "('Open', 'TATAMOTORS.NS')":412.700012207,
+    "('Volume', 'TATAMOTORS.NS')":8783965
+  },
+  {
+    "('Date', '')":"2025-10-31",
+    "('Close', 'TATAMOTORS.NS')":410.0,
+    "('High', 'TATAMOTORS.NS')":417.5,
+    "('Low', 'TATAMOTORS.NS')":409.049987793,
+    "('Open', 'TATAMOTORS.NS')":414.049987793,
+    "('Volume', 'TATAMOTORS.NS')":8012169
+  },
+  {
+    "('Date', '')":"2025-11-03",
+    "('Close', 'TATAMOTORS.NS')":417.0,
+    "('High', 'TATAMOTORS.NS')":417.8500061035,
+    "('Low', 'TATAMOTORS.NS')":410.1000061035,
+    "('Open', 'TATAMOTORS.NS')":414.0,
+    "('Volume', 'TATAMOTORS.NS')":8952229
+  },
+  {
+    "('Date', '')":"2025-11-04",
+    "('Close', 'TATAMOTORS.NS')":406.5,
+    "('High', 'TATAMOTORS.NS')":417.5,
+    "('Low', 'TATAMOTORS.NS')":405.1000061035,
+    "('Open', 'TATAMOTORS.NS')":417.3999938965,
+    "('Volume', 'TATAMOTORS.NS')":8889004
+  },
+  {
+    "('Date', '')":"2025-11-05",
+    "('Close', 'TATAMOTORS.NS')":406.5,
+    "('High', 'TATAMOTORS.NS')":406.5,
+    "('Low', 'TATAMOTORS.NS')":406.5,
+    "('Open', 'TATAMOTORS.NS')":406.5,
+    "('Volume', 'TATAMOTORS.NS')":0
+  },
+  {
+    "('Date', '')":"2025-11-06",
+    "('Close', 'TATAMOTORS.NS')":407.8500061035,
+    "('High', 'TATAMOTORS.NS')":409.700012207,
+    "('Low', 'TATAMOTORS.NS')":405.3999938965,
+    "('Open', 'TATAMOTORS.NS')":407.1499938965,
+    "('Volume', 'TATAMOTORS.NS')":6862359
+  },
+  {
+    "('Date', '')":"2025-11-07",
+    "('Close', 'TATAMOTORS.NS')":405.700012207,
+    "('High', 'TATAMOTORS.NS')":407.200012207,
+    "('Low', 'TATAMOTORS.NS')":401.450012207,
+    "('Open', 'TATAMOTORS.NS')":406.700012207,
+    "('Volume', 'TATAMOTORS.NS')":6930046
+  },
+  {
+    "('Date', '')":"2025-11-10",
+    "('Close', 'TATAMOTORS.NS')":410.450012207,
+    "('High', 'TATAMOTORS.NS')":412.950012207,
+    "('Low', 'TATAMOTORS.NS')":406.0,
+    "('Open', 'TATAMOTORS.NS')":406.0,
+    "('Volume', 'TATAMOTORS.NS')":7913640
+  }
+]

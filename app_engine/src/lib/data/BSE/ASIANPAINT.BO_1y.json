@@ -1,0 +1,1986 @@
+[
+  {
+    "('Date', '')":"2024-11-13",
+    "('Close', 'ASIANPAINT.BO')":2445.1137695312,
+    "('High', 'ASIANPAINT.BO')":2471.623406249,
+    "('Low', 'ASIANPAINT.BO')":2425.4295075646,
+    "('Open', 'ASIANPAINT.BO')":2448.1307672585,
+    "('Volume', 'ASIANPAINT.BO')":159302
+  },
+  {
+    "('Date', '')":"2024-11-14",
+    "('Close', 'ASIANPAINT.BO')":2456.2419433594,
+    "('High', 'ASIANPAINT.BO')":2475.2833461217,
+    "('Low', 'ASIANPAINT.BO')":2440.1187669437,
+    "('Open', 'ASIANPAINT.BO')":2453.1756805388,
+    "('Volume', 'ASIANPAINT.BO')":84017
+  },
+  {
+    "('Date', '')":"2024-11-18",
+    "('Close', 'ASIANPAINT.BO')":2456.0935058594,
+    "('High', 'ASIANPAINT.BO')":2501.8423277063,
+    "('Low', 'ASIANPAINT.BO')":2443.9762503432,
+    "('Open', 'ASIANPAINT.BO')":2501.8423277063,
+    "('Volume', 'ASIANPAINT.BO')":44174
+  },
+  {
+    "('Date', '')":"2024-11-19",
+    "('Close', 'ASIANPAINT.BO')":2460.5029296875,
+    "('High', 'ASIANPAINT.BO')":2479.1311417242,
+    "('Low', 'ASIANPAINT.BO')":2448.7613865718,
+    "('Open', 'ASIANPAINT.BO')":2467.2408244977,
+    "('Volume', 'ASIANPAINT.BO')":22928
+  },
+  {
+    "('Date', '')":"2024-11-21",
+    "('Close', 'ASIANPAINT.BO')":2406.9963378906,
+    "('High', 'ASIANPAINT.BO')":2447.4234620834,
+    "('Low', 'ASIANPAINT.BO')":2403.8752265953,
+    "('Open', 'ASIANPAINT.BO')":2447.4234620834,
+    "('Volume', 'ASIANPAINT.BO')":36669
+  },
+  {
+    "('Date', '')":"2024-11-22",
+    "('Close', 'ASIANPAINT.BO')":2456.3413085938,
+    "('High', 'ASIANPAINT.BO')":2471.6004519077,
+    "('Low', 'ASIANPAINT.BO')":2399.8623031118,
+    "('Open', 'ASIANPAINT.BO')":2404.9651340364,
+    "('Volume', 'ASIANPAINT.BO')":137039
+  },
+  {
+    "('Date', '')":"2024-11-25",
+    "('Close', 'ASIANPAINT.BO')":2438.1096191406,
+    "('High', 'ASIANPAINT.BO')":2487.0084030894,
+    "('Low', 'ASIANPAINT.BO')":2428.597268693,
+    "('Open', 'ASIANPAINT.BO')":2487.0084030894,
+    "('Volume', 'ASIANPAINT.BO')":71826
+  },
+  {
+    "('Date', '')":"2024-11-26",
+    "('Close', 'ASIANPAINT.BO')":2481.8063964844,
+    "('High', 'ASIANPAINT.BO')":2494.8856969556,
+    "('Low', 'ASIANPAINT.BO')":2436.6726859619,
+    "('Open', 'ASIANPAINT.BO')":2452.1301950064,
+    "('Volume', 'ASIANPAINT.BO')":73880
+  },
+  {
+    "('Date', '')":"2024-11-27",
+    "('Close', 'ASIANPAINT.BO')":2467.4885253906,
+    "('High', 'ASIANPAINT.BO')":2494.9848838203,
+    "('Low', 'ASIANPAINT.BO')":2457.3818041875,
+    "('Open', 'ASIANPAINT.BO')":2494.9848838203,
+    "('Volume', 'ASIANPAINT.BO')":20514
+  },
+  {
+    "('Date', '')":"2024-11-28",
+    "('Close', 'ASIANPAINT.BO')":2436.3754882812,
+    "('High', 'ASIANPAINT.BO')":2501.6730462347,
+    "('Low', 'ASIANPAINT.BO')":2432.4120494517,
+    "('Open', 'ASIANPAINT.BO')":2501.6730462347,
+    "('Volume', 'ASIANPAINT.BO')":20975
+  },
+  {
+    "('Date', '')":"2024-11-29",
+    "('Close', 'ASIANPAINT.BO')":2457.2824707031,
+    "('High', 'ASIANPAINT.BO')":2468.231518797,
+    "('Low', 'ASIANPAINT.BO')":2432.5605695089,
+    "('Open', 'ASIANPAINT.BO')":2449.9006143017,
+    "('Volume', 'ASIANPAINT.BO')":72393
+  },
+  {
+    "('Date', '')":"2024-12-02",
+    "('Close', 'ASIANPAINT.BO')":2456.5891113281,
+    "('High', 'ASIANPAINT.BO')":2463.2278234771,
+    "('Low', 'ASIANPAINT.BO')":2438.5059203301,
+    "('Open', 'ASIANPAINT.BO')":2452.427548631,
+    "('Volume', 'ASIANPAINT.BO')":44068
+  },
+  {
+    "('Date', '')":"2024-12-03",
+    "('Close', 'ASIANPAINT.BO')":2446.4326171875,
+    "('High', 'ASIANPAINT.BO')":2472.1949695759,
+    "('Low', 'ASIANPAINT.BO')":2441.1314209901,
+    "('Open', 'ASIANPAINT.BO')":2472.1949695759,
+    "('Volume', 'ASIANPAINT.BO')":61194
+  },
+  {
+    "('Date', '')":"2024-12-04",
+    "('Close', 'ASIANPAINT.BO')":2437.1186523438,
+    "('High', 'ASIANPAINT.BO')":2461.2459412641,
+    "('Low', 'ASIANPAINT.BO')":2431.6193325424,
+    "('Open', 'ASIANPAINT.BO')":2461.2459412641,
+    "('Volume', 'ASIANPAINT.BO')":18763
+  },
+  {
+    "('Date', '')":"2024-12-05",
+    "('Close', 'ASIANPAINT.BO')":2429.8854980469,
+    "('High', 'ASIANPAINT.BO')":2444.3519057559,
+    "('Low', 'ASIANPAINT.BO')":2401.8441177621,
+    "('Open', 'ASIANPAINT.BO')":2439.8436872635,
+    "('Volume', 'ASIANPAINT.BO')":151953
+  },
+  {
+    "('Date', '')":"2024-12-06",
+    "('Close', 'ASIANPAINT.BO')":2407.3928222656,
+    "('High', 'ASIANPAINT.BO')":2454.1613516924,
+    "('Low', 'ASIANPAINT.BO')":2404.2714690673,
+    "('Open', 'ASIANPAINT.BO')":2454.1613516924,
+    "('Volume', 'ASIANPAINT.BO')":168009
+  },
+  {
+    "('Date', '')":"2024-12-09",
+    "('Close', 'ASIANPAINT.BO')":2363.9931640625,
+    "('High', 'ASIANPAINT.BO')":2421.6115599122,
+    "('Low', 'ASIANPAINT.BO')":2348.3375321331,
+    "('Open', 'ASIANPAINT.BO')":2421.6115599122,
+    "('Volume', 'ASIANPAINT.BO')":188513
+  },
+  {
+    "('Date', '')":"2024-12-10",
+    "('Close', 'ASIANPAINT.BO')":2367.9567871094,
+    "('High', 'ASIANPAINT.BO')":2382.3242541407,
+    "('Low', 'ASIANPAINT.BO')":2363.2997944534,
+    "('Open', 'ASIANPAINT.BO')":2374.8928056762,
+    "('Volume', 'ASIANPAINT.BO')":61696
+  },
+  {
+    "('Date', '')":"2024-12-11",
+    "('Close', 'ASIANPAINT.BO')":2395.5520019531,
+    "('High', 'ASIANPAINT.BO')":2405.6093736624,
+    "('Low', 'ASIANPAINT.BO')":2368.6006648635,
+    "('Open', 'ASIANPAINT.BO')":2385.5940548926,
+    "('Volume', 'ASIANPAINT.BO')":98814
+  },
+  {
+    "('Date', '')":"2024-12-12",
+    "('Close', 'ASIANPAINT.BO')":2367.1142578125,
+    "('High', 'ASIANPAINT.BO')":2394.9079210832,
+    "('Low', 'ASIANPAINT.BO')":2359.7324013486,
+    "('Open', 'ASIANPAINT.BO')":2394.9079210832,
+    "('Volume', 'ASIANPAINT.BO')":122227
+  },
+  {
+    "('Date', '')":"2024-12-13",
+    "('Close', 'ASIANPAINT.BO')":2385.0490722656,
+    "('High', 'ASIANPAINT.BO')":2388.4178987405,
+    "('Low', 'ASIANPAINT.BO')":2333.2270575976,
+    "('Open', 'ASIANPAINT.BO')":2374.1000233587,
+    "('Volume', 'ASIANPAINT.BO')":93381
+  },
+  {
+    "('Date', '')":"2024-12-16",
+    "('Close', 'ASIANPAINT.BO')":2381.3828125,
+    "('High', 'ASIANPAINT.BO')":2397.8805301275,
+    "('Low', 'ASIANPAINT.BO')":2365.2317506301,
+    "('Open', 'ASIANPAINT.BO')":2397.8805301275,
+    "('Volume', 'ASIANPAINT.BO')":48691
+  },
+  {
+    "('Date', '')":"2024-12-17",
+    "('Close', 'ASIANPAINT.BO')":2335.2583007812,
+    "('High', 'ASIANPAINT.BO')":2378.0138021129,
+    "('Low', 'ASIANPAINT.BO')":2328.9662446223,
+    "('Open', 'ASIANPAINT.BO')":2378.0138021129,
+    "('Volume', 'ASIANPAINT.BO')":112424
+  },
+  {
+    "('Date', '')":"2024-12-18",
+    "('Close', 'ASIANPAINT.BO')":2324.259765625,
+    "('High', 'ASIANPAINT.BO')":2351.0625713794,
+    "('Low', 'ASIANPAINT.BO')":2319.7513051897,
+    "('Open', 'ASIANPAINT.BO')":2337.4382492399,
+    "('Volume', 'ASIANPAINT.BO')":96422
+  },
+  {
+    "('Date', '')":"2024-12-19",
+    "('Close', 'ASIANPAINT.BO')":2271.9421386719,
+    "('High', 'ASIANPAINT.BO')":2302.757972503,
+    "('Low', 'ASIANPAINT.BO')":2245.2881091617,
+    "('Open', 'ASIANPAINT.BO')":2298.8441250193,
+    "('Volume', 'ASIANPAINT.BO')":299022
+  },
+  {
+    "('Date', '')":"2024-12-20",
+    "('Close', 'ASIANPAINT.BO')":2262.1823730469,
+    "('High', 'ASIANPAINT.BO')":2296.3174426365,
+    "('Low', 'ASIANPAINT.BO')":2255.6921933817,
+    "('Open', 'ASIANPAINT.BO')":2276.995677747,
+    "('Volume', 'ASIANPAINT.BO')":174659
+  },
+  {
+    "('Date', '')":"2024-12-23",
+    "('Close', 'ASIANPAINT.BO')":2258.1694335938,
+    "('High', 'ASIANPAINT.BO')":2281.4050470012,
+    "('Low', 'ASIANPAINT.BO')":2246.0809926865,
+    "('Open', 'ASIANPAINT.BO')":2278.9774889274,
+    "('Volume', 'ASIANPAINT.BO')":149709
+  },
+  {
+    "('Date', '')":"2024-12-24",
+    "('Close', 'ASIANPAINT.BO')":2263.2722167969,
+    "('High', 'ASIANPAINT.BO')":2274.0231419221,
+    "('Low', 'ASIANPAINT.BO')":2257.0793433167,
+    "('Open', 'ASIANPAINT.BO')":2262.6282547186,
+    "('Volume', 'ASIANPAINT.BO')":65256
+  },
+  {
+    "('Date', '')":"2024-12-26",
+    "('Close', 'ASIANPAINT.BO')":2240.7302246094,
+    "('High', 'ASIANPAINT.BO')":2268.9697285269,
+    "('Low', 'ASIANPAINT.BO')":2236.3705383121,
+    "('Open', 'ASIANPAINT.BO')":2268.9697285269,
+    "('Volume', 'ASIANPAINT.BO')":83728
+  },
+  {
+    "('Date', '')":"2024-12-27",
+    "('Close', 'ASIANPAINT.BO')":2250.1433105469,
+    "('High', 'ASIANPAINT.BO')":2269.1680112829,
+    "('Low', 'ASIANPAINT.BO')":2240.9285083949,
+    "('Open', 'ASIANPAINT.BO')":2253.9582173498,
+    "('Volume', 'ASIANPAINT.BO')":52015
+  },
+  {
+    "('Date', '')":"2024-12-30",
+    "('Close', 'ASIANPAINT.BO')":2265.5512695312,
+    "('High', 'ASIANPAINT.BO')":2278.5812206338,
+    "('Low', 'ASIANPAINT.BO')":2236.2713149873,
+    "('Open', 'ASIANPAINT.BO')":2278.5812206338,
+    "('Volume', 'ASIANPAINT.BO')":32168
+  },
+  {
+    "('Date', '')":"2024-12-31",
+    "('Close', 'ASIANPAINT.BO')":2261.1916503906,
+    "('High', 'ASIANPAINT.BO')":2274.9149134473,
+    "('Low', 'ASIANPAINT.BO')":2253.1655892632,
+    "('Open', 'ASIANPAINT.BO')":2265.4028045321,
+    "('Volume', 'ASIANPAINT.BO')":74550
+  },
+  {
+    "('Date', '')":"2025-01-01",
+    "('Close', 'ASIANPAINT.BO')":2283.6840820312,
+    "('High', 'ASIANPAINT.BO')":2301.6187408449,
+    "('Low', 'ASIANPAINT.BO')":2261.2412047378,
+    "('Open', 'ASIANPAINT.BO')":2273.9736077881,
+    "('Volume', 'ASIANPAINT.BO')":52456
+  },
+  {
+    "('Date', '')":"2025-01-02",
+    "('Close', 'ASIANPAINT.BO')":2321.5844726562,
+    "('High', 'ASIANPAINT.BO')":2326.3902393697,
+    "('Low', 'ASIANPAINT.BO')":2273.6269559002,
+    "('Open', 'ASIANPAINT.BO')":2297.5065315362,
+    "('Volume', 'ASIANPAINT.BO')":106324
+  },
+  {
+    "('Date', '')":"2025-01-03",
+    "('Close', 'ASIANPAINT.BO')":2312.9143066406,
+    "('High', 'ASIANPAINT.BO')":2341.1042173566,
+    "('Low', 'ASIANPAINT.BO')":2301.7175433975,
+    "('Open', 'ASIANPAINT.BO')":2341.1042173566,
+    "('Volume', 'ASIANPAINT.BO')":91019
+  },
+  {
+    "('Date', '')":"2025-01-06",
+    "('Close', 'ASIANPAINT.BO')":2247.4184570312,
+    "('High', 'ASIANPAINT.BO')":2316.6301076968,
+    "('Low', 'ASIANPAINT.BO')":2236.3704675242,
+    "('Open', 'ASIANPAINT.BO')":2312.9143836147,
+    "('Volume', 'ASIANPAINT.BO')":54228
+  },
+  {
+    "('Date', '')":"2025-01-07",
+    "('Close', 'ASIANPAINT.BO')":2272.140625,
+    "('High', 'ASIANPAINT.BO')":2294.7816254959,
+    "('Low', 'ASIANPAINT.BO')":2249.2516676536,
+    "('Open', 'ASIANPAINT.BO')":2249.2516676536,
+    "('Volume', 'ASIANPAINT.BO')":80508
+  },
+  {
+    "('Date', '')":"2025-01-08",
+    "('Close', 'ASIANPAINT.BO')":2313.0629882812,
+    "('High', 'ASIANPAINT.BO')":2316.0851590112,
+    "('Low', 'ASIANPAINT.BO')":2251.976579222,
+    "('Open', 'ASIANPAINT.BO')":2269.0193191638,
+    "('Volume', 'ASIANPAINT.BO')":66025
+  },
+  {
+    "('Date', '')":"2025-01-09",
+    "('Close', 'ASIANPAINT.BO')":2329.1149902344,
+    "('High', 'ASIANPAINT.BO')":2339.4198347164,
+    "('Low', 'ASIANPAINT.BO')":2300.9744286103,
+    "('Open', 'ASIANPAINT.BO')":2313.7566643394,
+    "('Volume', 'ASIANPAINT.BO')":180344
+  },
+  {
+    "('Date', '')":"2025-01-10",
+    "('Close', 'ASIANPAINT.BO')":2298.4973144531,
+    "('High', 'ASIANPAINT.BO')":2328.3222897016,
+    "('Low', 'ASIANPAINT.BO')":2294.5834668212,
+    "('Open', 'ASIANPAINT.BO')":2328.3222897016,
+    "('Volume', 'ASIANPAINT.BO')":57168
+  },
+  {
+    "('Date', '')":"2025-01-13",
+    "('Close', 'ASIANPAINT.BO')":2232.1591796875,
+    "('High', 'ASIANPAINT.BO')":2282.6434328061,
+    "('Low', 'ASIANPAINT.BO')":2226.5113278033,
+    "('Open', 'ASIANPAINT.BO')":2282.6434328061,
+    "('Volume', 'ASIANPAINT.BO')":122184
+  },
+  {
+    "('Date', '')":"2025-01-14",
+    "('Close', 'ASIANPAINT.BO')":2219.2780761719,
+    "('High', 'ASIANPAINT.BO')":2265.8484833959,
+    "('Low', 'ASIANPAINT.BO')":2216.6028032876,
+    "('Open', 'ASIANPAINT.BO')":2232.4565589384,
+    "('Volume', 'ASIANPAINT.BO')":145739
+  },
+  {
+    "('Date', '')":"2025-01-15",
+    "('Close', 'ASIANPAINT.BO')":2208.2302246094,
+    "('High', 'ASIANPAINT.BO')":2249.2021317776,
+    "('Low', 'ASIANPAINT.BO')":2199.2628951287,
+    "('Open', 'ASIANPAINT.BO')":2249.2021317776,
+    "('Volume', 'ASIANPAINT.BO')":38334
+  },
+  {
+    "('Date', '')":"2025-01-16",
+    "('Close', 'ASIANPAINT.BO')":2196.1413574219,
+    "('High', 'ASIANPAINT.BO')":2233.3977791618,
+    "('Low', 'ASIANPAINT.BO')":2188.7099096208,
+    "('Open', 'ASIANPAINT.BO')":2233.3977791618,
+    "('Volume', 'ASIANPAINT.BO')":37443
+  },
+  {
+    "('Date', '')":"2025-01-17",
+    "('Close', 'ASIANPAINT.BO')":2239.0456542969,
+    "('High', 'ASIANPAINT.BO')":2248.2606980475,
+    "('Low', 'ASIANPAINT.BO')":2193.7634136083,
+    "('Open', 'ASIANPAINT.BO')":2209.2702714169,
+    "('Volume', 'ASIANPAINT.BO')":73779
+  },
+  {
+    "('Date', '')":"2025-01-20",
+    "('Close', 'ASIANPAINT.BO')":2259.2595214844,
+    "('High', 'ASIANPAINT.BO')":2265.9971745814,
+    "('Low', 'ASIANPAINT.BO')":2230.6235281856,
+    "('Open', 'ASIANPAINT.BO')":2265.9971745814,
+    "('Volume', 'ASIANPAINT.BO')":22022
+  },
+  {
+    "('Date', '')":"2025-01-21",
+    "('Close', 'ASIANPAINT.BO')":2238.99609375,
+    "('High', 'ASIANPAINT.BO')":2293.6917444128,
+    "('Low', 'ASIANPAINT.BO')":2233.5463652311,
+    "('Open', 'ASIANPAINT.BO')":2263.9659524913,
+    "('Volume', 'ASIANPAINT.BO')":100159
+  },
+  {
+    "('Date', '')":"2025-01-22",
+    "('Close', 'ASIANPAINT.BO')":2242.0678710938,
+    "('High', 'ASIANPAINT.BO')":2249.2516041908,
+    "('Low', 'ASIANPAINT.BO')":2225.4709704901,
+    "('Open', 'ASIANPAINT.BO')":2241.1266027249,
+    "('Volume', 'ASIANPAINT.BO')":70772
+  },
+  {
+    "('Date', '')":"2025-01-23",
+    "('Close', 'ASIANPAINT.BO')":2255.642578125,
+    "('High', 'ASIANPAINT.BO')":2280.8105603472,
+    "('Low', 'ASIANPAINT.BO')":2226.164501234,
+    "('Open', 'ASIANPAINT.BO')":2241.8697246774,
+    "('Volume', 'ASIANPAINT.BO')":43964
+  },
+  {
+    "('Date', '')":"2025-01-24",
+    "('Close', 'ASIANPAINT.BO')":2241.1267089844,
+    "('High', 'ASIANPAINT.BO')":2275.0140652328,
+    "('Low', 'ASIANPAINT.BO')":2234.586937643,
+    "('Open', 'ASIANPAINT.BO')":2268.7220088375,
+    "('Volume', 'ASIANPAINT.BO')":31869
+  },
+  {
+    "('Date', '')":"2025-01-27",
+    "('Close', 'ASIANPAINT.BO')":2231.0693359375,
+    "('High', 'ASIANPAINT.BO')":2256.1877282262,
+    "('Low', 'ASIANPAINT.BO')":2226.2638111305,
+    "('Open', 'ASIANPAINT.BO')":2237.8072308507,
+    "('Volume', 'ASIANPAINT.BO')":30833
+  },
+  {
+    "('Date', '')":"2025-01-28",
+    "('Close', 'ASIANPAINT.BO')":2220.7644042969,
+    "('High', 'ASIANPAINT.BO')":2246.27904274,
+    "('Low', 'ASIANPAINT.BO')":2214.323815952,
+    "('Open', 'ASIANPAINT.BO')":2231.1188402541,
+    "('Volume', 'ASIANPAINT.BO')":62351
+  },
+  {
+    "('Date', '')":"2025-01-29",
+    "('Close', 'ASIANPAINT.BO')":2201.3435058594,
+    "('High', 'ASIANPAINT.BO')":2227.7996551808,
+    "('Low', 'ASIANPAINT.BO')":2192.6241334321,
+    "('Open', 'ASIANPAINT.BO')":2224.3316459943,
+    "('Volume', 'ASIANPAINT.BO')":30061
+  },
+  {
+    "('Date', '')":"2025-01-30",
+    "('Close', 'ASIANPAINT.BO')":2230.326171875,
+    "('High', 'ASIANPAINT.BO')":2238.3522328201,
+    "('Low', 'ASIANPAINT.BO')":2195.6956711036,
+    "('Open', 'ASIANPAINT.BO')":2209.0722780727,
+    "('Volume', 'ASIANPAINT.BO')":25118
+  },
+  {
+    "('Date', '')":"2025-01-31",
+    "('Close', 'ASIANPAINT.BO')":2280.0178222656,
+    "('High', 'ASIANPAINT.BO')":2283.9316698039,
+    "('Low', 'ASIANPAINT.BO')":2214.9677360691,
+    "('Open', 'ASIANPAINT.BO')":2234.3886834741,
+    "('Volume', 'ASIANPAINT.BO')":63238
+  },
+  {
+    "('Date', '')":"2025-02-01",
+    "('Close', 'ASIANPAINT.BO')":2329.3132324219,
+    "('High', 'ASIANPAINT.BO')":2366.1235766941,
+    "('Low', 'ASIANPAINT.BO')":2264.5604486678,
+    "('Open', 'ASIANPAINT.BO')":2300.6278900099,
+    "('Volume', 'ASIANPAINT.BO')":115626
+  },
+  {
+    "('Date', '')":"2025-02-03",
+    "('Close', 'ASIANPAINT.BO')":2272.6359863281,
+    "('High', 'ASIANPAINT.BO')":2348.1394497988,
+    "('Low', 'ASIANPAINT.BO')":2257.1784776892,
+    "('Open', 'ASIANPAINT.BO')":2348.1394497988,
+    "('Volume', 'ASIANPAINT.BO')":29318
+  },
+  {
+    "('Date', '')":"2025-02-04",
+    "('Close', 'ASIANPAINT.BO')":2333.7224121094,
+    "('High', 'ASIANPAINT.BO')":2394.1152651257,
+    "('Low', 'ASIANPAINT.BO')":2243.8018903393,
+    "('Open', 'ASIANPAINT.BO')":2281.0583134782,
+    "('Volume', 'ASIANPAINT.BO')":296238
+  },
+  {
+    "('Date', '')":"2025-02-05",
+    "('Close', 'ASIANPAINT.BO')":2254.8498535156,
+    "('High', 'ASIANPAINT.BO')":2275.2120694005,
+    "('Low', 'ASIANPAINT.BO')":2214.5715021529,
+    "('Open', 'ASIANPAINT.BO')":2259.1601901157,
+    "('Volume', 'ASIANPAINT.BO')":201098
+  },
+  {
+    "('Date', '')":"2025-02-06",
+    "('Close', 'ASIANPAINT.BO')":2242.6625976562,
+    "('High', 'ASIANPAINT.BO')":2277.887469588,
+    "('Low', 'ASIANPAINT.BO')":2239.4423033456,
+    "('Open', 'ASIANPAINT.BO')":2267.5330331865,
+    "('Volume', 'ASIANPAINT.BO')":68331
+  },
+  {
+    "('Date', '')":"2025-02-07",
+    "('Close', 'ASIANPAINT.BO')":2251.6296386719,
+    "('High', 'ASIANPAINT.BO')":2256.336222567,
+    "('Low', 'ASIANPAINT.BO')":2223.8855651847,
+    "('Open', 'ASIANPAINT.BO')":2242.8606748759,
+    "('Volume', 'ASIANPAINT.BO')":38984
+  },
+  {
+    "('Date', '')":"2025-02-10",
+    "('Close', 'ASIANPAINT.BO')":2249.1030273438,
+    "('High', 'ASIANPAINT.BO')":2257.1784372806,
+    "('Low', 'ASIANPAINT.BO')":2233.4969867875,
+    "('Open', 'ASIANPAINT.BO')":2254.2058581271,
+    "('Volume', 'ASIANPAINT.BO')":82057
+  },
+  {
+    "('Date', '')":"2025-02-11",
+    "('Close', 'ASIANPAINT.BO')":2219.4267578125,
+    "('High', 'ASIANPAINT.BO')":2261.0428691979,
+    "('Low', 'ASIANPAINT.BO')":2205.5053712216,
+    "('Open', 'ASIANPAINT.BO')":2249.3013257739,
+    "('Volume', 'ASIANPAINT.BO')":247708
+  },
+  {
+    "('Date', '')":"2025-02-12",
+    "('Close', 'ASIANPAINT.BO')":2207.6850585938,
+    "('High', 'ASIANPAINT.BO')":2219.5257839253,
+    "('Low', 'ASIANPAINT.BO')":2166.3662564445,
+    "('Open', 'ASIANPAINT.BO')":2218.6341069365,
+    "('Volume', 'ASIANPAINT.BO')":23123
+  },
+  {
+    "('Date', '')":"2025-02-13",
+    "('Close', 'ASIANPAINT.BO')":2215.5126953125,
+    "('High', 'ASIANPAINT.BO')":2228.938892614,
+    "('Low', 'ASIANPAINT.BO')":2200.5012676382,
+    "('Open', 'ASIANPAINT.BO')":2216.5035550114,
+    "('Volume', 'ASIANPAINT.BO')":26083
+  },
+  {
+    "('Date', '')":"2025-02-14",
+    "('Close', 'ASIANPAINT.BO')":2210.4594726562,
+    "('High', 'ASIANPAINT.BO')":2220.2192956183,
+    "('Low', 'ASIANPAINT.BO')":2182.9631158053,
+    "('Open', 'ASIANPAINT.BO')":2215.5127120131,
+    "('Volume', 'ASIANPAINT.BO')":157452
+  },
+  {
+    "('Date', '')":"2025-02-17",
+    "('Close', 'ASIANPAINT.BO')":2228.0966796875,
+    "('High', 'ASIANPAINT.BO')":2238.8476047368,
+    "('Low', 'ASIANPAINT.BO')":2206.4961306685,
+    "('Open', 'ASIANPAINT.BO')":2220.3185757968,
+    "('Volume', 'ASIANPAINT.BO')":18380
+  },
+  {
+    "('Date', '')":"2025-02-18",
+    "('Close', 'ASIANPAINT.BO')":2217.0485839844,
+    "('High', 'ASIANPAINT.BO')":2230.2270664073,
+    "('Low', 'ASIANPAINT.BO')":2199.7085391934,
+    "('Open', 'ASIANPAINT.BO')":2230.2270664073,
+    "('Volume', 'ASIANPAINT.BO')":11908
+  },
+  {
+    "('Date', '')":"2025-02-19",
+    "('Close', 'ASIANPAINT.BO')":2216.5036621094,
+    "('High', 'ASIANPAINT.BO')":2229.3848388171,
+    "('Low', 'ASIANPAINT.BO')":2206.644656011,
+    "('Open', 'ASIANPAINT.BO')":2217.5441132253,
+    "('Volume', 'ASIANPAINT.BO')":18819
+  },
+  {
+    "('Date', '')":"2025-02-20",
+    "('Close', 'ASIANPAINT.BO')":2228.7409667969,
+    "('High', 'ASIANPAINT.BO')":2236.4697215156,
+    "('Low', 'ASIANPAINT.BO')":2212.0944739971,
+    "('Open', 'ASIANPAINT.BO')":2218.8819603002,
+    "('Volume', 'ASIANPAINT.BO')":11377
+  },
+  {
+    "('Date', '')":"2025-02-21",
+    "('Close', 'ASIANPAINT.BO')":2236.5686035156,
+    "('High', 'ASIANPAINT.BO')":2245.7836476721,
+    "('Low', 'ASIANPAINT.BO')":2215.9093226501,
+    "('Open', 'ASIANPAINT.BO')":2228.4931932294,
+    "('Volume', 'ASIANPAINT.BO')":28749
+  },
+  {
+    "('Date', '')":"2025-02-24",
+    "('Close', 'ASIANPAINT.BO')":2227.8984375,
+    "('High', 'ASIANPAINT.BO')":2238.3520556859,
+    "('Low', 'ASIANPAINT.BO')":2220.5165811386,
+    "('Open', 'ASIANPAINT.BO')":2233.050859543,
+    "('Volume', 'ASIANPAINT.BO')":28147
+  },
+  {
+    "('Date', '')":"2025-02-25",
+    "('Close', 'ASIANPAINT.BO')":2204.6628417969,
+    "('High', 'ASIANPAINT.BO')":2237.0143143747,
+    "('Low', 'ASIANPAINT.BO')":2196.8351468975,
+    "('Open', 'ASIANPAINT.BO')":2224.4800358804,
+    "('Volume', 'ASIANPAINT.BO')":57977
+  },
+  {
+    "('Date', '')":"2025-02-27",
+    "('Close', 'ASIANPAINT.BO')":2193.6643066406,
+    "('High', 'ASIANPAINT.BO')":2208.3290793417,
+    "('Low', 'ASIANPAINT.BO')":2178.8014103711,
+    "('Open', 'ASIANPAINT.BO')":2204.4152317059,
+    "('Volume', 'ASIANPAINT.BO')":53401
+  },
+  {
+    "('Date', '')":"2025-02-28",
+    "('Close', 'ASIANPAINT.BO')":2160.0246582031,
+    "('High', 'ASIANPAINT.BO')":2192.8718039786,
+    "('Low', 'ASIANPAINT.BO')":2156.1108105823,
+    "('Open', 'ASIANPAINT.BO')":2180.88230427,
+    "('Volume', 'ASIANPAINT.BO')":97561
+  },
+  {
+    "('Date', '')":"2025-03-03",
+    "('Close', 'ASIANPAINT.BO')":2148.580078125,
+    "('High', 'ASIANPAINT.BO')":2173.9461832253,
+    "('Low', 'ASIANPAINT.BO')":2108.5990343493,
+    "('Open', 'ASIANPAINT.BO')":2160.0741474162,
+    "('Volume', 'ASIANPAINT.BO')":143378
+  },
+  {
+    "('Date', '')":"2025-03-04",
+    "('Close', 'ASIANPAINT.BO')":2112.8598632812,
+    "('High', 'ASIANPAINT.BO')":2146.5490944401,
+    "('Low', 'ASIANPAINT.BO')":2105.5769474288,
+    "('Open', 'ASIANPAINT.BO')":2146.5490944401,
+    "('Volume', 'ASIANPAINT.BO')":195012
+  },
+  {
+    "('Date', '')":"2025-03-05",
+    "('Close', 'ASIANPAINT.BO')":2145.458984375,
+    "('High', 'ASIANPAINT.BO')":2162.7494379109,
+    "('Low', 'ASIANPAINT.BO')":2105.5768810977,
+    "('Open', 'ASIANPAINT.BO')":2112.512899059,
+    "('Volume', 'ASIANPAINT.BO')":63394
+  },
+  {
+    "('Date', '')":"2025-03-06",
+    "('Close', 'ASIANPAINT.BO')":2246.3781738281,
+    "('High', 'ASIANPAINT.BO')":2254.0573366781,
+    "('Low', 'ASIANPAINT.BO')":2166.0193535631,
+    "('Open', 'ASIANPAINT.BO')":2172.9057802532,
+    "('Volume', 'ASIANPAINT.BO')":115860
+  },
+  {
+    "('Date', '')":"2025-03-07",
+    "('Close', 'ASIANPAINT.BO')":2248.3103027344,
+    "('High', 'ASIANPAINT.BO')":2256.8315512063,
+    "('Low', 'ASIANPAINT.BO')":2227.5518399205,
+    "('Open', 'ASIANPAINT.BO')":2254.1562783361,
+    "('Volume', 'ASIANPAINT.BO')":27943
+  },
+  {
+    "('Date', '')":"2025-03-10",
+    "('Close', 'ASIANPAINT.BO')":2258.4665527344,
+    "('High', 'ASIANPAINT.BO')":2271.0504224876,
+    "('Low', 'ASIANPAINT.BO')":2242.0677763891,
+    "('Open', 'ASIANPAINT.BO')":2254.0076841038,
+    "('Volume', 'ASIANPAINT.BO')":114154
+  },
+  {
+    "('Date', '')":"2025-03-11",
+    "('Close', 'ASIANPAINT.BO')":2265.798828125,
+    "('High', 'ASIANPAINT.BO')":2269.8614496596,
+    "('Low', 'ASIANPAINT.BO')":2236.3207520433,
+    "('Open', 'ASIANPAINT.BO')":2249.3011108799,
+    "('Volume', 'ASIANPAINT.BO')":82745
+  },
+  {
+    "('Date', '')":"2025-03-12",
+    "('Close', 'ASIANPAINT.BO')":2230.4252929688,
+    "('High', 'ASIANPAINT.BO')":2273.1314448754,
+    "('Low', 'ASIANPAINT.BO')":2227.105816049,
+    "('Open', 'ASIANPAINT.BO')":2265.798937594,
+    "('Volume', 'ASIANPAINT.BO')":71246
+  },
+  {
+    "('Date', '')":"2025-03-13",
+    "('Close', 'ASIANPAINT.BO')":2210.55859375,
+    "('High', 'ASIANPAINT.BO')":2246.7249759808,
+    "('Low', 'ASIANPAINT.BO')":2203.919881558,
+    "('Open', 'ASIANPAINT.BO')":2246.7249759808,
+    "('Volume', 'ASIANPAINT.BO')":29314
+  },
+  {
+    "('Date', '')":"2025-03-17",
+    "('Close', 'ASIANPAINT.BO')":2199.5104980469,
+    "('High', 'ASIANPAINT.BO')":2215.3146625095,
+    "('Low', 'ASIANPAINT.BO')":2176.9188476052,
+    "('Open', 'ASIANPAINT.BO')":2204.6133289415,
+    "('Volume', 'ASIANPAINT.BO')":24265
+  },
+  {
+    "('Date', '')":"2025-03-18",
+    "('Close', 'ASIANPAINT.BO')":2252.8188476562,
+    "('High', 'ASIANPAINT.BO')":2268.8211360206,
+    "('Low', 'ASIANPAINT.BO')":2201.8885108342,
+    "('Open', 'ASIANPAINT.BO')":2209.6172653459,
+    "('Volume', 'ASIANPAINT.BO')":66695
+  },
+  {
+    "('Date', '')":"2025-03-19",
+    "('Close', 'ASIANPAINT.BO')":2259.0610351562,
+    "('High', 'ASIANPAINT.BO')":2266.5420746105,
+    "('Low', 'ASIANPAINT.BO')":2246.4275734114,
+    "('Open', 'ASIANPAINT.BO')":2263.0740655041,
+    "('Volume', 'ASIANPAINT.BO')":45169
+  },
+  {
+    "('Date', '')":"2025-03-20",
+    "('Close', 'ASIANPAINT.BO')":2266.0961914062,
+    "('High', 'ASIANPAINT.BO')":2285.764853714,
+    "('Low', 'ASIANPAINT.BO')":2249.2515760788,
+    "('Open', 'ASIANPAINT.BO')":2273.9734778393,
+    "('Volume', 'ASIANPAINT.BO')":21242
+  },
+  {
+    "('Date', '')":"2025-03-21",
+    "('Close', 'ASIANPAINT.BO')":2279.2250976562,
+    "('High', 'ASIANPAINT.BO')":2293.8402786976,
+    "('Low', 'ASIANPAINT.BO')":2256.6830387619,
+    "('Open', 'ASIANPAINT.BO')":2267.1862486807,
+    "('Volume', 'ASIANPAINT.BO')":61524
+  },
+  {
+    "('Date', '')":"2025-03-24",
+    "('Close', 'ASIANPAINT.BO')":2300.7763671875,
+    "('High', 'ASIANPAINT.BO')":2307.712385521,
+    "('Low', 'ASIANPAINT.BO')":2279.2747587356,
+    "('Open', 'ASIANPAINT.BO')":2279.2747587356,
+    "('Volume', 'ASIANPAINT.BO')":64840
+  },
+  {
+    "('Date', '')":"2025-03-25",
+    "('Close', 'ASIANPAINT.BO')":2309.0500488281,
+    "('High', 'ASIANPAINT.BO')":2316.6300289342,
+    "('Low', 'ASIANPAINT.BO')":2288.5886504331,
+    "('Open', 'ASIANPAINT.BO')":2303.7488525543,
+    "('Volume', 'ASIANPAINT.BO')":117033
+  },
+  {
+    "('Date', '')":"2025-03-26",
+    "('Close', 'ASIANPAINT.BO')":2304.9379882812,
+    "('High', 'ASIANPAINT.BO')":2319.2558638225,
+    "('Low', 'ASIANPAINT.BO')":2282.8913580191,
+    "('Open', 'ASIANPAINT.BO')":2313.6576027892,
+    "('Volume', 'ASIANPAINT.BO')":121810
+  },
+  {
+    "('Date', '')":"2025-03-27",
+    "('Close', 'ASIANPAINT.BO')":2316.828125,
+    "('High', 'ASIANPAINT.BO')":2327.4302755127,
+    "('Low', 'ASIANPAINT.BO')":2269.4649824912,
+    "('Open', 'ASIANPAINT.BO')":2284.2289373122,
+    "('Volume', 'ASIANPAINT.BO')":105551
+  },
+  {
+    "('Date', '')":"2025-03-28",
+    "('Close', 'ASIANPAINT.BO')":2316.3327636719,
+    "('High', 'ASIANPAINT.BO')":2341.1042571489,
+    "('Low', 'ASIANPAINT.BO')":2301.1232118224,
+    "('Open', 'ASIANPAINT.BO')":2318.9090957571,
+    "('Volume', 'ASIANPAINT.BO')":190547
+  },
+  {
+    "('Date', '')":"2025-04-01",
+    "('Close', 'ASIANPAINT.BO')":2294.2365722656,
+    "('High', 'ASIANPAINT.BO')":2340.2622012582,
+    "('Low', 'ASIANPAINT.BO')":2285.8142643764,
+    "('Open', 'ASIANPAINT.BO')":2319.2557809954,
+    "('Volume', 'ASIANPAINT.BO')":108252
+  },
+  {
+    "('Date', '')":"2025-04-02",
+    "('Close', 'ASIANPAINT.BO')":2285.5666503906,
+    "('High', 'ASIANPAINT.BO')":2302.2131433359,
+    "('Low', 'ASIANPAINT.BO')":2271.3975488431,
+    "('Open', 'ASIANPAINT.BO')":2295.6240224598,
+    "('Volume', 'ASIANPAINT.BO')":80307
+  },
+  {
+    "('Date', '')":"2025-04-03",
+    "('Close', 'ASIANPAINT.BO')":2327.2321777344,
+    "('High', 'ASIANPAINT.BO')":2333.4746423569,
+    "('Low', 'ASIANPAINT.BO')":2267.6320622951,
+    "('Open', 'ASIANPAINT.BO')":2278.5315192234,
+    "('Volume', 'ASIANPAINT.BO')":40632
+  },
+  {
+    "('Date', '')":"2025-04-04",
+    "('Close', 'ASIANPAINT.BO')":2333.5244140625,
+    "('High', 'ASIANPAINT.BO')":2340.2623090661,
+    "('Low', 'ASIANPAINT.BO')":2281.1573770104,
+    "('Open', 'ASIANPAINT.BO')":2328.5205237042,
+    "('Volume', 'ASIANPAINT.BO')":73373
+  },
+  {
+    "('Date', '')":"2025-04-07",
+    "('Close', 'ASIANPAINT.BO')":2317.5712890625,
+    "('High', 'ASIANPAINT.BO')":2332.4837762004,
+    "('Low', 'ASIANPAINT.BO')":2184.8456782166,
+    "('Open', 'ASIANPAINT.BO')":2229.4343655271,
+    "('Volume', 'ASIANPAINT.BO')":125107
+  },
+  {
+    "('Date', '')":"2025-04-08",
+    "('Close', 'ASIANPAINT.BO')":2372.2668457031,
+    "('High', 'ASIANPAINT.BO')":2396.9889907433,
+    "('Low', 'ASIANPAINT.BO')":2325.9937423554,
+    "('Open', 'ASIANPAINT.BO')":2325.9937423554,
+    "('Volume', 'ASIANPAINT.BO')":76919
+  },
+  {
+    "('Date', '')":"2025-04-09",
+    "('Close', 'ASIANPAINT.BO')":2387.6748046875,
+    "('High', 'ASIANPAINT.BO')":2406.848038525,
+    "('Low', 'ASIANPAINT.BO')":2372.2175369982,
+    "('Open', 'ASIANPAINT.BO')":2372.4156605758,
+    "('Volume', 'ASIANPAINT.BO')":29450
+  },
+  {
+    "('Date', '')":"2025-04-11",
+    "('Close', 'ASIANPAINT.BO')":2372.31640625,
+    "('High', 'ASIANPAINT.BO')":2422.6521308056,
+    "('Low', 'ASIANPAINT.BO')":2358.7912671914,
+    "('Open', 'ASIANPAINT.BO')":2408.7800940648,
+    "('Volume', 'ASIANPAINT.BO')":32347
+  },
+  {
+    "('Date', '')":"2025-04-15",
+    "('Close', 'ASIANPAINT.BO')":2394.9575195312,
+    "('High', 'ASIANPAINT.BO')":2402.8348058738,
+    "('Low', 'ASIANPAINT.BO')":2363.2500086909,
+    "('Open', 'ASIANPAINT.BO')":2372.3162783081,
+    "('Volume', 'ASIANPAINT.BO')":75500
+  },
+  {
+    "('Date', '')":"2025-04-16",
+    "('Close', 'ASIANPAINT.BO')":2436.87109375,
+    "('High', 'ASIANPAINT.BO')":2444.3518915526,
+    "('Low', 'ASIANPAINT.BO')":2383.1169507502,
+    "('Open', 'ASIANPAINT.BO')":2401.7945124351,
+    "('Volume', 'ASIANPAINT.BO')":82764
+  },
+  {
+    "('Date', '')":"2025-04-17",
+    "('Close', 'ASIANPAINT.BO')":2447.0766601562,
+    "('High', 'ASIANPAINT.BO')":2452.5759800951,
+    "('Low', 'ASIANPAINT.BO')":2412.7434669285,
+    "('Open', 'ASIANPAINT.BO')":2437.5149604288,
+    "('Volume', 'ASIANPAINT.BO')":44422
+  },
+  {
+    "('Date', '')":"2025-04-21",
+    "('Close', 'ASIANPAINT.BO')":2422.8999023438,
+    "('High', 'ASIANPAINT.BO')":2447.4236821548,
+    "('Low', 'ASIANPAINT.BO')":2398.9211437992,
+    "('Open', 'ASIANPAINT.BO')":2398.9211437992,
+    "('Volume', 'ASIANPAINT.BO')":57237
+  },
+  {
+    "('Date', '')":"2025-04-22",
+    "('Close', 'ASIANPAINT.BO')":2411.5544433594,
+    "('High', 'ASIANPAINT.BO')":2427.160484004,
+    "('Low', 'ASIANPAINT.BO')":2391.687657522,
+    "('Open', 'ASIANPAINT.BO')":2422.9989215473,
+    "('Volume', 'ASIANPAINT.BO')":60943
+  },
+  {
+    "('Date', '')":"2025-04-23",
+    "('Close', 'ASIANPAINT.BO')":2430.5788574219,
+    "('High', 'ASIANPAINT.BO')":2433.5018451711,
+    "('Low', 'ASIANPAINT.BO')":2404.4202579621,
+    "('Open', 'ASIANPAINT.BO')":2412.1983615043,
+    "('Volume', 'ASIANPAINT.BO')":54412
+  },
+  {
+    "('Date', '')":"2025-04-24",
+    "('Close', 'ASIANPAINT.BO')":2442.0729980469,
+    "('High', 'ASIANPAINT.BO')":2467.934291968,
+    "('Low', 'ASIANPAINT.BO')":2413.9324364458,
+    "('Open', 'ASIANPAINT.BO')":2418.837143749,
+    "('Volume', 'ASIANPAINT.BO')":38991
+  },
+  {
+    "('Date', '')":"2025-04-25",
+    "('Close', 'ASIANPAINT.BO')":2407.9873046875,
+    "('High', 'ASIANPAINT.BO')":2446.8289583221,
+    "('Low', 'ASIANPAINT.BO')":2391.4399953225,
+    "('Open', 'ASIANPAINT.BO')":2437.6141562179,
+    "('Volume', 'ASIANPAINT.BO')":82859
+  },
+  {
+    "('Date', '')":"2025-04-28",
+    "('Close', 'ASIANPAINT.BO')":2430.1330566406,
+    "('High', 'ASIANPAINT.BO')":2437.1186660541,
+    "('Low', 'ASIANPAINT.BO')":2384.0084882554,
+    "('Open', 'ASIANPAINT.BO')":2389.1609104217,
+    "('Volume', 'ASIANPAINT.BO')":24180
+  },
+  {
+    "('Date', '')":"2025-04-29",
+    "('Close', 'ASIANPAINT.BO')":2429.5881347656,
+    "('High', 'ASIANPAINT.BO')":2449.2072064217,
+    "('Low', 'ASIANPAINT.BO')":2417.0538555485,
+    "('Open', 'ASIANPAINT.BO')":2433.0561439303,
+    "('Volume', 'ASIANPAINT.BO')":57466
+  },
+  {
+    "('Date', '')":"2025-04-30",
+    "('Close', 'ASIANPAINT.BO')":2401.150390625,
+    "('High', 'ASIANPAINT.BO')":2438.9515919081,
+    "('Low', 'ASIANPAINT.BO')":2379.0541706458,
+    "('Open', 'ASIANPAINT.BO')":2418.2427206723,
+    "('Volume', 'ASIANPAINT.BO')":55057
+  },
+  {
+    "('Date', '')":"2025-05-02",
+    "('Close', 'ASIANPAINT.BO')":2387.4270019531,
+    "('High', 'ASIANPAINT.BO')":2422.8006470271,
+    "('Low', 'ASIANPAINT.BO')":2376.3294210155,
+    "('Open', 'ASIANPAINT.BO')":2398.5245828908,
+    "('Volume', 'ASIANPAINT.BO')":71905
+  },
+  {
+    "('Date', '')":"2025-05-05",
+    "('Close', 'ASIANPAINT.BO')":2415.0224609375,
+    "('High', 'ASIANPAINT.BO')":2451.8823943991,
+    "('Low', 'ASIANPAINT.BO')":2399.3172375013,
+    "('Open', 'ASIANPAINT.BO')":2399.3172375013,
+    "('Volume', 'ASIANPAINT.BO')":23800
+  },
+  {
+    "('Date', '')":"2025-05-06",
+    "('Close', 'ASIANPAINT.BO')":2395.8493652344,
+    "('High', 'ASIANPAINT.BO')":2424.5842989571,
+    "('Low', 'ASIANPAINT.BO')":2368.650312558,
+    "('Open', 'ASIANPAINT.BO')":2417.7970545853,
+    "('Volume', 'ASIANPAINT.BO')":44538
+  },
+  {
+    "('Date', '')":"2025-05-07",
+    "('Close', 'ASIANPAINT.BO')":2311.3288574219,
+    "('High', 'ASIANPAINT.BO')":2383.0176558061,
+    "('Low', 'ASIANPAINT.BO')":2297.8533102102,
+    "('Open', 'ASIANPAINT.BO')":2349.0807099802,
+    "('Volume', 'ASIANPAINT.BO')":49937
+  },
+  {
+    "('Date', '')":"2025-05-08",
+    "('Close', 'ASIANPAINT.BO')":2281.4545898438,
+    "('High', 'ASIANPAINT.BO')":2327.5295685311,
+    "('Low', 'ASIANPAINT.BO')":2272.2891370941,
+    "('Open', 'ASIANPAINT.BO')":2308.5547009536,
+    "('Volume', 'ASIANPAINT.BO')":82598
+  },
+  {
+    "('Date', '')":"2025-05-09",
+    "('Close', 'ASIANPAINT.BO')":2279.32421875,
+    "('High', 'ASIANPAINT.BO')":2311.2298528634,
+    "('Low', 'ASIANPAINT.BO')":2209.9640394125,
+    "('Open', 'ASIANPAINT.BO')":2209.9640394125,
+    "('Volume', 'ASIANPAINT.BO')":41713
+  },
+  {
+    "('Date', '')":"2025-05-12",
+    "('Close', 'ASIANPAINT.BO')":2332.5830078125,
+    "('High', 'ASIANPAINT.BO')":2354.6789864599,
+    "('Low', 'ASIANPAINT.BO')":2301.767173173,
+    "('Open', 'ASIANPAINT.BO')":2302.510317977,
+    "('Volume', 'ASIANPAINT.BO')":73604
+  },
+  {
+    "('Date', '')":"2025-05-13",
+    "('Close', 'ASIANPAINT.BO')":2303.8481445312,
+    "('High', 'ASIANPAINT.BO')":2334.4656146146,
+    "('Low', 'ASIANPAINT.BO')":2294.3357939899,
+    "('Open', 'ASIANPAINT.BO')":2334.4656146146,
+    "('Volume', 'ASIANPAINT.BO')":65643
+  },
+  {
+    "('Date', '')":"2025-05-14",
+    "('Close', 'ASIANPAINT.BO')":2262.7768554688,
+    "('High', 'ASIANPAINT.BO')":2298.8442968554,
+    "('Low', 'ASIANPAINT.BO')":2257.1785944367,
+    "('Open', 'ASIANPAINT.BO')":2298.8442968554,
+    "('Volume', 'ASIANPAINT.BO')":97719
+  },
+  {
+    "('Date', '')":"2025-05-15",
+    "('Close', 'ASIANPAINT.BO')":2308.9509277344,
+    "('High', 'ASIANPAINT.BO')":2312.6666517893,
+    "('Low', 'ASIANPAINT.BO')":2246.7248871793,
+    "('Open', 'ASIANPAINT.BO')":2262.826358084,
+    "('Volume', 'ASIANPAINT.BO')":113843
+  },
+  {
+    "('Date', '')":"2025-05-16",
+    "('Close', 'ASIANPAINT.BO')":2331.6416015625,
+    "('High', 'ASIANPAINT.BO')":2333.0785417751,
+    "('Low', 'ASIANPAINT.BO')":2293.8403976054,
+    "('Open', 'ASIANPAINT.BO')":2309.2979069835,
+    "('Volume', 'ASIANPAINT.BO')":73904
+  },
+  {
+    "('Date', '')":"2025-05-19",
+    "('Close', 'ASIANPAINT.BO')":2308.1086425781,
+    "('High', 'ASIANPAINT.BO')":2356.7599538613,
+    "('Low', 'ASIANPAINT.BO')":2302.6589138641,
+    "('Open', 'ASIANPAINT.BO')":2337.3885970506,
+    "('Volume', 'ASIANPAINT.BO')":27289
+  },
+  {
+    "('Date', '')":"2025-05-20",
+    "('Close', 'ASIANPAINT.BO')":2274.7663574219,
+    "('High', 'ASIANPAINT.BO')":2337.240115413,
+    "('Low', 'ASIANPAINT.BO')":2270.6543860669,
+    "('Open', 'ASIANPAINT.BO')":2337.240115413,
+    "('Volume', 'ASIANPAINT.BO')":29837
+  },
+  {
+    "('Date', '')":"2025-05-21",
+    "('Close', 'ASIANPAINT.BO')":2290.5207519531,
+    "('High', 'ASIANPAINT.BO')":2294.5833735279,
+    "('Low', 'ASIANPAINT.BO')":2270.0595957044,
+    "('Open', 'ASIANPAINT.BO')":2274.7661793271,
+    "('Volume', 'ASIANPAINT.BO')":38720
+  },
+  {
+    "('Date', '')":"2025-05-22",
+    "('Close', 'ASIANPAINT.BO')":2277.8381347656,
+    "('High', 'ASIANPAINT.BO')":2288.6384097593,
+    "('Low', 'ASIANPAINT.BO')":2263.1237700574,
+    "('Open', 'ASIANPAINT.BO')":2288.6384097593,
+    "('Volume', 'ASIANPAINT.BO')":13314
+  },
+  {
+    "('Date', '')":"2025-05-23",
+    "('Close', 'ASIANPAINT.BO')":2293.4440917969,
+    "('High', 'ASIANPAINT.BO')":2307.117762925,
+    "('Low', 'ASIANPAINT.BO')":2275.0635949108,
+    "('Open', 'ASIANPAINT.BO')":2279.3736897111,
+    "('Volume', 'ASIANPAINT.BO')":12164
+  },
+  {
+    "('Date', '')":"2025-05-26",
+    "('Close', 'ASIANPAINT.BO')":2306.1765136719,
+    "('High', 'ASIANPAINT.BO')":2315.6392728177,
+    "('Low', 'ASIANPAINT.BO')":2281.9500407784,
+    "('Open', 'ASIANPAINT.BO')":2293.444110826,
+    "('Volume', 'ASIANPAINT.BO')":18971
+  },
+  {
+    "('Date', '')":"2025-05-27",
+    "('Close', 'ASIANPAINT.BO')":2307.5637207031,
+    "('High', 'ASIANPAINT.BO')":2329.4615750377,
+    "('Low', 'ASIANPAINT.BO')":2280.3644282742,
+    "('Open', 'ASIANPAINT.BO')":2293.8402170255,
+    "('Volume', 'ASIANPAINT.BO')":82756
+  },
+  {
+    "('Date', '')":"2025-05-28",
+    "('Close', 'ASIANPAINT.BO')":2281.751953125,
+    "('High', 'ASIANPAINT.BO')":2313.0136276118,
+    "('Low', 'ASIANPAINT.BO')":2279.9683571365,
+    "('Open', 'ASIANPAINT.BO')":2306.325324087,
+    "('Volume', 'ASIANPAINT.BO')":46297
+  },
+  {
+    "('Date', '')":"2025-05-29",
+    "('Close', 'ASIANPAINT.BO')":2276.2524414062,
+    "('High', 'ASIANPAINT.BO')":2286.5572855026,
+    "('Low', 'ASIANPAINT.BO')":2266.7400915411,
+    "('Open', 'ASIANPAINT.BO')":2281.0582077056,
+    "('Volume', 'ASIANPAINT.BO')":19661
+  },
+  {
+    "('Date', '')":"2025-05-30",
+    "('Close', 'ASIANPAINT.BO')":2239.392578125,
+    "('High', 'ASIANPAINT.BO')":2283.7335509822,
+    "('Low', 'ASIANPAINT.BO')":2235.8749777065,
+    "('Open', 'ASIANPAINT.BO')":2274.1716094553,
+    "('Volume', 'ASIANPAINT.BO')":65098
+  },
+  {
+    "('Date', '')":"2025-06-02",
+    "('Close', 'ASIANPAINT.BO')":2246.4770507812,
+    "('High', 'ASIANPAINT.BO')":2251.877187734,
+    "('Low', 'ASIANPAINT.BO')":2237.3611899745,
+    "('Open', 'ASIANPAINT.BO')":2240.5814839813,
+    "('Volume', 'ASIANPAINT.BO')":42504
+  },
+  {
+    "('Date', '')":"2025-06-03",
+    "('Close', 'ASIANPAINT.BO')":2235.2805175781,
+    "('High', 'ASIANPAINT.BO')":2263.6192045143,
+    "('Low', 'ASIANPAINT.BO')":2225.5206937306,
+    "('Open', 'ASIANPAINT.BO')":2246.5268730291,
+    "('Volume', 'ASIANPAINT.BO')":66407
+  },
+  {
+    "('Date', '')":"2025-06-04",
+    "('Close', 'ASIANPAINT.BO')":2228.5427246094,
+    "('High', 'ASIANPAINT.BO')":2239.3429989468,
+    "('Low', 'ASIANPAINT.BO')":2220.5166639999,
+    "('Open', 'ASIANPAINT.BO')":2229.4344016064,
+    "('Volume', 'ASIANPAINT.BO')":42729
+  },
+  {
+    "('Date', '')":"2025-06-05",
+    "('Close', 'ASIANPAINT.BO')":2222.9443359375,
+    "('High', 'ASIANPAINT.BO')":2240.3835649145,
+    "('Low', 'ASIANPAINT.BO')":2212.2925932504,
+    "('Open', 'ASIANPAINT.BO')":2225.5206681418,
+    "('Volume', 'ASIANPAINT.BO')":56224
+  },
+  {
+    "('Date', '')":"2025-06-06",
+    "('Close', 'ASIANPAINT.BO')":2224.9260253906,
+    "('High', 'ASIANPAINT.BO')":2237.6586702172,
+    "('Low', 'ASIANPAINT.BO')":2218.5350282467,
+    "('Open', 'ASIANPAINT.BO')":2237.6586702172,
+    "('Volume', 'ASIANPAINT.BO')":21685
+  },
+  {
+    "('Date', '')":"2025-06-09",
+    "('Close', 'ASIANPAINT.BO')":2227.75,
+    "('High', 'ASIANPAINT.BO')":2234.8345503716,
+    "('Low', 'ASIANPAINT.BO')":2215.2154791538,
+    "('Open', 'ASIANPAINT.BO')":2218.5349560437,
+    "('Volume', 'ASIANPAINT.BO')":65183
+  },
+  {
+    "('Date', '')":"2025-06-10",
+    "('Close', 'ASIANPAINT.BO')":2219.6999511719,
+    "('High', 'ASIANPAINT.BO')":2241.0,
+    "('Low', 'ASIANPAINT.BO')":2215.0,
+    "('Open', 'ASIANPAINT.BO')":2241.0,
+    "('Volume', 'ASIANPAINT.BO')":197052
+  },
+  {
+    "('Date', '')":"2025-06-11",
+    "('Close', 'ASIANPAINT.BO')":2208.4499511719,
+    "('High', 'ASIANPAINT.BO')":2225.0,
+    "('Low', 'ASIANPAINT.BO')":2206.1000976562,
+    "('Open', 'ASIANPAINT.BO')":2213.25,
+    "('Volume', 'ASIANPAINT.BO')":82215
+  },
+  {
+    "('Date', '')":"2025-06-12",
+    "('Close', 'ASIANPAINT.BO')":2218.0500488281,
+    "('High', 'ASIANPAINT.BO')":2263.9499511719,
+    "('Low', 'ASIANPAINT.BO')":2209.0,
+    "('Open', 'ASIANPAINT.BO')":2220.0500488281,
+    "('Volume', 'ASIANPAINT.BO')":112074
+  },
+  {
+    "('Date', '')":"2025-06-13",
+    "('Close', 'ASIANPAINT.BO')":2215.3000488281,
+    "('High', 'ASIANPAINT.BO')":2217.3999023438,
+    "('Low', 'ASIANPAINT.BO')":2175.0,
+    "('Open', 'ASIANPAINT.BO')":2179.9499511719,
+    "('Volume', 'ASIANPAINT.BO')":57131
+  },
+  {
+    "('Date', '')":"2025-06-16",
+    "('Close', 'ASIANPAINT.BO')":2243.6499023438,
+    "('High', 'ASIANPAINT.BO')":2247.0,
+    "('Low', 'ASIANPAINT.BO')":2200.3000488281,
+    "('Open', 'ASIANPAINT.BO')":2200.3000488281,
+    "('Volume', 'ASIANPAINT.BO')":83003
+  },
+  {
+    "('Date', '')":"2025-06-17",
+    "('Close', 'ASIANPAINT.BO')":2264.5,
+    "('High', 'ASIANPAINT.BO')":2280.8999023438,
+    "('Low', 'ASIANPAINT.BO')":2229.8500976562,
+    "('Open', 'ASIANPAINT.BO')":2235.0,
+    "('Volume', 'ASIANPAINT.BO')":62507
+  },
+  {
+    "('Date', '')":"2025-06-18",
+    "('Close', 'ASIANPAINT.BO')":2281.1499023438,
+    "('High', 'ASIANPAINT.BO')":2284.0,
+    "('Low', 'ASIANPAINT.BO')":2255.5500488281,
+    "('Open', 'ASIANPAINT.BO')":2258.0,
+    "('Volume', 'ASIANPAINT.BO')":32081
+  },
+  {
+    "('Date', '')":"2025-06-19",
+    "('Close', 'ASIANPAINT.BO')":2268.3000488281,
+    "('High', 'ASIANPAINT.BO')":2285.0,
+    "('Low', 'ASIANPAINT.BO')":2263.0500488281,
+    "('Open', 'ASIANPAINT.BO')":2270.0,
+    "('Volume', 'ASIANPAINT.BO')":10936
+  },
+  {
+    "('Date', '')":"2025-06-20",
+    "('Close', 'ASIANPAINT.BO')":2284.9499511719,
+    "('High', 'ASIANPAINT.BO')":2288.3999023438,
+    "('Low', 'ASIANPAINT.BO')":2257.5,
+    "('Open', 'ASIANPAINT.BO')":2257.5,
+    "('Volume', 'ASIANPAINT.BO')":46334
+  },
+  {
+    "('Date', '')":"2025-06-23",
+    "('Close', 'ASIANPAINT.BO')":2264.3500976562,
+    "('High', 'ASIANPAINT.BO')":2271.25,
+    "('Low', 'ASIANPAINT.BO')":2253.3999023438,
+    "('Open', 'ASIANPAINT.BO')":2257.5500488281,
+    "('Volume', 'ASIANPAINT.BO')":37719
+  },
+  {
+    "('Date', '')":"2025-06-24",
+    "('Close', 'ASIANPAINT.BO')":2275.1499023438,
+    "('High', 'ASIANPAINT.BO')":2310.0,
+    "('Low', 'ASIANPAINT.BO')":2264.75,
+    "('Open', 'ASIANPAINT.BO')":2300.0500488281,
+    "('Volume', 'ASIANPAINT.BO')":85919
+  },
+  {
+    "('Date', '')":"2025-06-25",
+    "('Close', 'ASIANPAINT.BO')":2279.4499511719,
+    "('High', 'ASIANPAINT.BO')":2291.3000488281,
+    "('Low', 'ASIANPAINT.BO')":2274.25,
+    "('Open', 'ASIANPAINT.BO')":2275.0,
+    "('Volume', 'ASIANPAINT.BO')":17736
+  },
+  {
+    "('Date', '')":"2025-06-26",
+    "('Close', 'ASIANPAINT.BO')":2289.1999511719,
+    "('High', 'ASIANPAINT.BO')":2292.1999511719,
+    "('Low', 'ASIANPAINT.BO')":2280.6999511719,
+    "('Open', 'ASIANPAINT.BO')":2289.6499023438,
+    "('Volume', 'ASIANPAINT.BO')":15636
+  },
+  {
+    "('Date', '')":"2025-06-27",
+    "('Close', 'ASIANPAINT.BO')":2359.25,
+    "('High', 'ASIANPAINT.BO')":2365.0,
+    "('Low', 'ASIANPAINT.BO')":2277.1000976562,
+    "('Open', 'ASIANPAINT.BO')":2286.5,
+    "('Volume', 'ASIANPAINT.BO')":43794
+  },
+  {
+    "('Date', '')":"2025-06-30",
+    "('Close', 'ASIANPAINT.BO')":2341.3500976562,
+    "('High', 'ASIANPAINT.BO')":2367.1999511719,
+    "('Low', 'ASIANPAINT.BO')":2326.1000976562,
+    "('Open', 'ASIANPAINT.BO')":2359.5500488281,
+    "('Volume', 'ASIANPAINT.BO')":40496
+  },
+  {
+    "('Date', '')":"2025-07-01",
+    "('Close', 'ASIANPAINT.BO')":2368.8500976562,
+    "('High', 'ASIANPAINT.BO')":2399.75,
+    "('Low', 'ASIANPAINT.BO')":2350.3000488281,
+    "('Open', 'ASIANPAINT.BO')":2369.0,
+    "('Volume', 'ASIANPAINT.BO')":100414
+  },
+  {
+    "('Date', '')":"2025-07-02",
+    "('Close', 'ASIANPAINT.BO')":2419.8500976562,
+    "('High', 'ASIANPAINT.BO')":2429.8999023438,
+    "('Low', 'ASIANPAINT.BO')":2326.4499511719,
+    "('Open', 'ASIANPAINT.BO')":2332.1499023438,
+    "('Volume', 'ASIANPAINT.BO')":91268
+  },
+  {
+    "('Date', '')":"2025-07-03",
+    "('Close', 'ASIANPAINT.BO')":2430.3999023438,
+    "('High', 'ASIANPAINT.BO')":2464.0,
+    "('Low', 'ASIANPAINT.BO')":2424.0500488281,
+    "('Open', 'ASIANPAINT.BO')":2426.3000488281,
+    "('Volume', 'ASIANPAINT.BO')":162171
+  },
+  {
+    "('Date', '')":"2025-07-04",
+    "('Close', 'ASIANPAINT.BO')":2424.8000488281,
+    "('High', 'ASIANPAINT.BO')":2443.1499023438,
+    "('Low', 'ASIANPAINT.BO')":2414.0,
+    "('Open', 'ASIANPAINT.BO')":2430.4499511719,
+    "('Volume', 'ASIANPAINT.BO')":13964
+  },
+  {
+    "('Date', '')":"2025-07-07",
+    "('Close', 'ASIANPAINT.BO')":2443.3999023438,
+    "('High', 'ASIANPAINT.BO')":2465.0,
+    "('Low', 'ASIANPAINT.BO')":2410.0,
+    "('Open', 'ASIANPAINT.BO')":2410.0,
+    "('Volume', 'ASIANPAINT.BO')":64199
+  },
+  {
+    "('Date', '')":"2025-07-08",
+    "('Close', 'ASIANPAINT.BO')":2484.6000976562,
+    "('High', 'ASIANPAINT.BO')":2487.0,
+    "('Low', 'ASIANPAINT.BO')":2429.3500976562,
+    "('Open', 'ASIANPAINT.BO')":2443.3500976562,
+    "('Volume', 'ASIANPAINT.BO')":97573
+  },
+  {
+    "('Date', '')":"2025-07-09",
+    "('Close', 'ASIANPAINT.BO')":2498.75,
+    "('High', 'ASIANPAINT.BO')":2534.0,
+    "('Low', 'ASIANPAINT.BO')":2493.25,
+    "('Open', 'ASIANPAINT.BO')":2510.0500488281,
+    "('Volume', 'ASIANPAINT.BO')":185627
+  },
+  {
+    "('Date', '')":"2025-07-10",
+    "('Close', 'ASIANPAINT.BO')":2450.8000488281,
+    "('High', 'ASIANPAINT.BO')":2519.9499511719,
+    "('Low', 'ASIANPAINT.BO')":2445.8500976562,
+    "('Open', 'ASIANPAINT.BO')":2519.9499511719,
+    "('Volume', 'ASIANPAINT.BO')":32312
+  },
+  {
+    "('Date', '')":"2025-07-11",
+    "('Close', 'ASIANPAINT.BO')":2439.6000976562,
+    "('High', 'ASIANPAINT.BO')":2484.0,
+    "('Low', 'ASIANPAINT.BO')":2435.1000976562,
+    "('Open', 'ASIANPAINT.BO')":2454.6499023438,
+    "('Volume', 'ASIANPAINT.BO')":22108
+  },
+  {
+    "('Date', '')":"2025-07-14",
+    "('Close', 'ASIANPAINT.BO')":2401.0,
+    "('High', 'ASIANPAINT.BO')":2448.1000976562,
+    "('Low', 'ASIANPAINT.BO')":2391.1000976562,
+    "('Open', 'ASIANPAINT.BO')":2436.9499511719,
+    "('Volume', 'ASIANPAINT.BO')":48147
+  },
+  {
+    "('Date', '')":"2025-07-15",
+    "('Close', 'ASIANPAINT.BO')":2392.9499511719,
+    "('High', 'ASIANPAINT.BO')":2414.3999023438,
+    "('Low', 'ASIANPAINT.BO')":2386.8000488281,
+    "('Open', 'ASIANPAINT.BO')":2401.1499023438,
+    "('Volume', 'ASIANPAINT.BO')":21778
+  },
+  {
+    "('Date', '')":"2025-07-16",
+    "('Close', 'ASIANPAINT.BO')":2410.3999023438,
+    "('High', 'ASIANPAINT.BO')":2422.1499023438,
+    "('Low', 'ASIANPAINT.BO')":2371.0500488281,
+    "('Open', 'ASIANPAINT.BO')":2375.1999511719,
+    "('Volume', 'ASIANPAINT.BO')":17480
+  },
+  {
+    "('Date', '')":"2025-07-17",
+    "('Close', 'ASIANPAINT.BO')":2399.0500488281,
+    "('High', 'ASIANPAINT.BO')":2413.8000488281,
+    "('Low', 'ASIANPAINT.BO')":2394.8000488281,
+    "('Open', 'ASIANPAINT.BO')":2408.9499511719,
+    "('Volume', 'ASIANPAINT.BO')":7933
+  },
+  {
+    "('Date', '')":"2025-07-18",
+    "('Close', 'ASIANPAINT.BO')":2382.1000976562,
+    "('High', 'ASIANPAINT.BO')":2404.9499511719,
+    "('Low', 'ASIANPAINT.BO')":2373.0,
+    "('Open', 'ASIANPAINT.BO')":2400.1000976562,
+    "('Volume', 'ASIANPAINT.BO')":69977
+  },
+  {
+    "('Date', '')":"2025-07-21",
+    "('Close', 'ASIANPAINT.BO')":2376.1000976562,
+    "('High', 'ASIANPAINT.BO')":2384.8500976562,
+    "('Low', 'ASIANPAINT.BO')":2361.0,
+    "('Open', 'ASIANPAINT.BO')":2384.8500976562,
+    "('Volume', 'ASIANPAINT.BO')":11756
+  },
+  {
+    "('Date', '')":"2025-07-22",
+    "('Close', 'ASIANPAINT.BO')":2365.1499023438,
+    "('High', 'ASIANPAINT.BO')":2379.8500976562,
+    "('Low', 'ASIANPAINT.BO')":2361.1999511719,
+    "('Open', 'ASIANPAINT.BO')":2372.0,
+    "('Volume', 'ASIANPAINT.BO')":28976
+  },
+  {
+    "('Date', '')":"2025-07-23",
+    "('Close', 'ASIANPAINT.BO')":2374.3500976562,
+    "('High', 'ASIANPAINT.BO')":2382.4499511719,
+    "('Low', 'ASIANPAINT.BO')":2352.5500488281,
+    "('Open', 'ASIANPAINT.BO')":2365.0500488281,
+    "('Volume', 'ASIANPAINT.BO')":13273
+  },
+  {
+    "('Date', '')":"2025-07-24",
+    "('Close', 'ASIANPAINT.BO')":2352.0500488281,
+    "('High', 'ASIANPAINT.BO')":2378.75,
+    "('Low', 'ASIANPAINT.BO')":2341.0,
+    "('Open', 'ASIANPAINT.BO')":2364.25,
+    "('Volume', 'ASIANPAINT.BO')":72638
+  },
+  {
+    "('Date', '')":"2025-07-25",
+    "('Close', 'ASIANPAINT.BO')":2335.6499023438,
+    "('High', 'ASIANPAINT.BO')":2349.8500976562,
+    "('Low', 'ASIANPAINT.BO')":2326.5,
+    "('Open', 'ASIANPAINT.BO')":2345.0,
+    "('Volume', 'ASIANPAINT.BO')":10911
+  },
+  {
+    "('Date', '')":"2025-07-28",
+    "('Close', 'ASIANPAINT.BO')":2358.9499511719,
+    "('High', 'ASIANPAINT.BO')":2365.1000976562,
+    "('Low', 'ASIANPAINT.BO')":2319.9499511719,
+    "('Open', 'ASIANPAINT.BO')":2336.1999511719,
+    "('Volume', 'ASIANPAINT.BO')":10050
+  },
+  {
+    "('Date', '')":"2025-07-29",
+    "('Close', 'ASIANPAINT.BO')":2401.6999511719,
+    "('High', 'ASIANPAINT.BO')":2418.0,
+    "('Low', 'ASIANPAINT.BO')":2326.5500488281,
+    "('Open', 'ASIANPAINT.BO')":2359.0,
+    "('Volume', 'ASIANPAINT.BO')":42697
+  },
+  {
+    "('Date', '')":"2025-07-30",
+    "('Close', 'ASIANPAINT.BO')":2415.1499023438,
+    "('High', 'ASIANPAINT.BO')":2442.6999511719,
+    "('Low', 'ASIANPAINT.BO')":2366.6499023438,
+    "('Open', 'ASIANPAINT.BO')":2417.6999511719,
+    "('Volume', 'ASIANPAINT.BO')":72693
+  },
+  {
+    "('Date', '')":"2025-07-31",
+    "('Close', 'ASIANPAINT.BO')":2396.0,
+    "('High', 'ASIANPAINT.BO')":2415.8000488281,
+    "('Low', 'ASIANPAINT.BO')":2374.8000488281,
+    "('Open', 'ASIANPAINT.BO')":2380.3000488281,
+    "('Volume', 'ASIANPAINT.BO')":21540
+  },
+  {
+    "('Date', '')":"2025-08-01",
+    "('Close', 'ASIANPAINT.BO')":2429.4499511719,
+    "('High', 'ASIANPAINT.BO')":2471.6499023438,
+    "('Low', 'ASIANPAINT.BO')":2388.0,
+    "('Open', 'ASIANPAINT.BO')":2388.0,
+    "('Volume', 'ASIANPAINT.BO')":48332
+  },
+  {
+    "('Date', '')":"2025-08-04",
+    "('Close', 'ASIANPAINT.BO')":2449.75,
+    "('High', 'ASIANPAINT.BO')":2466.9499511719,
+    "('Low', 'ASIANPAINT.BO')":2438.1499023438,
+    "('Open', 'ASIANPAINT.BO')":2443.6499023438,
+    "('Volume', 'ASIANPAINT.BO')":25812
+  },
+  {
+    "('Date', '')":"2025-08-05",
+    "('Close', 'ASIANPAINT.BO')":2437.8999023438,
+    "('High', 'ASIANPAINT.BO')":2464.1999511719,
+    "('Low', 'ASIANPAINT.BO')":2408.5,
+    "('Open', 'ASIANPAINT.BO')":2450.6999511719,
+    "('Volume', 'ASIANPAINT.BO')":11424
+  },
+  {
+    "('Date', '')":"2025-08-06",
+    "('Close', 'ASIANPAINT.BO')":2491.3000488281,
+    "('High', 'ASIANPAINT.BO')":2505.3999023438,
+    "('Low', 'ASIANPAINT.BO')":2438.0,
+    "('Open', 'ASIANPAINT.BO')":2438.0,
+    "('Volume', 'ASIANPAINT.BO')":139869
+  },
+  {
+    "('Date', '')":"2025-08-07",
+    "('Close', 'ASIANPAINT.BO')":2506.1000976562,
+    "('High', 'ASIANPAINT.BO')":2509.0,
+    "('Low', 'ASIANPAINT.BO')":2467.8500976562,
+    "('Open', 'ASIANPAINT.BO')":2488.6000976562,
+    "('Volume', 'ASIANPAINT.BO')":98268
+  },
+  {
+    "('Date', '')":"2025-08-08",
+    "('Close', 'ASIANPAINT.BO')":2475.3999023438,
+    "('High', 'ASIANPAINT.BO')":2510.0,
+    "('Low', 'ASIANPAINT.BO')":2470.0,
+    "('Open', 'ASIANPAINT.BO')":2506.0,
+    "('Volume', 'ASIANPAINT.BO')":18210
+  },
+  {
+    "('Date', '')":"2025-08-11",
+    "('Close', 'ASIANPAINT.BO')":2489.6000976562,
+    "('High', 'ASIANPAINT.BO')":2502.5500488281,
+    "('Low', 'ASIANPAINT.BO')":2452.1499023438,
+    "('Open', 'ASIANPAINT.BO')":2456.3000488281,
+    "('Volume', 'ASIANPAINT.BO')":13730
+  },
+  {
+    "('Date', '')":"2025-08-12",
+    "('Close', 'ASIANPAINT.BO')":2478.8000488281,
+    "('High', 'ASIANPAINT.BO')":2502.0,
+    "('Low', 'ASIANPAINT.BO')":2473.75,
+    "('Open', 'ASIANPAINT.BO')":2490.0,
+    "('Volume', 'ASIANPAINT.BO')":36503
+  },
+  {
+    "('Date', '')":"2025-08-13",
+    "('Close', 'ASIANPAINT.BO')":2500.3000488281,
+    "('High', 'ASIANPAINT.BO')":2502.9499511719,
+    "('Low', 'ASIANPAINT.BO')":2472.0500488281,
+    "('Open', 'ASIANPAINT.BO')":2478.8000488281,
+    "('Volume', 'ASIANPAINT.BO')":29982
+  },
+  {
+    "('Date', '')":"2025-08-14",
+    "('Close', 'ASIANPAINT.BO')":2529.25,
+    "('High', 'ASIANPAINT.BO')":2533.8000488281,
+    "('Low', 'ASIANPAINT.BO')":2498.3999023438,
+    "('Open', 'ASIANPAINT.BO')":2501.1499023438,
+    "('Volume', 'ASIANPAINT.BO')":78919
+  },
+  {
+    "('Date', '')":"2025-08-18",
+    "('Close', 'ASIANPAINT.BO')":2587.1999511719,
+    "('High', 'ASIANPAINT.BO')":2593.0,
+    "('Low', 'ASIANPAINT.BO')":2535.8500976562,
+    "('Open', 'ASIANPAINT.BO')":2540.1999511719,
+    "('Volume', 'ASIANPAINT.BO')":116693
+  },
+  {
+    "('Date', '')":"2025-08-19",
+    "('Close', 'ASIANPAINT.BO')":2579.5,
+    "('High', 'ASIANPAINT.BO')":2594.0,
+    "('Low', 'ASIANPAINT.BO')":2561.6000976562,
+    "('Open', 'ASIANPAINT.BO')":2587.3999023438,
+    "('Volume', 'ASIANPAINT.BO')":24090
+  },
+  {
+    "('Date', '')":"2025-08-20",
+    "('Close', 'ASIANPAINT.BO')":2570.0500488281,
+    "('High', 'ASIANPAINT.BO')":2578.0,
+    "('Low', 'ASIANPAINT.BO')":2563.8000488281,
+    "('Open', 'ASIANPAINT.BO')":2575.0500488281,
+    "('Volume', 'ASIANPAINT.BO')":49137
+  },
+  {
+    "('Date', '')":"2025-08-21",
+    "('Close', 'ASIANPAINT.BO')":2566.8500976562,
+    "('High', 'ASIANPAINT.BO')":2575.1999511719,
+    "('Low', 'ASIANPAINT.BO')":2559.0500488281,
+    "('Open', 'ASIANPAINT.BO')":2572.0,
+    "('Volume', 'ASIANPAINT.BO')":8606
+  },
+  {
+    "('Date', '')":"2025-08-22",
+    "('Close', 'ASIANPAINT.BO')":2504.1999511719,
+    "('High', 'ASIANPAINT.BO')":2570.0,
+    "('Low', 'ASIANPAINT.BO')":2501.0,
+    "('Open', 'ASIANPAINT.BO')":2545.5500488281,
+    "('Volume', 'ASIANPAINT.BO')":40506
+  },
+  {
+    "('Date', '')":"2025-08-25",
+    "('Close', 'ASIANPAINT.BO')":2492.6999511719,
+    "('High', 'ASIANPAINT.BO')":2522.4499511719,
+    "('Low', 'ASIANPAINT.BO')":2477.0,
+    "('Open', 'ASIANPAINT.BO')":2513.0500488281,
+    "('Volume', 'ASIANPAINT.BO')":932385
+  },
+  {
+    "('Date', '')":"2025-08-26",
+    "('Close', 'ASIANPAINT.BO')":2487.4499511719,
+    "('High', 'ASIANPAINT.BO')":2522.5,
+    "('Low', 'ASIANPAINT.BO')":2471.6499023438,
+    "('Open', 'ASIANPAINT.BO')":2491.8500976562,
+    "('Volume', 'ASIANPAINT.BO')":74954
+  },
+  {
+    "('Date', '')":"2025-08-28",
+    "('Close', 'ASIANPAINT.BO')":2491.1499023438,
+    "('High', 'ASIANPAINT.BO')":2527.0,
+    "('Low', 'ASIANPAINT.BO')":2462.3000488281,
+    "('Open', 'ASIANPAINT.BO')":2462.3000488281,
+    "('Volume', 'ASIANPAINT.BO')":63444
+  },
+  {
+    "('Date', '')":"2025-08-29",
+    "('Close', 'ASIANPAINT.BO')":2517.3999023438,
+    "('High', 'ASIANPAINT.BO')":2530.0,
+    "('Low', 'ASIANPAINT.BO')":2481.5500488281,
+    "('Open', 'ASIANPAINT.BO')":2481.5500488281,
+    "('Volume', 'ASIANPAINT.BO')":54602
+  },
+  {
+    "('Date', '')":"2025-09-01",
+    "('Close', 'ASIANPAINT.BO')":2571.1000976562,
+    "('High', 'ASIANPAINT.BO')":2577.0,
+    "('Low', 'ASIANPAINT.BO')":2517.3999023438,
+    "('Open', 'ASIANPAINT.BO')":2517.3999023438,
+    "('Volume', 'ASIANPAINT.BO')":29113
+  },
+  {
+    "('Date', '')":"2025-09-02",
+    "('Close', 'ASIANPAINT.BO')":2538.8500976562,
+    "('High', 'ASIANPAINT.BO')":2569.0,
+    "('Low', 'ASIANPAINT.BO')":2530.8999023438,
+    "('Open', 'ASIANPAINT.BO')":2568.1999511719,
+    "('Volume', 'ASIANPAINT.BO')":35873
+  },
+  {
+    "('Date', '')":"2025-09-03",
+    "('Close', 'ASIANPAINT.BO')":2554.3999023438,
+    "('High', 'ASIANPAINT.BO')":2562.0,
+    "('Low', 'ASIANPAINT.BO')":2529.5500488281,
+    "('Open', 'ASIANPAINT.BO')":2538.8500976562,
+    "('Volume', 'ASIANPAINT.BO')":17488
+  },
+  {
+    "('Date', '')":"2025-09-04",
+    "('Close', 'ASIANPAINT.BO')":2568.8500976562,
+    "('High', 'ASIANPAINT.BO')":2584.1999511719,
+    "('Low', 'ASIANPAINT.BO')":2554.25,
+    "('Open', 'ASIANPAINT.BO')":2558.9499511719,
+    "('Volume', 'ASIANPAINT.BO')":42613
+  },
+  {
+    "('Date', '')":"2025-09-05",
+    "('Close', 'ASIANPAINT.BO')":2578.8999023438,
+    "('High', 'ASIANPAINT.BO')":2601.5500488281,
+    "('Low', 'ASIANPAINT.BO')":2564.6999511719,
+    "('Open', 'ASIANPAINT.BO')":2564.9499511719,
+    "('Volume', 'ASIANPAINT.BO')":49459
+  },
+  {
+    "('Date', '')":"2025-09-08",
+    "('Close', 'ASIANPAINT.BO')":2529.9499511719,
+    "('High', 'ASIANPAINT.BO')":2583.9499511719,
+    "('Low', 'ASIANPAINT.BO')":2526.0,
+    "('Open', 'ASIANPAINT.BO')":2583.9499511719,
+    "('Volume', 'ASIANPAINT.BO')":15511
+  },
+  {
+    "('Date', '')":"2025-09-09",
+    "('Close', 'ASIANPAINT.BO')":2543.1499023438,
+    "('High', 'ASIANPAINT.BO')":2550.3000488281,
+    "('Low', 'ASIANPAINT.BO')":2526.0,
+    "('Open', 'ASIANPAINT.BO')":2538.25,
+    "('Volume', 'ASIANPAINT.BO')":13720
+  },
+  {
+    "('Date', '')":"2025-09-10",
+    "('Close', 'ASIANPAINT.BO')":2542.25,
+    "('High', 'ASIANPAINT.BO')":2554.5,
+    "('Low', 'ASIANPAINT.BO')":2525.3999023438,
+    "('Open', 'ASIANPAINT.BO')":2526.6999511719,
+    "('Volume', 'ASIANPAINT.BO')":20056
+  },
+  {
+    "('Date', '')":"2025-09-11",
+    "('Close', 'ASIANPAINT.BO')":2555.6499023438,
+    "('High', 'ASIANPAINT.BO')":2559.5,
+    "('Low', 'ASIANPAINT.BO')":2526.4499511719,
+    "('Open', 'ASIANPAINT.BO')":2526.4499511719,
+    "('Volume', 'ASIANPAINT.BO')":11202
+  },
+  {
+    "('Date', '')":"2025-09-12",
+    "('Close', 'ASIANPAINT.BO')":2544.25,
+    "('High', 'ASIANPAINT.BO')":2568.25,
+    "('Low', 'ASIANPAINT.BO')":2537.8000488281,
+    "('Open', 'ASIANPAINT.BO')":2558.3999023438,
+    "('Volume', 'ASIANPAINT.BO')":8823
+  },
+  {
+    "('Date', '')":"2025-09-15",
+    "('Close', 'ASIANPAINT.BO')":2502.3000488281,
+    "('High', 'ASIANPAINT.BO')":2544.0,
+    "('Low', 'ASIANPAINT.BO')":2498.6000976562,
+    "('Open', 'ASIANPAINT.BO')":2544.0,
+    "('Volume', 'ASIANPAINT.BO')":18672
+  },
+  {
+    "('Date', '')":"2025-09-16",
+    "('Close', 'ASIANPAINT.BO')":2480.5,
+    "('High', 'ASIANPAINT.BO')":2509.9499511719,
+    "('Low', 'ASIANPAINT.BO')":2475.0,
+    "('Open', 'ASIANPAINT.BO')":2502.0,
+    "('Volume', 'ASIANPAINT.BO')":24326
+  },
+  {
+    "('Date', '')":"2025-09-17",
+    "('Close', 'ASIANPAINT.BO')":2493.9499511719,
+    "('High', 'ASIANPAINT.BO')":2497.5,
+    "('Low', 'ASIANPAINT.BO')":2480.8999023438,
+    "('Open', 'ASIANPAINT.BO')":2480.8999023438,
+    "('Volume', 'ASIANPAINT.BO')":11627
+  },
+  {
+    "('Date', '')":"2025-09-18",
+    "('Close', 'ASIANPAINT.BO')":2478.3000488281,
+    "('High', 'ASIANPAINT.BO')":2511.8000488281,
+    "('Low', 'ASIANPAINT.BO')":2468.1499023438,
+    "('Open', 'ASIANPAINT.BO')":2511.8000488281,
+    "('Volume', 'ASIANPAINT.BO')":33757
+  },
+  {
+    "('Date', '')":"2025-09-19",
+    "('Close', 'ASIANPAINT.BO')":2484.75,
+    "('High', 'ASIANPAINT.BO')":2510.0,
+    "('Low', 'ASIANPAINT.BO')":2464.1999511719,
+    "('Open', 'ASIANPAINT.BO')":2464.1999511719,
+    "('Volume', 'ASIANPAINT.BO')":33332
+  },
+  {
+    "('Date', '')":"2025-09-22",
+    "('Close', 'ASIANPAINT.BO')":2482.75,
+    "('High', 'ASIANPAINT.BO')":2503.1999511719,
+    "('Low', 'ASIANPAINT.BO')":2475.0,
+    "('Open', 'ASIANPAINT.BO')":2486.8999023438,
+    "('Volume', 'ASIANPAINT.BO')":53334
+  },
+  {
+    "('Date', '')":"2025-09-23",
+    "('Close', 'ASIANPAINT.BO')":2447.5,
+    "('High', 'ASIANPAINT.BO')":2482.75,
+    "('Low', 'ASIANPAINT.BO')":2428.6000976562,
+    "('Open', 'ASIANPAINT.BO')":2476.0,
+    "('Volume', 'ASIANPAINT.BO')":57589
+  },
+  {
+    "('Date', '')":"2025-09-24",
+    "('Close', 'ASIANPAINT.BO')":2457.8500976562,
+    "('High', 'ASIANPAINT.BO')":2475.0,
+    "('Low', 'ASIANPAINT.BO')":2442.25,
+    "('Open', 'ASIANPAINT.BO')":2447.5,
+    "('Volume', 'ASIANPAINT.BO')":39644
+  },
+  {
+    "('Date', '')":"2025-09-25",
+    "('Close', 'ASIANPAINT.BO')":2402.9499511719,
+    "('High', 'ASIANPAINT.BO')":2463.0,
+    "('Low', 'ASIANPAINT.BO')":2388.0,
+    "('Open', 'ASIANPAINT.BO')":2457.1000976562,
+    "('Volume', 'ASIANPAINT.BO')":74094
+  },
+  {
+    "('Date', '')":"2025-09-26",
+    "('Close', 'ASIANPAINT.BO')":2342.5,
+    "('High', 'ASIANPAINT.BO')":2402.9499511719,
+    "('Low', 'ASIANPAINT.BO')":2340.0,
+    "('Open', 'ASIANPAINT.BO')":2398.0,
+    "('Volume', 'ASIANPAINT.BO')":21587
+  },
+  {
+    "('Date', '')":"2025-09-29",
+    "('Close', 'ASIANPAINT.BO')":2343.6499023438,
+    "('High', 'ASIANPAINT.BO')":2362.8999023438,
+    "('Low', 'ASIANPAINT.BO')":2329.5500488281,
+    "('Open', 'ASIANPAINT.BO')":2342.0,
+    "('Volume', 'ASIANPAINT.BO')":19983
+  },
+  {
+    "('Date', '')":"2025-09-30",
+    "('Close', 'ASIANPAINT.BO')":2350.1499023438,
+    "('High', 'ASIANPAINT.BO')":2389.3000488281,
+    "('Low', 'ASIANPAINT.BO')":2339.0,
+    "('Open', 'ASIANPAINT.BO')":2345.4499511719,
+    "('Volume', 'ASIANPAINT.BO')":31461
+  },
+  {
+    "('Date', '')":"2025-10-01",
+    "('Close', 'ASIANPAINT.BO')":2335.6499023438,
+    "('High', 'ASIANPAINT.BO')":2358.75,
+    "('Low', 'ASIANPAINT.BO')":2317.6000976562,
+    "('Open', 'ASIANPAINT.BO')":2358.75,
+    "('Volume', 'ASIANPAINT.BO')":44450
+  },
+  {
+    "('Date', '')":"2025-10-03",
+    "('Close', 'ASIANPAINT.BO')":2358.3000488281,
+    "('High', 'ASIANPAINT.BO')":2361.3999023438,
+    "('Low', 'ASIANPAINT.BO')":2337.0500488281,
+    "('Open', 'ASIANPAINT.BO')":2340.3999023438,
+    "('Volume', 'ASIANPAINT.BO')":12659
+  },
+  {
+    "('Date', '')":"2025-10-06",
+    "('Close', 'ASIANPAINT.BO')":2354.3000488281,
+    "('High', 'ASIANPAINT.BO')":2358.8999023438,
+    "('Low', 'ASIANPAINT.BO')":2333.1999511719,
+    "('Open', 'ASIANPAINT.BO')":2345.6999511719,
+    "('Volume', 'ASIANPAINT.BO')":27053
+  },
+  {
+    "('Date', '')":"2025-10-07",
+    "('Close', 'ASIANPAINT.BO')":2351.1999511719,
+    "('High', 'ASIANPAINT.BO')":2371.6499023438,
+    "('Low', 'ASIANPAINT.BO')":2347.4499511719,
+    "('Open', 'ASIANPAINT.BO')":2356.3999023438,
+    "('Volume', 'ASIANPAINT.BO')":12161
+  },
+  {
+    "('Date', '')":"2025-10-08",
+    "('Close', 'ASIANPAINT.BO')":2326.5500488281,
+    "('High', 'ASIANPAINT.BO')":2369.0,
+    "('Low', 'ASIANPAINT.BO')":2320.4499511719,
+    "('Open', 'ASIANPAINT.BO')":2358.1999511719,
+    "('Volume', 'ASIANPAINT.BO')":9966
+  },
+  {
+    "('Date', '')":"2025-10-09",
+    "('Close', 'ASIANPAINT.BO')":2335.6499023438,
+    "('High', 'ASIANPAINT.BO')":2343.1999511719,
+    "('Low', 'ASIANPAINT.BO')":2324.4499511719,
+    "('Open', 'ASIANPAINT.BO')":2326.5500488281,
+    "('Volume', 'ASIANPAINT.BO')":13909
+  },
+  {
+    "('Date', '')":"2025-10-10",
+    "('Close', 'ASIANPAINT.BO')":2340.3000488281,
+    "('High', 'ASIANPAINT.BO')":2357.9499511719,
+    "('Low', 'ASIANPAINT.BO')":2336.5500488281,
+    "('Open', 'ASIANPAINT.BO')":2336.5500488281,
+    "('Volume', 'ASIANPAINT.BO')":10421
+  },
+  {
+    "('Date', '')":"2025-10-13",
+    "('Close', 'ASIANPAINT.BO')":2345.25,
+    "('High', 'ASIANPAINT.BO')":2366.5,
+    "('Low', 'ASIANPAINT.BO')":2328.1000976562,
+    "('Open', 'ASIANPAINT.BO')":2328.1000976562,
+    "('Volume', 'ASIANPAINT.BO')":49397
+  },
+  {
+    "('Date', '')":"2025-10-14",
+    "('Close', 'ASIANPAINT.BO')":2316.6999511719,
+    "('High', 'ASIANPAINT.BO')":2355.0,
+    "('Low', 'ASIANPAINT.BO')":2310.0,
+    "('Open', 'ASIANPAINT.BO')":2338.0500488281,
+    "('Volume', 'ASIANPAINT.BO')":36685
+  },
+  {
+    "('Date', '')":"2025-10-15",
+    "('Close', 'ASIANPAINT.BO')":2374.8999023438,
+    "('High', 'ASIANPAINT.BO')":2384.25,
+    "('Low', 'ASIANPAINT.BO')":2324.3999023438,
+    "('Open', 'ASIANPAINT.BO')":2328.25,
+    "('Volume', 'ASIANPAINT.BO')":31261
+  },
+  {
+    "('Date', '')":"2025-10-16",
+    "('Close', 'ASIANPAINT.BO')":2409.1999511719,
+    "('High', 'ASIANPAINT.BO')":2419.8999023438,
+    "('Low', 'ASIANPAINT.BO')":2364.3000488281,
+    "('Open', 'ASIANPAINT.BO')":2364.3000488281,
+    "('Volume', 'ASIANPAINT.BO')":21078
+  },
+  {
+    "('Date', '')":"2025-10-17",
+    "('Close', 'ASIANPAINT.BO')":2507.6499023438,
+    "('High', 'ASIANPAINT.BO')":2543.1000976562,
+    "('Low', 'ASIANPAINT.BO')":2411.8000488281,
+    "('Open', 'ASIANPAINT.BO')":2411.8000488281,
+    "('Volume', 'ASIANPAINT.BO')":130859
+  },
+  {
+    "('Date', '')":"2025-10-20",
+    "('Close', 'ASIANPAINT.BO')":2513.9499511719,
+    "('High', 'ASIANPAINT.BO')":2536.1499023438,
+    "('Low', 'ASIANPAINT.BO')":2503.5500488281,
+    "('Open', 'ASIANPAINT.BO')":2509.9499511719,
+    "('Volume', 'ASIANPAINT.BO')":34984
+  },
+  {
+    "('Date', '')":"2025-10-21",
+    "('Close', 'ASIANPAINT.BO')":2508.3500976562,
+    "('High', 'ASIANPAINT.BO')":2520.0500488281,
+    "('Low', 'ASIANPAINT.BO')":2487.6499023438,
+    "('Open', 'ASIANPAINT.BO')":2510.0500488281,
+    "('Volume', 'ASIANPAINT.BO')":19064
+  },
+  {
+    "('Date', '')":"2025-10-23",
+    "('Close', 'ASIANPAINT.BO')":2501.8500976562,
+    "('High', 'ASIANPAINT.BO')":2545.0,
+    "('Low', 'ASIANPAINT.BO')":2496.1000976562,
+    "('Open', 'ASIANPAINT.BO')":2510.3000488281,
+    "('Volume', 'ASIANPAINT.BO')":88557
+  },
+  {
+    "('Date', '')":"2025-10-24",
+    "('Close', 'ASIANPAINT.BO')":2503.0500488281,
+    "('High', 'ASIANPAINT.BO')":2508.0,
+    "('Low', 'ASIANPAINT.BO')":2486.3000488281,
+    "('Open', 'ASIANPAINT.BO')":2490.75,
+    "('Volume', 'ASIANPAINT.BO')":14248
+  },
+  {
+    "('Date', '')":"2025-10-27",
+    "('Close', 'ASIANPAINT.BO')":2518.0,
+    "('High', 'ASIANPAINT.BO')":2529.5,
+    "('Low', 'ASIANPAINT.BO')":2491.6999511719,
+    "('Open', 'ASIANPAINT.BO')":2491.6999511719,
+    "('Volume', 'ASIANPAINT.BO')":43044
+  },
+  {
+    "('Date', '')":"2025-10-28",
+    "('Close', 'ASIANPAINT.BO')":2509.0500488281,
+    "('High', 'ASIANPAINT.BO')":2528.9499511719,
+    "('Low', 'ASIANPAINT.BO')":2492.1999511719,
+    "('Open', 'ASIANPAINT.BO')":2500.0500488281,
+    "('Volume', 'ASIANPAINT.BO')":19654
+  },
+  {
+    "('Date', '')":"2025-10-29",
+    "('Close', 'ASIANPAINT.BO')":2539.6499023438,
+    "('High', 'ASIANPAINT.BO')":2550.0,
+    "('Low', 'ASIANPAINT.BO')":2515.0500488281,
+    "('Open', 'ASIANPAINT.BO')":2515.0500488281,
+    "('Volume', 'ASIANPAINT.BO')":31765
+  },
+  {
+    "('Date', '')":"2025-10-30",
+    "('Close', 'ASIANPAINT.BO')":2523.8500976562,
+    "('High', 'ASIANPAINT.BO')":2538.3500976562,
+    "('Low', 'ASIANPAINT.BO')":2512.5500488281,
+    "('Open', 'ASIANPAINT.BO')":2536.0,
+    "('Volume', 'ASIANPAINT.BO')":142413
+  },
+  {
+    "('Date', '')":"2025-10-31",
+    "('Close', 'ASIANPAINT.BO')":2510.0,
+    "('High', 'ASIANPAINT.BO')":2530.75,
+    "('Low', 'ASIANPAINT.BO')":2504.75,
+    "('Open', 'ASIANPAINT.BO')":2510.1999511719,
+    "('Volume', 'ASIANPAINT.BO')":79771
+  },
+  {
+    "('Date', '')":"2025-11-03",
+    "('Close', 'ASIANPAINT.BO')":2512.25,
+    "('High', 'ASIANPAINT.BO')":2515.0,
+    "('Low', 'ASIANPAINT.BO')":2495.0,
+    "('Open', 'ASIANPAINT.BO')":2500.0,
+    "('Volume', 'ASIANPAINT.BO')":50369
+  },
+  {
+    "('Date', '')":"2025-11-04",
+    "('Close', 'ASIANPAINT.BO')":2486.6000976562,
+    "('High', 'ASIANPAINT.BO')":2520.1999511719,
+    "('Low', 'ASIANPAINT.BO')":2480.0500488281,
+    "('Open', 'ASIANPAINT.BO')":2505.1000976562,
+    "('Volume', 'ASIANPAINT.BO')":79723
+  },
+  {
+    "('Date', '')":"2025-11-06",
+    "('Close', 'ASIANPAINT.BO')":2605.0,
+    "('High', 'ASIANPAINT.BO')":2630.0,
+    "('Low', 'ASIANPAINT.BO')":2550.3000488281,
+    "('Open', 'ASIANPAINT.BO')":2550.3000488281,
+    "('Volume', 'ASIANPAINT.BO')":224244
+  },
+  {
+    "('Date', '')":"2025-11-07",
+    "('Close', 'ASIANPAINT.BO')":2618.5500488281,
+    "('High', 'ASIANPAINT.BO')":2620.0,
+    "('Low', 'ASIANPAINT.BO')":2584.0500488281,
+    "('Open', 'ASIANPAINT.BO')":2605.6499023438,
+    "('Volume', 'ASIANPAINT.BO')":136003
+  },
+  {
+    "('Date', '')":"2025-11-10",
+    "('Close', 'ASIANPAINT.BO')":2650.25,
+    "('High', 'ASIANPAINT.BO')":2666.0,
+    "('Low', 'ASIANPAINT.BO')":2615.0,
+    "('Open', 'ASIANPAINT.BO')":2615.0,
+    "('Volume', 'ASIANPAINT.BO')":104183
+  },
+  {
+    "('Date', '')":"2025-11-11",
+    "('Close', 'ASIANPAINT.BO')":2654.8999023438,
+    "('High', 'ASIANPAINT.BO')":2664.3999023438,
+    "('Low', 'ASIANPAINT.BO')":2634.3500976562,
+    "('Open', 'ASIANPAINT.BO')":2650.0,
+    "('Volume', 'ASIANPAINT.BO')":32257
+  },
+  {
+    "('Date', '')":"2025-11-12",
+    "('Close', 'ASIANPAINT.BO')":2773.3999023438,
+    "('High', 'ASIANPAINT.BO')":2839.0,
+    "('Low', 'ASIANPAINT.BO')":2644.6499023438,
+    "('Open', 'ASIANPAINT.BO')":2655.0500488281,
+    "('Volume', 'ASIANPAINT.BO')":109850
+  },
+  {
+    "('Date', '')":"2025-11-13",
+    "('Close', 'ASIANPAINT.BO')":2879.1000976562,
+    "('High', 'ASIANPAINT.BO')":2898.1999511719,
+    "('Low', 'ASIANPAINT.BO')":2836.3000488281,
+    "('Open', 'ASIANPAINT.BO')":2836.3000488281,
+    "('Volume', 'ASIANPAINT.BO')":450821
+  }
+]

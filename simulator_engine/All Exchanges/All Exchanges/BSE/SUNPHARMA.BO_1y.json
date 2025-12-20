@@ -1,0 +1,1986 @@
+[
+  {
+    "('Date', '')":"2024-11-13",
+    "('Close', 'SUNPHARMA.BO')":1762.8432617188,
+    "('High', 'SUNPHARMA.BO')":1782.1133198445,
+    "('Low', 'SUNPHARMA.BO')":1754.1246047448,
+    "('Open', 'SUNPHARMA.BO')":1782.1133198445,
+    "('Volume', 'SUNPHARMA.BO')":30217
+  },
+  {
+    "('Date', '')":"2024-11-14",
+    "('Close', 'SUNPHARMA.BO')":1752.2420654297,
+    "('High', 'SUNPHARMA.BO')":1779.2896141152,
+    "('Low', 'SUNPHARMA.BO')":1746.545247599,
+    "('Open', 'SUNPHARMA.BO')":1762.7440010684,
+    "('Volume', 'SUNPHARMA.BO')":107530
+  },
+  {
+    "('Date', '')":"2024-11-18",
+    "('Close', 'SUNPHARMA.BO')":1731.0399169922,
+    "('High', 'SUNPHARMA.BO')":1775.623707309,
+    "('Low', 'SUNPHARMA.BO')":1727.5722888564,
+    "('Open', 'SUNPHARMA.BO')":1771.5121878439,
+    "('Volume', 'SUNPHARMA.BO')":33016
+  },
+  {
+    "('Date', '')":"2024-11-19",
+    "('Close', 'SUNPHARMA.BO')":1758.7811279297,
+    "('High', 'SUNPHARMA.BO')":1788.6522947867,
+    "('Low', 'SUNPHARMA.BO')":1715.9311471527,
+    "('Open', 'SUNPHARMA.BO')":1722.8664041571,
+    "('Volume', 'SUNPHARMA.BO')":43072
+  },
+  {
+    "('Date', '')":"2024-11-21",
+    "('Close', 'SUNPHARMA.BO')":1761.2083740234,
+    "('High', 'SUNPHARMA.BO')":1774.7321480923,
+    "('Low', 'SUNPHARMA.BO')":1743.1271699706,
+    "('Open', 'SUNPHARMA.BO')":1761.8028003794,
+    "('Volume', 'SUNPHARMA.BO')":94604
+  },
+  {
+    "('Date', '')":"2024-11-22",
+    "('Close', 'SUNPHARMA.BO')":1781.1721191406,
+    "('High', 'SUNPHARMA.BO')":1798.8569995375,
+    "('Low', 'SUNPHARMA.BO')":1751.647692241,
+    "('Open', 'SUNPHARMA.BO')":1772.9488378198,
+    "('Volume', 'SUNPHARMA.BO')":130094
+  },
+  {
+    "('Date', '')":"2024-11-25",
+    "('Close', 'SUNPHARMA.BO')":1787.9587402344,
+    "('High', 'SUNPHARMA.BO')":1809.2102999033,
+    "('Low', 'SUNPHARMA.BO')":1767.9950842459,
+    "('Open', 'SUNPHARMA.BO')":1802.5227309379,
+    "('Volume', 'SUNPHARMA.BO')":27808
+  },
+  {
+    "('Date', '')":"2024-11-26",
+    "('Close', 'SUNPHARMA.BO')":1743.6721191406,
+    "('High', 'SUNPHARMA.BO')":1789.1971987212,
+    "('Low', 'SUNPHARMA.BO')":1737.7771992529,
+    "('Open', 'SUNPHARMA.BO')":1788.0082249939,
+    "('Volume', 'SUNPHARMA.BO')":32033
+  },
+  {
+    "('Date', '')":"2024-11-27",
+    "('Close', 'SUNPHARMA.BO')":1733.3187255859,
+    "('High', 'SUNPHARMA.BO')":1760.9111143771,
+    "('Low', 'SUNPHARMA.BO')":1724.8973428094,
+    "('Open', 'SUNPHARMA.BO')":1745.6535260997,
+    "('Volume', 'SUNPHARMA.BO')":28156
+  },
+  {
+    "('Date', '')":"2024-11-28",
+    "('Close', 'SUNPHARMA.BO')":1719.1014404297,
+    "('High', 'SUNPHARMA.BO')":1743.7215759934,
+    "('Low', 'SUNPHARMA.BO')":1707.707805132,
+    "('Open', 'SUNPHARMA.BO')":1738.7678215161,
+    "('Volume', 'SUNPHARMA.BO')":37096
+  },
+  {
+    "('Date', '')":"2024-11-29",
+    "('Close', 'SUNPHARMA.BO')":1765.1713867188,
+    "('High', 'SUNPHARMA.BO')":1778.9428485851,
+    "('Low', 'SUNPHARMA.BO')":1723.0644729548,
+    "('Open', 'SUNPHARMA.BO')":1724.1046888477,
+    "('Volume', 'SUNPHARMA.BO')":177028
+  },
+  {
+    "('Date', '')":"2024-12-02",
+    "('Close', 'SUNPHARMA.BO')":1791.4758300781,
+    "('High', 'SUNPHARMA.BO')":1797.5689726452,
+    "('Low', 'SUNPHARMA.BO')":1773.7414847206,
+    "('Open', 'SUNPHARMA.BO')":1783.5003574479,
+    "('Volume', 'SUNPHARMA.BO')":45896
+  },
+  {
+    "('Date', '')":"2024-12-03",
+    "('Close', 'SUNPHARMA.BO')":1781.9645996094,
+    "('High', 'SUNPHARMA.BO')":1813.0742030188,
+    "('Low', 'SUNPHARMA.BO')":1772.5524657686,
+    "('Open', 'SUNPHARMA.BO')":1806.7333728747,
+    "('Volume', 'SUNPHARMA.BO')":24748
+  },
+  {
+    "('Date', '')":"2024-12-04",
+    "('Close', 'SUNPHARMA.BO')":1783.4013671875,
+    "('High', 'SUNPHARMA.BO')":1795.2407931366,
+    "('Low', 'SUNPHARMA.BO')":1769.0354778384,
+    "('Open', 'SUNPHARMA.BO')":1795.1912072106,
+    "('Volume', 'SUNPHARMA.BO')":19584
+  },
+  {
+    "('Date', '')":"2024-12-05",
+    "('Close', 'SUNPHARMA.BO')":1792.9124755859,
+    "('High', 'SUNPHARMA.BO')":1808.1204784355,
+    "('Low', 'SUNPHARMA.BO')":1759.5736820282,
+    "('Open', 'SUNPHARMA.BO')":1796.7764284678,
+    "('Volume', 'SUNPHARMA.BO')":19821
+  },
+  {
+    "('Date', '')":"2024-12-06",
+    "('Close', 'SUNPHARMA.BO')":1788.107421875,
+    "('High', 'SUNPHARMA.BO')":1808.0214924381,
+    "('Low', 'SUNPHARMA.BO')":1784.9865320914,
+    "('Open', 'SUNPHARMA.BO')":1802.9686866148,
+    "('Volume', 'SUNPHARMA.BO')":26820
+  },
+  {
+    "('Date', '')":"2024-12-09",
+    "('Close', 'SUNPHARMA.BO')":1789.4942626953,
+    "('High', 'SUNPHARMA.BO')":1811.0430951977,
+    "('Low', 'SUNPHARMA.BO')":1781.3701535307,
+    "('Open', 'SUNPHARMA.BO')":1811.0430951977,
+    "('Volume', 'SUNPHARMA.BO')":16959
+  },
+  {
+    "('Date', '')":"2024-12-10",
+    "('Close', 'SUNPHARMA.BO')":1792.7142333984,
+    "('High', 'SUNPHARMA.BO')":1804.9995691974,
+    "('Low', 'SUNPHARMA.BO')":1780.280381712,
+    "('Open', 'SUNPHARMA.BO')":1799.203700408,
+    "('Volume', 'SUNPHARMA.BO')":49011
+  },
+  {
+    "('Date', '')":"2024-12-11",
+    "('Close', 'SUNPHARMA.BO')":1797.9156494141,
+    "('High', 'SUNPHARMA.BO')":1809.7551954943,
+    "('Low', 'SUNPHARMA.BO')":1788.7512033874,
+    "('Open', 'SUNPHARMA.BO')":1801.1851758325,
+    "('Volume', 'SUNPHARMA.BO')":101118
+  },
+  {
+    "('Date', '')":"2024-12-12",
+    "('Close', 'SUNPHARMA.BO')":1787.7604980469,
+    "('High', 'SUNPHARMA.BO')":1805.0986396204,
+    "('Low', 'SUNPHARMA.BO')":1782.311367838,
+    "('Open', 'SUNPHARMA.BO')":1805.0986396204,
+    "('Volume', 'SUNPHARMA.BO')":13348
+  },
+  {
+    "('Date', '')":"2024-12-13",
+    "('Close', 'SUNPHARMA.BO')":1796.974609375,
+    "('High', 'SUNPHARMA.BO')":1803.1172171408,
+    "('Low', 'SUNPHARMA.BO')":1757.7903593165,
+    "('Open', 'SUNPHARMA.BO')":1803.1172171408,
+    "('Volume', 'SUNPHARMA.BO')":36121
+  },
+  {
+    "('Date', '')":"2024-12-16",
+    "('Close', 'SUNPHARMA.BO')":1793.5565185547,
+    "('High', 'SUNPHARMA.BO')":1803.8107668441,
+    "('Low', 'SUNPHARMA.BO')":1776.3174275924,
+    "('Open', 'SUNPHARMA.BO')":1799.5504893223,
+    "('Volume', 'SUNPHARMA.BO')":21146
+  },
+  {
+    "('Date', '')":"2024-12-17",
+    "('Close', 'SUNPHARMA.BO')":1772.9488525391,
+    "('High', 'SUNPHARMA.BO')":1798.2130021561,
+    "('Low', 'SUNPHARMA.BO')":1766.5585571889,
+    "('Open', 'SUNPHARMA.BO')":1782.7573112845,
+    "('Volume', 'SUNPHARMA.BO')":16315
+  },
+  {
+    "('Date', '')":"2024-12-18",
+    "('Close', 'SUNPHARMA.BO')":1783.6489257812,
+    "('High', 'SUNPHARMA.BO')":1805.8416495881,
+    "('Low', 'SUNPHARMA.BO')":1777.3575606999,
+    "('Open', 'SUNPHARMA.BO')":1801.1851686507,
+    "('Volume', 'SUNPHARMA.BO')":119872
+  },
+  {
+    "('Date', '')":"2024-12-19",
+    "('Close', 'SUNPHARMA.BO')":1806.4857177734,
+    "('High', 'SUNPHARMA.BO')":1812.281586634,
+    "('Low', 'SUNPHARMA.BO')":1760.6140214223,
+    "('Open', 'SUNPHARMA.BO')":1760.6140214223,
+    "('Volume', 'SUNPHARMA.BO')":111935
+  },
+  {
+    "('Date', '')":"2024-12-20",
+    "('Close', 'SUNPHARMA.BO')":1791.7730712891,
+    "('High', 'SUNPHARMA.BO')":1808.1204617653,
+    "('Low', 'SUNPHARMA.BO')":1777.4071826887,
+    "('Open', 'SUNPHARMA.BO')":1806.8820230929,
+    "('Volume', 'SUNPHARMA.BO')":47355
+  },
+  {
+    "('Date', '')":"2024-12-23",
+    "('Close', 'SUNPHARMA.BO')":1797.7176513672,
+    "('High', 'SUNPHARMA.BO')":1811.1918404931,
+    "('Low', 'SUNPHARMA.BO')":1779.9831846551,
+    "('Open', 'SUNPHARMA.BO')":1792.4171578179,
+    "('Volume', 'SUNPHARMA.BO')":13392
+  },
+  {
+    "('Date', '')":"2024-12-24",
+    "('Close', 'SUNPHARMA.BO')":1800.7889404297,
+    "('High', 'SUNPHARMA.BO')":1814.3127153701,
+    "('Low', 'SUNPHARMA.BO')":1787.1661145805,
+    "('Open', 'SUNPHARMA.BO')":1798.2130120937,
+    "('Volume', 'SUNPHARMA.BO')":50936
+  },
+  {
+    "('Date', '')":"2024-12-26",
+    "('Close', 'SUNPHARMA.BO')":1824.4678955078,
+    "('High', 'SUNPHARMA.BO')":1828.8766889097,
+    "('Low', 'SUNPHARMA.BO')":1798.2129950294,
+    "('Open', 'SUNPHARMA.BO')":1812.0339225651,
+    "('Volume', 'SUNPHARMA.BO')":60847
+  },
+  {
+    "('Date', '')":"2024-12-27",
+    "('Close', 'SUNPHARMA.BO')":1844.4809570312,
+    "('High', 'SUNPHARMA.BO')":1848.3944957675,
+    "('Low', 'SUNPHARMA.BO')":1813.6686273128,
+    "('Open', 'SUNPHARMA.BO')":1824.6659384417,
+    "('Volume', 'SUNPHARMA.BO')":118685
+  },
+  {
+    "('Date', '')":"2024-12-30",
+    "('Close', 'SUNPHARMA.BO')":1864.7913818359,
+    "('High', 'SUNPHARMA.BO')":1877.4730423189,
+    "('Low', 'SUNPHARMA.BO')":1837.1989921833,
+    "('Open', 'SUNPHARMA.BO')":1846.9083998287,
+    "('Volume', 'SUNPHARMA.BO')":97414
+  },
+  {
+    "('Date', '')":"2024-12-31",
+    "('Close', 'SUNPHARMA.BO')":1867.0701904297,
+    "('High', 'SUNPHARMA.BO')":1892.3343399951,
+    "('Low', 'SUNPHARMA.BO')":1851.4162768323,
+    "('Open', 'SUNPHARMA.BO')":1864.1475234643,
+    "('Volume', 'SUNPHARMA.BO')":71460
+  },
+  {
+    "('Date', '')":"2025-01-01",
+    "('Close', 'SUNPHARMA.BO')":1872.3211669922,
+    "('High', 'SUNPHARMA.BO')":1885.0027064066,
+    "('Low', 'SUNPHARMA.BO')":1861.2246839456,
+    "('Open', 'SUNPHARMA.BO')":1869.002054604,
+    "('Volume', 'SUNPHARMA.BO')":51170
+  },
+  {
+    "('Date', '')":"2025-01-02",
+    "('Close', 'SUNPHARMA.BO')":1860.6303710938,
+    "('High', 'SUNPHARMA.BO')":1882.1792052638,
+    "('Low', 'SUNPHARMA.BO')":1848.1469327283,
+    "('Open', 'SUNPHARMA.BO')":1882.1792052638,
+    "('Volume', 'SUNPHARMA.BO')":53564
+  },
+  {
+    "('Date', '')":"2025-01-03",
+    "('Close', 'SUNPHARMA.BO')":1831.9975585938,
+    "('High', 'SUNPHARMA.BO')":1867.5655419091,
+    "('Low', 'SUNPHARMA.BO')":1826.9447529339,
+    "('Open', 'SUNPHARMA.BO')":1864.9400277017,
+    "('Volume', 'SUNPHARMA.BO')":61463
+  },
+  {
+    "('Date', '')":"2025-01-06",
+    "('Close', 'SUNPHARMA.BO')":1829.8674316406,
+    "('High', 'SUNPHARMA.BO')":1839.2795657321,
+    "('Low', 'SUNPHARMA.BO')":1809.1112474681,
+    "('Open', 'SUNPHARMA.BO')":1832.5919967724,
+    "('Volume', 'SUNPHARMA.BO')":19319
+  },
+  {
+    "('Date', '')":"2025-01-07",
+    "('Close', 'SUNPHARMA.BO')":1837.0009765625,
+    "('High', 'SUNPHARMA.BO')":1848.1469252259,
+    "('Low', 'SUNPHARMA.BO')":1828.6290581128,
+    "('Open', 'SUNPHARMA.BO')":1842.1033683611,
+    "('Volume', 'SUNPHARMA.BO')":27452
+  },
+  {
+    "('Date', '')":"2025-01-08",
+    "('Close', 'SUNPHARMA.BO')":1820.3067626953,
+    "('High', 'SUNPHARMA.BO')":1852.4565825383,
+    "('Low', 'SUNPHARMA.BO')":1812.6779078412,
+    "('Open', 'SUNPHARMA.BO')":1852.4565825383,
+    "('Volume', 'SUNPHARMA.BO')":18180
+  },
+  {
+    "('Date', '')":"2025-01-09",
+    "('Close', 'SUNPHARMA.BO')":1809.2103271484,
+    "('High', 'SUNPHARMA.BO')":1826.7961569147,
+    "('Low', 'SUNPHARMA.BO')":1797.2718504916,
+    "('Open', 'SUNPHARMA.BO')":1826.7961569147,
+    "('Volume', 'SUNPHARMA.BO')":21532
+  },
+  {
+    "('Date', '')":"2025-01-10",
+    "('Close', 'SUNPHARMA.BO')":1769.5307617188,
+    "('High', 'SUNPHARMA.BO')":1817.0372208335,
+    "('Low', 'SUNPHARMA.BO')":1757.3940627246,
+    "('Open', 'SUNPHARMA.BO')":1798.1139021003,
+    "('Volume', 'SUNPHARMA.BO')":14166
+  },
+  {
+    "('Date', '')":"2025-01-13",
+    "('Close', 'SUNPHARMA.BO')":1729.9007568359,
+    "('High', 'SUNPHARMA.BO')":1769.5307951157,
+    "('Low', 'SUNPHARMA.BO')":1726.8789180406,
+    "('Open', 'SUNPHARMA.BO')":1769.5307951157,
+    "('Volume', 'SUNPHARMA.BO')":40941
+  },
+  {
+    "('Date', '')":"2025-01-14",
+    "('Close', 'SUNPHARMA.BO')":1752.3907470703,
+    "('High', 'SUNPHARMA.BO')":1766.7070499561,
+    "('Low', 'SUNPHARMA.BO')":1729.7521119961,
+    "('Open', 'SUNPHARMA.BO')":1734.8545035892,
+    "('Volume', 'SUNPHARMA.BO')":69344
+  },
+  {
+    "('Date', '')":"2025-01-15",
+    "('Close', 'SUNPHARMA.BO')":1740.6008300781,
+    "('High', 'SUNPHARMA.BO')":1760.0195250427,
+    "('Low', 'SUNPHARMA.BO')":1731.6840712835,
+    "('Open', 'SUNPHARMA.BO')":1754.6199805935,
+    "('Volume', 'SUNPHARMA.BO')":8899
+  },
+  {
+    "('Date', '')":"2025-01-16",
+    "('Close', 'SUNPHARMA.BO')":1747.1893310547,
+    "('High', 'SUNPHARMA.BO')":1757.6912671211,
+    "('Low', 'SUNPHARMA.BO')":1724.2534219705,
+    "('Open', 'SUNPHARMA.BO')":1743.8703395021,
+    "('Volume', 'SUNPHARMA.BO')":28186
+  },
+  {
+    "('Date', '')":"2025-01-17",
+    "('Close', 'SUNPHARMA.BO')":1769.6297607422,
+    "('High', 'SUNPHARMA.BO')":1775.2769925484,
+    "('Low', 'SUNPHARMA.BO')":1746.6938530048,
+    "('Open', 'SUNPHARMA.BO')":1746.6938530048,
+    "('Volume', 'SUNPHARMA.BO')":18114
+  },
+  {
+    "('Date', '')":"2025-01-20",
+    "('Close', 'SUNPHARMA.BO')":1759.474609375,
+    "('High', 'SUNPHARMA.BO')":1782.2122949531,
+    "('Low', 'SUNPHARMA.BO')":1752.5393528311,
+    "('Open', 'SUNPHARMA.BO')":1769.8774941908,
+    "('Volume', 'SUNPHARMA.BO')":18920
+  },
+  {
+    "('Date', '')":"2025-01-21",
+    "('Close', 'SUNPHARMA.BO')":1745.5050048828,
+    "('High', 'SUNPHARMA.BO')":1788.3053958984,
+    "('Low', 'SUNPHARMA.BO')":1742.4831662251,
+    "('Open', 'SUNPHARMA.BO')":1758.5828685428,
+    "('Volume', 'SUNPHARMA.BO')":258009
+  },
+  {
+    "('Date', '')":"2025-01-22",
+    "('Close', 'SUNPHARMA.BO')":1781.3701171875,
+    "('High', 'SUNPHARMA.BO')":1786.0761839598,
+    "('Low', 'SUNPHARMA.BO')":1756.7003956033,
+    "('Open', 'SUNPHARMA.BO')":1769.8278450208,
+    "('Volume', 'SUNPHARMA.BO')":14859
+  },
+  {
+    "('Date', '')":"2025-01-23",
+    "('Close', 'SUNPHARMA.BO')":1817.0869140625,
+    "('High', 'SUNPHARMA.BO')":1822.5360445449,
+    "('Low', 'SUNPHARMA.BO')":1773.4938702032,
+    "('Open', 'SUNPHARMA.BO')":1776.3669513409,
+    "('Volume', 'SUNPHARMA.BO')":24094
+  },
+  {
+    "('Date', '')":"2025-01-24",
+    "('Close', 'SUNPHARMA.BO')":1805.0491943359,
+    "('High', 'SUNPHARMA.BO')":1825.9540153588,
+    "('Low', 'SUNPHARMA.BO')":1791.0300440938,
+    "('Open', 'SUNPHARMA.BO')":1808.3681858566,
+    "('Volume', 'SUNPHARMA.BO')":19795
+  },
+  {
+    "('Date', '')":"2025-01-27",
+    "('Close', 'SUNPHARMA.BO')":1769.2335205078,
+    "('High', 'SUNPHARMA.BO')":1805.2968795114,
+    "('Low', 'SUNPHARMA.BO')":1758.6819986332,
+    "('Open', 'SUNPHARMA.BO')":1803.0676898594,
+    "('Volume', 'SUNPHARMA.BO')":10541
+  },
+  {
+    "('Date', '')":"2025-01-28",
+    "('Close', 'SUNPHARMA.BO')":1690.1220703125,
+    "('High', 'SUNPHARMA.BO')":1772.4038641705,
+    "('Low', 'SUNPHARMA.BO')":1677.9853711713,
+    "('Open', 'SUNPHARMA.BO')":1772.4038641705,
+    "('Volume', 'SUNPHARMA.BO')":110974
+  },
+  {
+    "('Date', '')":"2025-01-29",
+    "('Close', 'SUNPHARMA.BO')":1720.6370849609,
+    "('High', 'SUNPHARMA.BO')":1728.860366024,
+    "('Low', 'SUNPHARMA.BO')":1681.2052706674,
+    "('Open', 'SUNPHARMA.BO')":1687.4965148598,
+    "('Volume', 'SUNPHARMA.BO')":27212
+  },
+  {
+    "('Date', '')":"2025-01-30",
+    "('Close', 'SUNPHARMA.BO')":1729.1081542969,
+    "('High', 'SUNPHARMA.BO')":1742.6319294126,
+    "('Low', 'SUNPHARMA.BO')":1710.0361978607,
+    "('Open', 'SUNPHARMA.BO')":1723.7086098122,
+    "('Volume', 'SUNPHARMA.BO')":30376
+  },
+  {
+    "('Date', '')":"2025-01-31",
+    "('Close', 'SUNPHARMA.BO')":1726.9779052734,
+    "('High', 'SUNPHARMA.BO')":1753.9758678561,
+    "('Low', 'SUNPHARMA.BO')":1691.7071966932,
+    "('Open', 'SUNPHARMA.BO')":1732.6747230661,
+    "('Volume', 'SUNPHARMA.BO')":66501
+  },
+  {
+    "('Date', '')":"2025-02-01",
+    "('Close', 'SUNPHARMA.BO')":1726.5816650391,
+    "('High', 'SUNPHARMA.BO')":1772.9488587578,
+    "('Low', 'SUNPHARMA.BO')":1718.7548291382,
+    "('Open', 'SUNPHARMA.BO')":1733.7646095632,
+    "('Volume', 'SUNPHARMA.BO')":46851
+  },
+  {
+    "('Date', '')":"2025-02-03",
+    "('Close', 'SUNPHARMA.BO')":1723.8570556641,
+    "('High', 'SUNPHARMA.BO')":1771.115948231,
+    "('Low', 'SUNPHARMA.BO')":1694.8775905684,
+    "('Open', 'SUNPHARMA.BO')":1758.5829246082,
+    "('Volume', 'SUNPHARMA.BO')":45784
+  },
+  {
+    "('Date', '')":"2025-02-04",
+    "('Close', 'SUNPHARMA.BO')":1750.7064208984,
+    "('High', 'SUNPHARMA.BO')":1759.2763194044,
+    "('Low', 'SUNPHARMA.BO')":1724.5009871084,
+    "('Open', 'SUNPHARMA.BO')":1734.3590310981,
+    "('Volume', 'SUNPHARMA.BO')":41765
+  },
+  {
+    "('Date', '')":"2025-02-05",
+    "('Close', 'SUNPHARMA.BO')":1737.1827392578,
+    "('High', 'SUNPHARMA.BO')":1755.5610968086,
+    "('Low', 'SUNPHARMA.BO')":1719.3492221646,
+    "('Open', 'SUNPHARMA.BO')":1750.9046157218,
+    "('Volume', 'SUNPHARMA.BO')":24772
+  },
+  {
+    "('Date', '')":"2025-02-06",
+    "('Close', 'SUNPHARMA.BO')":1736.7840576172,
+    "('High', 'SUNPHARMA.BO')":1762.6987695242,
+    "('Low', 'SUNPHARMA.BO')":1730.3053796404,
+    "('Open', 'SUNPHARMA.BO')":1752.1833281402,
+    "('Volume', 'SUNPHARMA.BO')":24897
+  },
+  {
+    "('Date', '')":"2025-02-07",
+    "('Close', 'SUNPHARMA.BO')":1743.7609863281,
+    "('High', 'SUNPHARMA.BO')":1747.7478648336,
+    "('Low', 'SUNPHARMA.BO')":1722.2318667326,
+    "('Open', 'SUNPHARMA.BO')":1739.4252802874,
+    "('Volume', 'SUNPHARMA.BO')":18408
+  },
+  {
+    "('Date', '')":"2025-02-10",
+    "('Close', 'SUNPHARMA.BO')":1726.8666992188,
+    "('High', 'SUNPHARMA.BO')":1743.2626889921,
+    "('Low', 'SUNPHARMA.BO')":1719.341417102,
+    "('Open', 'SUNPHARMA.BO')":1743.1131567089,
+    "('Volume', 'SUNPHARMA.BO')":22934
+  },
+  {
+    "('Date', '')":"2025-02-11",
+    "('Close', 'SUNPHARMA.BO')":1694.1741943359,
+    "('High', 'SUNPHARMA.BO')":1728.7105539155,
+    "('Low', 'SUNPHARMA.BO')":1689.5394237136,
+    "('Open', 'SUNPHARMA.BO')":1714.5072991608,
+    "('Volume', 'SUNPHARMA.BO')":111092
+  },
+  {
+    "('Date', '')":"2025-02-12",
+    "('Close', 'SUNPHARMA.BO')":1688.0942382812,
+    "('High', 'SUNPHARMA.BO')":1707.4803865615,
+    "('Low', 'SUNPHARMA.BO')":1682.5126326456,
+    "('Open', 'SUNPHARMA.BO')":1694.7224482042,
+    "('Volume', 'SUNPHARMA.BO')":27161
+  },
+  {
+    "('Date', '')":"2025-02-13",
+    "('Close', 'SUNPHARMA.BO')":1740.7708740234,
+    "('High', 'SUNPHARMA.BO')":1747.2495517682,
+    "('Low', 'SUNPHARMA.BO')":1693.3768058537,
+    "('Open', 'SUNPHARMA.BO')":1694.4234101574,
+    "('Volume', 'SUNPHARMA.BO')":32016
+  },
+  {
+    "('Date', '')":"2025-02-14",
+    "('Close', 'SUNPHARMA.BO')":1699.0582275391,
+    "('High', 'SUNPHARMA.BO')":1745.9538155003,
+    "('Low', 'SUNPHARMA.BO')":1679.4726614851,
+    "('Open', 'SUNPHARMA.BO')":1745.2561603919,
+    "('Volume', 'SUNPHARMA.BO')":26705
+  },
+  {
+    "('Date', '')":"2025-02-17",
+    "('Close', 'SUNPHARMA.BO')":1707.7795410156,
+    "('High', 'SUNPHARMA.BO')":1729.0095974087,
+    "('Low', 'SUNPHARMA.BO')":1691.0346015573,
+    "('Open', 'SUNPHARMA.BO')":1694.9218326819,
+    "('Volume', 'SUNPHARMA.BO')":35617
+  },
+  {
+    "('Date', '')":"2025-02-18",
+    "('Close', 'SUNPHARMA.BO')":1695.9683837891,
+    "('High', 'SUNPHARMA.BO')":1724.3250094088,
+    "('Low', 'SUNPHARMA.BO')":1693.4266999916,
+    "('Open', 'SUNPHARMA.BO')":1724.2751247579,
+    "('Volume', 'SUNPHARMA.BO')":44761
+  },
+  {
+    "('Date', '')":"2025-02-19",
+    "('Close', 'SUNPHARMA.BO')":1672.4956054688,
+    "('High', 'SUNPHARMA.BO')":1693.6260137948,
+    "('Low', 'SUNPHARMA.BO')":1641.9461232637,
+    "('Open', 'SUNPHARMA.BO')":1654.3553561513,
+    "('Volume', 'SUNPHARMA.BO')":31782
+  },
+  {
+    "('Date', '')":"2025-02-20",
+    "('Close', 'SUNPHARMA.BO')":1664.2227783203,
+    "('High', 'SUNPHARMA.BO')":1671.2995852877,
+    "('Low', 'SUNPHARMA.BO')":1657.5448052234,
+    "('Open', 'SUNPHARMA.BO')":1660.9834394045,
+    "('Volume', 'SUNPHARMA.BO')":16632
+  },
+  {
+    "('Date', '')":"2025-02-21",
+    "('Close', 'SUNPHARMA.BO')":1637.6602783203,
+    "('High', 'SUNPHARMA.BO')":1675.7349204851,
+    "('Low', 'SUNPHARMA.BO')":1626.6464774612,
+    "('Open', 'SUNPHARMA.BO')":1666.4653790228,
+    "('Volume', 'SUNPHARMA.BO')":26936
+  },
+  {
+    "('Date', '')":"2025-02-24",
+    "('Close', 'SUNPHARMA.BO')":1634.2215576172,
+    "('High', 'SUNPHARMA.BO')":1664.1730325706,
+    "('Low', 'SUNPHARMA.BO')":1619.5199423856,
+    "('Open', 'SUNPHARMA.BO')":1633.5736654933,
+    "('Volume', 'SUNPHARMA.BO')":19662
+  },
+  {
+    "('Date', '')":"2025-02-25",
+    "('Close', 'SUNPHARMA.BO')":1608.3566894531,
+    "('High', 'SUNPHARMA.BO')":1644.9861366338,
+    "('Low', 'SUNPHARMA.BO')":1601.030824351,
+    "('Open', 'SUNPHARMA.BO')":1634.2215157332,
+    "('Volume', 'SUNPHARMA.BO')":100526
+  },
+  {
+    "('Date', '')":"2025-02-27",
+    "('Close', 'SUNPHARMA.BO')":1642.1953125,
+    "('High', 'SUNPHARMA.BO')":1647.3284431612,
+    "('Low', 'SUNPHARMA.BO')":1599.7350786711,
+    "('Open', 'SUNPHARMA.BO')":1622.6596312004,
+    "('Volume', 'SUNPHARMA.BO')":52164
+  },
+  {
+    "('Date', '')":"2025-02-28",
+    "('Close', 'SUNPHARMA.BO')":1588.6715087891,
+    "('High', 'SUNPHARMA.BO')":1661.5316924441,
+    "('Low', 'SUNPHARMA.BO')":1582.1928309241,
+    "('Open', 'SUNPHARMA.BO')":1651.5644957288,
+    "('Volume', 'SUNPHARMA.BO')":57831
+  },
+  {
+    "('Date', '')":"2025-03-03",
+    "('Close', 'SUNPHARMA.BO')":1579.9501953125,
+    "('High', 'SUNPHARMA.BO')":1602.0275601424,
+    "('Low', 'SUNPHARMA.BO')":1575.0163599875,
+    "('Open', 'SUNPHARMA.BO')":1575.0163599875,
+    "('Volume', 'SUNPHARMA.BO')":37655
+  },
+  {
+    "('Date', '')":"2025-03-04",
+    "('Close', 'SUNPHARMA.BO')":1562.0589599609,
+    "('High', 'SUNPHARMA.BO')":1583.6878489961,
+    "('Low', 'SUNPHARMA.BO')":1550.9953963701,
+    "('Open', 'SUNPHARMA.BO')":1579.8006180939,
+    "('Volume', 'SUNPHARMA.BO')":31669
+  },
+  {
+    "('Date', '')":"2025-03-05",
+    "('Close', 'SUNPHARMA.BO')":1576.7606201172,
+    "('High', 'SUNPHARMA.BO')":1581.0964479814,
+    "('Low', 'SUNPHARMA.BO')":1549.899073903,
+    "('Open', 'SUNPHARMA.BO')":1561.4112346633,
+    "('Volume', 'SUNPHARMA.BO')":27215
+  },
+  {
+    "('Date', '')":"2025-03-06",
+    "('Close', 'SUNPHARMA.BO')":1608.8051757812,
+    "('High', 'SUNPHARMA.BO')":1611.2969749265,
+    "('Low', 'SUNPHARMA.BO')":1567.8400221679,
+    "('Open', 'SUNPHARMA.BO')":1608.8051757812,
+    "('Volume', 'SUNPHARMA.BO')":18604
+  },
+  {
+    "('Date', '')":"2025-03-07",
+    "('Close', 'SUNPHARMA.BO')":1604.6190185547,
+    "('High', 'SUNPHARMA.BO')":1635.6169759092,
+    "('Low', 'SUNPHARMA.BO')":1598.3895206269,
+    "('Open', 'SUNPHARMA.BO')":1635.6169759092,
+    "('Volume', 'SUNPHARMA.BO')":23067
+  },
+  {
+    "('Date', '')":"2025-03-10",
+    "('Close', 'SUNPHARMA.BO')":1605.8648681641,
+    "('High', 'SUNPHARMA.BO')":1637.8096595415,
+    "('Low', 'SUNPHARMA.BO')":1597.392751246,
+    "('Open', 'SUNPHARMA.BO')":1614.7356972711,
+    "('Volume', 'SUNPHARMA.BO')":31800
+  },
+  {
+    "('Date', '')":"2025-03-11",
+    "('Close', 'SUNPHARMA.BO')":1650.2188720703,
+    "('High', 'SUNPHARMA.BO')":1658.342161351,
+    "('Low', 'SUNPHARMA.BO')":1602.6255099591,
+    "('Open', 'SUNPHARMA.BO')":1612.4930585842,
+    "('Volume', 'SUNPHARMA.BO')":87111
+  },
+  {
+    "('Date', '')":"2025-03-12",
+    "('Close', 'SUNPHARMA.BO')":1670.8509521484,
+    "('High', 'SUNPHARMA.BO')":1675.1866582691,
+    "('Low', 'SUNPHARMA.BO')":1654.5047256405,
+    "('Open', 'SUNPHARMA.BO')":1661.9801229762,
+    "('Volume', 'SUNPHARMA.BO')":134177
+  },
+  {
+    "('Date', '')":"2025-03-13",
+    "('Close', 'SUNPHARMA.BO')":1678.3264160156,
+    "('High', 'SUNPHARMA.BO')":1682.2136471182,
+    "('Low', 'SUNPHARMA.BO')":1657.8936624882,
+    "('Open', 'SUNPHARMA.BO')":1670.8012554014,
+    "('Volume', 'SUNPHARMA.BO')":95581
+  },
+  {
+    "('Date', '')":"2025-03-17",
+    "('Close', 'SUNPHARMA.BO')":1700.4536132812,
+    "('High', 'SUNPHARMA.BO')":1714.3578037777,
+    "('Low', 'SUNPHARMA.BO')":1683.3598468922,
+    "('Open', 'SUNPHARMA.BO')":1691.8319639457,
+    "('Volume', 'SUNPHARMA.BO')":185132
+  },
+  {
+    "('Date', '')":"2025-03-18",
+    "('Close', 'SUNPHARMA.BO')":1742.8640136719,
+    "('High', 'SUNPHARMA.BO')":1744.3093302144,
+    "('Low', 'SUNPHARMA.BO')":1693.028029513,
+    "('Open', 'SUNPHARMA.BO')":1718.0456692268,
+    "('Volume', 'SUNPHARMA.BO')":120176
+  },
+  {
+    "('Date', '')":"2025-03-19",
+    "('Close', 'SUNPHARMA.BO')":1727.763671875,
+    "('High', 'SUNPHARMA.BO')":1744.2095465117,
+    "('Low', 'SUNPHARMA.BO')":1720.2882743129,
+    "('Open', 'SUNPHARMA.BO')":1744.2095465117,
+    "('Volume', 'SUNPHARMA.BO')":134174
+  },
+  {
+    "('Date', '')":"2025-03-20",
+    "('Close', 'SUNPHARMA.BO')":1744.3590087891,
+    "('High', 'SUNPHARMA.BO')":1751.2363986042,
+    "('Low', 'SUNPHARMA.BO')":1717.2482833864,
+    "('Open', 'SUNPHARMA.BO')":1726.3184077305,
+    "('Volume', 'SUNPHARMA.BO')":23877
+  },
+  {
+    "('Date', '')":"2025-03-21",
+    "('Close', 'SUNPHARMA.BO')":1778.0482177734,
+    "('High', 'SUNPHARMA.BO')":1784.128183338,
+    "('Low', 'SUNPHARMA.BO')":1744.7078722952,
+    "('Open', 'SUNPHARMA.BO')":1744.7078722952,
+    "('Volume', 'SUNPHARMA.BO')":30587
+  },
+  {
+    "('Date', '')":"2025-03-24",
+    "('Close', 'SUNPHARMA.BO')":1779.4436035156,
+    "('High', 'SUNPHARMA.BO')":1812.3851142743,
+    "('Low', 'SUNPHARMA.BO')":1772.5163290875,
+    "('Open', 'SUNPHARMA.BO')":1783.081532828,
+    "('Volume', 'SUNPHARMA.BO')":19153
+  },
+  {
+    "('Date', '')":"2025-03-25",
+    "('Close', 'SUNPHARMA.BO')":1760.2069091797,
+    "('High', 'SUNPHARMA.BO')":1789.8094342392,
+    "('Low', 'SUNPHARMA.BO')":1753.0803393187,
+    "('Open', 'SUNPHARMA.BO')":1783.0815765738,
+    "('Volume', 'SUNPHARMA.BO')":63283
+  },
+  {
+    "('Date', '')":"2025-03-26",
+    "('Close', 'SUNPHARMA.BO')":1751.9340820312,
+    "('High', 'SUNPHARMA.BO')":1764.7917898641,
+    "('Low', 'SUNPHARMA.BO')":1740.0732155193,
+    "('Open', 'SUNPHARMA.BO')":1760.2069038031,
+    "('Volume', 'SUNPHARMA.BO')":140517
+  },
+  {
+    "('Date', '')":"2025-03-27",
+    "('Close', 'SUNPHARMA.BO')":1725.5209960938,
+    "('High', 'SUNPHARMA.BO')":1744.2593740371,
+    "('Low', 'SUNPHARMA.BO')":1715.3545044102,
+    "('Open', 'SUNPHARMA.BO')":1744.2593740371,
+    "('Volume', 'SUNPHARMA.BO')":64784
+  },
+  {
+    "('Date', '')":"2025-03-28",
+    "('Close', 'SUNPHARMA.BO')":1729.7570800781,
+    "('High', 'SUNPHARMA.BO')":1734.8902106457,
+    "('Low', 'SUNPHARMA.BO')":1700.0050226506,
+    "('Open', 'SUNPHARMA.BO')":1727.3151655864,
+    "('Volume', 'SUNPHARMA.BO')":106081
+  },
+  {
+    "('Date', '')":"2025-04-01",
+    "('Close', 'SUNPHARMA.BO')":1691.3834228516,
+    "('High', 'SUNPHARMA.BO')":1727.2155685729,
+    "('Low', 'SUNPHARMA.BO')":1675.734972446,
+    "('Open', 'SUNPHARMA.BO')":1721.4844303771,
+    "('Volume', 'SUNPHARMA.BO')":194187
+  },
+  {
+    "('Date', '')":"2025-04-02",
+    "('Close', 'SUNPHARMA.BO')":1708.6267089844,
+    "('High', 'SUNPHARMA.BO')":1712.6634723505,
+    "('Low', 'SUNPHARMA.BO')":1682.7618819935,
+    "('Open', 'SUNPHARMA.BO')":1691.3834098772,
+    "('Volume', 'SUNPHARMA.BO')":26815
+  },
+  {
+    "('Date', '')":"2025-04-03",
+    "('Close', 'SUNPHARMA.BO')":1764.2934570312,
+    "('High', 'SUNPHARMA.BO')":1806.4547475848,
+    "('Low', 'SUNPHARMA.BO')":1747.0502798057,
+    "('Open', 'SUNPHARMA.BO')":1748.34594237,
+    "('Volume', 'SUNPHARMA.BO')":114004
+  },
+  {
+    "('Date', '')":"2025-04-04",
+    "('Close', 'SUNPHARMA.BO')":1703.7926025391,
+    "('High', 'SUNPHARMA.BO')":1775.8553605914,
+    "('Low', 'SUNPHARMA.BO')":1652.5611879396,
+    "('Open', 'SUNPHARMA.BO')":1766.2868762377,
+    "('Volume', 'SUNPHARMA.BO')":145024
+  },
+  {
+    "('Date', '')":"2025-04-07",
+    "('Close', 'SUNPHARMA.BO')":1662.8771972656,
+    "('High', 'SUNPHARMA.BO')":1679.5224883577,
+    "('Low', 'SUNPHARMA.BO')":1565.0990243155,
+    "('Open', 'SUNPHARMA.BO')":1565.0990243155,
+    "('Volume', 'SUNPHARMA.BO')":157926
+  },
+  {
+    "('Date', '')":"2025-04-08",
+    "('Close', 'SUNPHARMA.BO')":1683.2103271484,
+    "('High', 'SUNPHARMA.BO')":1704.3407352891,
+    "('Low', 'SUNPHARMA.BO')":1643.8897851985,
+    "('Open', 'SUNPHARMA.BO')":1662.8274587534,
+    "('Volume', 'SUNPHARMA.BO')":83512
+  },
+  {
+    "('Date', '')":"2025-04-09",
+    "('Close', 'SUNPHARMA.BO')":1646.6805419922,
+    "('High', 'SUNPHARMA.BO')":1674.0405699276,
+    "('Low', 'SUNPHARMA.BO')":1639.6038566712,
+    "('Open', 'SUNPHARMA.BO')":1655.5513713866,
+    "('Volume', 'SUNPHARMA.BO')":58139
+  },
+  {
+    "('Date', '')":"2025-04-11",
+    "('Close', 'SUNPHARMA.BO')":1682.0142822266,
+    "('High', 'SUNPHARMA.BO')":1730.1060050017,
+    "('Low', 'SUNPHARMA.BO')":1677.1303316418,
+    "('Open', 'SUNPHARMA.BO')":1711.2180947648,
+    "('Volume', 'SUNPHARMA.BO')":57675
+  },
+  {
+    "('Date', '')":"2025-04-15",
+    "('Close', 'SUNPHARMA.BO')":1699.5565185547,
+    "('High', 'SUNPHARMA.BO')":1721.8830628256,
+    "('Low', 'SUNPHARMA.BO')":1692.4299487944,
+    "('Open', 'SUNPHARMA.BO')":1721.8830628256,
+    "('Volume', 'SUNPHARMA.BO')":27663
+  },
+  {
+    "('Date', '')":"2025-04-16",
+    "('Close', 'SUNPHARMA.BO')":1687.0975341797,
+    "('High', 'SUNPHARMA.BO')":1693.476564252,
+    "('Low', 'SUNPHARMA.BO')":1676.6319778902,
+    "('Open', 'SUNPHARMA.BO')":1684.4063181319,
+    "('Volume', 'SUNPHARMA.BO')":23910
+  },
+  {
+    "('Date', '')":"2025-04-17",
+    "('Close', 'SUNPHARMA.BO')":1745.3060302734,
+    "('High', 'SUNPHARMA.BO')":1751.2364636537,
+    "('Low', 'SUNPHARMA.BO')":1682.4628062877,
+    "('Open', 'SUNPHARMA.BO')":1687.5460522808,
+    "('Volume', 'SUNPHARMA.BO')":21749
+  },
+  {
+    "('Date', '')":"2025-04-21",
+    "('Close', 'SUNPHARMA.BO')":1738.3787841797,
+    "('High', 'SUNPHARMA.BO')":1763.9945531731,
+    "('Low', 'SUNPHARMA.BO')":1726.3185002842,
+    "('Open', 'SUNPHARMA.BO')":1763.9945531731,
+    "('Volume', 'SUNPHARMA.BO')":26008
+  },
+  {
+    "('Date', '')":"2025-04-22",
+    "('Close', 'SUNPHARMA.BO')":1741.5184326172,
+    "('High', 'SUNPHARMA.BO')":1754.774852814,
+    "('Low', 'SUNPHARMA.BO')":1729.1590844518,
+    "('Open', 'SUNPHARMA.BO')":1754.774852814,
+    "('Volume', 'SUNPHARMA.BO')":24952
+  },
+  {
+    "('Date', '')":"2025-04-23",
+    "('Close', 'SUNPHARMA.BO')":1783.0318603516,
+    "('High', 'SUNPHARMA.BO')":1786.1216670264,
+    "('Low', 'SUNPHARMA.BO')":1737.1328704076,
+    "('Open', 'SUNPHARMA.BO')":1751.4357734854,
+    "('Volume', 'SUNPHARMA.BO')":19562
+  },
+  {
+    "('Date', '')":"2025-04-24",
+    "('Close', 'SUNPHARMA.BO')":1798.5805664062,
+    "('High', 'SUNPHARMA.BO')":1801.5707252864,
+    "('Low', 'SUNPHARMA.BO')":1768.6789776048,
+    "('Open', 'SUNPHARMA.BO')":1784.1780164682,
+    "('Volume', 'SUNPHARMA.BO')":49491
+  },
+  {
+    "('Date', '')":"2025-04-25",
+    "('Close', 'SUNPHARMA.BO')":1780.9885253906,
+    "('High', 'SUNPHARMA.BO')":1809.4946837369,
+    "('Low', 'SUNPHARMA.BO')":1757.8646776187,
+    "('Open', 'SUNPHARMA.BO')":1798.082292136,
+    "('Volume', 'SUNPHARMA.BO')":65989
+  },
+  {
+    "('Date', '')":"2025-04-28",
+    "('Close', 'SUNPHARMA.BO')":1835.7583007812,
+    "('High', 'SUNPHARMA.BO')":1838.9477549946,
+    "('Low', 'SUNPHARMA.BO')":1774.8586328057,
+    "('Open', 'SUNPHARMA.BO')":1787.2678654551,
+    "('Volume', 'SUNPHARMA.BO')":34409
+  },
+  {
+    "('Date', '')":"2025-04-29",
+    "('Close', 'SUNPHARMA.BO')":1798.8796386719,
+    "('High', 'SUNPHARMA.BO')":1839.9943234501,
+    "('Low', 'SUNPHARMA.BO')":1787.6665428233,
+    "('Open', 'SUNPHARMA.BO')":1836.6054523707,
+    "('Volume', 'SUNPHARMA.BO')":56280
+  },
+  {
+    "('Date', '')":"2025-04-30",
+    "('Close', 'SUNPHARMA.BO')":1824.1962890625,
+    "('High', 'SUNPHARMA.BO')":1832.7681755496,
+    "('Low', 'SUNPHARMA.BO')":1798.8797068124,
+    "('Open', 'SUNPHARMA.BO')":1803.7635358533,
+    "('Volume', 'SUNPHARMA.BO')":34570
+  },
+  {
+    "('Date', '')":"2025-05-02",
+    "('Close', 'SUNPHARMA.BO')":1822.7510986328,
+    "('High', 'SUNPHARMA.BO')":1844.8782266646,
+    "('Low', 'SUNPHARMA.BO')":1808.0993681347,
+    "('Open', 'SUNPHARMA.BO')":1826.0403222156,
+    "('Volume', 'SUNPHARMA.BO')":107869
+  },
+  {
+    "('Date', '')":"2025-05-05",
+    "('Close', 'SUNPHARMA.BO')":1829.1301269531,
+    "('High', 'SUNPHARMA.BO')":1836.7051721121,
+    "('Low', 'SUNPHARMA.BO')":1814.4285118189,
+    "('Open', 'SUNPHARMA.BO')":1814.4285118189,
+    "('Volume', 'SUNPHARMA.BO')":24174
+  },
+  {
+    "('Date', '')":"2025-05-06",
+    "('Close', 'SUNPHARMA.BO')":1812.7839355469,
+    "('High', 'SUNPHARMA.BO')":1823.947147403,
+    "('Low', 'SUNPHARMA.BO')":1794.5439165584,
+    "('Open', 'SUNPHARMA.BO')":1823.947147403,
+    "('Volume', 'SUNPHARMA.BO')":25806
+  },
+  {
+    "('Date', '')":"2025-05-07",
+    "('Close', 'SUNPHARMA.BO')":1775.5065917969,
+    "('High', 'SUNPHARMA.BO')":1819.0134305099,
+    "('Low', 'SUNPHARMA.BO')":1773.014792577,
+    "('Open', 'SUNPHARMA.BO')":1794.1453229635,
+    "('Volume', 'SUNPHARMA.BO')":43082
+  },
+  {
+    "('Date', '')":"2025-05-08",
+    "('Close', 'SUNPHARMA.BO')":1760.40625,
+    "('High', 'SUNPHARMA.BO')":1780.5898235183,
+    "('Low', 'SUNPHARMA.BO')":1750.8377654068,
+    "('Open', 'SUNPHARMA.BO')":1776.8023617366,
+    "('Volume', 'SUNPHARMA.BO')":21631
+  },
+  {
+    "('Date', '')":"2025-05-09",
+    "('Close', 'SUNPHARMA.BO')":1739.1262207031,
+    "('High', 'SUNPHARMA.BO')":1760.1072175661,
+    "('Low', 'SUNPHARMA.BO')":1726.3183978017,
+    "('Open', 'SUNPHARMA.BO')":1734.3420394848,
+    "('Volume', 'SUNPHARMA.BO')":14684
+  },
+  {
+    "('Date', '')":"2025-05-12",
+    "('Close', 'SUNPHARMA.BO')":1680.7185058594,
+    "('High', 'SUNPHARMA.BO')":1707.3308717838,
+    "('Low', 'SUNPHARMA.BO')":1618.174347969,
+    "('Open', 'SUNPHARMA.BO')":1694.3735163643,
+    "('Volume', 'SUNPHARMA.BO')":438366
+  },
+  {
+    "('Date', '')":"2025-05-13",
+    "('Close', 'SUNPHARMA.BO')":1694.7722167969,
+    "('High', 'SUNPHARMA.BO')":1743.2626516528,
+    "('Low', 'SUNPHARMA.BO')":1685.55256012,
+    "('Open', 'SUNPHARMA.BO')":1713.3610624306,
+    "('Volume', 'SUNPHARMA.BO')":250850
+  },
+  {
+    "('Date', '')":"2025-05-14",
+    "('Close', 'SUNPHARMA.BO')":1702.4470214844,
+    "('High', 'SUNPHARMA.BO')":1704.390576105,
+    "('Low', 'SUNPHARMA.BO')":1687.0476301194,
+    "('Open', 'SUNPHARMA.BO')":1697.9118984765,
+    "('Volume', 'SUNPHARMA.BO')":54352
+  },
+  {
+    "('Date', '')":"2025-05-15",
+    "('Close', 'SUNPHARMA.BO')":1733.943359375,
+    "('High', 'SUNPHARMA.BO')":1738.3289501587,
+    "('Low', 'SUNPHARMA.BO')":1679.4726062967,
+    "('Open', 'SUNPHARMA.BO')":1702.3971581928,
+    "('Volume', 'SUNPHARMA.BO')":51244
+  },
+  {
+    "('Date', '')":"2025-05-16",
+    "('Close', 'SUNPHARMA.BO')":1729.2586669922,
+    "('High', 'SUNPHARMA.BO')":1735.8371138617,
+    "('Low', 'SUNPHARMA.BO')":1713.111857714,
+    "('Open', 'SUNPHARMA.BO')":1733.9433222378,
+    "('Volume', 'SUNPHARMA.BO')":72747
+  },
+  {
+    "('Date', '')":"2025-05-19",
+    "('Close', 'SUNPHARMA.BO')":1724.4744873047,
+    "('High', 'SUNPHARMA.BO')":1759.1602573287,
+    "('Low', 'SUNPHARMA.BO')":1721.4344437738,
+    "('Open', 'SUNPHARMA.BO')":1735.338755575,
+    "('Volume', 'SUNPHARMA.BO')":64751
+  },
+  {
+    "('Date', '')":"2025-05-20",
+    "('Close', 'SUNPHARMA.BO')":1701.7492675781,
+    "('High', 'SUNPHARMA.BO')":1744.9570400078,
+    "('Low', 'SUNPHARMA.BO')":1698.1611011774,
+    "('Open', 'SUNPHARMA.BO')":1744.9570400078,
+    "('Volume', 'SUNPHARMA.BO')":33924
+  },
+  {
+    "('Date', '')":"2025-05-21",
+    "('Close', 'SUNPHARMA.BO')":1725.9196777344,
+    "('High', 'SUNPHARMA.BO')":1753.2298197841,
+    "('Low', 'SUNPHARMA.BO')":1706.184702168,
+    "('Open', 'SUNPHARMA.BO')":1708.6765012296,
+    "('Volume', 'SUNPHARMA.BO')":51791
+  },
+  {
+    "('Date', '')":"2025-05-22",
+    "('Close', 'SUNPHARMA.BO')":1714.3577880859,
+    "('High', 'SUNPHARMA.BO')":1735.0397207038,
+    "('Low', 'SUNPHARMA.BO')":1702.3971523551,
+    "('Open', 'SUNPHARMA.BO')":1728.1623308246,
+    "('Volume', 'SUNPHARMA.BO')":62714
+  },
+  {
+    "('Date', '')":"2025-05-23",
+    "('Close', 'SUNPHARMA.BO')":1677.7283935547,
+    "('High', 'SUNPHARMA.BO')":1683.4096470363,
+    "('Low', 'SUNPHARMA.BO')":1630.9324534643,
+    "('Open', 'SUNPHARMA.BO')":1647.2287958226,
+    "('Volume', 'SUNPHARMA.BO')":223841
+  },
+  {
+    "('Date', '')":"2025-05-26",
+    "('Close', 'SUNPHARMA.BO')":1670.2529296875,
+    "('High', 'SUNPHARMA.BO')":1696.8155323155,
+    "('Low', 'SUNPHARMA.BO')":1661.830697433,
+    "('Open', 'SUNPHARMA.BO')":1694.3734962058,
+    "('Volume', 'SUNPHARMA.BO')":84509
+  },
+  {
+    "('Date', '')":"2025-05-27",
+    "('Close', 'SUNPHARMA.BO')":1678.1768798828,
+    "('High', 'SUNPHARMA.BO')":1684.0575503405,
+    "('Low', 'SUNPHARMA.BO')":1654.9533842946,
+    "('Open', 'SUNPHARMA.BO')":1679.3231318511,
+    "('Volume', 'SUNPHARMA.BO')":144168
+  },
+  {
+    "('Date', '')":"2025-05-28",
+    "('Close', 'SUNPHARMA.BO')":1660.3356933594,
+    "('High', 'SUNPHARMA.BO')":1680.3697346145,
+    "('Low', 'SUNPHARMA.BO')":1657.5448295845,
+    "('Open', 'SUNPHARMA.BO')":1677.4792232055,
+    "('Volume', 'SUNPHARMA.BO')":178969
+  },
+  {
+    "('Date', '')":"2025-05-29",
+    "('Close', 'SUNPHARMA.BO')":1694.2739257812,
+    "('High', 'SUNPHARMA.BO')":1697.9618616037,
+    "('Low', 'SUNPHARMA.BO')":1665.5185873121,
+    "('Open', 'SUNPHARMA.BO')":1665.7178825804,
+    "('Volume', 'SUNPHARMA.BO')":89255
+  },
+  {
+    "('Date', '')":"2025-05-30",
+    "('Close', 'SUNPHARMA.BO')":1672.7946777344,
+    "('High', 'SUNPHARMA.BO')":1708.1782261654,
+    "('Low', 'SUNPHARMA.BO')":1663.6746683823,
+    "('Open', 'SUNPHARMA.BO')":1694.5729782798,
+    "('Volume', 'SUNPHARMA.BO')":98183
+  },
+  {
+    "('Date', '')":"2025-06-02",
+    "('Close', 'SUNPHARMA.BO')":1669.4057617188,
+    "('High', 'SUNPHARMA.BO')":1679.2234259114,
+    "('Low', 'SUNPHARMA.BO')":1654.6044992892,
+    "('Open', 'SUNPHARMA.BO')":1679.2234259114,
+    "('Volume', 'SUNPHARMA.BO')":141144
+  },
+  {
+    "('Date', '')":"2025-06-03",
+    "('Close', 'SUNPHARMA.BO')":1662.1795654297,
+    "('High', 'SUNPHARMA.BO')":1687.2968521952,
+    "('Low', 'SUNPHARMA.BO')":1652.3619011121,
+    "('Open', 'SUNPHARMA.BO')":1676.8312957646,
+    "('Volume', 'SUNPHARMA.BO')":115411
+  },
+  {
+    "('Date', '')":"2025-06-04",
+    "('Close', 'SUNPHARMA.BO')":1659.7873535156,
+    "('High', 'SUNPHARMA.BO')":1663.7742320108,
+    "('Low', 'SUNPHARMA.BO')":1642.7932352621,
+    "('Open', 'SUNPHARMA.BO')":1642.7932352621,
+    "('Volume', 'SUNPHARMA.BO')":80805
+  },
+  {
+    "('Date', '')":"2025-06-05",
+    "('Close', 'SUNPHARMA.BO')":1677.7283935547,
+    "('High', 'SUNPHARMA.BO')":1688.0444178607,
+    "('Low', 'SUNPHARMA.BO')":1655.6012654296,
+    "('Open', 'SUNPHARMA.BO')":1656.5979851049,
+    "('Volume', 'SUNPHARMA.BO')":59001
+  },
+  {
+    "('Date', '')":"2025-06-06",
+    "('Close', 'SUNPHARMA.BO')":1674.4390869141,
+    "('High', 'SUNPHARMA.BO')":1684.4062831734,
+    "('Low', 'SUNPHARMA.BO')":1663.7243509353,
+    "('Open', 'SUNPHARMA.BO')":1684.4062831734,
+    "('Volume', 'SUNPHARMA.BO')":46947
+  },
+  {
+    "('Date', '')":"2025-06-09",
+    "('Close', 'SUNPHARMA.BO')":1688.7421875,
+    "('High', 'SUNPHARMA.BO')":1692.4300016153,
+    "('Low', 'SUNPHARMA.BO')":1667.5120098365,
+    "('Open', 'SUNPHARMA.BO')":1669.8045137481,
+    "('Volume', 'SUNPHARMA.BO')":109346
+  },
+  {
+    "('Date', '')":"2025-06-10",
+    "('Close', 'SUNPHARMA.BO')":1682.7119140625,
+    "('High', 'SUNPHARMA.BO')":1699.4069678523,
+    "('Low', 'SUNPHARMA.BO')":1672.0968256771,
+    "('Open', 'SUNPHARMA.BO')":1689.9381313745,
+    "('Volume', 'SUNPHARMA.BO')":135710
+  },
+  {
+    "('Date', '')":"2025-06-11",
+    "('Close', 'SUNPHARMA.BO')":1685.8516845703,
+    "('High', 'SUNPHARMA.BO')":1695.0214569229,
+    "('Low', 'SUNPHARMA.BO')":1674.1899913575,
+    "('Open', 'SUNPHARMA.BO')":1695.0214569229,
+    "('Volume', 'SUNPHARMA.BO')":25864
+  },
+  {
+    "('Date', '')":"2025-06-12",
+    "('Close', 'SUNPHARMA.BO')":1681.4660644531,
+    "('High', 'SUNPHARMA.BO')":1721.8332106359,
+    "('Low', 'SUNPHARMA.BO')":1677.4791858178,
+    "('Open', 'SUNPHARMA.BO')":1679.3729775035,
+    "('Volume', 'SUNPHARMA.BO')":103667
+  },
+  {
+    "('Date', '')":"2025-06-13",
+    "('Close', 'SUNPHARMA.BO')":1683.1604003906,
+    "('High', 'SUNPHARMA.BO')":1693.9250211257,
+    "('Low', 'SUNPHARMA.BO')":1646.9296659615,
+    "('Open', 'SUNPHARMA.BO')":1646.9296659615,
+    "('Volume', 'SUNPHARMA.BO')":42174
+  },
+  {
+    "('Date', '')":"2025-06-16",
+    "('Close', 'SUNPHARMA.BO')":1680.0208740234,
+    "('High', 'SUNPHARMA.BO')":1684.4562278489,
+    "('Low', 'SUNPHARMA.BO')":1649.6209243492,
+    "('Open', 'SUNPHARMA.BO')":1668.5087132657,
+    "('Volume', 'SUNPHARMA.BO')":167353
+  },
+  {
+    "('Date', '')":"2025-06-17",
+    "('Close', 'SUNPHARMA.BO')":1643.4411621094,
+    "('High', 'SUNPHARMA.BO')":1679.5722492359,
+    "('Low', 'SUNPHARMA.BO')":1636.015649423,
+    "('Open', 'SUNPHARMA.BO')":1679.5722492359,
+    "('Volume', 'SUNPHARMA.BO')":557292
+  },
+  {
+    "('Date', '')":"2025-06-18",
+    "('Close', 'SUNPHARMA.BO')":1642.2451171875,
+    "('High', 'SUNPHARMA.BO')":1655.5512998693,
+    "('Low', 'SUNPHARMA.BO')":1633.623468083,
+    "('Open', 'SUNPHARMA.BO')":1648.1257873187,
+    "('Volume', 'SUNPHARMA.BO')":77241
+  },
+  {
+    "('Date', '')":"2025-06-19",
+    "('Close', 'SUNPHARMA.BO')":1641.9460449219,
+    "('High', 'SUNPHARMA.BO')":1651.7139458852,
+    "('Low', 'SUNPHARMA.BO')":1630.6333015465,
+    "('Open', 'SUNPHARMA.BO')":1651.7139458852,
+    "('Volume', 'SUNPHARMA.BO')":17742
+  },
+  {
+    "('Date', '')":"2025-06-20",
+    "('Close', 'SUNPHARMA.BO')":1658.5415039062,
+    "('High', 'SUNPHARMA.BO')":1663.9238143707,
+    "('Low', 'SUNPHARMA.BO')":1641.6969174232,
+    "('Open', 'SUNPHARMA.BO')":1641.6969174232,
+    "('Volume', 'SUNPHARMA.BO')":16173
+  },
+  {
+    "('Date', '')":"2025-06-23",
+    "('Close', 'SUNPHARMA.BO')":1656.19921875,
+    "('High', 'SUNPHARMA.BO')":1660.5349248621,
+    "('Low', 'SUNPHARMA.BO')":1642.5939712922,
+    "('Open', 'SUNPHARMA.BO')":1654.0562471841,
+    "('Volume', 'SUNPHARMA.BO')":22752
+  },
+  {
+    "('Date', '')":"2025-06-24",
+    "('Close', 'SUNPHARMA.BO')":1655.8504638672,
+    "('High', 'SUNPHARMA.BO')":1680.917866647,
+    "('Low', 'SUNPHARMA.BO')":1653.508075268,
+    "('Open', 'SUNPHARMA.BO')":1659.5382780393,
+    "('Volume', 'SUNPHARMA.BO')":142834
+  },
+  {
+    "('Date', '')":"2025-06-25",
+    "('Close', 'SUNPHARMA.BO')":1665.0201416016,
+    "('High', 'SUNPHARMA.BO')":1672.4456541757,
+    "('Low', 'SUNPHARMA.BO')":1654.7538807465,
+    "('Open', 'SUNPHARMA.BO')":1662.3788102486,
+    "('Volume', 'SUNPHARMA.BO')":68293
+  },
+  {
+    "('Date', '')":"2025-06-26",
+    "('Close', 'SUNPHARMA.BO')":1663.82421875,
+    "('High', 'SUNPHARMA.BO')":1673.3428187393,
+    "('Low', 'SUNPHARMA.BO')":1644.6373648148,
+    "('Open', 'SUNPHARMA.BO')":1664.8209384349,
+    "('Volume', 'SUNPHARMA.BO')":31171
+  },
+  {
+    "('Date', '')":"2025-06-27",
+    "('Close', 'SUNPHARMA.BO')":1682.4627685547,
+    "('High', 'SUNPHARMA.BO')":1689.6889860144,
+    "('Low', 'SUNPHARMA.BO')":1662.5782602128,
+    "('Open', 'SUNPHARMA.BO')":1662.5782602128,
+    "('Volume', 'SUNPHARMA.BO')":80542
+  },
+  {
+    "('Date', '')":"2025-06-30",
+    "('Close', 'SUNPHARMA.BO')":1671.2995605469,
+    "('High', 'SUNPHARMA.BO')":1698.7591139478,
+    "('Low', 'SUNPHARMA.BO')":1666.1664300069,
+    "('Open', 'SUNPHARMA.BO')":1689.4398095389,
+    "('Volume', 'SUNPHARMA.BO')":68929
+  },
+  {
+    "('Date', '')":"2025-07-01",
+    "('Close', 'SUNPHARMA.BO')":1661.7309570312,
+    "('High', 'SUNPHARMA.BO')":1674.1899526954,
+    "('Low', 'SUNPHARMA.BO')":1652.5611848904,
+    "('Open', 'SUNPHARMA.BO')":1673.0935854109,
+    "('Volume', 'SUNPHARMA.BO')":268129
+  },
+  {
+    "('Date', '')":"2025-07-02",
+    "('Close', 'SUNPHARMA.BO')":1672.3959960938,
+    "('High', 'SUNPHARMA.BO')":1676.4825224983,
+    "('Low', 'SUNPHARMA.BO')":1652.5612498824,
+    "('Open', 'SUNPHARMA.BO')":1654.5546892671,
+    "('Volume', 'SUNPHARMA.BO')":28526
+  },
+  {
+    "('Date', '')":"2025-07-03",
+    "('Close', 'SUNPHARMA.BO')":1673.2431640625,
+    "('High', 'SUNPHARMA.BO')":1686.9979443248,
+    "('Low', 'SUNPHARMA.BO')":1669.0071054193,
+    "('Open', 'SUNPHARMA.BO')":1670.7513648606,
+    "('Volume', 'SUNPHARMA.BO')":60425
+  },
+  {
+    "('Date', '')":"2025-07-04",
+    "('Close', 'SUNPHARMA.BO')":1671.1500244141,
+    "('High', 'SUNPHARMA.BO')":1680.4693288015,
+    "('Low', 'SUNPHARMA.BO')":1666.6149013416,
+    "('Open', 'SUNPHARMA.BO')":1680.4693288015,
+    "('Volume', 'SUNPHARMA.BO')":116798
+  },
+  {
+    "('Date', '')":"2025-07-07",
+    "('Close', 'SUNPHARMA.BO')":1679.8000488281,
+    "('High', 'SUNPHARMA.BO')":1681.9000244141,
+    "('Low', 'SUNPHARMA.BO')":1662.8499755859,
+    "('Open', 'SUNPHARMA.BO')":1671.4499511719,
+    "('Volume', 'SUNPHARMA.BO')":16013
+  },
+  {
+    "('Date', '')":"2025-07-08",
+    "('Close', 'SUNPHARMA.BO')":1672.8499755859,
+    "('High', 'SUNPHARMA.BO')":1681.0,
+    "('Low', 'SUNPHARMA.BO')":1650.0,
+    "('Open', 'SUNPHARMA.BO')":1679.9000244141,
+    "('Volume', 'SUNPHARMA.BO')":82380
+  },
+  {
+    "('Date', '')":"2025-07-09",
+    "('Close', 'SUNPHARMA.BO')":1667.1500244141,
+    "('High', 'SUNPHARMA.BO')":1681.0999755859,
+    "('Low', 'SUNPHARMA.BO')":1649.0,
+    "('Open', 'SUNPHARMA.BO')":1662.1999511719,
+    "('Volume', 'SUNPHARMA.BO')":29144
+  },
+  {
+    "('Date', '')":"2025-07-10",
+    "('Close', 'SUNPHARMA.BO')":1663.1500244141,
+    "('High', 'SUNPHARMA.BO')":1669.9499511719,
+    "('Low', 'SUNPHARMA.BO')":1646.9499511719,
+    "('Open', 'SUNPHARMA.BO')":1667.1500244141,
+    "('Volume', 'SUNPHARMA.BO')":65257
+  },
+  {
+    "('Date', '')":"2025-07-11",
+    "('Close', 'SUNPHARMA.BO')":1672.5,
+    "('High', 'SUNPHARMA.BO')":1679.5999755859,
+    "('Low', 'SUNPHARMA.BO')":1662.0,
+    "('Open', 'SUNPHARMA.BO')":1663.75,
+    "('Volume', 'SUNPHARMA.BO')":41961
+  },
+  {
+    "('Date', '')":"2025-07-14",
+    "('Close', 'SUNPHARMA.BO')":1682.0500488281,
+    "('High', 'SUNPHARMA.BO')":1696.0,
+    "('Low', 'SUNPHARMA.BO')":1676.8000488281,
+    "('Open', 'SUNPHARMA.BO')":1682.0,
+    "('Volume', 'SUNPHARMA.BO')":61978
+  },
+  {
+    "('Date', '')":"2025-07-15",
+    "('Close', 'SUNPHARMA.BO')":1727.6999511719,
+    "('High', 'SUNPHARMA.BO')":1730.9499511719,
+    "('Low', 'SUNPHARMA.BO')":1688.8499755859,
+    "('Open', 'SUNPHARMA.BO')":1700.0,
+    "('Volume', 'SUNPHARMA.BO')":151273
+  },
+  {
+    "('Date', '')":"2025-07-16",
+    "('Close', 'SUNPHARMA.BO')":1700.8499755859,
+    "('High', 'SUNPHARMA.BO')":1732.8000488281,
+    "('Low', 'SUNPHARMA.BO')":1698.0,
+    "('Open', 'SUNPHARMA.BO')":1730.0,
+    "('Volume', 'SUNPHARMA.BO')":46980
+  },
+  {
+    "('Date', '')":"2025-07-17",
+    "('Close', 'SUNPHARMA.BO')":1703.25,
+    "('High', 'SUNPHARMA.BO')":1717.1500244141,
+    "('Low', 'SUNPHARMA.BO')":1699.1500244141,
+    "('Open', 'SUNPHARMA.BO')":1701.0999755859,
+    "('Volume', 'SUNPHARMA.BO')":58107
+  },
+  {
+    "('Date', '')":"2025-07-18",
+    "('Close', 'SUNPHARMA.BO')":1693.25,
+    "('High', 'SUNPHARMA.BO')":1711.75,
+    "('Low', 'SUNPHARMA.BO')":1687.5500488281,
+    "('Open', 'SUNPHARMA.BO')":1711.75,
+    "('Volume', 'SUNPHARMA.BO')":56356
+  },
+  {
+    "('Date', '')":"2025-07-21",
+    "('Close', 'SUNPHARMA.BO')":1691.5999755859,
+    "('High', 'SUNPHARMA.BO')":1700.0,
+    "('Low', 'SUNPHARMA.BO')":1678.0,
+    "('Open', 'SUNPHARMA.BO')":1693.4499511719,
+    "('Volume', 'SUNPHARMA.BO')":17172
+  },
+  {
+    "('Date', '')":"2025-07-22",
+    "('Close', 'SUNPHARMA.BO')":1678.0500488281,
+    "('High', 'SUNPHARMA.BO')":1691.1999511719,
+    "('Low', 'SUNPHARMA.BO')":1672.9499511719,
+    "('Open', 'SUNPHARMA.BO')":1687.0,
+    "('Volume', 'SUNPHARMA.BO')":17050
+  },
+  {
+    "('Date', '')":"2025-07-23",
+    "('Close', 'SUNPHARMA.BO')":1682.5999755859,
+    "('High', 'SUNPHARMA.BO')":1688.9499511719,
+    "('Low', 'SUNPHARMA.BO')":1671.0,
+    "('Open', 'SUNPHARMA.BO')":1687.3000488281,
+    "('Volume', 'SUNPHARMA.BO')":96217
+  },
+  {
+    "('Date', '')":"2025-07-24",
+    "('Close', 'SUNPHARMA.BO')":1692.0999755859,
+    "('High', 'SUNPHARMA.BO')":1695.0,
+    "('Low', 'SUNPHARMA.BO')":1680.0,
+    "('Open', 'SUNPHARMA.BO')":1682.8000488281,
+    "('Volume', 'SUNPHARMA.BO')":160759
+  },
+  {
+    "('Date', '')":"2025-07-25",
+    "('Close', 'SUNPHARMA.BO')":1698.5999755859,
+    "('High', 'SUNPHARMA.BO')":1701.5,
+    "('Low', 'SUNPHARMA.BO')":1682.3000488281,
+    "('Open', 'SUNPHARMA.BO')":1692.0999755859,
+    "('Volume', 'SUNPHARMA.BO')":95901
+  },
+  {
+    "('Date', '')":"2025-07-28",
+    "('Close', 'SUNPHARMA.BO')":1702.9499511719,
+    "('High', 'SUNPHARMA.BO')":1709.8000488281,
+    "('Low', 'SUNPHARMA.BO')":1693.8000488281,
+    "('Open', 'SUNPHARMA.BO')":1709.8000488281,
+    "('Volume', 'SUNPHARMA.BO')":92586
+  },
+  {
+    "('Date', '')":"2025-07-29",
+    "('Close', 'SUNPHARMA.BO')":1710.75,
+    "('High', 'SUNPHARMA.BO')":1718.75,
+    "('Low', 'SUNPHARMA.BO')":1696.5,
+    "('Open', 'SUNPHARMA.BO')":1696.5,
+    "('Volume', 'SUNPHARMA.BO')":124716
+  },
+  {
+    "('Date', '')":"2025-07-30",
+    "('Close', 'SUNPHARMA.BO')":1734.9499511719,
+    "('High', 'SUNPHARMA.BO')":1739.9000244141,
+    "('Low', 'SUNPHARMA.BO')":1712.5,
+    "('Open', 'SUNPHARMA.BO')":1720.0,
+    "('Volume', 'SUNPHARMA.BO')":73760
+  },
+  {
+    "('Date', '')":"2025-07-31",
+    "('Close', 'SUNPHARMA.BO')":1705.5500488281,
+    "('High', 'SUNPHARMA.BO')":1747.6999511719,
+    "('Low', 'SUNPHARMA.BO')":1692.5,
+    "('Open', 'SUNPHARMA.BO')":1711.1999511719,
+    "('Volume', 'SUNPHARMA.BO')":124940
+  },
+  {
+    "('Date', '')":"2025-08-01",
+    "('Close', 'SUNPHARMA.BO')":1629.0500488281,
+    "('High', 'SUNPHARMA.BO')":1690.4000244141,
+    "('Low', 'SUNPHARMA.BO')":1608.3000488281,
+    "('Open', 'SUNPHARMA.BO')":1690.0999755859,
+    "('Volume', 'SUNPHARMA.BO')":419069
+  },
+  {
+    "('Date', '')":"2025-08-04",
+    "('Close', 'SUNPHARMA.BO')":1641.0,
+    "('High', 'SUNPHARMA.BO')":1647.0,
+    "('Low', 'SUNPHARMA.BO')":1614.25,
+    "('Open', 'SUNPHARMA.BO')":1634.6500244141,
+    "('Volume', 'SUNPHARMA.BO')":37144
+  },
+  {
+    "('Date', '')":"2025-08-05",
+    "('Close', 'SUNPHARMA.BO')":1632.1500244141,
+    "('High', 'SUNPHARMA.BO')":1643.6500244141,
+    "('Low', 'SUNPHARMA.BO')":1621.0,
+    "('Open', 'SUNPHARMA.BO')":1640.0,
+    "('Volume', 'SUNPHARMA.BO')":16336
+  },
+  {
+    "('Date', '')":"2025-08-06",
+    "('Close', 'SUNPHARMA.BO')":1594.0999755859,
+    "('High', 'SUNPHARMA.BO')":1626.0,
+    "('Low', 'SUNPHARMA.BO')":1591.0,
+    "('Open', 'SUNPHARMA.BO')":1625.1999511719,
+    "('Volume', 'SUNPHARMA.BO')":60740
+  },
+  {
+    "('Date', '')":"2025-08-07",
+    "('Close', 'SUNPHARMA.BO')":1598.6500244141,
+    "('High', 'SUNPHARMA.BO')":1604.6500244141,
+    "('Low', 'SUNPHARMA.BO')":1571.1500244141,
+    "('Open', 'SUNPHARMA.BO')":1581.0,
+    "('Volume', 'SUNPHARMA.BO')":121150
+  },
+  {
+    "('Date', '')":"2025-08-08",
+    "('Close', 'SUNPHARMA.BO')":1586.6999511719,
+    "('High', 'SUNPHARMA.BO')":1600.4499511719,
+    "('Low', 'SUNPHARMA.BO')":1581.25,
+    "('Open', 'SUNPHARMA.BO')":1581.25,
+    "('Volume', 'SUNPHARMA.BO')":24750
+  },
+  {
+    "('Date', '')":"2025-08-11",
+    "('Close', 'SUNPHARMA.BO')":1612.5999755859,
+    "('High', 'SUNPHARMA.BO')":1652.3000488281,
+    "('Low', 'SUNPHARMA.BO')":1584.5,
+    "('Open', 'SUNPHARMA.BO')":1586.6999511719,
+    "('Volume', 'SUNPHARMA.BO')":14492
+  },
+  {
+    "('Date', '')":"2025-08-12",
+    "('Close', 'SUNPHARMA.BO')":1622.0,
+    "('High', 'SUNPHARMA.BO')":1636.0,
+    "('Low', 'SUNPHARMA.BO')":1606.4499511719,
+    "('Open', 'SUNPHARMA.BO')":1606.4499511719,
+    "('Volume', 'SUNPHARMA.BO')":76875
+  },
+  {
+    "('Date', '')":"2025-08-13",
+    "('Close', 'SUNPHARMA.BO')":1639.5500488281,
+    "('High', 'SUNPHARMA.BO')":1642.4000244141,
+    "('Low', 'SUNPHARMA.BO')":1619.5999755859,
+    "('Open', 'SUNPHARMA.BO')":1637.5999755859,
+    "('Volume', 'SUNPHARMA.BO')":12242
+  },
+  {
+    "('Date', '')":"2025-08-14",
+    "('Close', 'SUNPHARMA.BO')":1642.5999755859,
+    "('High', 'SUNPHARMA.BO')":1650.6999511719,
+    "('Low', 'SUNPHARMA.BO')":1632.3000488281,
+    "('Open', 'SUNPHARMA.BO')":1632.3499755859,
+    "('Volume', 'SUNPHARMA.BO')":50432
+  },
+  {
+    "('Date', '')":"2025-08-18",
+    "('Close', 'SUNPHARMA.BO')":1632.4000244141,
+    "('High', 'SUNPHARMA.BO')":1649.9499511719,
+    "('Low', 'SUNPHARMA.BO')":1626.0,
+    "('Open', 'SUNPHARMA.BO')":1643.1999511719,
+    "('Volume', 'SUNPHARMA.BO')":32827
+  },
+  {
+    "('Date', '')":"2025-08-19",
+    "('Close', 'SUNPHARMA.BO')":1626.25,
+    "('High', 'SUNPHARMA.BO')":1640.5500488281,
+    "('Low', 'SUNPHARMA.BO')":1619.0999755859,
+    "('Open', 'SUNPHARMA.BO')":1640.5500488281,
+    "('Volume', 'SUNPHARMA.BO')":75469
+  },
+  {
+    "('Date', '')":"2025-08-20",
+    "('Close', 'SUNPHARMA.BO')":1634.5999755859,
+    "('High', 'SUNPHARMA.BO')":1636.5500488281,
+    "('Low', 'SUNPHARMA.BO')":1616.5999755859,
+    "('Open', 'SUNPHARMA.BO')":1626.5500488281,
+    "('Volume', 'SUNPHARMA.BO')":73537
+  },
+  {
+    "('Date', '')":"2025-08-21",
+    "('Close', 'SUNPHARMA.BO')":1639.6999511719,
+    "('High', 'SUNPHARMA.BO')":1652.0,
+    "('Low', 'SUNPHARMA.BO')":1626.8499755859,
+    "('Open', 'SUNPHARMA.BO')":1632.0,
+    "('Volume', 'SUNPHARMA.BO')":25189
+  },
+  {
+    "('Date', '')":"2025-08-22",
+    "('Close', 'SUNPHARMA.BO')":1642.9000244141,
+    "('High', 'SUNPHARMA.BO')":1651.5,
+    "('Low', 'SUNPHARMA.BO')":1636.0,
+    "('Open', 'SUNPHARMA.BO')":1640.5500488281,
+    "('Volume', 'SUNPHARMA.BO')":84501
+  },
+  {
+    "('Date', '')":"2025-08-25",
+    "('Close', 'SUNPHARMA.BO')":1656.6999511719,
+    "('High', 'SUNPHARMA.BO')":1659.8000488281,
+    "('Low', 'SUNPHARMA.BO')":1634.0,
+    "('Open', 'SUNPHARMA.BO')":1643.5,
+    "('Volume', 'SUNPHARMA.BO')":145452
+  },
+  {
+    "('Date', '')":"2025-08-26",
+    "('Close', 'SUNPHARMA.BO')":1600.4499511719,
+    "('High', 'SUNPHARMA.BO')":1648.3499755859,
+    "('Low', 'SUNPHARMA.BO')":1596.3499755859,
+    "('Open', 'SUNPHARMA.BO')":1640.6500244141,
+    "('Volume', 'SUNPHARMA.BO')":120071
+  },
+  {
+    "('Date', '')":"2025-08-28",
+    "('Close', 'SUNPHARMA.BO')":1586.25,
+    "('High', 'SUNPHARMA.BO')":1597.9499511719,
+    "('Low', 'SUNPHARMA.BO')":1567.5999755859,
+    "('Open', 'SUNPHARMA.BO')":1597.9499511719,
+    "('Volume', 'SUNPHARMA.BO')":64221
+  },
+  {
+    "('Date', '')":"2025-08-29",
+    "('Close', 'SUNPHARMA.BO')":1594.0500488281,
+    "('High', 'SUNPHARMA.BO')":1601.4000244141,
+    "('Low', 'SUNPHARMA.BO')":1576.0,
+    "('Open', 'SUNPHARMA.BO')":1576.0,
+    "('Volume', 'SUNPHARMA.BO')":371009
+  },
+  {
+    "('Date', '')":"2025-09-01",
+    "('Close', 'SUNPHARMA.BO')":1563.3499755859,
+    "('High', 'SUNPHARMA.BO')":1600.3499755859,
+    "('Low', 'SUNPHARMA.BO')":1556.25,
+    "('Open', 'SUNPHARMA.BO')":1600.0,
+    "('Volume', 'SUNPHARMA.BO')":111546
+  },
+  {
+    "('Date', '')":"2025-09-02",
+    "('Close', 'SUNPHARMA.BO')":1564.5500488281,
+    "('High', 'SUNPHARMA.BO')":1571.9499511719,
+    "('Low', 'SUNPHARMA.BO')":1558.1500244141,
+    "('Open', 'SUNPHARMA.BO')":1571.9499511719,
+    "('Volume', 'SUNPHARMA.BO')":117940
+  },
+  {
+    "('Date', '')":"2025-09-03",
+    "('Close', 'SUNPHARMA.BO')":1579.5999755859,
+    "('High', 'SUNPHARMA.BO')":1580.8000488281,
+    "('Low', 'SUNPHARMA.BO')":1558.6999511719,
+    "('Open', 'SUNPHARMA.BO')":1569.5999755859,
+    "('Volume', 'SUNPHARMA.BO')":23589
+  },
+  {
+    "('Date', '')":"2025-09-04",
+    "('Close', 'SUNPHARMA.BO')":1582.3499755859,
+    "('High', 'SUNPHARMA.BO')":1599.0,
+    "('Low', 'SUNPHARMA.BO')":1561.5,
+    "('Open', 'SUNPHARMA.BO')":1591.3000488281,
+    "('Volume', 'SUNPHARMA.BO')":136829
+  },
+  {
+    "('Date', '')":"2025-09-05",
+    "('Close', 'SUNPHARMA.BO')":1594.6999511719,
+    "('High', 'SUNPHARMA.BO')":1599.0,
+    "('Low', 'SUNPHARMA.BO')":1576.0999755859,
+    "('Open', 'SUNPHARMA.BO')":1582.25,
+    "('Volume', 'SUNPHARMA.BO')":88364
+  },
+  {
+    "('Date', '')":"2025-09-08",
+    "('Close', 'SUNPHARMA.BO')":1580.4000244141,
+    "('High', 'SUNPHARMA.BO')":1604.0,
+    "('Low', 'SUNPHARMA.BO')":1577.9000244141,
+    "('Open', 'SUNPHARMA.BO')":1595.1500244141,
+    "('Volume', 'SUNPHARMA.BO')":43539
+  },
+  {
+    "('Date', '')":"2025-09-09",
+    "('Close', 'SUNPHARMA.BO')":1595.0999755859,
+    "('High', 'SUNPHARMA.BO')":1597.0,
+    "('Low', 'SUNPHARMA.BO')":1578.1500244141,
+    "('Open', 'SUNPHARMA.BO')":1579.0,
+    "('Volume', 'SUNPHARMA.BO')":162279
+  },
+  {
+    "('Date', '')":"2025-09-10",
+    "('Close', 'SUNPHARMA.BO')":1593.6500244141,
+    "('High', 'SUNPHARMA.BO')":1601.0,
+    "('Low', 'SUNPHARMA.BO')":1580.0500488281,
+    "('Open', 'SUNPHARMA.BO')":1580.0500488281,
+    "('Volume', 'SUNPHARMA.BO')":129613
+  },
+  {
+    "('Date', '')":"2025-09-11",
+    "('Close', 'SUNPHARMA.BO')":1609.5999755859,
+    "('High', 'SUNPHARMA.BO')":1617.0,
+    "('Low', 'SUNPHARMA.BO')":1582.5,
+    "('Open', 'SUNPHARMA.BO')":1582.5,
+    "('Volume', 'SUNPHARMA.BO')":102543
+  },
+  {
+    "('Date', '')":"2025-09-12",
+    "('Close', 'SUNPHARMA.BO')":1616.25,
+    "('High', 'SUNPHARMA.BO')":1621.0,
+    "('Low', 'SUNPHARMA.BO')":1603.75,
+    "('Open', 'SUNPHARMA.BO')":1606.8499755859,
+    "('Volume', 'SUNPHARMA.BO')":197485
+  },
+  {
+    "('Date', '')":"2025-09-15",
+    "('Close', 'SUNPHARMA.BO')":1602.4000244141,
+    "('High', 'SUNPHARMA.BO')":1619.4499511719,
+    "('Low', 'SUNPHARMA.BO')":1595.1999511719,
+    "('Open', 'SUNPHARMA.BO')":1619.4499511719,
+    "('Volume', 'SUNPHARMA.BO')":74911
+  },
+  {
+    "('Date', '')":"2025-09-16",
+    "('Close', 'SUNPHARMA.BO')":1610.8499755859,
+    "('High', 'SUNPHARMA.BO')":1613.9499511719,
+    "('Low', 'SUNPHARMA.BO')":1600.0999755859,
+    "('Open', 'SUNPHARMA.BO')":1602.4499511719,
+    "('Volume', 'SUNPHARMA.BO')":38666
+  },
+  {
+    "('Date', '')":"2025-09-17",
+    "('Close', 'SUNPHARMA.BO')":1620.25,
+    "('High', 'SUNPHARMA.BO')":1622.0,
+    "('Low', 'SUNPHARMA.BO')":1607.1999511719,
+    "('Open', 'SUNPHARMA.BO')":1615.9499511719,
+    "('Volume', 'SUNPHARMA.BO')":227287
+  },
+  {
+    "('Date', '')":"2025-09-18",
+    "('Close', 'SUNPHARMA.BO')":1648.9000244141,
+    "('High', 'SUNPHARMA.BO')":1650.9499511719,
+    "('Low', 'SUNPHARMA.BO')":1626.0,
+    "('Open', 'SUNPHARMA.BO')":1626.0,
+    "('Volume', 'SUNPHARMA.BO')":105605
+  },
+  {
+    "('Date', '')":"2025-09-19",
+    "('Close', 'SUNPHARMA.BO')":1656.0500488281,
+    "('High', 'SUNPHARMA.BO')":1668.4000244141,
+    "('Low', 'SUNPHARMA.BO')":1642.1999511719,
+    "('Open', 'SUNPHARMA.BO')":1651.4000244141,
+    "('Volume', 'SUNPHARMA.BO')":229233
+  },
+  {
+    "('Date', '')":"2025-09-22",
+    "('Close', 'SUNPHARMA.BO')":1644.0,
+    "('High', 'SUNPHARMA.BO')":1656.8000488281,
+    "('Low', 'SUNPHARMA.BO')":1635.5500488281,
+    "('Open', 'SUNPHARMA.BO')":1646.0500488281,
+    "('Volume', 'SUNPHARMA.BO')":63243
+  },
+  {
+    "('Date', '')":"2025-09-23",
+    "('Close', 'SUNPHARMA.BO')":1631.1500244141,
+    "('High', 'SUNPHARMA.BO')":1644.0,
+    "('Low', 'SUNPHARMA.BO')":1624.75,
+    "('Open', 'SUNPHARMA.BO')":1636.0500488281,
+    "('Volume', 'SUNPHARMA.BO')":118602
+  },
+  {
+    "('Date', '')":"2025-09-24",
+    "('Close', 'SUNPHARMA.BO')":1626.9000244141,
+    "('High', 'SUNPHARMA.BO')":1635.5999755859,
+    "('Low', 'SUNPHARMA.BO')":1624.8000488281,
+    "('Open', 'SUNPHARMA.BO')":1630.0,
+    "('Volume', 'SUNPHARMA.BO')":79656
+  },
+  {
+    "('Date', '')":"2025-09-25",
+    "('Close', 'SUNPHARMA.BO')":1628.0,
+    "('High', 'SUNPHARMA.BO')":1642.4000244141,
+    "('Low', 'SUNPHARMA.BO')":1622.75,
+    "('Open', 'SUNPHARMA.BO')":1623.3499755859,
+    "('Volume', 'SUNPHARMA.BO')":226832
+  },
+  {
+    "('Date', '')":"2025-09-26",
+    "('Close', 'SUNPHARMA.BO')":1586.5500488281,
+    "('High', 'SUNPHARMA.BO')":1602.9000244141,
+    "('Low', 'SUNPHARMA.BO')":1547.25,
+    "('Open', 'SUNPHARMA.BO')":1590.5999755859,
+    "('Volume', 'SUNPHARMA.BO')":258484
+  },
+  {
+    "('Date', '')":"2025-09-29",
+    "('Close', 'SUNPHARMA.BO')":1590.8000488281,
+    "('High', 'SUNPHARMA.BO')":1618.5999755859,
+    "('Low', 'SUNPHARMA.BO')":1556.25,
+    "('Open', 'SUNPHARMA.BO')":1556.25,
+    "('Volume', 'SUNPHARMA.BO')":85280
+  },
+  {
+    "('Date', '')":"2025-09-30",
+    "('Close', 'SUNPHARMA.BO')":1594.9499511719,
+    "('High', 'SUNPHARMA.BO')":1603.9000244141,
+    "('Low', 'SUNPHARMA.BO')":1581.0500488281,
+    "('Open', 'SUNPHARMA.BO')":1581.0500488281,
+    "('Volume', 'SUNPHARMA.BO')":115330
+  },
+  {
+    "('Date', '')":"2025-10-01",
+    "('Close', 'SUNPHARMA.BO')":1636.1500244141,
+    "('High', 'SUNPHARMA.BO')":1651.9499511719,
+    "('Low', 'SUNPHARMA.BO')":1606.3499755859,
+    "('Open', 'SUNPHARMA.BO')":1606.3499755859,
+    "('Volume', 'SUNPHARMA.BO')":182439
+  },
+  {
+    "('Date', '')":"2025-10-03",
+    "('Close', 'SUNPHARMA.BO')":1634.0500488281,
+    "('High', 'SUNPHARMA.BO')":1645.25,
+    "('Low', 'SUNPHARMA.BO')":1603.8000488281,
+    "('Open', 'SUNPHARMA.BO')":1605.9499511719,
+    "('Volume', 'SUNPHARMA.BO')":75845
+  },
+  {
+    "('Date', '')":"2025-10-06",
+    "('Close', 'SUNPHARMA.BO')":1653.9499511719,
+    "('High', 'SUNPHARMA.BO')":1659.0,
+    "('Low', 'SUNPHARMA.BO')":1620.0999755859,
+    "('Open', 'SUNPHARMA.BO')":1621.9499511719,
+    "('Volume', 'SUNPHARMA.BO')":31648
+  },
+  {
+    "('Date', '')":"2025-10-07",
+    "('Close', 'SUNPHARMA.BO')":1654.3000488281,
+    "('High', 'SUNPHARMA.BO')":1662.4000244141,
+    "('Low', 'SUNPHARMA.BO')":1647.75,
+    "('Open', 'SUNPHARMA.BO')":1653.8499755859,
+    "('Volume', 'SUNPHARMA.BO')":72265
+  },
+  {
+    "('Date', '')":"2025-10-08",
+    "('Close', 'SUNPHARMA.BO')":1631.6500244141,
+    "('High', 'SUNPHARMA.BO')":1654.3000488281,
+    "('Low', 'SUNPHARMA.BO')":1628.75,
+    "('Open', 'SUNPHARMA.BO')":1645.0,
+    "('Volume', 'SUNPHARMA.BO')":49995
+  },
+  {
+    "('Date', '')":"2025-10-09",
+    "('Close', 'SUNPHARMA.BO')":1658.3499755859,
+    "('High', 'SUNPHARMA.BO')":1662.0,
+    "('Low', 'SUNPHARMA.BO')":1633.0,
+    "('Open', 'SUNPHARMA.BO')":1636.0,
+    "('Volume', 'SUNPHARMA.BO')":56113
+  },
+  {
+    "('Date', '')":"2025-10-10",
+    "('Close', 'SUNPHARMA.BO')":1670.8499755859,
+    "('High', 'SUNPHARMA.BO')":1676.0,
+    "('Low', 'SUNPHARMA.BO')":1650.0,
+    "('Open', 'SUNPHARMA.BO')":1657.4000244141,
+    "('Volume', 'SUNPHARMA.BO')":60192
+  },
+  {
+    "('Date', '')":"2025-10-13",
+    "('Close', 'SUNPHARMA.BO')":1668.5,
+    "('High', 'SUNPHARMA.BO')":1672.5,
+    "('Low', 'SUNPHARMA.BO')":1656.0,
+    "('Open', 'SUNPHARMA.BO')":1660.4000244141,
+    "('Volume', 'SUNPHARMA.BO')":87514
+  },
+  {
+    "('Date', '')":"2025-10-14",
+    "('Close', 'SUNPHARMA.BO')":1654.0500488281,
+    "('High', 'SUNPHARMA.BO')":1668.4000244141,
+    "('Low', 'SUNPHARMA.BO')":1647.0,
+    "('Open', 'SUNPHARMA.BO')":1668.4000244141,
+    "('Volume', 'SUNPHARMA.BO')":38165
+  },
+  {
+    "('Date', '')":"2025-10-15",
+    "('Close', 'SUNPHARMA.BO')":1654.0500488281,
+    "('High', 'SUNPHARMA.BO')":1668.1999511719,
+    "('Low', 'SUNPHARMA.BO')":1648.4000244141,
+    "('Open', 'SUNPHARMA.BO')":1648.4000244141,
+    "('Volume', 'SUNPHARMA.BO')":19467
+  },
+  {
+    "('Date', '')":"2025-10-16",
+    "('Close', 'SUNPHARMA.BO')":1659.6999511719,
+    "('High', 'SUNPHARMA.BO')":1662.1999511719,
+    "('Low', 'SUNPHARMA.BO')":1643.0999755859,
+    "('Open', 'SUNPHARMA.BO')":1662.1999511719,
+    "('Volume', 'SUNPHARMA.BO')":80708
+  },
+  {
+    "('Date', '')":"2025-10-17",
+    "('Close', 'SUNPHARMA.BO')":1679.0999755859,
+    "('High', 'SUNPHARMA.BO')":1691.6500244141,
+    "('Low', 'SUNPHARMA.BO')":1656.0999755859,
+    "('Open', 'SUNPHARMA.BO')":1659.6999511719,
+    "('Volume', 'SUNPHARMA.BO')":64493
+  },
+  {
+    "('Date', '')":"2025-10-20",
+    "('Close', 'SUNPHARMA.BO')":1688.5500488281,
+    "('High', 'SUNPHARMA.BO')":1696.4000244141,
+    "('Low', 'SUNPHARMA.BO')":1681.1999511719,
+    "('Open', 'SUNPHARMA.BO')":1681.1999511719,
+    "('Volume', 'SUNPHARMA.BO')":35534
+  },
+  {
+    "('Date', '')":"2025-10-21",
+    "('Close', 'SUNPHARMA.BO')":1690.3000488281,
+    "('High', 'SUNPHARMA.BO')":1697.25,
+    "('Low', 'SUNPHARMA.BO')":1685.0,
+    "('Open', 'SUNPHARMA.BO')":1688.5500488281,
+    "('Volume', 'SUNPHARMA.BO')":5898
+  },
+  {
+    "('Date', '')":"2025-10-23",
+    "('Close', 'SUNPHARMA.BO')":1689.0,
+    "('High', 'SUNPHARMA.BO')":1712.0,
+    "('Low', 'SUNPHARMA.BO')":1682.6999511719,
+    "('Open', 'SUNPHARMA.BO')":1709.6999511719,
+    "('Volume', 'SUNPHARMA.BO')":117188
+  },
+  {
+    "('Date', '')":"2025-10-24",
+    "('Close', 'SUNPHARMA.BO')":1699.5999755859,
+    "('High', 'SUNPHARMA.BO')":1701.9000244141,
+    "('Low', 'SUNPHARMA.BO')":1686.25,
+    "('Open', 'SUNPHARMA.BO')":1688.1500244141,
+    "('Volume', 'SUNPHARMA.BO')":16395
+  },
+  {
+    "('Date', '')":"2025-10-27",
+    "('Close', 'SUNPHARMA.BO')":1694.0999755859,
+    "('High', 'SUNPHARMA.BO')":1707.0,
+    "('Low', 'SUNPHARMA.BO')":1690.0,
+    "('Open', 'SUNPHARMA.BO')":1699.5999755859,
+    "('Volume', 'SUNPHARMA.BO')":186095
+  },
+  {
+    "('Date', '')":"2025-10-28",
+    "('Close', 'SUNPHARMA.BO')":1687.1500244141,
+    "('High', 'SUNPHARMA.BO')":1702.0999755859,
+    "('Low', 'SUNPHARMA.BO')":1678.8000488281,
+    "('Open', 'SUNPHARMA.BO')":1690.1999511719,
+    "('Volume', 'SUNPHARMA.BO')":75664
+  },
+  {
+    "('Date', '')":"2025-10-29",
+    "('Close', 'SUNPHARMA.BO')":1716.4000244141,
+    "('High', 'SUNPHARMA.BO')":1721.9499511719,
+    "('Low', 'SUNPHARMA.BO')":1686.75,
+    "('Open', 'SUNPHARMA.BO')":1690.4000244141,
+    "('Volume', 'SUNPHARMA.BO')":50596
+  },
+  {
+    "('Date', '')":"2025-10-30",
+    "('Close', 'SUNPHARMA.BO')":1703.5999755859,
+    "('High', 'SUNPHARMA.BO')":1712.0,
+    "('Low', 'SUNPHARMA.BO')":1679.9499511719,
+    "('Open', 'SUNPHARMA.BO')":1705.8499755859,
+    "('Volume', 'SUNPHARMA.BO')":62926
+  },
+  {
+    "('Date', '')":"2025-10-31",
+    "('Close', 'SUNPHARMA.BO')":1689.8499755859,
+    "('High', 'SUNPHARMA.BO')":1705.0,
+    "('Low', 'SUNPHARMA.BO')":1687.1500244141,
+    "('Open', 'SUNPHARMA.BO')":1700.0,
+    "('Volume', 'SUNPHARMA.BO')":104367
+  },
+  {
+    "('Date', '')":"2025-11-03",
+    "('Close', 'SUNPHARMA.BO')":1707.25,
+    "('High', 'SUNPHARMA.BO')":1711.4000244141,
+    "('Low', 'SUNPHARMA.BO')":1680.4499511719,
+    "('Open', 'SUNPHARMA.BO')":1689.8499755859,
+    "('Volume', 'SUNPHARMA.BO')":28270
+  },
+  {
+    "('Date', '')":"2025-11-04",
+    "('Close', 'SUNPHARMA.BO')":1692.75,
+    "('High', 'SUNPHARMA.BO')":1711.3000488281,
+    "('Low', 'SUNPHARMA.BO')":1682.0500488281,
+    "('Open', 'SUNPHARMA.BO')":1711.3000488281,
+    "('Volume', 'SUNPHARMA.BO')":20230
+  },
+  {
+    "('Date', '')":"2025-11-06",
+    "('Close', 'SUNPHARMA.BO')":1685.75,
+    "('High', 'SUNPHARMA.BO')":1720.4499511719,
+    "('Low', 'SUNPHARMA.BO')":1667.0,
+    "('Open', 'SUNPHARMA.BO')":1698.0,
+    "('Volume', 'SUNPHARMA.BO')":251467
+  },
+  {
+    "('Date', '')":"2025-11-07",
+    "('Close', 'SUNPHARMA.BO')":1692.75,
+    "('High', 'SUNPHARMA.BO')":1708.9499511719,
+    "('Low', 'SUNPHARMA.BO')":1683.4000244141,
+    "('Open', 'SUNPHARMA.BO')":1695.0,
+    "('Volume', 'SUNPHARMA.BO')":226058
+  },
+  {
+    "('Date', '')":"2025-11-10",
+    "('Close', 'SUNPHARMA.BO')":1697.5,
+    "('High', 'SUNPHARMA.BO')":1702.0,
+    "('Low', 'SUNPHARMA.BO')":1686.0,
+    "('Open', 'SUNPHARMA.BO')":1695.3000488281,
+    "('Volume', 'SUNPHARMA.BO')":73219
+  },
+  {
+    "('Date', '')":"2025-11-11",
+    "('Close', 'SUNPHARMA.BO')":1716.0500488281,
+    "('High', 'SUNPHARMA.BO')":1718.0,
+    "('Low', 'SUNPHARMA.BO')":1695.5999755859,
+    "('Open', 'SUNPHARMA.BO')":1697.5,
+    "('Volume', 'SUNPHARMA.BO')":142594
+  },
+  {
+    "('Date', '')":"2025-11-12",
+    "('Close', 'SUNPHARMA.BO')":1731.8499755859,
+    "('High', 'SUNPHARMA.BO')":1743.5,
+    "('Low', 'SUNPHARMA.BO')":1710.5500488281,
+    "('Open', 'SUNPHARMA.BO')":1727.5999755859,
+    "('Volume', 'SUNPHARMA.BO')":32807
+  },
+  {
+    "('Date', '')":"2025-11-13",
+    "('Close', 'SUNPHARMA.BO')":1735.8000488281,
+    "('High', 'SUNPHARMA.BO')":1747.8499755859,
+    "('Low', 'SUNPHARMA.BO')":1726.0,
+    "('Open', 'SUNPHARMA.BO')":1732.25,
+    "('Volume', 'SUNPHARMA.BO')":64159
+  }
+]

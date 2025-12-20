@@ -1,0 +1,1986 @@
+[
+  {
+    "('Date', '')":"2024-11-13",
+    "('Close', 'EICHERMOT.BO')":4530.3793945312,
+    "('High', 'EICHERMOT.BO')":4658.1235358133,
+    "('Low', 'EICHERMOT.BO')":4479.9331578936,
+    "('Open', 'EICHERMOT.BO')":4653.0395300245,
+    "('Volume', 'EICHERMOT.BO')":20122
+  },
+  {
+    "('Date', '')":"2024-11-14",
+    "('Close', 'EICHERMOT.BO')":4823.0356445312,
+    "('High', 'EICHERMOT.BO')":4908.8732489067,
+    "('Low', 'EICHERMOT.BO')":4637.4412411538,
+    "('Open', 'EICHERMOT.BO')":4637.4412411538,
+    "('Volume', 'EICHERMOT.BO')":104993
+  },
+  {
+    "('Date', '')":"2024-11-18",
+    "('Close', 'EICHERMOT.BO')":4813.9536132812,
+    "('High', 'EICHERMOT.BO')":4848.5057625508,
+    "('Low', 'EICHERMOT.BO')":4796.7763554796,
+    "('Open', 'EICHERMOT.BO')":4822.4928337655,
+    "('Volume', 'EICHERMOT.BO')":15999
+  },
+  {
+    "('Date', '')":"2024-11-19",
+    "('Close', 'EICHERMOT.BO')":4901.1733398438,
+    "('High', 'EICHERMOT.BO')":4947.8679100281,
+    "('Low', 'EICHERMOT.BO')":4817.1125087783,
+    "('Open', 'EICHERMOT.BO')":4836.6097935395,
+    "('Volume', 'EICHERMOT.BO')":20132
+  },
+  {
+    "('Date', '')":"2024-11-21",
+    "('Close', 'EICHERMOT.BO')":4818.4453125,
+    "('High', 'EICHERMOT.BO')":4893.7196394539,
+    "('Low', 'EICHERMOT.BO')":4797.7636718881,
+    "('Open', 'EICHERMOT.BO')":4797.7636718881,
+    "('Volume', 'EICHERMOT.BO')":31595
+  },
+  {
+    "('Date', '')":"2024-11-22",
+    "('Close', 'EICHERMOT.BO')":4918.943359375,
+    "('High', 'EICHERMOT.BO')":4937.9962107174,
+    "('Low', 'EICHERMOT.BO')":4817.9520640861,
+    "('Open', 'EICHERMOT.BO')":4824.4677092714,
+    "('Volume', 'EICHERMOT.BO')":4486
+  },
+  {
+    "('Date', '')":"2024-11-25",
+    "('Close', 'EICHERMOT.BO')":4937.650390625,
+    "('High', 'EICHERMOT.BO')":5000.1898807025,
+    "('Low', 'EICHERMOT.BO')":4926.6431588639,
+    "('Open', 'EICHERMOT.BO')":4926.6431588639,
+    "('Volume', 'EICHERMOT.BO')":13424
+  },
+  {
+    "('Date', '')":"2024-11-26",
+    "('Close', 'EICHERMOT.BO')":4868.0522460938,
+    "('High', 'EICHERMOT.BO')":4974.4731557616,
+    "('Low', 'EICHERMOT.BO')":4813.3612258695,
+    "('Open', 'EICHERMOT.BO')":4974.4731557616,
+    "('Volume', 'EICHERMOT.BO')":3220
+  },
+  {
+    "('Date', '')":"2024-11-27",
+    "('Close', 'EICHERMOT.BO')":4859.7602539062,
+    "('High', 'EICHERMOT.BO')":4889.3272172451,
+    "('Low', 'EICHERMOT.BO')":4832.9577519901,
+    "('Open', 'EICHERMOT.BO')":4868.0526741077,
+    "('Volume', 'EICHERMOT.BO')":3790
+  },
+  {
+    "('Date', '')":"2024-11-28",
+    "('Close', 'EICHERMOT.BO')":4768.4438476562,
+    "('High', 'EICHERMOT.BO')":4859.760250722,
+    "('Low', 'EICHERMOT.BO')":4731.6704853406,
+    "('Open', 'EICHERMOT.BO')":4859.760250722,
+    "('Volume', 'EICHERMOT.BO')":14607
+  },
+  {
+    "('Date', '')":"2024-11-29",
+    "('Close', 'EICHERMOT.BO')":4770.9116210938,
+    "('High', 'EICHERMOT.BO')":4802.0085568062,
+    "('Low', 'EICHERMOT.BO')":4748.4527230792,
+    "('Open', 'EICHERMOT.BO')":4768.6904114,
+    "('Volume', 'EICHERMOT.BO')":25861
+  },
+  {
+    "('Date', '')":"2024-12-02",
+    "('Close', 'EICHERMOT.BO')":4758.2260742188,
+    "('High', 'EICHERMOT.BO')":4799.4915046102,
+    "('Low', 'EICHERMOT.BO')":4643.8091882865,
+    "('Open', 'EICHERMOT.BO')":4799.4915046102,
+    "('Volume', 'EICHERMOT.BO')":5113
+  },
+  {
+    "('Date', '')":"2024-12-03",
+    "('Close', 'EICHERMOT.BO')":4779.8955078125,
+    "('High', 'EICHERMOT.BO')":4804.7236009608,
+    "('Low', 'EICHERMOT.BO')":4757.4857761165,
+    "('Open', 'EICHERMOT.BO')":4757.4857761165,
+    "('Volume', 'EICHERMOT.BO')":3445
+  },
+  {
+    "('Date', '')":"2024-12-04",
+    "('Close', 'EICHERMOT.BO')":4733.8916015625,
+    "('High', 'EICHERMOT.BO')":4813.6575192556,
+    "('Low', 'EICHERMOT.BO')":4692.0834014436,
+    "('Open', 'EICHERMOT.BO')":4783.0050173756,
+    "('Volume', 'EICHERMOT.BO')":3716
+  },
+  {
+    "('Date', '')":"2024-12-05",
+    "('Close', 'EICHERMOT.BO')":4769.6284179688,
+    "('High', 'EICHERMOT.BO')":4818.5933657239,
+    "('Low', 'EICHERMOT.BO')":4698.2040903085,
+    "('Open', 'EICHERMOT.BO')":4733.6446283456,
+    "('Volume', 'EICHERMOT.BO')":4656
+  },
+  {
+    "('Date', '')":"2024-12-06",
+    "('Close', 'EICHERMOT.BO')":4814.2006835938,
+    "('High', 'EICHERMOT.BO')":4862.9684805979,
+    "('Low', 'EICHERMOT.BO')":4772.4416516353,
+    "('Open', 'EICHERMOT.BO')":4772.4416516353,
+    "('Volume', 'EICHERMOT.BO')":4119
+  },
+  {
+    "('Date', '')":"2024-12-09",
+    "('Close', 'EICHERMOT.BO')":4776.0942382812,
+    "('High', 'EICHERMOT.BO')":4827.4288601065,
+    "('Low', 'EICHERMOT.BO')":4756.5477866303,
+    "('Open', 'EICHERMOT.BO')":4827.4288601065,
+    "('Volume', 'EICHERMOT.BO')":3563
+  },
+  {
+    "('Date', '')":"2024-12-10",
+    "('Close', 'EICHERMOT.BO')":4751.7104492188,
+    "('High', 'EICHERMOT.BO')":4806.1551541083,
+    "('Low', 'EICHERMOT.BO')":4738.5808243313,
+    "('Open', 'EICHERMOT.BO')":4776.0945891906,
+    "('Volume', 'EICHERMOT.BO')":2982
+  },
+  {
+    "('Date', '')":"2024-12-11",
+    "('Close', 'EICHERMOT.BO')":4740.0122070312,
+    "('High', 'EICHERMOT.BO')":4768.1475291538,
+    "('Low', 'EICHERMOT.BO')":4735.4709709136,
+    "('Open', 'EICHERMOT.BO')":4752.4505953956,
+    "('Volume', 'EICHERMOT.BO')":3788
+  },
+  {
+    "('Date', '')":"2024-12-12",
+    "('Close', 'EICHERMOT.BO')":4744.7504882812,
+    "('High', 'EICHERMOT.BO')":4755.313766707,
+    "('Low', 'EICHERMOT.BO')":4714.2951403659,
+    "('Open', 'EICHERMOT.BO')":4738.5804616385,
+    "('Volume', 'EICHERMOT.BO')":3259
+  },
+  {
+    "('Date', '')":"2024-12-13",
+    "('Close', 'EICHERMOT.BO')":4766.7158203125,
+    "('High', 'EICHERMOT.BO')":4794.2095556538,
+    "('Low', 'EICHERMOT.BO')":4694.3539400951,
+    "('Open', 'EICHERMOT.BO')":4702.8931606286,
+    "('Volume', 'EICHERMOT.BO')":7576
+  },
+  {
+    "('Date', '')":"2024-12-16",
+    "('Close', 'EICHERMOT.BO')":4773.5771484375,
+    "('High', 'EICHERMOT.BO')":4803.0944601259,
+    "('Low', 'EICHERMOT.BO')":4740.3081712495,
+    "('Open', 'EICHERMOT.BO')":4777.525965574,
+    "('Volume', 'EICHERMOT.BO')":3694
+  },
+  {
+    "('Date', '')":"2024-12-17",
+    "('Close', 'EICHERMOT.BO')":4681.8657226562,
+    "('High', 'EICHERMOT.BO')":4777.7730093568,
+    "('Low', 'EICHERMOT.BO')":4674.4125227459,
+    "('Open', 'EICHERMOT.BO')":4777.7730093568,
+    "('Volume', 'EICHERMOT.BO')":3709
+  },
+  {
+    "('Date', '')":"2024-12-18",
+    "('Close', 'EICHERMOT.BO')":4689.072265625,
+    "('High', 'EICHERMOT.BO')":4738.5312956144,
+    "('Low', 'EICHERMOT.BO')":4655.2605196129,
+    "('Open', 'EICHERMOT.BO')":4679.2990398267,
+    "('Volume', 'EICHERMOT.BO')":2553
+  },
+  {
+    "('Date', '')":"2024-12-19",
+    "('Close', 'EICHERMOT.BO')":4708.9643554688,
+    "('High', 'EICHERMOT.BO')":4716.566021141,
+    "('Low', 'EICHERMOT.BO')":4615.1799500663,
+    "('Open', 'EICHERMOT.BO')":4658.172503098,
+    "('Volume', 'EICHERMOT.BO')":4956
+  },
+  {
+    "('Date', '')":"2024-12-20",
+    "('Close', 'EICHERMOT.BO')":4675.30078125,
+    "('High', 'EICHERMOT.BO')":4757.6831734849,
+    "('Low', 'EICHERMOT.BO')":4624.9533615915,
+    "('Open', 'EICHERMOT.BO')":4624.9533615915,
+    "('Volume', 'EICHERMOT.BO')":2185
+  },
+  {
+    "('Date', '')":"2024-12-23",
+    "('Close', 'EICHERMOT.BO')":4689.615234375,
+    "('High', 'EICHERMOT.BO')":4716.0229495355,
+    "('Low', 'EICHERMOT.BO')":4635.5166312708,
+    "('Open', 'EICHERMOT.BO')":4678.6080027802,
+    "('Volume', 'EICHERMOT.BO')":6240
+  },
+  {
+    "('Date', '')":"2024-12-24",
+    "('Close', 'EICHERMOT.BO')":4726.2900390625,
+    "('High', 'EICHERMOT.BO')":4746.8241789625,
+    "('Low', 'EICHERMOT.BO')":4679.7930993513,
+    "('Open', 'EICHERMOT.BO')":4679.7930993513,
+    "('Volume', 'EICHERMOT.BO')":5263
+  },
+  {
+    "('Date', '')":"2024-12-26",
+    "('Close', 'EICHERMOT.BO')":4737.8403320312,
+    "('High', 'EICHERMOT.BO')":4766.3704404682,
+    "('Low', 'EICHERMOT.BO')":4715.3814337547,
+    "('Open', 'EICHERMOT.BO')":4738.5315678685,
+    "('Volume', 'EICHERMOT.BO')":5574
+  },
+  {
+    "('Date', '')":"2024-12-27",
+    "('Close', 'EICHERMOT.BO')":4813.6083984375,
+    "('High', 'EICHERMOT.BO')":4888.4879446025,
+    "('Low', 'EICHERMOT.BO')":4738.5808680271,
+    "('Open', 'EICHERMOT.BO')":4738.6300354311,
+    "('Volume', 'EICHERMOT.BO')":11743
+  },
+  {
+    "('Date', '')":"2024-12-30",
+    "('Close', 'EICHERMOT.BO')":4790.2114257812,
+    "('High', 'EICHERMOT.BO')":4839.3248416923,
+    "('Low', 'EICHERMOT.BO')":4768.986532473,
+    "('Open', 'EICHERMOT.BO')":4800.5279039468,
+    "('Volume', 'EICHERMOT.BO')":3423
+  },
+  {
+    "('Date', '')":"2024-12-31",
+    "('Close', 'EICHERMOT.BO')":4755.4619140625,
+    "('High', 'EICHERMOT.BO')":4809.4125324707,
+    "('Low', 'EICHERMOT.BO')":4746.2806248831,
+    "('Open', 'EICHERMOT.BO')":4750.7726936532,
+    "('Volume', 'EICHERMOT.BO')":9149
+  },
+  {
+    "('Date', '')":"2025-01-01",
+    "('Close', 'EICHERMOT.BO')":4822.9868164062,
+    "('High', 'EICHERMOT.BO')":4840.7564945754,
+    "('Low', 'EICHERMOT.BO')":4681.2241763836,
+    "('Open', 'EICHERMOT.BO')":4826.392864202,
+    "('Volume', 'EICHERMOT.BO')":4804
+  },
+  {
+    "('Date', '')":"2025-01-02",
+    "('Close', 'EICHERMOT.BO')":5239.9814453125,
+    "('High', 'EICHERMOT.BO')":5257.6031379285,
+    "('Low', 'EICHERMOT.BO')":4799.6391737456,
+    "('Open', 'EICHERMOT.BO')":4813.1635830168,
+    "('Volume', 'EICHERMOT.BO')":76830
+  },
+  {
+    "('Date', '')":"2025-01-03",
+    "('Close', 'EICHERMOT.BO')":5240.0805664062,
+    "('High', 'EICHERMOT.BO')":5317.6252734594,
+    "('Low', 'EICHERMOT.BO')":5203.406022074,
+    "('Open', 'EICHERMOT.BO')":5256.8630399611,
+    "('Volume', 'EICHERMOT.BO')":19672
+  },
+  {
+    "('Date', '')":"2025-01-06",
+    "('Close', 'EICHERMOT.BO')":5184.1552734375,
+    "('High', 'EICHERMOT.BO')":5281.5428789007,
+    "('Low', 'EICHERMOT.BO')":5121.6649535195,
+    "('Open', 'EICHERMOT.BO')":5251.778766373,
+    "('Volume', 'EICHERMOT.BO')":6025
+  },
+  {
+    "('Date', '')":"2025-01-07",
+    "('Close', 'EICHERMOT.BO')":5107.59765625,
+    "('High', 'EICHERMOT.BO')":5218.1153756787,
+    "('Low', 'EICHERMOT.BO')":5099.3052361442,
+    "('Open', 'EICHERMOT.BO')":5173.937981163,
+    "('Volume', 'EICHERMOT.BO')":6107
+  },
+  {
+    "('Date', '')":"2025-01-08",
+    "('Close', 'EICHERMOT.BO')":5097.626953125,
+    "('High', 'EICHERMOT.BO')":5162.6836190214,
+    "('Low', 'EICHERMOT.BO')":5069.2939973663,
+    "('Open', 'EICHERMOT.BO')":5162.6836190214,
+    "('Volume', 'EICHERMOT.BO')":5283
+  },
+  {
+    "('Date', '')":"2025-01-09",
+    "('Close', 'EICHERMOT.BO')":5076.5502929688,
+    "('High', 'EICHERMOT.BO')":5130.155295382,
+    "('Low', 'EICHERMOT.BO')":5041.4057223436,
+    "('Open', 'EICHERMOT.BO')":5103.8955637446,
+    "('Volume', 'EICHERMOT.BO')":4543
+  },
+  {
+    "('Date', '')":"2025-01-10",
+    "('Close', 'EICHERMOT.BO')":4995.3032226562,
+    "('High', 'EICHERMOT.BO')":5085.0896518975,
+    "('Low', 'EICHERMOT.BO')":4971.5119832372,
+    "('Open', 'EICHERMOT.BO')":5074.477205041,
+    "('Volume', 'EICHERMOT.BO')":7514
+  },
+  {
+    "('Date', '')":"2025-01-13",
+    "('Close', 'EICHERMOT.BO')":4874.1733398438,
+    "('High', 'EICHERMOT.BO')":4970.5245777655,
+    "('Low', 'EICHERMOT.BO')":4862.8696575801,
+    "('Open', 'EICHERMOT.BO')":4904.2334221313,
+    "('Volume', 'EICHERMOT.BO')":6840
+  },
+  {
+    "('Date', '')":"2025-01-14",
+    "('Close', 'EICHERMOT.BO')":4962.7749023438,
+    "('High', 'EICHERMOT.BO')":4975.5097415852,
+    "('Low', 'EICHERMOT.BO')":4896.0397943238,
+    "('Open', 'EICHERMOT.BO')":4916.5734512376,
+    "('Volume', 'EICHERMOT.BO')":3007
+  },
+  {
+    "('Date', '')":"2025-01-15",
+    "('Close', 'EICHERMOT.BO')":5020.7236328125,
+    "('High', 'EICHERMOT.BO')":5031.8793310595,
+    "('Low', 'EICHERMOT.BO')":4945.3013177445,
+    "('Open', 'EICHERMOT.BO')":4966.6250278665,
+    "('Volume', 'EICHERMOT.BO')":5305
+  },
+  {
+    "('Date', '')":"2025-01-16",
+    "('Close', 'EICHERMOT.BO')":4982.3212890625,
+    "('High', 'EICHERMOT.BO')":5066.1348377897,
+    "('Low', 'EICHERMOT.BO')":4975.8056442709,
+    "('Open', 'EICHERMOT.BO')":5064.30889546,
+    "('Volume', 'EICHERMOT.BO')":2975
+  },
+  {
+    "('Date', '')":"2025-01-17",
+    "('Close', 'EICHERMOT.BO')":4949.2006835938,
+    "('High', 'EICHERMOT.BO')":5013.1713282543,
+    "('Low', 'EICHERMOT.BO')":4936.0214100223,
+    "('Open', 'EICHERMOT.BO')":4975.4604139017,
+    "('Volume', 'EICHERMOT.BO')":2168
+  },
+  {
+    "('Date', '')":"2025-01-20",
+    "('Close', 'EICHERMOT.BO')":4952.2114257812,
+    "('High', 'EICHERMOT.BO')":4969.5863174177,
+    "('Low', 'EICHERMOT.BO')":4865.9790360042,
+    "('Open', 'EICHERMOT.BO')":4950.8294362037,
+    "('Volume', 'EICHERMOT.BO')":6754
+  },
+  {
+    "('Date', '')":"2025-01-21",
+    "('Close', 'EICHERMOT.BO')":4901.4692382812,
+    "('High', 'EICHERMOT.BO')":5012.4805521106,
+    "('Low', 'EICHERMOT.BO')":4895.5951800162,
+    "('Open', 'EICHERMOT.BO')":4982.8147743488,
+    "('Volume', 'EICHERMOT.BO')":2319
+  },
+  {
+    "('Date', '')":"2025-01-22",
+    "('Close', 'EICHERMOT.BO')":4943.5737304688,
+    "('High', 'EICHERMOT.BO')":4956.7530048509,
+    "('Low', 'EICHERMOT.BO')":4893.769560598,
+    "('Open', 'EICHERMOT.BO')":4916.2776267989,
+    "('Volume', 'EICHERMOT.BO')":3132
+  },
+  {
+    "('Date', '')":"2025-01-23",
+    "('Close', 'EICHERMOT.BO')":5048.5629882812,
+    "('High', 'EICHERMOT.BO')":5090.3711884333,
+    "('Low', 'EICHERMOT.BO')":4923.7308068351,
+    "('Open', 'EICHERMOT.BO')":4936.0216936657,
+    "('Volume', 'EICHERMOT.BO')":3321
+  },
+  {
+    "('Date', '')":"2025-01-24",
+    "('Close', 'EICHERMOT.BO')":5140.9155273438,
+    "('High', 'EICHERMOT.BO')":5156.1680264962,
+    "('Low', 'EICHERMOT.BO')":5050.339533388,
+    "('Open', 'EICHERMOT.BO')":5080.7457148569,
+    "('Volume', 'EICHERMOT.BO')":7705
+  },
+  {
+    "('Date', '')":"2025-01-27",
+    "('Close', 'EICHERMOT.BO')":5079.2651367188,
+    "('High', 'EICHERMOT.BO')":5139.2378002625,
+    "('Low', 'EICHERMOT.BO')":5048.6618022355,
+    "('Open', 'EICHERMOT.BO')":5133.1169405525,
+    "('Volume', 'EICHERMOT.BO')":16133
+  },
+  {
+    "('Date', '')":"2025-01-28",
+    "('Close', 'EICHERMOT.BO')":5039.7768554688,
+    "('High', 'EICHERMOT.BO')":5127.6380396878,
+    "('Low', 'EICHERMOT.BO')":5026.0051624323,
+    "('Open', 'EICHERMOT.BO')":5084.1022328984,
+    "('Volume', 'EICHERMOT.BO')":11476
+  },
+  {
+    "('Date', '')":"2025-01-29",
+    "('Close', 'EICHERMOT.BO')":5115.7416992188,
+    "('High', 'EICHERMOT.BO')":5168.9027456135,
+    "('Low', 'EICHERMOT.BO')":5016.5773194266,
+    "('Open', 'EICHERMOT.BO')":5039.7269703592,
+    "('Volume', 'EICHERMOT.BO')":8918
+  },
+  {
+    "('Date', '')":"2025-01-30",
+    "('Close', 'EICHERMOT.BO')":5100.341796875,
+    "('High', 'EICHERMOT.BO')":5198.617791131,
+    "('Low', 'EICHERMOT.BO')":5079.1660720412,
+    "('Open', 'EICHERMOT.BO')":5153.1572263899,
+    "('Volume', 'EICHERMOT.BO')":5497
+  },
+  {
+    "('Date', '')":"2025-01-31",
+    "('Close', 'EICHERMOT.BO')":5130.1552734375,
+    "('High', 'EICHERMOT.BO')":5177.4422643304,
+    "('Low', 'EICHERMOT.BO')":5087.458686262,
+    "('Open', 'EICHERMOT.BO')":5153.1574234943,
+    "('Volume', 'EICHERMOT.BO')":5081
+  },
+  {
+    "('Date', '')":"2025-02-01",
+    "('Close', 'EICHERMOT.BO')":5319.3530273438,
+    "('High', 'EICHERMOT.BO')":5355.5344525411,
+    "('Low', 'EICHERMOT.BO')":5064.3583355429,
+    "('Open', 'EICHERMOT.BO')":5182.6252243276,
+    "('Volume', 'EICHERMOT.BO')":19632
+  },
+  {
+    "('Date', '')":"2025-02-03",
+    "('Close', 'EICHERMOT.BO')":5411.26171875,
+    "('High', 'EICHERMOT.BO')":5478.9840322034,
+    "('Low', 'EICHERMOT.BO')":5342.7498346459,
+    "('Open', 'EICHERMOT.BO')":5429.623815697,
+    "('Volume', 'EICHERMOT.BO')":24753
+  },
+  {
+    "('Date', '')":"2025-02-04",
+    "('Close', 'EICHERMOT.BO')":5379.7700195312,
+    "('High', 'EICHERMOT.BO')":5480.711662709,
+    "('Low', 'EICHERMOT.BO')":5373.3531913586,
+    "('Open', 'EICHERMOT.BO')":5449.3679250963,
+    "('Volume', 'EICHERMOT.BO')":6104
+  },
+  {
+    "('Date', '')":"2025-02-05",
+    "('Close', 'EICHERMOT.BO')":5350.5981445312,
+    "('High', 'EICHERMOT.BO')":5385.7422320235,
+    "('Low', 'EICHERMOT.BO')":5281.7898119316,
+    "('Open', 'EICHERMOT.BO')":5373.5506445317,
+    "('Volume', 'EICHERMOT.BO')":7923
+  },
+  {
+    "('Date', '')":"2025-02-06",
+    "('Close', 'EICHERMOT.BO')":5274.5336914062,
+    "('High', 'EICHERMOT.BO')":5380.2141996057,
+    "('Low', 'EICHERMOT.BO')":5266.4880728696,
+    "('Open', 'EICHERMOT.BO')":5380.2141996057,
+    "('Volume', 'EICHERMOT.BO')":5254
+  },
+  {
+    "('Date', '')":"2025-02-07",
+    "('Close', 'EICHERMOT.BO')":5304.0512695312,
+    "('High', 'EICHERMOT.BO')":5325.9673986281,
+    "('Low', 'EICHERMOT.BO')":5252.1247070267,
+    "('Open', 'EICHERMOT.BO')":5252.1247070267,
+    "('Volume', 'EICHERMOT.BO')":17852
+  },
+  {
+    "('Date', '')":"2025-02-10",
+    "('Close', 'EICHERMOT.BO')":5261.2563476562,
+    "('High', 'EICHERMOT.BO')":5380.2144702878,
+    "('Low', 'EICHERMOT.BO')":5236.2306213018,
+    "('Open', 'EICHERMOT.BO')":5380.2144702878,
+    "('Volume', 'EICHERMOT.BO')":13973
+  },
+  {
+    "('Date', '')":"2025-02-11",
+    "('Close', 'EICHERMOT.BO')":4907.0966796875,
+    "('High', 'EICHERMOT.BO')":5143.1368456957,
+    "('Low', 'EICHERMOT.BO')":4889.9685884215,
+    "('Open', 'EICHERMOT.BO')":5143.1368456957,
+    "('Volume', 'EICHERMOT.BO')":26595
+  },
+  {
+    "('Date', '')":"2025-02-12",
+    "('Close', 'EICHERMOT.BO')":4788.7802734375,
+    "('High', 'EICHERMOT.BO')":4931.0856827708,
+    "('Low', 'EICHERMOT.BO')":4774.1201925685,
+    "('Open', 'EICHERMOT.BO')":4901.4203851403,
+    "('Volume', 'EICHERMOT.BO')":8664
+  },
+  {
+    "('Date', '')":"2025-02-13",
+    "('Close', 'EICHERMOT.BO')":4756.0541992188,
+    "('High', 'EICHERMOT.BO')":4844.8529339887,
+    "('Low', 'EICHERMOT.BO')":4728.7084481562,
+    "('Open', 'EICHERMOT.BO')":4787.9407042917,
+    "('Volume', 'EICHERMOT.BO')":7615
+  },
+  {
+    "('Date', '')":"2025-02-14",
+    "('Close', 'EICHERMOT.BO')":4643.759765625,
+    "('High', 'EICHERMOT.BO')":4788.2367263734,
+    "('Low', 'EICHERMOT.BO')":4626.4340412913,
+    "('Open', 'EICHERMOT.BO')":4739.6169155844,
+    "('Volume', 'EICHERMOT.BO')":13728
+  },
+  {
+    "('Date', '')":"2025-02-17",
+    "('Close', 'EICHERMOT.BO')":4683.248046875,
+    "('High', 'EICHERMOT.BO')":4691.1456813004,
+    "('Low', 'EICHERMOT.BO')":4584.675600796,
+    "('Open', 'EICHERMOT.BO')":4601.45807395,
+    "('Volume', 'EICHERMOT.BO')":10462
+  },
+  {
+    "('Date', '')":"2025-02-18",
+    "('Close', 'EICHERMOT.BO')":4660.3447265625,
+    "('High', 'EICHERMOT.BO')":4715.8749687632,
+    "('Low', 'EICHERMOT.BO')":4625.8417432618,
+    "('Open', 'EICHERMOT.BO')":4715.8749687632,
+    "('Volume', 'EICHERMOT.BO')":3167
+  },
+  {
+    "('Date', '')":"2025-02-19",
+    "('Close', 'EICHERMOT.BO')":4745.787109375,
+    "('High', 'EICHERMOT.BO')":4760.1512213743,
+    "('Low', 'EICHERMOT.BO')":4614.2421344376,
+    "('Open', 'EICHERMOT.BO')":4658.913129679,
+    "('Volume', 'EICHERMOT.BO')":3989
+  },
+  {
+    "('Date', '')":"2025-02-20",
+    "('Close', 'EICHERMOT.BO')":4826.9848632812,
+    "('High', 'EICHERMOT.BO')":4835.326932898,
+    "('Low', 'EICHERMOT.BO')":4708.9647754029,
+    "('Open', 'EICHERMOT.BO')":4708.9647754029,
+    "('Volume', 'EICHERMOT.BO')":54811
+  },
+  {
+    "('Date', '')":"2025-02-21",
+    "('Close', 'EICHERMOT.BO')":4896.533203125,
+    "('High', 'EICHERMOT.BO')":4916.2281212211,
+    "('Low', 'EICHERMOT.BO')":4804.1804360286,
+    "('Open', 'EICHERMOT.BO')":4860.9446818309,
+    "('Volume', 'EICHERMOT.BO')":5881
+  },
+  {
+    "('Date', '')":"2025-02-24",
+    "('Close', 'EICHERMOT.BO')":4948.6083984375,
+    "('High', 'EICHERMOT.BO')":4986.1713295702,
+    "('Low', 'EICHERMOT.BO')":4864.9428332751,
+    "('Open', 'EICHERMOT.BO')":4866.9172418925,
+    "('Volume', 'EICHERMOT.BO')":7949
+  },
+  {
+    "('Date', '')":"2025-02-25",
+    "('Close', 'EICHERMOT.BO')":4922.7436523438,
+    "('High', 'EICHERMOT.BO')":5011.0001067469,
+    "('Low', 'EICHERMOT.BO')":4916.2776566729,
+    "('Open', 'EICHERMOT.BO')":4948.8062327769,
+    "('Volume', 'EICHERMOT.BO')":4492
+  },
+  {
+    "('Date', '')":"2025-02-27",
+    "('Close', 'EICHERMOT.BO')":4871.2607421875,
+    "('High', 'EICHERMOT.BO')":4928.0746381806,
+    "('Low', 'EICHERMOT.BO')":4829.7981620925,
+    "('Open', 'EICHERMOT.BO')":4928.0746381806,
+    "('Volume', 'EICHERMOT.BO')":3678
+  },
+  {
+    "('Date', '')":"2025-02-28",
+    "('Close', 'EICHERMOT.BO')":4712.2221679688,
+    "('High', 'EICHERMOT.BO')":4868.7928688671,
+    "('Low', 'EICHERMOT.BO')":4695.3413597946,
+    "('Open', 'EICHERMOT.BO')":4864.3012820434,
+    "('Volume', 'EICHERMOT.BO')":12609
+  },
+  {
+    "('Date', '')":"2025-03-03",
+    "('Close', 'EICHERMOT.BO')":4842.3359375,
+    "('High', 'EICHERMOT.BO')":4864.8440028622,
+    "('Low', 'EICHERMOT.BO')":4770.1712063287,
+    "('Open', 'EICHERMOT.BO')":4777.970023939,
+    "('Volume', 'EICHERMOT.BO')":9161
+  },
+  {
+    "('Date', '')":"2025-03-04",
+    "('Close', 'EICHERMOT.BO')":4752.7963867188,
+    "('High', 'EICHERMOT.BO')":4813.9042377833,
+    "('Low', 'EICHERMOT.BO')":4728.8075145313,
+    "('Open', 'EICHERMOT.BO')":4799.8365762087,
+    "('Volume', 'EICHERMOT.BO')":4070
+  },
+  {
+    "('Date', '')":"2025-03-05",
+    "('Close', 'EICHERMOT.BO')":4924.3725585938,
+    "('High', 'EICHERMOT.BO')":4937.3045489728,
+    "('Low', 'EICHERMOT.BO')":4724.3648760223,
+    "('Open', 'EICHERMOT.BO')":4763.0629943919,
+    "('Volume', 'EICHERMOT.BO')":5873
+  },
+  {
+    "('Date', '')":"2025-03-06",
+    "('Close', 'EICHERMOT.BO')":5029.1147460938,
+    "('High', 'EICHERMOT.BO')":5040.6652293857,
+    "('Low', 'EICHERMOT.BO')":4930.6907651669,
+    "('Open', 'EICHERMOT.BO')":4935.5771373032,
+    "('Volume', 'EICHERMOT.BO')":5152
+  },
+  {
+    "('Date', '')":"2025-03-07",
+    "('Close', 'EICHERMOT.BO')":5032.6689453125,
+    "('High', 'EICHERMOT.BO')":5064.3583012651,
+    "('Low', 'EICHERMOT.BO')":5024.4256926065,
+    "('Open', 'EICHERMOT.BO')":5064.3091338611,
+    "('Volume', 'EICHERMOT.BO')":2401
+  },
+  {
+    "('Date', '')":"2025-03-10",
+    "('Close', 'EICHERMOT.BO')":4921.6083984375,
+    "('High', 'EICHERMOT.BO')":5064.9010113474,
+    "('Low', 'EICHERMOT.BO')":4908.3799567467,
+    "('Open', 'EICHERMOT.BO')":5059.5210369382,
+    "('Volume', 'EICHERMOT.BO')":3363
+  },
+  {
+    "('Date', '')":"2025-03-11",
+    "('Close', 'EICHERMOT.BO')":4925.4584960938,
+    "('High', 'EICHERMOT.BO')":4944.9066147026,
+    "('Low', 'EICHERMOT.BO')":4828.811286136,
+    "('Open', 'EICHERMOT.BO')":4828.811286136,
+    "('Volume', 'EICHERMOT.BO')":46732
+  },
+  {
+    "('Date', '')":"2025-03-12",
+    "('Close', 'EICHERMOT.BO')":4967.1674804688,
+    "('High', 'EICHERMOT.BO')":4974.8183136052,
+    "('Low', 'EICHERMOT.BO')":4893.7195787651,
+    "('Open', 'EICHERMOT.BO')":4925.4580998214,
+    "('Volume', 'EICHERMOT.BO')":5162
+  },
+  {
+    "('Date', '')":"2025-03-13",
+    "('Close', 'EICHERMOT.BO')":4948.1147460938,
+    "('High', 'EICHERMOT.BO')":4994.9081334448,
+    "('Low', 'EICHERMOT.BO')":4908.6757415479,
+    "('Open', 'EICHERMOT.BO')":4994.9081334448,
+    "('Volume', 'EICHERMOT.BO')":3356
+  },
+  {
+    "('Date', '')":"2025-03-17",
+    "('Close', 'EICHERMOT.BO')":4985.283203125,
+    "('High', 'EICHERMOT.BO')":5007.1005158963,
+    "('Low', 'EICHERMOT.BO')":4887.2540029517,
+    "('Open', 'EICHERMOT.BO')":4887.2540029517,
+    "('Volume', 'EICHERMOT.BO')":1957
+  },
+  {
+    "('Date', '')":"2025-03-18",
+    "('Close', 'EICHERMOT.BO')":5059.6689453125,
+    "('High', 'EICHERMOT.BO')":5079.1662306488,
+    "('Low', 'EICHERMOT.BO')":5001.2759061423,
+    "('Open', 'EICHERMOT.BO')":5024.8208256007,
+    "('Volume', 'EICHERMOT.BO')":2591
+  },
+  {
+    "('Date', '')":"2025-03-19",
+    "('Close', 'EICHERMOT.BO')":5036.765625,
+    "('High', 'EICHERMOT.BO')":5080.0054635816,
+    "('Low', 'EICHERMOT.BO')":4995.2538760176,
+    "('Open', 'EICHERMOT.BO')":5080.0054635816,
+    "('Volume', 'EICHERMOT.BO')":1531
+  },
+  {
+    "('Date', '')":"2025-03-20",
+    "('Close', 'EICHERMOT.BO')":5162.9799804688,
+    "('High', 'EICHERMOT.BO')":5190.6713519573,
+    "('Low', 'EICHERMOT.BO')":5056.1151086124,
+    "('Open', 'EICHERMOT.BO')":5078.130055037,
+    "('Volume', 'EICHERMOT.BO')":11669
+  },
+  {
+    "('Date', '')":"2025-03-21",
+    "('Close', 'EICHERMOT.BO')":5237.2670898438,
+    "('High', 'EICHERMOT.BO')":5256.9620095481,
+    "('Low', 'EICHERMOT.BO')":5164.5595854724,
+    "('Open', 'EICHERMOT.BO')":5182.7736986436,
+    "('Volume', 'EICHERMOT.BO')":8662
+  },
+  {
+    "('Date', '')":"2025-03-24",
+    "('Close', 'EICHERMOT.BO')":5358.19921875,
+    "('High', 'EICHERMOT.BO')":5386.9269597305,
+    "('Low', 'EICHERMOT.BO')":5247.5335224559,
+    "('Open', 'EICHERMOT.BO')":5296.3017995584,
+    "('Volume', 'EICHERMOT.BO')":3389
+  },
+  {
+    "('Date', '')":"2025-03-25",
+    "('Close', 'EICHERMOT.BO')":5357.3110351562,
+    "('High', 'EICHERMOT.BO')":5429.5745840802,
+    "('Low', 'EICHERMOT.BO')":5331.1501207173,
+    "('Open', 'EICHERMOT.BO')":5429.5745840802,
+    "('Volume', 'EICHERMOT.BO')":7336
+  },
+  {
+    "('Date', '')":"2025-03-26",
+    "('Close', 'EICHERMOT.BO')":5331.1010742188,
+    "('High', 'EICHERMOT.BO')":5417.0861866792,
+    "('Low', 'EICHERMOT.BO')":5320.389810714,
+    "('Open', 'EICHERMOT.BO')":5362.7407805293,
+    "('Volume', 'EICHERMOT.BO')":3744
+  },
+  {
+    "('Date', '')":"2025-03-27",
+    "('Close', 'EICHERMOT.BO')":5281.197265625,
+    "('High', 'EICHERMOT.BO')":5330.9030973935,
+    "('Low', 'EICHERMOT.BO')":5217.8190402427,
+    "('Open', 'EICHERMOT.BO')":5233.2190413418,
+    "('Volume', 'EICHERMOT.BO')":5434
+  },
+  {
+    "('Date', '')":"2025-03-28",
+    "('Close', 'EICHERMOT.BO')":5279.3217773438,
+    "('High', 'EICHERMOT.BO')":5339.9360247506,
+    "('Low', 'EICHERMOT.BO')":5253.7036330327,
+    "('Open', 'EICHERMOT.BO')":5281.5921544127,
+    "('Volume', 'EICHERMOT.BO')":6004
+  },
+  {
+    "('Date', '')":"2025-04-01",
+    "('Close', 'EICHERMOT.BO')":5235.6870117188,
+    "('High', 'EICHERMOT.BO')":5458.1044229007,
+    "('Low', 'EICHERMOT.BO')":5200.6412601446,
+    "('Open', 'EICHERMOT.BO')":5310.9613372829,
+    "('Volume', 'EICHERMOT.BO')":8762
+  },
+  {
+    "('Date', '')":"2025-04-02",
+    "('Close', 'EICHERMOT.BO')":5284.0112304688,
+    "('High', 'EICHERMOT.BO')":5322.857817659,
+    "('Low', 'EICHERMOT.BO')":5207.7005277912,
+    "('Open', 'EICHERMOT.BO')":5207.7005277912,
+    "('Volume', 'EICHERMOT.BO')":4319
+  },
+  {
+    "('Date', '')":"2025-04-03",
+    "('Close', 'EICHERMOT.BO')":5307.408203125,
+    "('High', 'EICHERMOT.BO')":5333.5691183204,
+    "('Low', 'EICHERMOT.BO')":5117.3217168912,
+    "('Open', 'EICHERMOT.BO')":5117.3217168912,
+    "('Volume', 'EICHERMOT.BO')":2042
+  },
+  {
+    "('Date', '')":"2025-04-04",
+    "('Close', 'EICHERMOT.BO')":5175.517578125,
+    "('High', 'EICHERMOT.BO')":5277.4955938077,
+    "('Low', 'EICHERMOT.BO')":5165.3490841856,
+    "('Open', 'EICHERMOT.BO')":5267.8211840726,
+    "('Volume', 'EICHERMOT.BO')":1540
+  },
+  {
+    "('Date', '')":"2025-04-07",
+    "('Close', 'EICHERMOT.BO')":5000.0908203125,
+    "('High', 'EICHERMOT.BO')":5091.9504670323,
+    "('Low', 'EICHERMOT.BO')":4956.5550155153,
+    "('Open', 'EICHERMOT.BO')":5049.3522170734,
+    "('Volume', 'EICHERMOT.BO')":5731
+  },
+  {
+    "('Date', '')":"2025-04-08",
+    "('Close', 'EICHERMOT.BO')":5166.3359375,
+    "('High', 'EICHERMOT.BO')":5196.4456678756,
+    "('Low', 'EICHERMOT.BO')":5051.3762889417,
+    "('Open', 'EICHERMOT.BO')":5108.2393515659,
+    "('Volume', 'EICHERMOT.BO')":3372
+  },
+  {
+    "('Date', '')":"2025-04-09",
+    "('Close', 'EICHERMOT.BO')":5188.1533203125,
+    "('High', 'EICHERMOT.BO')":5263.6744483673,
+    "('Low', 'EICHERMOT.BO')":5117.1734283906,
+    "('Open', 'EICHERMOT.BO')":5169.5444230714,
+    "('Volume', 'EICHERMOT.BO')":11042
+  },
+  {
+    "('Date', '')":"2025-04-11",
+    "('Close', 'EICHERMOT.BO')":5281.7900390625,
+    "('High', 'EICHERMOT.BO')":5338.8010899023,
+    "('Low', 'EICHERMOT.BO')":5231.2946332967,
+    "('Open', 'EICHERMOT.BO')":5231.2946332967,
+    "('Volume', 'EICHERMOT.BO')":4145
+  },
+  {
+    "('Date', '')":"2025-04-15",
+    "('Close', 'EICHERMOT.BO')":5461.06640625,
+    "('High', 'EICHERMOT.BO')":5483.9200902374,
+    "('Low', 'EICHERMOT.BO')":5330.9034180525,
+    "('Open', 'EICHERMOT.BO')":5412.0518073407,
+    "('Volume', 'EICHERMOT.BO')":65061
+  },
+  {
+    "('Date', '')":"2025-04-16",
+    "('Close', 'EICHERMOT.BO')":5543.7446289062,
+    "('High', 'EICHERMOT.BO')":5556.9239028734,
+    "('Low', 'EICHERMOT.BO')":5473.0607037855,
+    "('Open', 'EICHERMOT.BO')":5503.4664037709,
+    "('Volume', 'EICHERMOT.BO')":10826
+  },
+  {
+    "('Date', '')":"2025-04-17",
+    "('Close', 'EICHERMOT.BO')":5605.494140625,
+    "('High', 'EICHERMOT.BO')":5641.8727164016,
+    "('Low', 'EICHERMOT.BO')":5508.6492999525,
+    "('Open', 'EICHERMOT.BO')":5548.0883055428,
+    "('Volume', 'EICHERMOT.BO')":36808
+  },
+  {
+    "('Date', '')":"2025-04-21",
+    "('Close', 'EICHERMOT.BO')":5735.1635742188,
+    "('High', 'EICHERMOT.BO')":5783.0429843831,
+    "('Low', 'EICHERMOT.BO')":5573.7556657267,
+    "('Open', 'EICHERMOT.BO')":5646.7596189864,
+    "('Volume', 'EICHERMOT.BO')":7422
+  },
+  {
+    "('Date', '')":"2025-04-22",
+    "('Close', 'EICHERMOT.BO')":5710.7299804688,
+    "('High', 'EICHERMOT.BO')":5832.254924206,
+    "('Low', 'EICHERMOT.BO')":5699.0315132996,
+    "('Open', 'EICHERMOT.BO')":5752.1925603866,
+    "('Volume', 'EICHERMOT.BO')":4759
+  },
+  {
+    "('Date', '')":"2025-04-23",
+    "('Close', 'EICHERMOT.BO')":5670.4526367188,
+    "('High', 'EICHERMOT.BO')":5744.6901148508,
+    "('Low', 'EICHERMOT.BO')":5536.2420121034,
+    "('Open', 'EICHERMOT.BO')":5700.4635526459,
+    "('Volume', 'EICHERMOT.BO')":14726
+  },
+  {
+    "('Date', '')":"2025-04-24",
+    "('Close', 'EICHERMOT.BO')":5577.1616210938,
+    "('High', 'EICHERMOT.BO')":5691.2328871017,
+    "('Low', 'EICHERMOT.BO')":5557.9603043161,
+    "('Open', 'EICHERMOT.BO')":5656.7299034116,
+    "('Volume', 'EICHERMOT.BO')":10199
+  },
+  {
+    "('Date', '')":"2025-04-25",
+    "('Close', 'EICHERMOT.BO')":5499.666015625,
+    "('High', 'EICHERMOT.BO')":5596.7571733928,
+    "('Low', 'EICHERMOT.BO')":5449.3677634731,
+    "('Open', 'EICHERMOT.BO')":5590.9824138354,
+    "('Volume', 'EICHERMOT.BO')":4074
+  },
+  {
+    "('Date', '')":"2025-04-28",
+    "('Close', 'EICHERMOT.BO')":5553.5180664062,
+    "('High', 'EICHERMOT.BO')":5583.479814811,
+    "('Low', 'EICHERMOT.BO')":5474.8376869619,
+    "('Open', 'EICHERMOT.BO')":5502.6770424226,
+    "('Volume', 'EICHERMOT.BO')":4708
+  },
+  {
+    "('Date', '')":"2025-04-29",
+    "('Close', 'EICHERMOT.BO')":5509.1923828125,
+    "('High', 'EICHERMOT.BO')":5621.9804734698,
+    "('Low', 'EICHERMOT.BO')":5439.4956632076,
+    "('Open', 'EICHERMOT.BO')":5621.9804734698,
+    "('Volume', 'EICHERMOT.BO')":6742
+  },
+  {
+    "('Date', '')":"2025-04-30",
+    "('Close', 'EICHERMOT.BO')":5493.7426757812,
+    "('High', 'EICHERMOT.BO')":5536.4392610854,
+    "('Low', 'EICHERMOT.BO')":5439.0511727939,
+    "('Open', 'EICHERMOT.BO')":5536.4392610854,
+    "('Volume', 'EICHERMOT.BO')":22146
+  },
+  {
+    "('Date', '')":"2025-05-02",
+    "('Close', 'EICHERMOT.BO')":5371.37890625,
+    "('High', 'EICHERMOT.BO')":5495.7666552277,
+    "('Low', 'EICHERMOT.BO')":5308.8890632674,
+    "('Open', 'EICHERMOT.BO')":5495.7666552277,
+    "('Volume', 'EICHERMOT.BO')":11106
+  },
+  {
+    "('Date', '')":"2025-05-05",
+    "('Close', 'EICHERMOT.BO')":5388.9506835938,
+    "('High', 'EICHERMOT.BO')":5406.3752252563,
+    "('Low', 'EICHERMOT.BO')":5338.1593111681,
+    "('Open', 'EICHERMOT.BO')":5391.4186943637,
+    "('Volume', 'EICHERMOT.BO')":41574
+  },
+  {
+    "('Date', '')":"2025-05-06",
+    "('Close', 'EICHERMOT.BO')":5440.3349609375,
+    "('High', 'EICHERMOT.BO')":5527.6528928209,
+    "('Low', 'EICHERMOT.BO')":5332.0881048966,
+    "('Open', 'EICHERMOT.BO')":5332.0881048966,
+    "('Volume', 'EICHERMOT.BO')":40215
+  },
+  {
+    "('Date', '')":"2025-05-07",
+    "('Close', 'EICHERMOT.BO')":5414.8154296875,
+    "('High', 'EICHERMOT.BO')":5498.7277927729,
+    "('Low', 'EICHERMOT.BO')":5335.7402711262,
+    "('Open', 'EICHERMOT.BO')":5335.7402711262,
+    "('Volume', 'EICHERMOT.BO')":54552
+  },
+  {
+    "('Date', '')":"2025-05-08",
+    "('Close', 'EICHERMOT.BO')":5304.693359375,
+    "('High', 'EICHERMOT.BO')":5413.3350042972,
+    "('Low', 'EICHERMOT.BO')":5269.4499715852,
+    "('Open', 'EICHERMOT.BO')":5413.3350042972,
+    "('Volume', 'EICHERMOT.BO')":5663
+  },
+  {
+    "('Date', '')":"2025-05-09",
+    "('Close', 'EICHERMOT.BO')":5256.7641601562,
+    "('High', 'EICHERMOT.BO')":5271.4242406396,
+    "('Low', 'EICHERMOT.BO')":5134.6472756196,
+    "('Open', 'EICHERMOT.BO')":5134.6472756196,
+    "('Volume', 'EICHERMOT.BO')":9292
+  },
+  {
+    "('Date', '')":"2025-05-12",
+    "('Close', 'EICHERMOT.BO')":5449.6147460938,
+    "('High', 'EICHERMOT.BO')":5469.1120317666,
+    "('Low', 'EICHERMOT.BO')":5343.2926460925,
+    "('Open', 'EICHERMOT.BO')":5355.9783182407,
+    "('Volume', 'EICHERMOT.BO')":10900
+  },
+  {
+    "('Date', '')":"2025-05-13",
+    "('Close', 'EICHERMOT.BO')":5351.2890625,
+    "('High', 'EICHERMOT.BO')":5477.9476674363,
+    "('Low', 'EICHERMOT.BO')":5325.9673678067,
+    "('Open', 'EICHERMOT.BO')":5448.8251396606,
+    "('Volume', 'EICHERMOT.BO')":6831
+  },
+  {
+    "('Date', '')":"2025-05-14",
+    "('Close', 'EICHERMOT.BO')":5377.203125,
+    "('High', 'EICHERMOT.BO')":5404.9436628544,
+    "('Low', 'EICHERMOT.BO')":5294.4259461951,
+    "('Open', 'EICHERMOT.BO')":5383.4719688513,
+    "('Volume', 'EICHERMOT.BO')":14593
+  },
+  {
+    "('Date', '')":"2025-05-15",
+    "('Close', 'EICHERMOT.BO')":5401.833984375,
+    "('High', 'EICHERMOT.BO')":5488.4611623256,
+    "('Low', 'EICHERMOT.BO')":5294.3766991372,
+    "('Open', 'EICHERMOT.BO')":5488.4611623256,
+    "('Volume', 'EICHERMOT.BO')":49436
+  },
+  {
+    "('Date', '')":"2025-05-16",
+    "('Close', 'EICHERMOT.BO')":5437.2255859375,
+    "('High', 'EICHERMOT.BO')":5515.9054833348,
+    "('Low', 'EICHERMOT.BO')":5422.7134891935,
+    "('Open', 'EICHERMOT.BO')":5439.3479788812,
+    "('Volume', 'EICHERMOT.BO')":31075
+  },
+  {
+    "('Date', '')":"2025-05-19",
+    "('Close', 'EICHERMOT.BO')":5462.9912109375,
+    "('High', 'EICHERMOT.BO')":5556.9732573844,
+    "('Low', 'EICHERMOT.BO')":5437.7683327389,
+    "('Open', 'EICHERMOT.BO')":5478.5893288068,
+    "('Volume', 'EICHERMOT.BO')":15818
+  },
+  {
+    "('Date', '')":"2025-05-20",
+    "('Close', 'EICHERMOT.BO')":5319.5502929688,
+    "('High', 'EICHERMOT.BO')":5498.382252899,
+    "('Low', 'EICHERMOT.BO')":5311.1590565411,
+    "('Open', 'EICHERMOT.BO')":5498.382252899,
+    "('Volume', 'EICHERMOT.BO')":13711
+  },
+  {
+    "('Date', '')":"2025-05-21",
+    "('Close', 'EICHERMOT.BO')":5341.2690429688,
+    "('High', 'EICHERMOT.BO')":5404.9437224386,
+    "('Low', 'EICHERMOT.BO')":5315.1572955511,
+    "('Open', 'EICHERMOT.BO')":5360.1247421332,
+    "('Volume', 'EICHERMOT.BO')":23189
+  },
+  {
+    "('Date', '')":"2025-05-22",
+    "('Close', 'EICHERMOT.BO')":5323.2524414062,
+    "('High', 'EICHERMOT.BO')":5344.6749677498,
+    "('Low', 'EICHERMOT.BO')":5254.6417418508,
+    "('Open', 'EICHERMOT.BO')":5319.0568230881,
+    "('Volume', 'EICHERMOT.BO')":8745
+  },
+  {
+    "('Date', '')":"2025-05-23",
+    "('Close', 'EICHERMOT.BO')":5332.3842773438,
+    "('High', 'EICHERMOT.BO')":5368.3680685852,
+    "('Low', 'EICHERMOT.BO')":5311.1593838951,
+    "('Open', 'EICHERMOT.BO')":5316.1445730313,
+    "('Volume', 'EICHERMOT.BO')":37658
+  },
+  {
+    "('Date', '')":"2025-05-26",
+    "('Close', 'EICHERMOT.BO')":5358.0024414062,
+    "('High', 'EICHERMOT.BO')":5400.007793679,
+    "('Low', 'EICHERMOT.BO')":5336.4810973595,
+    "('Open', 'EICHERMOT.BO')":5366.7388142757,
+    "('Volume', 'EICHERMOT.BO')":12756
+  },
+  {
+    "('Date', '')":"2025-05-27",
+    "('Close', 'EICHERMOT.BO')":5325.8193359375,
+    "('High', 'EICHERMOT.BO')":5375.3275363069,
+    "('Low', 'EICHERMOT.BO')":5308.246809776,
+    "('Open', 'EICHERMOT.BO')":5340.429767098,
+    "('Volume', 'EICHERMOT.BO')":5477
+  },
+  {
+    "('Date', '')":"2025-05-28",
+    "('Close', 'EICHERMOT.BO')":5259.2817382812,
+    "('High', 'EICHERMOT.BO')":5332.7788091604,
+    "('Low', 'EICHERMOT.BO')":5246.9908519389,
+    "('Open', 'EICHERMOT.BO')":5325.8192116621,
+    "('Volume', 'EICHERMOT.BO')":7051
+  },
+  {
+    "('Date', '')":"2025-05-29",
+    "('Close', 'EICHERMOT.BO')":5307.8520507812,
+    "('High', 'EICHERMOT.BO')":5326.9545509241,
+    "('Low', 'EICHERMOT.BO')":5220.3364835594,
+    "('Open', 'EICHERMOT.BO')":5251.9761894409,
+    "('Volume', 'EICHERMOT.BO')":64264
+  },
+  {
+    "('Date', '')":"2025-05-30",
+    "('Close', 'EICHERMOT.BO')":5270.9306640625,
+    "('High', 'EICHERMOT.BO')":5333.6673057673,
+    "('Low', 'EICHERMOT.BO')":5251.9269809079,
+    "('Open', 'EICHERMOT.BO')":5253.5066042261,
+    "('Volume', 'EICHERMOT.BO')":4089
+  },
+  {
+    "('Date', '')":"2025-06-02",
+    "('Close', 'EICHERMOT.BO')":5288.05859375,
+    "('High', 'EICHERMOT.BO')":5329.6199907463,
+    "('Low', 'EICHERMOT.BO')":5248.4716053328,
+    "('Open', 'EICHERMOT.BO')":5329.6199907463,
+    "('Volume', 'EICHERMOT.BO')":24744
+  },
+  {
+    "('Date', '')":"2025-06-03",
+    "('Close', 'EICHERMOT.BO')":5282.826171875,
+    "('High', 'EICHERMOT.BO')":5330.9032140446,
+    "('Low', 'EICHERMOT.BO')":5232.1827841549,
+    "('Open', 'EICHERMOT.BO')":5330.9032140446,
+    "('Volume', 'EICHERMOT.BO')":4086
+  },
+  {
+    "('Date', '')":"2025-06-04",
+    "('Close', 'EICHERMOT.BO')":5248.6196289062,
+    "('High', 'EICHERMOT.BO')":5316.0951390086,
+    "('Low', 'EICHERMOT.BO')":5226.6543332994,
+    "('Open', 'EICHERMOT.BO')":5261.8480700785,
+    "('Volume', 'EICHERMOT.BO')":40248
+  },
+  {
+    "('Date', '')":"2025-06-05",
+    "('Close', 'EICHERMOT.BO')":5238.6987304688,
+    "('High', 'EICHERMOT.BO')":5272.8064481455,
+    "('Low', 'EICHERMOT.BO')":5218.1645906498,
+    "('Open', 'EICHERMOT.BO')":5272.8064481455,
+    "('Volume', 'EICHERMOT.BO')":3141
+  },
+  {
+    "('Date', '')":"2025-06-06",
+    "('Close', 'EICHERMOT.BO')":5327.0532226562,
+    "('High', 'EICHERMOT.BO')":5337.6160194522,
+    "('Low', 'EICHERMOT.BO')":5194.7678463813,
+    "('Open', 'EICHERMOT.BO')":5232.1827929658,
+    "('Volume', 'EICHERMOT.BO')":23677
+  },
+  {
+    "('Date', '')":"2025-06-09",
+    "('Close', 'EICHERMOT.BO')":5320.5869140625,
+    "('High', 'EICHERMOT.BO')":5374.9819691557,
+    "('Low', 'EICHERMOT.BO')":5309.1848968426,
+    "('Open', 'EICHERMOT.BO')":5334.2597904657,
+    "('Volume', 'EICHERMOT.BO')":11920
+  },
+  {
+    "('Date', '')":"2025-06-10",
+    "('Close', 'EICHERMOT.BO')":5307.9506835938,
+    "('High', 'EICHERMOT.BO')":5351.6344735689,
+    "('Low', 'EICHERMOT.BO')":5303.2614632009,
+    "('Open', 'EICHERMOT.BO')":5322.8575648281,
+    "('Volume', 'EICHERMOT.BO')":5401
+  },
+  {
+    "('Date', '')":"2025-06-11",
+    "('Close', 'EICHERMOT.BO')":5283.7153320312,
+    "('High', 'EICHERMOT.BO')":5365.4064922589,
+    "('Low', 'EICHERMOT.BO')":5277.594472228,
+    "('Open', 'EICHERMOT.BO')":5306.2233984709,
+    "('Volume', 'EICHERMOT.BO')":3054
+  },
+  {
+    "('Date', '')":"2025-06-12",
+    "('Close', 'EICHERMOT.BO')":5246.6948242188,
+    "('High', 'EICHERMOT.BO')":5307.9014900978,
+    "('Low', 'EICHERMOT.BO')":5237.1187498082,
+    "('Open', 'EICHERMOT.BO')":5307.9014900978,
+    "('Volume', 'EICHERMOT.BO')":5796
+  },
+  {
+    "('Date', '')":"2025-06-13",
+    "('Close', 'EICHERMOT.BO')":5255.1352539062,
+    "('High', 'EICHERMOT.BO')":5263.2796893253,
+    "('Low', 'EICHERMOT.BO')":5157.9944478596,
+    "('Open', 'EICHERMOT.BO')":5242.0056296197,
+    "('Volume', 'EICHERMOT.BO')":6703
+  },
+  {
+    "('Date', '')":"2025-06-16",
+    "('Close', 'EICHERMOT.BO')":5297.7827148438,
+    "('High', 'EICHERMOT.BO')":5311.1591403113,
+    "('Low', 'EICHERMOT.BO')":5232.1827962175,
+    "('Open', 'EICHERMOT.BO')":5232.1827962175,
+    "('Volume', 'EICHERMOT.BO')":64234
+  },
+  {
+    "('Date', '')":"2025-06-17",
+    "('Close', 'EICHERMOT.BO')":5272.0166015625,
+    "('High', 'EICHERMOT.BO')":5321.0311988521,
+    "('Low', 'EICHERMOT.BO')":5242.9432419948,
+    "('Open', 'EICHERMOT.BO')":5320.932382015,
+    "('Volume', 'EICHERMOT.BO')":21014
+  },
+  {
+    "('Date', '')":"2025-06-18",
+    "('Close', 'EICHERMOT.BO')":5323.4501953125,
+    "('High', 'EICHERMOT.BO')":5392.0608964175,
+    "('Low', 'EICHERMOT.BO')":5246.8922101113,
+    "('Open', 'EICHERMOT.BO')":5262.7862962703,
+    "('Volume', 'EICHERMOT.BO')":9386
+  },
+  {
+    "('Date', '')":"2025-06-19",
+    "('Close', 'EICHERMOT.BO')":5425.23046875,
+    "('High', 'EICHERMOT.BO')":5434.5597423199,
+    "('Low', 'EICHERMOT.BO')":5339.6401440446,
+    "('Open', 'EICHERMOT.BO')":5342.7497412235,
+    "('Volume', 'EICHERMOT.BO')":91205
+  },
+  {
+    "('Date', '')":"2025-06-20",
+    "('Close', 'EICHERMOT.BO')":5453.9091796875,
+    "('High', 'EICHERMOT.BO')":5469.1120300792,
+    "('Low', 'EICHERMOT.BO')":5425.3790707387,
+    "('Open', 'EICHERMOT.BO')":5469.1120300792,
+    "('Volume', 'EICHERMOT.BO')":16321
+  },
+  {
+    "('Date', '')":"2025-06-23",
+    "('Close', 'EICHERMOT.BO')":5481.896484375,
+    "('High', 'EICHERMOT.BO')":5490.1889043514,
+    "('Low', 'EICHERMOT.BO')":5410.8669399237,
+    "('Open', 'EICHERMOT.BO')":5429.6238222187,
+    "('Volume', 'EICHERMOT.BO')":4866
+  },
+  {
+    "('Date', '')":"2025-06-24",
+    "('Close', 'EICHERMOT.BO')":5554.060546875,
+    "('High', 'EICHERMOT.BO')":5568.3258417917,
+    "('Low', 'EICHERMOT.BO')":5488.9547126545,
+    "('Open', 'EICHERMOT.BO')":5488.9547126545,
+    "('Volume', 'EICHERMOT.BO')":15900
+  },
+  {
+    "('Date', '')":"2025-06-25",
+    "('Close', 'EICHERMOT.BO')":5504.35546875,
+    "('High', 'EICHERMOT.BO')":5577.704558897,
+    "('Low', 'EICHERMOT.BO')":5493.2985872535,
+    "('Open', 'EICHERMOT.BO')":5554.3076230667,
+    "('Volume', 'EICHERMOT.BO')":5448
+  },
+  {
+    "('Date', '')":"2025-06-26",
+    "('Close', 'EICHERMOT.BO')":5540.3383789062,
+    "('High', 'EICHERMOT.BO')":5547.7424109733,
+    "('Low', 'EICHERMOT.BO')":5445.9123863517,
+    "('Open', 'EICHERMOT.BO')":5499.1226003999,
+    "('Volume', 'EICHERMOT.BO')":12761
+  },
+  {
+    "('Date', '')":"2025-06-27",
+    "('Close', 'EICHERMOT.BO')":5580.3203125,
+    "('High', 'EICHERMOT.BO')":5610.9236459235,
+    "('Low', 'EICHERMOT.BO')":5523.9508503359,
+    "('Open', 'EICHERMOT.BO')":5543.1521668617,
+    "('Volume', 'EICHERMOT.BO')":9469
+  },
+  {
+    "('Date', '')":"2025-06-30",
+    "('Close', 'EICHERMOT.BO')":5581.8999023438,
+    "('High', 'EICHERMOT.BO')":5607.0736119445,
+    "('Low', 'EICHERMOT.BO')":5545.4225107168,
+    "('Open', 'EICHERMOT.BO')":5558.0093655172,
+    "('Volume', 'EICHERMOT.BO')":3623
+  },
+  {
+    "('Date', '')":"2025-07-01",
+    "('Close', 'EICHERMOT.BO')":5642.8598632812,
+    "('High', 'EICHERMOT.BO')":5673.4631970394,
+    "('Low', 'EICHERMOT.BO')":5562.8963137841,
+    "('Open', 'EICHERMOT.BO')":5633.2346212121,
+    "('Volume', 'EICHERMOT.BO')":13331
+  },
+  {
+    "('Date', '')":"2025-07-02",
+    "('Close', 'EICHERMOT.BO')":5648.4873046875,
+    "('High', 'EICHERMOT.BO')":5672.4761775047,
+    "('Low', 'EICHERMOT.BO')":5633.9752079742,
+    "('Open', 'EICHERMOT.BO')":5637.9240253619,
+    "('Volume', 'EICHERMOT.BO')":6012
+  },
+  {
+    "('Date', '')":"2025-07-03",
+    "('Close', 'EICHERMOT.BO')":5645.1303710938,
+    "('High', 'EICHERMOT.BO')":5701.0062330107,
+    "('Low', 'EICHERMOT.BO')":5605.5930301848,
+    "('Open', 'EICHERMOT.BO')":5605.5930301848,
+    "('Volume', 'EICHERMOT.BO')":11275
+  },
+  {
+    "('Date', '')":"2025-07-04",
+    "('Close', 'EICHERMOT.BO')":5554.8012695312,
+    "('High', 'EICHERMOT.BO')":5636.4924298727,
+    "('Low', 'EICHERMOT.BO')":5546.1140640243,
+    "('Open', 'EICHERMOT.BO')":5622.227616169,
+    "('Volume', 'EICHERMOT.BO')":7611
+  },
+  {
+    "('Date', '')":"2025-07-07",
+    "('Close', 'EICHERMOT.BO')":5599.6694335938,
+    "('High', 'EICHERMOT.BO')":5627.0643521503,
+    "('Low', 'EICHERMOT.BO')":5554.8008066041,
+    "('Open', 'EICHERMOT.BO')":5555.2452413399,
+    "('Volume', 'EICHERMOT.BO')":17179
+  },
+  {
+    "('Date', '')":"2025-07-08",
+    "('Close', 'EICHERMOT.BO')":5600.8544921875,
+    "('High', 'EICHERMOT.BO')":5675.0919671697,
+    "('Low', 'EICHERMOT.BO')":5576.2235518097,
+    "('Open', 'EICHERMOT.BO')":5675.0919671697,
+    "('Volume', 'EICHERMOT.BO')":3723
+  },
+  {
+    "('Date', '')":"2025-07-09",
+    "('Close', 'EICHERMOT.BO')":5622.8198242188,
+    "('High', 'EICHERMOT.BO')":5644.6366540097,
+    "('Low', 'EICHERMOT.BO')":5597.5472972831,
+    "('Open', 'EICHERMOT.BO')":5606.7777540587,
+    "('Volume', 'EICHERMOT.BO')":1994
+  },
+  {
+    "('Date', '')":"2025-07-10",
+    "('Close', 'EICHERMOT.BO')":5578.9384765625,
+    "('High', 'EICHERMOT.BO')":5632.0007093632,
+    "('Low', 'EICHERMOT.BO')":5572.7684494926,
+    "('Open', 'EICHERMOT.BO')":5620.1050899859,
+    "('Volume', 'EICHERMOT.BO')":3091
+  },
+  {
+    "('Date', '')":"2025-07-11",
+    "('Close', 'EICHERMOT.BO')":5535.9951171875,
+    "('High', 'EICHERMOT.BO')":5609.8874581702,
+    "('Low', 'EICHERMOT.BO')":5519.1138266292,
+    "('Open', 'EICHERMOT.BO')":5578.7408721383,
+    "('Volume', 'EICHERMOT.BO')":3214
+  },
+  {
+    "('Date', '')":"2025-07-14",
+    "('Close', 'EICHERMOT.BO')":5469.1611328125,
+    "('High', 'EICHERMOT.BO')":5536.1926921669,
+    "('Low', 'EICHERMOT.BO')":5450.3550832177,
+    "('Open', 'EICHERMOT.BO')":5523.309386494,
+    "('Volume', 'EICHERMOT.BO')":4624
+  },
+  {
+    "('Date', '')":"2025-07-15",
+    "('Close', 'EICHERMOT.BO')":5519.953125,
+    "('High', 'EICHERMOT.BO')":5567.8325359921,
+    "('Low', 'EICHERMOT.BO')":5502.2822635354,
+    "('Open', 'EICHERMOT.BO')":5510.6238510758,
+    "('Volume', 'EICHERMOT.BO')":7851
+  },
+  {
+    "('Date', '')":"2025-07-16",
+    "('Close', 'EICHERMOT.BO')":5554.40625,
+    "('High', 'EICHERMOT.BO')":5560.9710622745,
+    "('Low', 'EICHERMOT.BO')":5474.0479153322,
+    "('Open', 'EICHERMOT.BO')":5520.6933191193,
+    "('Volume', 'EICHERMOT.BO')":4384
+  },
+  {
+    "('Date', '')":"2025-07-17",
+    "('Close', 'EICHERMOT.BO')":5576.8159179688,
+    "('High', 'EICHERMOT.BO')":5606.5800312628,
+    "('Low', 'EICHERMOT.BO')":5554.652988579,
+    "('Open', 'EICHERMOT.BO')":5554.652988579,
+    "('Volume', 'EICHERMOT.BO')":3950
+  },
+  {
+    "('Date', '')":"2025-07-18",
+    "('Close', 'EICHERMOT.BO')":5552.9750976562,
+    "('High', 'EICHERMOT.BO')":5607.3205023169,
+    "('Low', 'EICHERMOT.BO')":5544.9289968722,
+    "('Open', 'EICHERMOT.BO')":5597.4484591791,
+    "('Volume', 'EICHERMOT.BO')":1055
+  },
+  {
+    "('Date', '')":"2025-07-21",
+    "('Close', 'EICHERMOT.BO')":5487.7700195312,
+    "('High', 'EICHERMOT.BO')":5548.0391327233,
+    "('Low', 'EICHERMOT.BO')":5474.0479758362,
+    "('Open', 'EICHERMOT.BO')":5548.0391327233,
+    "('Volume', 'EICHERMOT.BO')":25718
+  },
+  {
+    "('Date', '')":"2025-07-22",
+    "('Close', 'EICHERMOT.BO')":5370.14453125,
+    "('High', 'EICHERMOT.BO')":5459.1905509338,
+    "('Low', 'EICHERMOT.BO')":5363.2832686279,
+    "('Open', 'EICHERMOT.BO')":5459.1905509338,
+    "('Volume', 'EICHERMOT.BO')":91983
+  },
+  {
+    "('Date', '')":"2025-07-23",
+    "('Close', 'EICHERMOT.BO')":5370.7373046875,
+    "('High', 'EICHERMOT.BO')":5389.6913390678,
+    "('Low', 'EICHERMOT.BO')":5350.9932176038,
+    "('Open', 'EICHERMOT.BO')":5370.095718264,
+    "('Volume', 'EICHERMOT.BO')":22321
+  },
+  {
+    "('Date', '')":"2025-07-24",
+    "('Close', 'EICHERMOT.BO')":5402.4755859375,
+    "('High', 'EICHERMOT.BO')":5429.8705055373,
+    "('Low', 'EICHERMOT.BO')":5363.3330314566,
+    "('Open', 'EICHERMOT.BO')":5386.2358822263,
+    "('Volume', 'EICHERMOT.BO')":4651
+  },
+  {
+    "('Date', '')":"2025-07-25",
+    "('Close', 'EICHERMOT.BO')":5360.9638671875,
+    "('High', 'EICHERMOT.BO')":5407.8560721673,
+    "('Low', 'EICHERMOT.BO')":5303.0147810622,
+    "('Open', 'EICHERMOT.BO')":5402.5247832377,
+    "('Volume', 'EICHERMOT.BO')":6115
+  },
+  {
+    "('Date', '')":"2025-07-28",
+    "('Close', 'EICHERMOT.BO')":5312.9360351562,
+    "('High', 'EICHERMOT.BO')":5385.1995844465,
+    "('Low', 'EICHERMOT.BO')":5287.1703879408,
+    "('Open', 'EICHERMOT.BO')":5363.4810893305,
+    "('Volume', 'EICHERMOT.BO')":2444
+  },
+  {
+    "('Date', '')":"2025-07-29",
+    "('Close', 'EICHERMOT.BO')":5402.0810546875,
+    "('High', 'EICHERMOT.BO')":5415.5071303403,
+    "('Low', 'EICHERMOT.BO')":5290.9217477579,
+    "('Open', 'EICHERMOT.BO')":5318.069867557,
+    "('Volume', 'EICHERMOT.BO')":1618
+  },
+  {
+    "('Date', '')":"2025-07-30",
+    "('Close', 'EICHERMOT.BO')":5411.3603515625,
+    "('High', 'EICHERMOT.BO')":5487.9675013818,
+    "('Low', 'EICHERMOT.BO')":5366.5905403071,
+    "('Open', 'EICHERMOT.BO')":5408.250754435,
+    "('Volume', 'EICHERMOT.BO')":8649
+  },
+  {
+    "('Date', '')":"2025-07-31",
+    "('Close', 'EICHERMOT.BO')":5400.6000976562,
+    "('High', 'EICHERMOT.BO')":5439.4958518051,
+    "('Low', 'EICHERMOT.BO')":5321.0313323466,
+    "('Open', 'EICHERMOT.BO')":5340.8245863261,
+    "('Volume', 'EICHERMOT.BO')":9631
+  },
+  {
+    "('Date', '')":"2025-08-01",
+    "('Close', 'EICHERMOT.BO')":5527.0,
+    "('High', 'EICHERMOT.BO')":5669.8500976562,
+    "('Low', 'EICHERMOT.BO')":5470.0,
+    "('Open', 'EICHERMOT.BO')":5470.0,
+    "('Volume', 'EICHERMOT.BO')":108997
+  },
+  {
+    "('Date', '')":"2025-08-04",
+    "('Close', 'EICHERMOT.BO')":5620.7001953125,
+    "('High', 'EICHERMOT.BO')":5669.9501953125,
+    "('Low', 'EICHERMOT.BO')":5527.0,
+    "('Open', 'EICHERMOT.BO')":5528.2998046875,
+    "('Volume', 'EICHERMOT.BO')":9223
+  },
+  {
+    "('Date', '')":"2025-08-05",
+    "('Close', 'EICHERMOT.BO')":5680.1499023438,
+    "('High', 'EICHERMOT.BO')":5690.0,
+    "('Low', 'EICHERMOT.BO')":5594.5,
+    "('Open', 'EICHERMOT.BO')":5601.1499023438,
+    "('Volume', 'EICHERMOT.BO')":16313
+  },
+  {
+    "('Date', '')":"2025-08-06",
+    "('Close', 'EICHERMOT.BO')":5668.6499023438,
+    "('High', 'EICHERMOT.BO')":5710.0,
+    "('Low', 'EICHERMOT.BO')":5651.2998046875,
+    "('Open', 'EICHERMOT.BO')":5681.2001953125,
+    "('Volume', 'EICHERMOT.BO')":8383
+  },
+  {
+    "('Date', '')":"2025-08-07",
+    "('Close', 'EICHERMOT.BO')":5679.7998046875,
+    "('High', 'EICHERMOT.BO')":5691.0,
+    "('Low', 'EICHERMOT.BO')":5588.1499023438,
+    "('Open', 'EICHERMOT.BO')":5660.0,
+    "('Volume', 'EICHERMOT.BO')":5317
+  },
+  {
+    "('Date', '')":"2025-08-08",
+    "('Close', 'EICHERMOT.BO')":5659.5498046875,
+    "('High', 'EICHERMOT.BO')":5708.0,
+    "('Low', 'EICHERMOT.BO')":5655.2998046875,
+    "('Open', 'EICHERMOT.BO')":5699.0498046875,
+    "('Volume', 'EICHERMOT.BO')":4965
+  },
+  {
+    "('Date', '')":"2025-08-11",
+    "('Close', 'EICHERMOT.BO')":5673.0498046875,
+    "('High', 'EICHERMOT.BO')":5706.0498046875,
+    "('Low', 'EICHERMOT.BO')":5655.0,
+    "('Open', 'EICHERMOT.BO')":5664.0,
+    "('Volume', 'EICHERMOT.BO')":34759
+  },
+  {
+    "('Date', '')":"2025-08-12",
+    "('Close', 'EICHERMOT.BO')":5656.6000976562,
+    "('High', 'EICHERMOT.BO')":5690.0,
+    "('Low', 'EICHERMOT.BO')":5645.2001953125,
+    "('Open', 'EICHERMOT.BO')":5673.25,
+    "('Volume', 'EICHERMOT.BO')":23664
+  },
+  {
+    "('Date', '')":"2025-08-13",
+    "('Close', 'EICHERMOT.BO')":5712.6499023438,
+    "('High', 'EICHERMOT.BO')":5756.2998046875,
+    "('Low', 'EICHERMOT.BO')":5650.0,
+    "('Open', 'EICHERMOT.BO')":5657.25,
+    "('Volume', 'EICHERMOT.BO')":17427
+  },
+  {
+    "('Date', '')":"2025-08-14",
+    "('Close', 'EICHERMOT.BO')":5763.3999023438,
+    "('High', 'EICHERMOT.BO')":5782.0,
+    "('Low', 'EICHERMOT.BO')":5714.5,
+    "('Open', 'EICHERMOT.BO')":5714.5,
+    "('Volume', 'EICHERMOT.BO')":42982
+  },
+  {
+    "('Date', '')":"2025-08-18",
+    "('Close', 'EICHERMOT.BO')":5911.1499023438,
+    "('High', 'EICHERMOT.BO')":6024.3500976562,
+    "('Low', 'EICHERMOT.BO')":5801.2001953125,
+    "('Open', 'EICHERMOT.BO')":5801.2001953125,
+    "('Volume', 'EICHERMOT.BO')":34514
+  },
+  {
+    "('Date', '')":"2025-08-19",
+    "('Close', 'EICHERMOT.BO')":5936.2001953125,
+    "('High', 'EICHERMOT.BO')":5995.0,
+    "('Low', 'EICHERMOT.BO')":5902.5,
+    "('Open', 'EICHERMOT.BO')":5934.9501953125,
+    "('Volume', 'EICHERMOT.BO')":13626
+  },
+  {
+    "('Date', '')":"2025-08-20",
+    "('Close', 'EICHERMOT.BO')":5939.7998046875,
+    "('High', 'EICHERMOT.BO')":5968.4501953125,
+    "('Low', 'EICHERMOT.BO')":5908.0,
+    "('Open', 'EICHERMOT.BO')":5945.0498046875,
+    "('Volume', 'EICHERMOT.BO')":7896
+  },
+  {
+    "('Date', '')":"2025-08-21",
+    "('Close', 'EICHERMOT.BO')":5968.9501953125,
+    "('High', 'EICHERMOT.BO')":5990.0,
+    "('Low', 'EICHERMOT.BO')":5897.0,
+    "('Open', 'EICHERMOT.BO')":5985.0,
+    "('Volume', 'EICHERMOT.BO')":9096
+  },
+  {
+    "('Date', '')":"2025-08-22",
+    "('Close', 'EICHERMOT.BO')":5924.5,
+    "('High', 'EICHERMOT.BO')":5970.5,
+    "('Low', 'EICHERMOT.BO')":5915.0498046875,
+    "('Open', 'EICHERMOT.BO')":5968.9501953125,
+    "('Volume', 'EICHERMOT.BO')":3923
+  },
+  {
+    "('Date', '')":"2025-08-25",
+    "('Close', 'EICHERMOT.BO')":5992.5,
+    "('High', 'EICHERMOT.BO')":6009.0,
+    "('Low', 'EICHERMOT.BO')":5881.2001953125,
+    "('Open', 'EICHERMOT.BO')":5958.9501953125,
+    "('Volume', 'EICHERMOT.BO')":26013
+  },
+  {
+    "('Date', '')":"2025-08-26",
+    "('Close', 'EICHERMOT.BO')":6151.1499023438,
+    "('High', 'EICHERMOT.BO')":6212.7001953125,
+    "('Low', 'EICHERMOT.BO')":5970.0,
+    "('Open', 'EICHERMOT.BO')":5989.9501953125,
+    "('Volume', 'EICHERMOT.BO')":49048
+  },
+  {
+    "('Date', '')":"2025-08-28",
+    "('Close', 'EICHERMOT.BO')":6131.75,
+    "('High', 'EICHERMOT.BO')":6250.0,
+    "('Low', 'EICHERMOT.BO')":6121.0,
+    "('Open', 'EICHERMOT.BO')":6202.1000976562,
+    "('Volume', 'EICHERMOT.BO')":17196
+  },
+  {
+    "('Date', '')":"2025-08-29",
+    "('Close', 'EICHERMOT.BO')":6101.2998046875,
+    "('High', 'EICHERMOT.BO')":6169.4501953125,
+    "('Low', 'EICHERMOT.BO')":6072.3999023438,
+    "('Open', 'EICHERMOT.BO')":6169.4501953125,
+    "('Volume', 'EICHERMOT.BO')":6800
+  },
+  {
+    "('Date', '')":"2025-09-01",
+    "('Close', 'EICHERMOT.BO')":6281.7001953125,
+    "('High', 'EICHERMOT.BO')":6289.7001953125,
+    "('Low', 'EICHERMOT.BO')":6084.6499023438,
+    "('Open', 'EICHERMOT.BO')":6101.25,
+    "('Volume', 'EICHERMOT.BO')":152480
+  },
+  {
+    "('Date', '')":"2025-09-02",
+    "('Close', 'EICHERMOT.BO')":6347.6499023438,
+    "('High', 'EICHERMOT.BO')":6389.1000976562,
+    "('Low', 'EICHERMOT.BO')":6270.2001953125,
+    "('Open', 'EICHERMOT.BO')":6270.2001953125,
+    "('Volume', 'EICHERMOT.BO')":21998
+  },
+  {
+    "('Date', '')":"2025-09-03",
+    "('Close', 'EICHERMOT.BO')":6364.25,
+    "('High', 'EICHERMOT.BO')":6378.8500976562,
+    "('Low', 'EICHERMOT.BO')":6310.0,
+    "('Open', 'EICHERMOT.BO')":6320.7998046875,
+    "('Volume', 'EICHERMOT.BO')":22809
+  },
+  {
+    "('Date', '')":"2025-09-04",
+    "('Close', 'EICHERMOT.BO')":6425.3500976562,
+    "('High', 'EICHERMOT.BO')":6707.7001953125,
+    "('Low', 'EICHERMOT.BO')":6412.2001953125,
+    "('Open', 'EICHERMOT.BO')":6665.0498046875,
+    "('Volume', 'EICHERMOT.BO')":25159
+  },
+  {
+    "('Date', '')":"2025-09-05",
+    "('Close', 'EICHERMOT.BO')":6581.4501953125,
+    "('High', 'EICHERMOT.BO')":6596.2001953125,
+    "('Low', 'EICHERMOT.BO')":6449.2998046875,
+    "('Open', 'EICHERMOT.BO')":6491.8500976562,
+    "('Volume', 'EICHERMOT.BO')":14490
+  },
+  {
+    "('Date', '')":"2025-09-08",
+    "('Close', 'EICHERMOT.BO')":6813.75,
+    "('High', 'EICHERMOT.BO')":6849.7998046875,
+    "('Low', 'EICHERMOT.BO')":6570.5498046875,
+    "('Open', 'EICHERMOT.BO')":6579.9501953125,
+    "('Volume', 'EICHERMOT.BO')":24685
+  },
+  {
+    "('Date', '')":"2025-09-09",
+    "('Close', 'EICHERMOT.BO')":6873.5498046875,
+    "('High', 'EICHERMOT.BO')":6938.4501953125,
+    "('Low', 'EICHERMOT.BO')":6784.9501953125,
+    "('Open', 'EICHERMOT.BO')":6815.0,
+    "('Volume', 'EICHERMOT.BO')":26934
+  },
+  {
+    "('Date', '')":"2025-09-10",
+    "('Close', 'EICHERMOT.BO')":6832.5,
+    "('High', 'EICHERMOT.BO')":6942.4501953125,
+    "('Low', 'EICHERMOT.BO')":6804.0498046875,
+    "('Open', 'EICHERMOT.BO')":6942.4501953125,
+    "('Volume', 'EICHERMOT.BO')":12283
+  },
+  {
+    "('Date', '')":"2025-09-11",
+    "('Close', 'EICHERMOT.BO')":6756.8500976562,
+    "('High', 'EICHERMOT.BO')":6829.9501953125,
+    "('Low', 'EICHERMOT.BO')":6750.0,
+    "('Open', 'EICHERMOT.BO')":6829.9501953125,
+    "('Volume', 'EICHERMOT.BO')":7970
+  },
+  {
+    "('Date', '')":"2025-09-12",
+    "('Close', 'EICHERMOT.BO')":6874.7998046875,
+    "('High', 'EICHERMOT.BO')":6899.7998046875,
+    "('Low', 'EICHERMOT.BO')":6758.1499023438,
+    "('Open', 'EICHERMOT.BO')":6758.1499023438,
+    "('Volume', 'EICHERMOT.BO')":11748
+  },
+  {
+    "('Date', '')":"2025-09-15",
+    "('Close', 'EICHERMOT.BO')":6800.1000976562,
+    "('High', 'EICHERMOT.BO')":6900.0,
+    "('Low', 'EICHERMOT.BO')":6787.6000976562,
+    "('Open', 'EICHERMOT.BO')":6890.0,
+    "('Volume', 'EICHERMOT.BO')":11640
+  },
+  {
+    "('Date', '')":"2025-09-16",
+    "('Close', 'EICHERMOT.BO')":6932.5498046875,
+    "('High', 'EICHERMOT.BO')":6950.0,
+    "('Low', 'EICHERMOT.BO')":6805.25,
+    "('Open', 'EICHERMOT.BO')":6839.75,
+    "('Volume', 'EICHERMOT.BO')":149642
+  },
+  {
+    "('Date', '')":"2025-09-17",
+    "('Close', 'EICHERMOT.BO')":6888.6000976562,
+    "('High', 'EICHERMOT.BO')":6949.9501953125,
+    "('Low', 'EICHERMOT.BO')":6883.2998046875,
+    "('Open', 'EICHERMOT.BO')":6949.9501953125,
+    "('Volume', 'EICHERMOT.BO')":5608
+  },
+  {
+    "('Date', '')":"2025-09-18",
+    "('Close', 'EICHERMOT.BO')":6923.7998046875,
+    "('High', 'EICHERMOT.BO')":6935.0,
+    "('Low', 'EICHERMOT.BO')":6871.3999023438,
+    "('Open', 'EICHERMOT.BO')":6900.0,
+    "('Volume', 'EICHERMOT.BO')":4808
+  },
+  {
+    "('Date', '')":"2025-09-19",
+    "('Close', 'EICHERMOT.BO')":6972.5,
+    "('High', 'EICHERMOT.BO')":7016.0,
+    "('Low', 'EICHERMOT.BO')":6930.5,
+    "('Open', 'EICHERMOT.BO')":6949.3999023438,
+    "('Volume', 'EICHERMOT.BO')":8720
+  },
+  {
+    "('Date', '')":"2025-09-22",
+    "('Close', 'EICHERMOT.BO')":6945.1000976562,
+    "('High', 'EICHERMOT.BO')":7002.2998046875,
+    "('Low', 'EICHERMOT.BO')":6935.0,
+    "('Open', 'EICHERMOT.BO')":6997.3999023438,
+    "('Volume', 'EICHERMOT.BO')":4912
+  },
+  {
+    "('Date', '')":"2025-09-23",
+    "('Close', 'EICHERMOT.BO')":6988.5,
+    "('High', 'EICHERMOT.BO')":7123.6499023438,
+    "('Low', 'EICHERMOT.BO')":6977.2001953125,
+    "('Open', 'EICHERMOT.BO')":6980.0,
+    "('Volume', 'EICHERMOT.BO')":14206
+  },
+  {
+    "('Date', '')":"2025-09-24",
+    "('Close', 'EICHERMOT.BO')":7011.75,
+    "('High', 'EICHERMOT.BO')":7056.9501953125,
+    "('Low', 'EICHERMOT.BO')":6929.7998046875,
+    "('Open', 'EICHERMOT.BO')":6984.9501953125,
+    "('Volume', 'EICHERMOT.BO')":5740
+  },
+  {
+    "('Date', '')":"2025-09-25",
+    "('Close', 'EICHERMOT.BO')":6986.1000976562,
+    "('High', 'EICHERMOT.BO')":7044.4501953125,
+    "('Low', 'EICHERMOT.BO')":6954.3500976562,
+    "('Open', 'EICHERMOT.BO')":6998.1000976562,
+    "('Volume', 'EICHERMOT.BO')":14289
+  },
+  {
+    "('Date', '')":"2025-09-26",
+    "('Close', 'EICHERMOT.BO')":7047.7998046875,
+    "('High', 'EICHERMOT.BO')":7090.6499023438,
+    "('Low', 'EICHERMOT.BO')":6907.25,
+    "('Open', 'EICHERMOT.BO')":6907.25,
+    "('Volume', 'EICHERMOT.BO')":17456
+  },
+  {
+    "('Date', '')":"2025-09-29",
+    "('Close', 'EICHERMOT.BO')":6987.3999023438,
+    "('High', 'EICHERMOT.BO')":7068.4501953125,
+    "('Low', 'EICHERMOT.BO')":6970.1499023438,
+    "('Open', 'EICHERMOT.BO')":7050.0498046875,
+    "('Volume', 'EICHERMOT.BO')":12009
+  },
+  {
+    "('Date', '')":"2025-09-30",
+    "('Close', 'EICHERMOT.BO')":7006.8999023438,
+    "('High', 'EICHERMOT.BO')":7030.0,
+    "('Low', 'EICHERMOT.BO')":6955.0,
+    "('Open', 'EICHERMOT.BO')":6999.7998046875,
+    "('Volume', 'EICHERMOT.BO')":7503
+  },
+  {
+    "('Date', '')":"2025-10-01",
+    "('Close', 'EICHERMOT.BO')":7004.75,
+    "('High', 'EICHERMOT.BO')":7060.0,
+    "('Low', 'EICHERMOT.BO')":6950.75,
+    "('Open', 'EICHERMOT.BO')":6986.4501953125,
+    "('Volume', 'EICHERMOT.BO')":7735
+  },
+  {
+    "('Date', '')":"2025-10-03",
+    "('Close', 'EICHERMOT.BO')":6940.2998046875,
+    "('High', 'EICHERMOT.BO')":7038.9501953125,
+    "('Low', 'EICHERMOT.BO')":6846.5498046875,
+    "('Open', 'EICHERMOT.BO')":7038.9501953125,
+    "('Volume', 'EICHERMOT.BO')":8309
+  },
+  {
+    "('Date', '')":"2025-10-06",
+    "('Close', 'EICHERMOT.BO')":6876.7998046875,
+    "('High', 'EICHERMOT.BO')":6948.75,
+    "('Low', 'EICHERMOT.BO')":6864.4501953125,
+    "('Open', 'EICHERMOT.BO')":6939.9501953125,
+    "('Volume', 'EICHERMOT.BO')":7837
+  },
+  {
+    "('Date', '')":"2025-10-07",
+    "('Close', 'EICHERMOT.BO')":6956.1499023438,
+    "('High', 'EICHERMOT.BO')":6998.8999023438,
+    "('Low', 'EICHERMOT.BO')":6899.3500976562,
+    "('Open', 'EICHERMOT.BO')":6899.9501953125,
+    "('Volume', 'EICHERMOT.BO')":4154
+  },
+  {
+    "('Date', '')":"2025-10-08",
+    "('Close', 'EICHERMOT.BO')":6898.4501953125,
+    "('High', 'EICHERMOT.BO')":7002.6499023438,
+    "('Low', 'EICHERMOT.BO')":6890.0,
+    "('Open', 'EICHERMOT.BO')":6997.5498046875,
+    "('Volume', 'EICHERMOT.BO')":4055
+  },
+  {
+    "('Date', '')":"2025-10-09",
+    "('Close', 'EICHERMOT.BO')":6897.25,
+    "('High', 'EICHERMOT.BO')":6956.5,
+    "('Low', 'EICHERMOT.BO')":6818.7998046875,
+    "('Open', 'EICHERMOT.BO')":6947.25,
+    "('Volume', 'EICHERMOT.BO')":4280
+  },
+  {
+    "('Date', '')":"2025-10-10",
+    "('Close', 'EICHERMOT.BO')":6965.0498046875,
+    "('High', 'EICHERMOT.BO')":6980.0,
+    "('Low', 'EICHERMOT.BO')":6880.0,
+    "('Open', 'EICHERMOT.BO')":6886.8999023438,
+    "('Volume', 'EICHERMOT.BO')":5325
+  },
+  {
+    "('Date', '')":"2025-10-13",
+    "('Close', 'EICHERMOT.BO')":6910.0,
+    "('High', 'EICHERMOT.BO')":7050.2001953125,
+    "('Low', 'EICHERMOT.BO')":6892.8999023438,
+    "('Open', 'EICHERMOT.BO')":6980.0498046875,
+    "('Volume', 'EICHERMOT.BO')":10976
+  },
+  {
+    "('Date', '')":"2025-10-14",
+    "('Close', 'EICHERMOT.BO')":6885.0498046875,
+    "('High', 'EICHERMOT.BO')":6935.3999023438,
+    "('Low', 'EICHERMOT.BO')":6815.0498046875,
+    "('Open', 'EICHERMOT.BO')":6930.0498046875,
+    "('Volume', 'EICHERMOT.BO')":6550
+  },
+  {
+    "('Date', '')":"2025-10-15",
+    "('Close', 'EICHERMOT.BO')":6894.3500976562,
+    "('High', 'EICHERMOT.BO')":6940.0,
+    "('Low', 'EICHERMOT.BO')":6868.5498046875,
+    "('Open', 'EICHERMOT.BO')":6885.0498046875,
+    "('Volume', 'EICHERMOT.BO')":1783
+  },
+  {
+    "('Date', '')":"2025-10-16",
+    "('Close', 'EICHERMOT.BO')":6988.3999023438,
+    "('High', 'EICHERMOT.BO')":7017.7998046875,
+    "('Low', 'EICHERMOT.BO')":6894.3500976562,
+    "('Open', 'EICHERMOT.BO')":6924.7001953125,
+    "('Volume', 'EICHERMOT.BO')":6758
+  },
+  {
+    "('Date', '')":"2025-10-17",
+    "('Close', 'EICHERMOT.BO')":7040.7998046875,
+    "('High', 'EICHERMOT.BO')":7097.1499023438,
+    "('Low', 'EICHERMOT.BO')":6982.0,
+    "('Open', 'EICHERMOT.BO')":6986.3999023438,
+    "('Volume', 'EICHERMOT.BO')":8157
+  },
+  {
+    "('Date', '')":"2025-10-20",
+    "('Close', 'EICHERMOT.BO')":7012.6000976562,
+    "('High', 'EICHERMOT.BO')":7100.0,
+    "('Low', 'EICHERMOT.BO')":7006.7001953125,
+    "('Open', 'EICHERMOT.BO')":7031.6499023438,
+    "('Volume', 'EICHERMOT.BO')":3043
+  },
+  {
+    "('Date', '')":"2025-10-21",
+    "('Close', 'EICHERMOT.BO')":7019.7998046875,
+    "('High', 'EICHERMOT.BO')":7077.5498046875,
+    "('Low', 'EICHERMOT.BO')":7002.2998046875,
+    "('Open', 'EICHERMOT.BO')":7077.5498046875,
+    "('Volume', 'EICHERMOT.BO')":884
+  },
+  {
+    "('Date', '')":"2025-10-23",
+    "('Close', 'EICHERMOT.BO')":6882.1000976562,
+    "('High', 'EICHERMOT.BO')":7069.8500976562,
+    "('Low', 'EICHERMOT.BO')":6868.6499023438,
+    "('Open', 'EICHERMOT.BO')":7050.5498046875,
+    "('Volume', 'EICHERMOT.BO')":16835
+  },
+  {
+    "('Date', '')":"2025-10-24",
+    "('Close', 'EICHERMOT.BO')":6835.5,
+    "('High', 'EICHERMOT.BO')":6912.4501953125,
+    "('Low', 'EICHERMOT.BO')":6793.7998046875,
+    "('Open', 'EICHERMOT.BO')":6883.2001953125,
+    "('Volume', 'EICHERMOT.BO')":58942
+  },
+  {
+    "('Date', '')":"2025-10-27",
+    "('Close', 'EICHERMOT.BO')":6909.2998046875,
+    "('High', 'EICHERMOT.BO')":6925.0,
+    "('Low', 'EICHERMOT.BO')":6838.1000976562,
+    "('Open', 'EICHERMOT.BO')":6850.6499023438,
+    "('Volume', 'EICHERMOT.BO')":3505
+  },
+  {
+    "('Date', '')":"2025-10-28",
+    "('Close', 'EICHERMOT.BO')":6998.6000976562,
+    "('High', 'EICHERMOT.BO')":7025.0,
+    "('Low', 'EICHERMOT.BO')":6909.0,
+    "('Open', 'EICHERMOT.BO')":6909.0,
+    "('Volume', 'EICHERMOT.BO')":8840
+  },
+  {
+    "('Date', '')":"2025-10-29",
+    "('Close', 'EICHERMOT.BO')":6954.3999023438,
+    "('High', 'EICHERMOT.BO')":7000.0,
+    "('Low', 'EICHERMOT.BO')":6892.0498046875,
+    "('Open', 'EICHERMOT.BO')":6999.0498046875,
+    "('Volume', 'EICHERMOT.BO')":8325
+  },
+  {
+    "('Date', '')":"2025-10-30",
+    "('Close', 'EICHERMOT.BO')":6889.0,
+    "('High', 'EICHERMOT.BO')":6987.1000976562,
+    "('Low', 'EICHERMOT.BO')":6871.1000976562,
+    "('Open', 'EICHERMOT.BO')":6954.6499023438,
+    "('Volume', 'EICHERMOT.BO')":7708
+  },
+  {
+    "('Date', '')":"2025-10-31",
+    "('Close', 'EICHERMOT.BO')":7005.5498046875,
+    "('High', 'EICHERMOT.BO')":7099.0,
+    "('Low', 'EICHERMOT.BO')":6900.1000976562,
+    "('Open', 'EICHERMOT.BO')":6900.1000976562,
+    "('Volume', 'EICHERMOT.BO')":47160
+  },
+  {
+    "('Date', '')":"2025-11-03",
+    "('Close', 'EICHERMOT.BO')":7019.6499023438,
+    "('High', 'EICHERMOT.BO')":7070.0,
+    "('Low', 'EICHERMOT.BO')":7000.0,
+    "('Open', 'EICHERMOT.BO')":7047.7998046875,
+    "('Volume', 'EICHERMOT.BO')":5456
+  },
+  {
+    "('Date', '')":"2025-11-04",
+    "('Close', 'EICHERMOT.BO')":6923.6000976562,
+    "('High', 'EICHERMOT.BO')":7041.0,
+    "('Low', 'EICHERMOT.BO')":6906.9501953125,
+    "('Open', 'EICHERMOT.BO')":7039.7998046875,
+    "('Volume', 'EICHERMOT.BO')":8616
+  },
+  {
+    "('Date', '')":"2025-11-06",
+    "('Close', 'EICHERMOT.BO')":6803.8500976562,
+    "('High', 'EICHERMOT.BO')":6975.0,
+    "('Low', 'EICHERMOT.BO')":6795.0,
+    "('Open', 'EICHERMOT.BO')":6930.0498046875,
+    "('Volume', 'EICHERMOT.BO')":5662
+  },
+  {
+    "('Date', '')":"2025-11-07",
+    "('Close', 'EICHERMOT.BO')":6886.7998046875,
+    "('High', 'EICHERMOT.BO')":6898.1499023438,
+    "('Low', 'EICHERMOT.BO')":6720.1499023438,
+    "('Open', 'EICHERMOT.BO')":6800.0,
+    "('Volume', 'EICHERMOT.BO')":6077
+  },
+  {
+    "('Date', '')":"2025-11-10",
+    "('Close', 'EICHERMOT.BO')":6862.0498046875,
+    "('High', 'EICHERMOT.BO')":6911.2001953125,
+    "('Low', 'EICHERMOT.BO')":6801.0,
+    "('Open', 'EICHERMOT.BO')":6899.9501953125,
+    "('Volume', 'EICHERMOT.BO')":8173
+  },
+  {
+    "('Date', '')":"2025-11-11",
+    "('Close', 'EICHERMOT.BO')":6874.5498046875,
+    "('High', 'EICHERMOT.BO')":6890.2001953125,
+    "('Low', 'EICHERMOT.BO')":6755.0,
+    "('Open', 'EICHERMOT.BO')":6867.1000976562,
+    "('Volume', 'EICHERMOT.BO')":6034
+  },
+  {
+    "('Date', '')":"2025-11-12",
+    "('Close', 'EICHERMOT.BO')":6878.6499023438,
+    "('High', 'EICHERMOT.BO')":6921.0,
+    "('Low', 'EICHERMOT.BO')":6840.0,
+    "('Open', 'EICHERMOT.BO')":6897.1499023438,
+    "('Volume', 'EICHERMOT.BO')":7715
+  },
+  {
+    "('Date', '')":"2025-11-13",
+    "('Close', 'EICHERMOT.BO')":6830.7998046875,
+    "('High', 'EICHERMOT.BO')":6940.6000976562,
+    "('Low', 'EICHERMOT.BO')":6765.0,
+    "('Open', 'EICHERMOT.BO')":6885.0,
+    "('Volume', 'EICHERMOT.BO')":11388
+  }
+]

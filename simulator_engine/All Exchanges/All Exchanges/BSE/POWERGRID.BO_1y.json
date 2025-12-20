@@ -1,0 +1,1986 @@
+[
+  {
+    "('Date', '')":"2024-11-13",
+    "('Close', 'POWERGRID.BO')":303.6331787109,
+    "('High', 'POWERGRID.BO')":309.8356161274,
+    "('Low', 'POWERGRID.BO')":302.6789575699,
+    "('Open', 'POWERGRID.BO')":307.736317969,
+    "('Volume', 'POWERGRID.BO')":207052
+  },
+  {
+    "('Date', '')":"2024-11-14",
+    "('Close', 'POWERGRID.BO')":302.1813354492,
+    "('High', 'POWERGRID.BO')":308.5211303918,
+    "('Low', 'POWERGRID.BO')":300.8262386185,
+    "('Open', 'POWERGRID.BO')":304.9398536904,
+    "('Volume', 'POWERGRID.BO')":409105
+  },
+  {
+    "('Date', '')":"2024-11-18",
+    "('Close', 'POWERGRID.BO')":301.9393615723,
+    "('High', 'POWERGRID.BO')":305.4238119251,
+    "('Low', 'POWERGRID.BO')":300.100310006,
+    "('Open', 'POWERGRID.BO')":302.9556546688,
+    "('Volume', 'POWERGRID.BO')":186728
+  },
+  {
+    "('Date', '')":"2024-11-19",
+    "('Close', 'POWERGRID.BO')":304.9398498535,
+    "('High', 'POWERGRID.BO')":307.9887881461,
+    "('Low', 'POWERGRID.BO')":302.4716926567,
+    "('Open', 'POWERGRID.BO')":302.955647365,
+    "('Volume', 'POWERGRID.BO')":225118
+  },
+  {
+    "('Date', '')":"2024-11-21",
+    "('Close', 'POWERGRID.BO')":315.3448486328,
+    "('High', 'POWERGRID.BO')":316.2643743138,
+    "('Low', 'POWERGRID.BO')":304.0203271684,
+    "('Open', 'POWERGRID.BO')":306.8272583243,
+    "('Volume', 'POWERGRID.BO')":610087
+  },
+  {
+    "('Date', '')":"2024-11-22",
+    "('Close', 'POWERGRID.BO')":326.1854858398,
+    "('High', 'POWERGRID.BO')":326.6694405666,
+    "('Low', 'POWERGRID.BO')":313.79625665,
+    "('Open', 'POWERGRID.BO')":315.6836623614,
+    "('Volume', 'POWERGRID.BO')":5493654
+  },
+  {
+    "('Date', '')":"2024-11-25",
+    "('Close', 'POWERGRID.BO')":331.8477478027,
+    "('High', 'POWERGRID.BO')":334.1707244838,
+    "('Low', 'POWERGRID.BO')":325.4111561208,
+    "('Open', 'POWERGRID.BO')":330.3958836848,
+    "('Volume', 'POWERGRID.BO')":2153990
+  },
+  {
+    "('Date', '')":"2024-11-26",
+    "('Close', 'POWERGRID.BO')":327.8309020996,
+    "('High', 'POWERGRID.BO')":333.4931480532,
+    "('Low', 'POWERGRID.BO')":326.9113764202,
+    "('Open', 'POWERGRID.BO')":331.7509230734,
+    "('Volume', 'POWERGRID.BO')":5365862
+  },
+  {
+    "('Date', '')":"2024-11-27",
+    "('Close', 'POWERGRID.BO')":328.1212768555,
+    "('High', 'POWERGRID.BO')":330.2990729408,
+    "('Low', 'POWERGRID.BO')":325.5079097378,
+    "('Open', 'POWERGRID.BO')":326.0402776149,
+    "('Volume', 'POWERGRID.BO')":127027
+  },
+  {
+    "('Date', '')":"2024-11-28",
+    "('Close', 'POWERGRID.BO')":322.9913635254,
+    "('High', 'POWERGRID.BO')":330.5410446778,
+    "('Low', 'POWERGRID.BO')":321.7814768318,
+    "('Open', 'POWERGRID.BO')":327.6857002658,
+    "('Volume', 'POWERGRID.BO')":175538
+  },
+  {
+    "('Date', '')":"2024-11-29",
+    "('Close', 'POWERGRID.BO')":319.0229492188,
+    "('High', 'POWERGRID.BO')":322.1686548188,
+    "('Low', 'POWERGRID.BO')":316.0224241234,
+    "('Open', 'POWERGRID.BO')":322.1686548188,
+    "('Volume', 'POWERGRID.BO')":362633
+  },
+  {
+    "('Date', '')":"2024-12-02",
+    "('Close', 'POWERGRID.BO')":317.4742431641,
+    "('High', 'POWERGRID.BO')":321.0555193077,
+    "('Low', 'POWERGRID.BO')":315.7320182791,
+    "('Open', 'POWERGRID.BO')":318.7809265969,
+    "('Volume', 'POWERGRID.BO')":441421
+  },
+  {
+    "('Date', '')":"2024-12-03",
+    "('Close', 'POWERGRID.BO')":319.1681518555,
+    "('High', 'POWERGRID.BO')":320.668399738,
+    "('Low', 'POWERGRID.BO')":314.5221981548,
+    "('Open', 'POWERGRID.BO')":314.5221981548,
+    "('Volume', 'POWERGRID.BO')":3269489
+  },
+  {
+    "('Date', '')":"2024-12-04",
+    "('Close', 'POWERGRID.BO')":314.570526123,
+    "('High', 'POWERGRID.BO')":320.4747788287,
+    "('Low', 'POWERGRID.BO')":310.9408662062,
+    "('Open', 'POWERGRID.BO')":318.7809375342,
+    "('Volume', 'POWERGRID.BO')":793485
+  },
+  {
+    "('Date', '')":"2024-12-05",
+    "('Close', 'POWERGRID.BO')":318.0550231934,
+    "('High', 'POWERGRID.BO')":319.6036840847,
+    "('Low', 'POWERGRID.BO')":309.3438389098,
+    "('Open', 'POWERGRID.BO')":315.0061146018,
+    "('Volume', 'POWERGRID.BO')":379019
+  },
+  {
+    "('Date', '')":"2024-12-06",
+    "('Close', 'POWERGRID.BO')":318.3937988281,
+    "('High', 'POWERGRID.BO')":321.9750457714,
+    "('Low', 'POWERGRID.BO')":316.3127700537,
+    "('Open', 'POWERGRID.BO')":316.4579800896,
+    "('Volume', 'POWERGRID.BO')":944762
+  },
+  {
+    "('Date', '')":"2024-12-09",
+    "('Close', 'POWERGRID.BO')":318.5390014648,
+    "('High', 'POWERGRID.BO')":319.9908656196,
+    "('Low', 'POWERGRID.BO')":316.3612052327,
+    "('Open', 'POWERGRID.BO')":317.7162725362,
+    "('Volume', 'POWERGRID.BO')":621733
+  },
+  {
+    "('Date', '')":"2024-12-10",
+    "('Close', 'POWERGRID.BO')":317.3290710449,
+    "('High', 'POWERGRID.BO')":321.3458887466,
+    "('Low', 'POWERGRID.BO')":314.9092977863,
+    "('Open', 'POWERGRID.BO')":321.3458887466,
+    "('Volume', 'POWERGRID.BO')":323218
+  },
+  {
+    "('Date', '')":"2024-12-11",
+    "('Close', 'POWERGRID.BO')":316.9903259277,
+    "('High', 'POWERGRID.BO')":318.442190016,
+    "('Low', 'POWERGRID.BO')":316.5063712317,
+    "('Open', 'POWERGRID.BO')":316.8451454266,
+    "('Volume', 'POWERGRID.BO')":65231
+  },
+  {
+    "('Date', '')":"2024-12-12",
+    "('Close', 'POWERGRID.BO')":318.4421691895,
+    "('High', 'POWERGRID.BO')":319.3132816778,
+    "('Low', 'POWERGRID.BO')":315.5384412029,
+    "('Open', 'POWERGRID.BO')":317.1354856879,
+    "('Volume', 'POWERGRID.BO')":1545990
+  },
+  {
+    "('Date', '')":"2024-12-13",
+    "('Close', 'POWERGRID.BO')":323.2817077637,
+    "('High', 'POWERGRID.BO')":323.6688655779,
+    "('Low', 'POWERGRID.BO')":314.6673208597,
+    "('Open', 'POWERGRID.BO')":321.1039118281,
+    "('Volume', 'POWERGRID.BO')":428289
+  },
+  {
+    "('Date', '')":"2024-12-16",
+    "('Close', 'POWERGRID.BO')":324.056060791,
+    "('High', 'POWERGRID.BO')":325.4111576046,
+    "('Low', 'POWERGRID.BO')":320.5716105226,
+    "('Open', 'POWERGRID.BO')":323.8140834369,
+    "('Volume', 'POWERGRID.BO')":304619
+  },
+  {
+    "('Date', '')":"2024-12-17",
+    "('Close', 'POWERGRID.BO')":319.4100646973,
+    "('High', 'POWERGRID.BO')":324.7335657756,
+    "('Low', 'POWERGRID.BO')":317.667839796,
+    "('Open', 'POWERGRID.BO')":322.1686120728,
+    "('Volume', 'POWERGRID.BO')":152372
+  },
+  {
+    "('Date', '')":"2024-12-18",
+    "('Close', 'POWERGRID.BO')":311.231262207,
+    "('High', 'POWERGRID.BO')":318.7325602125,
+    "('Low', 'POWERGRID.BO')":310.4569464863,
+    "('Open', 'POWERGRID.BO')":314.8125388766,
+    "('Volume', 'POWERGRID.BO')":225146
+  },
+  {
+    "('Date', '')":"2024-12-19",
+    "('Close', 'POWERGRID.BO')":311.5216369629,
+    "('High', 'POWERGRID.BO')":313.3606588601,
+    "('Low', 'POWERGRID.BO')":305.5205870474,
+    "('Open', 'POWERGRID.BO')":305.5205870474,
+    "('Volume', 'POWERGRID.BO')":191598
+  },
+  {
+    "('Date', '')":"2024-12-20",
+    "('Close', 'POWERGRID.BO')":305.6173706055,
+    "('High', 'POWERGRID.BO')":315.0544865624,
+    "('Low', 'POWERGRID.BO')":303.6331682965,
+    "('Open', 'POWERGRID.BO')":310.7472782334,
+    "('Volume', 'POWERGRID.BO')":383520
+  },
+  {
+    "('Date', '')":"2024-12-23",
+    "('Close', 'POWERGRID.BO')":305.1334228516,
+    "('High', 'POWERGRID.BO')":308.1339477468,
+    "('Low', 'POWERGRID.BO')":301.6005596287,
+    "('Open', 'POWERGRID.BO')":308.1339477468,
+    "('Volume', 'POWERGRID.BO')":128049
+  },
+  {
+    "('Date', '')":"2024-12-24",
+    "('Close', 'POWERGRID.BO')":300.1970825195,
+    "('High', 'POWERGRID.BO')":306.5369065594,
+    "('Low', 'POWERGRID.BO')":299.0356090088,
+    "('Open', 'POWERGRID.BO')":304.843065177,
+    "('Volume', 'POWERGRID.BO')":249356
+  },
+  {
+    "('Date', '')":"2024-12-26",
+    "('Close', 'POWERGRID.BO')":300.3907165527,
+    "('High', 'POWERGRID.BO')":303.1492645108,
+    "('Low', 'POWERGRID.BO')":298.8420554589,
+    "('Open', 'POWERGRID.BO')":300.3907165527,
+    "('Volume', 'POWERGRID.BO')":144433
+  },
+  {
+    "('Date', '')":"2024-12-27",
+    "('Close', 'POWERGRID.BO')":299.6163024902,
+    "('High', 'POWERGRID.BO')":302.4232630017,
+    "('Low', 'POWERGRID.BO')":298.9387837247,
+    "('Open', 'POWERGRID.BO')":300.5842117595,
+    "('Volume', 'POWERGRID.BO')":197167
+  },
+  {
+    "('Date', '')":"2024-12-30",
+    "('Close', 'POWERGRID.BO')":298.454864502,
+    "('High', 'POWERGRID.BO')":301.7941341542,
+    "('Low', 'POWERGRID.BO')":296.5674293876,
+    "('Open', 'POWERGRID.BO')":298.696841848,
+    "('Volume', 'POWERGRID.BO')":161670
+  },
+  {
+    "('Date', '')":"2024-12-31",
+    "('Close', 'POWERGRID.BO')":298.6968383789,
+    "('High', 'POWERGRID.BO')":299.906725095,
+    "('Low', 'POWERGRID.BO')":295.3091555738,
+    "('Open', 'POWERGRID.BO')":298.4064478441,
+    "('Volume', 'POWERGRID.BO')":183862
+  },
+  {
+    "('Date', '')":"2025-01-01",
+    "('Close', 'POWERGRID.BO')":300.5358581543,
+    "('High', 'POWERGRID.BO')":301.2617901788,
+    "('Low', 'POWERGRID.BO')":296.1802660071,
+    "('Open', 'POWERGRID.BO')":298.7936331107,
+    "('Volume', 'POWERGRID.BO')":89084
+  },
+  {
+    "('Date', '')":"2025-01-02",
+    "('Close', 'POWERGRID.BO')":305.2786254883,
+    "('High', 'POWERGRID.BO')":306.9240833193,
+    "('Low', 'POWERGRID.BO')":298.7936500903,
+    "('Open', 'POWERGRID.BO')":300.7778525881,
+    "('Volume', 'POWERGRID.BO')":451878
+  },
+  {
+    "('Date', '')":"2025-01-03",
+    "('Close', 'POWERGRID.BO')":306.0045471191,
+    "('High', 'POWERGRID.BO')":307.7468017406,
+    "('Low', 'POWERGRID.BO')":303.6331868414,
+    "('Open', 'POWERGRID.BO')":306.7788923525,
+    "('Volume', 'POWERGRID.BO')":307462
+  },
+  {
+    "('Date', '')":"2025-01-06",
+    "('Close', 'POWERGRID.BO')":296.2286682129,
+    "('High', 'POWERGRID.BO')":306.1013561801,
+    "('Low', 'POWERGRID.BO')":294.9703977735,
+    "('Open', 'POWERGRID.BO')":304.1171536707,
+    "('Volume', 'POWERGRID.BO')":249739
+  },
+  {
+    "('Date', '')":"2025-01-07",
+    "('Close', 'POWERGRID.BO')":295.4059448242,
+    "('High', 'POWERGRID.BO')":300.7778298903,
+    "('Low', 'POWERGRID.BO')":293.2765324433,
+    "('Open', 'POWERGRID.BO')":296.1318768352,
+    "('Volume', 'POWERGRID.BO')":622007
+  },
+  {
+    "('Date', '')":"2025-01-08",
+    "('Close', 'POWERGRID.BO')":296.6642150879,
+    "('High', 'POWERGRID.BO')":297.8741017726,
+    "('Low', 'POWERGRID.BO')":293.2765323707,
+    "('Open', 'POWERGRID.BO')":295.5511252456,
+    "('Volume', 'POWERGRID.BO')":213432
+  },
+  {
+    "('Date', '')":"2025-01-09",
+    "('Close', 'POWERGRID.BO')":295.5027160645,
+    "('High', 'POWERGRID.BO')":297.8741058139,
+    "('Low', 'POWERGRID.BO')":294.1476488669,
+    "('Open', 'POWERGRID.BO')":297.8741058139,
+    "('Volume', 'POWERGRID.BO')":247540
+  },
+  {
+    "('Date', '')":"2025-01-10",
+    "('Close', 'POWERGRID.BO')":290.1792297363,
+    "('High', 'POWERGRID.BO')":295.2123704911,
+    "('Low', 'POWERGRID.BO')":288.8725756615,
+    "('Open', 'POWERGRID.BO')":293.5669126764,
+    "('Volume', 'POWERGRID.BO')":541880
+  },
+  {
+    "('Date', '')":"2025-01-13",
+    "('Close', 'POWERGRID.BO')":278.3223266602,
+    "('High', 'POWERGRID.BO')":288.7757655465,
+    "('Low', 'POWERGRID.BO')":277.7899883236,
+    "('Open', 'POWERGRID.BO')":284.6621507368,
+    "('Volume', 'POWERGRID.BO')":796478
+  },
+  {
+    "('Date', '')":"2025-01-14",
+    "('Close', 'POWERGRID.BO')":280.6936950684,
+    "('High', 'POWERGRID.BO')":283.5974229484,
+    "('Low', 'POWERGRID.BO')":277.3060125417,
+    "('Open', 'POWERGRID.BO')":277.3060125417,
+    "('Volume', 'POWERGRID.BO')":405178
+  },
+  {
+    "('Date', '')":"2025-01-15",
+    "('Close', 'POWERGRID.BO')":289.0661315918,
+    "('High', 'POWERGRID.BO')":292.7925886274,
+    "('Low', 'POWERGRID.BO')":282.2423822507,
+    "('Open', 'POWERGRID.BO')":285.5332682482,
+    "('Volume', 'POWERGRID.BO')":183071
+  },
+  {
+    "('Date', '')":"2025-01-16",
+    "('Close', 'POWERGRID.BO')":288.098236084,
+    "('High', 'POWERGRID.BO')":291.8730769553,
+    "('Low', 'POWERGRID.BO')":287.1303266535,
+    "('Open', 'POWERGRID.BO')":291.6795127922,
+    "('Volume', 'POWERGRID.BO')":329433
+  },
+  {
+    "('Date', '')":"2025-01-17",
+    "('Close', 'POWERGRID.BO')":292.8409729004,
+    "('High', 'POWERGRID.BO')":295.2123627112,
+    "('Low', 'POWERGRID.BO')":286.2108172373,
+    "('Open', 'POWERGRID.BO')":287.8562454705,
+    "('Volume', 'POWERGRID.BO')":140051
+  },
+  {
+    "('Date', '')":"2025-01-20",
+    "('Close', 'POWERGRID.BO')":296.615814209,
+    "('High', 'POWERGRID.BO')":298.6968132782,
+    "('Low', 'POWERGRID.BO')":292.3086060463,
+    "('Open', 'POWERGRID.BO')":293.8572668204,
+    "('Volume', 'POWERGRID.BO')":263130
+  },
+  {
+    "('Date', '')":"2025-01-21",
+    "('Close', 'POWERGRID.BO')":292.5989990234,
+    "('High', 'POWERGRID.BO')":299.8583195041,
+    "('Low', 'POWERGRID.BO')":291.8730669754,
+    "('Open', 'POWERGRID.BO')":296.8094108098,
+    "('Volume', 'POWERGRID.BO')":1058994
+  },
+  {
+    "('Date', '')":"2025-01-22",
+    "('Close', 'POWERGRID.BO')":288.2918395996,
+    "('High', 'POWERGRID.BO')":292.6474321852,
+    "('Low', 'POWERGRID.BO')":286.4528175267,
+    "('Open', 'POWERGRID.BO')":292.6474321852,
+    "('Volume', 'POWERGRID.BO')":439258
+  },
+  {
+    "('Date', '')":"2025-01-23",
+    "('Close', 'POWERGRID.BO')":284.8557128906,
+    "('High', 'POWERGRID.BO')":289.9372370317,
+    "('Low', 'POWERGRID.BO')":284.3233745578,
+    "('Open', 'POWERGRID.BO')":287.7594409712,
+    "('Volume', 'POWERGRID.BO')":177858
+  },
+  {
+    "('Date', '')":"2025-01-24",
+    "('Close', 'POWERGRID.BO')":286.259185791,
+    "('High', 'POWERGRID.BO')":292.6473933089,
+    "('Low', 'POWERGRID.BO')":284.9041186298,
+    "('Open', 'POWERGRID.BO')":286.1140052984,
+    "('Volume', 'POWERGRID.BO')":300605
+  },
+  {
+    "('Date', '')":"2025-01-27",
+    "('Close', 'POWERGRID.BO')":277.8383483887,
+    "('High', 'POWERGRID.BO')":285.5332390182,
+    "('Low', 'POWERGRID.BO')":274.692643213,
+    "('Open', 'POWERGRID.BO')":285.5332390182,
+    "('Volume', 'POWERGRID.BO')":193013
+  },
+  {
+    "('Date', '')":"2025-01-28",
+    "('Close', 'POWERGRID.BO')":274.7410888672,
+    "('High', 'POWERGRID.BO')":279.5806358631,
+    "('Low', 'POWERGRID.BO')":270.4822934184,
+    "('Open', 'POWERGRID.BO')":275.9025624233,
+    "('Volume', 'POWERGRID.BO')":550949
+  },
+  {
+    "('Date', '')":"2025-01-29",
+    "('Close', 'POWERGRID.BO')":278.5643310547,
+    "('High', 'POWERGRID.BO')":279.9194279307,
+    "('Low', 'POWERGRID.BO')":274.2087384803,
+    "('Open', 'POWERGRID.BO')":276.4833316212,
+    "('Volume', 'POWERGRID.BO')":109028
+  },
+  {
+    "('Date', '')":"2025-01-30",
+    "('Close', 'POWERGRID.BO')":285.7752380371,
+    "('High', 'POWERGRID.BO')":287.4690794141,
+    "('Low', 'POWERGRID.BO')":278.3223241629,
+    "('Open', 'POWERGRID.BO')":278.3223241629,
+    "('Volume', 'POWERGRID.BO')":201065
+  },
+  {
+    "('Date', '')":"2025-01-31",
+    "('Close', 'POWERGRID.BO')":292.163482666,
+    "('High', 'POWERGRID.BO')":293.6637305458,
+    "('Low', 'POWERGRID.BO')":286.5012062961,
+    "('Open', 'POWERGRID.BO')":286.5495899548,
+    "('Volume', 'POWERGRID.BO')":116192
+  },
+  {
+    "('Date', '')":"2025-02-01",
+    "('Close', 'POWERGRID.BO')":280.645324707,
+    "('High', 'POWERGRID.BO')":295.6479194641,
+    "('Low', 'POWERGRID.BO')":279.3870248432,
+    "('Open', 'POWERGRID.BO')":291.8246657591,
+    "('Volume', 'POWERGRID.BO')":526793
+  },
+  {
+    "('Date', '')":"2025-02-03",
+    "('Close', 'POWERGRID.BO')":274.7894592285,
+    "('High', 'POWERGRID.BO')":280.6937121856,
+    "('Low', 'POWERGRID.BO')":269.0787999572,
+    "('Open', 'POWERGRID.BO')":278.5642997951,
+    "('Volume', 'POWERGRID.BO')":1015438
+  },
+  {
+    "('Date', '')":"2025-02-04",
+    "('Close', 'POWERGRID.BO')":276.5801391602,
+    "('High', 'POWERGRID.BO')":277.1608907668,
+    "('Low', 'POWERGRID.BO')":263.5617445917,
+    "('Open', 'POWERGRID.BO')":270.1919305632,
+    "('Volume', 'POWERGRID.BO')":634899
+  },
+  {
+    "('Date', '')":"2025-02-05",
+    "('Close', 'POWERGRID.BO')":275.9993591309,
+    "('High', 'POWERGRID.BO')":281.3712740166,
+    "('Low', 'POWERGRID.BO')":275.2250434272,
+    "('Open', 'POWERGRID.BO')":277.6448169239,
+    "('Volume', 'POWERGRID.BO')":273443
+  },
+  {
+    "('Date', '')":"2025-02-06",
+    "('Close', 'POWERGRID.BO')":272.2245178223,
+    "('High', 'POWERGRID.BO')":281.4680407455,
+    "('Low', 'POWERGRID.BO')":270.8210373817,
+    "('Open', 'POWERGRID.BO')":276.1445390636,
+    "('Volume', 'POWERGRID.BO')":346675
+  },
+  {
+    "('Date', '')":"2025-02-07",
+    "('Close', 'POWERGRID.BO')":272.5182800293,
+    "('High', 'POWERGRID.BO')":276.0434956759,
+    "('Low', 'POWERGRID.BO')":264.4396745357,
+    "('Open', 'POWERGRID.BO')":271.2452996019,
+    "('Volume', 'POWERGRID.BO')":373061
+  },
+  {
+    "('Date', '')":"2025-02-10",
+    "('Close', 'POWERGRID.BO')":263.1177368164,
+    "('High', 'POWERGRID.BO')":270.2171171858,
+    "('Low', 'POWERGRID.BO')":262.5301959126,
+    "('Open', 'POWERGRID.BO')":270.2171171858,
+    "('Volume', 'POWERGRID.BO')":309214
+  },
+  {
+    "('Date', '')":"2025-02-11",
+    "('Close', 'POWERGRID.BO')":256.0672912598,
+    "('High', 'POWERGRID.BO')":263.2645996868,
+    "('Low', 'POWERGRID.BO')":254.598454025,
+    "('Open', 'POWERGRID.BO')":262.921865022,
+    "('Volume', 'POWERGRID.BO')":498066
+  },
+  {
+    "('Date', '')":"2025-02-12",
+    "('Close', 'POWERGRID.BO')":251.9545440674,
+    "('High', 'POWERGRID.BO')":256.654841317,
+    "('Low', 'POWERGRID.BO')":248.7231139887,
+    "('Open', 'POWERGRID.BO')":256.0183511359,
+    "('Volume', 'POWERGRID.BO')":910303
+  },
+  {
+    "('Date', '')":"2025-02-13",
+    "('Close', 'POWERGRID.BO')":253.7171478271,
+    "('High', 'POWERGRID.BO')":255.8714244245,
+    "('Low', 'POWERGRID.BO')":250.7794734715,
+    "('Open', 'POWERGRID.BO')":251.3180351499,
+    "('Volume', 'POWERGRID.BO')":389334
+  },
+  {
+    "('Date', '')":"2025-02-14",
+    "('Close', 'POWERGRID.BO')":252.0035247803,
+    "('High', 'POWERGRID.BO')":255.8714450637,
+    "('Low', 'POWERGRID.BO')":249.4085699251,
+    "('Open', 'POWERGRID.BO')":254.6963931568,
+    "('Volume', 'POWERGRID.BO')":178706
+  },
+  {
+    "('Date', '')":"2025-02-17",
+    "('Close', 'POWERGRID.BO')":257.6830444336,
+    "('High', 'POWERGRID.BO')":258.2216360963,
+    "('Low', 'POWERGRID.BO')":246.8626204872,
+    "('Open', 'POWERGRID.BO')":250.2409436395,
+    "('Volume', 'POWERGRID.BO')":258116
+  },
+  {
+    "('Date', '')":"2025-02-18",
+    "('Close', 'POWERGRID.BO')":261.2082214355,
+    "('High', 'POWERGRID.BO')":262.2853747171,
+    "('Low', 'POWERGRID.BO')":254.8922093762,
+    "('Open', 'POWERGRID.BO')":258.5153531733,
+    "('Volume', 'POWERGRID.BO')":166637
+  },
+  {
+    "('Date', '')":"2025-02-19",
+    "('Close', 'POWERGRID.BO')":257.6830444336,
+    "('High', 'POWERGRID.BO')":262.9219039908,
+    "('Low', 'POWERGRID.BO')":256.9486257074,
+    "('Open', 'POWERGRID.BO')":259.5925450752,
+    "('Volume', 'POWERGRID.BO')":214552
+  },
+  {
+    "('Date', '')":"2025-02-20",
+    "('Close', 'POWERGRID.BO')":260.2779541016,
+    "('High', 'POWERGRID.BO')":260.9634234524,
+    "('Low', 'POWERGRID.BO')":256.067299185,
+    "('Open', 'POWERGRID.BO')":256.8996462872,
+    "('Volume', 'POWERGRID.BO')":168026
+  },
+  {
+    "('Date', '')":"2025-02-21",
+    "('Close', 'POWERGRID.BO')":256.3121032715,
+    "('High', 'POWERGRID.BO')":260.1310741917,
+    "('Low', 'POWERGRID.BO')":254.0598980806,
+    "('Open', 'POWERGRID.BO')":260.1310741917,
+    "('Volume', 'POWERGRID.BO')":2011132
+  },
+  {
+    "('Date', '')":"2025-02-24",
+    "('Close', 'POWERGRID.BO')":253.7661132812,
+    "('High', 'POWERGRID.BO')":256.3610531507,
+    "('Low', 'POWERGRID.BO')":251.807663586,
+    "('Open', 'POWERGRID.BO')":252.6889599722,
+    "('Volume', 'POWERGRID.BO')":72662
+  },
+  {
+    "('Date', '')":"2025-02-25",
+    "('Close', 'POWERGRID.BO')":250.5836334229,
+    "('High', 'POWERGRID.BO')":254.2557266145,
+    "('Low', 'POWERGRID.BO')":249.5554592826,
+    "('Open', 'POWERGRID.BO')":253.766114189,
+    "('Volume', 'POWERGRID.BO')":459377
+  },
+  {
+    "('Date', '')":"2025-02-27",
+    "('Close', 'POWERGRID.BO')":250.8284454346,
+    "('High', 'POWERGRID.BO')":251.9545480627,
+    "('Low', 'POWERGRID.BO')":247.743893059,
+    "('Open', 'POWERGRID.BO')":247.743893059,
+    "('Volume', 'POWERGRID.BO')":212921
+  },
+  {
+    "('Date', '')":"2025-02-28",
+    "('Close', 'POWERGRID.BO')":245.4427032471,
+    "('High', 'POWERGRID.BO')":251.1711746096,
+    "('Low', 'POWERGRID.BO')":242.3581509391,
+    "('Open', 'POWERGRID.BO')":249.7023373312,
+    "('Volume', 'POWERGRID.BO')":193046
+  },
+  {
+    "('Date', '')":"2025-03-03",
+    "('Close', 'POWERGRID.BO')":247.3032531738,
+    "('High', 'POWERGRID.BO')":248.3803916061,
+    "('Low', 'POWERGRID.BO')":243.239460846,
+    "('Open', 'POWERGRID.BO')":246.1281862742,
+    "('Volume', 'POWERGRID.BO')":86184
+  },
+  {
+    "('Date', '')":"2025-03-04",
+    "('Close', 'POWERGRID.BO')":248.7720794678,
+    "('High', 'POWERGRID.BO')":251.7587182887,
+    "('Low', 'POWERGRID.BO')":244.2186748891,
+    "('Open', 'POWERGRID.BO')":245.1489504625,
+    "('Volume', 'POWERGRID.BO')":196413
+  },
+  {
+    "('Date', '')":"2025-03-05",
+    "('Close', 'POWERGRID.BO')":259.3966674805,
+    "('High', 'POWERGRID.BO')":261.5999234838,
+    "('Low', 'POWERGRID.BO')":250.9753274466,
+    "('Open', 'POWERGRID.BO')":250.9753274466,
+    "('Volume', 'POWERGRID.BO')":584379
+  },
+  {
+    "('Date', '')":"2025-03-06",
+    "('Close', 'POWERGRID.BO')":260.9144592285,
+    "('High', 'POWERGRID.BO')":261.7957555695,
+    "('Low', 'POWERGRID.BO')":255.2839166433,
+    "('Open', 'POWERGRID.BO')":259.4945713188,
+    "('Volume', 'POWERGRID.BO')":288577
+  },
+  {
+    "('Date', '')":"2025-03-07",
+    "('Close', 'POWERGRID.BO')":257.7319946289,
+    "('High', 'POWERGRID.BO')":263.1177313489,
+    "('Low', 'POWERGRID.BO')":256.1652288791,
+    "('Open', 'POWERGRID.BO')":261.06135317,
+    "('Volume', 'POWERGRID.BO')":186171
+  },
+  {
+    "('Date', '')":"2025-03-10",
+    "('Close', 'POWERGRID.BO')":265.7615966797,
+    "('High', 'POWERGRID.BO')":268.3075870592,
+    "('Low', 'POWERGRID.BO')":255.8714205231,
+    "('Open', 'POWERGRID.BO')":256.5079405306,
+    "('Volume', 'POWERGRID.BO')":333451
+  },
+  {
+    "('Date', '')":"2025-03-11",
+    "('Close', 'POWERGRID.BO')":261.7957763672,
+    "('High', 'POWERGRID.BO')":266.1533091318,
+    "('Low', 'POWERGRID.BO')":260.4738168089,
+    "('Open', 'POWERGRID.BO')":265.3209918947,
+    "('Volume', 'POWERGRID.BO')":239262
+  },
+  {
+    "('Date', '')":"2025-03-12",
+    "('Close', 'POWERGRID.BO')":261.5509643555,
+    "('High', 'POWERGRID.BO')":266.8387725878,
+    "('Low', 'POWERGRID.BO')":258.1236773681,
+    "('Open', 'POWERGRID.BO')":266.2022824098,
+    "('Volume', 'POWERGRID.BO')":189105
+  },
+  {
+    "('Date', '')":"2025-03-13",
+    "('Close', 'POWERGRID.BO')":262.0405883789,
+    "('High', 'POWERGRID.BO')":265.0272123609,
+    "('Low', 'POWERGRID.BO')":260.0331594102,
+    "('Open', 'POWERGRID.BO')":264.3907221547,
+    "('Volume', 'POWERGRID.BO')":137442
+  },
+  {
+    "('Date', '')":"2025-03-17",
+    "('Close', 'POWERGRID.BO')":261.7467956543,
+    "('High', 'POWERGRID.BO')":264.88032719,
+    "('Low', 'POWERGRID.BO')":259.3966619443,
+    "('Open', 'POWERGRID.BO')":264.3907147553,
+    "('Volume', 'POWERGRID.BO')":88753
+  },
+  {
+    "('Date', '')":"2025-03-18",
+    "('Close', 'POWERGRID.BO')":265.1740722656,
+    "('High', 'POWERGRID.BO')":266.642909512,
+    "('Low', 'POWERGRID.BO')":261.9426422769,
+    "('Open', 'POWERGRID.BO')":263.9500412269,
+    "('Volume', 'POWERGRID.BO')":181587
+  },
+  {
+    "('Date', '')":"2025-03-19",
+    "('Close', 'POWERGRID.BO')":271.1963500977,
+    "('High', 'POWERGRID.BO')":272.518279816,
+    "('Low', 'POWERGRID.BO')":264.3907250368,
+    "('Open', 'POWERGRID.BO')":266.3491748519,
+    "('Volume', 'POWERGRID.BO')":603834
+  },
+  {
+    "('Date', '')":"2025-03-20",
+    "('Close', 'POWERGRID.BO')":274.1340026855,
+    "('High', 'POWERGRID.BO')":277.2675042065,
+    "('Low', 'POWERGRID.BO')":271.2942267761,
+    "('Open', 'POWERGRID.BO')":274.3788088927,
+    "('Volume', 'POWERGRID.BO')":122052
+  },
+  {
+    "('Date', '')":"2025-03-21",
+    "('Close', 'POWERGRID.BO')":277.1206359863,
+    "('High', 'POWERGRID.BO')":279.3728412158,
+    "('Low', 'POWERGRID.BO')":274.3298391525,
+    "('Open', 'POWERGRID.BO')":274.8684307568,
+    "('Volume', 'POWERGRID.BO')":435426
+  },
+  {
+    "('Date', '')":"2025-03-24",
+    "('Close', 'POWERGRID.BO')":285.8357543945,
+    "('High', 'POWERGRID.BO')":287.8431834544,
+    "('Low', 'POWERGRID.BO')":279.0791082761,
+    "('Open', 'POWERGRID.BO')":280.9396296879,
+    "('Volume', 'POWERGRID.BO')":143476
+  },
+  {
+    "('Date', '')":"2025-03-25",
+    "('Close', 'POWERGRID.BO')":285.1013183594,
+    "('High', 'POWERGRID.BO')":289.1650956421,
+    "('Low', 'POWERGRID.BO')":281.6740312731,
+    "('Open', 'POWERGRID.BO')":282.9959908402,
+    "('Volume', 'POWERGRID.BO')":465907
+  },
+  {
+    "('Date', '')":"2025-03-26",
+    "('Close', 'POWERGRID.BO')":285.2971801758,
+    "('High', 'POWERGRID.BO')":290.5360393599,
+    "('Low', 'POWERGRID.BO')":283.6324858948,
+    "('Open', 'POWERGRID.BO')":285.4440579339,
+    "('Volume', 'POWERGRID.BO')":561809
+  },
+  {
+    "('Date', '')":"2025-03-27",
+    "('Close', 'POWERGRID.BO')":288.7734069824,
+    "('High', 'POWERGRID.BO')":290.9277136409,
+    "('Low', 'POWERGRID.BO')":283.5835271465,
+    "('Open', 'POWERGRID.BO')":283.8772826528,
+    "('Volume', 'POWERGRID.BO')":420329
+  },
+  {
+    "('Date', '')":"2025-03-28",
+    "('Close', 'POWERGRID.BO')":284.4158630371,
+    "('High', 'POWERGRID.BO')":288.0879561394,
+    "('Low', 'POWERGRID.BO')":282.1146787163,
+    "('Open', 'POWERGRID.BO')":288.0879561394,
+    "('Volume', 'POWERGRID.BO')":223033
+  },
+  {
+    "('Date', '')":"2025-04-01",
+    "('Close', 'POWERGRID.BO')":283.2407836914,
+    "('High', 'POWERGRID.BO')":290.7808268788,
+    "('Low', 'POWERGRID.BO')":281.0375278114,
+    "('Open', 'POWERGRID.BO')":284.5137640242,
+    "('Volume', 'POWERGRID.BO')":488351
+  },
+  {
+    "('Date', '')":"2025-04-02",
+    "('Close', 'POWERGRID.BO')":280.7438049316,
+    "('High', 'POWERGRID.BO')":283.7793783678,
+    "('Low', 'POWERGRID.BO')":278.7853550329,
+    "('Open', 'POWERGRID.BO')":283.2897658931,
+    "('Volume', 'POWERGRID.BO')":393822
+  },
+  {
+    "('Date', '')":"2025-04-03",
+    "('Close', 'POWERGRID.BO')":292.9350891113,
+    "('High', 'POWERGRID.BO')":293.8653646126,
+    "('Low', 'POWERGRID.BO')":280.5479015301,
+    "('Open', 'POWERGRID.BO')":282.9470142121,
+    "('Volume', 'POWERGRID.BO')":324642
+  },
+  {
+    "('Date', '')":"2025-04-04",
+    "('Close', 'POWERGRID.BO')":287.6962585449,
+    "('High', 'POWERGRID.BO')":294.6977403621,
+    "('Low', 'POWERGRID.BO')":286.1295226397,
+    "('Open', 'POWERGRID.BO')":294.6977403621,
+    "('Volume', 'POWERGRID.BO')":343282
+  },
+  {
+    "('Date', '')":"2025-04-07",
+    "('Close', 'POWERGRID.BO')":283.3387145996,
+    "('High', 'POWERGRID.BO')":287.7941756866,
+    "('Low', 'POWERGRID.BO')":274.7704972143,
+    "('Open', 'POWERGRID.BO')":274.7704972143,
+    "('Volume', 'POWERGRID.BO')":822899
+  },
+  {
+    "('Date', '')":"2025-04-08",
+    "('Close', 'POWERGRID.BO')":282.8001403809,
+    "('High', 'POWERGRID.BO')":287.8921218362,
+    "('Low', 'POWERGRID.BO')":278.9322199394,
+    "('Open', 'POWERGRID.BO')":287.8921218362,
+    "('Volume', 'POWERGRID.BO')":843946
+  },
+  {
+    "('Date', '')":"2025-04-09",
+    "('Close', 'POWERGRID.BO')":287.2066345215,
+    "('High', 'POWERGRID.BO')":293.277840502,
+    "('Low', 'POWERGRID.BO')":283.5835205322,
+    "('Open', 'POWERGRID.BO')":284.5627453753,
+    "('Volume', 'POWERGRID.BO')":349569
+  },
+  {
+    "('Date', '')":"2025-04-11",
+    "('Close', 'POWERGRID.BO')":297.7822875977,
+    "('High', 'POWERGRID.BO')":298.663584,
+    "('Low', 'POWERGRID.BO')":287.8431611888,
+    "('Open', 'POWERGRID.BO')":287.8431611888,
+    "('Volume', 'POWERGRID.BO')":369398
+  },
+  {
+    "('Date', '')":"2025-04-15",
+    "('Close', 'POWERGRID.BO')":298.125,
+    "('High', 'POWERGRID.BO')":303.7555425563,
+    "('Low', 'POWERGRID.BO')":297.2926529497,
+    "('Open', 'POWERGRID.BO')":298.6635616824,
+    "('Volume', 'POWERGRID.BO')":304148
+  },
+  {
+    "('Date', '')":"2025-04-16",
+    "('Close', 'POWERGRID.BO')":299.4959411621,
+    "('High', 'POWERGRID.BO')":301.454390959,
+    "('Low', 'POWERGRID.BO')":296.6561949334,
+    "('Open', 'POWERGRID.BO')":301.454390959,
+    "('Volume', 'POWERGRID.BO')":86032
+  },
+  {
+    "('Date', '')":"2025-04-17",
+    "('Close', 'POWERGRID.BO')":302.3846130371,
+    "('High', 'POWERGRID.BO')":303.2169601124,
+    "('Low', 'POWERGRID.BO')":295.8727739485,
+    "('Open', 'POWERGRID.BO')":298.7125199551,
+    "('Volume', 'POWERGRID.BO')":201591
+  },
+  {
+    "('Date', '')":"2025-04-21",
+    "('Close', 'POWERGRID.BO')":313.3030090332,
+    "('High', 'POWERGRID.BO')":315.0656018453,
+    "('Low', 'POWERGRID.BO')":302.5804847559,
+    "('Open', 'POWERGRID.BO')":303.5597096257,
+    "('Volume', 'POWERGRID.BO')":253681
+  },
+  {
+    "('Date', '')":"2025-04-22",
+    "('Close', 'POWERGRID.BO')":306.105682373,
+    "('High', 'POWERGRID.BO')":313.1560830931,
+    "('Low', 'POWERGRID.BO')":305.665019254,
+    "('Open', 'POWERGRID.BO')":313.1560830931,
+    "('Volume', 'POWERGRID.BO')":302805
+  },
+  {
+    "('Date', '')":"2025-04-23",
+    "('Close', 'POWERGRID.BO')":308.3579101562,
+    "('High', 'POWERGRID.BO')":309.3371350408,
+    "('Low', 'POWERGRID.BO')":302.9721732914,
+    "('Open', 'POWERGRID.BO')":309.3371350408,
+    "('Volume', 'POWERGRID.BO')":255885
+  },
+  {
+    "('Date', '')":"2025-04-24",
+    "('Close', 'POWERGRID.BO')":307.7703857422,
+    "('High', 'POWERGRID.BO')":309.1902738543,
+    "('Low', 'POWERGRID.BO')":306.4974052775,
+    "('Open', 'POWERGRID.BO')":307.7214364488,
+    "('Volume', 'POWERGRID.BO')":127328
+  },
+  {
+    "('Date', '')":"2025-04-25",
+    "('Close', 'POWERGRID.BO')":299.8876342773,
+    "('High', 'POWERGRID.BO')":308.6027301621,
+    "('Low', 'POWERGRID.BO')":297.1458164317,
+    "('Open', 'POWERGRID.BO')":306.7911580681,
+    "('Volume', 'POWERGRID.BO')":200793
+  },
+  {
+    "('Date', '')":"2025-04-28",
+    "('Close', 'POWERGRID.BO')":302.2377319336,
+    "('High', 'POWERGRID.BO')":304.4409877583,
+    "('Low', 'POWERGRID.BO')":297.0968016759,
+    "('Open', 'POWERGRID.BO')":297.0968016759,
+    "('Volume', 'POWERGRID.BO')":96270
+  },
+  {
+    "('Date', '')":"2025-04-29",
+    "('Close', 'POWERGRID.BO')":296.9499206543,
+    "('High', 'POWERGRID.BO')":304.3430559422,
+    "('Low', 'POWERGRID.BO')":294.9914710539,
+    "('Open', 'POWERGRID.BO')":301.3564322551,
+    "('Volume', 'POWERGRID.BO')":330492
+  },
+  {
+    "('Date', '')":"2025-04-30",
+    "('Close', 'POWERGRID.BO')":300.279296875,
+    "('High', 'POWERGRID.BO')":303.5597061276,
+    "('Low', 'POWERGRID.BO')":297.3416222996,
+    "('Open', 'POWERGRID.BO')":297.3416222996,
+    "('Volume', 'POWERGRID.BO')":347597
+  },
+  {
+    "('Date', '')":"2025-05-02",
+    "('Close', 'POWERGRID.BO')":297.7333068848,
+    "('High', 'POWERGRID.BO')":302.5315326081,
+    "('Low', 'POWERGRID.BO')":295.8727856265,
+    "('Open', 'POWERGRID.BO')":298.7125317453,
+    "('Volume', 'POWERGRID.BO')":77565
+  },
+  {
+    "('Date', '')":"2025-05-05",
+    "('Close', 'POWERGRID.BO')":302.1398010254,
+    "('High', 'POWERGRID.BO')":304.0493013448,
+    "('Low', 'POWERGRID.BO')":298.1250032398,
+    "('Open', 'POWERGRID.BO')":298.1250032398,
+    "('Volume', 'POWERGRID.BO')":300339
+  },
+  {
+    "('Date', '')":"2025-05-06",
+    "('Close', 'POWERGRID.BO')":301.3074951172,
+    "('High', 'POWERGRID.BO')":303.8534557935,
+    "('Low', 'POWERGRID.BO')":299.3000662657,
+    "('Open', 'POWERGRID.BO')":300.7199542367,
+    "('Volume', 'POWERGRID.BO')":608695
+  },
+  {
+    "('Date', '')":"2025-05-07",
+    "('Close', 'POWERGRID.BO')":304.7837524414,
+    "('High', 'POWERGRID.BO')":306.6932529643,
+    "('Low', 'POWERGRID.BO')":298.7125460618,
+    "('Open', 'POWERGRID.BO')":298.7125460618,
+    "('Volume', 'POWERGRID.BO')":735819
+  },
+  {
+    "('Date', '')":"2025-05-08",
+    "('Close', 'POWERGRID.BO')":301.4543762207,
+    "('High', 'POWERGRID.BO')":310.757012301,
+    "('Low', 'POWERGRID.BO')":298.0270892438,
+    "('Open', 'POWERGRID.BO')":307.4766030749,
+    "('Volume', 'POWERGRID.BO')":404161
+  },
+  {
+    "('Date', '')":"2025-05-09",
+    "('Close', 'POWERGRID.BO')":293.3267822266,
+    "('High', 'POWERGRID.BO')":296.80304826,
+    "('Low', 'POWERGRID.BO')":290.2422300271,
+    "('Open', 'POWERGRID.BO')":293.3267822266,
+    "('Volume', 'POWERGRID.BO')":168051
+  },
+  {
+    "('Date', '')":"2025-05-12",
+    "('Close', 'POWERGRID.BO')":302.6294250488,
+    "('High', 'POWERGRID.BO')":304.4899761529,
+    "('Low', 'POWERGRID.BO')":296.9988822151,
+    "('Open', 'POWERGRID.BO')":296.9988822151,
+    "('Volume', 'POWERGRID.BO')":315950
+  },
+  {
+    "('Date', '')":"2025-05-13",
+    "('Close', 'POWERGRID.BO')":292.3475646973,
+    "('High', 'POWERGRID.BO')":302.4825477912,
+    "('Low', 'POWERGRID.BO')":291.8090029875,
+    "('Open', 'POWERGRID.BO')":297.5374742913,
+    "('Volume', 'POWERGRID.BO')":857021
+  },
+  {
+    "('Date', '')":"2025-05-14",
+    "('Close', 'POWERGRID.BO')":289.8995056152,
+    "('High', 'POWERGRID.BO')":293.7674557359,
+    "('Low', 'POWERGRID.BO')":287.9900350831,
+    "('Open', 'POWERGRID.BO')":293.5715988119,
+    "('Volume', 'POWERGRID.BO')":334608
+  },
+  {
+    "('Date', '')":"2025-05-15",
+    "('Close', 'POWERGRID.BO')":293.3757629395,
+    "('High', 'POWERGRID.BO')":294.1591308444,
+    "('Low', 'POWERGRID.BO')":285.1013012319,
+    "('Open', 'POWERGRID.BO')":289.8505476,
+    "('Volume', 'POWERGRID.BO')":593763
+  },
+  {
+    "('Date', '')":"2025-05-16",
+    "('Close', 'POWERGRID.BO')":294.0612182617,
+    "('High', 'POWERGRID.BO')":295.3342285305,
+    "('Low', 'POWERGRID.BO')":289.7526347847,
+    "('Open', 'POWERGRID.BO')":293.4737072431,
+    "('Volume', 'POWERGRID.BO')":201773
+  },
+  {
+    "('Date', '')":"2025-05-19",
+    "('Close', 'POWERGRID.BO')":297.7822875977,
+    "('High', 'POWERGRID.BO')":298.0760431039,
+    "('Low', 'POWERGRID.BO')":293.1309694862,
+    "('Open', 'POWERGRID.BO')":296.3623995891,
+    "('Volume', 'POWERGRID.BO')":402840
+  },
+  {
+    "('Date', '')":"2025-05-20",
+    "('Close', 'POWERGRID.BO')":291.8090209961,
+    "('High', 'POWERGRID.BO')":298.8104730735,
+    "('Low', 'POWERGRID.BO')":291.0746023191,
+    "('Open', 'POWERGRID.BO')":298.2719113304,
+    "('Volume', 'POWERGRID.BO')":598149
+  },
+  {
+    "('Date', '')":"2025-05-21",
+    "('Close', 'POWERGRID.BO')":289.9974365234,
+    "('High', 'POWERGRID.BO')":295.7748572249,
+    "('Low', 'POWERGRID.BO')":289.5078240931,
+    "('Open', 'POWERGRID.BO')":291.1235391365,
+    "('Volume', 'POWERGRID.BO')":359314
+  },
+  {
+    "('Date', '')":"2025-05-22",
+    "('Close', 'POWERGRID.BO')":284.9544372559,
+    "('High', 'POWERGRID.BO')":290.2912247524,
+    "('Low', 'POWERGRID.BO')":280.6458538033,
+    "('Open', 'POWERGRID.BO')":289.9974393612,
+    "('Volume', 'POWERGRID.BO')":671540
+  },
+  {
+    "('Date', '')":"2025-05-23",
+    "('Close', 'POWERGRID.BO')":291.8579711914,
+    "('High', 'POWERGRID.BO')":292.5434405788,
+    "('Low', 'POWERGRID.BO')":285.5909377716,
+    "('Open', 'POWERGRID.BO')":285.5909377716,
+    "('Volume', 'POWERGRID.BO')":475618
+  },
+  {
+    "('Date', '')":"2025-05-26",
+    "('Close', 'POWERGRID.BO')":290.5360412598,
+    "('High', 'POWERGRID.BO')":297.3906155946,
+    "('Low', 'POWERGRID.BO')":289.7526434056,
+    "('Open', 'POWERGRID.BO')":294.6977471059,
+    "('Volume', 'POWERGRID.BO')":210406
+  },
+  {
+    "('Date', '')":"2025-05-27",
+    "('Close', 'POWERGRID.BO')":288.6265258789,
+    "('High', 'POWERGRID.BO')":291.0745880153,
+    "('Low', 'POWERGRID.BO')":286.2763922047,
+    "('Open', 'POWERGRID.BO')":290.5360262987,
+    "('Volume', 'POWERGRID.BO')":820435
+  },
+  {
+    "('Date', '')":"2025-05-28",
+    "('Close', 'POWERGRID.BO')":285.1502990723,
+    "('High', 'POWERGRID.BO')":289.5078318896,
+    "('Low', 'POWERGRID.BO')":284.6117074542,
+    "('Open', 'POWERGRID.BO')":288.038994559,
+    "('Volume', 'POWERGRID.BO')":196732
+  },
+  {
+    "('Date', '')":"2025-05-29",
+    "('Close', 'POWERGRID.BO')":287.1087341309,
+    "('High', 'POWERGRID.BO')":287.6472958377,
+    "('Low', 'POWERGRID.BO')":285.4440399547,
+    "('Open', 'POWERGRID.BO')":285.8847030847,
+    "('Volume', 'POWERGRID.BO')":282894
+  },
+  {
+    "('Date', '')":"2025-05-30",
+    "('Close', 'POWERGRID.BO')":283.8772583008,
+    "('High', 'POWERGRID.BO')":288.4796267292,
+    "('Low', 'POWERGRID.BO')":282.6042780377,
+    "('Open', 'POWERGRID.BO')":286.668054906,
+    "('Volume', 'POWERGRID.BO')":304183
+  },
+  {
+    "('Date', '')":"2025-06-02",
+    "('Close', 'POWERGRID.BO')":286.9128723145,
+    "('High', 'POWERGRID.BO')":287.4514340121,
+    "('Low', 'POWERGRID.BO')":282.4084321649,
+    "('Open', 'POWERGRID.BO')":283.9751978539,
+    "('Volume', 'POWERGRID.BO')":232903
+  },
+  {
+    "('Date', '')":"2025-06-03",
+    "('Close', 'POWERGRID.BO')":282.2615661621,
+    "('High', 'POWERGRID.BO')":288.920283263,
+    "('Low', 'POWERGRID.BO')":281.723004442,
+    "('Open', 'POWERGRID.BO')":287.6473028972,
+    "('Volume', 'POWERGRID.BO')":418461
+  },
+  {
+    "('Date', '')":"2025-06-04",
+    "('Close', 'POWERGRID.BO')":282.604309082,
+    "('High', 'POWERGRID.BO')":283.6814624372,
+    "('Low', 'POWERGRID.BO')":281.2334002135,
+    "('Open', 'POWERGRID.BO')":283.4856055059,
+    "('Volume', 'POWERGRID.BO')":136811
+  },
+  {
+    "('Date', '')":"2025-06-05",
+    "('Close', 'POWERGRID.BO')":288.1369018555,
+    "('High', 'POWERGRID.BO')":289.1161266706,
+    "('Low', 'POWERGRID.BO')":284.0241456784,
+    "('Open', 'POWERGRID.BO')":284.0241456784,
+    "('Volume', 'POWERGRID.BO')":424191
+  },
+  {
+    "('Date', '')":"2025-06-06",
+    "('Close', 'POWERGRID.BO')":289.703704834,
+    "('High', 'POWERGRID.BO')":290.3891443627,
+    "('Low', 'POWERGRID.BO')":286.9129077748,
+    "('Open', 'POWERGRID.BO')":288.0879896577,
+    "('Volume', 'POWERGRID.BO')":370936
+  },
+  {
+    "('Date', '')":"2025-06-09",
+    "('Close', 'POWERGRID.BO')":294.3550109863,
+    "('High', 'POWERGRID.BO')":294.9425519032,
+    "('Low', 'POWERGRID.BO')":289.8995197601,
+    "('Open', 'POWERGRID.BO')":291.2214793522,
+    "('Volume', 'POWERGRID.BO')":629877
+  },
+  {
+    "('Date', '')":"2025-06-10",
+    "('Close', 'POWERGRID.BO')":294.8935546875,
+    "('High', 'POWERGRID.BO')":295.3342178191,
+    "('Low', 'POWERGRID.BO')":292.0538086273,
+    "('Open', 'POWERGRID.BO')":294.3549929787,
+    "('Volume', 'POWERGRID.BO')":486382
+  },
+  {
+    "('Date', '')":"2025-06-11",
+    "('Close', 'POWERGRID.BO')":289.3120117188,
+    "('High', 'POWERGRID.BO')":295.4811167006,
+    "('Low', 'POWERGRID.BO')":287.8921236453,
+    "('Open', 'POWERGRID.BO')":295.4321674085,
+    "('Volume', 'POWERGRID.BO')":313373
+  },
+  {
+    "('Date', '')":"2025-06-12",
+    "('Close', 'POWERGRID.BO')":282.8001403809,
+    "('High', 'POWERGRID.BO')":289.6547147103,
+    "('Low', 'POWERGRID.BO')":282.3595071041,
+    "('Open', 'POWERGRID.BO')":289.2630307253,
+    "('Volume', 'POWERGRID.BO')":186679
+  },
+  {
+    "('Date', '')":"2025-06-13",
+    "('Close', 'POWERGRID.BO')":279.7645568848,
+    "('High', 'POWERGRID.BO')":280.4989755361,
+    "('Low', 'POWERGRID.BO')":276.2882906714,
+    "('Open', 'POWERGRID.BO')":277.8061071478,
+    "('Volume', 'POWERGRID.BO')":179927
+  },
+  {
+    "('Date', '')":"2025-06-16",
+    "('Close', 'POWERGRID.BO')":282.6532592773,
+    "('High', 'POWERGRID.BO')":284.4158820142,
+    "('Low', 'POWERGRID.BO')":280.8416872493,
+    "('Open', 'POWERGRID.BO')":281.1844219384,
+    "('Volume', 'POWERGRID.BO')":396087
+  },
+  {
+    "('Date', '')":"2025-06-17",
+    "('Close', 'POWERGRID.BO')":282.604309082,
+    "('High', 'POWERGRID.BO')":284.268973464,
+    "('Low', 'POWERGRID.BO')":281.3312987956,
+    "('Open', 'POWERGRID.BO')":282.6532583731,
+    "('Volume', 'POWERGRID.BO')":331153
+  },
+  {
+    "('Date', '')":"2025-06-18",
+    "('Close', 'POWERGRID.BO')":281.4782104492,
+    "('High', 'POWERGRID.BO')":282.2615784185,
+    "('Low', 'POWERGRID.BO')":279.5687099341,
+    "('Open', 'POWERGRID.BO')":281.7719659668,
+    "('Volume', 'POWERGRID.BO')":616296
+  },
+  {
+    "('Date', '')":"2025-06-19",
+    "('Close', 'POWERGRID.BO')":280.3520812988,
+    "('High', 'POWERGRID.BO')":281.6250916189,
+    "('Low', 'POWERGRID.BO')":279.5197640277,
+    "('Open', 'POWERGRID.BO')":281.037550693,
+    "('Volume', 'POWERGRID.BO')":377297
+  },
+  {
+    "('Date', '')":"2025-06-20",
+    "('Close', 'POWERGRID.BO')":287.0108032227,
+    "('High', 'POWERGRID.BO')":288.2348342583,
+    "('Low', 'POWERGRID.BO')":279.2259538823,
+    "('Open', 'POWERGRID.BO')":280.3031071704,
+    "('Volume', 'POWERGRID.BO')":160471
+  },
+  {
+    "('Date', '')":"2025-06-23",
+    "('Close', 'POWERGRID.BO')":284.268951416,
+    "('High', 'POWERGRID.BO')":287.1576765694,
+    "('Low', 'POWERGRID.BO')":282.0656955856,
+    "('Open', 'POWERGRID.BO')":284.2200021288,
+    "('Volume', 'POWERGRID.BO')":147818
+  },
+  {
+    "('Date', '')":"2025-06-24",
+    "('Close', 'POWERGRID.BO')":279.9603881836,
+    "('High', 'POWERGRID.BO')":288.5775850875,
+    "('Low', 'POWERGRID.BO')":279.5197549162,
+    "('Open', 'POWERGRID.BO')":287.1087477625,
+    "('Volume', 'POWERGRID.BO')":438260
+  },
+  {
+    "('Date', '')":"2025-06-25",
+    "('Close', 'POWERGRID.BO')":284.4158630371,
+    "('High', 'POWERGRID.BO')":285.1502816576,
+    "('Low', 'POWERGRID.BO')":281.0375254296,
+    "('Open', 'POWERGRID.BO')":282.7511688773,
+    "('Volume', 'POWERGRID.BO')":253916
+  },
+  {
+    "('Date', '')":"2025-06-26",
+    "('Close', 'POWERGRID.BO')":287.3045654297,
+    "('High', 'POWERGRID.BO')":287.9410556064,
+    "('Low', 'POWERGRID.BO')":283.7793499879,
+    "('Open', 'POWERGRID.BO')":284.4648193373,
+    "('Volume', 'POWERGRID.BO')":133402
+  },
+  {
+    "('Date', '')":"2025-06-27",
+    "('Close', 'POWERGRID.BO')":293.3757629395,
+    "('High', 'POWERGRID.BO')":294.2570593034,
+    "('Low', 'POWERGRID.BO')":287.9410472418,
+    "('Open', 'POWERGRID.BO')":287.9410472418,
+    "('Volume', 'POWERGRID.BO')":221981
+  },
+  {
+    "('Date', '')":"2025-06-30",
+    "('Close', 'POWERGRID.BO')":293.5715942383,
+    "('High', 'POWERGRID.BO')":294.7466759963,
+    "('Low', 'POWERGRID.BO')":290.0464087312,
+    "('Open', 'POWERGRID.BO')":294.1591351173,
+    "('Volume', 'POWERGRID.BO')":153964
+  },
+  {
+    "('Date', '')":"2025-07-01",
+    "('Close', 'POWERGRID.BO')":291.4662780762,
+    "('High', 'POWERGRID.BO')":295.2362998218,
+    "('Low', 'POWERGRID.BO')":290.8297878841,
+    "('Open', 'POWERGRID.BO')":293.7674625092,
+    "('Volume', 'POWERGRID.BO')":645474
+  },
+  {
+    "('Date', '')":"2025-07-02",
+    "('Close', 'POWERGRID.BO')":288.7244567871,
+    "('High', 'POWERGRID.BO')":292.4454993125,
+    "('Low', 'POWERGRID.BO')":287.4024972456,
+    "('Open', 'POWERGRID.BO')":290.8787335552,
+    "('Volume', 'POWERGRID.BO')":147918
+  },
+  {
+    "('Date', '')":"2025-07-03",
+    "('Close', 'POWERGRID.BO')":287.5983581543,
+    "('High', 'POWERGRID.BO')":292.7392887554,
+    "('Low', 'POWERGRID.BO')":287.0597665421,
+    "('Open', 'POWERGRID.BO')":291.8090131694,
+    "('Volume', 'POWERGRID.BO')":289692
+  },
+  {
+    "('Date', '')":"2025-07-04",
+    "('Close', 'POWERGRID.BO')":287.990020752,
+    "('High', 'POWERGRID.BO')":289.0181948424,
+    "('Low', 'POWERGRID.BO')":285.8357142303,
+    "('Open', 'POWERGRID.BO')":288.0389700387,
+    "('Volume', 'POWERGRID.BO')":573678
+  },
+  {
+    "('Date', '')":"2025-07-07",
+    "('Close', 'POWERGRID.BO')":289.8505859375,
+    "('High', 'POWERGRID.BO')":290.2422699418,
+    "('Low', 'POWERGRID.BO')":287.3045950843,
+    "('Open', 'POWERGRID.BO')":288.3327992146,
+    "('Volume', 'POWERGRID.BO')":393764
+  },
+  {
+    "('Date', '')":"2025-07-08",
+    "('Close', 'POWERGRID.BO')":291.6621398926,
+    "('High', 'POWERGRID.BO')":292.2007016294,
+    "('Low', 'POWERGRID.BO')":287.1576994152,
+    "('Open', 'POWERGRID.BO')":287.941067375,
+    "('Volume', 'POWERGRID.BO')":540430
+  },
+  {
+    "('Date', '')":"2025-07-09",
+    "('Close', 'POWERGRID.BO')":293.3757629395,
+    "('High', 'POWERGRID.BO')":293.8163961796,
+    "('Low', 'POWERGRID.BO')":290.2912107238,
+    "('Open', 'POWERGRID.BO')":292.5434158632,
+    "('Volume', 'POWERGRID.BO')":509172
+  },
+  {
+    "('Date', '')":"2025-07-10",
+    "('Close', 'POWERGRID.BO')":292.9350891113,
+    "('High', 'POWERGRID.BO')":296.411355036,
+    "('Low', 'POWERGRID.BO')":291.8579358687,
+    "('Open', 'POWERGRID.BO')":294.6977116584,
+    "('Volume', 'POWERGRID.BO')":122954
+  },
+  {
+    "('Date', '')":"2025-07-11",
+    "('Close', 'POWERGRID.BO')":292.3965454102,
+    "('High', 'POWERGRID.BO')":294.6487506057,
+    "('Low', 'POWERGRID.BO')":290.7808303887,
+    "('Open', 'POWERGRID.BO')":292.641351622,
+    "('Volume', 'POWERGRID.BO')":69745
+  },
+  {
+    "('Date', '')":"2025-07-14",
+    "('Close', 'POWERGRID.BO')":292.0048522949,
+    "('High', 'POWERGRID.BO')":294.2570574199,
+    "('Low', 'POWERGRID.BO')":291.2214545114,
+    "('Open', 'POWERGRID.BO')":293.0819756864,
+    "('Volume', 'POWERGRID.BO')":1870986
+  },
+  {
+    "('Date', '')":"2025-07-15",
+    "('Close', 'POWERGRID.BO')":292.2006835938,
+    "('High', 'POWERGRID.BO')":293.5226430923,
+    "('Low', 'POWERGRID.BO')":290.6828970591,
+    "('Open', 'POWERGRID.BO')":292.935102217,
+    "('Volume', 'POWERGRID.BO')":517757
+  },
+  {
+    "('Date', '')":"2025-07-16",
+    "('Close', 'POWERGRID.BO')":290.7318725586,
+    "('High', 'POWERGRID.BO')":292.4944953434,
+    "('Low', 'POWERGRID.BO')":289.5078414095,
+    "('Open', 'POWERGRID.BO')":292.2496891136,
+    "('Volume', 'POWERGRID.BO')":156077
+  },
+  {
+    "('Date', '')":"2025-07-17",
+    "('Close', 'POWERGRID.BO')":290.4870605469,
+    "('High', 'POWERGRID.BO')":292.0538263633,
+    "('Low', 'POWERGRID.BO')":289.752641872,
+    "('Open', 'POWERGRID.BO')":291.3194076884,
+    "('Volume', 'POWERGRID.BO')":368355
+  },
+  {
+    "('Date', '')":"2025-07-18",
+    "('Close', 'POWERGRID.BO')":287.9410400391,
+    "('High', 'POWERGRID.BO')":295.2852260276,
+    "('Low', 'POWERGRID.BO')":287.4514276398,
+    "('Open', 'POWERGRID.BO')":289.899489636,
+    "('Volume', 'POWERGRID.BO')":226533
+  },
+  {
+    "('Date', '')":"2025-07-21",
+    "('Close', 'POWERGRID.BO')":290.7808532715,
+    "('High', 'POWERGRID.BO')":291.0256595026,
+    "('Low', 'POWERGRID.BO')":286.0316064111,
+    "('Open', 'POWERGRID.BO')":287.9410770837,
+    "('Volume', 'POWERGRID.BO')":79392
+  },
+  {
+    "('Date', '')":"2025-07-22",
+    "('Close', 'POWERGRID.BO')":291.6621398926,
+    "('High', 'POWERGRID.BO')":292.788242541,
+    "('Low', 'POWERGRID.BO')":288.5286082865,
+    "('Open', 'POWERGRID.BO')":290.8297927581,
+    "('Volume', 'POWERGRID.BO')":1272256
+  },
+  {
+    "('Date', '')":"2025-07-23",
+    "('Close', 'POWERGRID.BO')":293.0330200195,
+    "('High', 'POWERGRID.BO')":293.3757546746,
+    "('Low', 'POWERGRID.BO')":290.8787135163,
+    "('Open', 'POWERGRID.BO')":291.6621112827,
+    "('Volume', 'POWERGRID.BO')":167480
+  },
+  {
+    "('Date', '')":"2025-07-24",
+    "('Close', 'POWERGRID.BO')":293.0330200195,
+    "('High', 'POWERGRID.BO')":294.9914696103,
+    "('Low', 'POWERGRID.BO')":290.3891011186,
+    "('Open', 'POWERGRID.BO')":293.1309484758,
+    "('Volume', 'POWERGRID.BO')":495623
+  },
+  {
+    "('Date', '')":"2025-07-25",
+    "('Close', 'POWERGRID.BO')":285.7378234863,
+    "('High', 'POWERGRID.BO')":291.5642237909,
+    "('Low', 'POWERGRID.BO')":284.9544554934,
+    "('Open', 'POWERGRID.BO')":290.8298050912,
+    "('Volume', 'POWERGRID.BO')":421723
+  },
+  {
+    "('Date', '')":"2025-07-28",
+    "('Close', 'POWERGRID.BO')":285.8847045898,
+    "('High', 'POWERGRID.BO')":289.0671853265,
+    "('Low', 'POWERGRID.BO')":284.7585721146,
+    "('Open', 'POWERGRID.BO')":285.4929907462,
+    "('Volume', 'POWERGRID.BO')":986305
+  },
+  {
+    "('Date', '')":"2025-07-29",
+    "('Close', 'POWERGRID.BO')":287.059753418,
+    "('High', 'POWERGRID.BO')":287.9410497897,
+    "('Low', 'POWERGRID.BO')":283.7793442553,
+    "('Open', 'POWERGRID.BO')":284.1220789231,
+    "('Volume', 'POWERGRID.BO')":528349
+  },
+  {
+    "('Date', '')":"2025-07-30",
+    "('Close', 'POWERGRID.BO')":283.0939025879,
+    "('High', 'POWERGRID.BO')":290.3401603086,
+    "('Low', 'POWERGRID.BO')":280.5968613566,
+    "('Open', 'POWERGRID.BO')":287.5493635835,
+    "('Volume', 'POWERGRID.BO')":236327
+  },
+  {
+    "('Date', '')":"2025-07-31",
+    "('Close', 'POWERGRID.BO')":284.9054870605,
+    "('High', 'POWERGRID.BO')":288.2348456323,
+    "('Low', 'POWERGRID.BO')":279.2749440742,
+    "('Open', 'POWERGRID.BO')":279.3238933642,
+    "('Volume', 'POWERGRID.BO')":277883
+  },
+  {
+    "('Date', '')":"2025-08-01",
+    "('Close', 'POWERGRID.BO')":285.1502990723,
+    "('High', 'POWERGRID.BO')":286.5701572284,
+    "('Low', 'POWERGRID.BO')":280.4500016841,
+    "('Open', 'POWERGRID.BO')":285.0033914323,
+    "('Volume', 'POWERGRID.BO')":205886
+  },
+  {
+    "('Date', '')":"2025-08-04",
+    "('Close', 'POWERGRID.BO')":282.0167541504,
+    "('High', 'POWERGRID.BO')":285.2971633438,
+    "('Low', 'POWERGRID.BO')":280.0093551802,
+    "('Open', 'POWERGRID.BO')":284.856500212,
+    "('Volume', 'POWERGRID.BO')":126153
+  },
+  {
+    "('Date', '')":"2025-08-05",
+    "('Close', 'POWERGRID.BO')":280.0093688965,
+    "('High', 'POWERGRID.BO')":282.5063804094,
+    "('Low', 'POWERGRID.BO')":279.2749502299,
+    "('Open', 'POWERGRID.BO')":280.7437875631,
+    "('Volume', 'POWERGRID.BO')":566805
+  },
+  {
+    "('Date', '')":"2025-08-06",
+    "('Close', 'POWERGRID.BO')":278.8832092285,
+    "('High', 'POWERGRID.BO')":282.2615467194,
+    "('Low', 'POWERGRID.BO')":278.0019128911,
+    "('Open', 'POWERGRID.BO')":281.8208836089,
+    "('Volume', 'POWERGRID.BO')":130202
+  },
+  {
+    "('Date', '')":"2025-08-07",
+    "('Close', 'POWERGRID.BO')":279.7155761719,
+    "('High', 'POWERGRID.BO')":280.3520663562,
+    "('Low', 'POWERGRID.BO')":277.7081771559,
+    "('Open', 'POWERGRID.BO')":279.0301366978,
+    "('Volume', 'POWERGRID.BO')":694253
+  },
+  {
+    "('Date', '')":"2025-08-08",
+    "('Close', 'POWERGRID.BO')":278.9811401367,
+    "('High', 'POWERGRID.BO')":280.2541503096,
+    "('Low', 'POWERGRID.BO')":277.6102313905,
+    "('Open', 'POWERGRID.BO')":279.6666094516,
+    "('Volume', 'POWERGRID.BO')":807229
+  },
+  {
+    "('Date', '')":"2025-08-11",
+    "('Close', 'POWERGRID.BO')":278.9811401367,
+    "('High', 'POWERGRID.BO')":280.4989565101,
+    "('Low', 'POWERGRID.BO')":277.36542519,
+    "('Open', 'POWERGRID.BO')":278.2957007054,
+    "('Volume', 'POWERGRID.BO')":123070
+  },
+  {
+    "('Date', '')":"2025-08-12",
+    "('Close', 'POWERGRID.BO')":278.7363586426,
+    "('High', 'POWERGRID.BO')":281.5271555526,
+    "('Low', 'POWERGRID.BO')":278.2467461981,
+    "('Open', 'POWERGRID.BO')":278.9322155738,
+    "('Volume', 'POWERGRID.BO')":151852
+  },
+  {
+    "('Date', '')":"2025-08-13",
+    "('Close', 'POWERGRID.BO')":282.4574279785,
+    "('High', 'POWERGRID.BO')":283.4366528564,
+    "('Low', 'POWERGRID.BO')":280.1562435388,
+    "('Open', 'POWERGRID.BO')":281.5271523911,
+    "('Volume', 'POWERGRID.BO')":198539
+  },
+  {
+    "('Date', '')":"2025-08-14",
+    "('Close', 'POWERGRID.BO')":282.6532592773,
+    "('High', 'POWERGRID.BO')":283.9752188591,
+    "('Low', 'POWERGRID.BO')":281.0864934724,
+    "('Open', 'POWERGRID.BO')":282.7022384521,
+    "('Volume', 'POWERGRID.BO')":125025
+  },
+  {
+    "('Date', '')":"2025-08-18",
+    "('Close', 'POWERGRID.BO')":284.5137939453,
+    "('High', 'POWERGRID.BO')":285.1992633557,
+    "('Low', 'POWERGRID.BO')":282.4084663041,
+    "('Open', 'POWERGRID.BO')":283.926282889,
+    "('Volume', 'POWERGRID.BO')":78130
+  },
+  {
+    "('Date', '')":"2025-08-19",
+    "('Close', 'POWERGRID.BO')":283.2352905273,
+    "('High', 'POWERGRID.BO')":285.3005538566,
+    "('Low', 'POWERGRID.BO')":281.858458312,
+    "('Open', 'POWERGRID.BO')":284.5629619542,
+    "('Volume', 'POWERGRID.BO')":243190
+  },
+  {
+    "('Date', '')":"2025-08-20",
+    "('Close', 'POWERGRID.BO')":283.5795288086,
+    "('High', 'POWERGRID.BO')":284.2187691727,
+    "('Low', 'POWERGRID.BO')":282.3010180677,
+    "('Open', 'POWERGRID.BO')":283.235313224,
+    "('Volume', 'POWERGRID.BO')":102866
+  },
+  {
+    "('Date', '')":"2025-08-21",
+    "('Close', 'POWERGRID.BO')":279.3014831543,
+    "('High', 'POWERGRID.BO')":284.5137875602,
+    "('Low', 'POWERGRID.BO')":279.0064583814,
+    "('Open', 'POWERGRID.BO')":283.5303316336,
+    "('Volume', 'POWERGRID.BO')":163301
+  },
+  {
+    "('Date', '')":"2025-08-22",
+    "('Close', 'POWERGRID.BO')":278.6622314453,
+    "('High', 'POWERGRID.BO')":280.0390636839,
+    "('Low', 'POWERGRID.BO')":277.1378568136,
+    "('Open', 'POWERGRID.BO')":279.7931997123,
+    "('Volume', 'POWERGRID.BO')":167892
+  },
+  {
+    "('Date', '')":"2025-08-25",
+    "('Close', 'POWERGRID.BO')":279.4489746094,
+    "('High', 'POWERGRID.BO')":279.8915417483,
+    "('Low', 'POWERGRID.BO')":277.4329021159,
+    "('Open', 'POWERGRID.BO')":278.318006381,
+    "('Volume', 'POWERGRID.BO')":262778
+  },
+  {
+    "('Date', '')":"2025-08-26",
+    "('Close', 'POWERGRID.BO')":275.1709594727,
+    "('High', 'POWERGRID.BO')":278.5638944641,
+    "('Low', 'POWERGRID.BO')":274.1875035346,
+    "('Open', 'POWERGRID.BO')":278.3180304796,
+    "('Volume', 'POWERGRID.BO')":1781174
+  },
+  {
+    "('Date', '')":"2025-08-28",
+    "('Close', 'POWERGRID.BO')":269.9586486816,
+    "('High', 'POWERGRID.BO')":277.9738083868,
+    "('Low', 'POWERGRID.BO')":269.270217536,
+    "('Open', 'POWERGRID.BO')":277.9738083868,
+    "('Volume', 'POWERGRID.BO')":111958
+  },
+  {
+    "('Date', '')":"2025-08-29",
+    "('Close', 'POWERGRID.BO')":270.7945861816,
+    "('High', 'POWERGRID.BO')":271.5321781015,
+    "('Low', 'POWERGRID.BO')":267.6967061208,
+    "('Open', 'POWERGRID.BO')":269.4177539338,
+    "('Volume', 'POWERGRID.BO')":163503
+  },
+  {
+    "('Date', '')":"2025-09-01",
+    "('Close', 'POWERGRID.BO')":275.2201538086,
+    "('High', 'POWERGRID.BO')":275.9577457716,
+    "('Low', 'POWERGRID.BO')":271.1388176157,
+    "('Open', 'POWERGRID.BO')":271.1388176157,
+    "('Volume', 'POWERGRID.BO')":838139
+  },
+  {
+    "('Date', '')":"2025-09-02",
+    "('Close', 'POWERGRID.BO')":281.907623291,
+    "('High', 'POWERGRID.BO')":283.2352947376,
+    "('Low', 'POWERGRID.BO')":275.1709444796,
+    "('Open', 'POWERGRID.BO')":275.6626724219,
+    "('Volume', 'POWERGRID.BO')":486870
+  },
+  {
+    "('Date', '')":"2025-09-03",
+    "('Close', 'POWERGRID.BO')":281.268371582,
+    "('High', 'POWERGRID.BO')":284.5629546643,
+    "('Low', 'POWERGRID.BO')":280.9241560339,
+    "('Open', 'POWERGRID.BO')":282.3009882139,
+    "('Volume', 'POWERGRID.BO')":1115177
+  },
+  {
+    "('Date', '')":"2025-09-04",
+    "('Close', 'POWERGRID.BO')":277.334564209,
+    "('High', 'POWERGRID.BO')":282.8910840496,
+    "('Low', 'POWERGRID.BO')":276.4002690975,
+    "('Open', 'POWERGRID.BO')":282.6452200743,
+    "('Volume', 'POWERGRID.BO')":2852382
+  },
+  {
+    "('Date', '')":"2025-09-05",
+    "('Close', 'POWERGRID.BO')":280.678314209,
+    "('High', 'POWERGRID.BO')":281.8584733208,
+    "('Low', 'POWERGRID.BO')":277.6787856512,
+    "('Open', 'POWERGRID.BO')":277.6787856512,
+    "('Volume', 'POWERGRID.BO')":131338
+  },
+  {
+    "('Date', '')":"2025-09-08",
+    "('Close', 'POWERGRID.BO')":278.121307373,
+    "('High', 'POWERGRID.BO')":282.9402651348,
+    "('Low', 'POWERGRID.BO')":277.4820670616,
+    "('Open', 'POWERGRID.BO')":280.8258110091,
+    "('Volume', 'POWERGRID.BO')":148294
+  },
+  {
+    "('Date', '')":"2025-09-09",
+    "('Close', 'POWERGRID.BO')":279.1539611816,
+    "('High', 'POWERGRID.BO')":279.5473375362,
+    "('Low', 'POWERGRID.BO')":277.0886978042,
+    "('Open', 'POWERGRID.BO')":278.6622332352,
+    "('Volume', 'POWERGRID.BO')":80324
+  },
+  {
+    "('Date', '')":"2025-09-10",
+    "('Close', 'POWERGRID.BO')":278.2196655273,
+    "('High', 'POWERGRID.BO')":281.6617611454,
+    "('Low', 'POWERGRID.BO')":277.8262891735,
+    "('Open', 'POWERGRID.BO')":279.8423617448,
+    "('Volume', 'POWERGRID.BO')":105141
+  },
+  {
+    "('Date', '')":"2025-09-11",
+    "('Close', 'POWERGRID.BO')":282.0551452637,
+    "('High', 'POWERGRID.BO')":283.9728963088,
+    "('Low', 'POWERGRID.BO')":278.1213215919,
+    "('Open', 'POWERGRID.BO')":278.2196731862,
+    "('Volume', 'POWERGRID.BO')":120179
+  },
+  {
+    "('Date', '')":"2025-09-12",
+    "('Close', 'POWERGRID.BO')":282.6943969727,
+    "('High', 'POWERGRID.BO')":283.7270136133,
+    "('Low', 'POWERGRID.BO')":280.3340789151,
+    "('Open', 'POWERGRID.BO')":282.1534782458,
+    "('Volume', 'POWERGRID.BO')":1634052
+  },
+  {
+    "('Date', '')":"2025-09-15",
+    "('Close', 'POWERGRID.BO')":281.6617736816,
+    "('High', 'POWERGRID.BO')":284.1204135183,
+    "('Low', 'POWERGRID.BO')":281.1208849227,
+    "('Open', 'POWERGRID.BO')":283.2353091796,
+    "('Volume', 'POWERGRID.BO')":156089
+  },
+  {
+    "('Date', '')":"2025-09-16",
+    "('Close', 'POWERGRID.BO')":283.5795288086,
+    "('High', 'POWERGRID.BO')":285.153064329,
+    "('Low', 'POWERGRID.BO')":281.5142653138,
+    "('Open', 'POWERGRID.BO')":281.5142653138,
+    "('Volume', 'POWERGRID.BO')":292082
+  },
+  {
+    "('Date', '')":"2025-09-17",
+    "('Close', 'POWERGRID.BO')":282.3993530273,
+    "('High', 'POWERGRID.BO')":284.5629679921,
+    "('Low', 'POWERGRID.BO')":281.317545545,
+    "('Open', 'POWERGRID.BO')":283.8745368635,
+    "('Volume', 'POWERGRID.BO')":148177
+  },
+  {
+    "('Date', '')":"2025-09-18",
+    "('Close', 'POWERGRID.BO')":284.3171081543,
+    "('High', 'POWERGRID.BO')":284.95634849,
+    "('Low', 'POWERGRID.BO')":281.3667404391,
+    "('Open', 'POWERGRID.BO')":282.2518447511,
+    "('Volume', 'POWERGRID.BO')":1301690
+  },
+  {
+    "('Date', '')":"2025-09-19",
+    "('Close', 'POWERGRID.BO')":281.5634155273,
+    "('High', 'POWERGRID.BO')":285.4972391743,
+    "('Low', 'POWERGRID.BO')":280.2849348472,
+    "('Open', 'POWERGRID.BO')":284.3662708784,
+    "('Volume', 'POWERGRID.BO')":294602
+  },
+  {
+    "('Date', '')":"2025-09-22",
+    "('Close', 'POWERGRID.BO')":281.7601013184,
+    "('High', 'POWERGRID.BO')":283.4811490577,
+    "('Low', 'POWERGRID.BO')":281.1208610177,
+    "('Open', 'POWERGRID.BO')":281.6617497307,
+    "('Volume', 'POWERGRID.BO')":167797
+  },
+  {
+    "('Date', '')":"2025-09-23",
+    "('Close', 'POWERGRID.BO')":283.825378418,
+    "('High', 'POWERGRID.BO')":284.218754775,
+    "('Low', 'POWERGRID.BO')":280.727498339,
+    "('Open', 'POWERGRID.BO')":283.2352988761,
+    "('Volume', 'POWERGRID.BO')":93704
+  },
+  {
+    "('Date', '')":"2025-09-24",
+    "('Close', 'POWERGRID.BO')":288.4476013184,
+    "('High', 'POWERGRID.BO')":289.6277603947,
+    "('Low', 'POWERGRID.BO')":282.2518411995,
+    "('Open', 'POWERGRID.BO')":283.530321855,
+    "('Volume', 'POWERGRID.BO')":540216
+  },
+  {
+    "('Date', '')":"2025-09-25",
+    "('Close', 'POWERGRID.BO')":279.645690918,
+    "('High', 'POWERGRID.BO')":289.4802499092,
+    "('Low', 'POWERGRID.BO')":278.8589081911,
+    "('Open', 'POWERGRID.BO')":288.3492816277,
+    "('Volume', 'POWERGRID.BO')":362669
+  },
+  {
+    "('Date', '')":"2025-09-26",
+    "('Close', 'POWERGRID.BO')":277.4329223633,
+    "('High', 'POWERGRID.BO')":279.3014826177,
+    "('Low', 'POWERGRID.BO')":275.5643621089,
+    "('Open', 'POWERGRID.BO')":279.0064578454,
+    "('Volume', 'POWERGRID.BO')":1376566
+  },
+  {
+    "('Date', '')":"2025-09-29",
+    "('Close', 'POWERGRID.BO')":275.9577331543,
+    "('High', 'POWERGRID.BO')":281.2683890428,
+    "('Low', 'POWERGRID.BO')":275.3676536083,
+    "('Open', 'POWERGRID.BO')":278.3180213255,
+    "('Volume', 'POWERGRID.BO')":100943
+  },
+  {
+    "('Date', '')":"2025-09-30",
+    "('Close', 'POWERGRID.BO')":275.466003418,
+    "('High', 'POWERGRID.BO')":281.2683872218,
+    "('Low', 'POWERGRID.BO')":274.4825475186,
+    "('Open', 'POWERGRID.BO')":276.8919964644,
+    "('Volume', 'POWERGRID.BO')":220002
+  },
+  {
+    "('Date', '')":"2025-10-01",
+    "('Close', 'POWERGRID.BO')":276.105255127,
+    "('High', 'POWERGRID.BO')":278.1213277987,
+    "('Low', 'POWERGRID.BO')":275.367663172,
+    "('Open', 'POWERGRID.BO')":276.3511191119,
+    "('Volume', 'POWERGRID.BO')":662994
+  },
+  {
+    "('Date', '')":"2025-10-03",
+    "('Close', 'POWERGRID.BO')":284.8088378906,
+    "('High', 'POWERGRID.BO')":285.4480782304,
+    "('Low', 'POWERGRID.BO')":275.9085438865,
+    "('Open', 'POWERGRID.BO')":275.9085438865,
+    "('Volume', 'POWERGRID.BO')":1595896
+  },
+  {
+    "('Date', '')":"2025-10-06",
+    "('Close', 'POWERGRID.BO')":282.0551452637,
+    "('High', 'POWERGRID.BO')":284.1204086939,
+    "('Low', 'POWERGRID.BO')":279.9407210426,
+    "('Open', 'POWERGRID.BO')":284.1204086939,
+    "('Volume', 'POWERGRID.BO')":147923
+  },
+  {
+    "('Date', '')":"2025-10-07",
+    "('Close', 'POWERGRID.BO')":284.4154663086,
+    "('High', 'POWERGRID.BO')":287.5133464784,
+    "('Low', 'POWERGRID.BO')":282.4977152444,
+    "('Open', 'POWERGRID.BO')":285.3497314323,
+    "('Volume', 'POWERGRID.BO')":777848
+  },
+  {
+    "('Date', '')":"2025-10-08",
+    "('Close', 'POWERGRID.BO')":280.7766723633,
+    "('High', 'POWERGRID.BO')":285.6447912972,
+    "('Low', 'POWERGRID.BO')":279.9899196122,
+    "('Open', 'POWERGRID.BO')":285.2022241168,
+    "('Volume', 'POWERGRID.BO')":411570
+  },
+  {
+    "('Date', '')":"2025-10-09",
+    "('Close', 'POWERGRID.BO')":281.4158935547,
+    "('High', 'POWERGRID.BO')":282.2026762649,
+    "('Low', 'POWERGRID.BO')":277.6787732225,
+    "('Open', 'POWERGRID.BO')":279.7931973581,
+    "('Volume', 'POWERGRID.BO')":376360
+  },
+  {
+    "('Date', '')":"2025-10-10",
+    "('Close', 'POWERGRID.BO')":284.3662719727,
+    "('High', 'POWERGRID.BO')":286.4315353978,
+    "('Low', 'POWERGRID.BO')":280.1865843317,
+    "('Open', 'POWERGRID.BO')":280.1865843317,
+    "('Volume', 'POWERGRID.BO')":251303
+  },
+  {
+    "('Date', '')":"2025-10-13",
+    "('Close', 'POWERGRID.BO')":281.6617736816,
+    "('High', 'POWERGRID.BO')":283.1369575836,
+    "('Low', 'POWERGRID.BO')":280.2849413757,
+    "('Open', 'POWERGRID.BO')":280.6291569553,
+    "('Volume', 'POWERGRID.BO')":690383
+  },
+  {
+    "('Date', '')":"2025-10-14",
+    "('Close', 'POWERGRID.BO')":282.5960693359,
+    "('High', 'POWERGRID.BO')":283.0386064997,
+    "('Low', 'POWERGRID.BO')":280.6291574631,
+    "('Open', 'POWERGRID.BO')":282.0551505633,
+    "('Volume', 'POWERGRID.BO')":813330
+  },
+  {
+    "('Date', '')":"2025-10-15",
+    "('Close', 'POWERGRID.BO')":286.6282348633,
+    "('High', 'POWERGRID.BO')":288.4476042732,
+    "('Low', 'POWERGRID.BO')":282.4485472766,
+    "('Open', 'POWERGRID.BO')":283.0385968081,
+    "('Volume', 'POWERGRID.BO')":205759
+  },
+  {
+    "('Date', '')":"2025-10-16",
+    "('Close', 'POWERGRID.BO')":286.9724121094,
+    "('High', 'POWERGRID.BO')":288.4967867221,
+    "('Low', 'POWERGRID.BO')":285.5955798879,
+    "('Open', 'POWERGRID.BO')":286.9232513207,
+    "('Volume', 'POWERGRID.BO')":5885518
+  },
+  {
+    "('Date', '')":"2025-10-17",
+    "('Close', 'POWERGRID.BO')":284.858001709,
+    "('High', 'POWERGRID.BO')":286.6282403756,
+    "('Low', 'POWERGRID.BO')":283.2844662318,
+    "('Open', 'POWERGRID.BO')":285.9398092254,
+    "('Volume', 'POWERGRID.BO')":1107876
+  },
+  {
+    "('Date', '')":"2025-10-20",
+    "('Close', 'POWERGRID.BO')":282.9402770996,
+    "('High', 'POWERGRID.BO')":287.1691255044,
+    "('Low', 'POWERGRID.BO')":282.3501975515,
+    "('Open', 'POWERGRID.BO')":285.9398056178,
+    "('Volume', 'POWERGRID.BO')":222125
+  },
+  {
+    "('Date', '')":"2025-10-21",
+    "('Close', 'POWERGRID.BO')":283.9729003906,
+    "('High', 'POWERGRID.BO')":284.8088439354,
+    "('Low', 'POWERGRID.BO')":283.18614765,
+    "('Open', 'POWERGRID.BO')":283.18614765,
+    "('Volume', 'POWERGRID.BO')":28251
+  },
+  {
+    "('Date', '')":"2025-10-23",
+    "('Close', 'POWERGRID.BO')":284.858001709,
+    "('High', 'POWERGRID.BO')":286.3823763952,
+    "('Low', 'POWERGRID.BO')":282.2026887281,
+    "('Open', 'POWERGRID.BO')":282.2026887281,
+    "('Volume', 'POWERGRID.BO')":1099767
+  },
+  {
+    "('Date', '')":"2025-10-24",
+    "('Close', 'POWERGRID.BO')":283.776184082,
+    "('High', 'POWERGRID.BO')":285.8906382484,
+    "('Low', 'POWERGRID.BO')":281.7601115195,
+    "('Open', 'POWERGRID.BO')":284.8579915599,
+    "('Volume', 'POWERGRID.BO')":4596893
+  },
+  {
+    "('Date', '')":"2025-10-27",
+    "('Close', 'POWERGRID.BO')":286.2840270996,
+    "('High', 'POWERGRID.BO')":287.8575625895,
+    "('Low', 'POWERGRID.BO')":283.5795232933,
+    "('Open', 'POWERGRID.BO')":283.8253872757,
+    "('Volume', 'POWERGRID.BO')":277682
+  },
+  {
+    "('Date', '')":"2025-10-28",
+    "('Close', 'POWERGRID.BO')":283.6286621094,
+    "('High', 'POWERGRID.BO')":287.8083494862,
+    "('Low', 'POWERGRID.BO')":282.1534783293,
+    "('Open', 'POWERGRID.BO')":285.9889501549,
+    "('Volume', 'POWERGRID.BO')":774898
+  },
+  {
+    "('Date', '')":"2025-10-29",
+    "('Close', 'POWERGRID.BO')":290.9554443359,
+    "('High', 'POWERGRID.BO')":291.7913878831,
+    "('Low', 'POWERGRID.BO')":283.8745495997,
+    "('Open', 'POWERGRID.BO')":283.8745495997,
+    "('Volume', 'POWERGRID.BO')":545231
+  },
+  {
+    "('Date', '')":"2025-10-30",
+    "('Close', 'POWERGRID.BO')":286.7265625,
+    "('High', 'POWERGRID.BO')":291.2013049597,
+    "('Low', 'POWERGRID.BO')":286.1856737471,
+    "('Open', 'POWERGRID.BO')":291.1029533648,
+    "('Volume', 'POWERGRID.BO')":402519
+  },
+  {
+    "('Date', '')":"2025-10-31",
+    "('Close', 'POWERGRID.BO')":283.3828125,
+    "('High', 'POWERGRID.BO')":286.7757473711,
+    "('Low', 'POWERGRID.BO')":282.0551410282,
+    "('Open', 'POWERGRID.BO')":286.4806925925,
+    "('Volume', 'POWERGRID.BO')":264940
+  },
+  {
+    "('Date', '')":"2025-11-03",
+    "('Close', 'POWERGRID.BO')":283.2352905273,
+    "('High', 'POWERGRID.BO')":285.4480662346,
+    "('Low', 'POWERGRID.BO')":282.3993470354,
+    "('Open', 'POWERGRID.BO')":283.7761792507,
+    "('Volume', 'POWERGRID.BO')":230787
+  },
+  {
+    "('Date', '')":"2025-11-04",
+    "('Close', 'POWERGRID.BO')":274.384185791,
+    "('High', 'POWERGRID.BO')":280.1374085924,
+    "('Low', 'POWERGRID.BO')":273.4990815168,
+    "('Open', 'POWERGRID.BO')":279.3014651063,
+    "('Volume', 'POWERGRID.BO')":1200775
+  },
+  {
+    "('Date', '')":"2025-11-06",
+    "('Close', 'POWERGRID.BO')":265.7297973633,
+    "('High', 'POWERGRID.BO')":274.1383333405,
+    "('Low', 'POWERGRID.BO')":265.3855817942,
+    "('Open', 'POWERGRID.BO')":274.1383333405,
+    "('Volume', 'POWERGRID.BO')":770181
+  },
+  {
+    "('Date', '')":"2025-11-07",
+    "('Close', 'POWERGRID.BO')":267.5,
+    "('High', 'POWERGRID.BO')":267.9425671521,
+    "('Low', 'POWERGRID.BO')":264.4021199731,
+    "('Open', 'POWERGRID.BO')":265.7297914168,
+    "('Volume', 'POWERGRID.BO')":319150
+  },
+  {
+    "('Date', '')":"2025-11-10",
+    "('Close', 'POWERGRID.BO')":268.299987793,
+    "('High', 'POWERGRID.BO')":270.5,
+    "('Low', 'POWERGRID.BO')":266.549987793,
+    "('Open', 'POWERGRID.BO')":268.8999938965,
+    "('Volume', 'POWERGRID.BO')":984223
+  },
+  {
+    "('Date', '')":"2025-11-11",
+    "('Close', 'POWERGRID.BO')":267.700012207,
+    "('High', 'POWERGRID.BO')":269.1000061035,
+    "('Low', 'POWERGRID.BO')":264.6000061035,
+    "('Open', 'POWERGRID.BO')":268.5,
+    "('Volume', 'POWERGRID.BO')":269303
+  },
+  {
+    "('Date', '')":"2025-11-12",
+    "('Close', 'POWERGRID.BO')":267.0,
+    "('High', 'POWERGRID.BO')":270.3999938965,
+    "('Low', 'POWERGRID.BO')":266.6499938965,
+    "('Open', 'POWERGRID.BO')":268.450012207,
+    "('Volume', 'POWERGRID.BO')":413806
+  },
+  {
+    "('Date', '')":"2025-11-13",
+    "('Close', 'POWERGRID.BO')":269.950012207,
+    "('High', 'POWERGRID.BO')":270.450012207,
+    "('Low', 'POWERGRID.BO')":265.8999938965,
+    "('Open', 'POWERGRID.BO')":267.0,
+    "('Volume', 'POWERGRID.BO')":550855
+  }
+]

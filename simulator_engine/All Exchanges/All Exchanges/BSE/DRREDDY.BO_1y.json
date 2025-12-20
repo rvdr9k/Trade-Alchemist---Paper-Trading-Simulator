@@ -1,0 +1,1986 @@
+[
+  {
+    "('Date', '')":"2024-11-13",
+    "('Close', 'DRREDDY.BO')":1237.8502197266,
+    "('High', 'DRREDDY.BO')":1255.5381022157,
+    "('Low', 'DRREDDY.BO')":1231.1924880453,
+    "('Open', 'DRREDDY.BO')":1251.3646168783,
+    "('Volume', 'DRREDDY.BO')":53919
+  },
+  {
+    "('Date', '')":"2024-11-14",
+    "('Close', 'DRREDDY.BO')":1218.3240966797,
+    "('High', 'DRREDDY.BO')":1246.6445039816,
+    "('Low', 'DRREDDY.BO')":1214.5479938523,
+    "('Open', 'DRREDDY.BO')":1246.6445039816,
+    "('Volume', 'DRREDDY.BO')":35384
+  },
+  {
+    "('Date', '')":"2024-11-18",
+    "('Close', 'DRREDDY.BO')":1185.830078125,
+    "('High', 'DRREDDY.BO')":1213.3058658502,
+    "('Low', 'DRREDDY.BO')":1163.6209409587,
+    "('Open', 'DRREDDY.BO')":1188.0658997451,
+    "('Volume', 'DRREDDY.BO')":62434
+  },
+  {
+    "('Date', '')":"2024-11-19",
+    "('Close', 'DRREDDY.BO')":1206.3002929688,
+    "('High', 'DRREDDY.BO')":1223.9881754844,
+    "('Low', 'DRREDDY.BO')":1179.718857049,
+    "('Open', 'DRREDDY.BO')":1183.5446934652,
+    "('Volume', 'DRREDDY.BO')":31541
+  },
+  {
+    "('Date', '')":"2024-11-21",
+    "('Close', 'DRREDDY.BO')":1187.0225830078,
+    "('High', 'DRREDDY.BO')":1199.5927718999,
+    "('Low', 'DRREDDY.BO')":1167.5957289546,
+    "('Open', 'DRREDDY.BO')":1167.6454623996,
+    "('Volume', 'DRREDDY.BO')":64949
+  },
+  {
+    "('Date', '')":"2024-11-22",
+    "('Close', 'DRREDDY.BO')":1206.2507324219,
+    "('High', 'DRREDDY.BO')":1215.1442862064,
+    "('Low', 'DRREDDY.BO')":1186.4761063885,
+    "('Open', 'DRREDDY.BO')":1187.5195384196,
+    "('Volume', 'DRREDDY.BO')":18149
+  },
+  {
+    "('Date', '')":"2024-11-25",
+    "('Close', 'DRREDDY.BO')":1201.3815917969,
+    "('High', 'DRREDDY.BO')":1234.3227242193,
+    "('Low', 'DRREDDY.BO')":1198.2018048386,
+    "('Open', 'DRREDDY.BO')":1229.5529224808,
+    "('Volume', 'DRREDDY.BO')":92172
+  },
+  {
+    "('Date', '')":"2024-11-26",
+    "('Close', 'DRREDDY.BO')":1201.2822265625,
+    "('High', 'DRREDDY.BO')":1210.1261681033,
+    "('Low', 'DRREDDY.BO')":1196.4130793051,
+    "('Open', 'DRREDDY.BO')":1201.3815721594,
+    "('Volume', 'DRREDDY.BO')":60979
+  },
+  {
+    "('Date', '')":"2024-11-27",
+    "('Close', 'DRREDDY.BO')":1192.9350585938,
+    "('High', 'DRREDDY.BO')":1209.6788541897,
+    "('Low', 'DRREDDY.BO')":1190.1526542515,
+    "('Open', 'DRREDDY.BO')":1209.6788541897,
+    "('Volume', 'DRREDDY.BO')":47329
+  },
+  {
+    "('Date', '')":"2024-11-28",
+    "('Close', 'DRREDDY.BO')":1185.1346435547,
+    "('High', 'DRREDDY.BO')":1202.7727934666,
+    "('Low', 'DRREDDY.BO')":1181.1598492083,
+    "('Open', 'DRREDDY.BO')":1193.0842322474,
+    "('Volume', 'DRREDDY.BO')":67691
+  },
+  {
+    "('Date', '')":"2024-11-29",
+    "('Close', 'DRREDDY.BO')":1194.7734375,
+    "('High', 'DRREDDY.BO')":1210.7719600309,
+    "('Low', 'DRREDDY.BO')":1191.9414208686,
+    "('Open', 'DRREDDY.BO')":1199.8910093363,
+    "('Volume', 'DRREDDY.BO')":46760
+  },
+  {
+    "('Date', '')":"2024-12-02",
+    "('Close', 'DRREDDY.BO')":1213.7530517578,
+    "('High', 'DRREDDY.BO')":1217.6782338316,
+    "('Low', 'DRREDDY.BO')":1194.8231670615,
+    "('Open', 'DRREDDY.BO')":1202.4249852691,
+    "('Volume', 'DRREDDY.BO')":69559
+  },
+  {
+    "('Date', '')":"2024-12-03",
+    "('Close', 'DRREDDY.BO')":1217.3800048828,
+    "('High', 'DRREDDY.BO')":1221.9509937106,
+    "('Low', 'DRREDDY.BO')":1211.318468309,
+    "('Open', 'DRREDDY.BO')":1221.9509937106,
+    "('Volume', 'DRREDDY.BO')":13198
+  },
+  {
+    "('Date', '')":"2024-12-04",
+    "('Close', 'DRREDDY.BO')":1207.9399414062,
+    "('High', 'DRREDDY.BO')":1220.3611733665,
+    "('Low', 'DRREDDY.BO')":1202.3752537483,
+    "('Open', 'DRREDDY.BO')":1220.3611733665,
+    "('Volume', 'DRREDDY.BO')":32215
+  },
+  {
+    "('Date', '')":"2024-12-05",
+    "('Close', 'DRREDDY.BO')":1232.3848876953,
+    "('High', 'DRREDDY.BO')":1241.2785624588,
+    "('Low', 'DRREDDY.BO')":1201.7293118247,
+    "('Open', 'DRREDDY.BO')":1212.2624921475,
+    "('Volume', 'DRREDDY.BO')":75764
+  },
+  {
+    "('Date', '')":"2024-12-06",
+    "('Close', 'DRREDDY.BO')":1245.7502441406,
+    "('High', 'DRREDDY.BO')":1247.0917129581,
+    "('Low', 'DRREDDY.BO')":1229.453563233,
+    "('Open', 'DRREDDY.BO')":1240.8810968577,
+    "('Volume', 'DRREDDY.BO')":78506
+  },
+  {
+    "('Date', '')":"2024-12-09",
+    "('Close', 'DRREDDY.BO')":1246.8929443359,
+    "('High', 'DRREDDY.BO')":1253.8488339364,
+    "('Low', 'DRREDDY.BO')":1236.1609518604,
+    "('Open', 'DRREDDY.BO')":1253.3519846793,
+    "('Volume', 'DRREDDY.BO')":41990
+  },
+  {
+    "('Date', '')":"2024-12-10",
+    "('Close', 'DRREDDY.BO')":1232.1364746094,
+    "('High', 'DRREDDY.BO')":1246.8929951903,
+    "('Low', 'DRREDDY.BO')":1225.2303181734,
+    "('Open', 'DRREDDY.BO')":1246.8929951903,
+    "('Volume', 'DRREDDY.BO')":83126
+  },
+  {
+    "('Date', '')":"2024-12-11",
+    "('Close', 'DRREDDY.BO')":1230.6458740234,
+    "('High', 'DRREDDY.BO')":1239.9370521542,
+    "('Low', 'DRREDDY.BO')":1218.771225322,
+    "('Open', 'DRREDDY.BO')":1239.9370521542,
+    "('Volume', 'DRREDDY.BO')":40679
+  },
+  {
+    "('Date', '')":"2024-12-12",
+    "('Close', 'DRREDDY.BO')":1238.0986328125,
+    "('High', 'DRREDDY.BO')":1241.8747357405,
+    "('Low', 'DRREDDY.BO')":1218.6718993649,
+    "('Open', 'DRREDDY.BO')":1238.0490206667,
+    "('Volume', 'DRREDDY.BO')":16433
+  },
+  {
+    "('Date', '')":"2024-12-13",
+    "('Close', 'DRREDDY.BO')":1238.4465332031,
+    "('High', 'DRREDDY.BO')":1242.1231692637,
+    "('Low', 'DRREDDY.BO')":1219.2681029493,
+    "('Open', 'DRREDDY.BO')":1235.1175460686,
+    "('Volume', 'DRREDDY.BO')":67415
+  },
+  {
+    "('Date', '')":"2024-12-16",
+    "('Close', 'DRREDDY.BO')":1261.8978271484,
+    "('High', 'DRREDDY.BO')":1264.8789228321,
+    "('Low', 'DRREDDY.BO')":1237.4031333542,
+    "('Open', 'DRREDDY.BO')":1238.446565364,
+    "('Volume', 'DRREDDY.BO')":24443
+  },
+  {
+    "('Date', '')":"2024-12-17",
+    "('Close', 'DRREDDY.BO')":1240.1357421875,
+    "('High', 'DRREDDY.BO')":1262.3946131024,
+    "('Low', 'DRREDDY.BO')":1235.9125235142,
+    "('Open', 'DRREDDY.BO')":1261.9473759916,
+    "('Volume', 'DRREDDY.BO')":29114
+  },
+  {
+    "('Date', '')":"2024-12-18",
+    "('Close', 'DRREDDY.BO')":1267.0153808594,
+    "('High', 'DRREDDY.BO')":1272.629680609,
+    "('Low', 'DRREDDY.BO')":1242.2225293313,
+    "('Open', 'DRREDDY.BO')":1259.9600241349,
+    "('Volume', 'DRREDDY.BO')":67453
+  },
+  {
+    "('Date', '')":"2024-12-19",
+    "('Close', 'DRREDDY.BO')":1317.6442871094,
+    "('High', 'DRREDDY.BO')":1322.0661971694,
+    "('Low', 'DRREDDY.BO')":1262.0469013434,
+    "('Open', 'DRREDDY.BO')":1262.0469013434,
+    "('Volume', 'DRREDDY.BO')":113918
+  },
+  {
+    "('Date', '')":"2024-12-20",
+    "('Close', 'DRREDDY.BO')":1333.9906005859,
+    "('High', 'DRREDDY.BO')":1359.3796476424,
+    "('Low', 'DRREDDY.BO')":1310.0424892408,
+    "('Open', 'DRREDDY.BO')":1320.5756698526,
+    "('Volume', 'DRREDDY.BO')":206466
+  },
+  {
+    "('Date', '')":"2024-12-23",
+    "('Close', 'DRREDDY.BO')":1332.3510742188,
+    "('High', 'DRREDDY.BO')":1360.5224040595,
+    "('Low', 'DRREDDY.BO')":1321.9172393665,
+    "('Open', 'DRREDDY.BO')":1360.5224040595,
+    "('Volume', 'DRREDDY.BO')":62748
+  },
+  {
+    "('Date', '')":"2024-12-24",
+    "('Close', 'DRREDDY.BO')":1342.7351074219,
+    "('High', 'DRREDDY.BO')":1356.3984618915,
+    "('Low', 'DRREDDY.BO')":1328.2767456263,
+    "('Open', 'DRREDDY.BO')":1341.3936386978,
+    "('Volume', 'DRREDDY.BO')":442277
+  },
+  {
+    "('Date', '')":"2024-12-26",
+    "('Close', 'DRREDDY.BO')":1346.6105957031,
+    "('High', 'DRREDDY.BO')":1351.5790883845,
+    "('Low', 'DRREDDY.BO')":1333.7421268776,
+    "('Open', 'DRREDDY.BO')":1339.5056269085,
+    "('Volume', 'DRREDDY.BO')":49164
+  },
+  {
+    "('Date', '')":"2024-12-27",
+    "('Close', 'DRREDDY.BO')":1380.5950927734,
+    "('High', 'DRREDDY.BO')":1389.886150202,
+    "('Low', 'DRREDDY.BO')":1338.4126367284,
+    "('Open', 'DRREDDY.BO')":1346.7597290298,
+    "('Volume', 'DRREDDY.BO')":63072
+  },
+  {
+    "('Date', '')":"2024-12-30",
+    "('Close', 'DRREDDY.BO')":1368.8695068359,
+    "('High', 'DRREDDY.BO')":1382.2347040157,
+    "('Low', 'DRREDDY.BO')":1364.2487842481,
+    "('Open', 'DRREDDY.BO')":1382.2347040157,
+    "('Volume', 'DRREDDY.BO')":34773
+  },
+  {
+    "('Date', '')":"2024-12-31",
+    "('Close', 'DRREDDY.BO')":1379.501953125,
+    "('High', 'DRREDDY.BO')":1386.2094180511,
+    "('Low', 'DRREDDY.BO')":1359.3795583468,
+    "('Open', 'DRREDDY.BO')":1363.3046189313,
+    "('Volume', 'DRREDDY.BO')":63910
+  },
+  {
+    "('Date', '')":"2025-01-01",
+    "('Close', 'DRREDDY.BO')":1360.8701171875,
+    "('High', 'DRREDDY.BO')":1382.1849018278,
+    "('Low', 'DRREDDY.BO')":1347.7036118551,
+    "('Open', 'DRREDDY.BO')":1382.1849018278,
+    "('Volume', 'DRREDDY.BO')":34228
+  },
+  {
+    "('Date', '')":"2025-01-02",
+    "('Close', 'DRREDDY.BO')":1365.0435791016,
+    "('High', 'DRREDDY.BO')":1378.1107386193,
+    "('Low', 'DRREDDY.BO')":1361.2178641419,
+    "('Open', 'DRREDDY.BO')":1361.4166766223,
+    "('Volume', 'DRREDDY.BO')":45458
+  },
+  {
+    "('Date', '')":"2025-01-03",
+    "('Close', 'DRREDDY.BO')":1344.2257080078,
+    "('High', 'DRREDDY.BO')":1370.1116036497,
+    "('Low', 'DRREDDY.BO')":1338.9094450473,
+    "('Open', 'DRREDDY.BO')":1367.3291992007,
+    "('Volume', 'DRREDDY.BO')":28316
+  },
+  {
+    "('Date', '')":"2025-01-06",
+    "('Close', 'DRREDDY.BO')":1342.1389160156,
+    "('High', 'DRREDDY.BO')":1356.3487319198,
+    "('Low', 'DRREDDY.BO')":1324.8485376914,
+    "('Open', 'DRREDDY.BO')":1356.3487319198,
+    "('Volume', 'DRREDDY.BO')":319041
+  },
+  {
+    "('Date', '')":"2025-01-07",
+    "('Close', 'DRREDDY.BO')":1342.23828125,
+    "('High', 'DRREDDY.BO')":1364.3480734083,
+    "('Low', 'DRREDDY.BO')":1339.0087610471,
+    "('Open', 'DRREDDY.BO')":1342.1389356578,
+    "('Volume', 'DRREDDY.BO')":116081
+  },
+  {
+    "('Date', '')":"2025-01-08",
+    "('Close', 'DRREDDY.BO')":1361.9631347656,
+    "('High', 'DRREDDY.BO')":1395.7488836398,
+    "('Low', 'DRREDDY.BO')":1352.9702361548,
+    "('Open', 'DRREDDY.BO')":1362.2612928349,
+    "('Volume', 'DRREDDY.BO')":81932
+  },
+  {
+    "('Date', '')":"2025-01-09",
+    "('Close', 'DRREDDY.BO')":1362.9569091797,
+    "('High', 'DRREDDY.BO')":1373.7882476529,
+    "('Low', 'DRREDDY.BO')":1355.8519402752,
+    "('Open', 'DRREDDY.BO')":1372.2976998254,
+    "('Volume', 'DRREDDY.BO')":18447
+  },
+  {
+    "('Date', '')":"2025-01-10",
+    "('Close', 'DRREDDY.BO')":1345.6665039062,
+    "('High', 'DRREDDY.BO')":1376.2724672212,
+    "('Low', 'DRREDDY.BO')":1343.8779193288,
+    "('Open', 'DRREDDY.BO')":1356.3984965754,
+    "('Volume', 'DRREDDY.BO')":51858
+  },
+  {
+    "('Date', '')":"2025-01-13",
+    "('Close', 'DRREDDY.BO')":1325.7429199219,
+    "('High', 'DRREDDY.BO')":1345.4678115099,
+    "('Low', 'DRREDDY.BO')":1322.8611699206,
+    "('Open', 'DRREDDY.BO')":1345.4678115099,
+    "('Volume', 'DRREDDY.BO')":31793
+  },
+  {
+    "('Date', '')":"2025-01-14",
+    "('Close', 'DRREDDY.BO')":1328.873046875,
+    "('High', 'DRREDDY.BO')":1339.6049178484,
+    "('Low', 'DRREDDY.BO')":1315.4083837373,
+    "('Open', 'DRREDDY.BO')":1325.7428723532,
+    "('Volume', 'DRREDDY.BO')":523713
+  },
+  {
+    "('Date', '')":"2025-01-15",
+    "('Close', 'DRREDDY.BO')":1330.7609863281,
+    "('High', 'DRREDDY.BO')":1337.319493487,
+    "('Low', 'DRREDDY.BO')":1306.6141854926,
+    "('Open', 'DRREDDY.BO')":1331.5559936507,
+    "('Volume', 'DRREDDY.BO')":15847
+  },
+  {
+    "('Date', '')":"2025-01-16",
+    "('Close', 'DRREDDY.BO')":1295.0874023438,
+    "('High', 'DRREDDY.BO')":1336.5245844336,
+    "('Low', 'DRREDDY.BO')":1288.7277071985,
+    "('Open', 'DRREDDY.BO')":1329.0718451152,
+    "('Volume', 'DRREDDY.BO')":49558
+  },
+  {
+    "('Date', '')":"2025-01-17",
+    "('Close', 'DRREDDY.BO')":1301.5959472656,
+    "('High', 'DRREDDY.BO')":1311.9304358568,
+    "('Low', 'DRREDDY.BO')":1279.5358892335,
+    "('Open', 'DRREDDY.BO')":1291.8080413663,
+    "('Volume', 'DRREDDY.BO')":41396
+  },
+  {
+    "('Date', '')":"2025-01-20",
+    "('Close', 'DRREDDY.BO')":1293.8452148438,
+    "('High', 'DRREDDY.BO')":1298.7142405823,
+    "('Low', 'DRREDDY.BO')":1285.8458931856,
+    "('Open', 'DRREDDY.BO')":1298.6646284367,
+    "('Volume', 'DRREDDY.BO')":20238
+  },
+  {
+    "('Date', '')":"2025-01-21",
+    "('Close', 'DRREDDY.BO')":1280.3308105469,
+    "('High', 'DRREDDY.BO')":1304.4777331217,
+    "('Low', 'DRREDDY.BO')":1278.1447223216,
+    "('Open', 'DRREDDY.BO')":1294.7891725443,
+    "('Volume', 'DRREDDY.BO')":11996
+  },
+  {
+    "('Date', '')":"2025-01-22",
+    "('Close', 'DRREDDY.BO')":1288.1314697266,
+    "('High', 'DRREDDY.BO')":1300.0558522418,
+    "('Low', 'DRREDDY.BO')":1280.3308391237,
+    "('Open', 'DRREDDY.BO')":1281.1258464784,
+    "('Volume', 'DRREDDY.BO')":36805
+  },
+  {
+    "('Date', '')":"2025-01-23",
+    "('Close', 'DRREDDY.BO')":1281.2252197266,
+    "('High', 'DRREDDY.BO')":1294.7892293906,
+    "('Low', 'DRREDDY.BO')":1266.8663239917,
+    "('Open', 'DRREDDY.BO')":1285.7962088625,
+    "('Volume', 'DRREDDY.BO')":58141
+  },
+  {
+    "('Date', '')":"2025-01-24",
+    "('Close', 'DRREDDY.BO')":1216.9825439453,
+    "('High', 'DRREDDY.BO')":1240.0860348205,
+    "('Low', 'DRREDDY.BO')":1196.0155291747,
+    "('Open', 'DRREDDY.BO')":1240.0860348205,
+    "('Volume', 'DRREDDY.BO')":167661
+  },
+  {
+    "('Date', '')":"2025-01-27",
+    "('Close', 'DRREDDY.BO')":1189.8546142578,
+    "('High', 'DRREDDY.BO')":1226.8698835725,
+    "('Low', 'DRREDDY.BO')":1184.4886180701,
+    "('Open', 'DRREDDY.BO')":1216.9825106662,
+    "('Volume', 'DRREDDY.BO')":61640
+  },
+  {
+    "('Date', '')":"2025-01-28",
+    "('Close', 'DRREDDY.BO')":1172.4151611328,
+    "('High', 'DRREDDY.BO')":1189.8546184795,
+    "('Low', 'DRREDDY.BO')":1157.6587625401,
+    "('Open', 'DRREDDY.BO')":1182.5509587014,
+    "('Volume', 'DRREDDY.BO')":45147
+  },
+  {
+    "('Date', '')":"2025-01-29",
+    "('Close', 'DRREDDY.BO')":1174.4025878906,
+    "('High', 'DRREDDY.BO')":1181.5075566674,
+    "('Low', 'DRREDDY.BO')":1166.6020786607,
+    "('Open', 'DRREDDY.BO')":1181.2591320339,
+    "('Volume', 'DRREDDY.BO')":22642
+  },
+  {
+    "('Date', '')":"2025-01-30",
+    "('Close', 'DRREDDY.BO')":1187.3703613281,
+    "('High', 'DRREDDY.BO')":1196.9595761086,
+    "('Low', 'DRREDDY.BO')":1176.6881024584,
+    "('Open', 'DRREDDY.BO')":1178.0793046179,
+    "('Volume', 'DRREDDY.BO')":36176
+  },
+  {
+    "('Date', '')":"2025-01-31",
+    "('Close', 'DRREDDY.BO')":1209.9273681641,
+    "('High', 'DRREDDY.BO')":1213.7034712929,
+    "('Low', 'DRREDDY.BO')":1187.46980449,
+    "('Open', 'DRREDDY.BO')":1195.4193931393,
+    "('Volume', 'DRREDDY.BO')":37163
+  },
+  {
+    "('Date', '')":"2025-02-01",
+    "('Close', 'DRREDDY.BO')":1197.7049560547,
+    "('High', 'DRREDDY.BO')":1217.3801153069,
+    "('Low', 'DRREDDY.BO')":1192.4880384702,
+    "('Open', 'DRREDDY.BO')":1217.3801153069,
+    "('Volume', 'DRREDDY.BO')":31968
+  },
+  {
+    "('Date', '')":"2025-02-03",
+    "('Close', 'DRREDDY.BO')":1196.4130859375,
+    "('High', 'DRREDDY.BO')":1212.3122631593,
+    "('Low', 'DRREDDY.BO')":1184.7371276653,
+    "('Open', 'DRREDDY.BO')":1184.7371276653,
+    "('Volume', 'DRREDDY.BO')":34732
+  },
+  {
+    "('Date', '')":"2025-02-04",
+    "('Close', 'DRREDDY.BO')":1211.9644775391,
+    "('High', 'DRREDDY.BO')":1224.5347886307,
+    "('Low', 'DRREDDY.BO')":1194.4256736286,
+    "('Open', 'DRREDDY.BO')":1202.32552869,
+    "('Volume', 'DRREDDY.BO')":40048
+  },
+  {
+    "('Date', '')":"2025-02-05",
+    "('Close', 'DRREDDY.BO')":1220.2120361328,
+    "('High', 'DRREDDY.BO')":1225.3793411625,
+    "('Low', 'DRREDDY.BO')":1208.536078647,
+    "('Open', 'DRREDDY.BO')":1222.0504754161,
+    "('Volume', 'DRREDDY.BO')":11784
+  },
+  {
+    "('Date', '')":"2025-02-06",
+    "('Close', 'DRREDDY.BO')":1228.3107910156,
+    "('High', 'DRREDDY.BO')":1246.0980198656,
+    "('Low', 'DRREDDY.BO')":1223.1436069178,
+    "('Open', 'DRREDDY.BO')":1231.2422746086,
+    "('Volume', 'DRREDDY.BO')":52833
+  },
+  {
+    "('Date', '')":"2025-02-07",
+    "('Close', 'DRREDDY.BO')":1232.8321533203,
+    "('High', 'DRREDDY.BO')":1235.5648243838,
+    "('Low', 'DRREDDY.BO')":1218.8706399119,
+    "('Open', 'DRREDDY.BO')":1229.3542083304,
+    "('Volume', 'DRREDDY.BO')":16773
+  },
+  {
+    "('Date', '')":"2025-02-10",
+    "('Close', 'DRREDDY.BO')":1213.1568603516,
+    "('High', 'DRREDDY.BO')":1233.6270263875,
+    "('Low', 'DRREDDY.BO')":1204.3626523729,
+    "('Open', 'DRREDDY.BO')":1233.6270263875,
+    "('Volume', 'DRREDDY.BO')":25314
+  },
+  {
+    "('Date', '')":"2025-02-11",
+    "('Close', 'DRREDDY.BO')":1204.1639404297,
+    "('High', 'DRREDDY.BO')":1214.2996170268,
+    "('Low', 'DRREDDY.BO')":1194.2269550203,
+    "('Open', 'DRREDDY.BO')":1204.4123650649,
+    "('Volume', 'DRREDDY.BO')":14840
+  },
+  {
+    "('Date', '')":"2025-02-12",
+    "('Close', 'DRREDDY.BO')":1208.2380371094,
+    "('High', 'DRREDDY.BO')":1212.3121767217,
+    "('Low', 'DRREDDY.BO')":1195.0217984657,
+    "('Open', 'DRREDDY.BO')":1204.4123221234,
+    "('Volume', 'DRREDDY.BO')":31748
+  },
+  {
+    "('Date', '')":"2025-02-13",
+    "('Close', 'DRREDDY.BO')":1215.5914306641,
+    "('High', 'DRREDDY.BO')":1235.2169761536,
+    "('Low', 'DRREDDY.BO')":1208.3373830513,
+    "('Open', 'DRREDDY.BO')":1208.3373830513,
+    "('Volume', 'DRREDDY.BO')":42185
+  },
+  {
+    "('Date', '')":"2025-02-14",
+    "('Close', 'DRREDDY.BO')":1188.3143310547,
+    "('High', 'DRREDDY.BO')":1222.0504680265,
+    "('Low', 'DRREDDY.BO')":1179.0232743079,
+    "('Open', 'DRREDDY.BO')":1207.8902643527,
+    "('Volume', 'DRREDDY.BO')":48233
+  },
+  {
+    "('Date', '')":"2025-02-17",
+    "('Close', 'DRREDDY.BO')":1192.1898193359,
+    "('High', 'DRREDDY.BO')":1194.4256410434,
+    "('Low', 'DRREDDY.BO')":1176.3899883431,
+    "('Open', 'DRREDDY.BO')":1192.4382439701,
+    "('Volume', 'DRREDDY.BO')":14320
+  },
+  {
+    "('Date', '')":"2025-02-18",
+    "('Close', 'DRREDDY.BO')":1190.3017578125,
+    "('High', 'DRREDDY.BO')":1197.3569931029,
+    "('Low', 'DRREDDY.BO')":1175.4956254813,
+    "('Open', 'DRREDDY.BO')":1197.3569931029,
+    "('Volume', 'DRREDDY.BO')":74595
+  },
+  {
+    "('Date', '')":"2025-02-19",
+    "('Close', 'DRREDDY.BO')":1157.3605957031,
+    "('High', 'DRREDDY.BO')":1169.5334023415,
+    "('Low', 'DRREDDY.BO')":1121.7862621446,
+    "('Open', 'DRREDDY.BO')":1154.5783126807,
+    "('Volume', 'DRREDDY.BO')":112797
+  },
+  {
+    "('Date', '')":"2025-02-20",
+    "('Close', 'DRREDDY.BO')":1163.5216064453,
+    "('High', 'DRREDDY.BO')":1166.1549317498,
+    "('Low', 'DRREDDY.BO')":1149.659439488,
+    "('Open', 'DRREDDY.BO')":1153.2368511551,
+    "('Volume', 'DRREDDY.BO')":47106
+  },
+  {
+    "('Date', '')":"2025-02-21",
+    "('Close', 'DRREDDY.BO')":1144.6910400391,
+    "('High', 'DRREDDY.BO')":1164.2669750053,
+    "('Low', 'DRREDDY.BO')":1138.7785819603,
+    "('Open', 'DRREDDY.BO')":1164.2172415554,
+    "('Volume', 'DRREDDY.BO')":133410
+  },
+  {
+    "('Date', '')":"2025-02-24",
+    "('Close', 'DRREDDY.BO')":1157.4104003906,
+    "('High', 'DRREDDY.BO')":1166.552378643,
+    "('Low', 'DRREDDY.BO')":1137.8345872346,
+    "('Open', 'DRREDDY.BO')":1137.8345872346,
+    "('Volume', 'DRREDDY.BO')":81580
+  },
+  {
+    "('Date', '')":"2025-02-25",
+    "('Close', 'DRREDDY.BO')":1119.451171875,
+    "('High', 'DRREDDY.BO')":1167.3971278484,
+    "('Low', 'DRREDDY.BO')":1116.1221846266,
+    "('Open', 'DRREDDY.BO')":1167.3971278484,
+    "('Volume', 'DRREDDY.BO')":618672
+  },
+  {
+    "('Date', '')":"2025-02-27",
+    "('Close', 'DRREDDY.BO')":1118.8051757812,
+    "('High', 'DRREDDY.BO')":1128.9905855007,
+    "('Low', 'DRREDDY.BO')":1108.6197660618,
+    "('Open', 'DRREDDY.BO')":1124.7176333906,
+    "('Volume', 'DRREDDY.BO')":39785
+  },
+  {
+    "('Date', '')":"2025-02-28",
+    "('Close', 'DRREDDY.BO')":1110.6071777344,
+    "('High', 'DRREDDY.BO')":1121.8856317025,
+    "('Low', 'DRREDDY.BO')":1098.0368671668,
+    "('Open', 'DRREDDY.BO')":1118.8051905435,
+    "('Volume', 'DRREDDY.BO')":58249
+  },
+  {
+    "('Date', '')":"2025-03-03",
+    "('Close', 'DRREDDY.BO')":1112.7436523438,
+    "('High', 'DRREDDY.BO')":1122.8793287376,
+    "('Low', 'DRREDDY.BO')":1097.5897498984,
+    "('Open', 'DRREDDY.BO')":1110.6071762634,
+    "('Volume', 'DRREDDY.BO')":35991
+  },
+  {
+    "('Date', '')":"2025-03-04",
+    "('Close', 'DRREDDY.BO')":1113.1411132812,
+    "('High', 'DRREDDY.BO')":1117.3147201447,
+    "('Low', 'DRREDDY.BO')":1098.1362888152,
+    "('Open', 'DRREDDY.BO')":1098.1362888152,
+    "('Volume', 'DRREDDY.BO')":21575
+  },
+  {
+    "('Date', '')":"2025-03-05",
+    "('Close', 'DRREDDY.BO')":1119.451171875,
+    "('High', 'DRREDDY.BO')":1121.736605804,
+    "('Low', 'DRREDDY.BO')":1104.545693334,
+    "('Open', 'DRREDDY.BO')":1113.1410889185,
+    "('Volume', 'DRREDDY.BO')":51445
+  },
+  {
+    "('Date', '')":"2025-03-06",
+    "('Close', 'DRREDDY.BO')":1131.6239013672,
+    "('High', 'DRREDDY.BO')":1138.6791364635,
+    "('Low', 'DRREDDY.BO')":1112.3461261891,
+    "('Open', 'DRREDDY.BO')":1122.8793060387,
+    "('Volume', 'DRREDDY.BO')":35178
+  },
+  {
+    "('Date', '')":"2025-03-07",
+    "('Close', 'DRREDDY.BO')":1125.6617431641,
+    "('High', 'DRREDDY.BO')":1141.7098773807,
+    "('Low', 'DRREDDY.BO')":1123.3761880249,
+    "('Open', 'DRREDDY.BO')":1141.7098773807,
+    "('Volume', 'DRREDDY.BO')":20463
+  },
+  {
+    "('Date', '')":"2025-03-10",
+    "('Close', 'DRREDDY.BO')":1113.0914306641,
+    "('High', 'DRREDDY.BO')":1129.9843056441,
+    "('Low', 'DRREDDY.BO')":1109.2657155906,
+    "('Open', 'DRREDDY.BO')":1129.9843056441,
+    "('Volume', 'DRREDDY.BO')":12929
+  },
+  {
+    "('Date', '')":"2025-03-11",
+    "('Close', 'DRREDDY.BO')":1109.7625732422,
+    "('High', 'DRREDDY.BO')":1119.9479832336,
+    "('Low', 'DRREDDY.BO')":1103.8003820277,
+    "('Open', 'DRREDDY.BO')":1111.9486615004,
+    "('Volume', 'DRREDDY.BO')":9939
+  },
+  {
+    "('Date', '')":"2025-03-12",
+    "('Close', 'DRREDDY.BO')":1098.2852783203,
+    "('High', 'DRREDDY.BO')":1117.1158165668,
+    "('Low', 'DRREDDY.BO')":1086.1124715712,
+    "('Open', 'DRREDDY.BO')":1117.1158165668,
+    "('Volume', 'DRREDDY.BO')":207693
+  },
+  {
+    "('Date', '')":"2025-03-13",
+    "('Close', 'DRREDDY.BO')":1100.8688964844,
+    "('High', 'DRREDDY.BO')":1117.9108506004,
+    "('Low', 'DRREDDY.BO')":1088.447664811,
+    "('Open', 'DRREDDY.BO')":1117.9108506004,
+    "('Volume', 'DRREDDY.BO')":29008
+  },
+  {
+    "('Date', '')":"2025-03-17",
+    "('Close', 'DRREDDY.BO')":1143.2004394531,
+    "('High', 'DRREDDY.BO')":1146.1319229335,
+    "('Low', 'DRREDDY.BO')":1095.2048726413,
+    "('Open', 'DRREDDY.BO')":1098.3846594562,
+    "('Volume', 'DRREDDY.BO')":109665
+  },
+  {
+    "('Date', '')":"2025-03-18",
+    "('Close', 'DRREDDY.BO')":1157.3605957031,
+    "('High', 'DRREDDY.BO')":1158.8511434548,
+    "('Low', 'DRREDDY.BO')":1142.4551181867,
+    "('Open', 'DRREDDY.BO')":1157.1121710779,
+    "('Volume', 'DRREDDY.BO')":190532
+  },
+  {
+    "('Date', '')":"2025-03-19",
+    "('Close', 'DRREDDY.BO')":1164.5153808594,
+    "('High', 'DRREDDY.BO')":1168.1920170556,
+    "('Low', 'DRREDDY.BO')":1151.1004501365,
+    "('Open', 'DRREDDY.BO')":1168.1920170556,
+    "('Volume', 'DRREDDY.BO')":88460
+  },
+  {
+    "('Date', '')":"2025-03-20",
+    "('Close', 'DRREDDY.BO')":1179.1723632812,
+    "('High', 'DRREDDY.BO')":1183.2465029194,
+    "('Low', 'DRREDDY.BO')":1159.1493140084,
+    "('Open', 'DRREDDY.BO')":1180.31514083,
+    "('Volume', 'DRREDDY.BO')":17988
+  },
+  {
+    "('Date', '')":"2025-03-21",
+    "('Close', 'DRREDDY.BO')":1191.7426757812,
+    "('High', 'DRREDDY.BO')":1196.2143190921,
+    "('Low', 'DRREDDY.BO')":1170.8252735513,
+    "('Open', 'DRREDDY.BO')":1191.0470140411,
+    "('Volume', 'DRREDDY.BO')":48175
+  },
+  {
+    "('Date', '')":"2025-03-24",
+    "('Close', 'DRREDDY.BO')":1202.3752441406,
+    "('High', 'DRREDDY.BO')":1208.287701986,
+    "('Low', 'DRREDDY.BO')":1183.2465470748,
+    "('Open', 'DRREDDY.BO')":1197.4067513962,
+    "('Volume', 'DRREDDY.BO')":347071
+  },
+  {
+    "('Date', '')":"2025-03-25",
+    "('Close', 'DRREDDY.BO')":1173.1108398438,
+    "('High', 'DRREDDY.BO')":1210.2750675629,
+    "('Low', 'DRREDDY.BO')":1161.1367241212,
+    "('Open', 'DRREDDY.BO')":1210.2750675629,
+    "('Volume', 'DRREDDY.BO')":138073
+  },
+  {
+    "('Date', '')":"2025-03-26",
+    "('Close', 'DRREDDY.BO')":1156.5159912109,
+    "('High', 'DRREDDY.BO')":1170.5271159975,
+    "('Low', 'DRREDDY.BO')":1145.9330777771,
+    "('Open', 'DRREDDY.BO')":1163.3725352175,
+    "('Volume', 'DRREDDY.BO')":360067
+  },
+  {
+    "('Date', '')":"2025-03-27",
+    "('Close', 'DRREDDY.BO')":1155.0255126953,
+    "('High', 'DRREDDY.BO')":1161.0870497337,
+    "('Low', 'DRREDDY.BO')":1136.5427434877,
+    "('Open', 'DRREDDY.BO')":1153.6840438813,
+    "('Volume', 'DRREDDY.BO')":295502
+  },
+  {
+    "('Date', '')":"2025-03-28",
+    "('Close', 'DRREDDY.BO')":1136.8408203125,
+    "('High', 'DRREDDY.BO')":1152.690262907,
+    "('Low', 'DRREDDY.BO')":1133.4622211438,
+    "('Open', 'DRREDDY.BO')":1152.690262907,
+    "('Volume', 'DRREDDY.BO')":75710
+  },
+  {
+    "('Date', '')":"2025-04-01",
+    "('Close', 'DRREDDY.BO')":1145.1381835938,
+    "('High', 'DRREDDY.BO')":1157.1619112668,
+    "('Low', 'DRREDDY.BO')":1128.9408494111,
+    "('Open', 'DRREDDY.BO')":1136.7910918757,
+    "('Volume', 'DRREDDY.BO')":79963
+  },
+  {
+    "('Date', '')":"2025-04-02",
+    "('Close', 'DRREDDY.BO')":1142.5048828125,
+    "('High', 'DRREDDY.BO')":1146.2312522933,
+    "('Low', 'DRREDDY.BO')":1128.3446787855,
+    "('Open', 'DRREDDY.BO')":1134.3068699547,
+    "('Volume', 'DRREDDY.BO')":135011
+  },
+  {
+    "('Date', '')":"2025-04-03",
+    "('Close', 'DRREDDY.BO')":1143.9954833984,
+    "('High', 'DRREDDY.BO')":1219.1688047871,
+    "('Low', 'DRREDDY.BO')":1142.0080862503,
+    "('Open', 'DRREDDY.BO')":1187.0722923242,
+    "('Volume', 'DRREDDY.BO')":188118
+  },
+  {
+    "('Date', '')":"2025-04-04",
+    "('Close', 'DRREDDY.BO')":1102.7569580078,
+    "('High', 'DRREDDY.BO')":1152.1934605182,
+    "('Low', 'DRREDDY.BO')":1069.6171358616,
+    "('Open', 'DRREDDY.BO')":1152.1934605182,
+    "('Volume', 'DRREDDY.BO')":208033
+  },
+  {
+    "('Date', '')":"2025-04-07",
+    "('Close', 'DRREDDY.BO')":1081.7899169922,
+    "('High', 'DRREDDY.BO')":1091.8262477741,
+    "('Low', 'DRREDDY.BO')":1019.4353349236,
+    "('Open', 'DRREDDY.BO')":1019.4353349236,
+    "('Volume', 'DRREDDY.BO')":182512
+  },
+  {
+    "('Date', '')":"2025-04-08",
+    "('Close', 'DRREDDY.BO')":1101.5645751953,
+    "('High', 'DRREDDY.BO')":1106.7814925784,
+    "('Low', 'DRREDDY.BO')":1082.1377200387,
+    "('Open', 'DRREDDY.BO')":1103.0053895712,
+    "('Volume', 'DRREDDY.BO')":52678
+  },
+  {
+    "('Date', '')":"2025-04-09",
+    "('Close', 'DRREDDY.BO')":1088.2490234375,
+    "('High', 'DRREDDY.BO')":1096.0495330252,
+    "('Low', 'DRREDDY.BO')":1055.5065824672,
+    "('Open', 'DRREDDY.BO')":1077.9642674014,
+    "('Volume', 'DRREDDY.BO')":107225
+  },
+  {
+    "('Date', '')":"2025-04-11",
+    "('Close', 'DRREDDY.BO')":1102.1607666016,
+    "('High', 'DRREDDY.BO')":1135.6980925304,
+    "('Low', 'DRREDDY.BO')":1097.7884687388,
+    "('Open', 'DRREDDY.BO')":1135.6980925304,
+    "('Volume', 'DRREDDY.BO')":64434
+  },
+  {
+    "('Date', '')":"2025-04-15",
+    "('Close', 'DRREDDY.BO')":1148.5168457031,
+    "('High', 'DRREDDY.BO')":1150.5538549732,
+    "('Low', 'DRREDDY.BO')":1122.730295256,
+    "('Open', 'DRREDDY.BO')":1129.8352642297,
+    "('Volume', 'DRREDDY.BO')":88276
+  },
+  {
+    "('Date', '')":"2025-04-16",
+    "('Close', 'DRREDDY.BO')":1152.1934814453,
+    "('High', 'DRREDDY.BO')":1153.6342958383,
+    "('Low', 'DRREDDY.BO')":1136.7911537503,
+    "('Open', 'DRREDDY.BO')":1146.72813936,
+    "('Volume', 'DRREDDY.BO')":290276
+  },
+  {
+    "('Date', '')":"2025-04-17",
+    "('Close', 'DRREDDY.BO')":1156.3669433594,
+    "('High', 'DRREDDY.BO')":1165.8070794966,
+    "('Low', 'DRREDDY.BO')":1142.7533218714,
+    "('Open', 'DRREDDY.BO')":1142.7533218714,
+    "('Volume', 'DRREDDY.BO')":38382
+  },
+  {
+    "('Date', '')":"2025-04-21",
+    "('Close', 'DRREDDY.BO')":1169.7322998047,
+    "('High', 'DRREDDY.BO')":1171.570617905,
+    "('Low', 'DRREDDY.BO')":1147.8211977433,
+    "('Open', 'DRREDDY.BO')":1159.6959684747,
+    "('Volume', 'DRREDDY.BO')":50985
+  },
+  {
+    "('Date', '')":"2025-04-22",
+    "('Close', 'DRREDDY.BO')":1167.4466552734,
+    "('High', 'DRREDDY.BO')":1172.5144933494,
+    "('Low', 'DRREDDY.BO')":1156.068856,
+    "('Open', 'DRREDDY.BO')":1172.5144933494,
+    "('Volume', 'DRREDDY.BO')":90009
+  },
+  {
+    "('Date', '')":"2025-04-23",
+    "('Close', 'DRREDDY.BO')":1178.4766845703,
+    "('High', 'DRREDDY.BO')":1184.389263411,
+    "('Low', 'DRREDDY.BO')":1169.4340525034,
+    "('Open', 'DRREDDY.BO')":1174.7007030605,
+    "('Volume', 'DRREDDY.BO')":26473
+  },
+  {
+    "('Date', '')":"2025-04-24",
+    "('Close', 'DRREDDY.BO')":1193.8790283203,
+    "('High', 'DRREDDY.BO')":1202.3751991155,
+    "('Low', 'DRREDDY.BO')":1170.1297309324,
+    "('Open', 'DRREDDY.BO')":1176.2408797382,
+    "('Volume', 'DRREDDY.BO')":66808
+  },
+  {
+    "('Date', '')":"2025-04-25",
+    "('Close', 'DRREDDY.BO')":1166.1549072266,
+    "('High', 'DRREDDY.BO')":1202.8222843336,
+    "('Low', 'DRREDDY.BO')":1151.895236906,
+    "('Open', 'DRREDDY.BO')":1200.8348873608,
+    "('Volume', 'DRREDDY.BO')":80207
+  },
+  {
+    "('Date', '')":"2025-04-28",
+    "('Close', 'DRREDDY.BO')":1192.1401367188,
+    "('High', 'DRREDDY.BO')":1197.1086296138,
+    "('Low', 'DRREDDY.BO')":1166.2046280668,
+    "('Open', 'DRREDDY.BO')":1166.2046280668,
+    "('Volume', 'DRREDDY.BO')":28282
+  },
+  {
+    "('Date', '')":"2025-04-29",
+    "('Close', 'DRREDDY.BO')":1168.837890625,
+    "('High', 'DRREDDY.BO')":1202.3752158608,
+    "('Low', 'DRREDDY.BO')":1161.2858060914,
+    "('Open', 'DRREDDY.BO')":1202.3752158608,
+    "('Volume', 'DRREDDY.BO')":54359
+  },
+  {
+    "('Date', '')":"2025-04-30",
+    "('Close', 'DRREDDY.BO')":1175.5454101562,
+    "('High', 'DRREDDY.BO')":1188.4634915865,
+    "('Low', 'DRREDDY.BO')":1168.8379447982,
+    "('Open', 'DRREDDY.BO')":1168.8379447982,
+    "('Volume', 'DRREDDY.BO')":44575
+  },
+  {
+    "('Date', '')":"2025-05-02",
+    "('Close', 'DRREDDY.BO')":1175.4460449219,
+    "('High', 'DRREDDY.BO')":1187.4697731767,
+    "('Low', 'DRREDDY.BO')":1164.3165483257,
+    "('Open', 'DRREDDY.BO')":1167.5958020775,
+    "('Volume', 'DRREDDY.BO')":83279
+  },
+  {
+    "('Date', '')":"2025-05-05",
+    "('Close', 'DRREDDY.BO')":1165.1115722656,
+    "('High', 'DRREDDY.BO')":1186.5258249501,
+    "('Low', 'DRREDDY.BO')":1147.5231561131,
+    "('Open', 'DRREDDY.BO')":1167.6455521373,
+    "('Volume', 'DRREDDY.BO')":139361
+  },
+  {
+    "('Date', '')":"2025-05-06",
+    "('Close', 'DRREDDY.BO')":1152.5909423828,
+    "('High', 'DRREDDY.BO')":1167.7944570211,
+    "('Low', 'DRREDDY.BO')":1122.8793322515,
+    "('Open', 'DRREDDY.BO')":1167.7944570211,
+    "('Volume', 'DRREDDY.BO')":51810
+  },
+  {
+    "('Date', '')":"2025-05-07",
+    "('Close', 'DRREDDY.BO')":1152.7399902344,
+    "('High', 'DRREDDY.BO')":1156.5657051885,
+    "('Low', 'DRREDDY.BO')":1114.134706576,
+    "('Open', 'DRREDDY.BO')":1114.134706576,
+    "('Volume', 'DRREDDY.BO')":14775
+  },
+  {
+    "('Date', '')":"2025-05-08",
+    "('Close', 'DRREDDY.BO')":1141.4614257812,
+    "('High', 'DRREDDY.BO')":1153.6839659304,
+    "('Low', 'DRREDDY.BO')":1133.9093413928,
+    "('Open', 'DRREDDY.BO')":1152.7400008698,
+    "('Volume', 'DRREDDY.BO')":34194
+  },
+  {
+    "('Date', '')":"2025-05-09",
+    "('Close', 'DRREDDY.BO')":1149.1130371094,
+    "('High', 'DRREDDY.BO')":1158.9009436487,
+    "('Low', 'DRREDDY.BO')":1122.9291043577,
+    "('Open', 'DRREDDY.BO')":1122.9291043577,
+    "('Volume', 'DRREDDY.BO')":113089
+  },
+  {
+    "('Date', '')":"2025-05-12",
+    "('Close', 'DRREDDY.BO')":1187.8175048828,
+    "('High', 'DRREDDY.BO')":1196.0155176953,
+    "('Low', 'DRREDDY.BO')":1135.8471449248,
+    "('Open', 'DRREDDY.BO')":1150.2060400578,
+    "('Volume', 'DRREDDY.BO')":209557
+  },
+  {
+    "('Date', '')":"2025-05-13",
+    "('Close', 'DRREDDY.BO')":1199.1954345703,
+    "('High', 'DRREDDY.BO')":1233.0307967375,
+    "('Low', 'DRREDDY.BO')":1184.9357636234,
+    "('Open', 'DRREDDY.BO')":1184.9357636234,
+    "('Volume', 'DRREDDY.BO')":95104
+  },
+  {
+    "('Date', '')":"2025-05-14",
+    "('Close', 'DRREDDY.BO')":1212.1630859375,
+    "('High', 'DRREDDY.BO')":1214.7466777666,
+    "('Low', 'DRREDDY.BO')":1186.4760040793,
+    "('Open', 'DRREDDY.BO')":1200.3877830216,
+    "('Volume', 'DRREDDY.BO')":18265
+  },
+  {
+    "('Date', '')":"2025-05-15",
+    "('Close', 'DRREDDY.BO')":1227.0686035156,
+    "('High', 'DRREDDY.BO')":1231.1924766686,
+    "('Low', 'DRREDDY.BO')":1193.43193259,
+    "('Open', 'DRREDDY.BO')":1209.3311090442,
+    "('Volume', 'DRREDDY.BO')":39240
+  },
+  {
+    "('Date', '')":"2025-05-16",
+    "('Close', 'DRREDDY.BO')":1222.74609375,
+    "('High', 'DRREDDY.BO')":1229.0560554266,
+    "('Low', 'DRREDDY.BO')":1213.5046485031,
+    "('Open', 'DRREDDY.BO')":1227.4164285214,
+    "('Volume', 'DRREDDY.BO')":73805
+  },
+  {
+    "('Date', '')":"2025-05-19",
+    "('Close', 'DRREDDY.BO')":1211.0700683594,
+    "('High', 'DRREDDY.BO')":1234.2232923405,
+    "('Low', 'DRREDDY.BO')":1207.3436989183,
+    "('Open', 'DRREDDY.BO')":1222.6962924952,
+    "('Volume', 'DRREDDY.BO')":33842
+  },
+  {
+    "('Date', '')":"2025-05-20",
+    "('Close', 'DRREDDY.BO')":1217.4793701172,
+    "('High', 'DRREDDY.BO')":1227.0685850319,
+    "('Low', 'DRREDDY.BO')":1208.8342415709,
+    "('Open', 'DRREDDY.BO')":1222.0504803198,
+    "('Volume', 'DRREDDY.BO')":19915
+  },
+  {
+    "('Date', '')":"2025-05-21",
+    "('Close', 'DRREDDY.BO')":1217.0322265625,
+    "('High', 'DRREDDY.BO')":1248.1846499877,
+    "('Low', 'DRREDDY.BO')":1212.2624252864,
+    "('Open', 'DRREDDY.BO')":1220.8083293478,
+    "('Volume', 'DRREDDY.BO')":120101
+  },
+  {
+    "('Date', '')":"2025-05-22",
+    "('Close', 'DRREDDY.BO')":1214.9455566406,
+    "('High', 'DRREDDY.BO')":1221.2555181741,
+    "('Low', 'DRREDDY.BO')":1203.5180233135,
+    "('Open', 'DRREDDY.BO')":1208.5361282113,
+    "('Volume', 'DRREDDY.BO')":39790
+  },
+  {
+    "('Date', '')":"2025-05-23",
+    "('Close', 'DRREDDY.BO')":1222.0007324219,
+    "('High', 'DRREDDY.BO')":1226.9194914847,
+    "('Low', 'DRREDDY.BO')":1207.7907953276,
+    "('Open', 'DRREDDY.BO')":1213.1071793524,
+    "('Volume', 'DRREDDY.BO')":79417
+  },
+  {
+    "('Date', '')":"2025-05-26",
+    "('Close', 'DRREDDY.BO')":1235.0181884766,
+    "('High', 'DRREDDY.BO')":1238.943370434,
+    "('Low', 'DRREDDY.BO')":1222.547344759,
+    "('Open', 'DRREDDY.BO')":1223.2428852066,
+    "('Volume', 'DRREDDY.BO')":45319
+  },
+  {
+    "('Date', '')":"2025-05-27",
+    "('Close', 'DRREDDY.BO')":1235.4654541016,
+    "('High', 'DRREDDY.BO')":1240.6823714822,
+    "('Low', 'DRREDDY.BO')":1229.5032628094,
+    "('Open', 'DRREDDY.BO')":1237.1546931139,
+    "('Volume', 'DRREDDY.BO')":84838
+  },
+  {
+    "('Date', '')":"2025-05-28",
+    "('Close', 'DRREDDY.BO')":1235.4654541016,
+    "('High', 'DRREDDY.BO')":1243.6137336803,
+    "('Low', 'DRREDDY.BO')":1229.6026084041,
+    "('Open', 'DRREDDY.BO')":1237.104959666,
+    "('Volume', 'DRREDDY.BO')":80245
+  },
+  {
+    "('Date', '')":"2025-05-29",
+    "('Close', 'DRREDDY.BO')":1240.185546875,
+    "('High', 'DRREDDY.BO')":1245.1043062684,
+    "('Low', 'DRREDDY.BO')":1232.8321532082,
+    "('Open', 'DRREDDY.BO')":1241.1295119946,
+    "('Volume', 'DRREDDY.BO')":41768
+  },
+  {
+    "('Date', '')":"2025-05-30",
+    "('Close', 'DRREDDY.BO')":1243.8621826172,
+    "('High', 'DRREDDY.BO')":1249.1288335485,
+    "('Low', 'DRREDDY.BO')":1233.8258513396,
+    "('Open', 'DRREDDY.BO')":1242.0734766742,
+    "('Volume', 'DRREDDY.BO')":112086
+  },
+  {
+    "('Date', '')":"2025-06-02",
+    "('Close', 'DRREDDY.BO')":1241.2287597656,
+    "('High', 'DRREDDY.BO')":1243.1168111571,
+    "('Low', 'DRREDDY.BO')":1224.7831225346,
+    "('Open', 'DRREDDY.BO')":1240.2847947204,
+    "('Volume', 'DRREDDY.BO')":132761
+  },
+  {
+    "('Date', '')":"2025-06-03",
+    "('Close', 'DRREDDY.BO')":1240.7319335938,
+    "('High', 'DRREDDY.BO')":1243.3155254559,
+    "('Low', 'DRREDDY.BO')":1232.6332664883,
+    "('Open', 'DRREDDY.BO')":1242.123135766,
+    "('Volume', 'DRREDDY.BO')":79847
+  },
+  {
+    "('Date', '')":"2025-06-04",
+    "('Close', 'DRREDDY.BO')":1244.2596435547,
+    "('High', 'DRREDDY.BO')":1258.0223439898,
+    "('Low', 'DRREDDY.BO')":1238.7943016179,
+    "('Open', 'DRREDDY.BO')":1244.0608310672,
+    "('Volume', 'DRREDDY.BO')":45082
+  },
+  {
+    "('Date', '')":"2025-06-05",
+    "('Close', 'DRREDDY.BO')":1281.7717285156,
+    "('High', 'DRREDDY.BO')":1295.2362705056,
+    "('Low', 'DRREDDY.BO')":1252.0601188943,
+    "('Open', 'DRREDDY.BO')":1252.0601188943,
+    "('Volume', 'DRREDDY.BO')":288918
+  },
+  {
+    "('Date', '')":"2025-06-06",
+    "('Close', 'DRREDDY.BO')":1312.1789550781,
+    "('High', 'DRREDDY.BO')":1314.0670066118,
+    "('Low', 'DRREDDY.BO')":1288.2308439219,
+    "('Open', 'DRREDDY.BO')":1293.5968404331,
+    "('Volume', 'DRREDDY.BO')":74396
+  },
+  {
+    "('Date', '')":"2025-06-09",
+    "('Close', 'DRREDDY.BO')":1310.9865722656,
+    "('High', 'DRREDDY.BO')":1320.8240910703,
+    "('Low', 'DRREDDY.BO')":1301.596047996,
+    "('Open', 'DRREDDY.BO')":1313.073315003,
+    "('Volume', 'DRREDDY.BO')":97574
+  },
+  {
+    "('Date', '')":"2025-06-10",
+    "('Close', 'DRREDDY.BO')":1341.3936767578,
+    "('High', 'DRREDDY.BO')":1353.9639874867,
+    "('Low', 'DRREDDY.BO')":1311.1852170313,
+    "('Open', 'DRREDDY.BO')":1311.1852170313,
+    "('Volume', 'DRREDDY.BO')":98593
+  },
+  {
+    "('Date', '')":"2025-06-11",
+    "('Close', 'DRREDDY.BO')":1341.9898681641,
+    "('High', 'DRREDDY.BO')":1346.8590152336,
+    "('Low', 'DRREDDY.BO')":1331.5560335726,
+    "('Open', 'DRREDDY.BO')":1342.4867174303,
+    "('Volume', 'DRREDDY.BO')":93460
+  },
+  {
+    "('Date', '')":"2025-06-12",
+    "('Close', 'DRREDDY.BO')":1354.5601806641,
+    "('High', 'DRREDDY.BO')":1369.2668461842,
+    "('Low', 'DRREDDY.BO')":1336.1270243409,
+    "('Open', 'DRREDDY.BO')":1359.2802486998,
+    "('Volume', 'DRREDDY.BO')":58952
+  },
+  {
+    "('Date', '')":"2025-06-13",
+    "('Close', 'DRREDDY.BO')":1352.8708496094,
+    "('High', 'DRREDDY.BO')":1358.0877670248,
+    "('Low', 'DRREDDY.BO')":1326.5875713418,
+    "('Open', 'DRREDDY.BO')":1326.5875713418,
+    "('Volume', 'DRREDDY.BO')":61059
+  },
+  {
+    "('Date', '')":"2025-06-16",
+    "('Close', 'DRREDDY.BO')":1338.2635498047,
+    "('High', 'DRREDDY.BO')":1351.4300558637,
+    "('Low', 'DRREDDY.BO')":1333.5932150438,
+    "('Open', 'DRREDDY.BO')":1351.4300558637,
+    "('Volume', 'DRREDDY.BO')":25129
+  },
+  {
+    "('Date', '')":"2025-06-17",
+    "('Close', 'DRREDDY.BO')":1310.638671875,
+    "('High', 'DRREDDY.BO')":1338.8101231925,
+    "('Low', 'DRREDDY.BO')":1295.4847687808,
+    "('Open', 'DRREDDY.BO')":1338.3132739108,
+    "('Volume', 'DRREDDY.BO')":34777
+  },
+  {
+    "('Date', '')":"2025-06-18",
+    "('Close', 'DRREDDY.BO')":1304.4777832031,
+    "('High', 'DRREDDY.BO')":1316.4518993584,
+    "('Low', 'DRREDDY.BO')":1296.6772737759,
+    "('Open', 'DRREDDY.BO')":1310.4897080049,
+    "('Volume', 'DRREDDY.BO')":34991
+  },
+  {
+    "('Date', '')":"2025-06-19",
+    "('Close', 'DRREDDY.BO')":1318.0417480469,
+    "('High', 'DRREDDY.BO')":1322.8611616337,
+    "('Low', 'DRREDDY.BO')":1296.776575348,
+    "('Open', 'DRREDDY.BO')":1311.185203963,
+    "('Volume', 'DRREDDY.BO')":31988
+  },
+  {
+    "('Date', '')":"2025-06-20",
+    "('Close', 'DRREDDY.BO')":1317.09765625,
+    "('High', 'DRREDDY.BO')":1327.4321451295,
+    "('Low', 'DRREDDY.BO')":1309.6946507884,
+    "('Open', 'DRREDDY.BO')":1318.6876709246,
+    "('Volume', 'DRREDDY.BO')":36220
+  },
+  {
+    "('Date', '')":"2025-06-23",
+    "('Close', 'DRREDDY.BO')":1309.396484375,
+    "('High', 'DRREDDY.BO')":1314.7624806149,
+    "('Low', 'DRREDDY.BO')":1204.7103701056,
+    "('Open', 'DRREDDY.BO')":1204.7103701056,
+    "('Volume', 'DRREDDY.BO')":37995
+  },
+  {
+    "('Date', '')":"2025-06-24",
+    "('Close', 'DRREDDY.BO')":1328.9227294922,
+    "('High', 'DRREDDY.BO')":1344.4741360354,
+    "('Low', 'DRREDDY.BO')":1302.6890635532,
+    "('Open', 'DRREDDY.BO')":1308.7009882917,
+    "('Volume', 'DRREDDY.BO')":16964
+  },
+  {
+    "('Date', '')":"2025-06-25",
+    "('Close', 'DRREDDY.BO')":1332.4006347656,
+    "('High', 'DRREDDY.BO')":1340.697993138,
+    "('Low', 'DRREDDY.BO')":1309.2971442019,
+    "('Open', 'DRREDDY.BO')":1309.2971442019,
+    "('Volume', 'DRREDDY.BO')":18234
+  },
+  {
+    "('Date', '')":"2025-06-26",
+    "('Close', 'DRREDDY.BO')":1312.8745117188,
+    "('High', 'DRREDDY.BO')":1324.2026997594,
+    "('Low', 'DRREDDY.BO')":1306.7136290603,
+    "('Open', 'DRREDDY.BO')":1319.5819771151,
+    "('Volume', 'DRREDDY.BO')":50688
+  },
+  {
+    "('Date', '')":"2025-06-27",
+    "('Close', 'DRREDDY.BO')":1292.9509277344,
+    "('High', 'DRREDDY.BO')":1336.4748526267,
+    "('Low', 'DRREDDY.BO')":1290.7151059361,
+    "('Open', 'DRREDDY.BO')":1336.4748526267,
+    "('Volume', 'DRREDDY.BO')":28345
+  },
+  {
+    "('Date', '')":"2025-06-30",
+    "('Close', 'DRREDDY.BO')":1275.6107177734,
+    "('High', 'DRREDDY.BO')":1294.8388808171,
+    "('Low', 'DRREDDY.BO')":1264.3819974879,
+    "('Open', 'DRREDDY.BO')":1292.8017503687,
+    "('Volume', 'DRREDDY.BO')":42326
+  },
+  {
+    "('Date', '')":"2025-07-01",
+    "('Close', 'DRREDDY.BO')":1268.9033203125,
+    "('High', 'DRREDDY.BO')":1286.0446203731,
+    "('Low', 'DRREDDY.BO')":1265.0776051389,
+    "('Open', 'DRREDDY.BO')":1275.8592101922,
+    "('Volume', 'DRREDDY.BO')":28453
+  },
+  {
+    "('Date', '')":"2025-07-02",
+    "('Close', 'DRREDDY.BO')":1263.7360839844,
+    "('High', 'DRREDDY.BO')":1271.9838301632,
+    "('Low', 'DRREDDY.BO')":1255.885841471,
+    "('Open', 'DRREDDY.BO')":1266.1209846759,
+    "('Volume', 'DRREDDY.BO')":33929
+  },
+  {
+    "('Date', '')":"2025-07-03",
+    "('Close', 'DRREDDY.BO')":1285.1005859375,
+    "('High', 'DRREDDY.BO')":1288.8269553149,
+    "('Low', 'DRREDDY.BO')":1261.0531307427,
+    "('Open', 'DRREDDY.BO')":1264.083838389,
+    "('Volume', 'DRREDDY.BO')":55323
+  },
+  {
+    "('Date', '')":"2025-07-04",
+    "('Close', 'DRREDDY.BO')":1296.8759765625,
+    "('High', 'DRREDDY.BO')":1303.7325209405,
+    "('Low', 'DRREDDY.BO')":1279.4862516262,
+    "('Open', 'DRREDDY.BO')":1296.6275519206,
+    "('Volume', 'DRREDDY.BO')":161341
+  },
+  {
+    "('Date', '')":"2025-07-07",
+    "('Close', 'DRREDDY.BO')":1301.7947998047,
+    "('High', 'DRREDDY.BO')":1305.570781415,
+    "('Low', 'DRREDDY.BO')":1289.8206840708,
+    "('Open', 'DRREDDY.BO')":1297.323156447,
+    "('Volume', 'DRREDDY.BO')":15392
+  },
+  {
+    "('Date', '')":"2025-07-08",
+    "('Close', 'DRREDDY.BO')":1275.8095703125,
+    "('High', 'DRREDDY.BO')":1305.7198718846,
+    "('Low', 'DRREDDY.BO')":1265.8228515391,
+    "('Open', 'DRREDDY.BO')":1305.7198718846,
+    "('Volume', 'DRREDDY.BO')":21735
+  },
+  {
+    "('Date', '')":"2025-07-09",
+    "('Close', 'DRREDDY.BO')":1261.5500488281,
+    "('High', 'DRREDDY.BO')":1277.3994922575,
+    "('Low', 'DRREDDY.BO')":1259.0160689928,
+    "('Open', 'DRREDDY.BO')":1274.9152458704,
+    "('Volume', 'DRREDDY.BO')":74082
+  },
+  {
+    "('Date', '')":"2025-07-10",
+    "('Close', 'DRREDDY.BO')":1259.1999511719,
+    "('High', 'DRREDDY.BO')":1270.0500488281,
+    "('Low', 'DRREDDY.BO')":1252.0500488281,
+    "('Open', 'DRREDDY.BO')":1269.4000244141,
+    "('Volume', 'DRREDDY.BO')":51480
+  },
+  {
+    "('Date', '')":"2025-07-11",
+    "('Close', 'DRREDDY.BO')":1254.0,
+    "('High', 'DRREDDY.BO')":1272.0999755859,
+    "('Low', 'DRREDDY.BO')":1251.0500488281,
+    "('Open', 'DRREDDY.BO')":1261.9000244141,
+    "('Volume', 'DRREDDY.BO')":214602
+  },
+  {
+    "('Date', '')":"2025-07-14",
+    "('Close', 'DRREDDY.BO')":1250.9499511719,
+    "('High', 'DRREDDY.BO')":1261.0,
+    "('Low', 'DRREDDY.BO')":1246.4000244141,
+    "('Open', 'DRREDDY.BO')":1254.6999511719,
+    "('Volume', 'DRREDDY.BO')":10372
+  },
+  {
+    "('Date', '')":"2025-07-15",
+    "('Close', 'DRREDDY.BO')":1261.1500244141,
+    "('High', 'DRREDDY.BO')":1264.5500488281,
+    "('Low', 'DRREDDY.BO')":1241.4000244141,
+    "('Open', 'DRREDDY.BO')":1251.0999755859,
+    "('Volume', 'DRREDDY.BO')":13083
+  },
+  {
+    "('Date', '')":"2025-07-16",
+    "('Close', 'DRREDDY.BO')":1258.8499755859,
+    "('High', 'DRREDDY.BO')":1262.75,
+    "('Low', 'DRREDDY.BO')":1250.0500488281,
+    "('Open', 'DRREDDY.BO')":1262.6999511719,
+    "('Volume', 'DRREDDY.BO')":72354
+  },
+  {
+    "('Date', '')":"2025-07-17",
+    "('Close', 'DRREDDY.BO')":1263.25,
+    "('High', 'DRREDDY.BO')":1274.0,
+    "('Low', 'DRREDDY.BO')":1256.9000244141,
+    "('Open', 'DRREDDY.BO')":1261.9499511719,
+    "('Volume', 'DRREDDY.BO')":15362
+  },
+  {
+    "('Date', '')":"2025-07-18",
+    "('Close', 'DRREDDY.BO')":1258.0999755859,
+    "('High', 'DRREDDY.BO')":1270.0,
+    "('Low', 'DRREDDY.BO')":1251.4499511719,
+    "('Open', 'DRREDDY.BO')":1263.3000488281,
+    "('Volume', 'DRREDDY.BO')":66141
+  },
+  {
+    "('Date', '')":"2025-07-21",
+    "('Close', 'DRREDDY.BO')":1259.5,
+    "('High', 'DRREDDY.BO')":1262.0,
+    "('Low', 'DRREDDY.BO')":1245.1999511719,
+    "('Open', 'DRREDDY.BO')":1253.9499511719,
+    "('Volume', 'DRREDDY.BO')":160311
+  },
+  {
+    "('Date', '')":"2025-07-22",
+    "('Close', 'DRREDDY.BO')":1240.4000244141,
+    "('High', 'DRREDDY.BO')":1261.4499511719,
+    "('Low', 'DRREDDY.BO')":1236.9499511719,
+    "('Open', 'DRREDDY.BO')":1259.5999755859,
+    "('Volume', 'DRREDDY.BO')":65001
+  },
+  {
+    "('Date', '')":"2025-07-23",
+    "('Close', 'DRREDDY.BO')":1247.5500488281,
+    "('High', 'DRREDDY.BO')":1252.4000244141,
+    "('Low', 'DRREDDY.BO')":1232.0,
+    "('Open', 'DRREDDY.BO')":1240.4000244141,
+    "('Volume', 'DRREDDY.BO')":43873
+  },
+  {
+    "('Date', '')":"2025-07-24",
+    "('Close', 'DRREDDY.BO')":1264.8499755859,
+    "('High', 'DRREDDY.BO')":1287.9000244141,
+    "('Low', 'DRREDDY.BO')":1255.0500488281,
+    "('Open', 'DRREDDY.BO')":1255.0500488281,
+    "('Volume', 'DRREDDY.BO')":211022
+  },
+  {
+    "('Date', '')":"2025-07-25",
+    "('Close', 'DRREDDY.BO')":1277.5999755859,
+    "('High', 'DRREDDY.BO')":1287.9499511719,
+    "('Low', 'DRREDDY.BO')":1262.9000244141,
+    "('Open', 'DRREDDY.BO')":1269.3000488281,
+    "('Volume', 'DRREDDY.BO')":45360
+  },
+  {
+    "('Date', '')":"2025-07-28",
+    "('Close', 'DRREDDY.BO')":1286.5500488281,
+    "('High', 'DRREDDY.BO')":1290.0,
+    "('Low', 'DRREDDY.BO')":1271.5,
+    "('Open', 'DRREDDY.BO')":1282.5,
+    "('Volume', 'DRREDDY.BO')":44856
+  },
+  {
+    "('Date', '')":"2025-07-29",
+    "('Close', 'DRREDDY.BO')":1300.0500488281,
+    "('High', 'DRREDDY.BO')":1302.0,
+    "('Low', 'DRREDDY.BO')":1283.4000244141,
+    "('Open', 'DRREDDY.BO')":1289.4499511719,
+    "('Volume', 'DRREDDY.BO')":40039
+  },
+  {
+    "('Date', '')":"2025-07-30",
+    "('Close', 'DRREDDY.BO')":1291.5999755859,
+    "('High', 'DRREDDY.BO')":1302.0,
+    "('Low', 'DRREDDY.BO')":1277.3499755859,
+    "('Open', 'DRREDDY.BO')":1302.0,
+    "('Volume', 'DRREDDY.BO')":108652
+  },
+  {
+    "('Date', '')":"2025-07-31",
+    "('Close', 'DRREDDY.BO')":1270.8499755859,
+    "('High', 'DRREDDY.BO')":1283.1999511719,
+    "('Low', 'DRREDDY.BO')":1256.0999755859,
+    "('Open', 'DRREDDY.BO')":1256.0999755859,
+    "('Volume', 'DRREDDY.BO')":52929
+  },
+  {
+    "('Date', '')":"2025-08-01",
+    "('Close', 'DRREDDY.BO')":1219.5999755859,
+    "('High', 'DRREDDY.BO')":1261.3000488281,
+    "('Low', 'DRREDDY.BO')":1214.0,
+    "('Open', 'DRREDDY.BO')":1261.3000488281,
+    "('Volume', 'DRREDDY.BO')":111633
+  },
+  {
+    "('Date', '')":"2025-08-04",
+    "('Close', 'DRREDDY.BO')":1225.4000244141,
+    "('High', 'DRREDDY.BO')":1231.25,
+    "('Low', 'DRREDDY.BO')":1219.5999755859,
+    "('Open', 'DRREDDY.BO')":1223.9000244141,
+    "('Volume', 'DRREDDY.BO')":15983
+  },
+  {
+    "('Date', '')":"2025-08-05",
+    "('Close', 'DRREDDY.BO')":1213.8499755859,
+    "('High', 'DRREDDY.BO')":1232.4000244141,
+    "('Low', 'DRREDDY.BO')":1204.1500244141,
+    "('Open', 'DRREDDY.BO')":1222.8000488281,
+    "('Volume', 'DRREDDY.BO')":40211
+  },
+  {
+    "('Date', '')":"2025-08-06",
+    "('Close', 'DRREDDY.BO')":1197.0999755859,
+    "('High', 'DRREDDY.BO')":1216.4000244141,
+    "('Low', 'DRREDDY.BO')":1188.3499755859,
+    "('Open', 'DRREDDY.BO')":1210.0999755859,
+    "('Volume', 'DRREDDY.BO')":24648
+  },
+  {
+    "('Date', '')":"2025-08-07",
+    "('Close', 'DRREDDY.BO')":1200.75,
+    "('High', 'DRREDDY.BO')":1206.0,
+    "('Low', 'DRREDDY.BO')":1182.4000244141,
+    "('Open', 'DRREDDY.BO')":1182.4000244141,
+    "('Volume', 'DRREDDY.BO')":31084
+  },
+  {
+    "('Date', '')":"2025-08-08",
+    "('Close', 'DRREDDY.BO')":1211.6500244141,
+    "('High', 'DRREDDY.BO')":1215.0,
+    "('Low', 'DRREDDY.BO')":1196.0,
+    "('Open', 'DRREDDY.BO')":1207.9499511719,
+    "('Volume', 'DRREDDY.BO')":80479
+  },
+  {
+    "('Date', '')":"2025-08-11",
+    "('Close', 'DRREDDY.BO')":1219.1999511719,
+    "('High', 'DRREDDY.BO')":1227.0,
+    "('Low', 'DRREDDY.BO')":1208.4000244141,
+    "('Open', 'DRREDDY.BO')":1211.1999511719,
+    "('Volume', 'DRREDDY.BO')":26082
+  },
+  {
+    "('Date', '')":"2025-08-12",
+    "('Close', 'DRREDDY.BO')":1220.5999755859,
+    "('High', 'DRREDDY.BO')":1226.0999755859,
+    "('Low', 'DRREDDY.BO')":1205.0,
+    "('Open', 'DRREDDY.BO')":1217.9499511719,
+    "('Volume', 'DRREDDY.BO')":10719
+  },
+  {
+    "('Date', '')":"2025-08-13",
+    "('Close', 'DRREDDY.BO')":1252.5500488281,
+    "('High', 'DRREDDY.BO')":1255.0,
+    "('Low', 'DRREDDY.BO')":1216.9499511719,
+    "('Open', 'DRREDDY.BO')":1216.9499511719,
+    "('Volume', 'DRREDDY.BO')":41837
+  },
+  {
+    "('Date', '')":"2025-08-14",
+    "('Close', 'DRREDDY.BO')":1259.25,
+    "('High', 'DRREDDY.BO')":1265.6999511719,
+    "('Low', 'DRREDDY.BO')":1250.75,
+    "('Open', 'DRREDDY.BO')":1255.0500488281,
+    "('Volume', 'DRREDDY.BO')":14370
+  },
+  {
+    "('Date', '')":"2025-08-18",
+    "('Close', 'DRREDDY.BO')":1263.8499755859,
+    "('High', 'DRREDDY.BO')":1273.5999755859,
+    "('Low', 'DRREDDY.BO')":1240.8000488281,
+    "('Open', 'DRREDDY.BO')":1273.5999755859,
+    "('Volume', 'DRREDDY.BO')":179126
+  },
+  {
+    "('Date', '')":"2025-08-19",
+    "('Close', 'DRREDDY.BO')":1245.25,
+    "('High', 'DRREDDY.BO')":1261.75,
+    "('Low', 'DRREDDY.BO')":1242.25,
+    "('Open', 'DRREDDY.BO')":1254.6999511719,
+    "('Volume', 'DRREDDY.BO')":29883
+  },
+  {
+    "('Date', '')":"2025-08-20",
+    "('Close', 'DRREDDY.BO')":1245.5999755859,
+    "('High', 'DRREDDY.BO')":1250.9499511719,
+    "('Low', 'DRREDDY.BO')":1237.3000488281,
+    "('Open', 'DRREDDY.BO')":1245.25,
+    "('Volume', 'DRREDDY.BO')":65019
+  },
+  {
+    "('Date', '')":"2025-08-21",
+    "('Close', 'DRREDDY.BO')":1276.5500488281,
+    "('High', 'DRREDDY.BO')":1281.6999511719,
+    "('Low', 'DRREDDY.BO')":1240.5999755859,
+    "('Open', 'DRREDDY.BO')":1245.5,
+    "('Volume', 'DRREDDY.BO')":82007
+  },
+  {
+    "('Date', '')":"2025-08-22",
+    "('Close', 'DRREDDY.BO')":1277.0,
+    "('High', 'DRREDDY.BO')":1284.25,
+    "('Low', 'DRREDDY.BO')":1265.25,
+    "('Open', 'DRREDDY.BO')":1276.5,
+    "('Volume', 'DRREDDY.BO')":43400
+  },
+  {
+    "('Date', '')":"2025-08-25",
+    "('Close', 'DRREDDY.BO')":1284.5999755859,
+    "('High', 'DRREDDY.BO')":1288.6500244141,
+    "('Low', 'DRREDDY.BO')":1275.1999511719,
+    "('Open', 'DRREDDY.BO')":1280.0,
+    "('Volume', 'DRREDDY.BO')":68190
+  },
+  {
+    "('Date', '')":"2025-08-26",
+    "('Close', 'DRREDDY.BO')":1263.3499755859,
+    "('High', 'DRREDDY.BO')":1284.5500488281,
+    "('Low', 'DRREDDY.BO')":1260.0,
+    "('Open', 'DRREDDY.BO')":1284.5500488281,
+    "('Volume', 'DRREDDY.BO')":170663
+  },
+  {
+    "('Date', '')":"2025-08-28",
+    "('Close', 'DRREDDY.BO')":1260.8000488281,
+    "('High', 'DRREDDY.BO')":1267.4499511719,
+    "('Low', 'DRREDDY.BO')":1248.1999511719,
+    "('Open', 'DRREDDY.BO')":1250.1999511719,
+    "('Volume', 'DRREDDY.BO')":214839
+  },
+  {
+    "('Date', '')":"2025-08-29",
+    "('Close', 'DRREDDY.BO')":1263.0,
+    "('High', 'DRREDDY.BO')":1265.6500244141,
+    "('Low', 'DRREDDY.BO')":1241.6999511719,
+    "('Open', 'DRREDDY.BO')":1256.1999511719,
+    "('Volume', 'DRREDDY.BO')":418305
+  },
+  {
+    "('Date', '')":"2025-09-01",
+    "('Close', 'DRREDDY.BO')":1280.3000488281,
+    "('High', 'DRREDDY.BO')":1283.6999511719,
+    "('Low', 'DRREDDY.BO')":1260.6500244141,
+    "('Open', 'DRREDDY.BO')":1263.0,
+    "('Volume', 'DRREDDY.BO')":90488
+  },
+  {
+    "('Date', '')":"2025-09-02",
+    "('Close', 'DRREDDY.BO')":1257.3000488281,
+    "('High', 'DRREDDY.BO')":1281.0,
+    "('Low', 'DRREDDY.BO')":1248.8499755859,
+    "('Open', 'DRREDDY.BO')":1280.0,
+    "('Volume', 'DRREDDY.BO')":251411
+  },
+  {
+    "('Date', '')":"2025-09-03",
+    "('Close', 'DRREDDY.BO')":1262.5500488281,
+    "('High', 'DRREDDY.BO')":1265.9499511719,
+    "('Low', 'DRREDDY.BO')":1247.1999511719,
+    "('Open', 'DRREDDY.BO')":1253.4499511719,
+    "('Volume', 'DRREDDY.BO')":93293
+  },
+  {
+    "('Date', '')":"2025-09-04",
+    "('Close', 'DRREDDY.BO')":1253.4000244141,
+    "('High', 'DRREDDY.BO')":1274.0,
+    "('Low', 'DRREDDY.BO')":1251.0,
+    "('Open', 'DRREDDY.BO')":1272.0,
+    "('Volume', 'DRREDDY.BO')":29840
+  },
+  {
+    "('Date', '')":"2025-09-05",
+    "('Close', 'DRREDDY.BO')":1268.5500488281,
+    "('High', 'DRREDDY.BO')":1272.0,
+    "('Low', 'DRREDDY.BO')":1249.5500488281,
+    "('Open', 'DRREDDY.BO')":1249.5500488281,
+    "('Volume', 'DRREDDY.BO')":33700
+  },
+  {
+    "('Date', '')":"2025-09-08",
+    "('Close', 'DRREDDY.BO')":1250.3499755859,
+    "('High', 'DRREDDY.BO')":1276.0,
+    "('Low', 'DRREDDY.BO')":1248.8000488281,
+    "('Open', 'DRREDDY.BO')":1269.0,
+    "('Volume', 'DRREDDY.BO')":37892
+  },
+  {
+    "('Date', '')":"2025-09-09",
+    "('Close', 'DRREDDY.BO')":1293.4499511719,
+    "('High', 'DRREDDY.BO')":1295.0,
+    "('Low', 'DRREDDY.BO')":1256.0999755859,
+    "('Open', 'DRREDDY.BO')":1256.0999755859,
+    "('Volume', 'DRREDDY.BO')":53081
+  },
+  {
+    "('Date', '')":"2025-09-10",
+    "('Close', 'DRREDDY.BO')":1304.1500244141,
+    "('High', 'DRREDDY.BO')":1310.0,
+    "('Low', 'DRREDDY.BO')":1292.9000244141,
+    "('Open', 'DRREDDY.BO')":1292.9000244141,
+    "('Volume', 'DRREDDY.BO')":150395
+  },
+  {
+    "('Date', '')":"2025-09-11",
+    "('Close', 'DRREDDY.BO')":1303.4000244141,
+    "('High', 'DRREDDY.BO')":1311.1500244141,
+    "('Low', 'DRREDDY.BO')":1283.1999511719,
+    "('Open', 'DRREDDY.BO')":1309.6500244141,
+    "('Volume', 'DRREDDY.BO')":39444
+  },
+  {
+    "('Date', '')":"2025-09-12",
+    "('Close', 'DRREDDY.BO')":1316.4000244141,
+    "('High', 'DRREDDY.BO')":1320.5,
+    "('Low', 'DRREDDY.BO')":1302.5500488281,
+    "('Open', 'DRREDDY.BO')":1305.9499511719,
+    "('Volume', 'DRREDDY.BO')":59802
+  },
+  {
+    "('Date', '')":"2025-09-15",
+    "('Close', 'DRREDDY.BO')":1300.8499755859,
+    "('High', 'DRREDDY.BO')":1310.0,
+    "('Low', 'DRREDDY.BO')":1293.1500244141,
+    "('Open', 'DRREDDY.BO')":1304.0500488281,
+    "('Volume', 'DRREDDY.BO')":137081
+  },
+  {
+    "('Date', '')":"2025-09-16",
+    "('Close', 'DRREDDY.BO')":1310.5500488281,
+    "('High', 'DRREDDY.BO')":1311.5,
+    "('Low', 'DRREDDY.BO')":1296.3000488281,
+    "('Open', 'DRREDDY.BO')":1300.8499755859,
+    "('Volume', 'DRREDDY.BO')":56587
+  },
+  {
+    "('Date', '')":"2025-09-17",
+    "('Close', 'DRREDDY.BO')":1310.9499511719,
+    "('High', 'DRREDDY.BO')":1320.5,
+    "('Low', 'DRREDDY.BO')":1305.0,
+    "('Open', 'DRREDDY.BO')":1320.5,
+    "('Volume', 'DRREDDY.BO')":120155
+  },
+  {
+    "('Date', '')":"2025-09-18",
+    "('Close', 'DRREDDY.BO')":1322.4499511719,
+    "('High', 'DRREDDY.BO')":1325.4499511719,
+    "('Low', 'DRREDDY.BO')":1306.8499755859,
+    "('Open', 'DRREDDY.BO')":1311.0999755859,
+    "('Volume', 'DRREDDY.BO')":100246
+  },
+  {
+    "('Date', '')":"2025-09-19",
+    "('Close', 'DRREDDY.BO')":1322.6999511719,
+    "('High', 'DRREDDY.BO')":1325.9000244141,
+    "('Low', 'DRREDDY.BO')":1312.1999511719,
+    "('Open', 'DRREDDY.BO')":1321.0,
+    "('Volume', 'DRREDDY.BO')":112389
+  },
+  {
+    "('Date', '')":"2025-09-22",
+    "('Close', 'DRREDDY.BO')":1301.5500488281,
+    "('High', 'DRREDDY.BO')":1322.0,
+    "('Low', 'DRREDDY.BO')":1292.75,
+    "('Open', 'DRREDDY.BO')":1322.0,
+    "('Volume', 'DRREDDY.BO')":93070
+  },
+  {
+    "('Date', '')":"2025-09-23",
+    "('Close', 'DRREDDY.BO')":1308.0999755859,
+    "('High', 'DRREDDY.BO')":1311.4000244141,
+    "('Low', 'DRREDDY.BO')":1292.8499755859,
+    "('Open', 'DRREDDY.BO')":1292.8499755859,
+    "('Volume', 'DRREDDY.BO')":80223
+  },
+  {
+    "('Date', '')":"2025-09-24",
+    "('Close', 'DRREDDY.BO')":1299.25,
+    "('High', 'DRREDDY.BO')":1308.0500488281,
+    "('Low', 'DRREDDY.BO')":1295.0,
+    "('Open', 'DRREDDY.BO')":1301.1500244141,
+    "('Volume', 'DRREDDY.BO')":60522
+  },
+  {
+    "('Date', '')":"2025-09-25",
+    "('Close', 'DRREDDY.BO')":1274.8000488281,
+    "('High', 'DRREDDY.BO')":1305.4499511719,
+    "('Low', 'DRREDDY.BO')":1268.0,
+    "('Open', 'DRREDDY.BO')":1298.0,
+    "('Volume', 'DRREDDY.BO')":27989
+  },
+  {
+    "('Date', '')":"2025-09-26",
+    "('Close', 'DRREDDY.BO')":1252.75,
+    "('High', 'DRREDDY.BO')":1277.9499511719,
+    "('Low', 'DRREDDY.BO')":1245.3000488281,
+    "('Open', 'DRREDDY.BO')":1248.0999755859,
+    "('Volume', 'DRREDDY.BO')":84126
+  },
+  {
+    "('Date', '')":"2025-09-29",
+    "('Close', 'DRREDDY.BO')":1235.1999511719,
+    "('High', 'DRREDDY.BO')":1268.4499511719,
+    "('Low', 'DRREDDY.BO')":1231.0999755859,
+    "('Open', 'DRREDDY.BO')":1255.1500244141,
+    "('Volume', 'DRREDDY.BO')":100815
+  },
+  {
+    "('Date', '')":"2025-09-30",
+    "('Close', 'DRREDDY.BO')":1223.6999511719,
+    "('High', 'DRREDDY.BO')":1239.6999511719,
+    "('Low', 'DRREDDY.BO')":1216.75,
+    "('Open', 'DRREDDY.BO')":1235.0,
+    "('Volume', 'DRREDDY.BO')":44949
+  },
+  {
+    "('Date', '')":"2025-10-01",
+    "('Close', 'DRREDDY.BO')":1246.25,
+    "('High', 'DRREDDY.BO')":1250.0,
+    "('Low', 'DRREDDY.BO')":1225.4499511719,
+    "('Open', 'DRREDDY.BO')":1225.4499511719,
+    "('Volume', 'DRREDDY.BO')":247173
+  },
+  {
+    "('Date', '')":"2025-10-03",
+    "('Close', 'DRREDDY.BO')":1248.0999755859,
+    "('High', 'DRREDDY.BO')":1262.4000244141,
+    "('Low', 'DRREDDY.BO')":1240.0,
+    "('Open', 'DRREDDY.BO')":1244.75,
+    "('Volume', 'DRREDDY.BO')":150583
+  },
+  {
+    "('Date', '')":"2025-10-06",
+    "('Close', 'DRREDDY.BO')":1248.5,
+    "('High', 'DRREDDY.BO')":1251.4499511719,
+    "('Low', 'DRREDDY.BO')":1234.1999511719,
+    "('Open', 'DRREDDY.BO')":1238.1999511719,
+    "('Volume', 'DRREDDY.BO')":49349
+  },
+  {
+    "('Date', '')":"2025-10-07",
+    "('Close', 'DRREDDY.BO')":1249.1500244141,
+    "('High', 'DRREDDY.BO')":1255.9499511719,
+    "('Low', 'DRREDDY.BO')":1244.8000488281,
+    "('Open', 'DRREDDY.BO')":1249.0999755859,
+    "('Volume', 'DRREDDY.BO')":272426
+  },
+  {
+    "('Date', '')":"2025-10-08",
+    "('Close', 'DRREDDY.BO')":1234.4000244141,
+    "('High', 'DRREDDY.BO')":1250.1999511719,
+    "('Low', 'DRREDDY.BO')":1232.0,
+    "('Open', 'DRREDDY.BO')":1242.1999511719,
+    "('Volume', 'DRREDDY.BO')":31872
+  },
+  {
+    "('Date', '')":"2025-10-09",
+    "('Close', 'DRREDDY.BO')":1245.6500244141,
+    "('High', 'DRREDDY.BO')":1263.8499755859,
+    "('Low', 'DRREDDY.BO')":1240.0999755859,
+    "('Open', 'DRREDDY.BO')":1240.0999755859,
+    "('Volume', 'DRREDDY.BO')":90629
+  },
+  {
+    "('Date', '')":"2025-10-10",
+    "('Close', 'DRREDDY.BO')":1264.8000488281,
+    "('High', 'DRREDDY.BO')":1267.4499511719,
+    "('Low', 'DRREDDY.BO')":1245.0,
+    "('Open', 'DRREDDY.BO')":1246.5999755859,
+    "('Volume', 'DRREDDY.BO')":43982
+  },
+  {
+    "('Date', '')":"2025-10-13",
+    "('Close', 'DRREDDY.BO')":1261.9499511719,
+    "('High', 'DRREDDY.BO')":1264.75,
+    "('Low', 'DRREDDY.BO')":1248.25,
+    "('Open', 'DRREDDY.BO')":1250.9499511719,
+    "('Volume', 'DRREDDY.BO')":158491
+  },
+  {
+    "('Date', '')":"2025-10-14",
+    "('Close', 'DRREDDY.BO')":1237.25,
+    "('High', 'DRREDDY.BO')":1268.25,
+    "('Low', 'DRREDDY.BO')":1232.3499755859,
+    "('Open', 'DRREDDY.BO')":1268.25,
+    "('Volume', 'DRREDDY.BO')":4182205
+  },
+  {
+    "('Date', '')":"2025-10-15",
+    "('Close', 'DRREDDY.BO')":1232.5,
+    "('High', 'DRREDDY.BO')":1241.8000488281,
+    "('Low', 'DRREDDY.BO')":1231.3000488281,
+    "('Open', 'DRREDDY.BO')":1238.0,
+    "('Volume', 'DRREDDY.BO')":94820
+  },
+  {
+    "('Date', '')":"2025-10-16",
+    "('Close', 'DRREDDY.BO')":1240.0500488281,
+    "('High', 'DRREDDY.BO')":1242.3499755859,
+    "('Low', 'DRREDDY.BO')":1230.5999755859,
+    "('Open', 'DRREDDY.BO')":1232.3000488281,
+    "('Volume', 'DRREDDY.BO')":21551
+  },
+  {
+    "('Date', '')":"2025-10-17",
+    "('Close', 'DRREDDY.BO')":1256.0,
+    "('High', 'DRREDDY.BO')":1261.5,
+    "('Low', 'DRREDDY.BO')":1238.25,
+    "('Open', 'DRREDDY.BO')":1240.9499511719,
+    "('Volume', 'DRREDDY.BO')":51496
+  },
+  {
+    "('Date', '')":"2025-10-20",
+    "('Close', 'DRREDDY.BO')":1282.4000244141,
+    "('High', 'DRREDDY.BO')":1287.0,
+    "('Low', 'DRREDDY.BO')":1259.5999755859,
+    "('Open', 'DRREDDY.BO')":1263.0,
+    "('Volume', 'DRREDDY.BO')":60619
+  },
+  {
+    "('Date', '')":"2025-10-21",
+    "('Close', 'DRREDDY.BO')":1289.5500488281,
+    "('High', 'DRREDDY.BO')":1294.4499511719,
+    "('Low', 'DRREDDY.BO')":1285.0500488281,
+    "('Open', 'DRREDDY.BO')":1285.0500488281,
+    "('Volume', 'DRREDDY.BO')":21088
+  },
+  {
+    "('Date', '')":"2025-10-23",
+    "('Close', 'DRREDDY.BO')":1279.8499755859,
+    "('High', 'DRREDDY.BO')":1300.0,
+    "('Low', 'DRREDDY.BO')":1272.0,
+    "('Open', 'DRREDDY.BO')":1299.0,
+    "('Volume', 'DRREDDY.BO')":202424
+  },
+  {
+    "('Date', '')":"2025-10-24",
+    "('Close', 'DRREDDY.BO')":1284.0,
+    "('High', 'DRREDDY.BO')":1287.8499755859,
+    "('Low', 'DRREDDY.BO')":1266.8000488281,
+    "('Open', 'DRREDDY.BO')":1280.5500488281,
+    "('Volume', 'DRREDDY.BO')":48153
+  },
+  {
+    "('Date', '')":"2025-10-27",
+    "('Close', 'DRREDDY.BO')":1284.5999755859,
+    "('High', 'DRREDDY.BO')":1293.6500244141,
+    "('Low', 'DRREDDY.BO')":1265.0,
+    "('Open', 'DRREDDY.BO')":1284.0,
+    "('Volume', 'DRREDDY.BO')":122665
+  },
+  {
+    "('Date', '')":"2025-10-28",
+    "('Close', 'DRREDDY.BO')":1290.5,
+    "('High', 'DRREDDY.BO')":1294.5,
+    "('Low', 'DRREDDY.BO')":1275.0999755859,
+    "('Open', 'DRREDDY.BO')":1275.0999755859,
+    "('Volume', 'DRREDDY.BO')":41267
+  },
+  {
+    "('Date', '')":"2025-10-29",
+    "('Close', 'DRREDDY.BO')":1252.5999755859,
+    "('High', 'DRREDDY.BO')":1301.5999755859,
+    "('Low', 'DRREDDY.BO')":1235.0,
+    "('Open', 'DRREDDY.BO')":1296.4000244141,
+    "('Volume', 'DRREDDY.BO')":82364
+  },
+  {
+    "('Date', '')":"2025-10-30",
+    "('Close', 'DRREDDY.BO')":1202.1500244141,
+    "('High', 'DRREDDY.BO')":1207.3499755859,
+    "('Low', 'DRREDDY.BO')":1181.5999755859,
+    "('Open', 'DRREDDY.BO')":1198.9499511719,
+    "('Volume', 'DRREDDY.BO')":422667
+  },
+  {
+    "('Date', '')":"2025-10-31",
+    "('Close', 'DRREDDY.BO')":1197.75,
+    "('High', 'DRREDDY.BO')":1205.9000244141,
+    "('Low', 'DRREDDY.BO')":1190.5999755859,
+    "('Open', 'DRREDDY.BO')":1201.3000488281,
+    "('Volume', 'DRREDDY.BO')":84483
+  },
+  {
+    "('Date', '')":"2025-11-03",
+    "('Close', 'DRREDDY.BO')":1196.4499511719,
+    "('High', 'DRREDDY.BO')":1203.8499755859,
+    "('Low', 'DRREDDY.BO')":1188.0,
+    "('Open', 'DRREDDY.BO')":1203.8499755859,
+    "('Volume', 'DRREDDY.BO')":57409
+  },
+  {
+    "('Date', '')":"2025-11-04",
+    "('Close', 'DRREDDY.BO')":1200.8000488281,
+    "('High', 'DRREDDY.BO')":1204.0,
+    "('Low', 'DRREDDY.BO')":1193.1999511719,
+    "('Open', 'DRREDDY.BO')":1197.4499511719,
+    "('Volume', 'DRREDDY.BO')":44334
+  },
+  {
+    "('Date', '')":"2025-11-06",
+    "('Close', 'DRREDDY.BO')":1205.0500488281,
+    "('High', 'DRREDDY.BO')":1213.4499511719,
+    "('Low', 'DRREDDY.BO')":1193.5999755859,
+    "('Open', 'DRREDDY.BO')":1193.8499755859,
+    "('Volume', 'DRREDDY.BO')":113256
+  },
+  {
+    "('Date', '')":"2025-11-07",
+    "('Close', 'DRREDDY.BO')":1205.3000488281,
+    "('High', 'DRREDDY.BO')":1211.6999511719,
+    "('Low', 'DRREDDY.BO')":1198.8000488281,
+    "('Open', 'DRREDDY.BO')":1209.4499511719,
+    "('Volume', 'DRREDDY.BO')":18282
+  },
+  {
+    "('Date', '')":"2025-11-10",
+    "('Close', 'DRREDDY.BO')":1198.4499511719,
+    "('High', 'DRREDDY.BO')":1209.4499511719,
+    "('Low', 'DRREDDY.BO')":1195.25,
+    "('Open', 'DRREDDY.BO')":1206.9499511719,
+    "('Volume', 'DRREDDY.BO')":16253
+  },
+  {
+    "('Date', '')":"2025-11-11",
+    "('Close', 'DRREDDY.BO')":1211.3499755859,
+    "('High', 'DRREDDY.BO')":1214.75,
+    "('Low', 'DRREDDY.BO')":1199.0,
+    "('Open', 'DRREDDY.BO')":1207.5999755859,
+    "('Volume', 'DRREDDY.BO')":22981
+  },
+  {
+    "('Date', '')":"2025-11-12",
+    "('Close', 'DRREDDY.BO')":1229.25,
+    "('High', 'DRREDDY.BO')":1234.8499755859,
+    "('Low', 'DRREDDY.BO')":1214.5500488281,
+    "('Open', 'DRREDDY.BO')":1221.8499755859,
+    "('Volume', 'DRREDDY.BO')":62111
+  },
+  {
+    "('Date', '')":"2025-11-13",
+    "('Close', 'DRREDDY.BO')":1234.5500488281,
+    "('High', 'DRREDDY.BO')":1242.0,
+    "('Low', 'DRREDDY.BO')":1227.6500244141,
+    "('Open', 'DRREDDY.BO')":1241.75,
+    "('Volume', 'DRREDDY.BO')":33002
+  }
+]

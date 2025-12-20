@@ -1,0 +1,1986 @@
+[
+  {
+    "('Date', '')":"2024-11-13",
+    "('Close', 'KOTAKBANK.BO')":1686.3067626953,
+    "('High', 'KOTAKBANK.BO')":1725.5115845142,
+    "('Low', 'KOTAKBANK.BO')":1677.167270293,
+    "('Open', 'KOTAKBANK.BO')":1710.2291466002,
+    "('Volume', 'KOTAKBANK.BO')":103621
+  },
+  {
+    "('Date', '')":"2024-11-14",
+    "('Close', 'KOTAKBANK.BO')":1706.1339111328,
+    "('High', 'KOTAKBANK.BO')":1710.8784437677,
+    "('Low', 'KOTAKBANK.BO')":1686.7562166168,
+    "('Open', 'KOTAKBANK.BO')":1686.7562166168,
+    "('Volume', 'KOTAKBANK.BO')":97348
+  },
+  {
+    "('Date', '')":"2024-11-18",
+    "('Close', 'KOTAKBANK.BO')":1720.6171875,
+    "('High', 'KOTAKBANK.BO')":1726.3605689979,
+    "('Low', 'KOTAKBANK.BO')":1698.0432254767,
+    "('Open', 'KOTAKBANK.BO')":1700.3406268478,
+    "('Volume', 'KOTAKBANK.BO')":135868
+  },
+  {
+    "('Date', '')":"2024-11-19",
+    "('Close', 'KOTAKBANK.BO')":1724.6625976562,
+    "('High', 'KOTAKBANK.BO')":1737.0982185552,
+    "('Low', 'KOTAKBANK.BO')":1712.0271338055,
+    "('Open', 'KOTAKBANK.BO')":1730.9054037159,
+    "('Volume', 'KOTAKBANK.BO')":697998
+  },
+  {
+    "('Date', '')":"2024-11-21",
+    "('Close', 'KOTAKBANK.BO')":1734.9506835938,
+    "('High', 'KOTAKBANK.BO')":1739.0959312385,
+    "('Low', 'KOTAKBANK.BO')":1702.4382225172,
+    "('Open', 'KOTAKBANK.BO')":1704.0863477169,
+    "('Volume', 'KOTAKBANK.BO')":23077
+  },
+  {
+    "('Date', '')":"2024-11-22",
+    "('Close', 'KOTAKBANK.BO')":1760.6710205078,
+    "('High', 'KOTAKBANK.BO')":1769.1113674136,
+    "('Low', 'KOTAKBANK.BO')":1727.3594319361,
+    "('Open', 'KOTAKBANK.BO')":1727.3594319361,
+    "('Volume', 'KOTAKBANK.BO')":88131
+  },
+  {
+    "('Date', '')":"2024-11-25",
+    "('Close', 'KOTAKBANK.BO')":1789.4879150391,
+    "('High', 'KOTAKBANK.BO')":1793.0837469332,
+    "('Low', 'KOTAKBANK.BO')":1765.0659846457,
+    "('Open', 'KOTAKBANK.BO')":1770.2100812101,
+    "('Volume', 'KOTAKBANK.BO')":298594
+  },
+  {
+    "('Date', '')":"2024-11-26",
+    "('Close', 'KOTAKBANK.BO')":1780.4982910156,
+    "('High', 'KOTAKBANK.BO')":1793.1336330187,
+    "('Low', 'KOTAKBANK.BO')":1772.9569324746,
+    "('Open', 'KOTAKBANK.BO')":1785.2926929427,
+    "('Volume', 'KOTAKBANK.BO')":45740
+  },
+  {
+    "('Date', '')":"2024-11-27",
+    "('Close', 'KOTAKBANK.BO')":1780.3483886719,
+    "('High', 'KOTAKBANK.BO')":1803.6714872135,
+    "('Low', 'KOTAKBANK.BO')":1775.3041527143,
+    "('Open', 'KOTAKBANK.BO')":1788.1393373056,
+    "('Volume', 'KOTAKBANK.BO')":54582
+  },
+  {
+    "('Date', '')":"2024-11-28",
+    "('Close', 'KOTAKBANK.BO')":1757.8243408203,
+    "('High', 'KOTAKBANK.BO')":1784.9431148243,
+    "('Low', 'KOTAKBANK.BO')":1751.5815347388,
+    "('Open', 'KOTAKBANK.BO')":1777.9011807925,
+    "('Volume', 'KOTAKBANK.BO')":50605
+  },
+  {
+    "('Date', '')":"2024-11-29",
+    "('Close', 'KOTAKBANK.BO')":1764.7663574219,
+    "('High', 'KOTAKBANK.BO')":1771.5584570616,
+    "('Low', 'KOTAKBANK.BO')":1755.8765774626,
+    "('Open', 'KOTAKBANK.BO')":1765.91493616,
+    "('Volume', 'KOTAKBANK.BO')":123648
+  },
+  {
+    "('Date', '')":"2024-12-02",
+    "('Close', 'KOTAKBANK.BO')":1752.48046875,
+    "('High', 'KOTAKBANK.BO')":1769.9603252351,
+    "('Low', 'KOTAKBANK.BO')":1744.4896772139,
+    "('Open', 'KOTAKBANK.BO')":1759.0229780921,
+    "('Volume', 'KOTAKBANK.BO')":451899
+  },
+  {
+    "('Date', '')":"2024-12-03",
+    "('Close', 'KOTAKBANK.BO')":1747.486328125,
+    "('High', 'KOTAKBANK.BO')":1762.6687841759,
+    "('Low', 'KOTAKBANK.BO')":1738.0971231249,
+    "('Open', 'KOTAKBANK.BO')":1762.6687841759,
+    "('Volume', 'KOTAKBANK.BO')":293290
+  },
+  {
+    "('Date', '')":"2024-12-04",
+    "('Close', 'KOTAKBANK.BO')":1755.0275878906,
+    "('High', 'KOTAKBANK.BO')":1763.6176644332,
+    "('Low', 'KOTAKBANK.BO')":1745.8880956563,
+    "('Open', 'KOTAKBANK.BO')":1756.9253033426,
+    "('Volume', 'KOTAKBANK.BO')":33597
+  },
+  {
+    "('Date', '')":"2024-12-05",
+    "('Close', 'KOTAKBANK.BO')":1775.2542724609,
+    "('High', 'KOTAKBANK.BO')":1785.7421863465,
+    "('Low', 'KOTAKBANK.BO')":1745.9879497037,
+    "('Open', 'KOTAKBANK.BO')":1767.5630624537,
+    "('Volume', 'KOTAKBANK.BO')":27429
+  },
+  {
+    "('Date', '')":"2024-12-06",
+    "('Close', 'KOTAKBANK.BO')":1774.8048095703,
+    "('High', 'KOTAKBANK.BO')":1782.6957410043,
+    "('Low', 'KOTAKBANK.BO')":1758.5735134273,
+    "('Open', 'KOTAKBANK.BO')":1762.2693278608,
+    "('Volume', 'KOTAKBANK.BO')":55963
+  },
+  {
+    "('Date', '')":"2024-12-09",
+    "('Close', 'KOTAKBANK.BO')":1784.1939697266,
+    "('High', 'KOTAKBANK.BO')":1802.173251157,
+    "('Low', 'KOTAKBANK.BO')":1767.9626739908,
+    "('Open', 'KOTAKBANK.BO')":1772.8570583217,
+    "('Volume', 'KOTAKBANK.BO')":31563
+  },
+  {
+    "('Date', '')":"2024-12-10",
+    "('Close', 'KOTAKBANK.BO')":1793.4333496094,
+    "('High', 'KOTAKBANK.BO')":1800.5751442263,
+    "('Low', 'KOTAKBANK.BO')":1782.296159059,
+    "('Open', 'KOTAKBANK.BO')":1784.9431332509,
+    "('Volume', 'KOTAKBANK.BO')":54164
+  },
+  {
+    "('Date', '')":"2024-12-11",
+    "('Close', 'KOTAKBANK.BO')":1792.3345947266,
+    "('High', 'KOTAKBANK.BO')":1803.9212182541,
+    "('Low', 'KOTAKBANK.BO')":1787.7399139055,
+    "('Open', 'KOTAKBANK.BO')":1794.3322926427,
+    "('Volume', 'KOTAKBANK.BO')":47185
+  },
+  {
+    "('Date', '')":"2024-12-12",
+    "('Close', 'KOTAKBANK.BO')":1767.6131591797,
+    "('High', 'KOTAKBANK.BO')":1794.3323699591,
+    "('Low', 'KOTAKBANK.BO')":1763.4179202172,
+    "('Open', 'KOTAKBANK.BO')":1791.8851167485,
+    "('Volume', 'KOTAKBANK.BO')":45251
+  },
+  {
+    "('Date', '')":"2024-12-13",
+    "('Close', 'KOTAKBANK.BO')":1804.0710449219,
+    "('High', 'KOTAKBANK.BO')":1806.3683243356,
+    "('Low', 'KOTAKBANK.BO')":1745.6383816872,
+    "('Open', 'KOTAKBANK.BO')":1765.0659448796,
+    "('Volume', 'KOTAKBANK.BO')":104762
+  },
+  {
+    "('Date', '')":"2024-12-16",
+    "('Close', 'KOTAKBANK.BO')":1802.0733642578,
+    "('High', 'KOTAKBANK.BO')":1810.5135891449,
+    "('Low', 'KOTAKBANK.BO')":1791.2857467856,
+    "('Open', 'KOTAKBANK.BO')":1802.5727887347,
+    "('Volume', 'KOTAKBANK.BO')":77510
+  },
+  {
+    "('Date', '')":"2024-12-17",
+    "('Close', 'KOTAKBANK.BO')":1780.9976806641,
+    "('High', 'KOTAKBANK.BO')":1803.8213549342,
+    "('Low', 'KOTAKBANK.BO')":1773.5561827802,
+    "('Open', 'KOTAKBANK.BO')":1785.3925185288,
+    "('Volume', 'KOTAKBANK.BO')":19363
+  },
+  {
+    "('Date', '')":"2024-12-18",
+    "('Close', 'KOTAKBANK.BO')":1777.951171875,
+    "('High', 'KOTAKBANK.BO')":1782.7456957171,
+    "('Low', 'KOTAKBANK.BO')":1768.5619671432,
+    "('Open', 'KOTAKBANK.BO')":1781.0475793052,
+    "('Volume', 'KOTAKBANK.BO')":41979
+  },
+  {
+    "('Date', '')":"2024-12-19",
+    "('Close', 'KOTAKBANK.BO')":1759.8720703125,
+    "('High', 'KOTAKBANK.BO')":1762.219341067,
+    "('Low', 'KOTAKBANK.BO')":1743.3910618797,
+    "('Open', 'KOTAKBANK.BO')":1749.8835803532,
+    "('Volume', 'KOTAKBANK.BO')":40838
+  },
+  {
+    "('Date', '')":"2024-12-20",
+    "('Close', 'KOTAKBANK.BO')":1741.5432128906,
+    "('High', 'KOTAKBANK.BO')":1766.1647430578,
+    "('Low', 'KOTAKBANK.BO')":1732.2538684711,
+    "('Open', 'KOTAKBANK.BO')":1757.9742300759,
+    "('Volume', 'KOTAKBANK.BO')":33851
+  },
+  {
+    "('Date', '')":"2024-12-23",
+    "('Close', 'KOTAKBANK.BO')":1742.8916015625,
+    "('High', 'KOTAKBANK.BO')":1761.9695926067,
+    "('Low', 'KOTAKBANK.BO')":1739.9949151479,
+    "('Open', 'KOTAKBANK.BO')":1743.1911830972,
+    "('Volume', 'KOTAKBANK.BO')":29338
+  },
+  {
+    "('Date', '')":"2024-12-24",
+    "('Close', 'KOTAKBANK.BO')":1747.3864746094,
+    "('High', 'KOTAKBANK.BO')":1751.7814346195,
+    "('Low', 'KOTAKBANK.BO')":1736.0495627829,
+    "('Open', 'KOTAKBANK.BO')":1745.7883405865,
+    "('Volume', 'KOTAKBANK.BO')":15550
+  },
+  {
+    "('Date', '')":"2024-12-26",
+    "('Close', 'KOTAKBANK.BO')":1751.9311523438,
+    "('High', 'KOTAKBANK.BO')":1766.9638785448,
+    "('Low', 'KOTAKBANK.BO')":1740.0948160962,
+    "('Open', 'KOTAKBANK.BO')":1749.0345877916,
+    "('Volume', 'KOTAKBANK.BO')":24743
+  },
+  {
+    "('Date', '')":"2024-12-27",
+    "('Close', 'KOTAKBANK.BO')":1757.4747314453,
+    "('High', 'KOTAKBANK.BO')":1774.7048758712,
+    "('Low', 'KOTAKBANK.BO')":1743.0912821473,
+    "('Open', 'KOTAKBANK.BO')":1743.0912821473,
+    "('Volume', 'KOTAKBANK.BO')":68469
+  },
+  {
+    "('Date', '')":"2024-12-30",
+    "('Close', 'KOTAKBANK.BO')":1740.8939208984,
+    "('High', 'KOTAKBANK.BO')":1778.5006095817,
+    "('Low', 'KOTAKBANK.BO')":1732.5035650358,
+    "('Open', 'KOTAKBANK.BO')":1758.1739351866,
+    "('Volume', 'KOTAKBANK.BO')":90022
+  },
+  {
+    "('Date', '')":"2024-12-31",
+    "('Close', 'KOTAKBANK.BO')":1784.2440185547,
+    "('High', 'KOTAKBANK.BO')":1793.9328050886,
+    "('Low', 'KOTAKBANK.BO')":1735.7498508033,
+    "('Open', 'KOTAKBANK.BO')":1735.7498508033,
+    "('Volume', 'KOTAKBANK.BO')":93983
+  },
+  {
+    "('Date', '')":"2025-01-01",
+    "('Close', 'KOTAKBANK.BO')":1785.9919433594,
+    "('High', 'KOTAKBANK.BO')":1794.6318893759,
+    "('Low', 'KOTAKBANK.BO')":1775.4040467704,
+    "('Open', 'KOTAKBANK.BO')":1781.8965650528,
+    "('Volume', 'KOTAKBANK.BO')":30891
+  },
+  {
+    "('Date', '')":"2025-01-02",
+    "('Close', 'KOTAKBANK.BO')":1833.88671875,
+    "('High', 'KOTAKBANK.BO')":1837.6324024076,
+    "('Low', 'KOTAKBANK.BO')":1796.9293066619,
+    "('Open', 'KOTAKBANK.BO')":1799.925853588,
+    "('Volume', 'KOTAKBANK.BO')":72550
+  },
+  {
+    "('Date', '')":"2025-01-03",
+    "('Close', 'KOTAKBANK.BO')":1837.0330810547,
+    "('High', 'KOTAKBANK.BO')":1846.5720154227,
+    "('Low', 'KOTAKBANK.BO')":1814.6588400636,
+    "('Open', 'KOTAKBANK.BO')":1838.8309360169,
+    "('Volume', 'KOTAKBANK.BO')":57700
+  },
+  {
+    "('Date', '')":"2025-01-06",
+    "('Close', 'KOTAKBANK.BO')":1777.2020263672,
+    "('High', 'KOTAKBANK.BO')":1817.9051218144,
+    "('Low', 'KOTAKBANK.BO')":1770.959220317,
+    "('Open', 'KOTAKBANK.BO')":1807.9166321341,
+    "('Volume', 'KOTAKBANK.BO')":82810
+  },
+  {
+    "('Date', '')":"2025-01-07",
+    "('Close', 'KOTAKBANK.BO')":1771.4086914062,
+    "('High', 'KOTAKBANK.BO')":1795.3311978593,
+    "('Low', 'KOTAKBANK.BO')":1767.9627111649,
+    "('Open', 'KOTAKBANK.BO')":1778.2509045272,
+    "('Volume', 'KOTAKBANK.BO')":25580
+  },
+  {
+    "('Date', '')":"2025-01-08",
+    "('Close', 'KOTAKBANK.BO')":1766.6641845703,
+    "('High', 'KOTAKBANK.BO')":1782.2961958686,
+    "('Low', 'KOTAKBANK.BO')":1760.8709335051,
+    "('Open', 'KOTAKBANK.BO')":1773.5562670837,
+    "('Volume', 'KOTAKBANK.BO')":30919
+  },
+  {
+    "('Date', '')":"2025-01-09",
+    "('Close', 'KOTAKBANK.BO')":1787.7399902344,
+    "('High', 'KOTAKBANK.BO')":1806.6681300258,
+    "('Low', 'KOTAKBANK.BO')":1770.0104204719,
+    "('Open', 'KOTAKBANK.BO')":1770.0104204719,
+    "('Volume', 'KOTAKBANK.BO')":72297
+  },
+  {
+    "('Date', '')":"2025-01-10",
+    "('Close', 'KOTAKBANK.BO')":1754.7779541016,
+    "('High', 'KOTAKBANK.BO')":1787.6399883231,
+    "('Low', 'KOTAKBANK.BO')":1750.9822791683,
+    "('Open', 'KOTAKBANK.BO')":1773.2566604134,
+    "('Volume', 'KOTAKBANK.BO')":17212
+  },
+  {
+    "('Date', '')":"2025-01-13",
+    "('Close', 'KOTAKBANK.BO')":1736.2492675781,
+    "('High', 'KOTAKBANK.BO')":1741.3933642943,
+    "('Low', 'KOTAKBANK.BO')":1721.6660966201,
+    "('Open', 'KOTAKBANK.BO')":1725.4616496477,
+    "('Volume', 'KOTAKBANK.BO')":56601
+  },
+  {
+    "('Date', '')":"2025-01-14",
+    "('Close', 'KOTAKBANK.BO')":1747.2365722656,
+    "('High', 'KOTAKBANK.BO')":1765.9649905763,
+    "('Low', 'KOTAKBANK.BO')":1709.0805901326,
+    "('Open', 'KOTAKBANK.BO')":1709.0805901326,
+    "('Volume', 'KOTAKBANK.BO')":95227
+  },
+  {
+    "('Date', '')":"2025-01-15",
+    "('Close', 'KOTAKBANK.BO')":1787.2404785156,
+    "('High', 'KOTAKBANK.BO')":1792.5842960227,
+    "('Low', 'KOTAKBANK.BO')":1758.9730044032,
+    "('Open', 'KOTAKBANK.BO')":1764.9161068955,
+    "('Volume', 'KOTAKBANK.BO')":18732
+  },
+  {
+    "('Date', '')":"2025-01-16",
+    "('Close', 'KOTAKBANK.BO')":1803.1721191406,
+    "('High', 'KOTAKBANK.BO')":1813.3603299534,
+    "('Low', 'KOTAKBANK.BO')":1784.2439797626,
+    "('Open', 'KOTAKBANK.BO')":1787.8398117006,
+    "('Volume', 'KOTAKBANK.BO')":19081
+  },
+  {
+    "('Date', '')":"2025-01-17",
+    "('Close', 'KOTAKBANK.BO')":1756.6257324219,
+    "('High', 'KOTAKBANK.BO')":1797.1289842353,
+    "('Low', 'KOTAKBANK.BO')":1746.5373824007,
+    "('Open', 'KOTAKBANK.BO')":1784.2439303086,
+    "('Volume', 'KOTAKBANK.BO')":23304
+  },
+  {
+    "('Date', '')":"2025-01-20",
+    "('Close', 'KOTAKBANK.BO')":1917.3905029297,
+    "('High', 'KOTAKBANK.BO')":1926.7797078516,
+    "('Low', 'KOTAKBANK.BO')":1864.9010614958,
+    "('Open', 'KOTAKBANK.BO')":1879.9336656853,
+    "('Volume', 'KOTAKBANK.BO')":648526
+  },
+  {
+    "('Date', '')":"2025-01-21",
+    "('Close', 'KOTAKBANK.BO')":1891.220703125,
+    "('High', 'KOTAKBANK.BO')":1918.6390591441,
+    "('Low', 'KOTAKBANK.BO')":1889.1231446308,
+    "('Open', 'KOTAKBANK.BO')":1918.6390591441,
+    "('Volume', 'KOTAKBANK.BO')":258622
+  },
+  {
+    "('Date', '')":"2025-01-22",
+    "('Close', 'KOTAKBANK.BO')":1914.943359375,
+    "('High', 'KOTAKBANK.BO')":1918.2394878735,
+    "('Low', 'KOTAKBANK.BO')":1884.3286135445,
+    "('Open', 'KOTAKBANK.BO')":1892.4192659514,
+    "('Volume', 'KOTAKBANK.BO')":98731
+  },
+  {
+    "('Date', '')":"2025-01-23",
+    "('Close', 'KOTAKBANK.BO')":1892.4191894531,
+    "('High', 'KOTAKBANK.BO')":1921.3858088986,
+    "('Low', 'KOTAKBANK.BO')":1890.521352069,
+    "('Open', 'KOTAKBANK.BO')":1899.3612627884,
+    "('Volume', 'KOTAKBANK.BO')":40008
+  },
+  {
+    "('Date', '')":"2025-01-24",
+    "('Close', 'KOTAKBANK.BO')":1884.2287597656,
+    "('High', 'KOTAKBANK.BO')":1916.6413607303,
+    "('Low', 'KOTAKBANK.BO')":1871.2437228912,
+    "('Open', 'KOTAKBANK.BO')":1892.3694034229,
+    "('Volume', 'KOTAKBANK.BO')":52671
+  },
+  {
+    "('Date', '')":"2025-01-27",
+    "('Close', 'KOTAKBANK.BO')":1878.4353027344,
+    "('High', 'KOTAKBANK.BO')":1893.6178798656,
+    "('Low', 'KOTAKBANK.BO')":1859.3573122591,
+    "('Open', 'KOTAKBANK.BO')":1859.3573122591,
+    "('Volume', 'KOTAKBANK.BO')":61674
+  },
+  {
+    "('Date', '')":"2025-01-28",
+    "('Close', 'KOTAKBANK.BO')":1884.5782470703,
+    "('High', 'KOTAKBANK.BO')":1901.8083913724,
+    "('Low', 'KOTAKBANK.BO')":1868.496803441,
+    "('Open', 'KOTAKBANK.BO')":1887.8744973609,
+    "('Volume', 'KOTAKBANK.BO')":125871
+  },
+  {
+    "('Date', '')":"2025-01-29",
+    "('Close', 'KOTAKBANK.BO')":1918.2395019531,
+    "('High', 'KOTAKBANK.BO')":1922.2848891512,
+    "('Low', 'KOTAKBANK.BO')":1882.9302143975,
+    "('Open', 'KOTAKBANK.BO')":1892.6191227982,
+    "('Volume', 'KOTAKBANK.BO')":40762
+  },
+  {
+    "('Date', '')":"2025-01-30",
+    "('Close', 'KOTAKBANK.BO')":1898.9117431641,
+    "('High', 'KOTAKBANK.BO')":1935.7692943622,
+    "('Low', 'KOTAKBANK.BO')":1875.7883652361,
+    "('Open', 'KOTAKBANK.BO')":1921.7354176306,
+    "('Volume', 'KOTAKBANK.BO')":92587
+  },
+  {
+    "('Date', '')":"2025-01-31",
+    "('Close', 'KOTAKBANK.BO')":1900.4600830078,
+    "('High', 'KOTAKBANK.BO')":1904.6552000553,
+    "('Low', 'KOTAKBANK.BO')":1887.8246187135,
+    "('Open', 'KOTAKBANK.BO')":1902.8073537827,
+    "('Volume', 'KOTAKBANK.BO')":22051
+  },
+  {
+    "('Date', '')":"2025-02-01",
+    "('Close', 'KOTAKBANK.BO')":1900.8596191406,
+    "('High', 'KOTAKBANK.BO')":1914.6936532658,
+    "('Low', 'KOTAKBANK.BO')":1869.745448717,
+    "('Open', 'KOTAKBANK.BO')":1907.6517191146,
+    "('Volume', 'KOTAKBANK.BO')":51051
+  },
+  {
+    "('Date', '')":"2025-02-03",
+    "('Close', 'KOTAKBANK.BO')":1883.0300292969,
+    "('High', 'KOTAKBANK.BO')":1900.5098862702,
+    "('Low', 'KOTAKBANK.BO')":1880.2831946296,
+    "('Open', 'KOTAKBANK.BO')":1882.9301687858,
+    "('Volume', 'KOTAKBANK.BO')":18970
+  },
+  {
+    "('Date', '')":"2025-02-04",
+    "('Close', 'KOTAKBANK.BO')":1928.2279052734,
+    "('High', 'KOTAKBANK.BO')":1938.2663859851,
+    "('Low', 'KOTAKBANK.BO')":1875.8383266581,
+    "('Open', 'KOTAKBANK.BO')":1891.7699186265,
+    "('Volume', 'KOTAKBANK.BO')":81038
+  },
+  {
+    "('Date', '')":"2025-02-05",
+    "('Close', 'KOTAKBANK.BO')":1909.2498779297,
+    "('High', 'KOTAKBANK.BO')":1935.7693677301,
+    "('Low', 'KOTAKBANK.BO')":1901.1093560994,
+    "('Open', 'KOTAKBANK.BO')":1928.3778607223,
+    "('Volume', 'KOTAKBANK.BO')":49149
+  },
+  {
+    "('Date', '')":"2025-02-06",
+    "('Close', 'KOTAKBANK.BO')":1913.3452148438,
+    "('High', 'KOTAKBANK.BO')":1915.9920671003,
+    "('Low', 'KOTAKBANK.BO')":1894.7665262483,
+    "('Open', 'KOTAKBANK.BO')":1913.0455113774,
+    "('Volume', 'KOTAKBANK.BO')":17212
+  },
+  {
+    "('Date', '')":"2025-02-07",
+    "('Close', 'KOTAKBANK.BO')":1933.9215087891,
+    "('High', 'KOTAKBANK.BO')":1955.7463349747,
+    "('Low', 'KOTAKBANK.BO')":1906.9025946642,
+    "('Open', 'KOTAKBANK.BO')":1915.0432383709,
+    "('Volume', 'KOTAKBANK.BO')":20775
+  },
+  {
+    "('Date', '')":"2025-02-10",
+    "('Close', 'KOTAKBANK.BO')":1957.1945800781,
+    "('High', 'KOTAKBANK.BO')":1962.4385372097,
+    "('Low', 'KOTAKBANK.BO')":1921.6355808671,
+    "('Open', 'KOTAKBANK.BO')":1934.4707658413,
+    "('Volume', 'KOTAKBANK.BO')":167434
+  },
+  {
+    "('Date', '')":"2025-02-11",
+    "('Close', 'KOTAKBANK.BO')":1915.1430664062,
+    "('High', 'KOTAKBANK.BO')":1967.6326290495,
+    "('Low', 'KOTAKBANK.BO')":1904.4054398769,
+    "('Open', 'KOTAKBANK.BO')":1967.6326290495,
+    "('Volume', 'KOTAKBANK.BO')":95133
+  },
+  {
+    "('Date', '')":"2025-02-12",
+    "('Close', 'KOTAKBANK.BO')":1941.0632324219,
+    "('High', 'KOTAKBANK.BO')":1946.756622721,
+    "('Low', 'KOTAKBANK.BO')":1902.5575562483,
+    "('Open', 'KOTAKBANK.BO')":1931.7238971036,
+    "('Volume', 'KOTAKBANK.BO')":49454
+  },
+  {
+    "('Date', '')":"2025-02-13",
+    "('Close', 'KOTAKBANK.BO')":1969.3305664062,
+    "('High', 'KOTAKBANK.BO')":1989.7071093823,
+    "('Low', 'KOTAKBANK.BO')":1961.5894870399,
+    "('Open', 'KOTAKBANK.BO')":1967.6325719623,
+    "('Volume', 'KOTAKBANK.BO')":148116
+  },
+  {
+    "('Date', '')":"2025-02-14",
+    "('Close', 'KOTAKBANK.BO')":1949.8530273438,
+    "('High', 'KOTAKBANK.BO')":1971.7278439191,
+    "('Low', 'KOTAKBANK.BO')":1931.2244698833,
+    "('Open', 'KOTAKBANK.BO')":1971.7278439191,
+    "('Volume', 'KOTAKBANK.BO')":19700
+  },
+  {
+    "('Date', '')":"2025-02-17",
+    "('Close', 'KOTAKBANK.BO')":1942.6114501953,
+    "('High', 'KOTAKBANK.BO')":1959.7917261261,
+    "('Low', 'KOTAKBANK.BO')":1930.2756894508,
+    "('Open', 'KOTAKBANK.BO')":1950.2026781974,
+    "('Volume', 'KOTAKBANK.BO')":20666
+  },
+  {
+    "('Date', '')":"2025-02-18",
+    "('Close', 'KOTAKBANK.BO')":1961.2399902344,
+    "('High', 'KOTAKBANK.BO')":1964.3363977148,
+    "('Low', 'KOTAKBANK.BO')":1937.567317963,
+    "('Open', 'KOTAKBANK.BO')":1941.7624349456,
+    "('Volume', 'KOTAKBANK.BO')":49794
+  },
+  {
+    "('Date', '')":"2025-02-19",
+    "('Close', 'KOTAKBANK.BO')":1982.7152099609,
+    "('High', 'KOTAKBANK.BO')":1992.4039962201,
+    "('Low', 'KOTAKBANK.BO')":1959.7916748192,
+    "('Open', 'KOTAKBANK.BO')":1964.6859372395,
+    "('Volume', 'KOTAKBANK.BO')":42438
+  },
+  {
+    "('Date', '')":"2025-02-20",
+    "('Close', 'KOTAKBANK.BO')":1968.1818847656,
+    "('High', 'KOTAKBANK.BO')":1982.1657702078,
+    "('Low', 'KOTAKBANK.BO')":1957.7439619039,
+    "('Open', 'KOTAKBANK.BO')":1982.1657702078,
+    "('Volume', 'KOTAKBANK.BO')":41966
+  },
+  {
+    "('Date', '')":"2025-02-21",
+    "('Close', 'KOTAKBANK.BO')":1950.8020019531,
+    "('High', 'KOTAKBANK.BO')":1971.0785625986,
+    "('Low', 'KOTAKBANK.BO')":1931.9736015919,
+    "('Open', 'KOTAKBANK.BO')":1969.7301408942,
+    "('Volume', 'KOTAKBANK.BO')":28343
+  },
+  {
+    "('Date', '')":"2025-02-24",
+    "('Close', 'KOTAKBANK.BO')":1963.2376708984,
+    "('High', 'KOTAKBANK.BO')":1967.7324913101,
+    "('Low', 'KOTAKBANK.BO')":1923.9828571983,
+    "('Open', 'KOTAKBANK.BO')":1923.9828571983,
+    "('Volume', 'KOTAKBANK.BO')":41009
+  },
+  {
+    "('Date', '')":"2025-02-25",
+    "('Close', 'KOTAKBANK.BO')":1965.7847900391,
+    "('High', 'KOTAKBANK.BO')":1976.7221376325,
+    "('Low', 'KOTAKBANK.BO')":1956.2457334782,
+    "('Open', 'KOTAKBANK.BO')":1957.9937191987,
+    "('Volume', 'KOTAKBANK.BO')":250007
+  },
+  {
+    "('Date', '')":"2025-02-27",
+    "('Close', 'KOTAKBANK.BO')":1944.1096191406,
+    "('High', 'KOTAKBANK.BO')":1971.378244103,
+    "('Low', 'KOTAKBANK.BO')":1937.7669527277,
+    "('Open', 'KOTAKBANK.BO')":1967.7324210689,
+    "('Volume', 'KOTAKBANK.BO')":33922
+  },
+  {
+    "('Date', '')":"2025-02-28",
+    "('Close', 'KOTAKBANK.BO')":1898.5621337891,
+    "('High', 'KOTAKBANK.BO')":1942.5614786249,
+    "('Low', 'KOTAKBANK.BO')":1893.8176012964,
+    "('Open', 'KOTAKBANK.BO')":1942.5614786249,
+    "('Volume', 'KOTAKBANK.BO')":23692
+  },
+  {
+    "('Date', '')":"2025-03-03",
+    "('Close', 'KOTAKBANK.BO')":1911.0478515625,
+    "('High', 'KOTAKBANK.BO')":1921.0363415746,
+    "('Low', 'KOTAKBANK.BO')":1892.7189967763,
+    "('Open', 'KOTAKBANK.BO')":1899.061663548,
+    "('Volume', 'KOTAKBANK.BO')":32561
+  },
+  {
+    "('Date', '')":"2025-03-04",
+    "('Close', 'KOTAKBANK.BO')":1906.5029296875,
+    "('High', 'KOTAKBANK.BO')":1913.5948547302,
+    "('Low', 'KOTAKBANK.BO')":1896.1648675082,
+    "('Open', 'KOTAKBANK.BO')":1909.7491887539,
+    "('Volume', 'KOTAKBANK.BO')":41907
+  },
+  {
+    "('Date', '')":"2025-03-05",
+    "('Close', 'KOTAKBANK.BO')":1938.0667724609,
+    "('High', 'KOTAKBANK.BO')":1950.7521060479,
+    "('Low', 'KOTAKBANK.BO')":1893.2682970593,
+    "('Open', 'KOTAKBANK.BO')":1911.547282616,
+    "('Volume', 'KOTAKBANK.BO')":1360112
+  },
+  {
+    "('Date', '')":"2025-03-06",
+    "('Close', 'KOTAKBANK.BO')":1919.3881835938,
+    "('High', 'KOTAKBANK.BO')":1960.6905647032,
+    "('Low', 'KOTAKBANK.BO')":1908.3009842554,
+    "('Open', 'KOTAKBANK.BO')":1960.6905647032,
+    "('Volume', 'KOTAKBANK.BO')":36268
+  },
+  {
+    "('Date', '')":"2025-03-07",
+    "('Close', 'KOTAKBANK.BO')":1932.1235351562,
+    "('High', 'KOTAKBANK.BO')":1937.5173441321,
+    "('Low', 'KOTAKBANK.BO')":1908.3010109367,
+    "('Open', 'KOTAKBANK.BO')":1919.4880709439,
+    "('Volume', 'KOTAKBANK.BO')":15421
+  },
+  {
+    "('Date', '')":"2025-03-10",
+    "('Close', 'KOTAKBANK.BO')":1919.5880126953,
+    "('High', 'KOTAKBANK.BO')":1937.4673118391,
+    "('Low', 'KOTAKBANK.BO')":1915.7923378109,
+    "('Open', 'KOTAKBANK.BO')":1937.4673118391,
+    "('Volume', 'KOTAKBANK.BO')":11441
+  },
+  {
+    "('Date', '')":"2025-03-11",
+    "('Close', 'KOTAKBANK.BO')":1932.7227783203,
+    "('High', 'KOTAKBANK.BO')":1941.4627068647,
+    "('Low', 'KOTAKBANK.BO')":1901.1093057577,
+    "('Open', 'KOTAKBANK.BO')":1919.5880118231,
+    "('Volume', 'KOTAKBANK.BO')":44507
+  },
+  {
+    "('Date', '')":"2025-03-12",
+    "('Close', 'KOTAKBANK.BO')":1980.1182861328,
+    "('High', 'KOTAKBANK.BO')":1994.7014571774,
+    "('Low', 'KOTAKBANK.BO')":1937.7670640582,
+    "('Open', 'KOTAKBANK.BO')":1943.3605940839,
+    "('Volume', 'KOTAKBANK.BO')":74696
+  },
+  {
+    "('Date', '')":"2025-03-13",
+    "('Close', 'KOTAKBANK.BO')":1982.5155029297,
+    "('High', 'KOTAKBANK.BO')":1990.7060157882,
+    "('Low', 'KOTAKBANK.BO')":1967.7324892638,
+    "('Open', 'KOTAKBANK.BO')":1977.720979057,
+    "('Volume', 'KOTAKBANK.BO')":78972
+  },
+  {
+    "('Date', '')":"2025-03-17",
+    "('Close', 'KOTAKBANK.BO')":1990.5062255859,
+    "('High', 'KOTAKBANK.BO')":1996.1996157983,
+    "('Low', 'KOTAKBANK.BO')":1971.7278166554,
+    "('Open', 'KOTAKBANK.BO')":1982.6651638269,
+    "('Volume', 'KOTAKBANK.BO')":20572
+  },
+  {
+    "('Date', '')":"2025-03-18",
+    "('Close', 'KOTAKBANK.BO')":2032.2580566406,
+    "('High', 'KOTAKBANK.BO')":2036.7030076421,
+    "('Low', 'KOTAKBANK.BO')":1986.5607170127,
+    "('Open', 'KOTAKBANK.BO')":1997.6979072315,
+    "('Volume', 'KOTAKBANK.BO')":66074
+  },
+  {
+    "('Date', '')":"2025-03-19",
+    "('Close', 'KOTAKBANK.BO')":2019.1231689453,
+    "('High', 'KOTAKBANK.BO')":2047.640355349,
+    "('Low', 'KOTAKBANK.BO')":2014.5284881437,
+    "('Open', 'KOTAKBANK.BO')":2037.1024501142,
+    "('Volume', 'KOTAKBANK.BO')":93720
+  },
+  {
+    "('Date', '')":"2025-03-20",
+    "('Close', 'KOTAKBANK.BO')":2032.9073486328,
+    "('High', 'KOTAKBANK.BO')":2037.5020294692,
+    "('Low', 'KOTAKBANK.BO')":2014.3786516274,
+    "('Open', 'KOTAKBANK.BO')":2037.5020294692,
+    "('Volume', 'KOTAKBANK.BO')":37044
+  },
+  {
+    "('Date', '')":"2025-03-21",
+    "('Close', 'KOTAKBANK.BO')":2082.0007324219,
+    "('High', 'KOTAKBANK.BO')":2093.5874782231,
+    "('Low', 'KOTAKBANK.BO')":2031.8086927197,
+    "('Open', 'KOTAKBANK.BO')":2033.7065301823,
+    "('Volume', 'KOTAKBANK.BO')":70441
+  },
+  {
+    "('Date', '')":"2025-03-24",
+    "('Close', 'KOTAKBANK.BO')":2175.8427734375,
+    "('High', 'KOTAKBANK.BO')":2186.8798595804,
+    "('Low', 'KOTAKBANK.BO')":2085.5966705378,
+    "('Open', 'KOTAKBANK.BO')":2089.9915085066,
+    "('Volume', 'KOTAKBANK.BO')":245946
+  },
+  {
+    "('Date', '')":"2025-03-25",
+    "('Close', 'KOTAKBANK.BO')":2168.3513183594,
+    "('High', 'KOTAKBANK.BO')":2200.214501993,
+    "('Low', 'KOTAKBANK.BO')":2157.5137098194,
+    "('Open', 'KOTAKBANK.BO')":2173.7450050901,
+    "('Volume', 'KOTAKBANK.BO')":184645
+  },
+  {
+    "('Date', '')":"2025-03-26",
+    "('Close', 'KOTAKBANK.BO')":2140.8830566406,
+    "('High', 'KOTAKBANK.BO')":2172.6962503054,
+    "('Low', 'KOTAKBANK.BO')":2126.5994674693,
+    "('Open', 'KOTAKBANK.BO')":2158.6126260175,
+    "('Volume', 'KOTAKBANK.BO')":66801
+  },
+  {
+    "('Date', '')":"2025-03-27",
+    "('Close', 'KOTAKBANK.BO')":2128.6967773438,
+    "('High', 'KOTAKBANK.BO')":2148.6737557346,
+    "('Low', 'KOTAKBANK.BO')":2115.5620115956,
+    "('Open', 'KOTAKBANK.BO')":2130.7944576186,
+    "('Volume', 'KOTAKBANK.BO')":28787
+  },
+  {
+    "('Date', '')":"2025-03-28",
+    "('Close', 'KOTAKBANK.BO')":2168.80078125,
+    "('High', 'KOTAKBANK.BO')":2177.0412851154,
+    "('Low', 'KOTAKBANK.BO')":2131.1939718394,
+    "('Open', 'KOTAKBANK.BO')":2131.1939718394,
+    "('Volume', 'KOTAKBANK.BO')":65917
+  },
+  {
+    "('Date', '')":"2025-04-01",
+    "('Close', 'KOTAKBANK.BO')":2142.7807617188,
+    "('High', 'KOTAKBANK.BO')":2173.6950886957,
+    "('Low', 'KOTAKBANK.BO')":2133.5913999288,
+    "('Open', 'KOTAKBANK.BO')":2170.2491085069,
+    "('Volume', 'KOTAKBANK.BO')":95793
+  },
+  {
+    "('Date', '')":"2025-04-02",
+    "('Close', 'KOTAKBANK.BO')":2152.0700683594,
+    "('High', 'KOTAKBANK.BO')":2156.1652027659,
+    "('Low', 'KOTAKBANK.BO')":2136.7376393307,
+    "('Open', 'KOTAKBANK.BO')":2142.7807242904,
+    "('Volume', 'KOTAKBANK.BO')":14996
+  },
+  {
+    "('Date', '')":"2025-04-03",
+    "('Close', 'KOTAKBANK.BO')":2129.4460449219,
+    "('High', 'KOTAKBANK.BO')":2148.4241755597,
+    "('Low', 'KOTAKBANK.BO')":2103.6259450803,
+    "('Open', 'KOTAKBANK.BO')":2103.6259450803,
+    "('Volume', 'KOTAKBANK.BO')":18665
+  },
+  {
+    "('Date', '')":"2025-04-04",
+    "('Close', 'KOTAKBANK.BO')":2130.4948730469,
+    "('High', 'KOTAKBANK.BO')":2142.5310519709,
+    "('Low', 'KOTAKBANK.BO')":2115.7618506615,
+    "('Open', 'KOTAKBANK.BO')":2137.3870772921,
+    "('Volume', 'KOTAKBANK.BO')":31872
+  },
+  {
+    "('Date', '')":"2025-04-07",
+    "('Close', 'KOTAKBANK.BO')":2036.8527832031,
+    "('High', 'KOTAKBANK.BO')":2079.0541524415,
+    "('Low', 'KOTAKBANK.BO')":1957.7939842921,
+    "('Open', 'KOTAKBANK.BO')":1957.7939842921,
+    "('Volume', 'KOTAKBANK.BO')":223654
+  },
+  {
+    "('Date', '')":"2025-04-08",
+    "('Close', 'KOTAKBANK.BO')":2052.0852050781,
+    "('High', 'KOTAKBANK.BO')":2077.505862437,
+    "('Low', 'KOTAKBANK.BO')":2035.4544673733,
+    "('Open', 'KOTAKBANK.BO')":2053.7831995448,
+    "('Volume', 'KOTAKBANK.BO')":106156
+  },
+  {
+    "('Date', '')":"2025-04-09",
+    "('Close', 'KOTAKBANK.BO')":2050.6870117188,
+    "('High', 'KOTAKBANK.BO')":2092.6886614219,
+    "('Low', 'KOTAKBANK.BO')":2037.601992125,
+    "('Open', 'KOTAKBANK.BO')":2092.6886614219,
+    "('Volume', 'KOTAKBANK.BO')":27631
+  },
+  {
+    "('Date', '')":"2025-04-11",
+    "('Close', 'KOTAKBANK.BO')":2109.0695800781,
+    "('High', 'KOTAKBANK.BO')":2137.0373509719,
+    "('Low', 'KOTAKBANK.BO')":2051.0863491497,
+    "('Open', 'KOTAKBANK.BO')":2051.0863491497,
+    "('Volume', 'KOTAKBANK.BO')":141645
+  },
+  {
+    "('Date', '')":"2025-04-15",
+    "('Close', 'KOTAKBANK.BO')":2118.3588867188,
+    "('High', 'KOTAKBANK.BO')":2147.5752182964,
+    "('Low', 'KOTAKBANK.BO')":2098.5816288789,
+    "('Open', 'KOTAKBANK.BO')":2147.5752182964,
+    "('Volume', 'KOTAKBANK.BO')":74559
+  },
+  {
+    "('Date', '')":"2025-04-16",
+    "('Close', 'KOTAKBANK.BO')":2120.5563964844,
+    "('High', 'KOTAKBANK.BO')":2149.5230170675,
+    "('Low', 'KOTAKBANK.BO')":2108.7199384609,
+    "('Open', 'KOTAKBANK.BO')":2108.7199384609,
+    "('Volume', 'KOTAKBANK.BO')":169275
+  },
+  {
+    "('Date', '')":"2025-04-17",
+    "('Close', 'KOTAKBANK.BO')":2185.4814453125,
+    "('High', 'KOTAKBANK.BO')":2191.8739808811,
+    "('Low', 'KOTAKBANK.BO')":2096.1844490671,
+    "('Open', 'KOTAKBANK.BO')":2116.5608695691,
+    "('Volume', 'KOTAKBANK.BO')":194588
+  },
+  {
+    "('Date', '')":"2025-04-21",
+    "('Close', 'KOTAKBANK.BO')":2239.96875,
+    "('High', 'KOTAKBANK.BO')":2258.8968887326,
+    "('Low', 'KOTAKBANK.BO')":2178.9889731462,
+    "('Open', 'KOTAKBANK.BO')":2191.3746025183,
+    "('Volume', 'KOTAKBANK.BO')":55174
+  },
+  {
+    "('Date', '')":"2025-04-22",
+    "('Close', 'KOTAKBANK.BO')":2264.9399414062,
+    "('High', 'KOTAKBANK.BO')":2298.9008050474,
+    "('Low', 'KOTAKBANK.BO')":2245.0627013711,
+    "('Open', 'KOTAKBANK.BO')":2253.9526031694,
+    "('Volume', 'KOTAKBANK.BO')":150613
+  },
+  {
+    "('Date', '')":"2025-04-23",
+    "('Close', 'KOTAKBANK.BO')":2224.1369628906,
+    "('High', 'KOTAKBANK.BO')":2285.3664538033,
+    "('Low', 'KOTAKBANK.BO')":2217.444723533,
+    "('Open', 'KOTAKBANK.BO')":2269.4848526516,
+    "('Volume', 'KOTAKBANK.BO')":158058
+  },
+  {
+    "('Date', '')":"2025-04-24",
+    "('Close', 'KOTAKBANK.BO')":2221.4401855469,
+    "('High', 'KOTAKBANK.BO')":2235.1243681338,
+    "('Low', 'KOTAKBANK.BO')":2212.2008322572,
+    "('Open', 'KOTAKBANK.BO')":2224.1370290865,
+    "('Volume', 'KOTAKBANK.BO')":73230
+  },
+  {
+    "('Date', '')":"2025-04-25",
+    "('Close', 'KOTAKBANK.BO')":2200.4643554688,
+    "('High', 'KOTAKBANK.BO')":2229.1312731072,
+    "('Low', 'KOTAKBANK.BO')":2176.4919793765,
+    "('Open', 'KOTAKBANK.BO')":2217.4447885341,
+    "('Volume', 'KOTAKBANK.BO')":84801
+  },
+  {
+    "('Date', '')":"2025-04-28",
+    "('Close', 'KOTAKBANK.BO')":2223.4377441406,
+    "('High', 'KOTAKBANK.BO')":2229.680550026,
+    "('Low', 'KOTAKBANK.BO')":2186.4803332991,
+    "('Open', 'KOTAKBANK.BO')":2188.0285979306,
+    "('Volume', 'KOTAKBANK.BO')":91115
+  },
+  {
+    "('Date', '')":"2025-04-29",
+    "('Close', 'KOTAKBANK.BO')":2202.8117675781,
+    "('High', 'KOTAKBANK.BO')":2244.1640191577,
+    "('Low', 'KOTAKBANK.BO')":2195.9195630751,
+    "('Open', 'KOTAKBANK.BO')":2227.3833069734,
+    "('Volume', 'KOTAKBANK.BO')":113153
+  },
+  {
+    "('Date', '')":"2025-04-30",
+    "('Close', 'KOTAKBANK.BO')":2203.2612304688,
+    "('High', 'KOTAKBANK.BO')":2228.2324561204,
+    "('Low', 'KOTAKBANK.BO')":2188.9776406241,
+    "('Open', 'KOTAKBANK.BO')":2205.4586495542,
+    "('Volume', 'KOTAKBANK.BO')":112412
+  },
+  {
+    "('Date', '')":"2025-05-02",
+    "('Close', 'KOTAKBANK.BO')":2182.4851074219,
+    "('High', 'KOTAKBANK.BO')":2221.5899489881,
+    "('Low', 'KOTAKBANK.BO')":2168.6012035959,
+    "('Open', 'KOTAKBANK.BO')":2205.9580593781,
+    "('Volume', 'KOTAKBANK.BO')":53843
+  },
+  {
+    "('Date', '')":"2025-05-05",
+    "('Close', 'KOTAKBANK.BO')":2082.6501464844,
+    "('High', 'KOTAKBANK.BO')":2132.2429015587,
+    "('Low', 'KOTAKBANK.BO')":2055.980927081,
+    "('Open', 'KOTAKBANK.BO')":2107.5713801459,
+    "('Volume', 'KOTAKBANK.BO')":151218
+  },
+  {
+    "('Date', '')":"2025-05-06",
+    "('Close', 'KOTAKBANK.BO')":2071.4130859375,
+    "('High', 'KOTAKBANK.BO')":2090.7906588156,
+    "('Low', 'KOTAKBANK.BO')":2061.7242994985,
+    "('Open', 'KOTAKBANK.BO')":2086.0461261092,
+    "('Volume', 'KOTAKBANK.BO')":66245
+  },
+  {
+    "('Date', '')":"2025-05-07",
+    "('Close', 'KOTAKBANK.BO')":2092.9880371094,
+    "('High', 'KOTAKBANK.BO')":2098.2819854297,
+    "('Low', 'KOTAKBANK.BO')":2047.6903825725,
+    "('Open', 'KOTAKBANK.BO')":2047.6903825725,
+    "('Volume', 'KOTAKBANK.BO')":21325
+  },
+  {
+    "('Date', '')":"2025-05-08",
+    "('Close', 'KOTAKBANK.BO')":2109.8686523438,
+    "('High', 'KOTAKBANK.BO')":2135.5390211791,
+    "('Low', 'KOTAKBANK.BO')":2095.73479361,
+    "('Open', 'KOTAKBANK.BO')":2102.5770063526,
+    "('Volume', 'KOTAKBANK.BO')":92387
+  },
+  {
+    "('Date', '')":"2025-05-09",
+    "('Close', 'KOTAKBANK.BO')":2101.3286132812,
+    "('High', 'KOTAKBANK.BO')":2117.110476475,
+    "('Low', 'KOTAKBANK.BO')":2062.8229350182,
+    "('Open', 'KOTAKBANK.BO')":2062.8229350182,
+    "('Volume', 'KOTAKBANK.BO')":22244
+  },
+  {
+    "('Date', '')":"2025-05-12",
+    "('Close', 'KOTAKBANK.BO')":2143.5798339844,
+    "('High', 'KOTAKBANK.BO')":2160.5102748839,
+    "('Low', 'KOTAKBANK.BO')":2126.9488526816,
+    "('Open', 'KOTAKBANK.BO')":2133.0419288093,
+    "('Volume', 'KOTAKBANK.BO')":69210
+  },
+  {
+    "('Date', '')":"2025-05-13",
+    "('Close', 'KOTAKBANK.BO')":2113.4147949219,
+    "('High', 'KOTAKBANK.BO')":2143.5799865313,
+    "('Low', 'KOTAKBANK.BO')":2098.6317806651,
+    "('Open', 'KOTAKBANK.BO')":2130.0955247714,
+    "('Volume', 'KOTAKBANK.BO')":145546
+  },
+  {
+    "('Date', '')":"2025-05-14",
+    "('Close', 'KOTAKBANK.BO')":2089.9914550781,
+    "('High', 'KOTAKBANK.BO')":2118.6586151631,
+    "('Low', 'KOTAKBANK.BO')":2081.8509336419,
+    "('Open', 'KOTAKBANK.BO')":2111.5166988219,
+    "('Volume', 'KOTAKBANK.BO')":95365
+  },
+  {
+    "('Date', '')":"2025-05-15",
+    "('Close', 'KOTAKBANK.BO')":2103.8256835938,
+    "('High', 'KOTAKBANK.BO')":2109.1196320087,
+    "('Low', 'KOTAKBANK.BO')":2063.0226048393,
+    "('Open', 'KOTAKBANK.BO')":2075.9079031163,
+    "('Volume', 'KOTAKBANK.BO')":67443
+  },
+  {
+    "('Date', '')":"2025-05-16",
+    "('Close', 'KOTAKBANK.BO')":2105.4736328125,
+    "('High', 'KOTAKBANK.BO')":2111.5667090343,
+    "('Low', 'KOTAKBANK.BO')":2048.689215548,
+    "('Open', 'KOTAKBANK.BO')":2048.689215548,
+    "('Volume', 'KOTAKBANK.BO')":77616
+  },
+  {
+    "('Date', '')":"2025-05-19",
+    "('Close', 'KOTAKBANK.BO')":2108.8198242188,
+    "('High', 'KOTAKBANK.BO')":2121.5051569827,
+    "('Low', 'KOTAKBANK.BO')":2097.5827736456,
+    "('Open', 'KOTAKBANK.BO')":2097.5827736456,
+    "('Volume', 'KOTAKBANK.BO')":135738
+  },
+  {
+    "('Date', '')":"2025-05-20",
+    "('Close', 'KOTAKBANK.BO')":2086.4458007812,
+    "('High', 'KOTAKBANK.BO')":2114.4135723736,
+    "('Low', 'KOTAKBANK.BO')":2081.9009891256,
+    "('Open', 'KOTAKBANK.BO')":2102.2774108847,
+    "('Volume', 'KOTAKBANK.BO')":214943
+  },
+  {
+    "('Date', '')":"2025-05-21",
+    "('Close', 'KOTAKBANK.BO')":2069.1157226562,
+    "('High', 'KOTAKBANK.BO')":2092.7883954035,
+    "('Low', 'KOTAKBANK.BO')":2058.6278080592,
+    "('Open', 'KOTAKBANK.BO')":2087.5944293273,
+    "('Volume', 'KOTAKBANK.BO')":50102
+  },
+  {
+    "('Date', '')":"2025-05-22",
+    "('Close', 'KOTAKBANK.BO')":2066.5686035156,
+    "('High', 'KOTAKBANK.BO')":2073.5605465621,
+    "('Low', 'KOTAKBANK.BO')":2048.6393126184,
+    "('Open', 'KOTAKBANK.BO')":2069.1157172545,
+    "('Volume', 'KOTAKBANK.BO')":66166
+  },
+  {
+    "('Date', '')":"2025-05-23",
+    "('Close', 'KOTAKBANK.BO')":2098.4318847656,
+    "('High', 'KOTAKBANK.BO')":2105.9729991448,
+    "('Low', 'KOTAKBANK.BO')":2058.7276395591,
+    "('Open', 'KOTAKBANK.BO')":2058.7276395591,
+    "('Volume', 'KOTAKBANK.BO')":169643
+  },
+  {
+    "('Date', '')":"2025-05-26",
+    "('Close', 'KOTAKBANK.BO')":2087.044921875,
+    "('High', 'KOTAKBANK.BO')":2108.5701658502,
+    "('Low', 'KOTAKBANK.BO')":2077.7058303648,
+    "('Open', 'KOTAKBANK.BO')":2077.7058303648,
+    "('Volume', 'KOTAKBANK.BO')":139911
+  },
+  {
+    "('Date', '')":"2025-05-27",
+    "('Close', 'KOTAKBANK.BO')":2076.357421875,
+    "('High', 'KOTAKBANK.BO')":2096.7838357741,
+    "('Low', 'KOTAKBANK.BO')":2058.8275726201,
+    "('Open', 'KOTAKBANK.BO')":2077.8556954206,
+    "('Volume', 'KOTAKBANK.BO')":515712
+  },
+  {
+    "('Date', '')":"2025-05-28",
+    "('Close', 'KOTAKBANK.BO')":2071.5126953125,
+    "('High', 'KOTAKBANK.BO')":2077.4060503065,
+    "('Low', 'KOTAKBANK.BO')":2061.1247639997,
+    "('Open', 'KOTAKBANK.BO')":2066.5184506699,
+    "('Volume', 'KOTAKBANK.BO')":24158
+  },
+  {
+    "('Date', '')":"2025-05-29",
+    "('Close', 'KOTAKBANK.BO')":2081.9008789062,
+    "('High', 'KOTAKBANK.BO')":2092.5885137127,
+    "('Low', 'KOTAKBANK.BO')":2053.1339808766,
+    "('Open', 'KOTAKBANK.BO')":2071.5626949104,
+    "('Volume', 'KOTAKBANK.BO')":121798
+  },
+  {
+    "('Date', '')":"2025-05-30",
+    "('Close', 'KOTAKBANK.BO')":2073.3107910156,
+    "('High', 'KOTAKBANK.BO')":2085.7964033379,
+    "('Low', 'KOTAKBANK.BO')":2063.222562575,
+    "('Open', 'KOTAKBANK.BO')":2067.8171215938,
+    "('Volume', 'KOTAKBANK.BO')":93617
+  },
+  {
+    "('Date', '')":"2025-06-02",
+    "('Close', 'KOTAKBANK.BO')":2062.1237792969,
+    "('High', 'KOTAKBANK.BO')":2069.5651556428,
+    "('Low', 'KOTAKBANK.BO')":2048.9390211486,
+    "('Open', 'KOTAKBANK.BO')":2057.8286797858,
+    "('Volume', 'KOTAKBANK.BO')":261879
+  },
+  {
+    "('Date', '')":"2025-06-03",
+    "('Close', 'KOTAKBANK.BO')":2043.2454833984,
+    "('High', 'KOTAKBANK.BO')":2072.1122437909,
+    "('Low', 'KOTAKBANK.BO')":2031.0595744098,
+    "('Open', 'KOTAKBANK.BO')":2062.3234748507,
+    "('Volume', 'KOTAKBANK.BO')":922173
+  },
+  {
+    "('Date', '')":"2025-06-04",
+    "('Close', 'KOTAKBANK.BO')":2044.0944824219,
+    "('High', 'KOTAKBANK.BO')":2056.180652837,
+    "('Low', 'KOTAKBANK.BO')":2034.1059924456,
+    "('Open', 'KOTAKBANK.BO')":2034.1059924456,
+    "('Volume', 'KOTAKBANK.BO')":82721
+  },
+  {
+    "('Date', '')":"2025-06-05",
+    "('Close', 'KOTAKBANK.BO')":2037.3023681641,
+    "('High', 'KOTAKBANK.BO')":2053.0841090584,
+    "('Low', 'KOTAKBANK.BO')":2032.1582714763,
+    "('Open', 'KOTAKBANK.BO')":2045.8924450977,
+    "('Volume', 'KOTAKBANK.BO')":150172
+  },
+  {
+    "('Date', '')":"2025-06-06",
+    "('Close', 'KOTAKBANK.BO')":2069.9147949219,
+    "('High', 'KOTAKBANK.BO')":2082.1007037348,
+    "('Low', 'KOTAKBANK.BO')":2031.2093968553,
+    "('Open', 'KOTAKBANK.BO')":2041.6473199491,
+    "('Volume', 'KOTAKBANK.BO')":247803
+  },
+  {
+    "('Date', '')":"2025-06-09",
+    "('Close', 'KOTAKBANK.BO')":2136.0385742188,
+    "('High', 'KOTAKBANK.BO')":2139.9839789741,
+    "('Low', 'KOTAKBANK.BO')":2087.444668192,
+    "('Open', 'KOTAKBANK.BO')":2097.6328791615,
+    "('Volume', 'KOTAKBANK.BO')":209965
+  },
+  {
+    "('Date', '')":"2025-06-10",
+    "('Close', 'KOTAKBANK.BO')":2148.7238769531,
+    "('High', 'KOTAKBANK.BO')":2170.1491388017,
+    "('Low', 'KOTAKBANK.BO')":2136.4379857275,
+    "('Open', 'KOTAKBANK.BO')":2138.8353695952,
+    "('Volume', 'KOTAKBANK.BO')":370801
+  },
+  {
+    "('Date', '')":"2025-06-11",
+    "('Close', 'KOTAKBANK.BO')":2142.1813964844,
+    "('High', 'KOTAKBANK.BO')":2158.7623873212,
+    "('Low', 'KOTAKBANK.BO')":2130.0454787565,
+    "('Open', 'KOTAKBANK.BO')":2149.5230341309,
+    "('Volume', 'KOTAKBANK.BO')":52926
+  },
+  {
+    "('Date', '')":"2025-06-12",
+    "('Close', 'KOTAKBANK.BO')":2123.5529785156,
+    "('High', 'KOTAKBANK.BO')":2145.9770898414,
+    "('Low', 'KOTAKBANK.BO')":2120.2067368147,
+    "('Open', 'KOTAKBANK.BO')":2131.8434740052,
+    "('Volume', 'KOTAKBANK.BO')":9649
+  },
+  {
+    "('Date', '')":"2025-06-13",
+    "('Close', 'KOTAKBANK.BO')":2108.3703613281,
+    "('High', 'KOTAKBANK.BO')":2112.5154868263,
+    "('Low', 'KOTAKBANK.BO')":2072.6115210129,
+    "('Open', 'KOTAKBANK.BO')":2096.7836162451,
+    "('Volume', 'KOTAKBANK.BO')":42112
+  },
+  {
+    "('Date', '')":"2025-06-16",
+    "('Close', 'KOTAKBANK.BO')":2135.9885253906,
+    "('High', 'KOTAKBANK.BO')":2142.5310348985,
+    "('Low', 'KOTAKBANK.BO')":2089.5920396306,
+    "('Open', 'KOTAKBANK.BO')":2101.1787851953,
+    "('Volume', 'KOTAKBANK.BO')":272191
+  },
+  {
+    "('Date', '')":"2025-06-17",
+    "('Close', 'KOTAKBANK.BO')":2134.2404785156,
+    "('High', 'KOTAKBANK.BO')":2152.5194628655,
+    "('Low', 'KOTAKBANK.BO')":2127.4482569606,
+    "('Open', 'KOTAKBANK.BO')":2135.5390309078,
+    "('Volume', 'KOTAKBANK.BO')":590242
+  },
+  {
+    "('Date', '')":"2025-06-18",
+    "('Close', 'KOTAKBANK.BO')":2130.8444824219,
+    "('High', 'KOTAKBANK.BO')":2133.3416047601,
+    "('Low', 'KOTAKBANK.BO')":2108.2703989405,
+    "('Open', 'KOTAKBANK.BO')":2127.5482321635,
+    "('Volume', 'KOTAKBANK.BO')":23019
+  },
+  {
+    "('Date', '')":"2025-06-19",
+    "('Close', 'KOTAKBANK.BO')":2142.8308105469,
+    "('High', 'KOTAKBANK.BO')":2151.8204515556,
+    "('Low', 'KOTAKBANK.BO')":2132.542617065,
+    "('Open', 'KOTAKBANK.BO')":2145.5276540776,
+    "('Volume', 'KOTAKBANK.BO')":93102
+  },
+  {
+    "('Date', '')":"2025-06-20",
+    "('Close', 'KOTAKBANK.BO')":2166.9528808594,
+    "('High', 'KOTAKBANK.BO')":2171.8971345612,
+    "('Low', 'KOTAKBANK.BO')":2130.4948929216,
+    "('Open', 'KOTAKBANK.BO')":2142.5310719579,
+    "('Volume', 'KOTAKBANK.BO')":51454
+  },
+  {
+    "('Date', '')":"2025-06-23",
+    "('Close', 'KOTAKBANK.BO')":2182.3850097656,
+    "('High', 'KOTAKBANK.BO')":2187.2795160181,
+    "('Low', 'KOTAKBANK.BO')":2148.9735606019,
+    "('Open', 'KOTAKBANK.BO')":2166.153714057,
+    "('Volume', 'KOTAKBANK.BO')":49359
+  },
+  {
+    "('Date', '')":"2025-06-24",
+    "('Close', 'KOTAKBANK.BO')":2220.7409667969,
+    "('High', 'KOTAKBANK.BO')":2230.5297354881,
+    "('Low', 'KOTAKBANK.BO')":2188.0786542053,
+    "('Open', 'KOTAKBANK.BO')":2197.5677194332,
+    "('Volume', 'KOTAKBANK.BO')":119665
+  },
+  {
+    "('Date', '')":"2025-06-25",
+    "('Close', 'KOTAKBANK.BO')":2195.5200195312,
+    "('High', 'KOTAKBANK.BO')":2225.2357762839,
+    "('Low', 'KOTAKBANK.BO')":2188.9275188087,
+    "('Open', 'KOTAKBANK.BO')":2225.2357762839,
+    "('Volume', 'KOTAKBANK.BO')":57416
+  },
+  {
+    "('Date', '')":"2025-06-26",
+    "('Close', 'KOTAKBANK.BO')":2201.4631347656,
+    "('High', 'KOTAKBANK.BO')":2206.1076849426,
+    "('Low', 'KOTAKBANK.BO')":2177.4907594324,
+    "('Open', 'KOTAKBANK.BO')":2206.1076849426,
+    "('Volume', 'KOTAKBANK.BO')":62579
+  },
+  {
+    "('Date', '')":"2025-06-27",
+    "('Close', 'KOTAKBANK.BO')":2205.4584960938,
+    "('High', 'KOTAKBANK.BO')":2214.2484156834,
+    "('Low', 'KOTAKBANK.BO')":2180.4872721796,
+    "('Open', 'KOTAKBANK.BO')":2202.5119404438,
+    "('Volume', 'KOTAKBANK.BO')":265358
+  },
+  {
+    "('Date', '')":"2025-06-30",
+    "('Close', 'KOTAKBANK.BO')":2161.1594238281,
+    "('High', 'KOTAKBANK.BO')":2204.4596231682,
+    "('Low', 'KOTAKBANK.BO')":2152.5194779916,
+    "('Open', 'KOTAKBANK.BO')":2204.4596231682,
+    "('Volume', 'KOTAKBANK.BO')":83819
+  },
+  {
+    "('Date', '')":"2025-07-01",
+    "('Close', 'KOTAKBANK.BO')":2181.2863769531,
+    "('High', 'KOTAKBANK.BO')":2184.0832027737,
+    "('Low', 'KOTAKBANK.BO')":2156.5648655407,
+    "('Open', 'KOTAKBANK.BO')":2160.6102525437,
+    "('Volume', 'KOTAKBANK.BO')":292939
+  },
+  {
+    "('Date', '')":"2025-07-02",
+    "('Close', 'KOTAKBANK.BO')":2165.2548828125,
+    "('High', 'KOTAKBANK.BO')":2193.4723665811,
+    "('Low', 'KOTAKBANK.BO')":2158.5126521775,
+    "('Open', 'KOTAKBANK.BO')":2174.544227126,
+    "('Volume', 'KOTAKBANK.BO')":201669
+  },
+  {
+    "('Date', '')":"2025-07-03",
+    "('Close', 'KOTAKBANK.BO')":2123.802734375,
+    "('High', 'KOTAKBANK.BO')":2157.4638976658,
+    "('Low', 'KOTAKBANK.BO')":2119.5576260288,
+    "('Open', 'KOTAKBANK.BO')":2157.4638976658,
+    "('Volume', 'KOTAKBANK.BO')":38962
+  },
+  {
+    "('Date', '')":"2025-07-04",
+    "('Close', 'KOTAKBANK.BO')":2125.9499511719,
+    "('High', 'KOTAKBANK.BO')":2134.0407249958,
+    "('Low', 'KOTAKBANK.BO')":2108.8197896782,
+    "('Open', 'KOTAKBANK.BO')":2123.9522533249,
+    "('Volume', 'KOTAKBANK.BO')":286734
+  },
+  {
+    "('Date', '')":"2025-07-07",
+    "('Close', 'KOTAKBANK.BO')":2144.5288085938,
+    "('High', 'KOTAKBANK.BO')":2155.0167231211,
+    "('Low', 'KOTAKBANK.BO')":2120.7561535598,
+    "('Open', 'KOTAKBANK.BO')":2126.0001108235,
+    "('Volume', 'KOTAKBANK.BO')":198295
+  },
+  {
+    "('Date', '')":"2025-07-08",
+    "('Close', 'KOTAKBANK.BO')":2221.939453125,
+    "('High', 'KOTAKBANK.BO')":2238.4204605319,
+    "('Low', 'KOTAKBANK.BO')":2183.6834901905,
+    "('Open', 'KOTAKBANK.BO')":2198.4665031819,
+    "('Volume', 'KOTAKBANK.BO')":580153
+  },
+  {
+    "('Date', '')":"2025-07-09",
+    "('Close', 'KOTAKBANK.BO')":2225.78515625,
+    "('High', 'KOTAKBANK.BO')":2230.6294273439,
+    "('Low', 'KOTAKBANK.BO')":2211.0521342311,
+    "('Open', 'KOTAKBANK.BO')":2211.0521342311,
+    "('Volume', 'KOTAKBANK.BO')":72443
+  },
+  {
+    "('Date', '')":"2025-07-10",
+    "('Close', 'KOTAKBANK.BO')":2216.3459472656,
+    "('High', 'KOTAKBANK.BO')":2239.3694654741,
+    "('Low', 'KOTAKBANK.BO')":2196.0695076651,
+    "('Open', 'KOTAKBANK.BO')":2225.4355707042,
+    "('Volume', 'KOTAKBANK.BO')":143697
+  },
+  {
+    "('Date', '')":"2025-07-11",
+    "('Close', 'KOTAKBANK.BO')":2217.2451171875,
+    "('High', 'KOTAKBANK.BO')":2222.4390833519,
+    "('Low', 'KOTAKBANK.BO')":2196.8684507367,
+    "('Open', 'KOTAKBANK.BO')":2196.8684507367,
+    "('Volume', 'KOTAKBANK.BO')":97222
+  },
+  {
+    "('Date', '')":"2025-07-14",
+    "('Close', 'KOTAKBANK.BO')":2200.7639160156,
+    "('High', 'KOTAKBANK.BO')":2226.4842761942,
+    "('Low', 'KOTAKBANK.BO')":2195.4699678671,
+    "('Open', 'KOTAKBANK.BO')":2226.4842761942,
+    "('Volume', 'KOTAKBANK.BO')":259348
+  },
+  {
+    "('Date', '')":"2025-07-15",
+    "('Close', 'KOTAKBANK.BO')":2185.7312011719,
+    "('High', 'KOTAKBANK.BO')":2229.8802757139,
+    "('Low', 'KOTAKBANK.BO')":2179.8878373071,
+    "('Open', 'KOTAKBANK.BO')":2207.6058954963,
+    "('Volume', 'KOTAKBANK.BO')":39876
+  },
+  {
+    "('Date', '')":"2025-07-16",
+    "('Close', 'KOTAKBANK.BO')":2176.3422851562,
+    "('High', 'KOTAKBANK.BO')":2186.3805227213,
+    "('Low', 'KOTAKBANK.BO')":2154.1676418206,
+    "('Open', 'KOTAKBANK.BO')":2185.53164737,
+    "('Volume', 'KOTAKBANK.BO')":34214
+  },
+  {
+    "('Date', '')":"2025-07-17",
+    "('Close', 'KOTAKBANK.BO')":2169.4499511719,
+    "('High', 'KOTAKBANK.BO')":2187.4792236824,
+    "('Low', 'KOTAKBANK.BO')":2165.7042675697,
+    "('Open', 'KOTAKBANK.BO')":2179.4884319977,
+    "('Volume', 'KOTAKBANK.BO')":117379
+  },
+  {
+    "('Date', '')":"2025-07-18",
+    "('Close', 'KOTAKBANK.BO')":2140.75,
+    "('High', 'KOTAKBANK.BO')":2171.1000976562,
+    "('Low', 'KOTAKBANK.BO')":2130.6999511719,
+    "('Open', 'KOTAKBANK.BO')":2171.1000976562,
+    "('Volume', 'KOTAKBANK.BO')":43957
+  },
+  {
+    "('Date', '')":"2025-07-21",
+    "('Close', 'KOTAKBANK.BO')":2164.6499023438,
+    "('High', 'KOTAKBANK.BO')":2167.5500488281,
+    "('Low', 'KOTAKBANK.BO')":2131.5,
+    "('Open', 'KOTAKBANK.BO')":2140.75,
+    "('Volume', 'KOTAKBANK.BO')":36194
+  },
+  {
+    "('Date', '')":"2025-07-22",
+    "('Close', 'KOTAKBANK.BO')":2159.9499511719,
+    "('High', 'KOTAKBANK.BO')":2171.8500976562,
+    "('Low', 'KOTAKBANK.BO')":2145.6000976562,
+    "('Open', 'KOTAKBANK.BO')":2165.0,
+    "('Volume', 'KOTAKBANK.BO')":24404
+  },
+  {
+    "('Date', '')":"2025-07-23",
+    "('Close', 'KOTAKBANK.BO')":2169.8000488281,
+    "('High', 'KOTAKBANK.BO')":2179.6000976562,
+    "('Low', 'KOTAKBANK.BO')":2158.0,
+    "('Open', 'KOTAKBANK.BO')":2160.0,
+    "('Volume', 'KOTAKBANK.BO')":149541
+  },
+  {
+    "('Date', '')":"2025-07-24",
+    "('Close', 'KOTAKBANK.BO')":2141.4499511719,
+    "('High', 'KOTAKBANK.BO')":2169.6000976562,
+    "('Low', 'KOTAKBANK.BO')":2140.0,
+    "('Open', 'KOTAKBANK.BO')":2169.6000976562,
+    "('Volume', 'KOTAKBANK.BO')":383282
+  },
+  {
+    "('Date', '')":"2025-07-25",
+    "('Close', 'KOTAKBANK.BO')":2124.9499511719,
+    "('High', 'KOTAKBANK.BO')":2146.0500488281,
+    "('Low', 'KOTAKBANK.BO')":2118.3500976562,
+    "('Open', 'KOTAKBANK.BO')":2144.8999023438,
+    "('Volume', 'KOTAKBANK.BO')":57475
+  },
+  {
+    "('Date', '')":"2025-07-28",
+    "('Close', 'KOTAKBANK.BO')":1965.5999755859,
+    "('High', 'KOTAKBANK.BO')":2056.0500488281,
+    "('Low', 'KOTAKBANK.BO')":1960.0999755859,
+    "('Open', 'KOTAKBANK.BO')":2023.0,
+    "('Volume', 'KOTAKBANK.BO')":363208
+  },
+  {
+    "('Date', '')":"2025-07-29",
+    "('Close', 'KOTAKBANK.BO')":1973.0,
+    "('High', 'KOTAKBANK.BO')":1980.0,
+    "('Low', 'KOTAKBANK.BO')":1953.3499755859,
+    "('Open', 'KOTAKBANK.BO')":1967.0,
+    "('Volume', 'KOTAKBANK.BO')":119148
+  },
+  {
+    "('Date', '')":"2025-07-30",
+    "('Close', 'KOTAKBANK.BO')":1959.8000488281,
+    "('High', 'KOTAKBANK.BO')":1981.0,
+    "('Low', 'KOTAKBANK.BO')":1957.5,
+    "('Open', 'KOTAKBANK.BO')":1969.3000488281,
+    "('Volume', 'KOTAKBANK.BO')":52864
+  },
+  {
+    "('Date', '')":"2025-07-31",
+    "('Close', 'KOTAKBANK.BO')":1978.5999755859,
+    "('High', 'KOTAKBANK.BO')":1998.0,
+    "('Low', 'KOTAKBANK.BO')":1934.9000244141,
+    "('Open', 'KOTAKBANK.BO')":1949.9499511719,
+    "('Volume', 'KOTAKBANK.BO')":102120
+  },
+  {
+    "('Date', '')":"2025-08-01",
+    "('Close', 'KOTAKBANK.BO')":1992.0999755859,
+    "('High', 'KOTAKBANK.BO')":2006.0999755859,
+    "('Low', 'KOTAKBANK.BO')":1973.6999511719,
+    "('Open', 'KOTAKBANK.BO')":1978.5999755859,
+    "('Volume', 'KOTAKBANK.BO')":68724
+  },
+  {
+    "('Date', '')":"2025-08-04",
+    "('Close', 'KOTAKBANK.BO')":1996.9499511719,
+    "('High', 'KOTAKBANK.BO')":2007.0,
+    "('Low', 'KOTAKBANK.BO')":1983.0,
+    "('Open', 'KOTAKBANK.BO')":1990.0,
+    "('Volume', 'KOTAKBANK.BO')":11614
+  },
+  {
+    "('Date', '')":"2025-08-05",
+    "('Close', 'KOTAKBANK.BO')":2003.0,
+    "('High', 'KOTAKBANK.BO')":2007.0,
+    "('Low', 'KOTAKBANK.BO')":1995.0,
+    "('Open', 'KOTAKBANK.BO')":2007.0,
+    "('Volume', 'KOTAKBANK.BO')":52193
+  },
+  {
+    "('Date', '')":"2025-08-06",
+    "('Close', 'KOTAKBANK.BO')":2002.1500244141,
+    "('High', 'KOTAKBANK.BO')":2025.0,
+    "('Low', 'KOTAKBANK.BO')":1993.1500244141,
+    "('Open', 'KOTAKBANK.BO')":2001.9000244141,
+    "('Volume', 'KOTAKBANK.BO')":39594
+  },
+  {
+    "('Date', '')":"2025-08-07",
+    "('Close', 'KOTAKBANK.BO')":1992.3499755859,
+    "('High', 'KOTAKBANK.BO')":1995.0,
+    "('Low', 'KOTAKBANK.BO')":1970.0999755859,
+    "('Open', 'KOTAKBANK.BO')":1981.0,
+    "('Volume', 'KOTAKBANK.BO')":169401
+  },
+  {
+    "('Date', '')":"2025-08-08",
+    "('Close', 'KOTAKBANK.BO')":1950.9000244141,
+    "('High', 'KOTAKBANK.BO')":1999.0,
+    "('Low', 'KOTAKBANK.BO')":1948.25,
+    "('Open', 'KOTAKBANK.BO')":1988.0,
+    "('Volume', 'KOTAKBANK.BO')":463540
+  },
+  {
+    "('Date', '')":"2025-08-11",
+    "('Close', 'KOTAKBANK.BO')":1976.8499755859,
+    "('High', 'KOTAKBANK.BO')":2017.0,
+    "('Low', 'KOTAKBANK.BO')":1956.4499511719,
+    "('Open', 'KOTAKBANK.BO')":1960.0500488281,
+    "('Volume', 'KOTAKBANK.BO')":81687
+  },
+  {
+    "('Date', '')":"2025-08-12",
+    "('Close', 'KOTAKBANK.BO')":1958.9499511719,
+    "('High', 'KOTAKBANK.BO')":1985.25,
+    "('Low', 'KOTAKBANK.BO')":1956.5999755859,
+    "('Open', 'KOTAKBANK.BO')":1979.8000488281,
+    "('Volume', 'KOTAKBANK.BO')":159077
+  },
+  {
+    "('Date', '')":"2025-08-13",
+    "('Close', 'KOTAKBANK.BO')":1988.1500244141,
+    "('High', 'KOTAKBANK.BO')":1995.9499511719,
+    "('Low', 'KOTAKBANK.BO')":1962.6999511719,
+    "('Open', 'KOTAKBANK.BO')":1973.8499755859,
+    "('Volume', 'KOTAKBANK.BO')":119283
+  },
+  {
+    "('Date', '')":"2025-08-14",
+    "('Close', 'KOTAKBANK.BO')":1978.9499511719,
+    "('High', 'KOTAKBANK.BO')":1993.3000488281,
+    "('Low', 'KOTAKBANK.BO')":1975.5999755859,
+    "('Open', 'KOTAKBANK.BO')":1989.5500488281,
+    "('Volume', 'KOTAKBANK.BO')":240132
+  },
+  {
+    "('Date', '')":"2025-08-18",
+    "('Close', 'KOTAKBANK.BO')":2001.3000488281,
+    "('High', 'KOTAKBANK.BO')":2025.9499511719,
+    "('Low', 'KOTAKBANK.BO')":1991.3000488281,
+    "('Open', 'KOTAKBANK.BO')":1991.3000488281,
+    "('Volume', 'KOTAKBANK.BO')":310032
+  },
+  {
+    "('Date', '')":"2025-08-19",
+    "('Close', 'KOTAKBANK.BO')":2030.0999755859,
+    "('High', 'KOTAKBANK.BO')":2032.9000244141,
+    "('Low', 'KOTAKBANK.BO')":1990.0500488281,
+    "('Open', 'KOTAKBANK.BO')":1990.0500488281,
+    "('Volume', 'KOTAKBANK.BO')":227460
+  },
+  {
+    "('Date', '')":"2025-08-20",
+    "('Close', 'KOTAKBANK.BO')":2018.3499755859,
+    "('High', 'KOTAKBANK.BO')":2024.1999511719,
+    "('Low', 'KOTAKBANK.BO')":2006.1500244141,
+    "('Open', 'KOTAKBANK.BO')":2013.0,
+    "('Volume', 'KOTAKBANK.BO')":52589
+  },
+  {
+    "('Date', '')":"2025-08-21",
+    "('Close', 'KOTAKBANK.BO')":2017.5999755859,
+    "('High', 'KOTAKBANK.BO')":2037.4000244141,
+    "('Low', 'KOTAKBANK.BO')":2012.0500488281,
+    "('Open', 'KOTAKBANK.BO')":2035.0500488281,
+    "('Volume', 'KOTAKBANK.BO')":42573
+  },
+  {
+    "('Date', '')":"2025-08-22",
+    "('Close', 'KOTAKBANK.BO')":1986.5999755859,
+    "('High', 'KOTAKBANK.BO')":2018.0,
+    "('Low', 'KOTAKBANK.BO')":1981.0,
+    "('Open', 'KOTAKBANK.BO')":2007.5500488281,
+    "('Volume', 'KOTAKBANK.BO')":37041
+  },
+  {
+    "('Date', '')":"2025-08-25",
+    "('Close', 'KOTAKBANK.BO')":1983.4499511719,
+    "('High', 'KOTAKBANK.BO')":1996.9499511719,
+    "('Low', 'KOTAKBANK.BO')":1977.25,
+    "('Open', 'KOTAKBANK.BO')":1982.9499511719,
+    "('Volume', 'KOTAKBANK.BO')":101547
+  },
+  {
+    "('Date', '')":"2025-08-26",
+    "('Close', 'KOTAKBANK.BO')":1965.3000488281,
+    "('High', 'KOTAKBANK.BO')":1981.9000244141,
+    "('Low', 'KOTAKBANK.BO')":1960.5,
+    "('Open', 'KOTAKBANK.BO')":1970.9499511719,
+    "('Volume', 'KOTAKBANK.BO')":509674
+  },
+  {
+    "('Date', '')":"2025-08-28",
+    "('Close', 'KOTAKBANK.BO')":1946.0999755859,
+    "('High', 'KOTAKBANK.BO')":1966.5,
+    "('Low', 'KOTAKBANK.BO')":1940.9499511719,
+    "('Open', 'KOTAKBANK.BO')":1950.0,
+    "('Volume', 'KOTAKBANK.BO')":15710
+  },
+  {
+    "('Date', '')":"2025-08-29",
+    "('Close', 'KOTAKBANK.BO')":1960.3499755859,
+    "('High', 'KOTAKBANK.BO')":1984.8499755859,
+    "('Low', 'KOTAKBANK.BO')":1946.0999755859,
+    "('Open', 'KOTAKBANK.BO')":1946.0999755859,
+    "('Volume', 'KOTAKBANK.BO')":48730
+  },
+  {
+    "('Date', '')":"2025-09-01",
+    "('Close', 'KOTAKBANK.BO')":1967.6500244141,
+    "('High', 'KOTAKBANK.BO')":1972.0,
+    "('Low', 'KOTAKBANK.BO')":1955.6500244141,
+    "('Open', 'KOTAKBANK.BO')":1957.0500488281,
+    "('Volume', 'KOTAKBANK.BO')":80659
+  },
+  {
+    "('Date', '')":"2025-09-02",
+    "('Close', 'KOTAKBANK.BO')":1942.5,
+    "('High', 'KOTAKBANK.BO')":1974.5999755859,
+    "('Low', 'KOTAKBANK.BO')":1940.5,
+    "('Open', 'KOTAKBANK.BO')":1968.0,
+    "('Volume', 'KOTAKBANK.BO')":32746
+  },
+  {
+    "('Date', '')":"2025-09-03",
+    "('Close', 'KOTAKBANK.BO')":1960.4000244141,
+    "('High', 'KOTAKBANK.BO')":1964.0,
+    "('Low', 'KOTAKBANK.BO')":1930.9499511719,
+    "('Open', 'KOTAKBANK.BO')":1949.9499511719,
+    "('Volume', 'KOTAKBANK.BO')":94751
+  },
+  {
+    "('Date', '')":"2025-09-04",
+    "('Close', 'KOTAKBANK.BO')":1949.9000244141,
+    "('High', 'KOTAKBANK.BO')":1971.1999511719,
+    "('Low', 'KOTAKBANK.BO')":1946.6500244141,
+    "('Open', 'KOTAKBANK.BO')":1969.9499511719,
+    "('Volume', 'KOTAKBANK.BO')":60915
+  },
+  {
+    "('Date', '')":"2025-09-05",
+    "('Close', 'KOTAKBANK.BO')":1944.0,
+    "('High', 'KOTAKBANK.BO')":1956.5999755859,
+    "('Low', 'KOTAKBANK.BO')":1937.75,
+    "('Open', 'KOTAKBANK.BO')":1950.1999511719,
+    "('Volume', 'KOTAKBANK.BO')":240478
+  },
+  {
+    "('Date', '')":"2025-09-08",
+    "('Close', 'KOTAKBANK.BO')":1950.5,
+    "('High', 'KOTAKBANK.BO')":1962.0,
+    "('Low', 'KOTAKBANK.BO')":1931.5,
+    "('Open', 'KOTAKBANK.BO')":1942.0500488281,
+    "('Volume', 'KOTAKBANK.BO')":41217
+  },
+  {
+    "('Date', '')":"2025-09-09",
+    "('Close', 'KOTAKBANK.BO')":1959.6500244141,
+    "('High', 'KOTAKBANK.BO')":1964.0,
+    "('Low', 'KOTAKBANK.BO')":1939.5,
+    "('Open', 'KOTAKBANK.BO')":1950.6999511719,
+    "('Volume', 'KOTAKBANK.BO')":123388
+  },
+  {
+    "('Date', '')":"2025-09-10",
+    "('Close', 'KOTAKBANK.BO')":1973.4000244141,
+    "('High', 'KOTAKBANK.BO')":1990.0,
+    "('Low', 'KOTAKBANK.BO')":1951.0999755859,
+    "('Open', 'KOTAKBANK.BO')":1990.0,
+    "('Volume', 'KOTAKBANK.BO')":1039012
+  },
+  {
+    "('Date', '')":"2025-09-11",
+    "('Close', 'KOTAKBANK.BO')":1972.0,
+    "('High', 'KOTAKBANK.BO')":1985.0,
+    "('Low', 'KOTAKBANK.BO')":1963.1500244141,
+    "('Open', 'KOTAKBANK.BO')":1973.5999755859,
+    "('Volume', 'KOTAKBANK.BO')":130703
+  },
+  {
+    "('Date', '')":"2025-09-12",
+    "('Close', 'KOTAKBANK.BO')":1972.1500244141,
+    "('High', 'KOTAKBANK.BO')":1984.8000488281,
+    "('Low', 'KOTAKBANK.BO')":1966.1999511719,
+    "('Open', 'KOTAKBANK.BO')":1973.0,
+    "('Volume', 'KOTAKBANK.BO')":131856
+  },
+  {
+    "('Date', '')":"2025-09-15",
+    "('Close', 'KOTAKBANK.BO')":1971.0500488281,
+    "('High', 'KOTAKBANK.BO')":1982.1999511719,
+    "('Low', 'KOTAKBANK.BO')":1965.0,
+    "('Open', 'KOTAKBANK.BO')":1970.0,
+    "('Volume', 'KOTAKBANK.BO')":62699
+  },
+  {
+    "('Date', '')":"2025-09-16",
+    "('Close', 'KOTAKBANK.BO')":2021.4000244141,
+    "('High', 'KOTAKBANK.BO')":2030.0,
+    "('Low', 'KOTAKBANK.BO')":1971.3499755859,
+    "('Open', 'KOTAKBANK.BO')":1971.3499755859,
+    "('Volume', 'KOTAKBANK.BO')":125836
+  },
+  {
+    "('Date', '')":"2025-09-17",
+    "('Close', 'KOTAKBANK.BO')":2050.3000488281,
+    "('High', 'KOTAKBANK.BO')":2052.1999511719,
+    "('Low', 'KOTAKBANK.BO')":2022.0,
+    "('Open', 'KOTAKBANK.BO')":2023.3499755859,
+    "('Volume', 'KOTAKBANK.BO')":91558
+  },
+  {
+    "('Date', '')":"2025-09-18",
+    "('Close', 'KOTAKBANK.BO')":2054.1999511719,
+    "('High', 'KOTAKBANK.BO')":2061.0,
+    "('Low', 'KOTAKBANK.BO')":2043.0,
+    "('Open', 'KOTAKBANK.BO')":2053.9499511719,
+    "('Volume', 'KOTAKBANK.BO')":148356
+  },
+  {
+    "('Date', '')":"2025-09-19",
+    "('Close', 'KOTAKBANK.BO')":2030.4000244141,
+    "('High', 'KOTAKBANK.BO')":2054.0,
+    "('Low', 'KOTAKBANK.BO')":2026.8000488281,
+    "('Open', 'KOTAKBANK.BO')":2054.0,
+    "('Volume', 'KOTAKBANK.BO')":29092
+  },
+  {
+    "('Date', '')":"2025-09-22",
+    "('Close', 'KOTAKBANK.BO')":2021.3499755859,
+    "('High', 'KOTAKBANK.BO')":2039.3000488281,
+    "('Low', 'KOTAKBANK.BO')":2013.6500244141,
+    "('Open', 'KOTAKBANK.BO')":2013.6500244141,
+    "('Volume', 'KOTAKBANK.BO')":49527
+  },
+  {
+    "('Date', '')":"2025-09-23",
+    "('Close', 'KOTAKBANK.BO')":2047.8499755859,
+    "('High', 'KOTAKBANK.BO')":2053.1000976562,
+    "('Low', 'KOTAKBANK.BO')":2008.5,
+    "('Open', 'KOTAKBANK.BO')":2015.0500488281,
+    "('Volume', 'KOTAKBANK.BO')":27623
+  },
+  {
+    "('Date', '')":"2025-09-24",
+    "('Close', 'KOTAKBANK.BO')":2030.8499755859,
+    "('High', 'KOTAKBANK.BO')":2048.0,
+    "('Low', 'KOTAKBANK.BO')":2028.25,
+    "('Open', 'KOTAKBANK.BO')":2045.0,
+    "('Volume', 'KOTAKBANK.BO')":75165
+  },
+  {
+    "('Date', '')":"2025-09-25",
+    "('Close', 'KOTAKBANK.BO')":2012.5500488281,
+    "('High', 'KOTAKBANK.BO')":2037.9499511719,
+    "('Low', 'KOTAKBANK.BO')":2009.4499511719,
+    "('Open', 'KOTAKBANK.BO')":2013.0500488281,
+    "('Volume', 'KOTAKBANK.BO')":98699
+  },
+  {
+    "('Date', '')":"2025-09-26",
+    "('Close', 'KOTAKBANK.BO')":1994.4000244141,
+    "('High', 'KOTAKBANK.BO')":2018.0,
+    "('Low', 'KOTAKBANK.BO')":1990.0,
+    "('Open', 'KOTAKBANK.BO')":2012.0500488281,
+    "('Volume', 'KOTAKBANK.BO')":35917
+  },
+  {
+    "('Date', '')":"2025-09-29",
+    "('Close', 'KOTAKBANK.BO')":1992.1999511719,
+    "('High', 'KOTAKBANK.BO')":2002.9499511719,
+    "('Low', 'KOTAKBANK.BO')":1970.0500488281,
+    "('Open', 'KOTAKBANK.BO')":1994.8000488281,
+    "('Volume', 'KOTAKBANK.BO')":58366
+  },
+  {
+    "('Date', '')":"2025-09-30",
+    "('Close', 'KOTAKBANK.BO')":1994.1999511719,
+    "('High', 'KOTAKBANK.BO')":2015.9000244141,
+    "('Low', 'KOTAKBANK.BO')":1987.0,
+    "('Open', 'KOTAKBANK.BO')":2000.0,
+    "('Volume', 'KOTAKBANK.BO')":54103
+  },
+  {
+    "('Date', '')":"2025-10-01",
+    "('Close', 'KOTAKBANK.BO')":2062.9499511719,
+    "('High', 'KOTAKBANK.BO')":2073.3000488281,
+    "('Low', 'KOTAKBANK.BO')":1975.5999755859,
+    "('Open', 'KOTAKBANK.BO')":1975.5999755859,
+    "('Volume', 'KOTAKBANK.BO')":812505
+  },
+  {
+    "('Date', '')":"2025-10-03",
+    "('Close', 'KOTAKBANK.BO')":2100.8999023438,
+    "('High', 'KOTAKBANK.BO')":2108.0,
+    "('Low', 'KOTAKBANK.BO')":2062.9499511719,
+    "('Open', 'KOTAKBANK.BO')":2079.3000488281,
+    "('Volume', 'KOTAKBANK.BO')":722853
+  },
+  {
+    "('Date', '')":"2025-10-06",
+    "('Close', 'KOTAKBANK.BO')":2145.4499511719,
+    "('High', 'KOTAKBANK.BO')":2154.8000488281,
+    "('Low', 'KOTAKBANK.BO')":2095.0,
+    "('Open', 'KOTAKBANK.BO')":2111.5,
+    "('Volume', 'KOTAKBANK.BO')":199614
+  },
+  {
+    "('Date', '')":"2025-10-07",
+    "('Close', 'KOTAKBANK.BO')":2126.1000976562,
+    "('High', 'KOTAKBANK.BO')":2153.3500976562,
+    "('Low', 'KOTAKBANK.BO')":2122.5,
+    "('Open', 'KOTAKBANK.BO')":2142.1000976562,
+    "('Volume', 'KOTAKBANK.BO')":27788
+  },
+  {
+    "('Date', '')":"2025-10-08",
+    "('Close', 'KOTAKBANK.BO')":2117.3500976562,
+    "('High', 'KOTAKBANK.BO')":2132.8500976562,
+    "('Low', 'KOTAKBANK.BO')":2112.0,
+    "('Open', 'KOTAKBANK.BO')":2122.5500488281,
+    "('Volume', 'KOTAKBANK.BO')":40929
+  },
+  {
+    "('Date', '')":"2025-10-09",
+    "('Close', 'KOTAKBANK.BO')":2145.0500488281,
+    "('High', 'KOTAKBANK.BO')":2151.25,
+    "('Low', 'KOTAKBANK.BO')":2101.5,
+    "('Open', 'KOTAKBANK.BO')":2112.75,
+    "('Volume', 'KOTAKBANK.BO')":236972
+  },
+  {
+    "('Date', '')":"2025-10-10",
+    "('Close', 'KOTAKBANK.BO')":2149.5500488281,
+    "('High', 'KOTAKBANK.BO')":2157.5,
+    "('Low', 'KOTAKBANK.BO')":2137.1499023438,
+    "('Open', 'KOTAKBANK.BO')":2140.3999023438,
+    "('Volume', 'KOTAKBANK.BO')":47789
+  },
+  {
+    "('Date', '')":"2025-10-13",
+    "('Close', 'KOTAKBANK.BO')":2152.1000976562,
+    "('High', 'KOTAKBANK.BO')":2155.8500976562,
+    "('Low', 'KOTAKBANK.BO')":2128.1999511719,
+    "('Open', 'KOTAKBANK.BO')":2128.1999511719,
+    "('Volume', 'KOTAKBANK.BO')":39864
+  },
+  {
+    "('Date', '')":"2025-10-14",
+    "('Close', 'KOTAKBANK.BO')":2151.3500976562,
+    "('High', 'KOTAKBANK.BO')":2164.8500976562,
+    "('Low', 'KOTAKBANK.BO')":2141.5,
+    "('Open', 'KOTAKBANK.BO')":2153.6000976562,
+    "('Volume', 'KOTAKBANK.BO')":30109
+  },
+  {
+    "('Date', '')":"2025-10-15",
+    "('Close', 'KOTAKBANK.BO')":2148.6999511719,
+    "('High', 'KOTAKBANK.BO')":2166.3999023438,
+    "('Low', 'KOTAKBANK.BO')":2141.3999023438,
+    "('Open', 'KOTAKBANK.BO')":2153.0,
+    "('Volume', 'KOTAKBANK.BO')":54141
+  },
+  {
+    "('Date', '')":"2025-10-16",
+    "('Close', 'KOTAKBANK.BO')":2206.0,
+    "('High', 'KOTAKBANK.BO')":2214.8000488281,
+    "('Low', 'KOTAKBANK.BO')":2148.75,
+    "('Open', 'KOTAKBANK.BO')":2148.75,
+    "('Volume', 'KOTAKBANK.BO')":424743
+  },
+  {
+    "('Date', '')":"2025-10-17",
+    "('Close', 'KOTAKBANK.BO')":2205.5,
+    "('High', 'KOTAKBANK.BO')":2209.8500976562,
+    "('Low', 'KOTAKBANK.BO')":2189.5,
+    "('Open', 'KOTAKBANK.BO')":2200.75,
+    "('Volume', 'KOTAKBANK.BO')":59174
+  },
+  {
+    "('Date', '')":"2025-10-20",
+    "('Close', 'KOTAKBANK.BO')":2214.25,
+    "('High', 'KOTAKBANK.BO')":2264.8999023438,
+    "('Low', 'KOTAKBANK.BO')":2200.0,
+    "('Open', 'KOTAKBANK.BO')":2210.0,
+    "('Volume', 'KOTAKBANK.BO')":35199
+  },
+  {
+    "('Date', '')":"2025-10-21",
+    "('Close', 'KOTAKBANK.BO')":2196.0,
+    "('High', 'KOTAKBANK.BO')":2220.0,
+    "('Low', 'KOTAKBANK.BO')":2186.1000976562,
+    "('Open', 'KOTAKBANK.BO')":2214.25,
+    "('Volume', 'KOTAKBANK.BO')":30054
+  },
+  {
+    "('Date', '')":"2025-10-23",
+    "('Close', 'KOTAKBANK.BO')":2225.0500488281,
+    "('High', 'KOTAKBANK.BO')":2244.5500488281,
+    "('Low', 'KOTAKBANK.BO')":2210.8000488281,
+    "('Open', 'KOTAKBANK.BO')":2228.0,
+    "('Volume', 'KOTAKBANK.BO')":703279
+  },
+  {
+    "('Date', '')":"2025-10-24",
+    "('Close', 'KOTAKBANK.BO')":2186.8500976562,
+    "('High', 'KOTAKBANK.BO')":2234.8000488281,
+    "('Low', 'KOTAKBANK.BO')":2169.0,
+    "('Open', 'KOTAKBANK.BO')":2233.0500488281,
+    "('Volume', 'KOTAKBANK.BO')":47702
+  },
+  {
+    "('Date', '')":"2025-10-27",
+    "('Close', 'KOTAKBANK.BO')":2148.8500976562,
+    "('High', 'KOTAKBANK.BO')":2185.0,
+    "('Low', 'KOTAKBANK.BO')":2125.0,
+    "('Open', 'KOTAKBANK.BO')":2173.75,
+    "('Volume', 'KOTAKBANK.BO')":608401
+  },
+  {
+    "('Date', '')":"2025-10-28",
+    "('Close', 'KOTAKBANK.BO')":2160.3500976562,
+    "('High', 'KOTAKBANK.BO')":2168.0,
+    "('Low', 'KOTAKBANK.BO')":2143.8500976562,
+    "('Open', 'KOTAKBANK.BO')":2143.8500976562,
+    "('Volume', 'KOTAKBANK.BO')":59008
+  },
+  {
+    "('Date', '')":"2025-10-29",
+    "('Close', 'KOTAKBANK.BO')":2149.8000488281,
+    "('High', 'KOTAKBANK.BO')":2175.0,
+    "('Low', 'KOTAKBANK.BO')":2147.0,
+    "('Open', 'KOTAKBANK.BO')":2167.0,
+    "('Volume', 'KOTAKBANK.BO')":34551
+  },
+  {
+    "('Date', '')":"2025-10-30",
+    "('Close', 'KOTAKBANK.BO')":2137.5,
+    "('High', 'KOTAKBANK.BO')":2150.3999023438,
+    "('Low', 'KOTAKBANK.BO')":2126.5,
+    "('Open', 'KOTAKBANK.BO')":2149.1000976562,
+    "('Volume', 'KOTAKBANK.BO')":411728
+  },
+  {
+    "('Date', '')":"2025-10-31",
+    "('Close', 'KOTAKBANK.BO')":2101.9499511719,
+    "('High', 'KOTAKBANK.BO')":2143.0,
+    "('Low', 'KOTAKBANK.BO')":2100.25,
+    "('Open', 'KOTAKBANK.BO')":2135.0,
+    "('Volume', 'KOTAKBANK.BO')":64211
+  },
+  {
+    "('Date', '')":"2025-11-03",
+    "('Close', 'KOTAKBANK.BO')":2113.25,
+    "('High', 'KOTAKBANK.BO')":2119.25,
+    "('Low', 'KOTAKBANK.BO')":2088.8999023438,
+    "('Open', 'KOTAKBANK.BO')":2104.6999511719,
+    "('Volume', 'KOTAKBANK.BO')":13859
+  },
+  {
+    "('Date', '')":"2025-11-04",
+    "('Close', 'KOTAKBANK.BO')":2095.8000488281,
+    "('High', 'KOTAKBANK.BO')":2122.4499511719,
+    "('Low', 'KOTAKBANK.BO')":2093.25,
+    "('Open', 'KOTAKBANK.BO')":2122.4499511719,
+    "('Volume', 'KOTAKBANK.BO')":15059
+  },
+  {
+    "('Date', '')":"2025-11-06",
+    "('Close', 'KOTAKBANK.BO')":2083.25,
+    "('High', 'KOTAKBANK.BO')":2103.1999511719,
+    "('Low', 'KOTAKBANK.BO')":2075.0,
+    "('Open', 'KOTAKBANK.BO')":2084.6999511719,
+    "('Volume', 'KOTAKBANK.BO')":369441
+  },
+  {
+    "('Date', '')":"2025-11-07",
+    "('Close', 'KOTAKBANK.BO')":2089.1499023438,
+    "('High', 'KOTAKBANK.BO')":2099.4499511719,
+    "('Low', 'KOTAKBANK.BO')":2060.0,
+    "('Open', 'KOTAKBANK.BO')":2084.3000488281,
+    "('Volume', 'KOTAKBANK.BO')":41749
+  },
+  {
+    "('Date', '')":"2025-11-10",
+    "('Close', 'KOTAKBANK.BO')":2093.6499023438,
+    "('High', 'KOTAKBANK.BO')":2104.3999023438,
+    "('Low', 'KOTAKBANK.BO')":2081.0500488281,
+    "('Open', 'KOTAKBANK.BO')":2090.1999511719,
+    "('Volume', 'KOTAKBANK.BO')":155050
+  },
+  {
+    "('Date', '')":"2025-11-11",
+    "('Close', 'KOTAKBANK.BO')":2087.3500976562,
+    "('High', 'KOTAKBANK.BO')":2111.3999023438,
+    "('Low', 'KOTAKBANK.BO')":2075.1499023438,
+    "('Open', 'KOTAKBANK.BO')":2111.3999023438,
+    "('Volume', 'KOTAKBANK.BO')":21404
+  },
+  {
+    "('Date', '')":"2025-11-12",
+    "('Close', 'KOTAKBANK.BO')":2081.3000488281,
+    "('High', 'KOTAKBANK.BO')":2100.0,
+    "('Low', 'KOTAKBANK.BO')":2080.0,
+    "('Open', 'KOTAKBANK.BO')":2091.1999511719,
+    "('Volume', 'KOTAKBANK.BO')":120892
+  },
+  {
+    "('Date', '')":"2025-11-13",
+    "('Close', 'KOTAKBANK.BO')":2074.6499023438,
+    "('High', 'KOTAKBANK.BO')":2086.1999511719,
+    "('Low', 'KOTAKBANK.BO')":2064.5,
+    "('Open', 'KOTAKBANK.BO')":2083.5500488281,
+    "('Volume', 'KOTAKBANK.BO')":362444
+  }
+]

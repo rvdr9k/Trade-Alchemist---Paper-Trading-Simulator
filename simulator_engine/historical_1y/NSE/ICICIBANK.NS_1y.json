@@ -1,0 +1,1994 @@
+[
+  {
+    "('Date', '')":"2024-11-11",
+    "('Close', 'ICICIBANK.NS')":1259.5810546875,
+    "('High', 'ICICIBANK.NS')":1266.1304944493,
+    "('Low', 'ICICIBANK.NS')":1237.104460862,
+    "('Open', 'ICICIBANK.NS')":1252.3369021243,
+    "('Volume', 'ICICIBANK.NS')":8387780
+  },
+  {
+    "('Date', '')":"2024-11-12",
+    "('Close', 'ICICIBANK.NS')":1260.8709716797,
+    "('High', 'ICICIBANK.NS')":1285.0841647248,
+    "('Low', 'ICICIBANK.NS')":1254.8177037023,
+    "('Open', 'ICICIBANK.NS')":1266.378523697,
+    "('Volume', 'ICICIBANK.NS')":13486168
+  },
+  {
+    "('Date', '')":"2024-11-13",
+    "('Close', 'ICICIBANK.NS')":1244.1003417969,
+    "('High', 'ICICIBANK.NS')":1266.4777243822,
+    "('Low', 'ICICIBANK.NS')":1240.4287212363,
+    "('Open', 'ICICIBANK.NS')":1260.8709623351,
+    "('Volume', 'ICICIBANK.NS')":12260404
+  },
+  {
+    "('Date', '')":"2024-11-14",
+    "('Close', 'ICICIBANK.NS')":1247.3254394531,
+    "('High', 'ICICIBANK.NS')":1257.9931263102,
+    "('Low', 'ICICIBANK.NS')":1233.5319691697,
+    "('Open', 'ICICIBANK.NS')":1244.1499904243,
+    "('Volume', 'ICICIBANK.NS')":9506892
+  },
+  {
+    "('Date', '')":"2024-11-18",
+    "('Close', 'ICICIBANK.NS')":1243.8522949219,
+    "('High', 'ICICIBANK.NS')":1252.9322576722,
+    "('Low', 'ICICIBANK.NS')":1239.8333784209,
+    "('Open', 'ICICIBANK.NS')":1250.3521900785,
+    "('Volume', 'ICICIBANK.NS')":6195554
+  },
+  {
+    "('Date', '')":"2024-11-19",
+    "('Close', 'ICICIBANK.NS')":1239.5356445312,
+    "('High', 'ICICIBANK.NS')":1251.34455072,
+    "('Low', 'ICICIBANK.NS')":1231.3488145999,
+    "('Open', 'ICICIBANK.NS')":1247.4248442374,
+    "('Volume', 'ICICIBANK.NS')":11537317
+  },
+  {
+    "('Date', '')":"2024-11-21",
+    "('Close', 'ICICIBANK.NS')":1240.974609375,
+    "('High', 'ICICIBANK.NS')":1247.275963311,
+    "('Low', 'ICICIBANK.NS')":1223.1124350544,
+    "('Open', 'ICICIBANK.NS')":1238.9899233394,
+    "('Volume', 'ICICIBANK.NS')":9593870
+  },
+  {
+    "('Date', '')":"2024-11-22",
+    "('Close', 'ICICIBANK.NS')":1268.2640380859,
+    "('High', 'ICICIBANK.NS')":1271.5883629573,
+    "('Low', 'ICICIBANK.NS')":1246.3828261628,
+    "('Open', 'ICICIBANK.NS')":1248.3675121917,
+    "('Volume', 'ICICIBANK.NS')":11604338
+  },
+  {
+    "('Date', '')":"2024-11-25",
+    "('Close', 'ICICIBANK.NS')":1290.9886474609,
+    "('High', 'ICICIBANK.NS')":1301.160163763,
+    "('Low', 'ICICIBANK.NS')":1280.1225394755,
+    "('Open', 'ICICIBANK.NS')":1286.0765977986,
+    "('Volume', 'ICICIBANK.NS')":22717581
+  },
+  {
+    "('Date', '')":"2024-11-26",
+    "('Close', 'ICICIBANK.NS')":1294.9580078125,
+    "('High', 'ICICIBANK.NS')":1304.1868465831,
+    "('Low', 'ICICIBANK.NS')":1292.4771502006,
+    "('Open', 'ICICIBANK.NS')":1300.5647702426,
+    "('Volume', 'ICICIBANK.NS')":7646955
+  },
+  {
+    "('Date', '')":"2024-11-27",
+    "('Close', 'ICICIBANK.NS')":1290.7404785156,
+    "('High', 'ICICIBANK.NS')":1300.8127840903,
+    "('Low', 'ICICIBANK.NS')":1287.9123252215,
+    "('Open', 'ICICIBANK.NS')":1288.5573723921,
+    "('Volume', 'ICICIBANK.NS')":21938082
+  },
+  {
+    "('Date', '')":"2024-11-28",
+    "('Close', 'ICICIBANK.NS')":1276.5003662109,
+    "('High', 'ICICIBANK.NS')":1300.4654733697,
+    "('Low', 'ICICIBANK.NS')":1272.4814498292,
+    "('Open', 'ICICIBANK.NS')":1291.0878806768,
+    "('Volume', 'ICICIBANK.NS')":22803745
+  },
+  {
+    "('Date', '')":"2024-11-29",
+    "('Close', 'ICICIBANK.NS')":1290.1451416016,
+    "('High', 'ICICIBANK.NS')":1293.2710463551,
+    "('Low', 'ICICIBANK.NS')":1273.2753101893,
+    "('Open', 'ICICIBANK.NS')":1273.2753101893,
+    "('Volume', 'ICICIBANK.NS')":11397228
+  },
+  {
+    "('Date', '')":"2024-12-02",
+    "('Close', 'ICICIBANK.NS')":1294.6602783203,
+    "('High', 'ICICIBANK.NS')":1300.5151260627,
+    "('Low', 'ICICIBANK.NS')":1279.2789623057,
+    "('Open', 'ICICIBANK.NS')":1289.9466492191,
+    "('Volume', 'ICICIBANK.NS')":9626400
+  },
+  {
+    "('Date', '')":"2024-12-03",
+    "('Close', 'ICICIBANK.NS')":1298.3815917969,
+    "('High', 'ICICIBANK.NS')":1302.7479251782,
+    "('Low', 'ICICIBANK.NS')":1286.1757245708,
+    "('Open', 'ICICIBANK.NS')":1293.9655928119,
+    "('Volume', 'ICICIBANK.NS')":11509276
+  },
+  {
+    "('Date', '')":"2024-12-04",
+    "('Close', 'ICICIBANK.NS')":1305.9730224609,
+    "('High', 'ICICIBANK.NS')":1309.8927287632,
+    "('Low', 'ICICIBANK.NS')":1291.732803842,
+    "('Open', 'ICICIBANK.NS')":1292.6259367479,
+    "('Volume', 'ICICIBANK.NS')":11570281
+  },
+  {
+    "('Date', '')":"2024-12-05",
+    "('Close', 'ICICIBANK.NS')":1326.2664794922,
+    "('High', 'ICICIBANK.NS')":1332.6174992066,
+    "('Low', 'ICICIBANK.NS')":1298.5800843127,
+    "('Open', 'ICICIBANK.NS')":1306.1715328332,
+    "('Volume', 'ICICIBANK.NS')":19210697
+  },
+  {
+    "('Date', '')":"2024-12-06",
+    "('Close', 'ICICIBANK.NS')":1318.5758056641,
+    "('High', 'ICICIBANK.NS')":1336.7852761003,
+    "('Low', 'ICICIBANK.NS')":1316.5414539913,
+    "('Open', 'ICICIBANK.NS')":1332.2205223737,
+    "('Volume', 'ICICIBANK.NS')":8942672
+  },
+  {
+    "('Date', '')":"2024-12-09",
+    "('Close', 'ICICIBANK.NS')":1312.1751708984,
+    "('High', 'ICICIBANK.NS')":1318.8734860134,
+    "('Low', 'ICICIBANK.NS')":1310.1408193352,
+    "('Open', 'ICICIBANK.NS')":1311.9766296211,
+    "('Volume', 'ICICIBANK.NS')":8000764
+  },
+  {
+    "('Date', '')":"2024-12-10",
+    "('Close', 'ICICIBANK.NS')":1320.2626953125,
+    "('High', 'ICICIBANK.NS')":1321.8008754161,
+    "('Low', 'ICICIBANK.NS')":1305.1791301734,
+    "('Open', 'ICICIBANK.NS')":1308.9004164218,
+    "('Volume', 'ICICIBANK.NS')":8218214
+  },
+  {
+    "('Date', '')":"2024-12-11",
+    "('Close', 'ICICIBANK.NS')":1317.3353271484,
+    "('High', 'ICICIBANK.NS')":1321.0566133833,
+    "('Low', 'ICICIBANK.NS')":1305.9233826948,
+    "('Open', 'ICICIBANK.NS')":1314.5567183055,
+    "('Volume', 'ICICIBANK.NS')":8138066
+  },
+  {
+    "('Date', '')":"2024-12-12",
+    "('Close', 'ICICIBANK.NS')":1319.0718994141,
+    "('High', 'ICICIBANK.NS')":1328.4991576758,
+    "('Low', 'ICICIBANK.NS')":1311.4309069614,
+    "('Open', 'ICICIBANK.NS')":1311.4309069614,
+    "('Volume', 'ICICIBANK.NS')":9076896
+  },
+  {
+    "('Date', '')":"2024-12-13",
+    "('Close', 'ICICIBANK.NS')":1334.6021728516,
+    "('High', 'ICICIBANK.NS')":1336.8349446817,
+    "('Low', 'ICICIBANK.NS')":1303.4425773055,
+    "('Open', 'ICICIBANK.NS')":1315.2018180507,
+    "('Volume', 'ICICIBANK.NS')":13536684
+  },
+  {
+    "('Date', '')":"2024-12-16",
+    "('Close', 'ICICIBANK.NS')":1335.7928466797,
+    "('High', 'ICICIBANK.NS')":1340.1095143688,
+    "('Low', 'ICICIBANK.NS')":1329.7892443971,
+    "('Open', 'ICICIBANK.NS')":1334.6020835708,
+    "('Volume', 'ICICIBANK.NS')":9071006
+  },
+  {
+    "('Date', '')":"2024-12-17",
+    "('Close', 'ICICIBANK.NS')":1323.5374755859,
+    "('High', 'ICICIBANK.NS')":1337.7775734017,
+    "('Low', 'ICICIBANK.NS')":1315.896482944,
+    "('Open', 'ICICIBANK.NS')":1331.7243053318,
+    "('Volume', 'ICICIBANK.NS')":9879257
+  },
+  {
+    "('Date', '')":"2024-12-18",
+    "('Close', 'ICICIBANK.NS')":1304.0876464844,
+    "('High', 'ICICIBANK.NS')":1324.7283092921,
+    "('Low', 'ICICIBANK.NS')":1297.4388753522,
+    "('Open', 'ICICIBANK.NS')":1315.1026301384,
+    "('Volume', 'ICICIBANK.NS')":8510595
+  },
+  {
+    "('Date', '')":"2024-12-19",
+    "('Close', 'ICICIBANK.NS')":1277.0462646484,
+    "('High', 'ICICIBANK.NS')":1293.0229631432,
+    "('Low', 'ICICIBANK.NS')":1274.6149515529,
+    "('Open', 'ICICIBANK.NS')":1276.1531316977,
+    "('Volume', 'ICICIBANK.NS')":11517304
+  },
+  {
+    "('Date', '')":"2024-12-20",
+    "('Close', 'ICICIBANK.NS')":1278.5347900391,
+    "('High', 'ICICIBANK.NS')":1287.8131731857,
+    "('Low', 'ICICIBANK.NS')":1262.657301485,
+    "('Open', 'ICICIBANK.NS')":1274.1187908536,
+    "('Volume', 'ICICIBANK.NS')":58491181
+  },
+  {
+    "('Date', '')":"2024-12-23",
+    "('Close', 'ICICIBANK.NS')":1286.8704833984,
+    "('High', 'ICICIBANK.NS')":1296.9923338002,
+    "('Low', 'ICICIBANK.NS')":1277.1951389038,
+    "('Open', 'ICICIBANK.NS')":1284.7369216674,
+    "('Volume', 'ICICIBANK.NS')":6827512
+  },
+  {
+    "('Date', '')":"2024-12-24",
+    "('Close', 'ICICIBANK.NS')":1287.3170166016,
+    "('High', 'ICICIBANK.NS')":1294.5115036861,
+    "('Low', 'ICICIBANK.NS')":1280.3706152786,
+    "('Open', 'ICICIBANK.NS')":1286.8705106851,
+    "('Volume', 'ICICIBANK.NS')":7138516
+  },
+  {
+    "('Date', '')":"2024-12-26",
+    "('Close', 'ICICIBANK.NS')":1287.4161376953,
+    "('High', 'ICICIBANK.NS')":1302.6982437767,
+    "('Low', 'ICICIBANK.NS')":1279.3285182012,
+    "('Open', 'ICICIBANK.NS')":1296.9922716558,
+    "('Volume', 'ICICIBANK.NS')":7338444
+  },
+  {
+    "('Date', '')":"2024-12-27",
+    "('Close', 'ICICIBANK.NS')":1297.5382080078,
+    "('High', 'ICICIBANK.NS')":1305.8737927484,
+    "('Low', 'ICICIBANK.NS')":1288.6071205267,
+    "('Open', 'ICICIBANK.NS')":1288.6071205267,
+    "('Volume', 'ICICIBANK.NS')":4756066
+  },
+  {
+    "('Date', '')":"2024-12-30",
+    "('Close', 'ICICIBANK.NS')":1284.7369384766,
+    "('High', 'ICICIBANK.NS')":1316.3430400123,
+    "('Low', 'ICICIBANK.NS')":1279.5766819972,
+    "('Open', 'ICICIBANK.NS')":1294.9579990874,
+    "('Volume', 'ICICIBANK.NS')":14207425
+  },
+  {
+    "('Date', '')":"2024-12-31",
+    "('Close', 'ICICIBANK.NS')":1271.8364257812,
+    "('High', 'ICICIBANK.NS')":1280.0727999714,
+    "('Low', 'ICICIBANK.NS')":1270.2982456823,
+    "('Open', 'ICICIBANK.NS')":1277.0462265132,
+    "('Volume', 'ICICIBANK.NS')":8449607
+  },
+  {
+    "('Date', '')":"2025-01-01",
+    "('Close', 'ICICIBANK.NS')":1273.8211669922,
+    "('High', 'ICICIBANK.NS')":1283.0995501852,
+    "('Low', 'ICICIBANK.NS')":1257.3978412328,
+    "('Open', 'ICICIBANK.NS')":1271.836480913,
+    "('Volume', 'ICICIBANK.NS')":4705399
+  },
+  {
+    "('Date', '')":"2025-01-02",
+    "('Close', 'ICICIBANK.NS')":1280.7178955078,
+    "('High', 'ICICIBANK.NS')":1283.4965044574,
+    "('Low', 'ICICIBANK.NS')":1268.6113589467,
+    "('Open', 'ICICIBANK.NS')":1275.2600088206,
+    "('Volume', 'ICICIBANK.NS')":7433222
+  },
+  {
+    "('Date', '')":"2025-01-03",
+    "('Close', 'ICICIBANK.NS')":1255.3635253906,
+    "('High', 'ICICIBANK.NS')":1278.1377481475,
+    "('Low', 'ICICIBANK.NS')":1252.5849166143,
+    "('Open', 'ICICIBANK.NS')":1276.3514823434,
+    "('Volume', 'ICICIBANK.NS')":11194997
+  },
+  {
+    "('Date', '')":"2025-01-06",
+    "('Close', 'ICICIBANK.NS')":1254.4207763672,
+    "('High', 'ICICIBANK.NS')":1267.9662826987,
+    "('Low', 'ICICIBANK.NS')":1247.375165214,
+    "('Open', 'ICICIBANK.NS')":1258.3406039432,
+    "('Volume', 'ICICIBANK.NS')":7504047
+  },
+  {
+    "('Date', '')":"2025-01-07",
+    "('Close', 'ICICIBANK.NS')":1269.4548339844,
+    "('High', 'ICICIBANK.NS')":1279.0805130186,
+    "('Low', 'ICICIBANK.NS')":1256.8024602237,
+    "('Open', 'ICICIBANK.NS')":1256.8024602237,
+    "('Volume', 'ICICIBANK.NS')":7539758
+  },
+  {
+    "('Date', '')":"2025-01-08",
+    "('Close', 'ICICIBANK.NS')":1254.0734863281,
+    "('High', 'ICICIBANK.NS')":1275.1607754157,
+    "('Low', 'ICICIBANK.NS')":1242.7607517199,
+    "('Open', 'ICICIBANK.NS')":1270.7448974493,
+    "('Volume', 'ICICIBANK.NS')":7566309
+  },
+  {
+    "('Date', '')":"2025-01-09",
+    "('Close', 'ICICIBANK.NS')":1252.7338867188,
+    "('High', 'ICICIBANK.NS')":1255.065868652,
+    "('Low', 'ICICIBANK.NS')":1238.5433326929,
+    "('Open', 'ICICIBANK.NS')":1248.367553085,
+    "('Volume', 'ICICIBANK.NS')":8684920
+  },
+  {
+    "('Date', '')":"2025-01-10",
+    "('Close', 'ICICIBANK.NS')":1240.2799072266,
+    "('High', 'ICICIBANK.NS')":1255.264262697,
+    "('Low', 'ICICIBANK.NS')":1233.5815917989,
+    "('Open', 'ICICIBANK.NS')":1249.3598701446,
+    "('Volume', 'ICICIBANK.NS')":7854524
+  },
+  {
+    "('Date', '')":"2025-01-13",
+    "('Close', 'ICICIBANK.NS')":1220.3338623047,
+    "('High', 'ICICIBANK.NS')":1234.4250851208,
+    "('Low', 'ICICIBANK.NS')":1215.5210227529,
+    "('Open', 'ICICIBANK.NS')":1225.4444532249,
+    "('Volume', 'ICICIBANK.NS')":9669336
+  },
+  {
+    "('Date', '')":"2025-01-14",
+    "('Close', 'ICICIBANK.NS')":1230.8031005859,
+    "('High', 'ICICIBANK.NS')":1235.3181886618,
+    "('Low', 'ICICIBANK.NS')":1218.0513958246,
+    "('Open', 'ICICIBANK.NS')":1223.9062438908,
+    "('Volume', 'ICICIBANK.NS')":10342698
+  },
+  {
+    "('Date', '')":"2025-01-15",
+    "('Close', 'ICICIBANK.NS')":1228.7686767578,
+    "('High', 'ICICIBANK.NS')":1234.8716102214,
+    "('Low', 'ICICIBANK.NS')":1220.5818472943,
+    "('Open', 'ICICIBANK.NS')":1224.5512191554,
+    "('Volume', 'ICICIBANK.NS')":5355382
+  },
+  {
+    "('Date', '')":"2025-01-16",
+    "('Close', 'ICICIBANK.NS')":1239.5356445312,
+    "('High', 'ICICIBANK.NS')":1245.8866640991,
+    "('Low', 'ICICIBANK.NS')":1230.1580514278,
+    "('Open', 'ICICIBANK.NS')":1235.5662724433,
+    "('Volume', 'ICICIBANK.NS')":11895924
+  },
+  {
+    "('Date', '')":"2025-01-17",
+    "('Close', 'ICICIBANK.NS')":1216.0666503906,
+    "('High', 'ICICIBANK.NS')":1239.4363759086,
+    "('Low', 'ICICIBANK.NS')":1208.6737436803,
+    "('Open', 'ICICIBANK.NS')":1233.8296138722,
+    "('Volume', 'ICICIBANK.NS')":9790533
+  },
+  {
+    "('Date', '')":"2025-01-20",
+    "('Close', 'ICICIBANK.NS')":1223.5092773438,
+    "('High', 'ICICIBANK.NS')":1232.2419443689,
+    "('Low', 'ICICIBANK.NS')":1205.9448543542,
+    "('Open', 'ICICIBANK.NS')":1214.5286456993,
+    "('Volume', 'ICICIBANK.NS')":7676418
+  },
+  {
+    "('Date', '')":"2025-01-21",
+    "('Close', 'ICICIBANK.NS')":1186.9910888672,
+    "('High', 'ICICIBANK.NS')":1229.4632960559,
+    "('Low', 'ICICIBANK.NS')":1183.5674328785,
+    "('Open', 'ICICIBANK.NS')":1227.4786100807,
+    "('Volume', 'ICICIBANK.NS')":20520898
+  },
+  {
+    "('Date', '')":"2025-01-22",
+    "('Close', 'ICICIBANK.NS')":1191.2580566406,
+    "('High', 'ICICIBANK.NS')":1198.2541229556,
+    "('Low', 'ICICIBANK.NS')":1182.674386954,
+    "('Open', 'ICICIBANK.NS')":1191.8038937223,
+    "('Volume', 'ICICIBANK.NS')":10377123
+  },
+  {
+    "('Date', '')":"2025-01-23",
+    "('Close', 'ICICIBANK.NS')":1192.5482177734,
+    "('High', 'ICICIBANK.NS')":1198.6511515402,
+    "('Low', 'ICICIBANK.NS')":1176.9188152938,
+    "('Open', 'ICICIBANK.NS')":1188.0826742078,
+    "('Volume', 'ICICIBANK.NS')":8770650
+  },
+  {
+    "('Date', '')":"2025-01-24",
+    "('Close', 'ICICIBANK.NS')":1199.9411621094,
+    "('High', 'ICICIBANK.NS')":1208.6738293636,
+    "('Low', 'ICICIBANK.NS')":1192.7963406364,
+    "('Open', 'ICICIBANK.NS')":1193.8878937592,
+    "('Volume', 'ICICIBANK.NS')":9216792
+  },
+  {
+    "('Date', '')":"2025-01-27",
+    "('Close', 'ICICIBANK.NS')":1218.5476074219,
+    "('High', 'ICICIBANK.NS')":1225.1963785799,
+    "('Low', 'ICICIBANK.NS')":1183.96447614,
+    "('Open', 'ICICIBANK.NS')":1185.8499521739,
+    "('Volume', 'ICICIBANK.NS')":16164687
+  },
+  {
+    "('Date', '')":"2025-01-28",
+    "('Close', 'ICICIBANK.NS')":1237.3525390625,
+    "('High', 'ICICIBANK.NS')":1254.3215805212,
+    "('Low', 'ICICIBANK.NS')":1226.5359758894,
+    "('Open', 'ICICIBANK.NS')":1237.7990449684,
+    "('Volume', 'ICICIBANK.NS')":18066499
+  },
+  {
+    "('Date', '')":"2025-01-29",
+    "('Close', 'ICICIBANK.NS')":1242.0661621094,
+    "('High', 'ICICIBANK.NS')":1246.1844098592,
+    "('Low', 'ICICIBANK.NS')":1233.5320363858,
+    "('Open', 'ICICIBANK.NS')":1242.4134579384,
+    "('Volume', 'ICICIBANK.NS')":7666777
+  },
+  {
+    "('Date', '')":"2025-01-30",
+    "('Close', 'ICICIBANK.NS')":1245.9858398438,
+    "('High', 'ICICIBANK.NS')":1250.203297571,
+    "('Low', 'ICICIBANK.NS')":1230.0091418572,
+    "('Open', 'ICICIBANK.NS')":1240.4287433009,
+    "('Volume', 'ICICIBANK.NS')":11921041
+  },
+  {
+    "('Date', '')":"2025-01-31",
+    "('Close', 'ICICIBANK.NS')":1243.2073974609,
+    "('High', 'ICICIBANK.NS')":1246.3828467053,
+    "('Low', 'ICICIBANK.NS')":1229.6122252574,
+    "('Open', 'ICICIBANK.NS')":1244.8943321591,
+    "('Volume', 'ICICIBANK.NS')":10195417
+  },
+  {
+    "('Date', '')":"2025-02-01",
+    "('Close', 'ICICIBANK.NS')":1245.9362792969,
+    "('High', 'ICICIBANK.NS')":1251.6917959101,
+    "('Low', 'ICICIBANK.NS')":1224.352819442,
+    "('Open', 'ICICIBANK.NS')":1241.5699459497,
+    "('Volume', 'ICICIBANK.NS')":3011914
+  },
+  {
+    "('Date', '')":"2025-02-03",
+    "('Close', 'ICICIBANK.NS')":1243.4057617188,
+    "('High', 'ICICIBANK.NS')":1250.3521626222,
+    "('Low', 'ICICIBANK.NS')":1228.3221967826,
+    "('Open', 'ICICIBANK.NS')":1237.3028281264,
+    "('Volume', 'ICICIBANK.NS')":6176831
+  },
+  {
+    "('Date', '')":"2025-02-04",
+    "('Close', 'ICICIBANK.NS')":1258.4893798828,
+    "('High', 'ICICIBANK.NS')":1270.6952475837,
+    "('Low', 'ICICIBANK.NS')":1250.352215506,
+    "('Open', 'ICICIBANK.NS')":1253.1308244391,
+    "('Volume', 'ICICIBANK.NS')":14839077
+  },
+  {
+    "('Date', '')":"2025-02-05",
+    "('Close', 'ICICIBANK.NS')":1257.9931640625,
+    "('High', 'ICICIBANK.NS')":1267.9662595987,
+    "('Low', 'ICICIBANK.NS')":1255.4627621111,
+    "('Open', 'ICICIBANK.NS')":1260.4740215456,
+    "('Volume', 'ICICIBANK.NS')":6840709
+  },
+  {
+    "('Date', '')":"2025-02-06",
+    "('Close', 'ICICIBANK.NS')":1262.6572265625,
+    "('High', 'ICICIBANK.NS')":1269.2066659753,
+    "('Low', 'ICICIBANK.NS')":1253.5275985043,
+    "('Open', 'ICICIBANK.NS')":1265.2372940723,
+    "('Volume', 'ICICIBANK.NS')":8396554
+  },
+  {
+    "('Date', '')":"2025-02-07",
+    "('Close', 'ICICIBANK.NS')":1247.2760009766,
+    "('High', 'ICICIBANK.NS')":1265.2373859142,
+    "('Low', 'ICICIBANK.NS')":1239.9823038025,
+    "('Open', 'ICICIBANK.NS')":1262.2603567709,
+    "('Volume', 'ICICIBANK.NS')":7382039
+  },
+  {
+    "('Date', '')":"2025-02-10",
+    "('Close', 'ICICIBANK.NS')":1252.9322509766,
+    "('High', 'ICICIBANK.NS')":1255.3138984102,
+    "('Low', 'ICICIBANK.NS')":1239.7837061908,
+    "('Open', 'ICICIBANK.NS')":1247.5735745349,
+    "('Volume', 'ICICIBANK.NS')":5740361
+  },
+  {
+    "('Date', '')":"2025-02-11",
+    "('Close', 'ICICIBANK.NS')":1243.1577148438,
+    "('High', 'ICICIBANK.NS')":1252.1880120735,
+    "('Low', 'ICICIBANK.NS')":1238.8410469459,
+    "('Open', 'ICICIBANK.NS')":1246.2339539701,
+    "('Volume', 'ICICIBANK.NS')":6586627
+  },
+  {
+    "('Date', '')":"2025-02-12",
+    "('Close', 'ICICIBANK.NS')":1242.2149658203,
+    "('High', 'ICICIBANK.NS')":1260.0274734986,
+    "('Low', 'ICICIBANK.NS')":1235.119689429,
+    "('Open', 'ICICIBANK.NS')":1247.573520896,
+    "('Volume', 'ICICIBANK.NS')":8809352
+  },
+  {
+    "('Date', '')":"2025-02-13",
+    "('Close', 'ICICIBANK.NS')":1239.3371582031,
+    "('High', 'ICICIBANK.NS')":1256.3061987458,
+    "('Low', 'ICICIBANK.NS')":1236.3601292961,
+    "('Open', 'ICICIBANK.NS')":1242.9592342671,
+    "('Volume', 'ICICIBANK.NS')":7263785
+  },
+  {
+    "('Date', '')":"2025-02-14",
+    "('Close', 'ICICIBANK.NS')":1250.4514160156,
+    "('High', 'ICICIBANK.NS')":1253.8254065127,
+    "('Low', 'ICICIBANK.NS')":1234.9212235163,
+    "('Open', 'ICICIBANK.NS')":1242.5126718509,
+    "('Volume', 'ICICIBANK.NS')":10368438
+  },
+  {
+    "('Date', '')":"2025-02-17",
+    "('Close', 'ICICIBANK.NS')":1241.5699462891,
+    "('High', 'ICICIBANK.NS')":1248.5163471638,
+    "('Low', 'ICICIBANK.NS')":1223.8069826822,
+    "('Open', 'ICICIBANK.NS')":1241.5699462891,
+    "('Volume', 'ICICIBANK.NS')":8386151
+  },
+  {
+    "('Date', '')":"2025-02-18",
+    "('Close', 'ICICIBANK.NS')":1233.5319824219,
+    "('High', 'ICICIBANK.NS')":1247.9705000138,
+    "('Low', 'ICICIBANK.NS')":1227.5779245772,
+    "('Open', 'ICICIBANK.NS')":1243.3065364897,
+    "('Volume', 'ICICIBANK.NS')":8135042
+  },
+  {
+    "('Date', '')":"2025-02-19",
+    "('Close', 'ICICIBANK.NS')":1251.9896240234,
+    "('High', 'ICICIBANK.NS')":1254.7681118616,
+    "('Low', 'ICICIBANK.NS')":1220.8300282562,
+    "('Open', 'ICICIBANK.NS')":1225.3947820254,
+    "('Volume', 'ICICIBANK.NS')":10683412
+  },
+  {
+    "('Date', '')":"2025-02-20",
+    "('Close', 'ICICIBANK.NS')":1240.3791503906,
+    "('High', 'ICICIBANK.NS')":1254.3216187367,
+    "('Low', 'ICICIBANK.NS')":1237.2037010759,
+    "('Open', 'ICICIBANK.NS')":1245.7378271029,
+    "('Volume', 'ICICIBANK.NS')":8398849
+  },
+  {
+    "('Date', '')":"2025-02-21",
+    "('Close', 'ICICIBANK.NS')":1223.5092773438,
+    "('High', 'ICICIBANK.NS')":1235.169307822,
+    "('Low', 'ICICIBANK.NS')":1215.1736928891,
+    "('Open', 'ICICIBANK.NS')":1231.5968971792,
+    "('Volume', 'ICICIBANK.NS')":7786428
+  },
+  {
+    "('Date', '')":"2025-02-24",
+    "('Close', 'ICICIBANK.NS')":1209.0211181641,
+    "('High', 'ICICIBANK.NS')":1222.4674148059,
+    "('Low', 'ICICIBANK.NS')":1200.9831637698,
+    "('Open', 'ICICIBANK.NS')":1217.3071583182,
+    "('Volume', 'ICICIBANK.NS')":11522480
+  },
+  {
+    "('Date', '')":"2025-02-25",
+    "('Close', 'ICICIBANK.NS')":1214.7767333984,
+    "('High', 'ICICIBANK.NS')":1222.219306056,
+    "('Low', 'ICICIBANK.NS')":1211.6508286551,
+    "('Open', 'ICICIBANK.NS')":1217.2079253457,
+    "('Volume', 'ICICIBANK.NS')":11059417
+  },
+  {
+    "('Date', '')":"2025-02-27",
+    "('Close', 'ICICIBANK.NS')":1213.0897216797,
+    "('High', 'ICICIBANK.NS')":1225.3947998147,
+    "('Low', 'ICICIBANK.NS')":1209.1203494513,
+    "('Open', 'ICICIBANK.NS')":1215.7691206152,
+    "('Volume', 'ICICIBANK.NS')":12008162
+  },
+  {
+    "('Date', '')":"2025-02-28",
+    "('Close', 'ICICIBANK.NS')":1194.8802490234,
+    "('High', 'ICICIBANK.NS')":1215.6202431126,
+    "('Low', 'ICICIBANK.NS')":1190.910876801,
+    "('Open', 'ICICIBANK.NS')":1206.6891556122,
+    "('Volume', 'ICICIBANK.NS')":20215075
+  },
+  {
+    "('Date', '')":"2025-03-03",
+    "('Close', 'ICICIBANK.NS')":1196.9641113281,
+    "('High', 'ICICIBANK.NS')":1207.6814644795,
+    "('Low', 'ICICIBANK.NS')":1194.9298808031,
+    "('Open', 'ICICIBANK.NS')":1201.2312348007,
+    "('Volume', 'ICICIBANK.NS')":8158881
+  },
+  {
+    "('Date', '')":"2025-03-04",
+    "('Close', 'ICICIBANK.NS')":1201.1319580078,
+    "('High', 'ICICIBANK.NS')":1207.3341015852,
+    "('Low', 'ICICIBANK.NS')":1197.0137104453,
+    "('Open', 'ICICIBANK.NS')":1197.9068433475,
+    "('Volume', 'ICICIBANK.NS')":9574490
+  },
+  {
+    "('Date', '')":"2025-03-05",
+    "('Close', 'ICICIBANK.NS')":1206.3913574219,
+    "('High', 'ICICIBANK.NS')":1216.562873347,
+    "('Low', 'ICICIBANK.NS')":1202.0251450552,
+    "('Open', 'ICICIBANK.NS')":1207.6814517983,
+    "('Volume', 'ICICIBANK.NS')":9052846
+  },
+  {
+    "('Date', '')":"2025-03-06",
+    "('Close', 'ICICIBANK.NS')":1208.7235107422,
+    "('High', 'ICICIBANK.NS')":1218.5476101119,
+    "('Low', 'ICICIBANK.NS')":1199.7427576094,
+    "('Open', 'ICICIBANK.NS')":1218.5476101119,
+    "('Volume', 'ICICIBANK.NS')":11949475
+  },
+  {
+    "('Date', '')":"2025-03-07",
+    "('Close', 'ICICIBANK.NS')":1205.2502441406,
+    "('High', 'ICICIBANK.NS')":1208.5249033729,
+    "('Low', 'ICICIBANK.NS')":1197.0634143564,
+    "('Open', 'ICICIBANK.NS')":1201.8265880949,
+    "('Volume', 'ICICIBANK.NS')":6620284
+  },
+  {
+    "('Date', '')":"2025-03-10",
+    "('Close', 'ICICIBANK.NS')":1205.5478515625,
+    "('High', 'ICICIBANK.NS')":1216.4140799338,
+    "('Low', 'ICICIBANK.NS')":1198.7503263398,
+    "('Open', 'ICICIBANK.NS')":1198.7503263398,
+    "('Volume', 'ICICIBANK.NS')":7363437
+  },
+  {
+    "('Date', '')":"2025-03-11",
+    "('Close', 'ICICIBANK.NS')":1235.8640136719,
+    "('High', 'ICICIBANK.NS')":1238.4440812808,
+    "('Low', 'ICICIBANK.NS')":1207.879868,
+    "('Open', 'ICICIBANK.NS')":1207.879868,
+    "('Volume', 'ICICIBANK.NS')":10927950
+  },
+  {
+    "('Date', '')":"2025-03-12",
+    "('Close', 'ICICIBANK.NS')":1234.4250488281,
+    "('High', 'ICICIBANK.NS')":1242.3637929724,
+    "('Low', 'ICICIBANK.NS')":1225.8413786306,
+    "('Open', 'ICICIBANK.NS')":1237.4020778822,
+    "('Volume', 'ICICIBANK.NS')":11548372
+  },
+  {
+    "('Date', '')":"2025-03-13",
+    "('Close', 'ICICIBANK.NS')":1240.4783935547,
+    "('High', 'ICICIBANK.NS')":1245.9858244254,
+    "('Low', 'ICICIBANK.NS')":1235.7647643885,
+    "('Open', 'ICICIBANK.NS')":1241.470736537,
+    "('Volume', 'ICICIBANK.NS')":8132940
+  },
+  {
+    "('Date', '')":"2025-03-17",
+    "('Close', 'ICICIBANK.NS')":1259.2833251953,
+    "('High', 'ICICIBANK.NS')":1264.1953748181,
+    "('Low', 'ICICIBANK.NS')":1245.1424367918,
+    "('Open', 'ICICIBANK.NS')":1247.4248742515,
+    "('Volume', 'ICICIBANK.NS')":11164812
+  },
+  {
+    "('Date', '')":"2025-03-18",
+    "('Close', 'ICICIBANK.NS')":1259.2833251953,
+    "('High', 'ICICIBANK.NS')":1259.2833251953,
+    "('Low', 'ICICIBANK.NS')":1259.2833251953,
+    "('Open', 'ICICIBANK.NS')":1259.2833251953,
+    "('Volume', 'ICICIBANK.NS')":0
+  },
+  {
+    "('Date', '')":"2025-03-19",
+    "('Close', 'ICICIBANK.NS')":1303.0455322266,
+    "('High', 'ICICIBANK.NS')":1308.205788362,
+    "('Low', 'ICICIBANK.NS')":1292.1794251381,
+    "('Open', 'ICICIBANK.NS')":1295.602959937,
+    "('Volume', 'ICICIBANK.NS')":11278014
+  },
+  {
+    "('Date', '')":"2025-03-20",
+    "('Close', 'ICICIBANK.NS')":1311.5797119141,
+    "('High', 'ICICIBANK.NS')":1314.1102350516,
+    "('Low', 'ICICIBANK.NS')":1301.0113557334,
+    "('Open', 'ICICIBANK.NS')":1309.8927772461,
+    "('Volume', 'ICICIBANK.NS')":10886735
+  },
+  {
+    "('Date', '')":"2025-03-21",
+    "('Close', 'ICICIBANK.NS')":1332.8159179688,
+    "('High', 'ICICIBANK.NS')":1338.6707661546,
+    "('Low', 'ICICIBANK.NS')":1301.5571120875,
+    "('Open', 'ICICIBANK.NS')":1305.9234457075,
+    "('Volume', 'ICICIBANK.NS')":60494318
+  },
+  {
+    "('Date', '')":"2025-03-24",
+    "('Close', 'ICICIBANK.NS')":1347.7507324219,
+    "('High', 'ICICIBANK.NS')":1362.4870024308,
+    "('Low', 'ICICIBANK.NS')":1334.7510627438,
+    "('Open', 'ICICIBANK.NS')":1345.5675050389,
+    "('Volume', 'ICICIBANK.NS')":9352280
+  },
+  {
+    "('Date', '')":"2025-03-25",
+    "('Close', 'ICICIBANK.NS')":1333.4112548828,
+    "('High', 'ICICIBANK.NS')":1353.3574463043,
+    "('Low', 'ICICIBANK.NS')":1319.8658696967,
+    "('Open', 'ICICIBANK.NS')":1348.5941513992,
+    "('Volume', 'ICICIBANK.NS')":16419207
+  },
+  {
+    "('Date', '')":"2025-03-26",
+    "('Close', 'ICICIBANK.NS')":1325.6710205078,
+    "('High', 'ICICIBANK.NS')":1347.6017762925,
+    "('Low', 'ICICIBANK.NS')":1321.3046871381,
+    "('Open', 'ICICIBANK.NS')":1333.7586400787,
+    "('Volume', 'ICICIBANK.NS')":10859639
+  },
+  {
+    "('Date', '')":"2025-03-27",
+    "('Close', 'ICICIBANK.NS')":1326.4152832031,
+    "('High', 'ICICIBANK.NS')":1341.151552393,
+    "('Low', 'ICICIBANK.NS')":1322.9420827345,
+    "('Open', 'ICICIBANK.NS')":1322.9420827345,
+    "('Volume', 'ICICIBANK.NS')":15109614
+  },
+  {
+    "('Date', '')":"2025-03-28",
+    "('Close', 'ICICIBANK.NS')":1338.0256347656,
+    "('High', 'ICICIBANK.NS')":1347.5521031601,
+    "('Low', 'ICICIBANK.NS')":1317.0375564815,
+    "('Open', 'ICICIBANK.NS')":1325.7702231723,
+    "('Volume', 'ICICIBANK.NS')":8266544
+  },
+  {
+    "('Date', '')":"2025-04-01",
+    "('Close', 'ICICIBANK.NS')":1308.3546142578,
+    "('High', 'ICICIBANK.NS')":1341.9950670685,
+    "('Low', 'ICICIBANK.NS')":1305.3280407097,
+    "('Open', 'ICICIBANK.NS')":1329.7396549237,
+    "('Volume', 'ICICIBANK.NS')":14288024
+  },
+  {
+    "('Date', '')":"2025-04-02",
+    "('Close', 'ICICIBANK.NS')":1321.056640625,
+    "('High', 'ICICIBANK.NS')":1327.7052903808,
+    "('Low', 'ICICIBANK.NS')":1312.0263434026,
+    "('Open', 'ICICIBANK.NS')":1312.0263434026,
+    "('Volume', 'ICICIBANK.NS')":8042214
+  },
+  {
+    "('Date', '')":"2025-04-03",
+    "('Close', 'ICICIBANK.NS')":1319.3697509766,
+    "('High', 'ICICIBANK.NS')":1322.7932860458,
+    "('Low', 'ICICIBANK.NS')":1311.1332552048,
+    "('Open', 'ICICIBANK.NS')":1311.8278468858,
+    "('Volume', 'ICICIBANK.NS')":4591008
+  },
+  {
+    "('Date', '')":"2025-04-04",
+    "('Close', 'ICICIBANK.NS')":1325.0756835938,
+    "('High', 'ICICIBANK.NS')":1328.30079841,
+    "('Low', 'ICICIBANK.NS')":1311.9766830431,
+    "('Open', 'ICICIBANK.NS')":1319.3697112265,
+    "('Volume', 'ICICIBANK.NS')":8648542
+  },
+  {
+    "('Date', '')":"2025-04-07",
+    "('Close', 'ICICIBANK.NS')":1277.6912841797,
+    "('High', 'ICICIBANK.NS')":1314.8544812522,
+    "('Low', 'ICICIBANK.NS')":1255.313900969,
+    "('Open', 'ICICIBANK.NS')":1285.3322768618,
+    "('Volume', 'ICICIBANK.NS')":19185012
+  },
+  {
+    "('Date', '')":"2025-04-08",
+    "('Close', 'ICICIBANK.NS')":1289.9466552734,
+    "('High', 'ICICIBANK.NS')":1300.01896068,
+    "('Low', 'ICICIBANK.NS')":1277.4927025038,
+    "('Open', 'ICICIBANK.NS')":1289.8969896705,
+    "('Volume', 'ICICIBANK.NS')":13085762
+  },
+  {
+    "('Date', '')":"2025-04-09",
+    "('Close', 'ICICIBANK.NS')":1290.83984375,
+    "('High', 'ICICIBANK.NS')":1295.1068460377,
+    "('Low', 'ICICIBANK.NS')":1274.6646041339,
+    "('Open', 'ICICIBANK.NS')":1294.9579703582,
+    "('Volume', 'ICICIBANK.NS')":13005622
+  },
+  {
+    "('Date', '')":"2025-04-11",
+    "('Close', 'ICICIBANK.NS')":1301.6066894531,
+    "('High', 'ICICIBANK.NS')":1314.8544439633,
+    "('Low', 'ICICIBANK.NS')":1295.1067945023,
+    "('Open', 'ICICIBANK.NS')":1295.1067945023,
+    "('Volume', 'ICICIBANK.NS')":13064247
+  },
+  {
+    "('Date', '')":"2025-04-15",
+    "('Close', 'ICICIBANK.NS')":1339.8614501953,
+    "('High', 'ICICIBANK.NS')":1343.9301533432,
+    "('Low', 'ICICIBANK.NS')":1325.9686484022,
+    "('Open', 'ICICIBANK.NS')":1340.6553730377,
+    "('Volume', 'ICICIBANK.NS')":15202603
+  },
+  {
+    "('Date', '')":"2025-04-16",
+    "('Close', 'ICICIBANK.NS')":1346.0140380859,
+    "('High', 'ICICIBANK.NS')":1349.2886972283,
+    "('Low', 'ICICIBANK.NS')":1332.6174078979,
+    "('Open', 'ICICIBANK.NS')":1346.609419645,
+    "('Volume', 'ICICIBANK.NS')":14039073
+  },
+  {
+    "('Date', '')":"2025-04-17",
+    "('Close', 'ICICIBANK.NS')":1395.9288330078,
+    "('High', 'ICICIBANK.NS')":1398.1120602632,
+    "('Low', 'ICICIBANK.NS')":1349.6856739861,
+    "('Open', 'ICICIBANK.NS')":1351.5711498908,
+    "('Volume', 'ICICIBANK.NS')":17490424
+  },
+  {
+    "('Date', '')":"2025-04-21",
+    "('Close', 'ICICIBANK.NS')":1399.0052490234,
+    "('High', 'ICICIBANK.NS')":1425.0045878971,
+    "('Low', 'ICICIBANK.NS')":1393.9442026732,
+    "('Open', 'ICICIBANK.NS')":1425.0045878971,
+    "('Volume', 'ICICIBANK.NS')":16882426
+  },
+  {
+    "('Date', '')":"2025-04-22",
+    "('Close', 'ICICIBANK.NS')":1405.6539306641,
+    "('High', 'ICICIBANK.NS')":1407.9363681339,
+    "('Low', 'ICICIBANK.NS')":1388.188717207,
+    "('Open', 'ICICIBANK.NS')":1401.9823098324,
+    "('Volume', 'ICICIBANK.NS')":16135274
+  },
+  {
+    "('Date', '')":"2025-04-23",
+    "('Close', 'ICICIBANK.NS')":1413.4934082031,
+    "('High', 'ICICIBANK.NS')":1418.9512947602,
+    "('Low', 'ICICIBANK.NS')":1400.4937389944,
+    "('Open', 'ICICIBANK.NS')":1418.0581618237,
+    "('Volume', 'ICICIBANK.NS')":13990764
+  },
+  {
+    "('Date', '')":"2025-04-24",
+    "('Close', 'ICICIBANK.NS')":1391.9594726562,
+    "('High', 'ICICIBANK.NS')":1410.3178180904,
+    "('Low', 'ICICIBANK.NS')":1388.0894318786,
+    "('Open', 'ICICIBANK.NS')":1405.4554343164,
+    "('Volume', 'ICICIBANK.NS')":15678099
+  },
+  {
+    "('Date', '')":"2025-04-25",
+    "('Close', 'ICICIBANK.NS')":1394.0434570312,
+    "('High', 'ICICIBANK.NS')":1403.966886762,
+    "('Low', 'ICICIBANK.NS')":1377.7690080457,
+    "('Open', 'ICICIBANK.NS')":1399.203592037,
+    "('Volume', 'ICICIBANK.NS')":11705093
+  },
+  {
+    "('Date', '')":"2025-04-28",
+    "('Close', 'ICICIBANK.NS')":1417.8597412109,
+    "('High', 'ICICIBANK.NS')":1424.012219419,
+    "('Low', 'ICICIBANK.NS')":1393.0511659597,
+    "('Open', 'ICICIBANK.NS')":1394.8373106964,
+    "('Volume', 'ICICIBANK.NS')":10948561
+  },
+  {
+    "('Date', '')":"2025-04-29",
+    "('Close', 'ICICIBANK.NS')":1418.8520507812,
+    "('High', 'ICICIBANK.NS')":1427.2869661679,
+    "('Low', 'ICICIBANK.NS')":1411.7071085959,
+    "('Open', 'ICICIBANK.NS')":1417.8597077946,
+    "('Volume', 'ICICIBANK.NS')":10786910
+  },
+  {
+    "('Date', '')":"2025-04-30",
+    "('Close', 'ICICIBANK.NS')":1416.0734863281,
+    "('High', 'ICICIBANK.NS')":1422.7221360928,
+    "('Low', 'ICICIBANK.NS')":1389.2802248489,
+    "('Open', 'ICICIBANK.NS')":1422.0275444346,
+    "('Volume', 'ICICIBANK.NS')":14192027
+  },
+  {
+    "('Date', '')":"2025-05-02",
+    "('Close', 'ICICIBANK.NS')":1419.1496582031,
+    "('High', 'ICICIBANK.NS')":1435.52331722,
+    "('Low', 'ICICIBANK.NS')":1413.6917718642,
+    "('Open', 'ICICIBANK.NS')":1415.9742091511,
+    "('Volume', 'ICICIBANK.NS')":8842434
+  },
+  {
+    "('Date', '')":"2025-05-05",
+    "('Close', 'ICICIBANK.NS')":1418.455078125,
+    "('High', 'ICICIBANK.NS')":1435.7218701833,
+    "('Low', 'ICICIBANK.NS')":1415.08108777,
+    "('Open', 'ICICIBANK.NS')":1428.9738894732,
+    "('Volume', 'ICICIBANK.NS')":4565705
+  },
+  {
+    "('Date', '')":"2025-05-06",
+    "('Close', 'ICICIBANK.NS')":1420.6381835938,
+    "('High', 'ICICIBANK.NS')":1422.7220796212,
+    "('Low', 'ICICIBANK.NS')":1409.5239906904,
+    "('Open', 'ICICIBANK.NS')":1418.0581160771,
+    "('Volume', 'ICICIBANK.NS')":6301690
+  },
+  {
+    "('Date', '')":"2025-05-07",
+    "('Close', 'ICICIBANK.NS')":1424.4091796875,
+    "('High', 'ICICIBANK.NS')":1430.9586193213,
+    "('Low', 'ICICIBANK.NS')":1410.1194161273,
+    "('Open', 'ICICIBANK.NS')":1414.0887881643,
+    "('Volume', 'ICICIBANK.NS')":10480453
+  },
+  {
+    "('Date', '')":"2025-05-08",
+    "('Close', 'ICICIBANK.NS')":1424.5084228516,
+    "('High', 'ICICIBANK.NS')":1437.8058437114,
+    "('Low', 'ICICIBANK.NS')":1415.1803741209,
+    "('Open', 'ICICIBANK.NS')":1427.5846620245,
+    "('Volume', 'ICICIBANK.NS')":15306490
+  },
+  {
+    "('Date', '')":"2025-05-09",
+    "('Close', 'ICICIBANK.NS')":1378.2652587891,
+    "('High', 'ICICIBANK.NS')":1409.0278927234,
+    "('Low', 'ICICIBANK.NS')":1376.3797828047,
+    "('Open', 'ICICIBANK.NS')":1404.3638078004,
+    "('Volume', 'ICICIBANK.NS')":13491197
+  },
+  {
+    "('Date', '')":"2025-05-12",
+    "('Close', 'ICICIBANK.NS')":1437.4088134766,
+    "('High', 'ICICIBANK.NS')":1441.8743569081,
+    "('Low', 'ICICIBANK.NS')":1393.2495506532,
+    "('Open', 'ICICIBANK.NS')":1398.6082269982,
+    "('Volume', 'ICICIBANK.NS')":9925445
+  },
+  {
+    "('Date', '')":"2025-05-13",
+    "('Close', 'ICICIBANK.NS')":1419.6458740234,
+    "('High', 'ICICIBANK.NS')":1436.8134564073,
+    "('Low', 'ICICIBANK.NS')":1416.4704248722,
+    "('Open', 'ICICIBANK.NS')":1429.0731325397,
+    "('Volume', 'ICICIBANK.NS')":12475424
+  },
+  {
+    "('Date', '')":"2025-05-14",
+    "('Close', 'ICICIBANK.NS')":1415.2795410156,
+    "('High', 'ICICIBANK.NS')":1429.6685145448,
+    "('Low', 'ICICIBANK.NS')":1406.4477852062,
+    "('Open', 'ICICIBANK.NS')":1418.9512828044,
+    "('Volume', 'ICICIBANK.NS')":8026837
+  },
+  {
+    "('Date', '')":"2025-05-15",
+    "('Close', 'ICICIBANK.NS')":1439.6912841797,
+    "('High', 'ICICIBANK.NS')":1445.3475908699,
+    "('Low', 'ICICIBANK.NS')":1404.6615275499,
+    "('Open', 'ICICIBANK.NS')":1414.9819190582,
+    "('Volume', 'ICICIBANK.NS')":18209264
+  },
+  {
+    "('Date', '')":"2025-05-16",
+    "('Close', 'ICICIBANK.NS')":1442.8666992188,
+    "('High', 'ICICIBANK.NS')":1447.5306627909,
+    "('Low', 'ICICIBANK.NS')":1435.9202983284,
+    "('Open', 'ICICIBANK.NS')":1442.172107584,
+    "('Volume', 'ICICIBANK.NS')":6439208
+  },
+  {
+    "('Date', '')":"2025-05-19",
+    "('Close', 'ICICIBANK.NS')":1437.9050292969,
+    "('High', 'ICICIBANK.NS')":1448.5230511073,
+    "('Low', 'ICICIBANK.NS')":1432.7448940711,
+    "('Open', 'ICICIBANK.NS')":1435.4241717584,
+    "('Volume', 'ICICIBANK.NS')":6005334
+  },
+  {
+    "('Date', '')":"2025-05-20",
+    "('Close', 'ICICIBANK.NS')":1427.1876220703,
+    "('High', 'ICICIBANK.NS')":1447.8284044607,
+    "('Low', 'ICICIBANK.NS')":1424.5083444848,
+    "('Open', 'ICICIBANK.NS')":1439.0957378027,
+    "('Volume', 'ICICIBANK.NS')":11352383
+  },
+  {
+    "('Date', '')":"2025-05-21",
+    "('Close', 'ICICIBANK.NS')":1433.6379394531,
+    "('High', 'ICICIBANK.NS')":1440.1875004166,
+    "('Low', 'ICICIBANK.NS')":1427.4854610679,
+    "('Open', 'ICICIBANK.NS')":1431.851794665,
+    "('Volume', 'ICICIBANK.NS')":5510460
+  },
+  {
+    "('Date', '')":"2025-05-22",
+    "('Close', 'ICICIBANK.NS')":1431.0578613281,
+    "('High', 'ICICIBANK.NS')":1434.2334317099,
+    "('Low', 'ICICIBANK.NS')":1416.8674286607,
+    "('Open', 'ICICIBANK.NS')":1430.0655182967,
+    "('Volume', 'ICICIBANK.NS')":7245933
+  },
+  {
+    "('Date', '')":"2025-05-23",
+    "('Close', 'ICICIBANK.NS')":1438.6989746094,
+    "('High', 'ICICIBANK.NS')":1440.6836606711,
+    "('Low', 'ICICIBANK.NS')":1423.4168677069,
+    "('Open', 'ICICIBANK.NS')":1431.1570706663,
+    "('Volume', 'ICICIBANK.NS')":5203706
+  },
+  {
+    "('Date', '')":"2025-05-26",
+    "('Close', 'ICICIBANK.NS')":1449.4161376953,
+    "('High', 'ICICIBANK.NS')":1460.3319105155,
+    "('Low', 'ICICIBANK.NS')":1443.859041214,
+    "('Open', 'ICICIBANK.NS')":1446.8360701649,
+    "('Volume', 'ICICIBANK.NS')":5608725
+  },
+  {
+    "('Date', '')":"2025-05-27",
+    "('Close', 'ICICIBANK.NS')":1435.3249511719,
+    "('High', 'ICICIBANK.NS')":1451.7978208795,
+    "('Low', 'ICICIBANK.NS')":1424.7068083036,
+    "('Open', 'ICICIBANK.NS')":1441.3782192943,
+    "('Volume', 'ICICIBANK.NS')":14842959
+  },
+  {
+    "('Date', '')":"2025-05-28",
+    "('Close', 'ICICIBANK.NS')":1442.6683349609,
+    "('High', 'ICICIBANK.NS')":1446.8361272023,
+    "('Low', 'ICICIBANK.NS')":1431.4548103494,
+    "('Open', 'ICICIBANK.NS')":1436.5157355384,
+    "('Volume', 'ICICIBANK.NS')":8618343
+  },
+  {
+    "('Date', '')":"2025-05-29",
+    "('Close', 'ICICIBANK.NS')":1445.3475341797,
+    "('High', 'ICICIBANK.NS')":1451.6985534077,
+    "('Low', 'ICICIBANK.NS')":1433.9355900375,
+    "('Open', 'ICICIBANK.NS')":1445.4467442495,
+    "('Volume', 'ICICIBANK.NS')":15545514
+  },
+  {
+    "('Date', '')":"2025-05-30",
+    "('Close', 'ICICIBANK.NS')":1434.7296142578,
+    "('High', 'ICICIBANK.NS')":1449.7139699198,
+    "('Low', 'ICICIBANK.NS')":1433.2410996993,
+    "('Open', 'ICICIBANK.NS')":1448.7216268808,
+    "('Volume', 'ICICIBANK.NS')":11803975
+  },
+  {
+    "('Date', '')":"2025-06-02",
+    "('Close', 'ICICIBANK.NS')":1439.3935546875,
+    "('High', 'ICICIBANK.NS')":1448.8208134049,
+    "('Low', 'ICICIBANK.NS')":1421.8291316368,
+    "('Open', 'ICICIBANK.NS')":1430.958638993,
+    "('Volume', 'ICICIBANK.NS')":9458990
+  },
+  {
+    "('Date', '')":"2025-06-03",
+    "('Close', 'ICICIBANK.NS')":1426.8900146484,
+    "('High', 'ICICIBANK.NS')":1443.859055611,
+    "('Low', 'ICICIBANK.NS')":1421.0351667594,
+    "('Open', 'ICICIBANK.NS')":1443.7598455387,
+    "('Volume', 'ICICIBANK.NS')":11167345
+  },
+  {
+    "('Date', '')":"2025-06-04",
+    "('Close', 'ICICIBANK.NS')":1420.0428466797,
+    "('High', 'ICICIBANK.NS')":1429.0731438396,
+    "('Low', 'ICICIBANK.NS')":1415.4780930628,
+    "('Open', 'ICICIBANK.NS')":1426.393866168,
+    "('Volume', 'ICICIBANK.NS')":8025388
+  },
+  {
+    "('Date', '')":"2025-06-05",
+    "('Close', 'ICICIBANK.NS')":1443.6606445312,
+    "('High', 'ICICIBANK.NS')":1447.8284366761,
+    "('Low', 'ICICIBANK.NS')":1416.3712120374,
+    "('Open', 'ICICIBANK.NS')":1419.9436226094,
+    "('Volume', 'ICICIBANK.NS')":11385668
+  },
+  {
+    "('Date', '')":"2025-06-06",
+    "('Close', 'ICICIBANK.NS')":1448.5230712891,
+    "('High', 'ICICIBANK.NS')":1450.2101271201,
+    "('Low', 'ICICIBANK.NS')":1431.057858202,
+    "('Open', 'ICICIBANK.NS')":1437.5080878919,
+    "('Volume', 'ICICIBANK.NS')":11580994
+  },
+  {
+    "('Date', '')":"2025-06-09",
+    "('Close', 'ICICIBANK.NS')":1423.8138427734,
+    "('High', 'ICICIBANK.NS')":1455.5688200652,
+    "('Low', 'ICICIBANK.NS')":1422.4245382898,
+    "('Open', 'ICICIBANK.NS')":1453.7825541383,
+    "('Volume', 'ICICIBANK.NS')":11022031
+  },
+  {
+    "('Date', '')":"2025-06-10",
+    "('Close', 'ICICIBANK.NS')":1412.0048828125,
+    "('High', 'ICICIBANK.NS')":1430.6608585825,
+    "('Low', 'ICICIBANK.NS')":1405.6538633679,
+    "('Open', 'ICICIBANK.NS')":1427.9815809293,
+    "('Volume', 'ICICIBANK.NS')":12905272
+  },
+  {
+    "('Date', '')":"2025-06-11",
+    "('Close', 'ICICIBANK.NS')":1420.0428466797,
+    "('High', 'ICICIBANK.NS')":1423.5160472131,
+    "('Low', 'ICICIBANK.NS')":1407.737769134,
+    "('Open', 'ICICIBANK.NS')":1410.913339446,
+    "('Volume', 'ICICIBANK.NS')":7136877
+  },
+  {
+    "('Date', '')":"2025-06-12",
+    "('Close', 'ICICIBANK.NS')":1414.2872314453,
+    "('High', 'ICICIBANK.NS')":1425.5007560874,
+    "('Low', 'ICICIBANK.NS')":1409.1270961671,
+    "('Open', 'ICICIBANK.NS')":1419.5466979346,
+    "('Volume', 'ICICIBANK.NS')":7953247
+  },
+  {
+    "('Date', '')":"2025-06-13",
+    "('Close', 'ICICIBANK.NS')":1405.2569580078,
+    "('High', 'ICICIBANK.NS')":1410.6156346635,
+    "('Low', 'ICICIBANK.NS')":1392.8526699788,
+    "('Open', 'ICICIBANK.NS')":1392.8526699788,
+    "('Volume', 'ICICIBANK.NS')":7573103
+  },
+  {
+    "('Date', '')":"2025-06-16",
+    "('Close', 'ICICIBANK.NS')":1415.9742431641,
+    "('High', 'ICICIBANK.NS')":1418.0581392255,
+    "('Low', 'ICICIBANK.NS')":1403.3714144518,
+    "('Open', 'ICICIBANK.NS')":1405.7530618659,
+    "('Volume', 'ICICIBANK.NS')":5451137
+  },
+  {
+    "('Date', '')":"2025-06-17",
+    "('Close', 'ICICIBANK.NS')":1412.3024902344,
+    "('High', 'ICICIBANK.NS')":1418.8520508552,
+    "('Low', 'ICICIBANK.NS')":1406.9439350146,
+    "('Open', 'ICICIBANK.NS')":1415.9742319666,
+    "('Volume', 'ICICIBANK.NS')":6970098
+  },
+  {
+    "('Date', '')":"2025-06-18",
+    "('Close', 'ICICIBANK.NS')":1401.7836914062,
+    "('High', 'ICICIBANK.NS')":1421.0351697487,
+    "('Low', 'ICICIBANK.NS')":1399.4020439896,
+    "('Open', 'ICICIBANK.NS')":1406.1500248142,
+    "('Volume', 'ICICIBANK.NS')":6751745
+  },
+  {
+    "('Date', '')":"2025-06-19",
+    "('Close', 'ICICIBANK.NS')":1400.4937744141,
+    "('High', 'ICICIBANK.NS')":1403.8676438262,
+    "('Low', 'ICICIBANK.NS')":1393.9442134715,
+    "('Open', 'ICICIBANK.NS')":1397.2189939428,
+    "('Volume', 'ICICIBANK.NS')":8849883
+  },
+  {
+    "('Date', '')":"2025-06-20",
+    "('Close', 'ICICIBANK.NS')":1416.1727294922,
+    "('High', 'ICICIBANK.NS')":1422.3253290274,
+    "('Low', 'ICICIBANK.NS')":1399.4021078732,
+    "('Open', 'ICICIBANK.NS')":1400.4937821268,
+    "('Volume', 'ICICIBANK.NS')":12408178
+  },
+  {
+    "('Date', '')":"2025-06-23",
+    "('Close', 'ICICIBANK.NS')":1409.2263183594,
+    "('High', 'ICICIBANK.NS')":1412.3025575377,
+    "('Low', 'ICICIBANK.NS')":1401.0891539348,
+    "('Open', 'ICICIBANK.NS')":1406.1500791811,
+    "('Volume', 'ICICIBANK.NS')":5514384
+  },
+  {
+    "('Date', '')":"2025-06-24",
+    "('Close', 'ICICIBANK.NS')":1413.1956787109,
+    "('High', 'ICICIBANK.NS')":1424.9053748688,
+    "('Low', 'ICICIBANK.NS')":1405.6538959425,
+    "('Open', 'ICICIBANK.NS')":1416.7680893764,
+    "('Volume', 'ICICIBANK.NS')":11188438
+  },
+  {
+    "('Date', '')":"2025-06-25",
+    "('Close', 'ICICIBANK.NS')":1414.8826904297,
+    "('High', 'ICICIBANK.NS')":1417.9589294864,
+    "('Low', 'ICICIBANK.NS')":1404.4630889844,
+    "('Open', 'ICICIBANK.NS')":1411.1117385952,
+    "('Volume', 'ICICIBANK.NS')":7527388
+  },
+  {
+    "('Date', '')":"2025-06-26",
+    "('Close', 'ICICIBANK.NS')":1428.0808105469,
+    "('High', 'ICICIBANK.NS')":1436.416516111,
+    "('Low', 'ICICIBANK.NS')":1410.8140178359,
+    "('Open', 'ICICIBANK.NS')":1413.890378095,
+    "('Volume', 'ICICIBANK.NS')":13617435
+  },
+  {
+    "('Date', '')":"2025-06-27",
+    "('Close', 'ICICIBANK.NS')":1451.00390625,
+    "('High', 'ICICIBANK.NS')":1454.7748581565,
+    "('Low', 'ICICIBANK.NS')":1426.096120832,
+    "('Open', 'ICICIBANK.NS')":1427.882386711,
+    "('Volume', 'ICICIBANK.NS')":22532899
+  },
+  {
+    "('Date', '')":"2025-06-30",
+    "('Close', 'ICICIBANK.NS')":1434.7296142578,
+    "('High', 'ICICIBANK.NS')":1450.7063129588,
+    "('Low', 'ICICIBANK.NS')":1431.2564136213,
+    "('Open', 'ICICIBANK.NS')":1450.607102882,
+    "('Volume', 'ICICIBANK.NS')":6325073
+  },
+  {
+    "('Date', '')":"2025-07-01",
+    "('Close', 'ICICIBANK.NS')":1421.03515625,
+    "('High', 'ICICIBANK.NS')":1436.5156826077,
+    "('Low', 'ICICIBANK.NS')":1418.653508856,
+    "('Open', 'ICICIBANK.NS')":1434.6302067068,
+    "('Volume', 'ICICIBANK.NS')":7761449
+  },
+  {
+    "('Date', '')":"2025-07-02",
+    "('Close', 'ICICIBANK.NS')":1416.8674316406,
+    "('High', 'ICICIBANK.NS')":1439.8897415628,
+    "('Low', 'ICICIBANK.NS')":1411.7071751852,
+    "('Open', 'ICICIBANK.NS')":1421.2336440794,
+    "('Volume', 'ICICIBANK.NS')":13372280
+  },
+  {
+    "('Date', '')":"2025-07-03",
+    "('Close', 'ICICIBANK.NS')":1414.9819335938,
+    "('High', 'ICICIBANK.NS')":1435.0272141031,
+    "('Low', 'ICICIBANK.NS')":1412.7987062728,
+    "('Open', 'ICICIBANK.NS')":1421.1344118511,
+    "('Volume', 'ICICIBANK.NS')":10177738
+  },
+  {
+    "('Date', '')":"2025-07-04",
+    "('Close', 'ICICIBANK.NS')":1431.7525634766,
+    "('High', 'ICICIBANK.NS')":1433.3402880878,
+    "('Low', 'ICICIBANK.NS')":1410.2186471745,
+    "('Open', 'ICICIBANK.NS')":1416.0734952432,
+    "('Volume', 'ICICIBANK.NS')":5066503
+  },
+  {
+    "('Date', '')":"2025-07-07",
+    "('Close', 'ICICIBANK.NS')":1424.7067871094,
+    "('High', 'ICICIBANK.NS')":1429.8670433562,
+    "('Low', 'ICICIBANK.NS')":1418.653519077,
+    "('Open', 'ICICIBANK.NS')":1425.996881455,
+    "('Volume', 'ICICIBANK.NS')":5177477
+  },
+  {
+    "('Date', '')":"2025-07-08",
+    "('Close', 'ICICIBANK.NS')":1430.9586181641,
+    "('High', 'ICICIBANK.NS')":1433.9356471894,
+    "('Low', 'ICICIBANK.NS')":1419.0505020628,
+    "('Open', 'ICICIBANK.NS')":1421.0351880797,
+    "('Volume', 'ICICIBANK.NS')":5315847
+  },
+  {
+    "('Date', '')":"2025-07-09",
+    "('Close', 'ICICIBANK.NS')":1420.9360351562,
+    "('High', 'ICICIBANK.NS')":1427.6838952036,
+    "('Low', 'ICICIBANK.NS')":1415.6765685458,
+    "('Open', 'ICICIBANK.NS')":1425.2030375828,
+    "('Volume', 'ICICIBANK.NS')":8827347
+  },
+  {
+    "('Date', '')":"2025-07-10",
+    "('Close', 'ICICIBANK.NS')":1413.1956787109,
+    "('High', 'ICICIBANK.NS')":1427.9816140214,
+    "('Low', 'ICICIBANK.NS')":1411.2109926595,
+    "('Open', 'ICICIBANK.NS')":1425.798507819,
+    "('Volume', 'ICICIBANK.NS')":7795964
+  },
+  {
+    "('Date', '')":"2025-07-11",
+    "('Close', 'ICICIBANK.NS')":1411.0125732422,
+    "('High', 'ICICIBANK.NS')":1417.0658414751,
+    "('Low', 'ICICIBANK.NS')":1403.7684206964,
+    "('Open', 'ICICIBANK.NS')":1411.1117833177,
+    "('Volume', 'ICICIBANK.NS')":7158015
+  },
+  {
+    "('Date', '')":"2025-07-14",
+    "('Close', 'ICICIBANK.NS')":1412.1041259766,
+    "('High', 'ICICIBANK.NS')":1413.9896019531,
+    "('Low', 'ICICIBANK.NS')":1405.2569348701,
+    "('Open', 'ICICIBANK.NS')":1413.9896019531,
+    "('Volume', 'ICICIBANK.NS')":5846154
+  },
+  {
+    "('Date', '')":"2025-07-15",
+    "('Close', 'ICICIBANK.NS')":1419.8444824219,
+    "('High', 'ICICIBANK.NS')":1422.8215115677,
+    "('Low', 'ICICIBANK.NS')":1408.1347859939,
+    "('Open', 'ICICIBANK.NS')":1410.2186821689,
+    "('Volume', 'ICICIBANK.NS')":6041457
+  },
+  {
+    "('Date', '')":"2025-07-16",
+    "('Close', 'ICICIBANK.NS')":1415.4781494141,
+    "('High', 'ICICIBANK.NS')":1418.2566372701,
+    "('Low', 'ICICIBANK.NS')":1408.2339967016,
+    "('Open', 'ICICIBANK.NS')":1415.0811879673,
+    "('Volume', 'ICICIBANK.NS')":5649093
+  },
+  {
+    "('Date', '')":"2025-07-17",
+    "('Close', 'ICICIBANK.NS')":1407.8370361328,
+    "('High', 'ICICIBANK.NS')":1412.3025798564,
+    "('Low', 'ICICIBANK.NS')":1398.70752853,
+    "('Open', 'ICICIBANK.NS')":1410.1194736013,
+    "('Volume', 'ICICIBANK.NS')":12927394
+  },
+  {
+    "('Date', '')":"2025-07-18",
+    "('Close', 'ICICIBANK.NS')":1414.8826904297,
+    "('High', 'ICICIBANK.NS')":1418.0581395588,
+    "('Low', 'ICICIBANK.NS')":1397.7151081655,
+    "('Open', 'ICICIBANK.NS')":1404.9592604818,
+    "('Volume', 'ICICIBANK.NS')":11297246
+  },
+  {
+    "('Date', '')":"2025-07-21",
+    "('Close', 'ICICIBANK.NS')":1454.5764160156,
+    "('High', 'ICICIBANK.NS')":1456.4617708047,
+    "('Low', 'ICICIBANK.NS')":1425.9968891975,
+    "('Open', 'ICICIBANK.NS')":1436.9126621837,
+    "('Volume', 'ICICIBANK.NS')":13867136
+  },
+  {
+    "('Date', '')":"2025-07-22",
+    "('Close', 'ICICIBANK.NS')":1462.3166503906,
+    "('High', 'ICICIBANK.NS')":1470.6523559877,
+    "('Low', 'ICICIBANK.NS')":1458.4464883846,
+    "('Open', 'ICICIBANK.NS')":1462.8128219007,
+    "('Volume', 'ICICIBANK.NS')":8930165
+  },
+  {
+    "('Date', '')":"2025-07-23",
+    "('Close', 'ICICIBANK.NS')":1477.2017822266,
+    "('High', 'ICICIBANK.NS')":1478.5910866693,
+    "('Low', 'ICICIBANK.NS')":1461.3242940476,
+    "('Open', 'ICICIBANK.NS')":1471.545475517,
+    "('Volume', 'ICICIBANK.NS')":11974174
+  },
+  {
+    "('Date', '')":"2025-07-24",
+    "('Close', 'ICICIBANK.NS')":1472.0416259766,
+    "('High', 'ICICIBANK.NS')":1477.3009711793,
+    "('Low', 'ICICIBANK.NS')":1466.7821596382,
+    "('Open', 'ICICIBANK.NS')":1476.3086281823,
+    "('Volume', 'ICICIBANK.NS')":6700578
+  },
+  {
+    "('Date', '')":"2025-07-25",
+    "('Close', 'ICICIBANK.NS')":1465.7897949219,
+    "('High', 'ICICIBANK.NS')":1488.5144734436,
+    "('Low', 'ICICIBANK.NS')":1462.3165944838,
+    "('Open', 'ICICIBANK.NS')":1488.5144734436,
+    "('Volume', 'ICICIBANK.NS')":8696077
+  },
+  {
+    "('Date', '')":"2025-07-28",
+    "('Close', 'ICICIBANK.NS')":1477.0034179688,
+    "('High', 'ICICIBANK.NS')":1482.3620946591,
+    "('Low', 'ICICIBANK.NS')":1465.7898930638,
+    "('Open', 'ICICIBANK.NS')":1465.7898930638,
+    "('Volume', 'ICICIBANK.NS')":7507479
+  },
+  {
+    "('Date', '')":"2025-07-29",
+    "('Close', 'ICICIBANK.NS')":1474.8201904297,
+    "('High', 'ICICIBANK.NS')":1478.3927223133,
+    "('Low', 'ICICIBANK.NS')":1464.1029581858,
+    "('Open', 'ICICIBANK.NS')":1468.5685019047,
+    "('Volume', 'ICICIBANK.NS')":9776027
+  },
+  {
+    "('Date', '')":"2025-07-30",
+    "('Close', 'ICICIBANK.NS')":1471.0493164062,
+    "('High', 'ICICIBANK.NS')":1477.1025845984,
+    "('Low', 'ICICIBANK.NS')":1465.9883912337,
+    "('Open', 'ICICIBANK.NS')":1476.3086617285,
+    "('Volume', 'ICICIBANK.NS')":7238625
+  },
+  {
+    "('Date', '')":"2025-07-31",
+    "('Close', 'ICICIBANK.NS')":1470.0570068359,
+    "('High', 'ICICIBANK.NS')":1483.0566764607,
+    "('Low', 'ICICIBANK.NS')":1452.7902136758,
+    "('Open', 'ICICIBANK.NS')":1458.6450618515,
+    "('Volume', 'ICICIBANK.NS')":12406146
+  },
+  {
+    "('Date', '')":"2025-08-01",
+    "('Close', 'ICICIBANK.NS')":1460.3319091797,
+    "('High', 'ICICIBANK.NS')":1473.7285394467,
+    "('Low', 'ICICIBANK.NS')":1458.5457644921,
+    "('Open', 'ICICIBANK.NS')":1469.0645758821,
+    "('Volume', 'ICICIBANK.NS')":4416771
+  },
+  {
+    "('Date', '')":"2025-08-04",
+    "('Close', 'ICICIBANK.NS')":1451.9962158203,
+    "('High', 'ICICIBANK.NS')":1467.4768633867,
+    "('Low', 'ICICIBANK.NS')":1450.1108610461,
+    "('Open', 'ICICIBANK.NS')":1465.492177405,
+    "('Volume', 'ICICIBANK.NS')":6140054
+  },
+  {
+    "('Date', '')":"2025-08-05",
+    "('Close', 'ICICIBANK.NS')":1433.3402099609,
+    "('High', 'ICICIBANK.NS')":1450.3092505192,
+    "('Low', 'ICICIBANK.NS')":1429.9662196361,
+    "('Open', 'ICICIBANK.NS')":1441.874335275,
+    "('Volume', 'ICICIBANK.NS')":14799343
+  },
+  {
+    "('Date', '')":"2025-08-06",
+    "('Close', 'ICICIBANK.NS')":1432.5463867188,
+    "('High', 'ICICIBANK.NS')":1442.8667785504,
+    "('Low', 'ICICIBANK.NS')":1430.561700641,
+    "('Open', 'ICICIBANK.NS')":1431.2564134496,
+    "('Volume', 'ICICIBANK.NS')":7805252
+  },
+  {
+    "('Date', '')":"2025-08-07",
+    "('Close', 'ICICIBANK.NS')":1429.2717285156,
+    "('High', 'ICICIBANK.NS')":1436.8135113901,
+    "('Low', 'ICICIBANK.NS')":1418.1574137898,
+    "('Open', 'ICICIBANK.NS')":1430.065530266,
+    "('Volume', 'ICICIBANK.NS')":7432535
+  },
+  {
+    "('Date', '')":"2025-08-08",
+    "('Close', 'ICICIBANK.NS')":1424.9053955078,
+    "('High', 'ICICIBANK.NS')":1436.5157606227,
+    "('Low', 'ICICIBANK.NS')":1421.0352334243,
+    "('Open', 'ICICIBANK.NS')":1434.8288259088,
+    "('Volume', 'ICICIBANK.NS')":5415511
+  },
+  {
+    "('Date', '')":"2025-08-11",
+    "('Close', 'ICICIBANK.NS')":1425.5999755859,
+    "('High', 'ICICIBANK.NS')":1427.3862414978,
+    "('Low', 'ICICIBANK.NS')":1409.5240669213,
+    "('Open', 'ICICIBANK.NS')":1416.9666396615,
+    "('Volume', 'ICICIBANK.NS')":8492484
+  },
+  {
+    "('Date', '')":"2025-08-12",
+    "('Close', 'ICICIBANK.NS')":1422.0,
+    "('High', 'ICICIBANK.NS')":1433.8000488281,
+    "('Low', 'ICICIBANK.NS')":1420.0999755859,
+    "('Open', 'ICICIBANK.NS')":1431.0,
+    "('Volume', 'ICICIBANK.NS')":5913947
+  },
+  {
+    "('Date', '')":"2025-08-13",
+    "('Close', 'ICICIBANK.NS')":1420.8000488281,
+    "('High', 'ICICIBANK.NS')":1427.6999511719,
+    "('Low', 'ICICIBANK.NS')":1415.1999511719,
+    "('Open', 'ICICIBANK.NS')":1424.5999755859,
+    "('Volume', 'ICICIBANK.NS')":9009465
+  },
+  {
+    "('Date', '')":"2025-08-14",
+    "('Close', 'ICICIBANK.NS')":1427.3000488281,
+    "('High', 'ICICIBANK.NS')":1431.0999755859,
+    "('Low', 'ICICIBANK.NS')":1412.0,
+    "('Open', 'ICICIBANK.NS')":1412.0,
+    "('Volume', 'ICICIBANK.NS')":7577793
+  },
+  {
+    "('Date', '')":"2025-08-18",
+    "('Close', 'ICICIBANK.NS')":1434.5999755859,
+    "('High', 'ICICIBANK.NS')":1452.4000244141,
+    "('Low', 'ICICIBANK.NS')":1431.0,
+    "('Open', 'ICICIBANK.NS')":1450.0,
+    "('Volume', 'ICICIBANK.NS')":6908844
+  },
+  {
+    "('Date', '')":"2025-08-19",
+    "('Close', 'ICICIBANK.NS')":1436.3000488281,
+    "('High', 'ICICIBANK.NS')":1438.5,
+    "('Low', 'ICICIBANK.NS')":1426.3000488281,
+    "('Open', 'ICICIBANK.NS')":1431.0999755859,
+    "('Volume', 'ICICIBANK.NS')":6709554
+  },
+  {
+    "('Date', '')":"2025-08-20",
+    "('Close', 'ICICIBANK.NS')":1430.5999755859,
+    "('High', 'ICICIBANK.NS')":1435.9000244141,
+    "('Low', 'ICICIBANK.NS')":1423.0,
+    "('Open', 'ICICIBANK.NS')":1432.5999755859,
+    "('Volume', 'ICICIBANK.NS')":5817858
+  },
+  {
+    "('Date', '')":"2025-08-21",
+    "('Close', 'ICICIBANK.NS')":1446.0,
+    "('High', 'ICICIBANK.NS')":1447.8000488281,
+    "('Low', 'ICICIBANK.NS')":1436.4000244141,
+    "('Open', 'ICICIBANK.NS')":1440.0999755859,
+    "('Volume', 'ICICIBANK.NS')":6238645
+  },
+  {
+    "('Date', '')":"2025-08-22",
+    "('Close', 'ICICIBANK.NS')":1436.4000244141,
+    "('High', 'ICICIBANK.NS')":1446.0,
+    "('Low', 'ICICIBANK.NS')":1429.4000244141,
+    "('Open', 'ICICIBANK.NS')":1444.3000488281,
+    "('Volume', 'ICICIBANK.NS')":6657207
+  },
+  {
+    "('Date', '')":"2025-08-25",
+    "('Close', 'ICICIBANK.NS')":1433.1999511719,
+    "('High', 'ICICIBANK.NS')":1435.9000244141,
+    "('Low', 'ICICIBANK.NS')":1424.0,
+    "('Open', 'ICICIBANK.NS')":1435.9000244141,
+    "('Volume', 'ICICIBANK.NS')":6738427
+  },
+  {
+    "('Date', '')":"2025-08-26",
+    "('Close', 'ICICIBANK.NS')":1416.5999755859,
+    "('High', 'ICICIBANK.NS')":1427.9000244141,
+    "('Low', 'ICICIBANK.NS')":1413.0999755859,
+    "('Open', 'ICICIBANK.NS')":1427.9000244141,
+    "('Volume', 'ICICIBANK.NS')":8720155
+  },
+  {
+    "('Date', '')":"2025-08-28",
+    "('Close', 'ICICIBANK.NS')":1399.0999755859,
+    "('High', 'ICICIBANK.NS')":1411.8000488281,
+    "('Low', 'ICICIBANK.NS')":1396.3000488281,
+    "('Open', 'ICICIBANK.NS')":1408.0,
+    "('Volume', 'ICICIBANK.NS')":12990789
+  },
+  {
+    "('Date', '')":"2025-08-29",
+    "('Close', 'ICICIBANK.NS')":1397.8000488281,
+    "('High', 'ICICIBANK.NS')":1405.0,
+    "('Low', 'ICICIBANK.NS')":1392.0999755859,
+    "('Open', 'ICICIBANK.NS')":1392.0999755859,
+    "('Volume', 'ICICIBANK.NS')":8519507
+  },
+  {
+    "('Date', '')":"2025-09-01",
+    "('Close', 'ICICIBANK.NS')":1411.0,
+    "('High', 'ICICIBANK.NS')":1412.4000244141,
+    "('Low', 'ICICIBANK.NS')":1398.0999755859,
+    "('Open', 'ICICIBANK.NS')":1398.0999755859,
+    "('Volume', 'ICICIBANK.NS')":4927348
+  },
+  {
+    "('Date', '')":"2025-09-02",
+    "('Close', 'ICICIBANK.NS')":1394.1999511719,
+    "('High', 'ICICIBANK.NS')":1413.9000244141,
+    "('Low', 'ICICIBANK.NS')":1390.0,
+    "('Open', 'ICICIBANK.NS')":1413.9000244141,
+    "('Volume', 'ICICIBANK.NS')":7163073
+  },
+  {
+    "('Date', '')":"2025-09-03",
+    "('Close', 'ICICIBANK.NS')":1397.0,
+    "('High', 'ICICIBANK.NS')":1400.0,
+    "('Low', 'ICICIBANK.NS')":1384.1999511719,
+    "('Open', 'ICICIBANK.NS')":1389.0,
+    "('Volume', 'ICICIBANK.NS')":9813382
+  },
+  {
+    "('Date', '')":"2025-09-04",
+    "('Close', 'ICICIBANK.NS')":1405.5,
+    "('High', 'ICICIBANK.NS')":1415.0999755859,
+    "('Low', 'ICICIBANK.NS')":1401.9000244141,
+    "('Open', 'ICICIBANK.NS')":1409.9000244141,
+    "('Volume', 'ICICIBANK.NS')":10564859
+  },
+  {
+    "('Date', '')":"2025-09-05",
+    "('Close', 'ICICIBANK.NS')":1402.8000488281,
+    "('High', 'ICICIBANK.NS')":1411.5,
+    "('Low', 'ICICIBANK.NS')":1387.6999511719,
+    "('Open', 'ICICIBANK.NS')":1411.0,
+    "('Volume', 'ICICIBANK.NS')":6621077
+  },
+  {
+    "('Date', '')":"2025-09-08",
+    "('Close', 'ICICIBANK.NS')":1402.6999511719,
+    "('High', 'ICICIBANK.NS')":1410.5999755859,
+    "('Low', 'ICICIBANK.NS')":1397.5999755859,
+    "('Open', 'ICICIBANK.NS')":1402.1999511719,
+    "('Volume', 'ICICIBANK.NS')":5880943
+  },
+  {
+    "('Date', '')":"2025-09-09",
+    "('Close', 'ICICIBANK.NS')":1403.6999511719,
+    "('High', 'ICICIBANK.NS')":1407.5,
+    "('Low', 'ICICIBANK.NS')":1395.1999511719,
+    "('Open', 'ICICIBANK.NS')":1399.0,
+    "('Volume', 'ICICIBANK.NS')":6470679
+  },
+  {
+    "('Date', '')":"2025-09-10",
+    "('Close', 'ICICIBANK.NS')":1403.9000244141,
+    "('High', 'ICICIBANK.NS')":1413.6999511719,
+    "('Low', 'ICICIBANK.NS')":1402.0999755859,
+    "('Open', 'ICICIBANK.NS')":1410.0,
+    "('Volume', 'ICICIBANK.NS')":7452347
+  },
+  {
+    "('Date', '')":"2025-09-11",
+    "('Close', 'ICICIBANK.NS')":1401.5999755859,
+    "('High', 'ICICIBANK.NS')":1408.0,
+    "('Low', 'ICICIBANK.NS')":1396.0,
+    "('Open', 'ICICIBANK.NS')":1398.0,
+    "('Volume', 'ICICIBANK.NS')":10192026
+  },
+  {
+    "('Date', '')":"2025-09-12",
+    "('Close', 'ICICIBANK.NS')":1417.6999511719,
+    "('High', 'ICICIBANK.NS')":1419.6999511719,
+    "('Low', 'ICICIBANK.NS')":1400.0999755859,
+    "('Open', 'ICICIBANK.NS')":1405.0999755859,
+    "('Volume', 'ICICIBANK.NS')":7770038
+  },
+  {
+    "('Date', '')":"2025-09-15",
+    "('Close', 'ICICIBANK.NS')":1419.4000244141,
+    "('High', 'ICICIBANK.NS')":1426.8000488281,
+    "('Low', 'ICICIBANK.NS')":1416.3000488281,
+    "('Open', 'ICICIBANK.NS')":1422.0,
+    "('Volume', 'ICICIBANK.NS')":5845637
+  },
+  {
+    "('Date', '')":"2025-09-16",
+    "('Close', 'ICICIBANK.NS')":1421.5999755859,
+    "('High', 'ICICIBANK.NS')":1424.9000244141,
+    "('Low', 'ICICIBANK.NS')":1413.6999511719,
+    "('Open', 'ICICIBANK.NS')":1414.0,
+    "('Volume', 'ICICIBANK.NS')":8213151
+  },
+  {
+    "('Date', '')":"2025-09-17",
+    "('Close', 'ICICIBANK.NS')":1419.1999511719,
+    "('High', 'ICICIBANK.NS')":1426.0999755859,
+    "('Low', 'ICICIBANK.NS')":1416.4000244141,
+    "('Open', 'ICICIBANK.NS')":1420.0999755859,
+    "('Volume', 'ICICIBANK.NS')":7484283
+  },
+  {
+    "('Date', '')":"2025-09-18",
+    "('Close', 'ICICIBANK.NS')":1421.6999511719,
+    "('High', 'ICICIBANK.NS')":1432.8000488281,
+    "('Low', 'ICICIBANK.NS')":1415.3000488281,
+    "('Open', 'ICICIBANK.NS')":1431.0999755859,
+    "('Volume', 'ICICIBANK.NS')":8130537
+  },
+  {
+    "('Date', '')":"2025-09-19",
+    "('Close', 'ICICIBANK.NS')":1402.1999511719,
+    "('High', 'ICICIBANK.NS')":1418.0,
+    "('Low', 'ICICIBANK.NS')":1400.1999511719,
+    "('Open', 'ICICIBANK.NS')":1416.0999755859,
+    "('Volume', 'ICICIBANK.NS')":13457344
+  },
+  {
+    "('Date', '')":"2025-09-22",
+    "('Close', 'ICICIBANK.NS')":1401.5,
+    "('High', 'ICICIBANK.NS')":1409.9000244141,
+    "('Low', 'ICICIBANK.NS')":1397.1999511719,
+    "('Open', 'ICICIBANK.NS')":1403.9000244141,
+    "('Volume', 'ICICIBANK.NS')":8847948
+  },
+  {
+    "('Date', '')":"2025-09-23",
+    "('Close', 'ICICIBANK.NS')":1394.3000488281,
+    "('High', 'ICICIBANK.NS')":1403.3000488281,
+    "('Low', 'ICICIBANK.NS')":1391.0,
+    "('Open', 'ICICIBANK.NS')":1391.0,
+    "('Volume', 'ICICIBANK.NS')":12827524
+  },
+  {
+    "('Date', '')":"2025-09-24",
+    "('Close', 'ICICIBANK.NS')":1382.6999511719,
+    "('High', 'ICICIBANK.NS')":1390.9000244141,
+    "('Low', 'ICICIBANK.NS')":1376.5,
+    "('Open', 'ICICIBANK.NS')":1386.4000244141,
+    "('Volume', 'ICICIBANK.NS')":9735678
+  },
+  {
+    "('Date', '')":"2025-09-25",
+    "('Close', 'ICICIBANK.NS')":1375.8000488281,
+    "('High', 'ICICIBANK.NS')":1391.5,
+    "('Low', 'ICICIBANK.NS')":1371.8000488281,
+    "('Open', 'ICICIBANK.NS')":1377.0,
+    "('Volume', 'ICICIBANK.NS')":21613389
+  },
+  {
+    "('Date', '')":"2025-09-26",
+    "('Close', 'ICICIBANK.NS')":1359.5999755859,
+    "('High', 'ICICIBANK.NS')":1372.6999511719,
+    "('Low', 'ICICIBANK.NS')":1357.0,
+    "('Open', 'ICICIBANK.NS')":1368.0,
+    "('Volume', 'ICICIBANK.NS')":18342280
+  },
+  {
+    "('Date', '')":"2025-09-29",
+    "('Close', 'ICICIBANK.NS')":1348.0999755859,
+    "('High', 'ICICIBANK.NS')":1366.5,
+    "('Low', 'ICICIBANK.NS')":1346.1999511719,
+    "('Open', 'ICICIBANK.NS')":1359.5999755859,
+    "('Volume', 'ICICIBANK.NS')":20563163
+  },
+  {
+    "('Date', '')":"2025-09-30",
+    "('Close', 'ICICIBANK.NS')":1348.0,
+    "('High', 'ICICIBANK.NS')":1356.5999755859,
+    "('Low', 'ICICIBANK.NS')":1342.5999755859,
+    "('Open', 'ICICIBANK.NS')":1353.6999511719,
+    "('Volume', 'ICICIBANK.NS')":20166871
+  },
+  {
+    "('Date', '')":"2025-10-01",
+    "('Close', 'ICICIBANK.NS')":1372.0,
+    "('High', 'ICICIBANK.NS')":1379.4000244141,
+    "('Low', 'ICICIBANK.NS')":1347.0999755859,
+    "('Open', 'ICICIBANK.NS')":1348.0,
+    "('Volume', 'ICICIBANK.NS')":20952632
+  },
+  {
+    "('Date', '')":"2025-10-03",
+    "('Close', 'ICICIBANK.NS')":1365.1999511719,
+    "('High', 'ICICIBANK.NS')":1371.9000244141,
+    "('Low', 'ICICIBANK.NS')":1361.3000488281,
+    "('Open', 'ICICIBANK.NS')":1371.9000244141,
+    "('Volume', 'ICICIBANK.NS')":12163695
+  },
+  {
+    "('Date', '')":"2025-10-06",
+    "('Close', 'ICICIBANK.NS')":1363.4000244141,
+    "('High', 'ICICIBANK.NS')":1372.5999755859,
+    "('Low', 'ICICIBANK.NS')":1359.0999755859,
+    "('Open', 'ICICIBANK.NS')":1371.0,
+    "('Volume', 'ICICIBANK.NS')":14314283
+  },
+  {
+    "('Date', '')":"2025-10-07",
+    "('Close', 'ICICIBANK.NS')":1375.9000244141,
+    "('High', 'ICICIBANK.NS')":1383.0999755859,
+    "('Low', 'ICICIBANK.NS')":1363.5999755859,
+    "('Open', 'ICICIBANK.NS')":1363.5999755859,
+    "('Volume', 'ICICIBANK.NS')":16126464
+  },
+  {
+    "('Date', '')":"2025-10-08",
+    "('Close', 'ICICIBANK.NS')":1370.3000488281,
+    "('High', 'ICICIBANK.NS')":1381.5999755859,
+    "('Low', 'ICICIBANK.NS')":1364.3000488281,
+    "('Open', 'ICICIBANK.NS')":1372.3000488281,
+    "('Volume', 'ICICIBANK.NS')":8100832
+  },
+  {
+    "('Date', '')":"2025-10-09",
+    "('Close', 'ICICIBANK.NS')":1376.1999511719,
+    "('High', 'ICICIBANK.NS')":1378.6999511719,
+    "('Low', 'ICICIBANK.NS')":1365.0999755859,
+    "('Open', 'ICICIBANK.NS')":1369.8000488281,
+    "('Volume', 'ICICIBANK.NS')":7909575
+  },
+  {
+    "('Date', '')":"2025-10-10",
+    "('Close', 'ICICIBANK.NS')":1380.3000488281,
+    "('High', 'ICICIBANK.NS')":1385.0,
+    "('Low', 'ICICIBANK.NS')":1370.3000488281,
+    "('Open', 'ICICIBANK.NS')":1370.3000488281,
+    "('Volume', 'ICICIBANK.NS')":7673816
+  },
+  {
+    "('Date', '')":"2025-10-13",
+    "('Close', 'ICICIBANK.NS')":1379.4000244141,
+    "('High', 'ICICIBANK.NS')":1386.4000244141,
+    "('Low', 'ICICIBANK.NS')":1373.0999755859,
+    "('Open', 'ICICIBANK.NS')":1373.0999755859,
+    "('Volume', 'ICICIBANK.NS')":8923018
+  },
+  {
+    "('Date', '')":"2025-10-14",
+    "('Close', 'ICICIBANK.NS')":1384.0999755859,
+    "('High', 'ICICIBANK.NS')":1389.0,
+    "('Low', 'ICICIBANK.NS')":1375.0999755859,
+    "('Open', 'ICICIBANK.NS')":1389.0,
+    "('Volume', 'ICICIBANK.NS')":10610855
+  },
+  {
+    "('Date', '')":"2025-10-15",
+    "('Close', 'ICICIBANK.NS')":1398.4000244141,
+    "('High', 'ICICIBANK.NS')":1400.4000244141,
+    "('Low', 'ICICIBANK.NS')":1385.5,
+    "('Open', 'ICICIBANK.NS')":1386.5,
+    "('Volume', 'ICICIBANK.NS')":8988550
+  },
+  {
+    "('Date', '')":"2025-10-16",
+    "('Close', 'ICICIBANK.NS')":1417.3000488281,
+    "('High', 'ICICIBANK.NS')":1418.9000244141,
+    "('Low', 'ICICIBANK.NS')":1399.4000244141,
+    "('Open', 'ICICIBANK.NS')":1401.0,
+    "('Volume', 'ICICIBANK.NS')":12185032
+  },
+  {
+    "('Date', '')":"2025-10-17",
+    "('Close', 'ICICIBANK.NS')":1436.5999755859,
+    "('High', 'ICICIBANK.NS')":1439.5999755859,
+    "('Low', 'ICICIBANK.NS')":1410.9000244141,
+    "('Open', 'ICICIBANK.NS')":1412.0,
+    "('Volume', 'ICICIBANK.NS')":17037215
+  },
+  {
+    "('Date', '')":"2025-10-20",
+    "('Close', 'ICICIBANK.NS')":1390.3000488281,
+    "('High', 'ICICIBANK.NS')":1445.0,
+    "('Low', 'ICICIBANK.NS')":1389.1999511719,
+    "('Open', 'ICICIBANK.NS')":1442.0,
+    "('Volume', 'ICICIBANK.NS')":23330227
+  },
+  {
+    "('Date', '')":"2025-10-21",
+    "('Close', 'ICICIBANK.NS')":1382.0,
+    "('High', 'ICICIBANK.NS')":1387.5999755859,
+    "('Low', 'ICICIBANK.NS')":1375.9000244141,
+    "('Open', 'ICICIBANK.NS')":1384.5,
+    "('Volume', 'ICICIBANK.NS')":3415560
+  },
+  {
+    "('Date', '')":"2025-10-23",
+    "('Close', 'ICICIBANK.NS')":1363.6999511719,
+    "('High', 'ICICIBANK.NS')":1389.8000488281,
+    "('Low', 'ICICIBANK.NS')":1360.0999755859,
+    "('Open', 'ICICIBANK.NS')":1385.0,
+    "('Volume', 'ICICIBANK.NS')":21124942
+  },
+  {
+    "('Date', '')":"2025-10-24",
+    "('Close', 'ICICIBANK.NS')":1377.6999511719,
+    "('High', 'ICICIBANK.NS')":1381.5999755859,
+    "('Low', 'ICICIBANK.NS')":1368.0999755859,
+    "('Open', 'ICICIBANK.NS')":1368.0999755859,
+    "('Volume', 'ICICIBANK.NS')":10570263
+  },
+  {
+    "('Date', '')":"2025-10-27",
+    "('Close', 'ICICIBANK.NS')":1377.5999755859,
+    "('High', 'ICICIBANK.NS')":1386.8000488281,
+    "('Low', 'ICICIBANK.NS')":1374.0,
+    "('Open', 'ICICIBANK.NS')":1382.0999755859,
+    "('Volume', 'ICICIBANK.NS')":11499836
+  },
+  {
+    "('Date', '')":"2025-10-28",
+    "('Close', 'ICICIBANK.NS')":1363.0999755859,
+    "('High', 'ICICIBANK.NS')":1375.8000488281,
+    "('Low', 'ICICIBANK.NS')":1356.1999511719,
+    "('Open', 'ICICIBANK.NS')":1373.0,
+    "('Volume', 'ICICIBANK.NS')":26477914
+  },
+  {
+    "('Date', '')":"2025-10-29",
+    "('Close', 'ICICIBANK.NS')":1370.4000244141,
+    "('High', 'ICICIBANK.NS')":1371.6999511719,
+    "('Low', 'ICICIBANK.NS')":1358.4000244141,
+    "('Open', 'ICICIBANK.NS')":1364.5999755859,
+    "('Volume', 'ICICIBANK.NS')":16129382
+  },
+  {
+    "('Date', '')":"2025-10-30",
+    "('Close', 'ICICIBANK.NS')":1362.4000244141,
+    "('High', 'ICICIBANK.NS')":1370.1999511719,
+    "('Low', 'ICICIBANK.NS')":1361.3000488281,
+    "('Open', 'ICICIBANK.NS')":1362.4000244141,
+    "('Volume', 'ICICIBANK.NS')":9324401
+  },
+  {
+    "('Date', '')":"2025-10-31",
+    "('Close', 'ICICIBANK.NS')":1345.3000488281,
+    "('High', 'ICICIBANK.NS')":1362.0,
+    "('Low', 'ICICIBANK.NS')":1343.3000488281,
+    "('Open', 'ICICIBANK.NS')":1357.0,
+    "('Volume', 'ICICIBANK.NS')":15926798
+  },
+  {
+    "('Date', '')":"2025-11-03",
+    "('Close', 'ICICIBANK.NS')":1346.4000244141,
+    "('High', 'ICICIBANK.NS')":1351.5999755859,
+    "('Low', 'ICICIBANK.NS')":1337.9000244141,
+    "('Open', 'ICICIBANK.NS')":1340.5,
+    "('Volume', 'ICICIBANK.NS')":11071450
+  },
+  {
+    "('Date', '')":"2025-11-04",
+    "('Close', 'ICICIBANK.NS')":1336.9000244141,
+    "('High', 'ICICIBANK.NS')":1349.8000488281,
+    "('Low', 'ICICIBANK.NS')":1333.1999511719,
+    "('Open', 'ICICIBANK.NS')":1342.5999755859,
+    "('Volume', 'ICICIBANK.NS')":15211183
+  },
+  {
+    "('Date', '')":"2025-11-05",
+    "('Close', 'ICICIBANK.NS')":1336.9000244141,
+    "('High', 'ICICIBANK.NS')":1336.9000244141,
+    "('Low', 'ICICIBANK.NS')":1336.9000244141,
+    "('Open', 'ICICIBANK.NS')":1336.9000244141,
+    "('Volume', 'ICICIBANK.NS')":0
+  },
+  {
+    "('Date', '')":"2025-11-06",
+    "('Close', 'ICICIBANK.NS')":1320.4000244141,
+    "('High', 'ICICIBANK.NS')":1342.1999511719,
+    "('Low', 'ICICIBANK.NS')":1317.4000244141,
+    "('Open', 'ICICIBANK.NS')":1330.0,
+    "('Volume', 'ICICIBANK.NS')":24221853
+  },
+  {
+    "('Date', '')":"2025-11-07",
+    "('Close', 'ICICIBANK.NS')":1343.0,
+    "('High', 'ICICIBANK.NS')":1344.3000488281,
+    "('Low', 'ICICIBANK.NS')":1318.5999755859,
+    "('Open', 'ICICIBANK.NS')":1320.4000244141,
+    "('Volume', 'ICICIBANK.NS')":7719245
+  },
+  {
+    "('Date', '')":"2025-11-10",
+    "('Close', 'ICICIBANK.NS')":1348.0,
+    "('High', 'ICICIBANK.NS')":1349.5999755859,
+    "('Low', 'ICICIBANK.NS')":1341.0,
+    "('Open', 'ICICIBANK.NS')":1342.9000244141,
+    "('Volume', 'ICICIBANK.NS')":8542340
+  },
+  {
+    "('Date', '')":"2025-11-11",
+    "('Close', 'ICICIBANK.NS')":1358.3000488281,
+    "('High', 'ICICIBANK.NS')":1360.4000244141,
+    "('Low', 'ICICIBANK.NS')":1346.1999511719,
+    "('Open', 'ICICIBANK.NS')":1349.0,
+    "('Volume', 'ICICIBANK.NS')":8305088
+  }
+]

@@ -1,0 +1,1994 @@
+[
+  {
+    "('Date', '')":"2024-11-11",
+    "('Close', 'EICHERMOT.NS')":4732.0913085938,
+    "('High', 'EICHERMOT.NS')":4770.7400699378,
+    "('Low', 'EICHERMOT.NS')":4689.493267492,
+    "('Open', 'EICHERMOT.NS')":4701.0436936551,
+    "('Volume', 'EICHERMOT.NS')":209237
+  },
+  {
+    "('Date', '')":"2024-11-12",
+    "('Close', 'EICHERMOT.NS')":4677.5483398438,
+    "('High', 'EICHERMOT.NS')":4745.714264872,
+    "('Low', 'EICHERMOT.NS')":4645.3158941539,
+    "('Open', 'EICHERMOT.NS')":4726.7106766253,
+    "('Volume', 'EICHERMOT.NS')":326018
+  },
+  {
+    "('Date', '')":"2024-11-13",
+    "('Close', 'EICHERMOT.NS')":4529.9624023438,
+    "('High', 'EICHERMOT.NS')":4659.5323328254,
+    "('Low', 'EICHERMOT.NS')":4477.9859646058,
+    "('Open', 'EICHERMOT.NS')":4639.8375105798,
+    "('Volume', 'EICHERMOT.NS')":656931
+  },
+  {
+    "('Date', '')":"2024-11-14",
+    "('Close', 'EICHERMOT.NS')":4821.1860351562,
+    "('High', 'EICHERMOT.NS')":4909.3427511878,
+    "('Low', 'EICHERMOT.NS')":4645.069271729,
+    "('Open', 'EICHERMOT.NS')":4664.9617258107,
+    "('Volume', 'EICHERMOT.NS')":2874648
+  },
+  {
+    "('Date', '')":"2024-11-18",
+    "('Close', 'EICHERMOT.NS')":4813.2387695312,
+    "('High', 'EICHERMOT.NS')":4851.0979638031,
+    "('Low', 'EICHERMOT.NS')":4800.7507932386,
+    "('Open', 'EICHERMOT.NS')":4817.484016268,
+    "('Volume', 'EICHERMOT.NS')":494329
+  },
+  {
+    "('Date', '')":"2024-11-19",
+    "('Close', 'EICHERMOT.NS')":4901.8896484375,
+    "('High', 'EICHERMOT.NS')":4949.8671555603,
+    "('Low', 'EICHERMOT.NS')":4817.5332635412,
+    "('Open', 'EICHERMOT.NS')":4817.5332635412,
+    "('Volume', 'EICHERMOT.NS')":452273
+  },
+  {
+    "('Date', '')":"2024-11-21",
+    "('Close', 'EICHERMOT.NS')":4819.6064453125,
+    "('High', 'EICHERMOT.NS')":4894.5347858253,
+    "('Low', 'EICHERMOT.NS')":4805.0944208439,
+    "('Open', 'EICHERMOT.NS')":4827.7011914396,
+    "('Volume', 'EICHERMOT.NS')":593722
+  },
+  {
+    "('Date', '')":"2024-11-22",
+    "('Close', 'EICHERMOT.NS')":4922.3740234375,
+    "('High', 'EICHERMOT.NS')":4940.9331800326,
+    "('Low', 'EICHERMOT.NS')":4819.5076493345,
+    "('Open', 'EICHERMOT.NS')":4850.1108318682,
+    "('Volume', 'EICHERMOT.NS')":339941
+  },
+  {
+    "('Date', '')":"2024-11-25",
+    "('Close', 'EICHERMOT.NS')":4938.3173828125,
+    "('High', 'EICHERMOT.NS')":5002.1397323699,
+    "('Low', 'EICHERMOT.NS')":4924.1509739612,
+    "('Open', 'EICHERMOT.NS')":4935.01016817,
+    "('Volume', 'EICHERMOT.NS')":945466
+  },
+  {
+    "('Date', '')":"2024-11-26",
+    "('Close', 'EICHERMOT.NS')":4868.6206054688,
+    "('High', 'EICHERMOT.NS')":4950.1633717207,
+    "('Low', 'EICHERMOT.NS')":4812.597039927,
+    "('Open', 'EICHERMOT.NS')":4944.881758563,
+    "('Volume', 'EICHERMOT.NS')":564637
+  },
+  {
+    "('Date', '')":"2024-11-27",
+    "('Close', 'EICHERMOT.NS')":4854.5532226562,
+    "('High', 'EICHERMOT.NS')":4908.2567755256,
+    "('Low', 'EICHERMOT.NS')":4827.5040545376,
+    "('Open', 'EICHERMOT.NS')":4869.854813902,
+    "('Volume', 'EICHERMOT.NS')":189349
+  },
+  {
+    "('Date', '')":"2024-11-28",
+    "('Close', 'EICHERMOT.NS')":4754.056640625,
+    "('High', 'EICHERMOT.NS')":4857.0213516702,
+    "('Low', 'EICHERMOT.NS')":4732.4365867885,
+    "('Open', 'EICHERMOT.NS')":4857.0213516702,
+    "('Volume', 'EICHERMOT.NS')":954250
+  },
+  {
+    "('Date', '')":"2024-11-29",
+    "('Close', 'EICHERMOT.NS')":4769.9995117188,
+    "('High', 'EICHERMOT.NS')":4802.0338429927,
+    "('Low', 'EICHERMOT.NS')":4746.4547096501,
+    "('Open', 'EICHERMOT.NS')":4776.0706916155,
+    "('Volume', 'EICHERMOT.NS')":407774
+  },
+  {
+    "('Date', '')":"2024-12-02",
+    "('Close', 'EICHERMOT.NS')":4758.9926757812,
+    "('High', 'EICHERMOT.NS')":4783.4750298143,
+    "('Low', 'EICHERMOT.NS')":4633.4698776003,
+    "('Open', 'EICHERMOT.NS')":4776.1202009535,
+    "('Volume', 'EICHERMOT.NS')":250521
+  },
+  {
+    "('Date', '')":"2024-12-03",
+    "('Close', 'EICHERMOT.NS')":4782.33984375,
+    "('High', 'EICHERMOT.NS')":4807.661413722,
+    "('Low', 'EICHERMOT.NS')":4759.0418398769,
+    "('Open', 'EICHERMOT.NS')":4759.0418398769,
+    "('Volume', 'EICHERMOT.NS')":351449
+  },
+  {
+    "('Date', '')":"2024-12-04",
+    "('Close', 'EICHERMOT.NS')":4735.6450195312,
+    "('High', 'EICHERMOT.NS')":4816.3485761148,
+    "('Low', 'EICHERMOT.NS')":4690.1846768003,
+    "('Open', 'EICHERMOT.NS')":4774.1457988188,
+    "('Volume', 'EICHERMOT.NS')":349544
+  },
+  {
+    "('Date', '')":"2024-12-05",
+    "('Close', 'EICHERMOT.NS')":4775.6264648438,
+    "('High', 'EICHERMOT.NS')":4817.5332739428,
+    "('Low', 'EICHERMOT.NS')":4699.069340977,
+    "('Open', 'EICHERMOT.NS')":4735.6448874678,
+    "('Volume', 'EICHERMOT.NS')":525957
+  },
+  {
+    "('Date', '')":"2024-12-06",
+    "('Close', 'EICHERMOT.NS')":4814.6206054688,
+    "('High', 'EICHERMOT.NS')":4865.6098397277,
+    "('Low', 'EICHERMOT.NS')":4765.7542355289,
+    "('Open', 'EICHERMOT.NS')":4788.9042541007,
+    "('Volume', 'EICHERMOT.NS')":327806
+  },
+  {
+    "('Date', '')":"2024-12-09",
+    "('Close', 'EICHERMOT.NS')":4780.1186523438,
+    "('High', 'EICHERMOT.NS')":4825.4310116319,
+    "('Low', 'EICHERMOT.NS')":4753.365450288,
+    "('Open', 'EICHERMOT.NS')":4824.0490287794,
+    "('Volume', 'EICHERMOT.NS')":377043
+  },
+  {
+    "('Date', '')":"2024-12-10",
+    "('Close', 'EICHERMOT.NS')":4751.4399414062,
+    "('High', 'EICHERMOT.NS')":4812.4983214998,
+    "('Low', 'EICHERMOT.NS')":4736.0891833482,
+    "('Open', 'EICHERMOT.NS')":4778.0451583961,
+    "('Volume', 'EICHERMOT.NS')":342297
+  },
+  {
+    "('Date', '')":"2024-12-11",
+    "('Close', 'EICHERMOT.NS')":4740.482421875,
+    "('High', 'EICHERMOT.NS')":4771.7271869417,
+    "('Low', 'EICHERMOT.NS')":4733.7200094786,
+    "('Open', 'EICHERMOT.NS')":4760.2755773259,
+    "('Volume', 'EICHERMOT.NS')":240736
+  },
+  {
+    "('Date', '')":"2024-12-12",
+    "('Close', 'EICHERMOT.NS')":4746.109375,
+    "('High', 'EICHERMOT.NS')":4758.3013847052,
+    "('Low', 'EICHERMOT.NS')":4713.8774091218,
+    "('Open', 'EICHERMOT.NS')":4740.4826273114,
+    "('Volume', 'EICHERMOT.NS')":236847
+  },
+  {
+    "('Date', '')":"2024-12-13",
+    "('Close', 'EICHERMOT.NS')":4764.1254882812,
+    "('High', 'EICHERMOT.NS')":4796.2591179714,
+    "('Low', 'EICHERMOT.NS')":4693.3435805164,
+    "('Open', 'EICHERMOT.NS')":4726.7107274257,
+    "('Volume', 'EICHERMOT.NS')":404369
+  },
+  {
+    "('Date', '')":"2024-12-16",
+    "('Close', 'EICHERMOT.NS')":4776.564453125,
+    "('High', 'EICHERMOT.NS')":4802.7252380806,
+    "('Low', 'EICHERMOT.NS')":4738.5572749819,
+    "('Open', 'EICHERMOT.NS')":4758.3012636277,
+    "('Volume', 'EICHERMOT.NS')":404180
+  },
+  {
+    "('Date', '')":"2024-12-17",
+    "('Close', 'EICHERMOT.NS')":4681.94140625,
+    "('High', 'EICHERMOT.NS')":4768.1733751867,
+    "('Low', 'EICHERMOT.NS')":4666.4426640006,
+    "('Open', 'EICHERMOT.NS')":4746.5538034943,
+    "('Volume', 'EICHERMOT.NS')":402231
+  },
+  {
+    "('Date', '')":"2024-12-18",
+    "('Close', 'EICHERMOT.NS')":4689.0493164062,
+    "('High', 'EICHERMOT.NS')":4737.9156882685,
+    "('Low', 'EICHERMOT.NS')":4655.978135449,
+    "('Open', 'EICHERMOT.NS')":4663.5301146942,
+    "('Volume', 'EICHERMOT.NS')":331577
+  },
+  {
+    "('Date', '')":"2024-12-19",
+    "('Close', 'EICHERMOT.NS')":4710.8666992188,
+    "('High', 'EICHERMOT.NS')":4718.8134621323,
+    "('Low', 'EICHERMOT.NS')":4613.77553503,
+    "('Open', 'EICHERMOT.NS')":4649.7094992978,
+    "('Volume', 'EICHERMOT.NS')":500287
+  },
+  {
+    "('Date', '')":"2024-12-20",
+    "('Close', 'EICHERMOT.NS')":4673.8955078125,
+    "('High', 'EICHERMOT.NS')":4760.7198868984,
+    "('Low', 'EICHERMOT.NS')":4659.5811166702,
+    "('Open', 'EICHERMOT.NS')":4687.2226995657,
+    "('Volume', 'EICHERMOT.NS')":386086
+  },
+  {
+    "('Date', '')":"2024-12-23",
+    "('Close', 'EICHERMOT.NS')":4689.740234375,
+    "('High', 'EICHERMOT.NS')":4715.0622863242,
+    "('Low', 'EICHERMOT.NS')":4637.8630952051,
+    "('Open', 'EICHERMOT.NS')":4689.1974674806,
+    "('Volume', 'EICHERMOT.NS')":371318
+  },
+  {
+    "('Date', '')":"2024-12-24",
+    "('Close', 'EICHERMOT.NS')":4731.5478515625,
+    "('High', 'EICHERMOT.NS')":4746.4546587313,
+    "('Low', 'EICHERMOT.NS')":4677.9922847497,
+    "('Open', 'EICHERMOT.NS')":4689.7398610637,
+    "('Volume', 'EICHERMOT.NS')":227611
+  },
+  {
+    "('Date', '')":"2024-12-26",
+    "('Close', 'EICHERMOT.NS')":4739.8901367188,
+    "('High', 'EICHERMOT.NS')":4762.5957238822,
+    "('Low', 'EICHERMOT.NS')":4710.9157366931,
+    "('Open', 'EICHERMOT.NS')":4731.5481086224,
+    "('Volume', 'EICHERMOT.NS')":328172
+  },
+  {
+    "('Date', '')":"2024-12-27",
+    "('Close', 'EICHERMOT.NS')":4814.47265625,
+    "('High', 'EICHERMOT.NS')":4891.5238586193,
+    "('Low', 'EICHERMOT.NS')":4728.2406922754,
+    "('Open', 'EICHERMOT.NS')":4758.3011068102,
+    "('Volume', 'EICHERMOT.NS')":408992
+  },
+  {
+    "('Date', '')":"2024-12-30",
+    "('Close', 'EICHERMOT.NS')":4793.642578125,
+    "('High', 'EICHERMOT.NS')":4842.1638134947,
+    "('Low', 'EICHERMOT.NS')":4770.4433925908,
+    "('Open', 'EICHERMOT.NS')":4827.404989885,
+    "('Volume', 'EICHERMOT.NS')":242799
+  },
+  {
+    "('Date', '')":"2024-12-31",
+    "('Close', 'EICHERMOT.NS')":4760.1767578125,
+    "('High', 'EICHERMOT.NS')":4810.030328218,
+    "('Low', 'EICHERMOT.NS')":4748.4291811925,
+    "('Open', 'EICHERMOT.NS')":4765.2115712299,
+    "('Volume', 'EICHERMOT.NS')":313948
+  },
+  {
+    "('Date', '')":"2025-01-01",
+    "('Close', 'EICHERMOT.NS')":4822.7651367188,
+    "('High', 'EICHERMOT.NS')":4843.6447900895,
+    "('Low', 'EICHERMOT.NS')":4681.7440851087,
+    "('Open', 'EICHERMOT.NS')":4767.1860021505,
+    "('Volume', 'EICHERMOT.NS')":290234
+  },
+  {
+    "('Date', '')":"2025-01-02",
+    "('Close', 'EICHERMOT.NS')":5240.1533203125,
+    "('High', 'EICHERMOT.NS')":5261.7728911325,
+    "('Low', 'EICHERMOT.NS')":4804.9463610441,
+    "('Open', 'EICHERMOT.NS')":4822.4691506909,
+    "('Volume', 'EICHERMOT.NS')":2863478
+  },
+  {
+    "('Date', '')":"2025-01-03",
+    "('Close', 'EICHERMOT.NS')":5242.76953125,
+    "('High', 'EICHERMOT.NS')":5316.7603235761,
+    "('Low', 'EICHERMOT.NS')":5203.2815528571,
+    "('Open', 'EICHERMOT.NS')":5256.8371235525,
+    "('Volume', 'EICHERMOT.NS')":836689
+  },
+  {
+    "('Date', '')":"2025-01-06",
+    "('Close', 'EICHERMOT.NS')":5182.8959960938,
+    "('High', 'EICHERMOT.NS')":5281.5171260221,
+    "('Low', 'EICHERMOT.NS')":5122.0352456178,
+    "('Open', 'EICHERMOT.NS')":5242.7695471068,
+    "('Volume', 'EICHERMOT.NS')":419050
+  },
+  {
+    "('Date', '')":"2025-01-07",
+    "('Close', 'EICHERMOT.NS')":5111.02734375,
+    "('High', 'EICHERMOT.NS')":5224.2593095799,
+    "('Low', 'EICHERMOT.NS')":5100.3657828694,
+    "('Open', 'EICHERMOT.NS')":5182.8957504549,
+    "('Volume', 'EICHERMOT.NS')":439721
+  },
+  {
+    "('Date', '')":"2025-01-08",
+    "('Close', 'EICHERMOT.NS')":5097.1083984375,
+    "('High', 'EICHERMOT.NS')":5170.8027410517,
+    "('Low', 'EICHERMOT.NS')":5068.5779486776,
+    "('Open', 'EICHERMOT.NS')":5145.4811715386,
+    "('Volume', 'EICHERMOT.NS')":343162
+  },
+  {
+    "('Date', '')":"2025-01-09",
+    "('Close', 'EICHERMOT.NS')":5074.1064453125,
+    "('High', 'EICHERMOT.NS')":5129.3404483175,
+    "('Low', 'EICHERMOT.NS')":5039.6532803117,
+    "('Open', 'EICHERMOT.NS')":5119.9124041867,
+    "('Volume', 'EICHERMOT.NS')":239408
+  },
+  {
+    "('Date', '')":"2025-01-10",
+    "('Close', 'EICHERMOT.NS')":4993.69921875,
+    "('High', 'EICHERMOT.NS')":5096.6147607548,
+    "('Low', 'EICHERMOT.NS')":4975.4851962015,
+    "('Open', 'EICHERMOT.NS')":5084.0771350075,
+    "('Volume', 'EICHERMOT.NS')":316803
+  },
+  {
+    "('Date', '')":"2025-01-13",
+    "('Close', 'EICHERMOT.NS')":4875.876953125,
+    "('High', 'EICHERMOT.NS')":4959.8877236432,
+    "('Low', 'EICHERMOT.NS')":4862.5497604045,
+    "('Open', 'EICHERMOT.NS')":4945.8692984878,
+    "('Volume', 'EICHERMOT.NS')":213093
+  },
+  {
+    "('Date', '')":"2025-01-14",
+    "('Close', 'EICHERMOT.NS')":4965.1684570312,
+    "('High', 'EICHERMOT.NS')":4976.817698953,
+    "('Low', 'EICHERMOT.NS')":4886.6861061922,
+    "('Open', 'EICHERMOT.NS')":4886.6861061922,
+    "('Volume', 'EICHERMOT.NS')":448429
+  },
+  {
+    "('Date', '')":"2025-01-15",
+    "('Close', 'EICHERMOT.NS')":5016.8486328125,
+    "('High', 'EICHERMOT.NS')":5028.2014261351,
+    "('Low', 'EICHERMOT.NS')":4940.1435271472,
+    "('Open', 'EICHERMOT.NS')":4973.4118583609,
+    "('Volume', 'EICHERMOT.NS')":497259
+  },
+  {
+    "('Date', '')":"2025-01-16",
+    "('Close', 'EICHERMOT.NS')":4983.1850585938,
+    "('High', 'EICHERMOT.NS')":5068.3806580854,
+    "('Low', 'EICHERMOT.NS')":4970.4502824331,
+    "('Open', 'EICHERMOT.NS')":5046.6126215722,
+    "('Volume', 'EICHERMOT.NS')":435315
+  },
+  {
+    "('Date', '')":"2025-01-17",
+    "('Close', 'EICHERMOT.NS')":4948.1396484375,
+    "('High', 'EICHERMOT.NS')":5010.4320306173,
+    "('Low', 'EICHERMOT.NS')":4934.0720561669,
+    "('Open', 'EICHERMOT.NS')":4940.9332852095,
+    "('Volume', 'EICHERMOT.NS')":197564
+  },
+  {
+    "('Date', '')":"2025-01-20",
+    "('Close', 'EICHERMOT.NS')":4952.5327148438,
+    "('High', 'EICHERMOT.NS')":4973.9551351764,
+    "('Low', 'EICHERMOT.NS')":4866.8931647341,
+    "('Open', 'EICHERMOT.NS')":4948.1891337804,
+    "('Volume', 'EICHERMOT.NS')":255315
+  },
+  {
+    "('Date', '')":"2025-01-21",
+    "('Close', 'EICHERMOT.NS')":4906.33203125,
+    "('High', 'EICHERMOT.NS')":5014.9731364024,
+    "('Low', 'EICHERMOT.NS')":4896.5092040464,
+    "('Open', 'EICHERMOT.NS')":4967.9331796689,
+    "('Volume', 'EICHERMOT.NS')":416551
+  },
+  {
+    "('Date', '')":"2025-01-22",
+    "('Close', 'EICHERMOT.NS')":4945.5732421875,
+    "('High', 'EICHERMOT.NS')":4960.6772008523,
+    "('Low', 'EICHERMOT.NS')":4889.7964736605,
+    "('Open', 'EICHERMOT.NS')":4916.2532259193,
+    "('Volume', 'EICHERMOT.NS')":494734
+  },
+  {
+    "('Date', '')":"2025-01-23",
+    "('Close', 'EICHERMOT.NS')":5050.7099609375,
+    "('High', 'EICHERMOT.NS')":5091.9747046615,
+    "('Low', 'EICHERMOT.NS')":4914.0811730007,
+    "('Open', 'EICHERMOT.NS')":4932.6408116663,
+    "('Volume', 'EICHERMOT.NS')":442186
+  },
+  {
+    "('Date', '')":"2025-01-24",
+    "('Close', 'EICHERMOT.NS')":5139.65625,
+    "('High', 'EICHERMOT.NS')":5157.6234726146,
+    "('Low', 'EICHERMOT.NS')":5049.5743011291,
+    "('Open', 'EICHERMOT.NS')":5068.2819233234,
+    "('Volume', 'EICHERMOT.NS')":730641
+  },
+  {
+    "('Date', '')":"2025-01-27",
+    "('Close', 'EICHERMOT.NS')":5078.6474609375,
+    "('High', 'EICHERMOT.NS')":5141.3346246598,
+    "('Low', 'EICHERMOT.NS')":5050.1174938543,
+    "('Open', 'EICHERMOT.NS')":5123.5650349433,
+    "('Volume', 'EICHERMOT.NS')":418597
+  },
+  {
+    "('Date', '')":"2025-01-28",
+    "('Close', 'EICHERMOT.NS')":5040.0478515625,
+    "('High', 'EICHERMOT.NS')":5127.5138170857,
+    "('Low', 'EICHERMOT.NS')":5024.8450768129,
+    "('Open', 'EICHERMOT.NS')":5093.9490366119,
+    "('Volume', 'EICHERMOT.NS')":603950
+  },
+  {
+    "('Date', '')":"2025-01-29",
+    "('Close', 'EICHERMOT.NS')":5116.5556640625,
+    "('High', 'EICHERMOT.NS')":5167.9888491103,
+    "('Low', 'EICHERMOT.NS')":5015.5157092597,
+    "('Open', 'EICHERMOT.NS')":5015.5157092597,
+    "('Volume', 'EICHERMOT.NS')":357310
+  },
+  {
+    "('Date', '')":"2025-01-30",
+    "('Close', 'EICHERMOT.NS')":5098.2436523438,
+    "('High', 'EICHERMOT.NS')":5200.566780462,
+    "('Low', 'EICHERMOT.NS')":5074.254416131,
+    "('Open', 'EICHERMOT.NS')":5116.556009603,
+    "('Volume', 'EICHERMOT.NS')":480830
+  },
+  {
+    "('Date', '')":"2025-01-31",
+    "('Close', 'EICHERMOT.NS')":5127.8095703125,
+    "('High', 'EICHERMOT.NS')":5176.8735725366,
+    "('Low', 'EICHERMOT.NS')":5079.140833467,
+    "('Open', 'EICHERMOT.NS')":5098.8848211578,
+    "('Volume', 'EICHERMOT.NS')":394118
+  },
+  {
+    "('Date', '')":"2025-02-01",
+    "('Close', 'EICHERMOT.NS')":5321.1528320312,
+    "('High', 'EICHERMOT.NS')":5353.6315963888,
+    "('Low', 'EICHERMOT.NS')":5064.4318168921,
+    "('Open', 'EICHERMOT.NS')":5148.0473181503,
+    "('Volume', 'EICHERMOT.NS')":609534
+  },
+  {
+    "('Date', '')":"2025-02-03",
+    "('Close', 'EICHERMOT.NS')":5415.0356445312,
+    "('High', 'EICHERMOT.NS')":5504.1303926136,
+    "('Low', 'EICHERMOT.NS')":5337.688473197,
+    "('Open', 'EICHERMOT.NS')":5503.6367929013,
+    "('Volume', 'EICHERMOT.NS')":1330533
+  },
+  {
+    "('Date', '')":"2025-02-04",
+    "('Close', 'EICHERMOT.NS')":5380.3354492188,
+    "('High', 'EICHERMOT.NS')":5483.0533521221,
+    "('Low', 'EICHERMOT.NS')":5372.3390378169,
+    "('Open', 'EICHERMOT.NS')":5465.6785465895,
+    "('Volume', 'EICHERMOT.NS')":591631
+  },
+  {
+    "('Date', '')":"2025-02-05",
+    "('Close', 'EICHERMOT.NS')":5347.8569335938,
+    "('High', 'EICHERMOT.NS')":5399.9808705741,
+    "('Low', 'EICHERMOT.NS')":5282.5041386549,
+    "('Open', 'EICHERMOT.NS')":5380.2368820162,
+    "('Volume', 'EICHERMOT.NS')":442234
+  },
+  {
+    "('Date', '')":"2025-02-06",
+    "('Close', 'EICHERMOT.NS')":5273.619140625,
+    "('High', 'EICHERMOT.NS')":5375.3498449376,
+    "('Low', 'EICHERMOT.NS')":5262.6611309914,
+    "('Open', 'EICHERMOT.NS')":5358.617104498,
+    "('Volume', 'EICHERMOT.NS')":361000
+  },
+  {
+    "('Date', '')":"2025-02-07",
+    "('Close', 'EICHERMOT.NS')":5303.7783203125,
+    "('High', 'EICHERMOT.NS')":5329.8899391092,
+    "('Low', 'EICHERMOT.NS')":5251.9503481319,
+    "('Open', 'EICHERMOT.NS')":5299.9283387853,
+    "('Volume', 'EICHERMOT.NS')":604384
+  },
+  {
+    "('Date', '')":"2025-02-10",
+    "('Close', 'EICHERMOT.NS')":5267.0546875,
+    "('High', 'EICHERMOT.NS')":5375.2021945488,
+    "('Low', 'EICHERMOT.NS')":5239.4622700311,
+    "('Open', 'EICHERMOT.NS')":5330.8770356034,
+    "('Volume', 'EICHERMOT.NS')":631815
+  },
+  {
+    "('Date', '')":"2025-02-11",
+    "('Close', 'EICHERMOT.NS')":4908.701171875,
+    "('High', 'EICHERMOT.NS')":5073.7114598473,
+    "('Low', 'EICHERMOT.NS')":4891.5239982352,
+    "('Open', 'EICHERMOT.NS')":5073.0698766254,
+    "('Volume', 'EICHERMOT.NS')":2272410
+  },
+  {
+    "('Date', '')":"2025-02-12",
+    "('Close', 'EICHERMOT.NS')":4787.3745117188,
+    "('High', 'EICHERMOT.NS')":4935.9971944307,
+    "('Low', 'EICHERMOT.NS')":4772.5168709449,
+    "('Open', 'EICHERMOT.NS')":4886.6372224864,
+    "('Volume', 'EICHERMOT.NS')":813864
+  },
+  {
+    "('Date', '')":"2025-02-13",
+    "('Close', 'EICHERMOT.NS')":4758.6958007812,
+    "('High', 'EICHERMOT.NS')":4844.236530757,
+    "('Low', 'EICHERMOT.NS')":4728.6850359986,
+    "('Open', 'EICHERMOT.NS')":4788.5585820629,
+    "('Volume', 'EICHERMOT.NS')":571526
+  },
+  {
+    "('Date', '')":"2025-02-14",
+    "('Close', 'EICHERMOT.NS')":4643.14453125,
+    "('High', 'EICHERMOT.NS')":4787.9172311209,
+    "('Low', 'EICHERMOT.NS')":4626.065691908,
+    "('Open', 'EICHERMOT.NS')":4769.2592583172,
+    "('Volume', 'EICHERMOT.NS')":476473
+  },
+  {
+    "('Date', '')":"2025-02-17",
+    "('Close', 'EICHERMOT.NS')":4684.458984375,
+    "('High', 'EICHERMOT.NS')":4694.1333460929,
+    "('Low', 'EICHERMOT.NS')":4586.5286069291,
+    "('Open', 'EICHERMOT.NS')":4639.8373767901,
+    "('Volume', 'EICHERMOT.NS')":232211
+  },
+  {
+    "('Date', '')":"2025-02-18",
+    "('Close', 'EICHERMOT.NS')":4658.9887695312,
+    "('High', 'EICHERMOT.NS')":4711.4091542752,
+    "('Low', 'EICHERMOT.NS')":4624.4864395897,
+    "('Open', 'EICHERMOT.NS')":4707.9539563622,
+    "('Volume', 'EICHERMOT.NS')":254026
+  },
+  {
+    "('Date', '')":"2025-02-19",
+    "('Close', 'EICHERMOT.NS')":4749.021484375,
+    "('High', 'EICHERMOT.NS')":4759.2882616301,
+    "('Low', 'EICHERMOT.NS')":4617.1807165543,
+    "('Open', 'EICHERMOT.NS')":4639.8371353788,
+    "('Volume', 'EICHERMOT.NS')":275722
+  },
+  {
+    "('Date', '')":"2025-02-20",
+    "('Close', 'EICHERMOT.NS')":4825.8256835938,
+    "('High', 'EICHERMOT.NS')":4836.2900941453,
+    "('Low', 'EICHERMOT.NS')":4715.8517615293,
+    "('Open', 'EICHERMOT.NS')":4718.8133598723,
+    "('Volume', 'EICHERMOT.NS')":277284
+  },
+  {
+    "('Date', '')":"2025-02-21",
+    "('Close', 'EICHERMOT.NS')":4898.9282226562,
+    "('High', 'EICHERMOT.NS')":4919.1161626813,
+    "('Low', 'EICHERMOT.NS')":4792.8534463605,
+    "('Open', 'EICHERMOT.NS')":4825.4310290032,
+    "('Volume', 'EICHERMOT.NS')":324027
+  },
+  {
+    "('Date', '')":"2025-02-24",
+    "('Close', 'EICHERMOT.NS')":4946.6586914062,
+    "('High', 'EICHERMOT.NS')":4985.2582853723,
+    "('Low', 'EICHERMOT.NS')":4852.6279460718,
+    "('Open', 'EICHERMOT.NS')":4872.8163671476,
+    "('Volume', 'EICHERMOT.NS')":410180
+  },
+  {
+    "('Date', '')":"2025-02-25",
+    "('Close', 'EICHERMOT.NS')":4925.927734375,
+    "('High', 'EICHERMOT.NS')":5010.0373222326,
+    "('Low', 'EICHERMOT.NS')":4914.3281405748,
+    "('Open', 'EICHERMOT.NS')":4963.6389470316,
+    "('Volume', 'EICHERMOT.NS')":402917
+  },
+  {
+    "('Date', '')":"2025-02-27",
+    "('Close', 'EICHERMOT.NS')":4872.3227539062,
+    "('High', 'EICHERMOT.NS')":4935.9971167118,
+    "('Low', 'EICHERMOT.NS')":4827.2571966369,
+    "('Open', 'EICHERMOT.NS')":4897.0027394898,
+    "('Volume', 'EICHERMOT.NS')":561804
+  },
+  {
+    "('Date', '')":"2025-02-28",
+    "('Close', 'EICHERMOT.NS')":4712.4951171875,
+    "('High', 'EICHERMOT.NS')":4868.8182374207,
+    "('Low', 'EICHERMOT.NS')":4694.1331120779,
+    "('Open', 'EICHERMOT.NS')":4847.1981850968,
+    "('Volume', 'EICHERMOT.NS')":1076243
+  },
+  {
+    "('Date', '')":"2025-03-03",
+    "('Close', 'EICHERMOT.NS')":4843.79296875,
+    "('High', 'EICHERMOT.NS')":4864.9189407961,
+    "('Low', 'EICHERMOT.NS')":4765.2117952969,
+    "('Open', 'EICHERMOT.NS')":4765.2117952969,
+    "('Volume', 'EICHERMOT.NS')":503560
+  },
+  {
+    "('Date', '')":"2025-03-04",
+    "('Close', 'EICHERMOT.NS')":4753.4638671875,
+    "('High', 'EICHERMOT.NS')":4824.443406743,
+    "('Low', 'EICHERMOT.NS')":4727.0066343838,
+    "('Open', 'EICHERMOT.NS')":4824.443406743,
+    "('Volume', 'EICHERMOT.NS')":638281
+  },
+  {
+    "('Date', '')":"2025-03-05",
+    "('Close', 'EICHERMOT.NS')":4924.4467773438,
+    "('High', 'EICHERMOT.NS')":4939.9460013755,
+    "('Low', 'EICHERMOT.NS')":4719.7017097441,
+    "('Open', 'EICHERMOT.NS')":4746.4549109939,
+    "('Volume', 'EICHERMOT.NS')":551830
+  },
+  {
+    "('Date', '')":"2025-03-06",
+    "('Close', 'EICHERMOT.NS')":5029.1884765625,
+    "('High', 'EICHERMOT.NS')":5041.7261016293,
+    "('Low', 'EICHERMOT.NS')":4931.6533696322,
+    "('Open', 'EICHERMOT.NS')":4931.6533696322,
+    "('Volume', 'EICHERMOT.NS')":648307
+  },
+  {
+    "('Date', '')":"2025-03-07",
+    "('Close', 'EICHERMOT.NS')":5035.408203125,
+    "('High', 'EICHERMOT.NS')":5065.7149356714,
+    "('Low', 'EICHERMOT.NS')":5008.0625867657,
+    "('Open', 'EICHERMOT.NS')":5029.1885576485,
+    "('Volume', 'EICHERMOT.NS')":590548
+  },
+  {
+    "('Date', '')":"2025-03-10",
+    "('Close', 'EICHERMOT.NS')":4926.66796875,
+    "('High', 'EICHERMOT.NS')":5064.3331233662,
+    "('Low', 'EICHERMOT.NS')":4907.0227963151,
+    "('Open', 'EICHERMOT.NS')":5057.4227272914,
+    "('Volume', 'EICHERMOT.NS')":316750
+  },
+  {
+    "('Date', '')":"2025-03-11",
+    "('Close', 'EICHERMOT.NS')":4921.7319335938,
+    "('High', 'EICHERMOT.NS')":4945.8691525097,
+    "('Low', 'EICHERMOT.NS')":4849.1727753683,
+    "('Open', 'EICHERMOT.NS')":4886.6371866114,
+    "('Volume', 'EICHERMOT.NS')":228128
+  },
+  {
+    "('Date', '')":"2025-03-12",
+    "('Close', 'EICHERMOT.NS')":4953.2241210938,
+    "('High', 'EICHERMOT.NS')":4975.3864597419,
+    "('Low', 'EICHERMOT.NS')":4897.0029190604,
+    "('Open', 'EICHERMOT.NS')":4921.1893058192,
+    "('Volume', 'EICHERMOT.NS')":235018
+  },
+  {
+    "('Date', '')":"2025-03-13",
+    "('Close', 'EICHERMOT.NS')":4951.0517578125,
+    "('High', 'EICHERMOT.NS')":4982.8889382501,
+    "('Low', 'EICHERMOT.NS')":4901.4941554508,
+    "('Open', 'EICHERMOT.NS')":4966.106548562,
+    "('Volume', 'EICHERMOT.NS')":265867
+  },
+  {
+    "('Date', '')":"2025-03-17",
+    "('Close', 'EICHERMOT.NS')":4985.6040039062,
+    "('High', 'EICHERMOT.NS')":5011.9624219361,
+    "('Low', 'EICHERMOT.NS')":4871.8292677149,
+    "('Open', 'EICHERMOT.NS')":4871.8292677149,
+    "('Volume', 'EICHERMOT.NS')":287729
+  },
+  {
+    "('Date', '')":"2025-03-18",
+    "('Close', 'EICHERMOT.NS')":4985.6040039062,
+    "('High', 'EICHERMOT.NS')":4985.6040039062,
+    "('Low', 'EICHERMOT.NS')":4985.6040039062,
+    "('Open', 'EICHERMOT.NS')":4985.6040039062,
+    "('Volume', 'EICHERMOT.NS')":0
+  },
+  {
+    "('Date', '')":"2025-03-19",
+    "('Close', 'EICHERMOT.NS')":5035.60546875,
+    "('High', 'EICHERMOT.NS')":5073.8102794478,
+    "('Low', 'EICHERMOT.NS')":4989.8983280199,
+    "('Open', 'EICHERMOT.NS')":5065.3202679559,
+    "('Volume', 'EICHERMOT.NS')":417978
+  },
+  {
+    "('Date', '')":"2025-03-20",
+    "('Close', 'EICHERMOT.NS')":5162.4116210938,
+    "('High', 'EICHERMOT.NS')":5191.6328216775,
+    "('Low', 'EICHERMOT.NS')":5047.8468339089,
+    "('Open', 'EICHERMOT.NS')":5063.3460583289,
+    "('Volume', 'EICHERMOT.NS')":491655
+  },
+  {
+    "('Date', '')":"2025-03-21",
+    "('Close', 'EICHERMOT.NS')":5238.0307617188,
+    "('High', 'EICHERMOT.NS')":5259.7491481559,
+    "('Low', 'EICHERMOT.NS')":5163.3983919196,
+    "('Open', 'EICHERMOT.NS')":5181.9575475171,
+    "('Volume', 'EICHERMOT.NS')":414691
+  },
+  {
+    "('Date', '')":"2025-03-24",
+    "('Close', 'EICHERMOT.NS')":5354.7670898438,
+    "('High', 'EICHERMOT.NS')":5386.1598374328,
+    "('Low', 'EICHERMOT.NS')":5244.8915092201,
+    "('Open', 'EICHERMOT.NS')":5257.3303178608,
+    "('Volume', 'EICHERMOT.NS')":316612
+  },
+  {
+    "('Date', '')":"2025-03-25",
+    "('Close', 'EICHERMOT.NS')":5361.7270507812,
+    "('High', 'EICHERMOT.NS')":5429.449029937,
+    "('Low', 'EICHERMOT.NS')":5332.0618999111,
+    "('Open', 'EICHERMOT.NS')":5390.1090351697,
+    "('Volume', 'EICHERMOT.NS')":324007
+  },
+  {
+    "('Date', '')":"2025-03-26",
+    "('Close', 'EICHERMOT.NS')":5334.1342773438,
+    "('High', 'EICHERMOT.NS')":5424.6606543238,
+    "('Low', 'EICHERMOT.NS')":5321.0047182539,
+    "('Open', 'EICHERMOT.NS')":5364.3426751189,
+    "('Volume', 'EICHERMOT.NS')":384678
+  },
+  {
+    "('Date', '')":"2025-03-27",
+    "('Close', 'EICHERMOT.NS')":5277.3212890625,
+    "('High', 'EICHERMOT.NS')":5335.8128545822,
+    "('Low', 'EICHERMOT.NS')":5232.1569156865,
+    "('Open', 'EICHERMOT.NS')":5261.2301313606,
+    "('Volume', 'EICHERMOT.NS')":603145
+  },
+  {
+    "('Date', '')":"2025-03-28",
+    "('Close', 'EICHERMOT.NS')":5279.2465820312,
+    "('High', 'EICHERMOT.NS')":5339.1201310252,
+    "('Low', 'EICHERMOT.NS')":5254.319796436,
+    "('Open', 'EICHERMOT.NS')":5294.3505404904,
+    "('Volume', 'EICHERMOT.NS')":286609
+  },
+  {
+    "('Date', '')":"2025-04-01",
+    "('Close', 'EICHERMOT.NS')":5239.2651367188,
+    "('High', 'EICHERMOT.NS')":5454.2769850548,
+    "('Low', 'EICHERMOT.NS')":5198.6911427405,
+    "('Open', 'EICHERMOT.NS')":5296.8678392529,
+    "('Volume', 'EICHERMOT.NS')":562006
+  },
+  {
+    "('Date', '')":"2025-04-02",
+    "('Close', 'EICHERMOT.NS')":5286.9462890625,
+    "('High', 'EICHERMOT.NS')":5324.9042981039,
+    "('Low', 'EICHERMOT.NS')":5243.2627164192,
+    "('Open', 'EICHERMOT.NS')":5293.0671180418,
+    "('Volume', 'EICHERMOT.NS')":365908
+  },
+  {
+    "('Date', '')":"2025-04-03",
+    "('Close', 'EICHERMOT.NS')":5310.2934570312,
+    "('High', 'EICHERMOT.NS')":5339.0702225982,
+    "('Low', 'EICHERMOT.NS')":5197.6047440298,
+    "('Open', 'EICHERMOT.NS')":5197.6047440298,
+    "('Volume', 'EICHERMOT.NS')":224286
+  },
+  {
+    "('Date', '')":"2025-04-04",
+    "('Close', 'EICHERMOT.NS')":5180.7236328125,
+    "('High', 'EICHERMOT.NS')":5286.5516012632,
+    "('Low', 'EICHERMOT.NS')":5163.0528599657,
+    "('Open', 'EICHERMOT.NS')":5282.454820161,
+    "('Volume', 'EICHERMOT.NS')":261887
+  },
+  {
+    "('Date', '')":"2025-04-07",
+    "('Close', 'EICHERMOT.NS')":5000.412109375,
+    "('High', 'EICHERMOT.NS')":5101.2544387074,
+    "('Low', 'EICHERMOT.NS')":4935.9481768743,
+    "('Open', 'EICHERMOT.NS')":4935.9973440353,
+    "('Volume', 'EICHERMOT.NS')":519173
+  },
+  {
+    "('Date', '')":"2025-04-08",
+    "('Close', 'EICHERMOT.NS')":5164.3857421875,
+    "('High', 'EICHERMOT.NS')":5201.5537036562,
+    "('Low', 'EICHERMOT.NS')":5044.3913643981,
+    "('Open', 'EICHERMOT.NS')":5099.4277316365,
+    "('Volume', 'EICHERMOT.NS')":355195
+  },
+  {
+    "('Date', '')":"2025-04-09",
+    "('Close', 'EICHERMOT.NS')":5190.9907226562,
+    "('High', 'EICHERMOT.NS')":5255.8499199276,
+    "('Low', 'EICHERMOT.NS')":5116.0132129608,
+    "('Open', 'EICHERMOT.NS')":5203.0839160295,
+    "('Volume', 'EICHERMOT.NS')":472302
+  },
+  {
+    "('Date', '')":"2025-04-11",
+    "('Close', 'EICHERMOT.NS')":5282.4052734375,
+    "('High', 'EICHERMOT.NS')":5339.7616560737,
+    "('Low', 'EICHERMOT.NS')":5222.2849252412,
+    "('Open', 'EICHERMOT.NS')":5222.2849252412,
+    "('Volume', 'EICHERMOT.NS')":500528
+  },
+  {
+    "('Date', '')":"2025-04-15",
+    "('Close', 'EICHERMOT.NS')":5458.2255859375,
+    "('High', 'EICHERMOT.NS')":5485.8671696608,
+    "('Low', 'EICHERMOT.NS')":5329.8896615078,
+    "('Open', 'EICHERMOT.NS')":5394.0576237226,
+    "('Volume', 'EICHERMOT.NS')":542322
+  },
+  {
+    "('Date', '')":"2025-04-16",
+    "('Close', 'EICHERMOT.NS')":5543.6181640625,
+    "('High', 'EICHERMOT.NS')":5557.9325551904,
+    "('Low', 'EICHERMOT.NS')":5468.0974108703,
+    "('Open', 'EICHERMOT.NS')":5477.9694047516,
+    "('Volume', 'EICHERMOT.NS')":734279
+  },
+  {
+    "('Date', '')":"2025-04-17",
+    "('Close', 'EICHERMOT.NS')":5605.8120117188,
+    "('High', 'EICHERMOT.NS')":5642.3383909445,
+    "('Low', 'EICHERMOT.NS')":5504.624069269,
+    "('Open', 'EICHERMOT.NS')":5543.6184470911,
+    "('Volume', 'EICHERMOT.NS')":564357
+  },
+  {
+    "('Date', '')":"2025-04-21",
+    "('Close', 'EICHERMOT.NS')":5736.1220703125,
+    "('High', 'EICHERMOT.NS')":5782.5204417615,
+    "('Low', 'EICHERMOT.NS')":5571.2597717595,
+    "('Open', 'EICHERMOT.NS')":5622.5941401712,
+    "('Volume', 'EICHERMOT.NS')":551547
+  },
+  {
+    "('Date', '')":"2025-04-22",
+    "('Close', 'EICHERMOT.NS')":5709.9614257812,
+    "('High', 'EICHERMOT.NS')":5830.8933543183,
+    "('Low', 'EICHERMOT.NS')":5692.6854359902,
+    "('Open', 'EICHERMOT.NS')":5736.6158100302,
+    "('Volume', 'EICHERMOT.NS')":459537
+  },
+  {
+    "('Date', '')":"2025-04-23",
+    "('Close', 'EICHERMOT.NS')":5666.5249023438,
+    "('High', 'EICHERMOT.NS')":5742.0456610597,
+    "('Low', 'EICHERMOT.NS')":5533.7465749282,
+    "('Open', 'EICHERMOT.NS')":5714.8976759003,
+    "('Volume', 'EICHERMOT.NS')":582611
+  },
+  {
+    "('Date', '')":"2025-04-24",
+    "('Close', 'EICHERMOT.NS')":5578.1704101562,
+    "('High', 'EICHERMOT.NS')":5700.5831401553,
+    "('Low', 'EICHERMOT.NS')":5548.0608273742,
+    "('Open', 'EICHERMOT.NS')":5662.5759618894,
+    "('Volume', 'EICHERMOT.NS')":503663
+  },
+  {
+    "('Date', '')":"2025-04-25",
+    "('Close', 'EICHERMOT.NS')":5504.1303710938,
+    "('High', 'EICHERMOT.NS')":5595.4463175248,
+    "('Low', 'EICHERMOT.NS')":5446.8728046829,
+    "('Open', 'EICHERMOT.NS')":5590.01672071,
+    "('Volume', 'EICHERMOT.NS')":457510
+  },
+  {
+    "('Date', '')":"2025-04-28",
+    "('Close', 'EICHERMOT.NS')":5550.03515625,
+    "('High', 'EICHERMOT.NS')":5585.5743354789,
+    "('Low', 'EICHERMOT.NS')":5479.4503975037,
+    "('Open', 'EICHERMOT.NS')":5509.0663801944,
+    "('Volume', 'EICHERMOT.NS')":403569
+  },
+  {
+    "('Date', '')":"2025-04-29",
+    "('Close', 'EICHERMOT.NS')":5507.5854492188,
+    "('High', 'EICHERMOT.NS')":5618.6453816506,
+    "('Low', 'EICHERMOT.NS')":5437.4942918618,
+    "('Open', 'EICHERMOT.NS')":5554.47742069,
+    "('Volume', 'EICHERMOT.NS')":309552
+  },
+  {
+    "('Date', '')":"2025-04-30",
+    "('Close', 'EICHERMOT.NS')":5495.7392578125,
+    "('High', 'EICHERMOT.NS')":5533.2528363641,
+    "('Low', 'EICHERMOT.NS')":5435.026492525,
+    "('Open', 'EICHERMOT.NS')":5533.2528363641,
+    "('Volume', 'EICHERMOT.NS')":509786
+  },
+  {
+    "('Date', '')":"2025-05-02",
+    "('Close', 'EICHERMOT.NS')":5370.3647460938,
+    "('High', 'EICHERMOT.NS')":5488.8286743164,
+    "('Low', 'EICHERMOT.NS')":5307.183984375,
+    "('Open', 'EICHERMOT.NS')":5488.8286743164,
+    "('Volume', 'EICHERMOT.NS')":634482
+  },
+  {
+    "('Date', '')":"2025-05-05",
+    "('Close', 'EICHERMOT.NS')":5390.6025390625,
+    "('High', 'EICHERMOT.NS')":5409.8529281316,
+    "('Low', 'EICHERMOT.NS')":5341.7361668102,
+    "('Open', 'EICHERMOT.NS')":5399.4873340175,
+    "('Volume', 'EICHERMOT.NS')":320466
+  },
+  {
+    "('Date', '')":"2025-05-06",
+    "('Close', 'EICHERMOT.NS')":5444.4047851562,
+    "('High', 'EICHERMOT.NS')":5525.3551373562,
+    "('Low', 'EICHERMOT.NS')":5370.8584285843,
+    "('Open', 'EICHERMOT.NS')":5390.6024169258,
+    "('Volume', 'EICHERMOT.NS')":514699
+  },
+  {
+    "('Date', '')":"2025-05-07",
+    "('Close', 'EICHERMOT.NS')":5418.7377929688,
+    "('High', 'EICHERMOT.NS')":5499.6881480468,
+    "('Low', 'EICHERMOT.NS')":5382.7050129645,
+    "('Open', 'EICHERMOT.NS')":5390.6026085819,
+    "('Volume', 'EICHERMOT.NS')":349955
+  },
+  {
+    "('Date', '')":"2025-05-08",
+    "('Close', 'EICHERMOT.NS')":5303.7290039062,
+    "('High', 'EICHERMOT.NS')":5418.2441392163,
+    "('Low', 'EICHERMOT.NS')":5271.1514223094,
+    "('Open', 'EICHERMOT.NS')":5393.5641531581,
+    "('Volume', 'EICHERMOT.NS')":609858
+  },
+  {
+    "('Date', '')":"2025-05-09",
+    "('Close', 'EICHERMOT.NS')":5255.849609375,
+    "('High', 'EICHERMOT.NS')":5272.1383994867,
+    "('Low', 'EICHERMOT.NS')":5193.16244743,
+    "('Open', 'EICHERMOT.NS')":5227.2208267544,
+    "('Volume', 'EICHERMOT.NS')":412056
+  },
+  {
+    "('Date', '')":"2025-05-12",
+    "('Close', 'EICHERMOT.NS')":5449.3408203125,
+    "('High', 'EICHERMOT.NS')":5470.0720082159,
+    "('Low', 'EICHERMOT.NS')":5344.6976813717,
+    "('Open', 'EICHERMOT.NS')":5434.532828953,
+    "('Volume', 'EICHERMOT.NS')":327631
+  },
+  {
+    "('Date', '')":"2025-05-13",
+    "('Close', 'EICHERMOT.NS')":5349.6337890625,
+    "('High', 'EICHERMOT.NS')":5482.4121143308,
+    "('Low', 'EICHERMOT.NS')":5323.4730037866,
+    "('Open', 'EICHERMOT.NS')":5436.0137404452,
+    "('Volume', 'EICHERMOT.NS')":416275
+  },
+  {
+    "('Date', '')":"2025-05-14",
+    "('Close', 'EICHERMOT.NS')":5376.7817382812,
+    "('High', 'EICHERMOT.NS')":5407.3849208548,
+    "('Low', 'EICHERMOT.NS')":5291.3889869067,
+    "('Open', 'EICHERMOT.NS')":5360.4929475566,
+    "('Volume', 'EICHERMOT.NS')":315866
+  },
+  {
+    "('Date', '')":"2025-05-15",
+    "('Close', 'EICHERMOT.NS')":5396.0322265625,
+    "('High', 'EICHERMOT.NS')":5476.9825819555,
+    "('Low', 'EICHERMOT.NS')":5291.3890842252,
+    "('Open', 'EICHERMOT.NS')":5429.5970080669,
+    "('Volume', 'EICHERMOT.NS')":1930277
+  },
+  {
+    "('Date', '')":"2025-05-16",
+    "('Close', 'EICHERMOT.NS')":5438.9750976562,
+    "('High', 'EICHERMOT.NS')":5514.0022521025,
+    "('Low', 'EICHERMOT.NS')":5420.711908745,
+    "('Open', 'EICHERMOT.NS')":5433.5455009529,
+    "('Volume', 'EICHERMOT.NS')":638327
+  },
+  {
+    "('Date', '')":"2025-05-19",
+    "('Close', 'EICHERMOT.NS')":5459.212890625,
+    "('High', 'EICHERMOT.NS')":5555.9584355222,
+    "('Low', 'EICHERMOT.NS')":5438.9753021516,
+    "('Open', 'EICHERMOT.NS')":5439.4689018705,
+    "('Volume', 'EICHERMOT.NS')":654074
+  },
+  {
+    "('Date', '')":"2025-05-20",
+    "('Close', 'EICHERMOT.NS')":5318.537109375,
+    "('High', 'EICHERMOT.NS')":5486.3610181627,
+    "('Low', 'EICHERMOT.NS')":5311.1331133991,
+    "('Open', 'EICHERMOT.NS')":5478.9570221868,
+    "('Volume', 'EICHERMOT.NS')":402780
+  },
+  {
+    "('Date', '')":"2025-05-21",
+    "('Close', 'EICHERMOT.NS')":5339.76171875,
+    "('High', 'EICHERMOT.NS')":5407.3848797288,
+    "('Low', 'EICHERMOT.NS')":5316.0689324217,
+    "('Open', 'EICHERMOT.NS')":5340.7489181803,
+    "('Volume', 'EICHERMOT.NS')":300888
+  },
+  {
+    "('Date', '')":"2025-05-22",
+    "('Close', 'EICHERMOT.NS')":5318.0434570312,
+    "('High', 'EICHERMOT.NS')":5340.7490444661,
+    "('Low', 'EICHERMOT.NS')":5251.901093634,
+    "('Open', 'EICHERMOT.NS')":5313.1074597628,
+    "('Volume', 'EICHERMOT.NS')":461736
+  },
+  {
+    "('Date', '')":"2025-05-23",
+    "('Close', 'EICHERMOT.NS')":5330.876953125,
+    "('High', 'EICHERMOT.NS')":5367.8969319661,
+    "('Low', 'EICHERMOT.NS')":5307.1841666667,
+    "('Open', 'EICHERMOT.NS')":5321.0049587674,
+    "('Volume', 'EICHERMOT.NS')":282287
+  },
+  {
+    "('Date', '')":"2025-05-26",
+    "('Close', 'EICHERMOT.NS')":5358.0249023438,
+    "('High', 'EICHERMOT.NS')":5402.9424763754,
+    "('Low', 'EICHERMOT.NS')":5331.3705177536,
+    "('Open', 'EICHERMOT.NS')":5333.8385163267,
+    "('Volume', 'EICHERMOT.NS')":337099
+  },
+  {
+    "('Date', '')":"2025-05-27",
+    "('Close', 'EICHERMOT.NS')":5320.5112304688,
+    "('High', 'EICHERMOT.NS')":5375.3007978295,
+    "('Low', 'EICHERMOT.NS')":5307.184038408,
+    "('Open', 'EICHERMOT.NS')":5350.6208125319,
+    "('Volume', 'EICHERMOT.NS')":452769
+  },
+  {
+    "('Date', '')":"2025-05-28",
+    "('Close', 'EICHERMOT.NS')":5258.3178710938,
+    "('High', 'EICHERMOT.NS')":5340.2554254542,
+    "('Low', 'EICHERMOT.NS')":5245.9778779672,
+    "('Open', 'EICHERMOT.NS')":5335.8130279286,
+    "('Volume', 'EICHERMOT.NS')":380066
+  },
+  {
+    "('Date', '')":"2025-05-29",
+    "('Close', 'EICHERMOT.NS')":5310.1455078125,
+    "('High', 'EICHERMOT.NS')":5327.4214971017,
+    "('Low', 'EICHERMOT.NS')":5219.3231641206,
+    "('Open', 'EICHERMOT.NS')":5260.2919387207,
+    "('Volume', 'EICHERMOT.NS')":704795
+  },
+  {
+    "('Date', '')":"2025-05-30",
+    "('Close', 'EICHERMOT.NS')":5265.2280273438,
+    "('High', 'EICHERMOT.NS')":5333.8383860014,
+    "('Low', 'EICHERMOT.NS')":5251.4072356717,
+    "('Open', 'EICHERMOT.NS')":5309.1584008727,
+    "('Volume', 'EICHERMOT.NS')":915804
+  },
+  {
+    "('Date', '')":"2025-06-02",
+    "('Close', 'EICHERMOT.NS')":5292.3759765625,
+    "('High', 'EICHERMOT.NS')":5316.0687621319,
+    "('Low', 'EICHERMOT.NS')":5248.4456033193,
+    "('Open', 'EICHERMOT.NS')":5271.6447891893,
+    "('Volume', 'EICHERMOT.NS')":475698
+  },
+  {
+    "('Date', '')":"2025-06-03",
+    "('Close', 'EICHERMOT.NS')":5285.4658203125,
+    "('High', 'EICHERMOT.NS')":5344.6977869204,
+    "('Low', 'EICHERMOT.NS')":5228.2082525915,
+    "('Open', 'EICHERMOT.NS')":5344.6977869204,
+    "('Volume', 'EICHERMOT.NS')":479572
+  },
+  {
+    "('Date', '')":"2025-06-04",
+    "('Close', 'EICHERMOT.NS')":5251.4072265625,
+    "('High', 'EICHERMOT.NS')":5316.5623871891,
+    "('Low', 'EICHERMOT.NS')":5228.7016402835,
+    "('Open', 'EICHERMOT.NS')":5271.6448143329,
+    "('Volume', 'EICHERMOT.NS')":321913
+  },
+  {
+    "('Date', '')":"2025-06-05",
+    "('Close', 'EICHERMOT.NS')":5240.5483398438,
+    "('High', 'EICHERMOT.NS')":5269.6707239495,
+    "('Low', 'EICHERMOT.NS')":5216.3619530441,
+    "('Open', 'EICHERMOT.NS')":5263.2539274516,
+    "('Volume', 'EICHERMOT.NS')":459910
+  },
+  {
+    "('Date', '')":"2025-06-06",
+    "('Close', 'EICHERMOT.NS')":5324.9536132812,
+    "('High', 'EICHERMOT.NS')":5335.8128067826,
+    "('Low', 'EICHERMOT.NS')":5194.1496915609,
+    "('Open', 'EICHERMOT.NS')":5222.778474428,
+    "('Volume', 'EICHERMOT.NS')":538092
+  },
+  {
+    "('Date', '')":"2025-06-09",
+    "('Close', 'EICHERMOT.NS')":5321.9921875,
+    "('High', 'EICHERMOT.NS')":5374.3137578835,
+    "('Low', 'EICHERMOT.NS')":5308.6649950438,
+    "('Open', 'EICHERMOT.NS')":5352.5953701771,
+    "('Volume', 'EICHERMOT.NS')":270949
+  },
+  {
+    "('Date', '')":"2025-06-10",
+    "('Close', 'EICHERMOT.NS')":5308.6650390625,
+    "('High', 'EICHERMOT.NS')":5356.5442123576,
+    "('Low', 'EICHERMOT.NS')":5301.7546429168,
+    "('Open', 'EICHERMOT.NS')":5356.5442123576,
+    "('Volume', 'EICHERMOT.NS')":330659
+  },
+  {
+    "('Date', '')":"2025-06-11",
+    "('Close', 'EICHERMOT.NS')":5283.4912109375,
+    "('High', 'EICHERMOT.NS')":5364.9351617787,
+    "('Low', 'EICHERMOT.NS')":5274.1128165982,
+    "('Open', 'EICHERMOT.NS')":5301.260800212,
+    "('Volume', 'EICHERMOT.NS')":366787
+  },
+  {
+    "('Date', '')":"2025-06-12",
+    "('Close', 'EICHERMOT.NS')":5247.4584960938,
+    "('High', 'EICHERMOT.NS')":5306.1968613496,
+    "('Low', 'EICHERMOT.NS')":5234.1313039769,
+    "('Open', 'EICHERMOT.NS')":5282.5040753641,
+    "('Volume', 'EICHERMOT.NS')":337217
+  },
+  {
+    "('Date', '')":"2025-06-13",
+    "('Close', 'EICHERMOT.NS')":5250.9135742188,
+    "('High', 'EICHERMOT.NS')":5265.227965425,
+    "('Low', 'EICHERMOT.NS')":5152.6872345619,
+    "('Open', 'EICHERMOT.NS')":5212.4127978708,
+    "('Volume', 'EICHERMOT.NS')":414671
+  },
+  {
+    "('Date', '')":"2025-06-16",
+    "('Close', 'EICHERMOT.NS')":5296.3247070312,
+    "('High', 'EICHERMOT.NS')":5312.6134969038,
+    "('Low', 'EICHERMOT.NS')":5237.0927438585,
+    "('Open', 'EICHERMOT.NS')":5237.0927438585,
+    "('Volume', 'EICHERMOT.NS')":294926
+  },
+  {
+    "('Date', '')":"2025-06-17",
+    "('Close', 'EICHERMOT.NS')":5272.6323242188,
+    "('High', 'EICHERMOT.NS')":5321.992297297,
+    "('Low', 'EICHERMOT.NS')":5243.0163403718,
+    "('Open', 'EICHERMOT.NS')":5312.1203026814,
+    "('Volume', 'EICHERMOT.NS')":710729
+  },
+  {
+    "('Date', '')":"2025-06-18",
+    "('Close', 'EICHERMOT.NS')":5323.9663085938,
+    "('High', 'EICHERMOT.NS')":5393.070265872,
+    "('Low', 'EICHERMOT.NS')":5239.5607607753,
+    "('Open', 'EICHERMOT.NS')":5265.7215446021,
+    "('Volume', 'EICHERMOT.NS')":774670
+  },
+  {
+    "('Date', '')":"2025-06-19",
+    "('Close', 'EICHERMOT.NS')":5423.1801757812,
+    "('High', 'EICHERMOT.NS')":5436.0137686246,
+    "('Low', 'EICHERMOT.NS')":5335.8130245013,
+    "('Open', 'EICHERMOT.NS')":5340.7490217487,
+    "('Volume', 'EICHERMOT.NS')":923400
+  },
+  {
+    "('Date', '')":"2025-06-20",
+    "('Close', 'EICHERMOT.NS')":5454.2768554688,
+    "('High', 'EICHERMOT.NS')":5471.0592457933,
+    "('Low', 'EICHERMOT.NS')":5424.6608725431,
+    "('Open', 'EICHERMOT.NS')":5459.212852623,
+    "('Volume', 'EICHERMOT.NS')":776879
+  },
+  {
+    "('Date', '')":"2025-06-23",
+    "('Close', 'EICHERMOT.NS')":5481.4248046875,
+    "('High', 'EICHERMOT.NS')":5488.8288003715,
+    "('Low', 'EICHERMOT.NS')":5409.359246697,
+    "('Open', 'EICHERMOT.NS')":5424.6608377772,
+    "('Volume', 'EICHERMOT.NS')":247519
+  },
+  {
+    "('Date', '')":"2025-06-24",
+    "('Close', 'EICHERMOT.NS')":5556.9458007812,
+    "('High', 'EICHERMOT.NS')":5567.3113951867,
+    "('Low', 'EICHERMOT.NS')":5488.8290375455,
+    "('Open', 'EICHERMOT.NS')":5517.4578220939,
+    "('Volume', 'EICHERMOT.NS')":579369
+  },
+  {
+    "('Date', '')":"2025-06-25",
+    "('Close', 'EICHERMOT.NS')":5504.6240234375,
+    "('High', 'EICHERMOT.NS')":5580.1447798566,
+    "('Low', 'EICHERMOT.NS')":5496.2328282798,
+    "('Open', 'EICHERMOT.NS')":5559.9071915352,
+    "('Volume', 'EICHERMOT.NS')":449222
+  },
+  {
+    "('Date', '')":"2025-06-26",
+    "('Close', 'EICHERMOT.NS')":5539.6694335938,
+    "('High', 'EICHERMOT.NS')":5550.5286269947,
+    "('Low', 'EICHERMOT.NS')":5441.443093285,
+    "('Open', 'EICHERMOT.NS')":5505.1174545907,
+    "('Volume', 'EICHERMOT.NS')":788150
+  },
+  {
+    "('Date', '')":"2025-06-27",
+    "('Close', 'EICHERMOT.NS')":5587.548828125,
+    "('High', 'EICHERMOT.NS')":5612.228814115,
+    "('Low', 'EICHERMOT.NS')":5523.3808645511,
+    "('Open', 'EICHERMOT.NS')":5543.1248533431,
+    "('Volume', 'EICHERMOT.NS')":413724
+  },
+  {
+    "('Date', '')":"2025-06-30",
+    "('Close', 'EICHERMOT.NS')":5584.09375,
+    "('High', 'EICHERMOT.NS')":5610.7481354415,
+    "('Low', 'EICHERMOT.NS')":5541.1505734553,
+    "('Open', 'EICHERMOT.NS')":5587.5489481128,
+    "('Volume', 'EICHERMOT.NS')":340049
+  },
+  {
+    "('Date', '')":"2025-07-01",
+    "('Close', 'EICHERMOT.NS')":5642.3383789062,
+    "('High', 'EICHERMOT.NS')":5675.4095600266,
+    "('Low', 'EICHERMOT.NS')":5560.4008256827,
+    "('Open', 'EICHERMOT.NS')":5584.093612157,
+    "('Volume', 'EICHERMOT.NS')":534027
+  },
+  {
+    "('Date', '')":"2025-07-02",
+    "('Close', 'EICHERMOT.NS')":5649.2485351562,
+    "('High', 'EICHERMOT.NS')":5671.460521533,
+    "('Low', 'EICHERMOT.NS')":5614.2029566507,
+    "('Open', 'EICHERMOT.NS')":5614.2029566507,
+    "('Volume', 'EICHERMOT.NS')":299925
+  },
+  {
+    "('Date', '')":"2025-07-03",
+    "('Close', 'EICHERMOT.NS')":5642.83203125,
+    "('High', 'EICHERMOT.NS')":5700.5831988197,
+    "('Low', 'EICHERMOT.NS')":5627.0368401198,
+    "('Open', 'EICHERMOT.NS')":5636.9088345762,
+    "('Volume', 'EICHERMOT.NS')":335537
+  },
+  {
+    "('Date', '')":"2025-07-04",
+    "('Close', 'EICHERMOT.NS')":5556.9458007812,
+    "('High', 'EICHERMOT.NS')":5642.3385546927,
+    "('Low', 'EICHERMOT.NS')":5548.0610055766,
+    "('Open', 'EICHERMOT.NS')":5642.3385546927,
+    "('Volume', 'EICHERMOT.NS')":185006
+  },
+  {
+    "('Date', '')":"2025-07-07",
+    "('Close', 'EICHERMOT.NS')":5609.7607421875,
+    "('High', 'EICHERMOT.NS')":5627.0367321546,
+    "('Low', 'EICHERMOT.NS')":5552.9967751526,
+    "('Open', 'EICHERMOT.NS')":5557.9327722861,
+    "('Volume', 'EICHERMOT.NS')":227078
+  },
+  {
+    "('Date', '')":"2025-07-08",
+    "('Close', 'EICHERMOT.NS')":5606.7993164062,
+    "('High', 'EICHERMOT.NS')":5631.9729025614,
+    "('Low', 'EICHERMOT.NS')":5576.1961332372,
+    "('Open', 'EICHERMOT.NS')":5631.9729025614,
+    "('Volume', 'EICHERMOT.NS')":180630
+  },
+  {
+    "('Date', '')":"2025-07-09",
+    "('Close', 'EICHERMOT.NS')":5622.1005859375,
+    "('High', 'EICHERMOT.NS')":5645.2997718496,
+    "('Low', 'EICHERMOT.NS')":5596.9270012243,
+    "('Open', 'EICHERMOT.NS')":5598.4078003251,
+    "('Volume', 'EICHERMOT.NS')":177978
+  },
+  {
+    "('Date', '')":"2025-07-10",
+    "('Close', 'EICHERMOT.NS')":5579.6513671875,
+    "('High', 'EICHERMOT.NS')":5631.9729387482,
+    "('Low', 'EICHERMOT.NS')":5562.8689763095,
+    "('Open', 'EICHERMOT.NS')":5619.1393457239,
+    "('Volume', 'EICHERMOT.NS')":189074
+  },
+  {
+    "('Date', '')":"2025-07-11",
+    "('Close', 'EICHERMOT.NS')":5540.6567382812,
+    "('High', 'EICHERMOT.NS')":5610.7478970194,
+    "('Low', 'EICHERMOT.NS')":5517.4575519383,
+    "('Open', 'EICHERMOT.NS')":5559.9071269488,
+    "('Volume', 'EICHERMOT.NS')":522930
+  },
+  {
+    "('Date', '')":"2025-07-14",
+    "('Close', 'EICHERMOT.NS')":5469.5786132812,
+    "('High', 'EICHERMOT.NS')":5543.618572851,
+    "('Low', 'EICHERMOT.NS')":5449.8346240627,
+    "('Open', 'EICHERMOT.NS')":5534.7337777026,
+    "('Volume', 'EICHERMOT.NS')":503684
+  },
+  {
+    "('Date', '')":"2025-07-15",
+    "('Close', 'EICHERMOT.NS')":5519.4321289062,
+    "('High', 'EICHERMOT.NS')":5570.2729006177,
+    "('Low', 'EICHERMOT.NS')":5497.2201412653,
+    "('Open', 'EICHERMOT.NS')":5518.4449294555,
+    "('Volume', 'EICHERMOT.NS')":715066
+  },
+  {
+    "('Date', '')":"2025-07-16",
+    "('Close', 'EICHERMOT.NS')":5554.4775390625,
+    "('High', 'EICHERMOT.NS')":5561.3879350055,
+    "('Low', 'EICHERMOT.NS')":5469.0847891951,
+    "('Open', 'EICHERMOT.NS')":5528.316754421,
+    "('Volume', 'EICHERMOT.NS')":226544
+  },
+  {
+    "('Date', '')":"2025-07-17",
+    "('Close', 'EICHERMOT.NS')":5577.6767578125,
+    "('High', 'EICHERMOT.NS')":5610.2543388758,
+    "('Low', 'EICHERMOT.NS')":5555.9583704369,
+    "('Open', 'EICHERMOT.NS')":5595.4463474834,
+    "('Volume', 'EICHERMOT.NS')":391603
+  },
+  {
+    "('Date', '')":"2025-07-18",
+    "('Close', 'EICHERMOT.NS')":5555.46484375,
+    "('High', 'EICHERMOT.NS')":5608.7736134635,
+    "('Low', 'EICHERMOT.NS')":5539.6696527238,
+    "('Open', 'EICHERMOT.NS')":5591.4976232785,
+    "('Volume', 'EICHERMOT.NS')":254828
+  },
+  {
+    "('Date', '')":"2025-07-21",
+    "('Close', 'EICHERMOT.NS')":5486.8544921875,
+    "('High', 'EICHERMOT.NS')":5554.9712536054,
+    "('Low', 'EICHERMOT.NS')":5469.5785019728,
+    "('Open', 'EICHERMOT.NS')":5525.3552703803,
+    "('Volume', 'EICHERMOT.NS')":190717
+  },
+  {
+    "('Date', '')":"2025-07-22",
+    "('Close', 'EICHERMOT.NS')":5369.87109375,
+    "('High', 'EICHERMOT.NS')":5468.0974332717,
+    "('Low', 'EICHERMOT.NS')":5363.9478973969,
+    "('Open', 'EICHERMOT.NS')":5399.9806752114,
+    "('Volume', 'EICHERMOT.NS')":517944
+  },
+  {
+    "('Date', '')":"2025-07-23",
+    "('Close', 'EICHERMOT.NS')":5371.845703125,
+    "('High', 'EICHERMOT.NS')":5392.083291458,
+    "('Low', 'EICHERMOT.NS')":5352.5953142229,
+    "('Open', 'EICHERMOT.NS')":5362.4673085317,
+    "('Volume', 'EICHERMOT.NS')":344237
+  },
+  {
+    "('Date', '')":"2025-07-24",
+    "('Close', 'EICHERMOT.NS')":5398.9936523438,
+    "('High', 'EICHERMOT.NS')":5431.5712333508,
+    "('Low', 'EICHERMOT.NS')":5364.4416724878,
+    "('Open', 'EICHERMOT.NS')":5370.3648690346,
+    "('Volume', 'EICHERMOT.NS')":284450
+  },
+  {
+    "('Date', '')":"2025-07-25",
+    "('Close', 'EICHERMOT.NS')":5363.4545898438,
+    "('High', 'EICHERMOT.NS')":5409.8529638034,
+    "('Low', 'EICHERMOT.NS')":5303.7290233638,
+    "('Open', 'EICHERMOT.NS')":5409.8529638034,
+    "('Volume', 'EICHERMOT.NS')":292877
+  },
+  {
+    "('Date', '')":"2025-07-28",
+    "('Close', 'EICHERMOT.NS')":5317.0561523438,
+    "('High', 'EICHERMOT.NS')":5386.1601127344,
+    "('Low', 'EICHERMOT.NS')":5288.4273687533,
+    "('Open', 'EICHERMOT.NS')":5363.4545257489,
+    "('Volume', 'EICHERMOT.NS')":322292
+  },
+  {
+    "('Date', '')":"2025-07-29",
+    "('Close', 'EICHERMOT.NS')":5400.474609375,
+    "('High', 'EICHERMOT.NS')":5413.8018019948,
+    "('Low', 'EICHERMOT.NS')":5284.4786736102,
+    "('Open', 'EICHERMOT.NS')":5321.0050533829,
+    "('Volume', 'EICHERMOT.NS')":217256
+  },
+  {
+    "('Date', '')":"2025-07-30",
+    "('Close', 'EICHERMOT.NS')":5410.83984375,
+    "('High', 'EICHERMOT.NS')":5485.3733975181,
+    "('Low', 'EICHERMOT.NS')":5370.364668856,
+    "('Open', 'EICHERMOT.NS')":5395.0446535475,
+    "('Volume', 'EICHERMOT.NS')":266223
+  },
+  {
+    "('Date', '')":"2025-07-31",
+    "('Close', 'EICHERMOT.NS')":5398.5,
+    "('High', 'EICHERMOT.NS')":5439.4687757155,
+    "('Low', 'EICHERMOT.NS')":5317.5496479839,
+    "('Open', 'EICHERMOT.NS')":5380.2368108256,
+    "('Volume', 'EICHERMOT.NS')":307018
+  },
+  {
+    "('Date', '')":"2025-08-01",
+    "('Close', 'EICHERMOT.NS')":5528.0,
+    "('High', 'EICHERMOT.NS')":5670.0,
+    "('Low', 'EICHERMOT.NS')":5475.0,
+    "('Open', 'EICHERMOT.NS')":5551.0,
+    "('Volume', 'EICHERMOT.NS')":1408773
+  },
+  {
+    "('Date', '')":"2025-08-04",
+    "('Close', 'EICHERMOT.NS')":5621.0,
+    "('High', 'EICHERMOT.NS')":5670.0,
+    "('Low', 'EICHERMOT.NS')":5520.0,
+    "('Open', 'EICHERMOT.NS')":5527.5,
+    "('Volume', 'EICHERMOT.NS')":505407
+  },
+  {
+    "('Date', '')":"2025-08-05",
+    "('Close', 'EICHERMOT.NS')":5681.0,
+    "('High', 'EICHERMOT.NS')":5690.0,
+    "('Low', 'EICHERMOT.NS')":5584.5,
+    "('Open', 'EICHERMOT.NS')":5625.0,
+    "('Volume', 'EICHERMOT.NS')":458305
+  },
+  {
+    "('Date', '')":"2025-08-06",
+    "('Close', 'EICHERMOT.NS')":5668.0,
+    "('High', 'EICHERMOT.NS')":5712.5,
+    "('Low', 'EICHERMOT.NS')":5651.0,
+    "('Open', 'EICHERMOT.NS')":5684.5,
+    "('Volume', 'EICHERMOT.NS')":202535
+  },
+  {
+    "('Date', '')":"2025-08-07",
+    "('Close', 'EICHERMOT.NS')":5681.5,
+    "('High', 'EICHERMOT.NS')":5694.5,
+    "('Low', 'EICHERMOT.NS')":5588.0,
+    "('Open', 'EICHERMOT.NS')":5660.0,
+    "('Volume', 'EICHERMOT.NS')":266900
+  },
+  {
+    "('Date', '')":"2025-08-08",
+    "('Close', 'EICHERMOT.NS')":5663.0,
+    "('High', 'EICHERMOT.NS')":5711.5,
+    "('Low', 'EICHERMOT.NS')":5655.5,
+    "('Open', 'EICHERMOT.NS')":5681.5,
+    "('Volume', 'EICHERMOT.NS')":373874
+  },
+  {
+    "('Date', '')":"2025-08-11",
+    "('Close', 'EICHERMOT.NS')":5671.5,
+    "('High', 'EICHERMOT.NS')":5708.5,
+    "('Low', 'EICHERMOT.NS')":5652.5,
+    "('Open', 'EICHERMOT.NS')":5677.0,
+    "('Volume', 'EICHERMOT.NS')":475811
+  },
+  {
+    "('Date', '')":"2025-08-12",
+    "('Close', 'EICHERMOT.NS')":5658.0,
+    "('High', 'EICHERMOT.NS')":5694.0,
+    "('Low', 'EICHERMOT.NS')":5643.0,
+    "('Open', 'EICHERMOT.NS')":5679.5,
+    "('Volume', 'EICHERMOT.NS')":429572
+  },
+  {
+    "('Date', '')":"2025-08-13",
+    "('Close', 'EICHERMOT.NS')":5714.5,
+    "('High', 'EICHERMOT.NS')":5757.5,
+    "('Low', 'EICHERMOT.NS')":5648.5,
+    "('Open', 'EICHERMOT.NS')":5658.0,
+    "('Volume', 'EICHERMOT.NS')":427562
+  },
+  {
+    "('Date', '')":"2025-08-14",
+    "('Close', 'EICHERMOT.NS')":5764.0,
+    "('High', 'EICHERMOT.NS')":5785.5,
+    "('Low', 'EICHERMOT.NS')":5710.0,
+    "('Open', 'EICHERMOT.NS')":5710.0,
+    "('Volume', 'EICHERMOT.NS')":415010
+  },
+  {
+    "('Date', '')":"2025-08-18",
+    "('Close', 'EICHERMOT.NS')":5912.0,
+    "('High', 'EICHERMOT.NS')":6024.5,
+    "('Low', 'EICHERMOT.NS')":5825.5,
+    "('Open', 'EICHERMOT.NS')":5880.0,
+    "('Volume', 'EICHERMOT.NS')":1288582
+  },
+  {
+    "('Date', '')":"2025-08-19",
+    "('Close', 'EICHERMOT.NS')":5938.5,
+    "('High', 'EICHERMOT.NS')":5995.0,
+    "('Low', 'EICHERMOT.NS')":5891.5,
+    "('Open', 'EICHERMOT.NS')":5918.0,
+    "('Volume', 'EICHERMOT.NS')":843617
+  },
+  {
+    "('Date', '')":"2025-08-20",
+    "('Close', 'EICHERMOT.NS')":5937.5,
+    "('High', 'EICHERMOT.NS')":5969.5,
+    "('Low', 'EICHERMOT.NS')":5905.0,
+    "('Open', 'EICHERMOT.NS')":5964.0,
+    "('Volume', 'EICHERMOT.NS')":510626
+  },
+  {
+    "('Date', '')":"2025-08-21",
+    "('Close', 'EICHERMOT.NS')":5975.0,
+    "('High', 'EICHERMOT.NS')":5992.5,
+    "('Low', 'EICHERMOT.NS')":5898.0,
+    "('Open', 'EICHERMOT.NS')":5990.0,
+    "('Volume', 'EICHERMOT.NS')":499089
+  },
+  {
+    "('Date', '')":"2025-08-22",
+    "('Close', 'EICHERMOT.NS')":5924.5,
+    "('High', 'EICHERMOT.NS')":5973.0,
+    "('Low', 'EICHERMOT.NS')":5913.5,
+    "('Open', 'EICHERMOT.NS')":5970.0,
+    "('Volume', 'EICHERMOT.NS')":273421
+  },
+  {
+    "('Date', '')":"2025-08-25",
+    "('Close', 'EICHERMOT.NS')":5990.5,
+    "('High', 'EICHERMOT.NS')":6009.0,
+    "('Low', 'EICHERMOT.NS')":5880.0,
+    "('Open', 'EICHERMOT.NS')":5945.0,
+    "('Volume', 'EICHERMOT.NS')":822944
+  },
+  {
+    "('Date', '')":"2025-08-26",
+    "('Close', 'EICHERMOT.NS')":6151.0,
+    "('High', 'EICHERMOT.NS')":6210.0,
+    "('Low', 'EICHERMOT.NS')":5960.0,
+    "('Open', 'EICHERMOT.NS')":5980.0,
+    "('Volume', 'EICHERMOT.NS')":1474805
+  },
+  {
+    "('Date', '')":"2025-08-28",
+    "('Close', 'EICHERMOT.NS')":6133.0,
+    "('High', 'EICHERMOT.NS')":6269.5,
+    "('Low', 'EICHERMOT.NS')":6121.0,
+    "('Open', 'EICHERMOT.NS')":6269.5,
+    "('Volume', 'EICHERMOT.NS')":719052
+  },
+  {
+    "('Date', '')":"2025-08-29",
+    "('Close', 'EICHERMOT.NS')":6103.0,
+    "('High', 'EICHERMOT.NS')":6174.5,
+    "('Low', 'EICHERMOT.NS')":6070.0,
+    "('Open', 'EICHERMOT.NS')":6149.0,
+    "('Volume', 'EICHERMOT.NS')":496302
+  },
+  {
+    "('Date', '')":"2025-09-01",
+    "('Close', 'EICHERMOT.NS')":6280.0,
+    "('High', 'EICHERMOT.NS')":6292.0,
+    "('Low', 'EICHERMOT.NS')":6085.0,
+    "('Open', 'EICHERMOT.NS')":6085.0,
+    "('Volume', 'EICHERMOT.NS')":698178
+  },
+  {
+    "('Date', '')":"2025-09-02",
+    "('Close', 'EICHERMOT.NS')":6349.0,
+    "('High', 'EICHERMOT.NS')":6388.0,
+    "('Low', 'EICHERMOT.NS')":6282.5,
+    "('Open', 'EICHERMOT.NS')":6310.5,
+    "('Volume', 'EICHERMOT.NS')":701158
+  },
+  {
+    "('Date', '')":"2025-09-03",
+    "('Close', 'EICHERMOT.NS')":6371.5,
+    "('High', 'EICHERMOT.NS')":6379.0,
+    "('Low', 'EICHERMOT.NS')":6308.0,
+    "('Open', 'EICHERMOT.NS')":6349.0,
+    "('Volume', 'EICHERMOT.NS')":536107
+  },
+  {
+    "('Date', '')":"2025-09-04",
+    "('Close', 'EICHERMOT.NS')":6425.0,
+    "('High', 'EICHERMOT.NS')":6713.0,
+    "('Low', 'EICHERMOT.NS')":6411.5,
+    "('Open', 'EICHERMOT.NS')":6690.0,
+    "('Volume', 'EICHERMOT.NS')":1181698
+  },
+  {
+    "('Date', '')":"2025-09-05",
+    "('Close', 'EICHERMOT.NS')":6580.5,
+    "('High', 'EICHERMOT.NS')":6598.5,
+    "('Low', 'EICHERMOT.NS')":6440.5,
+    "('Open', 'EICHERMOT.NS')":6449.0,
+    "('Volume', 'EICHERMOT.NS')":610721
+  },
+  {
+    "('Date', '')":"2025-09-08",
+    "('Close', 'EICHERMOT.NS')":6815.0,
+    "('High', 'EICHERMOT.NS')":6848.0,
+    "('Low', 'EICHERMOT.NS')":6569.0,
+    "('Open', 'EICHERMOT.NS')":6570.5,
+    "('Volume', 'EICHERMOT.NS')":968116
+  },
+  {
+    "('Date', '')":"2025-09-09",
+    "('Close', 'EICHERMOT.NS')":6874.5,
+    "('High', 'EICHERMOT.NS')":6937.0,
+    "('Low', 'EICHERMOT.NS')":6779.0,
+    "('Open', 'EICHERMOT.NS')":6782.0,
+    "('Volume', 'EICHERMOT.NS')":983283
+  },
+  {
+    "('Date', '')":"2025-09-10",
+    "('Close', 'EICHERMOT.NS')":6836.5,
+    "('High', 'EICHERMOT.NS')":6924.5,
+    "('Low', 'EICHERMOT.NS')":6802.5,
+    "('Open', 'EICHERMOT.NS')":6900.0,
+    "('Volume', 'EICHERMOT.NS')":740607
+  },
+  {
+    "('Date', '')":"2025-09-11",
+    "('Close', 'EICHERMOT.NS')":6758.0,
+    "('High', 'EICHERMOT.NS')":6828.5,
+    "('Low', 'EICHERMOT.NS')":6750.0,
+    "('Open', 'EICHERMOT.NS')":6805.0,
+    "('Volume', 'EICHERMOT.NS')":719575
+  },
+  {
+    "('Date', '')":"2025-09-12",
+    "('Close', 'EICHERMOT.NS')":6875.0,
+    "('High', 'EICHERMOT.NS')":6899.0,
+    "('Low', 'EICHERMOT.NS')":6762.5,
+    "('Open', 'EICHERMOT.NS')":6765.0,
+    "('Volume', 'EICHERMOT.NS')":731798
+  },
+  {
+    "('Date', '')":"2025-09-15",
+    "('Close', 'EICHERMOT.NS')":6801.0,
+    "('High', 'EICHERMOT.NS')":6900.5,
+    "('Low', 'EICHERMOT.NS')":6787.5,
+    "('Open', 'EICHERMOT.NS')":6875.0,
+    "('Volume', 'EICHERMOT.NS')":380686
+  },
+  {
+    "('Date', '')":"2025-09-16",
+    "('Close', 'EICHERMOT.NS')":6927.5,
+    "('High', 'EICHERMOT.NS')":6954.5,
+    "('Low', 'EICHERMOT.NS')":6800.5,
+    "('Open', 'EICHERMOT.NS')":6823.0,
+    "('Volume', 'EICHERMOT.NS')":579275
+  },
+  {
+    "('Date', '')":"2025-09-17",
+    "('Close', 'EICHERMOT.NS')":6890.5,
+    "('High', 'EICHERMOT.NS')":6938.0,
+    "('Low', 'EICHERMOT.NS')":6879.5,
+    "('Open', 'EICHERMOT.NS')":6921.0,
+    "('Volume', 'EICHERMOT.NS')":310534
+  },
+  {
+    "('Date', '')":"2025-09-18",
+    "('Close', 'EICHERMOT.NS')":6924.5,
+    "('High', 'EICHERMOT.NS')":6935.0,
+    "('Low', 'EICHERMOT.NS')":6868.5,
+    "('Open', 'EICHERMOT.NS')":6895.5,
+    "('Volume', 'EICHERMOT.NS')":224356
+  },
+  {
+    "('Date', '')":"2025-09-19",
+    "('Close', 'EICHERMOT.NS')":6973.5,
+    "('High', 'EICHERMOT.NS')":7018.0,
+    "('Low', 'EICHERMOT.NS')":6925.0,
+    "('Open', 'EICHERMOT.NS')":6947.0,
+    "('Volume', 'EICHERMOT.NS')":550551
+  },
+  {
+    "('Date', '')":"2025-09-22",
+    "('Close', 'EICHERMOT.NS')":6946.0,
+    "('High', 'EICHERMOT.NS')":7005.5,
+    "('Low', 'EICHERMOT.NS')":6925.0,
+    "('Open', 'EICHERMOT.NS')":7000.0,
+    "('Volume', 'EICHERMOT.NS')":332786
+  },
+  {
+    "('Date', '')":"2025-09-23",
+    "('Close', 'EICHERMOT.NS')":6990.5,
+    "('High', 'EICHERMOT.NS')":7122.5,
+    "('Low', 'EICHERMOT.NS')":6978.5,
+    "('Open', 'EICHERMOT.NS')":7015.0,
+    "('Volume', 'EICHERMOT.NS')":679055
+  },
+  {
+    "('Date', '')":"2025-09-24",
+    "('Close', 'EICHERMOT.NS')":7011.5,
+    "('High', 'EICHERMOT.NS')":7060.5,
+    "('Low', 'EICHERMOT.NS')":6927.5,
+    "('Open', 'EICHERMOT.NS')":6950.0,
+    "('Volume', 'EICHERMOT.NS')":323002
+  },
+  {
+    "('Date', '')":"2025-09-25",
+    "('Close', 'EICHERMOT.NS')":6986.0,
+    "('High', 'EICHERMOT.NS')":7044.5,
+    "('Low', 'EICHERMOT.NS')":6932.0,
+    "('Open', 'EICHERMOT.NS')":7009.5,
+    "('Volume', 'EICHERMOT.NS')":375861
+  },
+  {
+    "('Date', '')":"2025-09-26",
+    "('Close', 'EICHERMOT.NS')":7047.0,
+    "('High', 'EICHERMOT.NS')":7091.0,
+    "('Low', 'EICHERMOT.NS')":6965.5,
+    "('Open', 'EICHERMOT.NS')":6980.0,
+    "('Volume', 'EICHERMOT.NS')":679362
+  },
+  {
+    "('Date', '')":"2025-09-29",
+    "('Close', 'EICHERMOT.NS')":6985.0,
+    "('High', 'EICHERMOT.NS')":7073.5,
+    "('Low', 'EICHERMOT.NS')":6969.0,
+    "('Open', 'EICHERMOT.NS')":7049.0,
+    "('Volume', 'EICHERMOT.NS')":612976
+  },
+  {
+    "('Date', '')":"2025-09-30",
+    "('Close', 'EICHERMOT.NS')":7005.5,
+    "('High', 'EICHERMOT.NS')":7032.5,
+    "('Low', 'EICHERMOT.NS')":6951.5,
+    "('Open', 'EICHERMOT.NS')":6984.5,
+    "('Volume', 'EICHERMOT.NS')":363934
+  },
+  {
+    "('Date', '')":"2025-10-01",
+    "('Close', 'EICHERMOT.NS')":7021.5,
+    "('High', 'EICHERMOT.NS')":7063.0,
+    "('Low', 'EICHERMOT.NS')":6950.0,
+    "('Open', 'EICHERMOT.NS')":7000.0,
+    "('Volume', 'EICHERMOT.NS')":313734
+  },
+  {
+    "('Date', '')":"2025-10-03",
+    "('Close', 'EICHERMOT.NS')":6941.0,
+    "('High', 'EICHERMOT.NS')":7008.5,
+    "('Low', 'EICHERMOT.NS')":6850.0,
+    "('Open', 'EICHERMOT.NS')":7000.0,
+    "('Volume', 'EICHERMOT.NS')":669742
+  },
+  {
+    "('Date', '')":"2025-10-06",
+    "('Close', 'EICHERMOT.NS')":6880.0,
+    "('High', 'EICHERMOT.NS')":6955.5,
+    "('Low', 'EICHERMOT.NS')":6865.0,
+    "('Open', 'EICHERMOT.NS')":6941.0,
+    "('Volume', 'EICHERMOT.NS')":218200
+  },
+  {
+    "('Date', '')":"2025-10-07",
+    "('Close', 'EICHERMOT.NS')":6957.0,
+    "('High', 'EICHERMOT.NS')":6999.0,
+    "('Low', 'EICHERMOT.NS')":6880.0,
+    "('Open', 'EICHERMOT.NS')":6880.0,
+    "('Volume', 'EICHERMOT.NS')":286586
+  },
+  {
+    "('Date', '')":"2025-10-08",
+    "('Close', 'EICHERMOT.NS')":6902.5,
+    "('High', 'EICHERMOT.NS')":7007.0,
+    "('Low', 'EICHERMOT.NS')":6889.5,
+    "('Open', 'EICHERMOT.NS')":6957.0,
+    "('Volume', 'EICHERMOT.NS')":476286
+  },
+  {
+    "('Date', '')":"2025-10-09",
+    "('Close', 'EICHERMOT.NS')":6896.5,
+    "('High', 'EICHERMOT.NS')":6958.0,
+    "('Low', 'EICHERMOT.NS')":6818.0,
+    "('Open', 'EICHERMOT.NS')":6925.0,
+    "('Volume', 'EICHERMOT.NS')":405889
+  },
+  {
+    "('Date', '')":"2025-10-10",
+    "('Close', 'EICHERMOT.NS')":6965.0,
+    "('High', 'EICHERMOT.NS')":6984.0,
+    "('Low', 'EICHERMOT.NS')":6876.5,
+    "('Open', 'EICHERMOT.NS')":6895.5,
+    "('Volume', 'EICHERMOT.NS')":282882
+  },
+  {
+    "('Date', '')":"2025-10-13",
+    "('Close', 'EICHERMOT.NS')":6912.0,
+    "('High', 'EICHERMOT.NS')":7047.0,
+    "('Low', 'EICHERMOT.NS')":6896.5,
+    "('Open', 'EICHERMOT.NS')":6999.5,
+    "('Volume', 'EICHERMOT.NS')":342990
+  },
+  {
+    "('Date', '')":"2025-10-14",
+    "('Close', 'EICHERMOT.NS')":6887.0,
+    "('High', 'EICHERMOT.NS')":6942.0,
+    "('Low', 'EICHERMOT.NS')":6815.0,
+    "('Open', 'EICHERMOT.NS')":6939.5,
+    "('Volume', 'EICHERMOT.NS')":309415
+  },
+  {
+    "('Date', '')":"2025-10-15",
+    "('Close', 'EICHERMOT.NS')":6895.0,
+    "('High', 'EICHERMOT.NS')":6940.0,
+    "('Low', 'EICHERMOT.NS')":6865.0,
+    "('Open', 'EICHERMOT.NS')":6893.5,
+    "('Volume', 'EICHERMOT.NS')":237366
+  },
+  {
+    "('Date', '')":"2025-10-16",
+    "('Close', 'EICHERMOT.NS')":6988.0,
+    "('High', 'EICHERMOT.NS')":7016.5,
+    "('Low', 'EICHERMOT.NS')":6892.0,
+    "('Open', 'EICHERMOT.NS')":6893.0,
+    "('Volume', 'EICHERMOT.NS')":319047
+  },
+  {
+    "('Date', '')":"2025-10-17",
+    "('Close', 'EICHERMOT.NS')":7042.5,
+    "('High', 'EICHERMOT.NS')":7099.0,
+    "('Low', 'EICHERMOT.NS')":6988.0,
+    "('Open', 'EICHERMOT.NS')":6990.0,
+    "('Volume', 'EICHERMOT.NS')":402013
+  },
+  {
+    "('Date', '')":"2025-10-20",
+    "('Close', 'EICHERMOT.NS')":7013.5,
+    "('High', 'EICHERMOT.NS')":7104.5,
+    "('Low', 'EICHERMOT.NS')":7007.5,
+    "('Open', 'EICHERMOT.NS')":7049.0,
+    "('Volume', 'EICHERMOT.NS')":326177
+  },
+  {
+    "('Date', '')":"2025-10-21",
+    "('Close', 'EICHERMOT.NS')":7018.5,
+    "('High', 'EICHERMOT.NS')":7058.0,
+    "('Low', 'EICHERMOT.NS')":7005.0,
+    "('Open', 'EICHERMOT.NS')":7037.0,
+    "('Volume', 'EICHERMOT.NS')":14379
+  },
+  {
+    "('Date', '')":"2025-10-23",
+    "('Close', 'EICHERMOT.NS')":6884.5,
+    "('High', 'EICHERMOT.NS')":7100.0,
+    "('Low', 'EICHERMOT.NS')":6869.0,
+    "('Open', 'EICHERMOT.NS')":7100.0,
+    "('Volume', 'EICHERMOT.NS')":419750
+  },
+  {
+    "('Date', '')":"2025-10-24",
+    "('Close', 'EICHERMOT.NS')":6840.0,
+    "('High', 'EICHERMOT.NS')":6909.5,
+    "('Low', 'EICHERMOT.NS')":6792.0,
+    "('Open', 'EICHERMOT.NS')":6894.0,
+    "('Volume', 'EICHERMOT.NS')":243740
+  },
+  {
+    "('Date', '')":"2025-10-27",
+    "('Close', 'EICHERMOT.NS')":6906.5,
+    "('High', 'EICHERMOT.NS')":6927.5,
+    "('Low', 'EICHERMOT.NS')":6838.5,
+    "('Open', 'EICHERMOT.NS')":6868.0,
+    "('Volume', 'EICHERMOT.NS')":228141
+  },
+  {
+    "('Date', '')":"2025-10-28",
+    "('Close', 'EICHERMOT.NS')":7002.5,
+    "('High', 'EICHERMOT.NS')":7022.0,
+    "('Low', 'EICHERMOT.NS')":6905.0,
+    "('Open', 'EICHERMOT.NS')":6905.0,
+    "('Volume', 'EICHERMOT.NS')":485231
+  },
+  {
+    "('Date', '')":"2025-10-29",
+    "('Close', 'EICHERMOT.NS')":6952.0,
+    "('High', 'EICHERMOT.NS')":7007.5,
+    "('Low', 'EICHERMOT.NS')":6889.0,
+    "('Open', 'EICHERMOT.NS')":7007.5,
+    "('Volume', 'EICHERMOT.NS')":343504
+  },
+  {
+    "('Date', '')":"2025-10-30",
+    "('Close', 'EICHERMOT.NS')":6889.0,
+    "('High', 'EICHERMOT.NS')":6988.5,
+    "('Low', 'EICHERMOT.NS')":6869.0,
+    "('Open', 'EICHERMOT.NS')":6952.0,
+    "('Volume', 'EICHERMOT.NS')":412184
+  },
+  {
+    "('Date', '')":"2025-10-31",
+    "('Close', 'EICHERMOT.NS')":7007.0,
+    "('High', 'EICHERMOT.NS')":7099.0,
+    "('Low', 'EICHERMOT.NS')":6902.5,
+    "('Open', 'EICHERMOT.NS')":6929.0,
+    "('Volume', 'EICHERMOT.NS')":670785
+  },
+  {
+    "('Date', '')":"2025-11-03",
+    "('Close', 'EICHERMOT.NS')":7023.5,
+    "('High', 'EICHERMOT.NS')":7070.0,
+    "('Low', 'EICHERMOT.NS')":6996.5,
+    "('Open', 'EICHERMOT.NS')":7030.0,
+    "('Volume', 'EICHERMOT.NS')":334962
+  },
+  {
+    "('Date', '')":"2025-11-04",
+    "('Close', 'EICHERMOT.NS')":6930.0,
+    "('High', 'EICHERMOT.NS')":7060.0,
+    "('Low', 'EICHERMOT.NS')":6906.5,
+    "('Open', 'EICHERMOT.NS')":7050.0,
+    "('Volume', 'EICHERMOT.NS')":494329
+  },
+  {
+    "('Date', '')":"2025-11-05",
+    "('Close', 'EICHERMOT.NS')":6930.0,
+    "('High', 'EICHERMOT.NS')":6930.0,
+    "('Low', 'EICHERMOT.NS')":6930.0,
+    "('Open', 'EICHERMOT.NS')":6930.0,
+    "('Volume', 'EICHERMOT.NS')":0
+  },
+  {
+    "('Date', '')":"2025-11-06",
+    "('Close', 'EICHERMOT.NS')":6806.5,
+    "('High', 'EICHERMOT.NS')":6975.0,
+    "('Low', 'EICHERMOT.NS')":6793.5,
+    "('Open', 'EICHERMOT.NS')":6945.0,
+    "('Volume', 'EICHERMOT.NS')":435650
+  },
+  {
+    "('Date', '')":"2025-11-07",
+    "('Close', 'EICHERMOT.NS')":6886.0,
+    "('High', 'EICHERMOT.NS')":6897.0,
+    "('Low', 'EICHERMOT.NS')":6720.5,
+    "('Open', 'EICHERMOT.NS')":6806.5,
+    "('Volume', 'EICHERMOT.NS')":465149
+  },
+  {
+    "('Date', '')":"2025-11-10",
+    "('Close', 'EICHERMOT.NS')":6866.5,
+    "('High', 'EICHERMOT.NS')":6915.5,
+    "('Low', 'EICHERMOT.NS')":6800.5,
+    "('Open', 'EICHERMOT.NS')":6870.0,
+    "('Volume', 'EICHERMOT.NS')":514365
+  },
+  {
+    "('Date', '')":"2025-11-11",
+    "('Close', 'EICHERMOT.NS')":6873.0,
+    "('High', 'EICHERMOT.NS')":6890.0,
+    "('Low', 'EICHERMOT.NS')":6754.0,
+    "('Open', 'EICHERMOT.NS')":6871.5,
+    "('Volume', 'EICHERMOT.NS')":409675
+  }
+]

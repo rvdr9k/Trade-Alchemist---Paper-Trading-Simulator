@@ -1,0 +1,1986 @@
+[
+  {
+    "('Date', '')":"2024-11-13",
+    "('Close', 'RELIANCE.BO')":1247.2686767578,
+    "('High', 'RELIANCE.BO')":1269.9281795697,
+    "('Low', 'RELIANCE.BO')":1244.7287717648,
+    "('Open', 'RELIANCE.BO')":1264.4500580108,
+    "('Volume', 'RELIANCE.BO')":525801
+  },
+  {
+    "('Date', '')":"2024-11-14",
+    "('Close', 'RELIANCE.BO')":1262.6572265625,
+    "('High', 'RELIANCE.BO')":1267.4381814999,
+    "('Low', 'RELIANCE.BO')":1247.268733032,
+    "('Open', 'RELIANCE.BO')":1249.559632603,
+    "('Volume', 'RELIANCE.BO')":799527
+  },
+  {
+    "('Date', '')":"2024-11-18",
+    "('Close', 'RELIANCE.BO')":1255.6352539062,
+    "('High', 'RELIANCE.BO')":1268.0356801134,
+    "('Low', 'RELIANCE.BO')":1239.0514620308,
+    "('Open', 'RELIANCE.BO')":1261.5118084692,
+    "('Volume', 'RELIANCE.BO')":609245
+  },
+  {
+    "('Date', '')":"2024-11-19",
+    "('Close', 'RELIANCE.BO')":1236.3623046875,
+    "('High', 'RELIANCE.BO')":1275.9043341696,
+    "('Low', 'RELIANCE.BO')":1230.5354780248,
+    "('Open', 'RELIANCE.BO')":1254.041697296,
+    "('Volume', 'RELIANCE.BO')":397953
+  },
+  {
+    "('Date', '')":"2024-11-21",
+    "('Close', 'RELIANCE.BO')":1218.3342285156,
+    "('High', 'RELIANCE.BO')":1242.0894537347,
+    "('Low', 'RELIANCE.BO')":1212.8561067659,
+    "('Open', 'RELIANCE.BO')":1242.0894537347,
+    "('Volume', 'RELIANCE.BO')":491073
+  },
+  {
+    "('Date', '')":"2024-11-22",
+    "('Close', 'RELIANCE.BO')":1260.9141845703,
+    "('High', 'RELIANCE.BO')":1263.60351731,
+    "('Low', 'RELIANCE.BO')":1218.1849318602,
+    "('Open', 'RELIANCE.BO')":1225.0076592297,
+    "('Volume', 'RELIANCE.BO')":1055840
+  },
+  {
+    "('Date', '')":"2024-11-25",
+    "('Close', 'RELIANCE.BO')":1282.6773681641,
+    "('High', 'RELIANCE.BO')":1299.1614617284,
+    "('Low', 'RELIANCE.BO')":1277.5478297956,
+    "('Open', 'RELIANCE.BO')":1289.6495231856,
+    "('Volume', 'RELIANCE.BO')":962533
+  },
+  {
+    "('Date', '')":"2024-11-26",
+    "('Close', 'RELIANCE.BO')":1290.396484375,
+    "('High', 'RELIANCE.BO')":1292.6872622614,
+    "('Low', 'RELIANCE.BO')":1278.8923804497,
+    "('Open', 'RELIANCE.BO')":1291.2928070001,
+    "('Volume', 'RELIANCE.BO')":487024
+  },
+  {
+    "('Date', '')":"2024-11-27",
+    "('Close', 'RELIANCE.BO')":1287.7569580078,
+    "('High', 'RELIANCE.BO')":1298.6136228826,
+    "('Low', 'RELIANCE.BO')":1281.0835371911,
+    "('Open', 'RELIANCE.BO')":1290.595596589,
+    "('Volume', 'RELIANCE.BO')":263573
+  },
+  {
+    "('Date', '')":"2024-11-28",
+    "('Close', 'RELIANCE.BO')":1266.2927246094,
+    "('High', 'RELIANCE.BO')":1291.641561048,
+    "('Low', 'RELIANCE.BO')":1264.2011024303,
+    "('Open', 'RELIANCE.BO')":1286.8107563965,
+    "('Volume', 'RELIANCE.BO')":481819
+  },
+  {
+    "('Date', '')":"2024-11-29",
+    "('Close', 'RELIANCE.BO')":1287.3087158203,
+    "('High', 'RELIANCE.BO')":1294.13156448,
+    "('Low', 'RELIANCE.BO')":1269.6791732663,
+    "('Open', 'RELIANCE.BO')":1274.9082892966,
+    "('Volume', 'RELIANCE.BO')":748891
+  },
+  {
+    "('Date', '')":"2024-12-02",
+    "('Close', 'RELIANCE.BO')":1303.8427734375,
+    "('High', 'RELIANCE.BO')":1305.8348176296,
+    "('Low', 'RELIANCE.BO')":1271.920216626,
+    "('Open', 'RELIANCE.BO')":1286.5119646497,
+    "('Volume', 'RELIANCE.BO')":633384
+  },
+  {
+    "('Date', '')":"2024-12-03",
+    "('Close', 'RELIANCE.BO')":1318.0858154297,
+    "('High', 'RELIANCE.BO')":1321.4224651318,
+    "('Low', 'RELIANCE.BO')":1302.0498840131,
+    "('Open', 'RELIANCE.BO')":1313.6037160011,
+    "('Volume', 'RELIANCE.BO')":344673
+  },
+  {
+    "('Date', '')":"2024-12-04",
+    "('Close', 'RELIANCE.BO')":1303.79296875,
+    "('High', 'RELIANCE.BO')":1323.7134113589,
+    "('Low', 'RELIANCE.BO')":1299.8088802282,
+    "('Open', 'RELIANCE.BO')":1321.6715173576,
+    "('Volume', 'RELIANCE.BO')":438492
+  },
+  {
+    "('Date', '')":"2024-12-05",
+    "('Close', 'RELIANCE.BO')":1315.9443359375,
+    "('High', 'RELIANCE.BO')":1324.2113679138,
+    "('Low', 'RELIANCE.BO')":1301.2032819646,
+    "('Open', 'RELIANCE.BO')":1305.5359537367,
+    "('Volume', 'RELIANCE.BO')":674847
+  },
+  {
+    "('Date', '')":"2024-12-06",
+    "('Close', 'RELIANCE.BO')":1306.5817871094,
+    "('High', 'RELIANCE.BO')":1321.6216959004,
+    "('Low', 'RELIANCE.BO')":1304.5897429891,
+    "('Open', 'RELIANCE.BO')":1321.6216959004,
+    "('Volume', 'RELIANCE.BO')":412701
+  },
+  {
+    "('Date', '')":"2024-12-09",
+    "('Close', 'RELIANCE.BO')":1289.998046875,
+    "('High', 'RELIANCE.BO')":1310.2172225501,
+    "('Low', 'RELIANCE.BO')":1287.7569971504,
+    "('Open', 'RELIANCE.BO')":1297.8167960415,
+    "('Volume', 'RELIANCE.BO')":554024
+  },
+  {
+    "('Date', '')":"2024-12-10",
+    "('Close', 'RELIANCE.BO')":1279.8385009766,
+    "('High', 'RELIANCE.BO')":1289.8485713417,
+    "('Low', 'RELIANCE.BO')":1275.6552569466,
+    "('Open', 'RELIANCE.BO')":1284.8684610277,
+    "('Volume', 'RELIANCE.BO')":438986
+  },
+  {
+    "('Date', '')":"2024-12-11",
+    "('Close', 'RELIANCE.BO')":1273.0158691406,
+    "('High', 'RELIANCE.BO')":1284.8685568893,
+    "('Low', 'RELIANCE.BO')":1270.2768082635,
+    "('Open', 'RELIANCE.BO')":1281.3824794094,
+    "('Volume', 'RELIANCE.BO')":594409
+  },
+  {
+    "('Date', '')":"2024-12-12",
+    "('Close', 'RELIANCE.BO')":1258.8225097656,
+    "('High', 'RELIANCE.BO')":1273.0158247244,
+    "('Low', 'RELIANCE.BO')":1256.0337208298,
+    "('Open', 'RELIANCE.BO')":1270.1273363106,
+    "('Volume', 'RELIANCE.BO')":683512
+  },
+  {
+    "('Date', '')":"2024-12-13",
+    "('Close', 'RELIANCE.BO')":1268.2846679688,
+    "('High', 'RELIANCE.BO')":1270.0775563137,
+    "('Low', 'RELIANCE.BO')":1235.0673565275,
+    "('Open', 'RELIANCE.BO')":1259.9679080704,
+    "('Volume', 'RELIANCE.BO')":1106984
+  },
+  {
+    "('Date', '')":"2024-12-16",
+    "('Close', 'RELIANCE.BO')":1263.005859375,
+    "('High', 'RELIANCE.BO')":1276.5018857385,
+    "('Low', 'RELIANCE.BO')":1261.8105599166,
+    "('Open', 'RELIANCE.BO')":1269.928164264,
+    "('Volume', 'RELIANCE.BO')":465483
+  },
+  {
+    "('Date', '')":"2024-12-17",
+    "('Close', 'RELIANCE.BO')":1240.1470947266,
+    "('High', 'RELIANCE.BO')":1257.6273312483,
+    "('Low', 'RELIANCE.BO')":1237.6570394719,
+    "('Open', 'RELIANCE.BO')":1257.6273312483,
+    "('Volume', 'RELIANCE.BO')":639483
+  },
+  {
+    "('Date', '')":"2024-12-18",
+    "('Close', 'RELIANCE.BO')":1248.0655517578,
+    "('High', 'RELIANCE.BO')":1254.8882788845,
+    "('Low', 'RELIANCE.BO')":1236.8104532973,
+    "('Open', 'RELIANCE.BO')":1238.4539140933,
+    "('Volume', 'RELIANCE.BO')":260426
+  },
+  {
+    "('Date', '')":"2024-12-19",
+    "('Close', 'RELIANCE.BO')":1225.7048339844,
+    "('High', 'RELIANCE.BO')":1239.9977275259,
+    "('Low', 'RELIANCE.BO')":1224.5096560378,
+    "('Open', 'RELIANCE.BO')":1235.0176167738,
+    "('Volume', 'RELIANCE.BO')":424104
+  },
+  {
+    "('Date', '')":"2024-12-20",
+    "('Close', 'RELIANCE.BO')":1201.2026367188,
+    "('High', 'RELIANCE.BO')":1234.8183821493,
+    "('Low', 'RELIANCE.BO')":1197.3181262632,
+    "('Open', 'RELIANCE.BO')":1225.0573170645,
+    "('Volume', 'RELIANCE.BO')":1166317
+  },
+  {
+    "('Date', '')":"2024-12-23",
+    "('Close', 'RELIANCE.BO')":1217.2386474609,
+    "('High', 'RELIANCE.BO')":1222.119180322,
+    "('Low', 'RELIANCE.BO')":1208.3242978358,
+    "('Open', 'RELIANCE.BO')":1212.4079643414,
+    "('Volume', 'RELIANCE.BO')":3332773
+  },
+  {
+    "('Date', '')":"2024-12-24",
+    "('Close', 'RELIANCE.BO')":1218.6330566406,
+    "('High', 'RELIANCE.BO')":1228.5434280423,
+    "('Low', 'RELIANCE.BO')":1216.5911626728,
+    "('Open', 'RELIANCE.BO')":1226.9996667163,
+    "('Volume', 'RELIANCE.BO')":268064
+  },
+  {
+    "('Date', '')":"2024-12-26",
+    "('Close', 'RELIANCE.BO')":1211.7604980469,
+    "('High', 'RELIANCE.BO')":1223.1151746365,
+    "('Low', 'RELIANCE.BO')":1209.6190261522,
+    "('Open', 'RELIANCE.BO')":1219.7785248207,
+    "('Volume', 'RELIANCE.BO')":556935
+  },
+  {
+    "('Date', '')":"2024-12-27",
+    "('Close', 'RELIANCE.BO')":1216.0931396484,
+    "('High', 'RELIANCE.BO')":1222.7167109592,
+    "('Low', 'RELIANCE.BO')":1211.8103175507,
+    "('Open', 'RELIANCE.BO')":1211.8103175507,
+    "('Volume', 'RELIANCE.BO')":653086
+  },
+  {
+    "('Date', '')":"2024-12-30",
+    "('Close', 'RELIANCE.BO')":1206.0832519531,
+    "('High', 'RELIANCE.BO')":1218.4836791505,
+    "('Low', 'RELIANCE.BO')":1203.8422021041,
+    "('Open', 'RELIANCE.BO')":1214.7984458104,
+    "('Volume', 'RELIANCE.BO')":314452
+  },
+  {
+    "('Date', '')":"2024-12-31",
+    "('Close', 'RELIANCE.BO')":1210.6149902344,
+    "('High', 'RELIANCE.BO')":1214.2007669953,
+    "('Low', 'RELIANCE.BO')":1201.6010633483,
+    "('Open', 'RELIANCE.BO')":1205.585151674,
+    "('Volume', 'RELIANCE.BO')":444246
+  },
+  {
+    "('Date', '')":"2025-01-01",
+    "('Close', 'RELIANCE.BO')":1216.7904052734,
+    "('High', 'RELIANCE.BO')":1221.3222328124,
+    "('Low', 'RELIANCE.BO')":1207.2783457214,
+    "('Open', 'RELIANCE.BO')":1214.1010726913,
+    "('Volume', 'RELIANCE.BO')":380215
+  },
+  {
+    "('Date', '')":"2025-01-02",
+    "('Close', 'RELIANCE.BO')":1236.7108154297,
+    "('High', 'RELIANCE.BO')":1239.5494539845,
+    "('Low', 'RELIANCE.BO')":1215.3959190233,
+    "('Open', 'RELIANCE.BO')":1215.8440803166,
+    "('Volume', 'RELIANCE.BO')":529144
+  },
+  {
+    "('Date', '')":"2025-01-03",
+    "('Close', 'RELIANCE.BO')":1246.3721923828,
+    "('High', 'RELIANCE.BO')":1257.2787069949,
+    "('Low', 'RELIANCE.BO')":1230.6848447878,
+    "('Open', 'RELIANCE.BO')":1242.7865372495,
+    "('Volume', 'RELIANCE.BO')":502895
+  },
+  {
+    "('Date', '')":"2025-01-06",
+    "('Close', 'RELIANCE.BO')":1213.3541259766,
+    "('High', 'RELIANCE.BO')":1256.6810891973,
+    "('Low', 'RELIANCE.BO')":1210.4657590296,
+    "('Open', 'RELIANCE.BO')":1246.5715617136,
+    "('Volume', 'RELIANCE.BO')":782428
+  },
+  {
+    "('Date', '')":"2025-01-07",
+    "('Close', 'RELIANCE.BO')":1235.9638671875,
+    "('High', 'RELIANCE.BO')":1238.4539224757,
+    "('Low', 'RELIANCE.BO')":1216.5414359392,
+    "('Open', 'RELIANCE.BO')":1216.7904414681,
+    "('Volume', 'RELIANCE.BO')":512057
+  },
+  {
+    "('Date', '')":"2025-01-08",
+    "('Close', 'RELIANCE.BO')":1259.6690673828,
+    "('High', 'RELIANCE.BO')":1265.6451998222,
+    "('Low', 'RELIANCE.BO')":1240.047481174,
+    "('Open', 'RELIANCE.BO')":1246.2227693942,
+    "('Volume', 'RELIANCE.BO')":881916
+  },
+  {
+    "('Date', '')":"2025-01-09",
+    "('Close', 'RELIANCE.BO')":1250.0076904297,
+    "('High', 'RELIANCE.BO')":1264.3504324695,
+    "('Low', 'RELIANCE.BO')":1243.0355359811,
+    "('Open', 'RELIANCE.BO')":1262.8563993734,
+    "('Volume', 'RELIANCE.BO')":262909
+  },
+  {
+    "('Date', '')":"2025-01-10",
+    "('Close', 'RELIANCE.BO')":1237.4080810547,
+    "('High', 'RELIANCE.BO')":1251.7009744438,
+    "('Low', 'RELIANCE.BO')":1231.2327924219,
+    "('Open', 'RELIANCE.BO')":1250.9042296828,
+    "('Volume', 'RELIANCE.BO')":498991
+  },
+  {
+    "('Date', '')":"2025-01-13",
+    "('Close', 'RELIANCE.BO')":1235.1173095703,
+    "('High', 'RELIANCE.BO')":1240.196998193,
+    "('Low', 'RELIANCE.BO')":1220.7247166239,
+    "('Open', 'RELIANCE.BO')":1225.1072383789,
+    "('Volume', 'RELIANCE.BO')":810470
+  },
+  {
+    "('Date', '')":"2025-01-14",
+    "('Close', 'RELIANCE.BO')":1233.6231689453,
+    "('High', 'RELIANCE.BO')":1250.0575329073,
+    "('Low', 'RELIANCE.BO')":1222.4179207894,
+    "('Open', 'RELIANCE.BO')":1235.067352296,
+    "('Volume', 'RELIANCE.BO')":837785
+  },
+  {
+    "('Date', '')":"2025-01-15",
+    "('Close', 'RELIANCE.BO')":1247.3184814453,
+    "('High', 'RELIANCE.BO')":1251.7507310036,
+    "('Low', 'RELIANCE.BO')":1237.208833162,
+    "('Open', 'RELIANCE.BO')":1242.0395158635,
+    "('Volume', 'RELIANCE.BO')":287139
+  },
+  {
+    "('Date', '')":"2025-01-16",
+    "('Close', 'RELIANCE.BO')":1263.6531982422,
+    "('High', 'RELIANCE.BO')":1269.9281861488,
+    "('Low', 'RELIANCE.BO')":1246.4220887457,
+    "('Open', 'RELIANCE.BO')":1255.1870103345,
+    "('Volume', 'RELIANCE.BO')":391749
+  },
+  {
+    "('Date', '')":"2025-01-17",
+    "('Close', 'RELIANCE.BO')":1296.1236572266,
+    "('High', 'RELIANCE.BO')":1319.8289111677,
+    "('Low', 'RELIANCE.BO')":1279.5895924627,
+    "('Open', 'RELIANCE.BO')":1319.8289111677,
+    "('Volume', 'RELIANCE.BO')":1514067
+  },
+  {
+    "('Date', '')":"2025-01-20",
+    "('Close', 'RELIANCE.BO')":1299.8088378906,
+    "('High', 'RELIANCE.BO')":1314.10173068,
+    "('Low', 'RELIANCE.BO')":1295.3765881884,
+    "('Open', 'RELIANCE.BO')":1314.10173068,
+    "('Volume', 'RELIANCE.BO')":242236
+  },
+  {
+    "('Date', '')":"2025-01-21",
+    "('Close', 'RELIANCE.BO')":1267.8862304688,
+    "('High', 'RELIANCE.BO')":1307.6275349115,
+    "('Low', 'RELIANCE.BO')":1264.4998527383,
+    "('Open', 'RELIANCE.BO')":1304.7888963624,
+    "('Volume', 'RELIANCE.BO')":1210468
+  },
+  {
+    "('Date', '')":"2025-01-22",
+    "('Close', 'RELIANCE.BO')":1272.2191162109,
+    "('High', 'RELIANCE.BO')":1277.7968158261,
+    "('Low', 'RELIANCE.BO')":1263.7529280998,
+    "('Open', 'RELIANCE.BO')":1273.9123051993,
+    "('Volume', 'RELIANCE.BO')":2201402
+  },
+  {
+    "('Date', '')":"2025-01-23",
+    "('Close', 'RELIANCE.BO')":1258.8225097656,
+    "('High', 'RELIANCE.BO')":1272.1692302544,
+    "('Low', 'RELIANCE.BO')":1256.531731881,
+    "('Open', 'RELIANCE.BO')":1269.6791749984,
+    "('Volume', 'RELIANCE.BO')":235409
+  },
+  {
+    "('Date', '')":"2025-01-24",
+    "('Close', 'RELIANCE.BO')":1240.9439697266,
+    "('High', 'RELIANCE.BO')":1268.0357224532,
+    "('Low', 'RELIANCE.BO')":1239.0515034028,
+    "('Open', 'RELIANCE.BO')":1261.8604340123,
+    "('Volume', 'RELIANCE.BO')":430797
+  },
+  {
+    "('Date', '')":"2025-01-27",
+    "('Close', 'RELIANCE.BO')":1224.4100341797,
+    "('High', 'RELIANCE.BO')":1235.5155834903,
+    "('Low', 'RELIANCE.BO')":1215.1968296191,
+    "('Open', 'RELIANCE.BO')":1234.9678442781,
+    "('Volume', 'RELIANCE.BO')":411760
+  },
+  {
+    "('Date', '')":"2025-01-28",
+    "('Close', 'RELIANCE.BO')":1228.8920898438,
+    "('High', 'RELIANCE.BO')":1239.2008940456,
+    "('Low', 'RELIANCE.BO')":1214.051336548,
+    "('Open', 'RELIANCE.BO')":1231.6808787144,
+    "('Volume', 'RELIANCE.BO')":364260
+  },
+  {
+    "('Date', '')":"2025-01-29",
+    "('Close', 'RELIANCE.BO')":1230.8841552734,
+    "('High', 'RELIANCE.BO')":1237.806460209,
+    "('Low', 'RELIANCE.BO')":1223.5632955977,
+    "('Open', 'RELIANCE.BO')":1232.3781884179,
+    "('Volume', 'RELIANCE.BO')":358148
+  },
+  {
+    "('Date', '')":"2025-01-30",
+    "('Close', 'RELIANCE.BO')":1248.61328125,
+    "('High', 'RELIANCE.BO')":1251.6013475524,
+    "('Low', 'RELIANCE.BO')":1227.3482337148,
+    "('Open', 'RELIANCE.BO')":1230.087294492,
+    "('Volume', 'RELIANCE.BO')":462230
+  },
+  {
+    "('Date', '')":"2025-01-31",
+    "('Close', 'RELIANCE.BO')":1259.8684082031,
+    "('High', 'RELIANCE.BO')":1260.9640082219,
+    "('Low', 'RELIANCE.BO')":1244.5296431858,
+    "('Open', 'RELIANCE.BO')":1252.3982422776,
+    "('Volume', 'RELIANCE.BO')":412707
+  },
+  {
+    "('Date', '')":"2025-02-01",
+    "('Close', 'RELIANCE.BO')":1259.6193847656,
+    "('High', 'RELIANCE.BO')":1264.8982289938,
+    "('Low', 'RELIANCE.BO')":1236.5614486198,
+    "('Open', 'RELIANCE.BO')":1259.9679681869,
+    "('Volume', 'RELIANCE.BO')":266300
+  },
+  {
+    "('Date', '')":"2025-02-03",
+    "('Close', 'RELIANCE.BO')":1240.1968994141,
+    "('High', 'RELIANCE.BO')":1250.9041366203,
+    "('Low', 'RELIANCE.BO')":1233.0753173274,
+    "('Open', 'RELIANCE.BO')":1245.0275821157,
+    "('Volume', 'RELIANCE.BO')":396687
+  },
+  {
+    "('Date', '')":"2025-02-04",
+    "('Close', 'RELIANCE.BO')":1280.8843994141,
+    "('High', 'RELIANCE.BO')":1283.8724656646,
+    "('Low', 'RELIANCE.BO')":1241.6909547443,
+    "('Open', 'RELIANCE.BO')":1242.0893878946,
+    "('Volume', 'RELIANCE.BO')":397483
+  },
+  {
+    "('Date', '')":"2025-02-05",
+    "('Close', 'RELIANCE.BO')":1272.9660644531,
+    "('High', 'RELIANCE.BO')":1284.8684796423,
+    "('Low', 'RELIANCE.BO')":1271.0735981894,
+    "('Open', 'RELIANCE.BO')":1279.8385195183,
+    "('Volume', 'RELIANCE.BO')":355650
+  },
+  {
+    "('Date', '')":"2025-02-06",
+    "('Close', 'RELIANCE.BO')":1276.4521484375,
+    "('High', 'RELIANCE.BO')":1282.2290035651,
+    "('Low', 'RELIANCE.BO')":1265.7449110508,
+    "('Open', 'RELIANCE.BO')":1271.5217661784,
+    "('Volume', 'RELIANCE.BO')":160168
+  },
+  {
+    "('Date', '')":"2025-02-07",
+    "('Close', 'RELIANCE.BO')":1261.810546875,
+    "('High', 'RELIANCE.BO')":1279.6393664118,
+    "('Low', 'RELIANCE.BO')":1256.9798641072,
+    "('Open', 'RELIANCE.BO')":1261.4121137263,
+    "('Volume', 'RELIANCE.BO')":375026
+  },
+  {
+    "('Date', '')":"2025-02-10",
+    "('Close', 'RELIANCE.BO')":1248.4141845703,
+    "('High', 'RELIANCE.BO')":1260.9640393177,
+    "('Low', 'RELIANCE.BO')":1240.8941687193,
+    "('Open', 'RELIANCE.BO')":1258.772839226,
+    "('Volume', 'RELIANCE.BO')":539885
+  },
+  {
+    "('Date', '')":"2025-02-11",
+    "('Close', 'RELIANCE.BO')":1229.6888427734,
+    "('High', 'RELIANCE.BO')":1258.3743274775,
+    "('Low', 'RELIANCE.BO')":1225.1071654958,
+    "('Open', 'RELIANCE.BO')":1258.0257440644,
+    "('Volume', 'RELIANCE.BO')":554854
+  },
+  {
+    "('Date', '')":"2025-02-12",
+    "('Close', 'RELIANCE.BO')":1210.8640136719,
+    "('High', 'RELIANCE.BO')":1222.9657064572,
+    "('Low', 'RELIANCE.BO')":1188.9017994023,
+    "('Open', 'RELIANCE.BO')":1215.0971075806,
+    "('Volume', 'RELIANCE.BO')":596942
+  },
+  {
+    "('Date', '')":"2025-02-13",
+    "('Close', 'RELIANCE.BO')":1211.3620605469,
+    "('High', 'RELIANCE.BO')":1223.0653205229,
+    "('Low', 'RELIANCE.BO')":1207.3282438889,
+    "('Open', 'RELIANCE.BO')":1214.1011213923,
+    "('Volume', 'RELIANCE.BO')":360188
+  },
+  {
+    "('Date', '')":"2025-02-14",
+    "('Close', 'RELIANCE.BO')":1212.1090087891,
+    "('High', 'RELIANCE.BO')":1219.4298682673,
+    "('Low', 'RELIANCE.BO')":1201.2026157624,
+    "('Open', 'RELIANCE.BO')":1215.1469247348,
+    "('Volume', 'RELIANCE.BO')":358010
+  },
+  {
+    "('Date', '')":"2025-02-17",
+    "('Close', 'RELIANCE.BO')":1219.8780517578,
+    "('High', 'RELIANCE.BO')":1222.3182572385,
+    "('Low', 'RELIANCE.BO')":1200.3560431583,
+    "('Open', 'RELIANCE.BO')":1210.9138529696,
+    "('Volume', 'RELIANCE.BO')":207944
+  },
+  {
+    "('Date', '')":"2025-02-18",
+    "('Close', 'RELIANCE.BO')":1220.0772705078,
+    "('High', 'RELIANCE.BO')":1225.0573812027,
+    "('Low', 'RELIANCE.BO')":1211.5613541704,
+    "('Open', 'RELIANCE.BO')":1220.3761257834,
+    "('Volume', 'RELIANCE.BO')":206583
+  },
+  {
+    "('Date', '')":"2025-02-19",
+    "('Close', 'RELIANCE.BO')":1222.0692138672,
+    "('High', 'RELIANCE.BO')":1227.8960401668,
+    "('Low', 'RELIANCE.BO')":1212.7564319537,
+    "('Open', 'RELIANCE.BO')":1217.8859698628,
+    "('Volume', 'RELIANCE.BO')":110206
+  },
+  {
+    "('Date', '')":"2025-02-20",
+    "('Close', 'RELIANCE.BO')":1228.1451416016,
+    "('High', 'RELIANCE.BO')":1234.4698578388,
+    "('Low', 'RELIANCE.BO')":1218.1350705158,
+    "('Open', 'RELIANCE.BO')":1221.3721424529,
+    "('Volume', 'RELIANCE.BO')":206262
+  },
+  {
+    "('Date', '')":"2025-02-21",
+    "('Close', 'RELIANCE.BO')":1222.8162841797,
+    "('High', 'RELIANCE.BO')":1235.0175549111,
+    "('Low', 'RELIANCE.BO')":1217.4875902588,
+    "('Open', 'RELIANCE.BO')":1225.0573339059,
+    "('Volume', 'RELIANCE.BO')":907589
+  },
+  {
+    "('Date', '')":"2025-02-24",
+    "('Close', 'RELIANCE.BO')":1209.9178466797,
+    "('High', 'RELIANCE.BO')":1218.1350290095,
+    "('Low', 'RELIANCE.BO')":1205.7843306453,
+    "('Open', 'RELIANCE.BO')":1214.5493737643,
+    "('Volume', 'RELIANCE.BO')":477209
+  },
+  {
+    "('Date', '')":"2025-02-25",
+    "('Close', 'RELIANCE.BO')":1199.1110839844,
+    "('High', 'RELIANCE.BO')":1216.143038337,
+    "('Low', 'RELIANCE.BO')":1196.2225954486,
+    "('Open', 'RELIANCE.BO')":1209.121033585,
+    "('Volume', 'RELIANCE.BO')":881729
+  },
+  {
+    "('Date', '')":"2025-02-27",
+    "('Close', 'RELIANCE.BO')":1202.2485351562,
+    "('High', 'RELIANCE.BO')":1210.1668622879,
+    "('Low', 'RELIANCE.BO')":1196.2225527636,
+    "('Open', 'RELIANCE.BO')":1208.722678864,
+    "('Volume', 'RELIANCE.BO')":193166
+  },
+  {
+    "('Date', '')":"2025-02-28",
+    "('Close', 'RELIANCE.BO')":1194.828125,
+    "('High', 'RELIANCE.BO')":1212.5573675801,
+    "('Low', 'RELIANCE.BO')":1188.5532585204,
+    "('Open', 'RELIANCE.BO')":1196.2225803015,
+    "('Volume', 'RELIANCE.BO')":437656
+  },
+  {
+    "('Date', '')":"2025-03-03",
+    "('Close', 'RELIANCE.BO')":1166.44140625,
+    "('High', 'RELIANCE.BO')":1204.987532794,
+    "('Low', 'RELIANCE.BO')":1151.4014975112,
+    "('Open', 'RELIANCE.BO')":1204.987532794,
+    "('Volume', 'RELIANCE.BO')":542446
+  },
+  {
+    "('Date', '')":"2025-03-04",
+    "('Close', 'RELIANCE.BO')":1157.0788574219,
+    "('High', 'RELIANCE.BO')":1169.4295561256,
+    "('Low', 'RELIANCE.BO')":1154.6386518423,
+    "('Open', 'RELIANCE.BO')":1160.365779078,
+    "('Volume', 'RELIANCE.BO')":286826
+  },
+  {
+    "('Date', '')":"2025-03-05",
+    "('Close', 'RELIANCE.BO')":1171.0729980469,
+    "('High', 'RELIANCE.BO')":1178.3440080975,
+    "('Low', 'RELIANCE.BO')":1153.3936055609,
+    "('Open', 'RELIANCE.BO')":1157.3776940085,
+    "('Volume', 'RELIANCE.BO')":348560
+  },
+  {
+    "('Date', '')":"2025-03-06",
+    "('Close', 'RELIANCE.BO')":1205.7346191406,
+    "('High', 'RELIANCE.BO')":1209.1708468012,
+    "('Low', 'RELIANCE.BO')":1180.7842165427,
+    "('Open', 'RELIANCE.BO')":1196.2225593148,
+    "('Volume', 'RELIANCE.BO')":652420
+  },
+  {
+    "('Date', '')":"2025-03-07",
+    "('Close', 'RELIANCE.BO')":1244.1312255859,
+    "('High', 'RELIANCE.BO')":1249.5097694365,
+    "('Low', 'RELIANCE.BO')":1207.4776839371,
+    "('Open', 'RELIANCE.BO')":1209.2207226749,
+    "('Volume', 'RELIANCE.BO')":794738
+  },
+  {
+    "('Date', '')":"2025-03-10",
+    "('Close', 'RELIANCE.BO')":1233.2745361328,
+    "('High', 'RELIANCE.BO')":1252.9958226753,
+    "('Low', 'RELIANCE.BO')":1230.5853250519,
+    "('Open', 'RELIANCE.BO')":1244.1312015206,
+    "('Volume', 'RELIANCE.BO')":245117
+  },
+  {
+    "('Date', '')":"2025-03-11",
+    "('Close', 'RELIANCE.BO')":1242.4379882812,
+    "('High', 'RELIANCE.BO')":1244.579460107,
+    "('Low', 'RELIANCE.BO')":1225.1071794742,
+    "('Open', 'RELIANCE.BO')":1233.12520599,
+    "('Volume', 'RELIANCE.BO')":305952
+  },
+  {
+    "('Date', '')":"2025-03-12",
+    "('Close', 'RELIANCE.BO')":1251.6013183594,
+    "('High', 'RELIANCE.BO')":1256.5317005942,
+    "('Low', 'RELIANCE.BO')":1239.0514644989,
+    "('Open', 'RELIANCE.BO')":1251.8503238788,
+    "('Volume', 'RELIANCE.BO')":426299
+  },
+  {
+    "('Date', '')":"2025-03-13",
+    "('Close', 'RELIANCE.BO')":1242.4379882812,
+    "('High', 'RELIANCE.BO')":1258.9719307767,
+    "('Low', 'RELIANCE.BO')":1239.0514888341,
+    "('Open', 'RELIANCE.BO')":1257.8763307868,
+    "('Volume', 'RELIANCE.BO')":302876
+  },
+  {
+    "('Date', '')":"2025-03-17",
+    "('Close', 'RELIANCE.BO')":1235.4658203125,
+    "('High', 'RELIANCE.BO')":1252.1989184135,
+    "('Low', 'RELIANCE.BO')":1228.3442380777,
+    "('Open', 'RELIANCE.BO')":1242.0395417659,
+    "('Volume', 'RELIANCE.BO')":422823
+  },
+  {
+    "('Date', '')":"2025-03-18",
+    "('Close', 'RELIANCE.BO')":1233.8721923828,
+    "('High', 'RELIANCE.BO')":1243.1351247087,
+    "('Low', 'RELIANCE.BO')":1229.9876819821,
+    "('Open', 'RELIANCE.BO')":1238.5534474909,
+    "('Volume', 'RELIANCE.BO')":1740575
+  },
+  {
+    "('Date', '')":"2025-03-19",
+    "('Close', 'RELIANCE.BO')":1242.7366943359,
+    "('High', 'RELIANCE.BO')":1247.7666544485,
+    "('Low', 'RELIANCE.BO')":1234.4199343267,
+    "('Open', 'RELIANCE.BO')":1237.0594171424,
+    "('Volume', 'RELIANCE.BO')":295426
+  },
+  {
+    "('Date', '')":"2025-03-20",
+    "('Close', 'RELIANCE.BO')":1263.50390625,
+    "('High', 'RELIANCE.BO')":1267.7370002509,
+    "('Low', 'RELIANCE.BO')":1245.0276473297,
+    "('Open', 'RELIANCE.BO')":1249.2108915909,
+    "('Volume', 'RELIANCE.BO')":612659
+  },
+  {
+    "('Date', '')":"2025-03-21",
+    "('Close', 'RELIANCE.BO')":1271.3723144531,
+    "('High', 'RELIANCE.BO')":1279.390340699,
+    "('Low', 'RELIANCE.BO')":1264.9978705138,
+    "('Open', 'RELIANCE.BO')":1264.9978705138,
+    "('Volume', 'RELIANCE.BO')":361299
+  },
+  {
+    "('Date', '')":"2025-03-24",
+    "('Close', 'RELIANCE.BO')":1296.1733398438,
+    "('High', 'RELIANCE.BO')":1300.1077001027,
+    "('Low', 'RELIANCE.BO')":1275.9043143581,
+    "('Open', 'RELIANCE.BO')":1281.2828580329,
+    "('Volume', 'RELIANCE.BO')":861533
+  },
+  {
+    "('Date', '')":"2025-03-25",
+    "('Close', 'RELIANCE.BO')":1280.2868652344,
+    "('High', 'RELIANCE.BO')":1301.8009188417,
+    "('Low', 'RELIANCE.BO')":1277.8963878147,
+    "('Open', 'RELIANCE.BO')":1301.8009188417,
+    "('Volume', 'RELIANCE.BO')":865836
+  },
+  {
+    "('Date', '')":"2025-03-26",
+    "('Close', 'RELIANCE.BO')":1267.4880371094,
+    "('High', 'RELIANCE.BO')":1288.8028138767,
+    "('Low', 'RELIANCE.BO')":1263.9521098388,
+    "('Open', 'RELIANCE.BO')":1285.1175805512,
+    "('Volume', 'RELIANCE.BO')":658347
+  },
+  {
+    "('Date', '')":"2025-03-27",
+    "('Close', 'RELIANCE.BO')":1273.3146972656,
+    "('High', 'RELIANCE.BO')":1280.0378465479,
+    "('Low', 'RELIANCE.BO')":1266.9899811467,
+    "('Open', 'RELIANCE.BO')":1269.9780474944,
+    "('Volume', 'RELIANCE.BO')":278220
+  },
+  {
+    "('Date', '')":"2025-03-28",
+    "('Close', 'RELIANCE.BO')":1269.9282226562,
+    "('High', 'RELIANCE.BO')":1290.5458322255,
+    "('Low', 'RELIANCE.BO')":1264.0019395844,
+    "('Open', 'RELIANCE.BO')":1274.2111664724,
+    "('Volume', 'RELIANCE.BO')":987799
+  },
+  {
+    "('Date', '')":"2025-04-01",
+    "('Close', 'RELIANCE.BO')":1247.4678955078,
+    "('High', 'RELIANCE.BO')":1272.7171543262,
+    "('Low', 'RELIANCE.BO')":1245.0276898696,
+    "('Open', 'RELIANCE.BO')":1269.5298104892,
+    "('Volume', 'RELIANCE.BO')":722008
+  },
+  {
+    "('Date', '')":"2025-04-02",
+    "('Close', 'RELIANCE.BO')":1246.1232910156,
+    "('High', 'RELIANCE.BO')":1251.0038238812,
+    "('Low', 'RELIANCE.BO')":1238.8524022512,
+    "('Open', 'RELIANCE.BO')":1245.376274401,
+    "('Volume', 'RELIANCE.BO')":243303
+  },
+  {
+    "('Date', '')":"2025-04-03",
+    "('Close', 'RELIANCE.BO')":1243.6331787109,
+    "('High', 'RELIANCE.BO')":1246.2228118727,
+    "('Low', 'RELIANCE.BO')":1229.6391410559,
+    "('Open', 'RELIANCE.BO')":1234.0215410597,
+    "('Volume', 'RELIANCE.BO')":532522
+  },
+  {
+    "('Date', '')":"2025-04-04",
+    "('Close', 'RELIANCE.BO')":1199.9078369141,
+    "('High', 'RELIANCE.BO')":1240.2467340376,
+    "('Low', 'RELIANCE.BO')":1188.1049987393,
+    "('Open', 'RELIANCE.BO')":1235.0674674852,
+    "('Volume', 'RELIANCE.BO')":785059
+  },
+  {
+    "('Date', '')":"2025-04-07",
+    "('Close', 'RELIANCE.BO')":1161.5609130859,
+    "('High', 'RELIANCE.BO')":1166.3418677533,
+    "('Low', 'RELIANCE.BO')":1111.1124914795,
+    "('Open', 'RELIANCE.BO')":1120.524851599,
+    "('Volume', 'RELIANCE.BO')":1433461
+  },
+  {
+    "('Date', '')":"2025-04-08",
+    "('Close', 'RELIANCE.BO')":1177.6965332031,
+    "('High', 'RELIANCE.BO')":1192.0392754903,
+    "('Low', 'RELIANCE.BO')":1159.2202749618,
+    "('Open', 'RELIANCE.BO')":1173.1645840995,
+    "('Volume', 'RELIANCE.BO')":894893
+  },
+  {
+    "('Date', '')":"2025-04-09",
+    "('Close', 'RELIANCE.BO')":1180.8837890625,
+    "('High', 'RELIANCE.BO')":1184.7682996077,
+    "('Low', 'RELIANCE.BO')":1164.4494242508,
+    "('Open', 'RELIANCE.BO')":1167.736345847,
+    "('Volume', 'RELIANCE.BO')":495957
+  },
+  {
+    "('Date', '')":"2025-04-11",
+    "('Close', 'RELIANCE.BO')":1214.4498291016,
+    "('High', 'RELIANCE.BO')":1217.5872015365,
+    "('Low', 'RELIANCE.BO')":1192.2883367573,
+    "('Open', 'RELIANCE.BO')":1195.2265534005,
+    "('Volume', 'RELIANCE.BO')":684519
+  },
+  {
+    "('Date', '')":"2025-04-15",
+    "('Close', 'RELIANCE.BO')":1234.9677734375,
+    "('High', 'RELIANCE.BO')":1251.0037042466,
+    "('Low', 'RELIANCE.BO')":1232.0792851537,
+    "('Open', 'RELIANCE.BO')":1251.0037042466,
+    "('Volume', 'RELIANCE.BO')":719043
+  },
+  {
+    "('Date', '')":"2025-04-16",
+    "('Close', 'RELIANCE.BO')":1233.7227783203,
+    "('High', 'RELIANCE.BO')":1235.9638280087,
+    "('Low', 'RELIANCE.BO')":1224.1609906335,
+    "('Open', 'RELIANCE.BO')":1234.9179561869,
+    "('Volume', 'RELIANCE.BO')":361521
+  },
+  {
+    "('Date', '')":"2025-04-17",
+    "('Close', 'RELIANCE.BO')":1269.4799804688,
+    "('High', 'RELIANCE.BO')":1274.3603913536,
+    "('Low', 'RELIANCE.BO')":1222.5175154582,
+    "('Open', 'RELIANCE.BO')":1233.7227637679,
+    "('Volume', 'RELIANCE.BO')":392500
+  },
+  {
+    "('Date', '')":"2025-04-21",
+    "('Close', 'RELIANCE.BO')":1290.6951904297,
+    "('High', 'RELIANCE.BO')":1294.8287063863,
+    "('Low', 'RELIANCE.BO')":1261.7109721652,
+    "('Open', 'RELIANCE.BO')":1266.4919267919,
+    "('Volume', 'RELIANCE.BO')":729259
+  },
+  {
+    "('Date', '')":"2025-04-22",
+    "('Close', 'RELIANCE.BO')":1285.8146972656,
+    "('High', 'RELIANCE.BO')":1297.816812353,
+    "('Low', 'RELIANCE.BO')":1281.3824474997,
+    "('Open', 'RELIANCE.BO')":1294.828746016,
+    "('Volume', 'RELIANCE.BO')":759456
+  },
+  {
+    "('Date', '')":"2025-04-23",
+    "('Close', 'RELIANCE.BO')":1294.7291259766,
+    "('High', 'RELIANCE.BO')":1300.555830827,
+    "('Low', 'RELIANCE.BO')":1280.187227927,
+    "('Open', 'RELIANCE.BO')":1290.6951879191,
+    "('Volume', 'RELIANCE.BO')":420698
+  },
+  {
+    "('Date', '')":"2025-04-24",
+    "('Close', 'RELIANCE.BO')":1296.4721679688,
+    "('High', 'RELIANCE.BO')":1299.2609568488,
+    "('Low', 'RELIANCE.BO')":1285.3664974322,
+    "('Open', 'RELIANCE.BO')":1293.4841017213,
+    "('Volume', 'RELIANCE.BO')":281535
+  },
+  {
+    "('Date', '')":"2025-04-25",
+    "('Close', 'RELIANCE.BO')":1294.8785400391,
+    "('High', 'RELIANCE.BO')":1319.9782475556,
+    "('Low', 'RELIANCE.BO')":1282.8764254681,
+    "('Open', 'RELIANCE.BO')":1295.8247123712,
+    "('Volume', 'RELIANCE.BO')":1543897
+  },
+  {
+    "('Date', '')":"2025-04-28",
+    "('Close', 'RELIANCE.BO')":1363.0562744141,
+    "('High', 'RELIANCE.BO')":1369.4308403139,
+    "('Low', 'RELIANCE.BO')":1314.8986291162,
+    "('Open', 'RELIANCE.BO')":1327.0500503747,
+    "('Volume', 'RELIANCE.BO')":1269304
+  },
+  {
+    "('Date', '')":"2025-04-29",
+    "('Close', 'RELIANCE.BO')":1394.7298583984,
+    "('High', 'RELIANCE.BO')":1405.2876688194,
+    "('Low', 'RELIANCE.BO')":1364.7494945635,
+    "('Open', 'RELIANCE.BO')":1364.8989222023,
+    "('Volume', 'RELIANCE.BO')":6415191
+  },
+  {
+    "('Date', '')":"2025-04-30",
+    "('Close', 'RELIANCE.BO')":1402.7476806641,
+    "('High', 'RELIANCE.BO')":1406.2337579655,
+    "('Low', 'RELIANCE.BO')":1368.0363352799,
+    "('Open', 'RELIANCE.BO')":1399.3114531009,
+    "('Volume', 'RELIANCE.BO')":3375628
+  },
+  {
+    "('Date', '')":"2025-05-02",
+    "('Close', 'RELIANCE.BO')":1416.2935791016,
+    "('High', 'RELIANCE.BO')":1420.327517248,
+    "('Low', 'RELIANCE.BO')":1402.7975525722,
+    "('Open', 'RELIANCE.BO')":1402.7975525722,
+    "('Volume', 'RELIANCE.BO')":3746656
+  },
+  {
+    "('Date', '')":"2025-05-05",
+    "('Close', 'RELIANCE.BO')":1425.4072265625,
+    "('High', 'RELIANCE.BO')":1434.0228421869,
+    "('Low', 'RELIANCE.BO')":1421.3235602019,
+    "('Open', 'RELIANCE.BO')":1421.3235602019,
+    "('Volume', 'RELIANCE.BO')":428786
+  },
+  {
+    "('Date', '')":"2025-05-06",
+    "('Close', 'RELIANCE.BO')":1414.8992919922,
+    "('High', 'RELIANCE.BO')":1426.3036967999,
+    "('Low', 'RELIANCE.BO')":1404.7397932681,
+    "('Open', 'RELIANCE.BO')":1426.3036967999,
+    "('Volume', 'RELIANCE.BO')":311563
+  },
+  {
+    "('Date', '')":"2025-05-07",
+    "('Close', 'RELIANCE.BO')":1400.4071044922,
+    "('High', 'RELIANCE.BO')":1419.2319469278,
+    "('Low', 'RELIANCE.BO')":1396.5724436368,
+    "('Open', 'RELIANCE.BO')":1406.4330869683,
+    "('Volume', 'RELIANCE.BO')":262093
+  },
+  {
+    "('Date', '')":"2025-05-08",
+    "('Close', 'RELIANCE.BO')":1399.2615966797,
+    "('High', 'RELIANCE.BO')":1414.8493665699,
+    "('Low', 'RELIANCE.BO')":1391.4926973959,
+    "('Open', 'RELIANCE.BO')":1399.3611745709,
+    "('Volume', 'RELIANCE.BO')":573809
+  },
+  {
+    "('Date', '')":"2025-05-09",
+    "('Close', 'RELIANCE.BO')":1372.2694091797,
+    "('High', 'RELIANCE.BO')":1389.4507899152,
+    "('Low', 'RELIANCE.BO')":1366.5921320053,
+    "('Open', 'RELIANCE.BO')":1366.5921320053,
+    "('Volume', 'RELIANCE.BO')":388444
+  },
+  {
+    "('Date', '')":"2025-05-12",
+    "('Close', 'RELIANCE.BO')":1430.8355712891,
+    "('High', 'RELIANCE.BO')":1433.1761988661,
+    "('Low', 'RELIANCE.BO')":1394.4309155388,
+    "('Open', 'RELIANCE.BO')":1394.4309155388,
+    "('Volume', 'RELIANCE.BO')":792769
+  },
+  {
+    "('Date', '')":"2025-05-13",
+    "('Close', 'RELIANCE.BO')":1410.56640625,
+    "('High', 'RELIANCE.BO')":1441.5925180331,
+    "('Low', 'RELIANCE.BO')":1407.3791842614,
+    "('Open', 'RELIANCE.BO')":1427.4987814322,
+    "('Volume', 'RELIANCE.BO')":992150
+  },
+  {
+    "('Date', '')":"2025-05-14",
+    "('Close', 'RELIANCE.BO')":1418.5844726562,
+    "('High', 'RELIANCE.BO')":1424.1124439324,
+    "('Low', 'RELIANCE.BO')":1409.8692793013,
+    "('Open', 'RELIANCE.BO')":1412.4589124384,
+    "('Volume', 'RELIANCE.BO')":320533
+  },
+  {
+    "('Date', '')":"2025-05-15",
+    "('Close', 'RELIANCE.BO')":1448.0169677734,
+    "('High', 'RELIANCE.BO')":1455.1882782108,
+    "('Low', 'RELIANCE.BO')":1407.3792177357,
+    "('Open', 'RELIANCE.BO')":1418.5844662846,
+    "('Volume', 'RELIANCE.BO')":479370
+  },
+  {
+    "('Date', '')":"2025-05-16",
+    "('Close', 'RELIANCE.BO')":1450.8057861328,
+    "('High', 'RELIANCE.BO')":1454.3914414243,
+    "('Low', 'RELIANCE.BO')":1441.8415871118,
+    "('Open', 'RELIANCE.BO')":1447.9671474264,
+    "('Volume', 'RELIANCE.BO')":338754
+  },
+  {
+    "('Date', '')":"2025-05-19",
+    "('Close', 'RELIANCE.BO')":1435.9152832031,
+    "('High', 'RELIANCE.BO')":1448.5149870712,
+    "('Low', 'RELIANCE.BO')":1432.329627964,
+    "('Open', 'RELIANCE.BO')":1448.5149870712,
+    "('Volume', 'RELIANCE.BO')":550729
+  },
+  {
+    "('Date', '')":"2025-05-20",
+    "('Close', 'RELIANCE.BO')":1419.6303710938,
+    "('High', 'RELIANCE.BO')":1438.8037968338,
+    "('Low', 'RELIANCE.BO')":1415.5465831489,
+    "('Open', 'RELIANCE.BO')":1429.9391756812,
+    "('Volume', 'RELIANCE.BO')":670532
+  },
+  {
+    "('Date', '')":"2025-05-21",
+    "('Close', 'RELIANCE.BO')":1423.2160644531,
+    "('High', 'RELIANCE.BO')":1430.3873752488,
+    "('Low', 'RELIANCE.BO')":1412.7079822106,
+    "('Open', 'RELIANCE.BO')":1419.2817040374,
+    "('Volume', 'RELIANCE.BO')":507422
+  },
+  {
+    "('Date', '')":"2025-05-22",
+    "('Close', 'RELIANCE.BO')":1403.7935791016,
+    "('High', 'RELIANCE.BO')":1416.8414443601,
+    "('Low', 'RELIANCE.BO')":1391.8413138416,
+    "('Open', 'RELIANCE.BO')":1414.3513890976,
+    "('Volume', 'RELIANCE.BO')":388189
+  },
+  {
+    "('Date', '')":"2025-05-23",
+    "('Close', 'RELIANCE.BO')":1420.7756347656,
+    "('High', 'RELIANCE.BO')":1427.9967947815,
+    "('Low', 'RELIANCE.BO')":1400.4070320444,
+    "('Open', 'RELIANCE.BO')":1400.4070320444,
+    "('Volume', 'RELIANCE.BO')":386757
+  },
+  {
+    "('Date', '')":"2025-05-26",
+    "('Close', 'RELIANCE.BO')":1428.4450683594,
+    "('High', 'RELIANCE.BO')":1435.4669509644,
+    "('Low', 'RELIANCE.BO')":1420.3773139525,
+    "('Open', 'RELIANCE.BO')":1424.7099856169,
+    "('Volume', 'RELIANCE.BO')":330120
+  },
+  {
+    "('Date', '')":"2025-05-27",
+    "('Close', 'RELIANCE.BO')":1416.0944824219,
+    "('High', 'RELIANCE.BO')":1431.5826753861,
+    "('Low', 'RELIANCE.BO')":1408.3753108103,
+    "('Open', 'RELIANCE.BO')":1423.4650706002,
+    "('Volume', 'RELIANCE.BO')":1302990
+  },
+  {
+    "('Date', '')":"2025-05-28",
+    "('Close', 'RELIANCE.BO')":1405.5366210938,
+    "('High', 'RELIANCE.BO')":1416.5425924291,
+    "('Low', 'RELIANCE.BO')":1404.5903271409,
+    "('Open', 'RELIANCE.BO')":1416.0445813754,
+    "('Volume', 'RELIANCE.BO')":260943
+  },
+  {
+    "('Date', '')":"2025-05-29",
+    "('Close', 'RELIANCE.BO')":1411.76171875,
+    "('High', 'RELIANCE.BO')":1414.5007794666,
+    "('Low', 'RELIANCE.BO')":1403.3452592337,
+    "('Open', 'RELIANCE.BO')":1407.7277806971,
+    "('Volume', 'RELIANCE.BO')":309419
+  },
+  {
+    "('Date', '')":"2025-05-30",
+    "('Close', 'RELIANCE.BO')":1415.1483154297,
+    "('High', 'RELIANCE.BO')":1425.0586871608,
+    "('Low', 'RELIANCE.BO')":1404.3912276056,
+    "('Open', 'RELIANCE.BO')":1412.160248988,
+    "('Volume', 'RELIANCE.BO')":228179
+  },
+  {
+    "('Date', '')":"2025-06-02",
+    "('Close', 'RELIANCE.BO')":1408.8233642578,
+    "('High', 'RELIANCE.BO')":1412.0107078236,
+    "('Low', 'RELIANCE.BO')":1390.3472278629,
+    "('Open', 'RELIANCE.BO')":1410.3173973585,
+    "('Volume', 'RELIANCE.BO')":469571
+  },
+  {
+    "('Date', '')":"2025-06-03",
+    "('Close', 'RELIANCE.BO')":1400.3571777344,
+    "('High', 'RELIANCE.BO')":1421.3733406349,
+    "('Low', 'RELIANCE.BO')":1397.418961268,
+    "('Open', 'RELIANCE.BO')":1414.1521806426,
+    "('Volume', 'RELIANCE.BO')":1503679
+  },
+  {
+    "('Date', '')":"2025-06-04",
+    "('Close', 'RELIANCE.BO')":1417.5385742188,
+    "('High', 'RELIANCE.BO')":1419.3314625949,
+    "('Low', 'RELIANCE.BO')":1400.5564707224,
+    "('Open', 'RELIANCE.BO')":1404.7895645582,
+    "('Volume', 'RELIANCE.BO')":312944
+  },
+  {
+    "('Date', '')":"2025-06-05",
+    "('Close', 'RELIANCE.BO')":1436.9112548828,
+    "('High', 'RELIANCE.BO')":1448.7140920237,
+    "('Low', 'RELIANCE.BO')":1417.7378301517,
+    "('Open', 'RELIANCE.BO')":1421.2736355279,
+    "('Volume', 'RELIANCE.BO')":427025
+  },
+  {
+    "('Date', '')":"2025-06-06",
+    "('Close', 'RELIANCE.BO')":1437.8077392578,
+    "('High', 'RELIANCE.BO')":1445.576638623,
+    "('Low', 'RELIANCE.BO')":1431.0347403997,
+    "('Open', 'RELIANCE.BO')":1437.90731715,
+    "('Volume', 'RELIANCE.BO')":1284697
+  },
+  {
+    "('Date', '')":"2025-06-09",
+    "('Close', 'RELIANCE.BO')":1442.8376464844,
+    "('High', 'RELIANCE.BO')":1451.1046788734,
+    "('Low', 'RELIANCE.BO')":1439.3515689973,
+    "('Open', 'RELIANCE.BO')":1448.7640511633,
+    "('Volume', 'RELIANCE.BO')":452344
+  },
+  {
+    "('Date', '')":"2025-06-10",
+    "('Close', 'RELIANCE.BO')":1432.8773193359,
+    "('High', 'RELIANCE.BO')":1447.6184945415,
+    "('Low', 'RELIANCE.BO')":1430.785697315,
+    "('Open', 'RELIANCE.BO')":1442.8375399925,
+    "('Volume', 'RELIANCE.BO')":481509
+  },
+  {
+    "('Date', '')":"2025-06-11",
+    "('Close', 'RELIANCE.BO')":1442.9870605469,
+    "('High', 'RELIANCE.BO')":1462.1604865455,
+    "('Low', 'RELIANCE.BO')":1437.0607775085,
+    "('Open', 'RELIANCE.BO')":1439.1523996641,
+    "('Volume', 'RELIANCE.BO')":654096
+  },
+  {
+    "('Date', '')":"2025-06-12",
+    "('Close', 'RELIANCE.BO')":1433.8734130859,
+    "('High', 'RELIANCE.BO')":1451.0547945775,
+    "('Low', 'RELIANCE.BO')":1428.345563296,
+    "('Open', 'RELIANCE.BO')":1446.4232674237,
+    "('Volume', 'RELIANCE.BO')":284782
+  },
+  {
+    "('Date', '')":"2025-06-13",
+    "('Close', 'RELIANCE.BO')":1421.9709472656,
+    "('High', 'RELIANCE.BO')":1429.6402686501,
+    "('Low', 'RELIANCE.BO')":1408.3752215525,
+    "('Open', 'RELIANCE.BO')":1414.3513540343,
+    "('Volume', 'RELIANCE.BO')":313642
+  },
+  {
+    "('Date', '')":"2025-06-16",
+    "('Close', 'RELIANCE.BO')":1432.8276367188,
+    "('High', 'RELIANCE.BO')":1436.1642864278,
+    "('Low', 'RELIANCE.BO')":1419.3314886663,
+    "('Open', 'RELIANCE.BO')":1419.3813384051,
+    "('Volume', 'RELIANCE.BO')":350578
+  },
+  {
+    "('Date', '')":"2025-06-17",
+    "('Close', 'RELIANCE.BO')":1425.6064453125,
+    "('High', 'RELIANCE.BO')":1440.2479211886,
+    "('Low', 'RELIANCE.BO')":1420.1283238972,
+    "('Open', 'RELIANCE.BO')":1432.2797445845,
+    "('Volume', 'RELIANCE.BO')":2874904
+  },
+  {
+    "('Date', '')":"2025-06-18",
+    "('Close', 'RELIANCE.BO')":1424.1622314453,
+    "('High', 'RELIANCE.BO')":1437.259946893,
+    "('Low', 'RELIANCE.BO')":1419.8794091975,
+    "('Open', 'RELIANCE.BO')":1424.3116590831,
+    "('Volume', 'RELIANCE.BO')":277714
+  },
+  {
+    "('Date', '')":"2025-06-19",
+    "('Close', 'RELIANCE.BO')":1427.9471435547,
+    "('High', 'RELIANCE.BO')":1434.1224320946,
+    "('Low', 'RELIANCE.BO')":1420.3275499829,
+    "('Open', 'RELIANCE.BO')":1424.3116384822,
+    "('Volume', 'RELIANCE.BO')":702530
+  },
+  {
+    "('Date', '')":"2025-06-20",
+    "('Close', 'RELIANCE.BO')":1458.8238525391,
+    "('High', 'RELIANCE.BO')":1464.1525466743,
+    "('Low', 'RELIANCE.BO')":1422.4191946664,
+    "('Open', 'RELIANCE.BO')":1424.3116610505,
+    "('Volume', 'RELIANCE.BO')":690290
+  },
+  {
+    "('Date', '')":"2025-06-23",
+    "('Close', 'RELIANCE.BO')":1450.5567626953,
+    "('High', 'RELIANCE.BO')":1457.1803339849,
+    "('Low', 'RELIANCE.BO')":1436.2638698607,
+    "('Open', 'RELIANCE.BO')":1436.9610366976,
+    "('Volume', 'RELIANCE.BO')":289434
+  },
+  {
+    "('Date', '')":"2025-06-24",
+    "('Close', 'RELIANCE.BO')":1444.2818603516,
+    "('High', 'RELIANCE.BO')":1469.132562521,
+    "('Low', 'RELIANCE.BO')":1437.5587113366,
+    "('Open', 'RELIANCE.BO')":1460.9153803916,
+    "('Volume', 'RELIANCE.BO')":3665221
+  },
+  {
+    "('Date', '')":"2025-06-25",
+    "('Close', 'RELIANCE.BO')":1461.4134521484,
+    "('High', 'RELIANCE.BO')":1466.1445572074,
+    "('Low', 'RELIANCE.BO')":1454.3417194299,
+    "('Open', 'RELIANCE.BO')":1456.2341857705,
+    "('Volume', 'RELIANCE.BO')":143268
+  },
+  {
+    "('Date', '')":"2025-06-26",
+    "('Close', 'RELIANCE.BO')":1489.2521972656,
+    "('High', 'RELIANCE.BO')":1492.7382746203,
+    "('Low', 'RELIANCE.BO')":1459.2719563327,
+    "('Open', 'RELIANCE.BO')":1464.1026392072,
+    "('Volume', 'RELIANCE.BO')":366253
+  },
+  {
+    "('Date', '')":"2025-06-27",
+    "('Close', 'RELIANCE.BO')":1510.0194091797,
+    "('High', 'RELIANCE.BO')":1515.646836985,
+    "('Low', 'RELIANCE.BO')":1491.1447167359,
+    "('Open', 'RELIANCE.BO')":1492.0910107167,
+    "('Volume', 'RELIANCE.BO')":340711
+  },
+  {
+    "('Date', '')":"2025-06-30",
+    "('Close', 'RELIANCE.BO')":1494.6805419922,
+    "('High', 'RELIANCE.BO')":1518.8838053153,
+    "('Low', 'RELIANCE.BO')":1490.4474481994,
+    "('Open', 'RELIANCE.BO')":1510.01930617,
+    "('Volume', 'RELIANCE.BO')":439730
+  },
+  {
+    "('Date', '')":"2025-07-01",
+    "('Close', 'RELIANCE.BO')":1522.2205810547,
+    "('High', 'RELIANCE.BO')":1525.1089477953,
+    "('Low', 'RELIANCE.BO')":1494.6805464509,
+    "('Open', 'RELIANCE.BO')":1494.6805464509,
+    "('Volume', 'RELIANCE.BO')":2842857
+  },
+  {
+    "('Date', '')":"2025-07-02",
+    "('Close', 'RELIANCE.BO')":1512.2105712891,
+    "('High', 'RELIANCE.BO')":1523.9138311031,
+    "('Low', 'RELIANCE.BO')":1502.9475170151,
+    "('Open', 'RELIANCE.BO')":1523.8142532089,
+    "('Volume', 'RELIANCE.BO')":284423
+  },
+  {
+    "('Date', '')":"2025-07-03",
+    "('Close', 'RELIANCE.BO')":1512.9077148438,
+    "('High', 'RELIANCE.BO')":1525.6069965741,
+    "('Low', 'RELIANCE.BO')":1506.6825767406,
+    "('Open', 'RELIANCE.BO')":1512.7085590583,
+    "('Volume', 'RELIANCE.BO')":168578
+  },
+  {
+    "('Date', '')":"2025-07-04",
+    "('Close', 'RELIANCE.BO')":1521.32421875,
+    "('High', 'RELIANCE.BO')":1523.4158408965,
+    "('Low', 'RELIANCE.BO')":1511.2145698596,
+    "('Open', 'RELIANCE.BO')":1514.9496528301,
+    "('Volume', 'RELIANCE.BO')":487883
+  },
+  {
+    "('Date', '')":"2025-07-07",
+    "('Close', 'RELIANCE.BO')":1535.0692138672,
+    "('High', 'RELIANCE.BO')":1538.3561354353,
+    "('Low', 'RELIANCE.BO')":1519.1827099856,
+    "('Open', 'RELIANCE.BO')":1519.1827099856,
+    "('Volume', 'RELIANCE.BO')":392104
+  },
+  {
+    "('Date', '')":"2025-07-08",
+    "('Close', 'RELIANCE.BO')":1532.6788330078,
+    "('High', 'RELIANCE.BO')":1539.4517102349,
+    "('Low', 'RELIANCE.BO')":1524.1627955473,
+    "('Open', 'RELIANCE.BO')":1528.893900451,
+    "('Volume', 'RELIANCE.BO')":1461338
+  },
+  {
+    "('Date', '')":"2025-07-09",
+    "('Close', 'RELIANCE.BO')":1513.0074462891,
+    "('High', 'RELIANCE.BO')":1544.8303043107,
+    "('Low', 'RELIANCE.BO')":1503.9933974914,
+    "('Open', 'RELIANCE.BO')":1524.9597116996,
+    "('Volume', 'RELIANCE.BO')":548141
+  },
+  {
+    "('Date', '')":"2025-07-10",
+    "('Close', 'RELIANCE.BO')":1511.1646728516,
+    "('High', 'RELIANCE.BO')":1518.78426619,
+    "('Low', 'RELIANCE.BO')":1501.4037292782,
+    "('Open', 'RELIANCE.BO')":1513.0074109938,
+    "('Volume', 'RELIANCE.BO')":458958
+  },
+  {
+    "('Date', '')":"2025-07-11",
+    "('Close', 'RELIANCE.BO')":1488.9035644531,
+    "('High', 'RELIANCE.BO')":1507.9275616403,
+    "('Low', 'RELIANCE.BO')":1484.1724596288,
+    "('Open', 'RELIANCE.BO')":1506.1845230209,
+    "('Volume', 'RELIANCE.BO')":344599
+  },
+  {
+    "('Date', '')":"2025-07-14",
+    "('Close', 'RELIANCE.BO')":1478.6943359375,
+    "('High', 'RELIANCE.BO')":1493.9832503447,
+    "('Low', 'RELIANCE.BO')":1473.4652200872,
+    "('Open', 'RELIANCE.BO')":1488.5051289778,
+    "('Volume', 'RELIANCE.BO')":2020839
+  },
+  {
+    "('Date', '')":"2025-07-15",
+    "('Close', 'RELIANCE.BO')":1478.9932861328,
+    "('High', 'RELIANCE.BO')":1490.0989572066,
+    "('Low', 'RELIANCE.BO')":1476.3039534292,
+    "('Open', 'RELIANCE.BO')":1479.1924419251,
+    "('Volume', 'RELIANCE.BO')":892769
+  },
+  {
+    "('Date', '')":"2025-07-16",
+    "('Close', 'RELIANCE.BO')":1479.83984375,
+    "('High', 'RELIANCE.BO')":1484.969381912,
+    "('Low', 'RELIANCE.BO')":1466.1445397947,
+    "('Open', 'RELIANCE.BO')":1466.1445397947,
+    "('Volume', 'RELIANCE.BO')":130747
+  },
+  {
+    "('Date', '')":"2025-07-17",
+    "('Close', 'RELIANCE.BO')":1471.2242431641,
+    "('High', 'RELIANCE.BO')":1484.4215362005,
+    "('Low', 'RELIANCE.BO')":1468.1365989215,
+    "('Open', 'RELIANCE.BO')":1484.3219583059,
+    "('Volume', 'RELIANCE.BO')":186828
+  },
+  {
+    "('Date', '')":"2025-07-18",
+    "('Close', 'RELIANCE.BO')":1470.9752197266,
+    "('High', 'RELIANCE.BO')":1479.1426739288,
+    "('Low', 'RELIANCE.BO')":1463.1564705284,
+    "('Open', 'RELIANCE.BO')":1476.2043357717,
+    "('Volume', 'RELIANCE.BO')":357136
+  },
+  {
+    "('Date', '')":"2025-07-21",
+    "('Close', 'RELIANCE.BO')":1422.5186767578,
+    "('High', 'RELIANCE.BO')":1469.0827086946,
+    "('Low', 'RELIANCE.BO')":1417.389260347,
+    "('Open', 'RELIANCE.BO')":1469.0827086946,
+    "('Volume', 'RELIANCE.BO')":1557147
+  },
+  {
+    "('Date', '')":"2025-07-22",
+    "('Close', 'RELIANCE.BO')":1407.1800537109,
+    "('High', 'RELIANCE.BO')":1427.4988070261,
+    "('Low', 'RELIANCE.BO')":1404.8393045378,
+    "('Open', 'RELIANCE.BO')":1427.4988070261,
+    "('Volume', 'RELIANCE.BO')":1522399
+  },
+  {
+    "('Date', '')":"2025-07-23",
+    "('Close', 'RELIANCE.BO')":1418.8334960938,
+    "('High', 'RELIANCE.BO')":1421.2239734754,
+    "('Low', 'RELIANCE.BO')":1409.2218584126,
+    "('Open', 'RELIANCE.BO')":1421.2239734754,
+    "('Volume', 'RELIANCE.BO')":462898
+  },
+  {
+    "('Date', '')":"2025-07-24",
+    "('Close', 'RELIANCE.BO')":1397.0704345703,
+    "('High', 'RELIANCE.BO')":1416.3932877889,
+    "('Low', 'RELIANCE.BO')":1390.8950245478,
+    "('Open', 'RELIANCE.BO')":1414.3513938329,
+    "('Volume', 'RELIANCE.BO')":332776
+  },
+  {
+    "('Date', '')":"2025-07-25",
+    "('Close', 'RELIANCE.BO')":1386.5623779297,
+    "('High', 'RELIANCE.BO')":1396.3731715584,
+    "('Low', 'RELIANCE.BO')":1378.9926340855,
+    "('Open', 'RELIANCE.BO')":1396.3731715584,
+    "('Volume', 'RELIANCE.BO')":385434
+  },
+  {
+    "('Date', '')":"2025-07-28",
+    "('Close', 'RELIANCE.BO')":1381.7814941406,
+    "('High', 'RELIANCE.BO')":1401.5026585725,
+    "('Low', 'RELIANCE.BO')":1379.4905946997,
+    "('Open', 'RELIANCE.BO')":1386.562327222,
+    "('Volume', 'RELIANCE.BO')":534884
+  },
+  {
+    "('Date', '')":"2025-07-29",
+    "('Close', 'RELIANCE.BO')":1412.3094482422,
+    "('High', 'RELIANCE.BO')":1415.2975144579,
+    "('Low', 'RELIANCE.BO')":1377.9965364985,
+    "('Open', 'RELIANCE.BO')":1377.9965364985,
+    "('Volume', 'RELIANCE.BO')":1026138
+  },
+  {
+    "('Date', '')":"2025-07-30",
+    "('Close', 'RELIANCE.BO')":1404.2916259766,
+    "('High', 'RELIANCE.BO')":1417.5884971005,
+    "('Low', 'RELIANCE.BO')":1395.7755881277,
+    "('Open', 'RELIANCE.BO')":1412.3095311755,
+    "('Volume', 'RELIANCE.BO')":317685
+  },
+  {
+    "('Date', '')":"2025-07-31",
+    "('Close', 'RELIANCE.BO')":1384.76953125,
+    "('High', 'RELIANCE.BO')":1396.8213739687,
+    "('Low', 'RELIANCE.BO')":1378.5443933184,
+    "('Open', 'RELIANCE.BO')":1384.1220925882,
+    "('Volume', 'RELIANCE.BO')":527880
+  },
+  {
+    "('Date', '')":"2025-08-01",
+    "('Close', 'RELIANCE.BO')":1388.0563964844,
+    "('High', 'RELIANCE.BO')":1399.6600784523,
+    "('Low', 'RELIANCE.BO')":1378.7934637568,
+    "('Open', 'RELIANCE.BO')":1382.4288472123,
+    "('Volume', 'RELIANCE.BO')":421543
+  },
+  {
+    "('Date', '')":"2025-08-04",
+    "('Close', 'RELIANCE.BO')":1405.6860351562,
+    "('High', 'RELIANCE.BO')":1410.3672903817,
+    "('Low', 'RELIANCE.BO')":1386.0145987261,
+    "('Open', 'RELIANCE.BO')":1401.2536638705,
+    "('Volume', 'RELIANCE.BO')":275044
+  },
+  {
+    "('Date', '')":"2025-08-05",
+    "('Close', 'RELIANCE.BO')":1386.0643310547,
+    "('High', 'RELIANCE.BO')":1405.3871841257,
+    "('Low', 'RELIANCE.BO')":1382.5782537021,
+    "('Open', 'RELIANCE.BO')":1405.3871841257,
+    "('Volume', 'RELIANCE.BO')":854494
+  },
+  {
+    "('Date', '')":"2025-08-06",
+    "('Close', 'RELIANCE.BO')":1387.4089355469,
+    "('High', 'RELIANCE.BO')":1390.3970018468,
+    "('Low', 'RELIANCE.BO')":1377.8471477039,
+    "('Open', 'RELIANCE.BO')":1386.3631852927,
+    "('Volume', 'RELIANCE.BO')":134523
+  },
+  {
+    "('Date', '')":"2025-08-07",
+    "('Close', 'RELIANCE.BO')":1385.3172607422,
+    "('High', 'RELIANCE.BO')":1388.3551766655,
+    "('Low', 'RELIANCE.BO')":1360.8151423317,
+    "('Open', 'RELIANCE.BO')":1379.5901338852,
+    "('Volume', 'RELIANCE.BO')":642904
+  },
+  {
+    "('Date', '')":"2025-08-08",
+    "('Close', 'RELIANCE.BO')":1362.5084228516,
+    "('High', 'RELIANCE.BO')":1391.1939088032,
+    "('Low', 'RELIANCE.BO')":1360.0682172692,
+    "('Open', 'RELIANCE.BO')":1382.4288654333,
+    "('Volume', 'RELIANCE.BO')":938688
+  },
+  {
+    "('Date', '')":"2025-08-11",
+    "('Close', 'RELIANCE.BO')":1381.2834472656,
+    "('High', 'RELIANCE.BO')":1382.6777808877,
+    "('Low', 'RELIANCE.BO')":1355.7851851543,
+    "('Open', 'RELIANCE.BO')":1364.5502279532,
+    "('Volume', 'RELIANCE.BO')":901134
+  },
+  {
+    "('Date', '')":"2025-08-12",
+    "('Close', 'RELIANCE.BO')":1374.9089355469,
+    "('High', 'RELIANCE.BO')":1395.6759720812,
+    "('Low', 'RELIANCE.BO')":1369.6299697661,
+    "('Open', 'RELIANCE.BO')":1379.1420294854,
+    "('Volume', 'RELIANCE.BO')":635905
+  },
+  {
+    "('Date', '')":"2025-08-13",
+    "('Close', 'RELIANCE.BO')":1377.1500244141,
+    "('High', 'RELIANCE.BO')":1386.1639517532,
+    "('Low', 'RELIANCE.BO')":1372.2196419124,
+    "('Open', 'RELIANCE.BO')":1384.2716069711,
+    "('Volume', 'RELIANCE.BO')":369167
+  },
+  {
+    "('Date', '')":"2025-08-14",
+    "('Close', 'RELIANCE.BO')":1373.75,
+    "('High', 'RELIANCE.BO')":1380.75,
+    "('Low', 'RELIANCE.BO')":1369.9499511719,
+    "('Open', 'RELIANCE.BO')":1379.8000488281,
+    "('Volume', 'RELIANCE.BO')":447771
+  },
+  {
+    "('Date', '')":"2025-08-18",
+    "('Close', 'RELIANCE.BO')":1380.9499511719,
+    "('High', 'RELIANCE.BO')":1395.0,
+    "('Low', 'RELIANCE.BO')":1377.1500244141,
+    "('Open', 'RELIANCE.BO')":1388.3000488281,
+    "('Volume', 'RELIANCE.BO')":422415
+  },
+  {
+    "('Date', '')":"2025-08-19",
+    "('Close', 'RELIANCE.BO')":1419.9499511719,
+    "('High', 'RELIANCE.BO')":1421.8000488281,
+    "('Low', 'RELIANCE.BO')":1389.6999511719,
+    "('Open', 'RELIANCE.BO')":1389.6999511719,
+    "('Volume', 'RELIANCE.BO')":1318445
+  },
+  {
+    "('Date', '')":"2025-08-20",
+    "('Close', 'RELIANCE.BO')":1412.4499511719,
+    "('High', 'RELIANCE.BO')":1424.5999755859,
+    "('Low', 'RELIANCE.BO')":1410.1999511719,
+    "('Open', 'RELIANCE.BO')":1414.9499511719,
+    "('Volume', 'RELIANCE.BO')":429887
+  },
+  {
+    "('Date', '')":"2025-08-21",
+    "('Close', 'RELIANCE.BO')":1424.6500244141,
+    "('High', 'RELIANCE.BO')":1431.8000488281,
+    "('Low', 'RELIANCE.BO')":1421.0,
+    "('Open', 'RELIANCE.BO')":1424.0,
+    "('Volume', 'RELIANCE.BO')":1253962
+  },
+  {
+    "('Date', '')":"2025-08-22",
+    "('Close', 'RELIANCE.BO')":1409.3000488281,
+    "('High', 'RELIANCE.BO')":1423.5999755859,
+    "('Low', 'RELIANCE.BO')":1408.0,
+    "('Open', 'RELIANCE.BO')":1423.5999755859,
+    "('Volume', 'RELIANCE.BO')":334227
+  },
+  {
+    "('Date', '')":"2025-08-25",
+    "('Close', 'RELIANCE.BO')":1412.9000244141,
+    "('High', 'RELIANCE.BO')":1419.0,
+    "('Low', 'RELIANCE.BO')":1405.5500488281,
+    "('Open', 'RELIANCE.BO')":1413.0500488281,
+    "('Volume', 'RELIANCE.BO')":767068
+  },
+  {
+    "('Date', '')":"2025-08-26",
+    "('Close', 'RELIANCE.BO')":1385.3000488281,
+    "('High', 'RELIANCE.BO')":1409.9499511719,
+    "('Low', 'RELIANCE.BO')":1381.4000244141,
+    "('Open', 'RELIANCE.BO')":1409.9499511719,
+    "('Volume', 'RELIANCE.BO')":1696762
+  },
+  {
+    "('Date', '')":"2025-08-28",
+    "('Close', 'RELIANCE.BO')":1387.6500244141,
+    "('High', 'RELIANCE.BO')":1392.8000488281,
+    "('Low', 'RELIANCE.BO')":1367.0,
+    "('Open', 'RELIANCE.BO')":1387.0500488281,
+    "('Volume', 'RELIANCE.BO')":422516
+  },
+  {
+    "('Date', '')":"2025-08-29",
+    "('Close', 'RELIANCE.BO')":1357.0500488281,
+    "('High', 'RELIANCE.BO')":1403.0,
+    "('Low', 'RELIANCE.BO')":1350.3000488281,
+    "('Open', 'RELIANCE.BO')":1384.1999511719,
+    "('Volume', 'RELIANCE.BO')":870452
+  },
+  {
+    "('Date', '')":"2025-09-01",
+    "('Close', 'RELIANCE.BO')":1353.8499755859,
+    "('High', 'RELIANCE.BO')":1363.1999511719,
+    "('Low', 'RELIANCE.BO')":1341.6999511719,
+    "('Open', 'RELIANCE.BO')":1357.8499755859,
+    "('Volume', 'RELIANCE.BO')":314139
+  },
+  {
+    "('Date', '')":"2025-09-02",
+    "('Close', 'RELIANCE.BO')":1366.3000488281,
+    "('High', 'RELIANCE.BO')":1384.6500244141,
+    "('Low', 'RELIANCE.BO')":1355.0,
+    "('Open', 'RELIANCE.BO')":1357.75,
+    "('Volume', 'RELIANCE.BO')":466421
+  },
+  {
+    "('Date', '')":"2025-09-03",
+    "('Close', 'RELIANCE.BO')":1371.5500488281,
+    "('High', 'RELIANCE.BO')":1376.4499511719,
+    "('Low', 'RELIANCE.BO')":1361.1500244141,
+    "('Open', 'RELIANCE.BO')":1369.9000244141,
+    "('Volume', 'RELIANCE.BO')":308664
+  },
+  {
+    "('Date', '')":"2025-09-04",
+    "('Close', 'RELIANCE.BO')":1359.1999511719,
+    "('High', 'RELIANCE.BO')":1374.4499511719,
+    "('Low', 'RELIANCE.BO')":1356.5999755859,
+    "('Open', 'RELIANCE.BO')":1370.0,
+    "('Volume', 'RELIANCE.BO')":838446
+  },
+  {
+    "('Date', '')":"2025-09-05",
+    "('Close', 'RELIANCE.BO')":1374.3000488281,
+    "('High', 'RELIANCE.BO')":1380.8000488281,
+    "('Low', 'RELIANCE.BO')":1359.3499755859,
+    "('Open', 'RELIANCE.BO')":1365.9000244141,
+    "('Volume', 'RELIANCE.BO')":371445
+  },
+  {
+    "('Date', '')":"2025-09-08",
+    "('Close', 'RELIANCE.BO')":1378.8499755859,
+    "('High', 'RELIANCE.BO')":1385.9000244141,
+    "('Low', 'RELIANCE.BO')":1372.4499511719,
+    "('Open', 'RELIANCE.BO')":1384.0,
+    "('Volume', 'RELIANCE.BO')":249868
+  },
+  {
+    "('Date', '')":"2025-09-09",
+    "('Close', 'RELIANCE.BO')":1376.3499755859,
+    "('High', 'RELIANCE.BO')":1381.3000488281,
+    "('Low', 'RELIANCE.BO')":1369.0,
+    "('Open', 'RELIANCE.BO')":1378.8499755859,
+    "('Volume', 'RELIANCE.BO')":271853
+  },
+  {
+    "('Date', '')":"2025-09-10",
+    "('Close', 'RELIANCE.BO')":1376.8000488281,
+    "('High', 'RELIANCE.BO')":1388.6500244141,
+    "('Low', 'RELIANCE.BO')":1373.6999511719,
+    "('Open', 'RELIANCE.BO')":1382.1999511719,
+    "('Volume', 'RELIANCE.BO')":429951
+  },
+  {
+    "('Date', '')":"2025-09-11",
+    "('Close', 'RELIANCE.BO')":1383.5,
+    "('High', 'RELIANCE.BO')":1385.4499511719,
+    "('Low', 'RELIANCE.BO')":1374.5999755859,
+    "('Open', 'RELIANCE.BO')":1376.6500244141,
+    "('Volume', 'RELIANCE.BO')":897550
+  },
+  {
+    "('Date', '')":"2025-09-12",
+    "('Close', 'RELIANCE.BO')":1394.8000488281,
+    "('High', 'RELIANCE.BO')":1396.0999755859,
+    "('Low', 'RELIANCE.BO')":1380.8000488281,
+    "('Open', 'RELIANCE.BO')":1383.5,
+    "('Volume', 'RELIANCE.BO')":505338
+  },
+  {
+    "('Date', '')":"2025-09-15",
+    "('Close', 'RELIANCE.BO')":1399.3000488281,
+    "('High', 'RELIANCE.BO')":1400.9499511719,
+    "('Low', 'RELIANCE.BO')":1388.3499755859,
+    "('Open', 'RELIANCE.BO')":1395.0,
+    "('Volume', 'RELIANCE.BO')":304016
+  },
+  {
+    "('Date', '')":"2025-09-16",
+    "('Close', 'RELIANCE.BO')":1405.1500244141,
+    "('High', 'RELIANCE.BO')":1407.6999511719,
+    "('Low', 'RELIANCE.BO')":1398.0,
+    "('Open', 'RELIANCE.BO')":1402.0500488281,
+    "('Volume', 'RELIANCE.BO')":845958
+  },
+  {
+    "('Date', '')":"2025-09-17",
+    "('Close', 'RELIANCE.BO')":1413.6500244141,
+    "('High', 'RELIANCE.BO')":1415.9000244141,
+    "('Low', 'RELIANCE.BO')":1407.0,
+    "('Open', 'RELIANCE.BO')":1409.9499511719,
+    "('Volume', 'RELIANCE.BO')":602241
+  },
+  {
+    "('Date', '')":"2025-09-18",
+    "('Close', 'RELIANCE.BO')":1414.5500488281,
+    "('High', 'RELIANCE.BO')":1421.8000488281,
+    "('Low', 'RELIANCE.BO')":1410.6999511719,
+    "('Open', 'RELIANCE.BO')":1420.0,
+    "('Volume', 'RELIANCE.BO')":697229
+  },
+  {
+    "('Date', '')":"2025-09-19",
+    "('Close', 'RELIANCE.BO')":1407.6500244141,
+    "('High', 'RELIANCE.BO')":1416.0,
+    "('Low', 'RELIANCE.BO')":1403.5500488281,
+    "('Open', 'RELIANCE.BO')":1415.0,
+    "('Volume', 'RELIANCE.BO')":299536
+  },
+  {
+    "('Date', '')":"2025-09-22",
+    "('Close', 'RELIANCE.BO')":1390.4000244141,
+    "('High', 'RELIANCE.BO')":1410.4499511719,
+    "('Low', 'RELIANCE.BO')":1388.0,
+    "('Open', 'RELIANCE.BO')":1402.6999511719,
+    "('Volume', 'RELIANCE.BO')":705990
+  },
+  {
+    "('Date', '')":"2025-09-23",
+    "('Close', 'RELIANCE.BO')":1390.3499755859,
+    "('High', 'RELIANCE.BO')":1394.9000244141,
+    "('Low', 'RELIANCE.BO')":1377.0,
+    "('Open', 'RELIANCE.BO')":1390.0,
+    "('Volume', 'RELIANCE.BO')":494335
+  },
+  {
+    "('Date', '')":"2025-09-24",
+    "('Close', 'RELIANCE.BO')":1383.75,
+    "('High', 'RELIANCE.BO')":1396.0,
+    "('Low', 'RELIANCE.BO')":1380.1999511719,
+    "('Open', 'RELIANCE.BO')":1389.0,
+    "('Volume', 'RELIANCE.BO')":604734
+  },
+  {
+    "('Date', '')":"2025-09-25",
+    "('Close', 'RELIANCE.BO')":1372.4499511719,
+    "('High', 'RELIANCE.BO')":1384.8499755859,
+    "('Low', 'RELIANCE.BO')":1369.0,
+    "('Open', 'RELIANCE.BO')":1381.0,
+    "('Volume', 'RELIANCE.BO')":997953
+  },
+  {
+    "('Date', '')":"2025-09-26",
+    "('Close', 'RELIANCE.BO')":1377.75,
+    "('High', 'RELIANCE.BO')":1382.4000244141,
+    "('Low', 'RELIANCE.BO')":1365.5500488281,
+    "('Open', 'RELIANCE.BO')":1372.4000244141,
+    "('Volume', 'RELIANCE.BO')":792106
+  },
+  {
+    "('Date', '')":"2025-09-29",
+    "('Close', 'RELIANCE.BO')":1374.0,
+    "('High', 'RELIANCE.BO')":1388.4000244141,
+    "('Low', 'RELIANCE.BO')":1368.25,
+    "('Open', 'RELIANCE.BO')":1380.0999755859,
+    "('Volume', 'RELIANCE.BO')":477774
+  },
+  {
+    "('Date', '')":"2025-09-30",
+    "('Close', 'RELIANCE.BO')":1363.8000488281,
+    "('High', 'RELIANCE.BO')":1376.0500488281,
+    "('Low', 'RELIANCE.BO')":1362.9000244141,
+    "('Open', 'RELIANCE.BO')":1374.6500244141,
+    "('Volume', 'RELIANCE.BO')":1226892
+  },
+  {
+    "('Date', '')":"2025-10-01",
+    "('Close', 'RELIANCE.BO')":1368.8000488281,
+    "('High', 'RELIANCE.BO')":1378.1999511719,
+    "('Low', 'RELIANCE.BO')":1363.0500488281,
+    "('Open', 'RELIANCE.BO')":1364.25,
+    "('Volume', 'RELIANCE.BO')":1254860
+  },
+  {
+    "('Date', '')":"2025-10-03",
+    "('Close', 'RELIANCE.BO')":1363.4499511719,
+    "('High', 'RELIANCE.BO')":1371.0,
+    "('Low', 'RELIANCE.BO')":1357.1999511719,
+    "('Open', 'RELIANCE.BO')":1363.0,
+    "('Volume', 'RELIANCE.BO')":869282
+  },
+  {
+    "('Date', '')":"2025-10-06",
+    "('Close', 'RELIANCE.BO')":1375.0999755859,
+    "('High', 'RELIANCE.BO')":1377.1999511719,
+    "('Low', 'RELIANCE.BO')":1358.5999755859,
+    "('Open', 'RELIANCE.BO')":1362.1999511719,
+    "('Volume', 'RELIANCE.BO')":674892
+  },
+  {
+    "('Date', '')":"2025-10-07",
+    "('Close', 'RELIANCE.BO')":1384.9499511719,
+    "('High', 'RELIANCE.BO')":1395.75,
+    "('Low', 'RELIANCE.BO')":1375.9499511719,
+    "('Open', 'RELIANCE.BO')":1376.0999755859,
+    "('Volume', 'RELIANCE.BO')":865638
+  },
+  {
+    "('Date', '')":"2025-10-08",
+    "('Close', 'RELIANCE.BO')":1367.3499755859,
+    "('High', 'RELIANCE.BO')":1389.6999511719,
+    "('Low', 'RELIANCE.BO')":1364.9000244141,
+    "('Open', 'RELIANCE.BO')":1384.1999511719,
+    "('Volume', 'RELIANCE.BO')":596052
+  },
+  {
+    "('Date', '')":"2025-10-09",
+    "('Close', 'RELIANCE.BO')":1377.9499511719,
+    "('High', 'RELIANCE.BO')":1380.1500244141,
+    "('Low', 'RELIANCE.BO')":1369.5,
+    "('Open', 'RELIANCE.BO')":1371.1999511719,
+    "('Volume', 'RELIANCE.BO')":970820
+  },
+  {
+    "('Date', '')":"2025-10-10",
+    "('Close', 'RELIANCE.BO')":1381.9499511719,
+    "('High', 'RELIANCE.BO')":1387.75,
+    "('Low', 'RELIANCE.BO')":1375.5500488281,
+    "('Open', 'RELIANCE.BO')":1377.9499511719,
+    "('Volume', 'RELIANCE.BO')":498516
+  },
+  {
+    "('Date', '')":"2025-10-13",
+    "('Close', 'RELIANCE.BO')":1375.0999755859,
+    "('High', 'RELIANCE.BO')":1377.6500244141,
+    "('Low', 'RELIANCE.BO')":1367.8499755859,
+    "('Open', 'RELIANCE.BO')":1376.0,
+    "('Volume', 'RELIANCE.BO')":574423
+  },
+  {
+    "('Date', '')":"2025-10-14",
+    "('Close', 'RELIANCE.BO')":1375.6500244141,
+    "('High', 'RELIANCE.BO')":1387.9499511719,
+    "('Low', 'RELIANCE.BO')":1370.4000244141,
+    "('Open', 'RELIANCE.BO')":1377.25,
+    "('Volume', 'RELIANCE.BO')":548000
+  },
+  {
+    "('Date', '')":"2025-10-15",
+    "('Close', 'RELIANCE.BO')":1374.75,
+    "('High', 'RELIANCE.BO')":1383.5999755859,
+    "('Low', 'RELIANCE.BO')":1372.6999511719,
+    "('Open', 'RELIANCE.BO')":1380.1500244141,
+    "('Volume', 'RELIANCE.BO')":631457
+  },
+  {
+    "('Date', '')":"2025-10-16",
+    "('Close', 'RELIANCE.BO')":1398.0500488281,
+    "('High', 'RELIANCE.BO')":1400.4499511719,
+    "('Low', 'RELIANCE.BO')":1374.8000488281,
+    "('Open', 'RELIANCE.BO')":1374.8000488281,
+    "('Volume', 'RELIANCE.BO')":1163237
+  },
+  {
+    "('Date', '')":"2025-10-17",
+    "('Close', 'RELIANCE.BO')":1416.9499511719,
+    "('High', 'RELIANCE.BO')":1423.4499511719,
+    "('Low', 'RELIANCE.BO')":1399.5,
+    "('Open', 'RELIANCE.BO')":1400.0,
+    "('Volume', 'RELIANCE.BO')":970166
+  },
+  {
+    "('Date', '')":"2025-10-20",
+    "('Close', 'RELIANCE.BO')":1466.8000488281,
+    "('High', 'RELIANCE.BO')":1473.5500488281,
+    "('Low', 'RELIANCE.BO')":1435.0,
+    "('Open', 'RELIANCE.BO')":1440.0,
+    "('Volume', 'RELIANCE.BO')":1742719
+  },
+  {
+    "('Date', '')":"2025-10-21",
+    "('Close', 'RELIANCE.BO')":1465.1500244141,
+    "('High', 'RELIANCE.BO')":1473.9499511719,
+    "('Low', 'RELIANCE.BO')":1460.1999511719,
+    "('Open', 'RELIANCE.BO')":1466.0500488281,
+    "('Volume', 'RELIANCE.BO')":303848
+  },
+  {
+    "('Date', '')":"2025-10-23",
+    "('Close', 'RELIANCE.BO')":1448.0500488281,
+    "('High', 'RELIANCE.BO')":1482.5,
+    "('Low', 'RELIANCE.BO')":1444.8000488281,
+    "('Open', 'RELIANCE.BO')":1475.0,
+    "('Volume', 'RELIANCE.BO')":1083554
+  },
+  {
+    "('Date', '')":"2025-10-24",
+    "('Close', 'RELIANCE.BO')":1451.4499511719,
+    "('High', 'RELIANCE.BO')":1459.9499511719,
+    "('Low', 'RELIANCE.BO')":1441.0999755859,
+    "('Open', 'RELIANCE.BO')":1450.0,
+    "('Volume', 'RELIANCE.BO')":331591
+  },
+  {
+    "('Date', '')":"2025-10-27",
+    "('Close', 'RELIANCE.BO')":1484.0,
+    "('High', 'RELIANCE.BO')":1484.9499511719,
+    "('Low', 'RELIANCE.BO')":1458.6999511719,
+    "('Open', 'RELIANCE.BO')":1461.25,
+    "('Volume', 'RELIANCE.BO')":393023
+  },
+  {
+    "('Date', '')":"2025-10-28",
+    "('Close', 'RELIANCE.BO')":1487.1500244141,
+    "('High', 'RELIANCE.BO')":1492.0999755859,
+    "('Low', 'RELIANCE.BO')":1478.0,
+    "('Open', 'RELIANCE.BO')":1480.1500244141,
+    "('Volume', 'RELIANCE.BO')":1341632
+  },
+  {
+    "('Date', '')":"2025-10-29",
+    "('Close', 'RELIANCE.BO')":1504.0500488281,
+    "('High', 'RELIANCE.BO')":1508.0,
+    "('Low', 'RELIANCE.BO')":1488.6999511719,
+    "('Open', 'RELIANCE.BO')":1489.0,
+    "('Volume', 'RELIANCE.BO')":750041
+  },
+  {
+    "('Date', '')":"2025-10-30",
+    "('Close', 'RELIANCE.BO')":1488.4499511719,
+    "('High', 'RELIANCE.BO')":1503.25,
+    "('Low', 'RELIANCE.BO')":1484.0,
+    "('Open', 'RELIANCE.BO')":1500.0,
+    "('Volume', 'RELIANCE.BO')":772640
+  },
+  {
+    "('Date', '')":"2025-10-31",
+    "('Close', 'RELIANCE.BO')":1486.5,
+    "('High', 'RELIANCE.BO')":1497.8000488281,
+    "('Low', 'RELIANCE.BO')":1482.0,
+    "('Open', 'RELIANCE.BO')":1491.0,
+    "('Volume', 'RELIANCE.BO')":268477
+  },
+  {
+    "('Date', '')":"2025-11-03",
+    "('Close', 'RELIANCE.BO')":1484.3499755859,
+    "('High', 'RELIANCE.BO')":1495.0,
+    "('Low', 'RELIANCE.BO')":1479.1500244141,
+    "('Open', 'RELIANCE.BO')":1486.0,
+    "('Volume', 'RELIANCE.BO')":548207
+  },
+  {
+    "('Date', '')":"2025-11-04",
+    "('Close', 'RELIANCE.BO')":1471.8499755859,
+    "('High', 'RELIANCE.BO')":1492.6999511719,
+    "('Low', 'RELIANCE.BO')":1470.3000488281,
+    "('Open', 'RELIANCE.BO')":1484.3000488281,
+    "('Volume', 'RELIANCE.BO')":265941
+  },
+  {
+    "('Date', '')":"2025-11-06",
+    "('Close', 'RELIANCE.BO')":1495.75,
+    "('High', 'RELIANCE.BO')":1501.9499511719,
+    "('Low', 'RELIANCE.BO')":1477.5500488281,
+    "('Open', 'RELIANCE.BO')":1483.0999755859,
+    "('Volume', 'RELIANCE.BO')":1178418
+  },
+  {
+    "('Date', '')":"2025-11-07",
+    "('Close', 'RELIANCE.BO')":1478.25,
+    "('High', 'RELIANCE.BO')":1498.5,
+    "('Low', 'RELIANCE.BO')":1476.25,
+    "('Open', 'RELIANCE.BO')":1497.6500244141,
+    "('Volume', 'RELIANCE.BO')":378528
+  },
+  {
+    "('Date', '')":"2025-11-10",
+    "('Close', 'RELIANCE.BO')":1489.25,
+    "('High', 'RELIANCE.BO')":1500.0,
+    "('Low', 'RELIANCE.BO')":1473.1500244141,
+    "('Open', 'RELIANCE.BO')":1473.1500244141,
+    "('Volume', 'RELIANCE.BO')":408088
+  },
+  {
+    "('Date', '')":"2025-11-11",
+    "('Close', 'RELIANCE.BO')":1493.9000244141,
+    "('High', 'RELIANCE.BO')":1498.6999511719,
+    "('Low', 'RELIANCE.BO')":1480.25,
+    "('Open', 'RELIANCE.BO')":1496.0,
+    "('Volume', 'RELIANCE.BO')":214867
+  },
+  {
+    "('Date', '')":"2025-11-12",
+    "('Close', 'RELIANCE.BO')":1511.75,
+    "('High', 'RELIANCE.BO')":1524.0,
+    "('Low', 'RELIANCE.BO')":1500.0,
+    "('Open', 'RELIANCE.BO')":1500.0,
+    "('Volume', 'RELIANCE.BO')":854483
+  },
+  {
+    "('Date', '')":"2025-11-13",
+    "('Close', 'RELIANCE.BO')":1510.5999755859,
+    "('High', 'RELIANCE.BO')":1522.0,
+    "('Low', 'RELIANCE.BO')":1505.5999755859,
+    "('Open', 'RELIANCE.BO')":1512.5,
+    "('Volume', 'RELIANCE.BO')":1136211
+  }
+]

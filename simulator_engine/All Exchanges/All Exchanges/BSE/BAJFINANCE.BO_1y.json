@@ -1,0 +1,1986 @@
+[
+  {
+    "('Date', '')":"2024-11-13",
+    "('Close', 'BAJFINANCE.BO')":616.5897216797,
+    "('High', 'BAJFINANCE.BO')":629.288212613,
+    "('Low', 'BAJFINANCE.BO')":612.9548824109,
+    "('Open', 'BAJFINANCE.BO')":624.1130123191,
+    "('Volume', 'BAJFINANCE.BO')":707540
+  },
+  {
+    "('Date', '')":"2024-11-14",
+    "('Close', 'BAJFINANCE.BO')":615.4720458984,
+    "('High', 'BAJFINANCE.BO')":623.882921807,
+    "('Low', 'BAJFINANCE.BO')":613.5090744165,
+    "('Open', 'BAJFINANCE.BO')":617.078160378,
+    "('Volume', 'BAJFINANCE.BO')":174970
+  },
+  {
+    "('Date', '')":"2024-11-18",
+    "('Close', 'BAJFINANCE.BO')":616.7635498047,
+    "('High', 'BAJFINANCE.BO')":624.5921045648,
+    "('Low', 'BAJFINANCE.BO')":615.5754595197,
+    "('Open', 'BAJFINANCE.BO')":619.0130389618,
+    "('Volume', 'BAJFINANCE.BO')":250880
+  },
+  {
+    "('Date', '')":"2024-11-19",
+    "('Close', 'BAJFINANCE.BO')":620.0649414062,
+    "('High', 'BAJFINANCE.BO')":623.6903793435,
+    "('Low', 'BAJFINANCE.BO')":616.4301019349,
+    "('Open', 'BAJFINANCE.BO')":621.7696573852,
+    "('Volume', 'BAJFINANCE.BO')":526190
+  },
+  {
+    "('Date', '')":"2024-11-21",
+    "('Close', 'BAJFINANCE.BO')":607.1645507812,
+    "('High', 'BAJFINANCE.BO')":620.3702094296,
+    "('Low', 'BAJFINANCE.BO')":606.0985085245,
+    "('Open', 'BAJFINANCE.BO')":620.3655086625,
+    "('Volume', 'BAJFINANCE.BO')":406040
+  },
+  {
+    "('Date', '')":"2024-11-22",
+    "('Close', 'BAJFINANCE.BO')":627.9216308594,
+    "('High', 'BAJFINANCE.BO')":631.1667078866,
+    "('Low', 'BAJFINANCE.BO')":606.3521042619,
+    "('Open', 'BAJFINANCE.BO')":607.6858035753,
+    "('Volume', 'BAJFINANCE.BO')":330770
+  },
+  {
+    "('Date', '')":"2024-11-25",
+    "('Close', 'BAJFINANCE.BO')":628.020324707,
+    "('High', 'BAJFINANCE.BO')":644.3066487439,
+    "('Low', 'BAJFINANCE.BO')":626.4705620054,
+    "('Open', 'BAJFINANCE.BO')":633.7590442828,
+    "('Volume', 'BAJFINANCE.BO')":332300
+  },
+  {
+    "('Date', '')":"2024-11-26",
+    "('Close', 'BAJFINANCE.BO')":621.6898193359,
+    "('High', 'BAJFINANCE.BO')":634.7968767991,
+    "('Low', 'BAJFINANCE.BO')":620.8398403691,
+    "('Open', 'BAJFINANCE.BO')":634.7968767991,
+    "('Volume', 'BAJFINANCE.BO')":298140
+  },
+  {
+    "('Date', '')":"2024-11-27",
+    "('Close', 'BAJFINANCE.BO')":629.6780395508,
+    "('High', 'BAJFINANCE.BO')":632.2938445668,
+    "('Low', 'BAJFINANCE.BO')":621.469124033,
+    "('Open', 'BAJFINANCE.BO')":622.9625348696,
+    "('Volume', 'BAJFINANCE.BO')":275530
+  },
+  {
+    "('Date', '')":"2024-11-28",
+    "('Close', 'BAJFINANCE.BO')":611.8137817383,
+    "('High', 'BAJFINANCE.BO')":631.4719884896,
+    "('Low', 'BAJFINANCE.BO')":610.221769503,
+    "('Open', 'BAJFINANCE.BO')":630.2274890616,
+    "('Volume', 'BAJFINANCE.BO')":384580
+  },
+  {
+    "('Date', '')":"2024-11-29",
+    "('Close', 'BAJFINANCE.BO')":617.7779541016,
+    "('High', 'BAJFINANCE.BO')":620.7318705069,
+    "('Low', 'BAJFINANCE.BO')":611.8138267343,
+    "('Open', 'BAJFINANCE.BO')":613.4151832951,
+    "('Volume', 'BAJFINANCE.BO')":349110
+  },
+  {
+    "('Date', '')":"2024-12-02",
+    "('Close', 'BAJFINANCE.BO')":624.6953735352,
+    "('High', 'BAJFINANCE.BO')":625.9070249188,
+    "('Low', 'BAJFINANCE.BO')":609.8460515463,
+    "('Open', 'BAJFINANCE.BO')":617.8342599919,
+    "('Volume', 'BAJFINANCE.BO')":490090
+  },
+  {
+    "('Date', '')":"2024-12-03",
+    "('Close', 'BAJFINANCE.BO')":626.7100830078,
+    "('High', 'BAJFINANCE.BO')":631.1667543883,
+    "('Low', 'BAJFINANCE.BO')":622.7371320501,
+    "('Open', 'BAJFINANCE.BO')":628.4523478916,
+    "('Volume', 'BAJFINANCE.BO')":401080
+  },
+  {
+    "('Date', '')":"2024-12-04",
+    "('Close', 'BAJFINANCE.BO')":632.2985839844,
+    "('High', 'BAJFINANCE.BO')":634.9941875562,
+    "('Low', 'BAJFINANCE.BO')":626.2827480176,
+    "('Open', 'BAJFINANCE.BO')":627.4145438009,
+    "('Volume', 'BAJFINANCE.BO')":215420
+  },
+  {
+    "('Date', '')":"2024-12-05",
+    "('Close', 'BAJFINANCE.BO')":642.9212646484,
+    "('High', 'BAJFINANCE.BO')":646.8660680522,
+    "('Low', 'BAJFINANCE.BO')":628.1846467568,
+    "('Open', 'BAJFINANCE.BO')":636.3278083497,
+    "('Volume', 'BAJFINANCE.BO')":236360
+  },
+  {
+    "('Date', '')":"2024-12-06",
+    "('Close', 'BAJFINANCE.BO')":644.1704101562,
+    "('High', 'BAJFINANCE.BO')":651.3649913956,
+    "('Low', 'BAJFINANCE.BO')":636.6377749769,
+    "('Open', 'BAJFINANCE.BO')":644.8138419727,
+    "('Volume', 'BAJFINANCE.BO')":222810
+  },
+  {
+    "('Date', '')":"2024-12-09",
+    "('Close', 'BAJFINANCE.BO')":645.2083129883,
+    "('High', 'BAJFINANCE.BO')":650.0735495794,
+    "('Low', 'BAJFINANCE.BO')":641.413762087,
+    "('Open', 'BAJFINANCE.BO')":643.2311818239,
+    "('Volume', 'BAJFINANCE.BO')":285390
+  },
+  {
+    "('Date', '')":"2024-12-10",
+    "('Close', 'BAJFINANCE.BO')":651.3508911133,
+    "('High', 'BAJFINANCE.BO')":653.5674747459,
+    "('Low', 'BAJFINANCE.BO')":642.9071670038,
+    "('Open', 'BAJFINANCE.BO')":645.7295763186,
+    "('Volume', 'BAJFINANCE.BO')":314290
+  },
+  {
+    "('Date', '')":"2024-12-11",
+    "('Close', 'BAJFINANCE.BO')":668.3369750977,
+    "('High', 'BAJFINANCE.BO')":672.9627016725,
+    "('Low', 'BAJFINANCE.BO')":647.5094249306,
+    "('Open', 'BAJFINANCE.BO')":655.3942734302,
+    "('Volume', 'BAJFINANCE.BO')":415200
+  },
+  {
+    "('Date', '')":"2024-12-12",
+    "('Close', 'BAJFINANCE.BO')":669.0225830078,
+    "('High', 'BAJFINANCE.BO')":671.2720718779,
+    "('Low', 'BAJFINANCE.BO')":664.5142610605,
+    "('Open', 'BAJFINANCE.BO')":666.9562520618,
+    "('Volume', 'BAJFINANCE.BO')":362650
+  },
+  {
+    "('Date', '')":"2024-12-13",
+    "('Close', 'BAJFINANCE.BO')":674.9633178711,
+    "('High', 'BAJFINANCE.BO')":677.7199738368,
+    "('Low', 'BAJFINANCE.BO')":655.5868703963,
+    "('Open', 'BAJFINANCE.BO')":668.7314764853,
+    "('Volume', 'BAJFINANCE.BO')":301120
+  },
+  {
+    "('Date', '')":"2024-12-16",
+    "('Close', 'BAJFINANCE.BO')":676.9920654297,
+    "('High', 'BAJFINANCE.BO')":680.4766525003,
+    "('Low', 'BAJFINANCE.BO')":672.2442331392,
+    "('Open', 'BAJFINANCE.BO')":674.1837582583,
+    "('Volume', 'BAJFINANCE.BO')":328010
+  },
+  {
+    "('Date', '')":"2024-12-17",
+    "('Close', 'BAJFINANCE.BO')":671.3754272461,
+    "('High', 'BAJFINANCE.BO')":681.5520721321,
+    "('Low', 'BAJFINANCE.BO')":667.9331472033,
+    "('Open', 'BAJFINANCE.BO')":676.7243842956,
+    "('Volume', 'BAJFINANCE.BO')":170420
+  },
+  {
+    "('Date', '')":"2024-12-18",
+    "('Close', 'BAJFINANCE.BO')":664.3217773438,
+    "('High', 'BAJFINANCE.BO')":674.2683142929,
+    "('Low', 'BAJFINANCE.BO')":663.3402915299,
+    "('Open', 'BAJFINANCE.BO')":669.2105179968,
+    "('Volume', 'BAJFINANCE.BO')":80260
+  },
+  {
+    "('Date', '')":"2024-12-19",
+    "('Close', 'BAJFINANCE.BO')":649.5241088867,
+    "('High', 'BAJFINANCE.BO')":659.5739481099,
+    "('Low', 'BAJFINANCE.BO')":647.1478710117,
+    "('Open', 'BAJFINANCE.BO')":656.0800168173,
+    "('Volume', 'BAJFINANCE.BO')":167470
+  },
+  {
+    "('Date', '')":"2024-12-20",
+    "('Close', 'BAJFINANCE.BO')":642.1182250977,
+    "('High', 'BAJFINANCE.BO')":659.5504474864,
+    "('Low', 'BAJFINANCE.BO')":640.2163061002,
+    "('Open', 'BAJFINANCE.BO')":650.8625122328,
+    "('Volume', 'BAJFINANCE.BO')":192380
+  },
+  {
+    "('Date', '')":"2024-12-23",
+    "('Close', 'BAJFINANCE.BO')":644.9030151367,
+    "('High', 'BAJFINANCE.BO')":655.2956653271,
+    "('Low', 'BAJFINANCE.BO')":643.5693158683,
+    "('Open', 'BAJFINANCE.BO')":648.0729371117,
+    "('Volume', 'BAJFINANCE.BO')":140120
+  },
+  {
+    "('Date', '')":"2024-12-24",
+    "('Close', 'BAJFINANCE.BO')":639.239440918,
+    "('High', 'BAJFINANCE.BO')":647.964981999,
+    "('Low', 'BAJFINANCE.BO')":638.3284093108,
+    "('Open', 'BAJFINANCE.BO')":644.950013127,
+    "('Volume', 'BAJFINANCE.BO')":80100
+  },
+  {
+    "('Date', '')":"2024-12-26",
+    "('Close', 'BAJFINANCE.BO')":640.2490844727,
+    "('High', 'BAJFINANCE.BO')":643.8933252875,
+    "('Low', 'BAJFINANCE.BO')":636.8068046519,
+    "('Open', 'BAJFINANCE.BO')":636.8068046519,
+    "('Volume', 'BAJFINANCE.BO')":63820
+  },
+  {
+    "('Date', '')":"2024-12-27",
+    "('Close', 'BAJFINANCE.BO')":649.0216064453,
+    "('High', 'BAJFINANCE.BO')":655.1172401238,
+    "('Low', 'BAJFINANCE.BO')":639.6198430456,
+    "('Open', 'BAJFINANCE.BO')":641.4983154188,
+    "('Volume', 'BAJFINANCE.BO')":375290
+  },
+  {
+    "('Date', '')":"2024-12-30",
+    "('Close', 'BAJFINANCE.BO')":646.8989257812,
+    "('High', 'BAJFINANCE.BO')":657.0379643996,
+    "('Low', 'BAJFINANCE.BO')":640.9958515515,
+    "('Open', 'BAJFINANCE.BO')":648.9605560972,
+    "('Volume', 'BAJFINANCE.BO')":257760
+  },
+  {
+    "('Date', '')":"2024-12-31",
+    "('Close', 'BAJFINANCE.BO')":640.690612793,
+    "('High', 'BAJFINANCE.BO')":645.7249052047,
+    "('Low', 'BAJFINANCE.BO')":638.0231566882,
+    "('Open', 'BAJFINANCE.BO')":641.7143481762,
+    "('Volume', 'BAJFINANCE.BO')":97300
+  },
+  {
+    "('Date', '')":"2025-01-01",
+    "('Close', 'BAJFINANCE.BO')":651.5152587891,
+    "('High', 'BAJFINANCE.BO')":652.3558935335,
+    "('Low', 'BAJFINANCE.BO')":639.6198529398,
+    "('Open', 'BAJFINANCE.BO')":641.498325342,
+    "('Volume', 'BAJFINANCE.BO')":73760
+  },
+  {
+    "('Date', '')":"2025-01-02",
+    "('Close', 'BAJFINANCE.BO')":693.8795776367,
+    "('High', 'BAJFINANCE.BO')":697.6646698865,
+    "('Low', 'BAJFINANCE.BO')":652.8677903942,
+    "('Open', 'BAJFINANCE.BO')":652.8677903942,
+    "('Volume', 'BAJFINANCE.BO')":1650470
+  },
+  {
+    "('Date', '')":"2025-01-03",
+    "('Close', 'BAJFINANCE.BO')":696.1149902344,
+    "('High', 'BAJFINANCE.BO')":704.0655932233,
+    "('Low', 'BAJFINANCE.BO')":691.3342523567,
+    "('Open', 'BAJFINANCE.BO')":694.0956093065,
+    "('Volume', 'BAJFINANCE.BO')":433620
+  },
+  {
+    "('Date', '')":"2025-01-06",
+    "('Close', 'BAJFINANCE.BO')":690.0615844727,
+    "('High', 'BAJFINANCE.BO')":713.7256486488,
+    "('Low', 'BAJFINANCE.BO')":687.3377764196,
+    "('Open', 'BAJFINANCE.BO')":702.1307473435,
+    "('Volume', 'BAJFINANCE.BO')":915910
+  },
+  {
+    "('Date', '')":"2025-01-07",
+    "('Close', 'BAJFINANCE.BO')":691.2496337891,
+    "('High', 'BAJFINANCE.BO')":699.068786565,
+    "('Low', 'BAJFINANCE.BO')":685.8866318133,
+    "('Open', 'BAJFINANCE.BO')":690.0802893143,
+    "('Volume', 'BAJFINANCE.BO')":244820
+  },
+  {
+    "('Date', '')":"2025-01-08",
+    "('Close', 'BAJFINANCE.BO')":690.6485595703,
+    "('High', 'BAJFINANCE.BO')":693.7198229115,
+    "('Low', 'BAJFINANCE.BO')":681.8572653157,
+    "('Open', 'BAJFINANCE.BO')":690.3432963451,
+    "('Volume', 'BAJFINANCE.BO')":285550
+  },
+  {
+    "('Date', '')":"2025-01-09",
+    "('Close', 'BAJFINANCE.BO')":683.5526733398,
+    "('High', 'BAJFINANCE.BO')":690.6485962107,
+    "('Low', 'BAJFINANCE.BO')":679.6360169678,
+    "('Open', 'BAJFINANCE.BO')":690.6438954434,
+    "('Volume', 'BAJFINANCE.BO')":122470
+  },
+  {
+    "('Date', '')":"2025-01-10",
+    "('Close', 'BAJFINANCE.BO')":683.5244750977,
+    "('High', 'BAJFINANCE.BO')":691.9729005176,
+    "('Low', 'BAJFINANCE.BO')":677.68715395,
+    "('Open', 'BAJFINANCE.BO')":682.8388509847,
+    "('Volume', 'BAJFINANCE.BO')":293910
+  },
+  {
+    "('Date', '')":"2025-01-13",
+    "('Close', 'BAJFINANCE.BO')":671.2815551758,
+    "('High', 'BAJFINANCE.BO')":681.1341341824,
+    "('Low', 'BAJFINANCE.BO')":669.797545862,
+    "('Open', 'BAJFINANCE.BO')":678.13326751,
+    "('Volume', 'BAJFINANCE.BO')":96740
+  },
+  {
+    "('Date', '')":"2025-01-14",
+    "('Close', 'BAJFINANCE.BO')":688.8687133789,
+    "('High', 'BAJFINANCE.BO')":693.8044042915,
+    "('Low', 'BAJFINANCE.BO')":675.7804589718,
+    "('Open', 'BAJFINANCE.BO')":676.2453763137,
+    "('Volume', 'BAJFINANCE.BO')":309980
+  },
+  {
+    "('Date', '')":"2025-01-15",
+    "('Close', 'BAJFINANCE.BO')":674.0005493164,
+    "('High', 'BAJFINANCE.BO')":689.446294917,
+    "('Low', 'BAJFINANCE.BO')":667.7922120289,
+    "('Open', 'BAJFINANCE.BO')":688.8686738482,
+    "('Volume', 'BAJFINANCE.BO')":99140
+  },
+  {
+    "('Date', '')":"2025-01-16",
+    "('Close', 'BAJFINANCE.BO')":681.9841308594,
+    "('High', 'BAJFINANCE.BO')":684.510678709,
+    "('Low', 'BAJFINANCE.BO')":675.3484243443,
+    "('Open', 'BAJFINANCE.BO')":675.3484243443,
+    "('Volume', 'BAJFINANCE.BO')":100270
+  },
+  {
+    "('Date', '')":"2025-01-17",
+    "('Close', 'BAJFINANCE.BO')":674.4279785156,
+    "('High', 'BAJFINANCE.BO')":683.9518478367,
+    "('Low', 'BAJFINANCE.BO')":672.0329375465,
+    "('Open', 'BAJFINANCE.BO')":680.8758261914,
+    "('Volume', 'BAJFINANCE.BO')":194760
+  },
+  {
+    "('Date', '')":"2025-01-20",
+    "('Close', 'BAJFINANCE.BO')":698.5756835938,
+    "('High', 'BAJFINANCE.BO')":701.1397799166,
+    "('Low', 'BAJFINANCE.BO')":674.5688101002,
+    "('Open', 'BAJFINANCE.BO')":674.5688101002,
+    "('Volume', 'BAJFINANCE.BO')":216400
+  },
+  {
+    "('Date', '')":"2025-01-21",
+    "('Close', 'BAJFINANCE.BO')":684.4261474609,
+    "('High', 'BAJFINANCE.BO')":702.9948085949,
+    "('Low', 'BAJFINANCE.BO')":683.6230615089,
+    "('Open', 'BAJFINANCE.BO')":698.5944891862,
+    "('Volume', 'BAJFINANCE.BO')":638150
+  },
+  {
+    "('Date', '')":"2025-01-22",
+    "('Close', 'BAJFINANCE.BO')":694.2364501953,
+    "('High', 'BAJFINANCE.BO')":697.1292563748,
+    "('Low', 'BAJFINANCE.BO')":681.927720989,
+    "('Open', 'BAJFINANCE.BO')":686.6427049898,
+    "('Volume', 'BAJFINANCE.BO')":104930
+  },
+  {
+    "('Date', '')":"2025-01-23",
+    "('Close', 'BAJFINANCE.BO')":699.228515625,
+    "('High', 'BAJFINANCE.BO')":706.4934940063,
+    "('Low', 'BAJFINANCE.BO')":689.0096209963,
+    "('Open', 'BAJFINANCE.BO')":692.6820093817,
+    "('Volume', 'BAJFINANCE.BO')":85260
+  },
+  {
+    "('Date', '')":"2025-01-24",
+    "('Close', 'BAJFINANCE.BO')":698.7212524414,
+    "('High', 'BAJFINANCE.BO')":704.8309882796,
+    "('Low', 'BAJFINANCE.BO')":689.4932456569,
+    "('Open', 'BAJFINANCE.BO')":698.7071501406,
+    "('Volume', 'BAJFINANCE.BO')":258720
+  },
+  {
+    "('Date', '')":"2025-01-27",
+    "('Close', 'BAJFINANCE.BO')":685.0131835938,
+    "('High', 'BAJFINANCE.BO')":701.6376765222,
+    "('Low', 'BAJFINANCE.BO')":681.5144942007,
+    "('Open', 'BAJFINANCE.BO')":691.3060778728,
+    "('Volume', 'BAJFINANCE.BO')":400090
+  },
+  {
+    "('Date', '')":"2025-01-28",
+    "('Close', 'BAJFINANCE.BO')":714.260925293,
+    "('High', 'BAJFINANCE.BO')":723.5875912036,
+    "('Low', 'BAJFINANCE.BO')":690.3386068025,
+    "('Open', 'BAJFINANCE.BO')":690.8082249024,
+    "('Volume', 'BAJFINANCE.BO')":637400
+  },
+  {
+    "('Date', '')":"2025-01-29",
+    "('Close', 'BAJFINANCE.BO')":728.6688232422,
+    "('High', 'BAJFINANCE.BO')":731.3080746321,
+    "('Low', 'BAJFINANCE.BO')":711.0017928748,
+    "('Open', 'BAJFINANCE.BO')":720.7557698396,
+    "('Volume', 'BAJFINANCE.BO')":318340
+  },
+  {
+    "('Date', '')":"2025-01-30",
+    "('Close', 'BAJFINANCE.BO')":741.930847168,
+    "('High', 'BAJFINANCE.BO')":774.8651669286,
+    "('Low', 'BAJFINANCE.BO')":736.9951563337,
+    "('Open', 'BAJFINANCE.BO')":737.300419565,
+    "('Volume', 'BAJFINANCE.BO')":1297730
+  },
+  {
+    "('Date', '')":"2025-01-31",
+    "('Close', 'BAJFINANCE.BO')":740.6394042969,
+    "('High', 'BAJFINANCE.BO')":749.5057964315,
+    "('Low', 'BAJFINANCE.BO')":731.5992557561,
+    "('Open', 'BAJFINANCE.BO')":745.7207043067,
+    "('Volume', 'BAJFINANCE.BO')":365400
+  },
+  {
+    "('Date', '')":"2025-02-01",
+    "('Close', 'BAJFINANCE.BO')":751.5157470703,
+    "('High', 'BAJFINANCE.BO')":761.5749298292,
+    "('Low', 'BAJFINANCE.BO')":730.9605541805,
+    "('Open', 'BAJFINANCE.BO')":743.400732749,
+    "('Volume', 'BAJFINANCE.BO')":703950
+  },
+  {
+    "('Date', '')":"2025-02-03",
+    "('Close', 'BAJFINANCE.BO')":791.1937866211,
+    "('High', 'BAJFINANCE.BO')":792.7153446634,
+    "('Low', 'BAJFINANCE.BO')":740.1369210715,
+    "('Open', 'BAJFINANCE.BO')":740.1369210715,
+    "('Volume', 'BAJFINANCE.BO')":1704250
+  },
+  {
+    "('Date', '')":"2025-02-04",
+    "('Close', 'BAJFINANCE.BO')":796.462890625,
+    "('High', 'BAJFINANCE.BO')":797.6885869785,
+    "('Low', 'BAJFINANCE.BO')":779.7022482672,
+    "('Open', 'BAJFINANCE.BO')":791.3064930945,
+    "('Volume', 'BAJFINANCE.BO')":498380
+  },
+  {
+    "('Date', '')":"2025-02-05",
+    "('Close', 'BAJFINANCE.BO')":799.2758789062,
+    "('High', 'BAJFINANCE.BO')":806.5221111863,
+    "('Low', 'BAJFINANCE.BO')":793.2271956743,
+    "('Open', 'BAJFINANCE.BO')":796.4816742292,
+    "('Volume', 'BAJFINANCE.BO')":439040
+  },
+  {
+    "('Date', '')":"2025-02-06",
+    "('Close', 'BAJFINANCE.BO')":799.0834350586,
+    "('High', 'BAJFINANCE.BO')":812.9277680514,
+    "('Low', 'BAJFINANCE.BO')":794.6220629226,
+    "('Open', 'BAJFINANCE.BO')":799.3041418165,
+    "('Volume', 'BAJFINANCE.BO')":424690
+  },
+  {
+    "('Date', '')":"2025-02-07",
+    "('Close', 'BAJFINANCE.BO')":795.5659179688,
+    "('High', 'BAJFINANCE.BO')":807.7431406559,
+    "('Low', 'BAJFINANCE.BO')":787.4697064241,
+    "('Open', 'BAJFINANCE.BO')":807.7431406559,
+    "('Volume', 'BAJFINANCE.BO')":536230
+  },
+  {
+    "('Date', '')":"2025-02-10",
+    "('Close', 'BAJFINANCE.BO')":778.2604980469,
+    "('High', 'BAJFINANCE.BO')":796.6225543889,
+    "('Low', 'BAJFINANCE.BO')":772.0521604903,
+    "('Open', 'BAJFINANCE.BO')":795.5659136583,
+    "('Volume', 'BAJFINANCE.BO')":233260
+  },
+  {
+    "('Date', '')":"2025-02-11",
+    "('Close', 'BAJFINANCE.BO')":769.0371704102,
+    "('High', 'BAJFINANCE.BO')":784.2622095101,
+    "('Low', 'BAJFINANCE.BO')":764.6087039287,
+    "('Open', 'BAJFINANCE.BO')":778.4905848454,
+    "('Volume', 'BAJFINANCE.BO')":288610
+  },
+  {
+    "('Date', '')":"2025-02-12",
+    "('Close', 'BAJFINANCE.BO')":771.9582519531,
+    "('High', 'BAJFINANCE.BO')":777.7157744172,
+    "('Low', 'BAJFINANCE.BO')":753.9436512776,
+    "('Open', 'BAJFINANCE.BO')":772.8786850802,
+    "('Volume', 'BAJFINANCE.BO')":289200
+  },
+  {
+    "('Date', '')":"2025-02-13",
+    "('Close', 'BAJFINANCE.BO')":789.489074707,
+    "('High', 'BAJFINANCE.BO')":798.0690065224,
+    "('Low', 'BAJFINANCE.BO')":771.5778335855,
+    "('Open', 'BAJFINANCE.BO')":771.5778335855,
+    "('Volume', 'BAJFINANCE.BO')":516980
+  },
+  {
+    "('Date', '')":"2025-02-14",
+    "('Close', 'BAJFINANCE.BO')":788.0239257812,
+    "('High', 'BAJFINANCE.BO')":794.5140231379,
+    "('Low', 'BAJFINANCE.BO')":777.6923268836,
+    "('Open', 'BAJFINANCE.BO')":791.7714693001,
+    "('Volume', 'BAJFINANCE.BO')":282650
+  },
+  {
+    "('Date', '')":"2025-02-17",
+    "('Close', 'BAJFINANCE.BO')":791.372253418,
+    "('High', 'BAJFINANCE.BO')":796.9419172154,
+    "('Low', 'BAJFINANCE.BO')":774.1231897444,
+    "('Open', 'BAJFINANCE.BO')":781.9141379868,
+    "('Volume', 'BAJFINANCE.BO')":237540
+  },
+  {
+    "('Date', '')":"2025-02-18",
+    "('Close', 'BAJFINANCE.BO')":794.7065429688,
+    "('High', 'BAJFINANCE.BO')":796.2844529334,
+    "('Low', 'BAJFINANCE.BO')":785.2953777344,
+    "('Open', 'BAJFINANCE.BO')":791.3112132181,
+    "('Volume', 'BAJFINANCE.BO')":182720
+  },
+  {
+    "('Date', '')":"2025-02-19",
+    "('Close', 'BAJFINANCE.BO')":792.7576293945,
+    "('High', 'BAJFINANCE.BO')":800.7740427375,
+    "('Low', 'BAJFINANCE.BO')":789.1040440201,
+    "('Open', 'BAJFINANCE.BO')":794.9695697029,
+    "('Volume', 'BAJFINANCE.BO')":115120
+  },
+  {
+    "('Date', '')":"2025-02-20",
+    "('Close', 'BAJFINANCE.BO')":788.7752685547,
+    "('High', 'BAJFINANCE.BO')":793.5513053812,
+    "('Low', 'BAJFINANCE.BO')":780.6978599759,
+    "('Open', 'BAJFINANCE.BO')":780.6978599759,
+    "('Volume', 'BAJFINANCE.BO')":227740
+  },
+  {
+    "('Date', '')":"2025-02-21",
+    "('Close', 'BAJFINANCE.BO')":788.6062011719,
+    "('High', 'BAJFINANCE.BO')":790.6631307605,
+    "('Low', 'BAJFINANCE.BO')":778.6268164615,
+    "('Open', 'BAJFINANCE.BO')":784.2857375455,
+    "('Volume', 'BAJFINANCE.BO')":139690
+  },
+  {
+    "('Date', '')":"2025-02-24",
+    "('Close', 'BAJFINANCE.BO')":784.7224731445,
+    "('High', 'BAJFINANCE.BO')":788.7048256104,
+    "('Low', 'BAJFINANCE.BO')":779.5848784536,
+    "('Open', 'BAJFINANCE.BO')":779.5848784536,
+    "('Volume', 'BAJFINANCE.BO')":118080
+  },
+  {
+    "('Date', '')":"2025-02-25",
+    "('Close', 'BAJFINANCE.BO')":797.6369628906,
+    "('High', 'BAJFINANCE.BO')":800.7880820824,
+    "('Low', 'BAJFINANCE.BO')":783.6752255722,
+    "('Open', 'BAJFINANCE.BO')":784.7224647913,
+    "('Volume', 'BAJFINANCE.BO')":387190
+  },
+  {
+    "('Date', '')":"2025-02-27",
+    "('Close', 'BAJFINANCE.BO')":816.7128295898,
+    "('High', 'BAJFINANCE.BO')":820.5167247501,
+    "('Low', 'BAJFINANCE.BO')":800.6988637795,
+    "('Open', 'BAJFINANCE.BO')":800.6988637795,
+    "('Volume', 'BAJFINANCE.BO')":652920
+  },
+  {
+    "('Date', '')":"2025-02-28",
+    "('Close', 'BAJFINANCE.BO')":802.3189697266,
+    "('High', 'BAJFINANCE.BO')":816.163358601,
+    "('Low', 'BAJFINANCE.BO')":799.6562719554,
+    "('Open', 'BAJFINANCE.BO')":816.163358601,
+    "('Volume', 'BAJFINANCE.BO')":196050
+  },
+  {
+    "('Date', '')":"2025-03-03",
+    "('Close', 'BAJFINANCE.BO')":810.3542480469,
+    "('High', 'BAJFINANCE.BO')":812.4393249248,
+    "('Low', 'BAJFINANCE.BO')":792.7153644353,
+    "('Open', 'BAJFINANCE.BO')":801.1966949625,
+    "('Volume', 'BAJFINANCE.BO')":610410
+  },
+  {
+    "('Date', '')":"2025-03-04",
+    "('Close', 'BAJFINANCE.BO')":806.6630249023,
+    "('High', 'BAJFINANCE.BO')":808.8702644707,
+    "('Low', 'BAJFINANCE.BO')":799.9475201563,
+    "('Open', 'BAJFINANCE.BO')":807.7384687457,
+    "('Volume', 'BAJFINANCE.BO')":180170
+  },
+  {
+    "('Date', '')":"2025-03-05",
+    "('Close', 'BAJFINANCE.BO')":780.4113769531,
+    "('High', 'BAJFINANCE.BO')":800.2292377268,
+    "('Low', 'BAJFINANCE.BO')":772.1413518132,
+    "('Open', 'BAJFINANCE.BO')":800.2292377268,
+    "('Volume', 'BAJFINANCE.BO')":620910
+  },
+  {
+    "('Date', '')":"2025-03-06",
+    "('Close', 'BAJFINANCE.BO')":789.2965087891,
+    "('High', 'BAJFINANCE.BO')":794.593814645,
+    "('Low', 'BAJFINANCE.BO')":777.2179451759,
+    "('Open', 'BAJFINANCE.BO')":785.295353458,
+    "('Volume', 'BAJFINANCE.BO')":280860
+  },
+  {
+    "('Date', '')":"2025-03-07",
+    "('Close', 'BAJFINANCE.BO')":789.3858032227,
+    "('High', 'BAJFINANCE.BO')":795.6129440254,
+    "('Low', 'BAJFINANCE.BO')":785.9528672789,
+    "('Open', 'BAJFINANCE.BO')":789.9775266348,
+    "('Volume', 'BAJFINANCE.BO')":145790
+  },
+  {
+    "('Date', '')":"2025-03-10",
+    "('Close', 'BAJFINANCE.BO')":783.6658325195,
+    "('High', 'BAJFINANCE.BO')":811.2794007759,
+    "('Low', 'BAJFINANCE.BO')":781.599501336,
+    "('Open', 'BAJFINANCE.BO')":790.832209583,
+    "('Volume', 'BAJFINANCE.BO')":327380
+  },
+  {
+    "('Date', '')":"2025-03-11",
+    "('Close', 'BAJFINANCE.BO')":783.5484008789,
+    "('High', 'BAJFINANCE.BO')":786.6478688838,
+    "('Low', 'BAJFINANCE.BO')":771.2068234122,
+    "('Open', 'BAJFINANCE.BO')":780.9749028547,
+    "('Volume', 'BAJFINANCE.BO')":271380
+  },
+  {
+    "('Date', '')":"2025-03-12",
+    "('Close', 'BAJFINANCE.BO')":797.4162597656,
+    "('High', 'BAJFINANCE.BO')":800.6988858022,
+    "('Low', 'BAJFINANCE.BO')":777.3823349351,
+    "('Open', 'BAJFINANCE.BO')":783.5108742644,
+    "('Volume', 'BAJFINANCE.BO')":274110
+  },
+  {
+    "('Date', '')":"2025-03-13",
+    "('Close', 'BAJFINANCE.BO')":790.766418457,
+    "('High', 'BAJFINANCE.BO')":803.9861793075,
+    "('Low', 'BAJFINANCE.BO')":786.6103097781,
+    "('Open', 'BAJFINANCE.BO')":800.1306330888,
+    "('Volume', 'BAJFINANCE.BO')":3023090
+  },
+  {
+    "('Date', '')":"2025-03-17",
+    "('Close', 'BAJFINANCE.BO')":805.8646850586,
+    "('High', 'BAJFINANCE.BO')":810.1147519284,
+    "('Low', 'BAJFINANCE.BO')":788.9584329245,
+    "('Open', 'BAJFINANCE.BO')":790.0808270981,
+    "('Volume', 'BAJFINANCE.BO')":228410
+  },
+  {
+    "('Date', '')":"2025-03-18",
+    "('Close', 'BAJFINANCE.BO')":815.2335205078,
+    "('High', 'BAJFINANCE.BO')":816.9476380439,
+    "('Low', 'BAJFINANCE.BO')":798.2192658598,
+    "('Open', 'BAJFINANCE.BO')":810.0912252261,
+    "('Volume', 'BAJFINANCE.BO')":207270
+  },
+  {
+    "('Date', '')":"2025-03-19",
+    "('Close', 'BAJFINANCE.BO')":820.6248168945,
+    "('High', 'BAJFINANCE.BO')":833.8539226499,
+    "('Low', 'BAJFINANCE.BO')":816.196292798,
+    "('Open', 'BAJFINANCE.BO')":816.313697328,
+    "('Volume', 'BAJFINANCE.BO')":219200
+  },
+  {
+    "('Date', '')":"2025-03-20",
+    "('Close', 'BAJFINANCE.BO')":815.2382202148,
+    "('High', 'BAJFINANCE.BO')":823.6537972217,
+    "('Low', 'BAJFINANCE.BO')":802.3378247395,
+    "('Open', 'BAJFINANCE.BO')":818.1733333459,
+    "('Volume', 'BAJFINANCE.BO')":319510
+  },
+  {
+    "('Date', '')":"2025-03-21",
+    "('Close', 'BAJFINANCE.BO')":837.667175293,
+    "('High', 'BAJFINANCE.BO')":851.8872249787,
+    "('Low', 'BAJFINANCE.BO')":829.5381158721,
+    "('Open', 'BAJFINANCE.BO')":841.5603276479,
+    "('Volume', 'BAJFINANCE.BO')":729070
+  },
+  {
+    "('Date', '')":"2025-03-24",
+    "('Close', 'BAJFINANCE.BO')":854.2259521484,
+    "('High', 'BAJFINANCE.BO')":856.0433719657,
+    "('Low', 'BAJFINANCE.BO')":838.2730384936,
+    "('Open', 'BAJFINANCE.BO')":847.1910819374,
+    "('Volume', 'BAJFINANCE.BO')":540240
+  },
+  {
+    "('Date', '')":"2025-03-25",
+    "('Close', 'BAJFINANCE.BO')":852.0374755859,
+    "('High', 'BAJFINANCE.BO')":869.6341091466,
+    "('Low', 'BAJFINANCE.BO')":843.4340973224,
+    "('Open', 'BAJFINANCE.BO')":857.611840072,
+    "('Volume', 'BAJFINANCE.BO')":641220
+  },
+  {
+    "('Date', '')":"2025-03-26",
+    "('Close', 'BAJFINANCE.BO')":832.6281738281,
+    "('High', 'BAJFINANCE.BO')":857.104666416,
+    "('Low', 'BAJFINANCE.BO')":831.5057797125,
+    "('Open', 'BAJFINANCE.BO')":854.7096256193,
+    "('Volume', 'BAJFINANCE.BO')":305970
+  },
+  {
+    "('Date', '')":"2025-03-27",
+    "('Close', 'BAJFINANCE.BO')":843.9976196289,
+    "('High', 'BAJFINANCE.BO')":850.1966128951,
+    "('Low', 'BAJFINANCE.BO')":828.8806406277,
+    "('Open', 'BAJFINANCE.BO')":832.6281838634,
+    "('Volume', 'BAJFINANCE.BO')":323950
+  },
+  {
+    "('Date', '')":"2025-03-28",
+    "('Close', 'BAJFINANCE.BO')":840.4989624023,
+    "('High', 'BAJFINANCE.BO')":846.6368455115,
+    "('Low', 'BAJFINANCE.BO')":832.1632414454,
+    "('Open', 'BAJFINANCE.BO')":845.3078469767,
+    "('Volume', 'BAJFINANCE.BO')":166300
+  },
+  {
+    "('Date', '')":"2025-04-01",
+    "('Close', 'BAJFINANCE.BO')":816.8442993164,
+    "('High', 'BAJFINANCE.BO')":838.3574737787,
+    "('Low', 'BAJFINANCE.BO')":814.5056104473,
+    "('Open', 'BAJFINANCE.BO')":826.5278218452,
+    "('Volume', 'BAJFINANCE.BO')":446730
+  },
+  {
+    "('Date', '')":"2025-04-02",
+    "('Close', 'BAJFINANCE.BO')":814.1252441406,
+    "('High', 'BAJFINANCE.BO')":823.3344484085,
+    "('Low', 'BAJFINANCE.BO')":808.9735472267,
+    "('Open', 'BAJFINANCE.BO')":816.8443513449,
+    "('Volume', 'BAJFINANCE.BO')":228330
+  },
+  {
+    "('Date', '')":"2025-04-03",
+    "('Close', 'BAJFINANCE.BO')":807.5646972656,
+    "('High', 'BAJFINANCE.BO')":823.592765757,
+    "('Low', 'BAJFINANCE.BO')":794.8709059116,
+    "('Open', 'BAJFINANCE.BO')":814.2426530748,
+    "('Volume', 'BAJFINANCE.BO')":313760
+  },
+  {
+    "('Date', '')":"2025-04-04",
+    "('Close', 'BAJFINANCE.BO')":819.0938720703,
+    "('High', 'BAJFINANCE.BO')":826.2179423929,
+    "('Low', 'BAJFINANCE.BO')":806.6160862895,
+    "('Open', 'BAJFINANCE.BO')":809.7202552407,
+    "('Volume', 'BAJFINANCE.BO')":618270
+  },
+  {
+    "('Date', '')":"2025-04-07",
+    "('Close', 'BAJFINANCE.BO')":804.6530761719,
+    "('High', 'BAJFINANCE.BO')":807.7431426732,
+    "('Low', 'BAJFINANCE.BO')":760.9738915276,
+    "('Open', 'BAJFINANCE.BO')":760.9738915276,
+    "('Volume', 'BAJFINANCE.BO')":732900
+  },
+  {
+    "('Date', '')":"2025-04-08",
+    "('Close', 'BAJFINANCE.BO')":828.4627075195,
+    "('High', 'BAJFINANCE.BO')":833.3889969644,
+    "('Low', 'BAJFINANCE.BO')":812.9089578292,
+    "('Open', 'BAJFINANCE.BO')":816.0037251585,
+    "('Volume', 'BAJFINANCE.BO')":544500
+  },
+  {
+    "('Date', '')":"2025-04-09",
+    "('Close', 'BAJFINANCE.BO')":819.6761474609,
+    "('High', 'BAJFINANCE.BO')":830.3975080921,
+    "('Low', 'BAJFINANCE.BO')":810.5655448169,
+    "('Open', 'BAJFINANCE.BO')":825.5745210123,
+    "('Volume', 'BAJFINANCE.BO')":168540
+  },
+  {
+    "('Date', '')":"2025-04-11",
+    "('Close', 'BAJFINANCE.BO')":838.4279174805,
+    "('High', 'BAJFINANCE.BO')":842.8329373145,
+    "('Low', 'BAJFINANCE.BO')":828.2794777648,
+    "('Open', 'BAJFINANCE.BO')":835.915472246,
+    "('Volume', 'BAJFINANCE.BO')":442770
+  },
+  {
+    "('Date', '')":"2025-04-15",
+    "('Close', 'BAJFINANCE.BO')":858.6684570312,
+    "('High', 'BAJFINANCE.BO')":869.7326865431,
+    "('Low', 'BAJFINANCE.BO')":852.0844596858,
+    "('Open', 'BAJFINANCE.BO')":864.0972695676,
+    "('Volume', 'BAJFINANCE.BO')":452830
+  },
+  {
+    "('Date', '')":"2025-04-16",
+    "('Close', 'BAJFINANCE.BO')":850.4642944336,
+    "('High', 'BAJFINANCE.BO')":862.2000464098,
+    "('Low', 'BAJFINANCE.BO')":842.0158692255,
+    "('Open', 'BAJFINANCE.BO')":862.2000464098,
+    "('Volume', 'BAJFINANCE.BO')":537190
+  },
+  {
+    "('Date', '')":"2025-04-17",
+    "('Close', 'BAJFINANCE.BO')":860.7207641602,
+    "('High', 'BAJFINANCE.BO')":863.158054545,
+    "('Low', 'BAJFINANCE.BO')":840.987402729,
+    "('Open', 'BAJFINANCE.BO')":845.3172677861,
+    "('Volume', 'BAJFINANCE.BO')":367350
+  },
+  {
+    "('Date', '')":"2025-04-21",
+    "('Close', 'BAJFINANCE.BO')":870.7188720703,
+    "('High', 'BAJFINANCE.BO')":874.8327310439,
+    "('Low', 'BAJFINANCE.BO')":859.0253703941,
+    "('Open', 'BAJFINANCE.BO')":861.2795601123,
+    "('Volume', 'BAJFINANCE.BO')":344080
+  },
+  {
+    "('Date', '')":"2025-04-22",
+    "('Close', 'BAJFINANCE.BO')":870.3432006836,
+    "('High', 'BAJFINANCE.BO')":882.0507471819,
+    "('Low', 'BAJFINANCE.BO')":866.9149658081,
+    "('Open', 'BAJFINANCE.BO')":870.7235615143,
+    "('Volume', 'BAJFINANCE.BO')":407740
+  },
+  {
+    "('Date', '')":"2025-04-23",
+    "('Close', 'BAJFINANCE.BO')":875.9552001953,
+    "('High', 'BAJFINANCE.BO')":877.2466500281,
+    "('Low', 'BAJFINANCE.BO')":859.2931584345,
+    "('Open', 'BAJFINANCE.BO')":871.1932655692,
+    "('Volume', 'BAJFINANCE.BO')":441070
+  },
+  {
+    "('Date', '')":"2025-04-24",
+    "('Close', 'BAJFINANCE.BO')":873.3112182617,
+    "('High', 'BAJFINANCE.BO')":911.9748562148,
+    "('Low', 'BAJFINANCE.BO')":871.1462856765,
+    "('Open', 'BAJFINANCE.BO')":911.9748562148,
+    "('Volume', 'BAJFINANCE.BO')":1135640
+  },
+  {
+    "('Date', '')":"2025-04-25",
+    "('Close', 'BAJFINANCE.BO')":855.7568359375,
+    "('High', 'BAJFINANCE.BO')":878.0918990891,
+    "('Low', 'BAJFINANCE.BO')":844.8429164665,
+    "('Open', 'BAJFINANCE.BO')":875.8377093997,
+    "('Volume', 'BAJFINANCE.BO')":452830
+  },
+  {
+    "('Date', '')":"2025-04-28",
+    "('Close', 'BAJFINANCE.BO')":853.9535522461,
+    "('High', 'BAJFINANCE.BO')":857.1140728415,
+    "('Low', 'BAJFINANCE.BO')":845.6506791337,
+    "('Open', 'BAJFINANCE.BO')":852.826457357,
+    "('Volume', 'BAJFINANCE.BO')":291330
+  },
+  {
+    "('Date', '')":"2025-04-29",
+    "('Close', 'BAJFINANCE.BO')":853.6999511719,
+    "('High', 'BAJFINANCE.BO')":859.3729171743,
+    "('Low', 'BAJFINANCE.BO')":841.6307889496,
+    "('Open', 'BAJFINANCE.BO')":859.3729171743,
+    "('Volume', 'BAJFINANCE.BO')":298290
+  },
+  {
+    "('Date', '')":"2025-04-30",
+    "('Close', 'BAJFINANCE.BO')":811.0961914062,
+    "('High', 'BAJFINANCE.BO')":850.0087392997,
+    "('Low', 'BAJFINANCE.BO')":803.9861666746,
+    "('Open', 'BAJFINANCE.BO')":850.0087392997,
+    "('Volume', 'BAJFINANCE.BO')":1772120
+  },
+  {
+    "('Date', '')":"2025-05-02",
+    "('Close', 'BAJFINANCE.BO')":832.3745727539,
+    "('High', 'BAJFINANCE.BO')":837.3290666058,
+    "('Low', 'BAJFINANCE.BO')":805.211878086,
+    "('Open', 'BAJFINANCE.BO')":806.9917490174,
+    "('Volume', 'BAJFINANCE.BO')":937140
+  },
+  {
+    "('Date', '')":"2025-05-05",
+    "('Close', 'BAJFINANCE.BO')":838.9727172852,
+    "('High', 'BAJFINANCE.BO')":848.3181287359,
+    "('Low', 'BAJFINANCE.BO')":832.7784821984,
+    "('Open', 'BAJFINANCE.BO')":839.5080887866,
+    "('Volume', 'BAJFINANCE.BO')":449700
+  },
+  {
+    "('Date', '')":"2025-05-06",
+    "('Close', 'BAJFINANCE.BO')":826.2554931641,
+    "('High', 'BAJFINANCE.BO')":843.0396393709,
+    "('Low', 'BAJFINANCE.BO')":821.9255707401,
+    "('Open', 'BAJFINANCE.BO')":835.9437168018,
+    "('Volume', 'BAJFINANCE.BO')":525840
+  },
+  {
+    "('Date', '')":"2025-05-07",
+    "('Close', 'BAJFINANCE.BO')":843.9506835938,
+    "('High', 'BAJFINANCE.BO')":844.842969457,
+    "('Low', 'BAJFINANCE.BO')":814.3224934511,
+    "('Open', 'BAJFINANCE.BO')":814.3224934511,
+    "('Volume', 'BAJFINANCE.BO')":296270
+  },
+  {
+    "('Date', '')":"2025-05-08",
+    "('Close', 'BAJFINANCE.BO')":828.2184448242,
+    "('High', 'BAJFINANCE.BO')":852.168967205,
+    "('Low', 'BAJFINANCE.BO')":824.6493588367,
+    "('Open', 'BAJFINANCE.BO')":842.8705635001,
+    "('Volume', 'BAJFINANCE.BO')":203230
+  },
+  {
+    "('Date', '')":"2025-05-09",
+    "('Close', 'BAJFINANCE.BO')":822.7147827148,
+    "('High', 'BAJFINANCE.BO')":836.0073754439,
+    "('Low', 'BAJFINANCE.BO')":819.3678064326,
+    "('Open', 'BAJFINANCE.BO')":823.6479143555,
+    "('Volume', 'BAJFINANCE.BO')":231430
+  },
+  {
+    "('Date', '')":"2025-05-12",
+    "('Close', 'BAJFINANCE.BO')":858.5696411133,
+    "('High', 'BAJFINANCE.BO')":859.7361138073,
+    "('Low', 'BAJFINANCE.BO')":841.1635624236,
+    "('Open', 'BAJFINANCE.BO')":845.215153146,
+    "('Volume', 'BAJFINANCE.BO')":217260
+  },
+  {
+    "('Date', '')":"2025-05-13",
+    "('Close', 'BAJFINANCE.BO')":861.0263061523,
+    "('High', 'BAJFINANCE.BO')":872.5478318581,
+    "('Low', 'BAJFINANCE.BO')":856.6700063918,
+    "('Open', 'BAJFINANCE.BO')":857.04614167,
+    "('Volume', 'BAJFINANCE.BO')":417160
+  },
+  {
+    "('Date', '')":"2025-05-14",
+    "('Close', 'BAJFINANCE.BO')":864.6732788086,
+    "('High', 'BAJFINANCE.BO')":867.2584534794,
+    "('Low', 'BAJFINANCE.BO')":858.6887058005,
+    "('Open', 'BAJFINANCE.BO')":861.0263588013,
+    "('Volume', 'BAJFINANCE.BO')":214520
+  },
+  {
+    "('Date', '')":"2025-05-15",
+    "('Close', 'BAJFINANCE.BO')":874.8283691406,
+    "('High', 'BAJFINANCE.BO')":877.2755150629,
+    "('Low', 'BAJFINANCE.BO')":859.5837316079,
+    "('Open', 'BAJFINANCE.BO')":867.5392950775,
+    "('Volume', 'BAJFINANCE.BO')":256040
+  },
+  {
+    "('Date', '')":"2025-05-16",
+    "('Close', 'BAJFINANCE.BO')":872.8668823242,
+    "('High', 'BAJFINANCE.BO')":884.2693843454,
+    "('Low', 'BAJFINANCE.BO')":869.8293805753,
+    "('Open', 'BAJFINANCE.BO')":871.3719304924,
+    "('Volume', 'BAJFINANCE.BO')":193870
+  },
+  {
+    "('Date', '')":"2025-05-19",
+    "('Close', 'BAJFINANCE.BO')":881.1985473633,
+    "('High', 'BAJFINANCE.BO')":883.1600649672,
+    "('Low', 'BAJFINANCE.BO')":873.6285923258,
+    "('Open', 'BAJFINANCE.BO')":876.0138432962,
+    "('Volume', 'BAJFINANCE.BO')":212850
+  },
+  {
+    "('Date', '')":"2025-05-20",
+    "('Close', 'BAJFINANCE.BO')":864.6065673828,
+    "('High', 'BAJFINANCE.BO')":885.8976141933,
+    "('Low', 'BAJFINANCE.BO')":863.6400763922,
+    "('Open', 'BAJFINANCE.BO')":881.3223283702,
+    "('Volume', 'BAJFINANCE.BO')":145400
+  },
+  {
+    "('Date', '')":"2025-05-21",
+    "('Close', 'BAJFINANCE.BO')":875.9662475586,
+    "('High', 'BAJFINANCE.BO')":883.3505177844,
+    "('Low', 'BAJFINANCE.BO')":859.4075774693,
+    "('Open', 'BAJFINANCE.BO')":864.7256026784,
+    "('Volume', 'BAJFINANCE.BO')":450340
+  },
+  {
+    "('Date', '')":"2025-05-22",
+    "('Close', 'BAJFINANCE.BO')":870.3387451172,
+    "('High', 'BAJFINANCE.BO')":875.1616107606,
+    "('Low', 'BAJFINANCE.BO')":863.7686404221,
+    "('Open', 'BAJFINANCE.BO')":872.2384258943,
+    "('Volume', 'BAJFINANCE.BO')":189630
+  },
+  {
+    "('Date', '')":"2025-05-23",
+    "('Close', 'BAJFINANCE.BO')":879.8369140625,
+    "('High', 'BAJFINANCE.BO')":884.0646583566,
+    "('Low', 'BAJFINANCE.BO')":867.2441117269,
+    "('Open', 'BAJFINANCE.BO')":870.338742673,
+    "('Volume', 'BAJFINANCE.BO')":280490
+  },
+  {
+    "('Date', '')":"2025-05-26",
+    "('Close', 'BAJFINANCE.BO')":882.2650146484,
+    "('High', 'BAJFINANCE.BO')":888.8732444142,
+    "('Low', 'BAJFINANCE.BO')":880.6272685968,
+    "('Open', 'BAJFINANCE.BO')":884.5217101482,
+    "('Volume', 'BAJFINANCE.BO')":311990
+  },
+  {
+    "('Date', '')":"2025-05-27",
+    "('Close', 'BAJFINANCE.BO')":873.4476928711,
+    "('High', 'BAJFINANCE.BO')":884.588376186,
+    "('Low', 'BAJFINANCE.BO')":870.6387084707,
+    "('Open', 'BAJFINANCE.BO')":881.7365593212,
+    "('Volume', 'BAJFINANCE.BO')":357340
+  },
+  {
+    "('Date', '')":"2025-05-28",
+    "('Close', 'BAJFINANCE.BO')":882.7601928711,
+    "('High', 'BAJFINANCE.BO')":884.8835672858,
+    "('Low', 'BAJFINANCE.BO')":870.5911234067,
+    "('Open', 'BAJFINANCE.BO')":876.0757711587,
+    "('Volume', 'BAJFINANCE.BO')":274300
+  },
+  {
+    "('Date', '')":"2025-05-29",
+    "('Close', 'BAJFINANCE.BO')":876.3900146484,
+    "('High', 'BAJFINANCE.BO')":883.6361984049,
+    "('Low', 'BAJFINANCE.BO')":872.2098682531,
+    "('Open', 'BAJFINANCE.BO')":882.7601960328,
+    "('Volume', 'BAJFINANCE.BO')":227230
+  },
+  {
+    "('Date', '')":"2025-05-30",
+    "('Close', 'BAJFINANCE.BO')":917.4749755859,
+    "('High', 'BAJFINANCE.BO')":920.0999755859,
+    "('Low', 'BAJFINANCE.BO')":912.5,
+    "('Open', 'BAJFINANCE.BO')":920.0999755859,
+    "('Volume', 'BAJFINANCE.BO')":156130
+  },
+  {
+    "('Date', '')":"2025-06-02",
+    "('Close', 'BAJFINANCE.BO')":913.1950073242,
+    "('High', 'BAJFINANCE.BO')":916.3950195312,
+    "('Low', 'BAJFINANCE.BO')":904.5,
+    "('Open', 'BAJFINANCE.BO')":913.9899902344,
+    "('Volume', 'BAJFINANCE.BO')":157400
+  },
+  {
+    "('Date', '')":"2025-06-03",
+    "('Close', 'BAJFINANCE.BO')":897.7249755859,
+    "('High', 'BAJFINANCE.BO')":912.3150024414,
+    "('Low', 'BAJFINANCE.BO')":897.0,
+    "('Open', 'BAJFINANCE.BO')":910.0,
+    "('Volume', 'BAJFINANCE.BO')":407560
+  },
+  {
+    "('Date', '')":"2025-06-04",
+    "('Close', 'BAJFINANCE.BO')":898.4299926758,
+    "('High', 'BAJFINANCE.BO')":904.0449829102,
+    "('Low', 'BAJFINANCE.BO')":896.0150146484,
+    "('Open', 'BAJFINANCE.BO')":897.7249755859,
+    "('Volume', 'BAJFINANCE.BO')":126770
+  },
+  {
+    "('Date', '')":"2025-06-05",
+    "('Close', 'BAJFINANCE.BO')":893.2449951172,
+    "('High', 'BAJFINANCE.BO')":899.0,
+    "('Low', 'BAJFINANCE.BO')":887.0,
+    "('Open', 'BAJFINANCE.BO')":897.5150146484,
+    "('Volume', 'BAJFINANCE.BO')":153750
+  },
+  {
+    "('Date', '')":"2025-06-06",
+    "('Close', 'BAJFINANCE.BO')":937.3049926758,
+    "('High', 'BAJFINANCE.BO')":943.0999755859,
+    "('Low', 'BAJFINANCE.BO')":887.7399902344,
+    "('Open', 'BAJFINANCE.BO')":894.5,
+    "('Volume', 'BAJFINANCE.BO')":589570
+  },
+  {
+    "('Date', '')":"2025-06-09",
+    "('Close', 'BAJFINANCE.BO')":960.8300170898,
+    "('High', 'BAJFINANCE.BO')":978.5900268555,
+    "('Low', 'BAJFINANCE.BO')":940.4699707031,
+    "('Open', 'BAJFINANCE.BO')":953.5250244141,
+    "('Volume', 'BAJFINANCE.BO')":1325550
+  },
+  {
+    "('Date', '')":"2025-06-10",
+    "('Close', 'BAJFINANCE.BO')":949.7050170898,
+    "('High', 'BAJFINANCE.BO')":969.9450073242,
+    "('Low', 'BAJFINANCE.BO')":948.4650268555,
+    "('Open', 'BAJFINANCE.BO')":969.0,
+    "('Volume', 'BAJFINANCE.BO')":785020
+  },
+  {
+    "('Date', '')":"2025-06-11",
+    "('Close', 'BAJFINANCE.BO')":942.4400024414,
+    "('High', 'BAJFINANCE.BO')":957.3850097656,
+    "('Low', 'BAJFINANCE.BO')":940.8049926758,
+    "('Open', 'BAJFINANCE.BO')":949.7050170898,
+    "('Volume', 'BAJFINANCE.BO')":465180
+  },
+  {
+    "('Date', '')":"2025-06-12",
+    "('Close', 'BAJFINANCE.BO')":936.4199829102,
+    "('High', 'BAJFINANCE.BO')":953.3850097656,
+    "('Low', 'BAJFINANCE.BO')":935.1699829102,
+    "('Open', 'BAJFINANCE.BO')":944.9000244141,
+    "('Volume', 'BAJFINANCE.BO')":654490
+  },
+  {
+    "('Date', '')":"2025-06-13",
+    "('Close', 'BAJFINANCE.BO')":933.4149780273,
+    "('High', 'BAJFINANCE.BO')":936.0599975586,
+    "('Low', 'BAJFINANCE.BO')":915.5,
+    "('Open', 'BAJFINANCE.BO')":925.9799804688,
+    "('Volume', 'BAJFINANCE.BO')":345660
+  },
+  {
+    "('Date', '')":"2025-06-16",
+    "('Close', 'BAJFINANCE.BO')":937.75,
+    "('High', 'BAJFINANCE.BO')":957.299987793,
+    "('Low', 'BAJFINANCE.BO')":925.049987793,
+    "('Open', 'BAJFINANCE.BO')":954.5,
+    "('Volume', 'BAJFINANCE.BO')":544250
+  },
+  {
+    "('Date', '')":"2025-06-17",
+    "('Close', 'BAJFINANCE.BO')":922.9000244141,
+    "('High', 'BAJFINANCE.BO')":943.9000244141,
+    "('Low', 'BAJFINANCE.BO')":917.6500244141,
+    "('Open', 'BAJFINANCE.BO')":943.9000244141,
+    "('Volume', 'BAJFINANCE.BO')":328099
+  },
+  {
+    "('Date', '')":"2025-06-18",
+    "('Close', 'BAJFINANCE.BO')":918.799987793,
+    "('High', 'BAJFINANCE.BO')":932.5,
+    "('Low', 'BAJFINANCE.BO')":915.549987793,
+    "('Open', 'BAJFINANCE.BO')":925.9000244141,
+    "('Volume', 'BAJFINANCE.BO')":199869
+  },
+  {
+    "('Date', '')":"2025-06-19",
+    "('Close', 'BAJFINANCE.BO')":899.700012207,
+    "('High', 'BAJFINANCE.BO')":922.799987793,
+    "('Low', 'BAJFINANCE.BO')":893.4000244141,
+    "('Open', 'BAJFINANCE.BO')":918.049987793,
+    "('Volume', 'BAJFINANCE.BO')":185413
+  },
+  {
+    "('Date', '')":"2025-06-20",
+    "('Close', 'BAJFINANCE.BO')":904.6500244141,
+    "('High', 'BAJFINANCE.BO')":907.5,
+    "('Low', 'BAJFINANCE.BO')":885.6500244141,
+    "('Open', 'BAJFINANCE.BO')":898.950012207,
+    "('Volume', 'BAJFINANCE.BO')":205663
+  },
+  {
+    "('Date', '')":"2025-06-23",
+    "('Close', 'BAJFINANCE.BO')":915.5,
+    "('High', 'BAJFINANCE.BO')":918.049987793,
+    "('Low', 'BAJFINANCE.BO')":890.0,
+    "('Open', 'BAJFINANCE.BO')":900.0,
+    "('Volume', 'BAJFINANCE.BO')":252303
+  },
+  {
+    "('Date', '')":"2025-06-24",
+    "('Close', 'BAJFINANCE.BO')":916.049987793,
+    "('High', 'BAJFINANCE.BO')":935.950012207,
+    "('Low', 'BAJFINANCE.BO')":914.450012207,
+    "('Open', 'BAJFINANCE.BO')":920.0,
+    "('Volume', 'BAJFINANCE.BO')":1078818
+  },
+  {
+    "('Date', '')":"2025-06-25",
+    "('Close', 'BAJFINANCE.BO')":928.200012207,
+    "('High', 'BAJFINANCE.BO')":929.700012207,
+    "('Low', 'BAJFINANCE.BO')":915.5999755859,
+    "('Open', 'BAJFINANCE.BO')":917.049987793,
+    "('Volume', 'BAJFINANCE.BO')":240414
+  },
+  {
+    "('Date', '')":"2025-06-26",
+    "('Close', 'BAJFINANCE.BO')":951.450012207,
+    "('High', 'BAJFINANCE.BO')":953.450012207,
+    "('Low', 'BAJFINANCE.BO')":928.799987793,
+    "('Open', 'BAJFINANCE.BO')":929.0,
+    "('Volume', 'BAJFINANCE.BO')":903672
+  },
+  {
+    "('Date', '')":"2025-06-27",
+    "('Close', 'BAJFINANCE.BO')":946.549987793,
+    "('High', 'BAJFINANCE.BO')":958.950012207,
+    "('Low', 'BAJFINANCE.BO')":936.0999755859,
+    "('Open', 'BAJFINANCE.BO')":952.799987793,
+    "('Volume', 'BAJFINANCE.BO')":421501
+  },
+  {
+    "('Date', '')":"2025-06-30",
+    "('Close', 'BAJFINANCE.BO')":936.200012207,
+    "('High', 'BAJFINANCE.BO')":954.4000244141,
+    "('Low', 'BAJFINANCE.BO')":934.5,
+    "('Open', 'BAJFINANCE.BO')":953.049987793,
+    "('Volume', 'BAJFINANCE.BO')":204304
+  },
+  {
+    "('Date', '')":"2025-07-01",
+    "('Close', 'BAJFINANCE.BO')":936.549987793,
+    "('High', 'BAJFINANCE.BO')":942.049987793,
+    "('Low', 'BAJFINANCE.BO')":928.0999755859,
+    "('Open', 'BAJFINANCE.BO')":933.0,
+    "('Volume', 'BAJFINANCE.BO')":331986
+  },
+  {
+    "('Date', '')":"2025-07-02",
+    "('Close', 'BAJFINANCE.BO')":922.6500244141,
+    "('High', 'BAJFINANCE.BO')":938.799987793,
+    "('Low', 'BAJFINANCE.BO')":914.200012207,
+    "('Open', 'BAJFINANCE.BO')":935.0,
+    "('Volume', 'BAJFINANCE.BO')":147881
+  },
+  {
+    "('Date', '')":"2025-07-03",
+    "('Close', 'BAJFINANCE.BO')":910.700012207,
+    "('High', 'BAJFINANCE.BO')":924.950012207,
+    "('Low', 'BAJFINANCE.BO')":905.5999755859,
+    "('Open', 'BAJFINANCE.BO')":924.950012207,
+    "('Volume', 'BAJFINANCE.BO')":250792
+  },
+  {
+    "('Date', '')":"2025-07-04",
+    "('Close', 'BAJFINANCE.BO')":925.25,
+    "('High', 'BAJFINANCE.BO')":940.700012207,
+    "('Low', 'BAJFINANCE.BO')":918.5999755859,
+    "('Open', 'BAJFINANCE.BO')":924.5999755859,
+    "('Volume', 'BAJFINANCE.BO')":817583
+  },
+  {
+    "('Date', '')":"2025-07-07",
+    "('Close', 'BAJFINANCE.BO')":924.549987793,
+    "('High', 'BAJFINANCE.BO')":930.9000244141,
+    "('Low', 'BAJFINANCE.BO')":918.200012207,
+    "('Open', 'BAJFINANCE.BO')":926.950012207,
+    "('Volume', 'BAJFINANCE.BO')":121350
+  },
+  {
+    "('Date', '')":"2025-07-08",
+    "('Close', 'BAJFINANCE.BO')":927.4000244141,
+    "('High', 'BAJFINANCE.BO')":929.700012207,
+    "('Low', 'BAJFINANCE.BO')":919.0,
+    "('Open', 'BAJFINANCE.BO')":919.0,
+    "('Volume', 'BAJFINANCE.BO')":483246
+  },
+  {
+    "('Date', '')":"2025-07-09",
+    "('Close', 'BAJFINANCE.BO')":940.4000244141,
+    "('High', 'BAJFINANCE.BO')":945.9000244141,
+    "('Low', 'BAJFINANCE.BO')":924.1500244141,
+    "('Open', 'BAJFINANCE.BO')":927.6500244141,
+    "('Volume', 'BAJFINANCE.BO')":192107
+  },
+  {
+    "('Date', '')":"2025-07-10",
+    "('Close', 'BAJFINANCE.BO')":947.1500244141,
+    "('High', 'BAJFINANCE.BO')":951.9000244141,
+    "('Low', 'BAJFINANCE.BO')":941.25,
+    "('Open', 'BAJFINANCE.BO')":945.950012207,
+    "('Volume', 'BAJFINANCE.BO')":127915
+  },
+  {
+    "('Date', '')":"2025-07-11",
+    "('Close', 'BAJFINANCE.BO')":933.3499755859,
+    "('High', 'BAJFINANCE.BO')":946.0999755859,
+    "('Low', 'BAJFINANCE.BO')":932.049987793,
+    "('Open', 'BAJFINANCE.BO')":939.950012207,
+    "('Volume', 'BAJFINANCE.BO')":132956
+  },
+  {
+    "('Date', '')":"2025-07-14",
+    "('Close', 'BAJFINANCE.BO')":918.950012207,
+    "('High', 'BAJFINANCE.BO')":931.950012207,
+    "('Low', 'BAJFINANCE.BO')":911.549987793,
+    "('Open', 'BAJFINANCE.BO')":931.950012207,
+    "('Volume', 'BAJFINANCE.BO')":114340
+  },
+  {
+    "('Date', '')":"2025-07-15",
+    "('Close', 'BAJFINANCE.BO')":928.200012207,
+    "('High', 'BAJFINANCE.BO')":930.4000244141,
+    "('Low', 'BAJFINANCE.BO')":918.4000244141,
+    "('Open', 'BAJFINANCE.BO')":920.0,
+    "('Volume', 'BAJFINANCE.BO')":95991
+  },
+  {
+    "('Date', '')":"2025-07-16",
+    "('Close', 'BAJFINANCE.BO')":921.6500244141,
+    "('High', 'BAJFINANCE.BO')":927.950012207,
+    "('Low', 'BAJFINANCE.BO')":919.200012207,
+    "('Open', 'BAJFINANCE.BO')":927.950012207,
+    "('Volume', 'BAJFINANCE.BO')":85057
+  },
+  {
+    "('Date', '')":"2025-07-17",
+    "('Close', 'BAJFINANCE.BO')":923.9000244141,
+    "('High', 'BAJFINANCE.BO')":926.75,
+    "('Low', 'BAJFINANCE.BO')":916.25,
+    "('Open', 'BAJFINANCE.BO')":925.0,
+    "('Volume', 'BAJFINANCE.BO')":261045
+  },
+  {
+    "('Date', '')":"2025-07-18",
+    "('Close', 'BAJFINANCE.BO')":941.8499755859,
+    "('High', 'BAJFINANCE.BO')":944.6500244141,
+    "('Low', 'BAJFINANCE.BO')":920.049987793,
+    "('Open', 'BAJFINANCE.BO')":923.700012207,
+    "('Volume', 'BAJFINANCE.BO')":550274
+  },
+  {
+    "('Date', '')":"2025-07-21",
+    "('Close', 'BAJFINANCE.BO')":948.950012207,
+    "('High', 'BAJFINANCE.BO')":951.0,
+    "('Low', 'BAJFINANCE.BO')":937.299987793,
+    "('Open', 'BAJFINANCE.BO')":937.299987793,
+    "('Volume', 'BAJFINANCE.BO')":234485
+  },
+  {
+    "('Date', '')":"2025-07-22",
+    "('Close', 'BAJFINANCE.BO')":952.4000244141,
+    "('High', 'BAJFINANCE.BO')":961.75,
+    "('Low', 'BAJFINANCE.BO')":939.9000244141,
+    "('Open', 'BAJFINANCE.BO')":953.0,
+    "('Volume', 'BAJFINANCE.BO')":532983
+  },
+  {
+    "('Date', '')":"2025-07-23",
+    "('Close', 'BAJFINANCE.BO')":968.200012207,
+    "('High', 'BAJFINANCE.BO')":970.549987793,
+    "('Low', 'BAJFINANCE.BO')":952.950012207,
+    "('Open', 'BAJFINANCE.BO')":952.950012207,
+    "('Volume', 'BAJFINANCE.BO')":472259
+  },
+  {
+    "('Date', '')":"2025-07-24",
+    "('Close', 'BAJFINANCE.BO')":959.0,
+    "('High', 'BAJFINANCE.BO')":969.9000244141,
+    "('Low', 'BAJFINANCE.BO')":954.0,
+    "('Open', 'BAJFINANCE.BO')":968.4000244141,
+    "('Volume', 'BAJFINANCE.BO')":199327
+  },
+  {
+    "('Date', '')":"2025-07-25",
+    "('Close', 'BAJFINANCE.BO')":913.6500244141,
+    "('High', 'BAJFINANCE.BO')":924.9000244141,
+    "('Low', 'BAJFINANCE.BO')":897.6500244141,
+    "('Open', 'BAJFINANCE.BO')":908.0,
+    "('Volume', 'BAJFINANCE.BO')":1077459
+  },
+  {
+    "('Date', '')":"2025-07-28",
+    "('Close', 'BAJFINANCE.BO')":880.4000244141,
+    "('High', 'BAJFINANCE.BO')":913.950012207,
+    "('Low', 'BAJFINANCE.BO')":879.25,
+    "('Open', 'BAJFINANCE.BO')":910.0,
+    "('Volume', 'BAJFINANCE.BO')":374690
+  },
+  {
+    "('Date', '')":"2025-07-29",
+    "('Close', 'BAJFINANCE.BO')":886.700012207,
+    "('High', 'BAJFINANCE.BO')":893.8499755859,
+    "('Low', 'BAJFINANCE.BO')":873.049987793,
+    "('Open', 'BAJFINANCE.BO')":877.0,
+    "('Volume', 'BAJFINANCE.BO')":1154746
+  },
+  {
+    "('Date', '')":"2025-07-30",
+    "('Close', 'BAJFINANCE.BO')":885.0,
+    "('High', 'BAJFINANCE.BO')":892.549987793,
+    "('Low', 'BAJFINANCE.BO')":875.0,
+    "('Open', 'BAJFINANCE.BO')":887.049987793,
+    "('Volume', 'BAJFINANCE.BO')":297341
+  },
+  {
+    "('Date', '')":"2025-07-31",
+    "('Close', 'BAJFINANCE.BO')":880.75,
+    "('High', 'BAJFINANCE.BO')":887.799987793,
+    "('Low', 'BAJFINANCE.BO')":866.3499755859,
+    "('Open', 'BAJFINANCE.BO')":866.3499755859,
+    "('Volume', 'BAJFINANCE.BO')":227623
+  },
+  {
+    "('Date', '')":"2025-08-01",
+    "('Close', 'BAJFINANCE.BO')":876.950012207,
+    "('High', 'BAJFINANCE.BO')":895.5999755859,
+    "('Low', 'BAJFINANCE.BO')":872.549987793,
+    "('Open', 'BAJFINANCE.BO')":880.8499755859,
+    "('Volume', 'BAJFINANCE.BO')":285195
+  },
+  {
+    "('Date', '')":"2025-08-04",
+    "('Close', 'BAJFINANCE.BO')":885.3499755859,
+    "('High', 'BAJFINANCE.BO')":886.450012207,
+    "('Low', 'BAJFINANCE.BO')":873.049987793,
+    "('Open', 'BAJFINANCE.BO')":873.049987793,
+    "('Volume', 'BAJFINANCE.BO')":225120
+  },
+  {
+    "('Date', '')":"2025-08-05",
+    "('Close', 'BAJFINANCE.BO')":891.450012207,
+    "('High', 'BAJFINANCE.BO')":893.5,
+    "('Low', 'BAJFINANCE.BO')":882.5,
+    "('Open', 'BAJFINANCE.BO')":888.450012207,
+    "('Volume', 'BAJFINANCE.BO')":232093
+  },
+  {
+    "('Date', '')":"2025-08-06",
+    "('Close', 'BAJFINANCE.BO')":876.549987793,
+    "('High', 'BAJFINANCE.BO')":895.5,
+    "('Low', 'BAJFINANCE.BO')":874.8499755859,
+    "('Open', 'BAJFINANCE.BO')":889.950012207,
+    "('Volume', 'BAJFINANCE.BO')":96878
+  },
+  {
+    "('Date', '')":"2025-08-07",
+    "('Close', 'BAJFINANCE.BO')":878.799987793,
+    "('High', 'BAJFINANCE.BO')":882.4000244141,
+    "('Low', 'BAJFINANCE.BO')":867.0,
+    "('Open', 'BAJFINANCE.BO')":871.8499755859,
+    "('Volume', 'BAJFINANCE.BO')":137564
+  },
+  {
+    "('Date', '')":"2025-08-08",
+    "('Close', 'BAJFINANCE.BO')":877.25,
+    "('High', 'BAJFINANCE.BO')":888.0,
+    "('Low', 'BAJFINANCE.BO')":875.049987793,
+    "('Open', 'BAJFINANCE.BO')":875.049987793,
+    "('Volume', 'BAJFINANCE.BO')":155513
+  },
+  {
+    "('Date', '')":"2025-08-11",
+    "('Close', 'BAJFINANCE.BO')":878.0999755859,
+    "('High', 'BAJFINANCE.BO')":885.0,
+    "('Low', 'BAJFINANCE.BO')":873.0,
+    "('Open', 'BAJFINANCE.BO')":876.200012207,
+    "('Volume', 'BAJFINANCE.BO')":198560
+  },
+  {
+    "('Date', '')":"2025-08-12",
+    "('Close', 'BAJFINANCE.BO')":852.9000244141,
+    "('High', 'BAJFINANCE.BO')":884.4000244141,
+    "('Low', 'BAJFINANCE.BO')":852.0,
+    "('Open', 'BAJFINANCE.BO')":878.0,
+    "('Volume', 'BAJFINANCE.BO')":346528
+  },
+  {
+    "('Date', '')":"2025-08-13",
+    "('Close', 'BAJFINANCE.BO')":860.450012207,
+    "('High', 'BAJFINANCE.BO')":863.75,
+    "('Low', 'BAJFINANCE.BO')":848.6500244141,
+    "('Open', 'BAJFINANCE.BO')":856.6500244141,
+    "('Volume', 'BAJFINANCE.BO')":311401
+  },
+  {
+    "('Date', '')":"2025-08-14",
+    "('Close', 'BAJFINANCE.BO')":861.799987793,
+    "('High', 'BAJFINANCE.BO')":866.950012207,
+    "('Low', 'BAJFINANCE.BO')":855.299987793,
+    "('Open', 'BAJFINANCE.BO')":860.0,
+    "('Volume', 'BAJFINANCE.BO')":170385
+  },
+  {
+    "('Date', '')":"2025-08-18",
+    "('Close', 'BAJFINANCE.BO')":905.0999755859,
+    "('High', 'BAJFINANCE.BO')":919.1500244141,
+    "('Low', 'BAJFINANCE.BO')":875.049987793,
+    "('Open', 'BAJFINANCE.BO')":875.049987793,
+    "('Volume', 'BAJFINANCE.BO')":1221675
+  },
+  {
+    "('Date', '')":"2025-08-19",
+    "('Close', 'BAJFINANCE.BO')":902.5,
+    "('High', 'BAJFINANCE.BO')":910.0999755859,
+    "('Low', 'BAJFINANCE.BO')":890.5,
+    "('Open', 'BAJFINANCE.BO')":905.0999755859,
+    "('Volume', 'BAJFINANCE.BO')":174893
+  },
+  {
+    "('Date', '')":"2025-08-20",
+    "('Close', 'BAJFINANCE.BO')":887.700012207,
+    "('High', 'BAJFINANCE.BO')":902.3499755859,
+    "('Low', 'BAJFINANCE.BO')":886.200012207,
+    "('Open', 'BAJFINANCE.BO')":899.0999755859,
+    "('Volume', 'BAJFINANCE.BO')":250320
+  },
+  {
+    "('Date', '')":"2025-08-21",
+    "('Close', 'BAJFINANCE.BO')":895.700012207,
+    "('High', 'BAJFINANCE.BO')":901.299987793,
+    "('Low', 'BAJFINANCE.BO')":884.0,
+    "('Open', 'BAJFINANCE.BO')":887.75,
+    "('Volume', 'BAJFINANCE.BO')":206716
+  },
+  {
+    "('Date', '')":"2025-08-22",
+    "('Close', 'BAJFINANCE.BO')":894.6500244141,
+    "('High', 'BAJFINANCE.BO')":903.9000244141,
+    "('Low', 'BAJFINANCE.BO')":891.549987793,
+    "('Open', 'BAJFINANCE.BO')":895.700012207,
+    "('Volume', 'BAJFINANCE.BO')":412051
+  },
+  {
+    "('Date', '')":"2025-08-25",
+    "('Close', 'BAJFINANCE.BO')":900.5,
+    "('High', 'BAJFINANCE.BO')":908.0,
+    "('Low', 'BAJFINANCE.BO')":898.4000244141,
+    "('Open', 'BAJFINANCE.BO')":902.950012207,
+    "('Volume', 'BAJFINANCE.BO')":583088
+  },
+  {
+    "('Date', '')":"2025-08-26",
+    "('Close', 'BAJFINANCE.BO')":876.5,
+    "('High', 'BAJFINANCE.BO')":901.5999755859,
+    "('Low', 'BAJFINANCE.BO')":873.299987793,
+    "('Open', 'BAJFINANCE.BO')":901.5999755859,
+    "('Volume', 'BAJFINANCE.BO')":595684
+  },
+  {
+    "('Date', '')":"2025-08-28",
+    "('Close', 'BAJFINANCE.BO')":877.049987793,
+    "('High', 'BAJFINANCE.BO')":884.799987793,
+    "('Low', 'BAJFINANCE.BO')":870.0,
+    "('Open', 'BAJFINANCE.BO')":870.200012207,
+    "('Volume', 'BAJFINANCE.BO')":254874
+  },
+  {
+    "('Date', '')":"2025-08-29",
+    "('Close', 'BAJFINANCE.BO')":877.799987793,
+    "('High', 'BAJFINANCE.BO')":887.950012207,
+    "('Low', 'BAJFINANCE.BO')":870.0,
+    "('Open', 'BAJFINANCE.BO')":870.0,
+    "('Volume', 'BAJFINANCE.BO')":235969
+  },
+  {
+    "('Date', '')":"2025-09-01",
+    "('Close', 'BAJFINANCE.BO')":889.049987793,
+    "('High', 'BAJFINANCE.BO')":894.700012207,
+    "('Low', 'BAJFINANCE.BO')":877.799987793,
+    "('Open', 'BAJFINANCE.BO')":877.799987793,
+    "('Volume', 'BAJFINANCE.BO')":110058
+  },
+  {
+    "('Date', '')":"2025-09-02",
+    "('Close', 'BAJFINANCE.BO')":890.450012207,
+    "('High', 'BAJFINANCE.BO')":899.5,
+    "('Low', 'BAJFINANCE.BO')":886.5,
+    "('Open', 'BAJFINANCE.BO')":897.0,
+    "('Volume', 'BAJFINANCE.BO')":141332
+  },
+  {
+    "('Date', '')":"2025-09-03",
+    "('Close', 'BAJFINANCE.BO')":896.5,
+    "('High', 'BAJFINANCE.BO')":898.799987793,
+    "('Low', 'BAJFINANCE.BO')":880.049987793,
+    "('Open', 'BAJFINANCE.BO')":896.8499755859,
+    "('Volume', 'BAJFINANCE.BO')":148427
+  },
+  {
+    "('Date', '')":"2025-09-04",
+    "('Close', 'BAJFINANCE.BO')":934.8499755859,
+    "('High', 'BAJFINANCE.BO')":948.200012207,
+    "('Low', 'BAJFINANCE.BO')":912.9000244141,
+    "('Open', 'BAJFINANCE.BO')":915.0,
+    "('Volume', 'BAJFINANCE.BO')":1990383
+  },
+  {
+    "('Date', '')":"2025-09-05",
+    "('Close', 'BAJFINANCE.BO')":937.6500244141,
+    "('High', 'BAJFINANCE.BO')":941.75,
+    "('Low', 'BAJFINANCE.BO')":932.1500244141,
+    "('Open', 'BAJFINANCE.BO')":940.8499755859,
+    "('Volume', 'BAJFINANCE.BO')":376518
+  },
+  {
+    "('Date', '')":"2025-09-08",
+    "('Close', 'BAJFINANCE.BO')":944.25,
+    "('High', 'BAJFINANCE.BO')":949.5999755859,
+    "('Low', 'BAJFINANCE.BO')":935.0999755859,
+    "('Open', 'BAJFINANCE.BO')":935.0999755859,
+    "('Volume', 'BAJFINANCE.BO')":231782
+  },
+  {
+    "('Date', '')":"2025-09-09",
+    "('Close', 'BAJFINANCE.BO')":948.0999755859,
+    "('High', 'BAJFINANCE.BO')":949.450012207,
+    "('Low', 'BAJFINANCE.BO')":940.3499755859,
+    "('Open', 'BAJFINANCE.BO')":944.25,
+    "('Volume', 'BAJFINANCE.BO')":108863
+  },
+  {
+    "('Date', '')":"2025-09-10",
+    "('Close', 'BAJFINANCE.BO')":968.049987793,
+    "('High', 'BAJFINANCE.BO')":969.5,
+    "('Low', 'BAJFINANCE.BO')":947.700012207,
+    "('Open', 'BAJFINANCE.BO')":953.950012207,
+    "('Volume', 'BAJFINANCE.BO')":279991
+  },
+  {
+    "('Date', '')":"2025-09-11",
+    "('Close', 'BAJFINANCE.BO')":970.1500244141,
+    "('High', 'BAJFINANCE.BO')":976.0,
+    "('Low', 'BAJFINANCE.BO')":965.5,
+    "('Open', 'BAJFINANCE.BO')":968.049987793,
+    "('Volume', 'BAJFINANCE.BO')":687682
+  },
+  {
+    "('Date', '')":"2025-09-12",
+    "('Close', 'BAJFINANCE.BO')":1003.200012207,
+    "('High', 'BAJFINANCE.BO')":1004.5999755859,
+    "('Low', 'BAJFINANCE.BO')":970.799987793,
+    "('Open', 'BAJFINANCE.BO')":976.049987793,
+    "('Volume', 'BAJFINANCE.BO')":451076
+  },
+  {
+    "('Date', '')":"2025-09-15",
+    "('Close', 'BAJFINANCE.BO')":1010.049987793,
+    "('High', 'BAJFINANCE.BO')":1025.75,
+    "('Low', 'BAJFINANCE.BO')":998.950012207,
+    "('Open', 'BAJFINANCE.BO')":999.0,
+    "('Volume', 'BAJFINANCE.BO')":340022
+  },
+  {
+    "('Date', '')":"2025-09-16",
+    "('Close', 'BAJFINANCE.BO')":1003.049987793,
+    "('High', 'BAJFINANCE.BO')":1015.0999755859,
+    "('Low', 'BAJFINANCE.BO')":1000.0,
+    "('Open', 'BAJFINANCE.BO')":1009.950012207,
+    "('Volume', 'BAJFINANCE.BO')":416291
+  },
+  {
+    "('Date', '')":"2025-09-17",
+    "('Close', 'BAJFINANCE.BO')":1006.5,
+    "('High', 'BAJFINANCE.BO')":1011.4000244141,
+    "('Low', 'BAJFINANCE.BO')":1000.700012207,
+    "('Open', 'BAJFINANCE.BO')":1007.200012207,
+    "('Volume', 'BAJFINANCE.BO')":486322
+  },
+  {
+    "('Date', '')":"2025-09-18",
+    "('Close', 'BAJFINANCE.BO')":998.1500244141,
+    "('High', 'BAJFINANCE.BO')":1009.950012207,
+    "('Low', 'BAJFINANCE.BO')":990.4000244141,
+    "('Open', 'BAJFINANCE.BO')":1009.950012207,
+    "('Volume', 'BAJFINANCE.BO')":480162
+  },
+  {
+    "('Date', '')":"2025-09-19",
+    "('Close', 'BAJFINANCE.BO')":993.0,
+    "('High', 'BAJFINANCE.BO')":996.0,
+    "('Low', 'BAJFINANCE.BO')":988.3499755859,
+    "('Open', 'BAJFINANCE.BO')":992.0,
+    "('Volume', 'BAJFINANCE.BO')":380748
+  },
+  {
+    "('Date', '')":"2025-09-22",
+    "('Close', 'BAJFINANCE.BO')":1006.0,
+    "('High', 'BAJFINANCE.BO')":1010.950012207,
+    "('Low', 'BAJFINANCE.BO')":986.549987793,
+    "('Open', 'BAJFINANCE.BO')":986.549987793,
+    "('Volume', 'BAJFINANCE.BO')":497334
+  },
+  {
+    "('Date', '')":"2025-09-23",
+    "('Close', 'BAJFINANCE.BO')":1025.6500244141,
+    "('High', 'BAJFINANCE.BO')":1028.5999755859,
+    "('Low', 'BAJFINANCE.BO')":1003.299987793,
+    "('Open', 'BAJFINANCE.BO')":1005.950012207,
+    "('Volume', 'BAJFINANCE.BO')":429989
+  },
+  {
+    "('Date', '')":"2025-09-24",
+    "('Close', 'BAJFINANCE.BO')":1029.9000244141,
+    "('High', 'BAJFINANCE.BO')":1035.9499511719,
+    "('Low', 'BAJFINANCE.BO')":1020.4000244141,
+    "('Open', 'BAJFINANCE.BO')":1025.4000244141,
+    "('Volume', 'BAJFINANCE.BO')":693680
+  },
+  {
+    "('Date', '')":"2025-09-25",
+    "('Close', 'BAJFINANCE.BO')":1012.8499755859,
+    "('High', 'BAJFINANCE.BO')":1031.0,
+    "('Low', 'BAJFINANCE.BO')":1007.549987793,
+    "('Open', 'BAJFINANCE.BO')":1023.0,
+    "('Volume', 'BAJFINANCE.BO')":687152
+  },
+  {
+    "('Date', '')":"2025-09-26",
+    "('Close', 'BAJFINANCE.BO')":985.0,
+    "('High', 'BAJFINANCE.BO')":1011.950012207,
+    "('Low', 'BAJFINANCE.BO')":981.0,
+    "('Open', 'BAJFINANCE.BO')":1011.950012207,
+    "('Volume', 'BAJFINANCE.BO')":270333
+  },
+  {
+    "('Date', '')":"2025-09-29",
+    "('Close', 'BAJFINANCE.BO')":991.0999755859,
+    "('High', 'BAJFINANCE.BO')":997.450012207,
+    "('Low', 'BAJFINANCE.BO')":981.049987793,
+    "('Open', 'BAJFINANCE.BO')":992.0,
+    "('Volume', 'BAJFINANCE.BO')":156256
+  },
+  {
+    "('Date', '')":"2025-09-30",
+    "('Close', 'BAJFINANCE.BO')":998.5999755859,
+    "('High', 'BAJFINANCE.BO')":1002.200012207,
+    "('Low', 'BAJFINANCE.BO')":990.049987793,
+    "('Open', 'BAJFINANCE.BO')":991.0999755859,
+    "('Volume', 'BAJFINANCE.BO')":127803
+  },
+  {
+    "('Date', '')":"2025-10-01",
+    "('Close', 'BAJFINANCE.BO')":987.5999755859,
+    "('High', 'BAJFINANCE.BO')":999.549987793,
+    "('Low', 'BAJFINANCE.BO')":978.0,
+    "('Open', 'BAJFINANCE.BO')":992.1500244141,
+    "('Volume', 'BAJFINANCE.BO')":666162
+  },
+  {
+    "('Date', '')":"2025-10-03",
+    "('Close', 'BAJFINANCE.BO')":989.6500244141,
+    "('High', 'BAJFINANCE.BO')":992.0,
+    "('Low', 'BAJFINANCE.BO')":972.3499755859,
+    "('Open', 'BAJFINANCE.BO')":979.0,
+    "('Volume', 'BAJFINANCE.BO')":105157
+  },
+  {
+    "('Date', '')":"2025-10-06",
+    "('Close', 'BAJFINANCE.BO')":1008.9000244141,
+    "('High', 'BAJFINANCE.BO')":1023.0,
+    "('Low', 'BAJFINANCE.BO')":990.5,
+    "('Open', 'BAJFINANCE.BO')":990.5,
+    "('Volume', 'BAJFINANCE.BO')":276964
+  },
+  {
+    "('Date', '')":"2025-10-07",
+    "('Close', 'BAJFINANCE.BO')":1017.799987793,
+    "('High', 'BAJFINANCE.BO')":1029.5,
+    "('Low', 'BAJFINANCE.BO')":1007.549987793,
+    "('Open', 'BAJFINANCE.BO')":1007.549987793,
+    "('Volume', 'BAJFINANCE.BO')":830860
+  },
+  {
+    "('Date', '')":"2025-10-08",
+    "('Close', 'BAJFINANCE.BO')":1023.0,
+    "('High', 'BAJFINANCE.BO')":1027.9499511719,
+    "('Low', 'BAJFINANCE.BO')":1014.0,
+    "('Open', 'BAJFINANCE.BO')":1015.0,
+    "('Volume', 'BAJFINANCE.BO')":358616
+  },
+  {
+    "('Date', '')":"2025-10-09",
+    "('Close', 'BAJFINANCE.BO')":1024.1999511719,
+    "('High', 'BAJFINANCE.BO')":1029.0,
+    "('Low', 'BAJFINANCE.BO')":1014.9000244141,
+    "('Open', 'BAJFINANCE.BO')":1024.75,
+    "('Volume', 'BAJFINANCE.BO')":606004
+  },
+  {
+    "('Date', '')":"2025-10-10",
+    "('Close', 'BAJFINANCE.BO')":1023.700012207,
+    "('High', 'BAJFINANCE.BO')":1027.5,
+    "('Low', 'BAJFINANCE.BO')":1017.0,
+    "('Open', 'BAJFINANCE.BO')":1020.0,
+    "('Volume', 'BAJFINANCE.BO')":187341
+  },
+  {
+    "('Date', '')":"2025-10-13",
+    "('Close', 'BAJFINANCE.BO')":1037.25,
+    "('High', 'BAJFINANCE.BO')":1039.5999755859,
+    "('Low', 'BAJFINANCE.BO')":1022.0,
+    "('Open', 'BAJFINANCE.BO')":1028.0,
+    "('Volume', 'BAJFINANCE.BO')":146102
+  },
+  {
+    "('Date', '')":"2025-10-14",
+    "('Close', 'BAJFINANCE.BO')":1018.5999755859,
+    "('High', 'BAJFINANCE.BO')":1042.5999755859,
+    "('Low', 'BAJFINANCE.BO')":1011.3499755859,
+    "('Open', 'BAJFINANCE.BO')":1040.0,
+    "('Volume', 'BAJFINANCE.BO')":269610
+  },
+  {
+    "('Date', '')":"2025-10-15",
+    "('Close', 'BAJFINANCE.BO')":1059.6500244141,
+    "('High', 'BAJFINANCE.BO')":1062.0,
+    "('Low', 'BAJFINANCE.BO')":1018.5999755859,
+    "('Open', 'BAJFINANCE.BO')":1030.75,
+    "('Volume', 'BAJFINANCE.BO')":422354
+  },
+  {
+    "('Date', '')":"2025-10-16",
+    "('Close', 'BAJFINANCE.BO')":1065.8000488281,
+    "('High', 'BAJFINANCE.BO')":1081.5,
+    "('Low', 'BAJFINANCE.BO')":1059.0,
+    "('Open', 'BAJFINANCE.BO')":1060.0999755859,
+    "('Volume', 'BAJFINANCE.BO')":1608807
+  },
+  {
+    "('Date', '')":"2025-10-17",
+    "('Close', 'BAJFINANCE.BO')":1070.1500244141,
+    "('High', 'BAJFINANCE.BO')":1076.4499511719,
+    "('Low', 'BAJFINANCE.BO')":1058.0,
+    "('Open', 'BAJFINANCE.BO')":1060.0,
+    "('Volume', 'BAJFINANCE.BO')":407793
+  },
+  {
+    "('Date', '')":"2025-10-20",
+    "('Close', 'BAJFINANCE.BO')":1080.9499511719,
+    "('High', 'BAJFINANCE.BO')":1086.3499755859,
+    "('Low', 'BAJFINANCE.BO')":1072.0999755859,
+    "('Open', 'BAJFINANCE.BO')":1080.0500488281,
+    "('Volume', 'BAJFINANCE.BO')":319272
+  },
+  {
+    "('Date', '')":"2025-10-21",
+    "('Close', 'BAJFINANCE.BO')":1086.6999511719,
+    "('High', 'BAJFINANCE.BO')":1089.9499511719,
+    "('Low', 'BAJFINANCE.BO')":1081.5,
+    "('Open', 'BAJFINANCE.BO')":1089.9499511719,
+    "('Volume', 'BAJFINANCE.BO')":85058
+  },
+  {
+    "('Date', '')":"2025-10-23",
+    "('Close', 'BAJFINANCE.BO')":1094.1999511719,
+    "('High', 'BAJFINANCE.BO')":1102.4499511719,
+    "('Low', 'BAJFINANCE.BO')":1084.0999755859,
+    "('Open', 'BAJFINANCE.BO')":1090.0,
+    "('Volume', 'BAJFINANCE.BO')":604530
+  },
+  {
+    "('Date', '')":"2025-10-24",
+    "('Close', 'BAJFINANCE.BO')":1089.3499755859,
+    "('High', 'BAJFINANCE.BO')":1098.5,
+    "('Low', 'BAJFINANCE.BO')":1087.0999755859,
+    "('Open', 'BAJFINANCE.BO')":1094.1999511719,
+    "('Volume', 'BAJFINANCE.BO')":233312
+  },
+  {
+    "('Date', '')":"2025-10-27",
+    "('Close', 'BAJFINANCE.BO')":1084.1999511719,
+    "('High', 'BAJFINANCE.BO')":1091.0,
+    "('Low', 'BAJFINANCE.BO')":1076.0,
+    "('Open', 'BAJFINANCE.BO')":1091.0,
+    "('Volume', 'BAJFINANCE.BO')":380679
+  },
+  {
+    "('Date', '')":"2025-10-28",
+    "('Close', 'BAJFINANCE.BO')":1074.8000488281,
+    "('High', 'BAJFINANCE.BO')":1087.9000244141,
+    "('Low', 'BAJFINANCE.BO')":1063.0999755859,
+    "('Open', 'BAJFINANCE.BO')":1081.9000244141,
+    "('Volume', 'BAJFINANCE.BO')":349044
+  },
+  {
+    "('Date', '')":"2025-10-29",
+    "('Close', 'BAJFINANCE.BO')":1063.0,
+    "('High', 'BAJFINANCE.BO')":1079.4000244141,
+    "('Low', 'BAJFINANCE.BO')":1061.0,
+    "('Open', 'BAJFINANCE.BO')":1065.9499511719,
+    "('Volume', 'BAJFINANCE.BO')":93566
+  },
+  {
+    "('Date', '')":"2025-10-30",
+    "('Close', 'BAJFINANCE.BO')":1051.9499511719,
+    "('High', 'BAJFINANCE.BO')":1066.75,
+    "('Low', 'BAJFINANCE.BO')":1045.0999755859,
+    "('Open', 'BAJFINANCE.BO')":1063.1999511719,
+    "('Volume', 'BAJFINANCE.BO')":466151
+  },
+  {
+    "('Date', '')":"2025-10-31",
+    "('Close', 'BAJFINANCE.BO')":1042.5999755859,
+    "('High', 'BAJFINANCE.BO')":1069.6999511719,
+    "('Low', 'BAJFINANCE.BO')":1041.5,
+    "('Open', 'BAJFINANCE.BO')":1052.0999755859,
+    "('Volume', 'BAJFINANCE.BO')":190124
+  },
+  {
+    "('Date', '')":"2025-11-03",
+    "('Close', 'BAJFINANCE.BO')":1042.9000244141,
+    "('High', 'BAJFINANCE.BO')":1047.6999511719,
+    "('Low', 'BAJFINANCE.BO')":1031.5,
+    "('Open', 'BAJFINANCE.BO')":1035.8499755859,
+    "('Volume', 'BAJFINANCE.BO')":79226
+  },
+  {
+    "('Date', '')":"2025-11-04",
+    "('Close', 'BAJFINANCE.BO')":1056.9499511719,
+    "('High', 'BAJFINANCE.BO')":1060.4499511719,
+    "('Low', 'BAJFINANCE.BO')":1035.5,
+    "('Open', 'BAJFINANCE.BO')":1044.0,
+    "('Volume', 'BAJFINANCE.BO')":138003
+  },
+  {
+    "('Date', '')":"2025-11-06",
+    "('Close', 'BAJFINANCE.BO')":1041.5999755859,
+    "('High', 'BAJFINANCE.BO')":1053.0,
+    "('Low', 'BAJFINANCE.BO')":1037.0500488281,
+    "('Open', 'BAJFINANCE.BO')":1042.0999755859,
+    "('Volume', 'BAJFINANCE.BO')":560302
+  },
+  {
+    "('Date', '')":"2025-11-07",
+    "('Close', 'BAJFINANCE.BO')":1066.6500244141,
+    "('High', 'BAJFINANCE.BO')":1077.0,
+    "('Low', 'BAJFINANCE.BO')":1034.4000244141,
+    "('Open', 'BAJFINANCE.BO')":1040.5500488281,
+    "('Volume', 'BAJFINANCE.BO')":147839
+  },
+  {
+    "('Date', '')":"2025-11-10",
+    "('Close', 'BAJFINANCE.BO')":1085.4000244141,
+    "('High', 'BAJFINANCE.BO')":1087.9000244141,
+    "('Low', 'BAJFINANCE.BO')":1063.0500488281,
+    "('Open', 'BAJFINANCE.BO')":1069.4000244141,
+    "('Volume', 'BAJFINANCE.BO')":392999
+  },
+  {
+    "('Date', '')":"2025-11-11",
+    "('Close', 'BAJFINANCE.BO')":1005.3499755859,
+    "('High', 'BAJFINANCE.BO')":1044.6500244141,
+    "('Low', 'BAJFINANCE.BO')":997.0,
+    "('Open', 'BAJFINANCE.BO')":1042.0500488281,
+    "('Volume', 'BAJFINANCE.BO')":1101846
+  },
+  {
+    "('Date', '')":"2025-11-12",
+    "('Close', 'BAJFINANCE.BO')":1011.9000244141,
+    "('High', 'BAJFINANCE.BO')":1018.450012207,
+    "('Low', 'BAJFINANCE.BO')":1009.0999755859,
+    "('Open', 'BAJFINANCE.BO')":1009.0999755859,
+    "('Volume', 'BAJFINANCE.BO')":429379
+  },
+  {
+    "('Date', '')":"2025-11-13",
+    "('Close', 'BAJFINANCE.BO')":1005.1500244141,
+    "('High', 'BAJFINANCE.BO')":1019.8499755859,
+    "('Low', 'BAJFINANCE.BO')":1003.3499755859,
+    "('Open', 'BAJFINANCE.BO')":1011.9000244141,
+    "('Volume', 'BAJFINANCE.BO')":916763
+  }
+]

@@ -1,0 +1,1994 @@
+[
+  {
+    "('Date', '')":"2024-11-11",
+    "('Close', 'HCLTECH.NS')":1798.8963623047,
+    "('High', 'HCLTECH.NS')":1805.3508781701,
+    "('Low', 'HCLTECH.NS')":1766.8161742604,
+    "('Open', 'HCLTECH.NS')":1779.0508957123,
+    "('Volume', 'HCLTECH.NS')":1679869
+  },
+  {
+    "('Date', '')":"2024-11-12",
+    "('Close', 'HCLTECH.NS')":1804.2430419922,
+    "('High', 'HCLTECH.NS')":1823.6067078319,
+    "('Low', 'HCLTECH.NS')":1796.150730382,
+    "('Open', 'HCLTECH.NS')":1821.7281879932,
+    "('Volume', 'HCLTECH.NS')":2711052
+  },
+  {
+    "('Date', '')":"2024-11-13",
+    "('Close', 'HCLTECH.NS')":1796.4398193359,
+    "('High', 'HCLTECH.NS')":1810.7458053709,
+    "('Low', 'HCLTECH.NS')":1790.9967686119,
+    "('Open', 'HCLTECH.NS')":1797.6440288944,
+    "('Volume', 'HCLTECH.NS')":1254074
+  },
+  {
+    "('Date', '')":"2024-11-14",
+    "('Close', 'HCLTECH.NS')":1790.8521728516,
+    "('High', 'HCLTECH.NS')":1827.5083574777,
+    "('Low', 'HCLTECH.NS')":1778.7137644766,
+    "('Open', 'HCLTECH.NS')":1803.4241672105,
+    "('Volume', 'HCLTECH.NS')":2462563
+  },
+  {
+    "('Date', '')":"2024-11-18",
+    "('Close', 'HCLTECH.NS')":1767.7795410156,
+    "('High', 'HCLTECH.NS')":1796.7287843534,
+    "('Low', 'HCLTECH.NS')":1748.51218907,
+    "('Open', 'HCLTECH.NS')":1790.8521479311,
+    "('Volume', 'HCLTECH.NS')":2483933
+  },
+  {
+    "('Date', '')":"2024-11-19",
+    "('Close', 'HCLTECH.NS')":1753.8590087891,
+    "('High', 'HCLTECH.NS')":1796.6806534635,
+    "('Low', 'HCLTECH.NS')":1750.7280639506,
+    "('Open', 'HCLTECH.NS')":1769.7063594705,
+    "('Volume', 'HCLTECH.NS')":2354204
+  },
+  {
+    "('Date', '')":"2024-11-21",
+    "('Close', 'HCLTECH.NS')":1769.0799560547,
+    "('High', 'HCLTECH.NS')":1772.1628027375,
+    "('Low', 'HCLTECH.NS')":1753.521546786,
+    "('Open', 'HCLTECH.NS')":1767.7794333972,
+    "('Volume', 'HCLTECH.NS')":1841245
+  },
+  {
+    "('Date', '')":"2024-11-22",
+    "('Close', 'HCLTECH.NS')":1828.8571777344,
+    "('High', 'HCLTECH.NS')":1832.3252777688,
+    "('Low', 'HCLTECH.NS')":1769.2246964366,
+    "('Open', 'HCLTECH.NS')":1778.713844308,
+    "('Volume', 'HCLTECH.NS')":2765950
+  },
+  {
+    "('Date', '')":"2024-11-25",
+    "('Close', 'HCLTECH.NS')":1822.4025878906,
+    "('High', 'HCLTECH.NS')":1849.6177247711,
+    "('Low', 'HCLTECH.NS')":1809.6861815912,
+    "('Open', 'HCLTECH.NS')":1848.7025725172,
+    "('Volume', 'HCLTECH.NS')":6531524
+  },
+  {
+    "('Date', '')":"2024-11-26",
+    "('Close', 'HCLTECH.NS')":1829.9650878906,
+    "('High', 'HCLTECH.NS')":1844.8008557944,
+    "('Low', 'HCLTECH.NS')":1819.9460406943,
+    "('Open', 'HCLTECH.NS')":1820.861192933,
+    "('Volume', 'HCLTECH.NS')":2079873
+  },
+  {
+    "('Date', '')":"2024-11-27",
+    "('Close', 'HCLTECH.NS')":1821.7764892578,
+    "('High', 'HCLTECH.NS')":1846.7758333902,
+    "('Low', 'HCLTECH.NS')":1817.9711163816,
+    "('Open', 'HCLTECH.NS')":1827.2676379671,
+    "('Volume', 'HCLTECH.NS')":1631975
+  },
+  {
+    "('Date', '')":"2024-11-28",
+    "('Close', 'HCLTECH.NS')":1773.4633789062,
+    "('High', 'HCLTECH.NS')":1830.8800624217,
+    "('Low', 'HCLTECH.NS')":1767.7794867371,
+    "('Open', 'HCLTECH.NS')":1816.0441783593,
+    "('Volume', 'HCLTECH.NS')":3631255
+  },
+  {
+    "('Date', '')":"2024-11-29",
+    "('Close', 'HCLTECH.NS')":1780.3516845703,
+    "('High', 'HCLTECH.NS')":1803.7133507645,
+    "('Low', 'HCLTECH.NS')":1766.7681062301,
+    "('Open', 'HCLTECH.NS')":1774.5232630783,
+    "('Volume', 'HCLTECH.NS')":2482280
+  },
+  {
+    "('Date', '')":"2024-12-02",
+    "('Close', 'HCLTECH.NS')":1802.9425048828,
+    "('High', 'HCLTECH.NS')":1809.7342936585,
+    "('Low', 'HCLTECH.NS')":1768.2130550643,
+    "('Open', 'HCLTECH.NS')":1780.3515811825,
+    "('Volume', 'HCLTECH.NS')":2014744
+  },
+  {
+    "('Date', '')":"2024-12-03",
+    "('Close', 'HCLTECH.NS')":1821.4874267578,
+    "('High', 'HCLTECH.NS')":1826.8341643796,
+    "('Low', 'HCLTECH.NS')":1803.4724983217,
+    "('Open', 'HCLTECH.NS')":1814.9846949685,
+    "('Volume', 'HCLTECH.NS')":2954648
+  },
+  {
+    "('Date', '')":"2024-12-04",
+    "('Close', 'HCLTECH.NS')":1828.1345214844,
+    "('High', 'HCLTECH.NS')":1840.9954552264,
+    "('Low', 'HCLTECH.NS')":1808.8189543626,
+    "('Open', 'HCLTECH.NS')":1813.057795257,
+    "('Volume', 'HCLTECH.NS')":3730643
+  },
+  {
+    "('Date', '')":"2024-12-05",
+    "('Close', 'HCLTECH.NS')":1853.5194091797,
+    "('High', 'HCLTECH.NS')":1867.1028698956,
+    "('Low', 'HCLTECH.NS')":1814.9847021281,
+    "('Open', 'HCLTECH.NS')":1815.9480698044,
+    "('Volume', 'HCLTECH.NS')":3881814
+  },
+  {
+    "('Date', '')":"2024-12-06",
+    "('Close', 'HCLTECH.NS')":1852.2668457031,
+    "('High', 'HCLTECH.NS')":1868.306939834,
+    "('Low', 'HCLTECH.NS')":1845.1380195103,
+    "('Open', 'HCLTECH.NS')":1855.4460058367,
+    "('Volume', 'HCLTECH.NS')":2250408
+  },
+  {
+    "('Date', '')":"2024-12-09",
+    "('Close', 'HCLTECH.NS')":1839.9359130859,
+    "('High', 'HCLTECH.NS')":1855.4943242786,
+    "('Low', 'HCLTECH.NS')":1831.3619174121,
+    "('Open', 'HCLTECH.NS')":1844.8490646208,
+    "('Volume', 'HCLTECH.NS')":1379520
+  },
+  {
+    "('Date', '')":"2024-12-10",
+    "('Close', 'HCLTECH.NS')":1865.4169921875,
+    "('High', 'HCLTECH.NS')":1871.6307843111,
+    "('Low', 'HCLTECH.NS')":1842.1516390893,
+    "('Open', 'HCLTECH.NS')":1846.245951748,
+    "('Volume', 'HCLTECH.NS')":2695207
+  },
+  {
+    "('Date', '')":"2024-12-11",
+    "('Close', 'HCLTECH.NS')":1860.1665039062,
+    "('High', 'HCLTECH.NS')":1863.9236610287,
+    "('Low', 'HCLTECH.NS')":1845.8123032889,
+    "('Open', 'HCLTECH.NS')":1855.686821091,
+    "('Volume', 'HCLTECH.NS')":1387117
+  },
+  {
+    "('Date', '')":"2024-12-12",
+    "('Close', 'HCLTECH.NS')":1865.2723388672,
+    "('High', 'HCLTECH.NS')":1877.603491443,
+    "('Low', 'HCLTECH.NS')":1851.1108818921,
+    "('Open', 'HCLTECH.NS')":1854.4344531418,
+    "('Volume', 'HCLTECH.NS')":2306173
+  },
+  {
+    "('Date', '')":"2024-12-13",
+    "('Close', 'HCLTECH.NS')":1896.6782226562,
+    "('High', 'HCLTECH.NS')":1902.6510548777,
+    "('Low', 'HCLTECH.NS')":1842.2960497944,
+    "('Open', 'HCLTECH.NS')":1867.9698204597,
+    "('Volume', 'HCLTECH.NS')":2569918
+  },
+  {
+    "('Date', '')":"2024-12-16",
+    "('Close', 'HCLTECH.NS')":1882.8056640625,
+    "('High', 'HCLTECH.NS')":1907.4678511434,
+    "('Low', 'HCLTECH.NS')":1878.8076649962,
+    "('Open', 'HCLTECH.NS')":1898.6530140692,
+    "('Volume', 'HCLTECH.NS')":1371189
+  },
+  {
+    "('Date', '')":"2024-12-17",
+    "('Close', 'HCLTECH.NS')":1879.1448974609,
+    "('High', 'HCLTECH.NS')":1891.2833062207,
+    "('Low', 'HCLTECH.NS')":1867.0064887012,
+    "('Open', 'HCLTECH.NS')":1874.0391195216,
+    "('Volume', 'HCLTECH.NS')":1987909
+  },
+  {
+    "('Date', '')":"2024-12-18",
+    "('Close', 'HCLTECH.NS')":1888.5375976562,
+    "('High', 'HCLTECH.NS')":1899.7126379801,
+    "('Low', 'HCLTECH.NS')":1875.435822187,
+    "('Open', 'HCLTECH.NS')":1877.6033992256,
+    "('Volume', 'HCLTECH.NS')":3460812
+  },
+  {
+    "('Date', '')":"2024-12-19",
+    "('Close', 'HCLTECH.NS')":1863.3937988281,
+    "('High', 'HCLTECH.NS')":1874.9059947232,
+    "('Low', 'HCLTECH.NS')":1840.0321342958,
+    "('Open', 'HCLTECH.NS')":1840.0321342958,
+    "('Volume', 'HCLTECH.NS')":1916115
+  },
+  {
+    "('Date', '')":"2024-12-20",
+    "('Close', 'HCLTECH.NS')":1841.3326416016,
+    "('High', 'HCLTECH.NS')":1885.9366085903,
+    "('Low', 'HCLTECH.NS')":1826.9303429986,
+    "('Open', 'HCLTECH.NS')":1882.9982903663,
+    "('Volume', 'HCLTECH.NS')":3786921
+  },
+  {
+    "('Date', '')":"2024-12-23",
+    "('Close', 'HCLTECH.NS')":1833.2885742188,
+    "('High', 'HCLTECH.NS')":1868.3551789794,
+    "('Low', 'HCLTECH.NS')":1829.5796324149,
+    "('Open', 'HCLTECH.NS')":1848.2207722747,
+    "('Volume', 'HCLTECH.NS')":2058339
+  },
+  {
+    "('Date', '')":"2024-12-24",
+    "('Close', 'HCLTECH.NS')":1827.4600830078,
+    "('High', 'HCLTECH.NS')":1853.1820679412,
+    "('Low', 'HCLTECH.NS')":1820.0421996846,
+    "('Open', 'HCLTECH.NS')":1838.6833388294,
+    "('Volume', 'HCLTECH.NS')":1310301
+  },
+  {
+    "('Date', '')":"2024-12-26",
+    "('Close', 'HCLTECH.NS')":1831.12109375,
+    "('High', 'HCLTECH.NS')":1838.9725637588,
+    "('Low', 'HCLTECH.NS')":1817.200477996,
+    "('Open', 'HCLTECH.NS')":1835.793403417,
+    "('Volume', 'HCLTECH.NS')":1065107
+  },
+  {
+    "('Date', '')":"2024-12-27",
+    "('Close', 'HCLTECH.NS')":1822.6915283203,
+    "('High', 'HCLTECH.NS')":1833.1922588478,
+    "('Low', 'HCLTECH.NS')":1813.7321624577,
+    "('Open', 'HCLTECH.NS')":1830.3984692434,
+    "('Volume', 'HCLTECH.NS')":1328546
+  },
+  {
+    "('Date', '')":"2024-12-30",
+    "('Close', 'HCLTECH.NS')":1858.2879638672,
+    "('High', 'HCLTECH.NS')":1896.822669503,
+    "('Low', 'HCLTECH.NS')":1797.3068627576,
+    "('Open', 'HCLTECH.NS')":1818.8381060119,
+    "('Volume', 'HCLTECH.NS')":6262203
+  },
+  {
+    "('Date', '')":"2024-12-31",
+    "('Close', 'HCLTECH.NS')":1847.1610107422,
+    "('High', 'HCLTECH.NS')":1857.180057036,
+    "('Low', 'HCLTECH.NS')":1809.7342039951,
+    "('Open', 'HCLTECH.NS')":1845.0415315193,
+    "('Volume', 'HCLTECH.NS')":1968650
+  },
+  {
+    "('Date', '')":"2025-01-01",
+    "('Close', 'HCLTECH.NS')":1841.9106445312,
+    "('High', 'HCLTECH.NS')":1865.9948346457,
+    "('Low', 'HCLTECH.NS')":1838.0090762919,
+    "('Open', 'HCLTECH.NS')":1847.1610685353,
+    "('Volume', 'HCLTECH.NS')":880695
+  },
+  {
+    "('Date', '')":"2025-01-02",
+    "('Close', 'HCLTECH.NS')":1899.9536132812,
+    "('High', 'HCLTECH.NS')":1903.9035146856,
+    "('Low', 'HCLTECH.NS')":1840.0804085117,
+    "('Open', 'HCLTECH.NS')":1841.9107129495,
+    "('Volume', 'HCLTECH.NS')":3487645
+  },
+  {
+    "('Date', '')":"2025-01-03",
+    "('Close', 'HCLTECH.NS')":1875.3394775391,
+    "('High', 'HCLTECH.NS')":1919.1244859463,
+    "('Low', 'HCLTECH.NS')":1869.8964273247,
+    "('Open', 'HCLTECH.NS')":1907.4677620313,
+    "('Volume', 'HCLTECH.NS')":2853344
+  },
+  {
+    "('Date', '')":"2025-01-06",
+    "('Close', 'HCLTECH.NS')":1881.5052490234,
+    "('High', 'HCLTECH.NS')":1901.1097573183,
+    "('Low', 'HCLTECH.NS')":1859.2995774963,
+    "('Open', 'HCLTECH.NS')":1879.7711402019,
+    "('Volume', 'HCLTECH.NS')":1789037
+  },
+  {
+    "('Date', '')":"2025-01-07",
+    "('Close', 'HCLTECH.NS')":1845.7160644531,
+    "('High', 'HCLTECH.NS')":1908.4312735994,
+    "('Low', 'HCLTECH.NS')":1838.9724910482,
+    "('Open', 'HCLTECH.NS')":1888.2005533846,
+    "('Volume', 'HCLTECH.NS')":2494547
+  },
+  {
+    "('Date', '')":"2025-01-08",
+    "('Close', 'HCLTECH.NS')":1861.4671630859,
+    "('High', 'HCLTECH.NS')":1867.4882109676,
+    "('Low', 'HCLTECH.NS')":1825.1482493034,
+    "('Open', 'HCLTECH.NS')":1836.4678193208,
+    "('Volume', 'HCLTECH.NS')":2372138
+  },
+  {
+    "('Date', '')":"2025-01-09",
+    "('Close', 'HCLTECH.NS')":1863.9237060547,
+    "('High', 'HCLTECH.NS')":1873.2201094482,
+    "('Low', 'HCLTECH.NS')":1849.6658183323,
+    "('Open', 'HCLTECH.NS')":1856.216765145,
+    "('Volume', 'HCLTECH.NS')":2742139
+  },
+  {
+    "('Date', '')":"2025-01-10",
+    "('Close', 'HCLTECH.NS')":1922.0147705078,
+    "('High', 'HCLTECH.NS')":1928.999185954,
+    "('Low', 'HCLTECH.NS')":1864.3572403096,
+    "('Open', 'HCLTECH.NS')":1865.0797660455,
+    "('Volume', 'HCLTECH.NS')":4802079
+  },
+  {
+    "('Date', '')":"2025-01-13",
+    "('Close', 'HCLTECH.NS')":1916.5234375,
+    "('High', 'HCLTECH.NS')":1938.4881471956,
+    "('Low', 'HCLTECH.NS')":1893.4026161792,
+    "('Open', 'HCLTECH.NS')":1921.8219590527,
+    "('Volume', 'HCLTECH.NS')":5694121
+  },
+  {
+    "('Date', '')":"2025-01-14",
+    "('Close', 'HCLTECH.NS')":1747.1154785156,
+    "('High', 'HCLTECH.NS')":1867.9699052314,
+    "('Low', 'HCLTECH.NS')":1731.8942223464,
+    "('Open', 'HCLTECH.NS')":1865.176115479,
+    "('Volume', 'HCLTECH.NS')":15819311
+  },
+  {
+    "('Date', '')":"2025-01-15",
+    "('Close', 'HCLTECH.NS')":1758.8200683594,
+    "('High', 'HCLTECH.NS')":1776.016273004,
+    "('Low', 'HCLTECH.NS')":1746.1518793044,
+    "('Open', 'HCLTECH.NS')":1768.7428010474,
+    "('Volume', 'HCLTECH.NS')":3350594
+  },
+  {
+    "('Date', '')":"2025-01-16",
+    "('Close', 'HCLTECH.NS')":1726.5955810547,
+    "('High', 'HCLTECH.NS')":1770.6214333341,
+    "('Low', 'HCLTECH.NS')":1719.9002232743,
+    "('Open', 'HCLTECH.NS')":1765.8528107537,
+    "('Volume', 'HCLTECH.NS')":5362008
+  },
+  {
+    "('Date', '')":"2025-01-17",
+    "('Close', 'HCLTECH.NS')":1740.8521728516,
+    "('High', 'HCLTECH.NS')":1744.9393180378,
+    "('Low', 'HCLTECH.NS')":1703.0456641082,
+    "('Open', 'HCLTECH.NS')":1725.3792052895,
+    "('Volume', 'HCLTECH.NS')":2424374
+  },
+  {
+    "('Date', '')":"2025-01-20",
+    "('Close', 'HCLTECH.NS')":1747.9561767578,
+    "('High', 'HCLTECH.NS')":1750.6810196358,
+    "('Low', 'HCLTECH.NS')":1715.2586561805,
+    "('Open', 'HCLTECH.NS')":1742.0200391933,
+    "('Volume', 'HCLTECH.NS')":3401004
+  },
+  {
+    "('Date', '')":"2025-01-21",
+    "('Close', 'HCLTECH.NS')":1753.9896240234,
+    "('High', 'HCLTECH.NS')":1771.8467402811,
+    "('Low', 'HCLTECH.NS')":1743.2850714253,
+    "('Open', 'HCLTECH.NS')":1743.2850714253,
+    "('Volume', 'HCLTECH.NS')":4005357
+  },
+  {
+    "('Date', '')":"2025-01-22",
+    "('Close', 'HCLTECH.NS')":1778.6101074219,
+    "('High', 'HCLTECH.NS')":1782.2593868884,
+    "('Low', 'HCLTECH.NS')":1755.5954132861,
+    "('Open', 'HCLTECH.NS')":1759.6338541958,
+    "('Volume', 'HCLTECH.NS')":3009261
+  },
+  {
+    "('Date', '')":"2025-01-23",
+    "('Close', 'HCLTECH.NS')":1758.4660644531,
+    "('High', 'HCLTECH.NS')":1779.8264652567,
+    "('Low', 'HCLTECH.NS')":1755.7412217065,
+    "('Open', 'HCLTECH.NS')":1768.2461805629,
+    "('Volume', 'HCLTECH.NS')":3750930
+  },
+  {
+    "('Date', '')":"2025-01-24",
+    "('Close', 'HCLTECH.NS')":1744.6960449219,
+    "('High', 'HCLTECH.NS')":1780.2644006128,
+    "('Low', 'HCLTECH.NS')":1742.9930479505,
+    "('Open', 'HCLTECH.NS')":1751.6540277348,
+    "('Volume', 'HCLTECH.NS')":3171259
+  },
+  {
+    "('Date', '')":"2025-01-27",
+    "('Close', 'HCLTECH.NS')":1665.9688720703,
+    "('High', 'HCLTECH.NS')":1731.9478866993,
+    "('Low', 'HCLTECH.NS')":1661.4438609521,
+    "('Open', 'HCLTECH.NS')":1727.325466437,
+    "('Volume', 'HCLTECH.NS')":4174844
+  },
+  {
+    "('Date', '')":"2025-01-28",
+    "('Close', 'HCLTECH.NS')":1647.7713623047,
+    "('High', 'HCLTECH.NS')":1684.0208725636,
+    "('Low', 'HCLTECH.NS')":1645.5817945709,
+    "('Open', 'HCLTECH.NS')":1665.9690555086,
+    "('Volume', 'HCLTECH.NS')":5079829
+  },
+  {
+    "('Date', '')":"2025-01-29",
+    "('Close', 'HCLTECH.NS')":1672.8297119141,
+    "('High', 'HCLTECH.NS')":1677.7927082434,
+    "('Low', 'HCLTECH.NS')":1650.4474644597,
+    "('Open', 'HCLTECH.NS')":1650.4474644597,
+    "('Volume', 'HCLTECH.NS')":3733620
+  },
+  {
+    "('Date', '')":"2025-01-30",
+    "('Close', 'HCLTECH.NS')":1667.0881347656,
+    "('High', 'HCLTECH.NS')":1686.4049634658,
+    "('Low', 'HCLTECH.NS')":1652.2477317433,
+    "('Open', 'HCLTECH.NS')":1675.7491150419,
+    "('Volume', 'HCLTECH.NS')":2543744
+  },
+  {
+    "('Date', '')":"2025-01-31",
+    "('Close', 'HCLTECH.NS')":1679.1063232422,
+    "('High', 'HCLTECH.NS')":1691.5138727088,
+    "('Low', 'HCLTECH.NS')":1663.1469036675,
+    "('Open', 'HCLTECH.NS')":1663.1469036675,
+    "('Volume', 'HCLTECH.NS')":2033832
+  },
+  {
+    "('Date', '')":"2025-02-01",
+    "('Close', 'HCLTECH.NS')":1648.5010986328,
+    "('High', 'HCLTECH.NS')":1685.4317575466,
+    "('Low', 'HCLTECH.NS')":1642.6622517663,
+    "('Open', 'HCLTECH.NS')":1679.641615254,
+    "('Volume', 'HCLTECH.NS')":569018
+  },
+  {
+    "('Date', '')":"2025-02-03",
+    "('Close', 'HCLTECH.NS')":1646.5548095703,
+    "('High', 'HCLTECH.NS')":1654.9237996195,
+    "('Low', 'HCLTECH.NS')":1616.8740047879,
+    "('Open', 'HCLTECH.NS')":1620.2799987793,
+    "('Volume', 'HCLTECH.NS')":2659929
+  },
+  {
+    "('Date', '')":"2025-02-04",
+    "('Close', 'HCLTECH.NS')":1686.0157470703,
+    "('High', 'HCLTECH.NS')":1689.2757461647,
+    "('Low', 'HCLTECH.NS')":1646.6035304925,
+    "('Open', 'HCLTECH.NS')":1649.5715397252,
+    "('Volume', 'HCLTECH.NS')":3647768
+  },
+  {
+    "('Date', '')":"2025-02-05",
+    "('Close', 'HCLTECH.NS')":1666.8448486328,
+    "('High', 'HCLTECH.NS')":1699.883063013,
+    "('Low', 'HCLTECH.NS')":1664.0714200244,
+    "('Open', 'HCLTECH.NS')":1683.5342436505,
+    "('Volume', 'HCLTECH.NS')":2681942
+  },
+  {
+    "('Date', '')":"2025-02-06",
+    "('Close', 'HCLTECH.NS')":1677.2088623047,
+    "('High', 'HCLTECH.NS')":1682.0258637398,
+    "('Low', 'HCLTECH.NS')":1666.844884741,
+    "('Open', 'HCLTECH.NS')":1677.5494379672,
+    "('Volume', 'HCLTECH.NS')":2057798
+  },
+  {
+    "('Date', '')":"2025-02-07",
+    "('Close', 'HCLTECH.NS')":1679.3009033203,
+    "('High', 'HCLTECH.NS')":1684.507184262,
+    "('Low', 'HCLTECH.NS')":1654.9723766845,
+    "('Open', 'HCLTECH.NS')":1676.8680506567,
+    "('Volume', 'HCLTECH.NS')":2428098
+  },
+  {
+    "('Date', '')":"2025-02-10",
+    "('Close', 'HCLTECH.NS')":1687.2806396484,
+    "('High', 'HCLTECH.NS')":1693.2654810553,
+    "('Low', 'HCLTECH.NS')":1666.1148211352,
+    "('Open', 'HCLTECH.NS')":1677.6465191876,
+    "('Volume', 'HCLTECH.NS')":1823071
+  },
+  {
+    "('Date', '')":"2025-02-11",
+    "('Close', 'HCLTECH.NS')":1676.9166259766,
+    "('High', 'HCLTECH.NS')":1702.0237128248,
+    "('Low', 'HCLTECH.NS')":1668.9369168064,
+    "('Open', 'HCLTECH.NS')":1695.9902857734,
+    "('Volume', 'HCLTECH.NS')":1702553
+  },
+  {
+    "('Date', '')":"2025-02-12",
+    "('Close', 'HCLTECH.NS')":1671.1752929688,
+    "('High', 'HCLTECH.NS')":1695.6011113235,
+    "('Low', 'HCLTECH.NS')":1653.5127578816,
+    "('Open', 'HCLTECH.NS')":1677.5980006027,
+    "('Volume', 'HCLTECH.NS')":2214307
+  },
+  {
+    "('Date', '')":"2025-02-13",
+    "('Close', 'HCLTECH.NS')":1657.3566894531,
+    "('High', 'HCLTECH.NS')":1683.4855058978,
+    "('Low', 'HCLTECH.NS')":1654.5832608994,
+    "('Open', 'HCLTECH.NS')":1666.0176695543,
+    "('Volume', 'HCLTECH.NS')":1838463
+  },
+  {
+    "('Date', '')":"2025-02-14",
+    "('Close', 'HCLTECH.NS')":1665.2878417969,
+    "('High', 'HCLTECH.NS')":1677.1115308746,
+    "('Low', 'HCLTECH.NS')":1654.2912989626,
+    "('Open', 'HCLTECH.NS')":1665.0445565022,
+    "('Volume', 'HCLTECH.NS')":1460459
+  },
+  {
+    "('Date', '')":"2025-02-17",
+    "('Close', 'HCLTECH.NS')":1663.9739990234,
+    "('High', 'HCLTECH.NS')":1673.9486953486,
+    "('Low', 'HCLTECH.NS')":1648.5983220494,
+    "('Open', 'HCLTECH.NS')":1665.2877157567,
+    "('Volume', 'HCLTECH.NS')":1127023
+  },
+  {
+    "('Date', '')":"2025-02-18",
+    "('Close', 'HCLTECH.NS')":1679.1550292969,
+    "('High', 'HCLTECH.NS')":1682.0744527034,
+    "('Low', 'HCLTECH.NS')":1655.5563567611,
+    "('Open', 'HCLTECH.NS')":1660.1787771547,
+    "('Volume', 'HCLTECH.NS')":1511900
+  },
+  {
+    "('Date', '')":"2025-02-19",
+    "('Close', 'HCLTECH.NS')":1666.3096923828,
+    "('High', 'HCLTECH.NS')":1685.0912459083,
+    "('Low', 'HCLTECH.NS')":1657.6972978943,
+    "('Open', 'HCLTECH.NS')":1676.9168362265,
+    "('Volume', 'HCLTECH.NS')":1294110
+  },
+  {
+    "('Date', '')":"2025-02-20",
+    "('Close', 'HCLTECH.NS')":1642.2244873047,
+    "('High', 'HCLTECH.NS')":1668.4992998283,
+    "('Low', 'HCLTECH.NS')":1638.3319224864,
+    "('Open', 'HCLTECH.NS')":1659.4003345322,
+    "('Volume', 'HCLTECH.NS')":1681532
+  },
+  {
+    "('Date', '')":"2025-02-21",
+    "('Close', 'HCLTECH.NS')":1655.0209960938,
+    "('High', 'HCLTECH.NS')":1658.3784041127,
+    "('Low', 'HCLTECH.NS')":1639.8887234938,
+    "('Open', 'HCLTECH.NS')":1644.6084339987,
+    "('Volume', 'HCLTECH.NS')":1222563
+  },
+  {
+    "('Date', '')":"2025-02-24",
+    "('Close', 'HCLTECH.NS')":1599.8927001953,
+    "('High', 'HCLTECH.NS')":1644.6084869845,
+    "('Low', 'HCLTECH.NS')":1593.6158687185,
+    "('Open', 'HCLTECH.NS')":1639.7427814017,
+    "('Volume', 'HCLTECH.NS')":4455420
+  },
+  {
+    "('Date', '')":"2025-02-25",
+    "('Close', 'HCLTECH.NS')":1592.15625,
+    "('High', 'HCLTECH.NS')":1607.5805138397,
+    "('Low', 'HCLTECH.NS')":1587.4365390675,
+    "('Open', 'HCLTECH.NS')":1592.058959641,
+    "('Volume', 'HCLTECH.NS')":1951519
+  },
+  {
+    "('Date', '')":"2025-02-27",
+    "('Close', 'HCLTECH.NS')":1585.4415283203,
+    "('High', 'HCLTECH.NS')":1615.4143235265,
+    "('Low', 'HCLTECH.NS')":1571.8175520978,
+    "('Open', 'HCLTECH.NS')":1576.4886771765,
+    "('Volume', 'HCLTECH.NS')":2266866
+  },
+  {
+    "('Date', '')":"2025-02-28",
+    "('Close', 'HCLTECH.NS')":1532.7459716797,
+    "('High', 'HCLTECH.NS')":1571.5742074131,
+    "('Low', 'HCLTECH.NS')":1520.4842985095,
+    "('Open', 'HCLTECH.NS')":1568.7034886199,
+    "('Volume', 'HCLTECH.NS')":4910121
+  },
+  {
+    "('Date', '')":"2025-03-03",
+    "('Close', 'HCLTECH.NS')":1530.1669921875,
+    "('High', 'HCLTECH.NS')":1560.334364371,
+    "('Low', 'HCLTECH.NS')":1526.3230138117,
+    "('Open', 'HCLTECH.NS')":1532.745839697,
+    "('Volume', 'HCLTECH.NS')":1784684
+  },
+  {
+    "('Date', '')":"2025-03-04",
+    "('Close', 'HCLTECH.NS')":1494.2583007812,
+    "('High', 'HCLTECH.NS')":1518.1002599927,
+    "('Low', 'HCLTECH.NS')":1482.0940358775,
+    "('Open', 'HCLTECH.NS')":1518.1002599927,
+    "('Volume', 'HCLTECH.NS')":3246644
+  },
+  {
+    "('Date', '')":"2025-03-05",
+    "('Close', 'HCLTECH.NS')":1530.7022705078,
+    "('High', 'HCLTECH.NS')":1538.9253842109,
+    "('Low', 'HCLTECH.NS')":1489.9277527911,
+    "('Open', 'HCLTECH.NS')":1490.8521893344,
+    "('Volume', 'HCLTECH.NS')":3112003
+  },
+  {
+    "('Date', '')":"2025-03-06",
+    "('Close', 'HCLTECH.NS')":1542.8665771484,
+    "('High', 'HCLTECH.NS')":1551.8681327182,
+    "('Low', 'HCLTECH.NS')":1532.8432946538,
+    "('Open', 'HCLTECH.NS')":1537.5630054375,
+    "('Volume', 'HCLTECH.NS')":2011489
+  },
+  {
+    "('Date', '')":"2025-03-07",
+    "('Close', 'HCLTECH.NS')":1516.1052246094,
+    "('High', 'HCLTECH.NS')":1544.3750228595,
+    "('Low', 'HCLTECH.NS')":1513.8183666388,
+    "('Open', 'HCLTECH.NS')":1540.1418825665,
+    "('Volume', 'HCLTECH.NS')":2091986
+  },
+  {
+    "('Date', '')":"2025-03-10",
+    "('Close', 'HCLTECH.NS')":1507.6876220703,
+    "('High', 'HCLTECH.NS')":1530.2157445229,
+    "('Low', 'HCLTECH.NS')":1505.4493499222,
+    "('Open', 'HCLTECH.NS')":1515.1807613632,
+    "('Volume', 'HCLTECH.NS')":1855766
+  },
+  {
+    "('Date', '')":"2025-03-11",
+    "('Close', 'HCLTECH.NS')":1525.7393798828,
+    "('High', 'HCLTECH.NS')":1531.6755173403,
+    "('Low', 'HCLTECH.NS')":1481.7047413557,
+    "('Open', 'HCLTECH.NS')":1488.8573052918,
+    "('Volume', 'HCLTECH.NS')":1846190
+  },
+  {
+    "('Date', '')":"2025-03-12",
+    "('Close', 'HCLTECH.NS')":1499.2211914062,
+    "('High', 'HCLTECH.NS')":1522.9658585827,
+    "('Low', 'HCLTECH.NS')":1466.6209637625,
+    "('Open', 'HCLTECH.NS')":1514.2075884695,
+    "('Volume', 'HCLTECH.NS')":3113860
+  },
+  {
+    "('Date', '')":"2025-03-13",
+    "('Close', 'HCLTECH.NS')":1493.5283203125,
+    "('High', 'HCLTECH.NS')":1506.3737354628,
+    "('Low', 'HCLTECH.NS')":1488.0787538485,
+    "('Open', 'HCLTECH.NS')":1499.2211720543,
+    "('Volume', 'HCLTECH.NS')":1983351
+  },
+  {
+    "('Date', '')":"2025-03-17",
+    "('Close', 'HCLTECH.NS')":1503.6490478516,
+    "('High', 'HCLTECH.NS')":1505.9846103329,
+    "('Low', 'HCLTECH.NS')":1478.2500879974,
+    "('Open', 'HCLTECH.NS')":1486.9596536352,
+    "('Volume', 'HCLTECH.NS')":2029100
+  },
+  {
+    "('Date', '')":"2025-03-18",
+    "('Close', 'HCLTECH.NS')":1503.6490478516,
+    "('High', 'HCLTECH.NS')":1503.6490478516,
+    "('Low', 'HCLTECH.NS')":1503.6490478516,
+    "('Open', 'HCLTECH.NS')":1503.6490478516,
+    "('Volume', 'HCLTECH.NS')":0
+  },
+  {
+    "('Date', '')":"2025-03-19",
+    "('Close', 'HCLTECH.NS')":1502.9677734375,
+    "('High', 'HCLTECH.NS')":1519.4138823227,
+    "('Low', 'HCLTECH.NS')":1484.1375162962,
+    "('Open', 'HCLTECH.NS')":1516.6404538555,
+    "('Volume', 'HCLTECH.NS')":4522829
+  },
+  {
+    "('Date', '')":"2025-03-20",
+    "('Close', 'HCLTECH.NS')":1520.0463867188,
+    "('High', 'HCLTECH.NS')":1539.6064989227,
+    "('Low', 'HCLTECH.NS')":1505.4979749003,
+    "('Open', 'HCLTECH.NS')":1506.2764164994,
+    "('Volume', 'HCLTECH.NS')":4608677
+  },
+  {
+    "('Date', '')":"2025-03-21",
+    "('Close', 'HCLTECH.NS')":1524.6201171875,
+    "('High', 'HCLTECH.NS')":1549.2893391598,
+    "('Low', 'HCLTECH.NS')":1480.634186888,
+    "('Open', 'HCLTECH.NS')":1493.8688821186,
+    "('Volume', 'HCLTECH.NS')":8109210
+  },
+  {
+    "('Date', '')":"2025-03-24",
+    "('Close', 'HCLTECH.NS')":1561.0643310547,
+    "('High', 'HCLTECH.NS')":1567.6330335291,
+    "('Low', 'HCLTECH.NS')":1518.1001274085,
+    "('Open', 'HCLTECH.NS')":1548.2675017352,
+    "('Volume', 'HCLTECH.NS')":2487843
+  },
+  {
+    "('Date', '')":"2025-03-25",
+    "('Close', 'HCLTECH.NS')":1581.2570800781,
+    "('High', 'HCLTECH.NS')":1614.3924649959,
+    "('Low', 'HCLTECH.NS')":1575.4668189545,
+    "('Open', 'HCLTECH.NS')":1578.4349469818,
+    "('Volume', 'HCLTECH.NS')":4906013
+  },
+  {
+    "('Date', '')":"2025-03-26",
+    "('Close', 'HCLTECH.NS')":1589.5286865234,
+    "('High', 'HCLTECH.NS')":1600.7683948829,
+    "('Low', 'HCLTECH.NS')":1578.4348542947,
+    "('Open', 'HCLTECH.NS')":1581.2569872253,
+    "('Volume', 'HCLTECH.NS')":3096513
+  },
+  {
+    "('Date', '')":"2025-03-27",
+    "('Close', 'HCLTECH.NS')":1586.3659667969,
+    "('High', 'HCLTECH.NS')":1600.8170881811,
+    "('Low', 'HCLTECH.NS')":1570.2118485103,
+    "('Open', 'HCLTECH.NS')":1581.9868319052,
+    "('Volume', 'HCLTECH.NS')":3383080
+  },
+  {
+    "('Date', '')":"2025-03-28",
+    "('Close', 'HCLTECH.NS')":1549.7271728516,
+    "('High', 'HCLTECH.NS')":1581.8895331235,
+    "('Low', 'HCLTECH.NS')":1539.119911301,
+    "('Open', 'HCLTECH.NS')":1572.693278625,
+    "('Volume', 'HCLTECH.NS')":2211077
+  },
+  {
+    "('Date', '')":"2025-04-01",
+    "('Close', 'HCLTECH.NS')":1489.2464599609,
+    "('High', 'HCLTECH.NS')":1542.4286448819,
+    "('Low', 'HCLTECH.NS')":1485.1106102822,
+    "('Open', 'HCLTECH.NS')":1534.6435160749,
+    "('Volume', 'HCLTECH.NS')":4126827
+  },
+  {
+    "('Date', '')":"2025-04-02",
+    "('Close', 'HCLTECH.NS')":1486.5218505859,
+    "('High', 'HCLTECH.NS')":1497.2264035196,
+    "('Low', 'HCLTECH.NS')":1465.9398909598,
+    "('Open', 'HCLTECH.NS')":1474.3088813132,
+    "('Volume', 'HCLTECH.NS')":3167863
+  },
+  {
+    "('Date', '')":"2025-04-03",
+    "('Close', 'HCLTECH.NS')":1430.6147460938,
+    "('High', 'HCLTECH.NS')":1459.71168953,
+    "('Low', 'HCLTECH.NS')":1425.6517501077,
+    "('Open', 'HCLTECH.NS')":1459.71168953,
+    "('Volume', 'HCLTECH.NS')":3966161
+  },
+  {
+    "('Date', '')":"2025-04-04",
+    "('Close', 'HCLTECH.NS')":1383.9039306641,
+    "('High', 'HCLTECH.NS')":1417.0880183225,
+    "('Low', 'HCLTECH.NS')":1380.9845073723,
+    "('Open', 'HCLTECH.NS')":1410.0814499389,
+    "('Volume', 'HCLTECH.NS')":4421312
+  },
+  {
+    "('Date', '')":"2025-04-07",
+    "('Close', 'HCLTECH.NS')":1337.1932373047,
+    "('High', 'HCLTECH.NS')":1346.5840732086,
+    "('Low', 'HCLTECH.NS')":1267.7596396549,
+    "('Open', 'HCLTECH.NS')":1308.874853453,
+    "('Volume', 'HCLTECH.NS')":6484139
+  },
+  {
+    "('Date', '')":"2025-04-08",
+    "('Close', 'HCLTECH.NS')":1365.6575927734,
+    "('High', 'HCLTECH.NS')":1385.9962663237,
+    "('Low', 'HCLTECH.NS')":1335.1496418439,
+    "('Open', 'HCLTECH.NS')":1342.9347709508,
+    "('Volume', 'HCLTECH.NS')":3938359
+  },
+  {
+    "('Date', '')":"2025-04-09",
+    "('Close', 'HCLTECH.NS')":1342.9348144531,
+    "('High', 'HCLTECH.NS')":1351.4010951145,
+    "('Low', 'HCLTECH.NS')":1320.6012721207,
+    "('Open', 'HCLTECH.NS')":1343.5673799719,
+    "('Volume', 'HCLTECH.NS')":3306801
+  },
+  {
+    "('Date', '')":"2025-04-11",
+    "('Close', 'HCLTECH.NS')":1353.2015380859,
+    "('High', 'HCLTECH.NS')":1386.7262047832,
+    "('Low', 'HCLTECH.NS')":1323.4720270211,
+    "('Open', 'HCLTECH.NS')":1323.4720270211,
+    "('Volume', 'HCLTECH.NS')":4859622
+  },
+  {
+    "('Date', '')":"2025-04-15",
+    "('Close', 'HCLTECH.NS')":1388.1857910156,
+    "('High', 'HCLTECH.NS')":1390.4240630814,
+    "('Low', 'HCLTECH.NS')":1368.2363982951,
+    "('Open', 'HCLTECH.NS')":1381.8603738116,
+    "('Volume', 'HCLTECH.NS')":3265147
+  },
+  {
+    "('Date', '')":"2025-04-16",
+    "('Close', 'HCLTECH.NS')":1393.24609375,
+    "('High', 'HCLTECH.NS')":1397.5279384356,
+    "('Low', 'HCLTECH.NS')":1367.749843927,
+    "('Open', 'HCLTECH.NS')":1376.9946845654,
+    "('Volume', 'HCLTECH.NS')":2553111
+  },
+  {
+    "('Date', '')":"2025-04-17",
+    "('Close', 'HCLTECH.NS')":1399.3768310547,
+    "('High', 'HCLTECH.NS')":1403.3666856047,
+    "('Low', 'HCLTECH.NS')":1346.8272143113,
+    "('Open', 'HCLTECH.NS')":1381.8602921402,
+    "('Volume', 'HCLTECH.NS')":3549969
+  },
+  {
+    "('Date', '')":"2025-04-21",
+    "('Close', 'HCLTECH.NS')":1442.1951904297,
+    "('High', 'HCLTECH.NS')":1458.73859005,
+    "('Low', 'HCLTECH.NS')":1391.5918504146,
+    "('Open', 'HCLTECH.NS')":1396.4575561853,
+    "('Volume', 'HCLTECH.NS')":2840104
+  },
+  {
+    "('Date', '')":"2025-04-22",
+    "('Close', 'HCLTECH.NS')":1440.1516113281,
+    "('High', 'HCLTECH.NS')":1459.6144343239,
+    "('Low', 'HCLTECH.NS')":1425.1652138631,
+    "('Open', 'HCLTECH.NS')":1449.9803131826,
+    "('Volume', 'HCLTECH.NS')":2608145
+  },
+  {
+    "('Date', '')":"2025-04-23",
+    "('Close', 'HCLTECH.NS')":1551.1870117188,
+    "('High', 'HCLTECH.NS')":1557.0258586888,
+    "('Low', 'HCLTECH.NS')":1502.2379637696,
+    "('Open', 'HCLTECH.NS')":1513.2345064132,
+    "('Volume', 'HCLTECH.NS')":13293318
+  },
+  {
+    "('Date', '')":"2025-04-24",
+    "('Close', 'HCLTECH.NS')":1544.0828857422,
+    "('High', 'HCLTECH.NS')":1560.2371225112,
+    "('Low', 'HCLTECH.NS')":1533.7676141753,
+    "('Open', 'HCLTECH.NS')":1552.1600041267,
+    "('Volume', 'HCLTECH.NS')":3193118
+  },
+  {
+    "('Date', '')":"2025-04-25",
+    "('Close', 'HCLTECH.NS')":1535.8112792969,
+    "('High', 'HCLTECH.NS')":1574.5423436727,
+    "('Low', 'HCLTECH.NS')":1525.9825776713,
+    "('Open', 'HCLTECH.NS')":1547.2943921135,
+    "('Volume', 'HCLTECH.NS')":3800415
+  },
+  {
+    "('Date', '')":"2025-04-28",
+    "('Close', 'HCLTECH.NS')":1525.0817871094,
+    "('High', 'HCLTECH.NS')":1544.8675650229,
+    "('Low', 'HCLTECH.NS')":1513.0724222887,
+    "('Open', 'HCLTECH.NS')":1540.536320664,
+    "('Volume', 'HCLTECH.NS')":2618810
+  },
+  {
+    "('Date', '')":"2025-04-29",
+    "('Close', 'HCLTECH.NS')":1544.4737548828,
+    "('High', 'HCLTECH.NS')":1556.0893480768,
+    "('Low', 'HCLTECH.NS')":1523.9004348166,
+    "('Open', 'HCLTECH.NS')":1530.6925996449,
+    "('Volume', 'HCLTECH.NS')":2231069
+  },
+  {
+    "('Date', '')":"2025-04-30",
+    "('Close', 'HCLTECH.NS')":1542.9971923828,
+    "('High', 'HCLTECH.NS')":1563.0783282013,
+    "('Low', 'HCLTECH.NS')":1529.7082213479,
+    "('Open', 'HCLTECH.NS')":1546.4424811696,
+    "('Volume', 'HCLTECH.NS')":3682256
+  },
+  {
+    "('Date', '')":"2025-05-02",
+    "('Close', 'HCLTECH.NS')":1547.8206787109,
+    "('High', 'HCLTECH.NS')":1556.286221729,
+    "('Low', 'HCLTECH.NS')":1532.7597962423,
+    "('Open', 'HCLTECH.NS')":1542.5050660654,
+    "('Volume', 'HCLTECH.NS')":1370848
+  },
+  {
+    "('Date', '')":"2025-05-05",
+    "('Close', 'HCLTECH.NS')":1544.080078125,
+    "('High', 'HCLTECH.NS')":1572.7251713773,
+    "('Low', 'HCLTECH.NS')":1538.862998277,
+    "('Open', 'HCLTECH.NS')":1555.3019006813,
+    "('Volume', 'HCLTECH.NS')":1012225
+  },
+  {
+    "('Date', '')":"2025-05-06",
+    "('Close', 'HCLTECH.NS')":1554.4158935547,
+    "('High', 'HCLTECH.NS')":1559.0424964687,
+    "('Low', 'HCLTECH.NS')":1540.6347379305,
+    "('Open', 'HCLTECH.NS')":1552.1519186566,
+    "('Volume', 'HCLTECH.NS')":2055057
+  },
+  {
+    "('Date', '')":"2025-05-07",
+    "('Close', 'HCLTECH.NS')":1538.8629150391,
+    "('High', 'HCLTECH.NS')":1553.7268514053,
+    "('Low', 'HCLTECH.NS')":1520.8489282129,
+    "('Open', 'HCLTECH.NS')":1527.7395058811,
+    "('Volume', 'HCLTECH.NS')":5469936
+  },
+  {
+    "('Date', '')":"2025-05-08",
+    "('Close', 'HCLTECH.NS')":1555.9908447266,
+    "('High', 'HCLTECH.NS')":1573.0204635166,
+    "('Low', 'HCLTECH.NS')":1531.480171431,
+    "('Open', 'HCLTECH.NS')":1537.4847937237,
+    "('Volume', 'HCLTECH.NS')":2789018
+  },
+  {
+    "('Date', '')":"2025-05-09",
+    "('Close', 'HCLTECH.NS')":1544.8675537109,
+    "('High', 'HCLTECH.NS')":1553.0377380788,
+    "('Low', 'HCLTECH.NS')":1532.9567219328,
+    "('Open', 'HCLTECH.NS')":1541.5206776326,
+    "('Volume', 'HCLTECH.NS')":2035161
+  },
+  {
+    "('Date', '')":"2025-05-12",
+    "('Close', 'HCLTECH.NS')":1644.1903076172,
+    "('High', 'HCLTECH.NS')":1648.8167902474,
+    "('Low', 'HCLTECH.NS')":1569.0829633757,
+    "('Open', 'HCLTECH.NS')":1573.8079789589,
+    "('Volume', 'HCLTECH.NS')":4028207
+  },
+  {
+    "('Date', '')":"2025-05-13",
+    "('Close', 'HCLTECH.NS')":1594.2828369141,
+    "('High', 'HCLTECH.NS')":1661.7120638681,
+    "('Low', 'HCLTECH.NS')":1589.9515924641,
+    "('Open', 'HCLTECH.NS')":1658.6605462428,
+    "('Volume', 'HCLTECH.NS')":3118470
+  },
+  {
+    "('Date', '')":"2025-05-14",
+    "('Close', 'HCLTECH.NS')":1612.0998535156,
+    "('High', 'HCLTECH.NS')":1616.6280436475,
+    "('Low', 'HCLTECH.NS')":1591.7234785709,
+    "('Open', 'HCLTECH.NS')":1604.5202659682,
+    "('Volume', 'HCLTECH.NS')":1569126
+  },
+  {
+    "('Date', '')":"2025-05-15",
+    "('Close', 'HCLTECH.NS')":1669.4885253906,
+    "('High', 'HCLTECH.NS')":1675.9853317046,
+    "('Low', 'HCLTECH.NS')":1599.5983807546,
+    "('Open', 'HCLTECH.NS')":1624.2075866123,
+    "('Volume', 'HCLTECH.NS')":4961582
+  },
+  {
+    "('Date', '')":"2025-05-16",
+    "('Close', 'HCLTECH.NS')":1633.9528808594,
+    "('High', 'HCLTECH.NS')":1667.0276299997,
+    "('Low', 'HCLTECH.NS')":1632.0825571535,
+    "('Open', 'HCLTECH.NS')":1665.4526648334,
+    "('Volume', 'HCLTECH.NS')":2586263
+  },
+  {
+    "('Date', '')":"2025-05-19",
+    "('Close', 'HCLTECH.NS')":1623.8138427734,
+    "('High', 'HCLTECH.NS')":1637.9887696199,
+    "('Low', 'HCLTECH.NS')":1612.4936078872,
+    "('Open', 'HCLTECH.NS')":1635.035664867,
+    "('Volume', 'HCLTECH.NS')":1642018
+  },
+  {
+    "('Date', '')":"2025-05-20",
+    "('Close', 'HCLTECH.NS')":1612.6905517578,
+    "('High', 'HCLTECH.NS')":1639.9575042132,
+    "('Low', 'HCLTECH.NS')":1610.8202280507,
+    "('Open', 'HCLTECH.NS')":1634.8388373789,
+    "('Volume', 'HCLTECH.NS')":2421580
+  },
+  {
+    "('Date', '')":"2025-05-21",
+    "('Close', 'HCLTECH.NS')":1626.1762695312,
+    "('High', 'HCLTECH.NS')":1631.5902946417,
+    "('Low', 'HCLTECH.NS')":1602.9452039989,
+    "('Open', 'HCLTECH.NS')":1619.285692118,
+    "('Volume', 'HCLTECH.NS')":1420835
+  },
+  {
+    "('Date', '')":"2025-05-22",
+    "('Close', 'HCLTECH.NS')":1607.4733886719,
+    "('High', 'HCLTECH.NS')":1615.0529763038,
+    "('Low', 'HCLTECH.NS')":1588.7703914981,
+    "('Open', 'HCLTECH.NS')":1612.7890013747,
+    "('Volume', 'HCLTECH.NS')":2202093
+  },
+  {
+    "('Date', '')":"2025-05-23",
+    "('Close', 'HCLTECH.NS')":1622.4356689453,
+    "('High', 'HCLTECH.NS')":1644.6824870775,
+    "('Low', 'HCLTECH.NS')":1597.1374534941,
+    "('Open', 'HCLTECH.NS')":1607.4733199112,
+    "('Volume', 'HCLTECH.NS')":1459454
+  },
+  {
+    "('Date', '')":"2025-05-26",
+    "('Close', 'HCLTECH.NS')":1647.4387207031,
+    "('High', 'HCLTECH.NS')":1649.604403005,
+    "('Low', 'HCLTECH.NS')":1619.8764090082,
+    "('Open', 'HCLTECH.NS')":1626.5701613418,
+    "('Volume', 'HCLTECH.NS')":1078813
+  },
+  {
+    "('Date', '')":"2025-05-27",
+    "('Close', 'HCLTECH.NS')":1626.2747802734,
+    "('High', 'HCLTECH.NS')":1649.3090216176,
+    "('Low', 'HCLTECH.NS')":1615.8405007373,
+    "('Open', 'HCLTECH.NS')":1647.6356436385,
+    "('Volume', 'HCLTECH.NS')":2740015
+  },
+  {
+    "('Date', '')":"2025-05-28",
+    "('Close', 'HCLTECH.NS')":1631.3935546875,
+    "('High', 'HCLTECH.NS')":1640.7450530963,
+    "('Low', 'HCLTECH.NS')":1621.254513611,
+    "('Open', 'HCLTECH.NS')":1637.9887739215,
+    "('Volume', 'HCLTECH.NS')":1775441
+  },
+  {
+    "('Date', '')":"2025-05-29",
+    "('Close', 'HCLTECH.NS')":1638.677734375,
+    "('High', 'HCLTECH.NS')":1649.3089592587,
+    "('Low', 'HCLTECH.NS')":1629.7200075693,
+    "('Open', 'HCLTECH.NS')":1643.8949340269,
+    "('Volume', 'HCLTECH.NS')":2374051
+  },
+  {
+    "('Date', '')":"2025-05-30",
+    "('Close', 'HCLTECH.NS')":1611.0170898438,
+    "('High', 'HCLTECH.NS')":1638.6778142532,
+    "('Low', 'HCLTECH.NS')":1601.8625370119,
+    "('Open', 'HCLTECH.NS')":1638.6778142532,
+    "('Volume', 'HCLTECH.NS')":4408910
+  },
+  {
+    "('Date', '')":"2025-06-02",
+    "('Close', 'HCLTECH.NS')":1605.9968261719,
+    "('High', 'HCLTECH.NS')":1609.6389406917,
+    "('Low', 'HCLTECH.NS')":1580.6000768412,
+    "('Open', 'HCLTECH.NS')":1599.6968452363,
+    "('Volume', 'HCLTECH.NS')":1883100
+  },
+  {
+    "('Date', '')":"2025-06-03",
+    "('Close', 'HCLTECH.NS')":1604.9140625,
+    "('High', 'HCLTECH.NS')":1625.8810346982,
+    "('Low', 'HCLTECH.NS')":1591.7235035587,
+    "('Open', 'HCLTECH.NS')":1621.1561390669,
+    "('Volume', 'HCLTECH.NS')":2380133
+  },
+  {
+    "('Date', '')":"2025-06-04",
+    "('Close', 'HCLTECH.NS')":1600.6811523438,
+    "('High', 'HCLTECH.NS')":1618.8919645711,
+    "('Low', 'HCLTECH.NS')":1596.8420922201,
+    "('Open', 'HCLTECH.NS')":1605.5045806959,
+    "('Volume', 'HCLTECH.NS')":1659720
+  },
+  {
+    "('Date', '')":"2025-06-05",
+    "('Close', 'HCLTECH.NS')":1606.8828125,
+    "('High', 'HCLTECH.NS')":1628.0467306279,
+    "('Low', 'HCLTECH.NS')":1599.204691812,
+    "('Open', 'HCLTECH.NS')":1609.3437332126,
+    "('Volume', 'HCLTECH.NS')":1409322
+  },
+  {
+    "('Date', '')":"2025-06-06",
+    "('Close', 'HCLTECH.NS')":1612.0998535156,
+    "('High', 'HCLTECH.NS')":1614.1671229941,
+    "('Low', 'HCLTECH.NS')":1596.6453198776,
+    "('Open', 'HCLTECH.NS')":1605.701459817,
+    "('Volume', 'HCLTECH.NS')":1261281
+  },
+  {
+    "('Date', '')":"2025-06-09",
+    "('Close', 'HCLTECH.NS')":1622.5341796875,
+    "('High', 'HCLTECH.NS')":1632.0825033248,
+    "('Low', 'HCLTECH.NS')":1613.3795072071,
+    "('Open', 'HCLTECH.NS')":1622.2388211576,
+    "('Volume', 'HCLTECH.NS')":1299786
+  },
+  {
+    "('Date', '')":"2025-06-10",
+    "('Close', 'HCLTECH.NS')":1642.0246582031,
+    "('High', 'HCLTECH.NS')":1658.5620929124,
+    "('Low', 'HCLTECH.NS')":1623.2232486101,
+    "('Open', 'HCLTECH.NS')":1627.4560801613,
+    "('Volume', 'HCLTECH.NS')":3055223
+  },
+  {
+    "('Date', '')":"2025-06-11",
+    "('Close', 'HCLTECH.NS')":1694.9837646484,
+    "('High', 'HCLTECH.NS')":1698.429053627,
+    "('Low', 'HCLTECH.NS')":1639.9575537873,
+    "('Open', 'HCLTECH.NS')":1649.8012365831,
+    "('Volume', 'HCLTECH.NS')":5085821
+  },
+  {
+    "('Date', '')":"2025-06-12",
+    "('Close', 'HCLTECH.NS')":1674.6072998047,
+    "('High', 'HCLTECH.NS')":1699.0196816499,
+    "('Low', 'HCLTECH.NS')":1668.5042644245,
+    "('Open', 'HCLTECH.NS')":1698.0353133523,
+    "('Volume', 'HCLTECH.NS')":3607962
+  },
+  {
+    "('Date', '')":"2025-06-13",
+    "('Close', 'HCLTECH.NS')":1668.7995605469,
+    "('High', 'HCLTECH.NS')":1684.2540941761,
+    "('Low', 'HCLTECH.NS')":1638.579382844,
+    "('Open', 'HCLTECH.NS')":1639.9575224415,
+    "('Volume', 'HCLTECH.NS')":1988422
+  },
+  {
+    "('Date', '')":"2025-06-16",
+    "('Close', 'HCLTECH.NS')":1696.06640625,
+    "('High', 'HCLTECH.NS')":1702.3663867537,
+    "('Low', 'HCLTECH.NS')":1657.0854496164,
+    "('Open', 'HCLTECH.NS')":1665.5509920923,
+    "('Volume', 'HCLTECH.NS')":2116100
+  },
+  {
+    "('Date', '')":"2025-06-17",
+    "('Close', 'HCLTECH.NS')":1702.5633544922,
+    "('High', 'HCLTECH.NS')":1711.6196147731,
+    "('Low', 'HCLTECH.NS')":1693.1134430286,
+    "('Open', 'HCLTECH.NS')":1700.9883892753,
+    "('Volume', 'HCLTECH.NS')":1777245
+  },
+  {
+    "('Date', '')":"2025-06-18",
+    "('Close', 'HCLTECH.NS')":1689.0775146484,
+    "('High', 'HCLTECH.NS')":1717.7226068681,
+    "('Low', 'HCLTECH.NS')":1683.2697179051,
+    "('Open', 'HCLTECH.NS')":1700.8899337215,
+    "('Volume', 'HCLTECH.NS')":1794428
+  },
+  {
+    "('Date', '')":"2025-06-19",
+    "('Close', 'HCLTECH.NS')":1687.1087646484,
+    "('High', 'HCLTECH.NS')":1692.8180283908,
+    "('Low', 'HCLTECH.NS')":1670.669742806,
+    "('Open', 'HCLTECH.NS')":1692.8180283908,
+    "('Volume', 'HCLTECH.NS')":2514527
+  },
+  {
+    "('Date', '')":"2025-06-20",
+    "('Close', 'HCLTECH.NS')":1712.7023925781,
+    "('High', 'HCLTECH.NS')":1715.3601388664,
+    "('Low', 'HCLTECH.NS')":1682.3838015216,
+    "('Open', 'HCLTECH.NS')":1687.1088173254,
+    "('Volume', 'HCLTECH.NS')":2719770
+  },
+  {
+    "('Date', '')":"2025-06-23",
+    "('Close', 'HCLTECH.NS')":1676.5759277344,
+    "('High', 'HCLTECH.NS')":1702.760218883,
+    "('Low', 'HCLTECH.NS')":1672.6384547992,
+    "('Open', 'HCLTECH.NS')":1702.169501813,
+    "('Volume', 'HCLTECH.NS')":2221446
+  },
+  {
+    "('Date', '')":"2025-06-24",
+    "('Close', 'HCLTECH.NS')":1665.3542480469,
+    "('High', 'HCLTECH.NS')":1705.5164004201,
+    "('Low', 'HCLTECH.NS')":1662.7947944754,
+    "('Open', 'HCLTECH.NS')":1693.0149717503,
+    "('Volume', 'HCLTECH.NS')":3601071
+  },
+  {
+    "('Date', '')":"2025-06-25",
+    "('Close', 'HCLTECH.NS')":1690.2586669922,
+    "('High', 'HCLTECH.NS')":1693.8023685947,
+    "('Low', 'HCLTECH.NS')":1674.4103624908,
+    "('Open', 'HCLTECH.NS')":1675.3947307227,
+    "('Volume', 'HCLTECH.NS')":1307518
+  },
+  {
+    "('Date', '')":"2025-06-26",
+    "('Close', 'HCLTECH.NS')":1697.1492919922,
+    "('High', 'HCLTECH.NS')":1699.9055711834,
+    "('Low', 'HCLTECH.NS')":1676.0837872087,
+    "('Open', 'HCLTECH.NS')":1683.2697235671,
+    "('Volume', 'HCLTECH.NS')":2971055
+  },
+  {
+    "('Date', '')":"2025-06-27",
+    "('Close', 'HCLTECH.NS')":1696.3619384766,
+    "('High', 'HCLTECH.NS')":1725.1054447551,
+    "('Low', 'HCLTECH.NS')":1684.0573347337,
+    "('Open', 'HCLTECH.NS')":1707.8789995151,
+    "('Volume', 'HCLTECH.NS')":6478283
+  },
+  {
+    "('Date', '')":"2025-06-30",
+    "('Close', 'HCLTECH.NS')":1701.5789794922,
+    "('High', 'HCLTECH.NS')":1707.6821349065,
+    "('Low', 'HCLTECH.NS')":1686.5182169522,
+    "('Open', 'HCLTECH.NS')":1698.0352777276,
+    "('Volume', 'HCLTECH.NS')":1855229
+  },
+  {
+    "('Date', '')":"2025-07-01",
+    "('Close', 'HCLTECH.NS')":1691.4399414062,
+    "('High', 'HCLTECH.NS')":1717.7225245188,
+    "('Low', 'HCLTECH.NS')":1687.2071100432,
+    "('Open', 'HCLTECH.NS')":1701.5788618606,
+    "('Volume', 'HCLTECH.NS')":1639826
+  },
+  {
+    "('Date', '')":"2025-07-02",
+    "('Close', 'HCLTECH.NS')":1691.7352294922,
+    "('High', 'HCLTECH.NS')":1711.3241814573,
+    "('Low', 'HCLTECH.NS')":1684.2540549172,
+    "('Open', 'HCLTECH.NS')":1695.0821055332,
+    "('Volume', 'HCLTECH.NS')":2069447
+  },
+  {
+    "('Date', '')":"2025-07-03",
+    "('Close', 'HCLTECH.NS')":1685.1401367188,
+    "('High', 'HCLTECH.NS')":1703.4493632827,
+    "('Low', 'HCLTECH.NS')":1679.8245238035,
+    "('Open', 'HCLTECH.NS')":1689.176022764,
+    "('Volume', 'HCLTECH.NS')":1839063
+  },
+  {
+    "('Date', '')":"2025-07-04",
+    "('Close', 'HCLTECH.NS')":1698.9211425781,
+    "('High', 'HCLTECH.NS')":1701.9726600414,
+    "('Low', 'HCLTECH.NS')":1679.5290164595,
+    "('Open', 'HCLTECH.NS')":1688.1915048994,
+    "('Volume', 'HCLTECH.NS')":768500
+  },
+  {
+    "('Date', '')":"2025-07-07",
+    "('Close', 'HCLTECH.NS')":1683.6634521484,
+    "('High', 'HCLTECH.NS')":1698.5273884554,
+    "('Low', 'HCLTECH.NS')":1676.6744617166,
+    "('Open', 'HCLTECH.NS')":1698.5273884554,
+    "('Volume', 'HCLTECH.NS')":1366412
+  },
+  {
+    "('Date', '')":"2025-07-08",
+    "('Close', 'HCLTECH.NS')":1681.3994140625,
+    "('High', 'HCLTECH.NS')":1692.0306394187,
+    "('Low', 'HCLTECH.NS')":1661.1214517799,
+    "('Open', 'HCLTECH.NS')":1673.4260551264,
+    "('Volume', 'HCLTECH.NS')":2139193
+  },
+  {
+    "('Date', '')":"2025-07-09",
+    "('Close', 'HCLTECH.NS')":1647.8325195312,
+    "('High', 'HCLTECH.NS')":1687.502609733,
+    "('Low', 'HCLTECH.NS')":1644.8794146575,
+    "('Open', 'HCLTECH.NS')":1683.2697780158,
+    "('Volume', 'HCLTECH.NS')":2894808
+  },
+  {
+    "('Date', '')":"2025-07-10",
+    "('Close', 'HCLTECH.NS')":1637.693359375,
+    "('High', 'HCLTECH.NS')":1653.6401966346,
+    "('Low', 'HCLTECH.NS')":1623.2231946074,
+    "('Open', 'HCLTECH.NS')":1648.8167683247,
+    "('Volume', 'HCLTECH.NS')":2740853
+  },
+  {
+    "('Date', '')":"2025-07-11",
+    "('Close', 'HCLTECH.NS')":1612.6905517578,
+    "('High', 'HCLTECH.NS')":1629.62163759,
+    "('Low', 'HCLTECH.NS')":1604.5202472194,
+    "('Open', 'HCLTECH.NS')":1617.5138600523,
+    "('Volume', 'HCLTECH.NS')":2548153
+  },
+  {
+    "('Date', '')":"2025-07-14",
+    "('Close', 'HCLTECH.NS')":1594.4797363281,
+    "('High', 'HCLTECH.NS')":1616.7264347026,
+    "('Low', 'HCLTECH.NS')":1581.8797746877,
+    "('Open', 'HCLTECH.NS')":1614.3639268748,
+    "('Volume', 'HCLTECH.NS')":3334703
+  },
+  {
+    "('Date', '')":"2025-07-15",
+    "('Close', 'HCLTECH.NS')":1541.9145507812,
+    "('High', 'HCLTECH.NS')":1596.0548080407,
+    "('Low', 'HCLTECH.NS')":1525.7708864024,
+    "('Open', 'HCLTECH.NS')":1565.1456189547,
+    "('Volume', 'HCLTECH.NS')":14685607
+  },
+  {
+    "('Date', '')":"2025-07-16",
+    "('Close', 'HCLTECH.NS')":1538.3707275391,
+    "('High', 'HCLTECH.NS')":1549.3956037192,
+    "('Low', 'HCLTECH.NS')":1535.614448413,
+    "('Open', 'HCLTECH.NS')":1541.9144291568,
+    "('Volume', 'HCLTECH.NS')":5218099
+  },
+  {
+    "('Date', '')":"2025-07-17",
+    "('Close', 'HCLTECH.NS')":1519.7662353516,
+    "('High', 'HCLTECH.NS')":1542.3082933494,
+    "('Low', 'HCLTECH.NS')":1518.2896829084,
+    "('Open', 'HCLTECH.NS')":1539.1582427067,
+    "('Volume', 'HCLTECH.NS')":4966082
+  },
+  {
+    "('Date', '')":"2025-07-18",
+    "('Close', 'HCLTECH.NS')":1536.5323486328,
+    "('High', 'HCLTECH.NS')":1537.7227952587,
+    "('Low', 'HCLTECH.NS')":1517.8812108038,
+    "('Open', 'HCLTECH.NS')":1531.7703199223,
+    "('Volume', 'HCLTECH.NS')":3902458
+  },
+  {
+    "('Date', '')":"2025-07-21",
+    "('Close', 'HCLTECH.NS')":1518.2780761719,
+    "('High', 'HCLTECH.NS')":1538.4172118571,
+    "('Low', 'HCLTECH.NS')":1513.9129033439,
+    "('Open', 'HCLTECH.NS')":1536.5323582048,
+    "('Volume', 'HCLTECH.NS')":3368842
+  },
+  {
+    "('Date', '')":"2025-07-22",
+    "('Close', 'HCLTECH.NS')":1508.0595703125,
+    "('High', 'HCLTECH.NS')":1527.6036032484,
+    "('Low', 'HCLTECH.NS')":1506.2739004115,
+    "('Open', 'HCLTECH.NS')":1520.9565999348,
+    "('Volume', 'HCLTECH.NS')":3218227
+  },
+  {
+    "('Date', '')":"2025-07-23",
+    "('Close', 'HCLTECH.NS')":1517.6828613281,
+    "('High', 'HCLTECH.NS')":1523.8337041404,
+    "('Low', 'HCLTECH.NS')":1505.9762779201,
+    "('Open', 'HCLTECH.NS')":1512.0279370296,
+    "('Volume', 'HCLTECH.NS')":3471536
+  },
+  {
+    "('Date', '')":"2025-07-24",
+    "('Close', 'HCLTECH.NS')":1495.26171875,
+    "('High', 'HCLTECH.NS')":1525.71862279,
+    "('Low', 'HCLTECH.NS')":1489.706099462,
+    "('Open', 'HCLTECH.NS')":1517.8811729052,
+    "('Volume', 'HCLTECH.NS')":4654421
+  },
+  {
+    "('Date', '')":"2025-07-25",
+    "('Close', 'HCLTECH.NS')":1478.2972412109,
+    "('High', 'HCLTECH.NS')":1500.2221680446,
+    "('Low', 'HCLTECH.NS')":1474.8249638946,
+    "('Open', 'HCLTECH.NS')":1489.2101127764,
+    "('Volume', 'HCLTECH.NS')":2733655
+  },
+  {
+    "('Date', '')":"2025-07-28",
+    "('Close', 'HCLTECH.NS')":1454.4873046875,
+    "('High', 'HCLTECH.NS')":1482.3647062511,
+    "('Low', 'HCLTECH.NS')":1451.9079229637,
+    "('Open', 'HCLTECH.NS')":1478.2972057132,
+    "('Volume', 'HCLTECH.NS')":4404841
+  },
+  {
+    "('Date', '')":"2025-07-29",
+    "('Close', 'HCLTECH.NS')":1460.7374267578,
+    "('High', 'HCLTECH.NS')":1465.7970064171,
+    "('Low', 'HCLTECH.NS')":1449.4276997465,
+    "('Open', 'HCLTECH.NS')":1454.4872794058,
+    "('Volume', 'HCLTECH.NS')":6223556
+  },
+  {
+    "('Date', '')":"2025-07-30",
+    "('Close', 'HCLTECH.NS')":1464.8049316406,
+    "('High', 'HCLTECH.NS')":1472.5431978042,
+    "('Low', 'HCLTECH.NS')":1457.1659702793,
+    "('Open', 'HCLTECH.NS')":1468.7732484212,
+    "('Volume', 'HCLTECH.NS')":1642426
+  },
+  {
+    "('Date', '')":"2025-07-31",
+    "('Close', 'HCLTECH.NS')":1456.2730712891,
+    "('High', 'HCLTECH.NS')":1470.95577068,
+    "('Low', 'HCLTECH.NS')":1447.9395818491,
+    "('Open', 'HCLTECH.NS')":1453.3960174093,
+    "('Volume', 'HCLTECH.NS')":2306285
+  },
+  {
+    "('Date', '')":"2025-08-01",
+    "('Close', 'HCLTECH.NS')":1440.5981445312,
+    "('High', 'HCLTECH.NS')":1455.2809647497,
+    "('Low', 'HCLTECH.NS')":1438.5148024863,
+    "('Open', 'HCLTECH.NS')":1453.3959900982,
+    "('Volume', 'HCLTECH.NS')":2152783
+  },
+  {
+    "('Date', '')":"2025-08-04",
+    "('Close', 'HCLTECH.NS')":1462.7215576172,
+    "('High', 'HCLTECH.NS')":1463.7136367907,
+    "('Low', 'HCLTECH.NS')":1429.1892331118,
+    "('Open', 'HCLTECH.NS')":1440.598143607,
+    "('Volume', 'HCLTECH.NS')":2384774
+  },
+  {
+    "('Date', '')":"2025-08-05",
+    "('Close', 'HCLTECH.NS')":1470.9558105469,
+    "('High', 'HCLTECH.NS')":1473.634497102,
+    "('Low', 'HCLTECH.NS')":1459.5468995208,
+    "('Open', 'HCLTECH.NS')":1468.1780613939,
+    "('Volume', 'HCLTECH.NS')":2614394
+  },
+  {
+    "('Date', '')":"2025-08-06",
+    "('Close', 'HCLTECH.NS')":1451.6102294922,
+    "('High', 'HCLTECH.NS')":1471.947852987,
+    "('Low', 'HCLTECH.NS')":1444.8641636291,
+    "('Open', 'HCLTECH.NS')":1469.1701039034,
+    "('Volume', 'HCLTECH.NS')":1735697
+  },
+  {
+    "('Date', '')":"2025-08-07",
+    "('Close', 'HCLTECH.NS')":1463.8128662109,
+    "('High', 'HCLTECH.NS')":1467.4835108261,
+    "('Low', 'HCLTECH.NS')":1439.5069257012,
+    "('Open', 'HCLTECH.NS')":1446.4514801325,
+    "('Volume', 'HCLTECH.NS')":1495363
+  },
+  {
+    "('Date', '')":"2025-08-08",
+    "('Close', 'HCLTECH.NS')":1464.0112304688,
+    "('High', 'HCLTECH.NS')":1470.459745284,
+    "('Low', 'HCLTECH.NS')":1447.4435562308,
+    "('Open', 'HCLTECH.NS')":1463.1184560694,
+    "('Volume', 'HCLTECH.NS')":2815614
+  },
+  {
+    "('Date', '')":"2025-08-11",
+    "('Close', 'HCLTECH.NS')":1476.2138671875,
+    "('High', 'HCLTECH.NS')":1518.8732732957,
+    "('Low', 'HCLTECH.NS')":1453.9912686221,
+    "('Open', 'HCLTECH.NS')":1463.3168374338,
+    "('Volume', 'HCLTECH.NS')":2374556
+  },
+  {
+    "('Date', '')":"2025-08-12",
+    "('Close', 'HCLTECH.NS')":1487.2259521484,
+    "('High', 'HCLTECH.NS')":1497.9404562931,
+    "('Low', 'HCLTECH.NS')":1477.2059761281,
+    "('Open', 'HCLTECH.NS')":1478.1980553599,
+    "('Volume', 'HCLTECH.NS')":3422656
+  },
+  {
+    "('Date', '')":"2025-08-13",
+    "('Close', 'HCLTECH.NS')":1489.2100830078,
+    "('High', 'HCLTECH.NS')":1495.5594141942,
+    "('Low', 'HCLTECH.NS')":1477.2059487464,
+    "('Open', 'HCLTECH.NS')":1488.1188200938,
+    "('Volume', 'HCLTECH.NS')":2916128
+  },
+  {
+    "('Date', '')":"2025-08-14",
+    "('Close', 'HCLTECH.NS')":1477.9996337891,
+    "('High', 'HCLTECH.NS')":1504.1904276656,
+    "('Low', 'HCLTECH.NS')":1474.0313170074,
+    "('Open', 'HCLTECH.NS')":1489.1108723365,
+    "('Volume', 'HCLTECH.NS')":4227538
+  },
+  {
+    "('Date', '')":"2025-08-18",
+    "('Close', 'HCLTECH.NS')":1473.2375488281,
+    "('High', 'HCLTECH.NS')":1490.0037108099,
+    "('Low', 'HCLTECH.NS')":1464.2096527159,
+    "('Open', 'HCLTECH.NS')":1486.2337615702,
+    "('Volume', 'HCLTECH.NS')":2795155
+  },
+  {
+    "('Date', '')":"2025-08-19",
+    "('Close', 'HCLTECH.NS')":1464.4080810547,
+    "('High', 'HCLTECH.NS')":1470.8565958466,
+    "('Low', 'HCLTECH.NS')":1457.5627103626,
+    "('Open', 'HCLTECH.NS')":1464.6065695565,
+    "('Volume', 'HCLTECH.NS')":2515817
+  },
+  {
+    "('Date', '')":"2025-08-20",
+    "('Close', 'HCLTECH.NS')":1484.1505126953,
+    "('High', 'HCLTECH.NS')":1488.4165017815,
+    "('Low', 'HCLTECH.NS')":1446.4515023461,
+    "('Open', 'HCLTECH.NS')":1456.3722945433,
+    "('Volume', 'HCLTECH.NS')":10219330
+  },
+  {
+    "('Date', '')":"2025-08-21",
+    "('Close', 'HCLTECH.NS')":1481.6702880859,
+    "('High', 'HCLTECH.NS')":1493.0791989082,
+    "('Low', 'HCLTECH.NS')":1474.328877771,
+    "('Open', 'HCLTECH.NS')":1488.1188028985,
+    "('Volume', 'HCLTECH.NS')":2157601
+  },
+  {
+    "('Date', '')":"2025-08-22",
+    "('Close', 'HCLTECH.NS')":1454.6857910156,
+    "('High', 'HCLTECH.NS')":1479.6861386139,
+    "('Low', 'HCLTECH.NS')":1452.403960396,
+    "('Open', 'HCLTECH.NS')":1477.8011638981,
+    "('Volume', 'HCLTECH.NS')":2802805
+  },
+  {
+    "('Date', '')":"2025-08-25",
+    "('Close', 'HCLTECH.NS')":1492.2855224609,
+    "('High', 'HCLTECH.NS')":1497.7419582008,
+    "('Low', 'HCLTECH.NS')":1464.5073041487,
+    "('Open', 'HCLTECH.NS')":1468.2772536467,
+    "('Volume', 'HCLTECH.NS')":2764914
+  },
+  {
+    "('Date', '')":"2025-08-26",
+    "('Close', 'HCLTECH.NS')":1480.9758300781,
+    "('High', 'HCLTECH.NS')":1494.5672662351,
+    "('Low', 'HCLTECH.NS')":1473.2375641282,
+    "('Open', 'HCLTECH.NS')":1490.0037262841,
+    "('Volume', 'HCLTECH.NS')":4092265
+  },
+  {
+    "('Date', '')":"2025-08-28",
+    "('Close', 'HCLTECH.NS')":1438.3165283203,
+    "('High', 'HCLTECH.NS')":1476.2139067871,
+    "('Low', 'HCLTECH.NS')":1434.5465787729,
+    "('Open', 'HCLTECH.NS')":1476.2139067871,
+    "('Volume', 'HCLTECH.NS')":4367902
+  },
+  {
+    "('Date', '')":"2025-08-29",
+    "('Close', 'HCLTECH.NS')":1443.2768554688,
+    "('High', 'HCLTECH.NS')":1451.0150004963,
+    "('Low', 'HCLTECH.NS')":1427.8003232068,
+    "('Open', 'HCLTECH.NS')":1438.3164595139,
+    "('Volume', 'HCLTECH.NS')":3404604
+  },
+  {
+    "('Date', '')":"2025-09-01",
+    "('Close', 'HCLTECH.NS')":1456.7691650391,
+    "('High', 'HCLTECH.NS')":1460.8366656599,
+    "('Low', 'HCLTECH.NS')":1434.5465660742,
+    "('Open', 'HCLTECH.NS')":1434.5465660742,
+    "('Volume', 'HCLTECH.NS')":2105254
+  },
+  {
+    "('Date', '')":"2025-09-02",
+    "('Close', 'HCLTECH.NS')":1454.0904541016,
+    "('High', 'HCLTECH.NS')":1465.6978535561,
+    "('Low', 'HCLTECH.NS')":1448.1379788234,
+    "('Open', 'HCLTECH.NS')":1457.3643639459,
+    "('Volume', 'HCLTECH.NS')":1295198
+  },
+  {
+    "('Date', '')":"2025-09-03",
+    "('Close', 'HCLTECH.NS')":1454.4873046875,
+    "('High', 'HCLTECH.NS')":1463.3168338719,
+    "('Low', 'HCLTECH.NS')":1441.0942353605,
+    "('Open', 'HCLTECH.NS')":1463.3168338719,
+    "('Volume', 'HCLTECH.NS')":1800307
+  },
+  {
+    "('Date', '')":"2025-09-04",
+    "('Close', 'HCLTECH.NS')":1431.8679199219,
+    "('High', 'HCLTECH.NS')":1454.2888850281,
+    "('Low', 'HCLTECH.NS')":1429.4869056842,
+    "('Open', 'HCLTECH.NS')":1453.4951732477,
+    "('Volume', 'HCLTECH.NS')":2192155
+  },
+  {
+    "('Date', '')":"2025-09-05",
+    "('Close', 'HCLTECH.NS')":1407.7603759766,
+    "('High', 'HCLTECH.NS')":1440.7966615709,
+    "('Low', 'HCLTECH.NS')":1391.6887414787,
+    "('Open', 'HCLTECH.NS')":1436.5306725962,
+    "('Volume', 'HCLTECH.NS')":3895199
+  },
+  {
+    "('Date', '')":"2025-09-08",
+    "('Close', 'HCLTECH.NS')":1391.8870849609,
+    "('High', 'HCLTECH.NS')":1417.2842876647,
+    "('Low', 'HCLTECH.NS')":1389.9029266075,
+    "('Open', 'HCLTECH.NS')":1412.6215639754,
+    "('Volume', 'HCLTECH.NS')":2929976
+  },
+  {
+    "('Date', '')":"2025-09-09",
+    "('Close', 'HCLTECH.NS')":1415.7961425781,
+    "('High', 'HCLTECH.NS')":1420.4589872841,
+    "('Low', 'HCLTECH.NS')":1397.9387177289,
+    "('Open', 'HCLTECH.NS')":1399.0299805823,
+    "('Volume', 'HCLTECH.NS')":2906889
+  },
+  {
+    "('Date', '')":"2025-09-10",
+    "('Close', 'HCLTECH.NS')":1452.3048095703,
+    "('High', 'HCLTECH.NS')":1460.2414434133,
+    "('Low', 'HCLTECH.NS')":1420.7566416029,
+    "('Open', 'HCLTECH.NS')":1423.5345118894,
+    "('Volume', 'HCLTECH.NS')":3205017
+  },
+  {
+    "('Date', '')":"2025-09-11",
+    "('Close', 'HCLTECH.NS')":1456.0745849609,
+    "('High', 'HCLTECH.NS')":1458.7532714475,
+    "('Low', 'HCLTECH.NS')":1446.7491374177,
+    "('Open', 'HCLTECH.NS')":1452.3047566848,
+    "('Volume', 'HCLTECH.NS')":1982922
+  },
+  {
+    "('Date', '')":"2025-09-12",
+    "('Close', 'HCLTECH.NS')":1455.5784912109,
+    "('High', 'HCLTECH.NS')":1468.2771528663,
+    "('Low', 'HCLTECH.NS')":1451.4118071915,
+    "('Open', 'HCLTECH.NS')":1463.3167570796,
+    "('Volume', 'HCLTECH.NS')":2110883
+  },
+  {
+    "('Date', '')":"2025-09-15",
+    "('Close', 'HCLTECH.NS')":1454.8841552734,
+    "('High', 'HCLTECH.NS')":1456.6699462852,
+    "('Low', 'HCLTECH.NS')":1440.4990067897,
+    "('Open', 'HCLTECH.NS')":1455.5785622761,
+    "('Volume', 'HCLTECH.NS')":1725617
+  },
+  {
+    "('Date', '')":"2025-09-16",
+    "('Close', 'HCLTECH.NS')":1471.3526611328,
+    "('High', 'HCLTECH.NS')":1473.4360032659,
+    "('Low', 'HCLTECH.NS')":1449.5269183793,
+    "('Open', 'HCLTECH.NS')":1452.3047886256,
+    "('Volume', 'HCLTECH.NS')":1724524
+  },
+  {
+    "('Date', '')":"2025-09-17",
+    "('Close', 'HCLTECH.NS')":1469.7653808594,
+    "('High', 'HCLTECH.NS')":1487.1267674034,
+    "('Low', 'HCLTECH.NS')":1463.614538068,
+    "('Open', 'HCLTECH.NS')":1478.9917661499,
+    "('Volume', 'HCLTECH.NS')":2656774
+  },
+  {
+    "('Date', '')":"2025-09-18",
+    "('Close', 'HCLTECH.NS')":1481.9678955078,
+    "('High', 'HCLTECH.NS')":1490.9957916301,
+    "('Low', 'HCLTECH.NS')":1474.3288133248,
+    "('Open', 'HCLTECH.NS')":1480.7773278555,
+    "('Volume', 'HCLTECH.NS')":2792406
+  },
+  {
+    "('Date', '')":"2025-09-19",
+    "('Close', 'HCLTECH.NS')":1455.7770996094,
+    "('High', 'HCLTECH.NS')":1481.9680157411,
+    "('Low', 'HCLTECH.NS')":1452.4040059759,
+    "('Open', 'HCLTECH.NS')":1481.9680157411,
+    "('Volume', 'HCLTECH.NS')":3197957
+  },
+  {
+    "('Date', '')":"2025-09-22",
+    "('Close', 'HCLTECH.NS')":1428.4948730469,
+    "('High', 'HCLTECH.NS')":1437.7211370013,
+    "('Low', 'HCLTECH.NS')":1403.7920765949,
+    "('Open', 'HCLTECH.NS')":1411.7287102435,
+    "('Volume', 'HCLTECH.NS')":4457129
+  },
+  {
+    "('Date', '')":"2025-09-23",
+    "('Close', 'HCLTECH.NS')":1418.4748535156,
+    "('High', 'HCLTECH.NS')":1432.7606967595,
+    "('Low', 'HCLTECH.NS')":1409.1492850456,
+    "('Open', 'HCLTECH.NS')":1432.7606967595,
+    "('Volume', 'HCLTECH.NS')":3106480
+  },
+  {
+    "('Date', '')":"2025-09-24",
+    "('Close', 'HCLTECH.NS')":1430.8758544922,
+    "('High', 'HCLTECH.NS')":1433.2567476493,
+    "('Low', 'HCLTECH.NS')":1408.7524402636,
+    "('Open', 'HCLTECH.NS')":1413.8120198776,
+    "('Volume', 'HCLTECH.NS')":2894044
+  },
+  {
+    "('Date', '')":"2025-09-25",
+    "('Close', 'HCLTECH.NS')":1412.5224609375,
+    "('High', 'HCLTECH.NS')":1431.0742941605,
+    "('Low', 'HCLTECH.NS')":1404.7841944757,
+    "('Open', 'HCLTECH.NS')":1428.7924634823,
+    "('Volume', 'HCLTECH.NS')":2713246
+  },
+  {
+    "('Date', '')":"2025-09-26",
+    "('Close', 'HCLTECH.NS')":1384.2481689453,
+    "('High', 'HCLTECH.NS')":1415.2009918289,
+    "('Low', 'HCLTECH.NS')":1380.9742591138,
+    "('Open', 'HCLTECH.NS')":1408.7524769695,
+    "('Volume', 'HCLTECH.NS')":2568054
+  },
+  {
+    "('Date', '')":"2025-09-29",
+    "('Close', 'HCLTECH.NS')":1376.4106445312,
+    "('High', 'HCLTECH.NS')":1391.4901992532,
+    "('Low', 'HCLTECH.NS')":1372.0454720265,
+    "('Open', 'HCLTECH.NS')":1386.033763898,
+    "('Volume', 'HCLTECH.NS')":2990852
+  },
+  {
+    "('Date', '')":"2025-09-30",
+    "('Close', 'HCLTECH.NS')":1374.12890625,
+    "('High', 'HCLTECH.NS')":1393.8713069896,
+    "('Low', 'HCLTECH.NS')":1370.9543011808,
+    "('Open', 'HCLTECH.NS')":1381.0734608044,
+    "('Volume', 'HCLTECH.NS')":2782077
+  },
+  {
+    "('Date', '')":"2025-10-01",
+    "('Close', 'HCLTECH.NS')":1378.4940185547,
+    "('High', 'HCLTECH.NS')":1385.7362449993,
+    "('Low', 'HCLTECH.NS')":1371.0534247158,
+    "('Open', 'HCLTECH.NS')":1375.120925127,
+    "('Volume', 'HCLTECH.NS')":2253527
+  },
+  {
+    "('Date', '')":"2025-10-03",
+    "('Close', 'HCLTECH.NS')":1382.4624023438,
+    "('High', 'HCLTECH.NS')":1388.712549913,
+    "('Low', 'HCLTECH.NS')":1369.4661886953,
+    "('Open', 'HCLTECH.NS')":1385.4386400237,
+    "('Volume', 'HCLTECH.NS')":2793839
+  },
+  {
+    "('Date', '')":"2025-10-06",
+    "('Close', 'HCLTECH.NS')":1406.4705810547,
+    "('High', 'HCLTECH.NS')":1409.7444907342,
+    "('Low', 'HCLTECH.NS')":1379.7837484506,
+    "('Open', 'HCLTECH.NS')":1382.4623137496,
+    "('Volume', 'HCLTECH.NS')":1970901
+  },
+  {
+    "('Date', '')":"2025-10-07",
+    "('Close', 'HCLTECH.NS')":1422.0463867188,
+    "('High', 'HCLTECH.NS')":1430.4790601395,
+    "('Low', 'HCLTECH.NS')":1405.9746305961,
+    "('Open', 'HCLTECH.NS')":1410.7366593221,
+    "('Volume', 'HCLTECH.NS')":1592836
+  },
+  {
+    "('Date', '')":"2025-10-08",
+    "('Close', 'HCLTECH.NS')":1441.689453125,
+    "('High', 'HCLTECH.NS')":1447.1458887558,
+    "('Low', 'HCLTECH.NS')":1415.8953937796,
+    "('Open', 'HCLTECH.NS')":1421.8478690132,
+    "('Volume', 'HCLTECH.NS')":1735807
+  },
+  {
+    "('Date', '')":"2025-10-09",
+    "('Close', 'HCLTECH.NS')":1474.7257080078,
+    "('High', 'HCLTECH.NS')":1479.2892480366,
+    "('Low', 'HCLTECH.NS')":1440.9950157291,
+    "('Open', 'HCLTECH.NS')":1441.689422717,
+    "('Volume', 'HCLTECH.NS')":2681316
+  },
+  {
+    "('Date', '')":"2025-10-10",
+    "('Close', 'HCLTECH.NS')":1483.6544189453,
+    "('High', 'HCLTECH.NS')":1486.6306564959,
+    "('Low', 'HCLTECH.NS')":1462.2255328021,
+    "('Open', 'HCLTECH.NS')":1479.1900626195,
+    "('Volume', 'HCLTECH.NS')":2129445
+  },
+  {
+    "('Date', '')":"2025-10-13",
+    "('Close', 'HCLTECH.NS')":1482.8607177734,
+    "('High', 'HCLTECH.NS')":1490.3013117031,
+    "('Low', 'HCLTECH.NS')":1464.8049249456,
+    "('Open', 'HCLTECH.NS')":1478.1979940189,
+    "('Volume', 'HCLTECH.NS')":1820492
+  },
+  {
+    "('Date', '')":"2025-10-14",
+    "('Close', 'HCLTECH.NS')":1483.5552978516,
+    "('High', 'HCLTECH.NS')":1522.8416109559,
+    "('Low', 'HCLTECH.NS')":1478.3964132175,
+    "('Open', 'HCLTECH.NS')":1503.3968823591,
+    "('Volume', 'HCLTECH.NS')":5802489
+  },
+  {
+    "('Date', '')":"2025-10-15",
+    "('Close', 'HCLTECH.NS')":1483.8527832031,
+    "('High', 'HCLTECH.NS')":1497.4443406506,
+    "('Low', 'HCLTECH.NS')":1474.3288472822,
+    "('Open', 'HCLTECH.NS')":1486.0354300643,
+    "('Volume', 'HCLTECH.NS')":1710696
+  },
+  {
+    "('Date', '')":"2025-10-16",
+    "('Close', 'HCLTECH.NS')":1503.0,
+    "('High', 'HCLTECH.NS')":1507.8612123395,
+    "('Low', 'HCLTECH.NS')":1486.1346534653,
+    "('Open', 'HCLTECH.NS')":1488.0196281811,
+    "('Volume', 'HCLTECH.NS')":2021043
+  },
+  {
+    "('Date', '')":"2025-10-17",
+    "('Close', 'HCLTECH.NS')":1486.1999511719,
+    "('High', 'HCLTECH.NS')":1501.3000488281,
+    "('Low', 'HCLTECH.NS')":1479.1999511719,
+    "('Open', 'HCLTECH.NS')":1499.0,
+    "('Volume', 'HCLTECH.NS')":3210161
+  },
+  {
+    "('Date', '')":"2025-10-20",
+    "('Close', 'HCLTECH.NS')":1495.4000244141,
+    "('High', 'HCLTECH.NS')":1509.9000244141,
+    "('Low', 'HCLTECH.NS')":1489.0999755859,
+    "('Open', 'HCLTECH.NS')":1489.9000244141,
+    "('Volume', 'HCLTECH.NS')":2354881
+  },
+  {
+    "('Date', '')":"2025-10-21",
+    "('Close', 'HCLTECH.NS')":1486.0,
+    "('High', 'HCLTECH.NS')":1503.0,
+    "('Low', 'HCLTECH.NS')":1481.0,
+    "('Open', 'HCLTECH.NS')":1502.6999511719,
+    "('Volume', 'HCLTECH.NS')":274400
+  },
+  {
+    "('Date', '')":"2025-10-23",
+    "('Close', 'HCLTECH.NS')":1523.9000244141,
+    "('High', 'HCLTECH.NS')":1547.5,
+    "('Low', 'HCLTECH.NS')":1505.5,
+    "('Open', 'HCLTECH.NS')":1510.0,
+    "('Volume', 'HCLTECH.NS')":5011470
+  },
+  {
+    "('Date', '')":"2025-10-24",
+    "('Close', 'HCLTECH.NS')":1523.8000488281,
+    "('High', 'HCLTECH.NS')":1532.5999755859,
+    "('Low', 'HCLTECH.NS')":1516.4000244141,
+    "('Open', 'HCLTECH.NS')":1525.0,
+    "('Volume', 'HCLTECH.NS')":1491451
+  },
+  {
+    "('Date', '')":"2025-10-27",
+    "('Close', 'HCLTECH.NS')":1533.5,
+    "('High', 'HCLTECH.NS')":1549.5,
+    "('Low', 'HCLTECH.NS')":1526.8000488281,
+    "('Open', 'HCLTECH.NS')":1531.4000244141,
+    "('Volume', 'HCLTECH.NS')":1394846
+  },
+  {
+    "('Date', '')":"2025-10-28",
+    "('Close', 'HCLTECH.NS')":1522.0999755859,
+    "('High', 'HCLTECH.NS')":1542.0,
+    "('Low', 'HCLTECH.NS')":1512.0,
+    "('Open', 'HCLTECH.NS')":1535.0,
+    "('Volume', 'HCLTECH.NS')":1936466
+  },
+  {
+    "('Date', '')":"2025-10-29",
+    "('Close', 'HCLTECH.NS')":1557.3000488281,
+    "('High', 'HCLTECH.NS')":1559.0,
+    "('Low', 'HCLTECH.NS')":1522.0,
+    "('Open', 'HCLTECH.NS')":1530.0,
+    "('Volume', 'HCLTECH.NS')":2596355
+  },
+  {
+    "('Date', '')":"2025-10-30",
+    "('Close', 'HCLTECH.NS')":1549.8000488281,
+    "('High', 'HCLTECH.NS')":1559.9000244141,
+    "('Low', 'HCLTECH.NS')":1538.0999755859,
+    "('Open', 'HCLTECH.NS')":1557.6999511719,
+    "('Volume', 'HCLTECH.NS')":2183395
+  },
+  {
+    "('Date', '')":"2025-10-31",
+    "('Close', 'HCLTECH.NS')":1541.5,
+    "('High', 'HCLTECH.NS')":1558.1999511719,
+    "('Low', 'HCLTECH.NS')":1537.5999755859,
+    "('Open', 'HCLTECH.NS')":1549.8000488281,
+    "('Volume', 'HCLTECH.NS')":1723467
+  },
+  {
+    "('Date', '')":"2025-11-03",
+    "('Close', 'HCLTECH.NS')":1543.5,
+    "('High', 'HCLTECH.NS')":1549.6999511719,
+    "('Low', 'HCLTECH.NS')":1528.1999511719,
+    "('Open', 'HCLTECH.NS')":1540.0999755859,
+    "('Volume', 'HCLTECH.NS')":2252136
+  },
+  {
+    "('Date', '')":"2025-11-04",
+    "('Close', 'HCLTECH.NS')":1529.0999755859,
+    "('High', 'HCLTECH.NS')":1541.9000244141,
+    "('Low', 'HCLTECH.NS')":1525.0,
+    "('Open', 'HCLTECH.NS')":1536.4000244141,
+    "('Volume', 'HCLTECH.NS')":1666863
+  },
+  {
+    "('Date', '')":"2025-11-05",
+    "('Close', 'HCLTECH.NS')":1529.0999755859,
+    "('High', 'HCLTECH.NS')":1529.0999755859,
+    "('Low', 'HCLTECH.NS')":1529.0999755859,
+    "('Open', 'HCLTECH.NS')":1529.0999755859,
+    "('Volume', 'HCLTECH.NS')":0
+  },
+  {
+    "('Date', '')":"2025-11-06",
+    "('Close', 'HCLTECH.NS')":1526.4000244141,
+    "('High', 'HCLTECH.NS')":1531.9000244141,
+    "('Low', 'HCLTECH.NS')":1514.3000488281,
+    "('Open', 'HCLTECH.NS')":1529.0999755859,
+    "('Volume', 'HCLTECH.NS')":2474769
+  },
+  {
+    "('Date', '')":"2025-11-07",
+    "('Close', 'HCLTECH.NS')":1512.4000244141,
+    "('High', 'HCLTECH.NS')":1518.8000488281,
+    "('Low', 'HCLTECH.NS')":1490.5,
+    "('Open', 'HCLTECH.NS')":1515.0999755859,
+    "('Volume', 'HCLTECH.NS')":2238714
+  },
+  {
+    "('Date', '')":"2025-11-10",
+    "('Close', 'HCLTECH.NS')":1540.5,
+    "('High', 'HCLTECH.NS')":1544.9000244141,
+    "('Low', 'HCLTECH.NS')":1511.4000244141,
+    "('Open', 'HCLTECH.NS')":1518.0,
+    "('Volume', 'HCLTECH.NS')":1558896
+  },
+  {
+    "('Date', '')":"2025-11-11",
+    "('Close', 'HCLTECH.NS')":1570.0,
+    "('High', 'HCLTECH.NS')":1572.5,
+    "('Low', 'HCLTECH.NS')":1541.1999511719,
+    "('Open', 'HCLTECH.NS')":1547.8000488281,
+    "('Volume', 'HCLTECH.NS')":2270538
+  }
+]

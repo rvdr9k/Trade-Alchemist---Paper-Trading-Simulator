@@ -1,0 +1,1994 @@
+[
+  {
+    "('Date', '')":"2024-11-11",
+    "('Close', 'HDFCBANK.NS')":871.3717041016,
+    "('High', 'HDFCBANK.NS')":879.5116762016,
+    "('Low', 'HDFCBANK.NS')":863.922348124,
+    "('Open', 'HDFCBANK.NS')":865.5750573031,
+    "('Volume', 'HDFCBANK.NS')":24565362
+  },
+  {
+    "('Date', '')":"2024-11-12",
+    "('Close', 'HDFCBANK.NS')":847.6424560547,
+    "('High', 'HDFCBANK.NS')":875.6637191561,
+    "('Low', 'HDFCBANK.NS')":842.9311747125,
+    "('Open', 'HDFCBANK.NS')":874.1837241379,
+    "('Volume', 'HDFCBANK.NS')":31395406
+  },
+  {
+    "('Date', '')":"2024-11-13",
+    "('Close', 'HDFCBANK.NS')":829.4631347656,
+    "('High', 'HDFCBANK.NS')":853.1677439816,
+    "('Low', 'HDFCBANK.NS')":825.3438276462,
+    "('Open', 'HDFCBANK.NS')":846.9270867373,
+    "('Volume', 'HDFCBANK.NS')":35728500
+  },
+  {
+    "('Date', '')":"2024-11-14",
+    "('Close', 'HDFCBANK.NS')":835.0871582031,
+    "('High', 'HDFCBANK.NS')":841.0564591787,
+    "('Low', 'HDFCBANK.NS')":824.8998474929,
+    "('Open', 'HDFCBANK.NS')":825.3931791474,
+    "('Volume', 'HDFCBANK.NS')":27146470
+  },
+  {
+    "('Date', '')":"2024-11-18",
+    "('Close', 'HDFCBANK.NS')":841.1797485352,
+    "('High', 'HDFCBANK.NS')":847.9877491036,
+    "('Low', 'HDFCBANK.NS')":836.1971111267,
+    "('Open', 'HDFCBANK.NS')":838.6637692716,
+    "('Volume', 'HDFCBANK.NS')":27081968
+  },
+  {
+    "('Date', '')":"2024-11-19",
+    "('Close', 'HDFCBANK.NS')":859.5070800781,
+    "('High', 'HDFCBANK.NS')":865.180394138,
+    "('Low', 'HDFCBANK.NS')":839.9957889401,
+    "('Open', 'HDFCBANK.NS')":845.570460757,
+    "('Volume', 'HDFCBANK.NS')":50981272
+  },
+  {
+    "('Date', '')":"2024-11-21",
+    "('Close', 'HDFCBANK.NS')":858.9890136719,
+    "('High', 'HDFCBANK.NS')":867.7703408112,
+    "('Low', 'HDFCBANK.NS')":855.5356922474,
+    "('Open', 'HDFCBANK.NS')":863.0343691875,
+    "('Volume', 'HDFCBANK.NS')":35716512
+  },
+  {
+    "('Date', '')":"2024-11-22",
+    "('Close', 'HDFCBANK.NS')":861.1596679688,
+    "('High', 'HDFCBANK.NS')":865.4516892161,
+    "('Low', 'HDFCBANK.NS')":853.2417315624,
+    "('Open', 'HDFCBANK.NS')":860.1483742756,
+    "('Volume', 'HDFCBANK.NS')":24773612
+  },
+  {
+    "('Date', '')":"2024-11-25",
+    "('Close', 'HDFCBANK.NS')":880.8929443359,
+    "('High', 'HDFCBANK.NS')":889.7482832055,
+    "('Low', 'HDFCBANK.NS')":870.6810037083,
+    "('Open', 'HDFCBANK.NS')":880.6216480728,
+    "('Volume', 'HDFCBANK.NS')":427737274
+  },
+  {
+    "('Date', '')":"2024-11-26",
+    "('Close', 'HDFCBANK.NS')":880.868347168,
+    "('High', 'HDFCBANK.NS')":892.9302818593,
+    "('Low', 'HDFCBANK.NS')":873.0983737209,
+    "('Open', 'HDFCBANK.NS')":892.9302818593,
+    "('Volume', 'HDFCBANK.NS')":30935566
+  },
+  {
+    "('Date', '')":"2024-11-27",
+    "('Close', 'HDFCBANK.NS')":894.0649414062,
+    "('High', 'HDFCBANK.NS')":896.556230017,
+    "('Low', 'HDFCBANK.NS')":880.6709755436,
+    "('Open', 'HDFCBANK.NS')":883.0143007973,
+    "('Volume', 'HDFCBANK.NS')":32714976
+  },
+  {
+    "('Date', '')":"2024-11-28",
+    "('Close', 'HDFCBANK.NS')":884.6176147461,
+    "('High', 'HDFCBANK.NS')":905.8061839354,
+    "('Low', 'HDFCBANK.NS')":882.076944835,
+    "('Open', 'HDFCBANK.NS')":897.3702251985,
+    "('Volume', 'HDFCBANK.NS')":35722392
+  },
+  {
+    "('Date', '')":"2024-11-29",
+    "('Close', 'HDFCBANK.NS')":886.0483398438,
+    "('High', 'HDFCBANK.NS')":890.266289346,
+    "('Low', 'HDFCBANK.NS')":879.5610165598,
+    "('Open', 'HDFCBANK.NS')":888.6383310231,
+    "('Volume', 'HDFCBANK.NS')":27669536
+  },
+  {
+    "('Date', '')":"2024-12-02",
+    "('Close', 'HDFCBANK.NS')":890.315612793,
+    "('High', 'HDFCBANK.NS')":892.0176431337,
+    "('Low', 'HDFCBANK.NS')":875.6636867427,
+    "('Open', 'HDFCBANK.NS')":889.723638896,
+    "('Volume', 'HDFCBANK.NS')":15110876
+  },
+  {
+    "('Date', '')":"2024-12-03",
+    "('Close', 'HDFCBANK.NS')":900.9715576172,
+    "('High', 'HDFCBANK.NS')":906.4475265302,
+    "('Low', 'HDFCBANK.NS')":895.9395389833,
+    "('Open', 'HDFCBANK.NS')":899.1955156163,
+    "('Volume', 'HDFCBANK.NS')":43410242
+  },
+  {
+    "('Date', '')":"2024-12-04",
+    "('Close', 'HDFCBANK.NS')":917.6461791992,
+    "('High', 'HDFCBANK.NS')":920.0635162997,
+    "('Low', 'HDFCBANK.NS')":903.3642521902,
+    "('Open', 'HDFCBANK.NS')":906.7435619082,
+    "('Volume', 'HDFCBANK.NS')":44669084
+  },
+  {
+    "('Date', '')":"2024-12-05",
+    "('Close', 'HDFCBANK.NS')":920.4335327148,
+    "('High', 'HDFCBANK.NS')":927.4388181076,
+    "('Low', 'HDFCBANK.NS')":905.3622266087,
+    "('Open', 'HDFCBANK.NS')":917.5968757066,
+    "('Volume', 'HDFCBANK.NS')":39682714
+  },
+  {
+    "('Date', '')":"2024-12-06",
+    "('Close', 'HDFCBANK.NS')":915.5494995117,
+    "('High', 'HDFCBANK.NS')":919.6688066051,
+    "('Low', 'HDFCBANK.NS')":909.703531702,
+    "('Open', 'HDFCBANK.NS')":916.1168429342,
+    "('Volume', 'HDFCBANK.NS')":17783156
+  },
+  {
+    "('Date', '')":"2024-12-09",
+    "('Close', 'HDFCBANK.NS')":922.5302124023,
+    "('High', 'HDFCBANK.NS')":927.4635290462,
+    "('Low', 'HDFCBANK.NS')":912.1702474502,
+    "('Open', 'HDFCBANK.NS')":914.4642517339,
+    "('Volume', 'HDFCBANK.NS')":26947912
+  },
+  {
+    "('Date', '')":"2024-12-10",
+    "('Close', 'HDFCBANK.NS')":921.5928344727,
+    "('High', 'HDFCBANK.NS')":926.328806223,
+    "('Low', 'HDFCBANK.NS')":916.8815533931,
+    "('Open', 'HDFCBANK.NS')":926.328806223,
+    "('Volume', 'HDFCBANK.NS')":13325480
+  },
+  {
+    "('Date', '')":"2024-12-11",
+    "('Close', 'HDFCBANK.NS')":919.126159668,
+    "('High', 'HDFCBANK.NS')":923.4675021564,
+    "('Low', 'HDFCBANK.NS')":915.9935158213,
+    "('Open', 'HDFCBANK.NS')":918.4354833328,
+    "('Volume', 'HDFCBANK.NS')":14045426
+  },
+  {
+    "('Date', '')":"2024-12-12",
+    "('Close', 'HDFCBANK.NS')":917.2268676758,
+    "('High', 'HDFCBANK.NS')":921.8641972169,
+    "('Low', 'HDFCBANK.NS')":912.0221946945,
+    "('Open', 'HDFCBANK.NS')":913.1568815748,
+    "('Volume', 'HDFCBANK.NS')":17293790
+  },
+  {
+    "('Date', '')":"2024-12-13",
+    "('Close', 'HDFCBANK.NS')":923.3934936523,
+    "('High', 'HDFCBANK.NS')":924.9968214762,
+    "('Low', 'HDFCBANK.NS')":902.4268990322,
+    "('Open', 'HDFCBANK.NS')":918.8301759997,
+    "('Volume', 'HDFCBANK.NS')":19009002
+  },
+  {
+    "('Date', '')":"2024-12-16",
+    "('Close', 'HDFCBANK.NS')":920.1621704102,
+    "('High', 'HDFCBANK.NS')":922.50549575,
+    "('Low', 'HDFCBANK.NS')":915.2535445762,
+    "('Open', 'HDFCBANK.NS')":920.1128492893,
+    "('Volume', 'HDFCBANK.NS')":13107082
+  },
+  {
+    "('Date', '')":"2024-12-17",
+    "('Close', 'HDFCBANK.NS')":904.4002685547,
+    "('High', 'HDFCBANK.NS')":918.7562078619,
+    "('Low', 'HDFCBANK.NS')":901.0702798392,
+    "('Open', 'HDFCBANK.NS')":915.7962178925,
+    "('Volume', 'HDFCBANK.NS')":21079532
+  },
+  {
+    "('Date', '')":"2024-12-18",
+    "('Close', 'HDFCBANK.NS')":893.2756347656,
+    "('High', 'HDFCBANK.NS')":905.7569501608,
+    "('Low', 'HDFCBANK.NS')":891.524343462,
+    "('Open', 'HDFCBANK.NS')":902.7229483325,
+    "('Volume', 'HDFCBANK.NS')":23422312
+  },
+  {
+    "('Date', '')":"2024-12-19",
+    "('Close', 'HDFCBANK.NS')":884.7902832031,
+    "('High', 'HDFCBANK.NS')":888.5395915672,
+    "('Low', 'HDFCBANK.NS')":877.6369745293,
+    "('Open', 'HDFCBANK.NS')":887.7995941182,
+    "('Volume', 'HDFCBANK.NS')":25380770
+  },
+  {
+    "('Date', '')":"2024-12-20",
+    "('Close', 'HDFCBANK.NS')":873.9370117188,
+    "('High', 'HDFCBANK.NS')":886.7883251977,
+    "('Low', 'HDFCBANK.NS')":871.7417099804,
+    "('Open', 'HDFCBANK.NS')":879.2156362475,
+    "('Volume', 'HDFCBANK.NS')":25692348
+  },
+  {
+    "('Date', '')":"2024-12-23",
+    "('Close', 'HDFCBANK.NS')":888.4902954102,
+    "('High', 'HDFCBANK.NS')":890.9569536428,
+    "('Low', 'HDFCBANK.NS')":878.7716860619,
+    "('Open', 'HDFCBANK.NS')":879.116994126,
+    "('Volume', 'HDFCBANK.NS')":11044592
+  },
+  {
+    "('Date', '')":"2024-12-24",
+    "('Close', 'HDFCBANK.NS')":887.0596313477,
+    "('High', 'HDFCBANK.NS')":892.2889348142,
+    "('Low', 'HDFCBANK.NS')":882.8416818561,
+    "('Open', 'HDFCBANK.NS')":889.0083275056,
+    "('Volume', 'HDFCBANK.NS')":14485834
+  },
+  {
+    "('Date', '')":"2024-12-26",
+    "('Close', 'HDFCBANK.NS')":883.4336547852,
+    "('High', 'HDFCBANK.NS')":893.9169523779,
+    "('Low', 'HDFCBANK.NS')":878.5003382709,
+    "('Open', 'HDFCBANK.NS')":887.2816657547,
+    "('Volume', 'HDFCBANK.NS')":10481678
+  },
+  {
+    "('Date', '')":"2024-12-27",
+    "('Close', 'HDFCBANK.NS')":887.1336669922,
+    "('High', 'HDFCBANK.NS')":890.932296726,
+    "('Low', 'HDFCBANK.NS')":882.6196702111,
+    "('Open', 'HDFCBANK.NS')":885.4316968356,
+    "('Volume', 'HDFCBANK.NS')":7259330
+  },
+  {
+    "('Date', '')":"2024-12-30",
+    "('Close', 'HDFCBANK.NS')":877.0943603516,
+    "('High', 'HDFCBANK.NS')":895.3969526845,
+    "('Low', 'HDFCBANK.NS')":873.6903598922,
+    "('Open', 'HDFCBANK.NS')":884.1489668764,
+    "('Volume', 'HDFCBANK.NS')":22222218
+  },
+  {
+    "('Date', '')":"2024-12-31",
+    "('Close', 'HDFCBANK.NS')":874.6029663086,
+    "('High', 'HDFCBANK.NS')":879.0183205202,
+    "('Low', 'HDFCBANK.NS')":871.0263119988,
+    "('Open', 'HDFCBANK.NS')":873.3450067875,
+    "('Volume', 'HDFCBANK.NS')":14117236
+  },
+  {
+    "('Date', '')":"2025-01-01",
+    "('Close', 'HDFCBANK.NS')":879.4869995117,
+    "('High', 'HDFCBANK.NS')":885.0369805772,
+    "('Low', 'HDFCBANK.NS')":868.8063572392,
+    "('Open', 'HDFCBANK.NS')":874.8989910758,
+    "('Volume', 'HDFCBANK.NS')":7313806
+  },
+  {
+    "('Date', '')":"2025-01-02",
+    "('Close', 'HDFCBANK.NS')":884.9136352539,
+    "('High', 'HDFCBANK.NS')":889.6989281059,
+    "('Low', 'HDFCBANK.NS')":874.6770036545,
+    "('Open', 'HDFCBANK.NS')":876.6996513479,
+    "('Volume', 'HDFCBANK.NS')":18558576
+  },
+  {
+    "('Date', '')":"2025-01-03",
+    "('Close', 'HDFCBANK.NS')":862.9356689453,
+    "('High', 'HDFCBANK.NS')":885.653614749,
+    "('Low', 'HDFCBANK.NS')":861.5050553856,
+    "('Open', 'HDFCBANK.NS')":883.5569553073,
+    "('Volume', 'HDFCBANK.NS')":24426194
+  },
+  {
+    "('Date', '')":"2025-01-06",
+    "('Close', 'HDFCBANK.NS')":843.84375,
+    "('High', 'HDFCBANK.NS')":866.8823129475,
+    "('Low', 'HDFCBANK.NS')":841.525115436,
+    "('Open', 'HDFCBANK.NS')":858.4463541499,
+    "('Volume', 'HDFCBANK.NS')":18816348
+  },
+  {
+    "('Date', '')":"2025-01-07",
+    "('Close', 'HDFCBANK.NS')":845.2744140625,
+    "('High', 'HDFCBANK.NS')":849.0237223494,
+    "('Low', 'HDFCBANK.NS')":838.6637582766,
+    "('Open', 'HDFCBANK.NS')":846.0637326143,
+    "('Volume', 'HDFCBANK.NS')":13527906
+  },
+  {
+    "('Date', '')":"2025-01-08",
+    "('Close', 'HDFCBANK.NS')":835.8518676758,
+    "('High', 'HDFCBANK.NS')":844.4111600559,
+    "('Low', 'HDFCBANK.NS')":830.4498497882,
+    "('Open', 'HDFCBANK.NS')":842.7338203435,
+    "('Volume', 'HDFCBANK.NS')":19738190
+  },
+  {
+    "('Date', '')":"2025-01-09",
+    "('Close', 'HDFCBANK.NS')":822.7785644531,
+    "('High', 'HDFCBANK.NS')":833.2371715289,
+    "('Low', 'HDFCBANK.NS')":817.9932112311,
+    "('Open', 'HDFCBANK.NS')":830.8445250285,
+    "('Volume', 'HDFCBANK.NS')":40420222
+  },
+  {
+    "('Date', '')":"2025-01-10",
+    "('Close', 'HDFCBANK.NS')":817.3272094727,
+    "('High', 'HDFCBANK.NS')":826.2811909461,
+    "('Low', 'HDFCBANK.NS')":815.9705474379,
+    "('Open', 'HDFCBANK.NS')":824.3571854708,
+    "('Volume', 'HDFCBANK.NS')":17453280
+  },
+  {
+    "('Date', '')":"2025-01-13",
+    "('Close', 'HDFCBANK.NS')":804.5499267578,
+    "('High', 'HDFCBANK.NS')":812.3939122067,
+    "('Low', 'HDFCBANK.NS')":801.3186405131,
+    "('Open', 'HDFCBANK.NS')":809.0639234972,
+    "('Volume', 'HDFCBANK.NS')":21669066
+  },
+  {
+    "('Date', '')":"2025-01-14",
+    "('Close', 'HDFCBANK.NS')":812.3198852539,
+    "('High', 'HDFCBANK.NS')":817.0558570637,
+    "('Low', 'HDFCBANK.NS')":807.5839134441,
+    "('Open', 'HDFCBANK.NS')":809.0145872776,
+    "('Volume', 'HDFCBANK.NS')":26661432
+  },
+  {
+    "('Date', '')":"2025-01-15",
+    "('Close', 'HDFCBANK.NS')":810.5686035156,
+    "('High', 'HDFCBANK.NS')":820.2625224035,
+    "('Low', 'HDFCBANK.NS')":807.2386148293,
+    "('Open', 'HDFCBANK.NS')":817.203890217,
+    "('Volume', 'HDFCBANK.NS')":14022892
+  },
+  {
+    "('Date', '')":"2025-01-16",
+    "('Close', 'HDFCBANK.NS')":815.008605957,
+    "('High', 'HDFCBANK.NS')":819.2019251337,
+    "('Low', 'HDFCBANK.NS')":810.4699184801,
+    "('Open', 'HDFCBANK.NS')":815.4032351586,
+    "('Volume', 'HDFCBANK.NS')":21212454
+  },
+  {
+    "('Date', '')":"2025-01-17",
+    "('Close', 'HDFCBANK.NS')":807.4605712891,
+    "('High', 'HDFCBANK.NS')":814.243881419,
+    "('Low', 'HDFCBANK.NS')":803.3905852111,
+    "('Open', 'HDFCBANK.NS')":810.7905598983,
+    "('Volume', 'HDFCBANK.NS')":23112076
+  },
+  {
+    "('Date', '')":"2025-01-20",
+    "('Close', 'HDFCBANK.NS')":814.6138916016,
+    "('High', 'HDFCBANK.NS')":819.3991845448,
+    "('Low', 'HDFCBANK.NS')":802.1572673697,
+    "('Open', 'HDFCBANK.NS')":802.1572673697,
+    "('Volume', 'HDFCBANK.NS')":17557618
+  },
+  {
+    "('Date', '')":"2025-01-21",
+    "('Close', 'HDFCBANK.NS')":810.2479248047,
+    "('High', 'HDFCBANK.NS')":819.4485722441,
+    "('Low', 'HDFCBANK.NS')":805.6352858599,
+    "('Open', 'HDFCBANK.NS')":818.0672195172,
+    "('Volume', 'HDFCBANK.NS')":31158144
+  },
+  {
+    "('Date', '')":"2025-01-22",
+    "('Close', 'HDFCBANK.NS')":821.915222168,
+    "('High', 'HDFCBANK.NS')":824.8012002854,
+    "('Low', 'HDFCBANK.NS')":801.8859089378,
+    "('Open', 'HDFCBANK.NS')":810.2479165644,
+    "('Volume', 'HDFCBANK.NS')":30619306
+  },
+  {
+    "('Date', '')":"2025-01-23",
+    "('Close', 'HDFCBANK.NS')":821.3479003906,
+    "('High', 'HDFCBANK.NS')":832.2505181334,
+    "('Low', 'HDFCBANK.NS')":814.613911125,
+    "('Open', 'HDFCBANK.NS')":832.2505181334,
+    "('Volume', 'HDFCBANK.NS')":34909158
+  },
+  {
+    "('Date', '')":"2025-01-24",
+    "('Close', 'HDFCBANK.NS')":813.8986206055,
+    "('High', 'HDFCBANK.NS')":824.0119199318,
+    "('Low', 'HDFCBANK.NS')":811.2839386424,
+    "('Open', 'HDFCBANK.NS')":818.9305795965,
+    "('Volume', 'HDFCBANK.NS')":24236200
+  },
+  {
+    "('Date', '')":"2025-01-27",
+    "('Close', 'HDFCBANK.NS')":804.0319213867,
+    "('High', 'HDFCBANK.NS')":810.839861805,
+    "('Low', 'HDFCBANK.NS')":802.1572370886,
+    "('Open', 'HDFCBANK.NS')":809.6065327197,
+    "('Volume', 'HDFCBANK.NS')":22804166
+  },
+  {
+    "('Date', '')":"2025-01-28",
+    "('Close', 'HDFCBANK.NS')":824.0612182617,
+    "('High', 'HDFCBANK.NS')":830.9185403912,
+    "('Low', 'HDFCBANK.NS')":812.5172453545,
+    "('Open', 'HDFCBANK.NS')":812.5172453545,
+    "('Volume', 'HDFCBANK.NS')":30179312
+  },
+  {
+    "('Date', '')":"2025-01-29",
+    "('Close', 'HDFCBANK.NS')":827.4651489258,
+    "('High', 'HDFCBANK.NS')":829.3644636154,
+    "('Low', 'HDFCBANK.NS')":823.2964606111,
+    "('Open', 'HDFCBANK.NS')":826.3304621132,
+    "('Volume', 'HDFCBANK.NS')":12619890
+  },
+  {
+    "('Date', '')":"2025-01-30",
+    "('Close', 'HDFCBANK.NS')":834.4705200195,
+    "('High', 'HDFCBANK.NS')":837.6278547526,
+    "('Low', 'HDFCBANK.NS')":825.1219089591,
+    "('Open', 'HDFCBANK.NS')":829.2905374832,
+    "('Volume', 'HDFCBANK.NS')":25744846
+  },
+  {
+    "('Date', '')":"2025-01-31",
+    "('Close', 'HDFCBANK.NS')":838.0471191406,
+    "('High', 'HDFCBANK.NS')":840.9824182951,
+    "('Low', 'HDFCBANK.NS')":830.7457868177,
+    "('Open', 'HDFCBANK.NS')":832.3738053098,
+    "('Volume', 'HDFCBANK.NS')":15821686
+  },
+  {
+    "('Date', '')":"2025-02-01",
+    "('Close', 'HDFCBANK.NS')":834.1991577148,
+    "('High', 'HDFCBANK.NS')":845.077145054,
+    "('Low', 'HDFCBANK.NS')":826.848564058,
+    "('Open', 'HDFCBANK.NS')":837.4305042202,
+    "('Volume', 'HDFCBANK.NS')":5587528
+  },
+  {
+    "('Date', '')":"2025-02-03",
+    "('Close', 'HDFCBANK.NS')":827.8104858398,
+    "('High', 'HDFCBANK.NS')":832.1518283284,
+    "('Low', 'HDFCBANK.NS')":820.6324864421,
+    "('Open', 'HDFCBANK.NS')":823.8638327488,
+    "('Volume', 'HDFCBANK.NS')":20276540
+  },
+  {
+    "('Date', '')":"2025-02-04",
+    "('Close', 'HDFCBANK.NS')":848.9744873047,
+    "('High', 'HDFCBANK.NS')":851.3918245443,
+    "('Low', 'HDFCBANK.NS')":828.821900526,
+    "('Open', 'HDFCBANK.NS')":833.0891713165,
+    "('Volume', 'HDFCBANK.NS')":28616502
+  },
+  {
+    "('Date', '')":"2025-02-05",
+    "('Close', 'HDFCBANK.NS')":857.3117675781,
+    "('High', 'HDFCBANK.NS')":860.469041969,
+    "('Low', 'HDFCBANK.NS')":847.9877873258,
+    "('Open', 'HDFCBANK.NS')":854.9437515638,
+    "('Volume', 'HDFCBANK.NS')":23675506
+  },
+  {
+    "('Date', '')":"2025-02-06",
+    "('Close', 'HDFCBANK.NS')":860.2963867188,
+    "('High', 'HDFCBANK.NS')":862.8370567632,
+    "('Low', 'HDFCBANK.NS')":850.5037655001,
+    "('Open', 'HDFCBANK.NS')":856.1770794811,
+    "('Volume', 'HDFCBANK.NS')":26760716
+  },
+  {
+    "('Date', '')":"2025-02-07",
+    "('Close', 'HDFCBANK.NS')":854.8204345703,
+    "('High', 'HDFCBANK.NS')":871.7170439393,
+    "('Low', 'HDFCBANK.NS')":850.9971142022,
+    "('Open', 'HDFCBANK.NS')":863.3304057123,
+    "('Volume', 'HDFCBANK.NS')":23509600
+  },
+  {
+    "('Date', '')":"2025-02-10",
+    "('Close', 'HDFCBANK.NS')":846.4337158203,
+    "('High', 'HDFCBANK.NS')":850.2323451556,
+    "('Low', 'HDFCBANK.NS')":842.8570616226,
+    "('Open', 'HDFCBANK.NS')":847.1984039097,
+    "('Volume', 'HDFCBANK.NS')":17195950
+  },
+  {
+    "('Date', '')":"2025-02-11",
+    "('Close', 'HDFCBANK.NS')":839.3544311523,
+    "('High', 'HDFCBANK.NS')":844.0904026649,
+    "('Low', 'HDFCBANK.NS')":833.0890834394,
+    "('Open', 'HDFCBANK.NS')":840.1437497009,
+    "('Volume', 'HDFCBANK.NS')":22724704
+  },
+  {
+    "('Date', '')":"2025-02-12",
+    "('Close', 'HDFCBANK.NS')":842.0184326172,
+    "('High', 'HDFCBANK.NS')":844.5837329512,
+    "('Low', 'HDFCBANK.NS')":829.3890949756,
+    "('Open', 'HDFCBANK.NS')":835.2104321767,
+    "('Volume', 'HDFCBANK.NS')":22809570
+  },
+  {
+    "('Date', '')":"2025-02-13",
+    "('Close', 'HDFCBANK.NS')":837.5291137695,
+    "('High', 'HDFCBANK.NS')":845.6937766231,
+    "('Low', 'HDFCBANK.NS')":835.4818356096,
+    "('Open', 'HDFCBANK.NS')":838.1704689997,
+    "('Volume', 'HDFCBANK.NS')":12602434
+  },
+  {
+    "('Date', '')":"2025-02-14",
+    "('Close', 'HDFCBANK.NS')":836.1231079102,
+    "('High', 'HDFCBANK.NS')":839.6011200186,
+    "('Low', 'HDFCBANK.NS')":828.7971451889,
+    "('Open', 'HDFCBANK.NS')":839.6011200186,
+    "('Volume', 'HDFCBANK.NS')":19959892
+  },
+  {
+    "('Date', '')":"2025-02-17",
+    "('Close', 'HDFCBANK.NS')":847.2230834961,
+    "('High', 'HDFCBANK.NS')":848.5304243919,
+    "('Low', 'HDFCBANK.NS')":829.4138232609,
+    "('Open', 'HDFCBANK.NS')":831.3624591587,
+    "('Volume', 'HDFCBANK.NS')":12938946
+  },
+  {
+    "('Date', '')":"2025-02-18",
+    "('Close', 'HDFCBANK.NS')":850.0350952148,
+    "('High', 'HDFCBANK.NS')":854.2284140997,
+    "('Low', 'HDFCBANK.NS')":841.6977785642,
+    "('Open', 'HDFCBANK.NS')":845.1017788797,
+    "('Volume', 'HDFCBANK.NS')":16350910
+  },
+  {
+    "('Date', '')":"2025-02-19",
+    "('Close', 'HDFCBANK.NS')":852.0823974609,
+    "('High', 'HDFCBANK.NS')":857.3610822218,
+    "('Low', 'HDFCBANK.NS')":844.8057556604,
+    "('Open', 'HDFCBANK.NS')":847.050438745,
+    "('Volume', 'HDFCBANK.NS')":11884112
+  },
+  {
+    "('Date', '')":"2025-02-20",
+    "('Close', 'HDFCBANK.NS')":832.2998046875,
+    "('High', 'HDFCBANK.NS')":845.9157460199,
+    "('Low', 'HDFCBANK.NS')":831.4118438608,
+    "('Open', 'HDFCBANK.NS')":844.0904430253,
+    "('Volume', 'HDFCBANK.NS')":26390510
+  },
+  {
+    "('Date', '')":"2025-02-21",
+    "('Close', 'HDFCBANK.NS')":834.9638061523,
+    "('High', 'HDFCBANK.NS')":836.1724445898,
+    "('Low', 'HDFCBANK.NS')":827.4404985932,
+    "('Open', 'HDFCBANK.NS')":829.2411711352,
+    "('Volume', 'HDFCBANK.NS')":15680940
+  },
+  {
+    "('Date', '')":"2025-02-24",
+    "('Close', 'HDFCBANK.NS')":827.3664550781,
+    "('High', 'HDFCBANK.NS')":830.8690975665,
+    "('Low', 'HDFCBANK.NS')":819.4731490892,
+    "('Open', 'HDFCBANK.NS')":829.3397815753,
+    "('Volume', 'HDFCBANK.NS')":20693646
+  },
+  {
+    "('Date', '')":"2025-02-25",
+    "('Close', 'HDFCBANK.NS')":829.9564819336,
+    "('High', 'HDFCBANK.NS')":832.7438177755,
+    "('Low', 'HDFCBANK.NS')":824.4065009206,
+    "('Open', 'HDFCBANK.NS')":824.4065009206,
+    "('Volume', 'HDFCBANK.NS')":24138708
+  },
+  {
+    "('Date', '')":"2025-02-27",
+    "('Close', 'HDFCBANK.NS')":839.0091552734,
+    "('High', 'HDFCBANK.NS')":843.9671626938,
+    "('Low', 'HDFCBANK.NS')":830.0552335524,
+    "('Open', 'HDFCBANK.NS')":830.0552335524,
+    "('Volume', 'HDFCBANK.NS')":35786800
+  },
+  {
+    "('Date', '')":"2025-02-28",
+    "('Close', 'HDFCBANK.NS')":854.6477661133,
+    "('High', 'HDFCBANK.NS')":857.0404125817,
+    "('Low', 'HDFCBANK.NS')":831.2638337603,
+    "('Open', 'HDFCBANK.NS')":831.2638337603,
+    "('Volume', 'HDFCBANK.NS')":54516728
+  },
+  {
+    "('Date', '')":"2025-03-03",
+    "('Close', 'HDFCBANK.NS')":839.4284667969,
+    "('High', 'HDFCBANK.NS')":859.9017296292,
+    "('Low', 'HDFCBANK.NS')":835.7531099871,
+    "('Open', 'HDFCBANK.NS')":858.2984018171,
+    "('Volume', 'HDFCBANK.NS')":21205364
+  },
+  {
+    "('Date', '')":"2025-03-04",
+    "('Close', 'HDFCBANK.NS')":843.5971069336,
+    "('High', 'HDFCBANK.NS')":845.7184570804,
+    "('Low', 'HDFCBANK.NS')":835.3338019388,
+    "('Open', 'HDFCBANK.NS')":837.6771272358,
+    "('Volume', 'HDFCBANK.NS')":19920958
+  },
+  {
+    "('Date', '')":"2025-03-05",
+    "('Close', 'HDFCBANK.NS')":833.73046875,
+    "('High', 'HDFCBANK.NS')":843.9917909154,
+    "('Low', 'HDFCBANK.NS')":832.867138383,
+    "('Open', 'HDFCBANK.NS')":839.6257577394,
+    "('Volume', 'HDFCBANK.NS')":21583872
+  },
+  {
+    "('Date', '')":"2025-03-06",
+    "('Close', 'HDFCBANK.NS')":834.3224487305,
+    "('High', 'HDFCBANK.NS')":838.6144701479,
+    "('Low', 'HDFCBANK.NS')":824.9738382045,
+    "('Open', 'HDFCBANK.NS')":832.2504799229,
+    "('Volume', 'HDFCBANK.NS')":32966088
+  },
+  {
+    "('Date', '')":"2025-03-07",
+    "('Close', 'HDFCBANK.NS')":833.3604736328,
+    "('High', 'HDFCBANK.NS')":839.2311321984,
+    "('Low', 'HDFCBANK.NS')":827.6131479773,
+    "('Open', 'HDFCBANK.NS')":829.7838192395,
+    "('Volume', 'HDFCBANK.NS')":13372914
+  },
+  {
+    "('Date', '')":"2025-03-10",
+    "('Close', 'HDFCBANK.NS')":832.4971313477,
+    "('High', 'HDFCBANK.NS')":838.6144556459,
+    "('Low', 'HDFCBANK.NS')":830.3018296675,
+    "('Open', 'HDFCBANK.NS')":833.2371287977,
+    "('Volume', 'HDFCBANK.NS')":15604050
+  },
+  {
+    "('Date', '')":"2025-03-11",
+    "('Close', 'HDFCBANK.NS')":831.5104980469,
+    "('High', 'HDFCBANK.NS')":835.7038170818,
+    "('Low', 'HDFCBANK.NS')":823.8885481248,
+    "('Open', 'HDFCBANK.NS')":829.9811819725,
+    "('Volume', 'HDFCBANK.NS')":19898430
+  },
+  {
+    "('Date', '')":"2025-03-12",
+    "('Close', 'HDFCBANK.NS')":844.1644287109,
+    "('High', 'HDFCBANK.NS')":847.7904041386,
+    "('Low', 'HDFCBANK.NS')":834.4951408302,
+    "('Open', 'HDFCBANK.NS')":834.4951408302,
+    "('Volume', 'HDFCBANK.NS')":18784106
+  },
+  {
+    "('Date', '')":"2025-03-13",
+    "('Close', 'HDFCBANK.NS')":841.9197998047,
+    "('High', 'HDFCBANK.NS')":848.9251455168,
+    "('Low', 'HDFCBANK.NS')":838.688513561,
+    "('Open', 'HDFCBANK.NS')":846.5818201293,
+    "('Volume', 'HDFCBANK.NS')":15736264
+  },
+  {
+    "('Date', '')":"2025-03-17",
+    "('Close', 'HDFCBANK.NS')":843.7944335938,
+    "('High', 'HDFCBANK.NS')":850.5037317302,
+    "('Low', 'HDFCBANK.NS')":841.1304307425,
+    "('Open', 'HDFCBANK.NS')":841.1304307425,
+    "('Volume', 'HDFCBANK.NS')":18950652
+  },
+  {
+    "('Date', '')":"2025-03-18",
+    "('Close', 'HDFCBANK.NS')":843.7944335938,
+    "('High', 'HDFCBANK.NS')":843.7944335938,
+    "('Low', 'HDFCBANK.NS')":843.7944335938,
+    "('Open', 'HDFCBANK.NS')":843.7944335938,
+    "('Volume', 'HDFCBANK.NS')":0
+  },
+  {
+    "('Date', '')":"2025-03-19",
+    "('Close', 'HDFCBANK.NS')":860.4197387695,
+    "('High', 'HDFCBANK.NS')":863.8237392781,
+    "('Low', 'HDFCBANK.NS')":854.5490799535,
+    "('Open', 'HDFCBANK.NS')":855.9304326942,
+    "('Volume', 'HDFCBANK.NS')":15221406
+  },
+  {
+    "('Date', '')":"2025-03-20",
+    "('Close', 'HDFCBANK.NS')":872.5803833008,
+    "('High', 'HDFCBANK.NS')":875.1703745445,
+    "('Low', 'HDFCBANK.NS')":862.9851064958,
+    "('Open', 'HDFCBANK.NS')":865.3037412351,
+    "('Volume', 'HDFCBANK.NS')":17833978
+  },
+  {
+    "('Date', '')":"2025-03-21",
+    "('Close', 'HDFCBANK.NS')":873.3696899414,
+    "('High', 'HDFCBANK.NS')":875.2196836615,
+    "('Low', 'HDFCBANK.NS')":866.0684175253,
+    "('Open', 'HDFCBANK.NS')":866.0684175253,
+    "('Volume', 'HDFCBANK.NS')":33508264
+  },
+  {
+    "('Date', '')":"2025-03-24",
+    "('Close', 'HDFCBANK.NS')":887.9969482422,
+    "('High', 'HDFCBANK.NS')":890.1676194932,
+    "('Low', 'HDFCBANK.NS')":874.9976716274,
+    "('Open', 'HDFCBANK.NS')":877.636983846,
+    "('Volume', 'HDFCBANK.NS')":17393736
+  },
+  {
+    "('Date', '')":"2025-03-25",
+    "('Close', 'HDFCBANK.NS')":898.578918457,
+    "('High', 'HDFCBANK.NS')":909.5555477752,
+    "('Low', 'HDFCBANK.NS')":888.7369760332,
+    "('Open', 'HDFCBANK.NS')":890.4143157036,
+    "('Volume', 'HDFCBANK.NS')":39101416
+  },
+  {
+    "('Date', '')":"2025-03-26",
+    "('Close', 'HDFCBANK.NS')":891.2283325195,
+    "('High', 'HDFCBANK.NS')":901.5636066856,
+    "('Low', 'HDFCBANK.NS')":888.983649383,
+    "('Open', 'HDFCBANK.NS')":900.3302775382,
+    "('Volume', 'HDFCBANK.NS')":24478442
+  },
+  {
+    "('Date', '')":"2025-03-27",
+    "('Close', 'HDFCBANK.NS')":900.5029296875,
+    "('High', 'HDFCBANK.NS')":908.2235821777,
+    "('Low', 'HDFCBANK.NS')":887.05964201,
+    "('Open', 'HDFCBANK.NS')":887.9969842042,
+    "('Volume', 'HDFCBANK.NS')":41658100
+  },
+  {
+    "('Date', '')":"2025-03-28",
+    "('Close', 'HDFCBANK.NS')":901.9089355469,
+    "('High', 'HDFCBANK.NS')":905.7569466636,
+    "('Low', 'HDFCBANK.NS')":890.88298476,
+    "('Open', 'HDFCBANK.NS')":902.3036249716,
+    "('Volume', 'HDFCBANK.NS')":28773648
+  },
+  {
+    "('Date', '')":"2025-04-01",
+    "('Close', 'HDFCBANK.NS')":872.1363525391,
+    "('High', 'HDFCBANK.NS')":892.8809726796,
+    "('Low', 'HDFCBANK.NS')":870.903023404,
+    "('Open', 'HDFCBANK.NS')":888.9836405685,
+    "('Volume', 'HDFCBANK.NS')":28511006
+  },
+  {
+    "('Date', '')":"2025-04-02",
+    "('Close', 'HDFCBANK.NS')":886.4676513672,
+    "('High', 'HDFCBANK.NS')":887.6022780262,
+    "('Low', 'HDFCBANK.NS')":873.5423260419,
+    "('Open', 'HDFCBANK.NS')":873.5423260419,
+    "('Volume', 'HDFCBANK.NS')":11573564
+  },
+  {
+    "('Date', '')":"2025-04-03",
+    "('Close', 'HDFCBANK.NS')":885.4562988281,
+    "('High', 'HDFCBANK.NS')":889.9702954641,
+    "('Low', 'HDFCBANK.NS')":876.6503409311,
+    "('Open', 'HDFCBANK.NS')":878.6729886493,
+    "('Volume', 'HDFCBANK.NS')":11250038
+  },
+  {
+    "('Date', '')":"2025-04-04",
+    "('Close', 'HDFCBANK.NS')":896.5316162109,
+    "('High', 'HDFCBANK.NS')":908.6921929973,
+    "('Low', 'HDFCBANK.NS')":893.4729239009,
+    "('Open', 'HDFCBANK.NS')":894.410266064,
+    "('Volume', 'HDFCBANK.NS')":33540454
+  },
+  {
+    "('Date', '')":"2025-04-07",
+    "('Close', 'HDFCBANK.NS')":867.1289672852,
+    "('High', 'HDFCBANK.NS')":878.0562747489,
+    "('Low', 'HDFCBANK.NS')":857.509000663,
+    "('Open', 'HDFCBANK.NS')":869.6450067325,
+    "('Volume', 'HDFCBANK.NS')":37995450
+  },
+  {
+    "('Date', '')":"2025-04-08",
+    "('Close', 'HDFCBANK.NS')":872.7777099609,
+    "('High', 'HDFCBANK.NS')":879.1170096869,
+    "('Low', 'HDFCBANK.NS')":863.4784203034,
+    "('Open', 'HDFCBANK.NS')":870.7303715473,
+    "('Volume', 'HDFCBANK.NS')":35563872
+  },
+  {
+    "('Date', '')":"2025-04-09",
+    "('Close', 'HDFCBANK.NS')":870.7303466797,
+    "('High', 'HDFCBANK.NS')":875.6636630915,
+    "('Low', 'HDFCBANK.NS')":865.0570328061,
+    "('Open', 'HDFCBANK.NS')":870.7303466797,
+    "('Volume', 'HDFCBANK.NS')":22454608
+  },
+  {
+    "('Date', '')":"2025-04-11",
+    "('Close', 'HDFCBANK.NS')":891.326965332,
+    "('High', 'HDFCBANK.NS')":897.5676227956,
+    "('Low', 'HDFCBANK.NS')":875.5403524135,
+    "('Open', 'HDFCBANK.NS')":875.5403524135,
+    "('Volume', 'HDFCBANK.NS')":32775766
+  },
+  {
+    "('Date', '')":"2025-04-15",
+    "('Close', 'HDFCBANK.NS')":920.0141601562,
+    "('High', 'HDFCBANK.NS')":925.8848185421,
+    "('Low', 'HDFCBANK.NS')":915.1301650211,
+    "('Open', 'HDFCBANK.NS')":920.0634812746,
+    "('Volume', 'HDFCBANK.NS')":49298344
+  },
+  {
+    "('Date', '')":"2025-04-16",
+    "('Close', 'HDFCBANK.NS')":926.4768066406,
+    "('High', 'HDFCBANK.NS')":929.3381542001,
+    "('Low', 'HDFCBANK.NS')":917.8435030644,
+    "('Open', 'HDFCBANK.NS')":929.3381542001,
+    "('Volume', 'HDFCBANK.NS')":19136820
+  },
+  {
+    "('Date', '')":"2025-04-17",
+    "('Close', 'HDFCBANK.NS')":940.6353759766,
+    "('High', 'HDFCBANK.NS')":947.048687038,
+    "('Low', 'HDFCBANK.NS')":925.8354273732,
+    "('Open', 'HDFCBANK.NS')":928.4501090483,
+    "('Volume', 'HDFCBANK.NS')":35703084
+  },
+  {
+    "('Date', '')":"2025-04-21",
+    "('Close', 'HDFCBANK.NS')":950.6994018555,
+    "('High', 'HDFCBANK.NS')":962.3420166433,
+    "('Low', 'HDFCBANK.NS')":942.2634427629,
+    "('Open', 'HDFCBANK.NS')":949.1700857989,
+    "('Volume', 'HDFCBANK.NS')":34247298
+  },
+  {
+    "('Date', '')":"2025-04-22",
+    "('Close', 'HDFCBANK.NS')":967.7686767578,
+    "('High', 'HDFCBANK.NS')":972.1593405008,
+    "('Low', 'HDFCBANK.NS')":954.5967457499,
+    "('Open', 'HDFCBANK.NS')":954.5967457499,
+    "('Volume', 'HDFCBANK.NS')":45961750
+  },
+  {
+    "('Date', '')":"2025-04-23",
+    "('Close', 'HDFCBANK.NS')":949.1207885742,
+    "('High', 'HDFCBANK.NS')":976.2540297558,
+    "('Low', 'HDFCBANK.NS')":947.4434488933,
+    "('Open', 'HDFCBANK.NS')":976.2540297558,
+    "('Volume', 'HDFCBANK.NS')":30570642
+  },
+  {
+    "('Date', '')":"2025-04-24",
+    "('Close', 'HDFCBANK.NS')":945.6181030273,
+    "('High', 'HDFCBANK.NS')":949.1207455952,
+    "('Low', 'HDFCBANK.NS')":939.8460867592,
+    "('Open', 'HDFCBANK.NS')":942.2634238174,
+    "('Volume', 'HDFCBANK.NS')":25931754
+  },
+  {
+    "('Date', '')":"2025-04-25",
+    "('Close', 'HDFCBANK.NS')":942.8554077148,
+    "('High', 'HDFCBANK.NS')":953.6100615717,
+    "('Low', 'HDFCBANK.NS')":933.2848220612,
+    "('Open', 'HDFCBANK.NS')":949.564766206,
+    "('Volume', 'HDFCBANK.NS')":18500878
+  },
+  {
+    "('Date', '')":"2025-04-28",
+    "('Close', 'HDFCBANK.NS')":947.2954101562,
+    "('High', 'HDFCBANK.NS')":951.9820608308,
+    "('Low', 'HDFCBANK.NS')":941.4741328195,
+    "('Open', 'HDFCBANK.NS')":942.8554253066,
+    "('Volume', 'HDFCBANK.NS')":13920492
+  },
+  {
+    "('Date', '')":"2025-04-29",
+    "('Close', 'HDFCBANK.NS')":941.6715087891,
+    "('High', 'HDFCBANK.NS')":951.5381421158,
+    "('Low', 'HDFCBANK.NS')":937.4288082817,
+    "('Open', 'HDFCBANK.NS')":946.6048254524,
+    "('Volume', 'HDFCBANK.NS')":18918308
+  },
+  {
+    "('Date', '')":"2025-04-30",
+    "('Close', 'HDFCBANK.NS')":949.6633911133,
+    "('High', 'HDFCBANK.NS')":955.5340495753,
+    "('Low', 'HDFCBANK.NS')":942.4114402151,
+    "('Open', 'HDFCBANK.NS')":943.7434115323,
+    "('Volume', 'HDFCBANK.NS')":31936870
+  },
+  {
+    "('Date', '')":"2025-05-02",
+    "('Close', 'HDFCBANK.NS')":948.1340942383,
+    "('High', 'HDFCBANK.NS')":958.0007270724,
+    "('Low', 'HDFCBANK.NS')":947.1967520748,
+    "('Open', 'HDFCBANK.NS')":952.031426252,
+    "('Volume', 'HDFCBANK.NS')":17840404
+  },
+  {
+    "('Date', '')":"2025-05-05",
+    "('Close', 'HDFCBANK.NS')":955.4847412109,
+    "('High', 'HDFCBANK.NS')":962.9833580251,
+    "('Low', 'HDFCBANK.NS')":953.2647488384,
+    "('Open', 'HDFCBANK.NS')":956.5700467268,
+    "('Volume', 'HDFCBANK.NS')":15068024
+  },
+  {
+    "('Date', '')":"2025-05-06",
+    "('Close', 'HDFCBANK.NS')":952.9686889648,
+    "('High', 'HDFCBANK.NS')":957.1126867158,
+    "('Low', 'HDFCBANK.NS')":949.3180830668,
+    "('Open', 'HDFCBANK.NS')":952.1300492793,
+    "('Volume', 'HDFCBANK.NS')":17490156
+  },
+  {
+    "('Date', '')":"2025-05-07",
+    "('Close', 'HDFCBANK.NS')":959.8259887695,
+    "('High', 'HDFCBANK.NS')":961.3553047488,
+    "('Low', 'HDFCBANK.NS')":948.3807192628,
+    "('Open', 'HDFCBANK.NS')":954.1033540161,
+    "('Volume', 'HDFCBANK.NS')":21420778
+  },
+  {
+    "('Date', '')":"2025-05-08",
+    "('Close', 'HDFCBANK.NS')":951.3900756836,
+    "('High', 'HDFCBANK.NS')":964.3647220124,
+    "('Low', 'HDFCBANK.NS')":946.7527461846,
+    "('Open', 'HDFCBANK.NS')":964.3647220124,
+    "('Volume', 'HDFCBANK.NS')":34803430
+  },
+  {
+    "('Date', '')":"2025-05-09",
+    "('Close', 'HDFCBANK.NS')":932.2487792969,
+    "('High', 'HDFCBANK.NS')":946.7034204881,
+    "('Low', 'HDFCBANK.NS')":930.8181657128,
+    "('Open', 'HDFCBANK.NS')":942.3127568325,
+    "('Volume', 'HDFCBANK.NS')":17188796
+  },
+  {
+    "('Date', '')":"2025-05-12",
+    "('Close', 'HDFCBANK.NS')":965.5486450195,
+    "('High', 'HDFCBANK.NS')":966.8806765572,
+    "('Low', 'HDFCBANK.NS')":943.3981029436,
+    "('Open', 'HDFCBANK.NS')":946.0127244577,
+    "('Volume', 'HDFCBANK.NS')":18618972
+  },
+  {
+    "('Date', '')":"2025-05-13",
+    "('Close', 'HDFCBANK.NS')":948.4794311523,
+    "('High', 'HDFCBANK.NS')":967.7686868856,
+    "('Low', 'HDFCBANK.NS')":947.1967808891,
+    "('Open', 'HDFCBANK.NS')":961.9967305905,
+    "('Volume', 'HDFCBANK.NS')":24242102
+  },
+  {
+    "('Date', '')":"2025-05-14",
+    "('Close', 'HDFCBANK.NS')":942.5594482422,
+    "('High', 'HDFCBANK.NS')":952.2287366385,
+    "('Low', 'HDFCBANK.NS')":938.8101397074,
+    "('Open', 'HDFCBANK.NS')":948.2327622762,
+    "('Volume', 'HDFCBANK.NS')":15445308
+  },
+  {
+    "('Date', '')":"2025-05-15",
+    "('Close', 'HDFCBANK.NS')":954.0047607422,
+    "('High', 'HDFCBANK.NS')":959.431408846,
+    "('Low', 'HDFCBANK.NS')":935.8501320882,
+    "('Open', 'HDFCBANK.NS')":943.9901042439,
+    "('Volume', 'HDFCBANK.NS')":32241458
+  },
+  {
+    "('Date', '')":"2025-05-16",
+    "('Close', 'HDFCBANK.NS')":954.4487304688,
+    "('High', 'HDFCBANK.NS')":958.9380967138,
+    "('Low', 'HDFCBANK.NS')":951.3407771696,
+    "('Open', 'HDFCBANK.NS')":954.0047801554,
+    "('Volume', 'HDFCBANK.NS')":15868010
+  },
+  {
+    "('Date', '')":"2025-05-19",
+    "('Close', 'HDFCBANK.NS')":956.4220581055,
+    "('High', 'HDFCBANK.NS')":959.530071629,
+    "('Low', 'HDFCBANK.NS')":952.6234284399,
+    "('Open', 'HDFCBANK.NS')":955.5834183781,
+    "('Volume', 'HDFCBANK.NS')":10202964
+  },
+  {
+    "('Date', '')":"2025-05-20",
+    "('Close', 'HDFCBANK.NS')":944.6807861328,
+    "('High', 'HDFCBANK.NS')":954.3993955237,
+    "('Low', 'HDFCBANK.NS')":943.7434439561,
+    "('Open', 'HDFCBANK.NS')":951.1927398071,
+    "('Volume', 'HDFCBANK.NS')":23879090
+  },
+  {
+    "('Date', '')":"2025-05-21",
+    "('Close', 'HDFCBANK.NS')":950.5514526367,
+    "('High', 'HDFCBANK.NS')":960.4674068131,
+    "('Low', 'HDFCBANK.NS')":947.7394260833,
+    "('Open', 'HDFCBANK.NS')":950.6500948788,
+    "('Volume', 'HDFCBANK.NS')":15132040
+  },
+  {
+    "('Date', '')":"2025-05-22",
+    "('Close', 'HDFCBANK.NS')":947.1474609375,
+    "('High', 'HDFCBANK.NS')":949.2687509313,
+    "('Low', 'HDFCBANK.NS')":939.8954494422,
+    "('Open', 'HDFCBANK.NS')":944.8287660154,
+    "('Volume', 'HDFCBANK.NS')":21306670
+  },
+  {
+    "('Date', '')":"2025-05-23",
+    "('Close', 'HDFCBANK.NS')":953.9060058594,
+    "('High', 'HDFCBANK.NS')":955.5833454072,
+    "('Low', 'HDFCBANK.NS')":944.4833839866,
+    "('Open', 'HDFCBANK.NS')":947.246029007,
+    "('Volume', 'HDFCBANK.NS')":9566072
+  },
+  {
+    "('Date', '')":"2025-05-26",
+    "('Close', 'HDFCBANK.NS')":957.1620483398,
+    "('High', 'HDFCBANK.NS')":961.947401503,
+    "('Low', 'HDFCBANK.NS')":950.6007734926,
+    "('Open', 'HDFCBANK.NS')":954.5967478346,
+    "('Volume', 'HDFCBANK.NS')":10802860
+  },
+  {
+    "('Date', '')":"2025-05-27",
+    "('Close', 'HDFCBANK.NS')":950.3048095703,
+    "('High', 'HDFCBANK.NS')":961.0100826033,
+    "('Low', 'HDFCBANK.NS')":945.3714929245,
+    "('Open', 'HDFCBANK.NS')":952.9194312599,
+    "('Volume', 'HDFCBANK.NS')":26162148
+  },
+  {
+    "('Date', '')":"2025-05-28",
+    "('Close', 'HDFCBANK.NS')":948.9234619141,
+    "('High', 'HDFCBANK.NS')":954.3501102536,
+    "('Low', 'HDFCBANK.NS')":946.0621141557,
+    "('Open', 'HDFCBANK.NS')":947.2954433237,
+    "('Volume', 'HDFCBANK.NS')":18157594
+  },
+  {
+    "('Date', '')":"2025-05-29",
+    "('Close', 'HDFCBANK.NS')":950.8967285156,
+    "('High', 'HDFCBANK.NS')":957.4580633638,
+    "('Low', 'HDFCBANK.NS')":940.9314535556,
+    "('Open', 'HDFCBANK.NS')":951.1433943337,
+    "('Volume', 'HDFCBANK.NS')":28917794
+  },
+  {
+    "('Date', '')":"2025-05-30",
+    "('Close', 'HDFCBANK.NS')":959.4807739258,
+    "('High', 'HDFCBANK.NS')":961.4047794768,
+    "('Low', 'HDFCBANK.NS')":949.8608063919,
+    "('Open', 'HDFCBANK.NS')":953.0674622365,
+    "('Volume', 'HDFCBANK.NS')":28748078
+  },
+  {
+    "('Date', '')":"2025-06-02",
+    "('Close', 'HDFCBANK.NS')":953.1660766602,
+    "('High', 'HDFCBANK.NS')":955.090082155,
+    "('Low', 'HDFCBANK.NS')":941.2767958428,
+    "('Open', 'HDFCBANK.NS')":952.1794133521,
+    "('Volume', 'HDFCBANK.NS')":14668822
+  },
+  {
+    "('Date', '')":"2025-06-03",
+    "('Close', 'HDFCBANK.NS')":949.4660644531,
+    "('High', 'HDFCBANK.NS')":962.983363464,
+    "('Low', 'HDFCBANK.NS')":947.1967509482,
+    "('Open', 'HDFCBANK.NS')":956.0767204883,
+    "('Volume', 'HDFCBANK.NS')":24377584
+  },
+  {
+    "('Date', '')":"2025-06-04",
+    "('Close', 'HDFCBANK.NS')":957.6553955078,
+    "('High', 'HDFCBANK.NS')":958.691440172,
+    "('Low', 'HDFCBANK.NS')":947.6407989299,
+    "('Open', 'HDFCBANK.NS')":947.6901200517,
+    "('Volume', 'HDFCBANK.NS')":12961542
+  },
+  {
+    "('Date', '')":"2025-06-05",
+    "('Close', 'HDFCBANK.NS')":961.7993774414,
+    "('High', 'HDFCBANK.NS')":966.387385897,
+    "('Low', 'HDFCBANK.NS')":957.1620478648,
+    "('Open', 'HDFCBANK.NS')":961.0100588418,
+    "('Volume', 'HDFCBANK.NS')":22255418
+  },
+  {
+    "('Date', '')":"2025-06-06",
+    "('Close', 'HDFCBANK.NS')":976.1552734375,
+    "('High', 'HDFCBANK.NS')":984.8379583135,
+    "('Low', 'HDFCBANK.NS')":958.3953347348,
+    "('Open', 'HDFCBANK.NS')":959.0366899431,
+    "('Volume', 'HDFCBANK.NS')":30127008
+  },
+  {
+    "('Date', '')":"2025-06-09",
+    "('Close', 'HDFCBANK.NS')":976.2539672852,
+    "('High', 'HDFCBANK.NS')":984.196594424,
+    "('Low', 'HDFCBANK.NS')":974.7739724063,
+    "('Open', 'HDFCBANK.NS')":984.196594424,
+    "('Volume', 'HDFCBANK.NS')":13202588
+  },
+  {
+    "('Date', '')":"2025-06-10",
+    "('Close', 'HDFCBANK.NS')":969.5447387695,
+    "('High', 'HDFCBANK.NS')":978.1780428488,
+    "('Low', 'HDFCBANK.NS')":967.4727096578,
+    "('Open', 'HDFCBANK.NS')":978.1780428488,
+    "('Volume', 'HDFCBANK.NS')":15533126
+  },
+  {
+    "('Date', '')":"2025-06-11",
+    "('Close', 'HDFCBANK.NS')":962.1940917969,
+    "('High', 'HDFCBANK.NS')":970.6793723494,
+    "('Low', 'HDFCBANK.NS')":960.5167520911,
+    "('Open', 'HDFCBANK.NS')":970.6793723494,
+    "('Volume', 'HDFCBANK.NS')":11096394
+  },
+  {
+    "('Date', '')":"2025-06-12",
+    "('Close', 'HDFCBANK.NS')":958.7407226562,
+    "('High', 'HDFCBANK.NS')":967.423347489,
+    "('Low', 'HDFCBANK.NS')":954.7447484105,
+    "('Open', 'HDFCBANK.NS')":961.9966994409,
+    "('Volume', 'HDFCBANK.NS')":16349130
+  },
+  {
+    "('Date', '')":"2025-06-13",
+    "('Close', 'HDFCBANK.NS')":946.0127563477,
+    "('High', 'HDFCBANK.NS')":953.6100757726,
+    "('Low', 'HDFCBANK.NS')":943.7434428106,
+    "('Open', 'HDFCBANK.NS')":947.1967643473,
+    "('Volume', 'HDFCBANK.NS')":12117762
+  },
+  {
+    "('Date', '')":"2025-06-16",
+    "('Close', 'HDFCBANK.NS')":954.7940673828,
+    "('High', 'HDFCBANK.NS')":956.5207281215,
+    "('Low', 'HDFCBANK.NS')":947.246069208,
+    "('Open', 'HDFCBANK.NS')":949.1700746468,
+    "('Volume', 'HDFCBANK.NS')":16513746
+  },
+  {
+    "('Date', '')":"2025-06-17",
+    "('Close', 'HDFCBANK.NS')":951.9327392578,
+    "('High', 'HDFCBANK.NS')":957.8527190545,
+    "('Low', 'HDFCBANK.NS')":946.7527569357,
+    "('Open', 'HDFCBANK.NS')":955.58340551,
+    "('Volume', 'HDFCBANK.NS')":16978736
+  },
+  {
+    "('Date', '')":"2025-06-18",
+    "('Close', 'HDFCBANK.NS')":954.0540771484,
+    "('High', 'HDFCBANK.NS')":955.2380851367,
+    "('Low', 'HDFCBANK.NS')":945.7167603313,
+    "('Open', 'HDFCBANK.NS')":945.7167603313,
+    "('Volume', 'HDFCBANK.NS')":18433816
+  },
+  {
+    "('Date', '')":"2025-06-19",
+    "('Close', 'HDFCBANK.NS')":954.7447509766,
+    "('High', 'HDFCBANK.NS')":960.4180648603,
+    "('Low', 'HDFCBANK.NS')":949.9593979158,
+    "('Open', 'HDFCBANK.NS')":954.0540746334,
+    "('Volume', 'HDFCBANK.NS')":16876220
+  },
+  {
+    "('Date', '')":"2025-06-20",
+    "('Close', 'HDFCBANK.NS')":969.2486572266,
+    "('High', 'HDFCBANK.NS')":971.814017909,
+    "('Low', 'HDFCBANK.NS')":952.9193918485,
+    "('Open', 'HDFCBANK.NS')":952.9193918485,
+    "('Volume', 'HDFCBANK.NS')":32900408
+  },
+  {
+    "('Date', '')":"2025-06-23",
+    "('Close', 'HDFCBANK.NS')":961.2073364258,
+    "('High', 'HDFCBANK.NS')":965.8939867961,
+    "('Low', 'HDFCBANK.NS')":957.9513597916,
+    "('Open', 'HDFCBANK.NS')":961.2073364258,
+    "('Volume', 'HDFCBANK.NS')":11739518
+  },
+  {
+    "('Date', '')":"2025-06-24",
+    "('Close', 'HDFCBANK.NS')":967.3740234375,
+    "('High', 'HDFCBANK.NS')":976.3033140636,
+    "('Low', 'HDFCBANK.NS')":964.759341661,
+    "('Open', 'HDFCBANK.NS')":969.3966711142,
+    "('Volume', 'HDFCBANK.NS')":22625322
+  },
+  {
+    "('Date', '')":"2025-06-25",
+    "('Close', 'HDFCBANK.NS')":976.895324707,
+    "('High', 'HDFCBANK.NS')":977.7833457795,
+    "('Low', 'HDFCBANK.NS')":968.8540548174,
+    "('Open', 'HDFCBANK.NS')":969.8900392546,
+    "('Volume', 'HDFCBANK.NS')":18405932
+  },
+  {
+    "('Date', '')":"2025-06-26",
+    "('Close', 'HDFCBANK.NS')":997.41796875,
+    "('High', 'HDFCBANK.NS')":1000.0325904008,
+    "('Low', 'HDFCBANK.NS')":976.7966813878,
+    "('Open', 'HDFCBANK.NS')":977.4873577522,
+    "('Volume', 'HDFCBANK.NS')":50084830
+  },
+  {
+    "('Date', '')":"2025-06-27",
+    "('Close', 'HDFCBANK.NS')":1004.9491577148,
+    "('High', 'HDFCBANK.NS')":1007.3930881074,
+    "('Low', 'HDFCBANK.NS')":994.2258430942,
+    "('Open', 'HDFCBANK.NS')":1004.0015037809,
+    "('Volume', 'HDFCBANK.NS')":28213384
+  },
+  {
+    "('Date', '')":"2025-06-30",
+    "('Close', 'HDFCBANK.NS')":998.2658081055,
+    "('High', 'HDFCBANK.NS')":1004.4005661285,
+    "('Low', 'HDFCBANK.NS')":995.2732550959,
+    "('Open', 'HDFCBANK.NS')":1003.2533964547,
+    "('Volume', 'HDFCBANK.NS')":13649020
+  },
+  {
+    "('Date', '')":"2025-07-01",
+    "('Close', 'HDFCBANK.NS')":1003.5526123047,
+    "('High', 'HDFCBANK.NS')":1005.4977838848,
+    "('Low', 'HDFCBANK.NS')":999.5126780283,
+    "('Open', 'HDFCBANK.NS')":1000.0114368497,
+    "('Volume', 'HDFCBANK.NS')":14389386
+  },
+  {
+    "('Date', '')":"2025-07-02",
+    "('Close', 'HDFCBANK.NS')":990.5350341797,
+    "('High', 'HDFCBANK.NS')":1007.4429706559,
+    "('Low', 'HDFCBANK.NS')":986.4950998424,
+    "('Open', 'HDFCBANK.NS')":1007.4429706559,
+    "('Volume', 'HDFCBANK.NS')":18878250
+  },
+  {
+    "('Date', '')":"2025-07-03",
+    "('Close', 'HDFCBANK.NS')":991.0836181641,
+    "('High', 'HDFCBANK.NS')":1001.5076894592,
+    "('Low', 'HDFCBANK.NS')":989.6871300277,
+    "('Open', 'HDFCBANK.NS')":994.9739612316,
+    "('Volume', 'HDFCBANK.NS')":16860506
+  },
+  {
+    "('Date', '')":"2025-07-04",
+    "('Close', 'HDFCBANK.NS')":992.1809692383,
+    "('High', 'HDFCBANK.NS')":999.263320302,
+    "('Low', 'HDFCBANK.NS')":987.5424877454,
+    "('Open', 'HDFCBANK.NS')":991.0836632773,
+    "('Volume', 'HDFCBANK.NS')":7863944
+  },
+  {
+    "('Date', '')":"2025-07-07",
+    "('Close', 'HDFCBANK.NS')":991.2332763672,
+    "('High', 'HDFCBANK.NS')":996.7196233059,
+    "('Low', 'HDFCBANK.NS')":989.4377568185,
+    "('Open', 'HDFCBANK.NS')":992.0312782906,
+    "('Volume', 'HDFCBANK.NS')":11349426
+  },
+  {
+    "('Date', '')":"2025-07-08",
+    "('Close', 'HDFCBANK.NS')":998.2159423828,
+    "('High', 'HDFCBANK.NS')":1000.0114620082,
+    "('Low', 'HDFCBANK.NS')":986.0462146585,
+    "('Open', 'HDFCBANK.NS')":986.0462146585,
+    "('Volume', 'HDFCBANK.NS')":15224316
+  },
+  {
+    "('Date', '')":"2025-07-09",
+    "('Close', 'HDFCBANK.NS')":1003.1036987305,
+    "('High', 'HDFCBANK.NS')":1004.4005203491,
+    "('Low', 'HDFCBANK.NS')":996.5699704675,
+    "('Open', 'HDFCBANK.NS')":1001.0089360727,
+    "('Volume', 'HDFCBANK.NS')":13861428
+  },
+  {
+    "('Date', '')":"2025-07-10",
+    "('Close', 'HDFCBANK.NS')":1000.6099243164,
+    "('High', 'HDFCBANK.NS')":1005.9965439473,
+    "('Low', 'HDFCBANK.NS')":997.5176439735,
+    "('Open', 'HDFCBANK.NS')":1005.4977851253,
+    "('Volume', 'HDFCBANK.NS')":17030310
+  },
+  {
+    "('Date', '')":"2025-07-11",
+    "('Close', 'HDFCBANK.NS')":989.387878418,
+    "('High', 'HDFCBANK.NS')":999.9117385623,
+    "('Low', 'HDFCBANK.NS')":987.9913902076,
+    "('Open', 'HDFCBANK.NS')":996.5201541248,
+    "('Volume', 'HDFCBANK.NS')":12516922
+  },
+  {
+    "('Date', '')":"2025-07-14",
+    "('Close', 'HDFCBANK.NS')":989.0387573242,
+    "('High', 'HDFCBANK.NS')":991.8816582944,
+    "('Low', 'HDFCBANK.NS')":982.8541356715,
+    "('Open', 'HDFCBANK.NS')":989.0387573242,
+    "('Volume', 'HDFCBANK.NS')":13088850
+  },
+  {
+    "('Date', '')":"2025-07-15",
+    "('Close', 'HDFCBANK.NS')":995.2732543945,
+    "('High', 'HDFCBANK.NS')":999.3131887779,
+    "('Low', 'HDFCBANK.NS')":984.0511806166,
+    "('Open', 'HDFCBANK.NS')":984.0511806166,
+    "('Volume', 'HDFCBANK.NS')":14498168
+  },
+  {
+    "('Date', '')":"2025-07-16",
+    "('Close', 'HDFCBANK.NS')":995.6722412109,
+    "('High', 'HDFCBANK.NS')":1008.8394251469,
+    "('Low', 'HDFCBANK.NS')":993.8267970755,
+    "('Open', 'HDFCBANK.NS')":1006.4952830829,
+    "('Volume', 'HDFCBANK.NS')":17994612
+  },
+  {
+    "('Date', '')":"2025-07-17",
+    "('Close', 'HDFCBANK.NS')":990.9838867188,
+    "('High', 'HDFCBANK.NS')":999.911681549,
+    "('Low', 'HDFCBANK.NS')":988.8890631972,
+    "('Open', 'HDFCBANK.NS')":999.5126501496,
+    "('Volume', 'HDFCBANK.NS')":22529158
+  },
+  {
+    "('Date', '')":"2025-07-18",
+    "('Close', 'HDFCBANK.NS')":976.2705078125,
+    "('High', 'HDFCBANK.NS')":996.0213445308,
+    "('Low', 'HDFCBANK.NS')":974.0759568697,
+    "('Open', 'HDFCBANK.NS')":990.9838927217,
+    "('Volume', 'HDFCBANK.NS')":16129446
+  },
+  {
+    "('Date', '')":"2025-07-21",
+    "('Close', 'HDFCBANK.NS')":997.7670288086,
+    "('High', 'HDFCBANK.NS')":998.5151670456,
+    "('Low', 'HDFCBANK.NS')":985.7968170158,
+    "('Open', 'HDFCBANK.NS')":986.6446826644,
+    "('Volume', 'HDFCBANK.NS')":22309078
+  },
+  {
+    "('Date', '')":"2025-07-22",
+    "('Close', 'HDFCBANK.NS')":1001.0588378906,
+    "('High', 'HDFCBANK.NS')":1006.4953213272,
+    "('Low', 'HDFCBANK.NS')":999.0139388595,
+    "('Open', 'HDFCBANK.NS')":1004.0513908777,
+    "('Volume', 'HDFCBANK.NS')":14836814
+  },
+  {
+    "('Date', '')":"2025-07-23",
+    "('Close', 'HDFCBANK.NS')":1009.637512207,
+    "('High', 'HDFCBANK.NS')":1012.3806857402,
+    "('Low', 'HDFCBANK.NS')":999.0139248978,
+    "('Open', 'HDFCBANK.NS')":1003.0039954915,
+    "('Volume', 'HDFCBANK.NS')":13634916
+  },
+  {
+    "('Date', '')":"2025-07-24",
+    "('Close', 'HDFCBANK.NS')":1004.5999755859,
+    "('High', 'HDFCBANK.NS')":1016.3208076774,
+    "('Low', 'HDFCBANK.NS')":1001.7072110042,
+    "('Open', 'HDFCBANK.NS')":1016.3208076774,
+    "('Volume', 'HDFCBANK.NS')":19107176
+  },
+  {
+    "('Date', '')":"2025-07-25",
+    "('Close', 'HDFCBANK.NS')":1002.299987793,
+    "('High', 'HDFCBANK.NS')":1007.5,
+    "('Low', 'HDFCBANK.NS')":999.5,
+    "('Open', 'HDFCBANK.NS')":1007.5,
+    "('Volume', 'HDFCBANK.NS')":9306598
+  },
+  {
+    "('Date', '')":"2025-07-28",
+    "('Close', 'HDFCBANK.NS')":1004.25,
+    "('High', 'HDFCBANK.NS')":1010.700012207,
+    "('Low', 'HDFCBANK.NS')":1000.25,
+    "('Open', 'HDFCBANK.NS')":1001.5,
+    "('Volume', 'HDFCBANK.NS')":12059580
+  },
+  {
+    "('Date', '')":"2025-07-29",
+    "('Close', 'HDFCBANK.NS')":1010.799987793,
+    "('High', 'HDFCBANK.NS')":1013.25,
+    "('Low', 'HDFCBANK.NS')":998.1500244141,
+    "('Open', 'HDFCBANK.NS')":999.950012207,
+    "('Volume', 'HDFCBANK.NS')":19895696
+  },
+  {
+    "('Date', '')":"2025-07-30",
+    "('Close', 'HDFCBANK.NS')":1012.9000244141,
+    "('High', 'HDFCBANK.NS')":1016.299987793,
+    "('Low', 'HDFCBANK.NS')":1008.5,
+    "('Open', 'HDFCBANK.NS')":1014.0,
+    "('Volume', 'HDFCBANK.NS')":15154036
+  },
+  {
+    "('Date', '')":"2025-07-31",
+    "('Close', 'HDFCBANK.NS')":1009.0999755859,
+    "('High', 'HDFCBANK.NS')":1015.700012207,
+    "('Low', 'HDFCBANK.NS')":1004.0,
+    "('Open', 'HDFCBANK.NS')":1007.299987793,
+    "('Volume', 'HDFCBANK.NS')":22183032
+  },
+  {
+    "('Date', '')":"2025-08-01",
+    "('Close', 'HDFCBANK.NS')":1006.0999755859,
+    "('High', 'HDFCBANK.NS')":1014.1500244141,
+    "('Low', 'HDFCBANK.NS')":1004.6500244141,
+    "('Open', 'HDFCBANK.NS')":1007.0,
+    "('Volume', 'HDFCBANK.NS')":11317258
+  },
+  {
+    "('Date', '')":"2025-08-04",
+    "('Close', 'HDFCBANK.NS')":996.0,
+    "('High', 'HDFCBANK.NS')":1009.25,
+    "('Low', 'HDFCBANK.NS')":994.049987793,
+    "('Open', 'HDFCBANK.NS')":1005.049987793,
+    "('Volume', 'HDFCBANK.NS')":13933946
+  },
+  {
+    "('Date', '')":"2025-08-05",
+    "('Close', 'HDFCBANK.NS')":988.799987793,
+    "('High', 'HDFCBANK.NS')":997.200012207,
+    "('Low', 'HDFCBANK.NS')":982.75,
+    "('Open', 'HDFCBANK.NS')":993.25,
+    "('Volume', 'HDFCBANK.NS')":23978058
+  },
+  {
+    "('Date', '')":"2025-08-06",
+    "('Close', 'HDFCBANK.NS')":992.6500244141,
+    "('High', 'HDFCBANK.NS')":994.0,
+    "('Low', 'HDFCBANK.NS')":985.0,
+    "('Open', 'HDFCBANK.NS')":985.549987793,
+    "('Volume', 'HDFCBANK.NS')":14080204
+  },
+  {
+    "('Date', '')":"2025-08-07",
+    "('Close', 'HDFCBANK.NS')":997.700012207,
+    "('High', 'HDFCBANK.NS')":1000.799987793,
+    "('Low', 'HDFCBANK.NS')":988.4000244141,
+    "('Open', 'HDFCBANK.NS')":990.049987793,
+    "('Volume', 'HDFCBANK.NS')":13081186
+  },
+  {
+    "('Date', '')":"2025-08-08",
+    "('Close', 'HDFCBANK.NS')":986.950012207,
+    "('High', 'HDFCBANK.NS')":996.4000244141,
+    "('Low', 'HDFCBANK.NS')":985.0,
+    "('Open', 'HDFCBANK.NS')":993.549987793,
+    "('Volume', 'HDFCBANK.NS')":13895264
+  },
+  {
+    "('Date', '')":"2025-08-11",
+    "('Close', 'HDFCBANK.NS')":997.799987793,
+    "('High', 'HDFCBANK.NS')":998.799987793,
+    "('Low', 'HDFCBANK.NS')":986.549987793,
+    "('Open', 'HDFCBANK.NS')":987.950012207,
+    "('Volume', 'HDFCBANK.NS')":9105854
+  },
+  {
+    "('Date', '')":"2025-08-12",
+    "('Close', 'HDFCBANK.NS')":984.950012207,
+    "('High', 'HDFCBANK.NS')":998.0,
+    "('Low', 'HDFCBANK.NS')":983.75,
+    "('Open', 'HDFCBANK.NS')":995.950012207,
+    "('Volume', 'HDFCBANK.NS')":12937802
+  },
+  {
+    "('Date', '')":"2025-08-13",
+    "('Close', 'HDFCBANK.NS')":990.1500244141,
+    "('High', 'HDFCBANK.NS')":997.0,
+    "('Low', 'HDFCBANK.NS')":984.549987793,
+    "('Open', 'HDFCBANK.NS')":997.0,
+    "('Volume', 'HDFCBANK.NS')":13577396
+  },
+  {
+    "('Date', '')":"2025-08-14",
+    "('Close', 'HDFCBANK.NS')":995.549987793,
+    "('High', 'HDFCBANK.NS')":998.0,
+    "('Low', 'HDFCBANK.NS')":985.5999755859,
+    "('Open', 'HDFCBANK.NS')":989.0,
+    "('Volume', 'HDFCBANK.NS')":17511716
+  },
+  {
+    "('Date', '')":"2025-08-18",
+    "('Close', 'HDFCBANK.NS')":1001.799987793,
+    "('High', 'HDFCBANK.NS')":1013.299987793,
+    "('Low', 'HDFCBANK.NS')":997.799987793,
+    "('Open', 'HDFCBANK.NS')":1005.0,
+    "('Volume', 'HDFCBANK.NS')":19284796
+  },
+  {
+    "('Date', '')":"2025-08-19",
+    "('Close', 'HDFCBANK.NS')":995.549987793,
+    "('High', 'HDFCBANK.NS')":1003.049987793,
+    "('Low', 'HDFCBANK.NS')":993.3499755859,
+    "('Open', 'HDFCBANK.NS')":999.1500244141,
+    "('Volume', 'HDFCBANK.NS')":12352438
+  },
+  {
+    "('Date', '')":"2025-08-20",
+    "('Close', 'HDFCBANK.NS')":994.0999755859,
+    "('High', 'HDFCBANK.NS')":996.0,
+    "('Low', 'HDFCBANK.NS')":989.5,
+    "('Open', 'HDFCBANK.NS')":993.5,
+    "('Volume', 'HDFCBANK.NS')":9950228
+  },
+  {
+    "('Date', '')":"2025-08-21",
+    "('Close', 'HDFCBANK.NS')":995.5999755859,
+    "('High', 'HDFCBANK.NS')":998.75,
+    "('Low', 'HDFCBANK.NS')":991.5999755859,
+    "('Open', 'HDFCBANK.NS')":998.75,
+    "('Volume', 'HDFCBANK.NS')":12439850
+  },
+  {
+    "('Date', '')":"2025-08-22",
+    "('Close', 'HDFCBANK.NS')":982.299987793,
+    "('High', 'HDFCBANK.NS')":998.0,
+    "('Low', 'HDFCBANK.NS')":978.549987793,
+    "('Open', 'HDFCBANK.NS')":994.950012207,
+    "('Volume', 'HDFCBANK.NS')":19833502
+  },
+  {
+    "('Date', '')":"2025-08-25",
+    "('Close', 'HDFCBANK.NS')":982.049987793,
+    "('High', 'HDFCBANK.NS')":988.700012207,
+    "('Low', 'HDFCBANK.NS')":978.5,
+    "('Open', 'HDFCBANK.NS')":980.0999755859,
+    "('Volume', 'HDFCBANK.NS')":17518044
+  },
+  {
+    "('Date', '')":"2025-08-26",
+    "('Close', 'HDFCBANK.NS')":973.4000244141,
+    "('High', 'HDFCBANK.NS')":985.700012207,
+    "('Low', 'HDFCBANK.NS')":968.0,
+    "('Open', 'HDFCBANK.NS')":979.5,
+    "('Volume', 'HDFCBANK.NS')":16917731
+  },
+  {
+    "('Date', '')":"2025-08-28",
+    "('Close', 'HDFCBANK.NS')":957.799987793,
+    "('High', 'HDFCBANK.NS')":972.200012207,
+    "('Low', 'HDFCBANK.NS')":955.0,
+    "('Open', 'HDFCBANK.NS')":967.0,
+    "('Volume', 'HDFCBANK.NS')":25438255
+  },
+  {
+    "('Date', '')":"2025-08-29",
+    "('Close', 'HDFCBANK.NS')":951.5999755859,
+    "('High', 'HDFCBANK.NS')":963.299987793,
+    "('Low', 'HDFCBANK.NS')":950.0999755859,
+    "('Open', 'HDFCBANK.NS')":954.0,
+    "('Volume', 'HDFCBANK.NS')":14823813
+  },
+  {
+    "('Date', '')":"2025-09-01",
+    "('Close', 'HDFCBANK.NS')":950.5999755859,
+    "('High', 'HDFCBANK.NS')":957.450012207,
+    "('Low', 'HDFCBANK.NS')":946.3499755859,
+    "('Open', 'HDFCBANK.NS')":949.5999755859,
+    "('Volume', 'HDFCBANK.NS')":20178344
+  },
+  {
+    "('Date', '')":"2025-09-02",
+    "('Close', 'HDFCBANK.NS')":944.5,
+    "('High', 'HDFCBANK.NS')":954.799987793,
+    "('Low', 'HDFCBANK.NS')":944.0,
+    "('Open', 'HDFCBANK.NS')":951.0,
+    "('Volume', 'HDFCBANK.NS')":14196320
+  },
+  {
+    "('Date', '')":"2025-09-03",
+    "('Close', 'HDFCBANK.NS')":954.450012207,
+    "('High', 'HDFCBANK.NS')":956.299987793,
+    "('Low', 'HDFCBANK.NS')":940.0,
+    "('Open', 'HDFCBANK.NS')":945.0,
+    "('Volume', 'HDFCBANK.NS')":16083481
+  },
+  {
+    "('Date', '')":"2025-09-04",
+    "('Close', 'HDFCBANK.NS')":961.25,
+    "('High', 'HDFCBANK.NS')":965.700012207,
+    "('Low', 'HDFCBANK.NS')":956.25,
+    "('Open', 'HDFCBANK.NS')":960.200012207,
+    "('Volume', 'HDFCBANK.NS')":17597657
+  },
+  {
+    "('Date', '')":"2025-09-05",
+    "('Close', 'HDFCBANK.NS')":963.4000244141,
+    "('High', 'HDFCBANK.NS')":967.5,
+    "('Low', 'HDFCBANK.NS')":954.049987793,
+    "('Open', 'HDFCBANK.NS')":967.5,
+    "('Volume', 'HDFCBANK.NS')":11602111
+  },
+  {
+    "('Date', '')":"2025-09-08",
+    "('Close', 'HDFCBANK.NS')":966.0,
+    "('High', 'HDFCBANK.NS')":973.1500244141,
+    "('Low', 'HDFCBANK.NS')":960.450012207,
+    "('Open', 'HDFCBANK.NS')":969.0,
+    "('Volume', 'HDFCBANK.NS')":11711307
+  },
+  {
+    "('Date', '')":"2025-09-09",
+    "('Close', 'HDFCBANK.NS')":965.1500244141,
+    "('High', 'HDFCBANK.NS')":974.4000244141,
+    "('Low', 'HDFCBANK.NS')":962.700012207,
+    "('Open', 'HDFCBANK.NS')":974.0,
+    "('Volume', 'HDFCBANK.NS')":13985539
+  },
+  {
+    "('Date', '')":"2025-09-10",
+    "('Close', 'HDFCBANK.NS')":965.9000244141,
+    "('High', 'HDFCBANK.NS')":973.9000244141,
+    "('Low', 'HDFCBANK.NS')":961.700012207,
+    "('Open', 'HDFCBANK.NS')":973.9000244141,
+    "('Volume', 'HDFCBANK.NS')":18091100
+  },
+  {
+    "('Date', '')":"2025-09-11",
+    "('Close', 'HDFCBANK.NS')":967.799987793,
+    "('High', 'HDFCBANK.NS')":969.25,
+    "('Low', 'HDFCBANK.NS')":959.9000244141,
+    "('Open', 'HDFCBANK.NS')":960.299987793,
+    "('Volume', 'HDFCBANK.NS')":15113633
+  },
+  {
+    "('Date', '')":"2025-09-12",
+    "('Close', 'HDFCBANK.NS')":967.299987793,
+    "('High', 'HDFCBANK.NS')":970.75,
+    "('Low', 'HDFCBANK.NS')":962.25,
+    "('Open', 'HDFCBANK.NS')":969.9000244141,
+    "('Volume', 'HDFCBANK.NS')":14363519
+  },
+  {
+    "('Date', '')":"2025-09-15",
+    "('Close', 'HDFCBANK.NS')":967.049987793,
+    "('High', 'HDFCBANK.NS')":972.3499755859,
+    "('Low', 'HDFCBANK.NS')":965.0,
+    "('Open', 'HDFCBANK.NS')":969.5999755859,
+    "('Volume', 'HDFCBANK.NS')":14486377
+  },
+  {
+    "('Date', '')":"2025-09-16",
+    "('Close', 'HDFCBANK.NS')":966.8499755859,
+    "('High', 'HDFCBANK.NS')":969.3499755859,
+    "('Low', 'HDFCBANK.NS')":961.200012207,
+    "('Open', 'HDFCBANK.NS')":961.200012207,
+    "('Volume', 'HDFCBANK.NS')":18661794
+  },
+  {
+    "('Date', '')":"2025-09-17",
+    "('Close', 'HDFCBANK.NS')":966.5,
+    "('High', 'HDFCBANK.NS')":974.4000244141,
+    "('Low', 'HDFCBANK.NS')":964.3499755859,
+    "('Open', 'HDFCBANK.NS')":965.1500244141,
+    "('Volume', 'HDFCBANK.NS')":17361476
+  },
+  {
+    "('Date', '')":"2025-09-18",
+    "('Close', 'HDFCBANK.NS')":976.9000244141,
+    "('High', 'HDFCBANK.NS')":979.6500244141,
+    "('Low', 'HDFCBANK.NS')":969.25,
+    "('Open', 'HDFCBANK.NS')":973.299987793,
+    "('Volume', 'HDFCBANK.NS')":17791598
+  },
+  {
+    "('Date', '')":"2025-09-19",
+    "('Close', 'HDFCBANK.NS')":966.9000244141,
+    "('High', 'HDFCBANK.NS')":976.700012207,
+    "('Low', 'HDFCBANK.NS')":962.0999755859,
+    "('Open', 'HDFCBANK.NS')":974.9000244141,
+    "('Volume', 'HDFCBANK.NS')":31243267
+  },
+  {
+    "('Date', '')":"2025-09-22",
+    "('Close', 'HDFCBANK.NS')":964.200012207,
+    "('High', 'HDFCBANK.NS')":971.200012207,
+    "('Low', 'HDFCBANK.NS')":961.950012207,
+    "('Open', 'HDFCBANK.NS')":964.0,
+    "('Volume', 'HDFCBANK.NS')":10854415
+  },
+  {
+    "('Date', '')":"2025-09-23",
+    "('Close', 'HDFCBANK.NS')":957.200012207,
+    "('High', 'HDFCBANK.NS')":968.200012207,
+    "('Low', 'HDFCBANK.NS')":955.5,
+    "('Open', 'HDFCBANK.NS')":967.0,
+    "('Volume', 'HDFCBANK.NS')":21022298
+  },
+  {
+    "('Date', '')":"2025-09-24",
+    "('Close', 'HDFCBANK.NS')":951.049987793,
+    "('High', 'HDFCBANK.NS')":956.450012207,
+    "('Low', 'HDFCBANK.NS')":943.0,
+    "('Open', 'HDFCBANK.NS')":952.200012207,
+    "('Volume', 'HDFCBANK.NS')":15117220
+  },
+  {
+    "('Date', '')":"2025-09-25",
+    "('Close', 'HDFCBANK.NS')":949.8499755859,
+    "('High', 'HDFCBANK.NS')":958.0,
+    "('Low', 'HDFCBANK.NS')":947.4000244141,
+    "('Open', 'HDFCBANK.NS')":952.5,
+    "('Volume', 'HDFCBANK.NS')":31413279
+  },
+  {
+    "('Date', '')":"2025-09-26",
+    "('Close', 'HDFCBANK.NS')":945.049987793,
+    "('High', 'HDFCBANK.NS')":951.450012207,
+    "('Low', 'HDFCBANK.NS')":941.299987793,
+    "('Open', 'HDFCBANK.NS')":945.0999755859,
+    "('Volume', 'HDFCBANK.NS')":14874656
+  },
+  {
+    "('Date', '')":"2025-09-29",
+    "('Close', 'HDFCBANK.NS')":950.299987793,
+    "('High', 'HDFCBANK.NS')":956.799987793,
+    "('Low', 'HDFCBANK.NS')":939.0999755859,
+    "('Open', 'HDFCBANK.NS')":946.049987793,
+    "('Volume', 'HDFCBANK.NS')":32398179
+  },
+  {
+    "('Date', '')":"2025-09-30",
+    "('Close', 'HDFCBANK.NS')":951.0,
+    "('High', 'HDFCBANK.NS')":960.0,
+    "('Low', 'HDFCBANK.NS')":946.299987793,
+    "('Open', 'HDFCBANK.NS')":958.049987793,
+    "('Volume', 'HDFCBANK.NS')":28296687
+  },
+  {
+    "('Date', '')":"2025-10-01",
+    "('Close', 'HDFCBANK.NS')":965.25,
+    "('High', 'HDFCBANK.NS')":969.5999755859,
+    "('Low', 'HDFCBANK.NS')":946.0,
+    "('Open', 'HDFCBANK.NS')":952.700012207,
+    "('Volume', 'HDFCBANK.NS')":25350832
+  },
+  {
+    "('Date', '')":"2025-10-03",
+    "('Close', 'HDFCBANK.NS')":965.1500244141,
+    "('High', 'HDFCBANK.NS')":966.75,
+    "('Low', 'HDFCBANK.NS')":952.0,
+    "('Open', 'HDFCBANK.NS')":952.0,
+    "('Volume', 'HDFCBANK.NS')":26658296
+  },
+  {
+    "('Date', '')":"2025-10-06",
+    "('Close', 'HDFCBANK.NS')":973.450012207,
+    "('High', 'HDFCBANK.NS')":977.4000244141,
+    "('Low', 'HDFCBANK.NS')":962.0,
+    "('Open', 'HDFCBANK.NS')":971.9000244141,
+    "('Volume', 'HDFCBANK.NS')":18542683
+  },
+  {
+    "('Date', '')":"2025-10-07",
+    "('Close', 'HDFCBANK.NS')":982.5,
+    "('High', 'HDFCBANK.NS')":989.8499755859,
+    "('Low', 'HDFCBANK.NS')":971.0,
+    "('Open', 'HDFCBANK.NS')":974.0,
+    "('Volume', 'HDFCBANK.NS')":25535736
+  },
+  {
+    "('Date', '')":"2025-10-08",
+    "('Close', 'HDFCBANK.NS')":978.700012207,
+    "('High', 'HDFCBANK.NS')":985.9000244141,
+    "('Low', 'HDFCBANK.NS')":974.549987793,
+    "('Open', 'HDFCBANK.NS')":976.0,
+    "('Volume', 'HDFCBANK.NS')":15939710
+  },
+  {
+    "('Date', '')":"2025-10-09",
+    "('Close', 'HDFCBANK.NS')":977.0999755859,
+    "('High', 'HDFCBANK.NS')":979.0,
+    "('Low', 'HDFCBANK.NS')":970.1500244141,
+    "('Open', 'HDFCBANK.NS')":974.5,
+    "('Volume', 'HDFCBANK.NS')":15370950
+  },
+  {
+    "('Date', '')":"2025-10-10",
+    "('Close', 'HDFCBANK.NS')":980.9000244141,
+    "('High', 'HDFCBANK.NS')":986.200012207,
+    "('Low', 'HDFCBANK.NS')":978.0999755859,
+    "('Open', 'HDFCBANK.NS')":979.0,
+    "('Volume', 'HDFCBANK.NS')":13757080
+  },
+  {
+    "('Date', '')":"2025-10-13",
+    "('Close', 'HDFCBANK.NS')":977.0,
+    "('High', 'HDFCBANK.NS')":981.0,
+    "('Low', 'HDFCBANK.NS')":972.0,
+    "('Open', 'HDFCBANK.NS')":974.299987793,
+    "('Volume', 'HDFCBANK.NS')":18634254
+  },
+  {
+    "('Date', '')":"2025-10-14",
+    "('Close', 'HDFCBANK.NS')":977.1500244141,
+    "('High', 'HDFCBANK.NS')":980.450012207,
+    "('Low', 'HDFCBANK.NS')":967.0,
+    "('Open', 'HDFCBANK.NS')":970.0,
+    "('Volume', 'HDFCBANK.NS')":22934382
+  },
+  {
+    "('Date', '')":"2025-10-15",
+    "('Close', 'HDFCBANK.NS')":978.25,
+    "('High', 'HDFCBANK.NS')":984.9000244141,
+    "('Low', 'HDFCBANK.NS')":973.3499755859,
+    "('Open', 'HDFCBANK.NS')":975.0,
+    "('Volume', 'HDFCBANK.NS')":23310447
+  },
+  {
+    "('Date', '')":"2025-10-16",
+    "('Close', 'HDFCBANK.NS')":994.3499755859,
+    "('High', 'HDFCBANK.NS')":996.5999755859,
+    "('Low', 'HDFCBANK.NS')":981.5,
+    "('Open', 'HDFCBANK.NS')":982.6500244141,
+    "('Volume', 'HDFCBANK.NS')":22936566
+  },
+  {
+    "('Date', '')":"2025-10-17",
+    "('Close', 'HDFCBANK.NS')":1002.549987793,
+    "('High', 'HDFCBANK.NS')":1009.0,
+    "('Low', 'HDFCBANK.NS')":986.0,
+    "('Open', 'HDFCBANK.NS')":993.950012207,
+    "('Volume', 'HDFCBANK.NS')":25210511
+  },
+  {
+    "('Date', '')":"2025-10-20",
+    "('Close', 'HDFCBANK.NS')":1002.950012207,
+    "('High', 'HDFCBANK.NS')":1020.0,
+    "('Low', 'HDFCBANK.NS')":997.0,
+    "('Open', 'HDFCBANK.NS')":997.0,
+    "('Volume', 'HDFCBANK.NS')":22195202
+  },
+  {
+    "('Date', '')":"2025-10-21",
+    "('Close', 'HDFCBANK.NS')":1007.700012207,
+    "('High', 'HDFCBANK.NS')":1010.0,
+    "('Low', 'HDFCBANK.NS')":1004.0,
+    "('Open', 'HDFCBANK.NS')":1006.0,
+    "('Volume', 'HDFCBANK.NS')":3471600
+  },
+  {
+    "('Date', '')":"2025-10-23",
+    "('Close', 'HDFCBANK.NS')":1008.799987793,
+    "('High', 'HDFCBANK.NS')":1020.5,
+    "('Low', 'HDFCBANK.NS')":1006.0,
+    "('Open', 'HDFCBANK.NS')":1016.0,
+    "('Volume', 'HDFCBANK.NS')":43526526
+  },
+  {
+    "('Date', '')":"2025-10-24",
+    "('Close', 'HDFCBANK.NS')":994.75,
+    "('High', 'HDFCBANK.NS')":1011.950012207,
+    "('Low', 'HDFCBANK.NS')":991.299987793,
+    "('Open', 'HDFCBANK.NS')":1011.0,
+    "('Volume', 'HDFCBANK.NS')":17707768
+  },
+  {
+    "('Date', '')":"2025-10-27",
+    "('Close', 'HDFCBANK.NS')":1002.950012207,
+    "('High', 'HDFCBANK.NS')":1009.049987793,
+    "('Low', 'HDFCBANK.NS')":996.200012207,
+    "('Open', 'HDFCBANK.NS')":996.5,
+    "('Volume', 'HDFCBANK.NS')":15700796
+  },
+  {
+    "('Date', '')":"2025-10-28",
+    "('Close', 'HDFCBANK.NS')":1003.549987793,
+    "('High', 'HDFCBANK.NS')":1008.0,
+    "('Low', 'HDFCBANK.NS')":995.0,
+    "('Open', 'HDFCBANK.NS')":997.6500244141,
+    "('Volume', 'HDFCBANK.NS')":33904289
+  },
+  {
+    "('Date', '')":"2025-10-29",
+    "('Close', 'HDFCBANK.NS')":1007.8499755859,
+    "('High', 'HDFCBANK.NS')":1012.5,
+    "('Low', 'HDFCBANK.NS')":1000.0,
+    "('Open', 'HDFCBANK.NS')":1004.9000244141,
+    "('Volume', 'HDFCBANK.NS')":17769445
+  },
+  {
+    "('Date', '')":"2025-10-30",
+    "('Close', 'HDFCBANK.NS')":998.1500244141,
+    "('High', 'HDFCBANK.NS')":1009.5,
+    "('Low', 'HDFCBANK.NS')":997.0999755859,
+    "('Open', 'HDFCBANK.NS')":1000.0,
+    "('Volume', 'HDFCBANK.NS')":19962917
+  },
+  {
+    "('Date', '')":"2025-10-31",
+    "('Close', 'HDFCBANK.NS')":987.299987793,
+    "('High', 'HDFCBANK.NS')":1004.450012207,
+    "('Low', 'HDFCBANK.NS')":981.1500244141,
+    "('Open', 'HDFCBANK.NS')":994.0,
+    "('Volume', 'HDFCBANK.NS')":23221330
+  },
+  {
+    "('Date', '')":"2025-11-03",
+    "('Close', 'HDFCBANK.NS')":992.6500244141,
+    "('High', 'HDFCBANK.NS')":994.549987793,
+    "('Low', 'HDFCBANK.NS')":983.299987793,
+    "('Open', 'HDFCBANK.NS')":985.0,
+    "('Volume', 'HDFCBANK.NS')":16607180
+  },
+  {
+    "('Date', '')":"2025-11-04",
+    "('Close', 'HDFCBANK.NS')":985.25,
+    "('High', 'HDFCBANK.NS')":997.0,
+    "('Low', 'HDFCBANK.NS')":983.700012207,
+    "('Open', 'HDFCBANK.NS')":987.0,
+    "('Volume', 'HDFCBANK.NS')":20024544
+  },
+  {
+    "('Date', '')":"2025-11-05",
+    "('Close', 'HDFCBANK.NS')":985.25,
+    "('High', 'HDFCBANK.NS')":985.25,
+    "('Low', 'HDFCBANK.NS')":985.25,
+    "('Open', 'HDFCBANK.NS')":985.25,
+    "('Volume', 'HDFCBANK.NS')":0
+  },
+  {
+    "('Date', '')":"2025-11-06",
+    "('Close', 'HDFCBANK.NS')":984.6500244141,
+    "('High', 'HDFCBANK.NS')":991.049987793,
+    "('Low', 'HDFCBANK.NS')":974.0,
+    "('Open', 'HDFCBANK.NS')":981.0,
+    "('Volume', 'HDFCBANK.NS')":22279516
+  },
+  {
+    "('Date', '')":"2025-11-07",
+    "('Close', 'HDFCBANK.NS')":982.299987793,
+    "('High', 'HDFCBANK.NS')":984.9000244141,
+    "('Low', 'HDFCBANK.NS')":974.75,
+    "('Open', 'HDFCBANK.NS')":980.0,
+    "('Volume', 'HDFCBANK.NS')":15004568
+  },
+  {
+    "('Date', '')":"2025-11-10",
+    "('Close', 'HDFCBANK.NS')":984.5,
+    "('High', 'HDFCBANK.NS')":990.950012207,
+    "('Low', 'HDFCBANK.NS')":980.200012207,
+    "('Open', 'HDFCBANK.NS')":982.299987793,
+    "('Volume', 'HDFCBANK.NS')":15988262
+  },
+  {
+    "('Date', '')":"2025-11-11",
+    "('Close', 'HDFCBANK.NS')":991.700012207,
+    "('High', 'HDFCBANK.NS')":993.5,
+    "('Low', 'HDFCBANK.NS')":978.0,
+    "('Open', 'HDFCBANK.NS')":983.5,
+    "('Volume', 'HDFCBANK.NS')":10199923
+  }
+]

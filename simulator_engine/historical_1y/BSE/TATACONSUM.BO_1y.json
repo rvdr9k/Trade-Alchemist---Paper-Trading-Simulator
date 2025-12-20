@@ -1,0 +1,1986 @@
+[
+  {
+    "('Date', '')":"2024-11-13",
+    "('Close', 'TATACONSUM.BO')":946.7836303711,
+    "('High', 'TATACONSUM.BO')":960.8791842406,
+    "('Low', 'TATACONSUM.BO')":944.0042398893,
+    "('Open', 'TATACONSUM.BO')":957.9012528845,
+    "('Volume', 'TATACONSUM.BO')":48420
+  },
+  {
+    "('Date', '')":"2024-11-14",
+    "('Close', 'TATACONSUM.BO')":918.592590332,
+    "('High', 'TATACONSUM.BO')":952.3920993685,
+    "('Low', 'TATACONSUM.BO')":914.5227144288,
+    "('Open', 'TATACONSUM.BO')":952.3920993685,
+    "('Volume', 'TATACONSUM.BO')":86590
+  },
+  {
+    "('Date', '')":"2024-11-18",
+    "('Close', 'TATACONSUM.BO')":924.0521240234,
+    "('High', 'TATACONSUM.BO')":935.4178468968,
+    "('Low', 'TATACONSUM.BO')":909.4602482615,
+    "('Open', 'TATACONSUM.BO')":923.1587203821,
+    "('Volume', 'TATACONSUM.BO')":133436
+  },
+  {
+    "('Date', '')":"2024-11-19",
+    "('Close', 'TATACONSUM.BO')":910.4528808594,
+    "('High', 'TATACONSUM.BO')":933.8296296001,
+    "('Low', 'TATACONSUM.BO')":908.6661341849,
+    "('Open', 'TATACONSUM.BO')":931.0502391524,
+    "('Volume', 'TATACONSUM.BO')":45485
+  },
+  {
+    "('Date', '')":"2024-11-21",
+    "('Close', 'TATACONSUM.BO')":905.4896850586,
+    "('High', 'TATACONSUM.BO')":915.3665029704,
+    "('Low', 'TATACONSUM.BO')":893.6771996226,
+    "('Open', 'TATACONSUM.BO')":910.4529040508,
+    "('Volume', 'TATACONSUM.BO')":54846
+  },
+  {
+    "('Date', '')":"2024-11-22",
+    "('Close', 'TATACONSUM.BO')":937.9490966797,
+    "('High', 'TATACONSUM.BO')":941.0758881174,
+    "('Low', 'TATACONSUM.BO')":906.8296789954,
+    "('Open', 'TATACONSUM.BO')":909.2616682822,
+    "('Volume', 'TATACONSUM.BO')":47278
+  },
+  {
+    "('Date', '')":"2024-11-25",
+    "('Close', 'TATACONSUM.BO')":948.7192993164,
+    "('High', 'TATACONSUM.BO')":955.1714839312,
+    "('Low', 'TATACONSUM.BO')":939.8847453787,
+    "('Open', 'TATACONSUM.BO')":949.9104839779,
+    "('Volume', 'TATACONSUM.BO')":30171
+  },
+  {
+    "('Date', '')":"2024-11-26",
+    "('Close', 'TATACONSUM.BO')":955.8663330078,
+    "('High', 'TATACONSUM.BO')":959.8865281699,
+    "('Low', 'TATACONSUM.BO')":945.245032523,
+    "('Open', 'TATACONSUM.BO')":959.8865281699,
+    "('Volume', 'TATACONSUM.BO')":30664
+  },
+  {
+    "('Date', '')":"2024-11-27",
+    "('Close', 'TATACONSUM.BO')":953.1861572266,
+    "('High', 'TATACONSUM.BO')":962.7651936112,
+    "('Low', 'TATACONSUM.BO')":945.9894900671,
+    "('Open', 'TATACONSUM.BO')":962.7651936112,
+    "('Volume', 'TATACONSUM.BO')":15585
+  },
+  {
+    "('Date', '')":"2024-11-28",
+    "('Close', 'TATACONSUM.BO')":934.871887207,
+    "('High', 'TATACONSUM.BO')":965.7927647691,
+    "('Low', 'TATACONSUM.BO')":931.3480139531,
+    "('Open', 'TATACONSUM.BO')":954.426981525,
+    "('Volume', 'TATACONSUM.BO')":67183
+  },
+  {
+    "('Date', '')":"2024-11-29",
+    "('Close', 'TATACONSUM.BO')":951.4986572266,
+    "('High', 'TATACONSUM.BO')":957.2063588057,
+    "('Low', 'TATACONSUM.BO')":934.0777714804,
+    "('Open', 'TATACONSUM.BO')":934.0777714804,
+    "('Volume', 'TATACONSUM.BO')":40051
+  },
+  {
+    "('Date', '')":"2024-12-02",
+    "('Close', 'TATACONSUM.BO')":949.6126708984,
+    "('High', 'TATACONSUM.BO')":956.5114965154,
+    "('Low', 'TATACONSUM.BO')":940.7284971885,
+    "('Open', 'TATACONSUM.BO')":952.8883831673,
+    "('Volume', 'TATACONSUM.BO')":71332
+  },
+  {
+    "('Date', '')":"2024-12-03",
+    "('Close', 'TATACONSUM.BO')":947.0814208984,
+    "('High', 'TATACONSUM.BO')":951.4986979049,
+    "('Low', 'TATACONSUM.BO')":941.9197216316,
+    "('Open', 'TATACONSUM.BO')":949.6127110455,
+    "('Volume', 'TATACONSUM.BO')":27986
+  },
+  {
+    "('Date', '')":"2024-12-04",
+    "('Close', 'TATACONSUM.BO')":953.7817382812,
+    "('High', 'TATACONSUM.BO')":956.660429437,
+    "('Low', 'TATACONSUM.BO')":942.6641765715,
+    "('Open', 'TATACONSUM.BO')":949.6126829332,
+    "('Volume', 'TATACONSUM.BO')":40236
+  },
+  {
+    "('Date', '')":"2024-12-05",
+    "('Close', 'TATACONSUM.BO')":959.489440918,
+    "('High', 'TATACONSUM.BO')":963.4600159858,
+    "('Low', 'TATACONSUM.BO')":939.5869455075,
+    "('Open', 'TATACONSUM.BO')":956.0648683909,
+    "('Volume', 'TATACONSUM.BO')":41808
+  },
+  {
+    "('Date', '')":"2024-12-06",
+    "('Close', 'TATACONSUM.BO')":967.1328125,
+    "('High', 'TATACONSUM.BO')":971.5500893915,
+    "('Low', 'TATACONSUM.BO')":957.1567547338,
+    "('Open', 'TATACONSUM.BO')":971.5500893915,
+    "('Volume', 'TATACONSUM.BO')":100856
+  },
+  {
+    "('Date', '')":"2024-12-09",
+    "('Close', 'TATACONSUM.BO')":926.6825561523,
+    "('High', 'TATACONSUM.BO')":966.8350077602,
+    "('Low', 'TATACONSUM.BO')":925.0943503946,
+    "('Open', 'TATACONSUM.BO')":966.8350077602,
+    "('Volume', 'TATACONSUM.BO')":91354
+  },
+  {
+    "('Date', '')":"2024-12-10",
+    "('Close', 'TATACONSUM.BO')":919.9822387695,
+    "('High', 'TATACONSUM.BO')":934.7230351835,
+    "('Low', 'TATACONSUM.BO')":917.3517691169,
+    "('Open', 'TATACONSUM.BO')":934.7230351835,
+    "('Volume', 'TATACONSUM.BO')":41222
+  },
+  {
+    "('Date', '')":"2024-12-11",
+    "('Close', 'TATACONSUM.BO')":927.7248535156,
+    "('High', 'TATACONSUM.BO')":936.0630855107,
+    "('Low', 'TATACONSUM.BO')":923.1587163574,
+    "('Open', 'TATACONSUM.BO')":926.2358878441,
+    "('Volume', 'TATACONSUM.BO')":67053
+  },
+  {
+    "('Date', '')":"2024-12-12",
+    "('Close', 'TATACONSUM.BO')":915.118347168,
+    "('High', 'TATACONSUM.BO')":933.0355557134,
+    "('Low', 'TATACONSUM.BO')":909.3609646357,
+    "('Open', 'TATACONSUM.BO')":933.0355557134,
+    "('Volume', 'TATACONSUM.BO')":57188
+  },
+  {
+    "('Date', '')":"2024-12-13",
+    "('Close', 'TATACONSUM.BO')":923.1586914062,
+    "('High', 'TATACONSUM.BO')":924.1513351605,
+    "('Low', 'TATACONSUM.BO')":901.1219879458,
+    "('Open', 'TATACONSUM.BO')":915.6146231088,
+    "('Volume', 'TATACONSUM.BO')":67304
+  },
+  {
+    "('Date', '')":"2024-12-16",
+    "('Close', 'TATACONSUM.BO')":913.5796508789,
+    "('High', 'TATACONSUM.BO')":927.7745049697,
+    "('Low', 'TATACONSUM.BO')":910.3535586921,
+    "('Open', 'TATACONSUM.BO')":923.1586872988,
+    "('Volume', 'TATACONSUM.BO')":52165
+  },
+  {
+    "('Date', '')":"2024-12-17",
+    "('Close', 'TATACONSUM.BO')":898.1936645508,
+    "('High', 'TATACONSUM.BO')":915.962011744,
+    "('Low', 'TATACONSUM.BO')":893.4786067824,
+    "('Open', 'TATACONSUM.BO')":913.2322414571,
+    "('Volume', 'TATACONSUM.BO')":78077
+  },
+  {
+    "('Date', '')":"2024-12-18",
+    "('Close', 'TATACONSUM.BO')":902.6109619141,
+    "('High', 'TATACONSUM.BO')":910.2543310092,
+    "('Low', 'TATACONSUM.BO')":898.3426058488,
+    "('Open', 'TATACONSUM.BO')":901.270917068,
+    "('Volume', 'TATACONSUM.BO')":33535
+  },
+  {
+    "('Date', '')":"2024-12-19",
+    "('Close', 'TATACONSUM.BO')":899.9805297852,
+    "('High', 'TATACONSUM.BO')":911.3959335395,
+    "('Low', 'TATACONSUM.BO')":897.3499994682,
+    "('Open', 'TATACONSUM.BO')":902.3132184918,
+    "('Volume', 'TATACONSUM.BO')":59189
+  },
+  {
+    "('Date', '')":"2024-12-20",
+    "('Close', 'TATACONSUM.BO')":883.2047729492,
+    "('High', 'TATACONSUM.BO')":909.4105920765,
+    "('Low', 'TATACONSUM.BO')":877.4970714101,
+    "('Open', 'TATACONSUM.BO')":900.1293367002,
+    "('Volume', 'TATACONSUM.BO')":38014
+  },
+  {
+    "('Date', '')":"2024-12-23",
+    "('Close', 'TATACONSUM.BO')":895.1661376953,
+    "('High', 'TATACONSUM.BO')":899.8315755213,
+    "('Low', 'TATACONSUM.BO')":883.5025734235,
+    "('Open', 'TATACONSUM.BO')":884.5448372625,
+    "('Volume', 'TATACONSUM.BO')":47638
+  },
+  {
+    "('Date', '')":"2024-12-24",
+    "('Close', 'TATACONSUM.BO')":900.5760498047,
+    "('High', 'TATACONSUM.BO')":905.8866696776,
+    "('Low', 'TATACONSUM.BO')":890.4014512811,
+    "('Open', 'TATACONSUM.BO')":895.4142901438,
+    "('Volume', 'TATACONSUM.BO')":19484
+  },
+  {
+    "('Date', '')":"2024-12-26",
+    "('Close', 'TATACONSUM.BO')":893.7764892578,
+    "('High', 'TATACONSUM.BO')":904.2984891562,
+    "('Low', 'TATACONSUM.BO')":892.7341648135,
+    "('Open', 'TATACONSUM.BO')":901.3205577979,
+    "('Volume', 'TATACONSUM.BO')":24724
+  },
+  {
+    "('Date', '')":"2024-12-27",
+    "('Close', 'TATACONSUM.BO')":900.7249755859,
+    "('High', 'TATACONSUM.BO')":904.2984689015,
+    "('Low', 'TATACONSUM.BO')":893.3297674277,
+    "('Open', 'TATACONSUM.BO')":898.3426063181,
+    "('Volume', 'TATACONSUM.BO')":27530
+  },
+  {
+    "('Date', '')":"2024-12-30",
+    "('Close', 'TATACONSUM.BO')":896.7047119141,
+    "('High', 'TATACONSUM.BO')":905.0429436912,
+    "('Low', 'TATACONSUM.BO')":892.5356566117,
+    "('Open', 'TATACONSUM.BO')":901.5686905484,
+    "('Volume', 'TATACONSUM.BO')":21092
+  },
+  {
+    "('Date', '')":"2024-12-31",
+    "('Close', 'TATACONSUM.BO')":907.623840332,
+    "('High', 'TATACONSUM.BO')":910.6514524111,
+    "('Low', 'TATACONSUM.BO')":888.4162069088,
+    "('Open', 'TATACONSUM.BO')":893.4290460149,
+    "('Volume', 'TATACONSUM.BO')":23181
+  },
+  {
+    "('Date', '')":"2025-01-01",
+    "('Close', 'TATACONSUM.BO')":913.6789550781,
+    "('High', 'TATACONSUM.BO')":915.5153217877,
+    "('Low', 'TATACONSUM.BO')":901.8168501059,
+    "('Open', 'TATACONSUM.BO')":910.2047019407,
+    "('Volume', 'TATACONSUM.BO')":11540
+  },
+  {
+    "('Date', '')":"2025-01-02",
+    "('Close', 'TATACONSUM.BO')":922.4638671875,
+    "('High', 'TATACONSUM.BO')":924.1513737574,
+    "('Low', 'TATACONSUM.BO')":906.0852445591,
+    "('Open', 'TATACONSUM.BO')":914.2249358008,
+    "('Volume', 'TATACONSUM.BO')":46422
+  },
+  {
+    "('Date', '')":"2025-01-03",
+    "('Close', 'TATACONSUM.BO')":931.4969482422,
+    "('High', 'TATACONSUM.BO')":935.070441619,
+    "('Low', 'TATACONSUM.BO')":919.9822440319,
+    "('Open', 'TATACONSUM.BO')":923.2083363199,
+    "('Volume', 'TATACONSUM.BO')":156341
+  },
+  {
+    "('Date', '')":"2025-01-06",
+    "('Close', 'TATACONSUM.BO')":939.934387207,
+    "('High', 'TATACONSUM.BO')":947.9251572441,
+    "('Low', 'TATACONSUM.BO')":922.4638209279,
+    "('Open', 'TATACONSUM.BO')":928.6182242695,
+    "('Volume', 'TATACONSUM.BO')":59101
+  },
+  {
+    "('Date', '')":"2025-01-07",
+    "('Close', 'TATACONSUM.BO')":948.371887207,
+    "('High', 'TATACONSUM.BO')":964.899369715,
+    "('Low', 'TATACONSUM.BO')":943.6071486164,
+    "('Open', 'TATACONSUM.BO')":944.2523913048,
+    "('Volume', 'TATACONSUM.BO')":68214
+  },
+  {
+    "('Date', '')":"2025-01-08",
+    "('Close', 'TATACONSUM.BO')":953.9802856445,
+    "('High', 'TATACONSUM.BO')":956.7596760909,
+    "('Low', 'TATACONSUM.BO')":938.1972860102,
+    "('Open', 'TATACONSUM.BO')":944.5997898752,
+    "('Volume', 'TATACONSUM.BO')":48051
+  },
+  {
+    "('Date', '')":"2025-01-09",
+    "('Close', 'TATACONSUM.BO')":962.5170288086,
+    "('High', 'TATACONSUM.BO')":975.4213974565,
+    "('Low', 'TATACONSUM.BO')":947.5776920203,
+    "('Open', 'TATACONSUM.BO')":953.4839344033,
+    "('Volume', 'TATACONSUM.BO')":63663
+  },
+  {
+    "('Date', '')":"2025-01-10",
+    "('Close', 'TATACONSUM.BO')":965.1971435547,
+    "('High', 'TATACONSUM.BO')":971.004145949,
+    "('Low', 'TATACONSUM.BO')":952.3424552284,
+    "('Open', 'TATACONSUM.BO')":961.0777082693,
+    "('Volume', 'TATACONSUM.BO')":23683
+  },
+  {
+    "('Date', '')":"2025-01-13",
+    "('Close', 'TATACONSUM.BO')":958.2983398438,
+    "('High', 'TATACONSUM.BO')":962.5170759545,
+    "('Low', 'TATACONSUM.BO')":943.0612213037,
+    "('Open', 'TATACONSUM.BO')":954.675165773,
+    "('Volume', 'TATACONSUM.BO')":35550
+  },
+  {
+    "('Date', '')":"2025-01-14",
+    "('Close', 'TATACONSUM.BO')":956.0648803711,
+    "('High', 'TATACONSUM.BO')":969.8129724814,
+    "('Low', 'TATACONSUM.BO')":951.4490625624,
+    "('Open', 'TATACONSUM.BO')":958.6457299631,
+    "('Volume', 'TATACONSUM.BO')":76021
+  },
+  {
+    "('Date', '')":"2025-01-15",
+    "('Close', 'TATACONSUM.BO')":947.9747924805,
+    "('High', 'TATACONSUM.BO')":957.9012300981,
+    "('Low', 'TATACONSUM.BO')":937.7505738516,
+    "('Open', 'TATACONSUM.BO')":957.9012300981,
+    "('Volume', 'TATACONSUM.BO')":173300
+  },
+  {
+    "('Date', '')":"2025-01-16",
+    "('Close', 'TATACONSUM.BO')":931.4969482422,
+    "('High', 'TATACONSUM.BO')":953.2854307643,
+    "('Low', 'TATACONSUM.BO')":920.0815447617,
+    "('Open', 'TATACONSUM.BO')":950.9527421136,
+    "('Volume', 'TATACONSUM.BO')":154392
+  },
+  {
+    "('Date', '')":"2025-01-17",
+    "('Close', 'TATACONSUM.BO')":947.0317993164,
+    "('High', 'TATACONSUM.BO')":951.8957781403,
+    "('Low', 'TATACONSUM.BO')":928.171567235,
+    "('Open', 'TATACONSUM.BO')":937.7506040792,
+    "('Volume', 'TATACONSUM.BO')":33884
+  },
+  {
+    "('Date', '')":"2025-01-20",
+    "('Close', 'TATACONSUM.BO')":953.6328735352,
+    "('High', 'TATACONSUM.BO')":957.4049077106,
+    "('Low', 'TATACONSUM.BO')":937.9491142249,
+    "('Open', 'TATACONSUM.BO')":947.7266310386,
+    "('Volume', 'TATACONSUM.BO')":24794
+  },
+  {
+    "('Date', '')":"2025-01-21",
+    "('Close', 'TATACONSUM.BO')":965.5446166992,
+    "('High', 'TATACONSUM.BO')":970.8056166148,
+    "('Low', 'TATACONSUM.BO')":951.498682981,
+    "('Open', 'TATACONSUM.BO')":956.0152000617,
+    "('Volume', 'TATACONSUM.BO')":183874
+  },
+  {
+    "('Date', '')":"2025-01-22",
+    "('Close', 'TATACONSUM.BO')":961.0776977539,
+    "('High', 'TATACONSUM.BO')":974.3294676769,
+    "('Low', 'TATACONSUM.BO')":950.9527193141,
+    "('Open', 'TATACONSUM.BO')":972.3441801627,
+    "('Volume', 'TATACONSUM.BO')":145393
+  },
+  {
+    "('Date', '')":"2025-01-23",
+    "('Close', 'TATACONSUM.BO')":976.0169677734,
+    "('High', 'TATACONSUM.BO')":985.8441651388,
+    "('Low', 'TATACONSUM.BO')":953.4839425177,
+    "('Open', 'TATACONSUM.BO')":962.715517281,
+    "('Volume', 'TATACONSUM.BO')":74697
+  },
+  {
+    "('Date', '')":"2025-01-24",
+    "('Close', 'TATACONSUM.BO')":984.5040893555,
+    "('High', 'TATACONSUM.BO')":996.6143555945,
+    "('Low', 'TATACONSUM.BO')":976.8111000568,
+    "('Open', 'TATACONSUM.BO')":976.8111000568,
+    "('Volume', 'TATACONSUM.BO')":52426
+  },
+  {
+    "('Date', '')":"2025-01-27",
+    "('Close', 'TATACONSUM.BO')":958.7946166992,
+    "('High', 'TATACONSUM.BO')":990.6584566516,
+    "('Low', 'TATACONSUM.BO')":953.4343162464,
+    "('Open', 'TATACONSUM.BO')":986.6382616051,
+    "('Volume', 'TATACONSUM.BO')":91724
+  },
+  {
+    "('Date', '')":"2025-01-28",
+    "('Close', 'TATACONSUM.BO')":953.2854003906,
+    "('High', 'TATACONSUM.BO')":971.3515287448,
+    "('Low', 'TATACONSUM.BO')":950.704550877,
+    "('Open', 'TATACONSUM.BO')":969.7633229804,
+    "('Volume', 'TATACONSUM.BO')":52019
+  },
+  {
+    "('Date', '')":"2025-01-29",
+    "('Close', 'TATACONSUM.BO')":952.9380493164,
+    "('High', 'TATACONSUM.BO')":956.0649015252,
+    "('Low', 'TATACONSUM.BO')":931.0502656134,
+    "('Open', 'TATACONSUM.BO')":953.2854504124,
+    "('Volume', 'TATACONSUM.BO')":40690
+  },
+  {
+    "('Date', '')":"2025-01-30",
+    "('Close', 'TATACONSUM.BO')":960.4821166992,
+    "('High', 'TATACONSUM.BO')":967.1824623496,
+    "('Low', 'TATACONSUM.BO')":946.9821852529,
+    "('Open', 'TATACONSUM.BO')":952.987668126,
+    "('Volume', 'TATACONSUM.BO')":39269
+  },
+  {
+    "('Date', '')":"2025-01-31",
+    "('Close', 'TATACONSUM.BO')":1017.0628051758,
+    "('High', 'TATACONSUM.BO')":1023.4654303384,
+    "('Low', 'TATACONSUM.BO')":960.9784309208,
+    "('Open', 'TATACONSUM.BO')":961.2762725273,
+    "('Volume', 'TATACONSUM.BO')":281894
+  },
+  {
+    "('Date', '')":"2025-02-01",
+    "('Close', 'TATACONSUM.BO')":1061.6325683594,
+    "('High', 'TATACONSUM.BO')":1065.3053020344,
+    "('Low', 'TATACONSUM.BO')":1008.4765037719,
+    "('Open', 'TATACONSUM.BO')":1022.2742165555,
+    "('Volume', 'TATACONSUM.BO')":85604
+  },
+  {
+    "('Date', '')":"2025-02-03",
+    "('Close', 'TATACONSUM.BO')":1028.8255615234,
+    "('High', 'TATACONSUM.BO')":1066.8935461001,
+    "('Low', 'TATACONSUM.BO')":1026.4433134722,
+    "('Open', 'TATACONSUM.BO')":1063.7666940674,
+    "('Volume', 'TATACONSUM.BO')":34271
+  },
+  {
+    "('Date', '')":"2025-02-04",
+    "('Close', 'TATACONSUM.BO')":1025.2520751953,
+    "('High', 'TATACONSUM.BO')":1039.0001669284,
+    "('Low', 'TATACONSUM.BO')":1012.198846206,
+    "('Open', 'TATACONSUM.BO')":1039.0001669284,
+    "('Volume', 'TATACONSUM.BO')":164674
+  },
+  {
+    "('Date', '')":"2025-02-05",
+    "('Close', 'TATACONSUM.BO')":1007.9305419922,
+    "('High', 'TATACONSUM.BO')":1028.4286607625,
+    "('Low', 'TATACONSUM.BO')":1003.4636448778,
+    "('Open', 'TATACONSUM.BO')":1025.4507293529,
+    "('Volume', 'TATACONSUM.BO')":21981
+  },
+  {
+    "('Date', '')":"2025-02-06",
+    "('Close', 'TATACONSUM.BO')":1014.8293457031,
+    "('High', 'TATACONSUM.BO')":1017.5095566164,
+    "('Low', 'TATACONSUM.BO')":1002.570219237,
+    "('Open', 'TATACONSUM.BO')":1016.4176121051,
+    "('Volume', 'TATACONSUM.BO')":39112
+  },
+  {
+    "('Date', '')":"2025-02-07",
+    "('Close', 'TATACONSUM.BO')":1014.1345214844,
+    "('High', 'TATACONSUM.BO')":1021.8770701078,
+    "('Low', 'TATACONSUM.BO')":1005.101426918,
+    "('Open', 'TATACONSUM.BO')":1016.5168907425,
+    "('Volume', 'TATACONSUM.BO')":43237
+  },
+  {
+    "('Date', '')":"2025-02-10",
+    "('Close', 'TATACONSUM.BO')":1018.7503662109,
+    "('High', 'TATACONSUM.BO')":1029.2226854516,
+    "('Low', 'TATACONSUM.BO')":1001.6272003134,
+    "('Open', 'TATACONSUM.BO')":1001.6272003134,
+    "('Volume', 'TATACONSUM.BO')":59235
+  },
+  {
+    "('Date', '')":"2025-02-11",
+    "('Close', 'TATACONSUM.BO')":1006.1436767578,
+    "('High', 'TATACONSUM.BO')":1027.8329183745,
+    "('Low', 'TATACONSUM.BO')":1001.5775397605,
+    "('Open', 'TATACONSUM.BO')":1018.7998845199,
+    "('Volume', 'TATACONSUM.BO')":33171
+  },
+  {
+    "('Date', '')":"2025-02-12",
+    "('Close', 'TATACONSUM.BO')":1021.62890625,
+    "('High', 'TATACONSUM.BO')":1030.3642197807,
+    "('Low', 'TATACONSUM.BO')":1002.5205745136,
+    "('Open', 'TATACONSUM.BO')":1006.5407696123,
+    "('Volume', 'TATACONSUM.BO')":16993
+  },
+  {
+    "('Date', '')":"2025-02-13",
+    "('Close', 'TATACONSUM.BO')":1015.2760620117,
+    "('High', 'TATACONSUM.BO')":1030.3145791632,
+    "('Low', 'TATACONSUM.BO')":1008.8238773404,
+    "('Open', 'TATACONSUM.BO')":1030.3145791632,
+    "('Volume', 'TATACONSUM.BO')":78527
+  },
+  {
+    "('Date', '')":"2025-02-14",
+    "('Close', 'TATACONSUM.BO')":1014.1841430664,
+    "('High', 'TATACONSUM.BO')":1029.6197414378,
+    "('Low', 'TATACONSUM.BO')":1009.9654070808,
+    "('Open', 'TATACONSUM.BO')":1017.5095360186,
+    "('Volume', 'TATACONSUM.BO')":29222
+  },
+  {
+    "('Date', '')":"2025-02-17",
+    "('Close', 'TATACONSUM.BO')":1014.3330078125,
+    "('High', 'TATACONSUM.BO')":1018.4525036749,
+    "('Low', 'TATACONSUM.BO')":997.3092035813,
+    "('Open', 'TATACONSUM.BO')":1014.1841475993,
+    "('Volume', 'TATACONSUM.BO')":24318
+  },
+  {
+    "('Date', '')":"2025-02-18",
+    "('Close', 'TATACONSUM.BO')":1019.3458862305,
+    "('High', 'TATACONSUM.BO')":1020.1896091795,
+    "('Low', 'TATACONSUM.BO')":1011.4543563385,
+    "('Open', 'TATACONSUM.BO')":1014.4819076443,
+    "('Volume', 'TATACONSUM.BO')":18428
+  },
+  {
+    "('Date', '')":"2025-02-19",
+    "('Close', 'TATACONSUM.BO')":1016.9635620117,
+    "('High', 'TATACONSUM.BO')":1024.6565513778,
+    "('Low', 'TATACONSUM.BO')":1014.0352507164,
+    "('Open', 'TATACONSUM.BO')":1018.4028470371,
+    "('Volume', 'TATACONSUM.BO')":10665
+  },
+  {
+    "('Date', '')":"2025-02-20",
+    "('Close', 'TATACONSUM.BO')":1001.7265014648,
+    "('High', 'TATACONSUM.BO')":1020.8844538425,
+    "('Low', 'TATACONSUM.BO')":996.6143617295,
+    "('Open', 'TATACONSUM.BO')":1018.9488469276,
+    "('Volume', 'TATACONSUM.BO')":13489
+  },
+  {
+    "('Date', '')":"2025-02-21",
+    "('Close', 'TATACONSUM.BO')":995.9194946289,
+    "('High', 'TATACONSUM.BO')":1006.2430141989,
+    "('Low', 'TATACONSUM.BO')":984.0573893136,
+    "('Open', 'TATACONSUM.BO')":997.8551621216,
+    "('Volume', 'TATACONSUM.BO')":103848
+  },
+  {
+    "('Date', '')":"2025-02-24",
+    "('Close', 'TATACONSUM.BO')":994.8771972656,
+    "('High', 'TATACONSUM.BO')":1003.5628300679,
+    "('Low', 'TATACONSUM.BO')":979.5904592992,
+    "('Open', 'TATACONSUM.BO')":979.5904592992,
+    "('Volume', 'TATACONSUM.BO')":16133
+  },
+  {
+    "('Date', '')":"2025-02-25",
+    "('Close', 'TATACONSUM.BO')":996.961730957,
+    "('High', 'TATACONSUM.BO')":1001.9249497313,
+    "('Low', 'TATACONSUM.BO')":988.7227999089,
+    "('Open', 'TATACONSUM.BO')":989.6162035228,
+    "('Volume', 'TATACONSUM.BO')":11874
+  },
+  {
+    "('Date', '')":"2025-02-27",
+    "('Close', 'TATACONSUM.BO')":1000.6345214844,
+    "('High', 'TATACONSUM.BO')":1002.5701889168,
+    "('Low', 'TATACONSUM.BO')":991.2540259164,
+    "('Open', 'TATACONSUM.BO')":1002.3716480493,
+    "('Volume', 'TATACONSUM.BO')":9150
+  },
+  {
+    "('Date', '')":"2025-02-28",
+    "('Close', 'TATACONSUM.BO')":956.2137451172,
+    "('High', 'TATACONSUM.BO')":994.1823698594,
+    "('Low', 'TATACONSUM.BO')":950.1586422686,
+    "('Open', 'TATACONSUM.BO')":981.1787605221,
+    "('Volume', 'TATACONSUM.BO')":80532
+  },
+  {
+    "('Date', '')":"2025-03-03",
+    "('Close', 'TATACONSUM.BO')":947.3295898438,
+    "('High', 'TATACONSUM.BO')":960.879201999,
+    "('Low', 'TATACONSUM.BO')":941.6715686315,
+    "('Open', 'TATACONSUM.BO')":958.4968326356,
+    "('Volume', 'TATACONSUM.BO')":22626
+  },
+  {
+    "('Date', '')":"2025-03-04",
+    "('Close', 'TATACONSUM.BO')":947.1311035156,
+    "('High', 'TATACONSUM.BO')":950.4564360024,
+    "('Low', 'TATACONSUM.BO')":936.708343643,
+    "('Open', 'TATACONSUM.BO')":940.9766998546,
+    "('Volume', 'TATACONSUM.BO')":32457
+  },
+  {
+    "('Date', '')":"2025-03-05",
+    "('Close', 'TATACONSUM.BO')":949.7119140625,
+    "('High', 'TATACONSUM.BO')":958.3479268616,
+    "('Low', 'TATACONSUM.BO')":938.5446718015,
+    "('Open', 'TATACONSUM.BO')":938.5446718015,
+    "('Volume', 'TATACONSUM.BO')":12659
+  },
+  {
+    "('Date', '')":"2025-03-06",
+    "('Close', 'TATACONSUM.BO')":950.903137207,
+    "('High', 'TATACONSUM.BO')":957.9012638568,
+    "('Low', 'TATACONSUM.BO')":936.95650398,
+    "('Open', 'TATACONSUM.BO')":957.9012638568,
+    "('Volume', 'TATACONSUM.BO')":18514
+  },
+  {
+    "('Date', '')":"2025-03-07",
+    "('Close', 'TATACONSUM.BO')":954.9729003906,
+    "('High', 'TATACONSUM.BO')":962.864430261,
+    "('Low', 'TATACONSUM.BO')":944.0041991528,
+    "('Open', 'TATACONSUM.BO')":950.9527053506,
+    "('Volume', 'TATACONSUM.BO')":9592
+  },
+  {
+    "('Date', '')":"2025-03-10",
+    "('Close', 'TATACONSUM.BO')":949.9600830078,
+    "('High', 'TATACONSUM.BO')":962.4673702111,
+    "('Low', 'TATACONSUM.BO')":946.4858298307,
+    "('Open', 'TATACONSUM.BO')":950.158623878,
+    "('Volume', 'TATACONSUM.BO')":22797
+  },
+  {
+    "('Date', '')":"2025-03-11",
+    "('Close', 'TATACONSUM.BO')":953.1365356445,
+    "('High', 'TATACONSUM.BO')":954.1787994591,
+    "('Low', 'TATACONSUM.BO')":935.8645102547,
+    "('Open', 'TATACONSUM.BO')":946.0391086365,
+    "('Volume', 'TATACONSUM.BO')":25363
+  },
+  {
+    "('Date', '')":"2025-03-12",
+    "('Close', 'TATACONSUM.BO')":938.2965087891,
+    "('High', 'TATACONSUM.BO')":953.5832468404,
+    "('Low', 'TATACONSUM.BO')":936.8075431576,
+    "('Open', 'TATACONSUM.BO')":949.0666692892,
+    "('Volume', 'TATACONSUM.BO')":27476
+  },
+  {
+    "('Date', '')":"2025-03-13",
+    "('Close', 'TATACONSUM.BO')":939.2395629883,
+    "('High', 'TATACONSUM.BO')":947.974816193,
+    "('Low', 'TATACONSUM.BO')":934.0778031808,
+    "('Open', 'TATACONSUM.BO')":939.3388031325,
+    "('Volume', 'TATACONSUM.BO')":9237
+  },
+  {
+    "('Date', '')":"2025-03-17",
+    "('Close', 'TATACONSUM.BO')":933.184387207,
+    "('High', 'TATACONSUM.BO')":948.9674474397,
+    "('Low', 'TATACONSUM.BO')":927.1292844233,
+    "('Open', 'TATACONSUM.BO')":935.3682156259,
+    "('Volume', 'TATACONSUM.BO')":23576
+  },
+  {
+    "('Date', '')":"2025-03-18",
+    "('Close', 'TATACONSUM.BO')":940.5299682617,
+    "('High', 'TATACONSUM.BO')":943.2101185471,
+    "('Low', 'TATACONSUM.BO')":932.1917363931,
+    "('Open', 'TATACONSUM.BO')":933.134760088,
+    "('Volume', 'TATACONSUM.BO')":16023
+  },
+  {
+    "('Date', '')":"2025-03-19",
+    "('Close', 'TATACONSUM.BO')":943.4086914062,
+    "('High', 'TATACONSUM.BO')":952.6402666256,
+    "('Low', 'TATACONSUM.BO')":938.892113649,
+    "('Open', 'TATACONSUM.BO')":942.9619895792,
+    "('Volume', 'TATACONSUM.BO')":29130
+  },
+  {
+    "('Date', '')":"2025-03-20",
+    "('Close', 'TATACONSUM.BO')":958.3479614258,
+    "('High', 'TATACONSUM.BO')":960.4821092276,
+    "('Low', 'TATACONSUM.BO')":943.9050063646,
+    "('Open', 'TATACONSUM.BO')":944.9968903017,
+    "('Volume', 'TATACONSUM.BO')":53625
+  },
+  {
+    "('Date', '')":"2025-03-21",
+    "('Close', 'TATACONSUM.BO')":952.6898803711,
+    "('High', 'TATACONSUM.BO')":964.2542047945,
+    "('Low', 'TATACONSUM.BO')":950.0593500851,
+    "('Open', 'TATACONSUM.BO')":960.7799515188,
+    "('Volume', 'TATACONSUM.BO')":22899
+  },
+  {
+    "('Date', '')":"2025-03-24",
+    "('Close', 'TATACONSUM.BO')":964.4526367188,
+    "('High', 'TATACONSUM.BO')":968.2247314121,
+    "('Low', 'TATACONSUM.BO')":949.9600623016,
+    "('Open', 'TATACONSUM.BO')":963.8074546373,
+    "('Volume', 'TATACONSUM.BO')":90391
+  },
+  {
+    "('Date', '')":"2025-03-25",
+    "('Close', 'TATACONSUM.BO')":962.4674072266,
+    "('High', 'TATACONSUM.BO')":972.790927013,
+    "('Low', 'TATACONSUM.BO')":951.399465174,
+    "('Open', 'TATACONSUM.BO')":972.790927013,
+    "('Volume', 'TATACONSUM.BO')":112453
+  },
+  {
+    "('Date', '')":"2025-03-26",
+    "('Close', 'TATACONSUM.BO')":952.2431640625,
+    "('High', 'TATACONSUM.BO')":970.8056148272,
+    "('Low', 'TATACONSUM.BO')":950.4564173794,
+    "('Open', 'TATACONSUM.BO')":964.8993722313,
+    "('Volume', 'TATACONSUM.BO')":24123
+  },
+  {
+    "('Date', '')":"2025-03-27",
+    "('Close', 'TATACONSUM.BO')":966.0409545898,
+    "('High', 'TATACONSUM.BO')":971.3515746651,
+    "('Low', 'TATACONSUM.BO')":946.5850998324,
+    "('Open', 'TATACONSUM.BO')":971.1034137161,
+    "('Volume', 'TATACONSUM.BO')":32984
+  },
+  {
+    "('Date', '')":"2025-03-28",
+    "('Close', 'TATACONSUM.BO')":994.3809204102,
+    "('High', 'TATACONSUM.BO')":1007.4342105327,
+    "('Low', 'TATACONSUM.BO')":967.8276989268,
+    "('Open', 'TATACONSUM.BO')":967.8276989268,
+    "('Volume', 'TATACONSUM.BO')":51077
+  },
+  {
+    "('Date', '')":"2025-04-01",
+    "('Close', 'TATACONSUM.BO')":984.6033935547,
+    "('High', 'TATACONSUM.BO')":1006.987498766,
+    "('Low', 'TATACONSUM.BO')":981.8239424906,
+    "('Open', 'TATACONSUM.BO')":992.8919449164,
+    "('Volume', 'TATACONSUM.BO')":17363
+  },
+  {
+    "('Date', '')":"2025-04-02",
+    "('Close', 'TATACONSUM.BO')":1054.7336425781,
+    "('High', 'TATACONSUM.BO')":1065.6527235957,
+    "('Low', 'TATACONSUM.BO')":1002.6197862264,
+    "('Open', 'TATACONSUM.BO')":1002.6197862264,
+    "('Volume', 'TATACONSUM.BO')":318663
+  },
+  {
+    "('Date', '')":"2025-04-03",
+    "('Close', 'TATACONSUM.BO')":1063.6177978516,
+    "('High', 'TATACONSUM.BO')":1067.78685321,
+    "('Low', 'TATACONSUM.BO')":1040.4395900937,
+    "('Open', 'TATACONSUM.BO')":1042.2759568307,
+    "('Volume', 'TATACONSUM.BO')":54903
+  },
+  {
+    "('Date', '')":"2025-04-04",
+    "('Close', 'TATACONSUM.BO')":1079.7979736328,
+    "('High', 'TATACONSUM.BO')":1088.0368444658,
+    "('Low', 'TATACONSUM.BO')":1053.8403140398,
+    "('Open', 'TATACONSUM.BO')":1061.9799447273,
+    "('Volume', 'TATACONSUM.BO')":186470
+  },
+  {
+    "('Date', '')":"2025-04-07",
+    "('Close', 'TATACONSUM.BO')":1040.1417236328,
+    "('High', 'TATACONSUM.BO')":1068.5809911525,
+    "('Low', 'TATACONSUM.BO')":1027.0884341557,
+    "('Open', 'TATACONSUM.BO')":1042.2262512622,
+    "('Volume', 'TATACONSUM.BO')":103567
+  },
+  {
+    "('Date', '')":"2025-04-08",
+    "('Close', 'TATACONSUM.BO')":1061.3843994141,
+    "('High', 'TATACONSUM.BO')":1065.6031356287,
+    "('Low', 'TATACONSUM.BO')":1036.8661456473,
+    "('Open', 'TATACONSUM.BO')":1047.288905707,
+    "('Volume', 'TATACONSUM.BO')":43439
+  },
+  {
+    "('Date', '')":"2025-04-09",
+    "('Close', 'TATACONSUM.BO')":1082.2795410156,
+    "('High', 'TATACONSUM.BO')":1084.9596307012,
+    "('Low', 'TATACONSUM.BO')":1053.7410328888,
+    "('Open', 'TATACONSUM.BO')":1061.2354205804,
+    "('Volume', 'TATACONSUM.BO')":36045
+  },
+  {
+    "('Date', '')":"2025-04-11",
+    "('Close', 'TATACONSUM.BO')":1089.5257568359,
+    "('High', 'TATACONSUM.BO')":1116.7242198471,
+    "('Low', 'TATACONSUM.BO')":1085.9522635669,
+    "('Open', 'TATACONSUM.BO')":1097.2684265625,
+    "('Volume', 'TATACONSUM.BO')":68860
+  },
+  {
+    "('Date', '')":"2025-04-15",
+    "('Close', 'TATACONSUM.BO')":1095.4321289062,
+    "('High', 'TATACONSUM.BO')":1111.314429923,
+    "('Low', 'TATACONSUM.BO')":1086.0515721648,
+    "('Open', 'TATACONSUM.BO')":1111.314429923,
+    "('Volume', 'TATACONSUM.BO')":24603
+  },
+  {
+    "('Date', '')":"2025-04-16",
+    "('Close', 'TATACONSUM.BO')":1097.4173583984,
+    "('High', 'TATACONSUM.BO')":1100.3456090243,
+    "('Low', 'TATACONSUM.BO')":1077.9118842611,
+    "('Open', 'TATACONSUM.BO')":1096.821675204,
+    "('Volume', 'TATACONSUM.BO')":31001
+  },
+  {
+    "('Date', '')":"2025-04-17",
+    "('Close', 'TATACONSUM.BO')":1111.8106689453,
+    "('High', 'TATACONSUM.BO')":1125.1616787732,
+    "('Low', 'TATACONSUM.BO')":1087.0938155962,
+    "('Open', 'TATACONSUM.BO')":1098.4099784615,
+    "('Volume', 'TATACONSUM.BO')":44685
+  },
+  {
+    "('Date', '')":"2025-04-21",
+    "('Close', 'TATACONSUM.BO')":1112.8033447266,
+    "('High', 'TATACONSUM.BO')":1120.6948142142,
+    "('Low', 'TATACONSUM.BO')":1094.5386751586,
+    "('Open', 'TATACONSUM.BO')":1111.264698417,
+    "('Volume', 'TATACONSUM.BO')":20898
+  },
+  {
+    "('Date', '')":"2025-04-22",
+    "('Close', 'TATACONSUM.BO')":1127.7425537109,
+    "('High', 'TATACONSUM.BO')":1140.249840877,
+    "('Low', 'TATACONSUM.BO')":1108.932002891,
+    "('Open', 'TATACONSUM.BO')":1118.3124379725,
+    "('Volume', 'TATACONSUM.BO')":71363
+  },
+  {
+    "('Date', '')":"2025-04-23",
+    "('Close', 'TATACONSUM.BO')":1142.4337158203,
+    "('High', 'TATACONSUM.BO')":1147.4961747096,
+    "('Low', 'TATACONSUM.BO')":1124.0201257935,
+    "('Open', 'TATACONSUM.BO')":1133.8473231505,
+    "('Volume', 'TATACONSUM.BO')":49372
+  },
+  {
+    "('Date', '')":"2025-04-24",
+    "('Close', 'TATACONSUM.BO')":1151.9134521484,
+    "('High', 'TATACONSUM.BO')":1160.1027635191,
+    "('Low', 'TATACONSUM.BO')":1090.5184571979,
+    "('Open', 'TATACONSUM.BO')":1151.4668109062,
+    "('Volume', 'TATACONSUM.BO')":264174
+  },
+  {
+    "('Date', '')":"2025-04-25",
+    "('Close', 'TATACONSUM.BO')":1146.6524658203,
+    "('High', 'TATACONSUM.BO')":1156.3307424991,
+    "('Low', 'TATACONSUM.BO')":1123.0771764746,
+    "('Open', 'TATACONSUM.BO')":1148.2406716049,
+    "('Volume', 'TATACONSUM.BO')":46524
+  },
+  {
+    "('Date', '')":"2025-04-28",
+    "('Close', 'TATACONSUM.BO')":1148.1414794922,
+    "('High', 'TATACONSUM.BO')":1153.4024189471,
+    "('Low', 'TATACONSUM.BO')":1125.6580731096,
+    "('Open', 'TATACONSUM.BO')":1125.6580731096,
+    "('Volume', 'TATACONSUM.BO')":23430
+  },
+  {
+    "('Date', '')":"2025-04-29",
+    "('Close', 'TATACONSUM.BO')":1160.5494384766,
+    "('High', 'TATACONSUM.BO')":1165.3140556661,
+    "('Low', 'TATACONSUM.BO')":1128.1395965326,
+    "('Open', 'TATACONSUM.BO')":1128.1395965326,
+    "('Volume', 'TATACONSUM.BO')":121737
+  },
+  {
+    "('Date', '')":"2025-04-30",
+    "('Close', 'TATACONSUM.BO')":1155.4870605469,
+    "('High', 'TATACONSUM.BO')":1171.3196806426,
+    "('Low', 'TATACONSUM.BO')":1146.5035857137,
+    "('Open', 'TATACONSUM.BO')":1161.6414036203,
+    "('Volume', 'TATACONSUM.BO')":57742
+  },
+  {
+    "('Date', '')":"2025-05-02",
+    "('Close', 'TATACONSUM.BO')":1150.0274658203,
+    "('High', 'TATACONSUM.BO')":1167.547531082,
+    "('Low', 'TATACONSUM.BO')":1142.7811179714,
+    "('Open', 'TATACONSUM.BO')":1144.0219226598,
+    "('Volume', 'TATACONSUM.BO')":18702
+  },
+  {
+    "('Date', '')":"2025-05-05",
+    "('Close', 'TATACONSUM.BO')":1153.0549316406,
+    "('High', 'TATACONSUM.BO')":1165.0658965299,
+    "('Low', 'TATACONSUM.BO')":1141.540288616,
+    "('Open', 'TATACONSUM.BO')":1141.540288616,
+    "('Volume', 'TATACONSUM.BO')":97654
+  },
+  {
+    "('Date', '')":"2025-05-06",
+    "('Close', 'TATACONSUM.BO')":1146.3050537109,
+    "('High', 'TATACONSUM.BO')":1164.7185226141,
+    "('Low', 'TATACONSUM.BO')":1143.9226844708,
+    "('Open', 'TATACONSUM.BO')":1147.6450985422,
+    "('Volume', 'TATACONSUM.BO')":44371
+  },
+  {
+    "('Date', '')":"2025-05-07",
+    "('Close', 'TATACONSUM.BO')":1137.6689453125,
+    "('High', 'TATACONSUM.BO')":1152.5586011394,
+    "('Low', 'TATACONSUM.BO')":1107.4925519355,
+    "('Open', 'TATACONSUM.BO')":1107.4925519355,
+    "('Volume', 'TATACONSUM.BO')":19808
+  },
+  {
+    "('Date', '')":"2025-05-08",
+    "('Close', 'TATACONSUM.BO')":1106.8970947266,
+    "('High', 'TATACONSUM.BO')":1136.5771690524,
+    "('Low', 'TATACONSUM.BO')":1098.906384713,
+    "('Open', 'TATACONSUM.BO')":1136.5771690524,
+    "('Volume', 'TATACONSUM.BO')":48948
+  },
+  {
+    "('Date', '')":"2025-05-09",
+    "('Close', 'TATACONSUM.BO')":1105.6066894531,
+    "('High', 'TATACONSUM.BO')":1109.7757448557,
+    "('Low', 'TATACONSUM.BO')":1074.4376505599,
+    "('Open', 'TATACONSUM.BO')":1074.4376505599,
+    "('Volume', 'TATACONSUM.BO')":17482
+  },
+  {
+    "('Date', '')":"2025-05-12",
+    "('Close', 'TATACONSUM.BO')":1136.4779052734,
+    "('High', 'TATACONSUM.BO')":1146.354662566,
+    "('Low', 'TATACONSUM.BO')":1113.7960187893,
+    "('Open', 'TATACONSUM.BO')":1115.5331454308,
+    "('Volume', 'TATACONSUM.BO')":41991
+  },
+  {
+    "('Date', '')":"2025-05-13",
+    "('Close', 'TATACONSUM.BO')":1110.2224121094,
+    "('High', 'TATACONSUM.BO')":1140.5974093948,
+    "('Low', 'TATACONSUM.BO')":1107.9394040677,
+    "('Open', 'TATACONSUM.BO')":1140.1506469804,
+    "('Volume', 'TATACONSUM.BO')":181998
+  },
+  {
+    "('Date', '')":"2025-05-14",
+    "('Close', 'TATACONSUM.BO')":1111.8106689453,
+    "('High', 'TATACONSUM.BO')":1120.8932622243,
+    "('Low', 'TATACONSUM.BO')":1107.7904133312,
+    "('Open', 'TATACONSUM.BO')":1110.4705029591,
+    "('Volume', 'TATACONSUM.BO')":172308
+  },
+  {
+    "('Date', '')":"2025-05-15",
+    "('Close', 'TATACONSUM.BO')":1138.2149658203,
+    "('High', 'TATACONSUM.BO')":1150.4740917438,
+    "('Low', 'TATACONSUM.BO')":1097.6654933786,
+    "('Open', 'TATACONSUM.BO')":1111.8106666377,
+    "('Volume', 'TATACONSUM.BO')":36012
+  },
+  {
+    "('Date', '')":"2025-05-16",
+    "('Close', 'TATACONSUM.BO')":1154.0972900391,
+    "('High', 'TATACONSUM.BO')":1165.2148516652,
+    "('Low', 'TATACONSUM.BO')":1136.5274228104,
+    "('Open', 'TATACONSUM.BO')":1138.9594727221,
+    "('Volume', 'TATACONSUM.BO')":43538
+  },
+  {
+    "('Date', '')":"2025-05-19",
+    "('Close', 'TATACONSUM.BO')":1140.5477294922,
+    "('High', 'TATACONSUM.BO')":1160.4006055495,
+    "('Low', 'TATACONSUM.BO')":1134.0458641145,
+    "('Open', 'TATACONSUM.BO')":1154.5936635372,
+    "('Volume', 'TATACONSUM.BO')":16454
+  },
+  {
+    "('Date', '')":"2025-05-20",
+    "('Close', 'TATACONSUM.BO')":1120.2481689453,
+    "('High', 'TATACONSUM.BO')":1147.248030872,
+    "('Low', 'TATACONSUM.BO')":1118.4613617002,
+    "('Open', 'TATACONSUM.BO')":1140.5476854613,
+    "('Volume', 'TATACONSUM.BO')":11191
+  },
+  {
+    "('Date', '')":"2025-05-21",
+    "('Close', 'TATACONSUM.BO')":1129.6783447266,
+    "('High', 'TATACONSUM.BO')":1145.5109651433,
+    "('Low', 'TATACONSUM.BO')":1115.285009376,
+    "('Open', 'TATACONSUM.BO')":1119.9007061885,
+    "('Volume', 'TATACONSUM.BO')":107959
+  },
+  {
+    "('Date', '')":"2025-05-22",
+    "('Close', 'TATACONSUM.BO')":1118.3621826172,
+    "('High', 'TATACONSUM.BO')":1128.8345022015,
+    "('Low', 'TATACONSUM.BO')":1108.6839053845,
+    "('Open', 'TATACONSUM.BO')":1119.2059056286,
+    "('Volume', 'TATACONSUM.BO')":42197
+  },
+  {
+    "('Date', '')":"2025-05-23",
+    "('Close', 'TATACONSUM.BO')":1132.3087158203,
+    "('High', 'TATACONSUM.BO')":1142.5329952634,
+    "('Low', 'TATACONSUM.BO')":1115.930093386,
+    "('Open', 'TATACONSUM.BO')":1118.36214336,
+    "('Volume', 'TATACONSUM.BO')":11480
+  },
+  {
+    "('Date', '')":"2025-05-26",
+    "('Close', 'TATACONSUM.BO')":1137.4705810547,
+    "('High', 'TATACONSUM.BO')":1145.2628108311,
+    "('Low', 'TATACONSUM.BO')":1130.6213144413,
+    "('Open', 'TATACONSUM.BO')":1132.3087604715,
+    "('Volume', 'TATACONSUM.BO')":15969
+  },
+  {
+    "('Date', '')":"2025-05-27",
+    "('Close', 'TATACONSUM.BO')":1129.1323242188,
+    "('High', 'TATACONSUM.BO')":1140.9448096912,
+    "('Low', 'TATACONSUM.BO')":1119.106646058,
+    "('Open', 'TATACONSUM.BO')":1140.9448096912,
+    "('Volume', 'TATACONSUM.BO')":13782
+  },
+  {
+    "('Date', '')":"2025-05-28",
+    "('Close', 'TATACONSUM.BO')":1113.25,
+    "('High', 'TATACONSUM.BO')":1131.0679073937,
+    "('Low', 'TATACONSUM.BO')":1111.2647124387,
+    "('Open', 'TATACONSUM.BO')":1127.8418151066,
+    "('Volume', 'TATACONSUM.BO')":24660
+  },
+  {
+    "('Date', '')":"2025-05-29",
+    "('Close', 'TATACONSUM.BO')":1109.8000488281,
+    "('High', 'TATACONSUM.BO')":1124.9499511719,
+    "('Low', 'TATACONSUM.BO')":1099.0,
+    "('Open', 'TATACONSUM.BO')":1124.9499511719,
+    "('Volume', 'TATACONSUM.BO')":42198
+  },
+  {
+    "('Date', '')":"2025-05-30",
+    "('Close', 'TATACONSUM.BO')":1108.0,
+    "('High', 'TATACONSUM.BO')":1119.0,
+    "('Low', 'TATACONSUM.BO')":1103.3000488281,
+    "('Open', 'TATACONSUM.BO')":1103.3000488281,
+    "('Volume', 'TATACONSUM.BO')":15513
+  },
+  {
+    "('Date', '')":"2025-06-02",
+    "('Close', 'TATACONSUM.BO')":1119.9499511719,
+    "('High', 'TATACONSUM.BO')":1125.0,
+    "('Low', 'TATACONSUM.BO')":1093.25,
+    "('Open', 'TATACONSUM.BO')":1093.25,
+    "('Volume', 'TATACONSUM.BO')":37817
+  },
+  {
+    "('Date', '')":"2025-06-03",
+    "('Close', 'TATACONSUM.BO')":1114.4000244141,
+    "('High', 'TATACONSUM.BO')":1123.0999755859,
+    "('Low', 'TATACONSUM.BO')":1109.1999511719,
+    "('Open', 'TATACONSUM.BO')":1109.1999511719,
+    "('Volume', 'TATACONSUM.BO')":9221
+  },
+  {
+    "('Date', '')":"2025-06-04",
+    "('Close', 'TATACONSUM.BO')":1123.5999755859,
+    "('High', 'TATACONSUM.BO')":1125.8000488281,
+    "('Low', 'TATACONSUM.BO')":1112.1500244141,
+    "('Open', 'TATACONSUM.BO')":1112.1500244141,
+    "('Volume', 'TATACONSUM.BO')":20125
+  },
+  {
+    "('Date', '')":"2025-06-05",
+    "('Close', 'TATACONSUM.BO')":1111.1999511719,
+    "('High', 'TATACONSUM.BO')":1133.1999511719,
+    "('Low', 'TATACONSUM.BO')":1109.0,
+    "('Open', 'TATACONSUM.BO')":1133.1999511719,
+    "('Volume', 'TATACONSUM.BO')":16965
+  },
+  {
+    "('Date', '')":"2025-06-06",
+    "('Close', 'TATACONSUM.BO')":1115.6500244141,
+    "('High', 'TATACONSUM.BO')":1123.0,
+    "('Low', 'TATACONSUM.BO')":1109.9499511719,
+    "('Open', 'TATACONSUM.BO')":1111.1999511719,
+    "('Volume', 'TATACONSUM.BO')":28933
+  },
+  {
+    "('Date', '')":"2025-06-09",
+    "('Close', 'TATACONSUM.BO')":1120.8499755859,
+    "('High', 'TATACONSUM.BO')":1122.6999511719,
+    "('Low', 'TATACONSUM.BO')":1110.0,
+    "('Open', 'TATACONSUM.BO')":1115.0,
+    "('Volume', 'TATACONSUM.BO')":29173
+  },
+  {
+    "('Date', '')":"2025-06-10",
+    "('Close', 'TATACONSUM.BO')":1115.0999755859,
+    "('High', 'TATACONSUM.BO')":1127.1999511719,
+    "('Low', 'TATACONSUM.BO')":1113.0500488281,
+    "('Open', 'TATACONSUM.BO')":1122.0500488281,
+    "('Volume', 'TATACONSUM.BO')":11447
+  },
+  {
+    "('Date', '')":"2025-06-11",
+    "('Close', 'TATACONSUM.BO')":1103.4000244141,
+    "('High', 'TATACONSUM.BO')":1118.9499511719,
+    "('Low', 'TATACONSUM.BO')":1101.9000244141,
+    "('Open', 'TATACONSUM.BO')":1118.8000488281,
+    "('Volume', 'TATACONSUM.BO')":12128
+  },
+  {
+    "('Date', '')":"2025-06-12",
+    "('Close', 'TATACONSUM.BO')":1084.0999755859,
+    "('High', 'TATACONSUM.BO')":1107.4499511719,
+    "('Low', 'TATACONSUM.BO')":1080.0,
+    "('Open', 'TATACONSUM.BO')":1100.8000488281,
+    "('Volume', 'TATACONSUM.BO')":16293
+  },
+  {
+    "('Date', '')":"2025-06-13",
+    "('Close', 'TATACONSUM.BO')":1078.4499511719,
+    "('High', 'TATACONSUM.BO')":1081.0,
+    "('Low', 'TATACONSUM.BO')":1067.6500244141,
+    "('Open', 'TATACONSUM.BO')":1077.8499755859,
+    "('Volume', 'TATACONSUM.BO')":11118
+  },
+  {
+    "('Date', '')":"2025-06-16",
+    "('Close', 'TATACONSUM.BO')":1083.1500244141,
+    "('High', 'TATACONSUM.BO')":1084.9499511719,
+    "('Low', 'TATACONSUM.BO')":1070.5500488281,
+    "('Open', 'TATACONSUM.BO')":1070.5500488281,
+    "('Volume', 'TATACONSUM.BO')":18272
+  },
+  {
+    "('Date', '')":"2025-06-17",
+    "('Close', 'TATACONSUM.BO')":1070.8499755859,
+    "('High', 'TATACONSUM.BO')":1090.1999511719,
+    "('Low', 'TATACONSUM.BO')":1065.1500244141,
+    "('Open', 'TATACONSUM.BO')":1084.5,
+    "('Volume', 'TATACONSUM.BO')":11169
+  },
+  {
+    "('Date', '')":"2025-06-18",
+    "('Close', 'TATACONSUM.BO')":1064.5,
+    "('High', 'TATACONSUM.BO')":1075.3000488281,
+    "('Low', 'TATACONSUM.BO')":1055.8499755859,
+    "('Open', 'TATACONSUM.BO')":1068.0,
+    "('Volume', 'TATACONSUM.BO')":18742
+  },
+  {
+    "('Date', '')":"2025-06-19",
+    "('Close', 'TATACONSUM.BO')":1088.0,
+    "('High', 'TATACONSUM.BO')":1091.0999755859,
+    "('Low', 'TATACONSUM.BO')":1062.25,
+    "('Open', 'TATACONSUM.BO')":1067.5,
+    "('Volume', 'TATACONSUM.BO')":145314
+  },
+  {
+    "('Date', '')":"2025-06-20",
+    "('Close', 'TATACONSUM.BO')":1099.8000488281,
+    "('High', 'TATACONSUM.BO')":1103.4499511719,
+    "('Low', 'TATACONSUM.BO')":1082.1999511719,
+    "('Open', 'TATACONSUM.BO')":1089.4499511719,
+    "('Volume', 'TATACONSUM.BO')":28515
+  },
+  {
+    "('Date', '')":"2025-06-23",
+    "('Close', 'TATACONSUM.BO')":1109.75,
+    "('High', 'TATACONSUM.BO')":1111.9000244141,
+    "('Low', 'TATACONSUM.BO')":1091.0,
+    "('Open', 'TATACONSUM.BO')":1098.9499511719,
+    "('Volume', 'TATACONSUM.BO')":22125
+  },
+  {
+    "('Date', '')":"2025-06-24",
+    "('Close', 'TATACONSUM.BO')":1108.0500488281,
+    "('High', 'TATACONSUM.BO')":1116.9000244141,
+    "('Low', 'TATACONSUM.BO')":1104.0500488281,
+    "('Open', 'TATACONSUM.BO')":1112.0,
+    "('Volume', 'TATACONSUM.BO')":55198
+  },
+  {
+    "('Date', '')":"2025-06-25",
+    "('Close', 'TATACONSUM.BO')":1126.3000488281,
+    "('High', 'TATACONSUM.BO')":1133.4499511719,
+    "('Low', 'TATACONSUM.BO')":1100.1999511719,
+    "('Open', 'TATACONSUM.BO')":1100.1999511719,
+    "('Volume', 'TATACONSUM.BO')":64834
+  },
+  {
+    "('Date', '')":"2025-06-26",
+    "('Close', 'TATACONSUM.BO')":1144.1999511719,
+    "('High', 'TATACONSUM.BO')":1150.0,
+    "('Low', 'TATACONSUM.BO')":1119.1500244141,
+    "('Open', 'TATACONSUM.BO')":1126.3000488281,
+    "('Volume', 'TATACONSUM.BO')":43657
+  },
+  {
+    "('Date', '')":"2025-06-27",
+    "('Close', 'TATACONSUM.BO')":1122.9000244141,
+    "('High', 'TATACONSUM.BO')":1147.5999755859,
+    "('Low', 'TATACONSUM.BO')":1120.0,
+    "('Open', 'TATACONSUM.BO')":1135.0500488281,
+    "('Volume', 'TATACONSUM.BO')":11994
+  },
+  {
+    "('Date', '')":"2025-06-30",
+    "('Close', 'TATACONSUM.BO')":1099.1999511719,
+    "('High', 'TATACONSUM.BO')":1124.4499511719,
+    "('Low', 'TATACONSUM.BO')":1090.0,
+    "('Open', 'TATACONSUM.BO')":1121.4499511719,
+    "('Volume', 'TATACONSUM.BO')":42782
+  },
+  {
+    "('Date', '')":"2025-07-01",
+    "('Close', 'TATACONSUM.BO')":1095.4000244141,
+    "('High', 'TATACONSUM.BO')":1100.0,
+    "('Low', 'TATACONSUM.BO')":1086.0,
+    "('Open', 'TATACONSUM.BO')":1093.25,
+    "('Volume', 'TATACONSUM.BO')":29111
+  },
+  {
+    "('Date', '')":"2025-07-02",
+    "('Close', 'TATACONSUM.BO')":1095.8499755859,
+    "('High', 'TATACONSUM.BO')":1097.5,
+    "('Low', 'TATACONSUM.BO')":1084.75,
+    "('Open', 'TATACONSUM.BO')":1095.0,
+    "('Volume', 'TATACONSUM.BO')":20325
+  },
+  {
+    "('Date', '')":"2025-07-03",
+    "('Close', 'TATACONSUM.BO')":1088.8499755859,
+    "('High', 'TATACONSUM.BO')":1105.0,
+    "('Low', 'TATACONSUM.BO')":1086.3000488281,
+    "('Open', 'TATACONSUM.BO')":1091.75,
+    "('Volume', 'TATACONSUM.BO')":42761
+  },
+  {
+    "('Date', '')":"2025-07-04",
+    "('Close', 'TATACONSUM.BO')":1089.5999755859,
+    "('High', 'TATACONSUM.BO')":1094.3499755859,
+    "('Low', 'TATACONSUM.BO')":1082.0,
+    "('Open', 'TATACONSUM.BO')":1090.1999511719,
+    "('Volume', 'TATACONSUM.BO')":8520
+  },
+  {
+    "('Date', '')":"2025-07-07",
+    "('Close', 'TATACONSUM.BO')":1102.25,
+    "('High', 'TATACONSUM.BO')":1108.0,
+    "('Low', 'TATACONSUM.BO')":1086.75,
+    "('Open', 'TATACONSUM.BO')":1089.0,
+    "('Volume', 'TATACONSUM.BO')":24943
+  },
+  {
+    "('Date', '')":"2025-07-08",
+    "('Close', 'TATACONSUM.BO')":1098.9499511719,
+    "('High', 'TATACONSUM.BO')":1108.6999511719,
+    "('Low', 'TATACONSUM.BO')":1095.0,
+    "('Open', 'TATACONSUM.BO')":1105.1999511719,
+    "('Volume', 'TATACONSUM.BO')":22399
+  },
+  {
+    "('Date', '')":"2025-07-09",
+    "('Close', 'TATACONSUM.BO')":1097.4499511719,
+    "('High', 'TATACONSUM.BO')":1107.0,
+    "('Low', 'TATACONSUM.BO')":1092.0500488281,
+    "('Open', 'TATACONSUM.BO')":1097.75,
+    "('Volume', 'TATACONSUM.BO')":84462
+  },
+  {
+    "('Date', '')":"2025-07-10",
+    "('Close', 'TATACONSUM.BO')":1087.8499755859,
+    "('High', 'TATACONSUM.BO')":1102.6999511719,
+    "('Low', 'TATACONSUM.BO')":1081.8499755859,
+    "('Open', 'TATACONSUM.BO')":1101.9499511719,
+    "('Volume', 'TATACONSUM.BO')":6520
+  },
+  {
+    "('Date', '')":"2025-07-11",
+    "('Close', 'TATACONSUM.BO')":1076.9000244141,
+    "('High', 'TATACONSUM.BO')":1101.3000488281,
+    "('Low', 'TATACONSUM.BO')":1074.0999755859,
+    "('Open', 'TATACONSUM.BO')":1083.3000488281,
+    "('Volume', 'TATACONSUM.BO')":47346
+  },
+  {
+    "('Date', '')":"2025-07-14",
+    "('Close', 'TATACONSUM.BO')":1071.4000244141,
+    "('High', 'TATACONSUM.BO')":1083.25,
+    "('Low', 'TATACONSUM.BO')":1069.5500488281,
+    "('Open', 'TATACONSUM.BO')":1074.9499511719,
+    "('Volume', 'TATACONSUM.BO')":170119
+  },
+  {
+    "('Date', '')":"2025-07-15",
+    "('Close', 'TATACONSUM.BO')":1081.4000244141,
+    "('High', 'TATACONSUM.BO')":1085.0,
+    "('Low', 'TATACONSUM.BO')":1067.0999755859,
+    "('Open', 'TATACONSUM.BO')":1071.4000244141,
+    "('Volume', 'TATACONSUM.BO')":40252
+  },
+  {
+    "('Date', '')":"2025-07-16",
+    "('Close', 'TATACONSUM.BO')":1080.9000244141,
+    "('High', 'TATACONSUM.BO')":1087.5500488281,
+    "('Low', 'TATACONSUM.BO')":1068.6500244141,
+    "('Open', 'TATACONSUM.BO')":1085.0,
+    "('Volume', 'TATACONSUM.BO')":37315
+  },
+  {
+    "('Date', '')":"2025-07-17",
+    "('Close', 'TATACONSUM.BO')":1105.4000244141,
+    "('High', 'TATACONSUM.BO')":1109.5500488281,
+    "('Low', 'TATACONSUM.BO')":1079.3000488281,
+    "('Open', 'TATACONSUM.BO')":1081.0,
+    "('Volume', 'TATACONSUM.BO')":34419
+  },
+  {
+    "('Date', '')":"2025-07-18",
+    "('Close', 'TATACONSUM.BO')":1096.25,
+    "('High', 'TATACONSUM.BO')":1107.9000244141,
+    "('Low', 'TATACONSUM.BO')":1093.75,
+    "('Open', 'TATACONSUM.BO')":1107.9000244141,
+    "('Volume', 'TATACONSUM.BO')":24664
+  },
+  {
+    "('Date', '')":"2025-07-21",
+    "('Close', 'TATACONSUM.BO')":1090.3499755859,
+    "('High', 'TATACONSUM.BO')":1095.3000488281,
+    "('Low', 'TATACONSUM.BO')":1077.8499755859,
+    "('Open', 'TATACONSUM.BO')":1088.1500244141,
+    "('Volume', 'TATACONSUM.BO')":33873
+  },
+  {
+    "('Date', '')":"2025-07-22",
+    "('Close', 'TATACONSUM.BO')":1084.25,
+    "('High', 'TATACONSUM.BO')":1090.3499755859,
+    "('Low', 'TATACONSUM.BO')":1075.3499755859,
+    "('Open', 'TATACONSUM.BO')":1090.3499755859,
+    "('Volume', 'TATACONSUM.BO')":22485
+  },
+  {
+    "('Date', '')":"2025-07-23",
+    "('Close', 'TATACONSUM.BO')":1062.6500244141,
+    "('High', 'TATACONSUM.BO')":1086.0500488281,
+    "('Low', 'TATACONSUM.BO')":1051.4499511719,
+    "('Open', 'TATACONSUM.BO')":1084.3000488281,
+    "('Volume', 'TATACONSUM.BO')":51954
+  },
+  {
+    "('Date', '')":"2025-07-24",
+    "('Close', 'TATACONSUM.BO')":1073.6500244141,
+    "('High', 'TATACONSUM.BO')":1104.8000488281,
+    "('Low', 'TATACONSUM.BO')":1067.9000244141,
+    "('Open', 'TATACONSUM.BO')":1080.9000244141,
+    "('Volume', 'TATACONSUM.BO')":295600
+  },
+  {
+    "('Date', '')":"2025-07-25",
+    "('Close', 'TATACONSUM.BO')":1054.6500244141,
+    "('High', 'TATACONSUM.BO')":1078.5500488281,
+    "('Low', 'TATACONSUM.BO')":1050.0,
+    "('Open', 'TATACONSUM.BO')":1075.0,
+    "('Volume', 'TATACONSUM.BO')":34193
+  },
+  {
+    "('Date', '')":"2025-07-28",
+    "('Close', 'TATACONSUM.BO')":1059.1999511719,
+    "('High', 'TATACONSUM.BO')":1070.0,
+    "('Low', 'TATACONSUM.BO')":1045.0999755859,
+    "('Open', 'TATACONSUM.BO')":1050.0,
+    "('Volume', 'TATACONSUM.BO')":41057
+  },
+  {
+    "('Date', '')":"2025-07-29",
+    "('Close', 'TATACONSUM.BO')":1061.9000244141,
+    "('High', 'TATACONSUM.BO')":1075.1999511719,
+    "('Low', 'TATACONSUM.BO')":1054.8499755859,
+    "('Open', 'TATACONSUM.BO')":1058.5500488281,
+    "('Volume', 'TATACONSUM.BO')":14336
+  },
+  {
+    "('Date', '')":"2025-07-30",
+    "('Close', 'TATACONSUM.BO')":1073.4499511719,
+    "('High', 'TATACONSUM.BO')":1083.0,
+    "('Low', 'TATACONSUM.BO')":1057.0,
+    "('Open', 'TATACONSUM.BO')":1058.0,
+    "('Volume', 'TATACONSUM.BO')":58224
+  },
+  {
+    "('Date', '')":"2025-07-31",
+    "('Close', 'TATACONSUM.BO')":1072.8499755859,
+    "('High', 'TATACONSUM.BO')":1079.6500244141,
+    "('Low', 'TATACONSUM.BO')":1056.3000488281,
+    "('Open', 'TATACONSUM.BO')":1069.9499511719,
+    "('Volume', 'TATACONSUM.BO')":31497
+  },
+  {
+    "('Date', '')":"2025-08-01",
+    "('Close', 'TATACONSUM.BO')":1070.0,
+    "('High', 'TATACONSUM.BO')":1088.8499755859,
+    "('Low', 'TATACONSUM.BO')":1067.3499755859,
+    "('Open', 'TATACONSUM.BO')":1072.0,
+    "('Volume', 'TATACONSUM.BO')":28091
+  },
+  {
+    "('Date', '')":"2025-08-04",
+    "('Close', 'TATACONSUM.BO')":1072.0,
+    "('High', 'TATACONSUM.BO')":1075.5500488281,
+    "('Low', 'TATACONSUM.BO')":1060.1999511719,
+    "('Open', 'TATACONSUM.BO')":1060.3499755859,
+    "('Volume', 'TATACONSUM.BO')":11844
+  },
+  {
+    "('Date', '')":"2025-08-05",
+    "('Close', 'TATACONSUM.BO')":1063.9499511719,
+    "('High', 'TATACONSUM.BO')":1070.0,
+    "('Low', 'TATACONSUM.BO')":1059.6500244141,
+    "('Open', 'TATACONSUM.BO')":1064.4499511719,
+    "('Volume', 'TATACONSUM.BO')":4924
+  },
+  {
+    "('Date', '')":"2025-08-06",
+    "('Close', 'TATACONSUM.BO')":1053.0500488281,
+    "('High', 'TATACONSUM.BO')":1066.8000488281,
+    "('Low', 'TATACONSUM.BO')":1051.1999511719,
+    "('Open', 'TATACONSUM.BO')":1053.0500488281,
+    "('Volume', 'TATACONSUM.BO')":13617
+  },
+  {
+    "('Date', '')":"2025-08-07",
+    "('Close', 'TATACONSUM.BO')":1052.8499755859,
+    "('High', 'TATACONSUM.BO')":1056.0,
+    "('Low', 'TATACONSUM.BO')":1039.0,
+    "('Open', 'TATACONSUM.BO')":1049.75,
+    "('Volume', 'TATACONSUM.BO')":21533
+  },
+  {
+    "('Date', '')":"2025-08-08",
+    "('Close', 'TATACONSUM.BO')":1049.5999755859,
+    "('High', 'TATACONSUM.BO')":1062.0,
+    "('Low', 'TATACONSUM.BO')":1043.5500488281,
+    "('Open', 'TATACONSUM.BO')":1045.25,
+    "('Volume', 'TATACONSUM.BO')":17920
+  },
+  {
+    "('Date', '')":"2025-08-11",
+    "('Close', 'TATACONSUM.BO')":1058.5,
+    "('High', 'TATACONSUM.BO')":1062.5500488281,
+    "('Low', 'TATACONSUM.BO')":1038.3499755859,
+    "('Open', 'TATACONSUM.BO')":1045.0999755859,
+    "('Volume', 'TATACONSUM.BO')":10499
+  },
+  {
+    "('Date', '')":"2025-08-12",
+    "('Close', 'TATACONSUM.BO')":1046.3499755859,
+    "('High', 'TATACONSUM.BO')":1062.8000488281,
+    "('Low', 'TATACONSUM.BO')":1045.0,
+    "('Open', 'TATACONSUM.BO')":1058.5,
+    "('Volume', 'TATACONSUM.BO')":7282
+  },
+  {
+    "('Date', '')":"2025-08-13",
+    "('Close', 'TATACONSUM.BO')":1056.5500488281,
+    "('High', 'TATACONSUM.BO')":1058.8000488281,
+    "('Low', 'TATACONSUM.BO')":1042.8000488281,
+    "('Open', 'TATACONSUM.BO')":1046.4000244141,
+    "('Volume', 'TATACONSUM.BO')":10193
+  },
+  {
+    "('Date', '')":"2025-08-14",
+    "('Close', 'TATACONSUM.BO')":1049.8000488281,
+    "('High', 'TATACONSUM.BO')":1058.0999755859,
+    "('Low', 'TATACONSUM.BO')":1045.3000488281,
+    "('Open', 'TATACONSUM.BO')":1055.9499511719,
+    "('Volume', 'TATACONSUM.BO')":12209
+  },
+  {
+    "('Date', '')":"2025-08-18",
+    "('Close', 'TATACONSUM.BO')":1072.1500244141,
+    "('High', 'TATACONSUM.BO')":1089.0,
+    "('Low', 'TATACONSUM.BO')":1060.1999511719,
+    "('Open', 'TATACONSUM.BO')":1062.8000488281,
+    "('Volume', 'TATACONSUM.BO')":28002
+  },
+  {
+    "('Date', '')":"2025-08-19",
+    "('Close', 'TATACONSUM.BO')":1086.9499511719,
+    "('High', 'TATACONSUM.BO')":1092.0,
+    "('Low', 'TATACONSUM.BO')":1068.75,
+    "('Open', 'TATACONSUM.BO')":1079.0,
+    "('Volume', 'TATACONSUM.BO')":56177
+  },
+  {
+    "('Date', '')":"2025-08-20",
+    "('Close', 'TATACONSUM.BO')":1105.5999755859,
+    "('High', 'TATACONSUM.BO')":1108.5,
+    "('Low', 'TATACONSUM.BO')":1079.0,
+    "('Open', 'TATACONSUM.BO')":1085.4499511719,
+    "('Volume', 'TATACONSUM.BO')":47379
+  },
+  {
+    "('Date', '')":"2025-08-21",
+    "('Close', 'TATACONSUM.BO')":1087.8499755859,
+    "('High', 'TATACONSUM.BO')":1105.0,
+    "('Low', 'TATACONSUM.BO')":1086.5500488281,
+    "('Open', 'TATACONSUM.BO')":1105.0,
+    "('Volume', 'TATACONSUM.BO')":23921
+  },
+  {
+    "('Date', '')":"2025-08-22",
+    "('Close', 'TATACONSUM.BO')":1083.5999755859,
+    "('High', 'TATACONSUM.BO')":1091.25,
+    "('Low', 'TATACONSUM.BO')":1080.1500244141,
+    "('Open', 'TATACONSUM.BO')":1091.1999511719,
+    "('Volume', 'TATACONSUM.BO')":8983
+  },
+  {
+    "('Date', '')":"2025-08-25",
+    "('Close', 'TATACONSUM.BO')":1081.1999511719,
+    "('High', 'TATACONSUM.BO')":1091.1999511719,
+    "('Low', 'TATACONSUM.BO')":1079.5999755859,
+    "('Open', 'TATACONSUM.BO')":1082.8000488281,
+    "('Volume', 'TATACONSUM.BO')":12355
+  },
+  {
+    "('Date', '')":"2025-08-26",
+    "('Close', 'TATACONSUM.BO')":1079.5,
+    "('High', 'TATACONSUM.BO')":1091.9499511719,
+    "('Low', 'TATACONSUM.BO')":1071.5999755859,
+    "('Open', 'TATACONSUM.BO')":1081.1999511719,
+    "('Volume', 'TATACONSUM.BO')":15487
+  },
+  {
+    "('Date', '')":"2025-08-28",
+    "('Close', 'TATACONSUM.BO')":1062.0999755859,
+    "('High', 'TATACONSUM.BO')":1085.0999755859,
+    "('Low', 'TATACONSUM.BO')":1060.0500488281,
+    "('Open', 'TATACONSUM.BO')":1079.5,
+    "('Volume', 'TATACONSUM.BO')":8518
+  },
+  {
+    "('Date', '')":"2025-08-29",
+    "('Close', 'TATACONSUM.BO')":1064.8499755859,
+    "('High', 'TATACONSUM.BO')":1077.9499511719,
+    "('Low', 'TATACONSUM.BO')":1056.5,
+    "('Open', 'TATACONSUM.BO')":1063.0999755859,
+    "('Volume', 'TATACONSUM.BO')":18523
+  },
+  {
+    "('Date', '')":"2025-09-01",
+    "('Close', 'TATACONSUM.BO')":1075.5500488281,
+    "('High', 'TATACONSUM.BO')":1076.9499511719,
+    "('Low', 'TATACONSUM.BO')":1057.0500488281,
+    "('Open', 'TATACONSUM.BO')":1060.0500488281,
+    "('Volume', 'TATACONSUM.BO')":28273
+  },
+  {
+    "('Date', '')":"2025-09-02",
+    "('Close', 'TATACONSUM.BO')":1099.6500244141,
+    "('High', 'TATACONSUM.BO')":1106.0,
+    "('Low', 'TATACONSUM.BO')":1073.0500488281,
+    "('Open', 'TATACONSUM.BO')":1073.0500488281,
+    "('Volume', 'TATACONSUM.BO')":75863
+  },
+  {
+    "('Date', '')":"2025-09-03",
+    "('Close', 'TATACONSUM.BO')":1104.5500488281,
+    "('High', 'TATACONSUM.BO')":1106.25,
+    "('Low', 'TATACONSUM.BO')":1087.0,
+    "('Open', 'TATACONSUM.BO')":1100.3499755859,
+    "('Volume', 'TATACONSUM.BO')":22022
+  },
+  {
+    "('Date', '')":"2025-09-04",
+    "('Close', 'TATACONSUM.BO')":1070.5,
+    "('High', 'TATACONSUM.BO')":1125.5500488281,
+    "('Low', 'TATACONSUM.BO')":1067.4499511719,
+    "('Open', 'TATACONSUM.BO')":1120.0500488281,
+    "('Volume', 'TATACONSUM.BO')":85166
+  },
+  {
+    "('Date', '')":"2025-09-05",
+    "('Close', 'TATACONSUM.BO')":1072.3499755859,
+    "('High', 'TATACONSUM.BO')":1077.3000488281,
+    "('Low', 'TATACONSUM.BO')":1061.25,
+    "('Open', 'TATACONSUM.BO')":1072.0999755859,
+    "('Volume', 'TATACONSUM.BO')":51219
+  },
+  {
+    "('Date', '')":"2025-09-08",
+    "('Close', 'TATACONSUM.BO')":1074.4499511719,
+    "('High', 'TATACONSUM.BO')":1080.8000488281,
+    "('Low', 'TATACONSUM.BO')":1069.1999511719,
+    "('Open', 'TATACONSUM.BO')":1072.5,
+    "('Volume', 'TATACONSUM.BO')":9562
+  },
+  {
+    "('Date', '')":"2025-09-09",
+    "('Close', 'TATACONSUM.BO')":1083.75,
+    "('High', 'TATACONSUM.BO')":1085.5,
+    "('Low', 'TATACONSUM.BO')":1067.75,
+    "('Open', 'TATACONSUM.BO')":1071.25,
+    "('Volume', 'TATACONSUM.BO')":21857
+  },
+  {
+    "('Date', '')":"2025-09-10",
+    "('Close', 'TATACONSUM.BO')":1100.5500488281,
+    "('High', 'TATACONSUM.BO')":1102.9499511719,
+    "('Low', 'TATACONSUM.BO')":1080.8000488281,
+    "('Open', 'TATACONSUM.BO')":1080.8499755859,
+    "('Volume', 'TATACONSUM.BO')":43965
+  },
+  {
+    "('Date', '')":"2025-09-11",
+    "('Close', 'TATACONSUM.BO')":1105.0500488281,
+    "('High', 'TATACONSUM.BO')":1107.9000244141,
+    "('Low', 'TATACONSUM.BO')":1095.0500488281,
+    "('Open', 'TATACONSUM.BO')":1095.0500488281,
+    "('Volume', 'TATACONSUM.BO')":45302
+  },
+  {
+    "('Date', '')":"2025-09-12",
+    "('Close', 'TATACONSUM.BO')":1103.0500488281,
+    "('High', 'TATACONSUM.BO')":1109.8499755859,
+    "('Low', 'TATACONSUM.BO')":1095.1500244141,
+    "('Open', 'TATACONSUM.BO')":1109.8499755859,
+    "('Volume', 'TATACONSUM.BO')":16280
+  },
+  {
+    "('Date', '')":"2025-09-15",
+    "('Close', 'TATACONSUM.BO')":1101.5,
+    "('High', 'TATACONSUM.BO')":1106.0999755859,
+    "('Low', 'TATACONSUM.BO')":1090.5500488281,
+    "('Open', 'TATACONSUM.BO')":1103.0500488281,
+    "('Volume', 'TATACONSUM.BO')":17327
+  },
+  {
+    "('Date', '')":"2025-09-16",
+    "('Close', 'TATACONSUM.BO')":1092.6500244141,
+    "('High', 'TATACONSUM.BO')":1103.5999755859,
+    "('Low', 'TATACONSUM.BO')":1087.8000488281,
+    "('Open', 'TATACONSUM.BO')":1100.3499755859,
+    "('Volume', 'TATACONSUM.BO')":19771
+  },
+  {
+    "('Date', '')":"2025-09-17",
+    "('Close', 'TATACONSUM.BO')":1136.1999511719,
+    "('High', 'TATACONSUM.BO')":1138.9499511719,
+    "('Low', 'TATACONSUM.BO')":1093.3000488281,
+    "('Open', 'TATACONSUM.BO')":1093.3000488281,
+    "('Volume', 'TATACONSUM.BO')":227328
+  },
+  {
+    "('Date', '')":"2025-09-18",
+    "('Close', 'TATACONSUM.BO')":1128.9499511719,
+    "('High', 'TATACONSUM.BO')":1143.0,
+    "('Low', 'TATACONSUM.BO')":1124.1999511719,
+    "('Open', 'TATACONSUM.BO')":1137.9499511719,
+    "('Volume', 'TATACONSUM.BO')":27302
+  },
+  {
+    "('Date', '')":"2025-09-19",
+    "('Close', 'TATACONSUM.BO')":1126.5500488281,
+    "('High', 'TATACONSUM.BO')":1132.3499755859,
+    "('Low', 'TATACONSUM.BO')":1115.0,
+    "('Open', 'TATACONSUM.BO')":1128.9499511719,
+    "('Volume', 'TATACONSUM.BO')":17273
+  },
+  {
+    "('Date', '')":"2025-09-22",
+    "('Close', 'TATACONSUM.BO')":1130.0999755859,
+    "('High', 'TATACONSUM.BO')":1137.0,
+    "('Low', 'TATACONSUM.BO')":1118.75,
+    "('Open', 'TATACONSUM.BO')":1118.75,
+    "('Volume', 'TATACONSUM.BO')":91104
+  },
+  {
+    "('Date', '')":"2025-09-23",
+    "('Close', 'TATACONSUM.BO')":1128.6500244141,
+    "('High', 'TATACONSUM.BO')":1134.0,
+    "('Low', 'TATACONSUM.BO')":1118.6500244141,
+    "('Open', 'TATACONSUM.BO')":1130.0999755859,
+    "('Volume', 'TATACONSUM.BO')":23555
+  },
+  {
+    "('Date', '')":"2025-09-24",
+    "('Close', 'TATACONSUM.BO')":1139.5,
+    "('High', 'TATACONSUM.BO')":1147.0,
+    "('Low', 'TATACONSUM.BO')":1114.3000488281,
+    "('Open', 'TATACONSUM.BO')":1114.3000488281,
+    "('Volume', 'TATACONSUM.BO')":69013
+  },
+  {
+    "('Date', '')":"2025-09-25",
+    "('Close', 'TATACONSUM.BO')":1133.9499511719,
+    "('High', 'TATACONSUM.BO')":1146.5500488281,
+    "('Low', 'TATACONSUM.BO')":1127.5,
+    "('Open', 'TATACONSUM.BO')":1145.1999511719,
+    "('Volume', 'TATACONSUM.BO')":18766
+  },
+  {
+    "('Date', '')":"2025-09-26",
+    "('Close', 'TATACONSUM.BO')":1118.9499511719,
+    "('High', 'TATACONSUM.BO')":1137.0,
+    "('Low', 'TATACONSUM.BO')":1116.9499511719,
+    "('Open', 'TATACONSUM.BO')":1131.1999511719,
+    "('Volume', 'TATACONSUM.BO')":10349
+  },
+  {
+    "('Date', '')":"2025-09-29",
+    "('Close', 'TATACONSUM.BO')":1124.4000244141,
+    "('High', 'TATACONSUM.BO')":1130.5,
+    "('Low', 'TATACONSUM.BO')":1103.5,
+    "('Open', 'TATACONSUM.BO')":1118.9499511719,
+    "('Volume', 'TATACONSUM.BO')":53455
+  },
+  {
+    "('Date', '')":"2025-09-30",
+    "('Close', 'TATACONSUM.BO')":1129.1500244141,
+    "('High', 'TATACONSUM.BO')":1132.25,
+    "('Low', 'TATACONSUM.BO')":1113.9000244141,
+    "('Open', 'TATACONSUM.BO')":1118.4000244141,
+    "('Volume', 'TATACONSUM.BO')":29955
+  },
+  {
+    "('Date', '')":"2025-10-01",
+    "('Close', 'TATACONSUM.BO')":1143.5500488281,
+    "('High', 'TATACONSUM.BO')":1149.0,
+    "('Low', 'TATACONSUM.BO')":1125.9000244141,
+    "('Open', 'TATACONSUM.BO')":1131.9499511719,
+    "('Volume', 'TATACONSUM.BO')":23374
+  },
+  {
+    "('Date', '')":"2025-10-03",
+    "('Close', 'TATACONSUM.BO')":1137.0,
+    "('High', 'TATACONSUM.BO')":1149.3499755859,
+    "('Low', 'TATACONSUM.BO')":1128.5500488281,
+    "('Open', 'TATACONSUM.BO')":1149.3499755859,
+    "('Volume', 'TATACONSUM.BO')":35801
+  },
+  {
+    "('Date', '')":"2025-10-06",
+    "('Close', 'TATACONSUM.BO')":1141.9499511719,
+    "('High', 'TATACONSUM.BO')":1151.25,
+    "('Low', 'TATACONSUM.BO')":1132.3000488281,
+    "('Open', 'TATACONSUM.BO')":1137.0,
+    "('Volume', 'TATACONSUM.BO')":27443
+  },
+  {
+    "('Date', '')":"2025-10-07",
+    "('Close', 'TATACONSUM.BO')":1120.5500488281,
+    "('High', 'TATACONSUM.BO')":1144.9499511719,
+    "('Low', 'TATACONSUM.BO')":1115.4499511719,
+    "('Open', 'TATACONSUM.BO')":1128.1500244141,
+    "('Volume', 'TATACONSUM.BO')":95443
+  },
+  {
+    "('Date', '')":"2025-10-08",
+    "('Close', 'TATACONSUM.BO')":1119.8499755859,
+    "('High', 'TATACONSUM.BO')":1126.0,
+    "('Low', 'TATACONSUM.BO')":1111.0,
+    "('Open', 'TATACONSUM.BO')":1111.0,
+    "('Volume', 'TATACONSUM.BO')":26960
+  },
+  {
+    "('Date', '')":"2025-10-09",
+    "('Close', 'TATACONSUM.BO')":1119.25,
+    "('High', 'TATACONSUM.BO')":1124.5,
+    "('Low', 'TATACONSUM.BO')":1111.75,
+    "('Open', 'TATACONSUM.BO')":1111.75,
+    "('Volume', 'TATACONSUM.BO')":8966
+  },
+  {
+    "('Date', '')":"2025-10-10",
+    "('Close', 'TATACONSUM.BO')":1126.0500488281,
+    "('High', 'TATACONSUM.BO')":1131.0,
+    "('Low', 'TATACONSUM.BO')":1108.0,
+    "('Open', 'TATACONSUM.BO')":1112.0500488281,
+    "('Volume', 'TATACONSUM.BO')":29896
+  },
+  {
+    "('Date', '')":"2025-10-13",
+    "('Close', 'TATACONSUM.BO')":1116.8499755859,
+    "('High', 'TATACONSUM.BO')":1131.0,
+    "('Low', 'TATACONSUM.BO')":1112.8499755859,
+    "('Open', 'TATACONSUM.BO')":1115.8499755859,
+    "('Volume', 'TATACONSUM.BO')":19569
+  },
+  {
+    "('Date', '')":"2025-10-14",
+    "('Close', 'TATACONSUM.BO')":1118.9000244141,
+    "('High', 'TATACONSUM.BO')":1124.0,
+    "('Low', 'TATACONSUM.BO')":1105.0999755859,
+    "('Open', 'TATACONSUM.BO')":1105.0999755859,
+    "('Volume', 'TATACONSUM.BO')":11230
+  },
+  {
+    "('Date', '')":"2025-10-15",
+    "('Close', 'TATACONSUM.BO')":1113.9000244141,
+    "('High', 'TATACONSUM.BO')":1122.1999511719,
+    "('Low', 'TATACONSUM.BO')":1112.5500488281,
+    "('Open', 'TATACONSUM.BO')":1115.0500488281,
+    "('Volume', 'TATACONSUM.BO')":36126
+  },
+  {
+    "('Date', '')":"2025-10-16",
+    "('Close', 'TATACONSUM.BO')":1149.3499755859,
+    "('High', 'TATACONSUM.BO')":1153.75,
+    "('Low', 'TATACONSUM.BO')":1108.9499511719,
+    "('Open', 'TATACONSUM.BO')":1110.25,
+    "('Volume', 'TATACONSUM.BO')":36727
+  },
+  {
+    "('Date', '')":"2025-10-17",
+    "('Close', 'TATACONSUM.BO')":1166.1999511719,
+    "('High', 'TATACONSUM.BO')":1173.0,
+    "('Low', 'TATACONSUM.BO')":1142.0500488281,
+    "('Open', 'TATACONSUM.BO')":1153.3000488281,
+    "('Volume', 'TATACONSUM.BO')":145373
+  },
+  {
+    "('Date', '')":"2025-10-20",
+    "('Close', 'TATACONSUM.BO')":1176.9000244141,
+    "('High', 'TATACONSUM.BO')":1186.1999511719,
+    "('Low', 'TATACONSUM.BO')":1163.5999755859,
+    "('Open', 'TATACONSUM.BO')":1166.3000488281,
+    "('Volume', 'TATACONSUM.BO')":61726
+  },
+  {
+    "('Date', '')":"2025-10-21",
+    "('Close', 'TATACONSUM.BO')":1174.5999755859,
+    "('High', 'TATACONSUM.BO')":1183.5500488281,
+    "('Low', 'TATACONSUM.BO')":1172.4499511719,
+    "('Open', 'TATACONSUM.BO')":1181.0,
+    "('Volume', 'TATACONSUM.BO')":20974
+  },
+  {
+    "('Date', '')":"2025-10-23",
+    "('Close', 'TATACONSUM.BO')":1162.0,
+    "('High', 'TATACONSUM.BO')":1191.25,
+    "('Low', 'TATACONSUM.BO')":1158.9000244141,
+    "('Open', 'TATACONSUM.BO')":1172.5500488281,
+    "('Volume', 'TATACONSUM.BO')":114218
+  },
+  {
+    "('Date', '')":"2025-10-24",
+    "('Close', 'TATACONSUM.BO')":1154.5,
+    "('High', 'TATACONSUM.BO')":1164.3499755859,
+    "('Low', 'TATACONSUM.BO')":1143.9000244141,
+    "('Open', 'TATACONSUM.BO')":1161.25,
+    "('Volume', 'TATACONSUM.BO')":24905
+  },
+  {
+    "('Date', '')":"2025-10-27",
+    "('Close', 'TATACONSUM.BO')":1170.0500488281,
+    "('High', 'TATACONSUM.BO')":1179.3000488281,
+    "('Low', 'TATACONSUM.BO')":1154.6500244141,
+    "('Open', 'TATACONSUM.BO')":1154.6500244141,
+    "('Volume', 'TATACONSUM.BO')":187263
+  },
+  {
+    "('Date', '')":"2025-10-28",
+    "('Close', 'TATACONSUM.BO')":1168.3499755859,
+    "('High', 'TATACONSUM.BO')":1176.1999511719,
+    "('Low', 'TATACONSUM.BO')":1158.0999755859,
+    "('Open', 'TATACONSUM.BO')":1165.4000244141,
+    "('Volume', 'TATACONSUM.BO')":22469
+  },
+  {
+    "('Date', '')":"2025-10-29",
+    "('Close', 'TATACONSUM.BO')":1177.0,
+    "('High', 'TATACONSUM.BO')":1187.5,
+    "('Low', 'TATACONSUM.BO')":1168.0,
+    "('Open', 'TATACONSUM.BO')":1169.0,
+    "('Volume', 'TATACONSUM.BO')":34936
+  },
+  {
+    "('Date', '')":"2025-10-30",
+    "('Close', 'TATACONSUM.BO')":1176.9499511719,
+    "('High', 'TATACONSUM.BO')":1185.0,
+    "('Low', 'TATACONSUM.BO')":1166.9000244141,
+    "('Open', 'TATACONSUM.BO')":1185.0,
+    "('Volume', 'TATACONSUM.BO')":11767
+  },
+  {
+    "('Date', '')":"2025-10-31",
+    "('Close', 'TATACONSUM.BO')":1165.0999755859,
+    "('High', 'TATACONSUM.BO')":1184.4000244141,
+    "('Low', 'TATACONSUM.BO')":1157.8499755859,
+    "('Open', 'TATACONSUM.BO')":1176.5,
+    "('Volume', 'TATACONSUM.BO')":24528
+  },
+  {
+    "('Date', '')":"2025-11-03",
+    "('Close', 'TATACONSUM.BO')":1199.5,
+    "('High', 'TATACONSUM.BO')":1202.75,
+    "('Low', 'TATACONSUM.BO')":1156.9000244141,
+    "('Open', 'TATACONSUM.BO')":1160.6500244141,
+    "('Volume', 'TATACONSUM.BO')":144875
+  },
+  {
+    "('Date', '')":"2025-11-04",
+    "('Close', 'TATACONSUM.BO')":1179.1999511719,
+    "('High', 'TATACONSUM.BO')":1201.9499511719,
+    "('Low', 'TATACONSUM.BO')":1143.5,
+    "('Open', 'TATACONSUM.BO')":1201.9000244141,
+    "('Volume', 'TATACONSUM.BO')":120615
+  },
+  {
+    "('Date', '')":"2025-11-06",
+    "('Close', 'TATACONSUM.BO')":1188.0500488281,
+    "('High', 'TATACONSUM.BO')":1192.9000244141,
+    "('Low', 'TATACONSUM.BO')":1170.9499511719,
+    "('Open', 'TATACONSUM.BO')":1174.9499511719,
+    "('Volume', 'TATACONSUM.BO')":61625
+  },
+  {
+    "('Date', '')":"2025-11-07",
+    "('Close', 'TATACONSUM.BO')":1165.5999755859,
+    "('High', 'TATACONSUM.BO')":1192.0,
+    "('Low', 'TATACONSUM.BO')":1155.8000488281,
+    "('Open', 'TATACONSUM.BO')":1192.0,
+    "('Volume', 'TATACONSUM.BO')":49143
+  },
+  {
+    "('Date', '')":"2025-11-10",
+    "('Close', 'TATACONSUM.BO')":1143.25,
+    "('High', 'TATACONSUM.BO')":1175.6500244141,
+    "('Low', 'TATACONSUM.BO')":1138.6500244141,
+    "('Open', 'TATACONSUM.BO')":1175.6500244141,
+    "('Volume', 'TATACONSUM.BO')":184776
+  },
+  {
+    "('Date', '')":"2025-11-11",
+    "('Close', 'TATACONSUM.BO')":1155.8000488281,
+    "('High', 'TATACONSUM.BO')":1168.75,
+    "('Low', 'TATACONSUM.BO')":1134.0,
+    "('Open', 'TATACONSUM.BO')":1168.75,
+    "('Volume', 'TATACONSUM.BO')":58591
+  },
+  {
+    "('Date', '')":"2025-11-12",
+    "('Close', 'TATACONSUM.BO')":1162.1999511719,
+    "('High', 'TATACONSUM.BO')":1165.5999755859,
+    "('Low', 'TATACONSUM.BO')":1152.5,
+    "('Open', 'TATACONSUM.BO')":1160.0,
+    "('Volume', 'TATACONSUM.BO')":87193
+  },
+  {
+    "('Date', '')":"2025-11-13",
+    "('Close', 'TATACONSUM.BO')":1155.25,
+    "('High', 'TATACONSUM.BO')":1166.1999511719,
+    "('Low', 'TATACONSUM.BO')":1148.0,
+    "('Open', 'TATACONSUM.BO')":1166.1999511719,
+    "('Volume', 'TATACONSUM.BO')":82759
+  }
+]

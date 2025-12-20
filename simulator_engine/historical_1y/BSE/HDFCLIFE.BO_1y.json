@@ -1,0 +1,1986 @@
+[
+  {
+    "('Date', '')":"2024-11-13",
+    "('Close', 'HDFCLIFE.BO')":683.2119140625,
+    "('High', 'HDFCLIFE.BO')":695.7772263438,
+    "('Low', 'HDFCLIFE.BO')":681.2174258464,
+    "('Open', 'HDFCLIFE.BO')":689.1455286787,
+    "('Volume', 'HDFCLIFE.BO')":61529
+  },
+  {
+    "('Date', '')":"2024-11-14",
+    "('Close', 'HDFCLIFE.BO')":692.2369995117,
+    "('High', 'HDFCLIFE.BO')":694.4308877848,
+    "('Low', 'HDFCLIFE.BO')":681.1177037206,
+    "('Open', 'HDFCLIFE.BO')":683.1121918721,
+    "('Volume', 'HDFCLIFE.BO')":45171
+  },
+  {
+    "('Date', '')":"2024-11-18",
+    "('Close', 'HDFCLIFE.BO')":688.1483154297,
+    "('High', 'HDFCLIFE.BO')":691.788280934,
+    "('Low', 'HDFCLIFE.BO')":679.7715010668,
+    "('Open', 'HDFCLIFE.BO')":679.7715010668,
+    "('Volume', 'HDFCLIFE.BO')":44275
+  },
+  {
+    "('Date', '')":"2024-11-19",
+    "('Close', 'HDFCLIFE.BO')":678.4750366211,
+    "('High', 'HDFCLIFE.BO')":688.5472391085,
+    "('Low', 'HDFCLIFE.BO')":666.6577177291,
+    "('Open', 'HDFCLIFE.BO')":686.1039787549,
+    "('Volume', 'HDFCLIFE.BO')":71646
+  },
+  {
+    "('Date', '')":"2024-11-21",
+    "('Close', 'HDFCLIFE.BO')":672.7907714844,
+    "('High', 'HDFCLIFE.BO')":678.6246252533,
+    "('Low', 'HDFCLIFE.BO')":667.1563178464,
+    "('Open', 'HDFCLIFE.BO')":678.4750142882,
+    "('Volume', 'HDFCLIFE.BO')":23128
+  },
+  {
+    "('Date', '')":"2024-11-22",
+    "('Close', 'HDFCLIFE.BO')":685.007019043,
+    "('High', 'HDFCLIFE.BO')":689.0956956399,
+    "('Low', 'HDFCLIFE.BO')":673.7381116508,
+    "('Open', 'HDFCLIFE.BO')":677.7769990815,
+    "('Volume', 'HDFCLIFE.BO')":47075
+  },
+  {
+    "('Date', '')":"2024-11-25",
+    "('Close', 'HDFCLIFE.BO')":683.1122436523,
+    "('High', 'HDFCLIFE.BO')":693.533457207,
+    "('Low', 'HDFCLIFE.BO')":679.6218891227,
+    "('Open', 'HDFCLIFE.BO')":691.0403468287,
+    "('Volume', 'HDFCLIFE.BO')":29322
+  },
+  {
+    "('Date', '')":"2024-11-26",
+    "('Close', 'HDFCLIFE.BO')":680.3698120117,
+    "('High', 'HDFCLIFE.BO')":691.0901864773,
+    "('Low', 'HDFCLIFE.BO')":676.5802964671,
+    "('Open', 'HDFCLIFE.BO')":680.768734013,
+    "('Volume', 'HDFCLIFE.BO')":45364
+  },
+  {
+    "('Date', '')":"2024-11-27",
+    "('Close', 'HDFCLIFE.BO')":678.8739624023,
+    "('High', 'HDFCLIFE.BO')":687.9987708196,
+    "('Low', 'HDFCLIFE.BO')":677.6274072015,
+    "('Open', 'HDFCLIFE.BO')":687.9987708196,
+    "('Volume', 'HDFCLIFE.BO')":19728
+  },
+  {
+    "('Date', '')":"2024-11-28",
+    "('Close', 'HDFCLIFE.BO')":655.7877197266,
+    "('High', 'HDFCLIFE.BO')":688.2979150922,
+    "('Low', 'HDFCLIFE.BO')":637.0395421363,
+    "('Open', 'HDFCLIFE.BO')":678.973645897,
+    "('Volume', 'HDFCLIFE.BO')":403911
+  },
+  {
+    "('Date', '')":"2024-11-29",
+    "('Close', 'HDFCLIFE.BO')":655.7378540039,
+    "('High', 'HDFCLIFE.BO')":672.2422318925,
+    "('Low', 'HDFCLIFE.BO')":649.8042393611,
+    "('Open', 'HDFCLIFE.BO')":666.2089171852,
+    "('Volume', 'HDFCLIFE.BO')":133988
+  },
+  {
+    "('Date', '')":"2024-12-02",
+    "('Close', 'HDFCLIFE.BO')":638.485534668,
+    "('High', 'HDFCLIFE.BO')":653.1450351032,
+    "('Low', 'HDFCLIFE.BO')":637.5879906317,
+    "('Open', 'HDFCLIFE.BO')":653.1450351032,
+    "('Volume', 'HDFCLIFE.BO')":72857
+  },
+  {
+    "('Date', '')":"2024-12-03",
+    "('Close', 'HDFCLIFE.BO')":632.4024047852,
+    "('High', 'HDFCLIFE.BO')":644.7183457438,
+    "('Low', 'HDFCLIFE.BO')":630.6073166139,
+    "('Open', 'HDFCLIFE.BO')":644.7183457438,
+    "('Volume', 'HDFCLIFE.BO')":120792
+  },
+  {
+    "('Date', '')":"2024-12-04",
+    "('Close', 'HDFCLIFE.BO')":648.4081420898,
+    "('High', 'HDFCLIFE.BO')":649.2059252163,
+    "('Low', 'HDFCLIFE.BO')":632.4023860609,
+    "('Open', 'HDFCLIFE.BO')":632.4023860609,
+    "('Volume', 'HDFCLIFE.BO')":187748
+  },
+  {
+    "('Date', '')":"2024-12-05",
+    "('Close', 'HDFCLIFE.BO')":642.1254882812,
+    "('High', 'HDFCLIFE.BO')":651.8486180737,
+    "('Low', 'HDFCLIFE.BO')":637.7874400075,
+    "('Open', 'HDFCLIFE.BO')":648.2086528303,
+    "('Volume', 'HDFCLIFE.BO')":46056
+  },
+  {
+    "('Date', '')":"2024-12-06",
+    "('Close', 'HDFCLIFE.BO')":635.0450439453,
+    "('High', 'HDFCLIFE.BO')":646.1144902062,
+    "('Low', 'HDFCLIFE.BO')":633.5491777641,
+    "('Open', 'HDFCLIFE.BO')":641.7764417606,
+    "('Volume', 'HDFCLIFE.BO')":110871
+  },
+  {
+    "('Date', '')":"2024-12-09",
+    "('Close', 'HDFCLIFE.BO')":639.6822509766,
+    "('High', 'HDFCLIFE.BO')":644.2196995352,
+    "('Low', 'HDFCLIFE.BO')":633.6489362425,
+    "('Open', 'HDFCLIFE.BO')":635.1448024179,
+    "('Volume', 'HDFCLIFE.BO')":90945
+  },
+  {
+    "('Date', '')":"2024-12-10",
+    "('Close', 'HDFCLIFE.BO')":631.8040161133,
+    "('High', 'HDFCLIFE.BO')":642.1255295378,
+    "('Low', 'HDFCLIFE.BO')":628.6627335756,
+    "('Open', 'HDFCLIFE.BO')":639.7321192422,
+    "('Volume', 'HDFCLIFE.BO')":49582
+  },
+  {
+    "('Date', '')":"2024-12-11",
+    "('Close', 'HDFCLIFE.BO')":632.551940918,
+    "('High', 'HDFCLIFE.BO')":637.239000513,
+    "('Low', 'HDFCLIFE.BO')":630.2582915872,
+    "('Open', 'HDFCLIFE.BO')":632.5020908847,
+    "('Volume', 'HDFCLIFE.BO')":60656
+  },
+  {
+    "('Date', '')":"2024-12-12",
+    "('Close', 'HDFCLIFE.BO')":625.0227661133,
+    "('High', 'HDFCLIFE.BO')":635.4439795725,
+    "('Low', 'HDFCLIFE.BO')":618.4908291554,
+    "('Open', 'HDFCLIFE.BO')":634.2472744285,
+    "('Volume', 'HDFCLIFE.BO')":91806
+  },
+  {
+    "('Date', '')":"2024-12-13",
+    "('Close', 'HDFCLIFE.BO')":630.7568969727,
+    "('High', 'HDFCLIFE.BO')":631.2555190256,
+    "('Low', 'HDFCLIFE.BO')":618.341195681,
+    "('Open', 'HDFCLIFE.BO')":618.341195681,
+    "('Volume', 'HDFCLIFE.BO')":70303
+  },
+  {
+    "('Date', '')":"2024-12-16",
+    "('Close', 'HDFCLIFE.BO')":633.1503295898,
+    "('High', 'HDFCLIFE.BO')":634.6461958016,
+    "('Low', 'HDFCLIFE.BO')":626.8676428068,
+    "('Open', 'HDFCLIFE.BO')":629.5602141614,
+    "('Volume', 'HDFCLIFE.BO')":17541
+  },
+  {
+    "('Date', '')":"2024-12-17",
+    "('Close', 'HDFCLIFE.BO')":624.8233032227,
+    "('High', 'HDFCLIFE.BO')":634.5464335795,
+    "('Low', 'HDFCLIFE.BO')":624.0255200847,
+    "('Open', 'HDFCLIFE.BO')":634.1974224776,
+    "('Volume', 'HDFCLIFE.BO')":28359
+  },
+  {
+    "('Date', '')":"2024-12-18",
+    "('Close', 'HDFCLIFE.BO')":622.8287963867,
+    "('High', 'HDFCLIFE.BO')":627.7651669019,
+    "('Low', 'HDFCLIFE.BO')":618.5406588895,
+    "('Open', 'HDFCLIFE.BO')":624.2748125188,
+    "('Volume', 'HDFCLIFE.BO')":50873
+  },
+  {
+    "('Date', '')":"2024-12-19",
+    "('Close', 'HDFCLIFE.BO')":621.9313354492,
+    "('High', 'HDFCLIFE.BO')":622.8786686935,
+    "('Low', 'HDFCLIFE.BO')":613.4048493149,
+    "('Open', 'HDFCLIFE.BO')":617.8425979341,
+    "('Volume', 'HDFCLIFE.BO')":69641
+  },
+  {
+    "('Date', '')":"2024-12-20",
+    "('Close', 'HDFCLIFE.BO')":622.23046875,
+    "('High', 'HDFCLIFE.BO')":625.07259009,
+    "('Low', 'HDFCLIFE.BO')":616.4963151715,
+    "('Open', 'HDFCLIFE.BO')":622.2803187816,
+    "('Volume', 'HDFCLIFE.BO')":78129
+  },
+  {
+    "('Date', '')":"2024-12-23",
+    "('Close', 'HDFCLIFE.BO')":620.9340820312,
+    "('High', 'HDFCLIFE.BO')":625.2222196178,
+    "('Low', 'HDFCLIFE.BO')":612.1084349586,
+    "('Open', 'HDFCLIFE.BO')":622.4797982597,
+    "('Volume', 'HDFCLIFE.BO')":77704
+  },
+  {
+    "('Date', '')":"2024-12-24",
+    "('Close', 'HDFCLIFE.BO')":620.7346191406,
+    "('High', 'HDFCLIFE.BO')":626.2194618402,
+    "('Low', 'HDFCLIFE.BO')":617.3439647614,
+    "('Open', 'HDFCLIFE.BO')":621.9811742996,
+    "('Volume', 'HDFCLIFE.BO')":49777
+  },
+  {
+    "('Date', '')":"2024-12-26",
+    "('Close', 'HDFCLIFE.BO')":624.6737670898,
+    "('High', 'HDFCLIFE.BO')":628.014510684,
+    "('Low', 'HDFCLIFE.BO')":617.1445249772,
+    "('Open', 'HDFCLIFE.BO')":618.2913801097,
+    "('Volume', 'HDFCLIFE.BO')":164371
+  },
+  {
+    "('Date', '')":"2024-12-27",
+    "('Close', 'HDFCLIFE.BO')":619.8869018555,
+    "('High', 'HDFCLIFE.BO')":627.7651545114,
+    "('Low', 'HDFCLIFE.BO')":619.0392687259,
+    "('Open', 'HDFCLIFE.BO')":619.6875017311,
+    "('Volume', 'HDFCLIFE.BO')":58037
+  },
+  {
+    "('Date', '')":"2024-12-30",
+    "('Close', 'HDFCLIFE.BO')":615.3992919922,
+    "('High', 'HDFCLIFE.BO')":622.1306894728,
+    "('Low', 'HDFCLIFE.BO')":612.8064817538,
+    "('Open', 'HDFCLIFE.BO')":618.2913241455,
+    "('Volume', 'HDFCLIFE.BO')":21651
+  },
+  {
+    "('Date', '')":"2024-12-31",
+    "('Close', 'HDFCLIFE.BO')":615.1999511719,
+    "('High', 'HDFCLIFE.BO')":617.1944395065,
+    "('Low', 'HDFCLIFE.BO')":609.4158863078,
+    "('Open', 'HDFCLIFE.BO')":616.1472844373,
+    "('Volume', 'HDFCLIFE.BO')":22950
+  },
+  {
+    "('Date', '')":"2025-01-01",
+    "('Close', 'HDFCLIFE.BO')":615.44921875,
+    "('High', 'HDFCLIFE.BO')":617.5932570382,
+    "('Low', 'HDFCLIFE.BO')":611.8092534495,
+    "('Open', 'HDFCLIFE.BO')":615.1999077258,
+    "('Volume', 'HDFCLIFE.BO')":21819
+  },
+  {
+    "('Date', '')":"2025-01-02",
+    "('Close', 'HDFCLIFE.BO')":618.2913818359,
+    "('High', 'HDFCLIFE.BO')":619.2886260002,
+    "('Low', 'HDFCLIFE.BO')":611.5599837272,
+    "('Open', 'HDFCLIFE.BO')":615.2996493432,
+    "('Volume', 'HDFCLIFE.BO')":41297
+  },
+  {
+    "('Date', '')":"2025-01-03",
+    "('Close', 'HDFCLIFE.BO')":621.3329467773,
+    "('High', 'HDFCLIFE.BO')":622.28034088,
+    "('Low', 'HDFCLIFE.BO')":614.0032267243,
+    "('Open', 'HDFCLIFE.BO')":619.9368415071,
+    "('Volume', 'HDFCLIFE.BO')":54362
+  },
+  {
+    "('Date', '')":"2025-01-06",
+    "('Close', 'HDFCLIFE.BO')":604.4296264648,
+    "('High', 'HDFCLIFE.BO')":626.4687576607,
+    "('Low', 'HDFCLIFE.BO')":601.3880441242,
+    "('Open', 'HDFCLIFE.BO')":623.4770253518,
+    "('Volume', 'HDFCLIFE.BO')":105268
+  },
+  {
+    "('Date', '')":"2025-01-07",
+    "('Close', 'HDFCLIFE.BO')":617.842590332,
+    "('High', 'HDFCLIFE.BO')":618.5905234317,
+    "('Low', 'HDFCLIFE.BO')":602.3853062729,
+    "('Open', 'HDFCLIFE.BO')":602.3853062729,
+    "('Volume', 'HDFCLIFE.BO')":57034
+  },
+  {
+    "('Date', '')":"2025-01-08",
+    "('Close', 'HDFCLIFE.BO')":615.8480834961,
+    "('High', 'HDFCLIFE.BO')":620.2858319268,
+    "('Low', 'HDFCLIFE.BO')":613.5045842013,
+    "('Open', 'HDFCLIFE.BO')":618.2913437213,
+    "('Volume', 'HDFCLIFE.BO')":22069
+  },
+  {
+    "('Date', '')":"2025-01-09",
+    "('Close', 'HDFCLIFE.BO')":610.8120117188,
+    "('High', 'HDFCLIFE.BO')":618.9395754868,
+    "('Low', 'HDFCLIFE.BO')":608.5183624604,
+    "('Open', 'HDFCLIFE.BO')":613.3051219707,
+    "('Volume', 'HDFCLIFE.BO')":16496
+  },
+  {
+    "('Date', '')":"2025-01-10",
+    "('Close', 'HDFCLIFE.BO')":606.9227294922,
+    "('High', 'HDFCLIFE.BO')":613.005954968,
+    "('Low', 'HDFCLIFE.BO')":601.4378869912,
+    "('Open', 'HDFCLIFE.BO')":610.7621557631,
+    "('Volume', 'HDFCLIFE.BO')":45201
+  },
+  {
+    "('Date', '')":"2025-01-13",
+    "('Close', 'HDFCLIFE.BO')":597.8478393555,
+    "('High', 'HDFCLIFE.BO')":607.969891341,
+    "('Low', 'HDFCLIFE.BO')":595.5541900935,
+    "('Open', 'HDFCLIFE.BO')":607.969891341,
+    "('Volume', 'HDFCLIFE.BO')":33018
+  },
+  {
+    "('Date', '')":"2025-01-14",
+    "('Close', 'HDFCLIFE.BO')":598.5459594727,
+    "('High', 'HDFCLIFE.BO')":605.9754406687,
+    "('Low', 'HDFCLIFE.BO')":593.1109666049,
+    "('Open', 'HDFCLIFE.BO')":598.8949705833,
+    "('Volume', 'HDFCLIFE.BO')":27535
+  },
+  {
+    "('Date', '')":"2025-01-15",
+    "('Close', 'HDFCLIFE.BO')":592.6123046875,
+    "('High', 'HDFCLIFE.BO')":603.3825287625,
+    "('Low', 'HDFCLIFE.BO')":583.0387857023,
+    "('Open', 'HDFCLIFE.BO')":603.3825287625,
+    "('Volume', 'HDFCLIFE.BO')":65652
+  },
+  {
+    "('Date', '')":"2025-01-16",
+    "('Close', 'HDFCLIFE.BO')":639.5326538086,
+    "('High', 'HDFCLIFE.BO')":658.7296034736,
+    "('Low', 'HDFCLIFE.BO')":621.3329482821,
+    "('Open', 'HDFCLIFE.BO')":621.3329482821,
+    "('Volume', 'HDFCLIFE.BO')":1098829
+  },
+  {
+    "('Date', '')":"2025-01-17",
+    "('Close', 'HDFCLIFE.BO')":640.6795043945,
+    "('High', 'HDFCLIFE.BO')":648.2086854132,
+    "('Low', 'HDFCLIFE.BO')":631.3053852125,
+    "('Open', 'HDFCLIFE.BO')":639.4827992635,
+    "('Volume', 'HDFCLIFE.BO')":53282
+  },
+  {
+    "('Date', '')":"2025-01-20",
+    "('Close', 'HDFCLIFE.BO')":632.0532836914,
+    "('High', 'HDFCLIFE.BO')":642.3747964063,
+    "('Low', 'HDFCLIFE.BO')":628.712540381,
+    "('Open', 'HDFCLIFE.BO')":641.0284803824,
+    "('Volume', 'HDFCLIFE.BO')":44978
+  },
+  {
+    "('Date', '')":"2025-01-21",
+    "('Close', 'HDFCLIFE.BO')":621.9313354492,
+    "('High', 'HDFCLIFE.BO')":635.1946704059,
+    "('Low', 'HDFCLIFE.BO')":621.2831024081,
+    "('Open', 'HDFCLIFE.BO')":632.7015600431,
+    "('Volume', 'HDFCLIFE.BO')":16977
+  },
+  {
+    "('Date', '')":"2025-01-22",
+    "('Close', 'HDFCLIFE.BO')":616.446472168,
+    "('High', 'HDFCLIFE.BO')":625.3219082444,
+    "('Low', 'HDFCLIFE.BO')":611.3106406445,
+    "('Open', 'HDFCLIFE.BO')":625.3219082444,
+    "('Volume', 'HDFCLIFE.BO')":65921
+  },
+  {
+    "('Date', '')":"2025-01-23",
+    "('Close', 'HDFCLIFE.BO')":619.0393066406,
+    "('High', 'HDFCLIFE.BO')":623.2775942817,
+    "('Low', 'HDFCLIFE.BO')":610.6624314267,
+    "('Open', 'HDFCLIFE.BO')":614.4020969924,
+    "('Volume', 'HDFCLIFE.BO')":21023
+  },
+  {
+    "('Date', '')":"2025-01-24",
+    "('Close', 'HDFCLIFE.BO')":618.989440918,
+    "('High', 'HDFCLIFE.BO')":623.3274285174,
+    "('Low', 'HDFCLIFE.BO')":611.6098100419,
+    "('Open', 'HDFCLIFE.BO')":618.1916577909,
+    "('Volume', 'HDFCLIFE.BO')":16699
+  },
+  {
+    "('Date', '')":"2025-01-27",
+    "('Close', 'HDFCLIFE.BO')":608.1194458008,
+    "('High', 'HDFCLIFE.BO')":618.2913478911,
+    "('Low', 'HDFCLIFE.BO')":605.0778634402,
+    "('Open', 'HDFCLIFE.BO')":618.2913478911,
+    "('Volume', 'HDFCLIFE.BO')":13573
+  },
+  {
+    "('Date', '')":"2025-01-28",
+    "('Close', 'HDFCLIFE.BO')":609.4657592773,
+    "('High', 'HDFCLIFE.BO')":612.2081805668,
+    "('Low', 'HDFCLIFE.BO')":598.8450852095,
+    "('Open', 'HDFCLIFE.BO')":608.3687542414,
+    "('Volume', 'HDFCLIFE.BO')":46377
+  },
+  {
+    "('Date', '')":"2025-01-29",
+    "('Close', 'HDFCLIFE.BO')":626.3690185547,
+    "('High', 'HDFCLIFE.BO')":627.6155737268,
+    "('Low', 'HDFCLIFE.BO')":604.6291085258,
+    "('Open', 'HDFCLIFE.BO')":612.2580505261,
+    "('Volume', 'HDFCLIFE.BO')":20943
+  },
+  {
+    "('Date', '')":"2025-01-30",
+    "('Close', 'HDFCLIFE.BO')":632.6516723633,
+    "('High', 'HDFCLIFE.BO')":634.2472385537,
+    "('Low', 'HDFCLIFE.BO')":622.479770515,
+    "('Open', 'HDFCLIFE.BO')":623.5767146625,
+    "('Volume', 'HDFCLIFE.BO')":37250
+  },
+  {
+    "('Date', '')":"2025-01-31",
+    "('Close', 'HDFCLIFE.BO')":636.3913574219,
+    "('High', 'HDFCLIFE.BO')":639.5326398693,
+    "('Low', 'HDFCLIFE.BO')":628.3136435564,
+    "('Open', 'HDFCLIFE.BO')":633.3497141724,
+    "('Volume', 'HDFCLIFE.BO')":42757
+  },
+  {
+    "('Date', '')":"2025-02-01",
+    "('Close', 'HDFCLIFE.BO')":623.4770507812,
+    "('High', 'HDFCLIFE.BO')":665.4111548482,
+    "('Low', 'HDFCLIFE.BO')":593.4599655373,
+    "('Open', 'HDFCLIFE.BO')":642.0257675063,
+    "('Volume', 'HDFCLIFE.BO')":346849
+  },
+  {
+    "('Date', '')":"2025-02-03",
+    "('Close', 'HDFCLIFE.BO')":619.4880371094,
+    "('High', 'HDFCLIFE.BO')":628.2139228437,
+    "('Low', 'HDFCLIFE.BO')":608.4185912576,
+    "('Open', 'HDFCLIFE.BO')":611.510084438,
+    "('Volume', 'HDFCLIFE.BO')":35357
+  },
+  {
+    "('Date', '')":"2025-02-04",
+    "('Close', 'HDFCLIFE.BO')":623.8260498047,
+    "('High', 'HDFCLIFE.BO')":625.4715269566,
+    "('Low', 'HDFCLIFE.BO')":614.3023805907,
+    "('Open', 'HDFCLIFE.BO')":623.4271886751,
+    "('Volume', 'HDFCLIFE.BO')":65782
+  },
+  {
+    "('Date', '')":"2025-02-05",
+    "('Close', 'HDFCLIFE.BO')":625.471496582,
+    "('High', 'HDFCLIFE.BO')":637.0395035158,
+    "('Low', 'HDFCLIFE.BO')":623.1778473808,
+    "('Open', 'HDFCLIFE.BO')":627.864845844,
+    "('Volume', 'HDFCLIFE.BO')":20255
+  },
+  {
+    "('Date', '')":"2025-02-06",
+    "('Close', 'HDFCLIFE.BO')":630.2583007812,
+    "('High', 'HDFCLIFE.BO')":636.5907767667,
+    "('Low', 'HDFCLIFE.BO')":622.3800476747,
+    "('Open', 'HDFCLIFE.BO')":626.2194741601,
+    "('Volume', 'HDFCLIFE.BO')":28406
+  },
+  {
+    "('Date', '')":"2025-02-07",
+    "('Close', 'HDFCLIFE.BO')":633.2998657227,
+    "('High', 'HDFCLIFE.BO')":635.6434259229,
+    "('Low', 'HDFCLIFE.BO')":623.177874433,
+    "('Open', 'HDFCLIFE.BO')":631.3053774843,
+    "('Volume', 'HDFCLIFE.BO')":43137
+  },
+  {
+    "('Date', '')":"2025-02-10",
+    "('Close', 'HDFCLIFE.BO')":633.5989990234,
+    "('High', 'HDFCLIFE.BO')":639.0339914083,
+    "('Low', 'HDFCLIFE.BO')":625.2720353398,
+    "('Open', 'HDFCLIFE.BO')":633.2998379742,
+    "('Volume', 'HDFCLIFE.BO')":44215
+  },
+  {
+    "('Date', '')":"2025-02-11",
+    "('Close', 'HDFCLIFE.BO')":617.0946655273,
+    "('High', 'HDFCLIFE.BO')":631.7541666506,
+    "('Low', 'HDFCLIFE.BO')":612.0087447282,
+    "('Open', 'HDFCLIFE.BO')":628.3136621727,
+    "('Volume', 'HDFCLIFE.BO')":29210
+  },
+  {
+    "('Date', '')":"2025-02-12",
+    "('Close', 'HDFCLIFE.BO')":627.5657348633,
+    "('High', 'HDFCLIFE.BO')":635.1946769994,
+    "('Low', 'HDFCLIFE.BO')":606.1249855207,
+    "('Open', 'HDFCLIFE.BO')":614.3522498033,
+    "('Volume', 'HDFCLIFE.BO')":69158
+  },
+  {
+    "('Date', '')":"2025-02-13",
+    "('Close', 'HDFCLIFE.BO')":627.6155395508,
+    "('High', 'HDFCLIFE.BO')":638.0866024266,
+    "('Low', 'HDFCLIFE.BO')":624.4244071774,
+    "('Open', 'HDFCLIFE.BO')":627.2665284684,
+    "('Volume', 'HDFCLIFE.BO')":35364
+  },
+  {
+    "('Date', '')":"2025-02-14",
+    "('Close', 'HDFCLIFE.BO')":624.1751098633,
+    "('High', 'HDFCLIFE.BO')":631.7541407169,
+    "('Low', 'HDFCLIFE.BO')":620.8343055903,
+    "('Open', 'HDFCLIFE.BO')":627.9646252901,
+    "('Volume', 'HDFCLIFE.BO')":42602
+  },
+  {
+    "('Date', '')":"2025-02-17",
+    "('Close', 'HDFCLIFE.BO')":621.4326782227,
+    "('High', 'HDFCLIFE.BO')":628.2139258525,
+    "('Low', 'HDFCLIFE.BO')":612.9061925707,
+    "('Open', 'HDFCLIFE.BO')":628.2139258525,
+    "('Volume', 'HDFCLIFE.BO')":40451
+  },
+  {
+    "('Date', '')":"2025-02-18",
+    "('Close', 'HDFCLIFE.BO')":617.1444702148,
+    "('High', 'HDFCLIFE.BO')":625.2720337564,
+    "('Low', 'HDFCLIFE.BO')":610.1139116737,
+    "('Open', 'HDFCLIFE.BO')":622.2803015375,
+    "('Volume', 'HDFCLIFE.BO')":66060
+  },
+  {
+    "('Date', '')":"2025-02-19",
+    "('Close', 'HDFCLIFE.BO')":620.8342895508,
+    "('High', 'HDFCLIFE.BO')":622.1806055783,
+    "('Low', 'HDFCLIFE.BO')":612.307864844,
+    "('Open', 'HDFCLIFE.BO')":616.2469911316,
+    "('Volume', 'HDFCLIFE.BO')":18823
+  },
+  {
+    "('Date', '')":"2025-02-20",
+    "('Close', 'HDFCLIFE.BO')":618.0420532227,
+    "('High', 'HDFCLIFE.BO')":626.2693173438,
+    "('Low', 'HDFCLIFE.BO')":614.801009781,
+    "('Open', 'HDFCLIFE.BO')":619.2886083925,
+    "('Volume', 'HDFCLIFE.BO')":28201
+  },
+  {
+    "('Date', '')":"2025-02-21",
+    "('Close', 'HDFCLIFE.BO')":621.1334838867,
+    "('High', 'HDFCLIFE.BO')":622.6293500862,
+    "('Low', 'HDFCLIFE.BO')":611.7594255568,
+    "('Open', 'HDFCLIFE.BO')":618.2415124212,
+    "('Volume', 'HDFCLIFE.BO')":10444
+  },
+  {
+    "('Date', '')":"2025-02-24",
+    "('Close', 'HDFCLIFE.BO')":615.1999511719,
+    "('High', 'HDFCLIFE.BO')":619.2886279111,
+    "('Low', 'HDFCLIFE.BO')":612.6569298516,
+    "('Open', 'HDFCLIFE.BO')":614.6015681513,
+    "('Volume', 'HDFCLIFE.BO')":31234
+  },
+  {
+    "('Date', '')":"2025-02-25",
+    "('Close', 'HDFCLIFE.BO')":619.2387695312,
+    "('High', 'HDFCLIFE.BO')":621.5822689461,
+    "('Low', 'HDFCLIFE.BO')":611.5101273386,
+    "('Open', 'HDFCLIFE.BO')":618.1417644418,
+    "('Volume', 'HDFCLIFE.BO')":23779
+  },
+  {
+    "('Date', '')":"2025-02-27",
+    "('Close', 'HDFCLIFE.BO')":616.296875,
+    "('High', 'HDFCLIFE.BO')":625.7706942759,
+    "('Low', 'HDFCLIFE.BO')":614.8508588319,
+    "('Open', 'HDFCLIFE.BO')":619.4382183698,
+    "('Volume', 'HDFCLIFE.BO')":21005
+  },
+  {
+    "('Date', '')":"2025-02-28",
+    "('Close', 'HDFCLIFE.BO')":607.3216552734,
+    "('High', 'HDFCLIFE.BO')":614.5018249476,
+    "('Low', 'HDFCLIFE.BO')":598.9946914075,
+    "('Open', 'HDFCLIFE.BO')":608.3687494022,
+    "('Volume', 'HDFCLIFE.BO')":42408
+  },
+  {
+    "('Date', '')":"2025-03-03",
+    "('Close', 'HDFCLIFE.BO')":616.3467407227,
+    "('High', 'HDFCLIFE.BO')":617.9922179329,
+    "('Low', 'HDFCLIFE.BO')":605.7759769767,
+    "('Open', 'HDFCLIFE.BO')":607.6208543254,
+    "('Volume', 'HDFCLIFE.BO')":69052
+  },
+  {
+    "('Date', '')":"2025-03-04",
+    "('Close', 'HDFCLIFE.BO')":614.5018310547,
+    "('High', 'HDFCLIFE.BO')":618.7401185105,
+    "('Low', 'HDFCLIFE.BO')":607.3715113411,
+    "('Open', 'HDFCLIFE.BO')":614.7511420815,
+    "('Volume', 'HDFCLIFE.BO')":51216
+  },
+  {
+    "('Date', '')":"2025-03-05",
+    "('Close', 'HDFCLIFE.BO')":618.989440918,
+    "('High', 'HDFCLIFE.BO')":623.2775784846,
+    "('Low', 'HDFCLIFE.BO')":610.3134048521,
+    "('Open', 'HDFCLIFE.BO')":610.3134048521,
+    "('Volume', 'HDFCLIFE.BO')":14777
+  },
+  {
+    "('Date', '')":"2025-03-06",
+    "('Close', 'HDFCLIFE.BO')":616.3965454102,
+    "('High', 'HDFCLIFE.BO')":625.2720421252,
+    "('Low', 'HDFCLIFE.BO')":611.709546898,
+    "('Open', 'HDFCLIFE.BO')":624.224948008,
+    "('Volume', 'HDFCLIFE.BO')":23449
+  },
+  {
+    "('Date', '')":"2025-03-07",
+    "('Close', 'HDFCLIFE.BO')":622.9285888672,
+    "('High', 'HDFCLIFE.BO')":631.7541753361,
+    "('Low', 'HDFCLIFE.BO')":616.9451239074,
+    "('Open', 'HDFCLIFE.BO')":617.244284982,
+    "('Volume', 'HDFCLIFE.BO')":31553
+  },
+  {
+    "('Date', '')":"2025-03-10",
+    "('Close', 'HDFCLIFE.BO')":623.5268554688,
+    "('High', 'HDFCLIFE.BO')":631.2554970199,
+    "('Low', 'HDFCLIFE.BO')":621.2830563087,
+    "('Open', 'HDFCLIFE.BO')":623.277544451,
+    "('Volume', 'HDFCLIFE.BO')":20042
+  },
+  {
+    "('Date', '')":"2025-03-11",
+    "('Close', 'HDFCLIFE.BO')":635.3441772461,
+    "('High', 'HDFCLIFE.BO')":636.0422602735,
+    "('Low', 'HDFCLIFE.BO')":613.0059464367,
+    "('Open', 'HDFCLIFE.BO')":620.3356660574,
+    "('Volume', 'HDFCLIFE.BO')":33343
+  },
+  {
+    "('Date', '')":"2025-03-12",
+    "('Close', 'HDFCLIFE.BO')":629.5601806641,
+    "('High', 'HDFCLIFE.BO')":638.2362164042,
+    "('Low', 'HDFCLIFE.BO')":626.2692873466,
+    "('Open', 'HDFCLIFE.BO')":637.4384333071,
+    "('Volume', 'HDFCLIFE.BO')":25794
+  },
+  {
+    "('Date', '')":"2025-03-13",
+    "('Close', 'HDFCLIFE.BO')":620.5850219727,
+    "('High', 'HDFCLIFE.BO')":635.8927561855,
+    "('Low', 'HDFCLIFE.BO')":619.2886167519,
+    "('Open', 'HDFCLIFE.BO')":635.8927561855,
+    "('Volume', 'HDFCLIFE.BO')":18679
+  },
+  {
+    "('Date', '')":"2025-03-17",
+    "('Close', 'HDFCLIFE.BO')":628.1641235352,
+    "('High', 'HDFCLIFE.BO')":629.6599897818,
+    "('Low', 'HDFCLIFE.BO')":621.8814366055,
+    "('Open', 'HDFCLIFE.BO')":627.914812494,
+    "('Volume', 'HDFCLIFE.BO')":14383
+  },
+  {
+    "('Date', '')":"2025-03-18",
+    "('Close', 'HDFCLIFE.BO')":638.9841918945,
+    "('High', 'HDFCLIFE.BO')":640.0312860832,
+    "('Low', 'HDFCLIFE.BO')":627.4161840509,
+    "('Open', 'HDFCLIFE.BO')":630.0089945055,
+    "('Volume', 'HDFCLIFE.BO')":46632
+  },
+  {
+    "('Date', '')":"2025-03-19",
+    "('Close', 'HDFCLIFE.BO')":662.6687011719,
+    "('High', 'HDFCLIFE.BO')":663.6160952356,
+    "('Low', 'HDFCLIFE.BO')":638.2362208427,
+    "('Open', 'HDFCLIFE.BO')":641.1781030966,
+    "('Volume', 'HDFCLIFE.BO')":109498
+  },
+  {
+    "('Date', '')":"2025-03-20",
+    "('Close', 'HDFCLIFE.BO')":672.4417114258,
+    "('High', 'HDFCLIFE.BO')":676.5304489199,
+    "('Low', 'HDFCLIFE.BO')":657.4830493258,
+    "('Open', 'HDFCLIFE.BO')":668.1037237636,
+    "('Volume', 'HDFCLIFE.BO')":67408
+  },
+  {
+    "('Date', '')":"2025-03-21",
+    "('Close', 'HDFCLIFE.BO')":676.5802612305,
+    "('High', 'HDFCLIFE.BO')":679.1232214723,
+    "('Low', 'HDFCLIFE.BO')":667.3557534498,
+    "('Open', 'HDFCLIFE.BO')":675.8323281672,
+    "('Volume', 'HDFCLIFE.BO')":32133
+  },
+  {
+    "('Date', '')":"2025-03-24",
+    "('Close', 'HDFCLIFE.BO')":677.5276489258,
+    "('High', 'HDFCLIFE.BO')":685.3061405377,
+    "('Low', 'HDFCLIFE.BO')":674.585766731,
+    "('Open', 'HDFCLIFE.BO')":676.6301049115,
+    "('Volume', 'HDFCLIFE.BO')":17580
+  },
+  {
+    "('Date', '')":"2025-03-25",
+    "('Close', 'HDFCLIFE.BO')":671.6439208984,
+    "('High', 'HDFCLIFE.BO')":681.9653732871,
+    "('Low', 'HDFCLIFE.BO')":669.9485937057,
+    "('Open', 'HDFCLIFE.BO')":678.1758577702,
+    "('Volume', 'HDFCLIFE.BO')":27188
+  },
+  {
+    "('Date', '')":"2025-03-26",
+    "('Close', 'HDFCLIFE.BO')":666.6577148438,
+    "('High', 'HDFCLIFE.BO')":678.2756335479,
+    "('Low', 'HDFCLIFE.BO')":663.0177493464,
+    "('Open', 'HDFCLIFE.BO')":664.0649043983,
+    "('Volume', 'HDFCLIFE.BO')":43823
+  },
+  {
+    "('Date', '')":"2025-03-27",
+    "('Close', 'HDFCLIFE.BO')":680.2700805664,
+    "('High', 'HDFCLIFE.BO')":682.663429863,
+    "('Low', 'HDFCLIFE.BO')":660.5245988843,
+    "('Open', 'HDFCLIFE.BO')":660.5245988843,
+    "('Volume', 'HDFCLIFE.BO')":66911
+  },
+  {
+    "('Date', '')":"2025-03-28",
+    "('Close', 'HDFCLIFE.BO')":683.6607055664,
+    "('High', 'HDFCLIFE.BO')":686.1538159075,
+    "('Low', 'HDFCLIFE.BO')":676.0816744762,
+    "('Open', 'HDFCLIFE.BO')":681.367056226,
+    "('Volume', 'HDFCLIFE.BO')":65094
+  },
+  {
+    "('Date', '')":"2025-04-01",
+    "('Close', 'HDFCLIFE.BO')":691.1898803711,
+    "('High', 'HDFCLIFE.BO')":696.1262509752,
+    "('Low', 'HDFCLIFE.BO')":679.9708839376,
+    "('Open', 'HDFCLIFE.BO')":687.898986924,
+    "('Volume', 'HDFCLIFE.BO')":39931
+  },
+  {
+    "('Date', '')":"2025-04-02",
+    "('Close', 'HDFCLIFE.BO')":693.7827758789,
+    "('High', 'HDFCLIFE.BO')":699.7163908179,
+    "('Low', 'HDFCLIFE.BO')":687.9488610093,
+    "('Open', 'HDFCLIFE.BO')":691.1899045368,
+    "('Volume', 'HDFCLIFE.BO')":48474
+  },
+  {
+    "('Date', '')":"2025-04-03",
+    "('Close', 'HDFCLIFE.BO')":690.9904785156,
+    "('High', 'HDFCLIFE.BO')":695.8270881748,
+    "('Low', 'HDFCLIFE.BO')":683.4612366788,
+    "('Open', 'HDFCLIFE.BO')":683.4612366788,
+    "('Volume', 'HDFCLIFE.BO')":13293
+  },
+  {
+    "('Date', '')":"2025-04-04",
+    "('Close', 'HDFCLIFE.BO')":687.2009277344,
+    "('High', 'HDFCLIFE.BO')":693.0846926374,
+    "('Low', 'HDFCLIFE.BO')":682.7632399067,
+    "('Open', 'HDFCLIFE.BO')":683.5111730283,
+    "('Volume', 'HDFCLIFE.BO')":43470
+  },
+  {
+    "('Date', '')":"2025-04-07",
+    "('Close', 'HDFCLIFE.BO')":664.5136108398,
+    "('High', 'HDFCLIFE.BO')":677.8767067129,
+    "('Low', 'HDFCLIFE.BO')":620.3357074452,
+    "('Open', 'HDFCLIFE.BO')":620.3357074452,
+    "('Volume', 'HDFCLIFE.BO')":138953
+  },
+  {
+    "('Date', '')":"2025-04-08",
+    "('Close', 'HDFCLIFE.BO')":684.4086303711,
+    "('High', 'HDFCLIFE.BO')":687.5998237424,
+    "('Low', 'HDFCLIFE.BO')":667.1563191932,
+    "('Open', 'HDFCLIFE.BO')":670.9458346923,
+    "('Volume', 'HDFCLIFE.BO')":71413
+  },
+  {
+    "('Date', '')":"2025-04-09",
+    "('Close', 'HDFCLIFE.BO')":682.9127807617,
+    "('High', 'HDFCLIFE.BO')":689.4447177614,
+    "('Low', 'HDFCLIFE.BO')":674.635666502,
+    "('Open', 'HDFCLIFE.BO')":674.635666502,
+    "('Volume', 'HDFCLIFE.BO')":35973
+  },
+  {
+    "('Date', '')":"2025-04-11",
+    "('Close', 'HDFCLIFE.BO')":683.4612426758,
+    "('High', 'HDFCLIFE.BO')":687.7992911775,
+    "('Low', 'HDFCLIFE.BO')":680.170349208,
+    "('Open', 'HDFCLIFE.BO')":682.9127705756,
+    "('Volume', 'HDFCLIFE.BO')":48470
+  },
+  {
+    "('Date', '')":"2025-04-15",
+    "('Close', 'HDFCLIFE.BO')":702.5584716797,
+    "('High', 'HDFCLIFE.BO')":705.2510429355,
+    "('Low', 'HDFCLIFE.BO')":683.8102946869,
+    "('Open', 'HDFCLIFE.BO')":683.8102946869,
+    "('Volume', 'HDFCLIFE.BO')":21957
+  },
+  {
+    "('Date', '')":"2025-04-16",
+    "('Close', 'HDFCLIFE.BO')":714.0267944336,
+    "('High', 'HDFCLIFE.BO')":719.0130150651,
+    "('Low', 'HDFCLIFE.BO')":699.8659156667,
+    "('Open', 'HDFCLIFE.BO')":701.6110928877,
+    "('Volume', 'HDFCLIFE.BO')":51144
+  },
+  {
+    "('Date', '')":"2025-04-17",
+    "('Close', 'HDFCLIFE.BO')":718.1154785156,
+    "('High', 'HDFCLIFE.BO')":722.2042159964,
+    "('Low', 'HDFCLIFE.BO')":707.8937261141,
+    "('Open', 'HDFCLIFE.BO')":717.7664674145,
+    "('Volume', 'HDFCLIFE.BO')":29757
+  },
+  {
+    "('Date', '')":"2025-04-21",
+    "('Close', 'HDFCLIFE.BO')":710.0378417969,
+    "('High', 'HDFCLIFE.BO')":721.007527555,
+    "('Low', 'HDFCLIFE.BO')":702.0598885183,
+    "('Open', 'HDFCLIFE.BO')":721.007527555,
+    "('Volume', 'HDFCLIFE.BO')":189066
+  },
+  {
+    "('Date', '')":"2025-04-22",
+    "('Close', 'HDFCLIFE.BO')":710.5863037109,
+    "('High', 'HDFCLIFE.BO')":720.3592841636,
+    "('Low', 'HDFCLIFE.BO')":707.1457992355,
+    "('Open', 'HDFCLIFE.BO')":713.6278861814,
+    "('Volume', 'HDFCLIFE.BO')":38945
+  },
+  {
+    "('Date', '')":"2025-04-23",
+    "('Close', 'HDFCLIFE.BO')":707.1457519531,
+    "('High', 'HDFCLIFE.BO')":713.029516365,
+    "('Low', 'HDFCLIFE.BO')":702.6083035678,
+    "('Open', 'HDFCLIFE.BO')":710.9353281462,
+    "('Volume', 'HDFCLIFE.BO')":64911
+  },
+  {
+    "('Date', '')":"2025-04-24",
+    "('Close', 'HDFCLIFE.BO')":706.2482910156,
+    "('High', 'HDFCLIFE.BO')":713.8273219063,
+    "('Low', 'HDFCLIFE.BO')":703.0570976896,
+    "('Open', 'HDFCLIFE.BO')":710.037806461,
+    "('Volume', 'HDFCLIFE.BO')":59228
+  },
+  {
+    "('Date', '')":"2025-04-25",
+    "('Close', 'HDFCLIFE.BO')":703.0571289062,
+    "('High', 'HDFCLIFE.BO')":731.4785873088,
+    "('Low', 'HDFCLIFE.BO')":691.0901990525,
+    "('Open', 'HDFCLIFE.BO')":708.1929606486,
+    "('Volume', 'HDFCLIFE.BO')":100324
+  },
+  {
+    "('Date', '')":"2025-04-28",
+    "('Close', 'HDFCLIFE.BO')":708.3923339844,
+    "('High', 'HDFCLIFE.BO')":712.6306214805,
+    "('Low', 'HDFCLIFE.BO')":688.746673578,
+    "('Open', 'HDFCLIFE.BO')":688.746673578,
+    "('Volume', 'HDFCLIFE.BO')":53059
+  },
+  {
+    "('Date', '')":"2025-04-29",
+    "('Close', 'HDFCLIFE.BO')":712.3314819336,
+    "('High', 'HDFCLIFE.BO')":716.9686915633,
+    "('Low', 'HDFCLIFE.BO')":705.4006229395,
+    "('Open', 'HDFCLIFE.BO')":713.0794150437,
+    "('Volume', 'HDFCLIFE.BO')":39136
+  },
+  {
+    "('Date', '')":"2025-04-30",
+    "('Close', 'HDFCLIFE.BO')":741.8499145508,
+    "('High', 'HDFCLIFE.BO')":744.9413469316,
+    "('Low', 'HDFCLIFE.BO')":711.0848973709,
+    "('Open', 'HDFCLIFE.BO')":712.3314525029,
+    "('Volume', 'HDFCLIFE.BO')":191892
+  },
+  {
+    "('Date', '')":"2025-05-02",
+    "('Close', 'HDFCLIFE.BO')":725.2956542969,
+    "('High', 'HDFCLIFE.BO')":747.3347864158,
+    "('Low', 'HDFCLIFE.BO')":720.0102725031,
+    "('Open', 'HDFCLIFE.BO')":745.1906871579,
+    "('Volume', 'HDFCLIFE.BO')":133598
+  },
+  {
+    "('Date', '')":"2025-05-05",
+    "('Close', 'HDFCLIFE.BO')":736.9633789062,
+    "('High', 'HDFCLIFE.BO')":739.107478036,
+    "('Low', 'HDFCLIFE.BO')":725.6945329177,
+    "('Open', 'HDFCLIFE.BO')":729.5837483296,
+    "('Volume', 'HDFCLIFE.BO')":51157
+  },
+  {
+    "('Date', '')":"2025-05-06",
+    "('Close', 'HDFCLIFE.BO')":720.3592529297,
+    "('High', 'HDFCLIFE.BO')":740.4537459373,
+    "('Low', 'HDFCLIFE.BO')":716.9686595021,
+    "('Open', 'HDFCLIFE.BO')":736.1157584392,
+    "('Volume', 'HDFCLIFE.BO')":101219
+  },
+  {
+    "('Date', '')":"2025-05-07",
+    "('Close', 'HDFCLIFE.BO')":722.5033569336,
+    "('High', 'HDFCLIFE.BO')":726.8912553597,
+    "('Low', 'HDFCLIFE.BO')":699.2675813685,
+    "('Open', 'HDFCLIFE.BO')":699.2675813685,
+    "('Volume', 'HDFCLIFE.BO')":27535
+  },
+  {
+    "('Date', '')":"2025-05-08",
+    "('Close', 'HDFCLIFE.BO')":720.1099243164,
+    "('High', 'HDFCLIFE.BO')":724.198661556,
+    "('Low', 'HDFCLIFE.BO')":713.5281377489,
+    "('Open', 'HDFCLIFE.BO')":717.4174139996,
+    "('Volume', 'HDFCLIFE.BO')":33132
+  },
+  {
+    "('Date', '')":"2025-05-09",
+    "('Close', 'HDFCLIFE.BO')":711.7830200195,
+    "('High', 'HDFCLIFE.BO')":714.6750524336,
+    "('Low', 'HDFCLIFE.BO')":700.1152511607,
+    "('Open', 'HDFCLIFE.BO')":700.8133342469,
+    "('Volume', 'HDFCLIFE.BO')":32418
+  },
+  {
+    "('Date', '')":"2025-05-12",
+    "('Close', 'HDFCLIFE.BO')":732.6254272461,
+    "('High', 'HDFCLIFE.BO')":735.2182376472,
+    "('Low', 'HDFCLIFE.BO')":713.7774887704,
+    "('Open', 'HDFCLIFE.BO')":713.7774887704,
+    "('Volume', 'HDFCLIFE.BO')":65677
+  },
+  {
+    "('Date', '')":"2025-05-13",
+    "('Close', 'HDFCLIFE.BO')":733.0741577148,
+    "('High', 'HDFCLIFE.BO')":740.5036388807,
+    "('Low', 'HDFCLIFE.BO')":729.9827251654,
+    "('Open', 'HDFCLIFE.BO')":733.4730797256,
+    "('Volume', 'HDFCLIFE.BO')":417497
+  },
+  {
+    "('Date', '')":"2025-05-14",
+    "('Close', 'HDFCLIFE.BO')":739.3068847656,
+    "('High', 'HDFCLIFE.BO')":747.9330705258,
+    "('Low', 'HDFCLIFE.BO')":731.7278539977,
+    "('Open', 'HDFCLIFE.BO')":733.5727312249,
+    "('Volume', 'HDFCLIFE.BO')":77226
+  },
+  {
+    "('Date', '')":"2025-05-15",
+    "('Close', 'HDFCLIFE.BO')":748.9801635742,
+    "('High', 'HDFCLIFE.BO')":751.2239627826,
+    "('Low', 'HDFCLIFE.BO')":731.9771639688,
+    "('Open', 'HDFCLIFE.BO')":741.4011328172,
+    "('Volume', 'HDFCLIFE.BO')":38209
+  },
+  {
+    "('Date', '')":"2025-05-16",
+    "('Close', 'HDFCLIFE.BO')":748.5812988281,
+    "('High', 'HDFCLIFE.BO')":751.8721921444,
+    "('Low', 'HDFCLIFE.BO')":745.041033623,
+    "('Open', 'HDFCLIFE.BO')":749.6782429779,
+    "('Volume', 'HDFCLIFE.BO')":21598
+  },
+  {
+    "('Date', '')":"2025-05-19",
+    "('Close', 'HDFCLIFE.BO')":748.7807006836,
+    "('High', 'HDFCLIFE.BO')":753.9165320942,
+    "('Low', 'HDFCLIFE.BO')":743.5451692107,
+    "('Open', 'HDFCLIFE.BO')":743.5451692107,
+    "('Volume', 'HDFCLIFE.BO')":59182
+  },
+  {
+    "('Date', '')":"2025-05-20",
+    "('Close', 'HDFCLIFE.BO')":745.0410766602,
+    "('High', 'HDFCLIFE.BO')":755.5620510874,
+    "('Low', 'HDFCLIFE.BO')":743.8942824132,
+    "('Open', 'HDFCLIFE.BO')":743.8942824132,
+    "('Volume', 'HDFCLIFE.BO')":20864
+  },
+  {
+    "('Date', '')":"2025-05-21",
+    "('Close', 'HDFCLIFE.BO')":757.5065917969,
+    "('High', 'HDFCLIFE.BO')":758.9027578796,
+    "('Low', 'HDFCLIFE.BO')":744.7917295591,
+    "('Open', 'HDFCLIFE.BO')":745.0909514818,
+    "('Volume', 'HDFCLIFE.BO')":66358
+  },
+  {
+    "('Date', '')":"2025-05-22",
+    "('Close', 'HDFCLIFE.BO')":753.8168334961,
+    "('High', 'HDFCLIFE.BO')":759.8999981106,
+    "('Low', 'HDFCLIFE.BO')":750.4261792365,
+    "('Open', 'HDFCLIFE.BO')":757.9055099265,
+    "('Volume', 'HDFCLIFE.BO')":18904
+  },
+  {
+    "('Date', '')":"2025-05-23",
+    "('Close', 'HDFCLIFE.BO')":778.1994018555,
+    "('High', 'HDFCLIFE.BO')":778.9972458216,
+    "('Low', 'HDFCLIFE.BO')":749.7280952385,
+    "('Open', 'HDFCLIFE.BO')":749.7280952385,
+    "('Volume', 'HDFCLIFE.BO')":200924
+  },
+  {
+    "('Date', '')":"2025-05-26",
+    "('Close', 'HDFCLIFE.BO')":778.0498657227,
+    "('High', 'HDFCLIFE.BO')":787.4239238236,
+    "('Low', 'HDFCLIFE.BO')":775.7063055472,
+    "('Open', 'HDFCLIFE.BO')":787.4239238236,
+    "('Volume', 'HDFCLIFE.BO')":42637
+  },
+  {
+    "('Date', '')":"2025-05-27",
+    "('Close', 'HDFCLIFE.BO')":773.3627929688,
+    "('High', 'HDFCLIFE.BO')":778.6481744804,
+    "('Low', 'HDFCLIFE.BO')":767.3793284197,
+    "('Open', 'HDFCLIFE.BO')":778.0997024034,
+    "('Volume', 'HDFCLIFE.BO')":1040904
+  },
+  {
+    "('Date', '')":"2025-05-28",
+    "('Close', 'HDFCLIFE.BO')":786.8256225586,
+    "('High', 'HDFCLIFE.BO')":788.8699608621,
+    "('Low', 'HDFCLIFE.BO')":774.4597709371,
+    "('Open', 'HDFCLIFE.BO')":776.4044091739,
+    "('Volume', 'HDFCLIFE.BO')":47905
+  },
+  {
+    "('Date', '')":"2025-05-29",
+    "('Close', 'HDFCLIFE.BO')":780.1440429688,
+    "('High', 'HDFCLIFE.BO')":788.8200787645,
+    "('Low', 'HDFCLIFE.BO')":776.6536886379,
+    "('Open', 'HDFCLIFE.BO')":787.7729846386,
+    "('Volume', 'HDFCLIFE.BO')":27354
+  },
+  {
+    "('Date', '')":"2025-05-30",
+    "('Close', 'HDFCLIFE.BO')":775.1079711914,
+    "('High', 'HDFCLIFE.BO')":782.8366129112,
+    "('Low', 'HDFCLIFE.BO')":773.1134830056,
+    "('Open', 'HDFCLIFE.BO')":780.0941916558,
+    "('Volume', 'HDFCLIFE.BO')":52039
+  },
+  {
+    "('Date', '')":"2025-06-02",
+    "('Close', 'HDFCLIFE.BO')":764.1383056641,
+    "('High', 'HDFCLIFE.BO')":780.3933726193,
+    "('Low', 'HDFCLIFE.BO')":760.3986402204,
+    "('Open', 'HDFCLIFE.BO')":765.1355497824,
+    "('Volume', 'HDFCLIFE.BO')":72857
+  },
+  {
+    "('Date', '')":"2025-06-03",
+    "('Close', 'HDFCLIFE.BO')":756.0107421875,
+    "('High', 'HDFCLIFE.BO')":765.7338723467,
+    "('Low', 'HDFCLIFE.BO')":745.0909677792,
+    "('Open', 'HDFCLIFE.BO')":762.9416009872,
+    "('Volume', 'HDFCLIFE.BO')":55643
+  },
+  {
+    "('Date', '')":"2025-06-04",
+    "('Close', 'HDFCLIFE.BO')":756.4595336914,
+    "('High', 'HDFCLIFE.BO')":764.0386257103,
+    "('Low', 'HDFCLIFE.BO')":751.0245409301,
+    "('Open', 'HDFCLIFE.BO')":751.0245409301,
+    "('Volume', 'HDFCLIFE.BO')":47911
+  },
+  {
+    "('Date', '')":"2025-06-05",
+    "('Close', 'HDFCLIFE.BO')":759.3016967773,
+    "('High', 'HDFCLIFE.BO')":765.2352505936,
+    "('Low', 'HDFCLIFE.BO')":753.5176321919,
+    "('Open', 'HDFCLIFE.BO')":754.2157152488,
+    "('Volume', 'HDFCLIFE.BO')":14719
+  },
+  {
+    "('Date', '')":"2025-06-06",
+    "('Close', 'HDFCLIFE.BO')":752.6699829102,
+    "('High', 'HDFCLIFE.BO')":763.2407460014,
+    "('Low', 'HDFCLIFE.BO')":748.8306174799,
+    "('Open', 'HDFCLIFE.BO')":763.2407460014,
+    "('Volume', 'HDFCLIFE.BO')":23094
+  },
+  {
+    "('Date', '')":"2025-06-09",
+    "('Close', 'HDFCLIFE.BO')":758.5038452148,
+    "('High', 'HDFCLIFE.BO')":763.7393767889,
+    "('Low', 'HDFCLIFE.BO')":743.0465615201,
+    "('Open', 'HDFCLIFE.BO')":753.417924604,
+    "('Volume', 'HDFCLIFE.BO')":77605
+  },
+  {
+    "('Date', '')":"2025-06-10",
+    "('Close', 'HDFCLIFE.BO')":760.5482788086,
+    "('High', 'HDFCLIFE.BO')":762.891778225,
+    "('Low', 'HDFCLIFE.BO')":748.0827268768,
+    "('Open', 'HDFCLIFE.BO')":760.0496567313,
+    "('Volume', 'HDFCLIFE.BO')":157238
+  },
+  {
+    "('Date', '')":"2025-06-11",
+    "('Close', 'HDFCLIFE.BO')":761.89453125,
+    "('High', 'HDFCLIFE.BO')":769.9721845251,
+    "('Low', 'HDFCLIFE.BO')":758.6534877597,
+    "('Open', 'HDFCLIFE.BO')":760.3488149896,
+    "('Volume', 'HDFCLIFE.BO')":88345
+  },
+  {
+    "('Date', '')":"2025-06-12",
+    "('Close', 'HDFCLIFE.BO')":752.6201782227,
+    "('High', 'HDFCLIFE.BO')":766.7311465383,
+    "('Low', 'HDFCLIFE.BO')":750.7253899757,
+    "('Open', 'HDFCLIFE.BO')":763.7893249657,
+    "('Volume', 'HDFCLIFE.BO')":34717
+  },
+  {
+    "('Date', '')":"2025-06-13",
+    "('Close', 'HDFCLIFE.BO')":750.3763427734,
+    "('High', 'HDFCLIFE.BO')":751.9220589706,
+    "('Low', 'HDFCLIFE.BO')":732.7251098523,
+    "('Open', 'HDFCLIFE.BO')":732.7251098523,
+    "('Volume', 'HDFCLIFE.BO')":56558
+  },
+  {
+    "('Date', '')":"2025-06-16",
+    "('Close', 'HDFCLIFE.BO')":768.4264526367,
+    "('High', 'HDFCLIFE.BO')":771.2187240289,
+    "('Low', 'HDFCLIFE.BO')":748.4317199922,
+    "('Open', 'HDFCLIFE.BO')":749.6284251223,
+    "('Volume', 'HDFCLIFE.BO')":71309
+  },
+  {
+    "('Date', '')":"2025-06-17",
+    "('Close', 'HDFCLIFE.BO')":771.2686157227,
+    "('High', 'HDFCLIFE.BO')":775.4071422413,
+    "('Low', 'HDFCLIFE.BO')":764.4374570782,
+    "('Open', 'HDFCLIFE.BO')":770.3710716807,
+    "('Volume', 'HDFCLIFE.BO')":25625
+  },
+  {
+    "('Date', '')":"2025-06-18",
+    "('Close', 'HDFCLIFE.BO')":764.0884399414,
+    "('High', 'HDFCLIFE.BO')":772.7145648676,
+    "('Low', 'HDFCLIFE.BO')":762.9914349136,
+    "('Open', 'HDFCLIFE.BO')":772.7145648676,
+    "('Volume', 'HDFCLIFE.BO')":18293
+  },
+  {
+    "('Date', '')":"2025-06-19",
+    "('Close', 'HDFCLIFE.BO')":759.9000244141,
+    "('High', 'HDFCLIFE.BO')":765.2851670441,
+    "('Low', 'HDFCLIFE.BO')":751.9220714018,
+    "('Open', 'HDFCLIFE.BO')":763.8890009202,
+    "('Volume', 'HDFCLIFE.BO')":12947
+  },
+  {
+    "('Date', '')":"2025-06-20",
+    "('Close', 'HDFCLIFE.BO')":779.3499755859,
+    "('High', 'HDFCLIFE.BO')":781.0999755859,
+    "('Low', 'HDFCLIFE.BO')":757.799987793,
+    "('Open', 'HDFCLIFE.BO')":760.0,
+    "('Volume', 'HDFCLIFE.BO')":87677
+  },
+  {
+    "('Date', '')":"2025-06-23",
+    "('Close', 'HDFCLIFE.BO')":774.200012207,
+    "('High', 'HDFCLIFE.BO')":784.0,
+    "('Low', 'HDFCLIFE.BO')":768.8499755859,
+    "('Open', 'HDFCLIFE.BO')":770.1500244141,
+    "('Volume', 'HDFCLIFE.BO')":59510
+  },
+  {
+    "('Date', '')":"2025-06-24",
+    "('Close', 'HDFCLIFE.BO')":779.549987793,
+    "('High', 'HDFCLIFE.BO')":786.700012207,
+    "('Low', 'HDFCLIFE.BO')":777.299987793,
+    "('Open', 'HDFCLIFE.BO')":780.0,
+    "('Volume', 'HDFCLIFE.BO')":60272
+  },
+  {
+    "('Date', '')":"2025-06-25",
+    "('Close', 'HDFCLIFE.BO')":785.450012207,
+    "('High', 'HDFCLIFE.BO')":786.9000244141,
+    "('Low', 'HDFCLIFE.BO')":779.049987793,
+    "('Open', 'HDFCLIFE.BO')":783.5,
+    "('Volume', 'HDFCLIFE.BO')":14986
+  },
+  {
+    "('Date', '')":"2025-06-26",
+    "('Close', 'HDFCLIFE.BO')":799.5,
+    "('High', 'HDFCLIFE.BO')":802.1500244141,
+    "('Low', 'HDFCLIFE.BO')":785.75,
+    "('Open', 'HDFCLIFE.BO')":789.8499755859,
+    "('Volume', 'HDFCLIFE.BO')":155348
+  },
+  {
+    "('Date', '')":"2025-06-27",
+    "('Close', 'HDFCLIFE.BO')":807.3499755859,
+    "('High', 'HDFCLIFE.BO')":810.9000244141,
+    "('Low', 'HDFCLIFE.BO')":793.75,
+    "('Open', 'HDFCLIFE.BO')":799.049987793,
+    "('Volume', 'HDFCLIFE.BO')":145630
+  },
+  {
+    "('Date', '')":"2025-06-30",
+    "('Close', 'HDFCLIFE.BO')":814.1500244141,
+    "('High', 'HDFCLIFE.BO')":820.5,
+    "('Low', 'HDFCLIFE.BO')":801.4000244141,
+    "('Open', 'HDFCLIFE.BO')":809.950012207,
+    "('Volume', 'HDFCLIFE.BO')":64190
+  },
+  {
+    "('Date', '')":"2025-07-01",
+    "('Close', 'HDFCLIFE.BO')":809.799987793,
+    "('High', 'HDFCLIFE.BO')":818.5999755859,
+    "('Low', 'HDFCLIFE.BO')":806.0,
+    "('Open', 'HDFCLIFE.BO')":814.1500244141,
+    "('Volume', 'HDFCLIFE.BO')":31512
+  },
+  {
+    "('Date', '')":"2025-07-02",
+    "('Close', 'HDFCLIFE.BO')":789.75,
+    "('High', 'HDFCLIFE.BO')":811.1500244141,
+    "('Low', 'HDFCLIFE.BO')":787.799987793,
+    "('Open', 'HDFCLIFE.BO')":809.799987793,
+    "('Volume', 'HDFCLIFE.BO')":41026
+  },
+  {
+    "('Date', '')":"2025-07-03",
+    "('Close', 'HDFCLIFE.BO')":785.5999755859,
+    "('High', 'HDFCLIFE.BO')":789.25,
+    "('Low', 'HDFCLIFE.BO')":777.0999755859,
+    "('Open', 'HDFCLIFE.BO')":782.299987793,
+    "('Volume', 'HDFCLIFE.BO')":46946
+  },
+  {
+    "('Date', '')":"2025-07-04",
+    "('Close', 'HDFCLIFE.BO')":785.1500244141,
+    "('High', 'HDFCLIFE.BO')":788.6500244141,
+    "('Low', 'HDFCLIFE.BO')":760.1500244141,
+    "('Open', 'HDFCLIFE.BO')":760.1500244141,
+    "('Volume', 'HDFCLIFE.BO')":18624
+  },
+  {
+    "('Date', '')":"2025-07-07",
+    "('Close', 'HDFCLIFE.BO')":790.200012207,
+    "('High', 'HDFCLIFE.BO')":792.9000244141,
+    "('Low', 'HDFCLIFE.BO')":780.4000244141,
+    "('Open', 'HDFCLIFE.BO')":780.4000244141,
+    "('Volume', 'HDFCLIFE.BO')":27291
+  },
+  {
+    "('Date', '')":"2025-07-08",
+    "('Close', 'HDFCLIFE.BO')":794.450012207,
+    "('High', 'HDFCLIFE.BO')":796.200012207,
+    "('Low', 'HDFCLIFE.BO')":783.5999755859,
+    "('Open', 'HDFCLIFE.BO')":789.950012207,
+    "('Volume', 'HDFCLIFE.BO')":35979
+  },
+  {
+    "('Date', '')":"2025-07-09",
+    "('Close', 'HDFCLIFE.BO')":786.25,
+    "('High', 'HDFCLIFE.BO')":795.950012207,
+    "('Low', 'HDFCLIFE.BO')":784.0,
+    "('Open', 'HDFCLIFE.BO')":789.1500244141,
+    "('Volume', 'HDFCLIFE.BO')":25455
+  },
+  {
+    "('Date', '')":"2025-07-10",
+    "('Close', 'HDFCLIFE.BO')":771.25,
+    "('High', 'HDFCLIFE.BO')":786.9000244141,
+    "('Low', 'HDFCLIFE.BO')":763.799987793,
+    "('Open', 'HDFCLIFE.BO')":784.0,
+    "('Volume', 'HDFCLIFE.BO')":29373
+  },
+  {
+    "('Date', '')":"2025-07-11",
+    "('Close', 'HDFCLIFE.BO')":758.8499755859,
+    "('High', 'HDFCLIFE.BO')":777.0,
+    "('Low', 'HDFCLIFE.BO')":756.6500244141,
+    "('Open', 'HDFCLIFE.BO')":765.950012207,
+    "('Volume', 'HDFCLIFE.BO')":48825
+  },
+  {
+    "('Date', '')":"2025-07-14",
+    "('Close', 'HDFCLIFE.BO')":764.950012207,
+    "('High', 'HDFCLIFE.BO')":767.75,
+    "('Low', 'HDFCLIFE.BO')":753.0999755859,
+    "('Open', 'HDFCLIFE.BO')":756.950012207,
+    "('Volume', 'HDFCLIFE.BO')":22122
+  },
+  {
+    "('Date', '')":"2025-07-15",
+    "('Close', 'HDFCLIFE.BO')":757.0,
+    "('High', 'HDFCLIFE.BO')":769.9000244141,
+    "('Low', 'HDFCLIFE.BO')":751.5,
+    "('Open', 'HDFCLIFE.BO')":767.5,
+    "('Volume', 'HDFCLIFE.BO')":83994
+  },
+  {
+    "('Date', '')":"2025-07-16",
+    "('Close', 'HDFCLIFE.BO')":756.049987793,
+    "('High', 'HDFCLIFE.BO')":774.0,
+    "('Low', 'HDFCLIFE.BO')":754.200012207,
+    "('Open', 'HDFCLIFE.BO')":765.0,
+    "('Volume', 'HDFCLIFE.BO')":216972
+  },
+  {
+    "('Date', '')":"2025-07-17",
+    "('Close', 'HDFCLIFE.BO')":751.5,
+    "('High', 'HDFCLIFE.BO')":759.950012207,
+    "('Low', 'HDFCLIFE.BO')":746.3499755859,
+    "('Open', 'HDFCLIFE.BO')":757.25,
+    "('Volume', 'HDFCLIFE.BO')":129446
+  },
+  {
+    "('Date', '')":"2025-07-18",
+    "('Close', 'HDFCLIFE.BO')":739.299987793,
+    "('High', 'HDFCLIFE.BO')":755.299987793,
+    "('Low', 'HDFCLIFE.BO')":736.549987793,
+    "('Open', 'HDFCLIFE.BO')":751.549987793,
+    "('Volume', 'HDFCLIFE.BO')":37827
+  },
+  {
+    "('Date', '')":"2025-07-21",
+    "('Close', 'HDFCLIFE.BO')":752.450012207,
+    "('High', 'HDFCLIFE.BO')":753.25,
+    "('Low', 'HDFCLIFE.BO')":735.0,
+    "('Open', 'HDFCLIFE.BO')":738.8499755859,
+    "('Volume', 'HDFCLIFE.BO')":19704
+  },
+  {
+    "('Date', '')":"2025-07-22",
+    "('Close', 'HDFCLIFE.BO')":763.0999755859,
+    "('High', 'HDFCLIFE.BO')":768.5,
+    "('Low', 'HDFCLIFE.BO')":750.5999755859,
+    "('Open', 'HDFCLIFE.BO')":750.5999755859,
+    "('Volume', 'HDFCLIFE.BO')":115937
+  },
+  {
+    "('Date', '')":"2025-07-23",
+    "('Close', 'HDFCLIFE.BO')":762.549987793,
+    "('High', 'HDFCLIFE.BO')":768.049987793,
+    "('Low', 'HDFCLIFE.BO')":758.5999755859,
+    "('Open', 'HDFCLIFE.BO')":766.3499755859,
+    "('Volume', 'HDFCLIFE.BO')":20735
+  },
+  {
+    "('Date', '')":"2025-07-24",
+    "('Close', 'HDFCLIFE.BO')":756.9000244141,
+    "('High', 'HDFCLIFE.BO')":766.75,
+    "('Low', 'HDFCLIFE.BO')":756.0,
+    "('Open', 'HDFCLIFE.BO')":759.3499755859,
+    "('Volume', 'HDFCLIFE.BO')":35898
+  },
+  {
+    "('Date', '')":"2025-07-25",
+    "('Close', 'HDFCLIFE.BO')":762.1500244141,
+    "('High', 'HDFCLIFE.BO')":766.3499755859,
+    "('Low', 'HDFCLIFE.BO')":747.3499755859,
+    "('Open', 'HDFCLIFE.BO')":747.3499755859,
+    "('Volume', 'HDFCLIFE.BO')":35152
+  },
+  {
+    "('Date', '')":"2025-07-28",
+    "('Close', 'HDFCLIFE.BO')":762.25,
+    "('High', 'HDFCLIFE.BO')":769.6500244141,
+    "('Low', 'HDFCLIFE.BO')":757.6500244141,
+    "('Open', 'HDFCLIFE.BO')":760.049987793,
+    "('Volume', 'HDFCLIFE.BO')":34249
+  },
+  {
+    "('Date', '')":"2025-07-29",
+    "('Close', 'HDFCLIFE.BO')":756.0,
+    "('High', 'HDFCLIFE.BO')":764.8499755859,
+    "('Low', 'HDFCLIFE.BO')":755.0,
+    "('Open', 'HDFCLIFE.BO')":761.0,
+    "('Volume', 'HDFCLIFE.BO')":31519
+  },
+  {
+    "('Date', '')":"2025-07-30",
+    "('Close', 'HDFCLIFE.BO')":757.549987793,
+    "('High', 'HDFCLIFE.BO')":762.049987793,
+    "('Low', 'HDFCLIFE.BO')":748.0999755859,
+    "('Open', 'HDFCLIFE.BO')":748.0999755859,
+    "('Volume', 'HDFCLIFE.BO')":58894
+  },
+  {
+    "('Date', '')":"2025-07-31",
+    "('Close', 'HDFCLIFE.BO')":755.549987793,
+    "('High', 'HDFCLIFE.BO')":761.0,
+    "('Low', 'HDFCLIFE.BO')":744.5999755859,
+    "('Open', 'HDFCLIFE.BO')":747.299987793,
+    "('Volume', 'HDFCLIFE.BO')":55563
+  },
+  {
+    "('Date', '')":"2025-08-01",
+    "('Close', 'HDFCLIFE.BO')":741.25,
+    "('High', 'HDFCLIFE.BO')":755.549987793,
+    "('Low', 'HDFCLIFE.BO')":739.75,
+    "('Open', 'HDFCLIFE.BO')":755.549987793,
+    "('Volume', 'HDFCLIFE.BO')":67676
+  },
+  {
+    "('Date', '')":"2025-08-04",
+    "('Close', 'HDFCLIFE.BO')":740.450012207,
+    "('High', 'HDFCLIFE.BO')":747.75,
+    "('Low', 'HDFCLIFE.BO')":732.200012207,
+    "('Open', 'HDFCLIFE.BO')":741.25,
+    "('Volume', 'HDFCLIFE.BO')":35446
+  },
+  {
+    "('Date', '')":"2025-08-05",
+    "('Close', 'HDFCLIFE.BO')":738.6500244141,
+    "('High', 'HDFCLIFE.BO')":742.0999755859,
+    "('Low', 'HDFCLIFE.BO')":731.700012207,
+    "('Open', 'HDFCLIFE.BO')":736.4000244141,
+    "('Volume', 'HDFCLIFE.BO')":28239
+  },
+  {
+    "('Date', '')":"2025-08-06",
+    "('Close', 'HDFCLIFE.BO')":752.4000244141,
+    "('High', 'HDFCLIFE.BO')":753.4000244141,
+    "('Low', 'HDFCLIFE.BO')":732.4000244141,
+    "('Open', 'HDFCLIFE.BO')":732.4000244141,
+    "('Volume', 'HDFCLIFE.BO')":77104
+  },
+  {
+    "('Date', '')":"2025-08-07",
+    "('Close', 'HDFCLIFE.BO')":755.950012207,
+    "('High', 'HDFCLIFE.BO')":757.6500244141,
+    "('Low', 'HDFCLIFE.BO')":743.049987793,
+    "('Open', 'HDFCLIFE.BO')":743.049987793,
+    "('Volume', 'HDFCLIFE.BO')":21849
+  },
+  {
+    "('Date', '')":"2025-08-08",
+    "('Close', 'HDFCLIFE.BO')":761.049987793,
+    "('High', 'HDFCLIFE.BO')":764.5,
+    "('Low', 'HDFCLIFE.BO')":753.799987793,
+    "('Open', 'HDFCLIFE.BO')":753.799987793,
+    "('Volume', 'HDFCLIFE.BO')":50435
+  },
+  {
+    "('Date', '')":"2025-08-11",
+    "('Close', 'HDFCLIFE.BO')":765.049987793,
+    "('High', 'HDFCLIFE.BO')":765.799987793,
+    "('Low', 'HDFCLIFE.BO')":754.0,
+    "('Open', 'HDFCLIFE.BO')":765.700012207,
+    "('Volume', 'HDFCLIFE.BO')":20124
+  },
+  {
+    "('Date', '')":"2025-08-12",
+    "('Close', 'HDFCLIFE.BO')":766.049987793,
+    "('High', 'HDFCLIFE.BO')":772.8499755859,
+    "('Low', 'HDFCLIFE.BO')":758.6500244141,
+    "('Open', 'HDFCLIFE.BO')":765.049987793,
+    "('Volume', 'HDFCLIFE.BO')":39712
+  },
+  {
+    "('Date', '')":"2025-08-13",
+    "('Close', 'HDFCLIFE.BO')":776.450012207,
+    "('High', 'HDFCLIFE.BO')":783.700012207,
+    "('Low', 'HDFCLIFE.BO')":765.0,
+    "('Open', 'HDFCLIFE.BO')":766.0,
+    "('Volume', 'HDFCLIFE.BO')":37922
+  },
+  {
+    "('Date', '')":"2025-08-14",
+    "('Close', 'HDFCLIFE.BO')":788.549987793,
+    "('High', 'HDFCLIFE.BO')":790.799987793,
+    "('Low', 'HDFCLIFE.BO')":776.5,
+    "('Open', 'HDFCLIFE.BO')":776.5,
+    "('Volume', 'HDFCLIFE.BO')":210605
+  },
+  {
+    "('Date', '')":"2025-08-18",
+    "('Close', 'HDFCLIFE.BO')":790.950012207,
+    "('High', 'HDFCLIFE.BO')":814.9000244141,
+    "('Low', 'HDFCLIFE.BO')":788.75,
+    "('Open', 'HDFCLIFE.BO')":805.049987793,
+    "('Volume', 'HDFCLIFE.BO')":78806
+  },
+  {
+    "('Date', '')":"2025-08-19",
+    "('Close', 'HDFCLIFE.BO')":793.5,
+    "('High', 'HDFCLIFE.BO')":796.299987793,
+    "('Low', 'HDFCLIFE.BO')":785.200012207,
+    "('Open', 'HDFCLIFE.BO')":796.299987793,
+    "('Volume', 'HDFCLIFE.BO')":12486
+  },
+  {
+    "('Date', '')":"2025-08-20",
+    "('Close', 'HDFCLIFE.BO')":796.299987793,
+    "('High', 'HDFCLIFE.BO')":801.1500244141,
+    "('Low', 'HDFCLIFE.BO')":793.0,
+    "('Open', 'HDFCLIFE.BO')":798.299987793,
+    "('Volume', 'HDFCLIFE.BO')":28000
+  },
+  {
+    "('Date', '')":"2025-08-21",
+    "('Close', 'HDFCLIFE.BO')":795.3499755859,
+    "('High', 'HDFCLIFE.BO')":806.799987793,
+    "('Low', 'HDFCLIFE.BO')":791.950012207,
+    "('Open', 'HDFCLIFE.BO')":797.75,
+    "('Volume', 'HDFCLIFE.BO')":34416
+  },
+  {
+    "('Date', '')":"2025-08-22",
+    "('Close', 'HDFCLIFE.BO')":788.450012207,
+    "('High', 'HDFCLIFE.BO')":799.1500244141,
+    "('Low', 'HDFCLIFE.BO')":787.0,
+    "('Open', 'HDFCLIFE.BO')":799.1500244141,
+    "('Volume', 'HDFCLIFE.BO')":11701
+  },
+  {
+    "('Date', '')":"2025-08-25",
+    "('Close', 'HDFCLIFE.BO')":787.0,
+    "('High', 'HDFCLIFE.BO')":791.5,
+    "('Low', 'HDFCLIFE.BO')":785.700012207,
+    "('Open', 'HDFCLIFE.BO')":788.450012207,
+    "('Volume', 'HDFCLIFE.BO')":10203
+  },
+  {
+    "('Date', '')":"2025-08-26",
+    "('Close', 'HDFCLIFE.BO')":778.75,
+    "('High', 'HDFCLIFE.BO')":790.0,
+    "('Low', 'HDFCLIFE.BO')":770.799987793,
+    "('Open', 'HDFCLIFE.BO')":783.1500244141,
+    "('Volume', 'HDFCLIFE.BO')":39213
+  },
+  {
+    "('Date', '')":"2025-08-28",
+    "('Close', 'HDFCLIFE.BO')":775.0999755859,
+    "('High', 'HDFCLIFE.BO')":789.0,
+    "('Low', 'HDFCLIFE.BO')":771.299987793,
+    "('Open', 'HDFCLIFE.BO')":772.049987793,
+    "('Volume', 'HDFCLIFE.BO')":38949
+  },
+  {
+    "('Date', '')":"2025-08-29",
+    "('Close', 'HDFCLIFE.BO')":771.5999755859,
+    "('High', 'HDFCLIFE.BO')":778.25,
+    "('Low', 'HDFCLIFE.BO')":766.6500244141,
+    "('Open', 'HDFCLIFE.BO')":770.0,
+    "('Volume', 'HDFCLIFE.BO')":15452
+  },
+  {
+    "('Date', '')":"2025-09-01",
+    "('Close', 'HDFCLIFE.BO')":781.799987793,
+    "('High', 'HDFCLIFE.BO')":784.950012207,
+    "('Low', 'HDFCLIFE.BO')":772.0,
+    "('Open', 'HDFCLIFE.BO')":776.200012207,
+    "('Volume', 'HDFCLIFE.BO')":17578
+  },
+  {
+    "('Date', '')":"2025-09-02",
+    "('Close', 'HDFCLIFE.BO')":781.799987793,
+    "('High', 'HDFCLIFE.BO')":795.5999755859,
+    "('Low', 'HDFCLIFE.BO')":777.0,
+    "('Open', 'HDFCLIFE.BO')":790.0,
+    "('Volume', 'HDFCLIFE.BO')":36378
+  },
+  {
+    "('Date', '')":"2025-09-03",
+    "('Close', 'HDFCLIFE.BO')":776.8499755859,
+    "('High', 'HDFCLIFE.BO')":784.700012207,
+    "('Low', 'HDFCLIFE.BO')":770.799987793,
+    "('Open', 'HDFCLIFE.BO')":781.0999755859,
+    "('Volume', 'HDFCLIFE.BO')":24868
+  },
+  {
+    "('Date', '')":"2025-09-04",
+    "('Close', 'HDFCLIFE.BO')":753.950012207,
+    "('High', 'HDFCLIFE.BO')":814.950012207,
+    "('Low', 'HDFCLIFE.BO')":750.3499755859,
+    "('Open', 'HDFCLIFE.BO')":814.950012207,
+    "('Volume', 'HDFCLIFE.BO')":273812
+  },
+  {
+    "('Date', '')":"2025-09-05",
+    "('Close', 'HDFCLIFE.BO')":759.799987793,
+    "('High', 'HDFCLIFE.BO')":770.5,
+    "('Low', 'HDFCLIFE.BO')":753.5999755859,
+    "('Open', 'HDFCLIFE.BO')":764.049987793,
+    "('Volume', 'HDFCLIFE.BO')":59175
+  },
+  {
+    "('Date', '')":"2025-09-08",
+    "('Close', 'HDFCLIFE.BO')":754.25,
+    "('High', 'HDFCLIFE.BO')":761.799987793,
+    "('Low', 'HDFCLIFE.BO')":748.5,
+    "('Open', 'HDFCLIFE.BO')":759.75,
+    "('Volume', 'HDFCLIFE.BO')":118664
+  },
+  {
+    "('Date', '')":"2025-09-09",
+    "('Close', 'HDFCLIFE.BO')":760.950012207,
+    "('High', 'HDFCLIFE.BO')":763.0,
+    "('Low', 'HDFCLIFE.BO')":751.450012207,
+    "('Open', 'HDFCLIFE.BO')":751.450012207,
+    "('Volume', 'HDFCLIFE.BO')":52669
+  },
+  {
+    "('Date', '')":"2025-09-10",
+    "('Close', 'HDFCLIFE.BO')":777.6500244141,
+    "('High', 'HDFCLIFE.BO')":778.700012207,
+    "('Low', 'HDFCLIFE.BO')":760.950012207,
+    "('Open', 'HDFCLIFE.BO')":762.299987793,
+    "('Volume', 'HDFCLIFE.BO')":40631
+  },
+  {
+    "('Date', '')":"2025-09-11",
+    "('Close', 'HDFCLIFE.BO')":774.4000244141,
+    "('High', 'HDFCLIFE.BO')":778.6500244141,
+    "('Low', 'HDFCLIFE.BO')":771.549987793,
+    "('Open', 'HDFCLIFE.BO')":778.0,
+    "('Volume', 'HDFCLIFE.BO')":33419
+  },
+  {
+    "('Date', '')":"2025-09-12",
+    "('Close', 'HDFCLIFE.BO')":779.75,
+    "('High', 'HDFCLIFE.BO')":781.0,
+    "('Low', 'HDFCLIFE.BO')":770.25,
+    "('Open', 'HDFCLIFE.BO')":774.0999755859,
+    "('Volume', 'HDFCLIFE.BO')":37965
+  },
+  {
+    "('Date', '')":"2025-09-15",
+    "('Close', 'HDFCLIFE.BO')":776.9000244141,
+    "('High', 'HDFCLIFE.BO')":779.75,
+    "('Low', 'HDFCLIFE.BO')":771.4000244141,
+    "('Open', 'HDFCLIFE.BO')":774.200012207,
+    "('Volume', 'HDFCLIFE.BO')":243612
+  },
+  {
+    "('Date', '')":"2025-09-16",
+    "('Close', 'HDFCLIFE.BO')":774.049987793,
+    "('High', 'HDFCLIFE.BO')":780.8499755859,
+    "('Low', 'HDFCLIFE.BO')":770.799987793,
+    "('Open', 'HDFCLIFE.BO')":772.549987793,
+    "('Volume', 'HDFCLIFE.BO')":22426
+  },
+  {
+    "('Date', '')":"2025-09-17",
+    "('Close', 'HDFCLIFE.BO')":768.0999755859,
+    "('High', 'HDFCLIFE.BO')":779.950012207,
+    "('Low', 'HDFCLIFE.BO')":761.25,
+    "('Open', 'HDFCLIFE.BO')":779.950012207,
+    "('Volume', 'HDFCLIFE.BO')":270980
+  },
+  {
+    "('Date', '')":"2025-09-18",
+    "('Close', 'HDFCLIFE.BO')":785.0,
+    "('High', 'HDFCLIFE.BO')":789.5,
+    "('Low', 'HDFCLIFE.BO')":766.0,
+    "('Open', 'HDFCLIFE.BO')":766.0,
+    "('Volume', 'HDFCLIFE.BO')":155769
+  },
+  {
+    "('Date', '')":"2025-09-19",
+    "('Close', 'HDFCLIFE.BO')":782.549987793,
+    "('High', 'HDFCLIFE.BO')":793.5,
+    "('Low', 'HDFCLIFE.BO')":780.299987793,
+    "('Open', 'HDFCLIFE.BO')":785.0,
+    "('Volume', 'HDFCLIFE.BO')":57804
+  },
+  {
+    "('Date', '')":"2025-09-22",
+    "('Close', 'HDFCLIFE.BO')":787.6500244141,
+    "('High', 'HDFCLIFE.BO')":796.5999755859,
+    "('Low', 'HDFCLIFE.BO')":783.450012207,
+    "('Open', 'HDFCLIFE.BO')":786.549987793,
+    "('Volume', 'HDFCLIFE.BO')":51539
+  },
+  {
+    "('Date', '')":"2025-09-23",
+    "('Close', 'HDFCLIFE.BO')":774.9000244141,
+    "('High', 'HDFCLIFE.BO')":795.950012207,
+    "('Low', 'HDFCLIFE.BO')":774.0999755859,
+    "('Open', 'HDFCLIFE.BO')":795.950012207,
+    "('Volume', 'HDFCLIFE.BO')":15884
+  },
+  {
+    "('Date', '')":"2025-09-24",
+    "('Close', 'HDFCLIFE.BO')":770.200012207,
+    "('High', 'HDFCLIFE.BO')":775.5999755859,
+    "('Low', 'HDFCLIFE.BO')":768.450012207,
+    "('Open', 'HDFCLIFE.BO')":771.700012207,
+    "('Volume', 'HDFCLIFE.BO')":7453
+  },
+  {
+    "('Date', '')":"2025-09-25",
+    "('Close', 'HDFCLIFE.BO')":764.75,
+    "('High', 'HDFCLIFE.BO')":770.8499755859,
+    "('Low', 'HDFCLIFE.BO')":758.700012207,
+    "('Open', 'HDFCLIFE.BO')":766.799987793,
+    "('Volume', 'HDFCLIFE.BO')":20854
+  },
+  {
+    "('Date', '')":"2025-09-26",
+    "('Close', 'HDFCLIFE.BO')":763.9000244141,
+    "('High', 'HDFCLIFE.BO')":775.3499755859,
+    "('Low', 'HDFCLIFE.BO')":762.549987793,
+    "('Open', 'HDFCLIFE.BO')":766.5999755859,
+    "('Volume', 'HDFCLIFE.BO')":22819
+  },
+  {
+    "('Date', '')":"2025-09-29",
+    "('Close', 'HDFCLIFE.BO')":756.75,
+    "('High', 'HDFCLIFE.BO')":768.9000244141,
+    "('Low', 'HDFCLIFE.BO')":754.6500244141,
+    "('Open', 'HDFCLIFE.BO')":760.5,
+    "('Volume', 'HDFCLIFE.BO')":19486
+  },
+  {
+    "('Date', '')":"2025-09-30",
+    "('Close', 'HDFCLIFE.BO')":756.450012207,
+    "('High', 'HDFCLIFE.BO')":767.950012207,
+    "('Low', 'HDFCLIFE.BO')":750.5999755859,
+    "('Open', 'HDFCLIFE.BO')":755.3499755859,
+    "('Volume', 'HDFCLIFE.BO')":20876
+  },
+  {
+    "('Date', '')":"2025-10-01",
+    "('Close', 'HDFCLIFE.BO')":764.6500244141,
+    "('High', 'HDFCLIFE.BO')":766.0,
+    "('Low', 'HDFCLIFE.BO')":748.6500244141,
+    "('Open', 'HDFCLIFE.BO')":754.4000244141,
+    "('Volume', 'HDFCLIFE.BO')":207323
+  },
+  {
+    "('Date', '')":"2025-10-03",
+    "('Close', 'HDFCLIFE.BO')":759.299987793,
+    "('High', 'HDFCLIFE.BO')":767.25,
+    "('Low', 'HDFCLIFE.BO')":755.299987793,
+    "('Open', 'HDFCLIFE.BO')":762.950012207,
+    "('Volume', 'HDFCLIFE.BO')":40995
+  },
+  {
+    "('Date', '')":"2025-10-06",
+    "('Close', 'HDFCLIFE.BO')":763.049987793,
+    "('High', 'HDFCLIFE.BO')":764.950012207,
+    "('Low', 'HDFCLIFE.BO')":688.1500244141,
+    "('Open', 'HDFCLIFE.BO')":688.1500244141,
+    "('Volume', 'HDFCLIFE.BO')":43562
+  },
+  {
+    "('Date', '')":"2025-10-07",
+    "('Close', 'HDFCLIFE.BO')":756.0,
+    "('High', 'HDFCLIFE.BO')":770.6500244141,
+    "('Low', 'HDFCLIFE.BO')":753.049987793,
+    "('Open', 'HDFCLIFE.BO')":760.5999755859,
+    "('Volume', 'HDFCLIFE.BO')":62838
+  },
+  {
+    "('Date', '')":"2025-10-08",
+    "('Close', 'HDFCLIFE.BO')":747.799987793,
+    "('High', 'HDFCLIFE.BO')":756.700012207,
+    "('Low', 'HDFCLIFE.BO')":742.799987793,
+    "('Open', 'HDFCLIFE.BO')":756.299987793,
+    "('Volume', 'HDFCLIFE.BO')":37281
+  },
+  {
+    "('Date', '')":"2025-10-09",
+    "('Close', 'HDFCLIFE.BO')":754.299987793,
+    "('High', 'HDFCLIFE.BO')":757.200012207,
+    "('Low', 'HDFCLIFE.BO')":741.799987793,
+    "('Open', 'HDFCLIFE.BO')":747.5,
+    "('Volume', 'HDFCLIFE.BO')":84926
+  },
+  {
+    "('Date', '')":"2025-10-10",
+    "('Close', 'HDFCLIFE.BO')":747.6500244141,
+    "('High', 'HDFCLIFE.BO')":759.1500244141,
+    "('Low', 'HDFCLIFE.BO')":744.0,
+    "('Open', 'HDFCLIFE.BO')":754.299987793,
+    "('Volume', 'HDFCLIFE.BO')":38576
+  },
+  {
+    "('Date', '')":"2025-10-13",
+    "('Close', 'HDFCLIFE.BO')":746.25,
+    "('High', 'HDFCLIFE.BO')":749.950012207,
+    "('Low', 'HDFCLIFE.BO')":740.75,
+    "('Open', 'HDFCLIFE.BO')":740.75,
+    "('Volume', 'HDFCLIFE.BO')":38506
+  },
+  {
+    "('Date', '')":"2025-10-14",
+    "('Close', 'HDFCLIFE.BO')":743.8499755859,
+    "('High', 'HDFCLIFE.BO')":747.5999755859,
+    "('Low', 'HDFCLIFE.BO')":739.75,
+    "('Open', 'HDFCLIFE.BO')":745.049987793,
+    "('Volume', 'HDFCLIFE.BO')":20760
+  },
+  {
+    "('Date', '')":"2025-10-15",
+    "('Close', 'HDFCLIFE.BO')":761.25,
+    "('High', 'HDFCLIFE.BO')":764.0,
+    "('Low', 'HDFCLIFE.BO')":744.299987793,
+    "('Open', 'HDFCLIFE.BO')":746.700012207,
+    "('Volume', 'HDFCLIFE.BO')":89818
+  },
+  {
+    "('Date', '')":"2025-10-16",
+    "('Close', 'HDFCLIFE.BO')":742.9000244141,
+    "('High', 'HDFCLIFE.BO')":761.200012207,
+    "('Low', 'HDFCLIFE.BO')":726.1500244141,
+    "('Open', 'HDFCLIFE.BO')":761.200012207,
+    "('Volume', 'HDFCLIFE.BO')":169696
+  },
+  {
+    "('Date', '')":"2025-10-17",
+    "('Close', 'HDFCLIFE.BO')":745.9000244141,
+    "('High', 'HDFCLIFE.BO')":749.049987793,
+    "('Low', 'HDFCLIFE.BO')":736.0,
+    "('Open', 'HDFCLIFE.BO')":740.049987793,
+    "('Volume', 'HDFCLIFE.BO')":331506
+  },
+  {
+    "('Date', '')":"2025-10-20",
+    "('Close', 'HDFCLIFE.BO')":742.299987793,
+    "('High', 'HDFCLIFE.BO')":753.8499755859,
+    "('Low', 'HDFCLIFE.BO')":737.549987793,
+    "('Open', 'HDFCLIFE.BO')":750.0,
+    "('Volume', 'HDFCLIFE.BO')":26911
+  },
+  {
+    "('Date', '')":"2025-10-21",
+    "('Close', 'HDFCLIFE.BO')":743.5,
+    "('High', 'HDFCLIFE.BO')":746.549987793,
+    "('Low', 'HDFCLIFE.BO')":739.049987793,
+    "('Open', 'HDFCLIFE.BO')":739.049987793,
+    "('Volume', 'HDFCLIFE.BO')":14448
+  },
+  {
+    "('Date', '')":"2025-10-23",
+    "('Close', 'HDFCLIFE.BO')":743.5999755859,
+    "('High', 'HDFCLIFE.BO')":752.0,
+    "('Low', 'HDFCLIFE.BO')":742.4000244141,
+    "('Open', 'HDFCLIFE.BO')":744.950012207,
+    "('Volume', 'HDFCLIFE.BO')":50125
+  },
+  {
+    "('Date', '')":"2025-10-24",
+    "('Close', 'HDFCLIFE.BO')":735.299987793,
+    "('High', 'HDFCLIFE.BO')":745.5,
+    "('Low', 'HDFCLIFE.BO')":734.0,
+    "('Open', 'HDFCLIFE.BO')":740.25,
+    "('Volume', 'HDFCLIFE.BO')":420210
+  },
+  {
+    "('Date', '')":"2025-10-27",
+    "('Close', 'HDFCLIFE.BO')":737.1500244141,
+    "('High', 'HDFCLIFE.BO')":743.549987793,
+    "('Low', 'HDFCLIFE.BO')":732.049987793,
+    "('Open', 'HDFCLIFE.BO')":732.6500244141,
+    "('Volume', 'HDFCLIFE.BO')":64235
+  },
+  {
+    "('Date', '')":"2025-10-28",
+    "('Close', 'HDFCLIFE.BO')":746.799987793,
+    "('High', 'HDFCLIFE.BO')":749.0,
+    "('Low', 'HDFCLIFE.BO')":735.200012207,
+    "('Open', 'HDFCLIFE.BO')":735.200012207,
+    "('Volume', 'HDFCLIFE.BO')":48740
+  },
+  {
+    "('Date', '')":"2025-10-29",
+    "('Close', 'HDFCLIFE.BO')":761.0999755859,
+    "('High', 'HDFCLIFE.BO')":763.4000244141,
+    "('Low', 'HDFCLIFE.BO')":748.6500244141,
+    "('Open', 'HDFCLIFE.BO')":748.6500244141,
+    "('Volume', 'HDFCLIFE.BO')":33041
+  },
+  {
+    "('Date', '')":"2025-10-30",
+    "('Close', 'HDFCLIFE.BO')":746.3499755859,
+    "('High', 'HDFCLIFE.BO')":761.0,
+    "('Low', 'HDFCLIFE.BO')":744.0999755859,
+    "('Open', 'HDFCLIFE.BO')":761.0,
+    "('Volume', 'HDFCLIFE.BO')":322036
+  },
+  {
+    "('Date', '')":"2025-10-31",
+    "('Close', 'HDFCLIFE.BO')":731.799987793,
+    "('High', 'HDFCLIFE.BO')":749.299987793,
+    "('Low', 'HDFCLIFE.BO')":730.0,
+    "('Open', 'HDFCLIFE.BO')":749.299987793,
+    "('Volume', 'HDFCLIFE.BO')":109680
+  },
+  {
+    "('Date', '')":"2025-11-03",
+    "('Close', 'HDFCLIFE.BO')":735.799987793,
+    "('High', 'HDFCLIFE.BO')":738.0999755859,
+    "('Low', 'HDFCLIFE.BO')":728.700012207,
+    "('Open', 'HDFCLIFE.BO')":731.75,
+    "('Volume', 'HDFCLIFE.BO')":610601
+  },
+  {
+    "('Date', '')":"2025-11-04",
+    "('Close', 'HDFCLIFE.BO')":742.5999755859,
+    "('High', 'HDFCLIFE.BO')":748.6500244141,
+    "('Low', 'HDFCLIFE.BO')":731.200012207,
+    "('Open', 'HDFCLIFE.BO')":731.200012207,
+    "('Volume', 'HDFCLIFE.BO')":25032
+  },
+  {
+    "('Date', '')":"2025-11-06",
+    "('Close', 'HDFCLIFE.BO')":735.700012207,
+    "('High', 'HDFCLIFE.BO')":746.8499755859,
+    "('Low', 'HDFCLIFE.BO')":734.299987793,
+    "('Open', 'HDFCLIFE.BO')":741.1500244141,
+    "('Volume', 'HDFCLIFE.BO')":38722
+  },
+  {
+    "('Date', '')":"2025-11-07",
+    "('Close', 'HDFCLIFE.BO')":749.049987793,
+    "('High', 'HDFCLIFE.BO')":750.0,
+    "('Low', 'HDFCLIFE.BO')":732.0,
+    "('Open', 'HDFCLIFE.BO')":734.950012207,
+    "('Volume', 'HDFCLIFE.BO')":44144
+  },
+  {
+    "('Date', '')":"2025-11-10",
+    "('Close', 'HDFCLIFE.BO')":750.299987793,
+    "('High', 'HDFCLIFE.BO')":759.75,
+    "('Low', 'HDFCLIFE.BO')":749.5999755859,
+    "('Open', 'HDFCLIFE.BO')":749.950012207,
+    "('Volume', 'HDFCLIFE.BO')":32582
+  },
+  {
+    "('Date', '')":"2025-11-11",
+    "('Close', 'HDFCLIFE.BO')":763.8499755859,
+    "('High', 'HDFCLIFE.BO')":765.0,
+    "('Low', 'HDFCLIFE.BO')":747.450012207,
+    "('Open', 'HDFCLIFE.BO')":758.75,
+    "('Volume', 'HDFCLIFE.BO')":25312
+  },
+  {
+    "('Date', '')":"2025-11-12",
+    "('Close', 'HDFCLIFE.BO')":783.6500244141,
+    "('High', 'HDFCLIFE.BO')":785.9000244141,
+    "('Low', 'HDFCLIFE.BO')":766.4000244141,
+    "('Open', 'HDFCLIFE.BO')":769.799987793,
+    "('Volume', 'HDFCLIFE.BO')":60562
+  },
+  {
+    "('Date', '')":"2025-11-13",
+    "('Close', 'HDFCLIFE.BO')":781.8499755859,
+    "('High', 'HDFCLIFE.BO')":786.0,
+    "('Low', 'HDFCLIFE.BO')":778.3499755859,
+    "('Open', 'HDFCLIFE.BO')":780.3499755859,
+    "('Volume', 'HDFCLIFE.BO')":49520
+  }
+]

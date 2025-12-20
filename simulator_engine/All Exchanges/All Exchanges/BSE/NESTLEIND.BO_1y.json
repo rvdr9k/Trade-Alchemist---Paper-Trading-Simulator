@@ -1,0 +1,1986 @@
+[
+  {
+    "('Date', '')":"2024-11-13",
+    "('Close', 'NESTLEIND.BO')":1094.3839111328,
+    "('High', 'NESTLEIND.BO')":1103.7091936477,
+    "('Low', 'NESTLEIND.BO')":1087.7265803649,
+    "('Open', 'NESTLEIND.BO')":1103.7091936477,
+    "('Volume', 'NESTLEIND.BO')":156588
+  },
+  {
+    "('Date', '')":"2024-11-14",
+    "('Close', 'NESTLEIND.BO')":1068.9046630859,
+    "('High', 'NESTLEIND.BO')":1098.1041757789,
+    "('Low', 'NESTLEIND.BO')":1066.7507260622,
+    "('Open', 'NESTLEIND.BO')":1091.8383618623,
+    "('Volume', 'NESTLEIND.BO')":228968
+  },
+  {
+    "('Date', '')":"2024-11-18",
+    "('Close', 'NESTLEIND.BO')":1083.2963867188,
+    "('High', 'NESTLEIND.BO')":1085.2299465164,
+    "('Low', 'NESTLEIND.BO')":1062.2472477089,
+    "('Open', 'NESTLEIND.BO')":1072.4291807134,
+    "('Volume', 'NESTLEIND.BO')":77376
+  },
+  {
+    "('Date', '')":"2024-11-19",
+    "('Close', 'NESTLEIND.BO')":1086.1600341797,
+    "('High', 'NESTLEIND.BO')":1104.9818555921,
+    "('Low', 'NESTLEIND.BO')":1078.4256759221,
+    "('Open', 'NESTLEIND.BO')":1104.9818555921,
+    "('Volume', 'NESTLEIND.BO')":171800
+  },
+  {
+    "('Date', '')":"2024-11-21",
+    "('Close', 'NESTLEIND.BO')":1082.0480957031,
+    "('High', 'NESTLEIND.BO')":1088.167031438,
+    "('Low', 'NESTLEIND.BO')":1070.9851316008,
+    "('Open', 'NESTLEIND.BO')":1083.7858973539,
+    "('Volume', 'NESTLEIND.BO')":327450
+  },
+  {
+    "('Date', '')":"2024-11-22",
+    "('Close', 'NESTLEIND.BO')":1100.5028076172,
+    "('High', 'NESTLEIND.BO')":1102.4853667436,
+    "('Low', 'NESTLEIND.BO')":1079.4292880638,
+    "('Open', 'NESTLEIND.BO')":1086.5272536816,
+    "('Volume', 'NESTLEIND.BO')":108186
+  },
+  {
+    "('Date', '')":"2024-11-25",
+    "('Close', 'NESTLEIND.BO')":1106.6706542969,
+    "('High', 'NESTLEIND.BO')":1117.7337372828,
+    "('Low', 'NESTLEIND.BO')":1099.4993098262,
+    "('Open', 'NESTLEIND.BO')":1105.3244885115,
+    "('Volume', 'NESTLEIND.BO')":136772
+  },
+  {
+    "('Date', '')":"2024-11-26",
+    "('Close', 'NESTLEIND.BO')":1109.0693359375,
+    "('High', 'NESTLEIND.BO')":1119.4471469632,
+    "('Low', 'NESTLEIND.BO')":1101.7756120569,
+    "('Open', 'NESTLEIND.BO')":1113.6218482066,
+    "('Volume', 'NESTLEIND.BO')":47494
+  },
+  {
+    "('Date', '')":"2024-11-27",
+    "('Close', 'NESTLEIND.BO')":1112.6428222656,
+    "('High', 'NESTLEIND.BO')":1116.0205466429,
+    "('Low', 'NESTLEIND.BO')":1101.7022364071,
+    "('Open', 'NESTLEIND.BO')":1116.0205466429,
+    "('Volume', 'NESTLEIND.BO')":41698
+  },
+  {
+    "('Date', '')":"2024-11-28",
+    "('Close', 'NESTLEIND.BO')":1095.8524169922,
+    "('High', 'NESTLEIND.BO')":1115.3841320306,
+    "('Low', 'NESTLEIND.BO')":1090.6636310714,
+    "('Open', 'NESTLEIND.BO')":1115.3841320306,
+    "('Volume', 'NESTLEIND.BO')":177400
+  },
+  {
+    "('Date', '')":"2024-11-29",
+    "('Close', 'NESTLEIND.BO')":1093.9189453125,
+    "('High', 'NESTLEIND.BO')":1107.894619893,
+    "('Low', 'NESTLEIND.BO')":1090.6392193181,
+    "('Open', 'NESTLEIND.BO')":1090.6392193181,
+    "('Volume', 'NESTLEIND.BO')":125366
+  },
+  {
+    "('Date', '')":"2024-12-02",
+    "('Close', 'NESTLEIND.BO')":1103.8070068359,
+    "('High', 'NESTLEIND.BO')":1104.9084152678,
+    "('Low', 'NESTLEIND.BO')":1088.216030296,
+    "('Open', 'NESTLEIND.BO')":1100.4294021158,
+    "('Volume', 'NESTLEIND.BO')":52386
+  },
+  {
+    "('Date', '')":"2024-12-03",
+    "('Close', 'NESTLEIND.BO')":1106.6218261719,
+    "('High', 'NESTLEIND.BO')":1109.142899648,
+    "('Low', 'NESTLEIND.BO')":1101.4330398665,
+    "('Open', 'NESTLEIND.BO')":1104.8351445664,
+    "('Volume', 'NESTLEIND.BO')":213986
+  },
+  {
+    "('Date', '')":"2024-12-04",
+    "('Close', 'NESTLEIND.BO')":1104.5657958984,
+    "('High', 'NESTLEIND.BO')":1112.9365479144,
+    "('Low', 'NESTLEIND.BO')":1097.0273147634,
+    "('Open', 'NESTLEIND.BO')":1108.7511719064,
+    "('Volume', 'NESTLEIND.BO')":140762
+  },
+  {
+    "('Date', '')":"2024-12-05",
+    "('Close', 'NESTLEIND.BO')":1107.9434814453,
+    "('High', 'NESTLEIND.BO')":1114.1112968373,
+    "('Low', 'NESTLEIND.BO')":1087.1634804939,
+    "('Open', 'NESTLEIND.BO')":1108.4329962944,
+    "('Volume', 'NESTLEIND.BO')":63492
+  },
+  {
+    "('Date', '')":"2024-12-06",
+    "('Close', 'NESTLEIND.BO')":1109.3140869141,
+    "('High', 'NESTLEIND.BO')":1113.5484622919,
+    "('Low', 'NESTLEIND.BO')":1104.198680369,
+    "('Open', 'NESTLEIND.BO')":1113.4994630002,
+    "('Volume', 'NESTLEIND.BO')":207208
+  },
+  {
+    "('Date', '')":"2024-12-09",
+    "('Close', 'NESTLEIND.BO')":1091.3488769531,
+    "('High', 'NESTLEIND.BO')":1113.6218030061,
+    "('Low', 'NESTLEIND.BO')":1084.2264118626,
+    "('Open', 'NESTLEIND.BO')":1113.6218030061,
+    "('Volume', 'NESTLEIND.BO')":39264
+  },
+  {
+    "('Date', '')":"2024-12-10",
+    "('Close', 'NESTLEIND.BO')":1084.5936279297,
+    "('High', 'NESTLEIND.BO')":1096.513363412,
+    "('Low', 'NESTLEIND.BO')":1081.9257956574,
+    "('Open', 'NESTLEIND.BO')":1087.72659496,
+    "('Volume', 'NESTLEIND.BO')":257482
+  },
+  {
+    "('Date', '')":"2024-12-11",
+    "('Close', 'NESTLEIND.BO')":1097.9328613281,
+    "('High', 'NESTLEIND.BO')":1103.5379022348,
+    "('Low', 'NESTLEIND.BO')":1089.1705929018,
+    "('Open', 'NESTLEIND.BO')":1091.2755307587,
+    "('Volume', 'NESTLEIND.BO')":203094
+  },
+  {
+    "('Date', '')":"2024-12-12",
+    "('Close', 'NESTLEIND.BO')":1088.8525390625,
+    "('High', 'NESTLEIND.BO')":1102.3875785347,
+    "('Low', 'NESTLEIND.BO')":1084.7895414029,
+    "('Open', 'NESTLEIND.BO')":1098.9854738086,
+    "('Volume', 'NESTLEIND.BO')":100604
+  },
+  {
+    "('Date', '')":"2024-12-13",
+    "('Close', 'NESTLEIND.BO')":1103.3420410156,
+    "('High', 'NESTLEIND.BO')":1105.0064633156,
+    "('Low', 'NESTLEIND.BO')":1081.3628706851,
+    "('Open', 'NESTLEIND.BO')":1088.4363368063,
+    "('Volume', 'NESTLEIND.BO')":137802
+  },
+  {
+    "('Date', '')":"2024-12-16",
+    "('Close', 'NESTLEIND.BO')":1097.9573974609,
+    "('High', 'NESTLEIND.BO')":1105.1043626516,
+    "('Low', 'NESTLEIND.BO')":1090.6636734118,
+    "('Open', 'NESTLEIND.BO')":1103.3420612452,
+    "('Volume', 'NESTLEIND.BO')":209864
+  },
+  {
+    "('Date', '')":"2024-12-17",
+    "('Close', 'NESTLEIND.BO')":1078.3521728516,
+    "('High', 'NESTLEIND.BO')":1093.2334954126,
+    "('Low', 'NESTLEIND.BO')":1076.9326276466,
+    "('Open', 'NESTLEIND.BO')":1091.0551783179,
+    "('Volume', 'NESTLEIND.BO')":275690
+  },
+  {
+    "('Date', '')":"2024-12-18",
+    "('Close', 'NESTLEIND.BO')":1071.0340576172,
+    "('High', 'NESTLEIND.BO')":1083.4188079812,
+    "('Low', 'NESTLEIND.BO')":1067.8277112516,
+    "('Open', 'NESTLEIND.BO')":1079.3803102219,
+    "('Volume', 'NESTLEIND.BO')":68970
+  },
+  {
+    "('Date', '')":"2024-12-19",
+    "('Close', 'NESTLEIND.BO')":1057.9639892578,
+    "('High', 'NESTLEIND.BO')":1072.2822988869,
+    "('Low', 'NESTLEIND.BO')":1051.9184329436,
+    "('Open', 'NESTLEIND.BO')":1067.6564073703,
+    "('Volume', 'NESTLEIND.BO')":186334
+  },
+  {
+    "('Date', '')":"2024-12-20",
+    "('Close', 'NESTLEIND.BO')":1059.2368164062,
+    "('High', 'NESTLEIND.BO')":1064.9151172839,
+    "('Low', 'NESTLEIND.BO')":1050.988442909,
+    "('Open', 'NESTLEIND.BO')":1058.3311660779,
+    "('Volume', 'NESTLEIND.BO')":272152
+  },
+  {
+    "('Date', '')":"2024-12-23",
+    "('Close', 'NESTLEIND.BO')":1053.3625488281,
+    "('High', 'NESTLEIND.BO')":1067.1423436727,
+    "('Low', 'NESTLEIND.BO')":1050.7190970045,
+    "('Open', 'NESTLEIND.BO')":1065.6492995192,
+    "('Volume', 'NESTLEIND.BO')":91106
+  },
+  {
+    "('Date', '')":"2024-12-24",
+    "('Close', 'NESTLEIND.BO')":1060.6809082031,
+    "('High', 'NESTLEIND.BO')":1064.6949064772,
+    "('Low', 'NESTLEIND.BO')":1053.1913063382,
+    "('Open', 'NESTLEIND.BO')":1056.3486535381,
+    "('Volume', 'NESTLEIND.BO')":53508
+  },
+  {
+    "('Date', '')":"2024-12-26",
+    "('Close', 'NESTLEIND.BO')":1052.7017822266,
+    "('High', 'NESTLEIND.BO')":1064.6948971601,
+    "('Low', 'NESTLEIND.BO')":1051.0863591702,
+    "('Open', 'NESTLEIND.BO')":1059.7997482076,
+    "('Volume', 'NESTLEIND.BO')":166098
+  },
+  {
+    "('Date', '')":"2024-12-27",
+    "('Close', 'NESTLEIND.BO')":1059.9954833984,
+    "('High', 'NESTLEIND.BO')":1061.80678408,
+    "('Low', 'NESTLEIND.BO')":1053.0198962923,
+    "('Open', 'NESTLEIND.BO')":1056.8626359409,
+    "('Volume', 'NESTLEIND.BO')":61924
+  },
+  {
+    "('Date', '')":"2024-12-30",
+    "('Close', 'NESTLEIND.BO')":1058.2576904297,
+    "('High', 'NESTLEIND.BO')":1067.0933375645,
+    "('Low', 'NESTLEIND.BO')":1052.6037702016,
+    "('Open', 'NESTLEIND.BO')":1060.7786440176,
+    "('Volume', 'NESTLEIND.BO')":128090
+  },
+  {
+    "('Date', '')":"2024-12-31",
+    "('Close', 'NESTLEIND.BO')":1062.3696289062,
+    "('High', 'NESTLEIND.BO')":1063.7402944215,
+    "('Low', 'NESTLEIND.BO')":1051.9674380922,
+    "('Open', 'NESTLEIND.BO')":1058.9675245186,
+    "('Volume', 'NESTLEIND.BO')":36106
+  },
+  {
+    "('Date', '')":"2025-01-01",
+    "('Close', 'NESTLEIND.BO')":1062.0269775391,
+    "('High', 'NESTLEIND.BO')":1066.1633541616,
+    "('Low', 'NESTLEIND.BO')":1056.3730570619,
+    "('Open', 'NESTLEIND.BO')":1062.3696140355,
+    "('Volume', 'NESTLEIND.BO')":37634
+  },
+  {
+    "('Date', '')":"2025-01-02",
+    "('Close', 'NESTLEIND.BO')":1077.0061035156,
+    "('High', 'NESTLEIND.BO')":1080.3593282107,
+    "('Low', 'NESTLEIND.BO')":1059.3101886035,
+    "('Open', 'NESTLEIND.BO')":1062.0270200596,
+    "('Volume', 'NESTLEIND.BO')":55088
+  },
+  {
+    "('Date', '')":"2025-01-03",
+    "('Close', 'NESTLEIND.BO')":1092.8664550781,
+    "('High', 'NESTLEIND.BO')":1095.7790446743,
+    "('Low', 'NESTLEIND.BO')":1076.6879646018,
+    "('Open', 'NESTLEIND.BO')":1079.7719322079,
+    "('Volume', 'NESTLEIND.BO')":73872
+  },
+  {
+    "('Date', '')":"2025-01-06",
+    "('Close', 'NESTLEIND.BO')":1069.5655517578,
+    "('High', 'NESTLEIND.BO')":1114.7233010677,
+    "('Low', 'NESTLEIND.BO')":1062.0759499214,
+    "('Open', 'NESTLEIND.BO')":1114.7233010677,
+    "('Volume', 'NESTLEIND.BO')":52816
+  },
+  {
+    "('Date', '')":"2025-01-07",
+    "('Close', 'NESTLEIND.BO')":1083.9083251953,
+    "('High', 'NESTLEIND.BO')":1085.0587329698,
+    "('Low', 'NESTLEIND.BO')":1068.1214702839,
+    "('Open', 'NESTLEIND.BO')":1072.0375893317,
+    "('Volume', 'NESTLEIND.BO')":80522
+  },
+  {
+    "('Date', '')":"2025-01-08",
+    "('Close', 'NESTLEIND.BO')":1086.3068847656,
+    "('High', 'NESTLEIND.BO')":1091.5691696608,
+    "('Low', 'NESTLEIND.BO')":1073.9956334895,
+    "('Open', 'NESTLEIND.BO')":1091.5691696608,
+    "('Volume', 'NESTLEIND.BO')":75996
+  },
+  {
+    "('Date', '')":"2025-01-09",
+    "('Close', 'NESTLEIND.BO')":1104.6394042969,
+    "('High', 'NESTLEIND.BO')":1111.6883712642,
+    "('Low', 'NESTLEIND.BO')":1079.918901105,
+    "('Open', 'NESTLEIND.BO')":1085.2545658709,
+    "('Volume', 'NESTLEIND.BO')":59860
+  },
+  {
+    "('Date', '')":"2025-01-10",
+    "('Close', 'NESTLEIND.BO')":1099.4014892578,
+    "('High', 'NESTLEIND.BO')":1115.5311011609,
+    "('Low', 'NESTLEIND.BO')":1097.4924289118,
+    "('Open', 'NESTLEIND.BO')":1110.7093314901,
+    "('Volume', 'NESTLEIND.BO')":90330
+  },
+  {
+    "('Date', '')":"2025-01-13",
+    "('Close', 'NESTLEIND.BO')":1095.4852294922,
+    "('High', 'NESTLEIND.BO')":1107.0623273426,
+    "('Low', 'NESTLEIND.BO')":1087.7019912206,
+    "('Open', 'NESTLEIND.BO')":1100.1112404098,
+    "('Volume', 'NESTLEIND.BO')":39346
+  },
+  {
+    "('Date', '')":"2025-01-14",
+    "('Close', 'NESTLEIND.BO')":1086.208984375,
+    "('High', 'NESTLEIND.BO')":1105.8140785948,
+    "('Low', 'NESTLEIND.BO')":1076.9327015974,
+    "('Open', 'NESTLEIND.BO')":1096.5132961719,
+    "('Volume', 'NESTLEIND.BO')":102456
+  },
+  {
+    "('Date', '')":"2025-01-15",
+    "('Close', 'NESTLEIND.BO')":1077.2020263672,
+    "('High', 'NESTLEIND.BO')":1091.5937164796,
+    "('Low', 'NESTLEIND.BO')":1063.2263522093,
+    "('Open', 'NESTLEIND.BO')":1091.5937164796,
+    "('Volume', 'NESTLEIND.BO')":73308
+  },
+  {
+    "('Date', '')":"2025-01-16",
+    "('Close', 'NESTLEIND.BO')":1062.3452148438,
+    "('High', 'NESTLEIND.BO')":1091.3979720386,
+    "('Low', 'NESTLEIND.BO')":1055.7367636765,
+    "('Open', 'NESTLEIND.BO')":1091.3979720386,
+    "('Volume', 'NESTLEIND.BO')":279370
+  },
+  {
+    "('Date', '')":"2025-01-17",
+    "('Close', 'NESTLEIND.BO')":1086.3803710938,
+    "('High', 'NESTLEIND.BO')":1089.8558549523,
+    "('Low', 'NESTLEIND.BO')":1062.8346581249,
+    "('Open', 'NESTLEIND.BO')":1069.4431088468,
+    "('Volume', 'NESTLEIND.BO')":107780
+  },
+  {
+    "('Date', '')":"2025-01-20",
+    "('Close', 'NESTLEIND.BO')":1083.1007080078,
+    "('High', 'NESTLEIND.BO')":1089.5867803877,
+    "('Low', 'NESTLEIND.BO')":1077.9363019467,
+    "('Open', 'NESTLEIND.BO')":1086.3804339129,
+    "('Volume', 'NESTLEIND.BO')":31636
+  },
+  {
+    "('Date', '')":"2025-01-21",
+    "('Close', 'NESTLEIND.BO')":1074.9256591797,
+    "('High', 'NESTLEIND.BO')":1097.4189631472,
+    "('Low', 'NESTLEIND.BO')":1072.6249631843,
+    "('Open', 'NESTLEIND.BO')":1088.4853167369,
+    "('Volume', 'NESTLEIND.BO')":189528
+  },
+  {
+    "('Date', '')":"2025-01-22",
+    "('Close', 'NESTLEIND.BO')":1080.7509765625,
+    "('High', 'NESTLEIND.BO')":1082.9537935237,
+    "('Low', 'NESTLEIND.BO')":1074.1180260327,
+    "('Open', 'NESTLEIND.BO')":1077.3488720467,
+    "('Volume', 'NESTLEIND.BO')":17710
+  },
+  {
+    "('Date', '')":"2025-01-23",
+    "('Close', 'NESTLEIND.BO')":1074.7789306641,
+    "('High', 'NESTLEIND.BO')":1081.7545177841,
+    "('Low', 'NESTLEIND.BO')":1061.0968940027,
+    "('Open', 'NESTLEIND.BO')":1081.7545177841,
+    "('Volume', 'NESTLEIND.BO')":53326
+  },
+  {
+    "('Date', '')":"2025-01-24",
+    "('Close', 'NESTLEIND.BO')":1081.509765625,
+    "('High', 'NESTLEIND.BO')":1087.9468385981,
+    "('Low', 'NESTLEIND.BO')":1072.3068618284,
+    "('Open', 'NESTLEIND.BO')":1081.020250737,
+    "('Volume', 'NESTLEIND.BO')":12988
+  },
+  {
+    "('Date', '')":"2025-01-27",
+    "('Close', 'NESTLEIND.BO')":1064.6214599609,
+    "('High', 'NESTLEIND.BO')":1092.3034301766,
+    "('Low', 'NESTLEIND.BO')":1061.6108718123,
+    "('Open', 'NESTLEIND.BO')":1071.5480475486,
+    "('Volume', 'NESTLEIND.BO')":63888
+  },
+  {
+    "('Date', '')":"2025-01-28",
+    "('Close', 'NESTLEIND.BO')":1055.4185791016,
+    "('High', 'NESTLEIND.BO')":1068.9291180599,
+    "('Low', 'NESTLEIND.BO')":1048.9813867344,
+    "('Open', 'NESTLEIND.BO')":1064.6214827317,
+    "('Volume', 'NESTLEIND.BO')":176048
+  },
+  {
+    "('Date', '')":"2025-01-29",
+    "('Close', 'NESTLEIND.BO')":1067.6809082031,
+    "('High', 'NESTLEIND.BO')":1069.3697105669,
+    "('Low', 'NESTLEIND.BO')":1043.4009233599,
+    "('Open', 'NESTLEIND.BO')":1057.3520968602,
+    "('Volume', 'NESTLEIND.BO')":31218
+  },
+  {
+    "('Date', '')":"2025-01-30",
+    "('Close', 'NESTLEIND.BO')":1086.1112060547,
+    "('High', 'NESTLEIND.BO')":1091.6182487896,
+    "('Low', 'NESTLEIND.BO')":1067.1425033011,
+    "('Open', 'NESTLEIND.BO')":1074.9502422098,
+    "('Volume', 'NESTLEIND.BO')":76972
+  },
+  {
+    "('Date', '')":"2025-01-31",
+    "('Close', 'NESTLEIND.BO')":1132.2724609375,
+    "('High', 'NESTLEIND.BO')":1168.6923216158,
+    "('Low', 'NESTLEIND.BO')":1083.7369869995,
+    "('Open', 'NESTLEIND.BO')":1090.3944374295,
+    "('Volume', 'NESTLEIND.BO')":347620
+  },
+  {
+    "('Date', '')":"2025-02-01",
+    "('Close', 'NESTLEIND.BO')":1139.2724609375,
+    "('High', 'NESTLEIND.BO')":1162.0837817816,
+    "('Low', 'NESTLEIND.BO')":1105.8140723433,
+    "('Open', 'NESTLEIND.BO')":1134.6220697523,
+    "('Volume', 'NESTLEIND.BO')":76158
+  },
+  {
+    "('Date', '')":"2025-02-03",
+    "('Close', 'NESTLEIND.BO')":1134.1569824219,
+    "('High', 'NESTLEIND.BO')":1162.0104509169,
+    "('Low', 'NESTLEIND.BO')":1131.9052856707,
+    "('Open', 'NESTLEIND.BO')":1140.4717961066,
+    "('Volume', 'NESTLEIND.BO')":116644
+  },
+  {
+    "('Date', '')":"2025-02-04",
+    "('Close', 'NESTLEIND.BO')":1126.0555419922,
+    "('High', 'NESTLEIND.BO')":1137.803898486,
+    "('Low', 'NESTLEIND.BO')":1117.6847901862,
+    "('Open', 'NESTLEIND.BO')":1134.5975522908,
+    "('Volume', 'NESTLEIND.BO')":61776
+  },
+  {
+    "('Date', '')":"2025-02-05",
+    "('Close', 'NESTLEIND.BO')":1100.9434814453,
+    "('High', 'NESTLEIND.BO')":1124.9785907112,
+    "('Low', 'NESTLEIND.BO')":1089.2196237938,
+    "('Open', 'NESTLEIND.BO')":1124.9785907112,
+    "('Volume', 'NESTLEIND.BO')":123238
+  },
+  {
+    "('Date', '')":"2025-02-06",
+    "('Close', 'NESTLEIND.BO')":1098.2266845703,
+    "('High', 'NESTLEIND.BO')":1115.0904490718,
+    "('Low', 'NESTLEIND.BO')":1090.5168248502,
+    "('Open', 'NESTLEIND.BO')":1115.0904490718,
+    "('Volume', 'NESTLEIND.BO')":316114
+  },
+  {
+    "('Date', '')":"2025-02-07",
+    "('Close', 'NESTLEIND.BO')":1103.3582763672,
+    "('High', 'NESTLEIND.BO')":1109.605451889,
+    "('Low', 'NESTLEIND.BO')":1094.4336361519,
+    "('Open', 'NESTLEIND.BO')":1109.605451889,
+    "('Volume', 'NESTLEIND.BO')":37286
+  },
+  {
+    "('Date', '')":"2025-02-10",
+    "('Close', 'NESTLEIND.BO')":1101.0775146484,
+    "('High', 'NESTLEIND.BO')":1116.1006836037,
+    "('Low', 'NESTLEIND.BO')":1094.5079876557,
+    "('Open', 'NESTLEIND.BO')":1105.6886030869,
+    "('Volume', 'NESTLEIND.BO')":146836
+  },
+  {
+    "('Date', '')":"2025-02-11",
+    "('Close', 'NESTLEIND.BO')":1088.13671875,
+    "('High', 'NESTLEIND.BO')":1106.0604439582,
+    "('Low', 'NESTLEIND.BO')":1080.1790113313,
+    "('Open', 'NESTLEIND.BO')":1101.226263802,
+    "('Volume', 'NESTLEIND.BO')":68004
+  },
+  {
+    "('Date', '')":"2025-02-12",
+    "('Close', 'NESTLEIND.BO')":1087.2939453125,
+    "('High', 'NESTLEIND.BO')":1095.8467262579,
+    "('Low', 'NESTLEIND.BO')":1076.8323554517,
+    "('Open', 'NESTLEIND.BO')":1095.7475877899,
+    "('Volume', 'NESTLEIND.BO')":16600
+  },
+  {
+    "('Date', '')":"2025-02-13",
+    "('Close', 'NESTLEIND.BO')":1079.583984375,
+    "('High', 'NESTLEIND.BO')":1093.7146654325,
+    "('Low', 'NESTLEIND.BO')":1077.0802236928,
+    "('Open', 'NESTLEIND.BO')":1087.3187213731,
+    "('Volume', 'NESTLEIND.BO')":144360
+  },
+  {
+    "('Date', '')":"2025-02-14",
+    "('Close', 'NESTLEIND.BO')":1087.8641357422,
+    "('High', 'NESTLEIND.BO')":1102.1930933498,
+    "('Low', 'NESTLEIND.BO')":1076.2125218449,
+    "('Open', 'NESTLEIND.BO')":1079.8814922699,
+    "('Volume', 'NESTLEIND.BO')":58170
+  },
+  {
+    "('Date', '')":"2025-02-17",
+    "('Close', 'NESTLEIND.BO')":1098.4249267578,
+    "('High', 'NESTLEIND.BO')":1100.4578100594,
+    "('Low', 'NESTLEIND.BO')":1076.410860842,
+    "('Open', 'NESTLEIND.BO')":1095.7227680142,
+    "('Volume', 'NESTLEIND.BO')":151240
+  },
+  {
+    "('Date', '')":"2025-02-18",
+    "('Close', 'NESTLEIND.BO')":1102.6640625,
+    "('High', 'NESTLEIND.BO')":1104.4242240813,
+    "('Low', 'NESTLEIND.BO')":1090.9381253303,
+    "('Open', 'NESTLEIND.BO')":1103.1598758441,
+    "('Volume', 'NESTLEIND.BO')":36110
+  },
+  {
+    "('Date', '')":"2025-02-19",
+    "('Close', 'NESTLEIND.BO')":1092.2768554688,
+    "('High', 'NESTLEIND.BO')":1101.8955864394,
+    "('Low', 'NESTLEIND.BO')":1088.4591167246,
+    "('Open', 'NESTLEIND.BO')":1088.4591167246,
+    "('Volume', 'NESTLEIND.BO')":36712
+  },
+  {
+    "('Date', '')":"2025-02-20",
+    "('Close', 'NESTLEIND.BO')":1093.7642822266,
+    "('High', 'NESTLEIND.BO')":1096.3673023905,
+    "('Low', 'NESTLEIND.BO')":1085.632991467,
+    "('Open', 'NESTLEIND.BO')":1092.2768421329,
+    "('Volume', 'NESTLEIND.BO')":110786
+  },
+  {
+    "('Date', '')":"2025-02-21",
+    "('Close', 'NESTLEIND.BO')":1098.2514648438,
+    "('High', 'NESTLEIND.BO')":1099.7140901228,
+    "('Low', 'NESTLEIND.BO')":1085.8313153151,
+    "('Open', 'NESTLEIND.BO')":1098.2514648438,
+    "('Volume', 'NESTLEIND.BO')":20596
+  },
+  {
+    "('Date', '')":"2025-02-24",
+    "('Close', 'NESTLEIND.BO')":1100.8544921875,
+    "('High', 'NESTLEIND.BO')":1109.134551577,
+    "('Low', 'NESTLEIND.BO')":1089.7978293993,
+    "('Open', 'NESTLEIND.BO')":1090.6655028304,
+    "('Volume', 'NESTLEIND.BO')":49226
+  },
+  {
+    "('Date', '')":"2025-02-25",
+    "('Close', 'NESTLEIND.BO')":1115.7536621094,
+    "('High', 'NESTLEIND.BO')":1118.5301443438,
+    "('Low', 'NESTLEIND.BO')":1100.3090030533,
+    "('Open', 'NESTLEIND.BO')":1105.5894880562,
+    "('Volume', 'NESTLEIND.BO')":74592
+  },
+  {
+    "('Date', '')":"2025-02-27",
+    "('Close', 'NESTLEIND.BO')":1129.6115722656,
+    "('High', 'NESTLEIND.BO')":1130.9502440924,
+    "('Low', 'NESTLEIND.BO')":1115.9022605972,
+    "('Open', 'NESTLEIND.BO')":1115.9022605972,
+    "('Volume', 'NESTLEIND.BO')":27934
+  },
+  {
+    "('Date', '')":"2025-02-28",
+    "('Close', 'NESTLEIND.BO')":1085.7321777344,
+    "('High', 'NESTLEIND.BO')":1125.4220635248,
+    "('Low', 'NESTLEIND.BO')":1083.35224927,
+    "('Open', 'NESTLEIND.BO')":1125.4220635248,
+    "('Volume', 'NESTLEIND.BO')":86348
+  },
+  {
+    "('Date', '')":"2025-03-03",
+    "('Close', 'NESTLEIND.BO')":1083.7489013672,
+    "('High', 'NESTLEIND.BO')":1090.9877040272,
+    "('Low', 'NESTLEIND.BO')":1066.6433398968,
+    "('Open', 'NESTLEIND.BO')":1085.6577102357,
+    "('Volume', 'NESTLEIND.BO')":132588
+  },
+  {
+    "('Date', '')":"2025-03-04",
+    "('Close', 'NESTLEIND.BO')":1065.1806640625,
+    "('High', 'NESTLEIND.BO')":1075.8901598456,
+    "('Low', 'NESTLEIND.BO')":1050.0583568141,
+    "('Open', 'NESTLEIND.BO')":1075.8901598456,
+    "('Volume', 'NESTLEIND.BO')":103940
+  },
+  {
+    "('Date', '')":"2025-03-05",
+    "('Close', 'NESTLEIND.BO')":1089.3267822266,
+    "('High', 'NESTLEIND.BO')":1094.9294974836,
+    "('Low', 'NESTLEIND.BO')":1048.6452712527,
+    "('Open', 'NESTLEIND.BO')":1051.1491529658,
+    "('Volume', 'NESTLEIND.BO')":54092
+  },
+  {
+    "('Date', '')":"2025-03-06",
+    "('Close', 'NESTLEIND.BO')":1091.607421875,
+    "('High', 'NESTLEIND.BO')":1096.8134620894,
+    "('Low', 'NESTLEIND.BO')":1076.4604207563,
+    "('Open', 'NESTLEIND.BO')":1089.3267530766,
+    "('Volume', 'NESTLEIND.BO')":81778
+  },
+  {
+    "('Date', '')":"2025-03-07",
+    "('Close', 'NESTLEIND.BO')":1109.2833251953,
+    "('High', 'NESTLEIND.BO')":1113.547247734,
+    "('Low', 'NESTLEIND.BO')":1088.8062079134,
+    "('Open', 'NESTLEIND.BO')":1098.2018474742,
+    "('Volume', 'NESTLEIND.BO')":46158
+  },
+  {
+    "('Date', '')":"2025-03-10",
+    "('Close', 'NESTLEIND.BO')":1114.5885009766,
+    "('High', 'NESTLEIND.BO')":1127.7523706937,
+    "('Low', 'NESTLEIND.BO')":1074.0557563347,
+    "('Open', 'NESTLEIND.BO')":1114.3157794024,
+    "('Volume', 'NESTLEIND.BO')":47082
+  },
+  {
+    "('Date', '')":"2025-03-11",
+    "('Close', 'NESTLEIND.BO')":1116.1998291016,
+    "('High', 'NESTLEIND.BO')":1126.9341399494,
+    "('Low', 'NESTLEIND.BO')":1110.5476052047,
+    "('Open', 'NESTLEIND.BO')":1114.1174371947,
+    "('Volume', 'NESTLEIND.BO')":38184
+  },
+  {
+    "('Date', '')":"2025-03-12",
+    "('Close', 'NESTLEIND.BO')":1088.4343261719,
+    "('High', 'NESTLEIND.BO')":1118.7037573342,
+    "('Low', 'NESTLEIND.BO')":1086.8229326814,
+    "('Open', 'NESTLEIND.BO')":1118.5301742313,
+    "('Volume', 'NESTLEIND.BO')":19966
+  },
+  {
+    "('Date', '')":"2025-03-13",
+    "('Close', 'NESTLEIND.BO')":1086.7485351562,
+    "('High', 'NESTLEIND.BO')":1094.5822892156,
+    "('Low', 'NESTLEIND.BO')":1082.6827688644,
+    "('Open', 'NESTLEIND.BO')":1093.2684322627,
+    "('Volume', 'NESTLEIND.BO')":10452
+  },
+  {
+    "('Date', '')":"2025-03-17",
+    "('Close', 'NESTLEIND.BO')":1077.8486328125,
+    "('High', 'NESTLEIND.BO')":1092.87180208,
+    "('Low', 'NESTLEIND.BO')":1069.4694353084,
+    "('Open', 'NESTLEIND.BO')":1080.8483279,
+    "('Volume', 'NESTLEIND.BO')":18778
+  },
+  {
+    "('Date', '')":"2025-03-18",
+    "('Close', 'NESTLEIND.BO')":1092.0041503906,
+    "('High', 'NESTLEIND.BO')":1093.3428223019,
+    "('Low', 'NESTLEIND.BO')":1075.9150304809,
+    "('Open', 'NESTLEIND.BO')":1077.8486542362,
+    "('Volume', 'NESTLEIND.BO')":25566
+  },
+  {
+    "('Date', '')":"2025-03-19",
+    "('Close', 'NESTLEIND.BO')":1083.2282714844,
+    "('High', 'NESTLEIND.BO')":1096.1442341182,
+    "('Low', 'NESTLEIND.BO')":1081.8647847026,
+    "('Open', 'NESTLEIND.BO')":1090.9630085569,
+    "('Volume', 'NESTLEIND.BO')":40176
+  },
+  {
+    "('Date', '')":"2025-03-20",
+    "('Close', 'NESTLEIND.BO')":1101.3997802734,
+    "('High', 'NESTLEIND.BO')":1104.3746605166,
+    "('Low', 'NESTLEIND.BO')":1081.6665048324,
+    "('Open', 'NESTLEIND.BO')":1089.0788905619,
+    "('Volume', 'NESTLEIND.BO')":55132
+  },
+  {
+    "('Date', '')":"2025-03-21",
+    "('Close', 'NESTLEIND.BO')":1123.2403564453,
+    "('High', 'NESTLEIND.BO')":1127.9753982608,
+    "('Low', 'NESTLEIND.BO')":1106.6554237003,
+    "('Open', 'NESTLEIND.BO')":1106.6554237003,
+    "('Volume', 'NESTLEIND.BO')":55714
+  },
+  {
+    "('Date', '')":"2025-03-24",
+    "('Close', 'NESTLEIND.BO')":1122.19921875,
+    "('High', 'NESTLEIND.BO')":1134.2473865807,
+    "('Low', 'NESTLEIND.BO')":1121.0340089327,
+    "('Open', 'NESTLEIND.BO')":1133.4045280768,
+    "('Volume', 'NESTLEIND.BO')":32416
+  },
+  {
+    "('Date', '')":"2025-03-25",
+    "('Close', 'NESTLEIND.BO')":1118.3319091797,
+    "('High', 'NESTLEIND.BO')":1130.0826622411,
+    "('Low', 'NESTLEIND.BO')":1106.209296078,
+    "('Open', 'NESTLEIND.BO')":1120.538254542,
+    "('Volume', 'NESTLEIND.BO')":59730
+  },
+  {
+    "('Date', '')":"2025-03-26",
+    "('Close', 'NESTLEIND.BO')":1112.2829589844,
+    "('High', 'NESTLEIND.BO')":1125.4220131355,
+    "('Low', 'NESTLEIND.BO')":1110.6219357951,
+    "('Open', 'NESTLEIND.BO')":1117.6872762348,
+    "('Volume', 'NESTLEIND.BO')":41062
+  },
+  {
+    "('Date', '')":"2025-03-27",
+    "('Close', 'NESTLEIND.BO')":1110.6962890625,
+    "('High', 'NESTLEIND.BO')":1123.8106497345,
+    "('Low', 'NESTLEIND.BO')":1103.6805781909,
+    "('Open', 'NESTLEIND.BO')":1105.8621086324,
+    "('Volume', 'NESTLEIND.BO')":27510
+  },
+  {
+    "('Date', '')":"2025-03-28",
+    "('Close', 'NESTLEIND.BO')":1116.1007080078,
+    "('High', 'NESTLEIND.BO')":1134.2722195544,
+    "('Low', 'NESTLEIND.BO')":1113.2992898453,
+    "('Open', 'NESTLEIND.BO')":1115.1338961483,
+    "('Volume', 'NESTLEIND.BO')":45526
+  },
+  {
+    "('Date', '')":"2025-04-01",
+    "('Close', 'NESTLEIND.BO')":1106.705078125,
+    "('High', 'NESTLEIND.BO')":1133.6029536062,
+    "('Low', 'NESTLEIND.BO')":1099.7388760258,
+    "('Open', 'NESTLEIND.BO')":1118.8525057617,
+    "('Volume', 'NESTLEIND.BO')":80082
+  },
+  {
+    "('Date', '')":"2025-04-02",
+    "('Close', 'NESTLEIND.BO')":1096.0450439453,
+    "('High', 'NESTLEIND.BO')":1110.3243716391,
+    "('Low', 'NESTLEIND.BO')":1065.9987064059,
+    "('Open', 'NESTLEIND.BO')":1110.3243716391,
+    "('Volume', 'NESTLEIND.BO')":36874
+  },
+  {
+    "('Date', '')":"2025-04-03",
+    "('Close', 'NESTLEIND.BO')":1114.1669921875,
+    "('High', 'NESTLEIND.BO')":1115.5801087445,
+    "('Low', 'NESTLEIND.BO')":1083.8232374393,
+    "('Open', 'NESTLEIND.BO')":1083.8232374393,
+    "('Volume', 'NESTLEIND.BO')":36490
+  },
+  {
+    "('Date', '')":"2025-04-04",
+    "('Close', 'NESTLEIND.BO')":1121.2570800781,
+    "('High', 'NESTLEIND.BO')":1131.6443455874,
+    "('Low', 'NESTLEIND.BO')":1099.4164777244,
+    "('Open', 'NESTLEIND.BO')":1107.2008441853,
+    "('Volume', 'NESTLEIND.BO')":68030
+  },
+  {
+    "('Date', '')":"2025-04-07",
+    "('Close', 'NESTLEIND.BO')":1114.4396972656,
+    "('High', 'NESTLEIND.BO')":1118.5549724822,
+    "('Low', 'NESTLEIND.BO')":1072.9401420441,
+    "('Open', 'NESTLEIND.BO')":1083.8480362793,
+    "('Volume', 'NESTLEIND.BO')":58724
+  },
+  {
+    "('Date', '')":"2025-04-08",
+    "('Close', 'NESTLEIND.BO')":1128.0993652344,
+    "('High', 'NESTLEIND.BO')":1134.8919841645,
+    "('Low', 'NESTLEIND.BO')":1106.4571601464,
+    "('Open', 'NESTLEIND.BO')":1134.8919841645,
+    "('Volume', 'NESTLEIND.BO')":71048
+  },
+  {
+    "('Date', '')":"2025-04-09",
+    "('Close', 'NESTLEIND.BO')":1162.4344482422,
+    "('High', 'NESTLEIND.BO')":1171.3839037979,
+    "('Low', 'NESTLEIND.BO')":1125.8433972549,
+    "('Open', 'NESTLEIND.BO')":1125.8433972549,
+    "('Volume', 'NESTLEIND.BO')":66198
+  },
+  {
+    "('Date', '')":"2025-04-11",
+    "('Close', 'NESTLEIND.BO')":1170.541015625,
+    "('High', 'NESTLEIND.BO')":1176.0444712745,
+    "('Low', 'NESTLEIND.BO')":1151.5017100331,
+    "('Open', 'NESTLEIND.BO')":1167.1198308231,
+    "('Volume', 'NESTLEIND.BO')":95964
+  },
+  {
+    "('Date', '')":"2025-04-15",
+    "('Close', 'NESTLEIND.BO')":1172.9208984375,
+    "('High', 'NESTLEIND.BO')":1179.2921489226,
+    "('Low', 'NESTLEIND.BO')":1164.1698405173,
+    "('Open', 'NESTLEIND.BO')":1176.3915921699,
+    "('Volume', 'NESTLEIND.BO')":33566
+  },
+  {
+    "('Date', '')":"2025-04-16",
+    "('Close', 'NESTLEIND.BO')":1181.8208007812,
+    "('High', 'NESTLEIND.BO')":1184.5724681547,
+    "('Low', 'NESTLEIND.BO')":1165.5580979857,
+    "('Open', 'NESTLEIND.BO')":1178.7714759175,
+    "('Volume', 'NESTLEIND.BO')":10178
+  },
+  {
+    "('Date', '')":"2025-04-17",
+    "('Close', 'NESTLEIND.BO')":1197.6867675781,
+    "('High', 'NESTLEIND.BO')":1201.4548763806,
+    "('Low', 'NESTLEIND.BO')":1169.8715904352,
+    "('Open', 'NESTLEIND.BO')":1177.5566973018,
+    "('Volume', 'NESTLEIND.BO')":80800
+  },
+  {
+    "('Date', '')":"2025-04-21",
+    "('Close', 'NESTLEIND.BO')":1189.6793212891,
+    "('High', 'NESTLEIND.BO')":1200.3641232167,
+    "('Low', 'NESTLEIND.BO')":1185.5888611418,
+    "('Open', 'NESTLEIND.BO')":1191.4394828954,
+    "('Volume', 'NESTLEIND.BO')":36540
+  },
+  {
+    "('Date', '')":"2025-04-22",
+    "('Close', 'NESTLEIND.BO')":1193.2740478516,
+    "('High', 'NESTLEIND.BO')":1199.4222064461,
+    "('Low', 'NESTLEIND.BO')":1184.4238515702,
+    "('Open', 'NESTLEIND.BO')":1194.8854413506,
+    "('Volume', 'NESTLEIND.BO')":54490
+  },
+  {
+    "('Date', '')":"2025-04-23",
+    "('Close', 'NESTLEIND.BO')":1206.8840332031,
+    "('High', 'NESTLEIND.BO')":1210.0076815584,
+    "('Low', 'NESTLEIND.BO')":1191.5882637853,
+    "('Open', 'NESTLEIND.BO')":1195.0589572805,
+    "('Volume', 'NESTLEIND.BO')":37156
+  },
+  {
+    "('Date', '')":"2025-04-24",
+    "('Close', 'NESTLEIND.BO')":1207.2064208984,
+    "('High', 'NESTLEIND.BO')":1246.5987690467,
+    "('Low', 'NESTLEIND.BO')":1179.4408720999,
+    "('Open', 'NESTLEIND.BO')":1207.3055593631,
+    "('Volume', 'NESTLEIND.BO')":264124
+  },
+  {
+    "('Date', '')":"2025-04-25",
+    "('Close', 'NESTLEIND.BO')":1196.9925537109,
+    "('High', 'NESTLEIND.BO')":1206.3138688099,
+    "('Low', 'NESTLEIND.BO')":1183.9031298176,
+    "('Open', 'NESTLEIND.BO')":1194.9349767477,
+    "('Volume', 'NESTLEIND.BO')":88420
+  },
+  {
+    "('Date', '')":"2025-04-28",
+    "('Close', 'NESTLEIND.BO')":1192.0096435547,
+    "('High', 'NESTLEIND.BO')":1198.9263367799,
+    "('Low', 'NESTLEIND.BO')":1183.5064928319,
+    "('Open', 'NESTLEIND.BO')":1186.7540945564,
+    "('Volume', 'NESTLEIND.BO')":102308
+  },
+  {
+    "('Date', '')":"2025-04-29",
+    "('Close', 'NESTLEIND.BO')":1183.7296142578,
+    "('High', 'NESTLEIND.BO')":1191.0676763947,
+    "('Low', 'NESTLEIND.BO')":1170.119561366,
+    "('Open', 'NESTLEIND.BO')":1190.2496327477,
+    "('Volume', 'NESTLEIND.BO')":297334
+  },
+  {
+    "('Date', '')":"2025-04-30",
+    "('Close', 'NESTLEIND.BO')":1182.7380371094,
+    "('High', 'NESTLEIND.BO')":1192.6543049944,
+    "('Low', 'NESTLEIND.BO')":1173.2432590287,
+    "('Open', 'NESTLEIND.BO')":1173.2432590287,
+    "('Volume', 'NESTLEIND.BO')":14604
+  },
+  {
+    "('Date', '')":"2025-05-02",
+    "('Close', 'NESTLEIND.BO')":1158.6166992188,
+    "('High', 'NESTLEIND.BO')":1182.7131562053,
+    "('Low', 'NESTLEIND.BO')":1154.2038876273,
+    "('Open', 'NESTLEIND.BO')":1170.5162200165,
+    "('Volume', 'NESTLEIND.BO')":165706
+  },
+  {
+    "('Date', '')":"2025-05-05",
+    "('Close', 'NESTLEIND.BO')":1155.4434814453,
+    "('High', 'NESTLEIND.BO')":1169.9460231757,
+    "('Low', 'NESTLEIND.BO')":1152.2703241526,
+    "('Open', 'NESTLEIND.BO')":1169.9460231757,
+    "('Volume', 'NESTLEIND.BO')":83614
+  },
+  {
+    "('Date', '')":"2025-05-06",
+    "('Close', 'NESTLEIND.BO')":1167.6405029297,
+    "('High', 'NESTLEIND.BO')":1177.3831873693,
+    "('Low', 'NESTLEIND.BO')":1155.2699833822,
+    "('Open', 'NESTLEIND.BO')":1155.2699833822,
+    "('Volume', 'NESTLEIND.BO')":65768
+  },
+  {
+    "('Date', '')":"2025-05-07",
+    "('Close', 'NESTLEIND.BO')":1158.6414794922,
+    "('High', 'NESTLEIND.BO')":1164.4424714982,
+    "('Low', 'NESTLEIND.BO')":1148.1797693507,
+    "('Open', 'NESTLEIND.BO')":1148.1797693507,
+    "('Volume', 'NESTLEIND.BO')":142936
+  },
+  {
+    "('Date', '')":"2025-05-08",
+    "('Close', 'NESTLEIND.BO')":1160.7487792969,
+    "('High', 'NESTLEIND.BO')":1163.3021698439,
+    "('Low', 'NESTLEIND.BO')":1148.3038147506,
+    "('Open', 'NESTLEIND.BO')":1158.2200825809,
+    "('Volume', 'NESTLEIND.BO')":223622
+  },
+  {
+    "('Date', '')":"2025-05-09",
+    "('Close', 'NESTLEIND.BO')":1152.1711425781,
+    "('High', 'NESTLEIND.BO')":1159.335621622,
+    "('Low', 'NESTLEIND.BO')":1130.8263526202,
+    "('Open', 'NESTLEIND.BO')":1130.8263526202,
+    "('Volume', 'NESTLEIND.BO')":298448
+  },
+  {
+    "('Date', '')":"2025-05-12",
+    "('Close', 'NESTLEIND.BO')":1181.2504882812,
+    "('High', 'NESTLEIND.BO')":1183.4816483502,
+    "('Low', 'NESTLEIND.BO')":1163.4012077299,
+    "('Open', 'NESTLEIND.BO')":1177.5318881664,
+    "('Volume', 'NESTLEIND.BO')":19996
+  },
+  {
+    "('Date', '')":"2025-05-13",
+    "('Close', 'NESTLEIND.BO')":1175.1025390625,
+    "('High', 'NESTLEIND.BO')":1184.7957149632,
+    "('Low', 'NESTLEIND.BO')":1161.1949493831,
+    "('Open', 'NESTLEIND.BO')":1180.0358580409,
+    "('Volume', 'NESTLEIND.BO')":145102
+  },
+  {
+    "('Date', '')":"2025-05-14",
+    "('Close', 'NESTLEIND.BO')":1175.5982666016,
+    "('High', 'NESTLEIND.BO')":1177.5567051226,
+    "('Low', 'NESTLEIND.BO')":1167.5164847947,
+    "('Open', 'NESTLEIND.BO')":1176.0940799511,
+    "('Volume', 'NESTLEIND.BO')":108502
+  },
+  {
+    "('Date', '')":"2025-05-15",
+    "('Close', 'NESTLEIND.BO')":1188.9604492188,
+    "('High', 'NESTLEIND.BO')":1197.2405082043,
+    "('Low', 'NESTLEIND.BO')":1161.6907141449,
+    "('Open', 'NESTLEIND.BO')":1175.5983032422,
+    "('Volume', 'NESTLEIND.BO')":42628
+  },
+  {
+    "('Date', '')":"2025-05-16",
+    "('Close', 'NESTLEIND.BO')":1195.1829833984,
+    "('High', 'NESTLEIND.BO')":1197.8108185573,
+    "('Low', 'NESTLEIND.BO')":1179.0442334533,
+    "('Open', 'NESTLEIND.BO')":1185.6137608265,
+    "('Volume', 'NESTLEIND.BO')":13518
+  },
+  {
+    "('Date', '')":"2025-05-19",
+    "('Close', 'NESTLEIND.BO')":1193.4724121094,
+    "('High', 'NESTLEIND.BO')":1200.9591213723,
+    "('Low', 'NESTLEIND.BO')":1187.7952521807,
+    "('Open', 'NESTLEIND.BO')":1187.7952521807,
+    "('Volume', 'NESTLEIND.BO')":29728
+  },
+  {
+    "('Date', '')":"2025-05-20",
+    "('Close', 'NESTLEIND.BO')":1169.2270507812,
+    "('High', 'NESTLEIND.BO')":1197.2405058474,
+    "('Low', 'NESTLEIND.BO')":1167.7147958114,
+    "('Open', 'NESTLEIND.BO')":1191.8610034769,
+    "('Volume', 'NESTLEIND.BO')":28110
+  },
+  {
+    "('Date', '')":"2025-05-21",
+    "('Close', 'NESTLEIND.BO')":1185.9359130859,
+    "('High', 'NESTLEIND.BO')":1188.1918880564,
+    "('Low', 'NESTLEIND.BO')":1169.2270272648,
+    "('Open', 'NESTLEIND.BO')":1172.697720743,
+    "('Volume', 'NESTLEIND.BO')":10146
+  },
+  {
+    "('Date', '')":"2025-05-22",
+    "('Close', 'NESTLEIND.BO')":1171.5327148438,
+    "('High', 'NESTLEIND.BO')":1185.8616733693,
+    "('Low', 'NESTLEIND.BO')":1160.6000054046,
+    "('Open', 'NESTLEIND.BO')":1185.8616733693,
+    "('Volume', 'NESTLEIND.BO')":53660
+  },
+  {
+    "('Date', '')":"2025-05-23",
+    "('Close', 'NESTLEIND.BO')":1196.6455078125,
+    "('High', 'NESTLEIND.BO')":1199.3724812092,
+    "('Low', 'NESTLEIND.BO')":1165.3844522096,
+    "('Open', 'NESTLEIND.BO')":1165.3844522096,
+    "('Volume', 'NESTLEIND.BO')":162658
+  },
+  {
+    "('Date', '')":"2025-05-26",
+    "('Close', 'NESTLEIND.BO')":1216.4038085938,
+    "('High', 'NESTLEIND.BO')":1221.9320793813,
+    "('Low', 'NESTLEIND.BO')":1192.803043202,
+    "('Open', 'NESTLEIND.BO')":1192.803043202,
+    "('Volume', 'NESTLEIND.BO')":243998
+  },
+  {
+    "('Date', '')":"2025-05-27",
+    "('Close', 'NESTLEIND.BO')":1220.7916259766,
+    "('High', 'NESTLEIND.BO')":1230.4104777516,
+    "('Low', 'NESTLEIND.BO')":1205.6445036786,
+    "('Open', 'NESTLEIND.BO')":1216.3789355092,
+    "('Volume', 'NESTLEIND.BO')":68678
+  },
+  {
+    "('Date', '')":"2025-05-28",
+    "('Close', 'NESTLEIND.BO')":1199.0998535156,
+    "('High', 'NESTLEIND.BO')":1219.7009238166,
+    "('Low', 'NESTLEIND.BO')":1197.6620431223,
+    "('Open', 'NESTLEIND.BO')":1219.7009238166,
+    "('Volume', 'NESTLEIND.BO')":104820
+  },
+  {
+    "('Date', '')":"2025-05-29",
+    "('Close', 'NESTLEIND.BO')":1206.7105712891,
+    "('High', 'NESTLEIND.BO')":1209.2639616558,
+    "('Low', 'NESTLEIND.BO')":1193.1748424466,
+    "('Open', 'NESTLEIND.BO')":1199.1246027248,
+    "('Volume', 'NESTLEIND.BO')":19524
+  },
+  {
+    "('Date', '')":"2025-05-30",
+    "('Close', 'NESTLEIND.BO')":1188.3406982422,
+    "('High', 'NESTLEIND.BO')":1218.2134538776,
+    "('Low', 'NESTLEIND.BO')":1185.0435877407,
+    "('Open', 'NESTLEIND.BO')":1216.7260137629,
+    "('Volume', 'NESTLEIND.BO')":24600
+  },
+  {
+    "('Date', '')":"2025-06-02",
+    "('Close', 'NESTLEIND.BO')":1194.0177001953,
+    "('High', 'NESTLEIND.BO')":1197.3396254722,
+    "('Low', 'NESTLEIND.BO')":1185.1178746611,
+    "('Open', 'NESTLEIND.BO')":1185.1178746611,
+    "('Volume', 'NESTLEIND.BO')":34352
+  },
+  {
+    "('Date', '')":"2025-06-03",
+    "('Close', 'NESTLEIND.BO')":1185.3161621094,
+    "('High', 'NESTLEIND.BO')":1201.8515861048,
+    "('Low', 'NESTLEIND.BO')":1180.5564264765,
+    "('Open', 'NESTLEIND.BO')":1199.7443793222,
+    "('Volume', 'NESTLEIND.BO')":208840
+  },
+  {
+    "('Date', '')":"2025-06-04",
+    "('Close', 'NESTLEIND.BO')":1189.6545410156,
+    "('High', 'NESTLEIND.BO')":1191.6874242339,
+    "('Low', 'NESTLEIND.BO')":1182.1678318239,
+    "('Open', 'NESTLEIND.BO')":1189.5554025521,
+    "('Volume', 'NESTLEIND.BO')":70674
+  },
+  {
+    "('Date', '')":"2025-06-05",
+    "('Close', 'NESTLEIND.BO')":1190.5966796875,
+    "('High', 'NESTLEIND.BO')":1194.5135569244,
+    "('Low', 'NESTLEIND.BO')":1181.0274573557,
+    "('Open', 'NESTLEIND.BO')":1189.9520980914,
+    "('Volume', 'NESTLEIND.BO')":94456
+  },
+  {
+    "('Date', '')":"2025-06-06",
+    "('Close', 'NESTLEIND.BO')":1198.4305419922,
+    "('High', 'NESTLEIND.BO')":1201.4797457906,
+    "('Low', 'NESTLEIND.BO')":1184.9939512802,
+    "('Open', 'NESTLEIND.BO')":1192.4807815674,
+    "('Volume', 'NESTLEIND.BO')":81054
+  },
+  {
+    "('Date', '')":"2025-06-09",
+    "('Close', 'NESTLEIND.BO')":1197.8851318359,
+    "('High', 'NESTLEIND.BO')":1202.7936359022,
+    "('Low', 'NESTLEIND.BO')":1190.7454675489,
+    "('Open', 'NESTLEIND.BO')":1198.6040370308,
+    "('Volume', 'NESTLEIND.BO')":11104
+  },
+  {
+    "('Date', '')":"2025-06-10",
+    "('Close', 'NESTLEIND.BO')":1205.64453125,
+    "('High', 'NESTLEIND.BO')":1208.9912714934,
+    "('Low', 'NESTLEIND.BO')":1193.8937786052,
+    "('Open', 'NESTLEIND.BO')":1197.389287069,
+    "('Volume', 'NESTLEIND.BO')":311836
+  },
+  {
+    "('Date', '')":"2025-06-11",
+    "('Close', 'NESTLEIND.BO')":1199.0749511719,
+    "('High', 'NESTLEIND.BO')":1214.2468880246,
+    "('Low', 'NESTLEIND.BO')":1194.017679237,
+    "('Open', 'NESTLEIND.BO')":1214.2468880246,
+    "('Volume', 'NESTLEIND.BO')":71570
+  },
+  {
+    "('Date', '')":"2025-06-12",
+    "('Close', 'NESTLEIND.BO')":1183.6057128906,
+    "('High', 'NESTLEIND.BO')":1201.2815330596,
+    "('Low', 'NESTLEIND.BO')":1174.1109347912,
+    "('Open', 'NESTLEIND.BO')":1197.612441306,
+    "('Volume', 'NESTLEIND.BO')":61212
+  },
+  {
+    "('Date', '')":"2025-06-13",
+    "('Close', 'NESTLEIND.BO')":1178.3004150391,
+    "('High', 'NESTLEIND.BO')":1180.0357617475,
+    "('Low', 'NESTLEIND.BO')":1164.0705962394,
+    "('Open', 'NESTLEIND.BO')":1167.6652429926,
+    "('Volume', 'NESTLEIND.BO')":25808
+  },
+  {
+    "('Date', '')":"2025-06-16",
+    "('Close', 'NESTLEIND.BO')":1184.7211914062,
+    "('High', 'NESTLEIND.BO')":1186.6549361107,
+    "('Low', 'NESTLEIND.BO')":1171.2847221769,
+    "('Open', 'NESTLEIND.BO')":1171.2847221769,
+    "('Volume', 'NESTLEIND.BO')":16546
+  },
+  {
+    "('Date', '')":"2025-06-17",
+    "('Close', 'NESTLEIND.BO')":1170.86328125,
+    "('High', 'NESTLEIND.BO')":1182.4900806463,
+    "('Low', 'NESTLEIND.BO')":1167.0703573629,
+    "('Open', 'NESTLEIND.BO')":1176.6394586307,
+    "('Volume', 'NESTLEIND.BO')":15004
+  },
+  {
+    "('Date', '')":"2025-06-18",
+    "('Close', 'NESTLEIND.BO')":1159.7075195312,
+    "('High', 'NESTLEIND.BO')":1171.6813644838,
+    "('Low', 'NESTLEIND.BO')":1153.1379921119,
+    "('Open', 'NESTLEIND.BO')":1169.623787334,
+    "('Volume', 'NESTLEIND.BO')":12360
+  },
+  {
+    "('Date', '')":"2025-06-19",
+    "('Close', 'NESTLEIND.BO')":1149.7912597656,
+    "('High', 'NESTLEIND.BO')":1160.8727375319,
+    "('Low', 'NESTLEIND.BO')":1144.8827555882,
+    "('Open', 'NESTLEIND.BO')":1159.7075276377,
+    "('Volume', 'NESTLEIND.BO')":129444
+  },
+  {
+    "('Date', '')":"2025-06-20",
+    "('Close', 'NESTLEIND.BO')":1172.4250488281,
+    "('High', 'NESTLEIND.BO')":1187.4730331793,
+    "('Low', 'NESTLEIND.BO')":1150.2870300526,
+    "('Open', 'NESTLEIND.BO')":1160.1536677963,
+    "('Volume', 'NESTLEIND.BO')":173918
+  },
+  {
+    "('Date', '')":"2025-06-23",
+    "('Close', 'NESTLEIND.BO')":1169.7724609375,
+    "('High', 'NESTLEIND.BO')":1189.7289482762,
+    "('Low', 'NESTLEIND.BO')":1166.0290459351,
+    "('Open', 'NESTLEIND.BO')":1172.6233877002,
+    "('Volume', 'NESTLEIND.BO')":74096
+  },
+  {
+    "('Date', '')":"2025-06-24",
+    "('Close', 'NESTLEIND.BO')":1175.1273193359,
+    "('High', 'NESTLEIND.BO')":1180.7795433476,
+    "('Low', 'NESTLEIND.BO')":1169.127929126,
+    "('Open', 'NESTLEIND.BO')":1171.97885601,
+    "('Volume', 'NESTLEIND.BO')":144288
+  },
+  {
+    "('Date', '')":"2025-06-25",
+    "('Close', 'NESTLEIND.BO')":1192.1584472656,
+    "('High', 'NESTLEIND.BO')":1204.3306898515,
+    "('Low', 'NESTLEIND.BO')":1177.8294891239,
+    "('Open', 'NESTLEIND.BO')":1178.2756727428,
+    "('Volume', 'NESTLEIND.BO')":74554
+  },
+  {
+    "('Date', '')":"2025-06-26",
+    "('Close', 'NESTLEIND.BO')":1204.7272949219,
+    "('High', 'NESTLEIND.BO')":1212.090050497,
+    "('Low', 'NESTLEIND.BO')":1191.9352863578,
+    "('Open', 'NESTLEIND.BO')":1200.8599266051,
+    "('Volume', 'NESTLEIND.BO')":127242
+  },
+  {
+    "('Date', '')":"2025-06-27",
+    "('Close', 'NESTLEIND.BO')":1218.5853271484,
+    "('High', 'NESTLEIND.BO')":1221.1635324988,
+    "('Low', 'NESTLEIND.BO')":1202.8680673094,
+    "('Open', 'NESTLEIND.BO')":1216.7012121065,
+    "('Volume', 'NESTLEIND.BO')":67774
+  },
+  {
+    "('Date', '')":"2025-06-30",
+    "('Close', 'NESTLEIND.BO')":1222.4526367188,
+    "('High', 'NESTLEIND.BO')":1227.138048695,
+    "('Low', 'NESTLEIND.BO')":1210.8010229231,
+    "('Open', 'NESTLEIND.BO')":1223.1219121164,
+    "('Volume', 'NESTLEIND.BO')":142462
+  },
+  {
+    "('Date', '')":"2025-07-01",
+    "('Close', 'NESTLEIND.BO')":1195.0341796875,
+    "('High', 'NESTLEIND.BO')":1225.526702061,
+    "('Low', 'NESTLEIND.BO')":1192.9269728568,
+    "('Open', 'NESTLEIND.BO')":1222.8740521019,
+    "('Volume', 'NESTLEIND.BO')":61266
+  },
+  {
+    "('Date', '')":"2025-07-02",
+    "('Close', 'NESTLEIND.BO')":1184.1262207031,
+    "('High', 'NESTLEIND.BO')":1197.3892276764,
+    "('Low', 'NESTLEIND.BO')":1180.3828057403,
+    "('Open', 'NESTLEIND.BO')":1197.3892276764,
+    "('Volume', 'NESTLEIND.BO')":53620
+  },
+  {
+    "('Date', '')":"2025-07-03",
+    "('Close', 'NESTLEIND.BO')":1184.2750244141,
+    "('High', 'NESTLEIND.BO')":1194.5135218717,
+    "('Low', 'NESTLEIND.BO')":1182.5148627776,
+    "('Open', 'NESTLEIND.BO')":1189.9272482949,
+    "('Volume', 'NESTLEIND.BO')":46314
+  },
+  {
+    "('Date', '')":"2025-07-04",
+    "('Close', 'NESTLEIND.BO')":1196.0250244141,
+    "('High', 'NESTLEIND.BO')":1198.6999511719,
+    "('Low', 'NESTLEIND.BO')":1184.1500244141,
+    "('Open', 'NESTLEIND.BO')":1193.5,
+    "('Volume', 'NESTLEIND.BO')":157838
+  },
+  {
+    "('Date', '')":"2025-07-07",
+    "('Close', 'NESTLEIND.BO')":1211.4749755859,
+    "('High', 'NESTLEIND.BO')":1212.9000244141,
+    "('Low', 'NESTLEIND.BO')":1196.0250244141,
+    "('Open', 'NESTLEIND.BO')":1197.5999755859,
+    "('Volume', 'NESTLEIND.BO')":38632
+  },
+  {
+    "('Date', '')":"2025-07-08",
+    "('Close', 'NESTLEIND.BO')":1208.9499511719,
+    "('High', 'NESTLEIND.BO')":1217.9749755859,
+    "('Low', 'NESTLEIND.BO')":1203.5500488281,
+    "('Open', 'NESTLEIND.BO')":1212.5,
+    "('Volume', 'NESTLEIND.BO')":37336
+  },
+  {
+    "('Date', '')":"2025-07-09",
+    "('Close', 'NESTLEIND.BO')":1213.5,
+    "('High', 'NESTLEIND.BO')":1217.4000244141,
+    "('Low', 'NESTLEIND.BO')":1208.1750488281,
+    "('Open', 'NESTLEIND.BO')":1209.4000244141,
+    "('Volume', 'NESTLEIND.BO')":54872
+  },
+  {
+    "('Date', '')":"2025-07-10",
+    "('Close', 'NESTLEIND.BO')":1200.5250244141,
+    "('High', 'NESTLEIND.BO')":1218.375,
+    "('Low', 'NESTLEIND.BO')":1199.0,
+    "('Open', 'NESTLEIND.BO')":1214.75,
+    "('Volume', 'NESTLEIND.BO')":20076
+  },
+  {
+    "('Date', '')":"2025-07-11",
+    "('Close', 'NESTLEIND.BO')":1201.1999511719,
+    "('High', 'NESTLEIND.BO')":1213.7249755859,
+    "('Low', 'NESTLEIND.BO')":1199.0,
+    "('Open', 'NESTLEIND.BO')":1203.4749755859,
+    "('Volume', 'NESTLEIND.BO')":20096
+  },
+  {
+    "('Date', '')":"2025-07-14",
+    "('Close', 'NESTLEIND.BO')":1196.75,
+    "('High', 'NESTLEIND.BO')":1205.0,
+    "('Low', 'NESTLEIND.BO')":1189.0250244141,
+    "('Open', 'NESTLEIND.BO')":1199.5250244141,
+    "('Volume', 'NESTLEIND.BO')":16354
+  },
+  {
+    "('Date', '')":"2025-07-15",
+    "('Close', 'NESTLEIND.BO')":1208.375,
+    "('High', 'NESTLEIND.BO')":1210.0,
+    "('Low', 'NESTLEIND.BO')":1190.625,
+    "('Open', 'NESTLEIND.BO')":1196.75,
+    "('Volume', 'NESTLEIND.BO')":66274
+  },
+  {
+    "('Date', '')":"2025-07-16",
+    "('Close', 'NESTLEIND.BO')":1231.3249511719,
+    "('High', 'NESTLEIND.BO')":1244.5,
+    "('Low', 'NESTLEIND.BO')":1204.6999511719,
+    "('Open', 'NESTLEIND.BO')":1211.9749755859,
+    "('Volume', 'NESTLEIND.BO')":178670
+  },
+  {
+    "('Date', '')":"2025-07-17",
+    "('Close', 'NESTLEIND.BO')":1224.375,
+    "('High', 'NESTLEIND.BO')":1234.9000244141,
+    "('Low', 'NESTLEIND.BO')":1223.25,
+    "('Open', 'NESTLEIND.BO')":1229.9749755859,
+    "('Volume', 'NESTLEIND.BO')":35372
+  },
+  {
+    "('Date', '')":"2025-07-18",
+    "('Close', 'NESTLEIND.BO')":1236.4000244141,
+    "('High', 'NESTLEIND.BO')":1237.5,
+    "('Low', 'NESTLEIND.BO')":1215.375,
+    "('Open', 'NESTLEIND.BO')":1225.0250244141,
+    "('Volume', 'NESTLEIND.BO')":22186
+  },
+  {
+    "('Date', '')":"2025-07-21",
+    "('Close', 'NESTLEIND.BO')":1236.4250488281,
+    "('High', 'NESTLEIND.BO')":1238.7249755859,
+    "('Low', 'NESTLEIND.BO')":1222.4250488281,
+    "('Open', 'NESTLEIND.BO')":1237.5,
+    "('Volume', 'NESTLEIND.BO')":37730
+  },
+  {
+    "('Date', '')":"2025-07-22",
+    "('Close', 'NESTLEIND.BO')":1221.375,
+    "('High', 'NESTLEIND.BO')":1238.4250488281,
+    "('Low', 'NESTLEIND.BO')":1219.3000488281,
+    "('Open', 'NESTLEIND.BO')":1237.4749755859,
+    "('Volume', 'NESTLEIND.BO')":33918
+  },
+  {
+    "('Date', '')":"2025-07-23",
+    "('Close', 'NESTLEIND.BO')":1226.4000244141,
+    "('High', 'NESTLEIND.BO')":1234.7249755859,
+    "('Low', 'NESTLEIND.BO')":1217.125,
+    "('Open', 'NESTLEIND.BO')":1229.875,
+    "('Volume', 'NESTLEIND.BO')":37312
+  },
+  {
+    "('Date', '')":"2025-07-24",
+    "('Close', 'NESTLEIND.BO')":1160.0749511719,
+    "('High', 'NESTLEIND.BO')":1237.1999511719,
+    "('Low', 'NESTLEIND.BO')":1155.3499755859,
+    "('Open', 'NESTLEIND.BO')":1225.0500488281,
+    "('Volume', 'NESTLEIND.BO')":247300
+  },
+  {
+    "('Date', '')":"2025-07-25",
+    "('Close', 'NESTLEIND.BO')":1137.5,
+    "('High', 'NESTLEIND.BO')":1159.9000244141,
+    "('Low', 'NESTLEIND.BO')":1132.75,
+    "('Open', 'NESTLEIND.BO')":1159.9000244141,
+    "('Volume', 'NESTLEIND.BO')":188022
+  },
+  {
+    "('Date', '')":"2025-07-28",
+    "('Close', 'NESTLEIND.BO')":1115.7249755859,
+    "('High', 'NESTLEIND.BO')":1149.7249755859,
+    "('Low', 'NESTLEIND.BO')":1112.0,
+    "('Open', 'NESTLEIND.BO')":1138.75,
+    "('Volume', 'NESTLEIND.BO')":67232
+  },
+  {
+    "('Date', '')":"2025-07-29",
+    "('Close', 'NESTLEIND.BO')":1112.4000244141,
+    "('High', 'NESTLEIND.BO')":1127.9499511719,
+    "('Low', 'NESTLEIND.BO')":1110.5,
+    "('Open', 'NESTLEIND.BO')":1115.7249755859,
+    "('Volume', 'NESTLEIND.BO')":46294
+  },
+  {
+    "('Date', '')":"2025-07-30",
+    "('Close', 'NESTLEIND.BO')":1115.9499511719,
+    "('High', 'NESTLEIND.BO')":1119.5,
+    "('Low', 'NESTLEIND.BO')":1111.0500488281,
+    "('Open', 'NESTLEIND.BO')":1114.4749755859,
+    "('Volume', 'NESTLEIND.BO')":50958
+  },
+  {
+    "('Date', '')":"2025-07-31",
+    "('Close', 'NESTLEIND.BO')":1124.7249755859,
+    "('High', 'NESTLEIND.BO')":1132.9499511719,
+    "('Low', 'NESTLEIND.BO')":1110.9000244141,
+    "('Open', 'NESTLEIND.BO')":1114.25,
+    "('Volume', 'NESTLEIND.BO')":47772
+  },
+  {
+    "('Date', '')":"2025-08-01",
+    "('Close', 'NESTLEIND.BO')":1137.9749755859,
+    "('High', 'NESTLEIND.BO')":1143.9499511719,
+    "('Low', 'NESTLEIND.BO')":1122.3000488281,
+    "('Open', 'NESTLEIND.BO')":1124.7249755859,
+    "('Volume', 'NESTLEIND.BO')":63022
+  },
+  {
+    "('Date', '')":"2025-08-04",
+    "('Close', 'NESTLEIND.BO')":1138.6750488281,
+    "('High', 'NESTLEIND.BO')":1149.1999511719,
+    "('Low', 'NESTLEIND.BO')":1129.5500488281,
+    "('Open', 'NESTLEIND.BO')":1149.1999511719,
+    "('Volume', 'NESTLEIND.BO')":30796
+  },
+  {
+    "('Date', '')":"2025-08-05",
+    "('Close', 'NESTLEIND.BO')":1133.5,
+    "('High', 'NESTLEIND.BO')":1147.125,
+    "('Low', 'NESTLEIND.BO')":1125.5,
+    "('Open', 'NESTLEIND.BO')":1147.125,
+    "('Volume', 'NESTLEIND.BO')":24970
+  },
+  {
+    "('Date', '')":"2025-08-06",
+    "('Close', 'NESTLEIND.BO')":1116.6500244141,
+    "('High', 'NESTLEIND.BO')":1142.1750488281,
+    "('Low', 'NESTLEIND.BO')":1114.0,
+    "('Open', 'NESTLEIND.BO')":1142.1750488281,
+    "('Volume', 'NESTLEIND.BO')":44756
+  },
+  {
+    "('Date', '')":"2025-08-07",
+    "('Close', 'NESTLEIND.BO')":1117.8000488281,
+    "('High', 'NESTLEIND.BO')":1124.9499511719,
+    "('Low', 'NESTLEIND.BO')":1107.5250244141,
+    "('Open', 'NESTLEIND.BO')":1116.6500244141,
+    "('Volume', 'NESTLEIND.BO')":57086
+  },
+  {
+    "('Date', '')":"2025-08-08",
+    "('Close', 'NESTLEIND.BO')":1097.4000244141,
+    "('High', 'NESTLEIND.BO')":1125.1999511719,
+    "('Low', 'NESTLEIND.BO')":1094.0,
+    "('Open', 'NESTLEIND.BO')":1124.9499511719,
+    "('Volume', 'NESTLEIND.BO')":62359
+  },
+  {
+    "('Date', '')":"2025-08-11",
+    "('Close', 'NESTLEIND.BO')":1106.1500244141,
+    "('High', 'NESTLEIND.BO')":1108.9499511719,
+    "('Low', 'NESTLEIND.BO')":1087.0999755859,
+    "('Open', 'NESTLEIND.BO')":1098.0,
+    "('Volume', 'NESTLEIND.BO')":120909
+  },
+  {
+    "('Date', '')":"2025-08-12",
+    "('Close', 'NESTLEIND.BO')":1091.25,
+    "('High', 'NESTLEIND.BO')":1109.1500244141,
+    "('Low', 'NESTLEIND.BO')":1089.0,
+    "('Open', 'NESTLEIND.BO')":1108.0,
+    "('Volume', 'NESTLEIND.BO')":35181
+  },
+  {
+    "('Date', '')":"2025-08-13",
+    "('Close', 'NESTLEIND.BO')":1097.3000488281,
+    "('High', 'NESTLEIND.BO')":1100.9000244141,
+    "('Low', 'NESTLEIND.BO')":1086.4499511719,
+    "('Open', 'NESTLEIND.BO')":1097.9499511719,
+    "('Volume', 'NESTLEIND.BO')":59779
+  },
+  {
+    "('Date', '')":"2025-08-14",
+    "('Close', 'NESTLEIND.BO')":1089.3499755859,
+    "('High', 'NESTLEIND.BO')":1104.0999755859,
+    "('Low', 'NESTLEIND.BO')":1085.0,
+    "('Open', 'NESTLEIND.BO')":1097.3499755859,
+    "('Volume', 'NESTLEIND.BO')":30436
+  },
+  {
+    "('Date', '')":"2025-08-18",
+    "('Close', 'NESTLEIND.BO')":1143.9000244141,
+    "('High', 'NESTLEIND.BO')":1170.0,
+    "('Low', 'NESTLEIND.BO')":1123.8000488281,
+    "('Open', 'NESTLEIND.BO')":1123.9499511719,
+    "('Volume', 'NESTLEIND.BO')":123344
+  },
+  {
+    "('Date', '')":"2025-08-19",
+    "('Close', 'NESTLEIND.BO')":1160.4499511719,
+    "('High', 'NESTLEIND.BO')":1166.5999755859,
+    "('Low', 'NESTLEIND.BO')":1130.0,
+    "('Open', 'NESTLEIND.BO')":1151.9499511719,
+    "('Volume', 'NESTLEIND.BO')":30416
+  },
+  {
+    "('Date', '')":"2025-08-20",
+    "('Close', 'NESTLEIND.BO')":1190.0999755859,
+    "('High', 'NESTLEIND.BO')":1192.25,
+    "('Low', 'NESTLEIND.BO')":1156.5500488281,
+    "('Open', 'NESTLEIND.BO')":1165.0,
+    "('Volume', 'NESTLEIND.BO')":50459
+  },
+  {
+    "('Date', '')":"2025-08-21",
+    "('Close', 'NESTLEIND.BO')":1178.9499511719,
+    "('High', 'NESTLEIND.BO')":1191.8000488281,
+    "('Low', 'NESTLEIND.BO')":1169.0,
+    "('Open', 'NESTLEIND.BO')":1191.8000488281,
+    "('Volume', 'NESTLEIND.BO')":19926
+  },
+  {
+    "('Date', '')":"2025-08-22",
+    "('Close', 'NESTLEIND.BO')":1161.8499755859,
+    "('High', 'NESTLEIND.BO')":1190.8000488281,
+    "('Low', 'NESTLEIND.BO')":1158.0,
+    "('Open', 'NESTLEIND.BO')":1176.25,
+    "('Volume', 'NESTLEIND.BO')":21845
+  },
+  {
+    "('Date', '')":"2025-08-25",
+    "('Close', 'NESTLEIND.BO')":1152.6500244141,
+    "('High', 'NESTLEIND.BO')":1171.9499511719,
+    "('Low', 'NESTLEIND.BO')":1150.0,
+    "('Open', 'NESTLEIND.BO')":1161.5500488281,
+    "('Volume', 'NESTLEIND.BO')":37180
+  },
+  {
+    "('Date', '')":"2025-08-26",
+    "('Close', 'NESTLEIND.BO')":1163.8499755859,
+    "('High', 'NESTLEIND.BO')":1179.0500488281,
+    "('Low', 'NESTLEIND.BO')":1145.6500244141,
+    "('Open', 'NESTLEIND.BO')":1145.6500244141,
+    "('Volume', 'NESTLEIND.BO')":55907
+  },
+  {
+    "('Date', '')":"2025-08-28",
+    "('Close', 'NESTLEIND.BO')":1162.3000488281,
+    "('High', 'NESTLEIND.BO')":1168.0,
+    "('Low', 'NESTLEIND.BO')":1154.75,
+    "('Open', 'NESTLEIND.BO')":1158.1999511719,
+    "('Volume', 'NESTLEIND.BO')":33819
+  },
+  {
+    "('Date', '')":"2025-08-29",
+    "('Close', 'NESTLEIND.BO')":1155.5999755859,
+    "('High', 'NESTLEIND.BO')":1183.5500488281,
+    "('Low', 'NESTLEIND.BO')":1150.4000244141,
+    "('Open', 'NESTLEIND.BO')":1151.8000488281,
+    "('Volume', 'NESTLEIND.BO')":31874
+  },
+  {
+    "('Date', '')":"2025-09-01",
+    "('Close', 'NESTLEIND.BO')":1174.1999511719,
+    "('High', 'NESTLEIND.BO')":1179.0,
+    "('Low', 'NESTLEIND.BO')":1154.3000488281,
+    "('Open', 'NESTLEIND.BO')":1154.3000488281,
+    "('Volume', 'NESTLEIND.BO')":15675
+  },
+  {
+    "('Date', '')":"2025-09-02",
+    "('Close', 'NESTLEIND.BO')":1201.1999511719,
+    "('High', 'NESTLEIND.BO')":1202.9000244141,
+    "('Low', 'NESTLEIND.BO')":1170.75,
+    "('Open', 'NESTLEIND.BO')":1170.75,
+    "('Volume', 'NESTLEIND.BO')":115039
+  },
+  {
+    "('Date', '')":"2025-09-03",
+    "('Close', 'NESTLEIND.BO')":1194.5999755859,
+    "('High', 'NESTLEIND.BO')":1206.1999511719,
+    "('Low', 'NESTLEIND.BO')":1191.4499511719,
+    "('Open', 'NESTLEIND.BO')":1201.25,
+    "('Volume', 'NESTLEIND.BO')":41114
+  },
+  {
+    "('Date', '')":"2025-09-04",
+    "('Close', 'NESTLEIND.BO')":1212.5500488281,
+    "('High', 'NESTLEIND.BO')":1238.0,
+    "('Low', 'NESTLEIND.BO')":1208.4499511719,
+    "('Open', 'NESTLEIND.BO')":1224.75,
+    "('Volume', 'NESTLEIND.BO')":66570
+  },
+  {
+    "('Date', '')":"2025-09-05",
+    "('Close', 'NESTLEIND.BO')":1209.6999511719,
+    "('High', 'NESTLEIND.BO')":1214.5999755859,
+    "('Low', 'NESTLEIND.BO')":1191.5500488281,
+    "('Open', 'NESTLEIND.BO')":1214.4499511719,
+    "('Volume', 'NESTLEIND.BO')":118281
+  },
+  {
+    "('Date', '')":"2025-09-08",
+    "('Close', 'NESTLEIND.BO')":1187.9499511719,
+    "('High', 'NESTLEIND.BO')":1210.6500244141,
+    "('Low', 'NESTLEIND.BO')":1184.9000244141,
+    "('Open', 'NESTLEIND.BO')":1205.3000488281,
+    "('Volume', 'NESTLEIND.BO')":44785
+  },
+  {
+    "('Date', '')":"2025-09-09",
+    "('Close', 'NESTLEIND.BO')":1201.75,
+    "('High', 'NESTLEIND.BO')":1203.75,
+    "('Low', 'NESTLEIND.BO')":1188.0500488281,
+    "('Open', 'NESTLEIND.BO')":1195.1999511719,
+    "('Volume', 'NESTLEIND.BO')":48380
+  },
+  {
+    "('Date', '')":"2025-09-10",
+    "('Close', 'NESTLEIND.BO')":1216.9499511719,
+    "('High', 'NESTLEIND.BO')":1219.1999511719,
+    "('Low', 'NESTLEIND.BO')":1202.4499511719,
+    "('Open', 'NESTLEIND.BO')":1205.1500244141,
+    "('Volume', 'NESTLEIND.BO')":36857
+  },
+  {
+    "('Date', '')":"2025-09-11",
+    "('Close', 'NESTLEIND.BO')":1220.3000488281,
+    "('High', 'NESTLEIND.BO')":1224.8499755859,
+    "('Low', 'NESTLEIND.BO')":1212.1999511719,
+    "('Open', 'NESTLEIND.BO')":1216.8499755859,
+    "('Volume', 'NESTLEIND.BO')":24946
+  },
+  {
+    "('Date', '')":"2025-09-12",
+    "('Close', 'NESTLEIND.BO')":1217.4499511719,
+    "('High', 'NESTLEIND.BO')":1224.0,
+    "('Low', 'NESTLEIND.BO')":1209.5999755859,
+    "('Open', 'NESTLEIND.BO')":1224.0,
+    "('Volume', 'NESTLEIND.BO')":142466
+  },
+  {
+    "('Date', '')":"2025-09-15",
+    "('Close', 'NESTLEIND.BO')":1211.9000244141,
+    "('High', 'NESTLEIND.BO')":1218.6500244141,
+    "('Low', 'NESTLEIND.BO')":1210.0,
+    "('Open', 'NESTLEIND.BO')":1217.4000244141,
+    "('Volume', 'NESTLEIND.BO')":21158
+  },
+  {
+    "('Date', '')":"2025-09-16",
+    "('Close', 'NESTLEIND.BO')":1204.4000244141,
+    "('High', 'NESTLEIND.BO')":1213.1999511719,
+    "('Low', 'NESTLEIND.BO')":1201.0,
+    "('Open', 'NESTLEIND.BO')":1211.9000244141,
+    "('Volume', 'NESTLEIND.BO')":122759
+  },
+  {
+    "('Date', '')":"2025-09-17",
+    "('Close', 'NESTLEIND.BO')":1204.1999511719,
+    "('High', 'NESTLEIND.BO')":1210.9499511719,
+    "('Low', 'NESTLEIND.BO')":1196.0,
+    "('Open', 'NESTLEIND.BO')":1204.5500488281,
+    "('Volume', 'NESTLEIND.BO')":121441
+  },
+  {
+    "('Date', '')":"2025-09-18",
+    "('Close', 'NESTLEIND.BO')":1208.5500488281,
+    "('High', 'NESTLEIND.BO')":1212.75,
+    "('Low', 'NESTLEIND.BO')":1200.75,
+    "('Open', 'NESTLEIND.BO')":1203.75,
+    "('Volume', 'NESTLEIND.BO')":82141
+  },
+  {
+    "('Date', '')":"2025-09-19",
+    "('Close', 'NESTLEIND.BO')":1195.1500244141,
+    "('High', 'NESTLEIND.BO')":1210.6999511719,
+    "('Low', 'NESTLEIND.BO')":1190.1999511719,
+    "('Open', 'NESTLEIND.BO')":1209.5999755859,
+    "('Volume', 'NESTLEIND.BO')":30291
+  },
+  {
+    "('Date', '')":"2025-09-22",
+    "('Close', 'NESTLEIND.BO')":1187.8000488281,
+    "('High', 'NESTLEIND.BO')":1201.3000488281,
+    "('Low', 'NESTLEIND.BO')":1184.0,
+    "('Open', 'NESTLEIND.BO')":1195.3499755859,
+    "('Volume', 'NESTLEIND.BO')":236998
+  },
+  {
+    "('Date', '')":"2025-09-23",
+    "('Close', 'NESTLEIND.BO')":1168.5,
+    "('High', 'NESTLEIND.BO')":1192.9000244141,
+    "('Low', 'NESTLEIND.BO')":1165.5999755859,
+    "('Open', 'NESTLEIND.BO')":1188.0,
+    "('Volume', 'NESTLEIND.BO')":139812
+  },
+  {
+    "('Date', '')":"2025-09-24",
+    "('Close', 'NESTLEIND.BO')":1179.5500488281,
+    "('High', 'NESTLEIND.BO')":1185.0,
+    "('Low', 'NESTLEIND.BO')":1162.0,
+    "('Open', 'NESTLEIND.BO')":1165.6500244141,
+    "('Volume', 'NESTLEIND.BO')":101755
+  },
+  {
+    "('Date', '')":"2025-09-25",
+    "('Close', 'NESTLEIND.BO')":1173.3000488281,
+    "('High', 'NESTLEIND.BO')":1192.0,
+    "('Low', 'NESTLEIND.BO')":1171.25,
+    "('Open', 'NESTLEIND.BO')":1177.5500488281,
+    "('Volume', 'NESTLEIND.BO')":30333
+  },
+  {
+    "('Date', '')":"2025-09-26",
+    "('Close', 'NESTLEIND.BO')":1162.5,
+    "('High', 'NESTLEIND.BO')":1177.5500488281,
+    "('Low', 'NESTLEIND.BO')":1160.1999511719,
+    "('Open', 'NESTLEIND.BO')":1170.0,
+    "('Volume', 'NESTLEIND.BO')":231946
+  },
+  {
+    "('Date', '')":"2025-09-29",
+    "('Close', 'NESTLEIND.BO')":1152.4000244141,
+    "('High', 'NESTLEIND.BO')":1161.0,
+    "('Low', 'NESTLEIND.BO')":1149.3499755859,
+    "('Open', 'NESTLEIND.BO')":1159.1999511719,
+    "('Volume', 'NESTLEIND.BO')":25663
+  },
+  {
+    "('Date', '')":"2025-09-30",
+    "('Close', 'NESTLEIND.BO')":1152.9000244141,
+    "('High', 'NESTLEIND.BO')":1159.0,
+    "('Low', 'NESTLEIND.BO')":1146.5999755859,
+    "('Open', 'NESTLEIND.BO')":1150.1999511719,
+    "('Volume', 'NESTLEIND.BO')":23382
+  },
+  {
+    "('Date', '')":"2025-10-01",
+    "('Close', 'NESTLEIND.BO')":1166.1500244141,
+    "('High', 'NESTLEIND.BO')":1169.25,
+    "('Low', 'NESTLEIND.BO')":1145.0999755859,
+    "('Open', 'NESTLEIND.BO')":1153.0999755859,
+    "('Volume', 'NESTLEIND.BO')":27351
+  },
+  {
+    "('Date', '')":"2025-10-03",
+    "('Close', 'NESTLEIND.BO')":1169.6999511719,
+    "('High', 'NESTLEIND.BO')":1171.0,
+    "('Low', 'NESTLEIND.BO')":1155.0,
+    "('Open', 'NESTLEIND.BO')":1166.0,
+    "('Volume', 'NESTLEIND.BO')":61758
+  },
+  {
+    "('Date', '')":"2025-10-06",
+    "('Close', 'NESTLEIND.BO')":1181.3499755859,
+    "('High', 'NESTLEIND.BO')":1182.9499511719,
+    "('Low', 'NESTLEIND.BO')":1161.5500488281,
+    "('Open', 'NESTLEIND.BO')":1161.5500488281,
+    "('Volume', 'NESTLEIND.BO')":34350
+  },
+  {
+    "('Date', '')":"2025-10-07",
+    "('Close', 'NESTLEIND.BO')":1176.4000244141,
+    "('High', 'NESTLEIND.BO')":1191.5500488281,
+    "('Low', 'NESTLEIND.BO')":1175.5,
+    "('Open', 'NESTLEIND.BO')":1183.9499511719,
+    "('Volume', 'NESTLEIND.BO')":37440
+  },
+  {
+    "('Date', '')":"2025-10-08",
+    "('Close', 'NESTLEIND.BO')":1180.0500488281,
+    "('High', 'NESTLEIND.BO')":1182.0,
+    "('Low', 'NESTLEIND.BO')":1159.6999511719,
+    "('Open', 'NESTLEIND.BO')":1176.0,
+    "('Volume', 'NESTLEIND.BO')":82982
+  },
+  {
+    "('Date', '')":"2025-10-09",
+    "('Close', 'NESTLEIND.BO')":1187.5500488281,
+    "('High', 'NESTLEIND.BO')":1190.0,
+    "('Low', 'NESTLEIND.BO')":1173.6999511719,
+    "('Open', 'NESTLEIND.BO')":1176.5999755859,
+    "('Volume', 'NESTLEIND.BO')":156099
+  },
+  {
+    "('Date', '')":"2025-10-10",
+    "('Close', 'NESTLEIND.BO')":1199.75,
+    "('High', 'NESTLEIND.BO')":1201.3499755859,
+    "('Low', 'NESTLEIND.BO')":1179.9499511719,
+    "('Open', 'NESTLEIND.BO')":1179.9499511719,
+    "('Volume', 'NESTLEIND.BO')":65246
+  },
+  {
+    "('Date', '')":"2025-10-13",
+    "('Close', 'NESTLEIND.BO')":1188.1999511719,
+    "('High', 'NESTLEIND.BO')":1200.5,
+    "('Low', 'NESTLEIND.BO')":1182.0,
+    "('Open', 'NESTLEIND.BO')":1194.3000488281,
+    "('Volume', 'NESTLEIND.BO')":147090
+  },
+  {
+    "('Date', '')":"2025-10-14",
+    "('Close', 'NESTLEIND.BO')":1175.0500488281,
+    "('High', 'NESTLEIND.BO')":1194.5999755859,
+    "('Low', 'NESTLEIND.BO')":1171.8000488281,
+    "('Open', 'NESTLEIND.BO')":1194.5999755859,
+    "('Volume', 'NESTLEIND.BO')":41662
+  },
+  {
+    "('Date', '')":"2025-10-15",
+    "('Close', 'NESTLEIND.BO')":1221.5500488281,
+    "('High', 'NESTLEIND.BO')":1224.8000488281,
+    "('Low', 'NESTLEIND.BO')":1171.3499755859,
+    "('Open', 'NESTLEIND.BO')":1171.3499755859,
+    "('Volume', 'NESTLEIND.BO')":77081
+  },
+  {
+    "('Date', '')":"2025-10-16",
+    "('Close', 'NESTLEIND.BO')":1276.5500488281,
+    "('High', 'NESTLEIND.BO')":1286.0999755859,
+    "('Low', 'NESTLEIND.BO')":1216.0999755859,
+    "('Open', 'NESTLEIND.BO')":1221.5500488281,
+    "('Volume', 'NESTLEIND.BO')":397686
+  },
+  {
+    "('Date', '')":"2025-10-17",
+    "('Close', 'NESTLEIND.BO')":1289.0,
+    "('High', 'NESTLEIND.BO')":1310.5,
+    "('Low', 'NESTLEIND.BO')":1262.1999511719,
+    "('Open', 'NESTLEIND.BO')":1262.1999511719,
+    "('Volume', 'NESTLEIND.BO')":152598
+  },
+  {
+    "('Date', '')":"2025-10-20",
+    "('Close', 'NESTLEIND.BO')":1285.0,
+    "('High', 'NESTLEIND.BO')":1305.4000244141,
+    "('Low', 'NESTLEIND.BO')":1281.0500488281,
+    "('Open', 'NESTLEIND.BO')":1289.0,
+    "('Volume', 'NESTLEIND.BO')":28558
+  },
+  {
+    "('Date', '')":"2025-10-21",
+    "('Close', 'NESTLEIND.BO')":1286.75,
+    "('High', 'NESTLEIND.BO')":1291.9499511719,
+    "('Low', 'NESTLEIND.BO')":1281.3499755859,
+    "('Open', 'NESTLEIND.BO')":1281.3499755859,
+    "('Volume', 'NESTLEIND.BO')":17278
+  },
+  {
+    "('Date', '')":"2025-10-23",
+    "('Close', 'NESTLEIND.BO')":1273.5,
+    "('High', 'NESTLEIND.BO')":1303.0999755859,
+    "('Low', 'NESTLEIND.BO')":1270.8000488281,
+    "('Open', 'NESTLEIND.BO')":1286.75,
+    "('Volume', 'NESTLEIND.BO')":40092
+  },
+  {
+    "('Date', '')":"2025-10-24",
+    "('Close', 'NESTLEIND.BO')":1281.4000244141,
+    "('High', 'NESTLEIND.BO')":1284.0,
+    "('Low', 'NESTLEIND.BO')":1259.1500244141,
+    "('Open', 'NESTLEIND.BO')":1275.25,
+    "('Volume', 'NESTLEIND.BO')":57886
+  },
+  {
+    "('Date', '')":"2025-10-27",
+    "('Close', 'NESTLEIND.BO')":1282.6999511719,
+    "('High', 'NESTLEIND.BO')":1291.5,
+    "('Low', 'NESTLEIND.BO')":1276.0500488281,
+    "('Open', 'NESTLEIND.BO')":1281.6500244141,
+    "('Volume', 'NESTLEIND.BO')":50762
+  },
+  {
+    "('Date', '')":"2025-10-28",
+    "('Close', 'NESTLEIND.BO')":1271.0,
+    "('High', 'NESTLEIND.BO')":1287.5500488281,
+    "('Low', 'NESTLEIND.BO')":1263.4499511719,
+    "('Open', 'NESTLEIND.BO')":1282.0999755859,
+    "('Volume', 'NESTLEIND.BO')":43625
+  },
+  {
+    "('Date', '')":"2025-10-29",
+    "('Close', 'NESTLEIND.BO')":1273.0500488281,
+    "('High', 'NESTLEIND.BO')":1280.6500244141,
+    "('Low', 'NESTLEIND.BO')":1266.75,
+    "('Open', 'NESTLEIND.BO')":1271.4499511719,
+    "('Volume', 'NESTLEIND.BO')":42551
+  },
+  {
+    "('Date', '')":"2025-10-30",
+    "('Close', 'NESTLEIND.BO')":1279.9499511719,
+    "('High', 'NESTLEIND.BO')":1281.5999755859,
+    "('Low', 'NESTLEIND.BO')":1268.0,
+    "('Open', 'NESTLEIND.BO')":1275.1500244141,
+    "('Volume', 'NESTLEIND.BO')":40122
+  },
+  {
+    "('Date', '')":"2025-10-31",
+    "('Close', 'NESTLEIND.BO')":1271.5500488281,
+    "('High', 'NESTLEIND.BO')":1283.9000244141,
+    "('Low', 'NESTLEIND.BO')":1267.1500244141,
+    "('Open', 'NESTLEIND.BO')":1279.75,
+    "('Volume', 'NESTLEIND.BO')":126170
+  },
+  {
+    "('Date', '')":"2025-11-03",
+    "('Close', 'NESTLEIND.BO')":1268.3499755859,
+    "('High', 'NESTLEIND.BO')":1270.9499511719,
+    "('Low', 'NESTLEIND.BO')":1255.6500244141,
+    "('Open', 'NESTLEIND.BO')":1270.9499511719,
+    "('Volume', 'NESTLEIND.BO')":55329
+  },
+  {
+    "('Date', '')":"2025-11-04",
+    "('Close', 'NESTLEIND.BO')":1264.75,
+    "('High', 'NESTLEIND.BO')":1268.3499755859,
+    "('Low', 'NESTLEIND.BO')":1250.75,
+    "('Open', 'NESTLEIND.BO')":1267.0,
+    "('Volume', 'NESTLEIND.BO')":26376
+  },
+  {
+    "('Date', '')":"2025-11-06",
+    "('Close', 'NESTLEIND.BO')":1268.8499755859,
+    "('High', 'NESTLEIND.BO')":1278.5,
+    "('Low', 'NESTLEIND.BO')":1261.0,
+    "('Open', 'NESTLEIND.BO')":1261.8499755859,
+    "('Volume', 'NESTLEIND.BO')":61021
+  },
+  {
+    "('Date', '')":"2025-11-07",
+    "('Close', 'NESTLEIND.BO')":1260.9000244141,
+    "('High', 'NESTLEIND.BO')":1270.5999755859,
+    "('Low', 'NESTLEIND.BO')":1256.4499511719,
+    "('Open', 'NESTLEIND.BO')":1264.8000488281,
+    "('Volume', 'NESTLEIND.BO')":54899
+  },
+  {
+    "('Date', '')":"2025-11-10",
+    "('Close', 'NESTLEIND.BO')":1262.8000488281,
+    "('High', 'NESTLEIND.BO')":1279.25,
+    "('Low', 'NESTLEIND.BO')":1260.9000244141,
+    "('Open', 'NESTLEIND.BO')":1279.25,
+    "('Volume', 'NESTLEIND.BO')":14916
+  },
+  {
+    "('Date', '')":"2025-11-11",
+    "('Close', 'NESTLEIND.BO')":1268.1500244141,
+    "('High', 'NESTLEIND.BO')":1269.9000244141,
+    "('Low', 'NESTLEIND.BO')":1256.25,
+    "('Open', 'NESTLEIND.BO')":1265.1500244141,
+    "('Volume', 'NESTLEIND.BO')":13146
+  },
+  {
+    "('Date', '')":"2025-11-12",
+    "('Close', 'NESTLEIND.BO')":1276.4499511719,
+    "('High', 'NESTLEIND.BO')":1286.9000244141,
+    "('Low', 'NESTLEIND.BO')":1261.8499755859,
+    "('Open', 'NESTLEIND.BO')":1266.0500488281,
+    "('Volume', 'NESTLEIND.BO')":35089
+  },
+  {
+    "('Date', '')":"2025-11-13",
+    "('Close', 'NESTLEIND.BO')":1274.8000488281,
+    "('High', 'NESTLEIND.BO')":1289.0,
+    "('Low', 'NESTLEIND.BO')":1270.8000488281,
+    "('Open', 'NESTLEIND.BO')":1283.4499511719,
+    "('Volume', 'NESTLEIND.BO')":18553
+  }
+]

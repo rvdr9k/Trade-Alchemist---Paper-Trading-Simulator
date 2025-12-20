@@ -1,0 +1,1986 @@
+[
+  {
+    "('Date', '')":"2024-11-13",
+    "('Close', 'COALINDIA.BO')":379.8826599121,
+    "('High', 'COALINDIA.BO')":387.3926075628,
+    "('Low', 'COALINDIA.BO')":378.4832886626,
+    "('Open', 'COALINDIA.BO')":385.3401850088,
+    "('Volume', 'COALINDIA.BO')":399898
+  },
+  {
+    "('Date', '')":"2024-11-14",
+    "('Close', 'COALINDIA.BO')":382.2615966797,
+    "('High', 'COALINDIA.BO')":385.5734307296,
+    "('Low', 'COALINDIA.BO')":375.6845629022,
+    "('Open', 'COALINDIA.BO')":379.696082608,
+    "('Volume', 'COALINDIA.BO')":417699
+  },
+  {
+    "('Date', '')":"2024-11-18",
+    "('Close', 'COALINDIA.BO')":385.7600097656,
+    "('High', 'COALINDIA.BO')":390.5178777325,
+    "('Low', 'COALINDIA.BO')":383.4277243378,
+    "('Open', 'COALINDIA.BO')":384.9203927057,
+    "('Volume', 'COALINDIA.BO')":400895
+  },
+  {
+    "('Date', '')":"2024-11-19",
+    "('Close', 'COALINDIA.BO')":384.5472412109,
+    "('High', 'COALINDIA.BO')":393.5031946751,
+    "('Low', 'COALINDIA.BO')":383.4277327928,
+    "('Open', 'COALINDIA.BO')":387.6724809769,
+    "('Volume', 'COALINDIA.BO')":259147
+  },
+  {
+    "('Date', '')":"2024-11-21",
+    "('Close', 'COALINDIA.BO')":378.9030761719,
+    "('High', 'COALINDIA.BO')":385.806635185,
+    "('Low', 'COALINDIA.BO')":377.1305449817,
+    "('Open', 'COALINDIA.BO')":385.2935437908,
+    "('Volume', 'COALINDIA.BO')":152985
+  },
+  {
+    "('Date', '')":"2024-11-22",
+    "('Close', 'COALINDIA.BO')":386.1798400879,
+    "('High', 'COALINDIA.BO')":387.8124399193,
+    "('Low', 'COALINDIA.BO')":379.1363208758,
+    "('Open', 'COALINDIA.BO')":379.1363208758,
+    "('Volume', 'COALINDIA.BO')":254551
+  },
+  {
+    "('Date', '')":"2024-11-25",
+    "('Close', 'COALINDIA.BO')":389.3050842285,
+    "('High', 'COALINDIA.BO')":398.6342262275,
+    "('Low', 'COALINDIA.BO')":387.9990100427,
+    "('Open', 'COALINDIA.BO')":393.5964952421,
+    "('Volume', 'COALINDIA.BO')":187473
+  },
+  {
+    "('Date', '')":"2024-11-26",
+    "('Close', 'COALINDIA.BO')":383.9875183105,
+    "('High', 'COALINDIA.BO')":391.9172895866,
+    "('Low', 'COALINDIA.BO')":382.3082555464,
+    "('Open', 'COALINDIA.BO')":391.497466778,
+    "('Volume', 'COALINDIA.BO')":158861
+  },
+  {
+    "('Date', '')":"2024-11-27",
+    "('Close', 'COALINDIA.BO')":389.3050842285,
+    "('High', 'COALINDIA.BO')":392.8968095922,
+    "('Low', 'COALINDIA.BO')":385.1536331211,
+    "('Open', 'COALINDIA.BO')":391.6373697283,
+    "('Volume', 'COALINDIA.BO')":542028
+  },
+  {
+    "('Date', '')":"2024-11-28",
+    "('Close', 'COALINDIA.BO')":387.5791931152,
+    "('High', 'COALINDIA.BO')":396.3485803884,
+    "('Low', 'COALINDIA.BO')":385.9932276799,
+    "('Open', 'COALINDIA.BO')":391.5907125526,
+    "('Volume', 'COALINDIA.BO')":436556
+  },
+  {
+    "('Date', '')":"2024-11-29",
+    "('Close', 'COALINDIA.BO')":388.6054077148,
+    "('High', 'COALINDIA.BO')":389.9115104016,
+    "('Low', 'COALINDIA.BO')":383.567676611,
+    "('Open', 'COALINDIA.BO')":388.045681958,
+    "('Volume', 'COALINDIA.BO')":313223
+  },
+  {
+    "('Date', '')":"2024-12-02",
+    "('Close', 'COALINDIA.BO')":393.3632507324,
+    "('High', 'COALINDIA.BO')":395.0891476263,
+    "('Low', 'COALINDIA.BO')":388.7453427125,
+    "('Open', 'COALINDIA.BO')":391.5907195186,
+    "('Volume', 'COALINDIA.BO')":364193
+  },
+  {
+    "('Date', '')":"2024-12-03",
+    "('Close', 'COALINDIA.BO')":393.7364196777,
+    "('High', 'COALINDIA.BO')":397.0949164317,
+    "('Low', 'COALINDIA.BO')":391.3574998984,
+    "('Open', 'COALINDIA.BO')":397.0949164317,
+    "('Volume', 'COALINDIA.BO')":209254
+  },
+  {
+    "('Date', '')":"2024-12-04",
+    "('Close', 'COALINDIA.BO')":388.6986999512,
+    "('High', 'COALINDIA.BO')":397.3748191874,
+    "('Low', 'COALINDIA.BO')":387.1593971985,
+    "('Open', 'COALINDIA.BO')":394.5294137644,
+    "('Volume', 'COALINDIA.BO')":157756
+  },
+  {
+    "('Date', '')":"2024-12-05",
+    "('Close', 'COALINDIA.BO')":390.2379455566,
+    "('High', 'COALINDIA.BO')":392.943419146,
+    "('Low', 'COALINDIA.BO')":384.5005296987,
+    "('Open', 'COALINDIA.BO')":389.9580827227,
+    "('Volume', 'COALINDIA.BO')":411438
+  },
+  {
+    "('Date', '')":"2024-12-06",
+    "('Close', 'COALINDIA.BO')":389.2584228516,
+    "('High', 'COALINDIA.BO')":393.3632393517,
+    "('Low', 'COALINDIA.BO')":388.5121029316,
+    "('Open', 'COALINDIA.BO')":393.3632393517,
+    "('Volume', 'COALINDIA.BO')":124128
+  },
+  {
+    "('Date', '')":"2024-12-09",
+    "('Close', 'COALINDIA.BO')":386.086517334,
+    "('High', 'COALINDIA.BO')":392.7568476511,
+    "('Low', 'COALINDIA.BO')":384.9670089929,
+    "('Open', 'COALINDIA.BO')":389.9581052688,
+    "('Volume', 'COALINDIA.BO')":339802
+  },
+  {
+    "('Date', '')":"2024-12-10",
+    "('Close', 'COALINDIA.BO')":386.7861938477,
+    "('High', 'COALINDIA.BO')":389.2584105333,
+    "('Low', 'COALINDIA.BO')":383.8941544265,
+    "('Open', 'COALINDIA.BO')":387.6258108486,
+    "('Volume', 'COALINDIA.BO')":162337
+  },
+  {
+    "('Date', '')":"2024-12-11",
+    "('Close', 'COALINDIA.BO')":388.8852539062,
+    "('High', 'COALINDIA.BO')":391.4041049305,
+    "('Low', 'COALINDIA.BO')":387.9056770049,
+    "('Open', 'COALINDIA.BO')":388.60536259,
+    "('Volume', 'COALINDIA.BO')":276597
+  },
+  {
+    "('Date', '')":"2024-12-12",
+    "('Close', 'COALINDIA.BO')":381.5152893066,
+    "('High', 'COALINDIA.BO')":388.9786032163,
+    "('Low', 'COALINDIA.BO')":379.5561637113,
+    "('Open', 'COALINDIA.BO')":388.9786032163,
+    "('Volume', 'COALINDIA.BO')":275478
+  },
+  {
+    "('Date', '')":"2024-12-13",
+    "('Close', 'COALINDIA.BO')":383.1011962891,
+    "('High', 'COALINDIA.BO')":383.9408133438,
+    "('Low', 'COALINDIA.BO')":375.0314944532,
+    "('Open', 'COALINDIA.BO')":382.4481734555,
+    "('Volume', 'COALINDIA.BO')":209300
+  },
+  {
+    "('Date', '')":"2024-12-16",
+    "('Close', 'COALINDIA.BO')":382.9612731934,
+    "('High', 'COALINDIA.BO')":385.1069644322,
+    "('Low', 'COALINDIA.BO')":379.2296164509,
+    "('Open', 'COALINDIA.BO')":383.381095965,
+    "('Volume', 'COALINDIA.BO')":250452
+  },
+  {
+    "('Date', '')":"2024-12-17",
+    "('Close', 'COALINDIA.BO')":375.7778015137,
+    "('High', 'COALINDIA.BO')":383.1944802617,
+    "('Low', 'COALINDIA.BO')":375.0781159137,
+    "('Open', 'COALINDIA.BO')":383.1944802617,
+    "('Volume', 'COALINDIA.BO')":420353
+  },
+  {
+    "('Date', '')":"2024-12-18",
+    "('Close', 'COALINDIA.BO')":369.3407287598,
+    "('High', 'COALINDIA.BO')":377.5037280689,
+    "('Low', 'COALINDIA.BO')":368.0812888866,
+    "('Open', 'COALINDIA.BO')":377.5037280689,
+    "('Volume', 'COALINDIA.BO')":256201
+  },
+  {
+    "('Date', '')":"2024-12-19",
+    "('Close', 'COALINDIA.BO')":365.9822387695,
+    "('High', 'COALINDIA.BO')":368.0346614509,
+    "('Low', 'COALINDIA.BO')":361.0844390924,
+    "('Open', 'COALINDIA.BO')":363.9298445584,
+    "('Volume', 'COALINDIA.BO')":378677
+  },
+  {
+    "('Date', '')":"2024-12-20",
+    "('Close', 'COALINDIA.BO')":357.0729064941,
+    "('High', 'COALINDIA.BO')":367.3815969134,
+    "('Low', 'COALINDIA.BO')":355.2537124341,
+    "('Open', 'COALINDIA.BO')":367.2883282705,
+    "('Volume', 'COALINDIA.BO')":459178
+  },
+  {
+    "('Date', '')":"2024-12-23",
+    "('Close', 'COALINDIA.BO')":357.3061523438,
+    "('High', 'COALINDIA.BO')":362.5771120824,
+    "('Low', 'COALINDIA.BO')":356.8863295495,
+    "('Open', 'COALINDIA.BO')":360.7112836107,
+    "('Volume', 'COALINDIA.BO')":362762
+  },
+  {
+    "('Date', '')":"2024-12-24",
+    "('Close', 'COALINDIA.BO')":358.8454284668,
+    "('High', 'COALINDIA.BO')":360.8511882308,
+    "('Low', 'COALINDIA.BO')":356.000051647,
+    "('Open', 'COALINDIA.BO')":359.8250054238,
+    "('Volume', 'COALINDIA.BO')":193618
+  },
+  {
+    "('Date', '')":"2024-12-26",
+    "('Close', 'COALINDIA.BO')":360.8045349121,
+    "('High', 'COALINDIA.BO')":364.2096657466,
+    "('Low', 'COALINDIA.BO')":359.4984608418,
+    "('Open', 'COALINDIA.BO')":361.3642890766,
+    "('Volume', 'COALINDIA.BO')":261074
+  },
+  {
+    "('Date', '')":"2024-12-27",
+    "('Close', 'COALINDIA.BO')":355.1138000488,
+    "('High', 'COALINDIA.BO')":362.670411093,
+    "('Low', 'COALINDIA.BO')":354.0875886899,
+    "('Open', 'COALINDIA.BO')":362.670411093,
+    "('Volume', 'COALINDIA.BO')":433626
+  },
+  {
+    "('Date', '')":"2024-12-30",
+    "('Close', 'COALINDIA.BO')":352.9214172363,
+    "('High', 'COALINDIA.BO')":356.7463710069,
+    "('Low', 'COALINDIA.BO')":350.6357946142,
+    "('Open', 'COALINDIA.BO')":355.3936625498,
+    "('Volume', 'COALINDIA.BO')":477705
+  },
+  {
+    "('Date', '')":"2024-12-31",
+    "('Close', 'COALINDIA.BO')":358.1457214355,
+    "('High', 'COALINDIA.BO')":359.0786355463,
+    "('Low', 'COALINDIA.BO')":351.0555684995,
+    "('Open', 'COALINDIA.BO')":352.641533876,
+    "('Volume', 'COALINDIA.BO')":355572
+  },
+  {
+    "('Date', '')":"2025-01-01",
+    "('Close', 'COALINDIA.BO')":360.5713195801,
+    "('High', 'COALINDIA.BO')":362.2505536648,
+    "('Low', 'COALINDIA.BO')":357.0728915117,
+    "('Open', 'COALINDIA.BO')":358.1923998817,
+    "('Volume', 'COALINDIA.BO')":109439
+  },
+  {
+    "('Date', '')":"2025-01-02",
+    "('Close', 'COALINDIA.BO')":366.5886535645,
+    "('High', 'COALINDIA.BO')":367.1017449965,
+    "('Low', 'COALINDIA.BO')":358.4256541522,
+    "('Open', 'COALINDIA.BO')":363.7899109088,
+    "('Volume', 'COALINDIA.BO')":319024
+  },
+  {
+    "('Date', '')":"2025-01-03",
+    "('Close', 'COALINDIA.BO')":367.4748840332,
+    "('High', 'COALINDIA.BO')":372.4193461917,
+    "('Low', 'COALINDIA.BO')":363.3700673998,
+    "('Open', 'COALINDIA.BO')":367.055089741,
+    "('Volume', 'COALINDIA.BO')":435101
+  },
+  {
+    "('Date', '')":"2025-01-06",
+    "('Close', 'COALINDIA.BO')":353.3412475586,
+    "('High', 'COALINDIA.BO')":367.9413488594,
+    "('Low', 'COALINDIA.BO')":351.9885106023,
+    "('Open', 'COALINDIA.BO')":367.9413488594,
+    "('Volume', 'COALINDIA.BO')":568399
+  },
+  {
+    "('Date', '')":"2025-01-07",
+    "('Close', 'COALINDIA.BO')":354.460723877,
+    "('High', 'COALINDIA.BO')":358.4256088041,
+    "('Low', 'COALINDIA.BO')":351.3354559462,
+    "('Open', 'COALINDIA.BO')":354.7872210359,
+    "('Volume', 'COALINDIA.BO')":851900
+  },
+  {
+    "('Date', '')":"2025-01-08",
+    "('Close', 'COALINDIA.BO')":355.0205078125,
+    "('High', 'COALINDIA.BO')":356.3732448683,
+    "('Low', 'COALINDIA.BO')":350.7757593468,
+    "('Open', 'COALINDIA.BO')":354.5074163611,
+    "('Volume', 'COALINDIA.BO')":300960
+  },
+  {
+    "('Date', '')":"2025-01-09",
+    "('Close', 'COALINDIA.BO')":347.3239135742,
+    "('High', 'COALINDIA.BO')":355.5335748672,
+    "('Low', 'COALINDIA.BO')":346.0178395075,
+    "('Open', 'COALINDIA.BO')":355.4402777616,
+    "('Volume', 'COALINDIA.BO')":348919
+  },
+  {
+    "('Date', '')":"2025-01-10",
+    "('Close', 'COALINDIA.BO')":343.8721618652,
+    "('High', 'COALINDIA.BO')":348.1635726553,
+    "('Low', 'COALINDIA.BO')":340.2804366887,
+    "('Open', 'COALINDIA.BO')":346.904132857,
+    "('Volume', 'COALINDIA.BO')":435069
+  },
+  {
+    "('Date', '')":"2025-01-13",
+    "('Close', 'COALINDIA.BO')":338.5079040527,
+    "('High', 'COALINDIA.BO')":345.551394477,
+    "('Low', 'COALINDIA.BO')":337.0618700422,
+    "('Open', 'COALINDIA.BO')":341.9596693157,
+    "('Volume', 'COALINDIA.BO')":566786
+  },
+  {
+    "('Date', '')":"2025-01-14",
+    "('Close', 'COALINDIA.BO')":344.5718383789,
+    "('High', 'COALINDIA.BO')":345.5047525056,
+    "('Low', 'COALINDIA.BO')":338.6478279805,
+    "('Open', 'COALINDIA.BO')":339.0676507256,
+    "('Volume', 'COALINDIA.BO')":148408
+  },
+  {
+    "('Date', '')":"2025-01-15",
+    "('Close', 'COALINDIA.BO')":349.376373291,
+    "('High', 'COALINDIA.BO')":355.8601384692,
+    "('Low', 'COALINDIA.BO')":346.9974534324,
+    "('Open', 'COALINDIA.BO')":349.7028989601,
+    "('Volume', 'COALINDIA.BO')":392522
+  },
+  {
+    "('Date', '')":"2025-01-16",
+    "('Close', 'COALINDIA.BO')":353.7610473633,
+    "('High', 'COALINDIA.BO')":355.9067384613,
+    "('Low', 'COALINDIA.BO')":349.7494995462,
+    "('Open', 'COALINDIA.BO')":353.947613106,
+    "('Volume', 'COALINDIA.BO')":175952
+  },
+  {
+    "('Date', '')":"2025-01-17",
+    "('Close', 'COALINDIA.BO')":361.8307495117,
+    "('High', 'COALINDIA.BO')":363.2301207009,
+    "('Low', 'COALINDIA.BO')":353.2479281633,
+    "('Open', 'COALINDIA.BO')":355.0204593088,
+    "('Volume', 'COALINDIA.BO')":441899
+  },
+  {
+    "('Date', '')":"2025-01-20",
+    "('Close', 'COALINDIA.BO')":361.0844116211,
+    "('High', 'COALINDIA.BO')":364.7694339145,
+    "('Low', 'COALINDIA.BO')":357.1195264698,
+    "('Open', 'COALINDIA.BO')":363.7898854417,
+    "('Volume', 'COALINDIA.BO')":371082
+  },
+  {
+    "('Date', '')":"2025-01-21",
+    "('Close', 'COALINDIA.BO')":355.9067687988,
+    "('High', 'COALINDIA.BO')":363.6499453033,
+    "('Low', 'COALINDIA.BO')":355.4403116969,
+    "('Open', 'COALINDIA.BO')":362.6237624552,
+    "('Volume', 'COALINDIA.BO')":244824
+  },
+  {
+    "('Date', '')":"2025-01-22",
+    "('Close', 'COALINDIA.BO')":353.9476318359,
+    "('High', 'COALINDIA.BO')":357.399425667,
+    "('Low', 'COALINDIA.BO')":349.7028837334,
+    "('Open', 'COALINDIA.BO')":356.1866201589,
+    "('Volume', 'COALINDIA.BO')":147642
+  },
+  {
+    "('Date', '')":"2025-01-23",
+    "('Close', 'COALINDIA.BO')":359.9649658203,
+    "('High', 'COALINDIA.BO')":362.2505886301,
+    "('Low', 'COALINDIA.BO')":350.9623490828,
+    "('Open', 'COALINDIA.BO')":353.9476575738,
+    "('Volume', 'COALINDIA.BO')":275752
+  },
+  {
+    "('Date', '')":"2025-01-24",
+    "('Close', 'COALINDIA.BO')":357.492767334,
+    "('High', 'COALINDIA.BO')":365.8889959444,
+    "('Low', 'COALINDIA.BO')":356.2799616748,
+    "('Open', 'COALINDIA.BO')":360.8512360019,
+    "('Volume', 'COALINDIA.BO')":264386
+  },
+  {
+    "('Date', '')":"2025-01-27",
+    "('Close', 'COALINDIA.BO')":350.2159729004,
+    "('High', 'COALINDIA.BO')":357.2594919495,
+    "('Low', 'COALINDIA.BO')":347.79039037,
+    "('Open', 'COALINDIA.BO')":354.9738408503,
+    "('Volume', 'COALINDIA.BO')":407561
+  },
+  {
+    "('Date', '')":"2025-01-28",
+    "('Close', 'COALINDIA.BO')":346.0645141602,
+    "('High', 'COALINDIA.BO')":352.5949131881,
+    "('Low', 'COALINDIA.BO')":342.8925832847,
+    "('Open', 'COALINDIA.BO')":352.5949131881,
+    "('Volume', 'COALINDIA.BO')":345661
+  },
+  {
+    "('Date', '')":"2025-01-29",
+    "('Close', 'COALINDIA.BO')":353.9942932129,
+    "('High', 'COALINDIA.BO')":355.4402987884,
+    "('Low', 'COALINDIA.BO')":346.1577914083,
+    "('Open', 'COALINDIA.BO')":348.2568482909,
+    "('Volume', 'COALINDIA.BO')":274313
+  },
+  {
+    "('Date', '')":"2025-01-30",
+    "('Close', 'COALINDIA.BO')":359.4984741211,
+    "('High', 'COALINDIA.BO')":361.4575995341,
+    "('Low', 'COALINDIA.BO')":355.0671318997,
+    "('Open', 'COALINDIA.BO')":356.3732060182,
+    "('Volume', 'COALINDIA.BO')":365765
+  },
+  {
+    "('Date', '')":"2025-01-31",
+    "('Close', 'COALINDIA.BO')":374.692565918,
+    "('High', 'COALINDIA.BO')":375.8285832673,
+    "('Low', 'COALINDIA.BO')":354.8598154449,
+    "('Open', 'COALINDIA.BO')":360.3031765375,
+    "('Volume', 'COALINDIA.BO')":581591
+  },
+  {
+    "('Date', '')":"2025-02-01",
+    "('Close', 'COALINDIA.BO')":364.7998352051,
+    "('High', 'COALINDIA.BO')":378.147907922,
+    "('Low', 'COALINDIA.BO')":358.9304608816,
+    "('Open', 'COALINDIA.BO')":374.8818799873,
+    "('Volume', 'COALINDIA.BO')":312299
+  },
+  {
+    "('Date', '')":"2025-02-03",
+    "('Close', 'COALINDIA.BO')":354.1497802734,
+    "('High', 'COALINDIA.BO')":363.9004842408,
+    "('Low', 'COALINDIA.BO')":347.0023937936,
+    "('Open', 'COALINDIA.BO')":363.9004842408,
+    "('Volume', 'COALINDIA.BO')":460537
+  },
+  {
+    "('Date', '')":"2025-02-04",
+    "('Close', 'COALINDIA.BO')":356.4691162109,
+    "('High', 'COALINDIA.BO')":360.4451477819,
+    "('Low', 'COALINDIA.BO')":355.0017870472,
+    "('Open', 'COALINDIA.BO')":355.4751227633,
+    "('Volume', 'COALINDIA.BO')":233410
+  },
+  {
+    "('Date', '')":"2025-02-05",
+    "('Close', 'COALINDIA.BO')":362.3858337402,
+    "('High', 'COALINDIA.BO')":364.4685225681,
+    "('Low', 'COALINDIA.BO')":357.7945001395,
+    "('Open', 'COALINDIA.BO')":358.6938207182,
+    "('Volume', 'COALINDIA.BO')":258075
+  },
+  {
+    "('Date', '')":"2025-02-06",
+    "('Close', 'COALINDIA.BO')":359.4038085938,
+    "('High', 'COALINDIA.BO')":363.9478488673,
+    "('Low', 'COALINDIA.BO')":357.2264758246,
+    "('Open', 'COALINDIA.BO')":362.4331687761,
+    "('Volume', 'COALINDIA.BO')":91109
+  },
+  {
+    "('Date', '')":"2025-02-07",
+    "('Close', 'COALINDIA.BO')":358.0784606934,
+    "('High', 'COALINDIA.BO')":362.5278278747,
+    "('Low', 'COALINDIA.BO')":356.2324398885,
+    "('Open', 'COALINDIA.BO')":359.4037948888,
+    "('Volume', 'COALINDIA.BO')":198589
+  },
+  {
+    "('Date', '')":"2025-02-10",
+    "('Close', 'COALINDIA.BO')":350.6944580078,
+    "('High', 'COALINDIA.BO')":359.2145012473,
+    "('Low', 'COALINDIA.BO')":349.3690948362,
+    "('Open', 'COALINDIA.BO')":356.8478225697,
+    "('Volume', 'COALINDIA.BO')":207821
+  },
+  {
+    "('Date', '')":"2025-02-11",
+    "('Close', 'COALINDIA.BO')":339.9970397949,
+    "('High', 'COALINDIA.BO')":351.1677800519,
+    "('Low', 'COALINDIA.BO')":338.529710628,
+    "('Open', 'COALINDIA.BO')":351.1677800519,
+    "('Volume', 'COALINDIA.BO')":215435
+  },
+  {
+    "('Date', '')":"2025-02-12",
+    "('Close', 'COALINDIA.BO')":341.1330566406,
+    "('High', 'COALINDIA.BO')":342.3163959318,
+    "('Low', 'COALINDIA.BO')":332.8023306966,
+    "('Open', 'COALINDIA.BO')":340.0443902708,
+    "('Volume', 'COALINDIA.BO')":331315
+  },
+  {
+    "('Date', '')":"2025-02-13",
+    "('Close', 'COALINDIA.BO')":342.4110717773,
+    "('High', 'COALINDIA.BO')":347.9017545793,
+    "('Low', 'COALINDIA.BO')":339.429033626,
+    "('Open', 'COALINDIA.BO')":341.2277324761,
+    "('Volume', 'COALINDIA.BO')":204770
+  },
+  {
+    "('Date', '')":"2025-02-14",
+    "('Close', 'COALINDIA.BO')":335.1690063477,
+    "('High', 'COALINDIA.BO')":346.2923955875,
+    "('Low', 'COALINDIA.BO')":331.8556563613,
+    "('Open', 'COALINDIA.BO')":346.2923955875,
+    "('Volume', 'COALINDIA.BO')":340477
+  },
+  {
+    "('Date', '')":"2025-02-17",
+    "('Close', 'COALINDIA.BO')":340.8963928223,
+    "('High', 'COALINDIA.BO')":341.7010693278,
+    "('Low', 'COALINDIA.BO')":330.5776798589,
+    "('Open', 'COALINDIA.BO')":335.169013251,
+    "('Volume', 'COALINDIA.BO')":162831
+  },
+  {
+    "('Date', '')":"2025-02-18",
+    "('Close', 'COALINDIA.BO')":341.7484130859,
+    "('High', 'COALINDIA.BO')":343.1210983234,
+    "('Low', 'COALINDIA.BO')":334.9797176076,
+    "('Open', 'COALINDIA.BO')":341.9377589429,
+    "('Volume', 'COALINDIA.BO')":274262
+  },
+  {
+    "('Date', '')":"2025-02-19",
+    "('Close', 'COALINDIA.BO')":342.9317016602,
+    "('High', 'COALINDIA.BO')":345.9137106792,
+    "('Low', 'COALINDIA.BO')":338.9556703747,
+    "('Open', 'COALINDIA.BO')":341.7010404428,
+    "('Volume', 'COALINDIA.BO')":107456
+  },
+  {
+    "('Date', '')":"2025-02-20",
+    "('Close', 'COALINDIA.BO')":348.2804260254,
+    "('High', 'COALINDIA.BO')":349.653111205,
+    "('Low', 'COALINDIA.BO')":341.0857171169,
+    "('Open', 'COALINDIA.BO')":342.0797394887,
+    "('Volume', 'COALINDIA.BO')":97790
+  },
+  {
+    "('Date', '')":"2025-02-21",
+    "('Close', 'COALINDIA.BO')":350.1737976074,
+    "('High', 'COALINDIA.BO')":351.4044879461,
+    "('Low', 'COALINDIA.BO')":346.3871114394,
+    "('Open', 'COALINDIA.BO')":348.2804545234,
+    "('Volume', 'COALINDIA.BO')":85156
+  },
+  {
+    "('Date', '')":"2025-02-24",
+    "('Close', 'COALINDIA.BO')":345.3930969238,
+    "('High', 'COALINDIA.BO')":349.0377879175,
+    "('Low', 'COALINDIA.BO')":341.8904008749,
+    "('Open', 'COALINDIA.BO')":349.0377879175,
+    "('Volume', 'COALINDIA.BO')":101918
+  },
+  {
+    "('Date', '')":"2025-02-25",
+    "('Close', 'COALINDIA.BO')":341.937713623,
+    "('High', 'COALINDIA.BO')":346.1503839252,
+    "('Low', 'COALINDIA.BO')":339.5710351757,
+    "('Open', 'COALINDIA.BO')":345.1090396303,
+    "('Volume', 'COALINDIA.BO')":204984
+  },
+  {
+    "('Date', '')":"2025-02-27",
+    "('Close', 'COALINDIA.BO')":344.4464111328,
+    "('High', 'COALINDIA.BO')":348.1857460075,
+    "('Low', 'COALINDIA.BO')":337.2517023709,
+    "('Open', 'COALINDIA.BO')":340.7543982744,
+    "('Volume', 'COALINDIA.BO')":361518
+  },
+  {
+    "('Date', '')":"2025-02-28",
+    "('Close', 'COALINDIA.BO')":349.4164123535,
+    "('High', 'COALINDIA.BO')":355.7117712564,
+    "('Low', 'COALINDIA.BO')":345.8190437732,
+    "('Open', 'COALINDIA.BO')":348.8010817342,
+    "('Volume', 'COALINDIA.BO')":1147064
+  },
+  {
+    "('Date', '')":"2025-03-03",
+    "('Close', 'COALINDIA.BO')":341.1330566406,
+    "('High', 'COALINDIA.BO')":351.9724272138,
+    "('Low', 'COALINDIA.BO')":333.5123342713,
+    "('Open', 'COALINDIA.BO')":351.9724272138,
+    "('Volume', 'COALINDIA.BO')":492303
+  },
+  {
+    "('Date', '')":"2025-03-04",
+    "('Close', 'COALINDIA.BO')":344.6830749512,
+    "('High', 'COALINDIA.BO')":346.9077585994,
+    "('Low', 'COALINDIA.BO')":333.701680537,
+    "('Open', 'COALINDIA.BO')":337.0150305566,
+    "('Volume', 'COALINDIA.BO')":291411
+  },
+  {
+    "('Date', '')":"2025-03-05",
+    "('Close', 'COALINDIA.BO')":348.5170898438,
+    "('High', 'COALINDIA.BO')":349.1324205105,
+    "('Low', 'COALINDIA.BO')":342.6950661825,
+    "('Open', 'COALINDIA.BO')":342.6950661825,
+    "('Volume', 'COALINDIA.BO')":287325
+  },
+  {
+    "('Date', '')":"2025-03-06",
+    "('Close', 'COALINDIA.BO')":361.9124755859,
+    "('High', 'COALINDIA.BO')":363.6638235068,
+    "('Low', 'COALINDIA.BO')":348.6117535706,
+    "('Open', 'COALINDIA.BO')":350.2684285706,
+    "('Volume', 'COALINDIA.BO')":314570
+  },
+  {
+    "('Date', '')":"2025-03-07",
+    "('Close', 'COALINDIA.BO')":360.2557983398,
+    "('High', 'COALINDIA.BO')":368.7758411438,
+    "('Low', 'COALINDIA.BO')":359.1671319818,
+    "('Open', 'COALINDIA.BO')":362.4804819611,
+    "('Volume', 'COALINDIA.BO')":292568
+  },
+  {
+    "('Date', '')":"2025-03-10",
+    "('Close', 'COALINDIA.BO')":354.8598022461,
+    "('High', 'COALINDIA.BO')":366.0305139082,
+    "('Low', 'COALINDIA.BO')":354.1971206686,
+    "('Open', 'COALINDIA.BO')":360.6818259419,
+    "('Volume', 'COALINDIA.BO')":150978
+  },
+  {
+    "('Date', '')":"2025-03-11",
+    "('Close', 'COALINDIA.BO')":358.8358154297,
+    "('High', 'COALINDIA.BO')":359.6404919713,
+    "('Low', 'COALINDIA.BO')":348.4224290774,
+    "('Open', 'COALINDIA.BO')":350.8364587022,
+    "('Volume', 'COALINDIA.BO')":158676
+  },
+  {
+    "('Date', '')":"2025-03-12",
+    "('Close', 'COALINDIA.BO')":360.2084960938,
+    "('High', 'COALINDIA.BO')":362.5751747803,
+    "('Low', 'COALINDIA.BO')":353.8657856577,
+    "('Open', 'COALINDIA.BO')":359.6878383388,
+    "('Volume', 'COALINDIA.BO')":234784
+  },
+  {
+    "('Date', '')":"2025-03-13",
+    "('Close', 'COALINDIA.BO')":358.125793457,
+    "('High', 'COALINDIA.BO')":362.527838756,
+    "('Low', 'COALINDIA.BO')":357.3684678626,
+    "('Open', 'COALINDIA.BO')":361.581167318,
+    "('Volume', 'COALINDIA.BO')":114770
+  },
+  {
+    "('Date', '')":"2025-03-17",
+    "('Close', 'COALINDIA.BO')":365.2258300781,
+    "('High', 'COALINDIA.BO')":366.3618473624,
+    "('Low', 'COALINDIA.BO')":358.7884758407,
+    "('Open', 'COALINDIA.BO')":361.3918223013,
+    "('Volume', 'COALINDIA.BO')":381258
+  },
+  {
+    "('Date', '')":"2025-03-18",
+    "('Close', 'COALINDIA.BO')":368.3498840332,
+    "('High', 'COALINDIA.BO')":372.0418970812,
+    "('Low', 'COALINDIA.BO')":365.6991865164,
+    "('Open', 'COALINDIA.BO')":366.835203865,
+    "('Volume', 'COALINDIA.BO')":408488
+  },
+  {
+    "('Date', '')":"2025-03-19",
+    "('Close', 'COALINDIA.BO')":374.6452026367,
+    "('High', 'COALINDIA.BO')":376.6805403474,
+    "('Low', 'COALINDIA.BO')":368.0658249194,
+    "('Open', 'COALINDIA.BO')":371.0005120068,
+    "('Volume', 'COALINDIA.BO')":266677
+  },
+  {
+    "('Date', '')":"2025-03-20",
+    "('Close', 'COALINDIA.BO')":375.4972229004,
+    "('High', 'COALINDIA.BO')":377.3432437743,
+    "('Low', 'COALINDIA.BO')":371.1898793815,
+    "('Open', 'COALINDIA.BO')":377.3432437743,
+    "('Volume', 'COALINDIA.BO')":137157
+  },
+  {
+    "('Date', '')":"2025-03-21",
+    "('Close', 'COALINDIA.BO')":384.3959350586,
+    "('High', 'COALINDIA.BO')":388.987297421,
+    "('Low', 'COALINDIA.BO')":373.935226974,
+    "('Open', 'COALINDIA.BO')":375.4972291061,
+    "('Volume', 'COALINDIA.BO')":689783
+  },
+  {
+    "('Date', '')":"2025-03-24",
+    "('Close', 'COALINDIA.BO')":384.2066345215,
+    "('High', 'COALINDIA.BO')":389.9339855474,
+    "('Low', 'COALINDIA.BO')":383.4492799865,
+    "('Open', 'COALINDIA.BO')":386.2419724709,
+    "('Volume', 'COALINDIA.BO')":395716
+  },
+  {
+    "('Date', '')":"2025-03-25",
+    "('Close', 'COALINDIA.BO')":377.1539306641,
+    "('High', 'COALINDIA.BO')":386.7153188669,
+    "('Low', 'COALINDIA.BO')":376.1599371165,
+    "('Open', 'COALINDIA.BO')":386.0999881523,
+    "('Volume', 'COALINDIA.BO')":245556
+  },
+  {
+    "('Date', '')":"2025-03-26",
+    "('Close', 'COALINDIA.BO')":373.4618835449,
+    "('High', 'COALINDIA.BO')":381.0825770904,
+    "('Low', 'COALINDIA.BO')":372.5152121037,
+    "('Open', 'COALINDIA.BO')":376.775233589,
+    "('Volume', 'COALINDIA.BO')":323862
+  },
+  {
+    "('Date', '')":"2025-03-27",
+    "('Close', 'COALINDIA.BO')":375.5918884277,
+    "('High', 'COALINDIA.BO')":378.3372297863,
+    "('Low', 'COALINDIA.BO')":371.1425211676,
+    "('Open', 'COALINDIA.BO')":372.0418705787,
+    "('Volume', 'COALINDIA.BO')":152705
+  },
+  {
+    "('Date', '')":"2025-03-28",
+    "('Close', 'COALINDIA.BO')":377.2012329102,
+    "('High', 'COALINDIA.BO')":380.4672319236,
+    "('Low', 'COALINDIA.BO')":372.4678758848,
+    "('Open', 'COALINDIA.BO')":375.5918799655,
+    "('Volume', 'COALINDIA.BO')":123576
+  },
+  {
+    "('Date', '')":"2025-04-01",
+    "('Close', 'COALINDIA.BO')":376.869934082,
+    "('High', 'COALINDIA.BO')":381.1772778985,
+    "('Low', 'COALINDIA.BO')":373.9825686411,
+    "('Open', 'COALINDIA.BO')":375.9705845911,
+    "('Volume', 'COALINDIA.BO')":363728
+  },
+  {
+    "('Date', '')":"2025-04-02",
+    "('Close', 'COALINDIA.BO')":376.065246582,
+    "('High', 'COALINDIA.BO')":380.5146141077,
+    "('Low', 'COALINDIA.BO')":370.6218855554,
+    "('Open', 'COALINDIA.BO')":380.5146141077,
+    "('Volume', 'COALINDIA.BO')":224978
+  },
+  {
+    "('Date', '')":"2025-04-03",
+    "('Close', 'COALINDIA.BO')":375.923248291,
+    "('High', 'COALINDIA.BO')":378.668589789,
+    "('Low', 'COALINDIA.BO')":373.4145746617,
+    "('Open', 'COALINDIA.BO')":374.2192223029,
+    "('Volume', 'COALINDIA.BO')":143747
+  },
+  {
+    "('Date', '')":"2025-04-04",
+    "('Close', 'COALINDIA.BO')":364.7052001953,
+    "('High', 'COALINDIA.BO')":374.8819189548,
+    "('Low', 'COALINDIA.BO')":362.1965264652,
+    "('Open', 'COALINDIA.BO')":373.0358979494,
+    "('Volume', 'COALINDIA.BO')":339691
+  },
+  {
+    "('Date', '')":"2025-04-07",
+    "('Close', 'COALINDIA.BO')":357.3684692383,
+    "('High', 'COALINDIA.BO')":358.883149323,
+    "('Low', 'COALINDIA.BO')":331.47699953,
+    "('Open', 'COALINDIA.BO')":331.47699953,
+    "('Volume', 'COALINDIA.BO')":686199
+  },
+  {
+    "('Date', '')":"2025-04-08",
+    "('Close', 'COALINDIA.BO')":362.5278625488,
+    "('High', 'COALINDIA.BO')":364.9418633182,
+    "('Low', 'COALINDIA.BO')":356.7531606197,
+    "('Open', 'COALINDIA.BO')":364.0898647461,
+    "('Volume', 'COALINDIA.BO')":275533
+  },
+  {
+    "('Date', '')":"2025-04-09",
+    "('Close', 'COALINDIA.BO')":354.7177734375,
+    "('High', 'COALINDIA.BO')":362.4804613274,
+    "('Low', 'COALINDIA.BO')":353.487083324,
+    "('Open', 'COALINDIA.BO')":362.4804613274,
+    "('Volume', 'COALINDIA.BO')":363976
+  },
+  {
+    "('Date', '')":"2025-04-11",
+    "('Close', 'COALINDIA.BO')":371.0952148438,
+    "('High', 'COALINDIA.BO')":371.6158725942,
+    "('Low', 'COALINDIA.BO')":361.8178460287,
+    "('Open', 'COALINDIA.BO')":368.2552004444,
+    "('Volume', 'COALINDIA.BO')":513559
+  },
+  {
+    "('Date', '')":"2025-04-15",
+    "('Close', 'COALINDIA.BO')":374.0772094727,
+    "('High', 'COALINDIA.BO')":377.6745782377,
+    "('Low', 'COALINDIA.BO')":372.6098803134,
+    "('Open', 'COALINDIA.BO')":377.6745782377,
+    "('Volume', 'COALINDIA.BO')":204175
+  },
+  {
+    "('Date', '')":"2025-04-16",
+    "('Close', 'COALINDIA.BO')":378.0532531738,
+    "('High', 'COALINDIA.BO')":378.6685838446,
+    "('Low', 'COALINDIA.BO')":371.6158699144,
+    "('Open', 'COALINDIA.BO')":375.6865745248,
+    "('Volume', 'COALINDIA.BO')":172117
+  },
+  {
+    "('Date', '')":"2025-04-17",
+    "('Close', 'COALINDIA.BO')":377.4852294922,
+    "('High', 'COALINDIA.BO')":378.0058872182,
+    "('Low', 'COALINDIA.BO')":367.6871744973,
+    "('Open', 'COALINDIA.BO')":375.3078967778,
+    "('Volume', 'COALINDIA.BO')":467528
+  },
+  {
+    "('Date', '')":"2025-04-21",
+    "('Close', 'COALINDIA.BO')":379.189239502,
+    "('High', 'COALINDIA.BO')":384.3486104845,
+    "('Low', 'COALINDIA.BO')":374.787223017,
+    "('Open', 'COALINDIA.BO')":378.6212597414,
+    "('Volume', 'COALINDIA.BO')":253132
+  },
+  {
+    "('Date', '')":"2025-04-22",
+    "('Close', 'COALINDIA.BO')":377.2012329102,
+    "('High', 'COALINDIA.BO')":384.6799312323,
+    "('Low', 'COALINDIA.BO')":373.6038642368,
+    "('Open', 'COALINDIA.BO')":381.5085762472,
+    "('Volume', 'COALINDIA.BO')":611645
+  },
+  {
+    "('Date', '')":"2025-04-23",
+    "('Close', 'COALINDIA.BO')":377.6272277832,
+    "('High', 'COALINDIA.BO')":379.993906359,
+    "('Low', 'COALINDIA.BO')":373.1778893947,
+    "('Open', 'COALINDIA.BO')":378.7158941501,
+    "('Volume', 'COALINDIA.BO')":240036
+  },
+  {
+    "('Date', '')":"2025-04-24",
+    "('Close', 'COALINDIA.BO')":378.4792175293,
+    "('High', 'COALINDIA.BO')":379.9465755464,
+    "('Low', 'COALINDIA.BO')":375.639203304,
+    "('Open', 'COALINDIA.BO')":378.0532327296,
+    "('Volume', 'COALINDIA.BO')":117085
+  },
+  {
+    "('Date', '')":"2025-04-25",
+    "('Close', 'COALINDIA.BO')":371.7579040527,
+    "('High', 'COALINDIA.BO')":382.4552802869,
+    "('Low', 'COALINDIA.BO')":368.7285437419,
+    "('Open', 'COALINDIA.BO')":378.6685943435,
+    "('Volume', 'COALINDIA.BO')":176444
+  },
+  {
+    "('Date', '')":"2025-04-28",
+    "('Close', 'COALINDIA.BO')":375.923248291,
+    "('High', 'COALINDIA.BO')":377.4379284282,
+    "('Low', 'COALINDIA.BO')":370.8585501246,
+    "('Open', 'COALINDIA.BO')":371.805221599,
+    "('Volume', 'COALINDIA.BO')":114194
+  },
+  {
+    "('Date', '')":"2025-04-29",
+    "('Close', 'COALINDIA.BO')":368.2078857422,
+    "('High', 'COALINDIA.BO')":378.6685940981,
+    "('Low', 'COALINDIA.BO')":367.5452041465,
+    "('Open', 'COALINDIA.BO')":375.9232525689,
+    "('Volume', 'COALINDIA.BO')":248118
+  },
+  {
+    "('Date', '')":"2025-04-30",
+    "('Close', 'COALINDIA.BO')":364.6578674316,
+    "('High', 'COALINDIA.BO')":369.5805418176,
+    "('Low', 'COALINDIA.BO')":362.9065194071,
+    "('Open', 'COALINDIA.BO')":368.3498804436,
+    "('Volume', 'COALINDIA.BO')":131215
+  },
+  {
+    "('Date', '')":"2025-05-02",
+    "('Close', 'COALINDIA.BO')":363.9004821777,
+    "('High', 'COALINDIA.BO')":370.1485192266,
+    "('Low', 'COALINDIA.BO')":361.0604679637,
+    "('Open', 'COALINDIA.BO')":364.8471535824,
+    "('Volume', 'COALINDIA.BO')":177928
+  },
+  {
+    "('Date', '')":"2025-05-05",
+    "('Close', 'COALINDIA.BO')":365.0838623047,
+    "('High', 'COALINDIA.BO')":367.2138732037,
+    "('Low', 'COALINDIA.BO')":361.6285170688,
+    "('Open', 'COALINDIA.BO')":364.1845417036,
+    "('Volume', 'COALINDIA.BO')":633836
+  },
+  {
+    "('Date', '')":"2025-05-06",
+    "('Close', 'COALINDIA.BO')":358.1731567383,
+    "('High', 'COALINDIA.BO')":366.9771898603,
+    "('Low', 'COALINDIA.BO')":357.1791343599,
+    "('Open', 'COALINDIA.BO')":365.8885234469,
+    "('Volume', 'COALINDIA.BO')":339936
+  },
+  {
+    "('Date', '')":"2025-05-07",
+    "('Close', 'COALINDIA.BO')":363.3324890137,
+    "('High', 'COALINDIA.BO')":366.4565221161,
+    "('Low', 'COALINDIA.BO')":351.1204331519,
+    "('Open', 'COALINDIA.BO')":351.1677840582,
+    "('Volume', 'COALINDIA.BO')":499910
+  },
+  {
+    "('Date', '')":"2025-05-08",
+    "('Close', 'COALINDIA.BO')":364.6578674316,
+    "('High', 'COALINDIA.BO')":373.8879144067,
+    "('Low', 'COALINDIA.BO')":362.0071699406,
+    "('Open', 'COALINDIA.BO')":369.2018790018,
+    "('Volume', 'COALINDIA.BO')":907110
+  },
+  {
+    "('Date', '')":"2025-05-09",
+    "('Close', 'COALINDIA.BO')":362.2438354492,
+    "('High', 'COALINDIA.BO')":362.9065170402,
+    "('Low', 'COALINDIA.BO')":355.3331452126,
+    "('Open', 'COALINDIA.BO')":355.3331452126,
+    "('Volume', 'COALINDIA.BO')":211288
+  },
+  {
+    "('Date', '')":"2025-05-12",
+    "('Close', 'COALINDIA.BO')":374.3612365723,
+    "('High', 'COALINDIA.BO')":374.8818943139,
+    "('Low', 'COALINDIA.BO')":367.9238533762,
+    "('Open', 'COALINDIA.BO')":370.4325269415,
+    "('Volume', 'COALINDIA.BO')":536854
+  },
+  {
+    "('Date', '')":"2025-05-13",
+    "('Close', 'COALINDIA.BO')":374.4559020996,
+    "('High', 'COALINDIA.BO')":378.1952660989,
+    "('Low', 'COALINDIA.BO')":373.1779186805,
+    "('Open', 'COALINDIA.BO')":376.0179331943,
+    "('Volume', 'COALINDIA.BO')":189729
+  },
+  {
+    "('Date', '')":"2025-05-14",
+    "('Close', 'COALINDIA.BO')":381.508605957,
+    "('High', 'COALINDIA.BO')":382.3606045099,
+    "('Low', 'COALINDIA.BO')":375.165895493,
+    "('Open', 'COALINDIA.BO')":375.165895493,
+    "('Volume', 'COALINDIA.BO')":409370
+  },
+  {
+    "('Date', '')":"2025-05-15",
+    "('Close', 'COALINDIA.BO')":382.8812866211,
+    "('High', 'COALINDIA.BO')":384.6799566315,
+    "('Low', 'COALINDIA.BO')":378.1952513005,
+    "('Open', 'COALINDIA.BO')":381.7452693039,
+    "('Volume', 'COALINDIA.BO')":734816
+  },
+  {
+    "('Date', '')":"2025-05-16",
+    "('Close', 'COALINDIA.BO')":383.117980957,
+    "('High', 'COALINDIA.BO')":387.1413349722,
+    "('Low', 'COALINDIA.BO')":382.171309424,
+    "('Open', 'COALINDIA.BO')":385.0586460436,
+    "('Volume', 'COALINDIA.BO')":199508
+  },
+  {
+    "('Date', '')":"2025-05-19",
+    "('Close', 'COALINDIA.BO')":381.4139099121,
+    "('High', 'COALINDIA.BO')":385.9105991639,
+    "('Low', 'COALINDIA.BO')":379.7572349246,
+    "('Open', 'COALINDIA.BO')":384.7272598871,
+    "('Volume', 'COALINDIA.BO')":145396
+  },
+  {
+    "('Date', '')":"2025-05-20",
+    "('Close', 'COALINDIA.BO')":386.4312744141,
+    "('High', 'COALINDIA.BO')":394.9986389699,
+    "('Low', 'COALINDIA.BO')":382.8812566881,
+    "('Open', 'COALINDIA.BO')":383.4019143986,
+    "('Volume', 'COALINDIA.BO')":1289521
+  },
+  {
+    "('Date', '')":"2025-05-21",
+    "('Close', 'COALINDIA.BO')":383.7332763672,
+    "('High', 'COALINDIA.BO')":390.9279851339,
+    "('Low', 'COALINDIA.BO')":382.7866049213,
+    "('Open', 'COALINDIA.BO')":390.9279851339,
+    "('Volume', 'COALINDIA.BO')":519347
+  },
+  {
+    "('Date', '')":"2025-05-22",
+    "('Close', 'COALINDIA.BO')":377.6745910645,
+    "('High', 'COALINDIA.BO')":385.01129489,
+    "('Low', 'COALINDIA.BO')":372.3258741957,
+    "('Open', 'COALINDIA.BO')":383.8279555633,
+    "('Volume', 'COALINDIA.BO')":431664
+  },
+  {
+    "('Date', '')":"2025-05-23",
+    "('Close', 'COALINDIA.BO')":379.993927002,
+    "('High', 'COALINDIA.BO')":381.4612851328,
+    "('Low', 'COALINDIA.BO')":377.5799262795,
+    "('Open', 'COALINDIA.BO')":378.6685927055,
+    "('Volume', 'COALINDIA.BO')":231703
+  },
+  {
+    "('Date', '')":"2025-05-26",
+    "('Close', 'COALINDIA.BO')":381.508605957,
+    "('High', 'COALINDIA.BO')":384.0646305058,
+    "('Low', 'COALINDIA.BO')":380.1832716647,
+    "('Open', 'COALINDIA.BO')":380.8932752738,
+    "('Volume', 'COALINDIA.BO')":133827
+  },
+  {
+    "('Date', '')":"2025-05-27",
+    "('Close', 'COALINDIA.BO')":378.7632446289,
+    "('High', 'COALINDIA.BO')":381.6979318377,
+    "('Low', 'COALINDIA.BO')":377.1538916431,
+    "('Open', 'COALINDIA.BO')":381.5085859958,
+    "('Volume', 'COALINDIA.BO')":229114
+  },
+  {
+    "('Date', '')":"2025-05-28",
+    "('Close', 'COALINDIA.BO')":376.9645690918,
+    "('High', 'COALINDIA.BO')":380.5145868988,
+    "('Low', 'COALINDIA.BO')":375.4025381446,
+    "('Open', 'COALINDIA.BO')":379.1892238054,
+    "('Volume', 'COALINDIA.BO')":305133
+  },
+  {
+    "('Date', '')":"2025-05-29",
+    "('Close', 'COALINDIA.BO')":377.0592041016,
+    "('High', 'COALINDIA.BO')":379.6152284175,
+    "('Low', 'COALINDIA.BO')":375.9232157646,
+    "('Open', 'COALINDIA.BO')":378.8105519558,
+    "('Volume', 'COALINDIA.BO')":274884
+  },
+  {
+    "('Date', '')":"2025-05-30",
+    "('Close', 'COALINDIA.BO')":376.065246582,
+    "('High', 'COALINDIA.BO')":383.1179606857,
+    "('Low', 'COALINDIA.BO')":375.2605700435,
+    "('Open', 'COALINDIA.BO')":376.9172451386,
+    "('Volume', 'COALINDIA.BO')":377731
+  },
+  {
+    "('Date', '')":"2025-06-02",
+    "('Close', 'COALINDIA.BO')":378.3372497559,
+    "('High', 'COALINDIA.BO')":379.9466028217,
+    "('Low', 'COALINDIA.BO')":374.4085689069,
+    "('Open', 'COALINDIA.BO')":377.011915467,
+    "('Volume', 'COALINDIA.BO')":162087
+  },
+  {
+    "('Date', '')":"2025-06-03",
+    "('Close', 'COALINDIA.BO')":371.8525390625,
+    "('High', 'COALINDIA.BO')":378.6685851513,
+    "('Low', 'COALINDIA.BO')":369.9118741196,
+    "('Open', 'COALINDIA.BO')":378.6212631342,
+    "('Volume', 'COALINDIA.BO')":224791
+  },
+  {
+    "('Date', '')":"2025-06-04",
+    "('Close', 'COALINDIA.BO')":373.6512451172,
+    "('High', 'COALINDIA.BO')":373.9352350054,
+    "('Low', 'COALINDIA.BO')":368.8232147859,
+    "('Open', 'COALINDIA.BO')":371.8525461911,
+    "('Volume', 'COALINDIA.BO')":119078
+  },
+  {
+    "('Date', '')":"2025-06-05",
+    "('Close', 'COALINDIA.BO')":373.8879089355,
+    "('High', 'COALINDIA.BO')":376.7279233478,
+    "('Low', 'COALINDIA.BO')":371.6158742936,
+    "('Open', 'COALINDIA.BO')":373.9825529705,
+    "('Volume', 'COALINDIA.BO')":253524
+  },
+  {
+    "('Date', '')":"2025-06-06",
+    "('Close', 'COALINDIA.BO')":377.5799560547,
+    "('High', 'COALINDIA.BO')":378.9999633893,
+    "('Low', 'COALINDIA.BO')":375.4025941409,
+    "('Open', 'COALINDIA.BO')":375.9706028527,
+    "('Volume', 'COALINDIA.BO')":470221
+  },
+  {
+    "('Date', '')":"2025-06-09",
+    "('Close', 'COALINDIA.BO')":379.5679321289,
+    "('High', 'COALINDIA.BO')":384.5852792935,
+    "('Low', 'COALINDIA.BO')":378.5739097653,
+    "('Open', 'COALINDIA.BO')":379.6152541457,
+    "('Volume', 'COALINDIA.BO')":307731
+  },
+  {
+    "('Date', '')":"2025-06-10",
+    "('Close', 'COALINDIA.BO')":378.4319152832,
+    "('High', 'COALINDIA.BO')":382.8339317843,
+    "('Low', 'COALINDIA.BO')":377.7219116898,
+    "('Open', 'COALINDIA.BO')":381.9346112334,
+    "('Volume', 'COALINDIA.BO')":140040
+  },
+  {
+    "('Date', '')":"2025-06-11",
+    "('Close', 'COALINDIA.BO')":380.7512817383,
+    "('High', 'COALINDIA.BO')":387.5672990768,
+    "('Low', 'COALINDIA.BO')":377.2485856977,
+    "('Open', 'COALINDIA.BO')":379.1892506804,
+    "('Volume', 'COALINDIA.BO')":814834
+  },
+  {
+    "('Date', '')":"2025-06-12",
+    "('Close', 'COALINDIA.BO')":371.6632080078,
+    "('High', 'COALINDIA.BO')":380.8932544208,
+    "('Low', 'COALINDIA.BO')":370.6218636601,
+    "('Open', 'COALINDIA.BO')":380.8459035154,
+    "('Volume', 'COALINDIA.BO')":483098
+  },
+  {
+    "('Date', '')":"2025-06-13",
+    "('Close', 'COALINDIA.BO')":370.479888916,
+    "('High', 'COALINDIA.BO')":371.3318874687,
+    "('Low', 'COALINDIA.BO')":365.2731957839,
+    "('Open', 'COALINDIA.BO')":369.7225343991,
+    "('Volume', 'COALINDIA.BO')":246398
+  },
+  {
+    "('Date', '')":"2025-06-16",
+    "('Close', 'COALINDIA.BO')":373.2725524902,
+    "('High', 'COALINDIA.BO')":373.6038932858,
+    "('Low', 'COALINDIA.BO')":365.6991806607,
+    "('Open', 'COALINDIA.BO')":369.4858665755,
+    "('Volume', 'COALINDIA.BO')":300336
+  },
+  {
+    "('Date', '')":"2025-06-17",
+    "('Close', 'COALINDIA.BO')":370.4325256348,
+    "('High', 'COALINDIA.BO')":374.4558792843,
+    "('Low', 'COALINDIA.BO')":369.4858541878,
+    "('Open', 'COALINDIA.BO')":372.5625363904,
+    "('Volume', 'COALINDIA.BO')":113780
+  },
+  {
+    "('Date', '')":"2025-06-18",
+    "('Close', 'COALINDIA.BO')":369.391204834,
+    "('High', 'COALINDIA.BO')":372.4205360865,
+    "('Low', 'COALINDIA.BO')":367.403189046,
+    "('Open', 'COALINDIA.BO')":370.2432033459,
+    "('Volume', 'COALINDIA.BO')":80515
+  },
+  {
+    "('Date', '')":"2025-06-19",
+    "('Close', 'COALINDIA.BO')":363.8058166504,
+    "('High', 'COALINDIA.BO')":370.5271895381,
+    "('Low', 'COALINDIA.BO')":363.0484910673,
+    "('Open', 'COALINDIA.BO')":369.3912011635,
+    "('Volume', 'COALINDIA.BO')":101003
+  },
+  {
+    "('Date', '')":"2025-06-20",
+    "('Close', 'COALINDIA.BO')":368.1131896973,
+    "('High', 'COALINDIA.BO')":370.7638581334,
+    "('Low', 'COALINDIA.BO')":363.3798325683,
+    "('Open', 'COALINDIA.BO')":363.3798325683,
+    "('Volume', 'COALINDIA.BO')":208014
+  },
+  {
+    "('Date', '')":"2025-06-23",
+    "('Close', 'COALINDIA.BO')":371.7105407715,
+    "('High', 'COALINDIA.BO')":372.2312274054,
+    "('Low', 'COALINDIA.BO')":364.1845200435,
+    "('Open', 'COALINDIA.BO')":367.2138513633,
+    "('Volume', 'COALINDIA.BO')":135293
+  },
+  {
+    "('Date', '')":"2025-06-24",
+    "('Close', 'COALINDIA.BO')":371.6632080078,
+    "('High', 'COALINDIA.BO')":374.408549368,
+    "('Low', 'COALINDIA.BO')":369.6751922331,
+    "('Open', 'COALINDIA.BO')":372.3258606726,
+    "('Volume', 'COALINDIA.BO')":259704
+  },
+  {
+    "('Date', '')":"2025-06-25",
+    "('Close', 'COALINDIA.BO')":370.8111877441,
+    "('High', 'COALINDIA.BO')":374.361205387,
+    "('Low', 'COALINDIA.BO')":370.1958282406,
+    "('Open', 'COALINDIA.BO')":372.9885203424,
+    "('Volume', 'COALINDIA.BO')":112585
+  },
+  {
+    "('Date', '')":"2025-06-26",
+    "('Close', 'COALINDIA.BO')":373.0358886719,
+    "('High', 'COALINDIA.BO')":373.6985702702,
+    "('Low', 'COALINDIA.BO')":369.9118843143,
+    "('Open', 'COALINDIA.BO')":372.7992207996,
+    "('Volume', 'COALINDIA.BO')":77375
+  },
+  {
+    "('Date', '')":"2025-06-27",
+    "('Close', 'COALINDIA.BO')":373.745880127,
+    "('High', 'COALINDIA.BO')":376.4438995607,
+    "('Low', 'COALINDIA.BO')":371.2372065408,
+    "('Open', 'COALINDIA.BO')":373.0832274403,
+    "('Volume', 'COALINDIA.BO')":129816
+  },
+  {
+    "('Date', '')":"2025-06-30",
+    "('Close', 'COALINDIA.BO')":371.0478820801,
+    "('High', 'COALINDIA.BO')":376.3018970106,
+    "('Low', 'COALINDIA.BO')":369.9591868131,
+    "('Open', 'COALINDIA.BO')":375.3079035557,
+    "('Volume', 'COALINDIA.BO')":175857
+  },
+  {
+    "('Date', '')":"2025-07-01",
+    "('Close', 'COALINDIA.BO')":368.9178771973,
+    "('High', 'COALINDIA.BO')":372.8938799702,
+    "('Low', 'COALINDIA.BO')":368.2551956234,
+    "('Open', 'COALINDIA.BO')":371.9945594229,
+    "('Volume', 'COALINDIA.BO')":171830
+  },
+  {
+    "('Date', '')":"2025-07-02",
+    "('Close', 'COALINDIA.BO')":366.2671508789,
+    "('High', 'COALINDIA.BO')":371.71051131,
+    "('Low', 'COALINDIA.BO')":364.9418167259,
+    "('Open', 'COALINDIA.BO')":371.71051131,
+    "('Volume', 'COALINDIA.BO')":144063
+  },
+  {
+    "('Date', '')":"2025-07-03",
+    "('Close', 'COALINDIA.BO')":365.8411865234,
+    "('High', 'COALINDIA.BO')":368.2551871195,
+    "('Low', 'COALINDIA.BO')":365.0365100281,
+    "('Open', 'COALINDIA.BO')":366.7878579556,
+    "('Volume', 'COALINDIA.BO')":199380
+  },
+  {
+    "('Date', '')":"2025-07-04",
+    "('Close', 'COALINDIA.BO')":365.4624938965,
+    "('High', 'COALINDIA.BO')":367.3085147405,
+    "('Low', 'COALINDIA.BO')":363.0484933067,
+    "('Open', 'COALINDIA.BO')":367.3085147405,
+    "('Volume', 'COALINDIA.BO')":268885
+  },
+  {
+    "('Date', '')":"2025-07-07",
+    "('Close', 'COALINDIA.BO')":363.9004821777,
+    "('High', 'COALINDIA.BO')":365.7465029729,
+    "('Low', 'COALINDIA.BO')":363.5218193939,
+    "('Open', 'COALINDIA.BO')":365.5098351217,
+    "('Volume', 'COALINDIA.BO')":85066
+  },
+  {
+    "('Date', '')":"2025-07-08",
+    "('Close', 'COALINDIA.BO')":362.4804992676,
+    "('High', 'COALINDIA.BO')":364.7525050124,
+    "('Low', 'COALINDIA.BO')":362.0071635336,
+    "('Open', 'COALINDIA.BO')":363.9951793942,
+    "('Volume', 'COALINDIA.BO')":210228
+  },
+  {
+    "('Date', '')":"2025-07-09",
+    "('Close', 'COALINDIA.BO')":366.8825073242,
+    "('High', 'COALINDIA.BO')":367.4031939536,
+    "('Low', 'COALINDIA.BO')":362.1491500944,
+    "('Open', 'COALINDIA.BO')":362.1491500944,
+    "('Volume', 'COALINDIA.BO')":742144
+  },
+  {
+    "('Date', '')":"2025-07-10",
+    "('Close', 'COALINDIA.BO')":363.6165161133,
+    "('High', 'COALINDIA.BO')":368.1132055798,
+    "('Low', 'COALINDIA.BO')":362.291181838,
+    "('Open', 'COALINDIA.BO')":366.9298662465,
+    "('Volume', 'COALINDIA.BO')":811277
+  },
+  {
+    "('Date', '')":"2025-07-11",
+    "('Close', 'COALINDIA.BO')":360.6345214844,
+    "('High', 'COALINDIA.BO')":363.9478717528,
+    "('Low', 'COALINDIA.BO')":360.3978536081,
+    "('Open', 'COALINDIA.BO')":363.9478717528,
+    "('Volume', 'COALINDIA.BO')":642541
+  },
+  {
+    "('Date', '')":"2025-07-14",
+    "('Close', 'COALINDIA.BO')":363.2378540039,
+    "('High', 'COALINDIA.BO')":365.2258409756,
+    "('Low', 'COALINDIA.BO')":361.1551652172,
+    "('Open', 'COALINDIA.BO')":361.6285009515,
+    "('Volume', 'COALINDIA.BO')":400932
+  },
+  {
+    "('Date', '')":"2025-07-15",
+    "('Close', 'COALINDIA.BO')":365.9831848145,
+    "('High', 'COALINDIA.BO')":366.4565205349,
+    "('Low', 'COALINDIA.BO')":363.237843414,
+    "('Open', 'COALINDIA.BO')":363.237843414,
+    "('Volume', 'COALINDIA.BO')":331588
+  },
+  {
+    "('Date', '')":"2025-07-16",
+    "('Close', 'COALINDIA.BO')":365.6991577148,
+    "('High', 'COALINDIA.BO')":366.835174974,
+    "('Low', 'COALINDIA.BO')":364.4684964258,
+    "('Open', 'COALINDIA.BO')":366.3145172495,
+    "('Volume', 'COALINDIA.BO')":406022
+  },
+  {
+    "('Date', '')":"2025-07-17",
+    "('Close', 'COALINDIA.BO')":365.320526123,
+    "('High', 'COALINDIA.BO')":367.3085420513,
+    "('Low', 'COALINDIA.BO')":364.563200479,
+    "('Open', 'COALINDIA.BO')":366.3618705512,
+    "('Volume', 'COALINDIA.BO')":306731
+  },
+  {
+    "('Date', '')":"2025-07-18",
+    "('Close', 'COALINDIA.BO')":367.6871948242,
+    "('High', 'COALINDIA.BO')":368.4445493377,
+    "('Low', 'COALINDIA.BO')":363.5691681332,
+    "('Open', 'COALINDIA.BO')":365.3205161386,
+    "('Volume', 'COALINDIA.BO')":561423
+  },
+  {
+    "('Date', '')":"2025-07-21",
+    "('Close', 'COALINDIA.BO')":366.1251831055,
+    "('High', 'COALINDIA.BO')":368.3025158833,
+    "('Low', 'COALINDIA.BO')":364.9418437936,
+    "('Open', 'COALINDIA.BO')":368.0185260045,
+    "('Volume', 'COALINDIA.BO')":99384
+  },
+  {
+    "('Date', '')":"2025-07-22",
+    "('Close', 'COALINDIA.BO')":368.3498840332,
+    "('High', 'COALINDIA.BO')":370.7165627678,
+    "('Low', 'COALINDIA.BO')":365.0365338047,
+    "('Open', 'COALINDIA.BO')":366.2671951907,
+    "('Volume', 'COALINDIA.BO')":169382
+  },
+  {
+    "('Date', '')":"2025-07-23",
+    "('Close', 'COALINDIA.BO')":369.8645324707,
+    "('High', 'COALINDIA.BO')":371.5212074428,
+    "('Low', 'COALINDIA.BO')":368.2551795132,
+    "('Open', 'COALINDIA.BO')":370.5745360302,
+    "('Volume', 'COALINDIA.BO')":319744
+  },
+  {
+    "('Date', '')":"2025-07-24",
+    "('Close', 'COALINDIA.BO')":364.89453125,
+    "('High', 'COALINDIA.BO')":369.2491969188,
+    "('Low', 'COALINDIA.BO')":363.6638409996,
+    "('Open', 'COALINDIA.BO')":368.8705341072,
+    "('Volume', 'COALINDIA.BO')":97283
+  },
+  {
+    "('Date', '')":"2025-07-25",
+    "('Close', 'COALINDIA.BO')":360.5398254395,
+    "('High', 'COALINDIA.BO')":365.0365148011,
+    "('Low', 'COALINDIA.BO')":359.7351489336,
+    "('Open', 'COALINDIA.BO')":364.8945198625,
+    "('Volume', 'COALINDIA.BO')":476025
+  },
+  {
+    "('Date', '')":"2025-07-28",
+    "('Close', 'COALINDIA.BO')":358.1731567383,
+    "('High', 'COALINDIA.BO')":363.2378548848,
+    "('Low', 'COALINDIA.BO')":357.3684802101,
+    "('Open', 'COALINDIA.BO')":360.6818303578,
+    "('Volume', 'COALINDIA.BO')":1008342
+  },
+  {
+    "('Date', '')":"2025-07-29",
+    "('Close', 'COALINDIA.BO')":363.28515625,
+    "('High', 'COALINDIA.BO')":363.8531648782,
+    "('Low', 'COALINDIA.BO')":356.8478021709,
+    "('Open', 'COALINDIA.BO')":356.8478021709,
+    "('Volume', 'COALINDIA.BO')":235117
+  },
+  {
+    "('Date', '')":"2025-07-30",
+    "('Close', 'COALINDIA.BO')":359.593170166,
+    "('High', 'COALINDIA.BO')":363.5218510596,
+    "('Low', 'COALINDIA.BO')":359.1671564408,
+    "('Open', 'COALINDIA.BO')":363.1905102611,
+    "('Volume', 'COALINDIA.BO')":541192
+  },
+  {
+    "('Date', '')":"2025-07-31",
+    "('Close', 'COALINDIA.BO')":356.3744812012,
+    "('High', 'COALINDIA.BO')":359.309139603,
+    "('Low', 'COALINDIA.BO')":354.7651281698,
+    "('Open', 'COALINDIA.BO')":359.309139603,
+    "('Volume', 'COALINDIA.BO')":129819
+  },
+  {
+    "('Date', '')":"2025-08-01",
+    "('Close', 'COALINDIA.BO')":352.540435791,
+    "('High', 'COALINDIA.BO')":360.8238108279,
+    "('Low', 'COALINDIA.BO')":351.0257557205,
+    "('Open', 'COALINDIA.BO')":355.0017872943,
+    "('Volume', 'COALINDIA.BO')":634652
+  },
+  {
+    "('Date', '')":"2025-08-04",
+    "('Close', 'COALINDIA.BO')":354.7651367188,
+    "('High', 'COALINDIA.BO')":358.5045006165,
+    "('Low', 'COALINDIA.BO')":350.6471100075,
+    "('Open', 'COALINDIA.BO')":353.0611396128,
+    "('Volume', 'COALINDIA.BO')":572038
+  },
+  {
+    "('Date', '')":"2025-08-05",
+    "('Close', 'COALINDIA.BO')":359.3565063477,
+    "('High', 'COALINDIA.BO')":360.2085049177,
+    "('Low', 'COALINDIA.BO')":354.5284759308,
+    "('Open', 'COALINDIA.BO')":355.9484831775,
+    "('Volume', 'COALINDIA.BO')":515692
+  },
+  {
+    "('Date', '')":"2025-08-06",
+    "('Close', 'COALINDIA.BO')":362.1421813965,
+    "('High', 'COALINDIA.BO')":363.00670594,
+    "('Low', 'COALINDIA.BO')":358.6360361664,
+    "('Open', 'COALINDIA.BO')":360.1729849743,
+    "('Volume', 'COALINDIA.BO')":665308
+  },
+  {
+    "('Date', '')":"2025-08-07",
+    "('Close', 'COALINDIA.BO')":364.5436706543,
+    "('High', 'COALINDIA.BO')":365.216094948,
+    "('Low', 'COALINDIA.BO')":358.8761991606,
+    "('Open', 'COALINDIA.BO')":359.788741485,
+    "('Volume', 'COALINDIA.BO')":321246
+  },
+  {
+    "('Date', '')":"2025-08-08",
+    "('Close', 'COALINDIA.BO')":364.7357788086,
+    "('High', 'COALINDIA.BO')":367.041187328,
+    "('Low', 'COALINDIA.BO')":363.3909303003,
+    "('Open', 'COALINDIA.BO')":365.8884684109,
+    "('Volume', 'COALINDIA.BO')":137988
+  },
+  {
+    "('Date', '')":"2025-08-11",
+    "('Close', 'COALINDIA.BO')":367.521484375,
+    "('High', 'COALINDIA.BO')":368.145861578,
+    "('Low', 'COALINDIA.BO')":361.8540131778,
+    "('Open', 'COALINDIA.BO')":364.687734119,
+    "('Volume', 'COALINDIA.BO')":565537
+  },
+  {
+    "('Date', '')":"2025-08-12",
+    "('Close', 'COALINDIA.BO')":370.259185791,
+    "('High', 'COALINDIA.BO')":371.1237103643,
+    "('Low', 'COALINDIA.BO')":366.4168282965,
+    "('Open', 'COALINDIA.BO')":366.9451407261,
+    "('Volume', 'COALINDIA.BO')":695059
+  },
+  {
+    "('Date', '')":"2025-08-13",
+    "('Close', 'COALINDIA.BO')":370.8835754395,
+    "('High', 'COALINDIA.BO')":372.7086894475,
+    "('Low', 'COALINDIA.BO')":369.9229860337,
+    "('Open', 'COALINDIA.BO')":370.3552336773,
+    "('Volume', 'COALINDIA.BO')":904829
+  },
+  {
+    "('Date', '')":"2025-08-14",
+    "('Close', 'COALINDIA.BO')":369.1064758301,
+    "('High', 'COALINDIA.BO')":371.3638667762,
+    "('Low', 'COALINDIA.BO')":367.4254443852,
+    "('Open', 'COALINDIA.BO')":370.8835720777,
+    "('Volume', 'COALINDIA.BO')":160302
+  },
+  {
+    "('Date', '')":"2025-08-18",
+    "('Close', 'COALINDIA.BO')":372.9968261719,
+    "('High', 'COALINDIA.BO')":373.5731856345,
+    "('Low', 'COALINDIA.BO')":368.9623685633,
+    "('Open', 'COALINDIA.BO')":369.6347635073,
+    "('Volume', 'COALINDIA.BO')":156540
+  },
+  {
+    "('Date', '')":"2025-08-19",
+    "('Close', 'COALINDIA.BO')":370.259185791,
+    "('High', 'COALINDIA.BO')":373.6212485987,
+    "('Low', 'COALINDIA.BO')":369.1064668167,
+    "('Open', 'COALINDIA.BO')":373.6212485987,
+    "('Volume', 'COALINDIA.BO')":294757
+  },
+  {
+    "('Date', '')":"2025-08-20",
+    "('Close', 'COALINDIA.BO')":369.6347961426,
+    "('High', 'COALINDIA.BO')":371.9402341966,
+    "('Low', 'COALINDIA.BO')":368.4821064305,
+    "('Open', 'COALINDIA.BO')":371.9402341966,
+    "('Volume', 'COALINDIA.BO')":613866
+  },
+  {
+    "('Date', '')":"2025-08-21",
+    "('Close', 'COALINDIA.BO')":368.2230529785,
+    "('High', 'COALINDIA.BO')":371.4846558284,
+    "('Low', 'COALINDIA.BO')":367.0546972296,
+    "('Open', 'COALINDIA.BO')":370.2189618609,
+    "('Volume', 'COALINDIA.BO')":521451
+  },
+  {
+    "('Date', '')":"2025-08-22",
+    "('Close', 'COALINDIA.BO')":364.474609375,
+    "('High', 'COALINDIA.BO')":368.8558988513,
+    "('Low', 'COALINDIA.BO')":364.1825055824,
+    "('Open', 'COALINDIA.BO')":368.0283160077,
+    "('Volume', 'COALINDIA.BO')":261413
+  },
+  {
+    "('Date', '')":"2025-08-25",
+    "('Close', 'COALINDIA.BO')":369.9755554199,
+    "('High', 'COALINDIA.BO')":370.7057703319,
+    "('Low', 'COALINDIA.BO')":364.6206460652,
+    "('Open', 'COALINDIA.BO')":369.7321504493,
+    "('Volume', 'COALINDIA.BO')":614884
+  },
+  {
+    "('Date', '')":"2025-08-26",
+    "('Close', 'COALINDIA.BO')":362.916809082,
+    "('High', 'COALINDIA.BO')":369.9268840801,
+    "('Low', 'COALINDIA.BO')":361.5050483756,
+    "('Open', 'COALINDIA.BO')":368.2230492957,
+    "('Volume', 'COALINDIA.BO')":262768
+  },
+  {
+    "('Date', '')":"2025-08-28",
+    "('Close', 'COALINDIA.BO')":364.4259033203,
+    "('High', 'COALINDIA.BO')":365.8863331168,
+    "('Low', 'COALINDIA.BO')":358.8275891006,
+    "('Open', 'COALINDIA.BO')":361.9918536596,
+    "('Volume', 'COALINDIA.BO')":302393
+  },
+  {
+    "('Date', '')":"2025-08-29",
+    "('Close', 'COALINDIA.BO')":364.5719604492,
+    "('High', 'COALINDIA.BO')":368.7098447633,
+    "('Low', 'COALINDIA.BO')":363.1601997982,
+    "('Open', 'COALINDIA.BO')":364.1338196368,
+    "('Volume', 'COALINDIA.BO')":267913
+  },
+  {
+    "('Date', '')":"2025-09-01",
+    "('Close', 'COALINDIA.BO')":368.0769958496,
+    "('High', 'COALINDIA.BO')":368.4177687613,
+    "('Low', 'COALINDIA.BO')":365.107467003,
+    "('Open', 'COALINDIA.BO')":368.3204008276,
+    "('Volume', 'COALINDIA.BO')":195986
+  },
+  {
+    "('Date', '')":"2025-09-02",
+    "('Close', 'COALINDIA.BO')":369.9268798828,
+    "('High', 'COALINDIA.BO')":374.8436483199,
+    "('Low', 'COALINDIA.BO')":369.0505982336,
+    "('Open', 'COALINDIA.BO')":371.6793837562,
+    "('Volume', 'COALINDIA.BO')":640753
+  },
+  {
+    "('Date', '')":"2025-09-03",
+    "('Close', 'COALINDIA.BO')":379.2736206055,
+    "('High', 'COALINDIA.BO')":382.8273570147,
+    "('Low', 'COALINDIA.BO')":369.9755624346,
+    "('Open', 'COALINDIA.BO')":370.9005132257,
+    "('Volume', 'COALINDIA.BO')":292911
+  },
+  {
+    "('Date', '')":"2025-09-04",
+    "('Close', 'COALINDIA.BO')":381.1721801758,
+    "('High', 'COALINDIA.BO')":381.7563580419,
+    "('Low', 'COALINDIA.BO')":375.4764979778,
+    "('Open', 'COALINDIA.BO')":380.2959282328,
+    "('Volume', 'COALINDIA.BO')":915916
+  },
+  {
+    "('Date', '')":"2025-09-05",
+    "('Close', 'COALINDIA.BO')":382.3405456543,
+    "('High', 'COALINDIA.BO')":382.7299876708,
+    "('Low', 'COALINDIA.BO')":378.7381401483,
+    "('Open', 'COALINDIA.BO')":380.1985699947,
+    "('Volume', 'COALINDIA.BO')":491463
+  },
+  {
+    "('Date', '')":"2025-09-08",
+    "('Close', 'COALINDIA.BO')":376.8882751465,
+    "('High', 'COALINDIA.BO')":385.4074494052,
+    "('Low', 'COALINDIA.BO')":376.3527663656,
+    "('Open', 'COALINDIA.BO')":382.8273625722,
+    "('Volume', 'COALINDIA.BO')":314915
+  },
+  {
+    "('Date', '')":"2025-09-09",
+    "('Close', 'COALINDIA.BO')":377.7645263672,
+    "('High', 'COALINDIA.BO')":379.322324171,
+    "('Low', 'COALINDIA.BO')":376.3527656079,
+    "('Open', 'COALINDIA.BO')":378.0566004562,
+    "('Volume', 'COALINDIA.BO')":385571
+  },
+  {
+    "('Date', '')":"2025-09-10",
+    "('Close', 'COALINDIA.BO')":381.464263916,
+    "('High', 'COALINDIA.BO')":381.9997726871,
+    "('Low', 'COALINDIA.BO')":377.8131893008,
+    "('Open', 'COALINDIA.BO')":377.8131893008,
+    "('Volume', 'COALINDIA.BO')":452047
+  },
+  {
+    "('Date', '')":"2025-09-11",
+    "('Close', 'COALINDIA.BO')":383.022064209,
+    "('High', 'COALINDIA.BO')":383.8983161799,
+    "('Low', 'COALINDIA.BO')":380.1499033203,
+    "('Open', 'COALINDIA.BO')":383.2168000748,
+    "('Volume', 'COALINDIA.BO')":94902
+  },
+  {
+    "('Date', '')":"2025-09-12",
+    "('Close', 'COALINDIA.BO')":383.8009643555,
+    "('High', 'COALINDIA.BO')":385.6508361646,
+    "('Low', 'COALINDIA.BO')":382.7786456652,
+    "('Open', 'COALINDIA.BO')":382.7786456652,
+    "('Volume', 'COALINDIA.BO')":261972
+  },
+  {
+    "('Date', '')":"2025-09-15",
+    "('Close', 'COALINDIA.BO')":384.239074707,
+    "('High', 'COALINDIA.BO')":390.0321248028,
+    "('Low', 'COALINDIA.BO')":383.7522647734,
+    "('Open', 'COALINDIA.BO')":385.2613933953,
+    "('Volume', 'COALINDIA.BO')":178901
+  },
+  {
+    "('Date', '')":"2025-09-16",
+    "('Close', 'COALINDIA.BO')":385.602142334,
+    "('High', 'COALINDIA.BO')":386.4784239977,
+    "('Low', 'COALINDIA.BO')":383.7036013918,
+    "('Open', 'COALINDIA.BO')":384.579853343,
+    "('Volume', 'COALINDIA.BO')":134003
+  },
+  {
+    "('Date', '')":"2025-09-17",
+    "('Close', 'COALINDIA.BO')":389.0585021973,
+    "('High', 'COALINDIA.BO')":392.0280308868,
+    "('Low', 'COALINDIA.BO')":386.9165266192,
+    "('Open', 'COALINDIA.BO')":391.9793617788,
+    "('Volume', 'COALINDIA.BO')":505222
+  },
+  {
+    "('Date', '')":"2025-09-18",
+    "('Close', 'COALINDIA.BO')":382.7299804688,
+    "('High', 'COALINDIA.BO')":390.3729024632,
+    "('Low', 'COALINDIA.BO')":380.2472319492,
+    "('Open', 'COALINDIA.BO')":389.4966208019,
+    "('Volume', 'COALINDIA.BO')":173688
+  },
+  {
+    "('Date', '')":"2025-09-19",
+    "('Close', 'COALINDIA.BO')":384.1417236328,
+    "('High', 'COALINDIA.BO')":384.9206373884,
+    "('Low', 'COALINDIA.BO')":381.2695627256,
+    "('Open', 'COALINDIA.BO')":382.8760296347,
+    "('Volume', 'COALINDIA.BO')":305071
+  },
+  {
+    "('Date', '')":"2025-09-22",
+    "('Close', 'COALINDIA.BO')":384.239074707,
+    "('High', 'COALINDIA.BO')":386.4297194086,
+    "('Low', 'COALINDIA.BO')":383.0707486937,
+    "('Open', 'COALINDIA.BO')":384.1904055987,
+    "('Volume', 'COALINDIA.BO')":220124
+  },
+  {
+    "('Date', '')":"2025-09-23",
+    "('Close', 'COALINDIA.BO')":383.7036132812,
+    "('High', 'COALINDIA.BO')":385.2127122599,
+    "('Low', 'COALINDIA.BO')":381.7563734572,
+    "('Open', 'COALINDIA.BO')":384.2390923479,
+    "('Volume', 'COALINDIA.BO')":106343
+  },
+  {
+    "('Date', '')":"2025-09-24",
+    "('Close', 'COALINDIA.BO')":382.4378662109,
+    "('High', 'COALINDIA.BO')":384.9692837702,
+    "('Low', 'COALINDIA.BO')":381.4642463584,
+    "('Open', 'COALINDIA.BO')":384.4824738439,
+    "('Volume', 'COALINDIA.BO')":313476
+  },
+  {
+    "('Date', '')":"2025-09-25",
+    "('Close', 'COALINDIA.BO')":382.1458129883,
+    "('High', 'COALINDIA.BO')":384.5798627525,
+    "('Low', 'COALINDIA.BO')":381.2208621929,
+    "('Open', 'COALINDIA.BO')":381.2208621929,
+    "('Volume', 'COALINDIA.BO')":468003
+  },
+  {
+    "('Date', '')":"2025-09-26",
+    "('Close', 'COALINDIA.BO')":378.7868041992,
+    "('High', 'COALINDIA.BO')":382.6326146282,
+    "('Low', 'COALINDIA.BO')":378.0565892858,
+    "('Open', 'COALINDIA.BO')":381.8537306056,
+    "('Volume', 'COALINDIA.BO')":610282
+  },
+  {
+    "('Date', '')":"2025-09-29",
+    "('Close', 'COALINDIA.BO')":378.2026672363,
+    "('High', 'COALINDIA.BO')":381.1721960871,
+    "('Low', 'COALINDIA.BO')":375.6225506959,
+    "('Open', 'COALINDIA.BO')":380.5880181966,
+    "('Volume', 'COALINDIA.BO')":158729
+  },
+  {
+    "('Date', '')":"2025-09-30",
+    "('Close', 'COALINDIA.BO')":379.7604064941,
+    "('High', 'COALINDIA.BO')":381.0261301129,
+    "('Low', 'COALINDIA.BO')":376.9369149022,
+    "('Open', 'COALINDIA.BO')":380.003811454,
+    "('Volume', 'COALINDIA.BO')":1270372
+  },
+  {
+    "('Date', '')":"2025-10-01",
+    "('Close', 'COALINDIA.BO')":378.7381286621,
+    "('High', 'COALINDIA.BO')":384.4338108326,
+    "('Low', 'COALINDIA.BO')":377.7645087941,
+    "('Open', 'COALINDIA.BO')":379.7117485301,
+    "('Volume', 'COALINDIA.BO')":349925
+  },
+  {
+    "('Date', '')":"2025-10-03",
+    "('Close', 'COALINDIA.BO')":373.2371826172,
+    "('High', 'COALINDIA.BO')":378.738128933,
+    "('Low', 'COALINDIA.BO')":371.5333478469,
+    "('Open', 'COALINDIA.BO')":377.959244923,
+    "('Volume', 'COALINDIA.BO')":487033
+  },
+  {
+    "('Date', '')":"2025-10-06",
+    "('Close', 'COALINDIA.BO')":371.9714660645,
+    "('High', 'COALINDIA.BO')":373.967404661,
+    "('Low', 'COALINDIA.BO')":370.0729251117,
+    "('Open', 'COALINDIA.BO')":372.8964168424,
+    "('Volume', 'COALINDIA.BO')":565690
+  },
+  {
+    "('Date', '')":"2025-10-07",
+    "('Close', 'COALINDIA.BO')":374.4542236328,
+    "('High', 'COALINDIA.BO')":378.6407773642,
+    "('Low', 'COALINDIA.BO')":373.8213766333,
+    "('Open', 'COALINDIA.BO')":373.9187148544,
+    "('Volume', 'COALINDIA.BO')":785895
+  },
+  {
+    "('Date', '')":"2025-10-08",
+    "('Close', 'COALINDIA.BO')":372.1175231934,
+    "('High', 'COALINDIA.BO')":376.1093408581,
+    "('Low', 'COALINDIA.BO')":371.1925724393,
+    "('Open', 'COALINDIA.BO')":375.135720996,
+    "('Volume', 'COALINDIA.BO')":591787
+  },
+  {
+    "('Date', '')":"2025-10-09",
+    "('Close', 'COALINDIA.BO')":373.2371826172,
+    "('High', 'COALINDIA.BO')":376.1093434024,
+    "('Low', 'COALINDIA.BO')":370.6083970866,
+    "('Open', 'COALINDIA.BO')":372.4582688947,
+    "('Volume', 'COALINDIA.BO')":393297
+  },
+  {
+    "('Date', '')":"2025-10-10",
+    "('Close', 'COALINDIA.BO')":374.1134338379,
+    "('High', 'COALINDIA.BO')":376.4501155758,
+    "('Low', 'COALINDIA.BO')":372.9450781127,
+    "('Open', 'COALINDIA.BO')":374.6489128797,
+    "('Volume', 'COALINDIA.BO')":459194
+  },
+  {
+    "('Date', '')":"2025-10-13",
+    "('Close', 'COALINDIA.BO')":371.58203125,
+    "('High', 'COALINDIA.BO')":374.0647798383,
+    "('Low', 'COALINDIA.BO')":370.6571101666,
+    "('Open', 'COALINDIA.BO')":373.4806019521,
+    "('Volume', 'COALINDIA.BO')":135375
+  },
+  {
+    "('Date', '')":"2025-10-14",
+    "('Close', 'COALINDIA.BO')":370.6083984375,
+    "('High', 'COALINDIA.BO')":374.9410187541,
+    "('Low', 'COALINDIA.BO')":370.0242205716,
+    "('Open', 'COALINDIA.BO')":371.6307171309,
+    "('Volume', 'COALINDIA.BO')":281114
+  },
+  {
+    "('Date', '')":"2025-10-15",
+    "('Close', 'COALINDIA.BO')":373.9187011719,
+    "('High', 'COALINDIA.BO')":375.2330939459,
+    "('Low', 'COALINDIA.BO')":370.9491724376,
+    "('Open', 'COALINDIA.BO')":370.9491724376,
+    "('Volume', 'COALINDIA.BO')":98051
+  },
+  {
+    "('Date', '')":"2025-10-16",
+    "('Close', 'COALINDIA.BO')":377.2777099609,
+    "('High', 'COALINDIA.BO')":377.6671519771,
+    "('Low', 'COALINDIA.BO')":374.5028873129,
+    "('Open', 'COALINDIA.BO')":374.6976231773,
+    "('Volume', 'COALINDIA.BO')":85869
+  },
+  {
+    "('Date', '')":"2025-10-17",
+    "('Close', 'COALINDIA.BO')":378.4460449219,
+    "('High', 'COALINDIA.BO')":379.2249289114,
+    "('Low', 'COALINDIA.BO')":374.9896766511,
+    "('Open', 'COALINDIA.BO')":377.7644991467,
+    "('Volume', 'COALINDIA.BO')":315217
+  },
+  {
+    "('Date', '')":"2025-10-20",
+    "('Close', 'COALINDIA.BO')":380.2959289551,
+    "('High', 'COALINDIA.BO')":382.5839416029,
+    "('Low', 'COALINDIA.BO')":378.2513212759,
+    "('Open', 'COALINDIA.BO')":380.1011930952,
+    "('Volume', 'COALINDIA.BO')":94732
+  },
+  {
+    "('Date', '')":"2025-10-21",
+    "('Close', 'COALINDIA.BO')":380.7340393066,
+    "('High', 'COALINDIA.BO')":382.5839408347,
+    "('Low', 'COALINDIA.BO')":380.1011923319,
+    "('Open', 'COALINDIA.BO')":381.8537259302,
+    "('Volume', 'COALINDIA.BO')":113198
+  },
+  {
+    "('Date', '')":"2025-10-23",
+    "('Close', 'COALINDIA.BO')":382.1458129883,
+    "('High', 'COALINDIA.BO')":383.9470157563,
+    "('Low', 'COALINDIA.BO')":380.29594111,
+    "('Open', 'COALINDIA.BO')":382.097143878,
+    "('Volume', 'COALINDIA.BO')":149456
+  },
+  {
+    "('Date', '')":"2025-10-24",
+    "('Close', 'COALINDIA.BO')":383.7036132812,
+    "('High', 'COALINDIA.BO')":384.9693072819,
+    "('Low', 'COALINDIA.BO')":380.1985756554,
+    "('Open', 'COALINDIA.BO')":382.1458154795,
+    "('Volume', 'COALINDIA.BO')":116445
+  },
+  {
+    "('Date', '')":"2025-10-27",
+    "('Close', 'COALINDIA.BO')":386.2350158691,
+    "('High', 'COALINDIA.BO')":387.69544568,
+    "('Low', 'COALINDIA.BO')":383.7035982544,
+    "('Open', 'COALINDIA.BO')":385.5048009637,
+    "('Volume', 'COALINDIA.BO')":346829
+  },
+  {
+    "('Date', '')":"2025-10-28",
+    "('Close', 'COALINDIA.BO')":380.9774475098,
+    "('High', 'COALINDIA.BO')":387.5007125968,
+    "('Low', 'COALINDIA.BO')":378.7868027777,
+    "('Open', 'COALINDIA.BO')":386.3323568547,
+    "('Volume', 'COALINDIA.BO')":363517
+  },
+  {
+    "('Date', '')":"2025-10-29",
+    "('Close', 'COALINDIA.BO')":371.9714660645,
+    "('High', 'COALINDIA.BO')":388.8151079425,
+    "('Low', 'COALINDIA.BO')":370.0729251117,
+    "('Open', 'COALINDIA.BO')":382.1944748813,
+    "('Volume', 'COALINDIA.BO')":1051867
+  },
+  {
+    "('Date', '')":"2025-10-30",
+    "('Close', 'COALINDIA.BO')":377.5211181641,
+    "('High', 'COALINDIA.BO')":378.4947380691,
+    "('Low', 'COALINDIA.BO')":369.4887539478,
+    "('Open', 'COALINDIA.BO')":372.8964236153,
+    "('Volume', 'COALINDIA.BO')":771580
+  },
+  {
+    "('Date', '')":"2025-10-31",
+    "('Close', 'COALINDIA.BO')":378.4460449219,
+    "('High', 'COALINDIA.BO')":383.8009540593,
+    "('Low', 'COALINDIA.BO')":377.7644991467,
+    "('Open', 'COALINDIA.BO')":378.8354869166,
+    "('Volume', 'COALINDIA.BO')":1210769
+  },
+  {
+    "('Date', '')":"2025-11-03",
+    "('Close', 'COALINDIA.BO')":378.299987793,
+    "('High', 'COALINDIA.BO')":380.5880004251,
+    "('Low', 'COALINDIA.BO')":377.2776988167,
+    "('Open', 'COALINDIA.BO')":380.5880004251,
+    "('Volume', 'COALINDIA.BO')":570509
+  },
+  {
+    "('Date', '')":"2025-11-04",
+    "('Close', 'COALINDIA.BO')":377.700012207,
+    "('High', 'COALINDIA.BO')":380.8999938965,
+    "('Low', 'COALINDIA.BO')":376.549987793,
+    "('Open', 'COALINDIA.BO')":380.1000061035,
+    "('Volume', 'COALINDIA.BO')":390984
+  },
+  {
+    "('Date', '')":"2025-11-06",
+    "('Close', 'COALINDIA.BO')":373.1000061035,
+    "('High', 'COALINDIA.BO')":378.700012207,
+    "('Low', 'COALINDIA.BO')":372.700012207,
+    "('Open', 'COALINDIA.BO')":378.200012207,
+    "('Volume', 'COALINDIA.BO')":822319
+  },
+  {
+    "('Date', '')":"2025-11-07",
+    "('Close', 'COALINDIA.BO')":376.1499938965,
+    "('High', 'COALINDIA.BO')":376.549987793,
+    "('Low', 'COALINDIA.BO')":371.3999938965,
+    "('Open', 'COALINDIA.BO')":372.549987793,
+    "('Volume', 'COALINDIA.BO')":133090
+  },
+  {
+    "('Date', '')":"2025-11-10",
+    "('Close', 'COALINDIA.BO')":381.299987793,
+    "('High', 'COALINDIA.BO')":382.200012207,
+    "('Low', 'COALINDIA.BO')":376.0,
+    "('Open', 'COALINDIA.BO')":376.0,
+    "('Volume', 'COALINDIA.BO')":339339
+  },
+  {
+    "('Date', '')":"2025-11-11",
+    "('Close', 'COALINDIA.BO')":382.700012207,
+    "('High', 'COALINDIA.BO')":383.200012207,
+    "('Low', 'COALINDIA.BO')":378.6499938965,
+    "('Open', 'COALINDIA.BO')":381.299987793,
+    "('Volume', 'COALINDIA.BO')":279425
+  },
+  {
+    "('Date', '')":"2025-11-12",
+    "('Close', 'COALINDIA.BO')":386.450012207,
+    "('High', 'COALINDIA.BO')":387.549987793,
+    "('Low', 'COALINDIA.BO')":383.25,
+    "('Open', 'COALINDIA.BO')":384.1000061035,
+    "('Volume', 'COALINDIA.BO')":127805
+  },
+  {
+    "('Date', '')":"2025-11-13",
+    "('Close', 'COALINDIA.BO')":383.299987793,
+    "('High', 'COALINDIA.BO')":387.3500061035,
+    "('Low', 'COALINDIA.BO')":383.0,
+    "('Open', 'COALINDIA.BO')":386.049987793,
+    "('Volume', 'COALINDIA.BO')":275820
+  }
+]

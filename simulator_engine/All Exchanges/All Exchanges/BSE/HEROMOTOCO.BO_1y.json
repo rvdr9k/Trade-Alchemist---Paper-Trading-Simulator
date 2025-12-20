@@ -1,0 +1,1986 @@
+[
+  {
+    "('Date', '')":"2024-11-13",
+    "('Close', 'HEROMOTOCO.BO')":4344.6455078125,
+    "('High', 'HEROMOTOCO.BO')":4516.5631031493,
+    "('Low', 'HEROMOTOCO.BO')":4316.9692651354,
+    "('Open', 'HEROMOTOCO.BO')":4515.7945141405,
+    "('Volume', 'HEROMOTOCO.BO')":14851
+  },
+  {
+    "('Date', '')":"2024-11-14",
+    "('Close', 'HEROMOTOCO.BO')":4424.5981445312,
+    "('High', 'HEROMOTOCO.BO')":4449.6795789644,
+    "('Low', 'HEROMOTOCO.BO')":4293.0413216502,
+    "('Open', 'HEROMOTOCO.BO')":4340.7055723219,
+    "('Volume', 'HEROMOTOCO.BO')":22407
+  },
+  {
+    "('Date', '')":"2024-11-18",
+    "('Close', 'HEROMOTOCO.BO')":4546.0649414062,
+    "('High', 'HEROMOTOCO.BO')":4651.4831610414,
+    "('Low', 'HEROMOTOCO.BO')":4532.0346732946,
+    "('Open', 'HEROMOTOCO.BO')":4613.6688646348,
+    "('Volume', 'HEROMOTOCO.BO')":58414
+  },
+  {
+    "('Date', '')":"2024-11-19",
+    "('Close', 'HEROMOTOCO.BO')":4589.1166992188,
+    "('High', 'HEROMOTOCO.BO')":4662.8233576089,
+    "('Low', 'HEROMOTOCO.BO')":4553.5607746305,
+    "('Open', 'HEROMOTOCO.BO')":4588.5883528942,
+    "('Volume', 'HEROMOTOCO.BO')":10329
+  },
+  {
+    "('Date', '')":"2024-11-21",
+    "('Close', 'HEROMOTOCO.BO')":4582.58203125,
+    "('High', 'HEROMOTOCO.BO')":4631.3513034962,
+    "('Low', 'HEROMOTOCO.BO')":4562.4495035888,
+    "('Open', 'HEROMOTOCO.BO')":4622.2699409746,
+    "('Volume', 'HEROMOTOCO.BO')":8326
+  },
+  {
+    "('Date', '')":"2024-11-22",
+    "('Close', 'HEROMOTOCO.BO')":4604.2036132812,
+    "('High', 'HEROMOTOCO.BO')":4619.6748682143,
+    "('Low', 'HEROMOTOCO.BO')":4557.8367708859,
+    "('Open', 'HEROMOTOCO.BO')":4607.6148720269,
+    "('Volume', 'HEROMOTOCO.BO')":10940
+  },
+  {
+    "('Date', '')":"2024-11-25",
+    "('Close', 'HEROMOTOCO.BO')":4671.1831054688,
+    "('High', 'HEROMOTOCO.BO')":4715.4839554469,
+    "('Low', 'HEROMOTOCO.BO')":4625.9212846418,
+    "('Open', 'HEROMOTOCO.BO')":4637.6453166877,
+    "('Volume', 'HEROMOTOCO.BO')":10821
+  },
+  {
+    "('Date', '')":"2024-11-26",
+    "('Close', 'HEROMOTOCO.BO')":4649.9936523438,
+    "('High', 'HEROMOTOCO.BO')":4691.12301492,
+    "('Low', 'HEROMOTOCO.BO')":4613.6208136961,
+    "('Open', 'HEROMOTOCO.BO')":4673.4412460337,
+    "('Volume', 'HEROMOTOCO.BO')":9198
+  },
+  {
+    "('Date', '')":"2024-11-27",
+    "('Close', 'HEROMOTOCO.BO')":4683.9155273438,
+    "('High', 'HEROMOTOCO.BO')":4700.8287065333,
+    "('Low', 'HEROMOTOCO.BO')":4623.2303178068,
+    "('Open', 'HEROMOTOCO.BO')":4660.0836402294,
+    "('Volume', 'HEROMOTOCO.BO')":12914
+  },
+  {
+    "('Date', '')":"2024-11-28",
+    "('Close', 'HEROMOTOCO.BO')":4595.8911132812,
+    "('High', 'HEROMOTOCO.BO')":4716.2527164943,
+    "('Low', 'HEROMOTOCO.BO')":4582.8701454935,
+    "('Open', 'HEROMOTOCO.BO')":4689.0574281685,
+    "('Volume', 'HEROMOTOCO.BO')":15811
+  },
+  {
+    "('Date', '')":"2024-11-29",
+    "('Close', 'HEROMOTOCO.BO')":4572.923828125,
+    "('High', 'HEROMOTOCO.BO')":4646.0538034408,
+    "('Low', 'HEROMOTOCO.BO')":4549.2359905866,
+    "('Open', 'HEROMOTOCO.BO')":4646.0538034408,
+    "('Volume', 'HEROMOTOCO.BO')":8948
+  },
+  {
+    "('Date', '')":"2024-12-02",
+    "('Close', 'HEROMOTOCO.BO')":4563.5068359375,
+    "('High', 'HEROMOTOCO.BO')":4589.8852060914,
+    "('Low', 'HEROMOTOCO.BO')":4523.9629765227,
+    "('Open', 'HEROMOTOCO.BO')":4559.7591432036,
+    "('Volume', 'HEROMOTOCO.BO')":4115
+  },
+  {
+    "('Date', '')":"2024-12-03",
+    "('Close', 'HEROMOTOCO.BO')":4514.064453125,
+    "('High', 'HEROMOTOCO.BO')":4597.1884330528,
+    "('Low', 'HEROMOTOCO.BO')":4507.4817088466,
+    "('Open', 'HEROMOTOCO.BO')":4563.5065918815,
+    "('Volume', 'HEROMOTOCO.BO')":11610
+  },
+  {
+    "('Date', '')":"2024-12-04",
+    "('Close', 'HEROMOTOCO.BO')":4453.0908203125,
+    "('High', 'HEROMOTOCO.BO')":4540.5870238443,
+    "('Low', 'HEROMOTOCO.BO')":4435.8412067863,
+    "('Open', 'HEROMOTOCO.BO')":4540.5391629939,
+    "('Volume', 'HEROMOTOCO.BO')":21988
+  },
+  {
+    "('Date', '')":"2024-12-05",
+    "('Close', 'HEROMOTOCO.BO')":4466.2563476562,
+    "('High', 'HEROMOTOCO.BO')":4502.244895858,
+    "('Low', 'HEROMOTOCO.BO')":4410.8564686433,
+    "('Open', 'HEROMOTOCO.BO')":4502.244895858,
+    "('Volume', 'HEROMOTOCO.BO')":18807
+  },
+  {
+    "('Date', '')":"2024-12-06",
+    "('Close', 'HEROMOTOCO.BO')":4449.775390625,
+    "('High', 'HEROMOTOCO.BO')":4538.4728097931,
+    "('Low', 'HEROMOTOCO.BO')":4435.7934528565,
+    "('Open', 'HEROMOTOCO.BO')":4468.5143216513,
+    "('Volume', 'HEROMOTOCO.BO')":17545
+  },
+  {
+    "('Date', '')":"2024-12-09",
+    "('Close', 'HEROMOTOCO.BO')":4417.8232421875,
+    "('High', 'HEROMOTOCO.BO')":4468.5144545482,
+    "('Low', 'HEROMOTOCO.BO')":4411.2888280941,
+    "('Open', 'HEROMOTOCO.BO')":4449.8233838175,
+    "('Volume', 'HEROMOTOCO.BO')":15566
+  },
+  {
+    "('Date', '')":"2024-12-10",
+    "('Close', 'HEROMOTOCO.BO')":4409.6069335938,
+    "('High', 'HEROMOTOCO.BO')":4434.8802781502,
+    "('Low', 'HEROMOTOCO.BO')":4384.5255016645,
+    "('Open', 'HEROMOTOCO.BO')":4420.4657160327,
+    "('Volume', 'HEROMOTOCO.BO')":10251
+  },
+  {
+    "('Date', '')":"2024-12-11",
+    "('Close', 'HEROMOTOCO.BO')":4468.08203125,
+    "('High', 'HEROMOTOCO.BO')":4473.3195103105,
+    "('Low', 'HEROMOTOCO.BO')":4393.8953597885,
+    "('Open', 'HEROMOTOCO.BO')":4393.8953597885,
+    "('Volume', 'HEROMOTOCO.BO')":21259
+  },
+  {
+    "('Date', '')":"2024-12-12",
+    "('Close', 'HEROMOTOCO.BO')":4375.3481445312,
+    "('High', 'HEROMOTOCO.BO')":4476.2984139419,
+    "('Low', 'HEROMOTOCO.BO')":4364.7296043196,
+    "('Open', 'HEROMOTOCO.BO')":4469.0428024839,
+    "('Volume', 'HEROMOTOCO.BO')":10732
+  },
+  {
+    "('Date', '')":"2024-12-13",
+    "('Close', 'HEROMOTOCO.BO')":4394.4233398438,
+    "('High', 'HEROMOTOCO.BO')":4404.5618634621,
+    "('Low', 'HEROMOTOCO.BO')":4324.5127131515,
+    "('Open', 'HEROMOTOCO.BO')":4379.1439977517,
+    "('Volume', 'HEROMOTOCO.BO')":5478
+  },
+  {
+    "('Date', '')":"2024-12-16",
+    "('Close', 'HEROMOTOCO.BO')":4362.0869140625,
+    "('High', 'HEROMOTOCO.BO')":4419.6973039877,
+    "('Low', 'HEROMOTOCO.BO')":4341.6662835786,
+    "('Open', 'HEROMOTOCO.BO')":4419.6973039877,
+    "('Volume', 'HEROMOTOCO.BO')":4657
+  },
+  {
+    "('Date', '')":"2024-12-17",
+    "('Close', 'HEROMOTOCO.BO')":4238.6020507812,
+    "('High', 'HEROMOTOCO.BO')":4379.384276126,
+    "('Low', 'HEROMOTOCO.BO')":4220.5838478788,
+    "('Open', 'HEROMOTOCO.BO')":4362.0868013396,
+    "('Volume', 'HEROMOTOCO.BO')":23828
+  },
+  {
+    "('Date', '')":"2024-12-18",
+    "('Close', 'HEROMOTOCO.BO')":4217.8452148438,
+    "('High', 'HEROMOTOCO.BO')":4256.3323798552,
+    "('Low', 'HEROMOTOCO.BO')":4200.0193928331,
+    "('Open', 'HEROMOTOCO.BO')":4228.2718426642,
+    "('Volume', 'HEROMOTOCO.BO')":12766
+  },
+  {
+    "('Date', '')":"2024-12-19",
+    "('Close', 'HEROMOTOCO.BO')":4235.3349609375,
+    "('High', 'HEROMOTOCO.BO')":4281.1251280016,
+    "('Low', 'HEROMOTOCO.BO')":4155.6705714801,
+    "('Open', 'HEROMOTOCO.BO')":4179.3100789626,
+    "('Volume', 'HEROMOTOCO.BO')":9305
+  },
+  {
+    "('Date', '')":"2024-12-20",
+    "('Close', 'HEROMOTOCO.BO')":4170.4692382812,
+    "('High', 'HEROMOTOCO.BO')":4287.0348091363,
+    "('Low', 'HEROMOTOCO.BO')":4161.9645528196,
+    "('Open', 'HEROMOTOCO.BO')":4228.6558327836,
+    "('Volume', 'HEROMOTOCO.BO')":13978
+  },
+  {
+    "('Date', '')":"2024-12-23",
+    "('Close', 'HEROMOTOCO.BO')":4105.748046875,
+    "('High', 'HEROMOTOCO.BO')":4198.6257877243,
+    "('Low', 'HEROMOTOCO.BO')":4092.7749401148,
+    "('Open', 'HEROMOTOCO.BO')":4193.9649851545,
+    "('Volume', 'HEROMOTOCO.BO')":8002
+  },
+  {
+    "('Date', '')":"2024-12-24",
+    "('Close', 'HEROMOTOCO.BO')":4093.2551269531,
+    "('High', 'HEROMOTOCO.BO')":4146.8771099605,
+    "('Low', 'HEROMOTOCO.BO')":4087.489302147,
+    "('Open', 'HEROMOTOCO.BO')":4105.7477473664,
+    "('Volume', 'HEROMOTOCO.BO')":5054
+  },
+  {
+    "('Date', '')":"2024-12-26",
+    "('Close', 'HEROMOTOCO.BO')":4109.4477539062,
+    "('High', 'HEROMOTOCO.BO')":4138.0844973074,
+    "('Low', 'HEROMOTOCO.BO')":4091.8138451113,
+    "('Open', 'HEROMOTOCO.BO')":4092.7748159532,
+    "('Volume', 'HEROMOTOCO.BO')":9680
+  },
+  {
+    "('Date', '')":"2024-12-27",
+    "('Close', 'HEROMOTOCO.BO')":4074.0361328125,
+    "('High', 'HEROMOTOCO.BO')":4177.3405046199,
+    "('Low', 'HEROMOTOCO.BO')":4063.7535564872,
+    "('Open', 'HEROMOTOCO.BO')":4110.1204024379,
+    "('Volume', 'HEROMOTOCO.BO')":31728
+  },
+  {
+    "('Date', '')":"2024-12-30",
+    "('Close', 'HEROMOTOCO.BO')":4024.6899414062,
+    "('High', 'HEROMOTOCO.BO')":4112.1382881006,
+    "('Low', 'HEROMOTOCO.BO')":4007.2005536018,
+    "('Open', 'HEROMOTOCO.BO')":4083.6455964565,
+    "('Volume', 'HEROMOTOCO.BO')":24073
+  },
+  {
+    "('Date', '')":"2024-12-31",
+    "('Close', 'HEROMOTOCO.BO')":3999.0803222656,
+    "('High', 'HEROMOTOCO.BO')":4052.1261025995,
+    "('Low', 'HEROMOTOCO.BO')":3988.0291571314,
+    "('Open', 'HEROMOTOCO.BO')":4011.8610472964,
+    "('Volume', 'HEROMOTOCO.BO')":15006
+  },
+  {
+    "('Date', '')":"2025-01-01",
+    "('Close', 'HEROMOTOCO.BO')":4020.0290527344,
+    "('High', 'HEROMOTOCO.BO')":4031.2725990435,
+    "('Low', 'HEROMOTOCO.BO')":3968.8094956018,
+    "('Open', 'HEROMOTOCO.BO')":4012.0531825999,
+    "('Volume', 'HEROMOTOCO.BO')":16672
+  },
+  {
+    "('Date', '')":"2025-01-02",
+    "('Close', 'HEROMOTOCO.BO')":4142.3125,
+    "('High', 'HEROMOTOCO.BO')":4153.7000978406,
+    "('Low', 'HEROMOTOCO.BO')":3980.6774927501,
+    "('Open', 'HEROMOTOCO.BO')":4036.0773656022,
+    "('Volume', 'HEROMOTOCO.BO')":13886
+  },
+  {
+    "('Date', '')":"2025-01-03",
+    "('Close', 'HEROMOTOCO.BO')":4077.3518066406,
+    "('High', 'HEROMOTOCO.BO')":4110.8895983475,
+    "('Low', 'HEROMOTOCO.BO')":3997.5428891444,
+    "('Open', 'HEROMOTOCO.BO')":4103.2980218239,
+    "('Volume', 'HEROMOTOCO.BO')":41152
+  },
+  {
+    "('Date', '')":"2025-01-06",
+    "('Close', 'HEROMOTOCO.BO')":4033.8674316406,
+    "('High', 'HEROMOTOCO.BO')":4131.0695370301,
+    "('Low', 'HEROMOTOCO.BO')":4026.4677685768,
+    "('Open', 'HEROMOTOCO.BO')":4087.0567915814,
+    "('Volume', 'HEROMOTOCO.BO')":7425
+  },
+  {
+    "('Date', '')":"2025-01-07",
+    "('Close', 'HEROMOTOCO.BO')":4001.7229003906,
+    "('High', 'HEROMOTOCO.BO')":4065.243168028,
+    "('Low', 'HEROMOTOCO.BO')":3995.092295307,
+    "('Open', 'HEROMOTOCO.BO')":4026.8043336603,
+    "('Volume', 'HEROMOTOCO.BO')":7031
+  },
+  {
+    "('Date', '')":"2025-01-08",
+    "('Close', 'HEROMOTOCO.BO')":3974.5754394531,
+    "('High', 'HEROMOTOCO.BO')":4052.029783883,
+    "('Low', 'HEROMOTOCO.BO')":3939.9804888196,
+    "('Open', 'HEROMOTOCO.BO')":4052.029783883,
+    "('Volume', 'HEROMOTOCO.BO')":17596
+  },
+  {
+    "('Date', '')":"2025-01-09",
+    "('Close', 'HEROMOTOCO.BO')":3980.91796875,
+    "('High', 'HEROMOTOCO.BO')":4001.9631366877,
+    "('Low', 'HEROMOTOCO.BO')":3953.7705420214,
+    "('Open', 'HEROMOTOCO.BO')":4001.9631366877,
+    "('Volume', 'HEROMOTOCO.BO')":4387
+  },
+  {
+    "('Date', '')":"2025-01-10",
+    "('Close', 'HEROMOTOCO.BO')":3961.6022949219,
+    "('High', 'HEROMOTOCO.BO')":4000.04112859,
+    "('Low', 'HEROMOTOCO.BO')":3926.3828074183,
+    "('Open', 'HEROMOTOCO.BO')":3987.5006467954,
+    "('Volume', 'HEROMOTOCO.BO')":13689
+  },
+  {
+    "('Date', '')":"2025-01-13",
+    "('Close', 'HEROMOTOCO.BO')":3885.7338867188,
+    "('High', 'HEROMOTOCO.BO')":3960.785572413,
+    "('Low', 'HEROMOTOCO.BO')":3842.922586674,
+    "('Open', 'HEROMOTOCO.BO')":3960.785572413,
+    "('Volume', 'HEROMOTOCO.BO')":22455
+  },
+  {
+    "('Date', '')":"2025-01-14",
+    "('Close', 'HEROMOTOCO.BO')":3945.4582519531,
+    "('High', 'HEROMOTOCO.BO')":3969.7706270484,
+    "('Low', 'HEROMOTOCO.BO')":3891.9800827678,
+    "('Open', 'HEROMOTOCO.BO')":3891.9800827678,
+    "('Volume', 'HEROMOTOCO.BO')":6321
+  },
+  {
+    "('Date', '')":"2025-01-15",
+    "('Close', 'HEROMOTOCO.BO')":3951.416015625,
+    "('High', 'HEROMOTOCO.BO')":4021.3749763027,
+    "('Low', 'HEROMOTOCO.BO')":3922.3466468876,
+    "('Open', 'HEROMOTOCO.BO')":4021.3749763027,
+    "('Volume', 'HEROMOTOCO.BO')":8983
+  },
+  {
+    "('Date', '')":"2025-01-16",
+    "('Close', 'HEROMOTOCO.BO')":3914.5148925781,
+    "('High', 'HEROMOTOCO.BO')":4012.0534372195,
+    "('Low', 'HEROMOTOCO.BO')":3900.5808147722,
+    "('Open', 'HEROMOTOCO.BO')":4006.2876119205,
+    "('Volume', 'HEROMOTOCO.BO')":12296
+  },
+  {
+    "('Date', '')":"2025-01-17",
+    "('Close', 'HEROMOTOCO.BO')":3936.9536132812,
+    "('High', 'HEROMOTOCO.BO')":3964.0048495003,
+    "('Low', 'HEROMOTOCO.BO')":3891.9320340548,
+    "('Open', 'HEROMOTOCO.BO')":3914.0343641248,
+    "('Volume', 'HEROMOTOCO.BO')":4201
+  },
+  {
+    "('Date', '')":"2025-01-20",
+    "('Close', 'HEROMOTOCO.BO')":3933.1574707031,
+    "('High', 'HEROMOTOCO.BO')":3960.3048970264,
+    "('Low', 'HEROMOTOCO.BO')":3889.1451937695,
+    "('Open', 'HEROMOTOCO.BO')":3959.1998744014,
+    "('Volume', 'HEROMOTOCO.BO')":4307
+  },
+  {
+    "('Date', '')":"2025-01-21",
+    "('Close', 'HEROMOTOCO.BO')":3866.8503417969,
+    "('High', 'HEROMOTOCO.BO')":3957.2777887056,
+    "('Low', 'HEROMOTOCO.BO')":3857.3368246392,
+    "('Open', 'HEROMOTOCO.BO')":3930.3706060723,
+    "('Volume', 'HEROMOTOCO.BO')":12974
+  },
+  {
+    "('Date', '')":"2025-01-22",
+    "('Close', 'HEROMOTOCO.BO')":3898.5146484375,
+    "('High', 'HEROMOTOCO.BO')":3912.1122919868,
+    "('Low', 'HEROMOTOCO.BO')":3866.9466624798,
+    "('Open', 'HEROMOTOCO.BO')":3868.3881187406,
+    "('Volume', 'HEROMOTOCO.BO')":5094
+  },
+  {
+    "('Date', '')":"2025-01-23",
+    "('Close', 'HEROMOTOCO.BO')":3940.6533203125,
+    "('High', 'HEROMOTOCO.BO')":3954.3950156664,
+    "('Low', 'HEROMOTOCO.BO')":3867.9557353326,
+    "('Open', 'HEROMOTOCO.BO')":3896.7367651342,
+    "('Volume', 'HEROMOTOCO.BO')":10664
+  },
+  {
+    "('Date', '')":"2025-01-24",
+    "('Close', 'HEROMOTOCO.BO')":3892.6525878906,
+    "('High', 'HEROMOTOCO.BO')":3963.4279956438,
+    "('Low', 'HEROMOTOCO.BO')":3883.3312177662,
+    "('Open', 'HEROMOTOCO.BO')":3959.007435983,
+    "('Volume', 'HEROMOTOCO.BO')":7820
+  },
+  {
+    "('Date', '')":"2025-01-27",
+    "('Close', 'HEROMOTOCO.BO')":3858.1059570312,
+    "('High', 'HEROMOTOCO.BO')":3915.0915774491,
+    "('Low', 'HEROMOTOCO.BO')":3844.7964164257,
+    "('Open', 'HEROMOTOCO.BO')":3893.6137843189,
+    "('Volume', 'HEROMOTOCO.BO')":6791
+  },
+  {
+    "('Date', '')":"2025-01-28",
+    "('Close', 'HEROMOTOCO.BO')":3866.0339355469,
+    "('High', 'HEROMOTOCO.BO')":3904.3765797133,
+    "('Low', 'HEROMOTOCO.BO')":3844.0756571518,
+    "('Open', 'HEROMOTOCO.BO')":3874.2021880054,
+    "('Volume', 'HEROMOTOCO.BO')":6735
+  },
+  {
+    "('Date', '')":"2025-01-29",
+    "('Close', 'HEROMOTOCO.BO')":3915.3793945312,
+    "('High', 'HEROMOTOCO.BO')":3952.9055863889,
+    "('Low', 'HEROMOTOCO.BO')":3876.988657397,
+    "('Open', 'HEROMOTOCO.BO')":3879.3429889711,
+    "('Volume', 'HEROMOTOCO.BO')":7044
+  },
+  {
+    "('Date', '')":"2025-01-30",
+    "('Close', 'HEROMOTOCO.BO')":4017.1462402344,
+    "('High', 'HEROMOTOCO.BO')":4026.3716542017,
+    "('Low', 'HEROMOTOCO.BO')":3901.6378260684,
+    "('Open', 'HEROMOTOCO.BO')":3916.0042932951,
+    "('Volume', 'HEROMOTOCO.BO')":22960
+  },
+  {
+    "('Date', '')":"2025-01-31",
+    "('Close', 'HEROMOTOCO.BO')":4171.4306640625,
+    "('High', 'HEROMOTOCO.BO')":4201.3169531764,
+    "('Low', 'HEROMOTOCO.BO')":4014.7440758199,
+    "('Open', 'HEROMOTOCO.BO')":4017.3388849638,
+    "('Volume', 'HEROMOTOCO.BO')":87405
+  },
+  {
+    "('Date', '')":"2025-02-01",
+    "('Close', 'HEROMOTOCO.BO')":4231.05859375,
+    "('High', 'HEROMOTOCO.BO')":4344.5014876696,
+    "('Low', 'HEROMOTOCO.BO')":4066.8766250555,
+    "('Open', 'HEROMOTOCO.BO')":4184.9319915095,
+    "('Volume', 'HEROMOTOCO.BO')":58752
+  },
+  {
+    "('Date', '')":"2025-02-03",
+    "('Close', 'HEROMOTOCO.BO')":4118.8173828125,
+    "('High', 'HEROMOTOCO.BO')":4266.5183255412,
+    "('Low', 'HEROMOTOCO.BO')":4064.2339552914,
+    "('Open', 'HEROMOTOCO.BO')":4266.5183255412,
+    "('Volume', 'HEROMOTOCO.BO')":29130
+  },
+  {
+    "('Date', '')":"2025-02-04",
+    "('Close', 'HEROMOTOCO.BO')":4071.8740234375,
+    "('High', 'HEROMOTOCO.BO')":4176.331749943,
+    "('Low', 'HEROMOTOCO.BO')":4058.4204305817,
+    "('Open', 'HEROMOTOCO.BO')":4168.5956525165,
+    "('Volume', 'HEROMOTOCO.BO')":9579
+  },
+  {
+    "('Date', '')":"2025-02-05",
+    "('Close', 'HEROMOTOCO.BO')":4109.111328125,
+    "('High', 'HEROMOTOCO.BO')":4123.0932662128,
+    "('Low', 'HEROMOTOCO.BO')":4047.6570549738,
+    "('Open', 'HEROMOTOCO.BO')":4084.0782253334,
+    "('Volume', 'HEROMOTOCO.BO')":15926
+  },
+  {
+    "('Date', '')":"2025-02-06",
+    "('Close', 'HEROMOTOCO.BO')":4065.4353027344,
+    "('High', 'HEROMOTOCO.BO')":4163.8390994701,
+    "('Low', 'HEROMOTOCO.BO')":4052.5583863626,
+    "('Open', 'HEROMOTOCO.BO')":4132.0308684485,
+    "('Volume', 'HEROMOTOCO.BO')":19171
+  },
+  {
+    "('Date', '')":"2025-02-07",
+    "('Close', 'HEROMOTOCO.BO')":4111.1293945312,
+    "('High', 'HEROMOTOCO.BO')":4170.6133949602,
+    "('Low', 'HEROMOTOCO.BO')":4050.4920414187,
+    "('Open', 'HEROMOTOCO.BO')":4169.4600422766,
+    "('Volume', 'HEROMOTOCO.BO')":39895
+  },
+  {
+    "('Date', '')":"2025-02-10",
+    "('Close', 'HEROMOTOCO.BO')":4033.0024414062,
+    "('High', 'HEROMOTOCO.BO')":4151.3942426835,
+    "('Low', 'HEROMOTOCO.BO')":4008.2095801465,
+    "('Open', 'HEROMOTOCO.BO')":4151.3463818287,
+    "('Volume', 'HEROMOTOCO.BO')":27388
+  },
+  {
+    "('Date', '')":"2025-02-11",
+    "('Close', 'HEROMOTOCO.BO')":3922.8271484375,
+    "('High', 'HEROMOTOCO.BO')":4051.357002474,
+    "('Low', 'HEROMOTOCO.BO')":3908.7490190177,
+    "('Open', 'HEROMOTOCO.BO')":4033.0506950654,
+    "('Volume', 'HEROMOTOCO.BO')":30223
+  },
+  {
+    "('Date', '')":"2025-02-12",
+    "('Close', 'HEROMOTOCO.BO')":3958.9807128906,
+    "('High', 'HEROMOTOCO.BO')":4001.9803563954,
+    "('Low', 'HEROMOTOCO.BO')":3896.0817992723,
+    "('Open', 'HEROMOTOCO.BO')":3950.2131531615,
+    "('Volume', 'HEROMOTOCO.BO')":17530
+  },
+  {
+    "('Date', '')":"2025-02-13",
+    "('Close', 'HEROMOTOCO.BO')":3895.1953125,
+    "('High', 'HEROMOTOCO.BO')":3960.1134947321,
+    "('Low', 'HEROMOTOCO.BO')":3883.9649956008,
+    "('Open', 'HEROMOTOCO.BO')":3950.2131628945,
+    "('Volume', 'HEROMOTOCO.BO')":32327
+  },
+  {
+    "('Date', '')":"2025-02-14",
+    "('Close', 'HEROMOTOCO.BO')":3801.7087402344,
+    "('High', 'HEROMOTOCO.BO')":3934.4513447193,
+    "('Low', 'HEROMOTOCO.BO')":3791.1681882016,
+    "('Open', 'HEROMOTOCO.BO')":3934.4513447193,
+    "('Volume', 'HEROMOTOCO.BO')":25508
+  },
+  {
+    "('Date', '')":"2025-02-17",
+    "('Close', 'HEROMOTOCO.BO')":3818.8005371094,
+    "('High', 'HEROMOTOCO.BO')":3826.1888085537,
+    "('Low', 'HEROMOTOCO.BO')":3702.8539786769,
+    "('Open', 'HEROMOTOCO.BO')":3800.477527726,
+    "('Volume', 'HEROMOTOCO.BO')":14257
+  },
+  {
+    "('Date', '')":"2025-02-18",
+    "('Close', 'HEROMOTOCO.BO')":3785.0114746094,
+    "('High', 'HEROMOTOCO.BO')":3829.9813240949,
+    "('Low', 'HEROMOTOCO.BO')":3754.2270101467,
+    "('Open', 'HEROMOTOCO.BO')":3827.1739252381,
+    "('Volume', 'HEROMOTOCO.BO')":15662
+  },
+  {
+    "('Date', '')":"2025-02-19",
+    "('Close', 'HEROMOTOCO.BO')":3822.4946289062,
+    "('High', 'HEROMOTOCO.BO')":3839.9309012138,
+    "('Low', 'HEROMOTOCO.BO')":3758.6599162599,
+    "('Open', 'HEROMOTOCO.BO')":3790.8234280433,
+    "('Volume', 'HEROMOTOCO.BO')":14449
+  },
+  {
+    "('Date', '')":"2025-02-20",
+    "('Close', 'HEROMOTOCO.BO')":3851.751953125,
+    "('High', 'HEROMOTOCO.BO')":3879.3348315617,
+    "('Low', 'HEROMOTOCO.BO')":3799.4922014147,
+    "('Open', 'HEROMOTOCO.BO')":3838.4530653073,
+    "('Volume', 'HEROMOTOCO.BO')":11462
+  },
+  {
+    "('Date', '')":"2025-02-21",
+    "('Close', 'HEROMOTOCO.BO')":3796.09375,
+    "('High', 'HEROMOTOCO.BO')":3859.5342759602,
+    "('Low', 'HEROMOTOCO.BO')":3772.2543096487,
+    "('Open', 'HEROMOTOCO.BO')":3851.6043905929,
+    "('Volume', 'HEROMOTOCO.BO')":12819
+  },
+  {
+    "('Date', '')":"2025-02-24",
+    "('Close', 'HEROMOTOCO.BO')":3827.2231445312,
+    "('High', 'HEROMOTOCO.BO')":3833.7739822238,
+    "('Low', 'HEROMOTOCO.BO')":3743.390796544,
+    "('Open', 'HEROMOTOCO.BO')":3775.5052453685,
+    "('Volume', 'HEROMOTOCO.BO')":11904
+  },
+  {
+    "('Date', '')":"2025-02-25",
+    "('Close', 'HEROMOTOCO.BO')":3769.1511230469,
+    "('High', 'HEROMOTOCO.BO')":3827.2231276826,
+    "('Low', 'HEROMOTOCO.BO')":3759.1524254542,
+    "('Open', 'HEROMOTOCO.BO')":3826.484300555,
+    "('Volume', 'HEROMOTOCO.BO')":10498
+  },
+  {
+    "('Date', '')":"2025-02-27",
+    "('Close', 'HEROMOTOCO.BO')":3703.1000976562,
+    "('High', 'HEROMOTOCO.BO')":3761.5658055757,
+    "('Low', 'HEROMOTOCO.BO')":3672.2663313662,
+    "('Open', 'HEROMOTOCO.BO')":3744.572781973,
+    "('Volume', 'HEROMOTOCO.BO')":10140
+  },
+  {
+    "('Date', '')":"2025-02-28",
+    "('Close', 'HEROMOTOCO.BO')":3631.9755859375,
+    "('High', 'HEROMOTOCO.BO')":3694.1356717082,
+    "('Low', 'HEROMOTOCO.BO')":3608.4317241246,
+    "('Open', 'HEROMOTOCO.BO')":3669.6067070495,
+    "('Volume', 'HEROMOTOCO.BO')":43293
+  },
+  {
+    "('Date', '')":"2025-03-03",
+    "('Close', 'HEROMOTOCO.BO')":3575.2336425781,
+    "('High', 'HEROMOTOCO.BO')":3655.8150997738,
+    "('Low', 'HEROMOTOCO.BO')":3563.0182235476,
+    "('Open', 'HEROMOTOCO.BO')":3607.594125278,
+    "('Volume', 'HEROMOTOCO.BO')":28109
+  },
+  {
+    "('Date', '')":"2025-03-04",
+    "('Close', 'HEROMOTOCO.BO')":3463.572265625,
+    "('High', 'HEROMOTOCO.BO')":3575.9232920902,
+    "('Low', 'HEROMOTOCO.BO')":3443.0820785503,
+    "('Open', 'HEROMOTOCO.BO')":3575.2337682062,
+    "('Volume', 'HEROMOTOCO.BO')":21866
+  },
+  {
+    "('Date', '')":"2025-03-05",
+    "('Close', 'HEROMOTOCO.BO')":3534.7458496094,
+    "('High', 'HEROMOTOCO.BO')":3555.2360361283,
+    "('Low', 'HEROMOTOCO.BO')":3461.6512693142,
+    "('Open', 'HEROMOTOCO.BO')":3463.5721716902,
+    "('Volume', 'HEROMOTOCO.BO')":30958
+  },
+  {
+    "('Date', '')":"2025-03-06",
+    "('Close', 'HEROMOTOCO.BO')":3596.5610351562,
+    "('High', 'HEROMOTOCO.BO')":3603.9986094292,
+    "('Low', 'HEROMOTOCO.BO')":3530.55914727,
+    "('Open', 'HEROMOTOCO.BO')":3585.7249043093,
+    "('Volume', 'HEROMOTOCO.BO')":10395
+  },
+  {
+    "('Date', '')":"2025-03-07",
+    "('Close', 'HEROMOTOCO.BO')":3597.15234375,
+    "('High', 'HEROMOTOCO.BO')":3675.4187167278,
+    "('Low', 'HEROMOTOCO.BO')":3575.9233293278,
+    "('Open', 'HEROMOTOCO.BO')":3633.0099911264,
+    "('Volume', 'HEROMOTOCO.BO')":24573
+  },
+  {
+    "('Date', '')":"2025-03-10",
+    "('Close', 'HEROMOTOCO.BO')":3528.3920898438,
+    "('High', 'HEROMOTOCO.BO')":3633.8473967475,
+    "('Low', 'HEROMOTOCO.BO')":3521.8412521728,
+    "('Open', 'HEROMOTOCO.BO')":3633.8473967475,
+    "('Volume', 'HEROMOTOCO.BO')":10847
+  },
+  {
+    "('Date', '')":"2025-03-11",
+    "('Close', 'HEROMOTOCO.BO')":3597.6447753906,
+    "('High', 'HEROMOTOCO.BO')":3607.6434727386,
+    "('Low', 'HEROMOTOCO.BO')":3501.1046997415,
+    "('Open', 'HEROMOTOCO.BO')":3526.4217939283,
+    "('Volume', 'HEROMOTOCO.BO')":6596
+  },
+  {
+    "('Date', '')":"2025-03-12",
+    "('Close', 'HEROMOTOCO.BO')":3555.4331054688,
+    "('High', 'HEROMOTOCO.BO')":3609.4167889501,
+    "('Low', 'HEROMOTOCO.BO')":3543.9074503952,
+    "('Open', 'HEROMOTOCO.BO')":3601.5359662668,
+    "('Volume', 'HEROMOTOCO.BO')":10647
+  },
+  {
+    "('Date', '')":"2025-03-13",
+    "('Close', 'HEROMOTOCO.BO')":3478.5456542969,
+    "('High', 'HEROMOTOCO.BO')":3589.1727467828,
+    "('Low', 'HEROMOTOCO.BO')":3472.4873682813,
+    "('Open', 'HEROMOTOCO.BO')":3589.1727467828,
+    "('Volume', 'HEROMOTOCO.BO')":5953
+  },
+  {
+    "('Date', '')":"2025-03-17",
+    "('Close', 'HEROMOTOCO.BO')":3440.2253417969,
+    "('High', 'HEROMOTOCO.BO')":3493.076012175,
+    "('Low', 'HEROMOTOCO.BO')":3403.8258405013,
+    "('Open', 'HEROMOTOCO.BO')":3462.6364310734,
+    "('Volume', 'HEROMOTOCO.BO')":26165
+  },
+  {
+    "('Date', '')":"2025-03-18",
+    "('Close', 'HEROMOTOCO.BO')":3511.6452636719,
+    "('High', 'HEROMOTOCO.BO')":3519.8709683877,
+    "('Low', 'HEROMOTOCO.BO')":3447.8598563298,
+    "('Open', 'HEROMOTOCO.BO')":3447.8598563298,
+    "('Volume', 'HEROMOTOCO.BO')":9743
+  },
+  {
+    "('Date', '')":"2025-03-19",
+    "('Close', 'HEROMOTOCO.BO')":3483.1267089844,
+    "('High', 'HEROMOTOCO.BO')":3532.4802175218,
+    "('Low', 'HEROMOTOCO.BO')":3462.636521581,
+    "('Open', 'HEROMOTOCO.BO')":3531.5937211573,
+    "('Volume', 'HEROMOTOCO.BO')":24471
+  },
+  {
+    "('Date', '')":"2025-03-20",
+    "('Close', 'HEROMOTOCO.BO')":3543.3161621094,
+    "('High', 'HEROMOTOCO.BO')":3579.3710207602,
+    "('Low', 'HEROMOTOCO.BO')":3503.025553825,
+    "('Open', 'HEROMOTOCO.BO')":3514.3542360154,
+    "('Volume', 'HEROMOTOCO.BO')":17079
+  },
+  {
+    "('Date', '')":"2025-03-21",
+    "('Close', 'HEROMOTOCO.BO')":3577.6965332031,
+    "('High', 'HEROMOTOCO.BO')":3658.080780438,
+    "('Low', 'HEROMOTOCO.BO')":3560.0630481103,
+    "('Open', 'HEROMOTOCO.BO')":3579.1248842167,
+    "('Volume', 'HEROMOTOCO.BO')":21293
+  },
+  {
+    "('Date', '')":"2025-03-24",
+    "('Close', 'HEROMOTOCO.BO')":3572.3276367188,
+    "('High', 'HEROMOTOCO.BO')":3634.9800305271,
+    "('Low', 'HEROMOTOCO.BO')":3531.5935397175,
+    "('Open', 'HEROMOTOCO.BO')":3605.4762497534,
+    "('Volume', 'HEROMOTOCO.BO')":34271
+  },
+  {
+    "('Date', '')":"2025-03-25",
+    "('Close', 'HEROMOTOCO.BO')":3572.4753417969,
+    "('High', 'HEROMOTOCO.BO')":3620.1542216172,
+    "('Low', 'HEROMOTOCO.BO')":3559.2750603394,
+    "('Open', 'HEROMOTOCO.BO')":3600.5507718923,
+    "('Volume', 'HEROMOTOCO.BO')":32572
+  },
+  {
+    "('Date', '')":"2025-03-26",
+    "('Close', 'HEROMOTOCO.BO')":3591.1923828125,
+    "('High', 'HEROMOTOCO.BO')":3608.5793516382,
+    "('Low', 'HEROMOTOCO.BO')":3553.4135929117,
+    "('Open', 'HEROMOTOCO.BO')":3592.1774856469,
+    "('Volume', 'HEROMOTOCO.BO')":14199
+  },
+  {
+    "('Date', '')":"2025-03-27",
+    "('Close', 'HEROMOTOCO.BO')":3707.0895996094,
+    "('High', 'HEROMOTOCO.BO')":3727.0379318152,
+    "('Low', 'HEROMOTOCO.BO')":3555.8763159755,
+    "('Open', 'HEROMOTOCO.BO')":3587.7444885649,
+    "('Volume', 'HEROMOTOCO.BO')":87658
+  },
+  {
+    "('Date', '')":"2025-03-28",
+    "('Close', 'HEROMOTOCO.BO')":3666.6513671875,
+    "('High', 'HEROMOTOCO.BO')":3752.0104318444,
+    "('Low', 'HEROMOTOCO.BO')":3656.652429086,
+    "('Open', 'HEROMOTOCO.BO')":3716.2018475045,
+    "('Volume', 'HEROMOTOCO.BO')":9445
+  },
+  {
+    "('Date', '')":"2025-04-01",
+    "('Close', 'HEROMOTOCO.BO')":3707.1389160156,
+    "('High', 'HEROMOTOCO.BO')":3759.9405238233,
+    "('Low', 'HEROMOTOCO.BO')":3650.4462001362,
+    "('Open', 'HEROMOTOCO.BO')":3666.4541210989,
+    "('Volume', 'HEROMOTOCO.BO')":14632
+  },
+  {
+    "('Date', '')":"2025-04-02",
+    "('Close', 'HEROMOTOCO.BO')":3725.8559570312,
+    "('High', 'HEROMOTOCO.BO')":3733.5398073741,
+    "('Low', 'HEROMOTOCO.BO')":3676.5515112105,
+    "('Open', 'HEROMOTOCO.BO')":3696.3028714848,
+    "('Volume', 'HEROMOTOCO.BO')":15026
+  },
+  {
+    "('Date', '')":"2025-04-03",
+    "('Close', 'HEROMOTOCO.BO')":3692.9536132812,
+    "('High', 'HEROMOTOCO.BO')":3751.419323144,
+    "('Low', 'HEROMOTOCO.BO')":3682.8563090657,
+    "('Open', 'HEROMOTOCO.BO')":3723.6887741097,
+    "('Volume', 'HEROMOTOCO.BO')":11067
+  },
+  {
+    "('Date', '')":"2025-04-04",
+    "('Close', 'HEROMOTOCO.BO')":3605.3776855469,
+    "('High', 'HEROMOTOCO.BO')":3684.2845169919,
+    "('Low', 'HEROMOTOCO.BO')":3579.2233982904,
+    "('Open', 'HEROMOTOCO.BO')":3684.2845169919,
+    "('Volume', 'HEROMOTOCO.BO')":6881
+  },
+  {
+    "('Date', '')":"2025-04-07",
+    "('Close', 'HEROMOTOCO.BO')":3477.0681152344,
+    "('High', 'HEROMOTOCO.BO')":3492.1895399091,
+    "('Low', 'HEROMOTOCO.BO')":3273.1027662443,
+    "('Open', 'HEROMOTOCO.BO')":3273.1027662443,
+    "('Volume', 'HEROMOTOCO.BO')":43545
+  },
+  {
+    "('Date', '')":"2025-04-08",
+    "('Close', 'HEROMOTOCO.BO')":3520.8562011719,
+    "('High', 'HEROMOTOCO.BO')":3565.0872230458,
+    "('Low', 'HEROMOTOCO.BO')":3459.6812178328,
+    "('Open', 'HEROMOTOCO.BO')":3546.3702688491,
+    "('Volume', 'HEROMOTOCO.BO')":22835
+  },
+  {
+    "('Date', '')":"2025-04-09",
+    "('Close', 'HEROMOTOCO.BO')":3555.0883789062,
+    "('High', 'HEROMOTOCO.BO')":3623.4544178503,
+    "('Low', 'HEROMOTOCO.BO')":3485.5400241851,
+    "('Open', 'HEROMOTOCO.BO')":3555.7285995325,
+    "('Volume', 'HEROMOTOCO.BO')":10670
+  },
+  {
+    "('Date', '')":"2025-04-11",
+    "('Close', 'HEROMOTOCO.BO')":3611.2392578125,
+    "('High', 'HEROMOTOCO.BO')":3647.8357312617,
+    "('Low', 'HEROMOTOCO.BO')":3579.2724789987,
+    "('Open', 'HEROMOTOCO.BO')":3586.4637776634,
+    "('Volume', 'HEROMOTOCO.BO')":7331
+  },
+  {
+    "('Date', '')":"2025-04-15",
+    "('Close', 'HEROMOTOCO.BO')":3746.296875,
+    "('High', 'HEROMOTOCO.BO')":3759.0539089419,
+    "('Low', 'HEROMOTOCO.BO')":3631.5816950028,
+    "('Open', 'HEROMOTOCO.BO')":3742.2087943306,
+    "('Volume', 'HEROMOTOCO.BO')":7478
+  },
+  {
+    "('Date', '')":"2025-04-16",
+    "('Close', 'HEROMOTOCO.BO')":3726.00390625,
+    "('High', 'HEROMOTOCO.BO')":3756.443488484,
+    "('Low', 'HEROMOTOCO.BO')":3686.3042128111,
+    "('Open', 'HEROMOTOCO.BO')":3746.5431566203,
+    "('Volume', 'HEROMOTOCO.BO')":12739
+  },
+  {
+    "('Date', '')":"2025-04-17",
+    "('Close', 'HEROMOTOCO.BO')":3717.236328125,
+    "('High', 'HEROMOTOCO.BO')":3739.6474181246,
+    "('Low', 'HEROMOTOCO.BO')":3611.042192026,
+    "('Open', 'HEROMOTOCO.BO')":3726.7427149985,
+    "('Volume', 'HEROMOTOCO.BO')":44930
+  },
+  {
+    "('Date', '')":"2025-04-21",
+    "('Close', 'HEROMOTOCO.BO')":3858.2045898438,
+    "('High', 'HEROMOTOCO.BO')":3870.4197689018,
+    "('Low', 'HEROMOTOCO.BO')":3698.4209567274,
+    "('Open', 'HEROMOTOCO.BO')":3742.3563992457,
+    "('Volume', 'HEROMOTOCO.BO')":35724
+  },
+  {
+    "('Date', '')":"2025-04-22",
+    "('Close', 'HEROMOTOCO.BO')":3775.2097167969,
+    "('High', 'HEROMOTOCO.BO')":3857.6134743612,
+    "('Low', 'HEROMOTOCO.BO')":3765.9005429241,
+    "('Open', 'HEROMOTOCO.BO')":3857.6134743612,
+    "('Volume', 'HEROMOTOCO.BO')":18979
+  },
+  {
+    "('Date', '')":"2025-04-23",
+    "('Close', 'HEROMOTOCO.BO')":3883.4230957031,
+    "('High', 'HEROMOTOCO.BO')":3896.475708438,
+    "('Low', 'HEROMOTOCO.BO')":3765.3586636828,
+    "('Open', 'HEROMOTOCO.BO')":3815.8451846384,
+    "('Volume', 'HEROMOTOCO.BO')":22373
+  },
+  {
+    "('Date', '')":"2025-04-24",
+    "('Close', 'HEROMOTOCO.BO')":3895.1953125,
+    "('High', 'HEROMOTOCO.BO')":3929.3290303763,
+    "('Low', 'HEROMOTOCO.BO')":3865.986868417,
+    "('Open', 'HEROMOTOCO.BO')":3876.5274209117,
+    "('Volume', 'HEROMOTOCO.BO')":33076
+  },
+  {
+    "('Date', '')":"2025-04-25",
+    "('Close', 'HEROMOTOCO.BO')":3830.4738769531,
+    "('High', 'HEROMOTOCO.BO')":3930.5604240528,
+    "('Low', 'HEROMOTOCO.BO')":3782.844297821,
+    "('Open', 'HEROMOTOCO.BO')":3895.2443902066,
+    "('Volume', 'HEROMOTOCO.BO')":14801
+  },
+  {
+    "('Date', '')":"2025-04-28",
+    "('Close', 'HEROMOTOCO.BO')":3855.4956054688,
+    "('High', 'HEROMOTOCO.BO')":3874.409532201,
+    "('Low', 'HEROMOTOCO.BO')":3787.86815011,
+    "('Open', 'HEROMOTOCO.BO')":3827.173898362,
+    "('Volume', 'HEROMOTOCO.BO')":9615
+  },
+  {
+    "('Date', '')":"2025-04-29",
+    "('Close', 'HEROMOTOCO.BO')":3793.6311035156,
+    "('High', 'HEROMOTOCO.BO')":3895.7369184748,
+    "('Low', 'HEROMOTOCO.BO')":3789.0504714306,
+    "('Open', 'HEROMOTOCO.BO')":3861.7508698974,
+    "('Volume', 'HEROMOTOCO.BO')":32536
+  },
+  {
+    "('Date', '')":"2025-04-30",
+    "('Close', 'HEROMOTOCO.BO')":3773.5349121094,
+    "('High', 'HEROMOTOCO.BO')":3808.4074553073,
+    "('Low', 'HEROMOTOCO.BO')":3750.0401139397,
+    "('Open', 'HEROMOTOCO.BO')":3802.546141701,
+    "('Volume', 'HEROMOTOCO.BO')":9677
+  },
+  {
+    "('Date', '')":"2025-05-02",
+    "('Close', 'HEROMOTOCO.BO')":3682.1667480469,
+    "('High', 'HEROMOTOCO.BO')":3853.7223114944,
+    "('Low', 'HEROMOTOCO.BO')":3671.3306168029,
+    "('Open', 'HEROMOTOCO.BO')":3743.3907933739,
+    "('Volume', 'HEROMOTOCO.BO')":32376
+  },
+  {
+    "('Date', '')":"2025-05-05",
+    "('Close', 'HEROMOTOCO.BO')":3714.3303222656,
+    "('High', 'HEROMOTOCO.BO')":3738.711617976,
+    "('Low', 'HEROMOTOCO.BO')":3687.8311516142,
+    "('Open', 'HEROMOTOCO.BO')":3733.3428555062,
+    "('Volume', 'HEROMOTOCO.BO')":6361
+  },
+  {
+    "('Date', '')":"2025-05-06",
+    "('Close', 'HEROMOTOCO.BO')":3813.7270507812,
+    "('High', 'HEROMOTOCO.BO')":3851.3581717926,
+    "('Low', 'HEROMOTOCO.BO')":3721.1766867677,
+    "('Open', 'HEROMOTOCO.BO')":3743.045921785,
+    "('Volume', 'HEROMOTOCO.BO')":56166
+  },
+  {
+    "('Date', '')":"2025-05-07",
+    "('Close', 'HEROMOTOCO.BO')":3810.3283691406,
+    "('High', 'HEROMOTOCO.BO')":3835.4977940587,
+    "('Low', 'HEROMOTOCO.BO')":3738.7607461336,
+    "('Open', 'HEROMOTOCO.BO')":3738.7607461336,
+    "('Volume', 'HEROMOTOCO.BO')":8154
+  },
+  {
+    "('Date', '')":"2025-05-08",
+    "('Close', 'HEROMOTOCO.BO')":3745.7548828125,
+    "('High', 'HEROMOTOCO.BO')":3810.3777242862,
+    "('Low', 'HEROMOTOCO.BO')":3720.7333672774,
+    "('Open', 'HEROMOTOCO.BO')":3808.3582153957,
+    "('Volume', 'HEROMOTOCO.BO')":6944
+  },
+  {
+    "('Date', '')":"2025-05-09",
+    "('Close', 'HEROMOTOCO.BO')":3796.8818359375,
+    "('High', 'HEROMOTOCO.BO')":3836.9754724916,
+    "('Low', 'HEROMOTOCO.BO')":3654.8300578166,
+    "('Open', 'HEROMOTOCO.BO')":3654.8300578166,
+    "('Volume', 'HEROMOTOCO.BO')":23715
+  },
+  {
+    "('Date', '')":"2025-05-12",
+    "('Close', 'HEROMOTOCO.BO')":3931.1020507812,
+    "('High', 'HEROMOTOCO.BO')":3939.4261213916,
+    "('Low', 'HEROMOTOCO.BO')":3848.9936356956,
+    "('Open', 'HEROMOTOCO.BO')":3859.8297665621,
+    "('Volume', 'HEROMOTOCO.BO')":46502
+  },
+  {
+    "('Date', '')":"2025-05-13",
+    "('Close', 'HEROMOTOCO.BO')":4002.3742675781,
+    "('High', 'HEROMOTOCO.BO')":4036.3603158565,
+    "('Low', 'HEROMOTOCO.BO')":3897.1161725021,
+    "('Open', 'HEROMOTOCO.BO')":3941.4951039345,
+    "('Volume', 'HEROMOTOCO.BO')":58539
+  },
+  {
+    "('Date', '')":"2025-05-14",
+    "('Close', 'HEROMOTOCO.BO')":4006.3146972656,
+    "('High', 'HEROMOTOCO.BO')":4047.0978591845,
+    "('Low', 'HEROMOTOCO.BO')":3876.3797271369,
+    "('Open', 'HEROMOTOCO.BO')":4024.5391000489,
+    "('Volume', 'HEROMOTOCO.BO')":33335
+  },
+  {
+    "('Date', '')":"2025-05-15",
+    "('Close', 'HEROMOTOCO.BO')":4257.466796875,
+    "('High', 'HEROMOTOCO.BO')":4279.3357912756,
+    "('Low', 'HEROMOTOCO.BO')":4010.6492326981,
+    "('Open', 'HEROMOTOCO.BO')":4016.1656642891,
+    "('Volume', 'HEROMOTOCO.BO')":73720
+  },
+  {
+    "('Date', '')":"2025-05-16",
+    "('Close', 'HEROMOTOCO.BO')":4273.9174804688,
+    "('High', 'HEROMOTOCO.BO')":4296.1318367969,
+    "('Low', 'HEROMOTOCO.BO')":4231.0164467354,
+    "('Open', 'HEROMOTOCO.BO')":4263.6725077421,
+    "('Volume', 'HEROMOTOCO.BO')":29635
+  },
+  {
+    "('Date', '')":"2025-05-19",
+    "('Close', 'HEROMOTOCO.BO')":4316.4741210938,
+    "('High', 'HEROMOTOCO.BO')":4386.7613008897,
+    "('Low', 'HEROMOTOCO.BO')":4261.3574279605,
+    "('Open', 'HEROMOTOCO.BO')":4270.3715032343,
+    "('Volume', 'HEROMOTOCO.BO')":21131
+  },
+  {
+    "('Date', '')":"2025-05-20",
+    "('Close', 'HEROMOTOCO.BO')":4179.49609375,
+    "('High', 'HEROMOTOCO.BO')":4366.6160932784,
+    "('Low', 'HEROMOTOCO.BO')":4168.315080095,
+    "('Open', 'HEROMOTOCO.BO')":4324.8478282436,
+    "('Volume', 'HEROMOTOCO.BO')":29968
+  },
+  {
+    "('Date', '')":"2025-05-21",
+    "('Close', 'HEROMOTOCO.BO')":4203.3349609375,
+    "('High', 'HEROMOTOCO.BO')":4222.15052026,
+    "('Low', 'HEROMOTOCO.BO')":4147.8738667583,
+    "('Open', 'HEROMOTOCO.BO')":4181.7613062305,
+    "('Volume', 'HEROMOTOCO.BO')":37938
+  },
+  {
+    "('Date', '')":"2025-05-22",
+    "('Close', 'HEROMOTOCO.BO')":4213.728515625,
+    "('High', 'HEROMOTOCO.BO')":4219.195644218,
+    "('Low', 'HEROMOTOCO.BO')":4143.342722293,
+    "('Open', 'HEROMOTOCO.BO')":4186.6381863661,
+    "('Volume', 'HEROMOTOCO.BO')":15372
+  },
+  {
+    "('Date', '')":"2025-05-23",
+    "('Close', 'HEROMOTOCO.BO')":4243.4291992188,
+    "('High', 'HEROMOTOCO.BO')":4267.4656129332,
+    "('Low', 'HEROMOTOCO.BO')":4216.4865396485,
+    "('Open', 'HEROMOTOCO.BO')":4216.4865396485,
+    "('Volume', 'HEROMOTOCO.BO')":16985
+  },
+  {
+    "('Date', '')":"2025-05-26",
+    "('Close', 'HEROMOTOCO.BO')":4293.1767578125,
+    "('High', 'HEROMOTOCO.BO')":4353.1203614734,
+    "('Low', 'HEROMOTOCO.BO')":4212.9399395662,
+    "('Open', 'HEROMOTOCO.BO')":4212.9399395662,
+    "('Volume', 'HEROMOTOCO.BO')":21143
+  },
+  {
+    "('Date', '')":"2025-05-27",
+    "('Close', 'HEROMOTOCO.BO')":4274.1640625,
+    "('High', 'HEROMOTOCO.BO')":4319.0357860197,
+    "('Low', 'HEROMOTOCO.BO')":4235.2034371004,
+    "('Open', 'HEROMOTOCO.BO')":4319.0357860197,
+    "('Volume', 'HEROMOTOCO.BO')":5728
+  },
+  {
+    "('Date', '')":"2025-05-28",
+    "('Close', 'HEROMOTOCO.BO')":4300.5649414062,
+    "('High', 'HEROMOTOCO.BO')":4318.6907369841,
+    "('Low', 'HEROMOTOCO.BO')":4246.7782315553,
+    "('Open', 'HEROMOTOCO.BO')":4280.7642786415,
+    "('Volume', 'HEROMOTOCO.BO')":15781
+  },
+  {
+    "('Date', '')":"2025-05-29",
+    "('Close', 'HEROMOTOCO.BO')":4290.8618164062,
+    "('High', 'HEROMOTOCO.BO')":4319.6760752893,
+    "('Low', 'HEROMOTOCO.BO')":4266.8744653739,
+    "('Open', 'HEROMOTOCO.BO')":4300.614238596,
+    "('Volume', 'HEROMOTOCO.BO')":13105
+  },
+  {
+    "('Date', '')":"2025-05-30",
+    "('Close', 'HEROMOTOCO.BO')":4240.6704101562,
+    "('High', 'HEROMOTOCO.BO')":4319.0846905158,
+    "('Low', 'HEROMOTOCO.BO')":4226.4359630686,
+    "('Open', 'HEROMOTOCO.BO')":4319.0846905158,
+    "('Volume', 'HEROMOTOCO.BO')":7934
+  },
+  {
+    "('Date', '')":"2025-06-02",
+    "('Close', 'HEROMOTOCO.BO')":4168.3149414062,
+    "('High', 'HEROMOTOCO.BO')":4249.4873181141,
+    "('Low', 'HEROMOTOCO.BO')":4136.4467687653,
+    "('Open', 'HEROMOTOCO.BO')":4240.9662748658,
+    "('Volume', 'HEROMOTOCO.BO')":18773
+  },
+  {
+    "('Date', '')":"2025-06-03",
+    "('Close', 'HEROMOTOCO.BO')":4141.8159179688,
+    "('High', 'HEROMOTOCO.BO')":4217.02813663,
+    "('Low', 'HEROMOTOCO.BO')":4136.4469149713,
+    "('Open', 'HEROMOTOCO.BO')":4198.8532774417,
+    "('Volume', 'HEROMOTOCO.BO')":6920
+  },
+  {
+    "('Date', '')":"2025-06-04",
+    "('Close', 'HEROMOTOCO.BO')":4138.1215820312,
+    "('High', 'HEROMOTOCO.BO')":4177.4270880976,
+    "('Low', 'HEROMOTOCO.BO')":4130.7823736661,
+    "('Open', 'HEROMOTOCO.BO')":4163.9805308916,
+    "('Volume', 'HEROMOTOCO.BO')":5418
+  },
+  {
+    "('Date', '')":"2025-06-05",
+    "('Close', 'HEROMOTOCO.BO')":4116.005859375,
+    "('High', 'HEROMOTOCO.BO')":4176.09713142,
+    "('Low', 'HEROMOTOCO.BO')":4112.8042752087,
+    "('Open', 'HEROMOTOCO.BO')":4176.09713142,
+    "('Volume', 'HEROMOTOCO.BO')":11290
+  },
+  {
+    "('Date', '')":"2025-06-06",
+    "('Close', 'HEROMOTOCO.BO')":4205.3051757812,
+    "('High', 'HEROMOTOCO.BO')":4231.016454629,
+    "('Low', 'HEROMOTOCO.BO')":4098.0275788723,
+    "('Open', 'HEROMOTOCO.BO')":4152.1096254786,
+    "('Volume', 'HEROMOTOCO.BO')":15550
+  },
+  {
+    "('Date', '')":"2025-06-09",
+    "('Close', 'HEROMOTOCO.BO')":4284.1630859375,
+    "('High', 'HEROMOTOCO.BO')":4297.0184852891,
+    "('Low', 'HEROMOTOCO.BO')":4208.2115625889,
+    "('Open', 'HEROMOTOCO.BO')":4228.1103508766,
+    "('Volume', 'HEROMOTOCO.BO')":32600
+  },
+  {
+    "('Date', '')":"2025-06-10",
+    "('Close', 'HEROMOTOCO.BO')":4312.7309570312,
+    "('High', 'HEROMOTOCO.BO')":4327.457955155,
+    "('Low', 'HEROMOTOCO.BO')":4269.4354969562,
+    "('Open', 'HEROMOTOCO.BO')":4313.8141852958,
+    "('Volume', 'HEROMOTOCO.BO')":13989
+  },
+  {
+    "('Date', '')":"2025-06-11",
+    "('Close', 'HEROMOTOCO.BO')":4345.1411132812,
+    "('High', 'HEROMOTOCO.BO')":4420.1566010263,
+    "('Low', 'HEROMOTOCO.BO')":4298.9889473766,
+    "('Open', 'HEROMOTOCO.BO')":4329.1822543001,
+    "('Volume', 'HEROMOTOCO.BO')":35604
+  },
+  {
+    "('Date', '')":"2025-06-12",
+    "('Close', 'HEROMOTOCO.BO')":4296.1811523438,
+    "('High', 'HEROMOTOCO.BO')":4360.8530575564,
+    "('Low', 'HEROMOTOCO.BO')":4272.9821728761,
+    "('Open', 'HEROMOTOCO.BO')":4344.5988607044,
+    "('Volume', 'HEROMOTOCO.BO')":20241
+  },
+  {
+    "('Date', '')":"2025-06-13",
+    "('Close', 'HEROMOTOCO.BO')":4266.037109375,
+    "('High', 'HEROMOTOCO.BO')":4280.4692514567,
+    "('Low', 'HEROMOTOCO.BO')":4182.5005770684,
+    "('Open', 'HEROMOTOCO.BO')":4224.2197804803,
+    "('Volume', 'HEROMOTOCO.BO')":11070
+  },
+  {
+    "('Date', '')":"2025-06-16",
+    "('Close', 'HEROMOTOCO.BO')":4297.4619140625,
+    "('High', 'HEROMOTOCO.BO')":4347.9974954384,
+    "('Low', 'HEROMOTOCO.BO')":4226.583575005,
+    "('Open', 'HEROMOTOCO.BO')":4226.583575005,
+    "('Volume', 'HEROMOTOCO.BO')":12417
+  },
+  {
+    "('Date', '')":"2025-06-17",
+    "('Close', 'HEROMOTOCO.BO')":4308.396484375,
+    "('High', 'HEROMOTOCO.BO')":4324.6016190635,
+    "('Low', 'HEROMOTOCO.BO')":4270.5195674548,
+    "('Open', 'HEROMOTOCO.BO')":4307.3132560189,
+    "('Volume', 'HEROMOTOCO.BO')":6275
+  },
+  {
+    "('Date', '')":"2025-06-18",
+    "('Close', 'HEROMOTOCO.BO')":4292.5366210938,
+    "('High', 'HEROMOTOCO.BO')":4365.9758464143,
+    "('Low', 'HEROMOTOCO.BO')":4282.7346552992,
+    "('Open', 'HEROMOTOCO.BO')":4304.8504067617,
+    "('Volume', 'HEROMOTOCO.BO')":14452
+  },
+  {
+    "('Date', '')":"2025-06-19",
+    "('Close', 'HEROMOTOCO.BO')":4319.7744140625,
+    "('High', 'HEROMOTOCO.BO')":4332.4821440681,
+    "('Low', 'HEROMOTOCO.BO')":4285.5420915281,
+    "('Open', 'HEROMOTOCO.BO')":4319.8730205446,
+    "('Volume', 'HEROMOTOCO.BO')":12965
+  },
+  {
+    "('Date', '')":"2025-06-20",
+    "('Close', 'HEROMOTOCO.BO')":4275.9375,
+    "('High', 'HEROMOTOCO.BO')":4319.6759700633,
+    "('Low', 'HEROMOTOCO.BO')":4142.4560646651,
+    "('Open', 'HEROMOTOCO.BO')":4319.6759700633,
+    "('Volume', 'HEROMOTOCO.BO')":28840
+  },
+  {
+    "('Date', '')":"2025-06-23",
+    "('Close', 'HEROMOTOCO.BO')":4189.4453125,
+    "('High', 'HEROMOTOCO.BO')":4265.1015018701,
+    "('Low', 'HEROMOTOCO.BO')":4180.8256623477,
+    "('Open', 'HEROMOTOCO.BO')":4265.1015018701,
+    "('Volume', 'HEROMOTOCO.BO')":18583
+  },
+  {
+    "('Date', '')":"2025-06-24",
+    "('Close', 'HEROMOTOCO.BO')":4229.1943359375,
+    "('High', 'HEROMOTOCO.BO')":4263.8701497399,
+    "('Low', 'HEROMOTOCO.BO')":4197.0798858263,
+    "('Open', 'HEROMOTOCO.BO')":4210.8222634145,
+    "('Volume', 'HEROMOTOCO.BO')":9482
+  },
+  {
+    "('Date', '')":"2025-06-25",
+    "('Close', 'HEROMOTOCO.BO')":4236.2373046875,
+    "('High', 'HEROMOTOCO.BO')":4292.5363135332,
+    "('Low', 'HEROMOTOCO.BO')":4226.5834898185,
+    "('Open', 'HEROMOTOCO.BO')":4235.9419662555,
+    "('Volume', 'HEROMOTOCO.BO')":23046
+  },
+  {
+    "('Date', '')":"2025-06-26",
+    "('Close', 'HEROMOTOCO.BO')":4216.0922851562,
+    "('High', 'HEROMOTOCO.BO')":4265.1011491119,
+    "('Low', 'HEROMOTOCO.BO')":4183.5838929847,
+    "('Open', 'HEROMOTOCO.BO')":4236.2373486704,
+    "('Volume', 'HEROMOTOCO.BO')":10173
+  },
+  {
+    "('Date', '')":"2025-06-27",
+    "('Close', 'HEROMOTOCO.BO')":4256.4814453125,
+    "('High', 'HEROMOTOCO.BO')":4285.1970951625,
+    "('Low', 'HEROMOTOCO.BO')":4219.8354294751,
+    "('Open', 'HEROMOTOCO.BO')":4227.1250938494,
+    "('Volume', 'HEROMOTOCO.BO')":15589
+  },
+  {
+    "('Date', '')":"2025-06-30",
+    "('Close', 'HEROMOTOCO.BO')":4174.5703125,
+    "('High', 'HEROMOTOCO.BO')":4276.8728530953,
+    "('Low', 'HEROMOTOCO.BO')":4148.2678754345,
+    "('Open', 'HEROMOTOCO.BO')":4256.5305765521,
+    "('Volume', 'HEROMOTOCO.BO')":25560
+  },
+  {
+    "('Date', '')":"2025-07-01",
+    "('Close', 'HEROMOTOCO.BO')":4165.9013671875,
+    "('High', 'HEROMOTOCO.BO')":4194.5679564686,
+    "('Low', 'HEROMOTOCO.BO')":4127.7781753045,
+    "('Open', 'HEROMOTOCO.BO')":4177.033318053,
+    "('Volume', 'HEROMOTOCO.BO')":19276
+  },
+  {
+    "('Date', '')":"2025-07-02",
+    "('Close', 'HEROMOTOCO.BO')":4177.5747070312,
+    "('High', 'HEROMOTOCO.BO')":4259.7817282502,
+    "('Low', 'HEROMOTOCO.BO')":4166.9848519111,
+    "('Open', 'HEROMOTOCO.BO')":4211.5116909586,
+    "('Volume', 'HEROMOTOCO.BO')":47704
+  },
+  {
+    "('Date', '')":"2025-07-03",
+    "('Close', 'HEROMOTOCO.BO')":4249.9306640625,
+    "('High', 'HEROMOTOCO.BO')":4290.418004069,
+    "('Low', 'HEROMOTOCO.BO')":4177.574671478,
+    "('Open', 'HEROMOTOCO.BO')":4181.7613583503,
+    "('Volume', 'HEROMOTOCO.BO')":28830
+  },
+  {
+    "('Date', '')":"2025-07-04",
+    "('Close', 'HEROMOTOCO.BO')":4281.2568359375,
+    "('High', 'HEROMOTOCO.BO')":4305.8844063237,
+    "('Low', 'HEROMOTOCO.BO')":4243.9215354335,
+    "('Open', 'HEROMOTOCO.BO')":4268.8939880065,
+    "('Volume', 'HEROMOTOCO.BO')":23863
+  },
+  {
+    "('Date', '')":"2025-07-07",
+    "('Close', 'HEROMOTOCO.BO')":4242.591796875,
+    "('High', 'HEROMOTOCO.BO')":4292.044153486,
+    "('Low', 'HEROMOTOCO.BO')":4226.6329379348,
+    "('Open', 'HEROMOTOCO.BO')":4281.0598716499,
+    "('Volume', 'HEROMOTOCO.BO')":54646
+  },
+  {
+    "('Date', '')":"2025-07-08",
+    "('Close', 'HEROMOTOCO.BO')":4233.134765625,
+    "('High', 'HEROMOTOCO.BO')":4276.0853476079,
+    "('Low', 'HEROMOTOCO.BO')":4178.8064377245,
+    "('Open', 'HEROMOTOCO.BO')":4276.0853476079,
+    "('Volume', 'HEROMOTOCO.BO')":7143
+  },
+  {
+    "('Date', '')":"2025-07-09",
+    "('Close', 'HEROMOTOCO.BO')":4270.2236328125,
+    "('High', 'HEROMOTOCO.BO')":4279.3358341559,
+    "('Low', 'HEROMOTOCO.BO')":4225.0075082939,
+    "('Open', 'HEROMOTOCO.BO')":4240.2766024368,
+    "('Volume', 'HEROMOTOCO.BO')":5048
+  },
+  {
+    "('Date', '')":"2025-07-10",
+    "('Close', 'HEROMOTOCO.BO')":4256.0380859375,
+    "('High', 'HEROMOTOCO.BO')":4283.4732954091,
+    "('Low', 'HEROMOTOCO.BO')":4246.778215721,
+    "('Open', 'HEROMOTOCO.BO')":4270.3716204335,
+    "('Volume', 'HEROMOTOCO.BO')":7893
+  },
+  {
+    "('Date', '')":"2025-07-11",
+    "('Close', 'HEROMOTOCO.BO')":4148.4155273438,
+    "('High', 'HEROMOTOCO.BO')":4274.3610155332,
+    "('Low', 'HEROMOTOCO.BO')":4128.1718573661,
+    "('Open', 'HEROMOTOCO.BO')":4254.6098969517,
+    "('Volume', 'HEROMOTOCO.BO')":26977
+  },
+  {
+    "('Date', '')":"2025-07-14",
+    "('Close', 'HEROMOTOCO.BO')":4185.9970703125,
+    "('High', 'HEROMOTOCO.BO')":4193.8778925895,
+    "('Low', 'HEROMOTOCO.BO')":4137.4316954333,
+    "('Open', 'HEROMOTOCO.BO')":4174.8165385128,
+    "('Volume', 'HEROMOTOCO.BO')":7886
+  },
+  {
+    "('Date', '')":"2025-07-15",
+    "('Close', 'HEROMOTOCO.BO')":4389.716796875,
+    "('High', 'HEROMOTOCO.BO')":4398.4841158204,
+    "('Low', 'HEROMOTOCO.BO')":4201.4635507221,
+    "('Open', 'HEROMOTOCO.BO')":4235.7449366463,
+    "('Volume', 'HEROMOTOCO.BO')":59872
+  },
+  {
+    "('Date', '')":"2025-07-16",
+    "('Close', 'HEROMOTOCO.BO')":4355.6323242188,
+    "('High', 'HEROMOTOCO.BO')":4403.3112067558,
+    "('Low', 'HEROMOTOCO.BO')":4305.2934715393,
+    "('Open', 'HEROMOTOCO.BO')":4403.3112067558,
+    "('Volume', 'HEROMOTOCO.BO')":27988
+  },
+  {
+    "('Date', '')":"2025-07-17",
+    "('Close', 'HEROMOTOCO.BO')":4379.373046875,
+    "('High', 'HEROMOTOCO.BO')":4397.5974484378,
+    "('Low', 'HEROMOTOCO.BO')":4346.6674419378,
+    "('Open', 'HEROMOTOCO.BO')":4383.5101899768,
+    "('Volume', 'HEROMOTOCO.BO')":13000
+  },
+  {
+    "('Date', '')":"2025-07-18",
+    "('Close', 'HEROMOTOCO.BO')":4331.3984375,
+    "('High', 'HEROMOTOCO.BO')":4417.8412088462,
+    "('Low', 'HEROMOTOCO.BO')":4322.2371737944,
+    "('Open', 'HEROMOTOCO.BO')":4383.75655551,
+    "('Volume', 'HEROMOTOCO.BO')":17756
+  },
+  {
+    "('Date', '')":"2025-07-21",
+    "('Close', 'HEROMOTOCO.BO')":4344.0083007812,
+    "('High', 'HEROMOTOCO.BO')":4356.5683623233,
+    "('Low', 'HEROMOTOCO.BO')":4282.6361036226,
+    "('Open', 'HEROMOTOCO.BO')":4336.6200292859,
+    "('Volume', 'HEROMOTOCO.BO')":16755
+  },
+  {
+    "('Date', '')":"2025-07-22",
+    "('Close', 'HEROMOTOCO.BO')":4276.2822265625,
+    "('High', 'HEROMOTOCO.BO')":4364.0054392073,
+    "('Low', 'HEROMOTOCO.BO')":4255.6441303331,
+    "('Open', 'HEROMOTOCO.BO')":4345.8300999978,
+    "('Volume', 'HEROMOTOCO.BO')":23637
+  },
+  {
+    "('Date', '')":"2025-07-23",
+    "('Close', 'HEROMOTOCO.BO')":4298.25,
+    "('High', 'HEROMOTOCO.BO')":4334.0585847135,
+    "('Low', 'HEROMOTOCO.BO')":4264.5102274681,
+    "('Open', 'HEROMOTOCO.BO')":4334.0585847135,
+    "('Volume', 'HEROMOTOCO.BO')":8796
+  },
+  {
+    "('Date', '')":"2025-07-24",
+    "('Close', 'HEROMOTOCO.BO')":4301.7998046875,
+    "('High', 'HEROMOTOCO.BO')":4319.3999023438,
+    "('Low', 'HEROMOTOCO.BO')":4256.5498046875,
+    "('Open', 'HEROMOTOCO.BO')":4319.3999023438,
+    "('Volume', 'HEROMOTOCO.BO')":12476
+  },
+  {
+    "('Date', '')":"2025-07-25",
+    "('Close', 'HEROMOTOCO.BO')":4229.3500976562,
+    "('High', 'HEROMOTOCO.BO')":4290.0,
+    "('Low', 'HEROMOTOCO.BO')":4196.2001953125,
+    "('Open', 'HEROMOTOCO.BO')":4290.0,
+    "('Volume', 'HEROMOTOCO.BO')":11618
+  },
+  {
+    "('Date', '')":"2025-07-28",
+    "('Close', 'HEROMOTOCO.BO')":4289.0,
+    "('High', 'HEROMOTOCO.BO')":4307.1000976562,
+    "('Low', 'HEROMOTOCO.BO')":4212.0498046875,
+    "('Open', 'HEROMOTOCO.BO')":4221.0,
+    "('Volume', 'HEROMOTOCO.BO')":7632
+  },
+  {
+    "('Date', '')":"2025-07-29",
+    "('Close', 'HEROMOTOCO.BO')":4327.2998046875,
+    "('High', 'HEROMOTOCO.BO')":4334.7998046875,
+    "('Low', 'HEROMOTOCO.BO')":4224.5498046875,
+    "('Open', 'HEROMOTOCO.BO')":4224.5498046875,
+    "('Volume', 'HEROMOTOCO.BO')":10671
+  },
+  {
+    "('Date', '')":"2025-07-30",
+    "('Close', 'HEROMOTOCO.BO')":4253.6000976562,
+    "('High', 'HEROMOTOCO.BO')":4357.2998046875,
+    "('Low', 'HEROMOTOCO.BO')":4216.6000976562,
+    "('Open', 'HEROMOTOCO.BO')":4357.2998046875,
+    "('Volume', 'HEROMOTOCO.BO')":18127
+  },
+  {
+    "('Date', '')":"2025-07-31",
+    "('Close', 'HEROMOTOCO.BO')":4262.2001953125,
+    "('High', 'HEROMOTOCO.BO')":4301.0,
+    "('Low', 'HEROMOTOCO.BO')":4196.7998046875,
+    "('Open', 'HEROMOTOCO.BO')":4202.4501953125,
+    "('Volume', 'HEROMOTOCO.BO')":22911
+  },
+  {
+    "('Date', '')":"2025-08-01",
+    "('Close', 'HEROMOTOCO.BO')":4312.6499023438,
+    "('High', 'HEROMOTOCO.BO')":4320.1000976562,
+    "('Low', 'HEROMOTOCO.BO')":4245.0498046875,
+    "('Open', 'HEROMOTOCO.BO')":4261.4501953125,
+    "('Volume', 'HEROMOTOCO.BO')":21471
+  },
+  {
+    "('Date', '')":"2025-08-04",
+    "('Close', 'HEROMOTOCO.BO')":4534.4501953125,
+    "('High', 'HEROMOTOCO.BO')":4550.0,
+    "('Low', 'HEROMOTOCO.BO')":4312.0498046875,
+    "('Open', 'HEROMOTOCO.BO')":4312.7001953125,
+    "('Volume', 'HEROMOTOCO.BO')":140051
+  },
+  {
+    "('Date', '')":"2025-08-05",
+    "('Close', 'HEROMOTOCO.BO')":4542.0498046875,
+    "('High', 'HEROMOTOCO.BO')":4580.75,
+    "('Low', 'HEROMOTOCO.BO')":4517.8500976562,
+    "('Open', 'HEROMOTOCO.BO')":4548.9501953125,
+    "('Volume', 'HEROMOTOCO.BO')":34817
+  },
+  {
+    "('Date', '')":"2025-08-06",
+    "('Close', 'HEROMOTOCO.BO')":4474.5,
+    "('High', 'HEROMOTOCO.BO')":4550.0,
+    "('Low', 'HEROMOTOCO.BO')":4460.3999023438,
+    "('Open', 'HEROMOTOCO.BO')":4550.0,
+    "('Volume', 'HEROMOTOCO.BO')":11768
+  },
+  {
+    "('Date', '')":"2025-08-07",
+    "('Close', 'HEROMOTOCO.BO')":4659.4501953125,
+    "('High', 'HEROMOTOCO.BO')":4671.0,
+    "('Low', 'HEROMOTOCO.BO')":4429.2001953125,
+    "('Open', 'HEROMOTOCO.BO')":4435.8999023438,
+    "('Volume', 'HEROMOTOCO.BO')":84810
+  },
+  {
+    "('Date', '')":"2025-08-08",
+    "('Close', 'HEROMOTOCO.BO')":4599.3500976562,
+    "('High', 'HEROMOTOCO.BO')":4710.0,
+    "('Low', 'HEROMOTOCO.BO')":4593.75,
+    "('Open', 'HEROMOTOCO.BO')":4667.9501953125,
+    "('Volume', 'HEROMOTOCO.BO')":29712
+  },
+  {
+    "('Date', '')":"2025-08-11",
+    "('Close', 'HEROMOTOCO.BO')":4560.8500976562,
+    "('High', 'HEROMOTOCO.BO')":4622.6499023438,
+    "('Low', 'HEROMOTOCO.BO')":4540.0,
+    "('Open', 'HEROMOTOCO.BO')":4622.2998046875,
+    "('Volume', 'HEROMOTOCO.BO')":12916
+  },
+  {
+    "('Date', '')":"2025-08-12",
+    "('Close', 'HEROMOTOCO.BO')":4645.0,
+    "('High', 'HEROMOTOCO.BO')":4668.5498046875,
+    "('Low', 'HEROMOTOCO.BO')":4573.75,
+    "('Open', 'HEROMOTOCO.BO')":4629.75,
+    "('Volume', 'HEROMOTOCO.BO')":17187
+  },
+  {
+    "('Date', '')":"2025-08-13",
+    "('Close', 'HEROMOTOCO.BO')":4770.1499023438,
+    "('High', 'HEROMOTOCO.BO')":4793.7001953125,
+    "('Low', 'HEROMOTOCO.BO')":4655.0,
+    "('Open', 'HEROMOTOCO.BO')":4673.7998046875,
+    "('Volume', 'HEROMOTOCO.BO')":44341
+  },
+  {
+    "('Date', '')":"2025-08-14",
+    "('Close', 'HEROMOTOCO.BO')":4706.1000976562,
+    "('High', 'HEROMOTOCO.BO')":4780.0,
+    "('Low', 'HEROMOTOCO.BO')":4695.0,
+    "('Open', 'HEROMOTOCO.BO')":4780.0,
+    "('Volume', 'HEROMOTOCO.BO')":16556
+  },
+  {
+    "('Date', '')":"2025-08-18",
+    "('Close', 'HEROMOTOCO.BO')":4983.8500976562,
+    "('High', 'HEROMOTOCO.BO')":5115.8500976562,
+    "('Low', 'HEROMOTOCO.BO')":4898.0,
+    "('Open', 'HEROMOTOCO.BO')":4900.0,
+    "('Volume', 'HEROMOTOCO.BO')":138133
+  },
+  {
+    "('Date', '')":"2025-08-19",
+    "('Close', 'HEROMOTOCO.BO')":5118.0,
+    "('High', 'HEROMOTOCO.BO')":5140.7001953125,
+    "('Low', 'HEROMOTOCO.BO')":4989.5,
+    "('Open', 'HEROMOTOCO.BO')":4998.9501953125,
+    "('Volume', 'HEROMOTOCO.BO')":79373
+  },
+  {
+    "('Date', '')":"2025-08-20",
+    "('Close', 'HEROMOTOCO.BO')":5135.6499023438,
+    "('High', 'HEROMOTOCO.BO')":5165.8999023438,
+    "('Low', 'HEROMOTOCO.BO')":5110.1000976562,
+    "('Open', 'HEROMOTOCO.BO')":5148.9501953125,
+    "('Volume', 'HEROMOTOCO.BO')":34407
+  },
+  {
+    "('Date', '')":"2025-08-21",
+    "('Close', 'HEROMOTOCO.BO')":5097.0,
+    "('High', 'HEROMOTOCO.BO')":5159.2001953125,
+    "('Low', 'HEROMOTOCO.BO')":5042.0,
+    "('Open', 'HEROMOTOCO.BO')":5144.9501953125,
+    "('Volume', 'HEROMOTOCO.BO')":67776
+  },
+  {
+    "('Date', '')":"2025-08-22",
+    "('Close', 'HEROMOTOCO.BO')":4997.7998046875,
+    "('High', 'HEROMOTOCO.BO')":5115.1499023438,
+    "('Low', 'HEROMOTOCO.BO')":4982.5,
+    "('Open', 'HEROMOTOCO.BO')":5099.0,
+    "('Volume', 'HEROMOTOCO.BO')":29182
+  },
+  {
+    "('Date', '')":"2025-08-25",
+    "('Close', 'HEROMOTOCO.BO')":5063.7998046875,
+    "('High', 'HEROMOTOCO.BO')":5077.2001953125,
+    "('Low', 'HEROMOTOCO.BO')":4976.1499023438,
+    "('Open', 'HEROMOTOCO.BO')":5005.0,
+    "('Volume', 'HEROMOTOCO.BO')":21087
+  },
+  {
+    "('Date', '')":"2025-08-26",
+    "('Close', 'HEROMOTOCO.BO')":5076.0,
+    "('High', 'HEROMOTOCO.BO')":5140.5498046875,
+    "('Low', 'HEROMOTOCO.BO')":5040.0,
+    "('Open', 'HEROMOTOCO.BO')":5060.1000976562,
+    "('Volume', 'HEROMOTOCO.BO')":44935
+  },
+  {
+    "('Date', '')":"2025-08-28",
+    "('Close', 'HEROMOTOCO.BO')":5090.8500976562,
+    "('High', 'HEROMOTOCO.BO')":5225.0,
+    "('Low', 'HEROMOTOCO.BO')":5079.3999023438,
+    "('Open', 'HEROMOTOCO.BO')":5165.0498046875,
+    "('Volume', 'HEROMOTOCO.BO')":76367
+  },
+  {
+    "('Date', '')":"2025-08-29",
+    "('Close', 'HEROMOTOCO.BO')":5087.2998046875,
+    "('High', 'HEROMOTOCO.BO')":5147.3999023438,
+    "('Low', 'HEROMOTOCO.BO')":5061.4501953125,
+    "('Open', 'HEROMOTOCO.BO')":5091.8999023438,
+    "('Volume', 'HEROMOTOCO.BO')":15167
+  },
+  {
+    "('Date', '')":"2025-09-01",
+    "('Close', 'HEROMOTOCO.BO')":5242.1499023438,
+    "('High', 'HEROMOTOCO.BO')":5259.8999023438,
+    "('Low', 'HEROMOTOCO.BO')":5094.0,
+    "('Open', 'HEROMOTOCO.BO')":5096.1000976562,
+    "('Volume', 'HEROMOTOCO.BO')":17130
+  },
+  {
+    "('Date', '')":"2025-09-02",
+    "('Close', 'HEROMOTOCO.BO')":5311.0498046875,
+    "('High', 'HEROMOTOCO.BO')":5346.0,
+    "('Low', 'HEROMOTOCO.BO')":5210.0,
+    "('Open', 'HEROMOTOCO.BO')":5260.0498046875,
+    "('Volume', 'HEROMOTOCO.BO')":36558
+  },
+  {
+    "('Date', '')":"2025-09-03",
+    "('Close', 'HEROMOTOCO.BO')":5348.7998046875,
+    "('High', 'HEROMOTOCO.BO')":5363.0,
+    "('Low', 'HEROMOTOCO.BO')":5260.0,
+    "('Open', 'HEROMOTOCO.BO')":5315.0,
+    "('Volume', 'HEROMOTOCO.BO')":25143
+  },
+  {
+    "('Date', '')":"2025-09-04",
+    "('Close', 'HEROMOTOCO.BO')":5351.0498046875,
+    "('High', 'HEROMOTOCO.BO')":5539.6000976562,
+    "('Low', 'HEROMOTOCO.BO')":5341.8500976562,
+    "('Open', 'HEROMOTOCO.BO')":5539.6000976562,
+    "('Volume', 'HEROMOTOCO.BO')":68716
+  },
+  {
+    "('Date', '')":"2025-09-05",
+    "('Close', 'HEROMOTOCO.BO')":5362.4501953125,
+    "('High', 'HEROMOTOCO.BO')":5417.1000976562,
+    "('Low', 'HEROMOTOCO.BO')":5348.1000976562,
+    "('Open', 'HEROMOTOCO.BO')":5377.7001953125,
+    "('Volume', 'HEROMOTOCO.BO')":18274
+  },
+  {
+    "('Date', '')":"2025-09-08",
+    "('Close', 'HEROMOTOCO.BO')":5440.5,
+    "('High', 'HEROMOTOCO.BO')":5524.0,
+    "('Low', 'HEROMOTOCO.BO')":5335.1499023438,
+    "('Open', 'HEROMOTOCO.BO')":5370.4501953125,
+    "('Volume', 'HEROMOTOCO.BO')":29878
+  },
+  {
+    "('Date', '')":"2025-09-09",
+    "('Close', 'HEROMOTOCO.BO')":5422.7998046875,
+    "('High', 'HEROMOTOCO.BO')":5499.8999023438,
+    "('Low', 'HEROMOTOCO.BO')":5390.0,
+    "('Open', 'HEROMOTOCO.BO')":5499.7001953125,
+    "('Volume', 'HEROMOTOCO.BO')":49150
+  },
+  {
+    "('Date', '')":"2025-09-10",
+    "('Close', 'HEROMOTOCO.BO')":5348.6499023438,
+    "('High', 'HEROMOTOCO.BO')":5464.9501953125,
+    "('Low', 'HEROMOTOCO.BO')":5320.5,
+    "('Open', 'HEROMOTOCO.BO')":5464.9501953125,
+    "('Volume', 'HEROMOTOCO.BO')":28488
+  },
+  {
+    "('Date', '')":"2025-09-11",
+    "('Close', 'HEROMOTOCO.BO')":5301.0498046875,
+    "('High', 'HEROMOTOCO.BO')":5364.25,
+    "('Low', 'HEROMOTOCO.BO')":5285.0,
+    "('Open', 'HEROMOTOCO.BO')":5350.0,
+    "('Volume', 'HEROMOTOCO.BO')":47370
+  },
+  {
+    "('Date', '')":"2025-09-12",
+    "('Close', 'HEROMOTOCO.BO')":5299.5,
+    "('High', 'HEROMOTOCO.BO')":5389.3500976562,
+    "('Low', 'HEROMOTOCO.BO')":5286.0,
+    "('Open', 'HEROMOTOCO.BO')":5330.8500976562,
+    "('Volume', 'HEROMOTOCO.BO')":26219
+  },
+  {
+    "('Date', '')":"2025-09-15",
+    "('Close', 'HEROMOTOCO.BO')":5289.75,
+    "('High', 'HEROMOTOCO.BO')":5354.0,
+    "('Low', 'HEROMOTOCO.BO')":5270.0,
+    "('Open', 'HEROMOTOCO.BO')":5332.4501953125,
+    "('Volume', 'HEROMOTOCO.BO')":8307
+  },
+  {
+    "('Date', '')":"2025-09-16",
+    "('Close', 'HEROMOTOCO.BO')":5308.6499023438,
+    "('High', 'HEROMOTOCO.BO')":5349.0,
+    "('Low', 'HEROMOTOCO.BO')":5283.0,
+    "('Open', 'HEROMOTOCO.BO')":5317.6499023438,
+    "('Volume', 'HEROMOTOCO.BO')":45250
+  },
+  {
+    "('Date', '')":"2025-09-17",
+    "('Close', 'HEROMOTOCO.BO')":5350.75,
+    "('High', 'HEROMOTOCO.BO')":5387.1000976562,
+    "('Low', 'HEROMOTOCO.BO')":5308.8500976562,
+    "('Open', 'HEROMOTOCO.BO')":5308.8500976562,
+    "('Volume', 'HEROMOTOCO.BO')":50332
+  },
+  {
+    "('Date', '')":"2025-09-18",
+    "('Close', 'HEROMOTOCO.BO')":5367.5,
+    "('High', 'HEROMOTOCO.BO')":5385.0,
+    "('Low', 'HEROMOTOCO.BO')":5340.0498046875,
+    "('Open', 'HEROMOTOCO.BO')":5369.7998046875,
+    "('Volume', 'HEROMOTOCO.BO')":24625
+  },
+  {
+    "('Date', '')":"2025-09-19",
+    "('Close', 'HEROMOTOCO.BO')":5409.3999023438,
+    "('High', 'HEROMOTOCO.BO')":5430.0,
+    "('Low', 'HEROMOTOCO.BO')":5370.3500976562,
+    "('Open', 'HEROMOTOCO.BO')":5398.9501953125,
+    "('Volume', 'HEROMOTOCO.BO')":24931
+  },
+  {
+    "('Date', '')":"2025-09-22",
+    "('Close', 'HEROMOTOCO.BO')":5425.7001953125,
+    "('High', 'HEROMOTOCO.BO')":5499.3999023438,
+    "('Low', 'HEROMOTOCO.BO')":5400.0498046875,
+    "('Open', 'HEROMOTOCO.BO')":5409.3999023438,
+    "('Volume', 'HEROMOTOCO.BO')":23492
+  },
+  {
+    "('Date', '')":"2025-09-23",
+    "('Close', 'HEROMOTOCO.BO')":5369.3999023438,
+    "('High', 'HEROMOTOCO.BO')":5512.7998046875,
+    "('Low', 'HEROMOTOCO.BO')":5358.5,
+    "('Open', 'HEROMOTOCO.BO')":5430.0,
+    "('Volume', 'HEROMOTOCO.BO')":14741
+  },
+  {
+    "('Date', '')":"2025-09-24",
+    "('Close', 'HEROMOTOCO.BO')":5277.5498046875,
+    "('High', 'HEROMOTOCO.BO')":5370.0,
+    "('Low', 'HEROMOTOCO.BO')":5268.0,
+    "('Open', 'HEROMOTOCO.BO')":5370.0,
+    "('Volume', 'HEROMOTOCO.BO')":9275
+  },
+  {
+    "('Date', '')":"2025-09-25",
+    "('Close', 'HEROMOTOCO.BO')":5351.25,
+    "('High', 'HEROMOTOCO.BO')":5373.0,
+    "('Low', 'HEROMOTOCO.BO')":5230.0498046875,
+    "('Open', 'HEROMOTOCO.BO')":5245.6000976562,
+    "('Volume', 'HEROMOTOCO.BO')":29528
+  },
+  {
+    "('Date', '')":"2025-09-26",
+    "('Close', 'HEROMOTOCO.BO')":5326.1000976562,
+    "('High', 'HEROMOTOCO.BO')":5452.3999023438,
+    "('Low', 'HEROMOTOCO.BO')":5308.6000976562,
+    "('Open', 'HEROMOTOCO.BO')":5354.0,
+    "('Volume', 'HEROMOTOCO.BO')":19635
+  },
+  {
+    "('Date', '')":"2025-09-29",
+    "('Close', 'HEROMOTOCO.BO')":5310.2998046875,
+    "('High', 'HEROMOTOCO.BO')":5427.6000976562,
+    "('Low', 'HEROMOTOCO.BO')":5271.1499023438,
+    "('Open', 'HEROMOTOCO.BO')":5325.0,
+    "('Volume', 'HEROMOTOCO.BO')":41498
+  },
+  {
+    "('Date', '')":"2025-09-30",
+    "('Close', 'HEROMOTOCO.BO')":5474.3500976562,
+    "('High', 'HEROMOTOCO.BO')":5495.1499023438,
+    "('Low', 'HEROMOTOCO.BO')":5306.25,
+    "('Open', 'HEROMOTOCO.BO')":5306.25,
+    "('Volume', 'HEROMOTOCO.BO')":62741
+  },
+  {
+    "('Date', '')":"2025-10-01",
+    "('Close', 'HEROMOTOCO.BO')":5429.5,
+    "('High', 'HEROMOTOCO.BO')":5518.9501953125,
+    "('Low', 'HEROMOTOCO.BO')":5412.0,
+    "('Open', 'HEROMOTOCO.BO')":5474.0,
+    "('Volume', 'HEROMOTOCO.BO')":25448
+  },
+  {
+    "('Date', '')":"2025-10-03",
+    "('Close', 'HEROMOTOCO.BO')":5550.7001953125,
+    "('High', 'HEROMOTOCO.BO')":5582.0,
+    "('Low', 'HEROMOTOCO.BO')":5369.0,
+    "('Open', 'HEROMOTOCO.BO')":5507.1000976562,
+    "('Volume', 'HEROMOTOCO.BO')":39993
+  },
+  {
+    "('Date', '')":"2025-10-06",
+    "('Close', 'HEROMOTOCO.BO')":5581.0498046875,
+    "('High', 'HEROMOTOCO.BO')":5595.0,
+    "('Low', 'HEROMOTOCO.BO')":5530.0,
+    "('Open', 'HEROMOTOCO.BO')":5530.0,
+    "('Volume', 'HEROMOTOCO.BO')":40900
+  },
+  {
+    "('Date', '')":"2025-10-07",
+    "('Close', 'HEROMOTOCO.BO')":5614.0,
+    "('High', 'HEROMOTOCO.BO')":5649.0,
+    "('Low', 'HEROMOTOCO.BO')":5569.3500976562,
+    "('Open', 'HEROMOTOCO.BO')":5584.0,
+    "('Volume', 'HEROMOTOCO.BO')":19487
+  },
+  {
+    "('Date', '')":"2025-10-08",
+    "('Close', 'HEROMOTOCO.BO')":5514.1499023438,
+    "('High', 'HEROMOTOCO.BO')":5657.3500976562,
+    "('Low', 'HEROMOTOCO.BO')":5496.1499023438,
+    "('Open', 'HEROMOTOCO.BO')":5614.0,
+    "('Volume', 'HEROMOTOCO.BO')":13883
+  },
+  {
+    "('Date', '')":"2025-10-09",
+    "('Close', 'HEROMOTOCO.BO')":5512.4501953125,
+    "('High', 'HEROMOTOCO.BO')":5536.5,
+    "('Low', 'HEROMOTOCO.BO')":5464.9501953125,
+    "('Open', 'HEROMOTOCO.BO')":5514.1499023438,
+    "('Volume', 'HEROMOTOCO.BO')":27316
+  },
+  {
+    "('Date', '')":"2025-10-10",
+    "('Close', 'HEROMOTOCO.BO')":5499.7001953125,
+    "('High', 'HEROMOTOCO.BO')":5567.3999023438,
+    "('Low', 'HEROMOTOCO.BO')":5480.0,
+    "('Open', 'HEROMOTOCO.BO')":5501.0,
+    "('Volume', 'HEROMOTOCO.BO')":11433
+  },
+  {
+    "('Date', '')":"2025-10-13",
+    "('Close', 'HEROMOTOCO.BO')":5559.1499023438,
+    "('High', 'HEROMOTOCO.BO')":5582.75,
+    "('Low', 'HEROMOTOCO.BO')":5483.7998046875,
+    "('Open', 'HEROMOTOCO.BO')":5509.75,
+    "('Volume', 'HEROMOTOCO.BO')":10645
+  },
+  {
+    "('Date', '')":"2025-10-14",
+    "('Close', 'HEROMOTOCO.BO')":5569.5,
+    "('High', 'HEROMOTOCO.BO')":5590.8999023438,
+    "('Low', 'HEROMOTOCO.BO')":5539.0498046875,
+    "('Open', 'HEROMOTOCO.BO')":5561.0498046875,
+    "('Volume', 'HEROMOTOCO.BO')":23448
+  },
+  {
+    "('Date', '')":"2025-10-15",
+    "('Close', 'HEROMOTOCO.BO')":5539.1000976562,
+    "('High', 'HEROMOTOCO.BO')":5608.8999023438,
+    "('Low', 'HEROMOTOCO.BO')":5447.8999023438,
+    "('Open', 'HEROMOTOCO.BO')":5560.3500976562,
+    "('Volume', 'HEROMOTOCO.BO')":30582
+  },
+  {
+    "('Date', '')":"2025-10-16",
+    "('Close', 'HEROMOTOCO.BO')":5578.6000976562,
+    "('High', 'HEROMOTOCO.BO')":5610.0,
+    "('Low', 'HEROMOTOCO.BO')":5554.4501953125,
+    "('Open', 'HEROMOTOCO.BO')":5584.8500976562,
+    "('Volume', 'HEROMOTOCO.BO')":13757
+  },
+  {
+    "('Date', '')":"2025-10-17",
+    "('Close', 'HEROMOTOCO.BO')":5593.3999023438,
+    "('High', 'HEROMOTOCO.BO')":5624.3500976562,
+    "('Low', 'HEROMOTOCO.BO')":5555.1000976562,
+    "('Open', 'HEROMOTOCO.BO')":5580.0,
+    "('Volume', 'HEROMOTOCO.BO')":9083
+  },
+  {
+    "('Date', '')":"2025-10-20",
+    "('Close', 'HEROMOTOCO.BO')":5638.75,
+    "('High', 'HEROMOTOCO.BO')":5693.5498046875,
+    "('Low', 'HEROMOTOCO.BO')":5600.6499023438,
+    "('Open', 'HEROMOTOCO.BO')":5600.6499023438,
+    "('Volume', 'HEROMOTOCO.BO')":23468
+  },
+  {
+    "('Date', '')":"2025-10-21",
+    "('Close', 'HEROMOTOCO.BO')":5646.9501953125,
+    "('High', 'HEROMOTOCO.BO')":5689.9501953125,
+    "('Low', 'HEROMOTOCO.BO')":5630.0,
+    "('Open', 'HEROMOTOCO.BO')":5689.9501953125,
+    "('Volume', 'HEROMOTOCO.BO')":3240
+  },
+  {
+    "('Date', '')":"2025-10-23",
+    "('Close', 'HEROMOTOCO.BO')":5586.8999023438,
+    "('High', 'HEROMOTOCO.BO')":5704.0,
+    "('Low', 'HEROMOTOCO.BO')":5561.1499023438,
+    "('Open', 'HEROMOTOCO.BO')":5681.0498046875,
+    "('Volume', 'HEROMOTOCO.BO')":15749
+  },
+  {
+    "('Date', '')":"2025-10-24",
+    "('Close', 'HEROMOTOCO.BO')":5538.0498046875,
+    "('High', 'HEROMOTOCO.BO')":5624.7001953125,
+    "('Low', 'HEROMOTOCO.BO')":5486.0,
+    "('Open', 'HEROMOTOCO.BO')":5620.0,
+    "('Volume', 'HEROMOTOCO.BO')":10242
+  },
+  {
+    "('Date', '')":"2025-10-27",
+    "('Close', 'HEROMOTOCO.BO')":5648.5,
+    "('High', 'HEROMOTOCO.BO')":5663.8999023438,
+    "('Low', 'HEROMOTOCO.BO')":5556.0,
+    "('Open', 'HEROMOTOCO.BO')":5556.0,
+    "('Volume', 'HEROMOTOCO.BO')":23898
+  },
+  {
+    "('Date', '')":"2025-10-28",
+    "('Close', 'HEROMOTOCO.BO')":5605.3999023438,
+    "('High', 'HEROMOTOCO.BO')":5662.0,
+    "('Low', 'HEROMOTOCO.BO')":5580.0,
+    "('Open', 'HEROMOTOCO.BO')":5635.0,
+    "('Volume', 'HEROMOTOCO.BO')":9723
+  },
+  {
+    "('Date', '')":"2025-10-29",
+    "('Close', 'HEROMOTOCO.BO')":5548.3999023438,
+    "('High', 'HEROMOTOCO.BO')":5625.4501953125,
+    "('Low', 'HEROMOTOCO.BO')":5526.5,
+    "('Open', 'HEROMOTOCO.BO')":5625.3999023438,
+    "('Volume', 'HEROMOTOCO.BO')":7809
+  },
+  {
+    "('Date', '')":"2025-10-30",
+    "('Close', 'HEROMOTOCO.BO')":5514.3999023438,
+    "('High', 'HEROMOTOCO.BO')":5582.0,
+    "('Low', 'HEROMOTOCO.BO')":5493.0,
+    "('Open', 'HEROMOTOCO.BO')":5554.25,
+    "('Volume', 'HEROMOTOCO.BO')":5464
+  },
+  {
+    "('Date', '')":"2025-10-31",
+    "('Close', 'HEROMOTOCO.BO')":5544.7998046875,
+    "('High', 'HEROMOTOCO.BO')":5625.0,
+    "('Low', 'HEROMOTOCO.BO')":5510.0,
+    "('Open', 'HEROMOTOCO.BO')":5514.3999023438,
+    "('Volume', 'HEROMOTOCO.BO')":7463
+  },
+  {
+    "('Date', '')":"2025-11-03",
+    "('Close', 'HEROMOTOCO.BO')":5536.8500976562,
+    "('High', 'HEROMOTOCO.BO')":5570.1499023438,
+    "('Low', 'HEROMOTOCO.BO')":5485.0,
+    "('Open', 'HEROMOTOCO.BO')":5560.0,
+    "('Volume', 'HEROMOTOCO.BO')":8663
+  },
+  {
+    "('Date', '')":"2025-11-04",
+    "('Close', 'HEROMOTOCO.BO')":5309.2001953125,
+    "('High', 'HEROMOTOCO.BO')":5499.75,
+    "('Low', 'HEROMOTOCO.BO')":5258.7001953125,
+    "('Open', 'HEROMOTOCO.BO')":5499.75,
+    "('Volume', 'HEROMOTOCO.BO')":41054
+  },
+  {
+    "('Date', '')":"2025-11-06",
+    "('Close', 'HEROMOTOCO.BO')":5324.1499023438,
+    "('High', 'HEROMOTOCO.BO')":5404.0,
+    "('Low', 'HEROMOTOCO.BO')":5306.0498046875,
+    "('Open', 'HEROMOTOCO.BO')":5340.1000976562,
+    "('Volume', 'HEROMOTOCO.BO')":17053
+  },
+  {
+    "('Date', '')":"2025-11-07",
+    "('Close', 'HEROMOTOCO.BO')":5295.7998046875,
+    "('High', 'HEROMOTOCO.BO')":5323.0,
+    "('Low', 'HEROMOTOCO.BO')":5258.5498046875,
+    "('Open', 'HEROMOTOCO.BO')":5266.1499023438,
+    "('Volume', 'HEROMOTOCO.BO')":14281
+  },
+  {
+    "('Date', '')":"2025-11-10",
+    "('Close', 'HEROMOTOCO.BO')":5360.2998046875,
+    "('High', 'HEROMOTOCO.BO')":5410.25,
+    "('Low', 'HEROMOTOCO.BO')":5293.75,
+    "('Open', 'HEROMOTOCO.BO')":5293.75,
+    "('Volume', 'HEROMOTOCO.BO')":7269
+  },
+  {
+    "('Date', '')":"2025-11-11",
+    "('Close', 'HEROMOTOCO.BO')":5415.0,
+    "('High', 'HEROMOTOCO.BO')":5430.1000976562,
+    "('Low', 'HEROMOTOCO.BO')":5330.0,
+    "('Open', 'HEROMOTOCO.BO')":5370.1000976562,
+    "('Volume', 'HEROMOTOCO.BO')":9732
+  },
+  {
+    "('Date', '')":"2025-11-12",
+    "('Close', 'HEROMOTOCO.BO')":5530.0,
+    "('High', 'HEROMOTOCO.BO')":5555.0,
+    "('Low', 'HEROMOTOCO.BO')":5421.1499023438,
+    "('Open', 'HEROMOTOCO.BO')":5421.1499023438,
+    "('Volume', 'HEROMOTOCO.BO')":11718
+  },
+  {
+    "('Date', '')":"2025-11-13",
+    "('Close', 'HEROMOTOCO.BO')":5506.75,
+    "('High', 'HEROMOTOCO.BO')":5594.0,
+    "('Low', 'HEROMOTOCO.BO')":5488.0,
+    "('Open', 'HEROMOTOCO.BO')":5550.0,
+    "('Volume', 'HEROMOTOCO.BO')":9397
+  }
+]

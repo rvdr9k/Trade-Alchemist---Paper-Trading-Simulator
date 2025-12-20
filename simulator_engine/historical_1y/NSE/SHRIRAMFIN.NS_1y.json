@@ -1,0 +1,1994 @@
+[
+  {
+    "('Date', '')":"2024-11-11",
+    "('Close', 'SHRIRAMFIN.NS')":590.8369140625,
+    "('High', 'SHRIRAMFIN.NS')":602.1830217852,
+    "('Low', 'SHRIRAMFIN.NS')":582.6326074875,
+    "('Open', 'SHRIRAMFIN.NS')":592.915057061,
+    "('Volume', 'SHRIRAMFIN.NS')":4101875
+  },
+  {
+    "('Date', '')":"2024-11-12",
+    "('Close', 'SHRIRAMFIN.NS')":577.3929443359,
+    "('High', 'SHRIRAMFIN.NS')":595.9387944835,
+    "('Low', 'SHRIRAMFIN.NS')":575.7087887054,
+    "('Open', 'SHRIRAMFIN.NS')":593.7917004424,
+    "('Volume', 'SHRIRAMFIN.NS')":5430660
+  },
+  {
+    "('Date', '')":"2024-11-13",
+    "('Close', 'SHRIRAMFIN.NS')":562.1564331055,
+    "('High', 'SHRIRAMFIN.NS')":577.2550422133,
+    "('Low', 'SHRIRAMFIN.NS')":559.2804560348,
+    "('Open', 'SHRIRAMFIN.NS')":577.2550422133,
+    "('Volume', 'SHRIRAMFIN.NS')":6755505
+  },
+  {
+    "('Date', '')":"2024-11-14",
+    "('Close', 'SHRIRAMFIN.NS')":556.0007324219,
+    "('High', 'SHRIRAMFIN.NS')":564.7467273342,
+    "('Low', 'SHRIRAMFIN.NS')":548.2002114801,
+    "('Open', 'SHRIRAMFIN.NS')":561.9495599051,
+    "('Volume', 'SHRIRAMFIN.NS')":7172685
+  },
+  {
+    "('Date', '')":"2024-11-18",
+    "('Close', 'SHRIRAMFIN.NS')":561.0336303711,
+    "('High', 'SHRIRAMFIN.NS')":564.7073211277,
+    "('Low', 'SHRIRAMFIN.NS')":551.5489533815,
+    "('Open', 'SHRIRAMFIN.NS')":556.0007605989,
+    "('Volume', 'SHRIRAMFIN.NS')":4841895
+  },
+  {
+    "('Date', '')":"2024-11-19",
+    "('Close', 'SHRIRAMFIN.NS')":556.4242553711,
+    "('High', 'SHRIRAMFIN.NS')":564.5497532163,
+    "('Low', 'SHRIRAMFIN.NS')":551.8838400935,
+    "('Open', 'SHRIRAMFIN.NS')":561.0040453608,
+    "('Volume', 'SHRIRAMFIN.NS')":5942545
+  },
+  {
+    "('Date', '')":"2024-11-21",
+    "('Close', 'SHRIRAMFIN.NS')":551.9822998047,
+    "('High', 'SHRIRAMFIN.NS')":558.8372868121,
+    "('Low', 'SHRIRAMFIN.NS')":545.2454970462,
+    "('Open', 'SHRIRAMFIN.NS')":558.6304343194,
+    "('Volume', 'SHRIRAMFIN.NS')":4777400
+  },
+  {
+    "('Date', '')":"2024-11-22",
+    "('Close', 'SHRIRAMFIN.NS')":561.4078369141,
+    "('High', 'SHRIRAMFIN.NS')":564.3527044096,
+    "('Low', 'SHRIRAMFIN.NS')":540.8232203341,
+    "('Open', 'SHRIRAMFIN.NS')":541.6998035345,
+    "('Volume', 'SHRIRAMFIN.NS')":8194990
+  },
+  {
+    "('Date', '')":"2024-11-25",
+    "('Close', 'SHRIRAMFIN.NS')":580.6627807617,
+    "('High', 'SHRIRAMFIN.NS')":593.8999563221,
+    "('Low', 'SHRIRAMFIN.NS')":576.555728244,
+    "('Open', 'SHRIRAMFIN.NS')":576.555728244,
+    "('Volume', 'SHRIRAMFIN.NS')":13791540
+  },
+  {
+    "('Date', '')":"2024-11-26",
+    "('Close', 'SHRIRAMFIN.NS')":600.075378418,
+    "('High', 'SHRIRAMFIN.NS')":606.5658934714,
+    "('Low', 'SHRIRAMFIN.NS')":580.8991736342,
+    "('Open', 'SHRIRAMFIN.NS')":584.0016602685,
+    "('Volume', 'SHRIRAMFIN.NS')":10105100
+  },
+  {
+    "('Date', '')":"2024-11-27",
+    "('Close', 'SHRIRAMFIN.NS')":594.6879272461,
+    "('High', 'SHRIRAMFIN.NS')":604.0839957632,
+    "('Low', 'SHRIRAMFIN.NS')":592.3930728877,
+    "('Open', 'SHRIRAMFIN.NS')":596.6380875668,
+    "('Volume', 'SHRIRAMFIN.NS')":4064750
+  },
+  {
+    "('Date', '')":"2024-11-28",
+    "('Close', 'SHRIRAMFIN.NS')":599.5533447266,
+    "('High', 'SHRIRAMFIN.NS')":605.718883139,
+    "('Low', 'SHRIRAMFIN.NS')":589.2216615251,
+    "('Open', 'SHRIRAMFIN.NS')":598.8245218675,
+    "('Volume', 'SHRIRAMFIN.NS')":12057145
+  },
+  {
+    "('Date', '')":"2024-11-29",
+    "('Close', 'SHRIRAMFIN.NS')":594.8159179688,
+    "('High', 'SHRIRAMFIN.NS')":604.0543666012,
+    "('Low', 'SHRIRAMFIN.NS')":589.4087786968,
+    "('Open', 'SHRIRAMFIN.NS')":602.2716842168,
+    "('Volume', 'SHRIRAMFIN.NS')":5600545
+  },
+  {
+    "('Date', '')":"2024-12-02",
+    "('Close', 'SHRIRAMFIN.NS')":609.5010375977,
+    "('High', 'SHRIRAMFIN.NS')":613.5686559661,
+    "('Low', 'SHRIRAMFIN.NS')":593.0530472829,
+    "('Open', 'SHRIRAMFIN.NS')":594.8160125366,
+    "('Volume', 'SHRIRAMFIN.NS')":5433440
+  },
+  {
+    "('Date', '')":"2024-12-03",
+    "('Close', 'SHRIRAMFIN.NS')":621.5857543945,
+    "('High', 'SHRIRAMFIN.NS')":631.7007866174,
+    "('Low', 'SHRIRAMFIN.NS')":615.5778349916,
+    "('Open', 'SHRIRAMFIN.NS')":616.749878823,
+    "('Volume', 'SHRIRAMFIN.NS')":9872220
+  },
+  {
+    "('Date', '')":"2024-12-04",
+    "('Close', 'SHRIRAMFIN.NS')":617.0060424805,
+    "('High', 'SHRIRAMFIN.NS')":625.1118233773,
+    "('Low', 'SHRIRAMFIN.NS')":614.5240528508,
+    "('Open', 'SHRIRAMFIN.NS')":619.6160149604,
+    "('Volume', 'SHRIRAMFIN.NS')":5743725
+  },
+  {
+    "('Date', '')":"2024-12-05",
+    "('Close', 'SHRIRAMFIN.NS')":615.8240966797,
+    "('High', 'SHRIRAMFIN.NS')":622.2752374097,
+    "('Low', 'SHRIRAMFIN.NS')":605.3249350241,
+    "('Open', 'SHRIRAMFIN.NS')":620.9751505573,
+    "('Volume', 'SHRIRAMFIN.NS')":7117350
+  },
+  {
+    "('Date', '')":"2024-12-06",
+    "('Close', 'SHRIRAMFIN.NS')":615.8339233398,
+    "('High', 'SHRIRAMFIN.NS')":620.147828544,
+    "('Low', 'SHRIRAMFIN.NS')":609.3827228314,
+    "('Open', 'SHRIRAMFIN.NS')":615.9619662885,
+    "('Volume', 'SHRIRAMFIN.NS')":3193785
+  },
+  {
+    "('Date', '')":"2024-12-09",
+    "('Close', 'SHRIRAMFIN.NS')":612.0026245117,
+    "('High', 'SHRIRAMFIN.NS')":623.1222230329,
+    "('Low', 'SHRIRAMFIN.NS')":609.7570036313,
+    "('Open', 'SHRIRAMFIN.NS')":610.7616298266,
+    "('Volume', 'SHRIRAMFIN.NS')":3963995
+  },
+  {
+    "('Date', '')":"2024-12-10",
+    "('Close', 'SHRIRAMFIN.NS')":627.6823730469,
+    "('High', 'SHRIRAMFIN.NS')":629.7802336228,
+    "('Low', 'SHRIRAMFIN.NS')":612.4162864808,
+    "('Open', 'SHRIRAMFIN.NS')":615.656674941,
+    "('Volume', 'SHRIRAMFIN.NS')":5630900
+  },
+  {
+    "('Date', '')":"2024-12-11",
+    "('Close', 'SHRIRAMFIN.NS')":639.8460083008,
+    "('High', 'SHRIRAMFIN.NS')":643.6576004424,
+    "('Low', 'SHRIRAMFIN.NS')":626.0079919516,
+    "('Open', 'SHRIRAMFIN.NS')":629.4551726564,
+    "('Volume', 'SHRIRAMFIN.NS')":7350105
+  },
+  {
+    "('Date', '')":"2024-12-12",
+    "('Close', 'SHRIRAMFIN.NS')":639.81640625,
+    "('High', 'SHRIRAMFIN.NS')":643.1454025763,
+    "('Low', 'SHRIRAMFIN.NS')":634.5865432829,
+    "('Open', 'SHRIRAMFIN.NS')":638.1223920842,
+    "('Volume', 'SHRIRAMFIN.NS')":5108345
+  },
+  {
+    "('Date', '')":"2024-12-13",
+    "('Close', 'SHRIRAMFIN.NS')":622.9646606445,
+    "('High', 'SHRIRAMFIN.NS')":641.1066634991,
+    "('Low', 'SHRIRAMFIN.NS')":614.1103403506,
+    "('Open', 'SHRIRAMFIN.NS')":638.6246741426,
+    "('Volume', 'SHRIRAMFIN.NS')":6003130
+  },
+  {
+    "('Date', '')":"2024-12-16",
+    "('Close', 'SHRIRAMFIN.NS')":618.0203857422,
+    "('High', 'SHRIRAMFIN.NS')":629.7506826911,
+    "('Low', 'SHRIRAMFIN.NS')":615.9619601058,
+    "('Open', 'SHRIRAMFIN.NS')":625.2200663447,
+    "('Volume', 'SHRIRAMFIN.NS')":2943305
+  },
+  {
+    "('Date', '')":"2024-12-17",
+    "('Close', 'SHRIRAMFIN.NS')":586.3950195312,
+    "('High', 'SHRIRAMFIN.NS')":617.5378316886,
+    "('Low', 'SHRIRAMFIN.NS')":584.100165143,
+    "('Open', 'SHRIRAMFIN.NS')":617.5378316886,
+    "('Volume', 'SHRIRAMFIN.NS')":10413170
+  },
+  {
+    "('Date', '')":"2024-12-18",
+    "('Close', 'SHRIRAMFIN.NS')":577.4323730469,
+    "('High', 'SHRIRAMFIN.NS')":597.4456674106,
+    "('Low', 'SHRIRAMFIN.NS')":572.9904246412,
+    "('Open', 'SHRIRAMFIN.NS')":586.3950192819,
+    "('Volume', 'SHRIRAMFIN.NS')":7447675
+  },
+  {
+    "('Date', '')":"2024-12-19",
+    "('Close', 'SHRIRAMFIN.NS')":580.1999511719,
+    "('High', 'SHRIRAMFIN.NS')":581.588646129,
+    "('Low', 'SHRIRAMFIN.NS')":562.048029096,
+    "('Open', 'SHRIRAMFIN.NS')":565.3376509366,
+    "('Volume', 'SHRIRAMFIN.NS')":7354675
+  },
+  {
+    "('Date', '')":"2024-12-20",
+    "('Close', 'SHRIRAMFIN.NS')":566.7658081055,
+    "('High', 'SHRIRAMFIN.NS')":583.2039391687,
+    "('Low', 'SHRIRAMFIN.NS')":560.1471893934,
+    "('Open', 'SHRIRAMFIN.NS')":581.7364346047,
+    "('Volume', 'SHRIRAMFIN.NS')":12499100
+  },
+  {
+    "('Date', '')":"2024-12-23",
+    "('Close', 'SHRIRAMFIN.NS')":567.8786621094,
+    "('High', 'SHRIRAMFIN.NS')":581.8840346488,
+    "('Low', 'SHRIRAMFIN.NS')":565.8891273443,
+    "('Open', 'SHRIRAMFIN.NS')":572.4289353903,
+    "('Volume', 'SHRIRAMFIN.NS')":4691250
+  },
+  {
+    "('Date', '')":"2024-12-24",
+    "('Close', 'SHRIRAMFIN.NS')":567.8885498047,
+    "('High', 'SHRIRAMFIN.NS')":570.7743251634,
+    "('Low', 'SHRIRAMFIN.NS')":562.4026009772,
+    "('Open', 'SHRIRAMFIN.NS')":567.8983483962,
+    "('Volume', 'SHRIRAMFIN.NS')":2020780
+  },
+  {
+    "('Date', '')":"2024-12-26",
+    "('Close', 'SHRIRAMFIN.NS')":576.5458984375,
+    "('High', 'SHRIRAMFIN.NS')":578.3285809,
+    "('Low', 'SHRIRAMFIN.NS')":565.5641416474,
+    "('Open', 'SHRIRAMFIN.NS')":569.7303466065,
+    "('Volume', 'SHRIRAMFIN.NS')":4462340
+  },
+  {
+    "('Date', '')":"2024-12-27",
+    "('Close', 'SHRIRAMFIN.NS')":571.030456543,
+    "('High', 'SHRIRAMFIN.NS')":579.0968019567,
+    "('Low', 'SHRIRAMFIN.NS')":569.3757568481,
+    "('Open', 'SHRIRAMFIN.NS')":578.5157394249,
+    "('Volume', 'SHRIRAMFIN.NS')":1524915
+  },
+  {
+    "('Date', '')":"2024-12-30",
+    "('Close', 'SHRIRAMFIN.NS')":574.9897460938,
+    "('High', 'SHRIRAMFIN.NS')":584.8093181006,
+    "('Low', 'SHRIRAMFIN.NS')":570.3212879945,
+    "('Open', 'SHRIRAMFIN.NS')":573.7684687986,
+    "('Volume', 'SHRIRAMFIN.NS')":3452720
+  },
+  {
+    "('Date', '')":"2024-12-31",
+    "('Close', 'SHRIRAMFIN.NS')":569.1098022461,
+    "('High', 'SHRIRAMFIN.NS')":573.7486836791,
+    "('Low', 'SHRIRAMFIN.NS')":567.5142549856,
+    "('Open', 'SHRIRAMFIN.NS')":570.8333924447,
+    "('Volume', 'SHRIRAMFIN.NS')":4075070
+  },
+  {
+    "('Date', '')":"2025-01-01",
+    "('Close', 'SHRIRAMFIN.NS')":574.9207763672,
+    "('High', 'SHRIRAMFIN.NS')":577.3535322854,
+    "('Low', 'SHRIRAMFIN.NS')":567.8787147388,
+    "('Open', 'SHRIRAMFIN.NS')":571.0500921195,
+    "('Volume', 'SHRIRAMFIN.NS')":1297175
+  },
+  {
+    "('Date', '')":"2025-01-02",
+    "('Close', 'SHRIRAMFIN.NS')":602.7741088867,
+    "('High', 'SHRIRAMFIN.NS')":604.517416886,
+    "('Low', 'SHRIRAMFIN.NS')":577.4717966993,
+    "('Open', 'SHRIRAMFIN.NS')":578.594607279,
+    "('Volume', 'SHRIRAMFIN.NS')":7297085
+  },
+  {
+    "('Date', '')":"2025-01-03",
+    "('Close', 'SHRIRAMFIN.NS')":600.4693603516,
+    "('High', 'SHRIRAMFIN.NS')":610.2494979956,
+    "('Low', 'SHRIRAMFIN.NS')":598.0661803586,
+    "('Open', 'SHRIRAMFIN.NS')":602.7642147987,
+    "('Volume', 'SHRIRAMFIN.NS')":3652225
+  },
+  {
+    "('Date', '')":"2025-01-06",
+    "('Close', 'SHRIRAMFIN.NS')":584.9472045898,
+    "('High', 'SHRIRAMFIN.NS')":606.9698127625,
+    "('Low', 'SHRIRAMFIN.NS')":582.0811462084,
+    "('Open', 'SHRIRAMFIN.NS')":597.0517731591,
+    "('Volume', 'SHRIRAMFIN.NS')":5430225
+  },
+  {
+    "('Date', '')":"2025-01-07",
+    "('Close', 'SHRIRAMFIN.NS')":582.7508544922,
+    "('High', 'SHRIRAMFIN.NS')":595.2789261803,
+    "('Low', 'SHRIRAMFIN.NS')":581.0962148568,
+    "('Open', 'SHRIRAMFIN.NS')":586.4245452242,
+    "('Volume', 'SHRIRAMFIN.NS')":2781710
+  },
+  {
+    "('Date', '')":"2025-01-08",
+    "('Close', 'SHRIRAMFIN.NS')":571.0009155273,
+    "('High', 'SHRIRAMFIN.NS')":585.0358668792,
+    "('Low', 'SHRIRAMFIN.NS')":559.5956540179,
+    "('Open', 'SHRIRAMFIN.NS')":585.0358668792,
+    "('Volume', 'SHRIRAMFIN.NS')":4976035
+  },
+  {
+    "('Date', '')":"2025-01-09",
+    "('Close', 'SHRIRAMFIN.NS')":553.4891967773,
+    "('High', 'SHRIRAMFIN.NS')":576.0042587424,
+    "('Low', 'SHRIRAMFIN.NS')":551.7459489929,
+    "('Open', 'SHRIRAMFIN.NS')":571.9858138083,
+    "('Volume', 'SHRIRAMFIN.NS')":5408205
+  },
+  {
+    "('Date', '')":"2025-01-10",
+    "('Close', 'SHRIRAMFIN.NS')":523.9714355469,
+    "('High', 'SHRIRAMFIN.NS')":557.4583318036,
+    "('Low', 'SHRIRAMFIN.NS')":521.0167094066,
+    "('Open', 'SHRIRAMFIN.NS')":557.4583318036,
+    "('Volume', 'SHRIRAMFIN.NS')":5999299
+  },
+  {
+    "('Date', '')":"2025-01-13",
+    "('Close', 'SHRIRAMFIN.NS')":513.2359619141,
+    "('High', 'SHRIRAMFIN.NS')":532.5402108491,
+    "('Low', 'SHRIRAMFIN.NS')":510.9214502333,
+    "('Open', 'SHRIRAMFIN.NS')":522.0509078734,
+    "('Volume', 'SHRIRAMFIN.NS')":5558523
+  },
+  {
+    "('Date', '')":"2025-01-14",
+    "('Close', 'SHRIRAMFIN.NS')":535.8888549805,
+    "('High', 'SHRIRAMFIN.NS')":539.237568952,
+    "('Low', 'SHRIRAMFIN.NS')":510.4782199184,
+    "('Open', 'SHRIRAMFIN.NS')":518.9977050991,
+    "('Volume', 'SHRIRAMFIN.NS')":6987503
+  },
+  {
+    "('Date', '')":"2025-01-15",
+    "('Close', 'SHRIRAMFIN.NS')":525.1533813477,
+    "('High', 'SHRIRAMFIN.NS')":537.7109684799,
+    "('Low', 'SHRIRAMFIN.NS')":521.115219221,
+    "('Open', 'SHRIRAMFIN.NS')":536.7752931021,
+    "('Volume', 'SHRIRAMFIN.NS')":4072535
+  },
+  {
+    "('Date', '')":"2025-01-16",
+    "('Close', 'SHRIRAMFIN.NS')":538.5481567383,
+    "('High', 'SHRIRAMFIN.NS')":545.3932853904,
+    "('Low', 'SHRIRAMFIN.NS')":527.4679319787,
+    "('Open', 'SHRIRAMFIN.NS')":527.4679319787,
+    "('Volume', 'SHRIRAMFIN.NS')":6194466
+  },
+  {
+    "('Date', '')":"2025-01-17",
+    "('Close', 'SHRIRAMFIN.NS')":518.5544433594,
+    "('High', 'SHRIRAMFIN.NS')":539.2867599837,
+    "('Low', 'SHRIRAMFIN.NS')":515.9444111943,
+    "('Open', 'SHRIRAMFIN.NS')":538.3018512594,
+    "('Volume', 'SHRIRAMFIN.NS')":5347916
+  },
+  {
+    "('Date', '')":"2025-01-20",
+    "('Close', 'SHRIRAMFIN.NS')":508.9024047852,
+    "('High', 'SHRIRAMFIN.NS')":513.6299551491,
+    "('Low', 'SHRIRAMFIN.NS')":485.9047775796,
+    "('Open', 'SHRIRAMFIN.NS')":503.288412428,
+    "('Volume', 'SHRIRAMFIN.NS')":12701612
+  },
+  {
+    "('Date', '')":"2025-01-21",
+    "('Close', 'SHRIRAMFIN.NS')":512.4479980469,
+    "('High', 'SHRIRAMFIN.NS')":522.740306255,
+    "('Low', 'SHRIRAMFIN.NS')":505.7013973203,
+    "('Open', 'SHRIRAMFIN.NS')":510.1827200002,
+    "('Volume', 'SHRIRAMFIN.NS')":7753705
+  },
+  {
+    "('Date', '')":"2025-01-22",
+    "('Close', 'SHRIRAMFIN.NS')":510.8229370117,
+    "('High', 'SHRIRAMFIN.NS')":520.3765036043,
+    "('Low', 'SHRIRAMFIN.NS')":505.3074120536,
+    "('Open', 'SHRIRAMFIN.NS')":512.497233762,
+    "('Volume', 'SHRIRAMFIN.NS')":5895189
+  },
+  {
+    "('Date', '')":"2025-01-23",
+    "('Close', 'SHRIRAMFIN.NS')":521.8046875,
+    "('High', 'SHRIRAMFIN.NS')":525.3996287847,
+    "('Low', 'SHRIRAMFIN.NS')":503.8793647805,
+    "('Open', 'SHRIRAMFIN.NS')":510.8229900847,
+    "('Volume', 'SHRIRAMFIN.NS')":5150004
+  },
+  {
+    "('Date', '')":"2025-01-24",
+    "('Close', 'SHRIRAMFIN.NS')":519.4901733398,
+    "('High', 'SHRIRAMFIN.NS')":533.6235909757,
+    "('Low', 'SHRIRAMFIN.NS')":501.4663237536,
+    "('Open', 'SHRIRAMFIN.NS')":523.9222630657,
+    "('Volume', 'SHRIRAMFIN.NS')":7602501
+  },
+  {
+    "('Date', '')":"2025-01-27",
+    "('Close', 'SHRIRAMFIN.NS')":503.9285888672,
+    "('High', 'SHRIRAMFIN.NS')":522.6418863975,
+    "('Low', 'SHRIRAMFIN.NS')":500.4814080169,
+    "('Open', 'SHRIRAMFIN.NS')":517.9635695292,
+    "('Volume', 'SHRIRAMFIN.NS')":8523575
+  },
+  {
+    "('Date', '')":"2025-01-28",
+    "('Close', 'SHRIRAMFIN.NS')":522.1001586914,
+    "('High', 'SHRIRAMFIN.NS')":533.6236042891,
+    "('Low', 'SHRIRAMFIN.NS')":500.9246484186,
+    "('Open', 'SHRIRAMFIN.NS')":512.2018367461,
+    "('Volume', 'SHRIRAMFIN.NS')":16222471
+  },
+  {
+    "('Date', '')":"2025-01-29",
+    "('Close', 'SHRIRAMFIN.NS')":545.1470336914,
+    "('High', 'SHRIRAMFIN.NS')":547.2646117071,
+    "('Low', 'SHRIRAMFIN.NS')":522.2479035499,
+    "('Open', 'SHRIRAMFIN.NS')":523.1343455365,
+    "('Volume', 'SHRIRAMFIN.NS')":9135552
+  },
+  {
+    "('Date', '')":"2025-01-30",
+    "('Close', 'SHRIRAMFIN.NS')":530.1763916016,
+    "('High', 'SHRIRAMFIN.NS')":551.5489244467,
+    "('Low', 'SHRIRAMFIN.NS')":528.748261828,
+    "('Open', 'SHRIRAMFIN.NS')":545.1470172879,
+    "('Volume', 'SHRIRAMFIN.NS')":7172857
+  },
+  {
+    "('Date', '')":"2025-01-31",
+    "('Close', 'SHRIRAMFIN.NS')":538.04296875,
+    "('High', 'SHRIRAMFIN.NS')":545.1179487268,
+    "('Low', 'SHRIRAMFIN.NS')":530.5722232858,
+    "('Open', 'SHRIRAMFIN.NS')":540.6651793302,
+    "('Volume', 'SHRIRAMFIN.NS')":4058608
+  },
+  {
+    "('Date', '')":"2025-02-01",
+    "('Close', 'SHRIRAMFIN.NS')":526.2183837891,
+    "('High', 'SHRIRAMFIN.NS')":543.8810720872,
+    "('Low', 'SHRIRAMFIN.NS')":512.5632362911,
+    "('Open', 'SHRIRAMFIN.NS')":542.1494395321,
+    "('Volume', 'SHRIRAMFIN.NS')":3874882
+  },
+  {
+    "('Date', '')":"2025-02-03",
+    "('Close', 'SHRIRAMFIN.NS')":540.4177856445,
+    "('High', 'SHRIRAMFIN.NS')":552.1433871822,
+    "('Low', 'SHRIRAMFIN.NS')":510.5842075019,
+    "('Open', 'SHRIRAMFIN.NS')":519.4897460048,
+    "('Volume', 'SHRIRAMFIN.NS')":7442129
+  },
+  {
+    "('Date', '')":"2025-02-04",
+    "('Close', 'SHRIRAMFIN.NS')":570.6966552734,
+    "('High', 'SHRIRAMFIN.NS')":573.8136182507,
+    "('Low', 'SHRIRAMFIN.NS')":539.6757168949,
+    "('Open', 'SHRIRAMFIN.NS')":550.1644392406,
+    "('Volume', 'SHRIRAMFIN.NS')":12290382
+  },
+  {
+    "('Date', '')":"2025-02-05",
+    "('Close', 'SHRIRAMFIN.NS')":565.3037719727,
+    "('High', 'SHRIRAMFIN.NS')":584.5991050534,
+    "('Low', 'SHRIRAMFIN.NS')":562.4342458538,
+    "('Open', 'SHRIRAMFIN.NS')":570.9439583367,
+    "('Volume', 'SHRIRAMFIN.NS')":6953215
+  },
+  {
+    "('Date', '')":"2025-02-06",
+    "('Close', 'SHRIRAMFIN.NS')":560.4057617188,
+    "('High', 'SHRIRAMFIN.NS')":564.0174767364,
+    "('Low', 'SHRIRAMFIN.NS')":548.5317095769,
+    "('Open', 'SHRIRAMFIN.NS')":564.0174767364,
+    "('Volume', 'SHRIRAMFIN.NS')":6345455
+  },
+  {
+    "('Date', '')":"2025-02-07",
+    "('Close', 'SHRIRAMFIN.NS')":553.6771240234,
+    "('High', 'SHRIRAMFIN.NS')":573.0219211855,
+    "('Low', 'SHRIRAMFIN.NS')":549.0264416922,
+    "('Open', 'SHRIRAMFIN.NS')":561.9395212403,
+    "('Volume', 'SHRIRAMFIN.NS')":5747620
+  },
+  {
+    "('Date', '')":"2025-02-10",
+    "('Close', 'SHRIRAMFIN.NS')":554.9140014648,
+    "('High', 'SHRIRAMFIN.NS')":560.6531143477,
+    "('Low', 'SHRIRAMFIN.NS')":540.7641020001,
+    "('Open', 'SHRIRAMFIN.NS')":555.804579496,
+    "('Volume', 'SHRIRAMFIN.NS')":4253881
+  },
+  {
+    "('Date', '')":"2025-02-11",
+    "('Close', 'SHRIRAMFIN.NS')":532.8975219727,
+    "('High', 'SHRIRAMFIN.NS')":560.0594267444,
+    "('Low', 'SHRIRAMFIN.NS')":528.3952895433,
+    "('Open', 'SHRIRAMFIN.NS')":560.0594267444,
+    "('Volume', 'SHRIRAMFIN.NS')":6416783
+  },
+  {
+    "('Date', '')":"2025-02-12",
+    "('Close', 'SHRIRAMFIN.NS')":541.4073486328,
+    "('High', 'SHRIRAMFIN.NS')":545.7116685515,
+    "('Low', 'SHRIRAMFIN.NS')":521.4688111091,
+    "('Open', 'SHRIRAMFIN.NS')":532.8975746816,
+    "('Volume', 'SHRIRAMFIN.NS')":5467745
+  },
+  {
+    "('Date', '')":"2025-02-13",
+    "('Close', 'SHRIRAMFIN.NS')":542.8915405273,
+    "('High', 'SHRIRAMFIN.NS')":554.3697658726,
+    "('Low', 'SHRIRAMFIN.NS')":532.3532959205,
+    "('Open', 'SHRIRAMFIN.NS')":541.2588343281,
+    "('Volume', 'SHRIRAMFIN.NS')":5723009
+  },
+  {
+    "('Date', '')":"2025-02-14",
+    "('Close', 'SHRIRAMFIN.NS')":533.4912719727,
+    "('High', 'SHRIRAMFIN.NS')":549.1254279647,
+    "('Low', 'SHRIRAMFIN.NS')":521.2708575285,
+    "('Open', 'SHRIRAMFIN.NS')":545.1674107316,
+    "('Volume', 'SHRIRAMFIN.NS')":6763071
+  },
+  {
+    "('Date', '')":"2025-02-17",
+    "('Close', 'SHRIRAMFIN.NS')":544.5736694336,
+    "('High', 'SHRIRAMFIN.NS')":547.1958799965,
+    "('Low', 'SHRIRAMFIN.NS')":519.5886857629,
+    "('Open', 'SHRIRAMFIN.NS')":531.3638111358,
+    "('Volume', 'SHRIRAMFIN.NS')":4397756
+  },
+  {
+    "('Date', '')":"2025-02-18",
+    "('Close', 'SHRIRAMFIN.NS')":547.5422363281,
+    "('High', 'SHRIRAMFIN.NS')":548.6307274063,
+    "('Low', 'SHRIRAMFIN.NS')":533.4417986089,
+    "('Open', 'SHRIRAMFIN.NS')":545.1674620016,
+    "('Volume', 'SHRIRAMFIN.NS')":2988732
+  },
+  {
+    "('Date', '')":"2025-02-19",
+    "('Close', 'SHRIRAMFIN.NS')":551.9454956055,
+    "('High', 'SHRIRAMFIN.NS')":553.8750411013,
+    "('Low', 'SHRIRAMFIN.NS')":540.7641089091,
+    "('Open', 'SHRIRAMFIN.NS')":542.0504524415,
+    "('Volume', 'SHRIRAMFIN.NS')":4066886
+  },
+  {
+    "('Date', '')":"2025-02-20",
+    "('Close', 'SHRIRAMFIN.NS')":574.7536010742,
+    "('High', 'SHRIRAMFIN.NS')":576.1389313788,
+    "('Low', 'SHRIRAMFIN.NS')":551.1539455182,
+    "('Open', 'SHRIRAMFIN.NS')":551.1539455182,
+    "('Volume', 'SHRIRAMFIN.NS')":7590778
+  },
+  {
+    "('Date', '')":"2025-02-21",
+    "('Close', 'SHRIRAMFIN.NS')":578.958984375,
+    "('High', 'SHRIRAMFIN.NS')":588.4582625907,
+    "('Low', 'SHRIRAMFIN.NS')":570.6471838801,
+    "('Open', 'SHRIRAMFIN.NS')":574.7535907905,
+    "('Volume', 'SHRIRAMFIN.NS')":9328402
+  },
+  {
+    "('Date', '')":"2025-02-24",
+    "('Close', 'SHRIRAMFIN.NS')":571.1419067383,
+    "('High', 'SHRIRAMFIN.NS')":575.6441393245,
+    "('Low', 'SHRIRAMFIN.NS')":562.8300462756,
+    "('Open', 'SHRIRAMFIN.NS')":569.954489473,
+    "('Volume', 'SHRIRAMFIN.NS')":4523171
+  },
+  {
+    "('Date', '')":"2025-02-25",
+    "('Close', 'SHRIRAMFIN.NS')":568.2229003906,
+    "('High', 'SHRIRAMFIN.NS')":580.5917053621,
+    "('Low', 'SHRIRAMFIN.NS')":565.5017632969,
+    "('Open', 'SHRIRAMFIN.NS')":575.6936465145,
+    "('Volume', 'SHRIRAMFIN.NS')":6222936
+  },
+  {
+    "('Date', '')":"2025-02-27",
+    "('Close', 'SHRIRAMFIN.NS')":600.4312133789,
+    "('High', 'SHRIRAMFIN.NS')":602.4102220324,
+    "('Low', 'SHRIRAMFIN.NS')":574.2093487206,
+    "('Open', 'SHRIRAMFIN.NS')":575.1988530474,
+    "('Volume', 'SHRIRAMFIN.NS')":17099035
+  },
+  {
+    "('Date', '')":"2025-02-28",
+    "('Close', 'SHRIRAMFIN.NS')":610.8210449219,
+    "('High', 'SHRIRAMFIN.NS')":613.4927188409,
+    "('Low', 'SHRIRAMFIN.NS')":595.9290160031,
+    "('Open', 'SHRIRAMFIN.NS')":603.5482118483,
+    "('Volume', 'SHRIRAMFIN.NS')":23771834
+  },
+  {
+    "('Date', '')":"2025-03-03",
+    "('Close', 'SHRIRAMFIN.NS')":614.7790527344,
+    "('High', 'SHRIRAMFIN.NS')":623.3877528285,
+    "('Low', 'SHRIRAMFIN.NS')":608.4462610059,
+    "('Open', 'SHRIRAMFIN.NS')":618.7370702127,
+    "('Volume', 'SHRIRAMFIN.NS')":10284029
+  },
+  {
+    "('Date', '')":"2025-03-04",
+    "('Close', 'SHRIRAMFIN.NS')":626.2573242188,
+    "('High', 'SHRIRAMFIN.NS')":628.7310850817,
+    "('Low', 'SHRIRAMFIN.NS')":606.9619894878,
+    "('Open', 'SHRIRAMFIN.NS')":612.1073637671,
+    "('Volume', 'SHRIRAMFIN.NS')":5369562
+  },
+  {
+    "('Date', '')":"2025-03-05",
+    "('Close', 'SHRIRAMFIN.NS')":624.6740722656,
+    "('High', 'SHRIRAMFIN.NS')":630.8090111985,
+    "('Low', 'SHRIRAMFIN.NS')":614.9769418979,
+    "('Open', 'SHRIRAMFIN.NS')":620.0233898296,
+    "('Volume', 'SHRIRAMFIN.NS')":9532495
+  },
+  {
+    "('Date', '')":"2025-03-06",
+    "('Close', 'SHRIRAMFIN.NS')":637.587097168,
+    "('High', 'SHRIRAMFIN.NS')":643.9694122383,
+    "('Low', 'SHRIRAMFIN.NS')":630.3142644285,
+    "('Open', 'SHRIRAMFIN.NS')":632.0953601612,
+    "('Volume', 'SHRIRAMFIN.NS')":8075827
+  },
+  {
+    "('Date', '')":"2025-03-07",
+    "('Close', 'SHRIRAMFIN.NS')":624.2287597656,
+    "('High', 'SHRIRAMFIN.NS')":640.8524802219,
+    "('Low', 'SHRIRAMFIN.NS')":620.8644814025,
+    "('Open', 'SHRIRAMFIN.NS')":637.5870677358,
+    "('Volume', 'SHRIRAMFIN.NS')":5829062
+  },
+  {
+    "('Date', '')":"2025-03-10",
+    "('Close', 'SHRIRAMFIN.NS')":619.0338745117,
+    "('High', 'SHRIRAMFIN.NS')":634.7670172578,
+    "('Low', 'SHRIRAMFIN.NS')":616.312737649,
+    "('Open', 'SHRIRAMFIN.NS')":624.9214372573,
+    "('Volume', 'SHRIRAMFIN.NS')":4906168
+  },
+  {
+    "('Date', '')":"2025-03-11",
+    "('Close', 'SHRIRAMFIN.NS')":631.5511474609,
+    "('High', 'SHRIRAMFIN.NS')":633.2827800627,
+    "('Low', 'SHRIRAMFIN.NS')":609.0893867767,
+    "('Open', 'SHRIRAMFIN.NS')":617.6486235088,
+    "('Volume', 'SHRIRAMFIN.NS')":6734891
+  },
+  {
+    "('Date', '')":"2025-03-12",
+    "('Close', 'SHRIRAMFIN.NS')":630.264831543,
+    "('High', 'SHRIRAMFIN.NS')":640.4567146528,
+    "('Low', 'SHRIRAMFIN.NS')":622.4971858663,
+    "('Open', 'SHRIRAMFIN.NS')":632.2933034579,
+    "('Volume', 'SHRIRAMFIN.NS')":5378060
+  },
+  {
+    "('Date', '')":"2025-03-13",
+    "('Close', 'SHRIRAMFIN.NS')":613.0473632812,
+    "('High', 'SHRIRAMFIN.NS')":637.2407549543,
+    "('Low', 'SHRIRAMFIN.NS')":611.0188915905,
+    "('Open', 'SHRIRAMFIN.NS')":631.303729287,
+    "('Volume', 'SHRIRAMFIN.NS')":5273706
+  },
+  {
+    "('Date', '')":"2025-03-17",
+    "('Close', 'SHRIRAMFIN.NS')":616.7085571289,
+    "('High', 'SHRIRAMFIN.NS')":622.8929590255,
+    "('Low', 'SHRIRAMFIN.NS')":606.9619638977,
+    "('Open', 'SHRIRAMFIN.NS')":606.9619638977,
+    "('Volume', 'SHRIRAMFIN.NS')":4548324
+  },
+  {
+    "('Date', '')":"2025-03-18",
+    "('Close', 'SHRIRAMFIN.NS')":616.7085571289,
+    "('High', 'SHRIRAMFIN.NS')":616.7085571289,
+    "('Low', 'SHRIRAMFIN.NS')":616.7085571289,
+    "('Open', 'SHRIRAMFIN.NS')":616.7085571289,
+    "('Volume', 'SHRIRAMFIN.NS')":0
+  },
+  {
+    "('Date', '')":"2025-03-19",
+    "('Close', 'SHRIRAMFIN.NS')":660.9393920898,
+    "('High', 'SHRIRAMFIN.NS')":670.4880721,
+    "('Low', 'SHRIRAMFIN.NS')":630.9574246578,
+    "('Open', 'SHRIRAMFIN.NS')":638.9229219869,
+    "('Volume', 'SHRIRAMFIN.NS')":9823834
+  },
+  {
+    "('Date', '')":"2025-03-20",
+    "('Close', 'SHRIRAMFIN.NS')":660.8899536133,
+    "('High', 'SHRIRAMFIN.NS')":687.7054962892,
+    "('Low', 'SHRIRAMFIN.NS')":658.020366953,
+    "('Open', 'SHRIRAMFIN.NS')":682.7579747331,
+    "('Volume', 'SHRIRAMFIN.NS')":8747482
+  },
+  {
+    "('Date', '')":"2025-03-21",
+    "('Close', 'SHRIRAMFIN.NS')":669.6965332031,
+    "('High', 'SHRIRAMFIN.NS')":671.8734548559,
+    "('Low', 'SHRIRAMFIN.NS')":660.6426046211,
+    "('Open', 'SHRIRAMFIN.NS')":662.0278744769,
+    "('Volume', 'SHRIRAMFIN.NS')":6365496
+  },
+  {
+    "('Date', '')":"2025-03-24",
+    "('Close', 'SHRIRAMFIN.NS')":674.8419189453,
+    "('High', 'SHRIRAMFIN.NS')":687.6065483149,
+    "('Low', 'SHRIRAMFIN.NS')":666.9258847055,
+    "('Open', 'SHRIRAMFIN.NS')":669.8943975454,
+    "('Volume', 'SHRIRAMFIN.NS')":4983671
+  },
+  {
+    "('Date', '')":"2025-03-25",
+    "('Close', 'SHRIRAMFIN.NS')":671.2302246094,
+    "('High', 'SHRIRAMFIN.NS')":680.7789653598,
+    "('Low', 'SHRIRAMFIN.NS')":660.6920399434,
+    "('Open', 'SHRIRAMFIN.NS')":680.7789653598,
+    "('Volume', 'SHRIRAMFIN.NS')":5257157
+  },
+  {
+    "('Date', '')":"2025-03-26",
+    "('Close', 'SHRIRAMFIN.NS')":664.9468994141,
+    "('High', 'SHRIRAMFIN.NS')":673.7535119719,
+    "('Low', 'SHRIRAMFIN.NS')":662.2257625489,
+    "('Open', 'SHRIRAMFIN.NS')":671.6755166745,
+    "('Volume', 'SHRIRAMFIN.NS')":4792266
+  },
+  {
+    "('Date', '')":"2025-03-27",
+    "('Close', 'SHRIRAMFIN.NS')":671.3786621094,
+    "('High', 'SHRIRAMFIN.NS')":677.2167615899,
+    "('Low', 'SHRIRAMFIN.NS')":659.2077713969,
+    "('Open', 'SHRIRAMFIN.NS')":662.9678756275,
+    "('Volume', 'SHRIRAMFIN.NS')":4628163
+  },
+  {
+    "('Date', '')":"2025-03-28",
+    "('Close', 'SHRIRAMFIN.NS')":649.1148071289,
+    "('High', 'SHRIRAMFIN.NS')":677.8104312245,
+    "('Low', 'SHRIRAMFIN.NS')":643.3262312536,
+    "('Open', 'SHRIRAMFIN.NS')":674.8419183871,
+    "('Volume', 'SHRIRAMFIN.NS')":6806264
+  },
+  {
+    "('Date', '')":"2025-04-01",
+    "('Close', 'SHRIRAMFIN.NS')":630.7595214844,
+    "('High', 'SHRIRAMFIN.NS')":647.0368791272,
+    "('Low', 'SHRIRAMFIN.NS')":627.2467933352,
+    "('Open', 'SHRIRAMFIN.NS')":645.1567968191,
+    "('Volume', 'SHRIRAMFIN.NS')":7600903
+  },
+  {
+    "('Date', '')":"2025-04-02",
+    "('Close', 'SHRIRAMFIN.NS')":632.6891479492,
+    "('High', 'SHRIRAMFIN.NS')":637.2408441064,
+    "('Low', 'SHRIRAMFIN.NS')":623.8825344862,
+    "('Open', 'SHRIRAMFIN.NS')":633.2828264412,
+    "('Volume', 'SHRIRAMFIN.NS')":4387926
+  },
+  {
+    "('Date', '')":"2025-04-03",
+    "('Close', 'SHRIRAMFIN.NS')":647.2843017578,
+    "('High', 'SHRIRAMFIN.NS')":653.61709343,
+    "('Low', 'SHRIRAMFIN.NS')":625.3667560089,
+    "('Open', 'SHRIRAMFIN.NS')":626.3562603696,
+    "('Volume', 'SHRIRAMFIN.NS')":3704676
+  },
+  {
+    "('Date', '')":"2025-04-04",
+    "('Close', 'SHRIRAMFIN.NS')":646.7399902344,
+    "('High', 'SHRIRAMFIN.NS')":658.0203634804,
+    "('Low', 'SHRIRAMFIN.NS')":642.6830467377,
+    "('Open', 'SHRIRAMFIN.NS')":648.6200725736,
+    "('Volume', 'SHRIRAMFIN.NS')":5191619
+  },
+  {
+    "('Date', '')":"2025-04-07",
+    "('Close', 'SHRIRAMFIN.NS')":607.5556640625,
+    "('High', 'SHRIRAMFIN.NS')":623.3382703463,
+    "('Low', 'SHRIRAMFIN.NS')":583.0654316756,
+    "('Open', 'SHRIRAMFIN.NS')":589.7445859629,
+    "('Volume', 'SHRIRAMFIN.NS')":15188995
+  },
+  {
+    "('Date', '')":"2025-04-08",
+    "('Close', 'SHRIRAMFIN.NS')":634.7175292969,
+    "('High', 'SHRIRAMFIN.NS')":641.495609423,
+    "('Low', 'SHRIRAMFIN.NS')":616.5106264785,
+    "('Open', 'SHRIRAMFIN.NS')":617.1538284151,
+    "('Volume', 'SHRIRAMFIN.NS')":10415072
+  },
+  {
+    "('Date', '')":"2025-04-09",
+    "('Close', 'SHRIRAMFIN.NS')":617.994934082,
+    "('High', 'SHRIRAMFIN.NS')":641.1493601935,
+    "('Low', 'SHRIRAMFIN.NS')":612.5031969796,
+    "('Open', 'SHRIRAMFIN.NS')":641.1493601935,
+    "('Volume', 'SHRIRAMFIN.NS')":9235529
+  },
+  {
+    "('Date', '')":"2025-04-11",
+    "('Close', 'SHRIRAMFIN.NS')":632.0953369141,
+    "('High', 'SHRIRAMFIN.NS')":641.841990539,
+    "('Low', 'SHRIRAMFIN.NS')":620.4191982132,
+    "('Open', 'SHRIRAMFIN.NS')":620.4191982132,
+    "('Volume', 'SHRIRAMFIN.NS')":7102851
+  },
+  {
+    "('Date', '')":"2025-04-15",
+    "('Close', 'SHRIRAMFIN.NS')":664.9468994141,
+    "('High', 'SHRIRAMFIN.NS')":667.4701233374,
+    "('Low', 'SHRIRAMFIN.NS')":642.3367499832,
+    "('Open', 'SHRIRAMFIN.NS')":645.1073499852,
+    "('Volume', 'SHRIRAMFIN.NS')":6085948
+  },
+  {
+    "('Date', '')":"2025-04-16",
+    "('Close', 'SHRIRAMFIN.NS')":668.9544067383,
+    "('High', 'SHRIRAMFIN.NS')":670.8839523083,
+    "('Low', 'SHRIRAMFIN.NS')":655.4971716758,
+    "('Open', 'SHRIRAMFIN.NS')":665.5901281699,
+    "('Volume', 'SHRIRAMFIN.NS')":6571065
+  },
+  {
+    "('Date', '')":"2025-04-17",
+    "('Close', 'SHRIRAMFIN.NS')":684.4896240234,
+    "('High', 'SHRIRAMFIN.NS')":688.3487150894,
+    "('Low', 'SHRIRAMFIN.NS')":661.5331113629,
+    "('Open', 'SHRIRAMFIN.NS')":669.8944350761,
+    "('Volume', 'SHRIRAMFIN.NS')":5771289
+  },
+  {
+    "('Date', '')":"2025-04-21",
+    "('Close', 'SHRIRAMFIN.NS')":695.6215209961,
+    "('High', 'SHRIRAMFIN.NS')":709.9693333068,
+    "('Low', 'SHRIRAMFIN.NS')":683.2527172799,
+    "('Open', 'SHRIRAMFIN.NS')":691.4161277326,
+    "('Volume', 'SHRIRAMFIN.NS')":6740583
+  },
+  {
+    "('Date', '')":"2025-04-22",
+    "('Close', 'SHRIRAMFIN.NS')":696.1163330078,
+    "('High', 'SHRIRAMFIN.NS')":702.4986483531,
+    "('Low', 'SHRIRAMFIN.NS')":692.6530676695,
+    "('Open', 'SHRIRAMFIN.NS')":695.6215808166,
+    "('Volume', 'SHRIRAMFIN.NS')":3672514
+  },
+  {
+    "('Date', '')":"2025-04-23",
+    "('Close', 'SHRIRAMFIN.NS')":696.5121459961,
+    "('High', 'SHRIRAMFIN.NS')":706.3082029632,
+    "('Low', 'SHRIRAMFIN.NS')":678.7010674436,
+    "('Open', 'SHRIRAMFIN.NS')":702.0533462768,
+    "('Volume', 'SHRIRAMFIN.NS')":5442424
+  },
+  {
+    "('Date', '')":"2025-04-24",
+    "('Close', 'SHRIRAMFIN.NS')":689.3381958008,
+    "('High', 'SHRIRAMFIN.NS')":698.0952847113,
+    "('Low', 'SHRIRAMFIN.NS')":687.2107373947,
+    "('Open', 'SHRIRAMFIN.NS')":696.611028259,
+    "('Volume', 'SHRIRAMFIN.NS')":5010172
+  },
+  {
+    "('Date', '')":"2025-04-25",
+    "('Close', 'SHRIRAMFIN.NS')":648.3232421875,
+    "('High', 'SHRIRAMFIN.NS')":698.1942236514,
+    "('Low', 'SHRIRAMFIN.NS')":628.3352428555,
+    "('Open', 'SHRIRAMFIN.NS')":691.5645930267,
+    "('Volume', 'SHRIRAMFIN.NS')":9784886
+  },
+  {
+    "('Date', '')":"2025-04-28",
+    "('Close', 'SHRIRAMFIN.NS')":615.4716796875,
+    "('High', 'SHRIRAMFIN.NS')":623.783540034,
+    "('Low', 'SHRIRAMFIN.NS')":589.8930174789,
+    "('Open', 'SHRIRAMFIN.NS')":616.1643447821,
+    "('Volume', 'SHRIRAMFIN.NS')":32221482
+  },
+  {
+    "('Date', '')":"2025-04-29",
+    "('Close', 'SHRIRAMFIN.NS')":608.2483520508,
+    "('High', 'SHRIRAMFIN.NS')":624.1793483477,
+    "('Low', 'SHRIRAMFIN.NS')":603.7955823585,
+    "('Open', 'SHRIRAMFIN.NS')":618.4402350454,
+    "('Volume', 'SHRIRAMFIN.NS')":10387632
+  },
+  {
+    "('Date', '')":"2025-04-30",
+    "('Close', 'SHRIRAMFIN.NS')":605.2797851562,
+    "('High', 'SHRIRAMFIN.NS')":615.273754309,
+    "('Low', 'SHRIRAMFIN.NS')":600.1343507788,
+    "('Open', 'SHRIRAMFIN.NS')":608.2482980208,
+    "('Volume', 'SHRIRAMFIN.NS')":7374108
+  },
+  {
+    "('Date', '')":"2025-05-02",
+    "('Close', 'SHRIRAMFIN.NS')":597.2647705078,
+    "('High', 'SHRIRAMFIN.NS')":609.8314871796,
+    "('Low', 'SHRIRAMFIN.NS')":593.2078270412,
+    "('Open', 'SHRIRAMFIN.NS')":605.2797915636,
+    "('Volume', 'SHRIRAMFIN.NS')":7749204
+  },
+  {
+    "('Date', '')":"2025-05-05",
+    "('Close', 'SHRIRAMFIN.NS')":622.2497558594,
+    "('High', 'SHRIRAMFIN.NS')":624.2782879932,
+    "('Low', 'SHRIRAMFIN.NS')":600.827023968,
+    "('Open', 'SHRIRAMFIN.NS')":603.7460737364,
+    "('Volume', 'SHRIRAMFIN.NS')":8616953
+  },
+  {
+    "('Date', '')":"2025-05-06",
+    "('Close', 'SHRIRAMFIN.NS')":616.9064941406,
+    "('High', 'SHRIRAMFIN.NS')":625.2182943773,
+    "('Low', 'SHRIRAMFIN.NS')":610.5736421936,
+    "('Open', 'SHRIRAMFIN.NS')":622.2003182129,
+    "('Volume', 'SHRIRAMFIN.NS')":5098276
+  },
+  {
+    "('Date', '')":"2025-05-07",
+    "('Close', 'SHRIRAMFIN.NS')":629.967956543,
+    "('High', 'SHRIRAMFIN.NS')":631.3037632321,
+    "('Low', 'SHRIRAMFIN.NS')":610.7715483621,
+    "('Open', 'SHRIRAMFIN.NS')":611.7115895555,
+    "('Volume', 'SHRIRAMFIN.NS')":5983998
+  },
+  {
+    "('Date', '')":"2025-05-08",
+    "('Close', 'SHRIRAMFIN.NS')":609.336730957,
+    "('High', 'SHRIRAMFIN.NS')":634.0743382579,
+    "('Low', 'SHRIRAMFIN.NS')":600.629105266,
+    "('Open', 'SHRIRAMFIN.NS')":628.335225443,
+    "('Volume', 'SHRIRAMFIN.NS')":10052396
+  },
+  {
+    "('Date', '')":"2025-05-09",
+    "('Close', 'SHRIRAMFIN.NS')":595.1373291016,
+    "('High', 'SHRIRAMFIN.NS')":605.9228889336,
+    "('Low', 'SHRIRAMFIN.NS')":590.3877208933,
+    "('Open', 'SHRIRAMFIN.NS')":593.7025358942,
+    "('Volume', 'SHRIRAMFIN.NS')":5637324
+  },
+  {
+    "('Date', '')":"2025-05-12",
+    "('Close', 'SHRIRAMFIN.NS')":639.1703491211,
+    "('High', 'SHRIRAMFIN.NS')":641.1988209665,
+    "('Low', 'SHRIRAMFIN.NS')":604.5871598928,
+    "('Open', 'SHRIRAMFIN.NS')":604.6366230316,
+    "('Volume', 'SHRIRAMFIN.NS')":9560644
+  },
+  {
+    "('Date', '')":"2025-05-13",
+    "('Close', 'SHRIRAMFIN.NS')":626.9498901367,
+    "('High', 'SHRIRAMFIN.NS')":641.0008630474,
+    "('Low', 'SHRIRAMFIN.NS')":625.317244305,
+    "('Open', 'SHRIRAMFIN.NS')":634.8659244081,
+    "('Volume', 'SHRIRAMFIN.NS')":5748439
+  },
+  {
+    "('Date', '')":"2025-05-14",
+    "('Close', 'SHRIRAMFIN.NS')":645.1073608398,
+    "('High', 'SHRIRAMFIN.NS')":648.4221761917,
+    "('Low', 'SHRIRAMFIN.NS')":630.9079374496,
+    "('Open', 'SHRIRAMFIN.NS')":632.7880198368,
+    "('Volume', 'SHRIRAMFIN.NS')":9324793
+  },
+  {
+    "('Date', '')":"2025-05-15",
+    "('Close', 'SHRIRAMFIN.NS')":667.7175292969,
+    "('High', 'SHRIRAMFIN.NS')":672.813500903,
+    "('Low', 'SHRIRAMFIN.NS')":637.3892569338,
+    "('Open', 'SHRIRAMFIN.NS')":647.9274421192,
+    "('Volume', 'SHRIRAMFIN.NS')":9817422
+  },
+  {
+    "('Date', '')":"2025-05-16",
+    "('Close', 'SHRIRAMFIN.NS')":658.5151367188,
+    "('High', 'SHRIRAMFIN.NS')":667.7175149802,
+    "('Low', 'SHRIRAMFIN.NS')":653.1223259995,
+    "('Open', 'SHRIRAMFIN.NS')":666.9259235889,
+    "('Volume', 'SHRIRAMFIN.NS')":5415727
+  },
+  {
+    "('Date', '')":"2025-05-19",
+    "('Close', 'SHRIRAMFIN.NS')":670.6860351562,
+    "('High', 'SHRIRAMFIN.NS')":676.7220479172,
+    "('Low', 'SHRIRAMFIN.NS')":659.009895926,
+    "('Open', 'SHRIRAMFIN.NS')":662.9679133189,
+    "('Volume', 'SHRIRAMFIN.NS')":4356035
+  },
+  {
+    "('Date', '')":"2025-05-20",
+    "('Close', 'SHRIRAMFIN.NS')":651.4401245117,
+    "('High', 'SHRIRAMFIN.NS')":674.8913882402,
+    "('Low', 'SHRIRAMFIN.NS')":649.3127265271,
+    "('Open', 'SHRIRAMFIN.NS')":674.8913882402,
+    "('Volume', 'SHRIRAMFIN.NS')":7035801
+  },
+  {
+    "('Date', '')":"2025-05-21",
+    "('Close', 'SHRIRAMFIN.NS')":651.0938720703,
+    "('High', 'SHRIRAMFIN.NS')":654.7055871598,
+    "('Low', 'SHRIRAMFIN.NS')":631.9964499076,
+    "('Open', 'SHRIRAMFIN.NS')":651.4401744402,
+    "('Volume', 'SHRIRAMFIN.NS')":7986603
+  },
+  {
+    "('Date', '')":"2025-05-22",
+    "('Close', 'SHRIRAMFIN.NS')":642.9304199219,
+    "('High', 'SHRIRAMFIN.NS')":647.8284782934,
+    "('Low', 'SHRIRAMFIN.NS')":633.5795921935,
+    "('Open', 'SHRIRAMFIN.NS')":645.1568046003,
+    "('Volume', 'SHRIRAMFIN.NS')":6840583
+  },
+  {
+    "('Date', '')":"2025-05-23",
+    "('Close', 'SHRIRAMFIN.NS')":652.9243774414,
+    "('High', 'SHRIRAMFIN.NS')":656.6350185053,
+    "('Low', 'SHRIRAMFIN.NS')":639.3682170704,
+    "('Open', 'SHRIRAMFIN.NS')":644.1672886885,
+    "('Volume', 'SHRIRAMFIN.NS')":3128629
+  },
+  {
+    "('Date', '')":"2025-05-26",
+    "('Close', 'SHRIRAMFIN.NS')":657.5256347656,
+    "('High', 'SHRIRAMFIN.NS')":660.7909870129,
+    "('Low', 'SHRIRAMFIN.NS')":645.2557567762,
+    "('Open', 'SHRIRAMFIN.NS')":657.8719371272,
+    "('Volume', 'SHRIRAMFIN.NS')":2963171
+  },
+  {
+    "('Date', '')":"2025-05-27",
+    "('Close', 'SHRIRAMFIN.NS')":654.9529418945,
+    "('High', 'SHRIRAMFIN.NS')":662.9679028306,
+    "('Low', 'SHRIRAMFIN.NS')":650.1043465071,
+    "('Open', 'SHRIRAMFIN.NS')":660.79098122,
+    "('Volume', 'SHRIRAMFIN.NS')":2493252
+  },
+  {
+    "('Date', '')":"2025-05-28",
+    "('Close', 'SHRIRAMFIN.NS')":648.8179931641,
+    "('High', 'SHRIRAMFIN.NS')":656.9319406477,
+    "('Low', 'SHRIRAMFIN.NS')":647.1358237451,
+    "('Open', 'SHRIRAMFIN.NS')":654.9529320124,
+    "('Volume', 'SHRIRAMFIN.NS')":3244100
+  },
+  {
+    "('Date', '')":"2025-05-29",
+    "('Close', 'SHRIRAMFIN.NS')":645.4041748047,
+    "('High', 'SHRIRAMFIN.NS')":652.775993863,
+    "('Low', 'SHRIRAMFIN.NS')":641.2977078329,
+    "('Open', 'SHRIRAMFIN.NS')":648.8179766928,
+    "('Volume', 'SHRIRAMFIN.NS')":4173868
+  },
+  {
+    "('Date', '')":"2025-05-30",
+    "('Close', 'SHRIRAMFIN.NS')":632.6395874023,
+    "('High', 'SHRIRAMFIN.NS')":648.0758916305,
+    "('Low', 'SHRIRAMFIN.NS')":630.5616524075,
+    "('Open', 'SHRIRAMFIN.NS')":636.3502287464,
+    "('Volume', 'SHRIRAMFIN.NS')":6693573
+  },
+  {
+    "('Date', '')":"2025-06-02",
+    "('Close', 'SHRIRAMFIN.NS')":635.8059692383,
+    "('High', 'SHRIRAMFIN.NS')":641.0998534247,
+    "('Low', 'SHRIRAMFIN.NS')":618.4401810338,
+    "('Open', 'SHRIRAMFIN.NS')":631.6005760073,
+    "('Volume', 'SHRIRAMFIN.NS')":4344402
+  },
+  {
+    "('Date', '')":"2025-06-03",
+    "('Close', 'SHRIRAMFIN.NS')":641.4461669922,
+    "('High', 'SHRIRAMFIN.NS')":651.8359622154,
+    "('Low', 'SHRIRAMFIN.NS')":635.3606913465,
+    "('Open', 'SHRIRAMFIN.NS')":641.1987909154,
+    "('Volume', 'SHRIRAMFIN.NS')":5336167
+  },
+  {
+    "('Date', '')":"2025-06-04",
+    "('Close', 'SHRIRAMFIN.NS')":634.4702148438,
+    "('High', 'SHRIRAMFIN.NS')":654.9034438707,
+    "('Low', 'SHRIRAMFIN.NS')":633.2827975195,
+    "('Open', 'SHRIRAMFIN.NS')":643.1283780911,
+    "('Volume', 'SHRIRAMFIN.NS')":6290382
+  },
+  {
+    "('Date', '')":"2025-06-05",
+    "('Close', 'SHRIRAMFIN.NS')":644.6126098633,
+    "('High', 'SHRIRAMFIN.NS')":647.9274252213,
+    "('Low', 'SHRIRAMFIN.NS')":631.4026907799,
+    "('Open', 'SHRIRAMFIN.NS')":640.2093035022,
+    "('Volume', 'SHRIRAMFIN.NS')":4542850
+  },
+  {
+    "('Date', '')":"2025-06-06",
+    "('Close', 'SHRIRAMFIN.NS')":681.0263671875,
+    "('High', 'SHRIRAMFIN.NS')":683.6485778663,
+    "('Low', 'SHRIRAMFIN.NS')":637.5376390346,
+    "('Open', 'SHRIRAMFIN.NS')":647.1358432846,
+    "('Volume', 'SHRIRAMFIN.NS')":20115034
+  },
+  {
+    "('Date', '')":"2025-06-09",
+    "('Close', 'SHRIRAMFIN.NS')":690.6740112305,
+    "('High', 'SHRIRAMFIN.NS')":708.3861626104,
+    "('Low', 'SHRIRAMFIN.NS')":684.9843614245,
+    "('Open', 'SHRIRAMFIN.NS')":692.6530198586,
+    "('Volume', 'SHRIRAMFIN.NS')":11413586
+  },
+  {
+    "('Date', '')":"2025-06-10",
+    "('Close', 'SHRIRAMFIN.NS')":693.048828125,
+    "('High', 'SHRIRAMFIN.NS')":698.5405648497,
+    "('Low', 'SHRIRAMFIN.NS')":683.4506244435,
+    "('Open', 'SHRIRAMFIN.NS')":697.6005236963,
+    "('Volume', 'SHRIRAMFIN.NS')":6453133
+  },
+  {
+    "('Date', '')":"2025-06-11",
+    "('Close', 'SHRIRAMFIN.NS')":678.8494262695,
+    "('High', 'SHRIRAMFIN.NS')":694.7309585176,
+    "('Low', 'SHRIRAMFIN.NS')":677.1672568476,
+    "('Open', 'SHRIRAMFIN.NS')":694.7309585176,
+    "('Volume', 'SHRIRAMFIN.NS')":4586055
+  },
+  {
+    "('Date', '')":"2025-06-12",
+    "('Close', 'SHRIRAMFIN.NS')":661.0383300781,
+    "('High', 'SHRIRAMFIN.NS')":682.7579613627,
+    "('Low', 'SHRIRAMFIN.NS')":659.6035367761,
+    "('Open', 'SHRIRAMFIN.NS')":681.7684570709,
+    "('Volume', 'SHRIRAMFIN.NS')":4970089
+  },
+  {
+    "('Date', '')":"2025-06-13",
+    "('Close', 'SHRIRAMFIN.NS')":660.1478271484,
+    "('High', 'SHRIRAMFIN.NS')":663.3141926371,
+    "('Low', 'SHRIRAMFIN.NS')":636.7460259679,
+    "('Open', 'SHRIRAMFIN.NS')":645.0083628308,
+    "('Volume', 'SHRIRAMFIN.NS')":4687026
+  },
+  {
+    "('Date', '')":"2025-06-16",
+    "('Close', 'SHRIRAMFIN.NS')":669.0534057617,
+    "('High', 'SHRIRAMFIN.NS')":674.0998539047,
+    "('Low', 'SHRIRAMFIN.NS')":661.5825994322,
+    "('Open', 'SHRIRAMFIN.NS')":661.9784253391,
+    "('Volume', 'SHRIRAMFIN.NS')":6882573
+  },
+  {
+    "('Date', '')":"2025-06-17",
+    "('Close', 'SHRIRAMFIN.NS')":658.0203857422,
+    "('High', 'SHRIRAMFIN.NS')":672.6650378873,
+    "('Low', 'SHRIRAMFIN.NS')":655.0518727238,
+    "('Open', 'SHRIRAMFIN.NS')":672.6650378873,
+    "('Volume', 'SHRIRAMFIN.NS')":2390137
+  },
+  {
+    "('Date', '')":"2025-06-18",
+    "('Close', 'SHRIRAMFIN.NS')":655.1508178711,
+    "('High', 'SHRIRAMFIN.NS')":666.4311918237,
+    "('Low', 'SHRIRAMFIN.NS')":652.2318283012,
+    "('Open', 'SHRIRAMFIN.NS')":656.0908590996,
+    "('Volume', 'SHRIRAMFIN.NS')":3352972
+  },
+  {
+    "('Date', '')":"2025-06-19",
+    "('Close', 'SHRIRAMFIN.NS')":645.3547363281,
+    "('High', 'SHRIRAMFIN.NS')":661.978396999,
+    "('Low', 'SHRIRAMFIN.NS')":641.1988060618,
+    "('Open', 'SHRIRAMFIN.NS')":653.8149862736,
+    "('Volume', 'SHRIRAMFIN.NS')":3342726
+  },
+  {
+    "('Date', '')":"2025-06-20",
+    "('Close', 'SHRIRAMFIN.NS')":659.3562011719,
+    "('High', 'SHRIRAMFIN.NS')":663.8584942917,
+    "('Low', 'SHRIRAMFIN.NS')":643.6725813416,
+    "('Open', 'SHRIRAMFIN.NS')":645.1568378704,
+    "('Volume', 'SHRIRAMFIN.NS')":7441267
+  },
+  {
+    "('Date', '')":"2025-06-23",
+    "('Close', 'SHRIRAMFIN.NS')":654.7055664062,
+    "('High', 'SHRIRAMFIN.NS')":659.2077990447,
+    "('Low', 'SHRIRAMFIN.NS')":641.4956473175,
+    "('Open', 'SHRIRAMFIN.NS')":654.8539558195,
+    "('Volume', 'SHRIRAMFIN.NS')":4243520
+  },
+  {
+    "('Date', '')":"2025-06-24",
+    "('Close', 'SHRIRAMFIN.NS')":668.9544067383,
+    "('High', 'SHRIRAMFIN.NS')":674.8419697261,
+    "('Low', 'SHRIRAMFIN.NS')":666.3322564358,
+    "('Open', 'SHRIRAMFIN.NS')":666.9259348906,
+    "('Volume', 'SHRIRAMFIN.NS')":4823566
+  },
+  {
+    "('Date', '')":"2025-06-25",
+    "('Close', 'SHRIRAMFIN.NS')":668.0143432617,
+    "('High', 'SHRIRAMFIN.NS')":670.8839299518,
+    "('Low', 'SHRIRAMFIN.NS')":663.9573997015,
+    "('Open', 'SHRIRAMFIN.NS')":668.954384446,
+    "('Volume', 'SHRIRAMFIN.NS')":3211981
+  },
+  {
+    "('Date', '')":"2025-06-26",
+    "('Close', 'SHRIRAMFIN.NS')":695.8194580078,
+    "('High', 'SHRIRAMFIN.NS')":700.1237776921,
+    "('Low', 'SHRIRAMFIN.NS')":667.1732955312,
+    "('Open', 'SHRIRAMFIN.NS')":668.0638735874,
+    "('Volume', 'SHRIRAMFIN.NS')":19068571
+  },
+  {
+    "('Date', '')":"2025-06-27",
+    "('Close', 'SHRIRAMFIN.NS')":692.6035766602,
+    "('High', 'SHRIRAMFIN.NS')":699.4806439199,
+    "('Low', 'SHRIRAMFIN.NS')":689.2887008758,
+    "('Open', 'SHRIRAMFIN.NS')":695.6710159643,
+    "('Volume', 'SHRIRAMFIN.NS')":7554681
+  },
+  {
+    "('Date', '')":"2025-06-30",
+    "('Close', 'SHRIRAMFIN.NS')":699.4310913086,
+    "('High', 'SHRIRAMFIN.NS')":706.5060712216,
+    "('Low', 'SHRIRAMFIN.NS')":692.5540847293,
+    "('Open', 'SHRIRAMFIN.NS')":692.6530110016,
+    "('Volume', 'SHRIRAMFIN.NS')":3721603
+  },
+  {
+    "('Date', '')":"2025-07-01",
+    "('Close', 'SHRIRAMFIN.NS')":689.1402587891,
+    "('High', 'SHRIRAMFIN.NS')":703.0922447951,
+    "('Low', 'SHRIRAMFIN.NS')":686.7159612562,
+    "('Open', 'SHRIRAMFIN.NS')":700.5690209933,
+    "('Volume', 'SHRIRAMFIN.NS')":3524637
+  },
+  {
+    "('Date', '')":"2025-07-02",
+    "('Close', 'SHRIRAMFIN.NS')":669.7954711914,
+    "('High', 'SHRIRAMFIN.NS')":691.5150418186,
+    "('Low', 'SHRIRAMFIN.NS')":667.9153889019,
+    "('Open', 'SHRIRAMFIN.NS')":688.4476027088,
+    "('Volume', 'SHRIRAMFIN.NS')":3288839
+  },
+  {
+    "('Date', '')":"2025-07-03",
+    "('Close', 'SHRIRAMFIN.NS')":668.3112182617,
+    "('High', 'SHRIRAMFIN.NS')":677.0683070263,
+    "('Low', 'SHRIRAMFIN.NS')":665.8869206845,
+    "('Open', 'SHRIRAMFIN.NS')":674.4460965132,
+    "('Volume', 'SHRIRAMFIN.NS')":6014549
+  },
+  {
+    "('Date', '')":"2025-07-04",
+    "('Close', 'SHRIRAMFIN.NS')":669.0534057617,
+    "('High', 'SHRIRAMFIN.NS')":677.2168168365,
+    "('Low', 'SHRIRAMFIN.NS')":662.9679297118,
+    "('Open', 'SHRIRAMFIN.NS')":668.8554928083,
+    "('Volume', 'SHRIRAMFIN.NS')":3843226
+  },
+  {
+    "('Date', '')":"2025-07-07",
+    "('Close', 'SHRIRAMFIN.NS')":664.2542724609,
+    "('High', 'SHRIRAMFIN.NS')":672.8629725713,
+    "('Low', 'SHRIRAMFIN.NS')":661.9784244856,
+    "('Open', 'SHRIRAMFIN.NS')":669.0534048991,
+    "('Volume', 'SHRIRAMFIN.NS')":1770086
+  },
+  {
+    "('Date', '')":"2025-07-08",
+    "('Close', 'SHRIRAMFIN.NS')":661.928894043,
+    "('High', 'SHRIRAMFIN.NS')":670.2902172103,
+    "('Low', 'SHRIRAMFIN.NS')":660.2961878383,
+    "('Open', 'SHRIRAMFIN.NS')":664.9468699901,
+    "('Volume', 'SHRIRAMFIN.NS')":2820100
+  },
+  {
+    "('Date', '')":"2025-07-09",
+    "('Close', 'SHRIRAMFIN.NS')":673.9018554688,
+    "('High', 'SHRIRAMFIN.NS')":675.8314008297,
+    "('Low', 'SHRIRAMFIN.NS')":663.9573498634,
+    "('Open', 'SHRIRAMFIN.NS')":664.2047259252,
+    "('Volume', 'SHRIRAMFIN.NS')":3560120
+  },
+  {
+    "('Date', '')":"2025-07-10",
+    "('Close', 'SHRIRAMFIN.NS')":664.6995239258,
+    "('High', 'SHRIRAMFIN.NS')":680.1357670895,
+    "('Low', 'SHRIRAMFIN.NS')":663.9573956892,
+    "('Open', 'SHRIRAMFIN.NS')":676.8209517904,
+    "('Volume', 'SHRIRAMFIN.NS')":3035156
+  },
+  {
+    "('Date', '')":"2025-07-11",
+    "('Close', 'SHRIRAMFIN.NS')":664.2025756836,
+    "('High', 'SHRIRAMFIN.NS')":672.6014082649,
+    "('Low', 'SHRIRAMFIN.NS')":658.3880319472,
+    "('Open', 'SHRIRAMFIN.NS')":671.905635858,
+    "('Volume', 'SHRIRAMFIN.NS')":4931083
+  },
+  {
+    "('Date', '')":"2025-07-14",
+    "('Close', 'SHRIRAMFIN.NS')":665.6934814453,
+    "('High', 'SHRIRAMFIN.NS')":668.8244269008,
+    "('Low', 'SHRIRAMFIN.NS')":658.4873929937,
+    "('Open', 'SHRIRAMFIN.NS')":665.941967254,
+    "('Volume', 'SHRIRAMFIN.NS')":2832157
+  },
+  {
+    "('Date', '')":"2025-07-15",
+    "('Close', 'SHRIRAMFIN.NS')":680.3044433594,
+    "('High', 'SHRIRAMFIN.NS')":683.8329296277,
+    "('Low', 'SHRIRAMFIN.NS')":666.6377241989,
+    "('Open', 'SHRIRAMFIN.NS')":670.812297821,
+    "('Volume', 'SHRIRAMFIN.NS')":3786182
+  },
+  {
+    "('Date', '')":"2025-07-16",
+    "('Close', 'SHRIRAMFIN.NS')":664.301940918,
+    "('High', 'SHRIRAMFIN.NS')":669.9177444963,
+    "('Low', 'SHRIRAMFIN.NS')":650.535851295,
+    "('Open', 'SHRIRAMFIN.NS')":669.9177444963,
+    "('Volume', 'SHRIRAMFIN.NS')":9358644
+  },
+  {
+    "('Date', '')":"2025-07-17",
+    "('Close', 'SHRIRAMFIN.NS')":661.4194946289,
+    "('High', 'SHRIRAMFIN.NS')":667.9298102595,
+    "('Low', 'SHRIRAMFIN.NS')":660.8230923276,
+    "('Open', 'SHRIRAMFIN.NS')":665.9419239194,
+    "('Volume', 'SHRIRAMFIN.NS')":2671888
+  },
+  {
+    "('Date', '')":"2025-07-18",
+    "('Close', 'SHRIRAMFIN.NS')":641.5903320312,
+    "('High', 'SHRIRAMFIN.NS')":666.438911893,
+    "('Low', 'SHRIRAMFIN.NS')":640.5963888368,
+    "('Open', 'SHRIRAMFIN.NS')":665.9419402958,
+    "('Volume', 'SHRIRAMFIN.NS')":6570609
+  },
+  {
+    "('Date', '')":"2025-07-21",
+    "('Close', 'SHRIRAMFIN.NS')":651.678894043,
+    "('High', 'SHRIRAMFIN.NS')":654.0146363351,
+    "('Low', 'SHRIRAMFIN.NS')":633.6388004007,
+    "('Open', 'SHRIRAMFIN.NS')":641.5903461312,
+    "('Volume', 'SHRIRAMFIN.NS')":4980207
+  },
+  {
+    "('Date', '')":"2025-07-22",
+    "('Close', 'SHRIRAMFIN.NS')":636.2727661133,
+    "('High', 'SHRIRAMFIN.NS')":655.9031443863,
+    "('Low', 'SHRIRAMFIN.NS')":635.1297071628,
+    "('Open', 'SHRIRAMFIN.NS')":654.0146280331,
+    "('Volume', 'SHRIRAMFIN.NS')":4671422
+  },
+  {
+    "('Date', '')":"2025-07-23",
+    "('Close', 'SHRIRAMFIN.NS')":650.0885620117,
+    "('High', 'SHRIRAMFIN.NS')":650.7843344107,
+    "('Low', 'SHRIRAMFIN.NS')":634.1854702201,
+    "('Open', 'SHRIRAMFIN.NS')":638.1115581392,
+    "('Volume', 'SHRIRAMFIN.NS')":5191770
+  },
+  {
+    "('Date', '')":"2025-07-24",
+    "('Close', 'SHRIRAMFIN.NS')":629.7127075195,
+    "('High', 'SHRIRAMFIN.NS')":656.0025175136,
+    "('Low', 'SHRIRAMFIN.NS')":627.9236218776,
+    "('Open', 'SHRIRAMFIN.NS')":656.0025175136,
+    "('Volume', 'SHRIRAMFIN.NS')":7248079
+  },
+  {
+    "('Date', '')":"2025-07-25",
+    "('Close', 'SHRIRAMFIN.NS')":612.119934082,
+    "('High', 'SHRIRAMFIN.NS')":626.1345704857,
+    "('Low', 'SHRIRAMFIN.NS')":598.0556733138,
+    "('Open', 'SHRIRAMFIN.NS')":621.2145392021,
+    "('Volume', 'SHRIRAMFIN.NS')":16922561
+  },
+  {
+    "('Date', '')":"2025-07-28",
+    "('Close', 'SHRIRAMFIN.NS')":629.6133422852,
+    "('High', 'SHRIRAMFIN.NS')":634.9805992521,
+    "('Low', 'SHRIRAMFIN.NS')":607.3489899814,
+    "('Open', 'SHRIRAMFIN.NS')":612.1199052849,
+    "('Volume', 'SHRIRAMFIN.NS')":11583112
+  },
+  {
+    "('Date', '')":"2025-07-29",
+    "('Close', 'SHRIRAMFIN.NS')":634.4836425781,
+    "('High', 'SHRIRAMFIN.NS')":639.4533587749,
+    "('Low', 'SHRIRAMFIN.NS')":622.7551244868,
+    "('Open', 'SHRIRAMFIN.NS')":628.1721272744,
+    "('Volume', 'SHRIRAMFIN.NS')":6858651
+  },
+  {
+    "('Date', '')":"2025-07-30",
+    "('Close', 'SHRIRAMFIN.NS')":628.9672241211,
+    "('High', 'SHRIRAMFIN.NS')":634.4835965664,
+    "('Low', 'SHRIRAMFIN.NS')":622.3077927672,
+    "('Open', 'SHRIRAMFIN.NS')":631.1539112222,
+    "('Volume', 'SHRIRAMFIN.NS')":6024759
+  },
+  {
+    "('Date', '')":"2025-07-31",
+    "('Close', 'SHRIRAMFIN.NS')":627.0290527344,
+    "('High', 'SHRIRAMFIN.NS')":635.5770007802,
+    "('Low', 'SHRIRAMFIN.NS')":619.2763077927,
+    "('Open', 'SHRIRAMFIN.NS')":621.2145091945,
+    "('Volume', 'SHRIRAMFIN.NS')":6481051
+  },
+  {
+    "('Date', '')":"2025-08-01",
+    "('Close', 'SHRIRAMFIN.NS')":610.4799194336,
+    "('High', 'SHRIRAMFIN.NS')":628.1720960826,
+    "('Low', 'SHRIRAMFIN.NS')":608.54171808,
+    "('Open', 'SHRIRAMFIN.NS')":626.1842097026,
+    "('Volume', 'SHRIRAMFIN.NS')":3528632
+  },
+  {
+    "('Date', '')":"2025-08-04",
+    "('Close', 'SHRIRAMFIN.NS')":621.1151123047,
+    "('High', 'SHRIRAMFIN.NS')":623.0035679318,
+    "('Low', 'SHRIRAMFIN.NS')":612.1696237588,
+    "('Open', 'SHRIRAMFIN.NS')":612.1696237588,
+    "('Volume', 'SHRIRAMFIN.NS')":2955463
+  },
+  {
+    "('Date', '')":"2025-08-05",
+    "('Close', 'SHRIRAMFIN.NS')":626.2835693359,
+    "('High', 'SHRIRAMFIN.NS')":629.364829573,
+    "('Low', 'SHRIRAMFIN.NS')":617.3878264658,
+    "('Open', 'SHRIRAMFIN.NS')":626.6811708715,
+    "('Volume', 'SHRIRAMFIN.NS')":3996694
+  },
+  {
+    "('Date', '')":"2025-08-06",
+    "('Close', 'SHRIRAMFIN.NS')":626.7805786133,
+    "('High', 'SHRIRAMFIN.NS')":635.9248684922,
+    "('Low', 'SHRIRAMFIN.NS')":618.6302926331,
+    "('Open', 'SHRIRAMFIN.NS')":630.1600098725,
+    "('Volume', 'SHRIRAMFIN.NS')":4763826
+  },
+  {
+    "('Date', '')":"2025-08-07",
+    "('Close', 'SHRIRAMFIN.NS')":623.5502319336,
+    "('High', 'SHRIRAMFIN.NS')":625.9854048664,
+    "('Low', 'SHRIRAMFIN.NS')":614.5550582556,
+    "('Open', 'SHRIRAMFIN.NS')":623.0532603418,
+    "('Volume', 'SHRIRAMFIN.NS')":3482599
+  },
+  {
+    "('Date', '')":"2025-08-08",
+    "('Close', 'SHRIRAMFIN.NS')":605.9575195312,
+    "('High', 'SHRIRAMFIN.NS')":623.0532946986,
+    "('Low', 'SHRIRAMFIN.NS')":604.2678038929,
+    "('Open', 'SHRIRAMFIN.NS')":619.5248083356,
+    "('Volume', 'SHRIRAMFIN.NS')":5493423
+  },
+  {
+    "('Date', '')":"2025-08-11",
+    "('Close', 'SHRIRAMFIN.NS')":613.8593139648,
+    "('High', 'SHRIRAMFIN.NS')":619.7236032821,
+    "('Low', 'SHRIRAMFIN.NS')":605.4605422122,
+    "('Open', 'SHRIRAMFIN.NS')":606.7526562768,
+    "('Volume', 'SHRIRAMFIN.NS')":3348109
+  },
+  {
+    "('Date', '')":"2025-08-12",
+    "('Close', 'SHRIRAMFIN.NS')":608.1938476562,
+    "('High', 'SHRIRAMFIN.NS')":615.25081987,
+    "('Low', 'SHRIRAMFIN.NS')":607.2992745405,
+    "('Open', 'SHRIRAMFIN.NS')":612.2689903714,
+    "('Volume', 'SHRIRAMFIN.NS')":2787285
+  },
+  {
+    "('Date', '')":"2025-08-13",
+    "('Close', 'SHRIRAMFIN.NS')":615.4993286133,
+    "('High', 'SHRIRAMFIN.NS')":617.5865850739,
+    "('Low', 'SHRIRAMFIN.NS')":606.6532098382,
+    "('Open', 'SHRIRAMFIN.NS')":608.3429254168,
+    "('Volume', 'SHRIRAMFIN.NS')":5325700
+  },
+  {
+    "('Date', '')":"2025-08-14",
+    "('Close', 'SHRIRAMFIN.NS')":612.7163085938,
+    "('High', 'SHRIRAMFIN.NS')":619.1272544801,
+    "('Low', 'SHRIRAMFIN.NS')":607.7962775338,
+    "('Open', 'SHRIRAMFIN.NS')":610.5793064098,
+    "('Volume', 'SHRIRAMFIN.NS')":4279172
+  },
+  {
+    "('Date', '')":"2025-08-18",
+    "('Close', 'SHRIRAMFIN.NS')":623.0036010742,
+    "('High', 'SHRIRAMFIN.NS')":633.638805711,
+    "('Low', 'SHRIRAMFIN.NS')":621.6618019871,
+    "('Open', 'SHRIRAMFIN.NS')":623.2024018522,
+    "('Volume', 'SHRIRAMFIN.NS')":5265058
+  },
+  {
+    "('Date', '')":"2025-08-19",
+    "('Close', 'SHRIRAMFIN.NS')":622.5563354492,
+    "('High', 'SHRIRAMFIN.NS')":626.7309092664,
+    "('Low', 'SHRIRAMFIN.NS')":611.3744737955,
+    "('Open', 'SHRIRAMFIN.NS')":622.2084795751,
+    "('Volume', 'SHRIRAMFIN.NS')":4765094
+  },
+  {
+    "('Date', '')":"2025-08-20",
+    "('Close', 'SHRIRAMFIN.NS')":612.567199707,
+    "('High', 'SHRIRAMFIN.NS')":621.1648329014,
+    "('Low', 'SHRIRAMFIN.NS')":609.585370021,
+    "('Open', 'SHRIRAMFIN.NS')":619.5744873362,
+    "('Volume', 'SHRIRAMFIN.NS')":5710611
+  },
+  {
+    "('Date', '')":"2025-08-21",
+    "('Close', 'SHRIRAMFIN.NS')":616.0460205078,
+    "('High', 'SHRIRAMFIN.NS')":618.2327078132,
+    "('Low', 'SHRIRAMFIN.NS')":612.0702474672,
+    "('Open', 'SHRIRAMFIN.NS')":614.2569347726,
+    "('Volume', 'SHRIRAMFIN.NS')":3993795
+  },
+  {
+    "('Date', '')":"2025-08-22",
+    "('Close', 'SHRIRAMFIN.NS')":612.119934082,
+    "('High', 'SHRIRAMFIN.NS')":618.232709414,
+    "('Low', 'SHRIRAMFIN.NS')":608.8399334481,
+    "('Open', 'SHRIRAMFIN.NS')":616.0460221029,
+    "('Volume', 'SHRIRAMFIN.NS')":3496256
+  },
+  {
+    "('Date', '')":"2025-08-25",
+    "('Close', 'SHRIRAMFIN.NS')":617.0895996094,
+    "('High', 'SHRIRAMFIN.NS')":620.0217441262,
+    "('Low', 'SHRIRAMFIN.NS')":612.6666009867,
+    "('Open', 'SHRIRAMFIN.NS')":616.2447721718,
+    "('Volume', 'SHRIRAMFIN.NS')":6850166
+  },
+  {
+    "('Date', '')":"2025-08-26",
+    "('Close', 'SHRIRAMFIN.NS')":591.0980224609,
+    "('High', 'SHRIRAMFIN.NS')":616.6920593971,
+    "('Low', 'SHRIRAMFIN.NS')":589.5076769705,
+    "('Open', 'SHRIRAMFIN.NS')":616.1454027801,
+    "('Volume', 'SHRIRAMFIN.NS')":18048586
+  },
+  {
+    "('Date', '')":"2025-08-28",
+    "('Close', 'SHRIRAMFIN.NS')":568.1876831055,
+    "('High', 'SHRIRAMFIN.NS')":584.3889459467,
+    "('Low', 'SHRIRAMFIN.NS')":566.5476524768,
+    "('Open', 'SHRIRAMFIN.NS')":573.2567694141,
+    "('Volume', 'SHRIRAMFIN.NS')":20025147
+  },
+  {
+    "('Date', '')":"2025-08-29",
+    "('Close', 'SHRIRAMFIN.NS')":576.735534668,
+    "('High', 'SHRIRAMFIN.NS')":585.0846817109,
+    "('Low', 'SHRIRAMFIN.NS')":563.068815837,
+    "('Open', 'SHRIRAMFIN.NS')":567.0445885878,
+    "('Volume', 'SHRIRAMFIN.NS')":12236788
+  },
+  {
+    "('Date', '')":"2025-09-01",
+    "('Close', 'SHRIRAMFIN.NS')":585.0349731445,
+    "('High', 'SHRIRAMFIN.NS')":586.6253187451,
+    "('Low', 'SHRIRAMFIN.NS')":575.0955406367,
+    "('Open', 'SHRIRAMFIN.NS')":576.487085454,
+    "('Volume', 'SHRIRAMFIN.NS')":3886326
+  },
+  {
+    "('Date', '')":"2025-09-02",
+    "('Close', 'SHRIRAMFIN.NS')":581.0592041016,
+    "('High', 'SHRIRAMFIN.NS')":592.7877830731,
+    "('Low', 'SHRIRAMFIN.NS')":578.7234617125,
+    "('Open', 'SHRIRAMFIN.NS')":586.4265219586,
+    "('Volume', 'SHRIRAMFIN.NS')":4136915
+  },
+  {
+    "('Date', '')":"2025-09-03",
+    "('Close', 'SHRIRAMFIN.NS')":582.7489013672,
+    "('High', 'SHRIRAMFIN.NS')":585.3331901545,
+    "('Low', 'SHRIRAMFIN.NS')":576.4870711754,
+    "('Open', 'SHRIRAMFIN.NS')":581.4567873063,
+    "('Volume', 'SHRIRAMFIN.NS')":6612194
+  },
+  {
+    "('Date', '')":"2025-09-04",
+    "('Close', 'SHRIRAMFIN.NS')":582.251953125,
+    "('High', 'SHRIRAMFIN.NS')":592.3901865719,
+    "('Low', 'SHRIRAMFIN.NS')":580.3634973188,
+    "('Open', 'SHRIRAMFIN.NS')":592.3901865719,
+    "('Volume', 'SHRIRAMFIN.NS')":5054056
+  },
+  {
+    "('Date', '')":"2025-09-05",
+    "('Close', 'SHRIRAMFIN.NS')":588.9113769531,
+    "('High', 'SHRIRAMFIN.NS')":592.390178336,
+    "('Low', 'SHRIRAMFIN.NS')":582.0531442465,
+    "('Open', 'SHRIRAMFIN.NS')":585.4325755703,
+    "('Volume', 'SHRIRAMFIN.NS')":4166734
+  },
+  {
+    "('Date', '')":"2025-09-08",
+    "('Close', 'SHRIRAMFIN.NS')":593.1356201172,
+    "('High', 'SHRIRAMFIN.NS')":600.3417085057,
+    "('Low', 'SHRIRAMFIN.NS')":589.2592172696,
+    "('Open', 'SHRIRAMFIN.NS')":592.3901626977,
+    "('Volume', 'SHRIRAMFIN.NS')":2968301
+  },
+  {
+    "('Date', '')":"2025-09-09",
+    "('Close', 'SHRIRAMFIN.NS')":591.3962402344,
+    "('High', 'SHRIRAMFIN.NS')":595.322328248,
+    "('Low', 'SHRIRAMFIN.NS')":587.2713514355,
+    "('Open', 'SHRIRAMFIN.NS')":594.3780700171,
+    "('Volume', 'SHRIRAMFIN.NS')":3947645
+  },
+  {
+    "('Date', '')":"2025-09-10",
+    "('Close', 'SHRIRAMFIN.NS')":601.1368408203,
+    "('High', 'SHRIRAMFIN.NS')":603.1247272388,
+    "('Low', 'SHRIRAMFIN.NS')":593.0859250916,
+    "('Open', 'SHRIRAMFIN.NS')":594.9743807899,
+    "('Volume', 'SHRIRAMFIN.NS')":4708224
+  },
+  {
+    "('Date', '')":"2025-09-11",
+    "('Close', 'SHRIRAMFIN.NS')":616.2944946289,
+    "('High', 'SHRIRAMFIN.NS')":619.1272692659,
+    "('Low', 'SHRIRAMFIN.NS')":599.1489737166,
+    "('Open', 'SHRIRAMFIN.NS')":601.1368601992,
+    "('Volume', 'SHRIRAMFIN.NS')":8412580
+  },
+  {
+    "('Date', '')":"2025-09-12",
+    "('Close', 'SHRIRAMFIN.NS')":629.0169677734,
+    "('High', 'SHRIRAMFIN.NS')":629.8618559437,
+    "('Low', 'SHRIRAMFIN.NS')":615.4993637047,
+    "('Open', 'SHRIRAMFIN.NS')":619.4254517145,
+    "('Volume', 'SHRIRAMFIN.NS')":10816255
+  },
+  {
+    "('Date', '')":"2025-09-15",
+    "('Close', 'SHRIRAMFIN.NS')":619.8726806641,
+    "('High', 'SHRIRAMFIN.NS')":627.7744803131,
+    "('Low', 'SHRIRAMFIN.NS')":616.4435646032,
+    "('Open', 'SHRIRAMFIN.NS')":626.9793379122,
+    "('Volume', 'SHRIRAMFIN.NS')":3643666
+  },
+  {
+    "('Date', '')":"2025-09-16",
+    "('Close', 'SHRIRAMFIN.NS')":614.356262207,
+    "('High', 'SHRIRAMFIN.NS')":624.5939256086,
+    "('Low', 'SHRIRAMFIN.NS')":610.3804894423,
+    "('Open', 'SHRIRAMFIN.NS')":619.8726954505,
+    "('Volume', 'SHRIRAMFIN.NS')":4759255
+  },
+  {
+    "('Date', '')":"2025-09-17",
+    "('Close', 'SHRIRAMFIN.NS')":619.4750976562,
+    "('High', 'SHRIRAMFIN.NS')":622.2084414486,
+    "('Low', 'SHRIRAMFIN.NS')":614.0084100716,
+    "('Open', 'SHRIRAMFIN.NS')":616.2447822653,
+    "('Volume', 'SHRIRAMFIN.NS')":4633747
+  },
+  {
+    "('Date', '')":"2025-09-18",
+    "('Close', 'SHRIRAMFIN.NS')":623.1030273438,
+    "('High', 'SHRIRAMFIN.NS')":627.1781702695,
+    "('Low', 'SHRIRAMFIN.NS')":616.2447948765,
+    "('Open', 'SHRIRAMFIN.NS')":616.2447948765,
+    "('Volume', 'SHRIRAMFIN.NS')":4675034
+  },
+  {
+    "('Date', '')":"2025-09-19",
+    "('Close', 'SHRIRAMFIN.NS')":629.3648681641,
+    "('High', 'SHRIRAMFIN.NS')":633.440011159,
+    "('Low', 'SHRIRAMFIN.NS')":623.3017780348,
+    "('Open', 'SHRIRAMFIN.NS')":626.1842376808,
+    "('Volume', 'SHRIRAMFIN.NS')":6415748
+  },
+  {
+    "('Date', '')":"2025-09-22",
+    "('Close', 'SHRIRAMFIN.NS')":624.0472412109,
+    "('High', 'SHRIRAMFIN.NS')":634.1357893994,
+    "('Low', 'SHRIRAMFIN.NS')":621.6618138257,
+    "('Open', 'SHRIRAMFIN.NS')":634.1357893994,
+    "('Volume', 'SHRIRAMFIN.NS')":2712596
+  },
+  {
+    "('Date', '')":"2025-09-23",
+    "('Close', 'SHRIRAMFIN.NS')":624.9914550781,
+    "('High', 'SHRIRAMFIN.NS')":630.5575732465,
+    "('Low', 'SHRIRAMFIN.NS')":620.7175115671,
+    "('Open', 'SHRIRAMFIN.NS')":624.1963126728,
+    "('Volume', 'SHRIRAMFIN.NS')":3586451
+  },
+  {
+    "('Date', '')":"2025-09-24",
+    "('Close', 'SHRIRAMFIN.NS')":621.3636474609,
+    "('High', 'SHRIRAMFIN.NS')":626.1842479608,
+    "('Low', 'SHRIRAMFIN.NS')":616.5429862956,
+    "('Open', 'SHRIRAMFIN.NS')":624.3951622426,
+    "('Volume', 'SHRIRAMFIN.NS')":2129098
+  },
+  {
+    "('Date', '')":"2025-09-25",
+    "('Close', 'SHRIRAMFIN.NS')":608.9890136719,
+    "('High', 'SHRIRAMFIN.NS')":622.2084461617,
+    "('Low', 'SHRIRAMFIN.NS')":607.1004973167,
+    "('Open', 'SHRIRAMFIN.NS')":621.3636187039,
+    "('Volume', 'SHRIRAMFIN.NS')":4280161
+  },
+  {
+    "('Date', '')":"2025-09-26",
+    "('Close', 'SHRIRAMFIN.NS')":602.3792724609,
+    "('High', 'SHRIRAMFIN.NS')":613.6605643344,
+    "('Low', 'SHRIRAMFIN.NS')":600.0932152028,
+    "('Open', 'SHRIRAMFIN.NS')":606.3053602877,
+    "('Volume', 'SHRIRAMFIN.NS')":3958021
+  },
+  {
+    "('Date', '')":"2025-09-29",
+    "('Close', 'SHRIRAMFIN.NS')":608.0944213867,
+    "('High', 'SHRIRAMFIN.NS')":611.7720232616,
+    "('Low', 'SHRIRAMFIN.NS')":599.4968493356,
+    "('Open', 'SHRIRAMFIN.NS')":605.212022583,
+    "('Volume', 'SHRIRAMFIN.NS')":4098133
+  },
+  {
+    "('Date', '')":"2025-09-30",
+    "('Close', 'SHRIRAMFIN.NS')":612.3684082031,
+    "('High', 'SHRIRAMFIN.NS')":616.9405835236,
+    "('Low', 'SHRIRAMFIN.NS')":607.448437679,
+    "('Open', 'SHRIRAMFIN.NS')":608.0944643881,
+    "('Volume', 'SHRIRAMFIN.NS')":5882401
+  },
+  {
+    "('Date', '')":"2025-10-01",
+    "('Close', 'SHRIRAMFIN.NS')":644.7709960938,
+    "('High', 'SHRIRAMFIN.NS')":646.0134251518,
+    "('Low', 'SHRIRAMFIN.NS')":612.3187248315,
+    "('Open', 'SHRIRAMFIN.NS')":612.3187248315,
+    "('Volume', 'SHRIRAMFIN.NS')":15107673
+  },
+  {
+    "('Date', '')":"2025-10-03",
+    "('Close', 'SHRIRAMFIN.NS')":641.8884887695,
+    "('High', 'SHRIRAMFIN.NS')":646.0630622278,
+    "('Low', 'SHRIRAMFIN.NS')":632.1478578106,
+    "('Open', 'SHRIRAMFIN.NS')":641.0933463645,
+    "('Volume', 'SHRIRAMFIN.NS')":7200543
+  },
+  {
+    "('Date', '')":"2025-10-06",
+    "('Close', 'SHRIRAMFIN.NS')":667.3831787109,
+    "('High', 'SHRIRAMFIN.NS')":671.4086365676,
+    "('Low', 'SHRIRAMFIN.NS')":642.5842835544,
+    "('Open', 'SHRIRAMFIN.NS')":642.5842835544,
+    "('Volume', 'SHRIRAMFIN.NS')":10343487
+  },
+  {
+    "('Date', '')":"2025-10-07",
+    "('Close', 'SHRIRAMFIN.NS')":662.7613525391,
+    "('High', 'SHRIRAMFIN.NS')":668.923812874,
+    "('Low', 'SHRIRAMFIN.NS')":659.4813519196,
+    "('Open', 'SHRIRAMFIN.NS')":666.1407838837,
+    "('Volume', 'SHRIRAMFIN.NS')":3729360
+  },
+  {
+    "('Date', '')":"2025-10-08",
+    "('Close', 'SHRIRAMFIN.NS')":662.8607788086,
+    "('High', 'SHRIRAMFIN.NS')":669.22197922,
+    "('Low', 'SHRIRAMFIN.NS')":657.9904326092,
+    "('Open', 'SHRIRAMFIN.NS')":657.9904326092,
+    "('Volume', 'SHRIRAMFIN.NS')":2870458
+  },
+  {
+    "('Date', '')":"2025-10-09",
+    "('Close', 'SHRIRAMFIN.NS')":664.9976806641,
+    "('High', 'SHRIRAMFIN.NS')":667.9298252144,
+    "('Low', 'SHRIRAMFIN.NS')":656.002506907,
+    "('Open', 'SHRIRAMFIN.NS')":662.8607391999,
+    "('Volume', 'SHRIRAMFIN.NS')":2274108
+  },
+  {
+    "('Date', '')":"2025-10-10",
+    "('Close', 'SHRIRAMFIN.NS')":661.0219116211,
+    "('High', 'SHRIRAMFIN.NS')":667.333487327,
+    "('Low', 'SHRIRAMFIN.NS')":658.9843401985,
+    "('Open', 'SHRIRAMFIN.NS')":664.9479993858,
+    "('Volume', 'SHRIRAMFIN.NS')":2480723
+  },
+  {
+    "('Date', '')":"2025-10-13",
+    "('Close', 'SHRIRAMFIN.NS')":668.0789794922,
+    "('High', 'SHRIRAMFIN.NS')":670.1165510208,
+    "('Low', 'SHRIRAMFIN.NS')":654.7601156812,
+    "('Open', 'SHRIRAMFIN.NS')":656.0025447432,
+    "('Volume', 'SHRIRAMFIN.NS')":2469940
+  },
+  {
+    "('Date', '')":"2025-10-14",
+    "('Close', 'SHRIRAMFIN.NS')":670.3649902344,
+    "('High', 'SHRIRAMFIN.NS')":676.8256209078,
+    "('Low', 'SHRIRAMFIN.NS')":662.9601014064,
+    "('Open', 'SHRIRAMFIN.NS')":670.9613318765,
+    "('Volume', 'SHRIRAMFIN.NS')":4731724
+  },
+  {
+    "('Date', '')":"2025-10-15",
+    "('Close', 'SHRIRAMFIN.NS')":673.0486450195,
+    "('High', 'SHRIRAMFIN.NS')":678.2668466867,
+    "('Low', 'SHRIRAMFIN.NS')":668.4764700166,
+    "('Open', 'SHRIRAMFIN.NS')":671.4086145151,
+    "('Volume', 'SHRIRAMFIN.NS')":4687947
+  },
+  {
+    "('Date', '')":"2025-10-16",
+    "('Close', 'SHRIRAMFIN.NS')":668.4268188477,
+    "('High', 'SHRIRAMFIN.NS')":679.6086801295,
+    "('Low', 'SHRIRAMFIN.NS')":658.2389007909,
+    "('Open', 'SHRIRAMFIN.NS')":672.7504476104,
+    "('Volume', 'SHRIRAMFIN.NS')":5309779
+  },
+  {
+    "('Date', '')":"2025-10-17",
+    "('Close', 'SHRIRAMFIN.NS')":671.4086303711,
+    "('High', 'SHRIRAMFIN.NS')":675.5335189097,
+    "('Low', 'SHRIRAMFIN.NS')":666.0413128347,
+    "('Open', 'SHRIRAMFIN.NS')":668.1286299502,
+    "('Volume', 'SHRIRAMFIN.NS')":3516617
+  },
+  {
+    "('Date', '')":"2025-10-20",
+    "('Close', 'SHRIRAMFIN.NS')":689.746887207,
+    "('High', 'SHRIRAMFIN.NS')":694.4184323221,
+    "('Low', 'SHRIRAMFIN.NS')":673.9928512834,
+    "('Open', 'SHRIRAMFIN.NS')":674.2910827721,
+    "('Volume', 'SHRIRAMFIN.NS')":6170486
+  },
+  {
+    "('Date', '')":"2025-10-21",
+    "('Close', 'SHRIRAMFIN.NS')":691.0390014648,
+    "('High', 'SHRIRAMFIN.NS')":693.2753736379,
+    "('Low', 'SHRIRAMFIN.NS')":686.1189705511,
+    "('Open', 'SHRIRAMFIN.NS')":691.2874872618,
+    "('Volume', 'SHRIRAMFIN.NS')":674998
+  },
+  {
+    "('Date', '')":"2025-10-23",
+    "('Close', 'SHRIRAMFIN.NS')":705.3518066406,
+    "('High', 'SHRIRAMFIN.NS')":713.4027221859,
+    "('Low', 'SHRIRAMFIN.NS')":691.0390004873,
+    "('Open', 'SHRIRAMFIN.NS')":691.0390004873,
+    "('Volume', 'SHRIRAMFIN.NS')":8911040
+  },
+  {
+    "('Date', '')":"2025-10-24",
+    "('Close', 'SHRIRAMFIN.NS')":711.1166992188,
+    "('High', 'SHRIRAMFIN.NS')":718.9688143716,
+    "('Low', 'SHRIRAMFIN.NS')":706.743324721,
+    "('Open', 'SHRIRAMFIN.NS')":706.743324721,
+    "('Volume', 'SHRIRAMFIN.NS')":6036751
+  },
+  {
+    "('Date', '')":"2025-10-27",
+    "('Close', 'SHRIRAMFIN.NS')":715.2415161133,
+    "('High', 'SHRIRAMFIN.NS')":725.8767206895,
+    "('Low', 'SHRIRAMFIN.NS')":713.8997170338,
+    "('Open', 'SHRIRAMFIN.NS')":716.633060886,
+    "('Volume', 'SHRIRAMFIN.NS')":8133230
+  },
+  {
+    "('Date', '')":"2025-10-28",
+    "('Close', 'SHRIRAMFIN.NS')":719.3167114258,
+    "('High', 'SHRIRAMFIN.NS')":722.4475961302,
+    "('Low', 'SHRIRAMFIN.NS')":705.9481631513,
+    "('Open', 'SHRIRAMFIN.NS')":715.142137821,
+    "('Volume', 'SHRIRAMFIN.NS')":7071903
+  },
+  {
+    "('Date', '')":"2025-10-29",
+    "('Close', 'SHRIRAMFIN.NS')":733.977355957,
+    "('High', 'SHRIRAMFIN.NS')":737.4064720731,
+    "('Low', 'SHRIRAMFIN.NS')":713.0548640784,
+    "('Open', 'SHRIRAMFIN.NS')":719.316694001,
+    "('Volume', 'SHRIRAMFIN.NS')":10246214
+  },
+  {
+    "('Date', '')":"2025-10-30",
+    "('Close', 'SHRIRAMFIN.NS')":733.7785644531,
+    "('High', 'SHRIRAMFIN.NS')":743.3203948686,
+    "('Low', 'SHRIRAMFIN.NS')":728.7094784197,
+    "('Open', 'SHRIRAMFIN.NS')":734.0270502521,
+    "('Volume', 'SHRIRAMFIN.NS')":6357608
+  },
+  {
+    "('Date', '')":"2025-10-31",
+    "('Close', 'SHRIRAMFIN.NS')":744.364074707,
+    "('High', 'SHRIRAMFIN.NS')":765.1374508518,
+    "('Low', 'SHRIRAMFIN.NS')":722.5966947129,
+    "('Open', 'SHRIRAMFIN.NS')":729.0076403823,
+    "('Volume', 'SHRIRAMFIN.NS')":18363853
+  },
+  {
+    "('Date', '')":"2025-11-03",
+    "('Close', 'SHRIRAMFIN.NS')":791.6260986328,
+    "('High', 'SHRIRAMFIN.NS')":795.0552149136,
+    "('Low', 'SHRIRAMFIN.NS')":753.9059408752,
+    "('Open', 'SHRIRAMFIN.NS')":758.1798846363,
+    "('Volume', 'SHRIRAMFIN.NS')":26222030
+  },
+  {
+    "('Date', '')":"2025-11-04",
+    "('Close', 'SHRIRAMFIN.NS')":791.67578125,
+    "('High', 'SHRIRAMFIN.NS')":809.2189034937,
+    "('Low', 'SHRIRAMFIN.NS')":787.4515225302,
+    "('Open', 'SHRIRAMFIN.NS')":787.6503233089,
+    "('Volume', 'SHRIRAMFIN.NS')":8543137
+  },
+  {
+    "('Date', '')":"2025-11-05",
+    "('Close', 'SHRIRAMFIN.NS')":791.67578125,
+    "('High', 'SHRIRAMFIN.NS')":791.67578125,
+    "('Low', 'SHRIRAMFIN.NS')":791.67578125,
+    "('Open', 'SHRIRAMFIN.NS')":791.67578125,
+    "('Volume', 'SHRIRAMFIN.NS')":0
+  },
+  {
+    "('Date', '')":"2025-11-06",
+    "('Close', 'SHRIRAMFIN.NS')":787.700012207,
+    "('High', 'SHRIRAMFIN.NS')":795.7509281287,
+    "('Low', 'SHRIRAMFIN.NS')":780.245437959,
+    "('Open', 'SHRIRAMFIN.NS')":787.7993822641,
+    "('Volume', 'SHRIRAMFIN.NS')":10930939
+  },
+  {
+    "('Date', '')":"2025-11-07",
+    "('Close', 'SHRIRAMFIN.NS')":816.3499755859,
+    "('High', 'SHRIRAMFIN.NS')":820.0,
+    "('Low', 'SHRIRAMFIN.NS')":780.799987793,
+    "('Open', 'SHRIRAMFIN.NS')":792.5,
+    "('Volume', 'SHRIRAMFIN.NS')":9765252
+  },
+  {
+    "('Date', '')":"2025-11-10",
+    "('Close', 'SHRIRAMFIN.NS')":821.0999755859,
+    "('High', 'SHRIRAMFIN.NS')":830.700012207,
+    "('Low', 'SHRIRAMFIN.NS')":816.6500244141,
+    "('Open', 'SHRIRAMFIN.NS')":822.0,
+    "('Volume', 'SHRIRAMFIN.NS')":8623863
+  },
+  {
+    "('Date', '')":"2025-11-11",
+    "('Close', 'SHRIRAMFIN.NS')":832.299987793,
+    "('High', 'SHRIRAMFIN.NS')":833.299987793,
+    "('Low', 'SHRIRAMFIN.NS')":804.049987793,
+    "('Open', 'SHRIRAMFIN.NS')":821.0999755859,
+    "('Volume', 'SHRIRAMFIN.NS')":7336074
+  }
+]

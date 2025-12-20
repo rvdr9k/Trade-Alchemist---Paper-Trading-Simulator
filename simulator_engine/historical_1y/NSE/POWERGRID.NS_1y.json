@@ -1,0 +1,1994 @@
+[
+  {
+    "('Date', '')":"2024-11-11",
+    "('Close', 'POWERGRID.NS')":314.697052002,
+    "('High', 'POWERGRID.NS')":317.1779928335,
+    "('Low', 'POWERGRID.NS')":298.4755538757,
+    "('Open', 'POWERGRID.NS')":299.1912082048,
+    "('Volume', 'POWERGRID.NS')":22838987
+  },
+  {
+    "('Date', '')":"2024-11-12",
+    "('Close', 'POWERGRID.NS')":307.9222412109,
+    "('High', 'POWERGRID.NS')":317.2734469466,
+    "('Low', 'POWERGRID.NS')":307.063432645,
+    "('Open', 'POWERGRID.NS')":316.3192410911,
+    "('Volume', 'POWERGRID.NS')":12069181
+  },
+  {
+    "('Date', '')":"2024-11-13",
+    "('Close', 'POWERGRID.NS')":303.4374389648,
+    "('High', 'POWERGRID.NS')":309.735202956,
+    "('Low', 'POWERGRID.NS')":302.6263582254,
+    "('Open', 'POWERGRID.NS')":307.8744900314,
+    "('Volume', 'POWERGRID.NS')":12918639
+  },
+  {
+    "('Date', '')":"2024-11-14",
+    "('Close', 'POWERGRID.NS')":302.0823974609,
+    "('High', 'POWERGRID.NS')":308.5673269454,
+    "('Low', 'POWERGRID.NS')":300.6305436086,
+    "('Open', 'POWERGRID.NS')":304.9861051657,
+    "('Volume', 'POWERGRID.NS')":12500377
+  },
+  {
+    "('Date', '')":"2024-11-18",
+    "('Close', 'POWERGRID.NS')":302.0339660645,
+    "('High', 'POWERGRID.NS')":305.4216248453,
+    "('Low', 'POWERGRID.NS')":300.1465738951,
+    "('Open', 'POWERGRID.NS')":303.9213877719,
+    "('Volume', 'POWERGRID.NS')":9408101
+  },
+  {
+    "('Date', '')":"2024-11-19",
+    "('Close', 'POWERGRID.NS')":304.9376831055,
+    "('High', 'POWERGRID.NS')":308.0349830456,
+    "('Low', 'POWERGRID.NS')":302.2275678114,
+    "('Open', 'POWERGRID.NS')":303.0018780274,
+    "('Volume', 'POWERGRID.NS')":13157158
+  },
+  {
+    "('Date', '')":"2024-11-21",
+    "('Close', 'POWERGRID.NS')":315.4394226074,
+    "('High', 'POWERGRID.NS')":316.2621456498,
+    "('Low', 'POWERGRID.NS')":302.953486116,
+    "('Open', 'POWERGRID.NS')":305.8571936507,
+    "('Volume', 'POWERGRID.NS')":25406386
+  },
+  {
+    "('Date', '')":"2024-11-22",
+    "('Close', 'POWERGRID.NS')":326.134765625,
+    "('High', 'POWERGRID.NS')":326.7638963548,
+    "('Low', 'POWERGRID.NS')":313.6004161875,
+    "('Open', 'POWERGRID.NS')":315.3426289066,
+    "('Volume', 'POWERGRID.NS')":31523269
+  },
+  {
+    "('Date', '')":"2024-11-25",
+    "('Close', 'POWERGRID.NS')":331.7485656738,
+    "('High', 'POWERGRID.NS')":334.313501266,
+    "('Low', 'POWERGRID.NS')":325.3604035782,
+    "('Open', 'POWERGRID.NS')":330.877459374,
+    "('Volume', 'POWERGRID.NS')":29419152
+  },
+  {
+    "('Date', '')":"2024-11-26",
+    "('Close', 'POWERGRID.NS')":327.9253234863,
+    "('High', 'POWERGRID.NS')":333.5391751665,
+    "('Low', 'POWERGRID.NS')":327.0542172281,
+    "('Open', 'POWERGRID.NS')":331.0226230021,
+    "('Volume', 'POWERGRID.NS')":13997179
+  },
+  {
+    "('Date', '')":"2024-11-27",
+    "('Close', 'POWERGRID.NS')":328.3609619141,
+    "('High', 'POWERGRID.NS')":330.3451504582,
+    "('Low', 'POWERGRID.NS')":325.6992297246,
+    "('Open', 'POWERGRID.NS')":326.4251566854,
+    "('Volume', 'POWERGRID.NS')":12177260
+  },
+  {
+    "('Date', '')":"2024-11-28",
+    "('Close', 'POWERGRID.NS')":322.9406738281,
+    "('High', 'POWERGRID.NS')":330.7806902433,
+    "('Low', 'POWERGRID.NS')":321.5372328798,
+    "('Open', 'POWERGRID.NS')":328.3609339138,
+    "('Volume', 'POWERGRID.NS')":16920231
+  },
+  {
+    "('Date', '')":"2024-11-29",
+    "('Close', 'POWERGRID.NS')":318.8270568848,
+    "('High', 'POWERGRID.NS')":321.8275603475,
+    "('Low', 'POWERGRID.NS')":316.0201457247,
+    "('Open', 'POWERGRID.NS')":320.7144784524,
+    "('Volume', 'POWERGRID.NS')":13890537
+  },
+  {
+    "('Date', '')":"2024-12-02",
+    "('Close', 'POWERGRID.NS')":317.3268432617,
+    "('High', 'POWERGRID.NS')":321.2952494535,
+    "('Low', 'POWERGRID.NS')":315.7298100306,
+    "('Open', 'POWERGRID.NS')":317.617202199,
+    "('Volume', 'POWERGRID.NS')":16003524
+  },
+  {
+    "('Date', '')":"2024-12-03",
+    "('Close', 'POWERGRID.NS')":319.0690307617,
+    "('High', 'POWERGRID.NS')":320.7144767111,
+    "('Low', 'POWERGRID.NS')":313.8423635372,
+    "('Open', 'POWERGRID.NS')":313.8423635372,
+    "('Volume', 'POWERGRID.NS')":23174488
+  },
+  {
+    "('Date', '')":"2024-12-04",
+    "('Close', 'POWERGRID.NS')":314.6166992188,
+    "('High', 'POWERGRID.NS')":320.617706599,
+    "('Low', 'POWERGRID.NS')":310.7935020251,
+    "('Open', 'POWERGRID.NS')":318.4883092607,
+    "('Volume', 'POWERGRID.NS')":17880011
+  },
+  {
+    "('Date', '')":"2024-12-05",
+    "('Close', 'POWERGRID.NS')":317.8108215332,
+    "('High', 'POWERGRID.NS')":319.8434228811,
+    "('Low', 'POWERGRID.NS')":309.293261013,
+    "('Open', 'POWERGRID.NS')":314.5683419471,
+    "('Volume', 'POWERGRID.NS')":19785053
+  },
+  {
+    "('Date', '')":"2024-12-06",
+    "('Close', 'POWERGRID.NS')":318.3431396484,
+    "('High', 'POWERGRID.NS')":322.0695703368,
+    "('Low', 'POWERGRID.NS')":316.2137717823,
+    "('Open', 'POWERGRID.NS')":316.6009268908,
+    "('Volume', 'POWERGRID.NS')":8802058
+  },
+  {
+    "('Date', '')":"2024-12-09",
+    "('Close', 'POWERGRID.NS')":318.5367126465,
+    "('High', 'POWERGRID.NS')":320.036949678,
+    "('Low', 'POWERGRID.NS')":316.2137525979,
+    "('Open', 'POWERGRID.NS')":317.2300383885,
+    "('Volume', 'POWERGRID.NS')":9376929
+  },
+  {
+    "('Date', '')":"2024-12-10",
+    "('Close', 'POWERGRID.NS')":317.375213623,
+    "('High', 'POWERGRID.NS')":321.1984401902,
+    "('Low', 'POWERGRID.NS')":314.9070741427,
+    "('Open', 'POWERGRID.NS')":321.1984401902,
+    "('Volume', 'POWERGRID.NS')":14994365
+  },
+  {
+    "('Date', '')":"2024-12-11",
+    "('Close', 'POWERGRID.NS')":317.0364379883,
+    "('High', 'POWERGRID.NS')":318.4399083662,
+    "('Low', 'POWERGRID.NS')":316.3589239912,
+    "('Open', 'POWERGRID.NS')":316.7460790664,
+    "('Volume', 'POWERGRID.NS')":5013051
+  },
+  {
+    "('Date', '')":"2024-12-12",
+    "('Close', 'POWERGRID.NS')":318.6335144043,
+    "('High', 'POWERGRID.NS')":319.3110284306,
+    "('Low', 'POWERGRID.NS')":315.3910351259,
+    "('Open', 'POWERGRID.NS')":317.4720195906,
+    "('Volume', 'POWERGRID.NS')":10414162
+  },
+  {
+    "('Date', '')":"2024-12-13",
+    "('Close', 'POWERGRID.NS')":323.1342468262,
+    "('High', 'POWERGRID.NS')":323.5697852166,
+    "('Low', 'POWERGRID.NS')":314.6166873328,
+    "('Open', 'POWERGRID.NS')":320.0369470944,
+    "('Volume', 'POWERGRID.NS')":14973536
+  },
+  {
+    "('Date', '')":"2024-12-16",
+    "('Close', 'POWERGRID.NS')":324.2473449707,
+    "('High', 'POWERGRID.NS')":325.4572231236,
+    "('Low', 'POWERGRID.NS')":320.9564823025,
+    "('Open', 'POWERGRID.NS')":323.1342629777,
+    "('Volume', 'POWERGRID.NS')":12695136
+  },
+  {
+    "('Date', '')":"2024-12-17",
+    "('Close', 'POWERGRID.NS')":319.2142333984,
+    "('High', 'POWERGRID.NS')":324.7796727859,
+    "('Low', 'POWERGRID.NS')":317.4720207098,
+    "('Open', 'POWERGRID.NS')":321.8275819695,
+    "('Volume', 'POWERGRID.NS')":17360248
+  },
+  {
+    "('Date', '')":"2024-12-18",
+    "('Close', 'POWERGRID.NS')":311.2290649414,
+    "('High', 'POWERGRID.NS')":318.5367471939,
+    "('Low', 'POWERGRID.NS')":310.357958521,
+    "('Open', 'POWERGRID.NS')":317.4720484409,
+    "('Volume', 'POWERGRID.NS')":15037099
+  },
+  {
+    "('Date', '')":"2024-12-19",
+    "('Close', 'POWERGRID.NS')":311.3258666992,
+    "('High', 'POWERGRID.NS')":313.4552642434,
+    "('Low', 'POWERGRID.NS')":306.6799460148,
+    "('Open', 'POWERGRID.NS')":307.7930281019,
+    "('Volume', 'POWERGRID.NS')":10234715
+  },
+  {
+    "('Date', '')":"2024-12-20",
+    "('Close', 'POWERGRID.NS')":305.6636047363,
+    "('High', 'POWERGRID.NS')":315.149067178,
+    "('Low', 'POWERGRID.NS')":303.53423691,
+    "('Open', 'POWERGRID.NS')":310.9870686091,
+    "('Volume', 'POWERGRID.NS')":13973399
+  },
+  {
+    "('Date', '')":"2024-12-23",
+    "('Close', 'POWERGRID.NS')":305.1796569824,
+    "('High', 'POWERGRID.NS')":308.0833645828,
+    "('Low', 'POWERGRID.NS')":301.550022482,
+    "('Open', 'POWERGRID.NS')":307.793005638,
+    "('Volume', 'POWERGRID.NS')":5984169
+  },
+  {
+    "('Date', '')":"2024-12-24",
+    "('Close', 'POWERGRID.NS')":300.1465759277,
+    "('High', 'POWERGRID.NS')":306.4863255883,
+    "('Low', 'POWERGRID.NS')":298.8399016244,
+    "('Open', 'POWERGRID.NS')":304.0181859893,
+    "('Volume', 'POWERGRID.NS')":4833589
+  },
+  {
+    "('Date', '')":"2024-12-26",
+    "('Close', 'POWERGRID.NS')":300.3401489258,
+    "('High', 'POWERGRID.NS')":303.0502937839,
+    "('Low', 'POWERGRID.NS')":298.8399117911,
+    "('Open', 'POWERGRID.NS')":300.1465861389,
+    "('Volume', 'POWERGRID.NS')":3775101
+  },
+  {
+    "('Date', '')":"2024-12-27",
+    "('Close', 'POWERGRID.NS')":299.4690246582,
+    "('High', 'POWERGRID.NS')":302.2759359731,
+    "('Low', 'POWERGRID.NS')":298.8882772563,
+    "('Open', 'POWERGRID.NS')":300.775698928,
+    "('Volume', 'POWERGRID.NS')":3981693
+  },
+  {
+    "('Date', '')":"2024-12-30",
+    "('Close', 'POWERGRID.NS')":297.6784362793,
+    "('High', 'POWERGRID.NS')":301.9856147146,
+    "('Low', 'POWERGRID.NS')":296.4685580152,
+    "('Open', 'POWERGRID.NS')":299.0819068808,
+    "('Volume', 'POWERGRID.NS')":12489142
+  },
+  {
+    "('Date', '')":"2024-12-31",
+    "('Close', 'POWERGRID.NS')":298.7915344238,
+    "('High', 'POWERGRID.NS')":299.8078203046,
+    "('Low', 'POWERGRID.NS')":295.3554625861,
+    "('Open', 'POWERGRID.NS')":297.48486005,
+    "('Volume', 'POWERGRID.NS')":8402716
+  },
+  {
+    "('Date', '')":"2025-01-01",
+    "('Close', 'POWERGRID.NS')":300.436920166,
+    "('High', 'POWERGRID.NS')":301.3564393259,
+    "('Low', 'POWERGRID.NS')":296.0813590599,
+    "('Open', 'POWERGRID.NS')":298.7915036932,
+    "('Volume', 'POWERGRID.NS')":4239498
+  },
+  {
+    "('Date', '')":"2025-01-02",
+    "('Close', 'POWERGRID.NS')":305.0344848633,
+    "('High', 'POWERGRID.NS')":307.0187028275,
+    "('Low', 'POWERGRID.NS')":298.8399144075,
+    "('Open', 'POWERGRID.NS')":299.9046131275,
+    "('Volume', 'POWERGRID.NS')":10766571
+  },
+  {
+    "('Date', '')":"2025-01-03",
+    "('Close', 'POWERGRID.NS')":305.9055786133,
+    "('High', 'POWERGRID.NS')":307.7930003362,
+    "('Low', 'POWERGRID.NS')":303.5826184806,
+    "('Open', 'POWERGRID.NS')":306.1959670911,
+    "('Volume', 'POWERGRID.NS')":7636948
+  },
+  {
+    "('Date', '')":"2025-01-06",
+    "('Close', 'POWERGRID.NS')":296.1781616211,
+    "('High', 'POWERGRID.NS')":306.3411377552,
+    "('Low', 'POWERGRID.NS')":295.0166668191,
+    "('Open', 'POWERGRID.NS')":305.6635941977,
+    "('Volume', 'POWERGRID.NS')":6722495
+  },
+  {
+    "('Date', '')":"2025-01-07",
+    "('Close', 'POWERGRID.NS')":295.2586669922,
+    "('High', 'POWERGRID.NS')":300.72734014,
+    "('Low', 'POWERGRID.NS')":293.2744785401,
+    "('Open', 'POWERGRID.NS')":296.1781862484,
+    "('Volume', 'POWERGRID.NS')":10137739
+  },
+  {
+    "('Date', '')":"2025-01-08",
+    "('Close', 'POWERGRID.NS')":296.8072814941,
+    "('High', 'POWERGRID.NS')":297.9687762537,
+    "('Low', 'POWERGRID.NS')":293.274443446,
+    "('Open', 'POWERGRID.NS')":296.3233302673,
+    "('Volume', 'POWERGRID.NS')":6907996
+  },
+  {
+    "('Date', '')":"2025-01-09",
+    "('Close', 'POWERGRID.NS')":295.4522399902,
+    "('High', 'POWERGRID.NS')":297.0492732177,
+    "('Low', 'POWERGRID.NS')":293.9035900728,
+    "('Open', 'POWERGRID.NS')":296.8072975912,
+    "('Volume', 'POWERGRID.NS')":8244909
+  },
+  {
+    "('Date', '')":"2025-01-10",
+    "('Close', 'POWERGRID.NS')":290.0803833008,
+    "('High', 'POWERGRID.NS')":295.4522302168,
+    "('Low', 'POWERGRID.NS')":288.9188885167,
+    "('Open', 'POWERGRID.NS')":294.2907354327,
+    "('Volume', 'POWERGRID.NS')":6540783
+  },
+  {
+    "('Date', '')":"2025-01-13",
+    "('Close', 'POWERGRID.NS')":278.3687438965,
+    "('High', 'POWERGRID.NS')":288.9672577487,
+    "('Low', 'POWERGRID.NS')":277.546020926,
+    "('Open', 'POWERGRID.NS')":285.5312159483,
+    "('Volume', 'POWERGRID.NS')":19474228
+  },
+  {
+    "('Date', '')":"2025-01-14",
+    "('Close', 'POWERGRID.NS')":280.9336853027,
+    "('High', 'POWERGRID.NS')":283.6438003397,
+    "('Low', 'POWERGRID.NS')":277.5944100446,
+    "('Open', 'POWERGRID.NS')":278.5139291847,
+    "('Volume', 'POWERGRID.NS')":15954608
+  },
+  {
+    "('Date', '')":"2025-01-15",
+    "('Close', 'POWERGRID.NS')":289.0640869141,
+    "('High', 'POWERGRID.NS')":292.790517591,
+    "('Low', 'POWERGRID.NS')":281.7564345712,
+    "('Open', 'POWERGRID.NS')":285.5312485598,
+    "('Volume', 'POWERGRID.NS')":12198882
+  },
+  {
+    "('Date', '')":"2025-01-16",
+    "('Close', 'POWERGRID.NS')":288.0961914062,
+    "('High', 'POWERGRID.NS')":291.9194183378,
+    "('Low', 'POWERGRID.NS')":287.0799055323,
+    "('Open', 'POWERGRID.NS')":289.4028657714,
+    "('Volume', 'POWERGRID.NS')":11694289
+  },
+  {
+    "('Date', '')":"2025-01-17",
+    "('Close', 'POWERGRID.NS')":292.8873291016,
+    "('High', 'POWERGRID.NS')":295.2102894057,
+    "('Low', 'POWERGRID.NS')":286.2088071505,
+    "('Open', 'POWERGRID.NS')":288.0961994747,
+    "('Volume', 'POWERGRID.NS')":7593230
+  },
+  {
+    "('Date', '')":"2025-01-20",
+    "('Close', 'POWERGRID.NS')":296.420135498,
+    "('High', 'POWERGRID.NS')":298.8882750151,
+    "('Low', 'POWERGRID.NS')":292.2581666352,
+    "('Open', 'POWERGRID.NS')":292.8872973418,
+    "('Volume', 'POWERGRID.NS')":9435937
+  },
+  {
+    "('Date', '')":"2025-01-21",
+    "('Close', 'POWERGRID.NS')":292.645324707,
+    "('High', 'POWERGRID.NS')":300.0013895625,
+    "('Low', 'POWERGRID.NS')":291.8226016803,
+    "('Open', 'POWERGRID.NS')":297.1460653925,
+    "('Volume', 'POWERGRID.NS')":13911546
+  },
+  {
+    "('Date', '')":"2025-01-22",
+    "('Close', 'POWERGRID.NS')":287.9993896484,
+    "('High', 'POWERGRID.NS')":292.5969267244,
+    "('Low', 'POWERGRID.NS')":286.3055601994,
+    "('Open', 'POWERGRID.NS')":292.3065677769,
+    "('Volume', 'POWERGRID.NS')":9723333
+  },
+  {
+    "('Date', '')":"2025-01-23",
+    "('Close', 'POWERGRID.NS')":284.902130127,
+    "('High', 'POWERGRID.NS')":289.9836186683,
+    "('Low', 'POWERGRID.NS')":284.1762031925,
+    "('Open', 'POWERGRID.NS')":287.9510173442,
+    "('Volume', 'POWERGRID.NS')":12228286
+  },
+  {
+    "('Date', '')":"2025-01-24",
+    "('Close', 'POWERGRID.NS')":286.3539428711,
+    "('High', 'POWERGRID.NS')":292.7904881915,
+    "('Low', 'POWERGRID.NS')":284.9020892106,
+    "('Open', 'POWERGRID.NS')":285.8215788061,
+    "('Volume', 'POWERGRID.NS')":11142914
+  },
+  {
+    "('Date', '')":"2025-01-27",
+    "('Close', 'POWERGRID.NS')":277.7880249023,
+    "('High', 'POWERGRID.NS')":285.5312451087,
+    "('Low', 'POWERGRID.NS')":274.6423416935,
+    "('Open', 'POWERGRID.NS')":285.5312451087,
+    "('Volume', 'POWERGRID.NS')":13477947
+  },
+  {
+    "('Date', '')":"2025-01-28",
+    "('Close', 'POWERGRID.NS')":274.8359375,
+    "('High', 'POWERGRID.NS')":279.5302411792,
+    "('Low', 'POWERGRID.NS')":270.3835799173,
+    "('Open', 'POWERGRID.NS')":277.933207899,
+    "('Volume', 'POWERGRID.NS')":11298068
+  },
+  {
+    "('Date', '')":"2025-01-29",
+    "('Close', 'POWERGRID.NS')":278.610748291,
+    "('High', 'POWERGRID.NS')":279.8690097608,
+    "('Low', 'POWERGRID.NS')":274.2067740706,
+    "('Open', 'POWERGRID.NS')":276.1909919736,
+    "('Volume', 'POWERGRID.NS')":4800024
+  },
+  {
+    "('Date', '')":"2025-01-30",
+    "('Close', 'POWERGRID.NS')":285.8700256348,
+    "('High', 'POWERGRID.NS')":287.5638551067,
+    "('Low', 'POWERGRID.NS')":278.6107564695,
+    "('Open', 'POWERGRID.NS')":278.6107564695,
+    "('Volume', 'POWERGRID.NS')":10969499
+  },
+  {
+    "('Date', '')":"2025-01-31",
+    "('Close', 'POWERGRID.NS')":291.9677734375,
+    "('High', 'POWERGRID.NS')":293.710015602,
+    "('Low', 'POWERGRID.NS')":286.4023342489,
+    "('Open', 'POWERGRID.NS')":287.4670328709,
+    "('Volume', 'POWERGRID.NS')":14141459
+  },
+  {
+    "('Date', '')":"2025-02-01",
+    "('Close', 'POWERGRID.NS')":280.5465698242,
+    "('High', 'POWERGRID.NS')":295.5490598732,
+    "('Low', 'POWERGRID.NS')":279.3850749084,
+    "('Open', 'POWERGRID.NS')":291.9678084979,
+    "('Volume', 'POWERGRID.NS')":6945157
+  },
+  {
+    "('Date', '')":"2025-02-03",
+    "('Close', 'POWERGRID.NS')":274.6907348633,
+    "('High', 'POWERGRID.NS')":282.6275476748,
+    "('Low', 'POWERGRID.NS')":269.0769118274,
+    "('Open', 'POWERGRID.NS')":280.6917425538,
+    "('Volume', 'POWERGRID.NS')":14978897
+  },
+  {
+    "('Date', '')":"2025-02-04",
+    "('Close', 'POWERGRID.NS')":276.4813537598,
+    "('High', 'POWERGRID.NS')":277.2072806624,
+    "('Low', 'POWERGRID.NS')":263.3662861999,
+    "('Open', 'POWERGRID.NS')":271.9806128708,
+    "('Volume', 'POWERGRID.NS')":19836427
+  },
+  {
+    "('Date', '')":"2025-02-05",
+    "('Close', 'POWERGRID.NS')":276.0458374023,
+    "('High', 'POWERGRID.NS')":281.4176850963,
+    "('Low', 'POWERGRID.NS')":275.4166770726,
+    "('Open', 'POWERGRID.NS')":276.4329925404,
+    "('Volume', 'POWERGRID.NS')":15337191
+  },
+  {
+    "('Date', '')":"2025-02-06",
+    "('Close', 'POWERGRID.NS')":272.125793457,
+    "('High', 'POWERGRID.NS')":281.6112560803,
+    "('Low', 'POWERGRID.NS')":270.7707358074,
+    "('Open', 'POWERGRID.NS')":278.2719804991,
+    "('Volume', 'POWERGRID.NS')":21418561
+  },
+  {
+    "('Date', '')":"2025-02-07",
+    "('Close', 'POWERGRID.NS')":272.3705749512,
+    "('High', 'POWERGRID.NS')":276.0426572035,
+    "('Low', 'POWERGRID.NS')":264.3899221662,
+    "('Open', 'POWERGRID.NS')":267.4255161381,
+    "('Volume', 'POWERGRID.NS')":17193482
+  },
+  {
+    "('Date', '')":"2025-02-10",
+    "('Close', 'POWERGRID.NS')":263.1169433594,
+    "('High', 'POWERGRID.NS')":270.2652514628,
+    "('Low', 'POWERGRID.NS')":262.5294042273,
+    "('Open', 'POWERGRID.NS')":269.2860295372,
+    "('Volume', 'POWERGRID.NS')":16709670
+  },
+  {
+    "('Date', '')":"2025-02-11",
+    "('Close', 'POWERGRID.NS')":256.0176086426,
+    "('High', 'POWERGRID.NS')":263.2148665704,
+    "('Low', 'POWERGRID.NS')":254.5977247626,
+    "('Open', 'POWERGRID.NS')":263.1169682754,
+    "('Volume', 'POWERGRID.NS')":22083955
+  },
+  {
+    "('Date', '')":"2025-02-12",
+    "('Close', 'POWERGRID.NS')":251.7089996338,
+    "('High', 'POWERGRID.NS')":256.6540885949,
+    "('Low', 'POWERGRID.NS')":248.7223845289,
+    "('Open', 'POWERGRID.NS')":254.1081054537,
+    "('Volume', 'POWERGRID.NS')":17861265
+  },
+  {
+    "('Date', '')":"2025-02-13",
+    "('Close', 'POWERGRID.NS')":253.7653808594,
+    "('High', 'POWERGRID.NS')":255.9196812598,
+    "('Low', 'POWERGRID.NS')":250.7787656476,
+    "('Open', 'POWERGRID.NS')":251.9048649955,
+    "('Volume', 'POWERGRID.NS')":12257226
+  },
+  {
+    "('Date', '')":"2025-02-14",
+    "('Close', 'POWERGRID.NS')":252.0028076172,
+    "('High', 'POWERGRID.NS')":256.066573262,
+    "('Low', 'POWERGRID.NS')":249.456824239,
+    "('Open', 'POWERGRID.NS')":254.9894230001,
+    "('Volume', 'POWERGRID.NS')":11339563
+  },
+  {
+    "('Date', '')":"2025-02-17",
+    "('Close', 'POWERGRID.NS')":257.7312316895,
+    "('High', 'POWERGRID.NS')":258.5145973036,
+    "('Low', 'POWERGRID.NS')":246.9597751934,
+    "('Open', 'POWERGRID.NS')":251.5621154146,
+    "('Volume', 'POWERGRID.NS')":8332653
+  },
+  {
+    "('Date', '')":"2025-02-18",
+    "('Close', 'POWERGRID.NS')":261.4033203125,
+    "('High', 'POWERGRID.NS')":262.3335632663,
+    "('Low', 'POWERGRID.NS')":254.7935719273,
+    "('Open', 'POWERGRID.NS')":258.3677261885,
+    "('Volume', 'POWERGRID.NS')":10483635
+  },
+  {
+    "('Date', '')":"2025-02-19",
+    "('Close', 'POWERGRID.NS')":257.5843200684,
+    "('High', 'POWERGRID.NS')":262.9210916094,
+    "('Low', 'POWERGRID.NS')":256.8499036114,
+    "('Open', 'POWERGRID.NS')":257.0457599533,
+    "('Volume', 'POWERGRID.NS')":14602009
+  },
+  {
+    "('Date', '')":"2025-02-20",
+    "('Close', 'POWERGRID.NS')":260.2282714844,
+    "('High', 'POWERGRID.NS')":260.9137389036,
+    "('Low', 'POWERGRID.NS')":255.8707212126,
+    "('Open', 'POWERGRID.NS')":257.2906052023,
+    "('Volume', 'POWERGRID.NS')":15312926
+  },
+  {
+    "('Date', '')":"2025-02-21",
+    "('Close', 'POWERGRID.NS')":256.4582519531,
+    "('High', 'POWERGRID.NS')":260.2282628669,
+    "('Low', 'POWERGRID.NS')":254.0101967992,
+    "('Open', 'POWERGRID.NS')":259.7876009858,
+    "('Volume', 'POWERGRID.NS')":10757038
+  },
+  {
+    "('Date', '')":"2025-02-24",
+    "('Close', 'POWERGRID.NS')":253.7653808594,
+    "('High', 'POWERGRID.NS')":256.3603132393,
+    "('Low', 'POWERGRID.NS')":251.9048649955,
+    "('Open', 'POWERGRID.NS')":252.6392815115,
+    "('Volume', 'POWERGRID.NS')":14599185
+  },
+  {
+    "('Date', '')":"2025-02-25",
+    "('Close', 'POWERGRID.NS')":250.4360351562,
+    "('High', 'POWERGRID.NS')":254.5487796518,
+    "('Low', 'POWERGRID.NS')":249.6036904508,
+    "('Open', 'POWERGRID.NS')":253.4226504061,
+    "('Volume', 'POWERGRID.NS')":21287363
+  },
+  {
+    "('Date', '')":"2025-02-27",
+    "('Close', 'POWERGRID.NS')":250.9256286621,
+    "('High', 'POWERGRID.NS')":252.1007069741,
+    "('Low', 'POWERGRID.NS')":248.1838041703,
+    "('Open', 'POWERGRID.NS')":248.7223792397,
+    "('Volume', 'POWERGRID.NS')":13614799
+  },
+  {
+    "('Date', '')":"2025-02-28",
+    "('Close', 'POWERGRID.NS')":245.6378479004,
+    "('High', 'POWERGRID.NS')":251.6600573027,
+    "('Low', 'POWERGRID.NS')":242.1616067664,
+    "('Open', 'POWERGRID.NS')":250.5829071119,
+    "('Volume', 'POWERGRID.NS')":38512868
+  },
+  {
+    "('Date', '')":"2025-03-03",
+    "('Close', 'POWERGRID.NS')":247.2535400391,
+    "('High', 'POWERGRID.NS')":248.5265315504,
+    "('Low', 'POWERGRID.NS')":243.3366522761,
+    "('Open', 'POWERGRID.NS')":247.7431510094,
+    "('Volume', 'POWERGRID.NS')":9873539
+  },
+  {
+    "('Date', '')":"2025-03-04",
+    "('Close', 'POWERGRID.NS')":248.7223815918,
+    "('High', 'POWERGRID.NS')":251.8069248356,
+    "('Low', 'POWERGRID.NS')":244.2669186182,
+    "('Open', 'POWERGRID.NS')":244.8054936927,
+    "('Volume', 'POWERGRID.NS')":11947033
+  },
+  {
+    "('Date', '')":"2025-03-05",
+    "('Close', 'POWERGRID.NS')":258.9062805176,
+    "('High', 'POWERGRID.NS')":261.6481199385,
+    "('Low', 'POWERGRID.NS')":250.4360165314,
+    "('Open', 'POWERGRID.NS')":251.6110948381,
+    "('Volume', 'POWERGRID.NS')":14536637
+  },
+  {
+    "('Date', '')":"2025-03-06",
+    "('Close', 'POWERGRID.NS')":261.1095581055,
+    "('High', 'POWERGRID.NS')":261.7460464721,
+    "('Low', 'POWERGRID.NS')":255.2832047388,
+    "('Open', 'POWERGRID.NS')":259.6407250054,
+    "('Volume', 'POWERGRID.NS')":11926868
+  },
+  {
+    "('Date', '')":"2025-03-07",
+    "('Close', 'POWERGRID.NS')":257.8291320801,
+    "('High', 'POWERGRID.NS')":263.0679755827,
+    "('Low', 'POWERGRID.NS')":256.1644726655,
+    "('Open', 'POWERGRID.NS')":260.4730433456,
+    "('Volume', 'POWERGRID.NS')":10043068
+  },
+  {
+    "('Date', '')":"2025-03-10",
+    "('Close', 'POWERGRID.NS')":265.6629333496,
+    "('High', 'POWERGRID.NS')":268.5516503846,
+    "('Low', 'POWERGRID.NS')":255.6259072186,
+    "('Open', 'POWERGRID.NS')":255.6259072186,
+    "('Volume', 'POWERGRID.NS')":30233763
+  },
+  {
+    "('Date', '')":"2025-03-11",
+    "('Close', 'POWERGRID.NS')":261.7460327148,
+    "('High', 'POWERGRID.NS')":266.2015108142,
+    "('Low', 'POWERGRID.NS')":260.3261787229,
+    "('Open', 'POWERGRID.NS')":264.3899441093,
+    "('Volume', 'POWERGRID.NS')":9255499
+  },
+  {
+    "('Date', '')":"2025-03-12",
+    "('Close', 'POWERGRID.NS')":261.550201416,
+    "('High', 'POWERGRID.NS')":266.7400660475,
+    "('Low', 'POWERGRID.NS')":258.122924426,
+    "('Open', 'POWERGRID.NS')":265.0754065825,
+    "('Volume', 'POWERGRID.NS')":11875548
+  },
+  {
+    "('Date', '')":"2025-03-13",
+    "('Close', 'POWERGRID.NS')":262.0887756348,
+    "('High', 'POWERGRID.NS')":265.026441784,
+    "('Low', 'POWERGRID.NS')":259.9834542045,
+    "('Open', 'POWERGRID.NS')":264.194097065,
+    "('Volume', 'POWERGRID.NS')":9270442
+  },
+  {
+    "('Date', '')":"2025-03-17",
+    "('Close', 'POWERGRID.NS')":261.7950134277,
+    "('High', 'POWERGRID.NS')":265.0264341453,
+    "('Low', 'POWERGRID.NS')":259.4448865528,
+    "('Open', 'POWERGRID.NS')":264.389945808,
+    "('Volume', 'POWERGRID.NS')":11987667
+  },
+  {
+    "('Date', '')":"2025-03-18",
+    "('Close', 'POWERGRID.NS')":261.7950134277,
+    "('High', 'POWERGRID.NS')":261.7950134277,
+    "('Low', 'POWERGRID.NS')":261.7950134277,
+    "('Open', 'POWERGRID.NS')":261.7950134277,
+    "('Volume', 'POWERGRID.NS')":0
+  },
+  {
+    "('Date', '')":"2025-03-19",
+    "('Close', 'POWERGRID.NS')":271.4403381348,
+    "('High', 'POWERGRID.NS')":272.5174583795,
+    "('Low', 'POWERGRID.NS')":264.1940717542,
+    "('Open', 'POWERGRID.NS')":266.3483720106,
+    "('Volume', 'POWERGRID.NS')":13089950
+  },
+  {
+    "('Date', '')":"2025-03-20",
+    "('Close', 'POWERGRID.NS')":274.5249023438,
+    "('High', 'POWERGRID.NS')":277.6583949126,
+    "('Low', 'POWERGRID.NS')":271.2934517116,
+    "('Open', 'POWERGRID.NS')":277.6094457644,
+    "('Volume', 'POWERGRID.NS')":13710249
+  },
+  {
+    "('Date', '')":"2025-03-21",
+    "('Close', 'POWERGRID.NS')":277.2177429199,
+    "('High', 'POWERGRID.NS')":279.225135985,
+    "('Low', 'POWERGRID.NS')":274.2310980111,
+    "('Open', 'POWERGRID.NS')":275.1613708267,
+    "('Volume', 'POWERGRID.NS')":26003527
+  },
+  {
+    "('Date', '')":"2025-03-24",
+    "('Close', 'POWERGRID.NS')":285.785949707,
+    "('High', 'POWERGRID.NS')":287.8423219055,
+    "('Low', 'POWERGRID.NS')":278.5397128069,
+    "('Open', 'POWERGRID.NS')":279.0782729592,
+    "('Volume', 'POWERGRID.NS')":19966817
+  },
+  {
+    "('Date', '')":"2025-03-25",
+    "('Close', 'POWERGRID.NS')":284.9536132812,
+    "('High', 'POWERGRID.NS')":289.115306946,
+    "('Low', 'POWERGRID.NS')":281.6732134747,
+    "('Open', 'POWERGRID.NS')":284.9536132812,
+    "('Volume', 'POWERGRID.NS')":16983852
+  },
+  {
+    "('Date', '')":"2025-03-26",
+    "('Close', 'POWERGRID.NS')":284.8067321777,
+    "('High', 'POWERGRID.NS')":290.5841361532,
+    "('Low', 'POWERGRID.NS')":283.5337256141,
+    "('Open', 'POWERGRID.NS')":285.6390768764,
+    "('Volume', 'POWERGRID.NS')":20367015
+  },
+  {
+    "('Date', '')":"2025-03-27",
+    "('Close', 'POWERGRID.NS')":289.3601074219,
+    "('High', 'POWERGRID.NS')":291.0737459599,
+    "('Low', 'POWERGRID.NS')":282.9951642806,
+    "('Open', 'POWERGRID.NS')":282.9951642806,
+    "('Volume', 'POWERGRID.NS')":37203166
+  },
+  {
+    "('Date', '')":"2025-03-28",
+    "('Close', 'POWERGRID.NS')":284.3171081543,
+    "('High', 'POWERGRID.NS')":288.1360679034,
+    "('Low', 'POWERGRID.NS')":282.3096851632,
+    "('Open', 'POWERGRID.NS')":287.7933342334,
+    "('Volume', 'POWERGRID.NS')":10834900
+  },
+  {
+    "('Date', '')":"2025-04-01",
+    "('Close', 'POWERGRID.NS')":283.2889099121,
+    "('High', 'POWERGRID.NS')":290.7799820466,
+    "('Low', 'POWERGRID.NS')":281.0367112872,
+    "('Open', 'POWERGRID.NS')":283.5826944394,
+    "('Volume', 'POWERGRID.NS')":11603556
+  },
+  {
+    "('Date', '')":"2025-04-02",
+    "('Close', 'POWERGRID.NS')":280.7919006348,
+    "('High', 'POWERGRID.NS')":283.7295665525,
+    "('Low', 'POWERGRID.NS')":278.5886511965,
+    "('Open', 'POWERGRID.NS')":280.8898288087,
+    "('Volume', 'POWERGRID.NS')":11679536
+  },
+  {
+    "('Date', '')":"2025-04-03",
+    "('Close', 'POWERGRID.NS')":292.8853149414,
+    "('High', 'POWERGRID.NS')":293.717659643,
+    "('Low', 'POWERGRID.NS')":279.1762065312,
+    "('Open', 'POWERGRID.NS')":283.3379001557,
+    "('Volume', 'POWERGRID.NS')":23478876
+  },
+  {
+    "('Date', '')":"2025-04-04",
+    "('Close', 'POWERGRID.NS')":287.7933349609,
+    "('High', 'POWERGRID.NS')":294.6478888451,
+    "('Low', 'POWERGRID.NS')":286.0307473441,
+    "('Open', 'POWERGRID.NS')":293.7665950367,
+    "('Volume', 'POWERGRID.NS')":21020875
+  },
+  {
+    "('Date', '')":"2025-04-07",
+    "('Close', 'POWERGRID.NS')":283.3868408203,
+    "('High', 'POWERGRID.NS')":287.7933398203,
+    "('Low', 'POWERGRID.NS')":276.4343586437,
+    "('Open', 'POWERGRID.NS')":277.7073651738,
+    "('Volume', 'POWERGRID.NS')":22847548
+  },
+  {
+    "('Date', '')":"2025-04-08",
+    "('Close', 'POWERGRID.NS')":282.9462280273,
+    "('High', 'POWERGRID.NS')":287.8912875091,
+    "('Low', 'POWERGRID.NS')":278.7355552119,
+    "('Open', 'POWERGRID.NS')":285.8838942264,
+    "('Volume', 'POWERGRID.NS')":20831596
+  },
+  {
+    "('Date', '')":"2025-04-09",
+    "('Close', 'POWERGRID.NS')":287.3037414551,
+    "('High', 'POWERGRID.NS')":293.2770018944,
+    "('Low', 'POWERGRID.NS')":283.2889251019,
+    "('Open', 'POWERGRID.NS')":283.9254433366,
+    "('Volume', 'POWERGRID.NS')":21342531
+  },
+  {
+    "('Date', '')":"2025-04-11",
+    "('Close', 'POWERGRID.NS')":297.7814331055,
+    "('High', 'POWERGRID.NS')":298.6627269789,
+    "('Low', 'POWERGRID.NS')":287.1568678248,
+    "('Open', 'POWERGRID.NS')":287.1568678248,
+    "('Volume', 'POWERGRID.NS')":19831004
+  },
+  {
+    "('Date', '')":"2025-04-15",
+    "('Close', 'POWERGRID.NS')":298.2220458984,
+    "('High', 'POWERGRID.NS')":303.9994795617,
+    "('Low', 'POWERGRID.NS')":297.3897311115,
+    "('Open', 'POWERGRID.NS')":300.8170080857,
+    "('Volume', 'POWERGRID.NS')":16563441
+  },
+  {
+    "('Date', '')":"2025-04-16",
+    "('Close', 'POWERGRID.NS')":299.3971252441,
+    "('High', 'POWERGRID.NS')":300.621152739,
+    "('Low', 'POWERGRID.NS')":296.5084084029,
+    "('Open', 'POWERGRID.NS')":298.1241486029,
+    "('Volume', 'POWERGRID.NS')":7032401
+  },
+  {
+    "('Date', '')":"2025-04-17",
+    "('Close', 'POWERGRID.NS')":302.5795898438,
+    "('High', 'POWERGRID.NS')":303.3629554692,
+    "('Low', 'POWERGRID.NS')":295.7250360285,
+    "('Open', 'POWERGRID.NS')":299.1033637908,
+    "('Volume', 'POWERGRID.NS')":8528993
+  },
+  {
+    "('Date', '')":"2025-04-21",
+    "('Close', 'POWERGRID.NS')":313.3510437012,
+    "('High', 'POWERGRID.NS')":315.3094877243,
+    "('Low', 'POWERGRID.NS')":302.041041421,
+    "('Open', 'POWERGRID.NS')":303.5588235855,
+    "('Volume', 'POWERGRID.NS')":13369014
+  },
+  {
+    "('Date', '')":"2025-04-22",
+    "('Close', 'POWERGRID.NS')":306.0558166504,
+    "('High', 'POWERGRID.NS')":313.1062268311,
+    "('Low', 'POWERGRID.NS')":305.6151846913,
+    "('Open', 'POWERGRID.NS')":313.1062268311,
+    "('Volume', 'POWERGRID.NS')":10027268
+  },
+  {
+    "('Date', '')":"2025-04-23",
+    "('Close', 'POWERGRID.NS')":308.4059753418,
+    "('High', 'POWERGRID.NS')":309.532074645,
+    "('Low', 'POWERGRID.NS')":303.020254438,
+    "('Open', 'POWERGRID.NS')":307.6225798257,
+    "('Volume', 'POWERGRID.NS')":8225575
+  },
+  {
+    "('Date', '')":"2025-04-24",
+    "('Close', 'POWERGRID.NS')":307.8673706055,
+    "('High', 'POWERGRID.NS')":309.2872543656,
+    "('Low', 'POWERGRID.NS')":306.3495885585,
+    "('Open', 'POWERGRID.NS')":308.3569815733,
+    "('Volume', 'POWERGRID.NS')":8021180
+  },
+  {
+    "('Date', '')":"2025-04-25",
+    "('Close', 'POWERGRID.NS')":300.1315307617,
+    "('High', 'POWERGRID.NS')":308.8466002297,
+    "('Low', 'POWERGRID.NS')":297.0959367088,
+    "('Open', 'POWERGRID.NS')":306.4964735022,
+    "('Volume', 'POWERGRID.NS')":11475773
+  },
+  {
+    "('Date', '')":"2025-04-28",
+    "('Close', 'POWERGRID.NS')":302.1389465332,
+    "('High', 'POWERGRID.NS')":304.4891033208,
+    "('Low', 'POWERGRID.NS')":297.2428363649,
+    "('Open', 'POWERGRID.NS')":297.8793545936,
+    "('Volume', 'POWERGRID.NS')":7314824
+  },
+  {
+    "('Date', '')":"2025-04-29",
+    "('Close', 'POWERGRID.NS')":296.6553344727,
+    "('High', 'POWERGRID.NS')":304.3422037224,
+    "('Low', 'POWERGRID.NS')":294.9416958709,
+    "('Open', 'POWERGRID.NS')":302.1389540916,
+    "('Volume', 'POWERGRID.NS')":14678005
+  },
+  {
+    "('Date', '')":"2025-04-30",
+    "('Close', 'POWERGRID.NS')":301.0618286133,
+    "('High', 'POWERGRID.NS')":303.5588328657,
+    "('Low', 'POWERGRID.NS')":295.6271283529,
+    "('Open', 'POWERGRID.NS')":298.1241624888,
+    "('Volume', 'POWERGRID.NS')":17619987
+  },
+  {
+    "('Date', '')":"2025-05-02",
+    "('Close', 'POWERGRID.NS')":296.7532348633,
+    "('High', 'POWERGRID.NS')":302.5796181038,
+    "('Low', 'POWERGRID.NS')":296.0188183145,
+    "('Open', 'POWERGRID.NS')":299.1523408761,
+    "('Volume', 'POWERGRID.NS')":5688285
+  },
+  {
+    "('Date', '')":"2025-05-05",
+    "('Close', 'POWERGRID.NS')":301.7962341309,
+    "('High', 'POWERGRID.NS')":304.2442891453,
+    "('Low', 'POWERGRID.NS')":298.3199780803,
+    "('Open', 'POWERGRID.NS')":298.4668554045,
+    "('Volume', 'POWERGRID.NS')":4342960
+  },
+  {
+    "('Date', '')":"2025-05-06",
+    "('Close', 'POWERGRID.NS')":301.2087097168,
+    "('High', 'POWERGRID.NS')":303.9994985467,
+    "('Low', 'POWERGRID.NS')":299.2012865765,
+    "('Open', 'POWERGRID.NS')":301.2087097168,
+    "('Volume', 'POWERGRID.NS')":9124804
+  },
+  {
+    "('Date', '')":"2025-05-07",
+    "('Close', 'POWERGRID.NS')":304.6359558105,
+    "('High', 'POWERGRID.NS')":306.6433488625,
+    "('Low', 'POWERGRID.NS')":300.6211398232,
+    "('Open', 'POWERGRID.NS')":301.600361777,
+    "('Volume', 'POWERGRID.NS')":14679327
+  },
+  {
+    "('Date', '')":"2025-05-08",
+    "('Close', 'POWERGRID.NS')":301.8451843262,
+    "('High', 'POWERGRID.NS')":310.8050597334,
+    "('Low', 'POWERGRID.NS')":297.6834907872,
+    "('Open', 'POWERGRID.NS')":306.8881716967,
+    "('Volume', 'POWERGRID.NS')":19253478
+  },
+  {
+    "('Date', '')":"2025-05-09",
+    "('Close', 'POWERGRID.NS')":293.0811462402,
+    "('High', 'POWERGRID.NS')":296.7532289106,
+    "('Low', 'POWERGRID.NS')":290.2414082852,
+    "('Open', 'POWERGRID.NS')":293.7666136254,
+    "('Volume', 'POWERGRID.NS')":11981497
+  },
+  {
+    "('Date', '')":"2025-05-12",
+    "('Close', 'POWERGRID.NS')":302.6285400391,
+    "('High', 'POWERGRID.NS')":304.635963022,
+    "('Low', 'POWERGRID.NS')":297.7324301541,
+    "('Open', 'POWERGRID.NS')":297.7324301541,
+    "('Volume', 'POWERGRID.NS')":7145884
+  },
+  {
+    "('Date', '')":"2025-05-13",
+    "('Close', 'POWERGRID.NS')":292.248840332,
+    "('High', 'POWERGRID.NS')":302.3348157544,
+    "('Low', 'POWERGRID.NS')":291.8081784447,
+    "('Open', 'POWERGRID.NS')":298.662732972,
+    "('Volume', 'POWERGRID.NS')":17988336
+  },
+  {
+    "('Date', '')":"2025-05-14",
+    "('Close', 'POWERGRID.NS')":289.8007507324,
+    "('High', 'POWERGRID.NS')":294.3051478372,
+    "('Low', 'POWERGRID.NS')":287.9402051035,
+    "('Open', 'POWERGRID.NS')":292.9832220993,
+    "('Volume', 'POWERGRID.NS')":10359258
+  },
+  {
+    "('Date', '')":"2025-05-15",
+    "('Close', 'POWERGRID.NS')":293.4238586426,
+    "('High', 'POWERGRID.NS')":294.1582751234,
+    "('Low', 'POWERGRID.NS')":285.0025436863,
+    "('Open', 'POWERGRID.NS')":289.7517762387,
+    "('Volume', 'POWERGRID.NS')":22640626
+  },
+  {
+    "('Date', '')":"2025-05-16",
+    "('Close', 'POWERGRID.NS')":293.9624633789,
+    "('High', 'POWERGRID.NS')":295.9209074257,
+    "('Low', 'POWERGRID.NS')":289.3601079155,
+    "('Open', 'POWERGRID.NS')":293.7666070208,
+    "('Volume', 'POWERGRID.NS')":16763668
+  },
+  {
+    "('Date', '')":"2025-05-19",
+    "('Close', 'POWERGRID.NS')":297.7324523926,
+    "('High', 'POWERGRID.NS')":298.1731142685,
+    "('Low', 'POWERGRID.NS')":292.7873929928,
+    "('Open', 'POWERGRID.NS')":295.7250591432,
+    "('Volume', 'POWERGRID.NS')":12575289
+  },
+  {
+    "('Date', '')":"2025-05-20",
+    "('Close', 'POWERGRID.NS')":291.7102355957,
+    "('High', 'POWERGRID.NS')":298.9564726121,
+    "('Low', 'POWERGRID.NS')":290.9268699282,
+    "('Open', 'POWERGRID.NS')":298.0751787653,
+    "('Volume', 'POWERGRID.NS')":21339095
+  },
+  {
+    "('Date', '')":"2025-05-21",
+    "('Close', 'POWERGRID.NS')":289.9965820312,
+    "('High', 'POWERGRID.NS')":295.9698420577,
+    "('Low', 'POWERGRID.NS')":289.5069710436,
+    "('Open', 'POWERGRID.NS')":291.5633431686,
+    "('Volume', 'POWERGRID.NS')":11997632
+  },
+  {
+    "('Date', '')":"2025-05-22",
+    "('Close', 'POWERGRID.NS')":284.855682373,
+    "('High', 'POWERGRID.NS')":290.1924543866,
+    "('Low', 'POWERGRID.NS')":280.5960605685,
+    "('Open', 'POWERGRID.NS')":289.75179252,
+    "('Volume', 'POWERGRID.NS')":26158839
+  },
+  {
+    "('Date', '')":"2025-05-23",
+    "('Close', 'POWERGRID.NS')":291.9060974121,
+    "('High', 'POWERGRID.NS')":292.5425857643,
+    "('Low', 'POWERGRID.NS')":285.6880314535,
+    "('Open', 'POWERGRID.NS')":285.9328369646,
+    "('Volume', 'POWERGRID.NS')":9872024
+  },
+  {
+    "('Date', '')":"2025-05-26",
+    "('Close', 'POWERGRID.NS')":290.53515625,
+    "('High', 'POWERGRID.NS')":297.4876079904,
+    "('Low', 'POWERGRID.NS')":289.6048834706,
+    "('Open', 'POWERGRID.NS')":293.8155257824,
+    "('Volume', 'POWERGRID.NS')":16469130
+  },
+  {
+    "('Date', '')":"2025-05-27",
+    "('Close', 'POWERGRID.NS')":288.4298400879,
+    "('High', 'POWERGRID.NS')":291.4164852416,
+    "('Low', 'POWERGRID.NS')":286.1286921994,
+    "('Open', 'POWERGRID.NS')":290.8289460406,
+    "('Volume', 'POWERGRID.NS')":17074710
+  },
+  {
+    "('Date', '')":"2025-05-28",
+    "('Close', 'POWERGRID.NS')":285.1004638672,
+    "('High', 'POWERGRID.NS')":289.5069626283,
+    "('Low', 'POWERGRID.NS')":284.4639755784,
+    "('Open', 'POWERGRID.NS')":288.42981251,
+    "('Volume', 'POWERGRID.NS')":10099453
+  },
+  {
+    "('Date', '')":"2025-05-29",
+    "('Close', 'POWERGRID.NS')":287.009979248,
+    "('High', 'POWERGRID.NS')":287.7933449085,
+    "('Low', 'POWERGRID.NS')":285.2963407178,
+    "('Open', 'POWERGRID.NS')":285.2963407178,
+    "('Volume', 'POWERGRID.NS')":9773818
+  },
+  {
+    "('Date', '')":"2025-05-30",
+    "('Close', 'POWERGRID.NS')":283.7295837402,
+    "('High', 'POWERGRID.NS')":288.5277657198,
+    "('Low', 'POWERGRID.NS')":282.2607506924,
+    "('Open', 'POWERGRID.NS')":285.932833312,
+    "('Volume', 'POWERGRID.NS')":21788566
+  },
+  {
+    "('Date', '')":"2025-06-02",
+    "('Close', 'POWERGRID.NS')":286.9609985352,
+    "('High', 'POWERGRID.NS')":287.5485377188,
+    "('Low', 'POWERGRID.NS')":282.4076221581,
+    "('Open', 'POWERGRID.NS')":284.2681380034,
+    "('Volume', 'POWERGRID.NS')":7255782
+  },
+  {
+    "('Date', '')":"2025-06-03",
+    "('Close', 'POWERGRID.NS')":282.2607116699,
+    "('High', 'POWERGRID.NS')":289.2621422533,
+    "('Low', 'POWERGRID.NS')":281.7711007217,
+    "('Open', 'POWERGRID.NS')":286.4224047301,
+    "('Volume', 'POWERGRID.NS')":10989055
+  },
+  {
+    "('Date', '')":"2025-06-04",
+    "('Close', 'POWERGRID.NS')":282.5545043945,
+    "('High', 'POWERGRID.NS')":283.7785319303,
+    "('Low', 'POWERGRID.NS')":281.0856713517,
+    "('Open', 'POWERGRID.NS')":282.2607497393,
+    "('Volume', 'POWERGRID.NS')":8580196
+  },
+  {
+    "('Date', '')":"2025-06-05",
+    "('Close', 'POWERGRID.NS')":288.1360778809,
+    "('High', 'POWERGRID.NS')":289.1152998957,
+    "('Low', 'POWERGRID.NS')":284.0723124958,
+    "('Open', 'POWERGRID.NS')":284.9536063325,
+    "('Volume', 'POWERGRID.NS')":13110486
+  },
+  {
+    "('Date', '')":"2025-06-06",
+    "('Close', 'POWERGRID.NS')":289.6538391113,
+    "('High', 'POWERGRID.NS')":290.8289173976,
+    "('Low', 'POWERGRID.NS')":286.8630804774,
+    "('Open', 'POWERGRID.NS')":287.4505897371,
+    "('Volume', 'POWERGRID.NS')":7935393
+  },
+  {
+    "('Date', '')":"2025-06-09",
+    "('Close', 'POWERGRID.NS')":294.2561950684,
+    "('High', 'POWERGRID.NS')":294.8926833572,
+    "('Low', 'POWERGRID.NS')":289.9965736223,
+    "('Open', 'POWERGRID.NS')":291.8081402009,
+    "('Volume', 'POWERGRID.NS')":8666186
+  },
+  {
+    "('Date', '')":"2025-06-10",
+    "('Close', 'POWERGRID.NS')":294.7947692871,
+    "('High', 'POWERGRID.NS')":295.5291857825,
+    "('Low', 'POWERGRID.NS')":292.0529596578,
+    "('Open', 'POWERGRID.NS')":294.3051582902,
+    "('Volume', 'POWERGRID.NS')":7273892
+  },
+  {
+    "('Date', '')":"2025-06-11",
+    "('Close', 'POWERGRID.NS')":289.3111572266,
+    "('High', 'POWERGRID.NS')":295.1375103047,
+    "('Low', 'POWERGRID.NS')":287.8912733468,
+    "('Open', 'POWERGRID.NS')":294.8437556526,
+    "('Volume', 'POWERGRID.NS')":10941604
+  },
+  {
+    "('Date', '')":"2025-06-12",
+    "('Close', 'POWERGRID.NS')":282.9951782227,
+    "('High', 'POWERGRID.NS')":289.6538763451,
+    "('Low', 'POWERGRID.NS')":282.5055671877,
+    "('Open', 'POWERGRID.NS')":289.0173879763,
+    "('Volume', 'POWERGRID.NS')":14071159
+  },
+  {
+    "('Date', '')":"2025-06-13",
+    "('Close', 'POWERGRID.NS')":279.5678710938,
+    "('High', 'POWERGRID.NS')":280.4981439142,
+    "('Low', 'POWERGRID.NS')":275.9447378687,
+    "('Open', 'POWERGRID.NS')":276.6791543427,
+    "('Volume', 'POWERGRID.NS')":16028417
+  },
+  {
+    "('Date', '')":"2025-06-16",
+    "('Close', 'POWERGRID.NS')":282.6524353027,
+    "('High', 'POWERGRID.NS')":284.4640020498,
+    "('Low', 'POWERGRID.NS')":280.3512575366,
+    "('Open', 'POWERGRID.NS')":281.9669978062,
+    "('Volume', 'POWERGRID.NS')":11067299
+  },
+  {
+    "('Date', '')":"2025-06-17",
+    "('Close', 'POWERGRID.NS')":282.5545043945,
+    "('High', 'POWERGRID.NS')":284.4150501556,
+    "('Low', 'POWERGRID.NS')":281.2325785627,
+    "('Open', 'POWERGRID.NS')":282.6524325741,
+    "('Volume', 'POWERGRID.NS')":7286868
+  },
+  {
+    "('Date', '')":"2025-06-18",
+    "('Close', 'POWERGRID.NS')":281.3304748535,
+    "('High', 'POWERGRID.NS')":282.3096968751,
+    "('Low', 'POWERGRID.NS')":279.567887168,
+    "('Open', 'POWERGRID.NS')":281.5263312112,
+    "('Volume', 'POWERGRID.NS')":11904855
+  },
+  {
+    "('Date', '')":"2025-06-19",
+    "('Close', 'POWERGRID.NS')":280.4981384277,
+    "('High', 'POWERGRID.NS')":281.673186833,
+    "('Low', 'POWERGRID.NS')":279.3720092829,
+    "('Open', 'POWERGRID.NS')":280.8408422021,
+    "('Volume', 'POWERGRID.NS')":13573824
+  },
+  {
+    "('Date', '')":"2025-06-20",
+    "('Close', 'POWERGRID.NS')":287.009979248,
+    "('High', 'POWERGRID.NS')":288.3808840956,
+    "('Low', 'POWERGRID.NS')":279.1272240787,
+    "('Open', 'POWERGRID.NS')":279.6168350873,
+    "('Volume', 'POWERGRID.NS')":33014151
+  },
+  {
+    "('Date', '')":"2025-06-23",
+    "('Close', 'POWERGRID.NS')":284.2191772461,
+    "('High', 'POWERGRID.NS')":287.3526995085,
+    "('Low', 'POWERGRID.NS')":282.1138559839,
+    "('Open', 'POWERGRID.NS')":285.3452765367,
+    "('Volume', 'POWERGRID.NS')":6833477
+  },
+  {
+    "('Date', '')":"2025-06-24",
+    "('Close', 'POWERGRID.NS')":280.0085449219,
+    "('High', 'POWERGRID.NS')":288.5767374852,
+    "('Low', 'POWERGRID.NS')":279.4210057408,
+    "('Open', 'POWERGRID.NS')":287.3527099761,
+    "('Volume', 'POWERGRID.NS')":15007849
+  },
+  {
+    "('Date', '')":"2025-06-25",
+    "('Close', 'POWERGRID.NS')":284.4150390625,
+    "('High', 'POWERGRID.NS')":285.0515273796,
+    "('Low', 'POWERGRID.NS')":280.5471002471,
+    "('Open', 'POWERGRID.NS')":280.5471002471,
+    "('Volume', 'POWERGRID.NS')":10838516
+  },
+  {
+    "('Date', '')":"2025-06-26",
+    "('Close', 'POWERGRID.NS')":287.4016723633,
+    "('High', 'POWERGRID.NS')":288.1360889025,
+    "('Low', 'POWERGRID.NS')":283.729589667,
+    "('Open', 'POWERGRID.NS')":284.7577608686,
+    "('Volume', 'POWERGRID.NS')":10232220
+  },
+  {
+    "('Date', '')":"2025-06-27",
+    "('Close', 'POWERGRID.NS')":293.0321960449,
+    "('High', 'POWERGRID.NS')":294.4520799591,
+    "('Low', 'POWERGRID.NS')":288.0381576544,
+    "('Open', 'POWERGRID.NS')":288.8705023668,
+    "('Volume', 'POWERGRID.NS')":15523628
+  },
+  {
+    "('Date', '')":"2025-06-30",
+    "('Close', 'POWERGRID.NS')":293.6686706543,
+    "('High', 'POWERGRID.NS')":294.7458208267,
+    "('Low', 'POWERGRID.NS')":290.0945163452,
+    "('Open', 'POWERGRID.NS')":294.1582816523,
+    "('Volume', 'POWERGRID.NS')":8415241
+  },
+  {
+    "('Date', '')":"2025-07-01",
+    "('Close', 'POWERGRID.NS')":291.3674926758,
+    "('High', 'POWERGRID.NS')":295.2354315096,
+    "('Low', 'POWERGRID.NS')":290.8289325319,
+    "('Open', 'POWERGRID.NS')":294.7458205121,
+    "('Volume', 'POWERGRID.NS')":12349270
+  },
+  {
+    "('Date', '')":"2025-07-02",
+    "('Close', 'POWERGRID.NS')":288.7236022949,
+    "('High', 'POWERGRID.NS')":292.5425619809,
+    "('Low', 'POWERGRID.NS')":287.3037184926,
+    "('Open', 'POWERGRID.NS')":291.3674836698,
+    "('Volume', 'POWERGRID.NS')":10826029
+  },
+  {
+    "('Date', '')":"2025-07-03",
+    "('Close', 'POWERGRID.NS')":287.5975341797,
+    "('High', 'POWERGRID.NS')":292.738450052,
+    "('Low', 'POWERGRID.NS')":287.0099949604,
+    "('Open', 'POWERGRID.NS')":292.1998599829,
+    "('Volume', 'POWERGRID.NS')":10373094
+  },
+  {
+    "('Date', '')":"2025-07-04",
+    "('Close', 'POWERGRID.NS')":287.8912658691,
+    "('High', 'POWERGRID.NS')":289.0173651841,
+    "('Low', 'POWERGRID.NS')":285.5900882095,
+    "('Open', 'POWERGRID.NS')":287.5975112247,
+    "('Volume', 'POWERGRID.NS')":14193884
+  },
+  {
+    "('Date', '')":"2025-07-07",
+    "('Close', 'POWERGRID.NS')":289.7517700195,
+    "('High', 'POWERGRID.NS')":290.4861864845,
+    "('Low', 'POWERGRID.NS')":287.4016433082,
+    "('Open', 'POWERGRID.NS')":288.5767216056,
+    "('Volume', 'POWERGRID.NS')":6220756
+  },
+  {
+    "('Date', '')":"2025-07-08",
+    "('Close', 'POWERGRID.NS')":291.5633544922,
+    "('High', 'POWERGRID.NS')":292.1998428242,
+    "('Low', 'POWERGRID.NS')":286.9609990758,
+    "('Open', 'POWERGRID.NS')":288.0381492672,
+    "('Volume', 'POWERGRID.NS')":6254288
+  },
+  {
+    "('Date', '')":"2025-07-09",
+    "('Close', 'POWERGRID.NS')":293.4238586426,
+    "('High', 'POWERGRID.NS')":293.7665923103,
+    "('Low', 'POWERGRID.NS')":290.2413872259,
+    "('Open', 'POWERGRID.NS')":292.0529538552,
+    "('Volume', 'POWERGRID.NS')":5650646
+  },
+  {
+    "('Date', '')":"2025-07-10",
+    "('Close', 'POWERGRID.NS')":293.0321960449,
+    "('High', 'POWERGRID.NS')":296.4105240429,
+    "('Low', 'POWERGRID.NS')":291.8081684925,
+    "('Open', 'POWERGRID.NS')":293.7666125764,
+    "('Volume', 'POWERGRID.NS')":9307817
+  },
+  {
+    "('Date', '')":"2025-07-11",
+    "('Close', 'POWERGRID.NS')":292.3467102051,
+    "('High', 'POWERGRID.NS')":294.647887835,
+    "('Low', 'POWERGRID.NS')":290.7799789437,
+    "('Open', 'POWERGRID.NS')":293.0321775445,
+    "('Volume', 'POWERGRID.NS')":7073217
+  },
+  {
+    "('Date', '')":"2025-07-14",
+    "('Close', 'POWERGRID.NS')":292.0040283203,
+    "('High', 'POWERGRID.NS')":294.2072779408,
+    "('Low', 'POWERGRID.NS')":291.2696117802,
+    "('Open', 'POWERGRID.NS')":293.2770050365,
+    "('Volume', 'POWERGRID.NS')":5484223
+  },
+  {
+    "('Date', '')":"2025-07-15",
+    "('Close', 'POWERGRID.NS')":291.8571166992,
+    "('High', 'POWERGRID.NS')":293.7666116282,
+    "('Low', 'POWERGRID.NS')":290.6820681828,
+    "('Open', 'POWERGRID.NS')":291.9060957312,
+    "('Volume', 'POWERGRID.NS')":6173407
+  },
+  {
+    "('Date', '')":"2025-07-16",
+    "('Close', 'POWERGRID.NS')":290.8778686523,
+    "('High', 'POWERGRID.NS')":292.7384142664,
+    "('Low', 'POWERGRID.NS')":289.555942925,
+    "('Open', 'POWERGRID.NS')":292.7384142664,
+    "('Volume', 'POWERGRID.NS')":8144630
+  },
+  {
+    "('Date', '')":"2025-07-17",
+    "('Close', 'POWERGRID.NS')":290.4372558594,
+    "('High', 'POWERGRID.NS')":292.0040170613,
+    "('Low', 'POWERGRID.NS')":289.6538603167,
+    "('Open', 'POWERGRID.NS')":291.3674988443,
+    "('Volume', 'POWERGRID.NS')":8318287
+  },
+  {
+    "('Date', '')":"2025-07-18",
+    "('Close', 'POWERGRID.NS')":288.0381469727,
+    "('High', 'POWERGRID.NS')":295.2354346906,
+    "('Low', 'POWERGRID.NS')":287.4016586457,
+    "('Open', 'POWERGRID.NS')":290.3393246625,
+    "('Volume', 'POWERGRID.NS')":8702106
+  },
+  {
+    "('Date', '')":"2025-07-21",
+    "('Close', 'POWERGRID.NS')":290.828918457,
+    "('High', 'POWERGRID.NS')":291.0737239439,
+    "('Low', 'POWERGRID.NS')":286.1776142056,
+    "('Open', 'POWERGRID.NS')":287.891252614,
+    "('Volume', 'POWERGRID.NS')":5298012
+  },
+  {
+    "('Date', '')":"2025-07-22",
+    "('Close', 'POWERGRID.NS')":291.6123046875,
+    "('High', 'POWERGRID.NS')":292.6405057354,
+    "('Low', 'POWERGRID.NS')":288.4298331325,
+    "('Open', 'POWERGRID.NS')":290.9268672057,
+    "('Volume', 'POWERGRID.NS')":7775653
+  },
+  {
+    "('Date', '')":"2025-07-23",
+    "('Close', 'POWERGRID.NS')":293.0321960449,
+    "('High', 'POWERGRID.NS')":293.423878885,
+    "('Low', 'POWERGRID.NS')":290.9268746315,
+    "('Open', 'POWERGRID.NS')":292.6405132049,
+    "('Volume', 'POWERGRID.NS')":5310964
+  },
+  {
+    "('Date', '')":"2025-07-24",
+    "('Close', 'POWERGRID.NS')":293.1301269531,
+    "('High', 'POWERGRID.NS')":295.0885710552,
+    "('Low', 'POWERGRID.NS')":290.339338131,
+    "('Open', 'POWERGRID.NS')":293.6197379786,
+    "('Volume', 'POWERGRID.NS')":6294709
+  },
+  {
+    "('Date', '')":"2025-07-25",
+    "('Close', 'POWERGRID.NS')":286.0307312012,
+    "('High', 'POWERGRID.NS')":291.5633291188,
+    "('Low', 'POWERGRID.NS')":284.855652934,
+    "('Open', 'POWERGRID.NS')":290.9757899851,
+    "('Volume', 'POWERGRID.NS')":8202572
+  },
+  {
+    "('Date', '')":"2025-07-28",
+    "('Close', 'POWERGRID.NS')":285.8348999023,
+    "('High', 'POWERGRID.NS')":289.1152996259,
+    "('Low', 'POWERGRID.NS')":284.708800563,
+    "('Open', 'POWERGRID.NS')":285.9328280804,
+    "('Volume', 'POWERGRID.NS')":7037396
+  },
+  {
+    "('Date', '')":"2025-07-29",
+    "('Close', 'POWERGRID.NS')":287.009979248,
+    "('High', 'POWERGRID.NS')":287.7933449085,
+    "('Low', 'POWERGRID.NS')":283.7785286609,
+    "('Open', 'POWERGRID.NS')":284.4639960264,
+    "('Volume', 'POWERGRID.NS')":6586034
+  },
+  {
+    "('Date', '')":"2025-07-30",
+    "('Close', 'POWERGRID.NS')":282.9462280273,
+    "('High', 'POWERGRID.NS')":290.3393426749,
+    "('Low', 'POWERGRID.NS')":280.6450501947,
+    "('Open', 'POWERGRID.NS')":286.9120654427,
+    "('Volume', 'POWERGRID.NS')":10515572
+  },
+  {
+    "('Date', '')":"2025-07-31",
+    "('Close', 'POWERGRID.NS')":284.9536132812,
+    "('High', 'POWERGRID.NS')":288.1850340558,
+    "('Low', 'POWERGRID.NS')":279.0293319001,
+    "('Open', 'POWERGRID.NS')":279.0293319001,
+    "('Volume', 'POWERGRID.NS')":14283621
+  },
+  {
+    "('Date', '')":"2025-08-01",
+    "('Close', 'POWERGRID.NS')":285.1983947754,
+    "('High', 'POWERGRID.NS')":286.7161768543,
+    "('Low', 'POWERGRID.NS')":280.3512341383,
+    "('Open', 'POWERGRID.NS')":285.5900775812,
+    "('Volume', 'POWERGRID.NS')":6697683
+  },
+  {
+    "('Date', '')":"2025-08-04",
+    "('Close', 'POWERGRID.NS')":281.9669799805,
+    "('High', 'POWERGRID.NS')":285.4921551878,
+    "('Low', 'POWERGRID.NS')":279.7637305342,
+    "('Open', 'POWERGRID.NS')":285.1494514029,
+    "('Volume', 'POWERGRID.NS')":10397121
+  },
+  {
+    "('Date', '')":"2025-08-05",
+    "('Close', 'POWERGRID.NS')":280.0574951172,
+    "('High', 'POWERGRID.NS')":282.6524274694,
+    "('Low', 'POWERGRID.NS')":279.1762012841,
+    "('Open', 'POWERGRID.NS')":281.1346453059,
+    "('Volume', 'POWERGRID.NS')":15561914
+  },
+  {
+    "('Date', '')":"2025-08-06",
+    "('Close', 'POWERGRID.NS')":278.8824157715,
+    "('High', 'POWERGRID.NS')":282.407620975,
+    "('Low', 'POWERGRID.NS')":278.1479992659,
+    "('Open', 'POWERGRID.NS')":281.6242553225,
+    "('Volume', 'POWERGRID.NS')":12985269
+  },
+  {
+    "('Date', '')":"2025-08-07",
+    "('Close', 'POWERGRID.NS')":279.6168212891,
+    "('High', 'POWERGRID.NS')":280.3512377658,
+    "('Low', 'POWERGRID.NS')":277.5115000325,
+    "('Open', 'POWERGRID.NS')":278.588650175,
+    "('Volume', 'POWERGRID.NS')":8893659
+  },
+  {
+    "('Date', '')":"2025-08-08",
+    "('Close', 'POWERGRID.NS')":278.9313964844,
+    "('High', 'POWERGRID.NS')":280.3023013264,
+    "('Low', 'POWERGRID.NS')":277.7073689677,
+    "('Open', 'POWERGRID.NS')":278.8824174536,
+    "('Volume', 'POWERGRID.NS')":6172968
+  },
+  {
+    "('Date', '')":"2025-08-11",
+    "('Close', 'POWERGRID.NS')":278.9313964844,
+    "('High', 'POWERGRID.NS')":280.4491786517,
+    "('Low', 'POWERGRID.NS')":277.4135844336,
+    "('Open', 'POWERGRID.NS')":278.9313964844,
+    "('Volume', 'POWERGRID.NS')":8755499
+  },
+  {
+    "('Date', '')":"2025-08-12",
+    "('Close', 'POWERGRID.NS')":278.735534668,
+    "('High', 'POWERGRID.NS')":281.5752724744,
+    "('Low', 'POWERGRID.NS')":278.0990463484,
+    "('Open', 'POWERGRID.NS')":278.4907291694,
+    "('Volume', 'POWERGRID.NS')":13184438
+  },
+  {
+    "('Date', '')":"2025-08-13",
+    "('Close', 'POWERGRID.NS')":282.2117919922,
+    "('High', 'POWERGRID.NS')":283.3868404606,
+    "('Low', 'POWERGRID.NS')":280.1064407881,
+    "('Open', 'POWERGRID.NS')":281.0367136403,
+    "('Volume', 'POWERGRID.NS')":9928283
+  },
+  {
+    "('Date', '')":"2025-08-14",
+    "('Close', 'POWERGRID.NS')":282.7014160156,
+    "('High', 'POWERGRID.NS')":284.1212700491,
+    "('Low', 'POWERGRID.NS')":281.1836039176,
+    "('Open', 'POWERGRID.NS')":283.0441198242,
+    "('Volume', 'POWERGRID.NS')":8464495
+  },
+  {
+    "('Date', '')":"2025-08-18",
+    "('Close', 'POWERGRID.NS')":284.3171081543,
+    "('High', 'POWERGRID.NS')":285.2473511061,
+    "('Low', 'POWERGRID.NS')":282.5055415128,
+    "('Open', 'POWERGRID.NS')":283.4847634938,
+    "('Volume', 'POWERGRID.NS')":9836105
+  },
+  {
+    "('Date', '')":"2025-08-19",
+    "('Close', 'POWERGRID.NS')":283.2352905273,
+    "('High', 'POWERGRID.NS')":285.3005538566,
+    "('Low', 'POWERGRID.NS')":281.8092675109,
+    "('Open', 'POWERGRID.NS')":285.2022022671,
+    "('Volume', 'POWERGRID.NS')":7196772
+  },
+  {
+    "('Date', '')":"2025-08-20",
+    "('Close', 'POWERGRID.NS')":283.6286621094,
+    "('High', 'POWERGRID.NS')":284.2187416239,
+    "('Low', 'POWERGRID.NS')":282.2026691296,
+    "('Open', 'POWERGRID.NS')":283.4319889463,
+    "('Volume', 'POWERGRID.NS')":3106073
+  },
+  {
+    "('Date', '')":"2025-08-21",
+    "('Close', 'POWERGRID.NS')":279.3014831543,
+    "('High', 'POWERGRID.NS')":284.7596515418,
+    "('Low', 'POWERGRID.NS')":278.9081067862,
+    "('Open', 'POWERGRID.NS')":283.6286832288,
+    "('Volume', 'POWERGRID.NS')":7389271
+  },
+  {
+    "('Date', '')":"2025-08-22",
+    "('Close', 'POWERGRID.NS')":278.6622314453,
+    "('High', 'POWERGRID.NS')":279.8423605015,
+    "('Low', 'POWERGRID.NS')":277.1378568136,
+    "('Open', 'POWERGRID.NS')":279.301471769,
+    "('Volume', 'POWERGRID.NS')":6824793
+  },
+  {
+    "('Date', '')":"2025-08-25",
+    "('Close', 'POWERGRID.NS')":279.4489746094,
+    "('High', 'POWERGRID.NS')":279.8915417483,
+    "('Low', 'POWERGRID.NS')":277.5312537038,
+    "('Open', 'POWERGRID.NS')":278.6622219321,
+    "('Volume', 'POWERGRID.NS')":7426789
+  },
+  {
+    "('Date', '')":"2025-08-26",
+    "('Close', 'POWERGRID.NS')":275.2692871094,
+    "('High', 'POWERGRID.NS')":279.1047589315,
+    "('Low', 'POWERGRID.NS')":274.2858312569,
+    "('Open', 'POWERGRID.NS')":278.3180062546,
+    "('Volume', 'POWERGRID.NS')":22905910
+  },
+  {
+    "('Date', '')":"2025-08-28",
+    "('Close', 'POWERGRID.NS')":269.9094848633,
+    "('High', 'POWERGRID.NS')":277.3345649336,
+    "('Low', 'POWERGRID.NS')":269.0735413423,
+    "('Open', 'POWERGRID.NS')":277.3345649336,
+    "('Volume', 'POWERGRID.NS')":12455072
+  },
+  {
+    "('Date', '')":"2025-08-29",
+    "('Close', 'POWERGRID.NS')":270.6962280273,
+    "('High', 'POWERGRID.NS')":271.5321715188,
+    "('Low', 'POWERGRID.NS')":267.7458604194,
+    "('Open', 'POWERGRID.NS')":269.0735318455,
+    "('Volume', 'POWERGRID.NS')":12841075
+  },
+  {
+    "('Date', '')":"2025-09-01",
+    "('Close', 'POWERGRID.NS')":275.2201538086,
+    "('High', 'POWERGRID.NS')":275.9577457716,
+    "('Low', 'POWERGRID.NS')":271.4338423958,
+    "('Open', 'POWERGRID.NS')":271.4338423958,
+    "('Volume', 'POWERGRID.NS')":10820878
+  },
+  {
+    "('Date', '')":"2025-09-02",
+    "('Close', 'POWERGRID.NS')":281.956817627,
+    "('High', 'POWERGRID.NS')":283.1369466955,
+    "('Low', 'POWERGRID.NS')":275.2201387311,
+    "('Open', 'POWERGRID.NS')":275.5643542975,
+    "('Volume', 'POWERGRID.NS')":16983677
+  },
+  {
+    "('Date', '')":"2025-09-03",
+    "('Close', 'POWERGRID.NS')":281.3175354004,
+    "('High', 'POWERGRID.NS')":284.4154453547,
+    "('Low', 'POWERGRID.NS')":280.8749982731,
+    "('Open', 'POWERGRID.NS')":284.2187421786,
+    "('Volume', 'POWERGRID.NS')":30178885
+  },
+  {
+    "('Date', '')":"2025-09-04",
+    "('Close', 'POWERGRID.NS')":277.1378479004,
+    "('High', 'POWERGRID.NS')":283.1861254181,
+    "('Low', 'POWERGRID.NS')":276.2527436335,
+    "('Open', 'POWERGRID.NS')":282.1043179752,
+    "('Volume', 'POWERGRID.NS')":5946090
+  },
+  {
+    "('Date', '')":"2025-09-05",
+    "('Close', 'POWERGRID.NS')":280.6291503906,
+    "('High', 'POWERGRID.NS')":281.9076310707,
+    "('Low', 'POWERGRID.NS')":277.6787826557,
+    "('Open', 'POWERGRID.NS')":277.6787826557,
+    "('Volume', 'POWERGRID.NS')":9695914
+  },
+  {
+    "('Date', '')":"2025-09-08",
+    "('Close', 'POWERGRID.NS')":278.121307373,
+    "('High', 'POWERGRID.NS')":282.9402651348,
+    "('Low', 'POWERGRID.NS')":277.4329062733,
+    "('Open', 'POWERGRID.NS')":281.6617544992,
+    "('Volume', 'POWERGRID.NS')":5186605
+  },
+  {
+    "('Date', '')":"2025-09-09",
+    "('Close', 'POWERGRID.NS')":279.1539611816,
+    "('High', 'POWERGRID.NS')":279.6456891281,
+    "('Low', 'POWERGRID.NS')":277.0395370146,
+    "('Open', 'POWERGRID.NS')":278.3671784598,
+    "('Volume', 'POWERGRID.NS')":7093190
+  },
+  {
+    "('Date', '')":"2025-09-10",
+    "('Close', 'POWERGRID.NS')":278.2688598633,
+    "('High', 'POWERGRID.NS')":281.7109555251,
+    "('Low', 'POWERGRID.NS')":277.8262927017,
+    "('Open', 'POWERGRID.NS')":279.9899076942,
+    "('Volume', 'POWERGRID.NS')":7767863
+  },
+  {
+    "('Date', '')":"2025-09-11",
+    "('Close', 'POWERGRID.NS')":282.0551452637,
+    "('High', 'POWERGRID.NS')":283.9237355179,
+    "('Low', 'POWERGRID.NS')":277.8754576124,
+    "('Open', 'POWERGRID.NS')":277.8754576124,
+    "('Volume', 'POWERGRID.NS')":7406625
+  },
+  {
+    "('Date', '')":"2025-09-12",
+    "('Close', 'POWERGRID.NS')":282.8910827637,
+    "('High', 'POWERGRID.NS')":283.8253778709,
+    "('Low', 'POWERGRID.NS')":280.3832822315,
+    "('Open', 'POWERGRID.NS')":282.4977064074,
+    "('Volume', 'POWERGRID.NS')":7618852
+  },
+  {
+    "('Date', '')":"2025-09-15",
+    "('Close', 'POWERGRID.NS')":281.514251709,
+    "('High', 'POWERGRID.NS')":284.0220522519,
+    "('Low', 'POWERGRID.NS')":281.0225237584,
+    "('Open', 'POWERGRID.NS')":283.5303243013,
+    "('Volume', 'POWERGRID.NS')":5420800
+  },
+  {
+    "('Date', '')":"2025-09-16",
+    "('Close', 'POWERGRID.NS')":283.5795288086,
+    "('High', 'POWERGRID.NS')":284.9072003419,
+    "('Low', 'POWERGRID.NS')":281.6126169112,
+    "('Open', 'POWERGRID.NS')":281.8092900933,
+    "('Volume', 'POWERGRID.NS')":8626429
+  },
+  {
+    "('Date', '')":"2025-09-17",
+    "('Close', 'POWERGRID.NS')":282.3993530273,
+    "('High', 'POWERGRID.NS')":284.415455611,
+    "('Low', 'POWERGRID.NS')":281.2192239661,
+    "('Open', 'POWERGRID.NS')":284.2187524278,
+    "('Volume', 'POWERGRID.NS')":19010126
+  },
+  {
+    "('Date', '')":"2025-09-18",
+    "('Close', 'POWERGRID.NS')":284.3171081543,
+    "('High', 'POWERGRID.NS')":285.0547000831,
+    "('Low', 'POWERGRID.NS')":281.3667404391,
+    "('Open', 'POWERGRID.NS')":282.2518447511,
+    "('Volume', 'POWERGRID.NS')":16842964
+  },
+  {
+    "('Date', '')":"2025-09-19",
+    "('Close', 'POWERGRID.NS')":281.4650878906,
+    "('High', 'POWERGRID.NS')":285.398911453,
+    "('Low', 'POWERGRID.NS')":280.1865772252,
+    "('Open', 'POWERGRID.NS')":285.2022082698,
+    "('Volume', 'POWERGRID.NS')":14993879
+  },
+  {
+    "('Date', '')":"2025-09-22",
+    "('Close', 'POWERGRID.NS')":281.907623291,
+    "('High', 'POWERGRID.NS')":284.2187506221,
+    "('Low', 'POWERGRID.NS')":281.1700313776,
+    "('Open', 'POWERGRID.NS')":282.2518388531,
+    "('Volume', 'POWERGRID.NS')":9456933
+  },
+  {
+    "('Date', '')":"2025-09-23",
+    "('Close', 'POWERGRID.NS')":283.825378418,
+    "('High', 'POWERGRID.NS')":284.218754775,
+    "('Low', 'POWERGRID.NS')":280.6783075365,
+    "('Open', 'POWERGRID.NS')":283.8745392078,
+    "('Volume', 'POWERGRID.NS')":13619147
+  },
+  {
+    "('Date', '')":"2025-09-24",
+    "('Close', 'POWERGRID.NS')":288.4476013184,
+    "('High', 'POWERGRID.NS')":289.6769211842,
+    "('Low', 'POWERGRID.NS')":282.20268041,
+    "('Open', 'POWERGRID.NS')":283.1369455004,
+    "('Volume', 'POWERGRID.NS')":14032389
+  },
+  {
+    "('Date', '')":"2025-09-25",
+    "('Close', 'POWERGRID.NS')":279.6948547363,
+    "('High', 'POWERGRID.NS')":289.9719809985,
+    "('Low', 'POWERGRID.NS')":278.9081020136,
+    "('Open', 'POWERGRID.NS')":289.1360374727,
+    "('Volume', 'POWERGRID.NS')":16242837
+  },
+  {
+    "('Date', '')":"2025-09-26",
+    "('Close', 'POWERGRID.NS')":277.5804138184,
+    "('High', 'POWERGRID.NS')":279.4489739319,
+    "('Low', 'POWERGRID.NS')":275.4659897422,
+    "('Open', 'POWERGRID.NS')":278.8097336315,
+    "('Volume', 'POWERGRID.NS')":8959035
+  },
+  {
+    "('Date', '')":"2025-09-29",
+    "('Close', 'POWERGRID.NS')":275.9577331543,
+    "('High', 'POWERGRID.NS')":281.3667406359,
+    "('Low', 'POWERGRID.NS')":275.3184928181,
+    "('Open', 'POWERGRID.NS')":279.2031256382,
+    "('Volume', 'POWERGRID.NS')":14600560
+  },
+  {
+    "('Date', '')":"2025-09-30",
+    "('Close', 'POWERGRID.NS')":275.6135253906,
+    "('High', 'POWERGRID.NS')":281.2683970088,
+    "('Low', 'POWERGRID.NS')":274.3842054736,
+    "('Open', 'POWERGRID.NS')":277.3345732744,
+    "('Volume', 'POWERGRID.NS')":18772881
+  },
+  {
+    "('Date', '')":"2025-10-01",
+    "('Close', 'POWERGRID.NS')":276.0068969727,
+    "('High', 'POWERGRID.NS')":278.1705119941,
+    "('Low', 'POWERGRID.NS')":275.2693050353,
+    "('Open', 'POWERGRID.NS')":276.351112546,
+    "('Volume', 'POWERGRID.NS')":11812449
+  },
+  {
+    "('Date', '')":"2025-10-03",
+    "('Close', 'POWERGRID.NS')":284.9071960449,
+    "('High', 'POWERGRID.NS')":285.20222082,
+    "('Low', 'POWERGRID.NS')":276.4002782069,
+    "('Open', 'POWERGRID.NS')":278.6622448624,
+    "('Volume', 'POWERGRID.NS')":19597461
+  },
+  {
+    "('Date', '')":"2025-10-06",
+    "('Close', 'POWERGRID.NS')":282.153503418,
+    "('High', 'POWERGRID.NS')":283.8745513144,
+    "('Low', 'POWERGRID.NS')":279.8423759545,
+    "('Open', 'POWERGRID.NS')":283.5795265372,
+    "('Volume', 'POWERGRID.NS')":11702722
+  },
+  {
+    "('Date', '')":"2025-10-07",
+    "('Close', 'POWERGRID.NS')":284.21875,
+    "('High', 'POWERGRID.NS')":287.5133332084,
+    "('Low', 'POWERGRID.NS')":282.3501898261,
+    "('Open', 'POWERGRID.NS')":284.169589211,
+    "('Volume', 'POWERGRID.NS')":11371062
+  },
+  {
+    "('Date', '')":"2025-10-08",
+    "('Close', 'POWERGRID.NS')":280.5799560547,
+    "('High', 'POWERGRID.NS')":285.5464263536,
+    "('Low', 'POWERGRID.NS')":279.9407157227,
+    "('Open', 'POWERGRID.NS')":285.5464263536,
+    "('Volume', 'POWERGRID.NS')":9989251
+  },
+  {
+    "('Date', '')":"2025-10-09",
+    "('Close', 'POWERGRID.NS')":281.4158935547,
+    "('High', 'POWERGRID.NS')":282.2026762649,
+    "('Low', 'POWERGRID.NS')":277.5804216321,
+    "('Open', 'POWERGRID.NS')":280.2849252973,
+    "('Volume', 'POWERGRID.NS')":10714949
+  },
+  {
+    "('Date', '')":"2025-10-10",
+    "('Close', 'POWERGRID.NS')":284.3662719727,
+    "('High', 'POWERGRID.NS')":286.4315353978,
+    "('Low', 'POWERGRID.NS')":280.5307999046,
+    "('Open', 'POWERGRID.NS')":280.5307999046,
+    "('Volume', 'POWERGRID.NS')":10773268
+  },
+  {
+    "('Date', '')":"2025-10-13",
+    "('Close', 'POWERGRID.NS')":281.4158935547,
+    "('High', 'POWERGRID.NS')":283.4319961127,
+    "('Low', 'POWERGRID.NS')":280.1865737069,
+    "('Open', 'POWERGRID.NS')":282.9894289624,
+    "('Volume', 'POWERGRID.NS')":8950161
+  },
+  {
+    "('Date', '')":"2025-10-14",
+    "('Close', 'POWERGRID.NS')":282.743560791,
+    "('High', 'POWERGRID.NS')":283.1369371339,
+    "('Low', 'POWERGRID.NS')":280.6782974749,
+    "('Open', 'POWERGRID.NS')":281.7601049274,
+    "('Volume', 'POWERGRID.NS')":7667654
+  },
+  {
+    "('Date', '')":"2025-10-15",
+    "('Close', 'POWERGRID.NS')":286.136505127,
+    "('High', 'POWERGRID.NS')":288.3984416841,
+    "('Low', 'POWERGRID.NS')":282.30100312,
+    "('Open', 'POWERGRID.NS')":282.3993547122,
+    "('Volume', 'POWERGRID.NS')":8125514
+  },
+  {
+    "('Date', '')":"2025-10-16",
+    "('Close', 'POWERGRID.NS')":287.0216064453,
+    "('High', 'POWERGRID.NS')":288.3984386837,
+    "('Low', 'POWERGRID.NS')":285.7922865873,
+    "('Open', 'POWERGRID.NS')":287.5624951778,
+    "('Volume', 'POWERGRID.NS')":7824732
+  },
+  {
+    "('Date', '')":"2025-10-17",
+    "('Close', 'POWERGRID.NS')":284.9563598633,
+    "('High', 'POWERGRID.NS')":286.6774077658,
+    "('Low', 'POWERGRID.NS')":283.2353119607,
+    "('Open', 'POWERGRID.NS')":286.1856797937,
+    "('Volume', 'POWERGRID.NS')":14275188
+  },
+  {
+    "('Date', '')":"2025-10-20",
+    "('Close', 'POWERGRID.NS')":283.4320068359,
+    "('High', 'POWERGRID.NS')":287.2674789036,
+    "('Low', 'POWERGRID.NS')":282.3501993264,
+    "('Open', 'POWERGRID.NS')":285.3497278634,
+    "('Volume', 'POWERGRID.NS')":13536721
+  },
+  {
+    "('Date', '')":"2025-10-21",
+    "('Close', 'POWERGRID.NS')":283.825378418,
+    "('High', 'POWERGRID.NS')":284.8088343168,
+    "('Low', 'POWERGRID.NS')":283.432002061,
+    "('Open', 'POWERGRID.NS')":283.5303236407,
+    "('Volume', 'POWERGRID.NS')":398291
+  },
+  {
+    "('Date', '')":"2025-10-23",
+    "('Close', 'POWERGRID.NS')":284.858001709,
+    "('High', 'POWERGRID.NS')":286.3331855915,
+    "('Low', 'POWERGRID.NS')":283.2353054408,
+    "('Open', 'POWERGRID.NS')":284.1696005714,
+    "('Volume', 'POWERGRID.NS')":21031287
+  },
+  {
+    "('Date', '')":"2025-10-24",
+    "('Close', 'POWERGRID.NS')":283.7270202637,
+    "('High', 'POWERGRID.NS')":285.939795985,
+    "('Low', 'POWERGRID.NS')":281.8092693001,
+    "('Open', 'POWERGRID.NS')":284.8579885187,
+    "('Volume', 'POWERGRID.NS')":16350189
+  },
+  {
+    "('Date', '')":"2025-10-27",
+    "('Close', 'POWERGRID.NS')":286.2348327637,
+    "('High', 'POWERGRID.NS')":287.9558806192,
+    "('Low', 'POWERGRID.NS')":283.4320074091,
+    "('Open', 'POWERGRID.NS')":284.218760138,
+    "('Volume', 'POWERGRID.NS')":13396182
+  },
+  {
+    "('Date', '')":"2025-10-28",
+    "('Close', 'POWERGRID.NS')":283.4811706543,
+    "('High', 'POWERGRID.NS')":287.7592099347,
+    "('Low', 'POWERGRID.NS')":282.0551475566,
+    "('Open', 'POWERGRID.NS')":285.7431072789,
+    "('Volume', 'POWERGRID.NS')":13543174
+  },
+  {
+    "('Date', '')":"2025-10-29",
+    "('Close', 'POWERGRID.NS')":290.4637145996,
+    "('High', 'POWERGRID.NS')":291.7421953021,
+    "('Low', 'POWERGRID.NS')":283.9728994664,
+    "('Open', 'POWERGRID.NS')":284.2187634486,
+    "('Volume', 'POWERGRID.NS')":14608714
+  },
+  {
+    "('Date', '')":"2025-10-30",
+    "('Close', 'POWERGRID.NS')":286.6773986816,
+    "('High', 'POWERGRID.NS')":291.5455174568,
+    "('Low', 'POWERGRID.NS')":286.1365099345,
+    "('Open', 'POWERGRID.NS')":291.3979750597,
+    "('Volume', 'POWERGRID.NS')":10329750
+  },
+  {
+    "('Date', '')":"2025-10-31",
+    "('Close', 'POWERGRID.NS')":283.3828125,
+    "('High', 'POWERGRID.NS')":287.1691237298,
+    "('Low', 'POWERGRID.NS')":282.2518442139,
+    "('Open', 'POWERGRID.NS')":287.1691237298,
+    "('Volume', 'POWERGRID.NS')":10088802
+  },
+  {
+    "('Date', '')":"2025-11-03",
+    "('Close', 'POWERGRID.NS')":283.2352905273,
+    "('High', 'POWERGRID.NS')":285.3497146451,
+    "('Low', 'POWERGRID.NS')":282.3993470354,
+    "('Open', 'POWERGRID.NS')":284.2187463972,
+    "('Volume', 'POWERGRID.NS')":8578207
+  },
+  {
+    "('Date', '')":"2025-11-04",
+    "('Close', 'POWERGRID.NS')":274.4333496094,
+    "('High', 'POWERGRID.NS')":280.2357632756,
+    "('Low', 'POWERGRID.NS')":273.4990845368,
+    "('Open', 'POWERGRID.NS')":279.7931961273,
+    "('Volume', 'POWERGRID.NS')":26098629
+  },
+  {
+    "('Date', '')":"2025-11-05",
+    "('Close', 'POWERGRID.NS')":274.4333496094,
+    "('High', 'POWERGRID.NS')":274.4333496094,
+    "('Low', 'POWERGRID.NS')":274.4333496094,
+    "('Open', 'POWERGRID.NS')":274.4333496094,
+    "('Volume', 'POWERGRID.NS')":0
+  },
+  {
+    "('Date', '')":"2025-11-06",
+    "('Close', 'POWERGRID.NS')":265.7297973633,
+    "('High', 'POWERGRID.NS')":273.8924693644,
+    "('Low', 'POWERGRID.NS')":265.3855817942,
+    "('Open', 'POWERGRID.NS')":273.4007414122,
+    "('Volume', 'POWERGRID.NS')":21919591
+  },
+  {
+    "('Date', '')":"2025-11-07",
+    "('Close', 'POWERGRID.NS')":267.5,
+    "('High', 'POWERGRID.NS')":268.2867527008,
+    "('Low', 'POWERGRID.NS')":264.3037683824,
+    "('Open', 'POWERGRID.NS')":265.7297914168,
+    "('Volume', 'POWERGRID.NS')":11379131
+  },
+  {
+    "('Date', '')":"2025-11-10",
+    "('Close', 'POWERGRID.NS')":268.200012207,
+    "('High', 'POWERGRID.NS')":270.549987793,
+    "('Low', 'POWERGRID.NS')":266.549987793,
+    "('Open', 'POWERGRID.NS')":268.6000061035,
+    "('Volume', 'POWERGRID.NS')":10717941
+  },
+  {
+    "('Date', '')":"2025-11-11",
+    "('Close', 'POWERGRID.NS')":267.6499938965,
+    "('High', 'POWERGRID.NS')":269.1499938965,
+    "('Low', 'POWERGRID.NS')":264.6499938965,
+    "('Open', 'POWERGRID.NS')":268.25,
+    "('Volume', 'POWERGRID.NS')":11152147
+  }
+]

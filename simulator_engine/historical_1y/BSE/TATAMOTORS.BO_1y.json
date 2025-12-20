@@ -1,0 +1,1986 @@
+[
+  {
+    "('Date', '')":"2024-11-13",
+    "('Close', 'TATAMOTORS.BO')":779.6934814453,
+    "('High', 'TATAMOTORS.BO')":785.8405584594,
+    "('Low', 'TATAMOTORS.BO')":768.8368526629,
+    "('Open', 'TATAMOTORS.BO')":779.0985620308,
+    "('Volume', 'TATAMOTORS.BO')":1443625
+  },
+  {
+    "('Date', '')":"2024-11-14",
+    "('Close', 'TATAMOTORS.BO')":767.6470336914,
+    "('High', 'TATAMOTORS.BO')":785.2456579704,
+    "('Low', 'TATAMOTORS.BO')":765.0196092411,
+    "('Open', 'TATAMOTORS.BO')":780.2882990186,
+    "('Volume', 'TATAMOTORS.BO')":1229551
+  },
+  {
+    "('Date', '')":"2024-11-18",
+    "('Close', 'TATAMOTORS.BO')":765.4658203125,
+    "('High', 'TATAMOTORS.BO')":775.0335477536,
+    "('Low', 'TATAMOTORS.BO')":752.6262479094,
+    "('Open', 'TATAMOTORS.BO')":771.8608257696,
+    "('Volume', 'TATAMOTORS.BO')":758355
+  },
+  {
+    "('Date', '')":"2024-11-19",
+    "('Close', 'TATAMOTORS.BO')":776.7190551758,
+    "('High', 'TATAMOTORS.BO')":792.6817274195,
+    "('Low', 'TATAMOTORS.BO')":765.4658136059,
+    "('Open', 'TATAMOTORS.BO')":765.4658136059,
+    "('Volume', 'TATAMOTORS.BO')":1052142
+  },
+  {
+    "('Date', '')":"2024-11-21",
+    "('Close', 'TATAMOTORS.BO')":767.1017456055,
+    "('High', 'TATAMOTORS.BO')":780.9823508388,
+    "('Low', 'TATAMOTORS.BO')":759.864013551,
+    "('Open', 'TATAMOTORS.BO')":780.9823508388,
+    "('Volume', 'TATAMOTORS.BO')":1054333
+  },
+  {
+    "('Date', '')":"2024-11-22",
+    "('Close', 'TATAMOTORS.BO')":784.5020751953,
+    "('High', 'TATAMOTORS.BO')":787.228622692,
+    "('Low', 'TATAMOTORS.BO')":768.5394031476,
+    "('Open', 'TATAMOTORS.BO')":768.5394031476,
+    "('Volume', 'TATAMOTORS.BO')":567691
+  },
+  {
+    "('Date', '')":"2024-11-25",
+    "('Close', 'TATAMOTORS.BO')":790.0047607422,
+    "('High', 'TATAMOTORS.BO')":803.0922013109,
+    "('Low', 'TATAMOTORS.BO')":786.8816607125,
+    "('Open', 'TATAMOTORS.BO')":802.4477204003,
+    "('Volume', 'TATAMOTORS.BO')":712946
+  },
+  {
+    "('Date', '')":"2024-11-26",
+    "('Close', 'TATAMOTORS.BO')":776.5703125,
+    "('High', 'TATAMOTORS.BO')":794.9621028827,
+    "('Low', 'TATAMOTORS.BO')":773.8933264504,
+    "('Open', 'TATAMOTORS.BO')":790.9962155543,
+    "('Volume', 'TATAMOTORS.BO')":719632
+  },
+  {
+    "('Date', '')":"2024-11-27",
+    "('Close', 'TATAMOTORS.BO')":777.6608886719,
+    "('High', 'TATAMOTORS.BO')":785.047365747,
+    "('Low', 'TATAMOTORS.BO')":772.6044066552,
+    "('Open', 'TATAMOTORS.BO')":779.247279874,
+    "('Volume', 'TATAMOTORS.BO')":590808
+  },
+  {
+    "('Date', '')":"2024-11-28",
+    "('Close', 'TATAMOTORS.BO')":773.1992797852,
+    "('High', 'TATAMOTORS.BO')":785.8405455746,
+    "('Low', 'TATAMOTORS.BO')":771.6625105568,
+    "('Open', 'TATAMOTORS.BO')":776.2728787565,
+    "('Volume', 'TATAMOTORS.BO')":821136
+  },
+  {
+    "('Date', '')":"2024-11-29",
+    "('Close', 'TATAMOTORS.BO')":780.1395874023,
+    "('High', 'TATAMOTORS.BO')":782.4695825181,
+    "('Low', 'TATAMOTORS.BO')":770.3736140555,
+    "('Open', 'TATAMOTORS.BO')":773.7446424927,
+    "('Volume', 'TATAMOTORS.BO')":904317
+  },
+  {
+    "('Date', '')":"2024-12-02",
+    "('Close', 'TATAMOTORS.BO')":783.2131958008,
+    "('High', 'TATAMOTORS.BO')":789.7073242804,
+    "('Low', 'TATAMOTORS.BO')":778.3053980667,
+    "('Open', 'TATAMOTORS.BO')":780.6353326959,
+    "('Volume', 'TATAMOTORS.BO')":819147
+  },
+  {
+    "('Date', '')":"2024-12-03",
+    "('Close', 'TATAMOTORS.BO')":794.3176879883,
+    "('High', 'TATAMOTORS.BO')":799.0271792233,
+    "('Low', 'TATAMOTORS.BO')":783.213191289,
+    "('Open', 'TATAMOTORS.BO')":787.1790786448,
+    "('Volume', 'TATAMOTORS.BO')":310853
+  },
+  {
+    "('Date', '')":"2024-12-04",
+    "('Close', 'TATAMOTORS.BO')":781.5276489258,
+    "('High', 'TATAMOTORS.BO')":799.6220093354,
+    "('Low', 'TATAMOTORS.BO')":777.3138937619,
+    "('Open', 'TATAMOTORS.BO')":799.6220093354,
+    "('Volume', 'TATAMOTORS.BO')":415446
+  },
+  {
+    "('Date', '')":"2024-12-05",
+    "('Close', 'TATAMOTORS.BO')":785.7909545898,
+    "('High', 'TATAMOTORS.BO')":790.5004455895,
+    "('Low', 'TATAMOTORS.BO')":774.2403445521,
+    "('Open', 'TATAMOTORS.BO')":784.8986662882,
+    "('Volume', 'TATAMOTORS.BO')":866408
+  },
+  {
+    "('Date', '')":"2024-12-06",
+    "('Close', 'TATAMOTORS.BO')":809.7846069336,
+    "('High', 'TATAMOTORS.BO')":811.7179890806,
+    "('Low', 'TATAMOTORS.BO')":778.4541217068,
+    "('Open', 'TATAMOTORS.BO')":787.6747975065,
+    "('Volume', 'TATAMOTORS.BO')":1555873
+  },
+  {
+    "('Date', '')":"2024-12-09",
+    "('Close', 'TATAMOTORS.BO')":792.0868530273,
+    "('High', 'TATAMOTORS.BO')":814.9402661395,
+    "('Low', 'TATAMOTORS.BO')":789.8560414554,
+    "('Open', 'TATAMOTORS.BO')":814.9402661395,
+    "('Volume', 'TATAMOTORS.BO')":605611
+  },
+  {
+    "('Date', '')":"2024-12-10",
+    "('Close', 'TATAMOTORS.BO')":793.1774902344,
+    "('High', 'TATAMOTORS.BO')":803.5383833035,
+    "('Low', 'TATAMOTORS.BO')":790.7483720676,
+    "('Open', 'TATAMOTORS.BO')":798.8784534454,
+    "('Volume', 'TATAMOTORS.BO')":840713
+  },
+  {
+    "('Date', '')":"2024-12-11",
+    "('Close', 'TATAMOTORS.BO')":792.1859741211,
+    "('High', 'TATAMOTORS.BO')":799.919442116,
+    "('Low', 'TATAMOTORS.BO')":791.2440638011,
+    "('Open', 'TATAMOTORS.BO')":797.0442101833,
+    "('Volume', 'TATAMOTORS.BO')":627361
+  },
+  {
+    "('Date', '')":"2024-12-12",
+    "('Close', 'TATAMOTORS.BO')":779.5942993164,
+    "('High', 'TATAMOTORS.BO')":796.1518912244,
+    "('Low', 'TATAMOTORS.BO')":778.255836532,
+    "('Open', 'TATAMOTORS.BO')":796.1518912244,
+    "('Volume', 'TATAMOTORS.BO')":526867
+  },
+  {
+    "('Date', '')":"2024-12-13",
+    "('Close', 'TATAMOTORS.BO')":783.8576049805,
+    "('High', 'TATAMOTORS.BO')":785.6423026871,
+    "('Low', 'TATAMOTORS.BO')":768.3906686307,
+    "('Open', 'TATAMOTORS.BO')":785.5926806838,
+    "('Volume', 'TATAMOTORS.BO')":508033
+  },
+  {
+    "('Date', '')":"2024-12-16",
+    "('Close', 'TATAMOTORS.BO')":778.0079345703,
+    "('High', 'TATAMOTORS.BO')":787.2286102193,
+    "('Low', 'TATAMOTORS.BO')":776.3224204052,
+    "('Open', 'TATAMOTORS.BO')":783.2627230142,
+    "('Volume', 'TATAMOTORS.BO')":491602
+  },
+  {
+    "('Date', '')":"2024-12-17",
+    "('Close', 'TATAMOTORS.BO')":772.7035522461,
+    "('High', 'TATAMOTORS.BO')":789.7073184628,
+    "('Low', 'TATAMOTORS.BO')":771.3650894715,
+    "('Open', 'TATAMOTORS.BO')":778.3053923331,
+    "('Volume', 'TATAMOTORS.BO')":365353
+  },
+  {
+    "('Date', '')":"2024-12-18",
+    "('Close', 'TATAMOTORS.BO')":749.2552490234,
+    "('High', 'TATAMOTORS.BO')":769.3325529107,
+    "('Low', 'TATAMOTORS.BO')":747.5697348658,
+    "('Open', 'TATAMOTORS.BO')":769.3325529107,
+    "('Volume', 'TATAMOTORS.BO')":722551
+  },
+  {
+    "('Date', '')":"2024-12-19",
+    "('Close', 'TATAMOTORS.BO')":737.9524536133,
+    "('High', 'TATAMOTORS.BO')":749.3543793902,
+    "('Low', 'TATAMOTORS.BO')":735.0275996806,
+    "('Open', 'TATAMOTORS.BO')":735.6720805608,
+    "('Volume', 'TATAMOTORS.BO')":1095480
+  },
+  {
+    "('Date', '')":"2024-12-20",
+    "('Close', 'TATAMOTORS.BO')":717.8256225586,
+    "('High', 'TATAMOTORS.BO')":743.0585933551,
+    "('Low', 'TATAMOTORS.BO')":715.3965044125,
+    "('Open', 'TATAMOTORS.BO')":738.6465315002,
+    "('Volume', 'TATAMOTORS.BO')":1433556
+  },
+  {
+    "('Date', '')":"2024-12-23",
+    "('Close', 'TATAMOTORS.BO')":716.3383789062,
+    "('High', 'TATAMOTORS.BO')":727.4924367093,
+    "('Low', 'TATAMOTORS.BO')":711.876755785,
+    "('Open', 'TATAMOTORS.BO')":727.4924367093,
+    "('Volume', 'TATAMOTORS.BO')":507834
+  },
+  {
+    "('Date', '')":"2024-12-24",
+    "('Close', 'TATAMOTORS.BO')":730.0702514648,
+    "('High', 'TATAMOTORS.BO')":738.6465069256,
+    "('Low', 'TATAMOTORS.BO')":716.3383909446,
+    "('Open', 'TATAMOTORS.BO')":717.7760371886,
+    "('Volume', 'TATAMOTORS.BO')":970730
+  },
+  {
+    "('Date', '')":"2024-12-26",
+    "('Close', 'TATAMOTORS.BO')":734.4822998047,
+    "('High', 'TATAMOTORS.BO')":741.2242959644,
+    "('Low', 'TATAMOTORS.BO')":729.7232472516,
+    "('Open', 'TATAMOTORS.BO')":731.359199933,
+    "('Volume', 'TATAMOTORS.BO')":756741
+  },
+  {
+    "('Date', '')":"2024-12-27",
+    "('Close', 'TATAMOTORS.BO')":744.1491699219,
+    "('High', 'TATAMOTORS.BO')":760.2110256712,
+    "('Low', 'TATAMOTORS.BO')":739.3405557521,
+    "('Open', 'TATAMOTORS.BO')":741.4721838779,
+    "('Volume', 'TATAMOTORS.BO')":1236628
+  },
+  {
+    "('Date', '')":"2024-12-30",
+    "('Close', 'TATAMOTORS.BO')":727.4924316406,
+    "('High', 'TATAMOTORS.BO')":747.6192970332,
+    "('Low', 'TATAMOTORS.BO')":724.5675777342,
+    "('Open', 'TATAMOTORS.BO')":747.0739996473,
+    "('Volume', 'TATAMOTORS.BO')":743197
+  },
+  {
+    "('Date', '')":"2024-12-31",
+    "('Close', 'TATAMOTORS.BO')":734.3831787109,
+    "('High', 'TATAMOTORS.BO')":736.911419713,
+    "('Low', 'TATAMOTORS.BO')":726.5505272387,
+    "('Open', 'TATAMOTORS.BO')":727.3933145825,
+    "('Volume', 'TATAMOTORS.BO')":638062
+  },
+  {
+    "('Date', '')":"2025-01-01",
+    "('Close', 'TATAMOTORS.BO')":742.8602905273,
+    "('High', 'TATAMOTORS.BO')":744.4962433009,
+    "('Low', 'TATAMOTORS.BO')":729.9711563574,
+    "('Open', 'TATAMOTORS.BO')":735.2755065984,
+    "('Volume', 'TATAMOTORS.BO')":518908
+  },
+  {
+    "('Date', '')":"2025-01-02",
+    "('Close', 'TATAMOTORS.BO')":758.4263916016,
+    "('High', 'TATAMOTORS.BO')":760.4588967586,
+    "('Low', 'TATAMOTORS.BO')":743.1081396617,
+    "('Open', 'TATAMOTORS.BO')":752.824551533,
+    "('Volume', 'TATAMOTORS.BO')":1101004
+  },
+  {
+    "('Date', '')":"2025-01-03",
+    "('Close', 'TATAMOTORS.BO')":783.659362793,
+    "('High', 'TATAMOTORS.BO')":793.6732041232,
+    "('Low', 'TATAMOTORS.BO')":755.4024154881,
+    "('Open', 'TATAMOTORS.BO')":761.4008079885,
+    "('Volume', 'TATAMOTORS.BO')":1351510
+  },
+  {
+    "('Date', '')":"2025-01-06",
+    "('Close', 'TATAMOTORS.BO')":769.3325805664,
+    "('High', 'TATAMOTORS.BO')":790.5004799854,
+    "('Low', 'TATAMOTORS.BO')":758.5255133858,
+    "('Open', 'TATAMOTORS.BO')":789.4098851754,
+    "('Volume', 'TATAMOTORS.BO')":1509617
+  },
+  {
+    "('Date', '')":"2025-01-07",
+    "('Close', 'TATAMOTORS.BO')":786.6337890625,
+    "('High', 'TATAMOTORS.BO')":790.2030635124,
+    "('Low', 'TATAMOTORS.BO')":764.424795443,
+    "('Open', 'TATAMOTORS.BO')":764.424795443,
+    "('Volume', 'TATAMOTORS.BO')":678173
+  },
+  {
+    "('Date', '')":"2025-01-08",
+    "('Close', 'TATAMOTORS.BO')":788.0713500977,
+    "('High', 'TATAMOTORS.BO')":790.2030387116,
+    "('Low', 'TATAMOTORS.BO')":775.0830934916,
+    "('Open', 'TATAMOTORS.BO')":785.245679623,
+    "('Volume', 'TATAMOTORS.BO')":1009226
+  },
+  {
+    "('Date', '')":"2025-01-09",
+    "('Close', 'TATAMOTORS.BO')":773.3975830078,
+    "('High', 'TATAMOTORS.BO')":803.0426147053,
+    "('Low', 'TATAMOTORS.BO')":763.086312363,
+    "('Open', 'TATAMOTORS.BO')":792.1364246582,
+    "('Volume', 'TATAMOTORS.BO')":820681
+  },
+  {
+    "('Date', '')":"2025-01-10",
+    "('Close', 'TATAMOTORS.BO')":767.8453979492,
+    "('High', 'TATAMOTORS.BO')":781.0815231411,
+    "('Low', 'TATAMOTORS.BO')":760.5580434327,
+    "('Open', 'TATAMOTORS.BO')":773.3976161873,
+    "('Volume', 'TATAMOTORS.BO')":536247
+  },
+  {
+    "('Date', '')":"2025-01-13",
+    "('Close', 'TATAMOTORS.BO')":744.3474731445,
+    "('High', 'TATAMOTORS.BO')":766.7547121995,
+    "('Low', 'TATAMOTORS.BO')":742.4636524698,
+    "('Open', 'TATAMOTORS.BO')":763.2349993212,
+    "('Volume', 'TATAMOTORS.BO')":489284
+  },
+  {
+    "('Date', '')":"2025-01-14",
+    "('Close', 'TATAMOTORS.BO')":764.028137207,
+    "('High', 'TATAMOTORS.BO')":772.3565244493,
+    "('Low', 'TATAMOTORS.BO')":744.5953143279,
+    "('Open', 'TATAMOTORS.BO')":744.5953143279,
+    "('Volume', 'TATAMOTORS.BO')":805851
+  },
+  {
+    "('Date', '')":"2025-01-15",
+    "('Close', 'TATAMOTORS.BO')":756.9391479492,
+    "('High', 'TATAMOTORS.BO')":773.3479939225,
+    "('Low', 'TATAMOTORS.BO')":749.9988454397,
+    "('Open', 'TATAMOTORS.BO')":767.0521722804,
+    "('Volume', 'TATAMOTORS.BO')":804139
+  },
+  {
+    "('Date', '')":"2025-01-16",
+    "('Close', 'TATAMOTORS.BO')":767.7958374023,
+    "('High', 'TATAMOTORS.BO')":774.2899660231,
+    "('Low', 'TATAMOTORS.BO')":761.4503932527,
+    "('Open', 'TATAMOTORS.BO')":764.1769408848,
+    "('Volume', 'TATAMOTORS.BO')":370365
+  },
+  {
+    "('Date', '')":"2025-01-17",
+    "('Close', 'TATAMOTORS.BO')":772.7531738281,
+    "('High', 'TATAMOTORS.BO')":778.5036983788,
+    "('Low', 'TATAMOTORS.BO')":765.4162580298,
+    "('Open', 'TATAMOTORS.BO')":767.795814644,
+    "('Volume', 'TATAMOTORS.BO')":524334
+  },
+  {
+    "('Date', '')":"2025-01-20",
+    "('Close', 'TATAMOTORS.BO')":767.5974731445,
+    "('High', 'TATAMOTORS.BO')":778.0574884428,
+    "('Low', 'TATAMOTORS.BO')":760.4588641422,
+    "('Open', 'TATAMOTORS.BO')":778.0574884428,
+    "('Volume', 'TATAMOTORS.BO')":289970
+  },
+  {
+    "('Date', '')":"2025-01-21",
+    "('Close', 'TATAMOTORS.BO')":753.4690551758,
+    "('High', 'TATAMOTORS.BO')":779.8917440435,
+    "('Low', 'TATAMOTORS.BO')":751.6347959185,
+    "('Open', 'TATAMOTORS.BO')":769.1342985246,
+    "('Volume', 'TATAMOTORS.BO')":806641
+  },
+  {
+    "('Date', '')":"2025-01-22",
+    "('Close', 'TATAMOTORS.BO')":736.6140136719,
+    "('High', 'TATAMOTORS.BO')":759.6657338906,
+    "('Low', 'TATAMOTORS.BO')":724.8650360903,
+    "('Open', 'TATAMOTORS.BO')":759.6657338906,
+    "('Volume', 'TATAMOTORS.BO')":519550
+  },
+  {
+    "('Date', '')":"2025-01-23",
+    "('Close', 'TATAMOTORS.BO')":746.1321411133,
+    "('High', 'TATAMOTORS.BO')":753.3698736366,
+    "('Low', 'TATAMOTORS.BO')":733.3421903428,
+    "('Open', 'TATAMOTORS.BO')":736.6635968901,
+    "('Volume', 'TATAMOTORS.BO')":616256
+  },
+  {
+    "('Date', '')":"2025-01-24",
+    "('Close', 'TATAMOTORS.BO')":727.6411743164,
+    "('High', 'TATAMOTORS.BO')":747.5697331835,
+    "('Low', 'TATAMOTORS.BO')":726.0547831361,
+    "('Open', 'TATAMOTORS.BO')":746.0329640047,
+    "('Volume', 'TATAMOTORS.BO')":697262
+  },
+  {
+    "('Date', '')":"2025-01-27",
+    "('Close', 'TATAMOTORS.BO')":707.0681762695,
+    "('High', 'TATAMOTORS.BO')":727.6412172221,
+    "('Low', 'TATAMOTORS.BO')":703.3501568203,
+    "('Open', 'TATAMOTORS.BO')":727.6412172221,
+    "('Volume', 'TATAMOTORS.BO')":762378
+  },
+  {
+    "('Date', '')":"2025-01-28",
+    "('Close', 'TATAMOTORS.BO')":722.2376708984,
+    "('High', 'TATAMOTORS.BO')":734.2344559059,
+    "('Low', 'TATAMOTORS.BO')":701.5158853242,
+    "('Open', 'TATAMOTORS.BO')":709.4972214995,
+    "('Volume', 'TATAMOTORS.BO')":1183451
+  },
+  {
+    "('Date', '')":"2025-01-29",
+    "('Close', 'TATAMOTORS.BO')":746.0329589844,
+    "('High', 'TATAMOTORS.BO')":748.5611999409,
+    "('Low', 'TATAMOTORS.BO')":720.3042539828,
+    "('Open', 'TATAMOTORS.BO')":726.1043397368,
+    "('Volume', 'TATAMOTORS.BO')":908702
+  },
+  {
+    "('Date', '')":"2025-01-30",
+    "('Close', 'TATAMOTORS.BO')":691.055847168,
+    "('High', 'TATAMOTORS.BO')":708.9023396343,
+    "('Low', 'TATAMOTORS.BO')":678.414581671,
+    "('Open', 'TATAMOTORS.BO')":708.9023396343,
+    "('Volume', 'TATAMOTORS.BO')":2561730
+  },
+  {
+    "('Date', '')":"2025-01-31",
+    "('Close', 'TATAMOTORS.BO')":709.8937988281,
+    "('High', 'TATAMOTORS.BO')":710.9348321006,
+    "('Low', 'TATAMOTORS.BO')":690.5105375133,
+    "('Open', 'TATAMOTORS.BO')":700.5243783468,
+    "('Volume', 'TATAMOTORS.BO')":1708077
+  },
+  {
+    "('Date', '')":"2025-02-01",
+    "('Close', 'TATAMOTORS.BO')":700.0782470703,
+    "('High', 'TATAMOTORS.BO')":718.6683442045,
+    "('Low', 'TATAMOTORS.BO')":695.4183778004,
+    "('Open', 'TATAMOTORS.BO')":718.6683442045,
+    "('Volume', 'TATAMOTORS.BO')":779653
+  },
+  {
+    "('Date', '')":"2025-02-03",
+    "('Close', 'TATAMOTORS.BO')":681.5873413086,
+    "('High', 'TATAMOTORS.BO')":695.7158152939,
+    "('Low', 'TATAMOTORS.BO')":680.1496950107,
+    "('Open', 'TATAMOTORS.BO')":695.7158152939,
+    "('Volume', 'TATAMOTORS.BO')":794536
+  },
+  {
+    "('Date', '')":"2025-02-04",
+    "('Close', 'TATAMOTORS.BO')":704.6390380859,
+    "('High', 'TATAMOTORS.BO')":706.9689726687,
+    "('Low', 'TATAMOTORS.BO')":687.6848335707,
+    "('Open', 'TATAMOTORS.BO')":690.0643901564,
+    "('Volume', 'TATAMOTORS.BO')":1283143
+  },
+  {
+    "('Date', '')":"2025-02-05",
+    "('Close', 'TATAMOTORS.BO')":711.0836181641,
+    "('High', 'TATAMOTORS.BO')":719.1640773787,
+    "('Low', 'TATAMOTORS.BO')":704.8373576538,
+    "('Open', 'TATAMOTORS.BO')":704.9364806323,
+    "('Volume', 'TATAMOTORS.BO')":1091657
+  },
+  {
+    "('Date', '')":"2025-02-06",
+    "('Close', 'TATAMOTORS.BO')":703.498840332,
+    "('High', 'TATAMOTORS.BO')":717.62731422,
+    "('Low', 'TATAMOTORS.BO')":701.912509575,
+    "('Open', 'TATAMOTORS.BO')":716.0905449526,
+    "('Volume', 'TATAMOTORS.BO')":716459
+  },
+  {
+    "('Date', '')":"2025-02-07",
+    "('Close', 'TATAMOTORS.BO')":700.5244140625,
+    "('High', 'TATAMOTORS.BO')":709.7947120437,
+    "('Low', 'TATAMOTORS.BO')":697.3021305935,
+    "('Open', 'TATAMOTORS.BO')":707.5639004113,
+    "('Volume', 'TATAMOTORS.BO')":418891
+  },
+  {
+    "('Date', '')":"2025-02-10",
+    "('Close', 'TATAMOTORS.BO')":689.8660888672,
+    "('High', 'TATAMOTORS.BO')":705.5809537192,
+    "('Low', 'TATAMOTORS.BO')":687.2387248202,
+    "('Open', 'TATAMOTORS.BO')":705.5809537192,
+    "('Volume', 'TATAMOTORS.BO')":507724
+  },
+  {
+    "('Date', '')":"2025-02-11",
+    "('Close', 'TATAMOTORS.BO')":671.9204711914,
+    "('High', 'TATAMOTORS.BO')":690.70887447,
+    "('Low', 'TATAMOTORS.BO')":669.2434851479,
+    "('Open', 'TATAMOTORS.BO')":690.70887447,
+    "('Volume', 'TATAMOTORS.BO')":626711
+  },
+  {
+    "('Date', '')":"2025-02-12",
+    "('Close', 'TATAMOTORS.BO')":678.5633544922,
+    "('High', 'TATAMOTORS.BO')":681.5873315146,
+    "('Low', 'TATAMOTORS.BO')":661.7083331379,
+    "('Open', 'TATAMOTORS.BO')":673.9034247207,
+    "('Volume', 'TATAMOTORS.BO')":729759
+  },
+  {
+    "('Date', '')":"2025-02-13",
+    "('Close', 'TATAMOTORS.BO')":677.8197631836,
+    "('High', 'TATAMOTORS.BO')":687.28830737,
+    "('Low', 'TATAMOTORS.BO')":673.556385762,
+    "('Open', 'TATAMOTORS.BO')":681.8847736151,
+    "('Volume', 'TATAMOTORS.BO')":779437
+  },
+  {
+    "('Date', '')":"2025-02-14",
+    "('Close', 'TATAMOTORS.BO')":674.4487304688,
+    "('High', 'TATAMOTORS.BO')":685.1070529275,
+    "('Low', 'TATAMOTORS.BO')":663.5921015358,
+    "('Open', 'TATAMOTORS.BO')":679.2077832776,
+    "('Volume', 'TATAMOTORS.BO')":1115354
+  },
+  {
+    "('Date', '')":"2025-02-17",
+    "('Close', 'TATAMOTORS.BO')":680.6453857422,
+    "('High', 'TATAMOTORS.BO')":684.7103958867,
+    "('Low', 'TATAMOTORS.BO')":661.311685783,
+    "('Open', 'TATAMOTORS.BO')":674.0025126276,
+    "('Volume', 'TATAMOTORS.BO')":546636
+  },
+  {
+    "('Date', '')":"2025-02-18",
+    "('Close', 'TATAMOTORS.BO')":675.7871704102,
+    "('High', 'TATAMOTORS.BO')":682.1326142838,
+    "('Low', 'TATAMOTORS.BO')":666.7648010259,
+    "('Open', 'TATAMOTORS.BO')":681.1411424607,
+    "('Volume', 'TATAMOTORS.BO')":789939
+  },
+  {
+    "('Date', '')":"2025-02-19",
+    "('Close', 'TATAMOTORS.BO')":675.0435791016,
+    "('High', 'TATAMOTORS.BO')":685.0079195207,
+    "('Low', 'TATAMOTORS.BO')":669.7392289552,
+    "('Open', 'TATAMOTORS.BO')":674.8948946341,
+    "('Volume', 'TATAMOTORS.BO')":475916
+  },
+  {
+    "('Date', '')":"2025-02-20",
+    "('Close', 'TATAMOTORS.BO')":684.016418457,
+    "('High', 'TATAMOTORS.BO')":686.6933439031,
+    "('Low', 'TATAMOTORS.BO')":669.5408938803,
+    "('Open', 'TATAMOTORS.BO')":674.9444272887,
+    "('Volume', 'TATAMOTORS.BO')":595555
+  },
+  {
+    "('Date', '')":"2025-02-21",
+    "('Close', 'TATAMOTORS.BO')":667.1614379883,
+    "('High', 'TATAMOTORS.BO')":684.2643275525,
+    "('Low', 'TATAMOTORS.BO')":665.5750467054,
+    "('Open', 'TATAMOTORS.BO')":680.1496951326,
+    "('Volume', 'TATAMOTORS.BO')":1003235
+  },
+  {
+    "('Date', '')":"2025-02-24",
+    "('Close', 'TATAMOTORS.BO')":662.5014648438,
+    "('High', 'TATAMOTORS.BO')":670.9785365794,
+    "('Low', 'TATAMOTORS.BO')":660.3202147941,
+    "('Open', 'TATAMOTORS.BO')":664.28610197,
+    "('Volume', 'TATAMOTORS.BO')":377339
+  },
+  {
+    "('Date', '')":"2025-02-25",
+    "('Close', 'TATAMOTORS.BO')":656.1065063477,
+    "('High', 'TATAMOTORS.BO')":666.4673994348,
+    "('Low', 'TATAMOTORS.BO')":654.4705535653,
+    "('Open', 'TATAMOTORS.BO')":663.2451158751,
+    "('Volume', 'TATAMOTORS.BO')":433704
+  },
+  {
+    "('Date', '')":"2025-02-27",
+    "('Close', 'TATAMOTORS.BO')":642.6720581055,
+    "('High', 'TATAMOTORS.BO')":660.121938265,
+    "('Low', 'TATAMOTORS.BO')":640.3916849788,
+    "('Open', 'TATAMOTORS.BO')":660.121938265,
+    "('Volume', 'TATAMOTORS.BO')":879774
+  },
+  {
+    "('Date', '')":"2025-02-28",
+    "('Close', 'TATAMOTORS.BO')":615.2578125,
+    "('High', 'TATAMOTORS.BO')":640.1437909529,
+    "('Low', 'TATAMOTORS.BO')":613.1757459289,
+    "('Open', 'TATAMOTORS.BO')":640.1437909529,
+    "('Volume', 'TATAMOTORS.BO')":1150251
+  },
+  {
+    "('Date', '')":"2025-03-03",
+    "('Close', 'TATAMOTORS.BO')":615.8031005859,
+    "('High', 'TATAMOTORS.BO')":621.5536853425,
+    "('Low', 'TATAMOTORS.BO')":601.0302073191,
+    "('Open', 'TATAMOTORS.BO')":615.7039776134,
+    "('Volume', 'TATAMOTORS.BO')":815993
+  },
+  {
+    "('Date', '')":"2025-03-04",
+    "('Close', 'TATAMOTORS.BO')":613.8698120117,
+    "('High', 'TATAMOTORS.BO')":623.6357853992,
+    "('Low', 'TATAMOTORS.BO')":607.772236009,
+    "('Open', 'TATAMOTORS.BO')":610.7466515197,
+    "('Volume', 'TATAMOTORS.BO')":415093
+  },
+  {
+    "('Date', '')":"2025-03-05",
+    "('Close', 'TATAMOTORS.BO')":635.4838867188,
+    "('High', 'TATAMOTORS.BO')":636.3266135753,
+    "('Low', 'TATAMOTORS.BO')":613.4731998105,
+    "('Open', 'TATAMOTORS.BO')":613.72106777,
+    "('Volume', 'TATAMOTORS.BO')":643986
+  },
+  {
+    "('Date', '')":"2025-03-06",
+    "('Close', 'TATAMOTORS.BO')":634.294128418,
+    "('High', 'TATAMOTORS.BO')":650.4055462949,
+    "('Low', 'TATAMOTORS.BO')":630.5761089079,
+    "('Open', 'TATAMOTORS.BO')":649.0670834772,
+    "('Volume', 'TATAMOTORS.BO')":1129223
+  },
+  {
+    "('Date', '')":"2025-03-07",
+    "('Close', 'TATAMOTORS.BO')":642.919921875,
+    "('High', 'TATAMOTORS.BO')":645.9438988611,
+    "('Low', 'TATAMOTORS.BO')":630.1794725188,
+    "('Open', 'TATAMOTORS.BO')":635.0377087039,
+    "('Volume', 'TATAMOTORS.BO')":950874
+  },
+  {
+    "('Date', '')":"2025-03-10",
+    "('Close', 'TATAMOTORS.BO')":642.3746337891,
+    "('High', 'TATAMOTORS.BO')":648.4225878491,
+    "('Low', 'TATAMOTORS.BO')":637.7147040059,
+    "('Open', 'TATAMOTORS.BO')":643.7626580659,
+    "('Volume', 'TATAMOTORS.BO')":774587
+  },
+  {
+    "('Date', '')":"2025-03-11",
+    "('Close', 'TATAMOTORS.BO')":642.325012207,
+    "('High', 'TATAMOTORS.BO')":645.5969177155,
+    "('Low', 'TATAMOTORS.BO')":632.9060296556,
+    "('Open', 'TATAMOTORS.BO')":634.5419824099,
+    "('Volume', 'TATAMOTORS.BO')":475976
+  },
+  {
+    "('Date', '')":"2025-03-12",
+    "('Close', 'TATAMOTORS.BO')":662.7493286133,
+    "('High', 'TATAMOTORS.BO')":666.0707348963,
+    "('Low', 'TATAMOTORS.BO')":646.8362185231,
+    "('Open', 'TATAMOTORS.BO')":646.8362185231,
+    "('Volume', 'TATAMOTORS.BO')":788852
+  },
+  {
+    "('Date', '')":"2025-03-13",
+    "('Close', 'TATAMOTORS.BO')":649.8106689453,
+    "('High', 'TATAMOTORS.BO')":667.5579785945,
+    "('Low', 'TATAMOTORS.BO')":644.0105223654,
+    "('Open', 'TATAMOTORS.BO')":667.5579785945,
+    "('Volume', 'TATAMOTORS.BO')":1189577
+  },
+  {
+    "('Date', '')":"2025-03-17",
+    "('Close', 'TATAMOTORS.BO')":655.2637329102,
+    "('High', 'TATAMOTORS.BO')":660.4689598291,
+    "('Low', 'TATAMOTORS.BO')":651.8927046044,
+    "('Open', 'TATAMOTORS.BO')":659.824478957,
+    "('Volume', 'TATAMOTORS.BO')":449457
+  },
+  {
+    "('Date', '')":"2025-03-18",
+    "('Close', 'TATAMOTORS.BO')":674.0025634766,
+    "('High', 'TATAMOTORS.BO')":675.9855072117,
+    "('Low', 'TATAMOTORS.BO')":658.4860650578,
+    "('Open', 'TATAMOTORS.BO')":660.0228343496,
+    "('Volume', 'TATAMOTORS.BO')":440745
+  },
+  {
+    "('Date', '')":"2025-03-19",
+    "('Close', 'TATAMOTORS.BO')":676.0846557617,
+    "('High', 'TATAMOTORS.BO')":683.0745199639,
+    "('Low', 'TATAMOTORS.BO')":673.0110568223,
+    "('Open', 'TATAMOTORS.BO')":683.0745199639,
+    "('Volume', 'TATAMOTORS.BO')":425234
+  },
+  {
+    "('Date', '')":"2025-03-20",
+    "('Close', 'TATAMOTORS.BO')":684.2642822266,
+    "('High', 'TATAMOTORS.BO')":686.9412076563,
+    "('Low', 'TATAMOTORS.BO')":673.2093475274,
+    "('Open', 'TATAMOTORS.BO')":679.1581782861,
+    "('Volume', 'TATAMOTORS.BO')":713951
+  },
+  {
+    "('Date', '')":"2025-03-21",
+    "('Close', 'TATAMOTORS.BO')":696.8559570312,
+    "('High', 'TATAMOTORS.BO')":698.8885227106,
+    "('Low', 'TATAMOTORS.BO')":683.0745347938,
+    "('Open', 'TATAMOTORS.BO')":687.3874130827,
+    "('Volume', 'TATAMOTORS.BO')":1021602
+  },
+  {
+    "('Date', '')":"2025-03-24",
+    "('Close', 'TATAMOTORS.BO')":707.3160400391,
+    "('High', 'TATAMOTORS.BO')":711.4306118964,
+    "('Low', 'TATAMOTORS.BO')":696.2611047363,
+    "('Open', 'TATAMOTORS.BO')":708.8528092994,
+    "('Volume', 'TATAMOTORS.BO')":562815
+  },
+  {
+    "('Date', '')":"2025-03-25",
+    "('Close', 'TATAMOTORS.BO')":704.3911743164,
+    "('High', 'TATAMOTORS.BO')":716.338397775,
+    "('Low', 'TATAMOTORS.BO')":700.3261035012,
+    "('Open', 'TATAMOTORS.BO')":713.2648593053,
+    "('Volume', 'TATAMOTORS.BO')":549630
+  },
+  {
+    "('Date', '')":"2025-03-26",
+    "('Close', 'TATAMOTORS.BO')":701.9124755859,
+    "('High', 'TATAMOTORS.BO')":711.62888716,
+    "('Low', 'TATAMOTORS.BO')":700.9705652694,
+    "('Open', 'TATAMOTORS.BO')":704.3911550954,
+    "('Volume', 'TATAMOTORS.BO')":749794
+  },
+  {
+    "('Date', '')":"2025-03-27",
+    "('Close', 'TATAMOTORS.BO')":662.8980102539,
+    "('High', 'TATAMOTORS.BO')":671.2759589276,
+    "('Low', 'TATAMOTORS.BO')":655.7098398234,
+    "('Open', 'TATAMOTORS.BO')":668.2024206045,
+    "('Volume', 'TATAMOTORS.BO')":1752516
+  },
+  {
+    "('Date', '')":"2025-03-28",
+    "('Close', 'TATAMOTORS.BO')":668.301574707,
+    "('High', 'TATAMOTORS.BO')":679.0590803681,
+    "('Low', 'TATAMOTORS.BO')":663.4433990503,
+    "('Open', 'TATAMOTORS.BO')":665.3767207065,
+    "('Volume', 'TATAMOTORS.BO')":1599284
+  },
+  {
+    "('Date', '')":"2025-04-01",
+    "('Close', 'TATAMOTORS.BO')":665.6741943359,
+    "('High', 'TATAMOTORS.BO')":676.0846482924,
+    "('Low', 'TATAMOTORS.BO')":660.0227929424,
+    "('Open', 'TATAMOTORS.BO')":664.2861096026,
+    "('Volume', 'TATAMOTORS.BO')":507047
+  },
+  {
+    "('Date', '')":"2025-04-02",
+    "('Close', 'TATAMOTORS.BO')":666.0707397461,
+    "('High', 'TATAMOTORS.BO')":670.6315463117,
+    "('Low', 'TATAMOTORS.BO')":656.3543282585,
+    "('Open', 'TATAMOTORS.BO')":670.6315463117,
+    "('Volume', 'TATAMOTORS.BO')":529723
+  },
+  {
+    "('Date', '')":"2025-04-03",
+    "('Close', 'TATAMOTORS.BO')":648.4721069336,
+    "('High', 'TATAMOTORS.BO')":663.2946221779,
+    "('Low', 'TATAMOTORS.BO')":647.2327672061,
+    "('Open', 'TATAMOTORS.BO')":650.4550504977,
+    "('Volume', 'TATAMOTORS.BO')":718248
+  },
+  {
+    "('Date', '')":"2025-04-04",
+    "('Close', 'TATAMOTORS.BO')":608.6149291992,
+    "('High', 'TATAMOTORS.BO')":645.3985686217,
+    "('Low', 'TATAMOTORS.BO')":604.8969100166,
+    "('Open', 'TATAMOTORS.BO')":645.3985686217,
+    "('Volume', 'TATAMOTORS.BO')":2544217
+  },
+  {
+    "('Date', '')":"2025-04-07",
+    "('Close', 'TATAMOTORS.BO')":574.9049072266,
+    "('High', 'TATAMOTORS.BO')":577.0365958328,
+    "('Low', 'TATAMOTORS.BO')":537.9230206619,
+    "('Open', 'TATAMOTORS.BO')":547.7881773155,
+    "('Volume', 'TATAMOTORS.BO')":6047807
+  },
+  {
+    "('Date', '')":"2025-04-08",
+    "('Close', 'TATAMOTORS.BO')":583.8778076172,
+    "('High', 'TATAMOTORS.BO')":601.2285653175,
+    "('Low', 'TATAMOTORS.BO')":579.2674392224,
+    "('Open', 'TATAMOTORS.BO')":587.5958271244,
+    "('Volume', 'TATAMOTORS.BO')":1903190
+  },
+  {
+    "('Date', '')":"2025-04-09",
+    "('Close', 'TATAMOTORS.BO')":578.0280761719,
+    "('High', 'TATAMOTORS.BO')":589.9257381171,
+    "('Low', 'TATAMOTORS.BO')":576.243438983,
+    "('Open', 'TATAMOTORS.BO')":583.8777841675,
+    "('Volume', 'TATAMOTORS.BO')":1686551
+  },
+  {
+    "('Date', '')":"2025-04-11",
+    "('Close', 'TATAMOTORS.BO')":589.9752807617,
+    "('High', 'TATAMOTORS.BO')":607.4252206995,
+    "('Low', 'TATAMOTORS.BO')":586.0589550602,
+    "('Open', 'TATAMOTORS.BO')":605.4422771053,
+    "('Volume', 'TATAMOTORS.BO')":2223520
+  },
+  {
+    "('Date', '')":"2025-04-15",
+    "('Close', 'TATAMOTORS.BO')":616.4971923828,
+    "('High', 'TATAMOTORS.BO')":622.6938915273,
+    "('Low', 'TATAMOTORS.BO')":607.028648193,
+    "('Open', 'TATAMOTORS.BO')":607.028648193,
+    "('Volume', 'TATAMOTORS.BO')":1960419
+  },
+  {
+    "('Date', '')":"2025-04-16",
+    "('Close', 'TATAMOTORS.BO')":610.8457641602,
+    "('High', 'TATAMOTORS.BO')":622.3468735821,
+    "('Low', 'TATAMOTORS.BO')":608.1688386576,
+    "('Open', 'TATAMOTORS.BO')":622.3468735821,
+    "('Volume', 'TATAMOTORS.BO')":648458
+  },
+  {
+    "('Date', '')":"2025-04-17",
+    "('Close', 'TATAMOTORS.BO')":616.1997680664,
+    "('High', 'TATAMOTORS.BO')":621.5537403777,
+    "('Low', 'TATAMOTORS.BO')":603.1123272612,
+    "('Open', 'TATAMOTORS.BO')":610.8457957551,
+    "('Volume', 'TATAMOTORS.BO')":1170273
+  },
+  {
+    "('Date', '')":"2025-04-21",
+    "('Close', 'TATAMOTORS.BO')":624.5776977539,
+    "('High', 'TATAMOTORS.BO')":630.2786608343,
+    "('Low', 'TATAMOTORS.BO')":614.8116638205,
+    "('Open', 'TATAMOTORS.BO')":619.6699000426,
+    "('Volume', 'TATAMOTORS.BO')":844193
+  },
+  {
+    "('Date', '')":"2025-04-22",
+    "('Close', 'TATAMOTORS.BO')":625.569152832,
+    "('High', 'TATAMOTORS.BO')":628.5435682725,
+    "('Low', 'TATAMOTORS.BO')":620.8101002301,
+    "('Open', 'TATAMOTORS.BO')":625.4204078542,
+    "('Volume', 'TATAMOTORS.BO')":1343502
+  },
+  {
+    "('Date', '')":"2025-04-23",
+    "('Close', 'TATAMOTORS.BO')":654.272277832,
+    "('High', 'TATAMOTORS.BO')":655.7594855611,
+    "('Low', 'TATAMOTORS.BO')":627.4529167054,
+    "('Open', 'TATAMOTORS.BO')":629.634166811,
+    "('Volume', 'TATAMOTORS.BO')":2208937
+  },
+  {
+    "('Date', '')":"2025-04-24",
+    "('Close', 'TATAMOTORS.BO')":662.5014648438,
+    "('High', 'TATAMOTORS.BO')":665.277573764,
+    "('Low', 'TATAMOTORS.BO')":654.3713840301,
+    "('Open', 'TATAMOTORS.BO')":654.3713840301,
+    "('Volume', 'TATAMOTORS.BO')":1636176
+  },
+  {
+    "('Date', '')":"2025-04-25",
+    "('Close', 'TATAMOTORS.BO')":649.2653198242,
+    "('High', 'TATAMOTORS.BO')":667.2605581923,
+    "('Low', 'TATAMOTORS.BO')":645.8943518271,
+    "('Open', 'TATAMOTORS.BO')":662.5015053928,
+    "('Volume', 'TATAMOTORS.BO')":1186311
+  },
+  {
+    "('Date', '')":"2025-04-28",
+    "('Close', 'TATAMOTORS.BO')":662.6501464844,
+    "('High', 'TATAMOTORS.BO')":663.6416182741,
+    "('Low', 'TATAMOTORS.BO')":647.1336492833,
+    "('Open', 'TATAMOTORS.BO')":649.215715836,
+    "('Volume', 'TATAMOTORS.BO')":638985
+  },
+  {
+    "('Date', '')":"2025-04-29",
+    "('Close', 'TATAMOTORS.BO')":659.9236450195,
+    "('High', 'TATAMOTORS.BO')":677.1752795687,
+    "('Low', 'TATAMOTORS.BO')":655.9081960943,
+    "('Open', 'TATAMOTORS.BO')":664.9801878083,
+    "('Volume', 'TATAMOTORS.BO')":1233288
+  },
+  {
+    "('Date', '')":"2025-04-30",
+    "('Close', 'TATAMOTORS.BO')":638.6566162109,
+    "('High', 'TATAMOTORS.BO')":660.9151108257,
+    "('Low', 'TATAMOTORS.BO')":635.6325786575,
+    "('Open', 'TATAMOTORS.BO')":660.5185583946,
+    "('Volume', 'TATAMOTORS.BO')":1476219
+  },
+  {
+    "('Date', '')":"2025-05-02",
+    "('Close', 'TATAMOTORS.BO')":646.2908935547,
+    "('High', 'TATAMOTORS.BO')":655.3133235915,
+    "('Low', 'TATAMOTORS.BO')":630.3282211648,
+    "('Open', 'TATAMOTORS.BO')":638.7061703009,
+    "('Volume', 'TATAMOTORS.BO')":883714
+  },
+  {
+    "('Date', '')":"2025-05-05",
+    "('Close', 'TATAMOTORS.BO')":655.9577636719,
+    "('High', 'TATAMOTORS.BO')":661.807471899,
+    "('Low', 'TATAMOTORS.BO')":650.2072389403,
+    "('Open', 'TATAMOTORS.BO')":654.4705558699,
+    "('Volume', 'TATAMOTORS.BO')":695523
+  },
+  {
+    "('Date', '')":"2025-05-06",
+    "('Close', 'TATAMOTORS.BO')":642.2754516602,
+    "('High', 'TATAMOTORS.BO')":657.7920103024,
+    "('Low', 'TATAMOTORS.BO')":639.9950785105,
+    "('Open', 'TATAMOTORS.BO')":653.0825190198,
+    "('Volume', 'TATAMOTORS.BO')":1468290
+  },
+  {
+    "('Date', '')":"2025-05-07",
+    "('Close', 'TATAMOTORS.BO')":674.6965942383,
+    "('High', 'TATAMOTORS.BO')":676.4316699766,
+    "('Low', 'TATAMOTORS.BO')":634.492422805,
+    "('Open', 'TATAMOTORS.BO')":634.5419842946,
+    "('Volume', 'TATAMOTORS.BO')":1590643
+  },
+  {
+    "('Date', '')":"2025-05-08",
+    "('Close', 'TATAMOTORS.BO')":676.0846557617,
+    "('High', 'TATAMOTORS.BO')":697.9961586968,
+    "('Low', 'TATAMOTORS.BO')":671.2759811437,
+    "('Open', 'TATAMOTORS.BO')":694.1790164098,
+    "('Volume', 'TATAMOTORS.BO')":2247659
+  },
+  {
+    "('Date', '')":"2025-05-09",
+    "('Close', 'TATAMOTORS.BO')":702.4577636719,
+    "('High', 'TATAMOTORS.BO')":704.787698174,
+    "('Low', 'TATAMOTORS.BO')":656.9491842754,
+    "('Open', 'TATAMOTORS.BO')":656.9491842754,
+    "('Volume', 'TATAMOTORS.BO')":2414487
+  },
+  {
+    "('Date', '')":"2025-05-12",
+    "('Close', 'TATAMOTORS.BO')":714.4050292969,
+    "('High', 'TATAMOTORS.BO')":726.3026914949,
+    "('Low', 'TATAMOTORS.BO')":705.035608213,
+    "('Open', 'TATAMOTORS.BO')":720.3538603959,
+    "('Volume', 'TATAMOTORS.BO')":1840816
+  },
+  {
+    "('Date', '')":"2025-05-13",
+    "('Close', 'TATAMOTORS.BO')":701.8629150391,
+    "('High', 'TATAMOTORS.BO')":720.4530113848,
+    "('Low', 'TATAMOTORS.BO')":697.5004148907,
+    "('Open', 'TATAMOTORS.BO')":714.4049970648,
+    "('Volume', 'TATAMOTORS.BO')":2052287
+  },
+  {
+    "('Date', '')":"2025-05-14",
+    "('Close', 'TATAMOTORS.BO')":693.0388183594,
+    "('High', 'TATAMOTORS.BO')":701.9620649477,
+    "('Low', 'TATAMOTORS.BO')":680.1496843985,
+    "('Open', 'TATAMOTORS.BO')":693.7824222417,
+    "('Volume', 'TATAMOTORS.BO')":2377093
+  },
+  {
+    "('Date', '')":"2025-05-15",
+    "('Close', 'TATAMOTORS.BO')":721.8410644531,
+    "('High', 'TATAMOTORS.BO')":723.724885164,
+    "('Low', 'TATAMOTORS.BO')":690.0644039324,
+    "('Open', 'TATAMOTORS.BO')":693.1875644492,
+    "('Volume', 'TATAMOTORS.BO')":2852461
+  },
+  {
+    "('Date', '')":"2025-05-16",
+    "('Close', 'TATAMOTORS.BO')":724.4685058594,
+    "('High', 'TATAMOTORS.BO')":735.6721258619,
+    "('Low', 'TATAMOTORS.BO')":719.3624015347,
+    "('Open', 'TATAMOTORS.BO')":722.3863786283,
+    "('Volume', 'TATAMOTORS.BO')":1197738
+  },
+  {
+    "('Date', '')":"2025-05-19",
+    "('Close', 'TATAMOTORS.BO')":722.981262207,
+    "('High', 'TATAMOTORS.BO')":732.0036315502,
+    "('Low', 'TATAMOTORS.BO')":721.6923609458,
+    "('Open', 'TATAMOTORS.BO')":725.5095032415,
+    "('Volume', 'TATAMOTORS.BO')":971683
+  },
+  {
+    "('Date', '')":"2025-05-20",
+    "('Close', 'TATAMOTORS.BO')":712.6203613281,
+    "('High', 'TATAMOTORS.BO')":731.2104577106,
+    "('Low', 'TATAMOTORS.BO')":710.9844086406,
+    "('Open', 'TATAMOTORS.BO')":725.2616268682,
+    "('Volume', 'TATAMOTORS.BO')":628436
+  },
+  {
+    "('Date', '')":"2025-05-21",
+    "('Close', 'TATAMOTORS.BO')":720.5521240234,
+    "('High', 'TATAMOTORS.BO')":723.2786714484,
+    "('Low', 'TATAMOTORS.BO')":711.8767458532,
+    "('Open', 'TATAMOTORS.BO')":712.7690946709,
+    "('Volume', 'TATAMOTORS.BO')":466070
+  },
+  {
+    "('Date', '')":"2025-05-22",
+    "('Close', 'TATAMOTORS.BO')":711.62890625,
+    "('High', 'TATAMOTORS.BO')":719.6102423816,
+    "('Low', 'TATAMOTORS.BO')":704.1433060336,
+    "('Open', 'TATAMOTORS.BO')":719.6102423816,
+    "('Volume', 'TATAMOTORS.BO')":420641
+  },
+  {
+    "('Date', '')":"2025-05-23",
+    "('Close', 'TATAMOTORS.BO')":712.0255126953,
+    "('High', 'TATAMOTORS.BO')":715.8922164897,
+    "('Low', 'TATAMOTORS.BO')":708.9023522523,
+    "('Open', 'TATAMOTORS.BO')":714.752060204,
+    "('Volume', 'TATAMOTORS.BO')":612169
+  },
+  {
+    "('Date', '')":"2025-05-26",
+    "('Close', 'TATAMOTORS.BO')":722.8325195312,
+    "('High', 'TATAMOTORS.BO')":731.7062044387,
+    "('Low', 'TATAMOTORS.BO')":715.2477964038,
+    "('Open', 'TATAMOTORS.BO')":718.767509268,
+    "('Volume', 'TATAMOTORS.BO')":727022
+  },
+  {
+    "('Date', '')":"2025-05-27",
+    "('Close', 'TATAMOTORS.BO')":710.3400268555,
+    "('High', 'TATAMOTORS.BO')":723.3282840276,
+    "('Low', 'TATAMOTORS.BO')":709.1502485194,
+    "('Open', 'TATAMOTORS.BO')":722.8325480971,
+    "('Volume', 'TATAMOTORS.BO')":1077976
+  },
+  {
+    "('Date', '')":"2025-05-28",
+    "('Close', 'TATAMOTORS.BO')":711.8272094727,
+    "('High', 'TATAMOTORS.BO')":716.1896491976,
+    "('Low', 'TATAMOTORS.BO')":710.1416952658,
+    "('Open', 'TATAMOTORS.BO')":711.9263324494,
+    "('Volume', 'TATAMOTORS.BO')":485220
+  },
+  {
+    "('Date', '')":"2025-05-29",
+    "('Close', 'TATAMOTORS.BO')":718.2717895508,
+    "('High', 'TATAMOTORS.BO')":722.386361395,
+    "('Low', 'TATAMOTORS.BO')":713.7606047631,
+    "('Open', 'TATAMOTORS.BO')":718.2222280615,
+    "('Volume', 'TATAMOTORS.BO')":701749
+  },
+  {
+    "('Date', '')":"2025-05-30",
+    "('Close', 'TATAMOTORS.BO')":713.3143920898,
+    "('High', 'TATAMOTORS.BO')":722.0393317471,
+    "('Low', 'TATAMOTORS.BO')":706.4236510399,
+    "('Open', 'TATAMOTORS.BO')":718.2717510445,
+    "('Volume', 'TATAMOTORS.BO')":528572
+  },
+  {
+    "('Date', '')":"2025-06-02",
+    "('Close', 'TATAMOTORS.BO')":705.3330688477,
+    "('High', 'TATAMOTORS.BO')":713.0169753643,
+    "('Low', 'TATAMOTORS.BO')":701.4167431007,
+    "('Open', 'TATAMOTORS.BO')":706.1757956791,
+    "('Volume', 'TATAMOTORS.BO')":480126
+  },
+  {
+    "('Date', '')":"2025-06-03",
+    "('Close', 'TATAMOTORS.BO')":697.549987793,
+    "('High', 'TATAMOTORS.BO')":712.2237586457,
+    "('Low', 'TATAMOTORS.BO')":696.6080774598,
+    "('Open', 'TATAMOTORS.BO')":709.1997816936,
+    "('Volume', 'TATAMOTORS.BO')":635350
+  },
+  {
+    "('Date', '')":"2025-06-04",
+    "('Close', 'TATAMOTORS.BO')":709.950012207,
+    "('High', 'TATAMOTORS.BO')":715.5,
+    "('Low', 'TATAMOTORS.BO')":699.0,
+    "('Open', 'TATAMOTORS.BO')":703.0,
+    "('Volume', 'TATAMOTORS.BO')":521500
+  },
+  {
+    "('Date', '')":"2025-06-05",
+    "('Close', 'TATAMOTORS.BO')":710.0999755859,
+    "('High', 'TATAMOTORS.BO')":714.0,
+    "('Low', 'TATAMOTORS.BO')":704.0,
+    "('Open', 'TATAMOTORS.BO')":712.5,
+    "('Volume', 'TATAMOTORS.BO')":1154100
+  },
+  {
+    "('Date', '')":"2025-06-06",
+    "('Close', 'TATAMOTORS.BO')":711.299987793,
+    "('High', 'TATAMOTORS.BO')":715.799987793,
+    "('Low', 'TATAMOTORS.BO')":701.299987793,
+    "('Open', 'TATAMOTORS.BO')":710.0,
+    "('Volume', 'TATAMOTORS.BO')":670682
+  },
+  {
+    "('Date', '')":"2025-06-09",
+    "('Close', 'TATAMOTORS.BO')":717.799987793,
+    "('High', 'TATAMOTORS.BO')":726.0,
+    "('Low', 'TATAMOTORS.BO')":713.299987793,
+    "('Open', 'TATAMOTORS.BO')":714.049987793,
+    "('Volume', 'TATAMOTORS.BO')":1122526
+  },
+  {
+    "('Date', '')":"2025-06-10",
+    "('Close', 'TATAMOTORS.BO')":732.25,
+    "('High', 'TATAMOTORS.BO')":734.6500244141,
+    "('Low', 'TATAMOTORS.BO')":715.549987793,
+    "('Open', 'TATAMOTORS.BO')":718.049987793,
+    "('Volume', 'TATAMOTORS.BO')":1341770
+  },
+  {
+    "('Date', '')":"2025-06-11",
+    "('Close', 'TATAMOTORS.BO')":736.25,
+    "('High', 'TATAMOTORS.BO')":743.799987793,
+    "('Low', 'TATAMOTORS.BO')":730.25,
+    "('Open', 'TATAMOTORS.BO')":733.0,
+    "('Volume', 'TATAMOTORS.BO')":702404
+  },
+  {
+    "('Date', '')":"2025-06-12",
+    "('Close', 'TATAMOTORS.BO')":715.0,
+    "('High', 'TATAMOTORS.BO')":737.75,
+    "('Low', 'TATAMOTORS.BO')":711.450012207,
+    "('Open', 'TATAMOTORS.BO')":736.049987793,
+    "('Volume', 'TATAMOTORS.BO')":1006800
+  },
+  {
+    "('Date', '')":"2025-06-13",
+    "('Close', 'TATAMOTORS.BO')":712.049987793,
+    "('High', 'TATAMOTORS.BO')":715.0,
+    "('Low', 'TATAMOTORS.BO')":698.4000244141,
+    "('Open', 'TATAMOTORS.BO')":699.5,
+    "('Volume', 'TATAMOTORS.BO')":888144
+  },
+  {
+    "('Date', '')":"2025-06-16",
+    "('Close', 'TATAMOTORS.BO')":686.700012207,
+    "('High', 'TATAMOTORS.BO')":714.0,
+    "('Low', 'TATAMOTORS.BO')":672.75,
+    "('Open', 'TATAMOTORS.BO')":709.5999755859,
+    "('Volume', 'TATAMOTORS.BO')":1919077
+  },
+  {
+    "('Date', '')":"2025-06-17",
+    "('Close', 'TATAMOTORS.BO')":675.0,
+    "('High', 'TATAMOTORS.BO')":687.049987793,
+    "('Low', 'TATAMOTORS.BO')":672.0,
+    "('Open', 'TATAMOTORS.BO')":687.0,
+    "('Volume', 'TATAMOTORS.BO')":1763584
+  },
+  {
+    "('Date', '')":"2025-06-18",
+    "('Close', 'TATAMOTORS.BO')":670.0999755859,
+    "('High', 'TATAMOTORS.BO')":679.450012207,
+    "('Low', 'TATAMOTORS.BO')":668.0,
+    "('Open', 'TATAMOTORS.BO')":673.4000244141,
+    "('Volume', 'TATAMOTORS.BO')":915974
+  },
+  {
+    "('Date', '')":"2025-06-19",
+    "('Close', 'TATAMOTORS.BO')":672.200012207,
+    "('High', 'TATAMOTORS.BO')":676.0,
+    "('Low', 'TATAMOTORS.BO')":666.799987793,
+    "('Open', 'TATAMOTORS.BO')":671.25,
+    "('Volume', 'TATAMOTORS.BO')":479290
+  },
+  {
+    "('Date', '')":"2025-06-20",
+    "('Close', 'TATAMOTORS.BO')":676.0999755859,
+    "('High', 'TATAMOTORS.BO')":678.8499755859,
+    "('Low', 'TATAMOTORS.BO')":670.200012207,
+    "('Open', 'TATAMOTORS.BO')":674.75,
+    "('Volume', 'TATAMOTORS.BO')":394252
+  },
+  {
+    "('Date', '')":"2025-06-23",
+    "('Close', 'TATAMOTORS.BO')":671.299987793,
+    "('High', 'TATAMOTORS.BO')":675.700012207,
+    "('Low', 'TATAMOTORS.BO')":666.25,
+    "('Open', 'TATAMOTORS.BO')":671.4000244141,
+    "('Volume', 'TATAMOTORS.BO')":590738
+  },
+  {
+    "('Date', '')":"2025-06-24",
+    "('Close', 'TATAMOTORS.BO')":673.549987793,
+    "('High', 'TATAMOTORS.BO')":686.5999755859,
+    "('Low', 'TATAMOTORS.BO')":672.450012207,
+    "('Open', 'TATAMOTORS.BO')":677.299987793,
+    "('Volume', 'TATAMOTORS.BO')":1195970
+  },
+  {
+    "('Date', '')":"2025-06-25",
+    "('Close', 'TATAMOTORS.BO')":674.4000244141,
+    "('High', 'TATAMOTORS.BO')":678.799987793,
+    "('Low', 'TATAMOTORS.BO')":673.4000244141,
+    "('Open', 'TATAMOTORS.BO')":676.049987793,
+    "('Volume', 'TATAMOTORS.BO')":515678
+  },
+  {
+    "('Date', '')":"2025-06-26",
+    "('Close', 'TATAMOTORS.BO')":683.0,
+    "('High', 'TATAMOTORS.BO')":683.75,
+    "('Low', 'TATAMOTORS.BO')":674.6500244141,
+    "('Open', 'TATAMOTORS.BO')":676.950012207,
+    "('Volume', 'TATAMOTORS.BO')":481057
+  },
+  {
+    "('Date', '')":"2025-06-27",
+    "('Close', 'TATAMOTORS.BO')":686.700012207,
+    "('High', 'TATAMOTORS.BO')":691.0,
+    "('Low', 'TATAMOTORS.BO')":683.0999755859,
+    "('Open', 'TATAMOTORS.BO')":684.1500244141,
+    "('Volume', 'TATAMOTORS.BO')":751398
+  },
+  {
+    "('Date', '')":"2025-06-30",
+    "('Close', 'TATAMOTORS.BO')":688.049987793,
+    "('High', 'TATAMOTORS.BO')":691.950012207,
+    "('Low', 'TATAMOTORS.BO')":685.0,
+    "('Open', 'TATAMOTORS.BO')":689.9000244141,
+    "('Volume', 'TATAMOTORS.BO')":628166
+  },
+  {
+    "('Date', '')":"2025-07-01",
+    "('Close', 'TATAMOTORS.BO')":683.950012207,
+    "('High', 'TATAMOTORS.BO')":693.799987793,
+    "('Low', 'TATAMOTORS.BO')":680.3499755859,
+    "('Open', 'TATAMOTORS.BO')":688.0999755859,
+    "('Volume', 'TATAMOTORS.BO')":1043986
+  },
+  {
+    "('Date', '')":"2025-07-02",
+    "('Close', 'TATAMOTORS.BO')":688.4000244141,
+    "('High', 'TATAMOTORS.BO')":692.0,
+    "('Low', 'TATAMOTORS.BO')":680.700012207,
+    "('Open', 'TATAMOTORS.BO')":683.950012207,
+    "('Volume', 'TATAMOTORS.BO')":1052411
+  },
+  {
+    "('Date', '')":"2025-07-03",
+    "('Close', 'TATAMOTORS.BO')":690.4000244141,
+    "('High', 'TATAMOTORS.BO')":696.8499755859,
+    "('Low', 'TATAMOTORS.BO')":688.700012207,
+    "('Open', 'TATAMOTORS.BO')":694.5,
+    "('Volume', 'TATAMOTORS.BO')":536755
+  },
+  {
+    "('Date', '')":"2025-07-04",
+    "('Close', 'TATAMOTORS.BO')":688.950012207,
+    "('High', 'TATAMOTORS.BO')":693.200012207,
+    "('Low', 'TATAMOTORS.BO')":686.200012207,
+    "('Open', 'TATAMOTORS.BO')":690.4000244141,
+    "('Volume', 'TATAMOTORS.BO')":666288
+  },
+  {
+    "('Date', '')":"2025-07-07",
+    "('Close', 'TATAMOTORS.BO')":688.8499755859,
+    "('High', 'TATAMOTORS.BO')":693.8499755859,
+    "('Low', 'TATAMOTORS.BO')":683.700012207,
+    "('Open', 'TATAMOTORS.BO')":693.8499755859,
+    "('Volume', 'TATAMOTORS.BO')":402068
+  },
+  {
+    "('Date', '')":"2025-07-08",
+    "('Close', 'TATAMOTORS.BO')":693.25,
+    "('High', 'TATAMOTORS.BO')":696.9000244141,
+    "('Low', 'TATAMOTORS.BO')":687.200012207,
+    "('Open', 'TATAMOTORS.BO')":691.4000244141,
+    "('Volume', 'TATAMOTORS.BO')":1366744
+  },
+  {
+    "('Date', '')":"2025-07-09",
+    "('Close', 'TATAMOTORS.BO')":692.8499755859,
+    "('High', 'TATAMOTORS.BO')":695.0,
+    "('Low', 'TATAMOTORS.BO')":688.5999755859,
+    "('Open', 'TATAMOTORS.BO')":688.5999755859,
+    "('Volume', 'TATAMOTORS.BO')":720041
+  },
+  {
+    "('Date', '')":"2025-07-10",
+    "('Close', 'TATAMOTORS.BO')":695.5,
+    "('High', 'TATAMOTORS.BO')":696.299987793,
+    "('Low', 'TATAMOTORS.BO')":685.049987793,
+    "('Open', 'TATAMOTORS.BO')":692.4000244141,
+    "('Volume', 'TATAMOTORS.BO')":976211
+  },
+  {
+    "('Date', '')":"2025-07-11",
+    "('Close', 'TATAMOTORS.BO')":681.5999755859,
+    "('High', 'TATAMOTORS.BO')":698.5,
+    "('Low', 'TATAMOTORS.BO')":677.25,
+    "('Open', 'TATAMOTORS.BO')":691.299987793,
+    "('Volume', 'TATAMOTORS.BO')":361537
+  },
+  {
+    "('Date', '')":"2025-07-14",
+    "('Close', 'TATAMOTORS.BO')":674.5,
+    "('High', 'TATAMOTORS.BO')":681.75,
+    "('Low', 'TATAMOTORS.BO')":672.049987793,
+    "('Open', 'TATAMOTORS.BO')":681.75,
+    "('Volume', 'TATAMOTORS.BO')":432729
+  },
+  {
+    "('Date', '')":"2025-07-15",
+    "('Close', 'TATAMOTORS.BO')":684.950012207,
+    "('High', 'TATAMOTORS.BO')":686.299987793,
+    "('Low', 'TATAMOTORS.BO')":674.5999755859,
+    "('Open', 'TATAMOTORS.BO')":674.6500244141,
+    "('Volume', 'TATAMOTORS.BO')":337604
+  },
+  {
+    "('Date', '')":"2025-07-16",
+    "('Close', 'TATAMOTORS.BO')":679.0,
+    "('High', 'TATAMOTORS.BO')":684.0,
+    "('Low', 'TATAMOTORS.BO')":676.3499755859,
+    "('Open', 'TATAMOTORS.BO')":684.0,
+    "('Volume', 'TATAMOTORS.BO')":559167
+  },
+  {
+    "('Date', '')":"2025-07-17",
+    "('Close', 'TATAMOTORS.BO')":681.75,
+    "('High', 'TATAMOTORS.BO')":686.75,
+    "('Low', 'TATAMOTORS.BO')":677.950012207,
+    "('Open', 'TATAMOTORS.BO')":679.299987793,
+    "('Volume', 'TATAMOTORS.BO')":689822
+  },
+  {
+    "('Date', '')":"2025-07-18",
+    "('Close', 'TATAMOTORS.BO')":680.1500244141,
+    "('High', 'TATAMOTORS.BO')":685.8499755859,
+    "('Low', 'TATAMOTORS.BO')":678.0,
+    "('Open', 'TATAMOTORS.BO')":683.299987793,
+    "('Volume', 'TATAMOTORS.BO')":488863
+  },
+  {
+    "('Date', '')":"2025-07-21",
+    "('Close', 'TATAMOTORS.BO')":687.299987793,
+    "('High', 'TATAMOTORS.BO')":688.6500244141,
+    "('Low', 'TATAMOTORS.BO')":671.25,
+    "('Open', 'TATAMOTORS.BO')":682.6500244141,
+    "('Volume', 'TATAMOTORS.BO')":352178
+  },
+  {
+    "('Date', '')":"2025-07-22",
+    "('Close', 'TATAMOTORS.BO')":673.299987793,
+    "('High', 'TATAMOTORS.BO')":688.450012207,
+    "('Low', 'TATAMOTORS.BO')":672.5,
+    "('Open', 'TATAMOTORS.BO')":688.1500244141,
+    "('Volume', 'TATAMOTORS.BO')":388954
+  },
+  {
+    "('Date', '')":"2025-07-23",
+    "('Close', 'TATAMOTORS.BO')":690.200012207,
+    "('High', 'TATAMOTORS.BO')":692.950012207,
+    "('Low', 'TATAMOTORS.BO')":676.6500244141,
+    "('Open', 'TATAMOTORS.BO')":677.5,
+    "('Volume', 'TATAMOTORS.BO')":674531
+  },
+  {
+    "('Date', '')":"2025-07-24",
+    "('Close', 'TATAMOTORS.BO')":700.5999755859,
+    "('High', 'TATAMOTORS.BO')":706.5,
+    "('Low', 'TATAMOTORS.BO')":692.950012207,
+    "('Open', 'TATAMOTORS.BO')":693.0,
+    "('Volume', 'TATAMOTORS.BO')":1423446
+  },
+  {
+    "('Date', '')":"2025-07-25",
+    "('Close', 'TATAMOTORS.BO')":687.299987793,
+    "('High', 'TATAMOTORS.BO')":702.049987793,
+    "('Low', 'TATAMOTORS.BO')":685.0,
+    "('Open', 'TATAMOTORS.BO')":700.5999755859,
+    "('Volume', 'TATAMOTORS.BO')":993381
+  },
+  {
+    "('Date', '')":"2025-07-28",
+    "('Close', 'TATAMOTORS.BO')":682.299987793,
+    "('High', 'TATAMOTORS.BO')":700.5999755859,
+    "('Low', 'TATAMOTORS.BO')":678.799987793,
+    "('Open', 'TATAMOTORS.BO')":688.3499755859,
+    "('Volume', 'TATAMOTORS.BO')":667500
+  },
+  {
+    "('Date', '')":"2025-07-29",
+    "('Close', 'TATAMOTORS.BO')":692.4000244141,
+    "('High', 'TATAMOTORS.BO')":694.0999755859,
+    "('Low', 'TATAMOTORS.BO')":680.950012207,
+    "('Open', 'TATAMOTORS.BO')":682.299987793,
+    "('Volume', 'TATAMOTORS.BO')":449521
+  },
+  {
+    "('Date', '')":"2025-07-30",
+    "('Close', 'TATAMOTORS.BO')":668.4000244141,
+    "('High', 'TATAMOTORS.BO')":691.950012207,
+    "('Low', 'TATAMOTORS.BO')":665.450012207,
+    "('Open', 'TATAMOTORS.BO')":691.950012207,
+    "('Volume', 'TATAMOTORS.BO')":1485586
+  },
+  {
+    "('Date', '')":"2025-07-31",
+    "('Close', 'TATAMOTORS.BO')":666.049987793,
+    "('High', 'TATAMOTORS.BO')":673.4000244141,
+    "('Low', 'TATAMOTORS.BO')":652.049987793,
+    "('Open', 'TATAMOTORS.BO')":660.0,
+    "('Volume', 'TATAMOTORS.BO')":841456
+  },
+  {
+    "('Date', '')":"2025-08-01",
+    "('Close', 'TATAMOTORS.BO')":648.75,
+    "('High', 'TATAMOTORS.BO')":668.950012207,
+    "('Low', 'TATAMOTORS.BO')":647.200012207,
+    "('Open', 'TATAMOTORS.BO')":667.4000244141,
+    "('Volume', 'TATAMOTORS.BO')":5379025
+  },
+  {
+    "('Date', '')":"2025-08-04",
+    "('Close', 'TATAMOTORS.BO')":653.6500244141,
+    "('High', 'TATAMOTORS.BO')":656.700012207,
+    "('Low', 'TATAMOTORS.BO')":645.6500244141,
+    "('Open', 'TATAMOTORS.BO')":649.049987793,
+    "('Volume', 'TATAMOTORS.BO')":600053
+  },
+  {
+    "('Date', '')":"2025-08-05",
+    "('Close', 'TATAMOTORS.BO')":654.5999755859,
+    "('High', 'TATAMOTORS.BO')":659.0,
+    "('Low', 'TATAMOTORS.BO')":650.450012207,
+    "('Open', 'TATAMOTORS.BO')":655.25,
+    "('Volume', 'TATAMOTORS.BO')":756422
+  },
+  {
+    "('Date', '')":"2025-08-06",
+    "('Close', 'TATAMOTORS.BO')":653.049987793,
+    "('High', 'TATAMOTORS.BO')":657.950012207,
+    "('Low', 'TATAMOTORS.BO')":650.450012207,
+    "('Open', 'TATAMOTORS.BO')":655.8499755859,
+    "('Volume', 'TATAMOTORS.BO')":669817
+  },
+  {
+    "('Date', '')":"2025-08-07",
+    "('Close', 'TATAMOTORS.BO')":647.5,
+    "('High', 'TATAMOTORS.BO')":651.299987793,
+    "('Low', 'TATAMOTORS.BO')":635.799987793,
+    "('Open', 'TATAMOTORS.BO')":648.5,
+    "('Volume', 'TATAMOTORS.BO')":1227857
+  },
+  {
+    "('Date', '')":"2025-08-08",
+    "('Close', 'TATAMOTORS.BO')":633.299987793,
+    "('High', 'TATAMOTORS.BO')":653.0,
+    "('Low', 'TATAMOTORS.BO')":630.200012207,
+    "('Open', 'TATAMOTORS.BO')":647.5,
+    "('Volume', 'TATAMOTORS.BO')":1013744
+  },
+  {
+    "('Date', '')":"2025-08-11",
+    "('Close', 'TATAMOTORS.BO')":653.799987793,
+    "('High', 'TATAMOTORS.BO')":654.799987793,
+    "('Low', 'TATAMOTORS.BO')":627.299987793,
+    "('Open', 'TATAMOTORS.BO')":633.049987793,
+    "('Volume', 'TATAMOTORS.BO')":891851
+  },
+  {
+    "('Date', '')":"2025-08-12",
+    "('Close', 'TATAMOTORS.BO')":653.9000244141,
+    "('High', 'TATAMOTORS.BO')":660.8499755859,
+    "('Low', 'TATAMOTORS.BO')":651.0,
+    "('Open', 'TATAMOTORS.BO')":651.75,
+    "('Volume', 'TATAMOTORS.BO')":1803626
+  },
+  {
+    "('Date', '')":"2025-08-13",
+    "('Close', 'TATAMOTORS.BO')":663.5999755859,
+    "('High', 'TATAMOTORS.BO')":666.950012207,
+    "('Low', 'TATAMOTORS.BO')":656.200012207,
+    "('Open', 'TATAMOTORS.BO')":656.200012207,
+    "('Volume', 'TATAMOTORS.BO')":1399718
+  },
+  {
+    "('Date', '')":"2025-08-14",
+    "('Close', 'TATAMOTORS.BO')":664.549987793,
+    "('High', 'TATAMOTORS.BO')":666.950012207,
+    "('Low', 'TATAMOTORS.BO')":657.9000244141,
+    "('Open', 'TATAMOTORS.BO')":666.950012207,
+    "('Volume', 'TATAMOTORS.BO')":210137
+  },
+  {
+    "('Date', '')":"2025-08-18",
+    "('Close', 'TATAMOTORS.BO')":676.4000244141,
+    "('High', 'TATAMOTORS.BO')":684.950012207,
+    "('Low', 'TATAMOTORS.BO')":672.700012207,
+    "('Open', 'TATAMOTORS.BO')":674.1500244141,
+    "('Volume', 'TATAMOTORS.BO')":470828
+  },
+  {
+    "('Date', '')":"2025-08-19",
+    "('Close', 'TATAMOTORS.BO')":700.0999755859,
+    "('High', 'TATAMOTORS.BO')":703.0,
+    "('Low', 'TATAMOTORS.BO')":673.0999755859,
+    "('Open', 'TATAMOTORS.BO')":676.049987793,
+    "('Volume', 'TATAMOTORS.BO')":1972248
+  },
+  {
+    "('Date', '')":"2025-08-20",
+    "('Close', 'TATAMOTORS.BO')":689.6500244141,
+    "('High', 'TATAMOTORS.BO')":702.950012207,
+    "('Low', 'TATAMOTORS.BO')":689.0,
+    "('Open', 'TATAMOTORS.BO')":702.950012207,
+    "('Volume', 'TATAMOTORS.BO')":502690
+  },
+  {
+    "('Date', '')":"2025-08-21",
+    "('Close', 'TATAMOTORS.BO')":685.450012207,
+    "('High', 'TATAMOTORS.BO')":694.799987793,
+    "('Low', 'TATAMOTORS.BO')":685.0,
+    "('Open', 'TATAMOTORS.BO')":693.9000244141,
+    "('Volume', 'TATAMOTORS.BO')":694060
+  },
+  {
+    "('Date', '')":"2025-08-22",
+    "('Close', 'TATAMOTORS.BO')":680.25,
+    "('High', 'TATAMOTORS.BO')":691.5,
+    "('Low', 'TATAMOTORS.BO')":678.5,
+    "('Open', 'TATAMOTORS.BO')":685.450012207,
+    "('Volume', 'TATAMOTORS.BO')":605065
+  },
+  {
+    "('Date', '')":"2025-08-25",
+    "('Close', 'TATAMOTORS.BO')":686.700012207,
+    "('High', 'TATAMOTORS.BO')":688.950012207,
+    "('Low', 'TATAMOTORS.BO')":680.25,
+    "('Open', 'TATAMOTORS.BO')":683.9000244141,
+    "('Volume', 'TATAMOTORS.BO')":342334
+  },
+  {
+    "('Date', '')":"2025-08-26",
+    "('Close', 'TATAMOTORS.BO')":681.549987793,
+    "('High', 'TATAMOTORS.BO')":687.0,
+    "('Low', 'TATAMOTORS.BO')":678.450012207,
+    "('Open', 'TATAMOTORS.BO')":686.700012207,
+    "('Volume', 'TATAMOTORS.BO')":1126064
+  },
+  {
+    "('Date', '')":"2025-08-28",
+    "('Close', 'TATAMOTORS.BO')":675.450012207,
+    "('High', 'TATAMOTORS.BO')":680.5999755859,
+    "('Low', 'TATAMOTORS.BO')":667.799987793,
+    "('Open', 'TATAMOTORS.BO')":678.200012207,
+    "('Volume', 'TATAMOTORS.BO')":530503
+  },
+  {
+    "('Date', '')":"2025-08-29",
+    "('Close', 'TATAMOTORS.BO')":668.799987793,
+    "('High', 'TATAMOTORS.BO')":681.0,
+    "('Low', 'TATAMOTORS.BO')":668.0,
+    "('Open', 'TATAMOTORS.BO')":675.450012207,
+    "('Volume', 'TATAMOTORS.BO')":811167
+  },
+  {
+    "('Date', '')":"2025-09-01",
+    "('Close', 'TATAMOTORS.BO')":690.0,
+    "('High', 'TATAMOTORS.BO')":691.25,
+    "('Low', 'TATAMOTORS.BO')":670.549987793,
+    "('Open', 'TATAMOTORS.BO')":672.700012207,
+    "('Volume', 'TATAMOTORS.BO')":378643
+  },
+  {
+    "('Date', '')":"2025-09-02",
+    "('Close', 'TATAMOTORS.BO')":684.299987793,
+    "('High', 'TATAMOTORS.BO')":694.700012207,
+    "('Low', 'TATAMOTORS.BO')":681.8499755859,
+    "('Open', 'TATAMOTORS.BO')":693.549987793,
+    "('Volume', 'TATAMOTORS.BO')":392441
+  },
+  {
+    "('Date', '')":"2025-09-03",
+    "('Close', 'TATAMOTORS.BO')":692.1500244141,
+    "('High', 'TATAMOTORS.BO')":693.0,
+    "('Low', 'TATAMOTORS.BO')":685.0999755859,
+    "('Open', 'TATAMOTORS.BO')":687.200012207,
+    "('Volume', 'TATAMOTORS.BO')":396355
+  },
+  {
+    "('Date', '')":"2025-09-04",
+    "('Close', 'TATAMOTORS.BO')":687.549987793,
+    "('High', 'TATAMOTORS.BO')":706.049987793,
+    "('Low', 'TATAMOTORS.BO')":685.8499755859,
+    "('Open', 'TATAMOTORS.BO')":703.549987793,
+    "('Volume', 'TATAMOTORS.BO')":1412025
+  },
+  {
+    "('Date', '')":"2025-09-05",
+    "('Close', 'TATAMOTORS.BO')":691.8499755859,
+    "('High', 'TATAMOTORS.BO')":697.1500244141,
+    "('Low', 'TATAMOTORS.BO')":683.200012207,
+    "('Open', 'TATAMOTORS.BO')":691.799987793,
+    "('Volume', 'TATAMOTORS.BO')":695045
+  },
+  {
+    "('Date', '')":"2025-09-08",
+    "('Close', 'TATAMOTORS.BO')":719.3499755859,
+    "('High', 'TATAMOTORS.BO')":721.450012207,
+    "('Low', 'TATAMOTORS.BO')":695.0,
+    "('Open', 'TATAMOTORS.BO')":695.5,
+    "('Volume', 'TATAMOTORS.BO')":2436133
+  },
+  {
+    "('Date', '')":"2025-09-09",
+    "('Close', 'TATAMOTORS.BO')":715.5,
+    "('High', 'TATAMOTORS.BO')":722.9000244141,
+    "('Low', 'TATAMOTORS.BO')":713.5999755859,
+    "('Open', 'TATAMOTORS.BO')":721.8499755859,
+    "('Volume', 'TATAMOTORS.BO')":534753
+  },
+  {
+    "('Date', '')":"2025-09-10",
+    "('Close', 'TATAMOTORS.BO')":709.0,
+    "('High', 'TATAMOTORS.BO')":719.950012207,
+    "('Low', 'TATAMOTORS.BO')":703.0,
+    "('Open', 'TATAMOTORS.BO')":719.950012207,
+    "('Volume', 'TATAMOTORS.BO')":379610
+  },
+  {
+    "('Date', '')":"2025-09-11",
+    "('Close', 'TATAMOTORS.BO')":705.8499755859,
+    "('High', 'TATAMOTORS.BO')":712.0,
+    "('Low', 'TATAMOTORS.BO')":704.700012207,
+    "('Open', 'TATAMOTORS.BO')":709.049987793,
+    "('Volume', 'TATAMOTORS.BO')":273053
+  },
+  {
+    "('Date', '')":"2025-09-12",
+    "('Close', 'TATAMOTORS.BO')":715.0,
+    "('High', 'TATAMOTORS.BO')":718.6500244141,
+    "('Low', 'TATAMOTORS.BO')":708.0,
+    "('Open', 'TATAMOTORS.BO')":709.3499755859,
+    "('Volume', 'TATAMOTORS.BO')":871284
+  },
+  {
+    "('Date', '')":"2025-09-15",
+    "('Close', 'TATAMOTORS.BO')":712.700012207,
+    "('High', 'TATAMOTORS.BO')":722.0,
+    "('Low', 'TATAMOTORS.BO')":711.5999755859,
+    "('Open', 'TATAMOTORS.BO')":715.299987793,
+    "('Volume', 'TATAMOTORS.BO')":429427
+  },
+  {
+    "('Date', '')":"2025-09-16",
+    "('Close', 'TATAMOTORS.BO')":713.6500244141,
+    "('High', 'TATAMOTORS.BO')":719.75,
+    "('Low', 'TATAMOTORS.BO')":705.0,
+    "('Open', 'TATAMOTORS.BO')":713.049987793,
+    "('Volume', 'TATAMOTORS.BO')":359369
+  },
+  {
+    "('Date', '')":"2025-09-17",
+    "('Close', 'TATAMOTORS.BO')":719.1500244141,
+    "('High', 'TATAMOTORS.BO')":722.950012207,
+    "('Low', 'TATAMOTORS.BO')":714.200012207,
+    "('Open', 'TATAMOTORS.BO')":714.200012207,
+    "('Volume', 'TATAMOTORS.BO')":1097789
+  },
+  {
+    "('Date', '')":"2025-09-18",
+    "('Close', 'TATAMOTORS.BO')":711.0,
+    "('High', 'TATAMOTORS.BO')":725.0,
+    "('Low', 'TATAMOTORS.BO')":707.700012207,
+    "('Open', 'TATAMOTORS.BO')":722.0,
+    "('Volume', 'TATAMOTORS.BO')":1086883
+  },
+  {
+    "('Date', '')":"2025-09-19",
+    "('Close', 'TATAMOTORS.BO')":708.049987793,
+    "('High', 'TATAMOTORS.BO')":714.0,
+    "('Low', 'TATAMOTORS.BO')":705.4000244141,
+    "('Open', 'TATAMOTORS.BO')":713.5,
+    "('Volume', 'TATAMOTORS.BO')":528453
+  },
+  {
+    "('Date', '')":"2025-09-22",
+    "('Close', 'TATAMOTORS.BO')":696.0999755859,
+    "('High', 'TATAMOTORS.BO')":712.299987793,
+    "('Low', 'TATAMOTORS.BO')":694.700012207,
+    "('Open', 'TATAMOTORS.BO')":708.0999755859,
+    "('Volume', 'TATAMOTORS.BO')":744180
+  },
+  {
+    "('Date', '')":"2025-09-23",
+    "('Close', 'TATAMOTORS.BO')":701.5,
+    "('High', 'TATAMOTORS.BO')":707.799987793,
+    "('Low', 'TATAMOTORS.BO')":697.049987793,
+    "('Open', 'TATAMOTORS.BO')":700.6500244141,
+    "('Volume', 'TATAMOTORS.BO')":395319
+  },
+  {
+    "('Date', '')":"2025-09-24",
+    "('Close', 'TATAMOTORS.BO')":682.75,
+    "('High', 'TATAMOTORS.BO')":702.3499755859,
+    "('Low', 'TATAMOTORS.BO')":681.1500244141,
+    "('Open', 'TATAMOTORS.BO')":700.3499755859,
+    "('Volume', 'TATAMOTORS.BO')":1102501
+  },
+  {
+    "('Date', '')":"2025-09-25",
+    "('Close', 'TATAMOTORS.BO')":664.25,
+    "('High', 'TATAMOTORS.BO')":675.3499755859,
+    "('Low', 'TATAMOTORS.BO')":655.299987793,
+    "('Open', 'TATAMOTORS.BO')":673.0,
+    "('Volume', 'TATAMOTORS.BO')":1137851
+  },
+  {
+    "('Date', '')":"2025-09-26",
+    "('Close', 'TATAMOTORS.BO')":673.0,
+    "('High', 'TATAMOTORS.BO')":680.1500244141,
+    "('Low', 'TATAMOTORS.BO')":662.25,
+    "('Open', 'TATAMOTORS.BO')":667.4000244141,
+    "('Volume', 'TATAMOTORS.BO')":760017
+  },
+  {
+    "('Date', '')":"2025-09-29",
+    "('Close', 'TATAMOTORS.BO')":672.5,
+    "('High', 'TATAMOTORS.BO')":685.950012207,
+    "('Low', 'TATAMOTORS.BO')":670.0,
+    "('Open', 'TATAMOTORS.BO')":685.950012207,
+    "('Volume', 'TATAMOTORS.BO')":869885
+  },
+  {
+    "('Date', '')":"2025-09-30",
+    "('Close', 'TATAMOTORS.BO')":680.450012207,
+    "('High', 'TATAMOTORS.BO')":683.5,
+    "('Low', 'TATAMOTORS.BO')":666.9000244141,
+    "('Open', 'TATAMOTORS.BO')":672.5,
+    "('Volume', 'TATAMOTORS.BO')":1034390
+  },
+  {
+    "('Date', '')":"2025-10-01",
+    "('Close', 'TATAMOTORS.BO')":718.1500244141,
+    "('High', 'TATAMOTORS.BO')":720.0,
+    "('Low', 'TATAMOTORS.BO')":679.200012207,
+    "('Open', 'TATAMOTORS.BO')":680.5999755859,
+    "('Volume', 'TATAMOTORS.BO')":3361207
+  },
+  {
+    "('Date', '')":"2025-10-03",
+    "('Close', 'TATAMOTORS.BO')":716.0,
+    "('High', 'TATAMOTORS.BO')":739.549987793,
+    "('Low', 'TATAMOTORS.BO')":714.8499755859,
+    "('Open', 'TATAMOTORS.BO')":719.25,
+    "('Volume', 'TATAMOTORS.BO')":1930949
+  },
+  {
+    "('Date', '')":"2025-10-06",
+    "('Close', 'TATAMOTORS.BO')":712.5,
+    "('High', 'TATAMOTORS.BO')":718.5,
+    "('Low', 'TATAMOTORS.BO')":703.9000244141,
+    "('Open', 'TATAMOTORS.BO')":716.299987793,
+    "('Volume', 'TATAMOTORS.BO')":547348
+  },
+  {
+    "('Date', '')":"2025-10-07",
+    "('Close', 'TATAMOTORS.BO')":698.1500244141,
+    "('High', 'TATAMOTORS.BO')":713.0,
+    "('Low', 'TATAMOTORS.BO')":697.049987793,
+    "('Open', 'TATAMOTORS.BO')":711.75,
+    "('Volume', 'TATAMOTORS.BO')":532380
+  },
+  {
+    "('Date', '')":"2025-10-08",
+    "('Close', 'TATAMOTORS.BO')":681.299987793,
+    "('High', 'TATAMOTORS.BO')":702.25,
+    "('Low', 'TATAMOTORS.BO')":680.0,
+    "('Open', 'TATAMOTORS.BO')":695.0,
+    "('Volume', 'TATAMOTORS.BO')":1018195
+  },
+  {
+    "('Date', '')":"2025-10-09",
+    "('Close', 'TATAMOTORS.BO')":680.0999755859,
+    "('High', 'TATAMOTORS.BO')":684.9000244141,
+    "('Low', 'TATAMOTORS.BO')":669.0,
+    "('Open', 'TATAMOTORS.BO')":683.950012207,
+    "('Volume', 'TATAMOTORS.BO')":1011670
+  },
+  {
+    "('Date', '')":"2025-10-10",
+    "('Close', 'TATAMOTORS.BO')":679.049987793,
+    "('High', 'TATAMOTORS.BO')":688.5999755859,
+    "('Low', 'TATAMOTORS.BO')":667.200012207,
+    "('Open', 'TATAMOTORS.BO')":683.049987793,
+    "('Volume', 'TATAMOTORS.BO')":706614
+  },
+  {
+    "('Date', '')":"2025-10-13",
+    "('Close', 'TATAMOTORS.BO')":660.9000244141,
+    "('High', 'TATAMOTORS.BO')":679.200012207,
+    "('Low', 'TATAMOTORS.BO')":658.0999755859,
+    "('Open', 'TATAMOTORS.BO')":679.1500244141,
+    "('Volume', 'TATAMOTORS.BO')":2226872
+  },
+  {
+    "('Date', '')":"2025-10-14",
+    "('Close', 'TATAMOTORS.BO')":395.5,
+    "('High', 'TATAMOTORS.BO')":421.450012207,
+    "('Low', 'TATAMOTORS.BO')":376.8999938965,
+    "('Open', 'TATAMOTORS.BO')":399.0,
+    "('Volume', 'TATAMOTORS.BO')":4920667
+  },
+  {
+    "('Date', '')":"2025-10-15",
+    "('Close', 'TATAMOTORS.BO')":390.75,
+    "('High', 'TATAMOTORS.BO')":404.950012207,
+    "('Low', 'TATAMOTORS.BO')":388.1000061035,
+    "('Open', 'TATAMOTORS.BO')":404.950012207,
+    "('Volume', 'TATAMOTORS.BO')":2001487
+  },
+  {
+    "('Date', '')":"2025-10-16",
+    "('Close', 'TATAMOTORS.BO')":396.950012207,
+    "('High', 'TATAMOTORS.BO')":400.299987793,
+    "('Low', 'TATAMOTORS.BO')":389.799987793,
+    "('Open', 'TATAMOTORS.BO')":395.950012207,
+    "('Volume', 'TATAMOTORS.BO')":1256608
+  },
+  {
+    "('Date', '')":"2025-10-17",
+    "('Close', 'TATAMOTORS.BO')":396.549987793,
+    "('High', 'TATAMOTORS.BO')":402.5,
+    "('Low', 'TATAMOTORS.BO')":392.049987793,
+    "('Open', 'TATAMOTORS.BO')":397.0,
+    "('Volume', 'TATAMOTORS.BO')":1309847
+  },
+  {
+    "('Date', '')":"2025-10-20",
+    "('Close', 'TATAMOTORS.BO')":399.700012207,
+    "('High', 'TATAMOTORS.BO')":403.200012207,
+    "('Low', 'TATAMOTORS.BO')":396.75,
+    "('Open', 'TATAMOTORS.BO')":401.3500061035,
+    "('Volume', 'TATAMOTORS.BO')":612581
+  },
+  {
+    "('Date', '')":"2025-10-21",
+    "('Close', 'TATAMOTORS.BO')":401.8999938965,
+    "('High', 'TATAMOTORS.BO')":403.3999938965,
+    "('Low', 'TATAMOTORS.BO')":400.0,
+    "('Open', 'TATAMOTORS.BO')":403.3999938965,
+    "('Volume', 'TATAMOTORS.BO')":236793
+  },
+  {
+    "('Date', '')":"2025-10-23",
+    "('Close', 'TATAMOTORS.BO')":405.8500061035,
+    "('High', 'TATAMOTORS.BO')":408.8500061035,
+    "('Low', 'TATAMOTORS.BO')":403.6499938965,
+    "('Open', 'TATAMOTORS.BO')":407.5,
+    "('Volume', 'TATAMOTORS.BO')":1657122
+  },
+  {
+    "('Date', '')":"2025-10-24",
+    "('Close', 'TATAMOTORS.BO')":403.5,
+    "('High', 'TATAMOTORS.BO')":408.5,
+    "('Low', 'TATAMOTORS.BO')":401.049987793,
+    "('Open', 'TATAMOTORS.BO')":406.049987793,
+    "('Volume', 'TATAMOTORS.BO')":647179
+  },
+  {
+    "('Date', '')":"2025-10-27",
+    "('Close', 'TATAMOTORS.BO')":410.1000061035,
+    "('High', 'TATAMOTORS.BO')":411.3500061035,
+    "('Low', 'TATAMOTORS.BO')":403.6000061035,
+    "('Open', 'TATAMOTORS.BO')":403.6000061035,
+    "('Volume', 'TATAMOTORS.BO')":1015454
+  },
+  {
+    "('Date', '')":"2025-10-28",
+    "('Close', 'TATAMOTORS.BO')":411.6000061035,
+    "('High', 'TATAMOTORS.BO')":414.200012207,
+    "('Low', 'TATAMOTORS.BO')":408.6499938965,
+    "('Open', 'TATAMOTORS.BO')":411.3500061035,
+    "('Volume', 'TATAMOTORS.BO')":851922
+  },
+  {
+    "('Date', '')":"2025-10-29",
+    "('Close', 'TATAMOTORS.BO')":411.6000061035,
+    "('High', 'TATAMOTORS.BO')":414.8999938965,
+    "('Low', 'TATAMOTORS.BO')":407.3500061035,
+    "('Open', 'TATAMOTORS.BO')":412.5,
+    "('Volume', 'TATAMOTORS.BO')":678084
+  },
+  {
+    "('Date', '')":"2025-10-30",
+    "('Close', 'TATAMOTORS.BO')":412.299987793,
+    "('High', 'TATAMOTORS.BO')":415.3999938965,
+    "('Low', 'TATAMOTORS.BO')":408.1000061035,
+    "('Open', 'TATAMOTORS.BO')":412.299987793,
+    "('Volume', 'TATAMOTORS.BO')":611484
+  },
+  {
+    "('Date', '')":"2025-10-31",
+    "('Close', 'TATAMOTORS.BO')":410.1000061035,
+    "('High', 'TATAMOTORS.BO')":417.6000061035,
+    "('Low', 'TATAMOTORS.BO')":409.1000061035,
+    "('Open', 'TATAMOTORS.BO')":413.200012207,
+    "('Volume', 'TATAMOTORS.BO')":516136
+  },
+  {
+    "('Date', '')":"2025-11-03",
+    "('Close', 'TATAMOTORS.BO')":417.049987793,
+    "('High', 'TATAMOTORS.BO')":418.0,
+    "('Low', 'TATAMOTORS.BO')":410.1000061035,
+    "('Open', 'TATAMOTORS.BO')":414.8999938965,
+    "('Volume', 'TATAMOTORS.BO')":886720
+  },
+  {
+    "('Date', '')":"2025-11-04",
+    "('Close', 'TATAMOTORS.BO')":406.5,
+    "('High', 'TATAMOTORS.BO')":417.299987793,
+    "('Low', 'TATAMOTORS.BO')":405.0,
+    "('Open', 'TATAMOTORS.BO')":417.0,
+    "('Volume', 'TATAMOTORS.BO')":625303
+  },
+  {
+    "('Date', '')":"2025-11-06",
+    "('Close', 'TATAMOTORS.BO')":407.8500061035,
+    "('High', 'TATAMOTORS.BO')":409.8500061035,
+    "('Low', 'TATAMOTORS.BO')":405.450012207,
+    "('Open', 'TATAMOTORS.BO')":406.549987793,
+    "('Volume', 'TATAMOTORS.BO')":799282
+  },
+  {
+    "('Date', '')":"2025-11-07",
+    "('Close', 'TATAMOTORS.BO')":405.6499938965,
+    "('High', 'TATAMOTORS.BO')":407.450012207,
+    "('Low', 'TATAMOTORS.BO')":401.700012207,
+    "('Open', 'TATAMOTORS.BO')":407.450012207,
+    "('Volume', 'TATAMOTORS.BO')":238053
+  },
+  {
+    "('Date', '')":"2025-11-10",
+    "('Close', 'TATAMOTORS.BO')":410.6000061035,
+    "('High', 'TATAMOTORS.BO')":412.8999938965,
+    "('Low', 'TATAMOTORS.BO')":406.799987793,
+    "('Open', 'TATAMOTORS.BO')":407.950012207,
+    "('Volume', 'TATAMOTORS.BO')":259812
+  },
+  {
+    "('Date', '')":"2025-11-11",
+    "('Close', 'TATAMOTORS.BO')":407.5,
+    "('High', 'TATAMOTORS.BO')":414.0,
+    "('Low', 'TATAMOTORS.BO')":402.549987793,
+    "('Open', 'TATAMOTORS.BO')":412.549987793,
+    "('Volume', 'TATAMOTORS.BO')":643328
+  },
+  {
+    "('Date', '')":"2025-11-12",
+    "('Close', 'TATAMOTORS.BO')":402.299987793,
+    "('High', 'TATAMOTORS.BO')":411.3500061035,
+    "('Low', 'TATAMOTORS.BO')":401.799987793,
+    "('Open', 'TATAMOTORS.BO')":407.75,
+    "('Volume', 'TATAMOTORS.BO')":611932
+  },
+  {
+    "('Date', '')":"2025-11-13",
+    "('Close', 'TATAMOTORS.BO')":398.049987793,
+    "('High', 'TATAMOTORS.BO')":403.950012207,
+    "('Low', 'TATAMOTORS.BO')":397.5,
+    "('Open', 'TATAMOTORS.BO')":403.6000061035,
+    "('Volume', 'TATAMOTORS.BO')":1108347
+  }
+]

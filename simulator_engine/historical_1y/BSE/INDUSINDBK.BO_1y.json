@@ -1,0 +1,1986 @@
+[
+  {
+    "('Date', '')":"2024-11-13",
+    "('Close', 'INDUSINDBK.BO')":1037.0500488281,
+    "('High', 'INDUSINDBK.BO')":1067.25,
+    "('Low', 'INDUSINDBK.BO')":1032.0,
+    "('Open', 'INDUSINDBK.BO')":1050.8499755859,
+    "('Volume', 'INDUSINDBK.BO')":75188
+  },
+  {
+    "('Date', '')":"2024-11-14",
+    "('Close', 'INDUSINDBK.BO')":1017.0999755859,
+    "('High', 'INDUSINDBK.BO')":1049.5500488281,
+    "('Low', 'INDUSINDBK.BO')":1015.0999755859,
+    "('Open', 'INDUSINDBK.BO')":1049.5500488281,
+    "('Volume', 'INDUSINDBK.BO')":161097
+  },
+  {
+    "('Date', '')":"2024-11-18",
+    "('Close', 'INDUSINDBK.BO')":1004.799987793,
+    "('High', 'INDUSINDBK.BO')":1019.4000244141,
+    "('Low', 'INDUSINDBK.BO')":1000.0999755859,
+    "('Open', 'INDUSINDBK.BO')":1019.4000244141,
+    "('Volume', 'INDUSINDBK.BO')":179087
+  },
+  {
+    "('Date', '')":"2024-11-19",
+    "('Close', 'INDUSINDBK.BO')":1000.1500244141,
+    "('High', 'INDUSINDBK.BO')":1031.9000244141,
+    "('Low', 'INDUSINDBK.BO')":998.0,
+    "('Open', 'INDUSINDBK.BO')":1014.5,
+    "('Volume', 'INDUSINDBK.BO')":103159
+  },
+  {
+    "('Date', '')":"2024-11-21",
+    "('Close', 'INDUSINDBK.BO')":981.700012207,
+    "('High', 'INDUSINDBK.BO')":1003.950012207,
+    "('Low', 'INDUSINDBK.BO')":967.0,
+    "('Open', 'INDUSINDBK.BO')":1003.950012207,
+    "('Volume', 'INDUSINDBK.BO')":129233
+  },
+  {
+    "('Date', '')":"2024-11-22",
+    "('Close', 'INDUSINDBK.BO')":998.25,
+    "('High', 'INDUSINDBK.BO')":1002.0999755859,
+    "('Low', 'INDUSINDBK.BO')":980.5999755859,
+    "('Open', 'INDUSINDBK.BO')":983.9000244141,
+    "('Volume', 'INDUSINDBK.BO')":155517
+  },
+  {
+    "('Date', '')":"2024-11-25",
+    "('Close', 'INDUSINDBK.BO')":1003.9000244141,
+    "('High', 'INDUSINDBK.BO')":1022.0,
+    "('Low', 'INDUSINDBK.BO')":997.5999755859,
+    "('Open', 'INDUSINDBK.BO')":1021.0,
+    "('Volume', 'INDUSINDBK.BO')":312971
+  },
+  {
+    "('Date', '')":"2024-11-26",
+    "('Close', 'INDUSINDBK.BO')":1009.5,
+    "('High', 'INDUSINDBK.BO')":1017.75,
+    "('Low', 'INDUSINDBK.BO')":997.700012207,
+    "('Open', 'INDUSINDBK.BO')":1007.5999755859,
+    "('Volume', 'INDUSINDBK.BO')":116412
+  },
+  {
+    "('Date', '')":"2024-11-27",
+    "('Close', 'INDUSINDBK.BO')":1002.1500244141,
+    "('High', 'INDUSINDBK.BO')":1014.299987793,
+    "('Low', 'INDUSINDBK.BO')":994.5,
+    "('Open', 'INDUSINDBK.BO')":1014.299987793,
+    "('Volume', 'INDUSINDBK.BO')":53006
+  },
+  {
+    "('Date', '')":"2024-11-28",
+    "('Close', 'INDUSINDBK.BO')":993.700012207,
+    "('High', 'INDUSINDBK.BO')":1013.25,
+    "('Low', 'INDUSINDBK.BO')":991.5,
+    "('Open', 'INDUSINDBK.BO')":1004.0999755859,
+    "('Volume', 'INDUSINDBK.BO')":232947
+  },
+  {
+    "('Date', '')":"2024-11-29",
+    "('Close', 'INDUSINDBK.BO')":996.4000244141,
+    "('High', 'INDUSINDBK.BO')":999.0,
+    "('Low', 'INDUSINDBK.BO')":987.4000244141,
+    "('Open', 'INDUSINDBK.BO')":997.700012207,
+    "('Volume', 'INDUSINDBK.BO')":150490
+  },
+  {
+    "('Date', '')":"2024-12-02",
+    "('Close', 'INDUSINDBK.BO')":990.450012207,
+    "('High', 'INDUSINDBK.BO')":995.0,
+    "('Low', 'INDUSINDBK.BO')":979.25,
+    "('Open', 'INDUSINDBK.BO')":995.0,
+    "('Volume', 'INDUSINDBK.BO')":187620
+  },
+  {
+    "('Date', '')":"2024-12-03",
+    "('Close', 'INDUSINDBK.BO')":998.4000244141,
+    "('High', 'INDUSINDBK.BO')":1011.4000244141,
+    "('Low', 'INDUSINDBK.BO')":991.0999755859,
+    "('Open', 'INDUSINDBK.BO')":994.950012207,
+    "('Volume', 'INDUSINDBK.BO')":60365
+  },
+  {
+    "('Date', '')":"2024-12-04",
+    "('Close', 'INDUSINDBK.BO')":998.950012207,
+    "('High', 'INDUSINDBK.BO')":1006.049987793,
+    "('Low', 'INDUSINDBK.BO')":990.549987793,
+    "('Open', 'INDUSINDBK.BO')":1003.049987793,
+    "('Volume', 'INDUSINDBK.BO')":119683
+  },
+  {
+    "('Date', '')":"2024-12-05",
+    "('Close', 'INDUSINDBK.BO')":997.950012207,
+    "('High', 'INDUSINDBK.BO')":1004.799987793,
+    "('Low', 'INDUSINDBK.BO')":991.0,
+    "('Open', 'INDUSINDBK.BO')":1001.799987793,
+    "('Volume', 'INDUSINDBK.BO')":164956
+  },
+  {
+    "('Date', '')":"2024-12-06",
+    "('Close', 'INDUSINDBK.BO')":990.6500244141,
+    "('High', 'INDUSINDBK.BO')":1003.0,
+    "('Low', 'INDUSINDBK.BO')":986.700012207,
+    "('Open', 'INDUSINDBK.BO')":1000.0,
+    "('Volume', 'INDUSINDBK.BO')":105951
+  },
+  {
+    "('Date', '')":"2024-12-09",
+    "('Close', 'INDUSINDBK.BO')":982.799987793,
+    "('High', 'INDUSINDBK.BO')":994.5,
+    "('Low', 'INDUSINDBK.BO')":978.200012207,
+    "('Open', 'INDUSINDBK.BO')":991.049987793,
+    "('Volume', 'INDUSINDBK.BO')":180195
+  },
+  {
+    "('Date', '')":"2024-12-10",
+    "('Close', 'INDUSINDBK.BO')":984.25,
+    "('High', 'INDUSINDBK.BO')":988.75,
+    "('Low', 'INDUSINDBK.BO')":979.549987793,
+    "('Open', 'INDUSINDBK.BO')":983.1500244141,
+    "('Volume', 'INDUSINDBK.BO')":184074
+  },
+  {
+    "('Date', '')":"2024-12-11",
+    "('Close', 'INDUSINDBK.BO')":984.950012207,
+    "('High', 'INDUSINDBK.BO')":999.9000244141,
+    "('Low', 'INDUSINDBK.BO')":981.4000244141,
+    "('Open', 'INDUSINDBK.BO')":986.299987793,
+    "('Volume', 'INDUSINDBK.BO')":99849
+  },
+  {
+    "('Date', '')":"2024-12-12",
+    "('Close', 'INDUSINDBK.BO')":997.9000244141,
+    "('High', 'INDUSINDBK.BO')":1005.549987793,
+    "('Low', 'INDUSINDBK.BO')":985.0,
+    "('Open', 'INDUSINDBK.BO')":985.0,
+    "('Volume', 'INDUSINDBK.BO')":224619
+  },
+  {
+    "('Date', '')":"2024-12-13",
+    "('Close', 'INDUSINDBK.BO')":987.049987793,
+    "('High', 'INDUSINDBK.BO')":997.0,
+    "('Low', 'INDUSINDBK.BO')":965.549987793,
+    "('Open', 'INDUSINDBK.BO')":993.799987793,
+    "('Volume', 'INDUSINDBK.BO')":125368
+  },
+  {
+    "('Date', '')":"2024-12-16",
+    "('Close', 'INDUSINDBK.BO')":999.700012207,
+    "('High', 'INDUSINDBK.BO')":1007.5999755859,
+    "('Low', 'INDUSINDBK.BO')":986.0,
+    "('Open', 'INDUSINDBK.BO')":992.25,
+    "('Volume', 'INDUSINDBK.BO')":290225
+  },
+  {
+    "('Date', '')":"2024-12-17",
+    "('Close', 'INDUSINDBK.BO')":975.1500244141,
+    "('High', 'INDUSINDBK.BO')":1003.0,
+    "('Low', 'INDUSINDBK.BO')":972.049987793,
+    "('Open', 'INDUSINDBK.BO')":1003.0,
+    "('Volume', 'INDUSINDBK.BO')":265891
+  },
+  {
+    "('Date', '')":"2024-12-18",
+    "('Close', 'INDUSINDBK.BO')":965.8499755859,
+    "('High', 'INDUSINDBK.BO')":984.6500244141,
+    "('Low', 'INDUSINDBK.BO')":961.0,
+    "('Open', 'INDUSINDBK.BO')":984.6500244141,
+    "('Volume', 'INDUSINDBK.BO')":76560
+  },
+  {
+    "('Date', '')":"2024-12-19",
+    "('Close', 'INDUSINDBK.BO')":964.049987793,
+    "('High', 'INDUSINDBK.BO')":966.799987793,
+    "('Low', 'INDUSINDBK.BO')":947.450012207,
+    "('Open', 'INDUSINDBK.BO')":955.0999755859,
+    "('Volume', 'INDUSINDBK.BO')":163761
+  },
+  {
+    "('Date', '')":"2024-12-20",
+    "('Close', 'INDUSINDBK.BO')":930.0,
+    "('High', 'INDUSINDBK.BO')":966.299987793,
+    "('Low', 'INDUSINDBK.BO')":927.049987793,
+    "('Open', 'INDUSINDBK.BO')":961.0,
+    "('Volume', 'INDUSINDBK.BO')":102670
+  },
+  {
+    "('Date', '')":"2024-12-23",
+    "('Close', 'INDUSINDBK.BO')":944.700012207,
+    "('High', 'INDUSINDBK.BO')":948.9000244141,
+    "('Low', 'INDUSINDBK.BO')":930.0,
+    "('Open', 'INDUSINDBK.BO')":936.1500244141,
+    "('Volume', 'INDUSINDBK.BO')":141211
+  },
+  {
+    "('Date', '')":"2024-12-24",
+    "('Close', 'INDUSINDBK.BO')":934.5999755859,
+    "('High', 'INDUSINDBK.BO')":945.8499755859,
+    "('Low', 'INDUSINDBK.BO')":930.0,
+    "('Open', 'INDUSINDBK.BO')":944.0,
+    "('Volume', 'INDUSINDBK.BO')":66272
+  },
+  {
+    "('Date', '')":"2024-12-26",
+    "('Close', 'INDUSINDBK.BO')":932.1500244141,
+    "('High', 'INDUSINDBK.BO')":945.0,
+    "('Low', 'INDUSINDBK.BO')":928.4000244141,
+    "('Open', 'INDUSINDBK.BO')":941.950012207,
+    "('Volume', 'INDUSINDBK.BO')":53849
+  },
+  {
+    "('Date', '')":"2024-12-27",
+    "('Close', 'INDUSINDBK.BO')":953.549987793,
+    "('High', 'INDUSINDBK.BO')":970.5,
+    "('Low', 'INDUSINDBK.BO')":932.049987793,
+    "('Open', 'INDUSINDBK.BO')":932.049987793,
+    "('Volume', 'INDUSINDBK.BO')":286794
+  },
+  {
+    "('Date', '')":"2024-12-30",
+    "('Close', 'INDUSINDBK.BO')":963.9000244141,
+    "('High', 'INDUSINDBK.BO')":973.450012207,
+    "('Low', 'INDUSINDBK.BO')":948.8499755859,
+    "('Open', 'INDUSINDBK.BO')":953.549987793,
+    "('Volume', 'INDUSINDBK.BO')":229990
+  },
+  {
+    "('Date', '')":"2024-12-31",
+    "('Close', 'INDUSINDBK.BO')":960.25,
+    "('High', 'INDUSINDBK.BO')":961.5,
+    "('Low', 'INDUSINDBK.BO')":948.799987793,
+    "('Open', 'INDUSINDBK.BO')":957.9000244141,
+    "('Volume', 'INDUSINDBK.BO')":72171
+  },
+  {
+    "('Date', '')":"2025-01-01",
+    "('Close', 'INDUSINDBK.BO')":969.200012207,
+    "('High', 'INDUSINDBK.BO')":978.9000244141,
+    "('Low', 'INDUSINDBK.BO')":953.6500244141,
+    "('Open', 'INDUSINDBK.BO')":959.950012207,
+    "('Volume', 'INDUSINDBK.BO')":122980
+  },
+  {
+    "('Date', '')":"2025-01-02",
+    "('Close', 'INDUSINDBK.BO')":992.8499755859,
+    "('High', 'INDUSINDBK.BO')":997.0,
+    "('Low', 'INDUSINDBK.BO')":969.0,
+    "('Open', 'INDUSINDBK.BO')":979.799987793,
+    "('Volume', 'INDUSINDBK.BO')":61957
+  },
+  {
+    "('Date', '')":"2025-01-03",
+    "('Close', 'INDUSINDBK.BO')":998.0999755859,
+    "('High', 'INDUSINDBK.BO')":1025.0,
+    "('Low', 'INDUSINDBK.BO')":991.0,
+    "('Open', 'INDUSINDBK.BO')":993.700012207,
+    "('Volume', 'INDUSINDBK.BO')":267534
+  },
+  {
+    "('Date', '')":"2025-01-06",
+    "('Close', 'INDUSINDBK.BO')":969.700012207,
+    "('High', 'INDUSINDBK.BO')":1004.799987793,
+    "('Low', 'INDUSINDBK.BO')":963.200012207,
+    "('Open', 'INDUSINDBK.BO')":999.049987793,
+    "('Volume', 'INDUSINDBK.BO')":184925
+  },
+  {
+    "('Date', '')":"2025-01-07",
+    "('Close', 'INDUSINDBK.BO')":983.700012207,
+    "('High', 'INDUSINDBK.BO')":994.0,
+    "('Low', 'INDUSINDBK.BO')":969.700012207,
+    "('Open', 'INDUSINDBK.BO')":969.700012207,
+    "('Volume', 'INDUSINDBK.BO')":77776
+  },
+  {
+    "('Date', '')":"2025-01-08",
+    "('Close', 'INDUSINDBK.BO')":980.8499755859,
+    "('High', 'INDUSINDBK.BO')":988.3499755859,
+    "('Low', 'INDUSINDBK.BO')":967.200012207,
+    "('Open', 'INDUSINDBK.BO')":988.3499755859,
+    "('Volume', 'INDUSINDBK.BO')":88707
+  },
+  {
+    "('Date', '')":"2025-01-09",
+    "('Close', 'INDUSINDBK.BO')":980.9000244141,
+    "('High', 'INDUSINDBK.BO')":985.0,
+    "('Low', 'INDUSINDBK.BO')":970.4000244141,
+    "('Open', 'INDUSINDBK.BO')":981.049987793,
+    "('Volume', 'INDUSINDBK.BO')":45470
+  },
+  {
+    "('Date', '')":"2025-01-10",
+    "('Close', 'INDUSINDBK.BO')":937.5999755859,
+    "('High', 'INDUSINDBK.BO')":973.75,
+    "('Low', 'INDUSINDBK.BO')":933.450012207,
+    "('Open', 'INDUSINDBK.BO')":970.799987793,
+    "('Volume', 'INDUSINDBK.BO')":226100
+  },
+  {
+    "('Date', '')":"2025-01-13",
+    "('Close', 'INDUSINDBK.BO')":941.450012207,
+    "('High', 'INDUSINDBK.BO')":973.299987793,
+    "('Low', 'INDUSINDBK.BO')":933.049987793,
+    "('Open', 'INDUSINDBK.BO')":933.049987793,
+    "('Volume', 'INDUSINDBK.BO')":264343
+  },
+  {
+    "('Date', '')":"2025-01-14",
+    "('Close', 'INDUSINDBK.BO')":961.0,
+    "('High', 'INDUSINDBK.BO')":979.25,
+    "('Low', 'INDUSINDBK.BO')":945.0,
+    "('Open', 'INDUSINDBK.BO')":945.0,
+    "('Volume', 'INDUSINDBK.BO')":121096
+  },
+  {
+    "('Date', '')":"2025-01-15",
+    "('Close', 'INDUSINDBK.BO')":961.9000244141,
+    "('High', 'INDUSINDBK.BO')":982.75,
+    "('Low', 'INDUSINDBK.BO')":955.0,
+    "('Open', 'INDUSINDBK.BO')":973.950012207,
+    "('Volume', 'INDUSINDBK.BO')":60374
+  },
+  {
+    "('Date', '')":"2025-01-16",
+    "('Close', 'INDUSINDBK.BO')":975.450012207,
+    "('High', 'INDUSINDBK.BO')":991.3499755859,
+    "('Low', 'INDUSINDBK.BO')":969.8499755859,
+    "('Open', 'INDUSINDBK.BO')":974.450012207,
+    "('Volume', 'INDUSINDBK.BO')":92753
+  },
+  {
+    "('Date', '')":"2025-01-17",
+    "('Close', 'INDUSINDBK.BO')":971.450012207,
+    "('High', 'INDUSINDBK.BO')":976.950012207,
+    "('Low', 'INDUSINDBK.BO')":959.0,
+    "('Open', 'INDUSINDBK.BO')":976.950012207,
+    "('Volume', 'INDUSINDBK.BO')":80332
+  },
+  {
+    "('Date', '')":"2025-01-20",
+    "('Close', 'INDUSINDBK.BO')":970.5999755859,
+    "('High', 'INDUSINDBK.BO')":980.0,
+    "('Low', 'INDUSINDBK.BO')":948.1500244141,
+    "('Open', 'INDUSINDBK.BO')":963.25,
+    "('Volume', 'INDUSINDBK.BO')":151090
+  },
+  {
+    "('Date', '')":"2025-01-21",
+    "('Close', 'INDUSINDBK.BO')":960.3499755859,
+    "('High', 'INDUSINDBK.BO')":975.950012207,
+    "('Low', 'INDUSINDBK.BO')":957.799987793,
+    "('Open', 'INDUSINDBK.BO')":971.0,
+    "('Volume', 'INDUSINDBK.BO')":159745
+  },
+  {
+    "('Date', '')":"2025-01-22",
+    "('Close', 'INDUSINDBK.BO')":972.5,
+    "('High', 'INDUSINDBK.BO')":977.5999755859,
+    "('Low', 'INDUSINDBK.BO')":949.799987793,
+    "('Open', 'INDUSINDBK.BO')":965.1500244141,
+    "('Volume', 'INDUSINDBK.BO')":687590
+  },
+  {
+    "('Date', '')":"2025-01-23",
+    "('Close', 'INDUSINDBK.BO')":970.9000244141,
+    "('High', 'INDUSINDBK.BO')":988.0,
+    "('Low', 'INDUSINDBK.BO')":962.049987793,
+    "('Open', 'INDUSINDBK.BO')":970.75,
+    "('Volume', 'INDUSINDBK.BO')":98025
+  },
+  {
+    "('Date', '')":"2025-01-24",
+    "('Close', 'INDUSINDBK.BO')":950.450012207,
+    "('High', 'INDUSINDBK.BO')":972.0,
+    "('Low', 'INDUSINDBK.BO')":948.5,
+    "('Open', 'INDUSINDBK.BO')":970.9000244141,
+    "('Volume', 'INDUSINDBK.BO')":40005
+  },
+  {
+    "('Date', '')":"2025-01-27",
+    "('Close', 'INDUSINDBK.BO')":925.950012207,
+    "('High', 'INDUSINDBK.BO')":949.3499755859,
+    "('Low', 'INDUSINDBK.BO')":923.4000244141,
+    "('Open', 'INDUSINDBK.BO')":949.3499755859,
+    "('Volume', 'INDUSINDBK.BO')":74584
+  },
+  {
+    "('Date', '')":"2025-01-28",
+    "('Close', 'INDUSINDBK.BO')":934.450012207,
+    "('High', 'INDUSINDBK.BO')":948.6500244141,
+    "('Low', 'INDUSINDBK.BO')":925.5999755859,
+    "('Open', 'INDUSINDBK.BO')":939.950012207,
+    "('Volume', 'INDUSINDBK.BO')":144592
+  },
+  {
+    "('Date', '')":"2025-01-29",
+    "('Close', 'INDUSINDBK.BO')":948.450012207,
+    "('High', 'INDUSINDBK.BO')":952.0,
+    "('Low', 'INDUSINDBK.BO')":932.0,
+    "('Open', 'INDUSINDBK.BO')":935.0,
+    "('Volume', 'INDUSINDBK.BO')":89298
+  },
+  {
+    "('Date', '')":"2025-01-30",
+    "('Close', 'INDUSINDBK.BO')":957.1500244141,
+    "('High', 'INDUSINDBK.BO')":967.3499755859,
+    "('Low', 'INDUSINDBK.BO')":946.3499755859,
+    "('Open', 'INDUSINDBK.BO')":948.450012207,
+    "('Volume', 'INDUSINDBK.BO')":114217
+  },
+  {
+    "('Date', '')":"2025-01-31",
+    "('Close', 'INDUSINDBK.BO')":992.1500244141,
+    "('High', 'INDUSINDBK.BO')":999.0,
+    "('Low', 'INDUSINDBK.BO')":953.049987793,
+    "('Open', 'INDUSINDBK.BO')":955.5999755859,
+    "('Volume', 'INDUSINDBK.BO')":269261
+  },
+  {
+    "('Date', '')":"2025-02-01",
+    "('Close', 'INDUSINDBK.BO')":1009.6500244141,
+    "('High', 'INDUSINDBK.BO')":1022.9000244141,
+    "('Low', 'INDUSINDBK.BO')":973.75,
+    "('Open', 'INDUSINDBK.BO')":977.1500244141,
+    "('Volume', 'INDUSINDBK.BO')":367924
+  },
+  {
+    "('Date', '')":"2025-02-03",
+    "('Close', 'INDUSINDBK.BO')":1012.700012207,
+    "('High', 'INDUSINDBK.BO')":1023.75,
+    "('Low', 'INDUSINDBK.BO')":985.1500244141,
+    "('Open', 'INDUSINDBK.BO')":985.1500244141,
+    "('Volume', 'INDUSINDBK.BO')":196090
+  },
+  {
+    "('Date', '')":"2025-02-04",
+    "('Close', 'INDUSINDBK.BO')":1048.0999755859,
+    "('High', 'INDUSINDBK.BO')":1053.8000488281,
+    "('Low', 'INDUSINDBK.BO')":1014.700012207,
+    "('Open', 'INDUSINDBK.BO')":1020.450012207,
+    "('Volume', 'INDUSINDBK.BO')":330541
+  },
+  {
+    "('Date', '')":"2025-02-05",
+    "('Close', 'INDUSINDBK.BO')":1060.6999511719,
+    "('High', 'INDUSINDBK.BO')":1078.5,
+    "('Low', 'INDUSINDBK.BO')":1052.4000244141,
+    "('Open', 'INDUSINDBK.BO')":1054.9499511719,
+    "('Volume', 'INDUSINDBK.BO')":189685
+  },
+  {
+    "('Date', '')":"2025-02-06",
+    "('Close', 'INDUSINDBK.BO')":1065.3499755859,
+    "('High', 'INDUSINDBK.BO')":1076.5,
+    "('Low', 'INDUSINDBK.BO')":1058.25,
+    "('Open', 'INDUSINDBK.BO')":1061.5500488281,
+    "('Volume', 'INDUSINDBK.BO')":51320
+  },
+  {
+    "('Date', '')":"2025-02-07",
+    "('Close', 'INDUSINDBK.BO')":1079.4000244141,
+    "('High', 'INDUSINDBK.BO')":1086.5,
+    "('Low', 'INDUSINDBK.BO')":1062.0,
+    "('Open', 'INDUSINDBK.BO')":1063.6999511719,
+    "('Volume', 'INDUSINDBK.BO')":68693
+  },
+  {
+    "('Date', '')":"2025-02-10",
+    "('Close', 'INDUSINDBK.BO')":1068.0999755859,
+    "('High', 'INDUSINDBK.BO')":1081.0,
+    "('Low', 'INDUSINDBK.BO')":1062.4499511719,
+    "('Open', 'INDUSINDBK.BO')":1079.3499755859,
+    "('Volume', 'INDUSINDBK.BO')":100455
+  },
+  {
+    "('Date', '')":"2025-02-11",
+    "('Close', 'INDUSINDBK.BO')":1054.0999755859,
+    "('High', 'INDUSINDBK.BO')":1074.9499511719,
+    "('Low', 'INDUSINDBK.BO')":1047.6999511719,
+    "('Open', 'INDUSINDBK.BO')":1069.0,
+    "('Volume', 'INDUSINDBK.BO')":179400
+  },
+  {
+    "('Date', '')":"2025-02-12",
+    "('Close', 'INDUSINDBK.BO')":1039.5999755859,
+    "('High', 'INDUSINDBK.BO')":1059.0,
+    "('Low', 'INDUSINDBK.BO')":1020.700012207,
+    "('Open', 'INDUSINDBK.BO')":1056.0500488281,
+    "('Volume', 'INDUSINDBK.BO')":71891
+  },
+  {
+    "('Date', '')":"2025-02-13",
+    "('Close', 'INDUSINDBK.BO')":1047.1500244141,
+    "('High', 'INDUSINDBK.BO')":1057.0999755859,
+    "('Low', 'INDUSINDBK.BO')":1025.25,
+    "('Open', 'INDUSINDBK.BO')":1037.9499511719,
+    "('Volume', 'INDUSINDBK.BO')":53864
+  },
+  {
+    "('Date', '')":"2025-02-14",
+    "('Close', 'INDUSINDBK.BO')":1024.25,
+    "('High', 'INDUSINDBK.BO')":1074.75,
+    "('Low', 'INDUSINDBK.BO')":1018.549987793,
+    "('Open', 'INDUSINDBK.BO')":1074.75,
+    "('Volume', 'INDUSINDBK.BO')":40875
+  },
+  {
+    "('Date', '')":"2025-02-17",
+    "('Close', 'INDUSINDBK.BO')":1047.9000244141,
+    "('High', 'INDUSINDBK.BO')":1050.8499755859,
+    "('Low', 'INDUSINDBK.BO')":1012.549987793,
+    "('Open', 'INDUSINDBK.BO')":1024.0,
+    "('Volume', 'INDUSINDBK.BO')":38426
+  },
+  {
+    "('Date', '')":"2025-02-18",
+    "('Close', 'INDUSINDBK.BO')":1024.1999511719,
+    "('High', 'INDUSINDBK.BO')":1050.8499755859,
+    "('Low', 'INDUSINDBK.BO')":1021.6500244141,
+    "('Open', 'INDUSINDBK.BO')":1047.9000244141,
+    "('Volume', 'INDUSINDBK.BO')":32821
+  },
+  {
+    "('Date', '')":"2025-02-19",
+    "('Close', 'INDUSINDBK.BO')":1035.9499511719,
+    "('High', 'INDUSINDBK.BO')":1041.75,
+    "('Low', 'INDUSINDBK.BO')":1016.299987793,
+    "('Open', 'INDUSINDBK.BO')":1027.3000488281,
+    "('Volume', 'INDUSINDBK.BO')":69767
+  },
+  {
+    "('Date', '')":"2025-02-20",
+    "('Close', 'INDUSINDBK.BO')":1047.6999511719,
+    "('High', 'INDUSINDBK.BO')":1049.9000244141,
+    "('Low', 'INDUSINDBK.BO')":1024.9499511719,
+    "('Open', 'INDUSINDBK.BO')":1033.75,
+    "('Volume', 'INDUSINDBK.BO')":47695
+  },
+  {
+    "('Date', '')":"2025-02-21",
+    "('Close', 'INDUSINDBK.BO')":1043.1500244141,
+    "('High', 'INDUSINDBK.BO')":1055.75,
+    "('Low', 'INDUSINDBK.BO')":1039.3499755859,
+    "('Open', 'INDUSINDBK.BO')":1044.9499511719,
+    "('Volume', 'INDUSINDBK.BO')":70031
+  },
+  {
+    "('Date', '')":"2025-02-24",
+    "('Close', 'INDUSINDBK.BO')":1029.5999755859,
+    "('High', 'INDUSINDBK.BO')":1038.0999755859,
+    "('Low', 'INDUSINDBK.BO')":1021.6500244141,
+    "('Open', 'INDUSINDBK.BO')":1037.8000488281,
+    "('Volume', 'INDUSINDBK.BO')":31160
+  },
+  {
+    "('Date', '')":"2025-02-25",
+    "('Close', 'INDUSINDBK.BO')":1033.75,
+    "('High', 'INDUSINDBK.BO')":1041.3000488281,
+    "('Low', 'INDUSINDBK.BO')":1026.3000488281,
+    "('Open', 'INDUSINDBK.BO')":1029.8000488281,
+    "('Volume', 'INDUSINDBK.BO')":144080
+  },
+  {
+    "('Date', '')":"2025-02-27",
+    "('Close', 'INDUSINDBK.BO')":1046.3000488281,
+    "('High', 'INDUSINDBK.BO')":1062.0500488281,
+    "('Low', 'INDUSINDBK.BO')":1041.8000488281,
+    "('Open', 'INDUSINDBK.BO')":1051.9499511719,
+    "('Volume', 'INDUSINDBK.BO')":81152
+  },
+  {
+    "('Date', '')":"2025-02-28",
+    "('Close', 'INDUSINDBK.BO')":988.950012207,
+    "('High', 'INDUSINDBK.BO')":1041.5,
+    "('Low', 'INDUSINDBK.BO')":968.799987793,
+    "('Open', 'INDUSINDBK.BO')":1041.5,
+    "('Volume', 'INDUSINDBK.BO')":267344
+  },
+  {
+    "('Date', '')":"2025-03-03",
+    "('Close', 'INDUSINDBK.BO')":984.200012207,
+    "('High', 'INDUSINDBK.BO')":986.5999755859,
+    "('Low', 'INDUSINDBK.BO')":947.799987793,
+    "('Open', 'INDUSINDBK.BO')":979.4000244141,
+    "('Volume', 'INDUSINDBK.BO')":105980
+  },
+  {
+    "('Date', '')":"2025-03-04",
+    "('Close', 'INDUSINDBK.BO')":987.9000244141,
+    "('High', 'INDUSINDBK.BO')":1003.700012207,
+    "('Low', 'INDUSINDBK.BO')":968.0,
+    "('Open', 'INDUSINDBK.BO')":982.950012207,
+    "('Volume', 'INDUSINDBK.BO')":94239
+  },
+  {
+    "('Date', '')":"2025-03-05",
+    "('Close', 'INDUSINDBK.BO')":971.700012207,
+    "('High', 'INDUSINDBK.BO')":995.0,
+    "('Low', 'INDUSINDBK.BO')":970.700012207,
+    "('Open', 'INDUSINDBK.BO')":987.8499755859,
+    "('Volume', 'INDUSINDBK.BO')":91652
+  },
+  {
+    "('Date', '')":"2025-03-06",
+    "('Close', 'INDUSINDBK.BO')":971.049987793,
+    "('High', 'INDUSINDBK.BO')":982.299987793,
+    "('Low', 'INDUSINDBK.BO')":962.25,
+    "('Open', 'INDUSINDBK.BO')":976.0,
+    "('Volume', 'INDUSINDBK.BO')":50492
+  },
+  {
+    "('Date', '')":"2025-03-07",
+    "('Close', 'INDUSINDBK.BO')":936.799987793,
+    "('High', 'INDUSINDBK.BO')":976.5999755859,
+    "('Low', 'INDUSINDBK.BO')":933.299987793,
+    "('Open', 'INDUSINDBK.BO')":974.950012207,
+    "('Volume', 'INDUSINDBK.BO')":139329
+  },
+  {
+    "('Date', '')":"2025-03-10",
+    "('Close', 'INDUSINDBK.BO')":900.5999755859,
+    "('High', 'INDUSINDBK.BO')":913.4000244141,
+    "('Low', 'INDUSINDBK.BO')":886.4000244141,
+    "('Open', 'INDUSINDBK.BO')":895.0,
+    "('Volume', 'INDUSINDBK.BO')":448527
+  },
+  {
+    "('Date', '')":"2025-03-11",
+    "('Close', 'INDUSINDBK.BO')":655.950012207,
+    "('High', 'INDUSINDBK.BO')":810.549987793,
+    "('Low', 'INDUSINDBK.BO')":649.0,
+    "('Open', 'INDUSINDBK.BO')":810.549987793,
+    "('Volume', 'INDUSINDBK.BO')":4194108
+  },
+  {
+    "('Date', '')":"2025-03-12",
+    "('Close', 'INDUSINDBK.BO')":684.700012207,
+    "('High', 'INDUSINDBK.BO')":697.5999755859,
+    "('Low', 'INDUSINDBK.BO')":605.4000244141,
+    "('Open', 'INDUSINDBK.BO')":627.950012207,
+    "('Volume', 'INDUSINDBK.BO')":5190490
+  },
+  {
+    "('Date', '')":"2025-03-13",
+    "('Close', 'INDUSINDBK.BO')":672.0999755859,
+    "('High', 'INDUSINDBK.BO')":706.3499755859,
+    "('Low', 'INDUSINDBK.BO')":667.3499755859,
+    "('Open', 'INDUSINDBK.BO')":690.0,
+    "('Volume', 'INDUSINDBK.BO')":2152420
+  },
+  {
+    "('Date', '')":"2025-03-17",
+    "('Close', 'INDUSINDBK.BO')":676.950012207,
+    "('High', 'INDUSINDBK.BO')":707.75,
+    "('Low', 'INDUSINDBK.BO')":675.0,
+    "('Open', 'INDUSINDBK.BO')":704.799987793,
+    "('Volume', 'INDUSINDBK.BO')":955945
+  },
+  {
+    "('Date', '')":"2025-03-18",
+    "('Close', 'INDUSINDBK.BO')":681.700012207,
+    "('High', 'INDUSINDBK.BO')":687.450012207,
+    "('Low', 'INDUSINDBK.BO')":670.75,
+    "('Open', 'INDUSINDBK.BO')":687.450012207,
+    "('Volume', 'INDUSINDBK.BO')":475173
+  },
+  {
+    "('Date', '')":"2025-03-19",
+    "('Close', 'INDUSINDBK.BO')":692.3499755859,
+    "('High', 'INDUSINDBK.BO')":700.799987793,
+    "('Low', 'INDUSINDBK.BO')":681.950012207,
+    "('Open', 'INDUSINDBK.BO')":683.5999755859,
+    "('Volume', 'INDUSINDBK.BO')":672240
+  },
+  {
+    "('Date', '')":"2025-03-20",
+    "('Close', 'INDUSINDBK.BO')":683.799987793,
+    "('High', 'INDUSINDBK.BO')":700.799987793,
+    "('Low', 'INDUSINDBK.BO')":681.0,
+    "('Open', 'INDUSINDBK.BO')":698.950012207,
+    "('Volume', 'INDUSINDBK.BO')":609313
+  },
+  {
+    "('Date', '')":"2025-03-21",
+    "('Close', 'INDUSINDBK.BO')":685.75,
+    "('High', 'INDUSINDBK.BO')":692.549987793,
+    "('Low', 'INDUSINDBK.BO')":672.700012207,
+    "('Open', 'INDUSINDBK.BO')":688.6500244141,
+    "('Volume', 'INDUSINDBK.BO')":265467
+  },
+  {
+    "('Date', '')":"2025-03-24",
+    "('Close', 'INDUSINDBK.BO')":669.1500244141,
+    "('High', 'INDUSINDBK.BO')":693.950012207,
+    "('Low', 'INDUSINDBK.BO')":665.4000244141,
+    "('Open', 'INDUSINDBK.BO')":693.950012207,
+    "('Volume', 'INDUSINDBK.BO')":328655
+  },
+  {
+    "('Date', '')":"2025-03-25",
+    "('Close', 'INDUSINDBK.BO')":637.299987793,
+    "('High', 'INDUSINDBK.BO')":673.200012207,
+    "('Low', 'INDUSINDBK.BO')":633.549987793,
+    "('Open', 'INDUSINDBK.BO')":672.0,
+    "('Volume', 'INDUSINDBK.BO')":801652
+  },
+  {
+    "('Date', '')":"2025-03-26",
+    "('Close', 'INDUSINDBK.BO')":656.049987793,
+    "('High', 'INDUSINDBK.BO')":662.4000244141,
+    "('Low', 'INDUSINDBK.BO')":637.200012207,
+    "('Open', 'INDUSINDBK.BO')":637.299987793,
+    "('Volume', 'INDUSINDBK.BO')":1016442
+  },
+  {
+    "('Date', '')":"2025-03-27",
+    "('Close', 'INDUSINDBK.BO')":673.5999755859,
+    "('High', 'INDUSINDBK.BO')":676.299987793,
+    "('Low', 'INDUSINDBK.BO')":640.549987793,
+    "('Open', 'INDUSINDBK.BO')":656.25,
+    "('Volume', 'INDUSINDBK.BO')":898259
+  },
+  {
+    "('Date', '')":"2025-03-28",
+    "('Close', 'INDUSINDBK.BO')":649.549987793,
+    "('High', 'INDUSINDBK.BO')":674.049987793,
+    "('Low', 'INDUSINDBK.BO')":643.700012207,
+    "('Open', 'INDUSINDBK.BO')":671.25,
+    "('Volume', 'INDUSINDBK.BO')":615803
+  },
+  {
+    "('Date', '')":"2025-04-01",
+    "('Close', 'INDUSINDBK.BO')":682.75,
+    "('High', 'INDUSINDBK.BO')":689.8499755859,
+    "('Low', 'INDUSINDBK.BO')":646.8499755859,
+    "('Open', 'INDUSINDBK.BO')":655.799987793,
+    "('Volume', 'INDUSINDBK.BO')":549158
+  },
+  {
+    "('Date', '')":"2025-04-02",
+    "('Close', 'INDUSINDBK.BO')":702.4000244141,
+    "('High', 'INDUSINDBK.BO')":708.450012207,
+    "('Low', 'INDUSINDBK.BO')":674.75,
+    "('Open', 'INDUSINDBK.BO')":682.75,
+    "('Volume', 'INDUSINDBK.BO')":2733091
+  },
+  {
+    "('Date', '')":"2025-04-03",
+    "('Close', 'INDUSINDBK.BO')":709.4000244141,
+    "('High', 'INDUSINDBK.BO')":714.6500244141,
+    "('Low', 'INDUSINDBK.BO')":693.6500244141,
+    "('Open', 'INDUSINDBK.BO')":695.0,
+    "('Volume', 'INDUSINDBK.BO')":487681
+  },
+  {
+    "('Date', '')":"2025-04-04",
+    "('Close', 'INDUSINDBK.BO')":682.25,
+    "('High', 'INDUSINDBK.BO')":704.950012207,
+    "('Low', 'INDUSINDBK.BO')":675.4000244141,
+    "('Open', 'INDUSINDBK.BO')":700.25,
+    "('Volume', 'INDUSINDBK.BO')":541779
+  },
+  {
+    "('Date', '')":"2025-04-07",
+    "('Close', 'INDUSINDBK.BO')":676.200012207,
+    "('High', 'INDUSINDBK.BO')":679.950012207,
+    "('Low', 'INDUSINDBK.BO')":618.049987793,
+    "('Open', 'INDUSINDBK.BO')":618.049987793,
+    "('Volume', 'INDUSINDBK.BO')":659678
+  },
+  {
+    "('Date', '')":"2025-04-08",
+    "('Close', 'INDUSINDBK.BO')":679.25,
+    "('High', 'INDUSINDBK.BO')":696.0,
+    "('Low', 'INDUSINDBK.BO')":672.6500244141,
+    "('Open', 'INDUSINDBK.BO')":685.950012207,
+    "('Volume', 'INDUSINDBK.BO')":362699
+  },
+  {
+    "('Date', '')":"2025-04-09",
+    "('Close', 'INDUSINDBK.BO')":678.4000244141,
+    "('High', 'INDUSINDBK.BO')":684.25,
+    "('Low', 'INDUSINDBK.BO')":670.5,
+    "('Open', 'INDUSINDBK.BO')":684.25,
+    "('Volume', 'INDUSINDBK.BO')":122570
+  },
+  {
+    "('Date', '')":"2025-04-11",
+    "('Close', 'INDUSINDBK.BO')":688.75,
+    "('High', 'INDUSINDBK.BO')":694.0,
+    "('Low', 'INDUSINDBK.BO')":675.5,
+    "('Open', 'INDUSINDBK.BO')":689.8499755859,
+    "('Volume', 'INDUSINDBK.BO')":135768
+  },
+  {
+    "('Date', '')":"2025-04-15",
+    "('Close', 'INDUSINDBK.BO')":735.8499755859,
+    "('High', 'INDUSINDBK.BO')":741.0999755859,
+    "('Low', 'INDUSINDBK.BO')":693.5,
+    "('Open', 'INDUSINDBK.BO')":700.1500244141,
+    "('Volume', 'INDUSINDBK.BO')":475827
+  },
+  {
+    "('Date', '')":"2025-04-16",
+    "('Close', 'INDUSINDBK.BO')":788.25,
+    "('High', 'INDUSINDBK.BO')":794.3499755859,
+    "('Low', 'INDUSINDBK.BO')":733.0,
+    "('Open', 'INDUSINDBK.BO')":745.049987793,
+    "('Volume', 'INDUSINDBK.BO')":1085313
+  },
+  {
+    "('Date', '')":"2025-04-17",
+    "('Close', 'INDUSINDBK.BO')":794.4000244141,
+    "('High', 'INDUSINDBK.BO')":800.8499755859,
+    "('Low', 'INDUSINDBK.BO')":777.049987793,
+    "('Open', 'INDUSINDBK.BO')":789.75,
+    "('Volume', 'INDUSINDBK.BO')":714633
+  },
+  {
+    "('Date', '')":"2025-04-21",
+    "('Close', 'INDUSINDBK.BO')":828.049987793,
+    "('High', 'INDUSINDBK.BO')":841.950012207,
+    "('Low', 'INDUSINDBK.BO')":800.0,
+    "('Open', 'INDUSINDBK.BO')":802.0,
+    "('Volume', 'INDUSINDBK.BO')":635266
+  },
+  {
+    "('Date', '')":"2025-04-22",
+    "('Close', 'INDUSINDBK.BO')":787.6500244141,
+    "('High', 'INDUSINDBK.BO')":808.0,
+    "('Low', 'INDUSINDBK.BO')":776.1500244141,
+    "('Open', 'INDUSINDBK.BO')":793.450012207,
+    "('Volume', 'INDUSINDBK.BO')":1191348
+  },
+  {
+    "('Date', '')":"2025-04-23",
+    "('Close', 'INDUSINDBK.BO')":793.9000244141,
+    "('High', 'INDUSINDBK.BO')":805.0,
+    "('Low', 'INDUSINDBK.BO')":782.0,
+    "('Open', 'INDUSINDBK.BO')":795.1500244141,
+    "('Volume', 'INDUSINDBK.BO')":577546
+  },
+  {
+    "('Date', '')":"2025-04-24",
+    "('Close', 'INDUSINDBK.BO')":819.6500244141,
+    "('High', 'INDUSINDBK.BO')":837.0,
+    "('Low', 'INDUSINDBK.BO')":794.75,
+    "('Open', 'INDUSINDBK.BO')":796.75,
+    "('Volume', 'INDUSINDBK.BO')":966866
+  },
+  {
+    "('Date', '')":"2025-04-25",
+    "('Close', 'INDUSINDBK.BO')":822.25,
+    "('High', 'INDUSINDBK.BO')":829.1500244141,
+    "('Low', 'INDUSINDBK.BO')":807.5999755859,
+    "('Open', 'INDUSINDBK.BO')":822.799987793,
+    "('Volume', 'INDUSINDBK.BO')":489700
+  },
+  {
+    "('Date', '')":"2025-04-28",
+    "('Close', 'INDUSINDBK.BO')":830.450012207,
+    "('High', 'INDUSINDBK.BO')":841.4000244141,
+    "('Low', 'INDUSINDBK.BO')":821.200012207,
+    "('Open', 'INDUSINDBK.BO')":822.450012207,
+    "('Volume', 'INDUSINDBK.BO')":284442
+  },
+  {
+    "('Date', '')":"2025-04-29",
+    "('Close', 'INDUSINDBK.BO')":837.299987793,
+    "('High', 'INDUSINDBK.BO')":852.4000244141,
+    "('Low', 'INDUSINDBK.BO')":828.6500244141,
+    "('Open', 'INDUSINDBK.BO')":838.4000244141,
+    "('Volume', 'INDUSINDBK.BO')":379141
+  },
+  {
+    "('Date', '')":"2025-04-30",
+    "('Close', 'INDUSINDBK.BO')":838.450012207,
+    "('High', 'INDUSINDBK.BO')":843.0999755859,
+    "('Low', 'INDUSINDBK.BO')":810.4000244141,
+    "('Open', 'INDUSINDBK.BO')":811.200012207,
+    "('Volume', 'INDUSINDBK.BO')":842215
+  },
+  {
+    "('Date', '')":"2025-05-02",
+    "('Close', 'INDUSINDBK.BO')":852.25,
+    "('High', 'INDUSINDBK.BO')":863.799987793,
+    "('Low', 'INDUSINDBK.BO')":833.0,
+    "('Open', 'INDUSINDBK.BO')":835.950012207,
+    "('Volume', 'INDUSINDBK.BO')":596603
+  },
+  {
+    "('Date', '')":"2025-05-05",
+    "('Close', 'INDUSINDBK.BO')":846.75,
+    "('High', 'INDUSINDBK.BO')":861.0,
+    "('Low', 'INDUSINDBK.BO')":840.799987793,
+    "('Open', 'INDUSINDBK.BO')":859.549987793,
+    "('Volume', 'INDUSINDBK.BO')":172801
+  },
+  {
+    "('Date', '')":"2025-05-06",
+    "('Close', 'INDUSINDBK.BO')":831.700012207,
+    "('High', 'INDUSINDBK.BO')":850.6500244141,
+    "('Low', 'INDUSINDBK.BO')":822.0,
+    "('Open', 'INDUSINDBK.BO')":847.0999755859,
+    "('Volume', 'INDUSINDBK.BO')":405173
+  },
+  {
+    "('Date', '')":"2025-05-07",
+    "('Close', 'INDUSINDBK.BO')":833.200012207,
+    "('High', 'INDUSINDBK.BO')":841.0,
+    "('Low', 'INDUSINDBK.BO')":805.299987793,
+    "('Open', 'INDUSINDBK.BO')":805.299987793,
+    "('Volume', 'INDUSINDBK.BO')":173237
+  },
+  {
+    "('Date', '')":"2025-05-08",
+    "('Close', 'INDUSINDBK.BO')":825.3499755859,
+    "('High', 'INDUSINDBK.BO')":844.299987793,
+    "('Low', 'INDUSINDBK.BO')":815.799987793,
+    "('Open', 'INDUSINDBK.BO')":836.950012207,
+    "('Volume', 'INDUSINDBK.BO')":182133
+  },
+  {
+    "('Date', '')":"2025-05-09",
+    "('Close', 'INDUSINDBK.BO')":817.8499755859,
+    "('High', 'INDUSINDBK.BO')":826.0,
+    "('Low', 'INDUSINDBK.BO')":801.3499755859,
+    "('Open', 'INDUSINDBK.BO')":801.3499755859,
+    "('Volume', 'INDUSINDBK.BO')":103780
+  },
+  {
+    "('Date', '')":"2025-05-12",
+    "('Close', 'INDUSINDBK.BO')":788.6500244141,
+    "('High', 'INDUSINDBK.BO')":839.799987793,
+    "('Low', 'INDUSINDBK.BO')":786.1500244141,
+    "('Open', 'INDUSINDBK.BO')":839.799987793,
+    "('Volume', 'INDUSINDBK.BO')":331917
+  },
+  {
+    "('Date', '')":"2025-05-13",
+    "('Close', 'INDUSINDBK.BO')":770.3499755859,
+    "('High', 'INDUSINDBK.BO')":803.9000244141,
+    "('Low', 'INDUSINDBK.BO')":769.299987793,
+    "('Open', 'INDUSINDBK.BO')":795.0,
+    "('Volume', 'INDUSINDBK.BO')":566797
+  },
+  {
+    "('Date', '')":"2025-05-14",
+    "('Close', 'INDUSINDBK.BO')":781.549987793,
+    "('High', 'INDUSINDBK.BO')":786.5999755859,
+    "('Low', 'INDUSINDBK.BO')":764.450012207,
+    "('Open', 'INDUSINDBK.BO')":774.0,
+    "('Volume', 'INDUSINDBK.BO')":431893
+  },
+  {
+    "('Date', '')":"2025-05-15",
+    "('Close', 'INDUSINDBK.BO')":780.299987793,
+    "('High', 'INDUSINDBK.BO')":782.5,
+    "('Low', 'INDUSINDBK.BO')":759.0,
+    "('Open', 'INDUSINDBK.BO')":775.5,
+    "('Volume', 'INDUSINDBK.BO')":370842
+  },
+  {
+    "('Date', '')":"2025-05-16",
+    "('Close', 'INDUSINDBK.BO')":782.299987793,
+    "('High', 'INDUSINDBK.BO')":785.25,
+    "('Low', 'INDUSINDBK.BO')":735.950012207,
+    "('Open', 'INDUSINDBK.BO')":735.950012207,
+    "('Volume', 'INDUSINDBK.BO')":916812
+  },
+  {
+    "('Date', '')":"2025-05-19",
+    "('Close', 'INDUSINDBK.BO')":784.049987793,
+    "('High', 'INDUSINDBK.BO')":791.8499755859,
+    "('Low', 'INDUSINDBK.BO')":770.25,
+    "('Open', 'INDUSINDBK.BO')":775.950012207,
+    "('Volume', 'INDUSINDBK.BO')":427128
+  },
+  {
+    "('Date', '')":"2025-05-20",
+    "('Close', 'INDUSINDBK.BO')":782.0,
+    "('High', 'INDUSINDBK.BO')":799.3499755859,
+    "('Low', 'INDUSINDBK.BO')":780.200012207,
+    "('Open', 'INDUSINDBK.BO')":780.200012207,
+    "('Volume', 'INDUSINDBK.BO')":470089
+  },
+  {
+    "('Date', '')":"2025-05-21",
+    "('Close', 'INDUSINDBK.BO')":771.0999755859,
+    "('High', 'INDUSINDBK.BO')":787.0999755859,
+    "('Low', 'INDUSINDBK.BO')":761.25,
+    "('Open', 'INDUSINDBK.BO')":782.450012207,
+    "('Volume', 'INDUSINDBK.BO')":250013
+  },
+  {
+    "('Date', '')":"2025-05-22",
+    "('Close', 'INDUSINDBK.BO')":785.0999755859,
+    "('High', 'INDUSINDBK.BO')":796.200012207,
+    "('Low', 'INDUSINDBK.BO')":725.6500244141,
+    "('Open', 'INDUSINDBK.BO')":739.049987793,
+    "('Volume', 'INDUSINDBK.BO')":2342120
+  },
+  {
+    "('Date', '')":"2025-05-23",
+    "('Close', 'INDUSINDBK.BO')":793.3499755859,
+    "('High', 'INDUSINDBK.BO')":799.0,
+    "('Low', 'INDUSINDBK.BO')":777.299987793,
+    "('Open', 'INDUSINDBK.BO')":777.299987793,
+    "('Volume', 'INDUSINDBK.BO')":519383
+  },
+  {
+    "('Date', '')":"2025-05-26",
+    "('Close', 'INDUSINDBK.BO')":800.25,
+    "('High', 'INDUSINDBK.BO')":801.799987793,
+    "('Low', 'INDUSINDBK.BO')":790.0999755859,
+    "('Open', 'INDUSINDBK.BO')":790.0999755859,
+    "('Volume', 'INDUSINDBK.BO')":173753
+  },
+  {
+    "('Date', '')":"2025-05-27",
+    "('Close', 'INDUSINDBK.BO')":821.049987793,
+    "('High', 'INDUSINDBK.BO')":827.450012207,
+    "('Low', 'INDUSINDBK.BO')":795.200012207,
+    "('Open', 'INDUSINDBK.BO')":795.200012207,
+    "('Volume', 'INDUSINDBK.BO')":700106
+  },
+  {
+    "('Date', '')":"2025-05-28",
+    "('Close', 'INDUSINDBK.BO')":804.75,
+    "('High', 'INDUSINDBK.BO')":820.450012207,
+    "('Low', 'INDUSINDBK.BO')":803.0,
+    "('Open', 'INDUSINDBK.BO')":817.0999755859,
+    "('Volume', 'INDUSINDBK.BO')":205429
+  },
+  {
+    "('Date', '')":"2025-05-29",
+    "('Close', 'INDUSINDBK.BO')":824.1500244141,
+    "('High', 'INDUSINDBK.BO')":826.5999755859,
+    "('Low', 'INDUSINDBK.BO')":803.049987793,
+    "('Open', 'INDUSINDBK.BO')":803.049987793,
+    "('Volume', 'INDUSINDBK.BO')":297817
+  },
+  {
+    "('Date', '')":"2025-05-30",
+    "('Close', 'INDUSINDBK.BO')":817.0999755859,
+    "('High', 'INDUSINDBK.BO')":823.8499755859,
+    "('Low', 'INDUSINDBK.BO')":811.200012207,
+    "('Open', 'INDUSINDBK.BO')":821.049987793,
+    "('Volume', 'INDUSINDBK.BO')":206451
+  },
+  {
+    "('Date', '')":"2025-06-02",
+    "('Close', 'INDUSINDBK.BO')":812.549987793,
+    "('High', 'INDUSINDBK.BO')":824.8499755859,
+    "('Low', 'INDUSINDBK.BO')":809.5,
+    "('Open', 'INDUSINDBK.BO')":810.3499755859,
+    "('Volume', 'INDUSINDBK.BO')":227308
+  },
+  {
+    "('Date', '')":"2025-06-03",
+    "('Close', 'INDUSINDBK.BO')":800.25,
+    "('High', 'INDUSINDBK.BO')":817.25,
+    "('Low', 'INDUSINDBK.BO')":798.450012207,
+    "('Open', 'INDUSINDBK.BO')":816.6500244141,
+    "('Volume', 'INDUSINDBK.BO')":149985
+  },
+  {
+    "('Date', '')":"2025-06-04",
+    "('Close', 'INDUSINDBK.BO')":814.549987793,
+    "('High', 'INDUSINDBK.BO')":815.9000244141,
+    "('Low', 'INDUSINDBK.BO')":803.200012207,
+    "('Open', 'INDUSINDBK.BO')":809.5,
+    "('Volume', 'INDUSINDBK.BO')":76245
+  },
+  {
+    "('Date', '')":"2025-06-05",
+    "('Close', 'INDUSINDBK.BO')":803.0999755859,
+    "('High', 'INDUSINDBK.BO')":818.3499755859,
+    "('Low', 'INDUSINDBK.BO')":800.5,
+    "('Open', 'INDUSINDBK.BO')":815.75,
+    "('Volume', 'INDUSINDBK.BO')":166921
+  },
+  {
+    "('Date', '')":"2025-06-06",
+    "('Close', 'INDUSINDBK.BO')":823.200012207,
+    "('High', 'INDUSINDBK.BO')":845.8499755859,
+    "('Low', 'INDUSINDBK.BO')":805.0,
+    "('Open', 'INDUSINDBK.BO')":806.5,
+    "('Volume', 'INDUSINDBK.BO')":305970
+  },
+  {
+    "('Date', '')":"2025-06-09",
+    "('Close', 'INDUSINDBK.BO')":836.549987793,
+    "('High', 'INDUSINDBK.BO')":839.9000244141,
+    "('Low', 'INDUSINDBK.BO')":821.799987793,
+    "('Open', 'INDUSINDBK.BO')":832.0,
+    "('Volume', 'INDUSINDBK.BO')":249872
+  },
+  {
+    "('Date', '')":"2025-06-10",
+    "('Close', 'INDUSINDBK.BO')":846.299987793,
+    "('High', 'INDUSINDBK.BO')":857.0,
+    "('Low', 'INDUSINDBK.BO')":836.049987793,
+    "('Open', 'INDUSINDBK.BO')":836.799987793,
+    "('Volume', 'INDUSINDBK.BO')":220844
+  },
+  {
+    "('Date', '')":"2025-06-11",
+    "('Close', 'INDUSINDBK.BO')":836.0999755859,
+    "('High', 'INDUSINDBK.BO')":851.4000244141,
+    "('Low', 'INDUSINDBK.BO')":834.3499755859,
+    "('Open', 'INDUSINDBK.BO')":846.25,
+    "('Volume', 'INDUSINDBK.BO')":203221
+  },
+  {
+    "('Date', '')":"2025-06-12",
+    "('Close', 'INDUSINDBK.BO')":829.75,
+    "('High', 'INDUSINDBK.BO')":843.0,
+    "('Low', 'INDUSINDBK.BO')":826.5,
+    "('Open', 'INDUSINDBK.BO')":839.25,
+    "('Volume', 'INDUSINDBK.BO')":73692
+  },
+  {
+    "('Date', '')":"2025-06-13",
+    "('Close', 'INDUSINDBK.BO')":816.549987793,
+    "('High', 'INDUSINDBK.BO')":827.0,
+    "('Low', 'INDUSINDBK.BO')":814.0,
+    "('Open', 'INDUSINDBK.BO')":815.549987793,
+    "('Volume', 'INDUSINDBK.BO')":87881
+  },
+  {
+    "('Date', '')":"2025-06-16",
+    "('Close', 'INDUSINDBK.BO')":821.0999755859,
+    "('High', 'INDUSINDBK.BO')":824.450012207,
+    "('Low', 'INDUSINDBK.BO')":810.5,
+    "('Open', 'INDUSINDBK.BO')":818.75,
+    "('Volume', 'INDUSINDBK.BO')":77161
+  },
+  {
+    "('Date', '')":"2025-06-17",
+    "('Close', 'INDUSINDBK.BO')":809.1500244141,
+    "('High', 'INDUSINDBK.BO')":825.700012207,
+    "('Low', 'INDUSINDBK.BO')":806.299987793,
+    "('Open', 'INDUSINDBK.BO')":825.700012207,
+    "('Volume', 'INDUSINDBK.BO')":97519
+  },
+  {
+    "('Date', '')":"2025-06-18",
+    "('Close', 'INDUSINDBK.BO')":850.5999755859,
+    "('High', 'INDUSINDBK.BO')":855.200012207,
+    "('Low', 'INDUSINDBK.BO')":816.200012207,
+    "('Open', 'INDUSINDBK.BO')":818.3499755859,
+    "('Volume', 'INDUSINDBK.BO')":1037943
+  },
+  {
+    "('Date', '')":"2025-06-19",
+    "('Close', 'INDUSINDBK.BO')":837.5,
+    "('High', 'INDUSINDBK.BO')":849.549987793,
+    "('Low', 'INDUSINDBK.BO')":835.0999755859,
+    "('Open', 'INDUSINDBK.BO')":847.9000244141,
+    "('Volume', 'INDUSINDBK.BO')":179010
+  },
+  {
+    "('Date', '')":"2025-06-20",
+    "('Close', 'INDUSINDBK.BO')":840.299987793,
+    "('High', 'INDUSINDBK.BO')":847.9000244141,
+    "('Low', 'INDUSINDBK.BO')":829.049987793,
+    "('Open', 'INDUSINDBK.BO')":836.950012207,
+    "('Volume', 'INDUSINDBK.BO')":138766
+  },
+  {
+    "('Date', '')":"2025-06-23",
+    "('Close', 'INDUSINDBK.BO')":840.4000244141,
+    "('High', 'INDUSINDBK.BO')":845.200012207,
+    "('Low', 'INDUSINDBK.BO')":825.5999755859,
+    "('Open', 'INDUSINDBK.BO')":825.5999755859,
+    "('Volume', 'INDUSINDBK.BO')":218042
+  },
+  {
+    "('Date', '')":"2025-06-24",
+    "('Close', 'INDUSINDBK.BO')":831.8499755859,
+    "('High', 'INDUSINDBK.BO')":851.0,
+    "('Low', 'INDUSINDBK.BO')":823.6500244141,
+    "('Open', 'INDUSINDBK.BO')":848.5,
+    "('Volume', 'INDUSINDBK.BO')":228065
+  },
+  {
+    "('Date', '')":"2025-06-25",
+    "('Close', 'INDUSINDBK.BO')":829.700012207,
+    "('High', 'INDUSINDBK.BO')":838.5,
+    "('Low', 'INDUSINDBK.BO')":828.0,
+    "('Open', 'INDUSINDBK.BO')":835.6500244141,
+    "('Volume', 'INDUSINDBK.BO')":103249
+  },
+  {
+    "('Date', '')":"2025-06-26",
+    "('Close', 'INDUSINDBK.BO')":835.9000244141,
+    "('High', 'INDUSINDBK.BO')":840.0,
+    "('Low', 'INDUSINDBK.BO')":824.299987793,
+    "('Open', 'INDUSINDBK.BO')":831.049987793,
+    "('Volume', 'INDUSINDBK.BO')":83577
+  },
+  {
+    "('Date', '')":"2025-06-27",
+    "('Close', 'INDUSINDBK.BO')":857.75,
+    "('High', 'INDUSINDBK.BO')":880.8499755859,
+    "('Low', 'INDUSINDBK.BO')":831.3499755859,
+    "('Open', 'INDUSINDBK.BO')":836.799987793,
+    "('Volume', 'INDUSINDBK.BO')":309649
+  },
+  {
+    "('Date', '')":"2025-06-30",
+    "('Close', 'INDUSINDBK.BO')":871.799987793,
+    "('High', 'INDUSINDBK.BO')":875.299987793,
+    "('Low', 'INDUSINDBK.BO')":857.8499755859,
+    "('Open', 'INDUSINDBK.BO')":861.6500244141,
+    "('Volume', 'INDUSINDBK.BO')":163059
+  },
+  {
+    "('Date', '')":"2025-07-01",
+    "('Close', 'INDUSINDBK.BO')":879.3499755859,
+    "('High', 'INDUSINDBK.BO')":893.0,
+    "('Low', 'INDUSINDBK.BO')":866.200012207,
+    "('Open', 'INDUSINDBK.BO')":871.75,
+    "('Volume', 'INDUSINDBK.BO')":134865
+  },
+  {
+    "('Date', '')":"2025-07-02",
+    "('Close', 'INDUSINDBK.BO')":858.1500244141,
+    "('High', 'INDUSINDBK.BO')":876.0,
+    "('Low', 'INDUSINDBK.BO')":848.0,
+    "('Open', 'INDUSINDBK.BO')":876.0,
+    "('Volume', 'INDUSINDBK.BO')":442365
+  },
+  {
+    "('Date', '')":"2025-07-03",
+    "('Close', 'INDUSINDBK.BO')":862.450012207,
+    "('High', 'INDUSINDBK.BO')":865.700012207,
+    "('Low', 'INDUSINDBK.BO')":845.5999755859,
+    "('Open', 'INDUSINDBK.BO')":849.299987793,
+    "('Volume', 'INDUSINDBK.BO')":164205
+  },
+  {
+    "('Date', '')":"2025-07-04",
+    "('Close', 'INDUSINDBK.BO')":856.200012207,
+    "('High', 'INDUSINDBK.BO')":863.9000244141,
+    "('Low', 'INDUSINDBK.BO')":849.299987793,
+    "('Open', 'INDUSINDBK.BO')":854.200012207,
+    "('Volume', 'INDUSINDBK.BO')":137397
+  },
+  {
+    "('Date', '')":"2025-07-07",
+    "('Close', 'INDUSINDBK.BO')":854.450012207,
+    "('High', 'INDUSINDBK.BO')":866.8499755859,
+    "('Low', 'INDUSINDBK.BO')":845.299987793,
+    "('Open', 'INDUSINDBK.BO')":847.950012207,
+    "('Volume', 'INDUSINDBK.BO')":158256
+  },
+  {
+    "('Date', '')":"2025-07-08",
+    "('Close', 'INDUSINDBK.BO')":850.700012207,
+    "('High', 'INDUSINDBK.BO')":862.950012207,
+    "('Low', 'INDUSINDBK.BO')":848.5999755859,
+    "('Open', 'INDUSINDBK.BO')":856.0,
+    "('Volume', 'INDUSINDBK.BO')":100504
+  },
+  {
+    "('Date', '')":"2025-07-09",
+    "('Close', 'INDUSINDBK.BO')":840.799987793,
+    "('High', 'INDUSINDBK.BO')":854.9000244141,
+    "('Low', 'INDUSINDBK.BO')":839.1500244141,
+    "('Open', 'INDUSINDBK.BO')":850.200012207,
+    "('Volume', 'INDUSINDBK.BO')":98914
+  },
+  {
+    "('Date', '')":"2025-07-10",
+    "('Close', 'INDUSINDBK.BO')":852.6500244141,
+    "('High', 'INDUSINDBK.BO')":855.700012207,
+    "('Low', 'INDUSINDBK.BO')":841.0,
+    "('Open', 'INDUSINDBK.BO')":844.0,
+    "('Volume', 'INDUSINDBK.BO')":165913
+  },
+  {
+    "('Date', '')":"2025-07-11",
+    "('Close', 'INDUSINDBK.BO')":858.700012207,
+    "('High', 'INDUSINDBK.BO')":867.5,
+    "('Low', 'INDUSINDBK.BO')":849.75,
+    "('Open', 'INDUSINDBK.BO')":850.950012207,
+    "('Volume', 'INDUSINDBK.BO')":105374
+  },
+  {
+    "('Date', '')":"2025-07-14",
+    "('Close', 'INDUSINDBK.BO')":867.1500244141,
+    "('High', 'INDUSINDBK.BO')":873.200012207,
+    "('Low', 'INDUSINDBK.BO')":857.1500244141,
+    "('Open', 'INDUSINDBK.BO')":858.700012207,
+    "('Volume', 'INDUSINDBK.BO')":165007
+  },
+  {
+    "('Date', '')":"2025-07-15",
+    "('Close', 'INDUSINDBK.BO')":881.0999755859,
+    "('High', 'INDUSINDBK.BO')":886.700012207,
+    "('Low', 'INDUSINDBK.BO')":868.950012207,
+    "('Open', 'INDUSINDBK.BO')":868.950012207,
+    "('Volume', 'INDUSINDBK.BO')":75001
+  },
+  {
+    "('Date', '')":"2025-07-16",
+    "('Close', 'INDUSINDBK.BO')":879.049987793,
+    "('High', 'INDUSINDBK.BO')":888.4000244141,
+    "('Low', 'INDUSINDBK.BO')":876.8499755859,
+    "('Open', 'INDUSINDBK.BO')":879.950012207,
+    "('Volume', 'INDUSINDBK.BO')":96970
+  },
+  {
+    "('Date', '')":"2025-07-17",
+    "('Close', 'INDUSINDBK.BO')":864.799987793,
+    "('High', 'INDUSINDBK.BO')":890.5999755859,
+    "('Low', 'INDUSINDBK.BO')":862.6500244141,
+    "('Open', 'INDUSINDBK.BO')":886.25,
+    "('Volume', 'INDUSINDBK.BO')":87298
+  },
+  {
+    "('Date', '')":"2025-07-18",
+    "('Close', 'INDUSINDBK.BO')":870.1500244141,
+    "('High', 'INDUSINDBK.BO')":876.0999755859,
+    "('Low', 'INDUSINDBK.BO')":862.299987793,
+    "('Open', 'INDUSINDBK.BO')":863.450012207,
+    "('Volume', 'INDUSINDBK.BO')":44509
+  },
+  {
+    "('Date', '')":"2025-07-21",
+    "('Close', 'INDUSINDBK.BO')":858.5999755859,
+    "('High', 'INDUSINDBK.BO')":871.1500244141,
+    "('Low', 'INDUSINDBK.BO')":831.4000244141,
+    "('Open', 'INDUSINDBK.BO')":871.0999755859,
+    "('Volume', 'INDUSINDBK.BO')":286478
+  },
+  {
+    "('Date', '')":"2025-07-22",
+    "('Close', 'INDUSINDBK.BO')":842.8499755859,
+    "('High', 'INDUSINDBK.BO')":883.950012207,
+    "('Low', 'INDUSINDBK.BO')":841.049987793,
+    "('Open', 'INDUSINDBK.BO')":880.0,
+    "('Volume', 'INDUSINDBK.BO')":178640
+  },
+  {
+    "('Date', '')":"2025-07-23",
+    "('Close', 'INDUSINDBK.BO')":851.299987793,
+    "('High', 'INDUSINDBK.BO')":853.25,
+    "('Low', 'INDUSINDBK.BO')":842.0,
+    "('Open', 'INDUSINDBK.BO')":845.6500244141,
+    "('Volume', 'INDUSINDBK.BO')":60700
+  },
+  {
+    "('Date', '')":"2025-07-24",
+    "('Close', 'INDUSINDBK.BO')":847.25,
+    "('High', 'INDUSINDBK.BO')":860.450012207,
+    "('Low', 'INDUSINDBK.BO')":845.0,
+    "('Open', 'INDUSINDBK.BO')":857.6500244141,
+    "('Volume', 'INDUSINDBK.BO')":119064
+  },
+  {
+    "('Date', '')":"2025-07-25",
+    "('Close', 'INDUSINDBK.BO')":823.700012207,
+    "('High', 'INDUSINDBK.BO')":848.950012207,
+    "('Low', 'INDUSINDBK.BO')":821.75,
+    "('Open', 'INDUSINDBK.BO')":848.950012207,
+    "('Volume', 'INDUSINDBK.BO')":106837
+  },
+  {
+    "('Date', '')":"2025-07-28",
+    "('Close', 'INDUSINDBK.BO')":802.1500244141,
+    "('High', 'INDUSINDBK.BO')":828.4000244141,
+    "('Low', 'INDUSINDBK.BO')":797.6500244141,
+    "('Open', 'INDUSINDBK.BO')":821.0999755859,
+    "('Volume', 'INDUSINDBK.BO')":218195
+  },
+  {
+    "('Date', '')":"2025-07-29",
+    "('Close', 'INDUSINDBK.BO')":808.799987793,
+    "('High', 'INDUSINDBK.BO')":818.5999755859,
+    "('Low', 'INDUSINDBK.BO')":790.0999755859,
+    "('Open', 'INDUSINDBK.BO')":792.299987793,
+    "('Volume', 'INDUSINDBK.BO')":442985
+  },
+  {
+    "('Date', '')":"2025-07-30",
+    "('Close', 'INDUSINDBK.BO')":801.700012207,
+    "('High', 'INDUSINDBK.BO')":814.0,
+    "('Low', 'INDUSINDBK.BO')":795.6500244141,
+    "('Open', 'INDUSINDBK.BO')":814.0,
+    "('Volume', 'INDUSINDBK.BO')":179743
+  },
+  {
+    "('Date', '')":"2025-07-31",
+    "('Close', 'INDUSINDBK.BO')":798.8499755859,
+    "('High', 'INDUSINDBK.BO')":805.4000244141,
+    "('Low', 'INDUSINDBK.BO')":789.450012207,
+    "('Open', 'INDUSINDBK.BO')":800.8499755859,
+    "('Volume', 'INDUSINDBK.BO')":66325
+  },
+  {
+    "('Date', '')":"2025-08-01",
+    "('Close', 'INDUSINDBK.BO')":783.700012207,
+    "('High', 'INDUSINDBK.BO')":797.200012207,
+    "('Low', 'INDUSINDBK.BO')":779.5999755859,
+    "('Open', 'INDUSINDBK.BO')":792.049987793,
+    "('Volume', 'INDUSINDBK.BO')":98779
+  },
+  {
+    "('Date', '')":"2025-08-04",
+    "('Close', 'INDUSINDBK.BO')":803.9000244141,
+    "('High', 'INDUSINDBK.BO')":805.200012207,
+    "('Low', 'INDUSINDBK.BO')":781.049987793,
+    "('Open', 'INDUSINDBK.BO')":781.049987793,
+    "('Volume', 'INDUSINDBK.BO')":116095
+  },
+  {
+    "('Date', '')":"2025-08-05",
+    "('Close', 'INDUSINDBK.BO')":819.200012207,
+    "('High', 'INDUSINDBK.BO')":848.799987793,
+    "('Low', 'INDUSINDBK.BO')":810.0,
+    "('Open', 'INDUSINDBK.BO')":821.5,
+    "('Volume', 'INDUSINDBK.BO')":628121
+  },
+  {
+    "('Date', '')":"2025-08-06",
+    "('Close', 'INDUSINDBK.BO')":803.1500244141,
+    "('High', 'INDUSINDBK.BO')":822.549987793,
+    "('Low', 'INDUSINDBK.BO')":795.5,
+    "('Open', 'INDUSINDBK.BO')":821.0,
+    "('Volume', 'INDUSINDBK.BO')":259259
+  },
+  {
+    "('Date', '')":"2025-08-07",
+    "('Close', 'INDUSINDBK.BO')":807.549987793,
+    "('High', 'INDUSINDBK.BO')":810.049987793,
+    "('Low', 'INDUSINDBK.BO')":789.700012207,
+    "('Open', 'INDUSINDBK.BO')":802.950012207,
+    "('Volume', 'INDUSINDBK.BO')":71114
+  },
+  {
+    "('Date', '')":"2025-08-08",
+    "('Close', 'INDUSINDBK.BO')":782.75,
+    "('High', 'INDUSINDBK.BO')":808.5,
+    "('Low', 'INDUSINDBK.BO')":779.0,
+    "('Open', 'INDUSINDBK.BO')":805.450012207,
+    "('Volume', 'INDUSINDBK.BO')":128629
+  },
+  {
+    "('Date', '')":"2025-08-11",
+    "('Close', 'INDUSINDBK.BO')":783.299987793,
+    "('High', 'INDUSINDBK.BO')":789.9000244141,
+    "('Low', 'INDUSINDBK.BO')":778.0,
+    "('Open', 'INDUSINDBK.BO')":782.75,
+    "('Volume', 'INDUSINDBK.BO')":100501
+  },
+  {
+    "('Date', '')":"2025-08-12",
+    "('Close', 'INDUSINDBK.BO')":782.549987793,
+    "('High', 'INDUSINDBK.BO')":791.200012207,
+    "('Low', 'INDUSINDBK.BO')":781.0,
+    "('Open', 'INDUSINDBK.BO')":789.950012207,
+    "('Volume', 'INDUSINDBK.BO')":93534
+  },
+  {
+    "('Date', '')":"2025-08-13",
+    "('Close', 'INDUSINDBK.BO')":773.5,
+    "('High', 'INDUSINDBK.BO')":787.799987793,
+    "('Low', 'INDUSINDBK.BO')":766.9000244141,
+    "('Open', 'INDUSINDBK.BO')":784.1500244141,
+    "('Volume', 'INDUSINDBK.BO')":175494
+  },
+  {
+    "('Date', '')":"2025-08-14",
+    "('Close', 'INDUSINDBK.BO')":769.799987793,
+    "('High', 'INDUSINDBK.BO')":779.9000244141,
+    "('Low', 'INDUSINDBK.BO')":766.200012207,
+    "('Open', 'INDUSINDBK.BO')":772.0,
+    "('Volume', 'INDUSINDBK.BO')":95202
+  },
+  {
+    "('Date', '')":"2025-08-18",
+    "('Close', 'INDUSINDBK.BO')":788.5,
+    "('High', 'INDUSINDBK.BO')":795.3499755859,
+    "('Low', 'INDUSINDBK.BO')":777.3499755859,
+    "('Open', 'INDUSINDBK.BO')":779.950012207,
+    "('Volume', 'INDUSINDBK.BO')":139739
+  },
+  {
+    "('Date', '')":"2025-08-19",
+    "('Close', 'INDUSINDBK.BO')":785.549987793,
+    "('High', 'INDUSINDBK.BO')":790.549987793,
+    "('Low', 'INDUSINDBK.BO')":781.0,
+    "('Open', 'INDUSINDBK.BO')":788.450012207,
+    "('Volume', 'INDUSINDBK.BO')":44422
+  },
+  {
+    "('Date', '')":"2025-08-20",
+    "('Close', 'INDUSINDBK.BO')":778.299987793,
+    "('High', 'INDUSINDBK.BO')":790.1500244141,
+    "('Low', 'INDUSINDBK.BO')":777.3499755859,
+    "('Open', 'INDUSINDBK.BO')":785.549987793,
+    "('Volume', 'INDUSINDBK.BO')":82895
+  },
+  {
+    "('Date', '')":"2025-08-21",
+    "('Close', 'INDUSINDBK.BO')":767.549987793,
+    "('High', 'INDUSINDBK.BO')":781.6500244141,
+    "('Low', 'INDUSINDBK.BO')":766.5,
+    "('Open', 'INDUSINDBK.BO')":779.049987793,
+    "('Volume', 'INDUSINDBK.BO')":135775
+  },
+  {
+    "('Date', '')":"2025-08-22",
+    "('Close', 'INDUSINDBK.BO')":759.950012207,
+    "('High', 'INDUSINDBK.BO')":772.700012207,
+    "('Low', 'INDUSINDBK.BO')":759.0,
+    "('Open', 'INDUSINDBK.BO')":771.799987793,
+    "('Volume', 'INDUSINDBK.BO')":85827
+  },
+  {
+    "('Date', '')":"2025-08-25",
+    "('Close', 'INDUSINDBK.BO')":772.0,
+    "('High', 'INDUSINDBK.BO')":774.75,
+    "('Low', 'INDUSINDBK.BO')":761.299987793,
+    "('Open', 'INDUSINDBK.BO')":763.4000244141,
+    "('Volume', 'INDUSINDBK.BO')":69954
+  },
+  {
+    "('Date', '')":"2025-08-26",
+    "('Close', 'INDUSINDBK.BO')":756.700012207,
+    "('High', 'INDUSINDBK.BO')":773.3499755859,
+    "('Low', 'INDUSINDBK.BO')":754.5999755859,
+    "('Open', 'INDUSINDBK.BO')":773.3499755859,
+    "('Volume', 'INDUSINDBK.BO')":126645
+  },
+  {
+    "('Date', '')":"2025-08-28",
+    "('Close', 'INDUSINDBK.BO')":746.75,
+    "('High', 'INDUSINDBK.BO')":762.5,
+    "('Low', 'INDUSINDBK.BO')":745.0,
+    "('Open', 'INDUSINDBK.BO')":755.049987793,
+    "('Volume', 'INDUSINDBK.BO')":158586
+  },
+  {
+    "('Date', '')":"2025-08-29",
+    "('Close', 'INDUSINDBK.BO')":739.9000244141,
+    "('High', 'INDUSINDBK.BO')":750.0,
+    "('Low', 'INDUSINDBK.BO')":738.0,
+    "('Open', 'INDUSINDBK.BO')":744.950012207,
+    "('Volume', 'INDUSINDBK.BO')":200111
+  },
+  {
+    "('Date', '')":"2025-09-01",
+    "('Close', 'INDUSINDBK.BO')":752.700012207,
+    "('High', 'INDUSINDBK.BO')":753.450012207,
+    "('Low', 'INDUSINDBK.BO')":741.9000244141,
+    "('Open', 'INDUSINDBK.BO')":744.799987793,
+    "('Volume', 'INDUSINDBK.BO')":82151
+  },
+  {
+    "('Date', '')":"2025-09-02",
+    "('Close', 'INDUSINDBK.BO')":751.3499755859,
+    "('High', 'INDUSINDBK.BO')":758.9000244141,
+    "('Low', 'INDUSINDBK.BO')":747.049987793,
+    "('Open', 'INDUSINDBK.BO')":753.0,
+    "('Volume', 'INDUSINDBK.BO')":93837
+  },
+  {
+    "('Date', '')":"2025-09-03",
+    "('Close', 'INDUSINDBK.BO')":768.299987793,
+    "('High', 'INDUSINDBK.BO')":769.0,
+    "('Low', 'INDUSINDBK.BO')":745.0999755859,
+    "('Open', 'INDUSINDBK.BO')":745.0999755859,
+    "('Volume', 'INDUSINDBK.BO')":111563
+  },
+  {
+    "('Date', '')":"2025-09-04",
+    "('Close', 'INDUSINDBK.BO')":754.6500244141,
+    "('High', 'INDUSINDBK.BO')":773.950012207,
+    "('Low', 'INDUSINDBK.BO')":753.0,
+    "('Open', 'INDUSINDBK.BO')":770.200012207,
+    "('Volume', 'INDUSINDBK.BO')":61099
+  },
+  {
+    "('Date', '')":"2025-09-05",
+    "('Close', 'INDUSINDBK.BO')":757.200012207,
+    "('High', 'INDUSINDBK.BO')":760.8499755859,
+    "('Low', 'INDUSINDBK.BO')":750.049987793,
+    "('Open', 'INDUSINDBK.BO')":760.8499755859,
+    "('Volume', 'INDUSINDBK.BO')":34518
+  },
+  {
+    "('Date', '')":"2025-09-08",
+    "('Close', 'INDUSINDBK.BO')":750.450012207,
+    "('High', 'INDUSINDBK.BO')":762.700012207,
+    "('Low', 'INDUSINDBK.BO')":746.9000244141,
+    "('Open', 'INDUSINDBK.BO')":754.1500244141,
+    "('Volume', 'INDUSINDBK.BO')":83314
+  },
+  {
+    "('Date', '')":"2025-09-09",
+    "('Close', 'INDUSINDBK.BO')":746.049987793,
+    "('High', 'INDUSINDBK.BO')":755.0,
+    "('Low', 'INDUSINDBK.BO')":745.200012207,
+    "('Open', 'INDUSINDBK.BO')":752.8499755859,
+    "('Volume', 'INDUSINDBK.BO')":43848
+  },
+  {
+    "('Date', '')":"2025-09-10",
+    "('Close', 'INDUSINDBK.BO')":751.1500244141,
+    "('High', 'INDUSINDBK.BO')":756.0,
+    "('Low', 'INDUSINDBK.BO')":746.5,
+    "('Open', 'INDUSINDBK.BO')":747.049987793,
+    "('Volume', 'INDUSINDBK.BO')":37201
+  },
+  {
+    "('Date', '')":"2025-09-11",
+    "('Close', 'INDUSINDBK.BO')":748.4000244141,
+    "('High', 'INDUSINDBK.BO')":754.450012207,
+    "('Low', 'INDUSINDBK.BO')":747.5,
+    "('Open', 'INDUSINDBK.BO')":751.5,
+    "('Volume', 'INDUSINDBK.BO')":22503
+  },
+  {
+    "('Date', '')":"2025-09-12",
+    "('Close', 'INDUSINDBK.BO')":740.700012207,
+    "('High', 'INDUSINDBK.BO')":754.0,
+    "('Low', 'INDUSINDBK.BO')":739.0,
+    "('Open', 'INDUSINDBK.BO')":752.0,
+    "('Volume', 'INDUSINDBK.BO')":53125
+  },
+  {
+    "('Date', '')":"2025-09-15",
+    "('Close', 'INDUSINDBK.BO')":739.799987793,
+    "('High', 'INDUSINDBK.BO')":744.4000244141,
+    "('Low', 'INDUSINDBK.BO')":738.75,
+    "('Open', 'INDUSINDBK.BO')":740.25,
+    "('Volume', 'INDUSINDBK.BO')":113677
+  },
+  {
+    "('Date', '')":"2025-09-16",
+    "('Close', 'INDUSINDBK.BO')":742.0999755859,
+    "('High', 'INDUSINDBK.BO')":748.700012207,
+    "('Low', 'INDUSINDBK.BO')":734.799987793,
+    "('Open', 'INDUSINDBK.BO')":739.450012207,
+    "('Volume', 'INDUSINDBK.BO')":81485
+  },
+  {
+    "('Date', '')":"2025-09-17",
+    "('Close', 'INDUSINDBK.BO')":738.75,
+    "('High', 'INDUSINDBK.BO')":745.3499755859,
+    "('Low', 'INDUSINDBK.BO')":736.799987793,
+    "('Open', 'INDUSINDBK.BO')":742.299987793,
+    "('Volume', 'INDUSINDBK.BO')":305575
+  },
+  {
+    "('Date', '')":"2025-09-18",
+    "('Close', 'INDUSINDBK.BO')":735.5,
+    "('High', 'INDUSINDBK.BO')":742.75,
+    "('Low', 'INDUSINDBK.BO')":732.5999755859,
+    "('Open', 'INDUSINDBK.BO')":742.0,
+    "('Volume', 'INDUSINDBK.BO')":66968
+  },
+  {
+    "('Date', '')":"2025-09-19",
+    "('Close', 'INDUSINDBK.BO')":743.299987793,
+    "('High', 'INDUSINDBK.BO')":746.0,
+    "('Low', 'INDUSINDBK.BO')":736.0999755859,
+    "('Open', 'INDUSINDBK.BO')":736.6500244141,
+    "('Volume', 'INDUSINDBK.BO')":179117
+  },
+  {
+    "('Date', '')":"2025-09-22",
+    "('Close', 'INDUSINDBK.BO')":734.0,
+    "('High', 'INDUSINDBK.BO')":748.25,
+    "('Low', 'INDUSINDBK.BO')":732.6500244141,
+    "('Open', 'INDUSINDBK.BO')":743.3499755859,
+    "('Volume', 'INDUSINDBK.BO')":103054
+  },
+  {
+    "('Date', '')":"2025-09-23",
+    "('Close', 'INDUSINDBK.BO')":755.25,
+    "('High', 'INDUSINDBK.BO')":757.450012207,
+    "('Low', 'INDUSINDBK.BO')":729.25,
+    "('Open', 'INDUSINDBK.BO')":734.049987793,
+    "('Volume', 'INDUSINDBK.BO')":138223
+  },
+  {
+    "('Date', '')":"2025-09-24",
+    "('Close', 'INDUSINDBK.BO')":740.700012207,
+    "('High', 'INDUSINDBK.BO')":759.0,
+    "('Low', 'INDUSINDBK.BO')":739.200012207,
+    "('Open', 'INDUSINDBK.BO')":756.25,
+    "('Volume', 'INDUSINDBK.BO')":124968
+  },
+  {
+    "('Date', '')":"2025-09-25",
+    "('Close', 'INDUSINDBK.BO')":740.549987793,
+    "('High', 'INDUSINDBK.BO')":745.5,
+    "('Low', 'INDUSINDBK.BO')":735.450012207,
+    "('Open', 'INDUSINDBK.BO')":741.9000244141,
+    "('Volume', 'INDUSINDBK.BO')":92244
+  },
+  {
+    "('Date', '')":"2025-09-26",
+    "('Close', 'INDUSINDBK.BO')":712.8499755859,
+    "('High', 'INDUSINDBK.BO')":743.950012207,
+    "('Low', 'INDUSINDBK.BO')":710.8499755859,
+    "('Open', 'INDUSINDBK.BO')":743.950012207,
+    "('Volume', 'INDUSINDBK.BO')":144788
+  },
+  {
+    "('Date', '')":"2025-09-29",
+    "('Close', 'INDUSINDBK.BO')":724.299987793,
+    "('High', 'INDUSINDBK.BO')":734.799987793,
+    "('Low', 'INDUSINDBK.BO')":712.75,
+    "('Open', 'INDUSINDBK.BO')":718.75,
+    "('Volume', 'INDUSINDBK.BO')":233982
+  },
+  {
+    "('Date', '')":"2025-09-30",
+    "('Close', 'INDUSINDBK.BO')":735.5,
+    "('High', 'INDUSINDBK.BO')":737.5999755859,
+    "('Low', 'INDUSINDBK.BO')":722.6500244141,
+    "('Open', 'INDUSINDBK.BO')":730.200012207,
+    "('Volume', 'INDUSINDBK.BO')":120147
+  },
+  {
+    "('Date', '')":"2025-10-01",
+    "('Close', 'INDUSINDBK.BO')":743.700012207,
+    "('High', 'INDUSINDBK.BO')":745.0,
+    "('Low', 'INDUSINDBK.BO')":726.0999755859,
+    "('Open', 'INDUSINDBK.BO')":735.0,
+    "('Volume', 'INDUSINDBK.BO')":86523
+  },
+  {
+    "('Date', '')":"2025-10-03",
+    "('Close', 'INDUSINDBK.BO')":747.549987793,
+    "('High', 'INDUSINDBK.BO')":759.0,
+    "('Low', 'INDUSINDBK.BO')":741.700012207,
+    "('Open', 'INDUSINDBK.BO')":743.700012207,
+    "('Volume', 'INDUSINDBK.BO')":141746
+  },
+  {
+    "('Date', '')":"2025-10-06",
+    "('Close', 'INDUSINDBK.BO')":739.299987793,
+    "('High', 'INDUSINDBK.BO')":755.5,
+    "('Low', 'INDUSINDBK.BO')":734.0999755859,
+    "('Open', 'INDUSINDBK.BO')":742.0,
+    "('Volume', 'INDUSINDBK.BO')":158693
+  },
+  {
+    "('Date', '')":"2025-10-07",
+    "('Close', 'INDUSINDBK.BO')":749.1500244141,
+    "('High', 'INDUSINDBK.BO')":752.299987793,
+    "('Low', 'INDUSINDBK.BO')":740.0999755859,
+    "('Open', 'INDUSINDBK.BO')":742.25,
+    "('Volume', 'INDUSINDBK.BO')":162176
+  },
+  {
+    "('Date', '')":"2025-10-08",
+    "('Close', 'INDUSINDBK.BO')":741.25,
+    "('High', 'INDUSINDBK.BO')":754.0,
+    "('Low', 'INDUSINDBK.BO')":739.049987793,
+    "('Open', 'INDUSINDBK.BO')":746.0999755859,
+    "('Volume', 'INDUSINDBK.BO')":111454
+  },
+  {
+    "('Date', '')":"2025-10-09",
+    "('Close', 'INDUSINDBK.BO')":748.8499755859,
+    "('High', 'INDUSINDBK.BO')":753.1500244141,
+    "('Low', 'INDUSINDBK.BO')":742.0,
+    "('Open', 'INDUSINDBK.BO')":742.0,
+    "('Volume', 'INDUSINDBK.BO')":111232
+  },
+  {
+    "('Date', '')":"2025-10-10",
+    "('Close', 'INDUSINDBK.BO')":763.5,
+    "('High', 'INDUSINDBK.BO')":766.25,
+    "('Low', 'INDUSINDBK.BO')":748.3499755859,
+    "('Open', 'INDUSINDBK.BO')":753.5,
+    "('Volume', 'INDUSINDBK.BO')":86462
+  },
+  {
+    "('Date', '')":"2025-10-13",
+    "('Close', 'INDUSINDBK.BO')":759.549987793,
+    "('High', 'INDUSINDBK.BO')":767.75,
+    "('Low', 'INDUSINDBK.BO')":756.6500244141,
+    "('Open', 'INDUSINDBK.BO')":756.6500244141,
+    "('Volume', 'INDUSINDBK.BO')":135915
+  },
+  {
+    "('Date', '')":"2025-10-14",
+    "('Close', 'INDUSINDBK.BO')":749.75,
+    "('High', 'INDUSINDBK.BO')":761.950012207,
+    "('Low', 'INDUSINDBK.BO')":743.5,
+    "('Open', 'INDUSINDBK.BO')":761.5999755859,
+    "('Volume', 'INDUSINDBK.BO')":43556
+  },
+  {
+    "('Date', '')":"2025-10-15",
+    "('Close', 'INDUSINDBK.BO')":740.4000244141,
+    "('High', 'INDUSINDBK.BO')":752.049987793,
+    "('Low', 'INDUSINDBK.BO')":733.75,
+    "('Open', 'INDUSINDBK.BO')":751.049987793,
+    "('Volume', 'INDUSINDBK.BO')":64363
+  },
+  {
+    "('Date', '')":"2025-10-16",
+    "('Close', 'INDUSINDBK.BO')":739.25,
+    "('High', 'INDUSINDBK.BO')":746.200012207,
+    "('Low', 'INDUSINDBK.BO')":734.799987793,
+    "('Open', 'INDUSINDBK.BO')":746.200012207,
+    "('Volume', 'INDUSINDBK.BO')":106271
+  },
+  {
+    "('Date', '')":"2025-10-17",
+    "('Close', 'INDUSINDBK.BO')":751.450012207,
+    "('High', 'INDUSINDBK.BO')":760.5999755859,
+    "('Low', 'INDUSINDBK.BO')":734.799987793,
+    "('Open', 'INDUSINDBK.BO')":739.1500244141,
+    "('Volume', 'INDUSINDBK.BO')":134473
+  },
+  {
+    "('Date', '')":"2025-10-20",
+    "('Close', 'INDUSINDBK.BO')":759.6500244141,
+    "('High', 'INDUSINDBK.BO')":770.450012207,
+    "('Low', 'INDUSINDBK.BO')":725.9000244141,
+    "('Open', 'INDUSINDBK.BO')":740.299987793,
+    "('Volume', 'INDUSINDBK.BO')":409242
+  },
+  {
+    "('Date', '')":"2025-10-21",
+    "('Close', 'INDUSINDBK.BO')":758.3499755859,
+    "('High', 'INDUSINDBK.BO')":763.299987793,
+    "('Low', 'INDUSINDBK.BO')":756.0,
+    "('Open', 'INDUSINDBK.BO')":759.700012207,
+    "('Volume', 'INDUSINDBK.BO')":22172
+  },
+  {
+    "('Date', '')":"2025-10-23",
+    "('Close', 'INDUSINDBK.BO')":760.0999755859,
+    "('High', 'INDUSINDBK.BO')":765.5999755859,
+    "('Low', 'INDUSINDBK.BO')":752.0,
+    "('Open', 'INDUSINDBK.BO')":758.3499755859,
+    "('Volume', 'INDUSINDBK.BO')":99940
+  },
+  {
+    "('Date', '')":"2025-10-24",
+    "('Close', 'INDUSINDBK.BO')":755.4000244141,
+    "('High', 'INDUSINDBK.BO')":758.8499755859,
+    "('Low', 'INDUSINDBK.BO')":750.799987793,
+    "('Open', 'INDUSINDBK.BO')":756.75,
+    "('Volume', 'INDUSINDBK.BO')":75866
+  },
+  {
+    "('Date', '')":"2025-10-27",
+    "('Close', 'INDUSINDBK.BO')":770.6500244141,
+    "('High', 'INDUSINDBK.BO')":771.700012207,
+    "('Low', 'INDUSINDBK.BO')":752.8499755859,
+    "('Open', 'INDUSINDBK.BO')":755.450012207,
+    "('Volume', 'INDUSINDBK.BO')":353486
+  },
+  {
+    "('Date', '')":"2025-10-28",
+    "('Close', 'INDUSINDBK.BO')":799.700012207,
+    "('High', 'INDUSINDBK.BO')":801.5999755859,
+    "('Low', 'INDUSINDBK.BO')":772.0,
+    "('Open', 'INDUSINDBK.BO')":772.0,
+    "('Volume', 'INDUSINDBK.BO')":424066
+  },
+  {
+    "('Date', '')":"2025-10-29",
+    "('Close', 'INDUSINDBK.BO')":808.4000244141,
+    "('High', 'INDUSINDBK.BO')":810.049987793,
+    "('Low', 'INDUSINDBK.BO')":793.950012207,
+    "('Open', 'INDUSINDBK.BO')":807.700012207,
+    "('Volume', 'INDUSINDBK.BO')":320750
+  },
+  {
+    "('Date', '')":"2025-10-30",
+    "('Close', 'INDUSINDBK.BO')":801.8499755859,
+    "('High', 'INDUSINDBK.BO')":808.799987793,
+    "('Low', 'INDUSINDBK.BO')":797.1500244141,
+    "('Open', 'INDUSINDBK.BO')":802.299987793,
+    "('Volume', 'INDUSINDBK.BO')":616867
+  },
+  {
+    "('Date', '')":"2025-10-31",
+    "('Close', 'INDUSINDBK.BO')":794.0999755859,
+    "('High', 'INDUSINDBK.BO')":806.5,
+    "('Low', 'INDUSINDBK.BO')":792.0999755859,
+    "('Open', 'INDUSINDBK.BO')":796.049987793,
+    "('Volume', 'INDUSINDBK.BO')":124677
+  },
+  {
+    "('Date', '')":"2025-11-03",
+    "('Close', 'INDUSINDBK.BO')":797.049987793,
+    "('High', 'INDUSINDBK.BO')":803.5,
+    "('Low', 'INDUSINDBK.BO')":791.0999755859,
+    "('Open', 'INDUSINDBK.BO')":791.0999755859,
+    "('Volume', 'INDUSINDBK.BO')":563792
+  },
+  {
+    "('Date', '')":"2025-11-04",
+    "('Close', 'INDUSINDBK.BO')":789.5,
+    "('High', 'INDUSINDBK.BO')":799.0,
+    "('Low', 'INDUSINDBK.BO')":785.0,
+    "('Open', 'INDUSINDBK.BO')":795.200012207,
+    "('Volume', 'INDUSINDBK.BO')":65206
+  },
+  {
+    "('Date', '')":"2025-11-06",
+    "('Close', 'INDUSINDBK.BO')":786.25,
+    "('High', 'INDUSINDBK.BO')":797.5,
+    "('Low', 'INDUSINDBK.BO')":777.0,
+    "('Open', 'INDUSINDBK.BO')":789.549987793,
+    "('Volume', 'INDUSINDBK.BO')":40112
+  },
+  {
+    "('Date', '')":"2025-11-07",
+    "('Close', 'INDUSINDBK.BO')":796.8499755859,
+    "('High', 'INDUSINDBK.BO')":801.9000244141,
+    "('Low', 'INDUSINDBK.BO')":779.0999755859,
+    "('Open', 'INDUSINDBK.BO')":785.75,
+    "('Volume', 'INDUSINDBK.BO')":80686
+  },
+  {
+    "('Date', '')":"2025-11-10",
+    "('Close', 'INDUSINDBK.BO')":799.049987793,
+    "('High', 'INDUSINDBK.BO')":807.75,
+    "('Low', 'INDUSINDBK.BO')":791.049987793,
+    "('Open', 'INDUSINDBK.BO')":791.049987793,
+    "('Volume', 'INDUSINDBK.BO')":666634
+  },
+  {
+    "('Date', '')":"2025-11-11",
+    "('Close', 'INDUSINDBK.BO')":825.8499755859,
+    "('High', 'INDUSINDBK.BO')":828.0,
+    "('Low', 'INDUSINDBK.BO')":793.0,
+    "('Open', 'INDUSINDBK.BO')":797.450012207,
+    "('Volume', 'INDUSINDBK.BO')":216886
+  },
+  {
+    "('Date', '')":"2025-11-12",
+    "('Close', 'INDUSINDBK.BO')":864.5,
+    "('High', 'INDUSINDBK.BO')":872.9000244141,
+    "('Low', 'INDUSINDBK.BO')":826.799987793,
+    "('Open', 'INDUSINDBK.BO')":829.0999755859,
+    "('Volume', 'INDUSINDBK.BO')":343603
+  },
+  {
+    "('Date', '')":"2025-11-13",
+    "('Close', 'INDUSINDBK.BO')":863.299987793,
+    "('High', 'INDUSINDBK.BO')":891.950012207,
+    "('Low', 'INDUSINDBK.BO')":858.6500244141,
+    "('Open', 'INDUSINDBK.BO')":863.1500244141,
+    "('Volume', 'INDUSINDBK.BO')":1048604
+  }
+]

@@ -1,0 +1,1986 @@
+[
+  {
+    "('Date', '')":"2024-11-13",
+    "('Close', 'ICICIBANK.BO')":1244.2498779297,
+    "('High', 'ICICIBANK.BO')":1266.6272723932,
+    "('Low', 'ICICIBANK.BO')":1240.4293796674,
+    "('Open', 'ICICIBANK.BO')":1260.772421494,
+    "('Volume', 'ICICIBANK.BO')":94740
+  },
+  {
+    "('Date', '')":"2024-11-14",
+    "('Close', 'ICICIBANK.BO')":1245.6392822266,
+    "('High', 'ICICIBANK.BO')":1257.7458254816,
+    "('Low', 'ICICIBANK.BO')":1233.6814936003,
+    "('Open', 'ICICIBANK.BO')":1247.623969392,
+    "('Volume', 'ICICIBANK.BO')":418570
+  },
+  {
+    "('Date', '')":"2024-11-18",
+    "('Close', 'ICICIBANK.BO')":1244.1507568359,
+    "('High', 'ICICIBANK.BO')":1252.1391710669,
+    "('Low', 'ICICIBANK.BO')":1240.23104817,
+    "('Open', 'ICICIBANK.BO')":1245.3415206714,
+    "('Volume', 'ICICIBANK.BO')":356565
+  },
+  {
+    "('Date', '')":"2024-11-19",
+    "('Close', 'ICICIBANK.BO')":1239.1392822266,
+    "('High', 'ICICIBANK.BO')":1251.4940315052,
+    "('Low', 'ICICIBANK.BO')":1231.4982857171,
+    "('Open', 'ICICIBANK.BO')":1244.6468371158,
+    "('Volume', 'ICICIBANK.BO')":115974
+  },
+  {
+    "('Date', '')":"2024-11-21",
+    "('Close', 'ICICIBANK.BO')":1240.5286865234,
+    "('High', 'ICICIBANK.BO')":1246.929375303,
+    "('Low', 'ICICIBANK.BO')":1223.5596355135,
+    "('Open', 'ICICIBANK.BO')":1239.0898367851,
+    "('Volume', 'ICICIBANK.BO')":97346
+  },
+  {
+    "('Date', '')":"2024-11-22",
+    "('Close', 'ICICIBANK.BO')":1268.4134521484,
+    "('High', 'ICICIBANK.BO')":1271.1920624879,
+    "('Low', 'ICICIBANK.BO')":1245.8873024618,
+    "('Open', 'ICICIBANK.BO')":1246.0361782185,
+    "('Volume', 'ICICIBANK.BO')":496252
+  },
+  {
+    "('Date', '')":"2024-11-25",
+    "('Close', 'ICICIBANK.BO')":1291.53515625,
+    "('High', 'ICICIBANK.BO')":1300.9624201642,
+    "('Low', 'ICICIBANK.BO')":1280.3216254556,
+    "('Open', 'ICICIBANK.BO')":1283.1002359057,
+    "('Volume', 'ICICIBANK.BO')":740106
+  },
+  {
+    "('Date', '')":"2024-11-26",
+    "('Close', 'ICICIBANK.BO')":1295.0579833984,
+    "('High', 'ICICIBANK.BO')":1303.9394096139,
+    "('Low', 'ICICIBANK.BO')":1292.4777932897,
+    "('Open', 'ICICIBANK.BO')":1295.0579833984,
+    "('Volume', 'ICICIBANK.BO')":266405
+  },
+  {
+    "('Date', '')":"2024-11-27",
+    "('Close', 'ICICIBANK.BO')":1291.8824462891,
+    "('High', 'ICICIBANK.BO')":1300.664662615,
+    "('Low', 'ICICIBANK.BO')":1287.6154416396,
+    "('Open', 'ICICIBANK.BO')":1289.9969692878,
+    "('Volume', 'ICICIBANK.BO')":288892
+  },
+  {
+    "('Date', '')":"2024-11-28",
+    "('Close', 'ICICIBANK.BO')":1276.6003417969,
+    "('High', 'ICICIBANK.BO')":1300.4662531961,
+    "('Low', 'ICICIBANK.BO')":1272.7302987684,
+    "('Open', 'ICICIBANK.BO')":1289.0543020998,
+    "('Volume', 'ICICIBANK.BO')":345309
+  },
+  {
+    "('Date', '')":"2024-11-29",
+    "('Close', 'ICICIBANK.BO')":1290.6916503906,
+    "('High', 'ICICIBANK.BO')":1293.3709294961,
+    "('Low', 'ICICIBANK.BO')":1274.0698960845,
+    "('Open', 'ICICIBANK.BO')":1274.0698960845,
+    "('Volume', 'ICICIBANK.BO')":250860
+  },
+  {
+    "('Date', '')":"2024-12-02",
+    "('Close', 'ICICIBANK.BO')":1293.9167480469,
+    "('High', 'ICICIBANK.BO')":1299.8708092041,
+    "('Low', 'ICICIBANK.BO')":1279.1804709099,
+    "('Open', 'ICICIBANK.BO')":1290.6916315867,
+    "('Volume', 'ICICIBANK.BO')":259537
+  },
+  {
+    "('Date', '')":"2024-12-03",
+    "('Close', 'ICICIBANK.BO')":1297.3900146484,
+    "('High', 'ICICIBANK.BO')":1302.2525223948,
+    "('Low', 'ICICIBANK.BO')":1287.5657890253,
+    "('Open', 'ICICIBANK.BO')":1297.9357309335,
+    "('Volume', 'ICICIBANK.BO')":173968
+  },
+  {
+    "('Date', '')":"2024-12-04",
+    "('Close', 'ICICIBANK.BO')":1305.1798095703,
+    "('High', 'ICICIBANK.BO')":1309.6950210229,
+    "('Low', 'ICICIBANK.BO')":1292.0312579818,
+    "('Open', 'ICICIBANK.BO')":1296.6952240533,
+    "('Volume', 'ICICIBANK.BO')":279720
+  },
+  {
+    "('Date', '')":"2024-12-05",
+    "('Close', 'ICICIBANK.BO')":1323.587890625,
+    "('High', 'ICICIBANK.BO')":1332.4693170451,
+    "('Low', 'ICICIBANK.BO')":1298.6799703258,
+    "('Open', 'ICICIBANK.BO')":1305.1798691071,
+    "('Volume', 'ICICIBANK.BO')":114474
+  },
+  {
+    "('Date', '')":"2024-12-06",
+    "('Close', 'ICICIBANK.BO')":1318.3780517578,
+    "('High', 'ICICIBANK.BO')":1336.6867415226,
+    "('Low', 'ICICIBANK.BO')":1316.8398708244,
+    "('Open', 'ICICIBANK.BO')":1328.946413496,
+    "('Volume', 'ICICIBANK.BO')":326376
+  },
+  {
+    "('Date', '')":"2024-12-09",
+    "('Close', 'ICICIBANK.BO')":1312.6224365234,
+    "('High', 'ICICIBANK.BO')":1318.6757079779,
+    "('Low', 'ICICIBANK.BO')":1310.0919120056,
+    "('Open', 'ICICIBANK.BO')":1314.4087033756,
+    "('Volume', 'ICICIBANK.BO')":212916
+  },
+  {
+    "('Date', '')":"2024-12-10",
+    "('Close', 'ICICIBANK.BO')":1320.1641845703,
+    "('High', 'ICICIBANK.BO')":1321.8015756141,
+    "('Low', 'ICICIBANK.BO')":1305.4775730782,
+    "('Open', 'ICICIBANK.BO')":1311.8781403617,
+    "('Volume', 'ICICIBANK.BO')":337443
+  },
+  {
+    "('Date', '')":"2024-12-11",
+    "('Close', 'ICICIBANK.BO')":1318.1300048828,
+    "('High', 'ICICIBANK.BO')":1320.5115325285,
+    "('Low', 'ICICIBANK.BO')":1306.3210922408,
+    "('Open', 'ICICIBANK.BO')":1315.7979005982,
+    "('Volume', 'ICICIBANK.BO')":203821
+  },
+  {
+    "('Date', '')":"2024-12-12",
+    "('Close', 'ICICIBANK.BO')":1318.7749023438,
+    "('High', 'ICICIBANK.BO')":1328.4007073874,
+    "('Low', 'ICICIBANK.BO')":1314.458232161,
+    "('Open', 'ICICIBANK.BO')":1315.7978717163,
+    "('Volume', 'ICICIBANK.BO')":123179
+  },
+  {
+    "('Date', '')":"2024-12-13",
+    "('Close', 'ICICIBANK.BO')":1334.8012695312,
+    "('High', 'ICICIBANK.BO')":1336.6867464817,
+    "('Low', 'ICICIBANK.BO')":1303.4929035701,
+    "('Open', 'ICICIBANK.BO')":1318.7748971559,
+    "('Volume', 'ICICIBANK.BO')":253101
+  },
+  {
+    "('Date', '')":"2024-12-16",
+    "('Close', 'ICICIBANK.BO')":1335.2479248047,
+    "('High', 'ICICIBANK.BO')":1339.8622254473,
+    "('Low', 'ICICIBANK.BO')":1329.7403695957,
+    "('Open', 'ICICIBANK.BO')":1333.7097438333,
+    "('Volume', 'ICICIBANK.BO')":122873
+  },
+  {
+    "('Date', '')":"2024-12-17",
+    "('Close', 'ICICIBANK.BO')":1322.8931884766,
+    "('High', 'ICICIBANK.BO')":1337.6294662588,
+    "('Low', 'ICICIBANK.BO')":1316.3934107768,
+    "('Open', 'ICICIBANK.BO')":1335.396693227,
+    "('Volume', 'ICICIBANK.BO')":87216
+  },
+  {
+    "('Date', '')":"2024-12-18",
+    "('Close', 'ICICIBANK.BO')":1303.5424804688,
+    "('High', 'ICICIBANK.BO')":1324.0840649096,
+    "('Low', 'ICICIBANK.BO')":1297.83650498,
+    "('Open', 'ICICIBANK.BO')":1317.8322520068,
+    "('Volume', 'ICICIBANK.BO')":62026
+  },
+  {
+    "('Date', '')":"2024-12-19",
+    "('Close', 'ICICIBANK.BO')":1277.3942871094,
+    "('High', 'ICICIBANK.BO')":1292.3786511016,
+    "('Low', 'ICICIBANK.BO')":1275.0623038984,
+    "('Open', 'ICICIBANK.BO')":1276.7989051821,
+    "('Volume', 'ICICIBANK.BO')":76264
+  },
+  {
+    "('Date', '')":"2024-12-20",
+    "('Close', 'ICICIBANK.BO')":1275.8560791016,
+    "('High', 'ICICIBANK.BO')":1288.0619534631,
+    "('Low', 'ICICIBANK.BO')":1262.8068580686,
+    "('Open', 'ICICIBANK.BO')":1270.5470652308,
+    "('Volume', 'ICICIBANK.BO')":266923
+  },
+  {
+    "('Date', '')":"2024-12-23",
+    "('Close', 'ICICIBANK.BO')":1286.4742431641,
+    "('High', 'ICICIBANK.BO')":1297.3403569262,
+    "('Low', 'ICICIBANK.BO')":1277.1461892717,
+    "('Open', 'ICICIBANK.BO')":1285.084937923,
+    "('Volume', 'ICICIBANK.BO')":418423
+  },
+  {
+    "('Date', '')":"2024-12-24",
+    "('Close', 'ICICIBANK.BO')":1287.7145996094,
+    "('High', 'ICICIBANK.BO')":1291.4358878286,
+    "('Low', 'ICICIBANK.BO')":1280.2720231709,
+    "('Open', 'ICICIBANK.BO')":1288.9550290158,
+    "('Volume', 'ICICIBANK.BO')":205370
+  },
+  {
+    "('Date', '')":"2024-12-26",
+    "('Close', 'ICICIBANK.BO')":1288.2603759766,
+    "('High', 'ICICIBANK.BO')":1302.4509375023,
+    "('Low', 'ICICIBANK.BO')":1279.3292838337,
+    "('Open', 'ICICIBANK.BO')":1290.0963084923,
+    "('Volume', 'ICICIBANK.BO')":272298
+  },
+  {
+    "('Date', '')":"2024-12-27",
+    "('Close', 'ICICIBANK.BO')":1297.1418457031,
+    "('High', 'ICICIBANK.BO')":1305.4775554296,
+    "('Low', 'ICICIBANK.BO')":1288.0618783428,
+    "('Open', 'ICICIBANK.BO')":1288.0618783428,
+    "('Volume', 'ICICIBANK.BO')":261601
+  },
+  {
+    "('Date', '')":"2024-12-30",
+    "('Close', 'ICICIBANK.BO')":1283.9932861328,
+    "('High', 'ICICIBANK.BO')":1316.7406218179,
+    "('Low', 'ICICIBANK.BO')":1279.6766161106,
+    "('Open', 'ICICIBANK.BO')":1290.0962229194,
+    "('Volume', 'ICICIBANK.BO')":209890
+  },
+  {
+    "('Date', '')":"2024-12-31",
+    "('Close', 'ICICIBANK.BO')":1272.1844482422,
+    "('High', 'ICICIBANK.BO')":1282.1078838759,
+    "('Low', 'ICICIBANK.BO')":1270.5967227679,
+    "('Open', 'ICICIBANK.BO')":1278.08884399,
+    "('Volume', 'ICICIBANK.BO')":44526
+  },
+  {
+    "('Date', '')":"2025-01-01",
+    "('Close', 'ICICIBANK.BO')":1274.6156005859,
+    "('High', 'ICICIBANK.BO')":1283.1001862346,
+    "('Low', 'ICICIBANK.BO')":1257.5473402983,
+    "('Open', 'ICICIBANK.BO')":1270.5470163339,
+    "('Volume', 'ICICIBANK.BO')":91301
+  },
+  {
+    "('Date', '')":"2025-01-02",
+    "('Close', 'ICICIBANK.BO')":1281.0163574219,
+    "('High', 'ICICIBANK.BO')":1283.1002547221,
+    "('Low', 'ICICIBANK.BO')":1269.2074445395,
+    "('Open', 'ICICIBANK.BO')":1275.1615060464,
+    "('Volume', 'ICICIBANK.BO')":133640
+  },
+  {
+    "('Date', '')":"2025-01-03",
+    "('Close', 'ICICIBANK.BO')":1255.8107910156,
+    "('High', 'ICICIBANK.BO')":1280.6690459614,
+    "('Low', 'ICICIBANK.BO')":1252.7840946652,
+    "('Open', 'ICICIBANK.BO')":1280.6690459614,
+    "('Volume', 'ICICIBANK.BO')":363737
+  },
+  {
+    "('Date', '')":"2025-01-06",
+    "('Close', 'ICICIBANK.BO')":1254.6695556641,
+    "('High', 'ICICIBANK.BO')":1267.3716016844,
+    "('Low', 'ICICIBANK.BO')":1247.4255203586,
+    "('Open', 'ICICIBANK.BO')":1256.3566123972,
+    "('Volume', 'ICICIBANK.BO')":305307
+  },
+  {
+    "('Date', '')":"2025-01-07",
+    "('Close', 'ICICIBANK.BO')":1270.6959228516,
+    "('High', 'ICICIBANK.BO')":1278.6843369278,
+    "('Low', 'ICICIBANK.BO')":1256.5053615533,
+    "('Open', 'ICICIBANK.BO')":1256.5053615533,
+    "('Volume', 'ICICIBANK.BO')":189834
+  },
+  {
+    "('Date', '')":"2025-01-08",
+    "('Close', 'ICICIBANK.BO')":1254.322265625,
+    "('High', 'ICICIBANK.BO')":1275.3599007398,
+    "('Low', 'ICICIBANK.BO')":1243.208066156,
+    "('Open', 'ICICIBANK.BO')":1270.6959344405,
+    "('Volume', 'ICICIBANK.BO')":159626
+  },
+  {
+    "('Date', '')":"2025-01-09",
+    "('Close', 'ICICIBANK.BO')":1252.7840576172,
+    "('High', 'ICICIBANK.BO')":1254.5703244492,
+    "('Low', 'ICICIBANK.BO')":1238.7424933899,
+    "('Open', 'ICICIBANK.BO')":1251.1963321753,
+    "('Volume', 'ICICIBANK.BO')":273071
+  },
+  {
+    "('Date', '')":"2025-01-10",
+    "('Close', 'ICICIBANK.BO')":1239.0401611328,
+    "('High', 'ICICIBANK.BO')":1254.7192380419,
+    "('Low', 'ICICIBANK.BO')":1233.4830613506,
+    "('Open', 'ICICIBANK.BO')":1249.3605585201,
+    "('Volume', 'ICICIBANK.BO')":271703
+  },
+  {
+    "('Date', '')":"2025-01-13",
+    "('Close', 'ICICIBANK.BO')":1220.3841552734,
+    "('High', 'ICICIBANK.BO')":1234.3265095727,
+    "('Low', 'ICICIBANK.BO')":1215.7200678725,
+    "('Open', 'ICICIBANK.BO')":1232.1434022008,
+    "('Volume', 'ICICIBANK.BO')":109002
+  },
+  {
+    "('Date', '')":"2025-01-14",
+    "('Close', 'ICICIBANK.BO')":1229.76171875,
+    "('High', 'ICICIBANK.BO')":1234.9218566484,
+    "('Low', 'ICICIBANK.BO')":1218.5978540448,
+    "('Open', 'ICICIBANK.BO')":1220.8306269858,
+    "('Volume', 'ICICIBANK.BO')":1183486
+  },
+  {
+    "('Date', '')":"2025-01-15",
+    "('Close', 'ICICIBANK.BO')":1228.9677734375,
+    "('High', 'ICICIBANK.BO')":1234.574538505,
+    "('Low', 'ICICIBANK.BO')":1220.5825192191,
+    "('Open', 'ICICIBANK.BO')":1228.3723915577,
+    "('Volume', 'ICICIBANK.BO')":46624
+  },
+  {
+    "('Date', '')":"2025-01-16",
+    "('Close', 'ICICIBANK.BO')":1240.2309570312,
+    "('High', 'ICICIBANK.BO')":1246.0361422898,
+    "('Low', 'ICICIBANK.BO')":1230.6548180115,
+    "('Open', 'ICICIBANK.BO')":1238.3950246443,
+    "('Volume', 'ICICIBANK.BO')":116895
+  },
+  {
+    "('Date', '')":"2025-01-17",
+    "('Close', 'ICICIBANK.BO')":1216.5139160156,
+    "('High', 'ICICIBANK.BO')":1237.0553779293,
+    "('Low', 'ICICIBANK.BO')":1209.3194256694,
+    "('Open', 'ICICIBANK.BO')":1235.4179869337,
+    "('Volume', 'ICICIBANK.BO')":88807
+  },
+  {
+    "('Date', '')":"2025-01-20",
+    "('Close', 'ICICIBANK.BO')":1223.4107666016,
+    "('High', 'ICICIBANK.BO')":1231.9945628534,
+    "('Low', 'ICICIBANK.BO')":1206.1439639663,
+    "('Open', 'ICICIBANK.BO')":1216.0178553351,
+    "('Volume', 'ICICIBANK.BO')":92038
+  },
+  {
+    "('Date', '')":"2025-01-21",
+    "('Close', 'ICICIBANK.BO')":1186.9421386719,
+    "('High', 'ICICIBANK.BO')":1229.4640370935,
+    "('Low', 'ICICIBANK.BO')":1183.1713057275,
+    "('Open', 'ICICIBANK.BO')":1229.4640370935,
+    "('Volume', 'ICICIBANK.BO')":938226
+  },
+  {
+    "('Date', '')":"2025-01-22",
+    "('Close', 'ICICIBANK.BO')":1191.1099853516,
+    "('High', 'ICICIBANK.BO')":1198.1556001746,
+    "('Low', 'ICICIBANK.BO')":1182.8238199826,
+    "('Open', 'ICICIBANK.BO')":1192.7969208952,
+    "('Volume', 'ICICIBANK.BO')":66252
+  },
+  {
+    "('Date', '')":"2025-01-23",
+    "('Close', 'ICICIBANK.BO')":1193.2434082031,
+    "('High', 'ICICIBANK.BO')":1198.8006287819,
+    "('Low', 'ICICIBANK.BO')":1177.9117493886,
+    "('Open', 'ICICIBANK.BO')":1189.6214512909,
+    "('Volume', 'ICICIBANK.BO')":43292
+  },
+  {
+    "('Date', '')":"2025-01-24",
+    "('Close', 'ICICIBANK.BO')":1200.1898193359,
+    "('High', 'ICICIBANK.BO')":1208.4759846194,
+    "('Low', 'ICICIBANK.BO')":1192.7969085814,
+    "('Open', 'ICICIBANK.BO')":1194.1862137337,
+    "('Volume', 'ICICIBANK.BO')":142682
+  },
+  {
+    "('Date', '')":"2025-01-27",
+    "('Close', 'ICICIBANK.BO')":1218.5979003906,
+    "('High', 'ICICIBANK.BO')":1224.9489234472,
+    "('Low', 'ICICIBANK.BO')":1183.518579521,
+    "('Open', 'ICICIBANK.BO')":1184.8582191095,
+    "('Volume', 'ICICIBANK.BO')":426025
+  },
+  {
+    "('Date', '')":"2025-01-28",
+    "('Close', 'ICICIBANK.BO')":1237.4027099609,
+    "('High', 'ICICIBANK.BO')":1254.22300539,
+    "('Low', 'ICICIBANK.BO')":1226.0900906852,
+    "('Open', 'ICICIBANK.BO')":1230.7540567982,
+    "('Volume', 'ICICIBANK.BO')":807411
+  },
+  {
+    "('Date', '')":"2025-01-29",
+    "('Close', 'ICICIBANK.BO')":1241.7690429688,
+    "('High', 'ICICIBANK.BO')":1246.1850443264,
+    "('Low', 'ICICIBANK.BO')":1233.8799604171,
+    "('Open', 'ICICIBANK.BO')":1242.4140904857,
+    "('Volume', 'ICICIBANK.BO')":269329
+  },
+  {
+    "('Date', '')":"2025-01-30",
+    "('Close', 'ICICIBANK.BO')":1244.4484863281,
+    "('High', 'ICICIBANK.BO')":1249.3605384819,
+    "('Low', 'ICICIBANK.BO')":1230.5060108956,
+    "('Open', 'ICICIBANK.BO')":1240.4294464673,
+    "('Volume', 'ICICIBANK.BO')":133369
+  },
+  {
+    "('Date', '')":"2025-01-31",
+    "('Close', 'ICICIBANK.BO')":1242.9599609375,
+    "('High', 'ICICIBANK.BO')":1246.5323734873,
+    "('Low', 'ICICIBANK.BO')":1230.0098291669,
+    "('Open', 'ICICIBANK.BO')":1244.4484762612,
+    "('Volume', 'ICICIBANK.BO')":114755
+  },
+  {
+    "('Date', '')":"2025-02-01",
+    "('Close', 'ICICIBANK.BO')":1245.5400390625,
+    "('High', 'ICICIBANK.BO')":1252.2879025647,
+    "('Low', 'ICICIBANK.BO')":1224.3038627281,
+    "('Open', 'ICICIBANK.BO')":1241.4714547083,
+    "('Volume', 'ICICIBANK.BO')":80380
+  },
+  {
+    "('Date', '')":"2025-02-03",
+    "('Close', 'ICICIBANK.BO')":1243.2080078125,
+    "('High', 'ICICIBANK.BO')":1250.5512529372,
+    "('Low', 'ICICIBANK.BO')":1228.4220651671,
+    "('Open', 'ICICIBANK.BO')":1239.7348054995,
+    "('Volume', 'ICICIBANK.BO')":54232
+  },
+  {
+    "('Date', '')":"2025-02-04",
+    "('Close', 'ICICIBANK.BO')":1258.7381591797,
+    "('High', 'ICICIBANK.BO')":1271.1424538665,
+    "('Low', 'ICICIBANK.BO')":1250.5017801891,
+    "('Open', 'ICICIBANK.BO')":1257.2496438173,
+    "('Volume', 'ICICIBANK.BO')":445023
+  },
+  {
+    "('Date', '')":"2025-02-05",
+    "('Close', 'ICICIBANK.BO')":1258.1923828125,
+    "('High', 'ICICIBANK.BO')":1267.7685220805,
+    "('Low', 'ICICIBANK.BO')":1255.4634381117,
+    "('Open', 'ICICIBANK.BO')":1261.2686235208,
+    "('Volume', 'ICICIBANK.BO')":222210
+  },
+  {
+    "('Date', '')":"2025-02-06",
+    "('Close', 'ICICIBANK.BO')":1262.9060058594,
+    "('High', 'ICICIBANK.BO')":1267.3218860723,
+    "('Low', 'ICICIBANK.BO')":1253.6276181679,
+    "('Open', 'ICICIBANK.BO')":1265.2379889059,
+    "('Volume', 'ICICIBANK.BO')":252796
+  },
+  {
+    "('Date', '')":"2025-02-07",
+    "('Close', 'ICICIBANK.BO')":1247.2766113281,
+    "('High', 'ICICIBANK.BO')":1263.749489755,
+    "('Low', 'ICICIBANK.BO')":1240.0821207111,
+    "('Open', 'ICICIBANK.BO')":1262.8563563479,
+    "('Volume', 'ICICIBANK.BO')":98895
+  },
+  {
+    "('Date', '')":"2025-02-10",
+    "('Close', 'ICICIBANK.BO')":1253.2307128906,
+    "('High', 'ICICIBANK.BO')":1255.2154000213,
+    "('Low', 'ICICIBANK.BO')":1239.5859888672,
+    "('Open', 'ICICIBANK.BO')":1250.3032266915,
+    "('Volume', 'ICICIBANK.BO')":264760
+  },
+  {
+    "('Date', '')":"2025-02-11",
+    "('Close', 'ICICIBANK.BO')":1243.8034667969,
+    "('High', 'ICICIBANK.BO')":1253.2307308023,
+    "('Low', 'ICICIBANK.BO')":1238.4447872403,
+    "('Open', 'ICICIBANK.BO')":1253.2307308023,
+    "('Volume', 'ICICIBANK.BO')":349056
+  },
+  {
+    "('Date', '')":"2025-02-12",
+    "('Close', 'ICICIBANK.BO')":1242.3645019531,
+    "('High', 'ICICIBANK.BO')":1257.6962830125,
+    "('Low', 'ICICIBANK.BO')":1235.0212563376,
+    "('Open', 'ICICIBANK.BO')":1245.4408639731,
+    "('Volume', 'ICICIBANK.BO')":266794
+  },
+  {
+    "('Date', '')":"2025-02-13",
+    "('Close', 'ICICIBANK.BO')":1238.9409179688,
+    "('High', 'ICICIBANK.BO')":1256.1085097797,
+    "('Low', 'ICICIBANK.BO')":1236.5097247338,
+    "('Open', 'ICICIBANK.BO')":1242.3644547504,
+    "('Volume', 'ICICIBANK.BO')":78392
+  },
+  {
+    "('Date', '')":"2025-02-14",
+    "('Close', 'ICICIBANK.BO')":1248.8146972656,
+    "('High', 'ICICIBANK.BO')":1253.3299088913,
+    "('Low', 'ICICIBANK.BO')":1235.1204288998,
+    "('Open', 'ICICIBANK.BO')":1242.4141297956,
+    "('Volume', 'ICICIBANK.BO')":311278
+  },
+  {
+    "('Date', '')":"2025-02-17",
+    "('Close', 'ICICIBANK.BO')":1241.7194824219,
+    "('High', 'ICICIBANK.BO')":1248.8146416093,
+    "('Low', 'ICICIBANK.BO')":1224.1549296148,
+    "('Open', 'ICICIBANK.BO')":1240.6774732822,
+    "('Volume', 'ICICIBANK.BO')":101564
+  },
+  {
+    "('Date', '')":"2025-02-18",
+    "('Close', 'ICICIBANK.BO')":1233.2845458984,
+    "('High', 'ICICIBANK.BO')":1245.3910881014,
+    "('Low', 'ICICIBANK.BO')":1227.6777809161,
+    "('Open', 'ICICIBANK.BO')":1241.1239626122,
+    "('Volume', 'ICICIBANK.BO')":269535
+  },
+  {
+    "('Date', '')":"2025-02-19",
+    "('Close', 'ICICIBANK.BO')":1251.7917480469,
+    "('High', 'ICICIBANK.BO')":1253.5283492945,
+    "('Low', 'ICICIBANK.BO')":1220.7810114813,
+    "('Open', 'ICICIBANK.BO')":1225.5939747048,
+    "('Volume', 'ICICIBANK.BO')":97276
+  },
+  {
+    "('Date', '')":"2025-02-20",
+    "('Close', 'ICICIBANK.BO')":1240.6774902344,
+    "('High', 'ICICIBANK.BO')":1253.3298701588,
+    "('Low', 'ICICIBANK.BO')":1236.9065363909,
+    "('Open', 'ICICIBANK.BO')":1248.3681525414,
+    "('Volume', 'ICICIBANK.BO')":113534
+  },
+  {
+    "('Date', '')":"2025-02-21",
+    "('Close', 'ICICIBANK.BO')":1223.1625976562,
+    "('High', 'ICICIBANK.BO')":1233.9791662437,
+    "('Low', 'ICICIBANK.BO')":1215.5711455065,
+    "('Open', 'ICICIBANK.BO')":1233.4333288538,
+    "('Volume', 'ICICIBANK.BO')":664267
+  },
+  {
+    "('Date', '')":"2025-02-24",
+    "('Close', 'ICICIBANK.BO')":1208.8728027344,
+    "('High', 'ICICIBANK.BO')":1222.3687712372,
+    "('Low', 'ICICIBANK.BO')":1201.0333859962,
+    "('Open', 'ICICIBANK.BO')":1222.3687712372,
+    "('Volume', 'ICICIBANK.BO')":129933
+  },
+  {
+    "('Date', '')":"2025-02-25",
+    "('Close', 'ICICIBANK.BO')":1214.6285400391,
+    "('High', 'ICICIBANK.BO')":1222.5176230336,
+    "('Low', 'ICICIBANK.BO')":1212.0484709622,
+    "('Open', 'ICICIBANK.BO')":1217.6055707745,
+    "('Volume', 'ICICIBANK.BO')":674910
+  },
+  {
+    "('Date', '')":"2025-02-27",
+    "('Close', 'ICICIBANK.BO')":1212.0980224609,
+    "('High', 'ICICIBANK.BO')":1224.8497344264,
+    "('Low', 'ICICIBANK.BO')":1209.2698674731,
+    "('Open', 'ICICIBANK.BO')":1214.6285470549,
+    "('Volume', 'ICICIBANK.BO')":239856
+  },
+  {
+    "('Date', '')":"2025-02-28",
+    "('Close', 'ICICIBANK.BO')":1193.8885498047,
+    "('High', 'ICICIBANK.BO')":1215.4720229035,
+    "('Low', 'ICICIBANK.BO')":1191.0107291644,
+    "('Open', 'ICICIBANK.BO')":1207.5829398113,
+    "('Volume', 'ICICIBANK.BO')":198786
+  },
+  {
+    "('Date', '')":"2025-03-03",
+    "('Close', 'ICICIBANK.BO')":1196.8654785156,
+    "('High', 'ICICIBANK.BO')":1209.8156097249,
+    "('Low', 'ICICIBANK.BO')":1194.8807915034,
+    "('Open', 'ICICIBANK.BO')":1197.3616502687,
+    "('Volume', 'ICICIBANK.BO')":1033074
+  },
+  {
+    "('Date', '')":"2025-03-04",
+    "('Close', 'ICICIBANK.BO')":1201.1822509766,
+    "('High', 'ICICIBANK.BO')":1206.6898063595,
+    "('Low', 'ICICIBANK.BO')":1196.8655805839,
+    "('Open', 'ICICIBANK.BO')":1196.8655805839,
+    "('Volume', 'ICICIBANK.BO')":157384
+  },
+  {
+    "('Date', '')":"2025-03-05",
+    "('Close', 'ICICIBANK.BO')":1206.2928466797,
+    "('High', 'ICICIBANK.BO')":1216.8116645319,
+    "('Low', 'ICICIBANK.BO')":1202.224262178,
+    "('Open', 'ICICIBANK.BO')":1210.1133452832,
+    "('Volume', 'ICICIBANK.BO')":212110
+  },
+  {
+    "('Date', '')":"2025-03-06",
+    "('Close', 'ICICIBANK.BO')":1209.0714111328,
+    "('High', 'ICICIBANK.BO')":1215.7200644943,
+    "('Low', 'ICICIBANK.BO')":1199.7930231246,
+    "('Open', 'ICICIBANK.BO')":1215.7200644943,
+    "('Volume', 'ICICIBANK.BO')":53981
+  },
+  {
+    "('Date', '')":"2025-03-07",
+    "('Close', 'ICICIBANK.BO')":1205.0028076172,
+    "('High', 'ICICIBANK.BO')":1208.2279241183,
+    "('Low', 'ICICIBANK.BO')":1197.2128139291,
+    "('Open', 'ICICIBANK.BO')":1204.7050561013,
+    "('Volume', 'ICICIBANK.BO')":168190
+  },
+  {
+    "('Date', '')":"2025-03-10",
+    "('Close', 'ICICIBANK.BO')":1205.2012939453,
+    "('High', 'ICICIBANK.BO')":1216.1170734705,
+    "('Low', 'ICICIBANK.BO')":1200.5373275115,
+    "('Open', 'ICICIBANK.BO')":1202.7204349623,
+    "('Volume', 'ICICIBANK.BO')":309353
+  },
+  {
+    "('Date', '')":"2025-03-11",
+    "('Close', 'ICICIBANK.BO')":1235.2692871094,
+    "('High', 'ICICIBANK.BO')":1238.0477763401,
+    "('Low', 'ICICIBANK.BO')":1205.5485254034,
+    "('Open', 'ICICIBANK.BO')":1205.5485254034,
+    "('Volume', 'ICICIBANK.BO')":158616
+  },
+  {
+    "('Date', '')":"2025-03-12",
+    "('Close', 'ICICIBANK.BO')":1233.0860595703,
+    "('High', 'ICICIBANK.BO')":1241.4714351715,
+    "('Low', 'ICICIBANK.BO')":1225.9412345308,
+    "('Open', 'ICICIBANK.BO')":1235.2692880415,
+    "('Volume', 'ICICIBANK.BO')":254096
+  },
+  {
+    "('Date', '')":"2025-03-13",
+    "('Close', 'ICICIBANK.BO')":1240.6774902344,
+    "('High', 'ICICIBANK.BO')":1246.3834654944,
+    "('Low', 'ICICIBANK.BO')":1235.3188109804,
+    "('Open', 'ICICIBANK.BO')":1235.3684766109,
+    "('Volume', 'ICICIBANK.BO')":1326107
+  },
+  {
+    "('Date', '')":"2025-03-17",
+    "('Close', 'ICICIBANK.BO')":1258.6389160156,
+    "('High', 'ICICIBANK.BO')":1264.245681294,
+    "('Low', 'ICICIBANK.BO')":1246.7307934289,
+    "('Open', 'ICICIBANK.BO')":1247.3758409628,
+    "('Volume', 'ICICIBANK.BO')":211396
+  },
+  {
+    "('Date', '')":"2025-03-18",
+    "('Close', 'ICICIBANK.BO')":1299.5731201172,
+    "('High', 'ICICIBANK.BO')":1303.5424944127,
+    "('Low', 'ICICIBANK.BO')":1271.2913282618,
+    "('Open', 'ICICIBANK.BO')":1271.2913282618,
+    "('Volume', 'ICICIBANK.BO')":281272
+  },
+  {
+    "('Date', '')":"2025-03-19",
+    "('Close', 'ICICIBANK.BO')":1302.6492919922,
+    "('High', 'ICICIBANK.BO')":1306.6186660775,
+    "('Low', 'ICICIBANK.BO')":1292.2296850182,
+    "('Open', 'ICICIBANK.BO')":1299.5235068086,
+    "('Volume', 'ICICIBANK.BO')":171765
+  },
+  {
+    "('Date', '')":"2025-03-20",
+    "('Close', 'ICICIBANK.BO')":1311.2331542969,
+    "('High', 'ICICIBANK.BO')":1313.8628889891,
+    "('Low', 'ICICIBANK.BO')":1301.3097185794,
+    "('Open', 'ICICIBANK.BO')":1311.8285362128,
+    "('Volume', 'ICICIBANK.BO')":44711
+  },
+  {
+    "('Date', '')":"2025-03-21",
+    "('Close', 'ICICIBANK.BO')":1331.1791992188,
+    "('High', 'ICICIBANK.BO')":1337.5302221302,
+    "('Low', 'ICICIBANK.BO')":1302.0043959211,
+    "('Open', 'ICICIBANK.BO')":1308.5538390872,
+    "('Volume', 'ICICIBANK.BO')":331591
+  },
+  {
+    "('Date', '')":"2025-03-24",
+    "('Close', 'ICICIBANK.BO')":1347.8009033203,
+    "('High', 'ICICIBANK.BO')":1361.9914639307,
+    "('Low', 'ICICIBANK.BO')":1333.2135022155,
+    "('Open', 'ICICIBANK.BO')":1344.6254525508,
+    "('Volume', 'ICICIBANK.BO')":302258
+  },
+  {
+    "('Date', '')":"2025-03-25",
+    "('Close', 'ICICIBANK.BO')":1334.1066894531,
+    "('High', 'ICICIBANK.BO')":1353.1100926144,
+    "('Low', 'ICICIBANK.BO')":1319.8169181423,
+    "('Open', 'ICICIBANK.BO')":1348.197919373,
+    "('Volume', 'ICICIBANK.BO')":548056
+  },
+  {
+    "('Date', '')":"2025-03-26",
+    "('Close', 'ICICIBANK.BO')":1325.1755371094,
+    "('High', 'ICICIBANK.BO')":1347.3543901572,
+    "('Low', 'ICICIBANK.BO')":1321.0076217186,
+    "('Open', 'ICICIBANK.BO')":1332.7173234992,
+    "('Volume', 'ICICIBANK.BO')":175290
+  },
+  {
+    "('Date', '')":"2025-03-27",
+    "('Close', 'ICICIBANK.BO')":1326.5152587891,
+    "('High', 'ICICIBANK.BO')":1340.6561545719,
+    "('Low', 'ICICIBANK.BO')":1322.0000471199,
+    "('Open', 'ICICIBANK.BO')":1322.0000471199,
+    "('Volume', 'ICICIBANK.BO')":61933
+  },
+  {
+    "('Date', '')":"2025-03-28",
+    "('Close', 'ICICIBANK.BO')":1338.0760498047,
+    "('High', 'ICICIBANK.BO')":1347.4041032816,
+    "('Low', 'ICICIBANK.BO')":1316.7406637546,
+    "('Open', 'ICICIBANK.BO')":1326.7633092533,
+    "('Volume', 'ICICIBANK.BO')":244311
+  },
+  {
+    "('Date', '')":"2025-04-01",
+    "('Close', 'ICICIBANK.BO')":1307.5118408203,
+    "('High', 'ICICIBANK.BO')":1341.6484832606,
+    "('Low', 'ICICIBANK.BO')":1304.9317718104,
+    "('Open', 'ICICIBANK.BO')":1329.7403606281,
+    "('Volume', 'ICICIBANK.BO')":361544
+  },
+  {
+    "('Date', '')":"2025-04-02",
+    "('Close', 'ICICIBANK.BO')":1321.2557373047,
+    "('High', 'ICICIBANK.BO')":1327.7556358447,
+    "('Low', 'ICICIBANK.BO')":1313.6644062504,
+    "('Open', 'ICICIBANK.BO')":1314.8551700256,
+    "('Volume', 'ICICIBANK.BO')":405487
+  },
+  {
+    "('Date', '')":"2025-04-03",
+    "('Close', 'ICICIBANK.BO')":1318.8245849609,
+    "('High', 'ICICIBANK.BO')":1322.793959182,
+    "('Low', 'ICICIBANK.BO')":1296.5465205993,
+    "('Open', 'ICICIBANK.BO')":1296.5465205993,
+    "('Volume', 'ICICIBANK.BO')":253337
+  },
+  {
+    "('Date', '')":"2025-04-04",
+    "('Close', 'ICICIBANK.BO')":1324.7290039062,
+    "('High', 'ICICIBANK.BO')":1327.7557002572,
+    "('Low', 'ICICIBANK.BO')":1312.5232506436,
+    "('Open', 'ICICIBANK.BO')":1321.3551326677,
+    "('Volume', 'ICICIBANK.BO')":294383
+  },
+  {
+    "('Date', '')":"2025-04-07",
+    "('Close', 'ICICIBANK.BO')":1277.7911376953,
+    "('High', 'ICICIBANK.BO')":1314.6567231117,
+    "('Low', 'ICICIBANK.BO')":1256.0091250919,
+    "('Open', 'ICICIBANK.BO')":1293.9167196422,
+    "('Volume', 'ICICIBANK.BO')":980276
+  },
+  {
+    "('Date', '')":"2025-04-08",
+    "('Close', 'ICICIBANK.BO')":1289.3520507812,
+    "('High', 'ICICIBANK.BO')":1299.970078541,
+    "('Low', 'ICICIBANK.BO')":1277.6920138172,
+    "('Open', 'ICICIBANK.BO')":1285.1841350999,
+    "('Volume', 'ICICIBANK.BO')":307568
+  },
+  {
+    "('Date', '')":"2025-04-09",
+    "('Close', 'ICICIBANK.BO')":1290.5427246094,
+    "('High', 'ICICIBANK.BO')":1294.8593946168,
+    "('Low', 'ICICIBANK.BO')":1275.0621902022,
+    "('Open', 'ICICIBANK.BO')":1289.4015053547,
+    "('Volume', 'ICICIBANK.BO')":121212
+  },
+  {
+    "('Date', '')":"2025-04-11",
+    "('Close', 'ICICIBANK.BO')":1301.8059082031,
+    "('High', 'ICICIBANK.BO')":1314.805584944,
+    "('Low', 'ICICIBANK.BO')":1297.7869893639,
+    "('Open', 'ICICIBANK.BO')":1299.870886666,
+    "('Volume', 'ICICIBANK.BO')":158559
+  },
+  {
+    "('Date', '')":"2025-04-15",
+    "('Close', 'ICICIBANK.BO')":1339.068359375,
+    "('High', 'ICICIBANK.BO')":1343.4346950551,
+    "('Low', 'ICICIBANK.BO')":1326.1678937185,
+    "('Open', 'ICICIBANK.BO')":1341.698093909,
+    "('Volume', 'ICICIBANK.BO')":1083765
+  },
+  {
+    "('Date', '')":"2025-04-16",
+    "('Close', 'ICICIBANK.BO')":1346.3620605469,
+    "('High', 'ICICIBANK.BO')":1349.5871769624,
+    "('Low', 'ICICIBANK.BO')":1332.7173372504,
+    "('Open', 'ICICIBANK.BO')":1349.5871769624,
+    "('Volume', 'ICICIBANK.BO')":260656
+  },
+  {
+    "('Date', '')":"2025-04-17",
+    "('Close', 'ICICIBANK.BO')":1395.8801269531,
+    "('High', 'ICICIBANK.BO')":1397.8151484881,
+    "('Low', 'ICICIBANK.BO')":1350.5796181069,
+    "('Open', 'ICICIBANK.BO')":1351.8200475872,
+    "('Volume', 'ICICIBANK.BO')":593307
+  },
+  {
+    "('Date', '')":"2025-04-21",
+    "('Close', 'ICICIBANK.BO')":1398.6090087891,
+    "('High', 'ICICIBANK.BO')":1425.9976662519,
+    "('Low', 'ICICIBANK.BO')":1394.5404245043,
+    "('Open', 'ICICIBANK.BO')":1425.9976662519,
+    "('Volume', 'ICICIBANK.BO')":679064
+  },
+  {
+    "('Date', '')":"2025-04-22",
+    "('Close', 'ICICIBANK.BO')":1405.1584472656,
+    "('High', 'ICICIBANK.BO')":1407.6393061061,
+    "('Low', 'ICICIBANK.BO')":1387.9413111396,
+    "('Open', 'ICICIBANK.BO')":1403.8188077189,
+    "('Volume', 'ICICIBANK.BO')":351103
+  },
+  {
+    "('Date', '')":"2025-04-23",
+    "('Close', 'ICICIBANK.BO')":1413.0971679688,
+    "('High', 'ICICIBANK.BO')":1418.9520189452,
+    "('Low', 'ICICIBANK.BO')":1400.841749763,
+    "('Open', 'ICICIBANK.BO')":1418.9520189452,
+    "('Volume', 'ICICIBANK.BO')":275815
+  },
+  {
+    "('Date', '')":"2025-04-24",
+    "('Close', 'ICICIBANK.BO')":1391.5137939453,
+    "('High', 'ICICIBANK.BO')":1409.1278926028,
+    "('Low', 'ICICIBANK.BO')":1387.891715628,
+    "('Open', 'ICICIBANK.BO')":1408.234759148,
+    "('Volume', 'ICICIBANK.BO')":289511
+  },
+  {
+    "('Date', '')":"2025-04-25",
+    "('Close', 'ICICIBANK.BO')":1393.7961425781,
+    "('High', 'ICICIBANK.BO')":1404.6125900617,
+    "('Low', 'ICICIBANK.BO')":1377.7697704673,
+    "('Open', 'ICICIBANK.BO')":1399.2043663199,
+    "('Volume', 'ICICIBANK.BO')":254107
+  },
+  {
+    "('Date', '')":"2025-04-28",
+    "('Close', 'ICICIBANK.BO')":1417.4138183594,
+    "('High', 'ICICIBANK.BO')":1423.9137167586,
+    "('Low', 'ICICIBANK.BO')":1394.0442015439,
+    "('Open', 'ICICIBANK.BO')":1395.2349652933,
+    "('Volume', 'ICICIBANK.BO')":424025
+  },
+  {
+    "('Date', '')":"2025-04-29",
+    "('Close', 'ICICIBANK.BO')":1418.5053710938,
+    "('High', 'ICICIBANK.BO')":1427.1388322463,
+    "('Low', 'ICICIBANK.BO')":1411.7078423292,
+    "('Open', 'ICICIBANK.BO')":1414.1887010853,
+    "('Volume', 'ICICIBANK.BO')":380316
+  },
+  {
+    "('Date', '')":"2025-04-30",
+    "('Close', 'ICICIBANK.BO')":1411.6583251953,
+    "('High', 'ICICIBANK.BO')":1422.1274766674,
+    "('Low', 'ICICIBANK.BO')":1404.2652932775,
+    "('Open', 'ICICIBANK.BO')":1422.0779321728,
+    "('Volume', 'ICICIBANK.BO')":436468
+  },
+  {
+    "('Date', '')":"2025-05-02",
+    "('Close', 'ICICIBANK.BO')":1420.7878417969,
+    "('High', 'ICICIBANK.BO')":1435.1768229081,
+    "('Low', 'ICICIBANK.BO')":1414.6353603967,
+    "('Open', 'ICICIBANK.BO')":1415.4788281657,
+    "('Volume', 'ICICIBANK.BO')":537389
+  },
+  {
+    "('Date', '')":"2025-05-05",
+    "('Close', 'ICICIBANK.BO')":1417.8107910156,
+    "('High', 'ICICIBANK.BO')":1435.1271368243,
+    "('Low', 'ICICIBANK.BO')":1415.4788079924,
+    "('Open', 'ICICIBANK.BO')":1426.0968351034,
+    "('Volume', 'ICICIBANK.BO')":121482
+  },
+  {
+    "('Date', '')":"2025-05-06",
+    "('Close', 'ICICIBANK.BO')":1420.6887207031,
+    "('High', 'ICICIBANK.BO')":1422.2764462154,
+    "('Low', 'ICICIBANK.BO')":1409.7232756114,
+    "('Open', 'ICICIBANK.BO')":1416.074298796,
+    "('Volume', 'ICICIBANK.BO')":184372
+  },
+  {
+    "('Date', '')":"2025-05-07",
+    "('Close', 'ICICIBANK.BO')":1424.3602294922,
+    "('High', 'ICICIBANK.BO')":1430.9593380453,
+    "('Low', 'ICICIBANK.BO')":1409.8223728778,
+    "('Open', 'ICICIBANK.BO')":1411.1621335217,
+    "('Volume', 'ICICIBANK.BO')":205604
+  },
+  {
+    "('Date', '')":"2025-05-08",
+    "('Close', 'ICICIBANK.BO')":1422.9709472656,
+    "('High', 'ICICIBANK.BO')":1437.4095939888,
+    "('Low', 'ICICIBANK.BO')":1415.2802849574,
+    "('Open', 'ICICIBANK.BO')":1428.9746740379,
+    "('Volume', 'ICICIBANK.BO')":157481
+  },
+  {
+    "('Date', '')":"2025-05-09",
+    "('Close', 'ICICIBANK.BO')":1378.0673828125,
+    "('High', 'ICICIBANK.BO')":1409.67362049,
+    "('Low', 'ICICIBANK.BO')":1376.1820270535,
+    "('Open', 'ICICIBANK.BO')":1401.2882451556,
+    "('Volume', 'ICICIBANK.BO')":153783
+  },
+  {
+    "('Date', '')":"2025-05-12",
+    "('Close', 'ICICIBANK.BO')":1438.6003417969,
+    "('High', 'ICICIBANK.BO')":1441.4781622106,
+    "('Low', 'ICICIBANK.BO')":1392.3076138415,
+    "('Open', 'ICICIBANK.BO')":1408.0857787837,
+    "('Volume', 'ICICIBANK.BO')":118233
+  },
+  {
+    "('Date', '')":"2025-05-13",
+    "('Close', 'ICICIBANK.BO')":1420.1428222656,
+    "('High', 'ICICIBANK.BO')":1436.5164907494,
+    "('Low', 'ICICIBANK.BO')":1416.1239035919,
+    "('Open', 'ICICIBANK.BO')":1430.909725496,
+    "('Volume', 'ICICIBANK.BO')":510161
+  },
+  {
+    "('Date', '')":"2025-05-14",
+    "('Close', 'ICICIBANK.BO')":1414.0399169922,
+    "('High', 'ICICIBANK.BO')":1428.6769846018,
+    "('Low', 'ICICIBANK.BO')":1406.3492543498,
+    "('Open', 'ICICIBANK.BO')":1420.0436440253,
+    "('Volume', 'ICICIBANK.BO')":152549
+  },
+  {
+    "('Date', '')":"2025-05-15",
+    "('Close', 'ICICIBANK.BO')":1439.7415771484,
+    "('High', 'ICICIBANK.BO')":1444.8521705227,
+    "('Low', 'ICICIBANK.BO')":1405.1584295743,
+    "('Open', 'ICICIBANK.BO')":1415.0818648114,
+    "('Volume', 'ICICIBANK.BO')":154401
+  },
+  {
+    "('Date', '')":"2025-05-16",
+    "('Close', 'ICICIBANK.BO')":1442.5202636719,
+    "('High', 'ICICIBANK.BO')":1447.3827714221,
+    "('Low', 'ICICIBANK.BO')":1435.821944533,
+    "('Open', 'ICICIBANK.BO')":1441.1806240712,
+    "('Volume', 'ICICIBANK.BO')":926612
+  },
+  {
+    "('Date', '')":"2025-05-19",
+    "('Close', 'ICICIBANK.BO')":1437.7569580078,
+    "('High', 'ICICIBANK.BO')":1448.5238615215,
+    "('Low', 'ICICIBANK.BO')":1432.9441159176,
+    "('Open', 'ICICIBANK.BO')":1440.8331988495,
+    "('Volume', 'ICICIBANK.BO')":436385
+  },
+  {
+    "('Date', '')":"2025-05-20",
+    "('Close', 'ICICIBANK.BO')":1426.5434570312,
+    "('High', 'ICICIBANK.BO')":1446.8368332964,
+    "('Low', 'ICICIBANK.BO')":1424.4098942639,
+    "('Open', 'ICICIBANK.BO')":1440.8331066244,
+    "('Volume', 'ICICIBANK.BO')":413537
+  },
+  {
+    "('Date', '')":"2025-05-21",
+    "('Close', 'ICICIBANK.BO')":1433.88671875,
+    "('High', 'ICICIBANK.BO')":1440.4858273758,
+    "('Low', 'ICICIBANK.BO')":1427.4861515093,
+    "('Open', 'ICICIBANK.BO')":1429.3716284218,
+    "('Volume', 'ICICIBANK.BO')":102473
+  },
+  {
+    "('Date', '')":"2025-05-22",
+    "('Close', 'ICICIBANK.BO')":1430.9593505859,
+    "('High', 'ICICIBANK.BO')":1433.8867155049,
+    "('Low', 'ICICIBANK.BO')":1417.0665413569,
+    "('Open', 'ICICIBANK.BO')":1427.3372725241,
+    "('Volume', 'ICICIBANK.BO')":125041
+  },
+  {
+    "('Date', '')":"2025-05-23",
+    "('Close', 'ICICIBANK.BO')":1438.7989501953,
+    "('High', 'ICICIBANK.BO')":1440.0393796439,
+    "('Low', 'ICICIBANK.BO')":1424.0130069414,
+    "('Open', 'ICICIBANK.BO')":1429.5205621473,
+    "('Volume', 'ICICIBANK.BO')":118338
+  },
+  {
+    "('Date', '')":"2025-05-26",
+    "('Close', 'ICICIBANK.BO')":1449.3177490234,
+    "('High', 'ICICIBANK.BO')":1459.8365663846,
+    "('Low', 'ICICIBANK.BO')":1441.9248380596,
+    "('Open', 'ICICIBANK.BO')":1441.9248380596,
+    "('Volume', 'ICICIBANK.BO')":325956
+  },
+  {
+    "('Date', '')":"2025-05-27",
+    "('Close', 'ICICIBANK.BO')":1435.9708251953,
+    "('High', 'ICICIBANK.BO')":1451.5505709395,
+    "('Low', 'ICICIBANK.BO')":1424.310788136,
+    "('Open', 'ICICIBANK.BO')":1439.8905338801,
+    "('Volume', 'ICICIBANK.BO')":1176149
+  },
+  {
+    "('Date', '')":"2025-05-28",
+    "('Close', 'ICICIBANK.BO')":1442.6193847656,
+    "('High', 'ICICIBANK.BO')":1446.9360548282,
+    "('Low', 'ICICIBANK.BO')":1432.100567735,
+    "('Open', 'ICICIBANK.BO')":1435.3256841583,
+    "('Volume', 'ICICIBANK.BO')":142880
+  },
+  {
+    "('Date', '')":"2025-05-29",
+    "('Close', 'ICICIBANK.BO')":1445.4971923828,
+    "('High', 'ICICIBANK.BO')":1451.7985494194,
+    "('Low', 'ICICIBANK.BO')":1433.9860319392,
+    "('Open', 'ICICIBANK.BO')":1442.7185821115,
+    "('Volume', 'ICICIBANK.BO')":107814
+  },
+  {
+    "('Date', '')":"2025-05-30",
+    "('Close', 'ICICIBANK.BO')":1434.8791503906,
+    "('High', 'ICICIBANK.BO')":1449.8139697171,
+    "('Low', 'ICICIBANK.BO')":1433.2914248905,
+    "('Open', 'ICICIBANK.BO')":1449.0697120324,
+    "('Volume', 'ICICIBANK.BO')":132254
+  },
+  {
+    "('Date', '')":"2025-06-02",
+    "('Close', 'ICICIBANK.BO')":1439.9401855469,
+    "('High', 'ICICIBANK.BO')":1443.7110184311,
+    "('Low', 'ICICIBANK.BO')":1421.2344123458,
+    "('Open', 'ICICIBANK.BO')":1431.9021057222,
+    "('Volume', 'ICICIBANK.BO')":330420
+  },
+  {
+    "('Date', '')":"2025-06-03",
+    "('Close', 'ICICIBANK.BO')":1426.9899902344,
+    "('High', 'ICICIBANK.BO')":1442.8178210181,
+    "('Low', 'ICICIBANK.BO')":1420.7878431975,
+    "('Open', 'ICICIBANK.BO')":1440.2377520779,
+    "('Volume', 'ICICIBANK.BO')":1256068
+  },
+  {
+    "('Date', '')":"2025-06-04",
+    "('Close', 'ICICIBANK.BO')":1420.1428222656,
+    "('High', 'ICICIBANK.BO')":1430.8601810002,
+    "('Low', 'ICICIBANK.BO')":1415.081894416,
+    "('Open', 'ICICIBANK.BO')":1430.8601810002,
+    "('Volume', 'ICICIBANK.BO')":79054
+  },
+  {
+    "('Date', '')":"2025-06-05",
+    "('Close', 'ICICIBANK.BO')":1443.6118164062,
+    "('High', 'ICICIBANK.BO')":1447.3331048142,
+    "('Low', 'ICICIBANK.BO')":1417.0666257626,
+    "('Open', 'ICICIBANK.BO')":1419.3986089378,
+    "('Volume', 'ICICIBANK.BO')":269650
+  },
+  {
+    "('Date', '')":"2025-06-06",
+    "('Close', 'ICICIBANK.BO')":1448.3254394531,
+    "('High', 'ICICIBANK.BO')":1450.7566327437,
+    "('Low', 'ICICIBANK.BO')":1431.7533502994,
+    "('Open', 'ICICIBANK.BO')":1436.0203549662,
+    "('Volume', 'ICICIBANK.BO')":418246
+  },
+  {
+    "('Date', '')":"2025-06-09",
+    "('Close', 'ICICIBANK.BO')":1423.9633789062,
+    "('High', 'ICICIBANK.BO')":1456.2642110537,
+    "('Low', 'ICICIBANK.BO')":1423.0207009547,
+    "('Open', 'ICICIBANK.BO')":1456.2145454202,
+    "('Volume', 'ICICIBANK.BO')":583251
+  },
+  {
+    "('Date', '')":"2025-06-10",
+    "('Close', 'ICICIBANK.BO')":1412.0056152344,
+    "('High', 'ICICIBANK.BO')":1429.8677985488,
+    "('Low', 'ICICIBANK.BO')":1405.6545924954,
+    "('Open', 'ICICIBANK.BO')":1428.974665156,
+    "('Volume', 'ICICIBANK.BO')":1207271
+  },
+  {
+    "('Date', '')":"2025-06-11",
+    "('Close', 'ICICIBANK.BO')":1419.8947753906,
+    "('High', 'ICICIBANK.BO')":1423.4176435246,
+    "('Low', 'ICICIBANK.BO')":1407.4904807439,
+    "('Open', 'ICICIBANK.BO')":1412.1049025796,
+    "('Volume', 'ICICIBANK.BO')":170309
+  },
+  {
+    "('Date', '')":"2025-06-12",
+    "('Close', 'ICICIBANK.BO')":1414.3873291016,
+    "('High', 'ICICIBANK.BO')":1425.4518629228,
+    "('Low', 'ICICIBANK.BO')":1408.7308981098,
+    "('Open', 'ICICIBANK.BO')":1420.0436389576,
+    "('Volume', 'ICICIBANK.BO')":106064
+  },
+  {
+    "('Date', '')":"2025-06-13",
+    "('Close', 'ICICIBANK.BO')":1405.3569335938,
+    "('High', 'ICICIBANK.BO')":1410.4179827749,
+    "('Low', 'ICICIBANK.BO')":1390.323025222,
+    "('Open', 'ICICIBANK.BO')":1390.323025222,
+    "('Volume', 'ICICIBANK.BO')":151569
+  },
+  {
+    "('Date', '')":"2025-06-16",
+    "('Close', 'ICICIBANK.BO')":1415.9254150391,
+    "('High', 'ICICIBANK.BO')":1418.0589779664,
+    "('Low', 'ICICIBANK.BO')":1403.3227000083,
+    "('Open', 'ICICIBANK.BO')":1405.6546831977,
+    "('Volume', 'ICICIBANK.BO')":310588
+  },
+  {
+    "('Date', '')":"2025-06-17",
+    "('Close', 'ICICIBANK.BO')":1412.1545410156,
+    "('High', 'ICICIBANK.BO')":1418.8528599958,
+    "('Low', 'ICICIBANK.BO')":1406.7461959724,
+    "('Open', 'ICICIBANK.BO')":1416.2726698505,
+    "('Volume', 'ICICIBANK.BO')":1503939
+  },
+  {
+    "('Date', '')":"2025-06-18",
+    "('Close', 'ICICIBANK.BO')":1401.4371337891,
+    "('High', 'ICICIBANK.BO')":1420.8374980271,
+    "('Low', 'ICICIBANK.BO')":1399.5021123826,
+    "('Open', 'ICICIBANK.BO')":1406.6469372604,
+    "('Volume', 'ICICIBANK.BO')":92690
+  },
+  {
+    "('Date', '')":"2025-06-19",
+    "('Close', 'ICICIBANK.BO')":1400.5440673828,
+    "('High', 'ICICIBANK.BO')":1404.0669354957,
+    "('Low', 'ICICIBANK.BO')":1394.3419200965,
+    "('Open', 'ICICIBANK.BO')":1399.1547621635,
+    "('Volume', 'ICICIBANK.BO')":35529
+  },
+  {
+    "('Date', '')":"2025-06-20",
+    "('Close', 'ICICIBANK.BO')":1416.4215087891,
+    "('High', 'ICICIBANK.BO')":1422.4747800756,
+    "('Low', 'ICICIBANK.BO')":1400.0478405964,
+    "('Open', 'ICICIBANK.BO')":1400.5440123598,
+    "('Volume', 'ICICIBANK.BO')":375267
+  },
+  {
+    "('Date', '')":"2025-06-23",
+    "('Close', 'ICICIBANK.BO')":1408.7308349609,
+    "('High', 'ICICIBANK.BO')":1412.1048271518,
+    "('Low', 'ICICIBANK.BO')":1401.4371343254,
+    "('Open', 'ICICIBANK.BO')":1403.0745253585,
+    "('Volume', 'ICICIBANK.BO')":125255
+  },
+  {
+    "('Date', '')":"2025-06-24",
+    "('Close', 'ICICIBANK.BO')":1412.998046875,
+    "('High', 'ICICIBANK.BO')":1425.2038002197,
+    "('Low', 'ICICIBANK.BO')":1405.5554700298,
+    "('Open', 'ICICIBANK.BO')":1415.3300300594,
+    "('Volume', 'ICICIBANK.BO')":894111
+  },
+  {
+    "('Date', '')":"2025-06-25",
+    "('Close', 'ICICIBANK.BO')":1414.8834228516,
+    "('High', 'ICICIBANK.BO')":1418.0092079947,
+    "('Low', 'ICICIBANK.BO')":1405.5553696447,
+    "('Open', 'ICICIBANK.BO')":1413.0474904523,
+    "('Volume', 'ICICIBANK.BO')":109944
+  },
+  {
+    "('Date', '')":"2025-06-26",
+    "('Close', 'ICICIBANK.BO')":1428.23046875,
+    "('High', 'ICICIBANK.BO')":1436.4173031201,
+    "('Low', 'ICICIBANK.BO')":1412.3033061575,
+    "('Open', 'ICICIBANK.BO')":1413.0475638275,
+    "('Volume', 'ICICIBANK.BO')":141157
+  },
+  {
+    "('Date', '')":"2025-06-27",
+    "('Close', 'ICICIBANK.BO')":1450.5582275391,
+    "('High', 'ICICIBANK.BO')":1454.1803058319,
+    "('Low', 'ICICIBANK.BO')":1426.9900675226,
+    "('Open', 'ICICIBANK.BO')":1426.9900675226,
+    "('Volume', 'ICICIBANK.BO')":332569
+  },
+  {
+    "('Date', '')":"2025-06-30",
+    "('Close', 'ICICIBANK.BO')":1434.7303466797,
+    "('High', 'ICICIBANK.BO')":1450.6078434093,
+    "('Low', 'ICICIBANK.BO')":1431.4555645249,
+    "('Open', 'ICICIBANK.BO')":1450.5581777777,
+    "('Volume', 'ICICIBANK.BO')":120994
+  },
+  {
+    "('Date', '')":"2025-07-01",
+    "('Close', 'ICICIBANK.BO')":1421.0360107422,
+    "('High', 'ICICIBANK.BO')":1437.360014227,
+    "('Low', 'ICICIBANK.BO')":1419.0016579429,
+    "('Open', 'ICICIBANK.BO')":1434.7304006408,
+    "('Volume', 'ICICIBANK.BO')":1379334
+  },
+  {
+    "('Date', '')":"2025-07-02",
+    "('Close', 'ICICIBANK.BO')":1417.2154541016,
+    "('High', 'ICICIBANK.BO')":1439.890479815,
+    "('Low', 'ICICIBANK.BO')":1411.7575646191,
+    "('Open', 'ICICIBANK.BO')":1423.070305228,
+    "('Volume', 'ICICIBANK.BO')":369686
+  },
+  {
+    "('Date', '')":"2025-07-03",
+    "('Close', 'ICICIBANK.BO')":1415.2802734375,
+    "('High', 'ICICIBANK.BO')":1435.3256851332,
+    "('Low', 'ICICIBANK.BO')":1413.246041912,
+    "('Open', 'ICICIBANK.BO')":1420.3413222754,
+    "('Volume', 'ICICIBANK.BO')":199977
+  },
+  {
+    "('Date', '')":"2025-07-04",
+    "('Close', 'ICICIBANK.BO')":1431.6044921875,
+    "('High', 'ICICIBANK.BO')":1432.9441317955,
+    "('Low', 'ICICIBANK.BO')":1410.2194395503,
+    "('Open', 'ICICIBANK.BO')":1415.0819473271,
+    "('Volume', 'ICICIBANK.BO')":332715
+  },
+  {
+    "('Date', '')":"2025-07-07",
+    "('Close', 'ICICIBANK.BO')":1424.5588378906,
+    "('High', 'ICICIBANK.BO')":1429.4212243984,
+    "('Low', 'ICICIBANK.BO')":1418.6047765646,
+    "('Open', 'ICICIBANK.BO')":1428.6274222363,
+    "('Volume', 'ICICIBANK.BO')":124398
+  },
+  {
+    "('Date', '')":"2025-07-08",
+    "('Close', 'ICICIBANK.BO')":1431.1082763672,
+    "('High', 'ICICIBANK.BO')":1434.3333929081,
+    "('Low', 'ICICIBANK.BO')":1419.5474497704,
+    "('Open', 'ICICIBANK.BO')":1426.9403607714,
+    "('Volume', 'ICICIBANK.BO')":780989
+  },
+  {
+    "('Date', '')":"2025-07-09",
+    "('Close', 'ICICIBANK.BO')":1421.0360107422,
+    "('High', 'ICICIBANK.BO')":1428.9250937721,
+    "('Low', 'ICICIBANK.BO')":1415.6773311673,
+    "('Open', 'ICICIBANK.BO')":1428.9250937721,
+    "('Volume', 'ICICIBANK.BO')":189258
+  },
+  {
+    "('Date', '')":"2025-07-10",
+    "('Close', 'ICICIBANK.BO')":1413.5933837891,
+    "('High', 'ICICIBANK.BO')":1427.6350692171,
+    "('Low', 'ICICIBANK.BO')":1411.3606108066,
+    "('Open', 'ICICIBANK.BO')":1422.0283039451,
+    "('Volume', 'ICICIBANK.BO')":182834
+  },
+  {
+    "('Date', '')":"2025-07-11",
+    "('Close', 'ICICIBANK.BO')":1411.3109130859,
+    "('High', 'ICICIBANK.BO')":1417.0168883558,
+    "('Low', 'ICICIBANK.BO')":1403.7195820267,
+    "('Open', 'ICICIBANK.BO')":1412.7002182484,
+    "('Volume', 'ICICIBANK.BO')":306304
+  },
+  {
+    "('Date', '')":"2025-07-14",
+    "('Close', 'ICICIBANK.BO')":1411.8568115234,
+    "('High', 'ICICIBANK.BO')":1413.791833027,
+    "('Low', 'ICICIBANK.BO')":1405.1584924387,
+    "('Open', 'ICICIBANK.BO')":1413.0972409836,
+    "('Volume', 'ICICIBANK.BO')":1956057
+  },
+  {
+    "('Date', '')":"2025-07-15",
+    "('Close', 'ICICIBANK.BO')":1420.4901123047,
+    "('High', 'ICICIBANK.BO')":1422.8222165329,
+    "('Low', 'ICICIBANK.BO')":1409.0286170957,
+    "('Open', 'ICICIBANK.BO')":1411.1125143031,
+    "('Volume', 'ICICIBANK.BO')":1004368
+  },
+  {
+    "('Date', '')":"2025-07-16",
+    "('Close', 'ICICIBANK.BO')":1414.1391601562,
+    "('High', 'ICICIBANK.BO')":1418.2077442993,
+    "('Low', 'ICICIBANK.BO')":1408.1354334971,
+    "('Open', 'ICICIBANK.BO')":1412.1544731464,
+    "('Volume', 'ICICIBANK.BO')":618589
+  },
+  {
+    "('Date', '')":"2025-07-17",
+    "('Close', 'ICICIBANK.BO')":1408.1851806641,
+    "('High', 'ICICIBANK.BO')":1410.1202021564,
+    "('Low', 'ICICIBANK.BO')":1398.5098309308,
+    "('Open', 'ICICIBANK.BO')":1410.0705365241,
+    "('Volume', 'ICICIBANK.BO')":1383862
+  },
+  {
+    "('Date', '')":"2025-07-18",
+    "('Close', 'ICICIBANK.BO')":1415.578125,
+    "('High', 'ICICIBANK.BO')":1417.7116879364,
+    "('Low', 'ICICIBANK.BO')":1397.5670646924,
+    "('Open', 'ICICIBANK.BO')":1406.1508609359,
+    "('Volume', 'ICICIBANK.BO')":252066
+  },
+  {
+    "('Date', '')":"2025-07-21",
+    "('Close', 'ICICIBANK.BO')":1454.6267089844,
+    "('High', 'ICICIBANK.BO')":1456.3633101258,
+    "('Low', 'ICICIBANK.BO')":1425.3525754579,
+    "('Open', 'ICICIBANK.BO')":1429.6197010025,
+    "('Volume', 'ICICIBANK.BO')":672553
+  },
+  {
+    "('Date', '')":"2025-07-22",
+    "('Close', 'ICICIBANK.BO')":1462.2678222656,
+    "('High', 'ICICIBANK.BO')":1470.6530764402,
+    "('Low', 'ICICIBANK.BO')":1458.8938301168,
+    "('Open', 'ICICIBANK.BO')":1459.8861736232,
+    "('Volume', 'ICICIBANK.BO')":1748643
+  },
+  {
+    "('Date', '')":"2025-07-23",
+    "('Close', 'ICICIBANK.BO')":1476.3591308594,
+    "('High', 'ICICIBANK.BO')":1478.5422382363,
+    "('Low', 'ICICIBANK.BO')":1461.2258915748,
+    "('Open', 'ICICIBANK.BO')":1470.6531553914,
+    "('Volume', 'ICICIBANK.BO')":1250566
+  },
+  {
+    "('Date', '')":"2025-07-24",
+    "('Close', 'ICICIBANK.BO')":1471.3477783203,
+    "('High', 'ICICIBANK.BO')":1477.1034195414,
+    "('Low', 'ICICIBANK.BO')":1465.493048104,
+    "('Open', 'ICICIBANK.BO')":1477.1034195414,
+    "('Volume', 'ICICIBANK.BO')":149203
+  },
+  {
+    "('Date', '')":"2025-07-25",
+    "('Close', 'ICICIBANK.BO')":1465.2944335938,
+    "('High', 'ICICIBANK.BO')":1482.2634837461,
+    "('Low', 'ICICIBANK.BO')":1462.4166131268,
+    "('Open', 'ICICIBANK.BO')":1477.9964792444,
+    "('Volume', 'ICICIBANK.BO')":139875
+  },
+  {
+    "('Date', '')":"2025-07-28",
+    "('Close', 'ICICIBANK.BO')":1477.2521972656,
+    "('High', 'ICICIBANK.BO')":1482.1642492087,
+    "('Low', 'ICICIBANK.BO')":1462.912760798,
+    "('Open', 'ICICIBANK.BO')":1462.912760798,
+    "('Volume', 'ICICIBANK.BO')":214482
+  },
+  {
+    "('Date', '')":"2025-07-29",
+    "('Close', 'ICICIBANK.BO')":1474.8706054688,
+    "('High', 'ICICIBANK.BO')":1478.443018032,
+    "('Low', 'ICICIBANK.BO')":1463.8556162589,
+    "('Open', 'ICICIBANK.BO')":1465.0463800681,
+    "('Volume', 'ICICIBANK.BO')":942727
+  },
+  {
+    "('Date', '')":"2025-07-30",
+    "('Close', 'ICICIBANK.BO')":1470.3553466797,
+    "('High', 'ICICIBANK.BO')":1478.5918463586,
+    "('Low', 'ICICIBANK.BO')":1465.8402563403,
+    "('Open', 'ICICIBANK.BO')":1478.5918463586,
+    "('Volume', 'ICICIBANK.BO')":95743
+  },
+  {
+    "('Date', '')":"2025-07-31",
+    "('Close', 'ICICIBANK.BO')":1470.2562255859,
+    "('High', 'ICICIBANK.BO')":1482.6605203502,
+    "('Low', 'ICICIBANK.BO')":1453.1879644447,
+    "('Open', 'ICICIBANK.BO')":1459.737407853,
+    "('Volume', 'ICICIBANK.BO')":106998
+  },
+  {
+    "('Date', '')":"2025-08-01",
+    "('Close', 'ICICIBANK.BO')":1460.1342773438,
+    "('High', 'ICICIBANK.BO')":1473.6301249682,
+    "('Low', 'ICICIBANK.BO')":1446.8368499688,
+    "('Open', 'ICICIBANK.BO')":1466.6837203387,
+    "('Volume', 'ICICIBANK.BO')":113314
+  },
+  {
+    "('Date', '')":"2025-08-04",
+    "('Close', 'ICICIBANK.BO')":1451.7985839844,
+    "('High', 'ICICIBANK.BO')":1466.385985417,
+    "('Low', 'ICICIBANK.BO')":1450.4092788156,
+    "('Open', 'ICICIBANK.BO')":1464.7982599966,
+    "('Volume', 'ICICIBANK.BO')":46494
+  },
+  {
+    "('Date', '')":"2025-08-05",
+    "('Close', 'ICICIBANK.BO')":1433.2418212891,
+    "('High', 'ICICIBANK.BO')":1449.8139099298,
+    "('Low', 'ICICIBANK.BO')":1429.9173735261,
+    "('Open', 'ICICIBANK.BO')":1445.7948701441,
+    "('Volume', 'ICICIBANK.BO')":1693021
+  },
+  {
+    "('Date', '')":"2025-08-06",
+    "('Close', 'ICICIBANK.BO')":1433.6883544922,
+    "('High', 'ICICIBANK.BO')":1441.8751888404,
+    "('Low', 'ICICIBANK.BO')":1429.3220186127,
+    "('Open', 'ICICIBANK.BO')":1429.3220186127,
+    "('Volume', 'ICICIBANK.BO')":98381
+  },
+  {
+    "('Date', '')":"2025-08-07",
+    "('Close', 'ICICIBANK.BO')":1429.0244140625,
+    "('High', 'ICICIBANK.BO')":1436.07002922,
+    "('Low', 'ICICIBANK.BO')":1417.9100933377,
+    "('Open', 'ICICIBANK.BO')":1431.9021135223,
+    "('Volume', 'ICICIBANK.BO')":229404
+  },
+  {
+    "('Date', '')":"2025-08-08",
+    "('Close', 'ICICIBANK.BO')":1425.4517822266,
+    "('High', 'ICICIBANK.BO')":1435.1271314202,
+    "('Low', 'ICICIBANK.BO')":1421.2839879513,
+    "('Open', 'ICICIBANK.BO')":1435.1271314202,
+    "('Volume', 'ICICIBANK.BO')":878001
+  },
+  {
+    "('Date', '')":"2025-08-11",
+    "('Close', 'ICICIBANK.BO')":1425.6999511719,
+    "('High', 'ICICIBANK.BO')":1427.7839695666,
+    "('Low', 'ICICIBANK.BO')":1408.9789863312,
+    "('Open', 'ICICIBANK.BO')":1420.9863192388,
+    "('Volume', 'ICICIBANK.BO')":242638
+  },
+  {
+    "('Date', '')":"2025-08-12",
+    "('Close', 'ICICIBANK.BO')":1422.0999755859,
+    "('High', 'ICICIBANK.BO')":1433.6500244141,
+    "('Low', 'ICICIBANK.BO')":1420.8000488281,
+    "('Open', 'ICICIBANK.BO')":1429.25,
+    "('Volume', 'ICICIBANK.BO')":171734
+  },
+  {
+    "('Date', '')":"2025-08-13",
+    "('Close', 'ICICIBANK.BO')":1421.1500244141,
+    "('High', 'ICICIBANK.BO')":1427.1999511719,
+    "('Low', 'ICICIBANK.BO')":1415.5500488281,
+    "('Open', 'ICICIBANK.BO')":1422.0999755859,
+    "('Volume', 'ICICIBANK.BO')":1396880
+  },
+  {
+    "('Date', '')":"2025-08-14",
+    "('Close', 'ICICIBANK.BO')":1427.3000488281,
+    "('High', 'ICICIBANK.BO')":1431.0,
+    "('Low', 'ICICIBANK.BO')":1415.0,
+    "('Open', 'ICICIBANK.BO')":1417.9499511719,
+    "('Volume', 'ICICIBANK.BO')":338086
+  },
+  {
+    "('Date', '')":"2025-08-18",
+    "('Close', 'ICICIBANK.BO')":1434.5999755859,
+    "('High', 'ICICIBANK.BO')":1451.9499511719,
+    "('Low', 'ICICIBANK.BO')":1431.1500244141,
+    "('Open', 'ICICIBANK.BO')":1431.25,
+    "('Volume', 'ICICIBANK.BO')":192065
+  },
+  {
+    "('Date', '')":"2025-08-19",
+    "('Close', 'ICICIBANK.BO')":1436.4000244141,
+    "('High', 'ICICIBANK.BO')":1438.8499755859,
+    "('Low', 'ICICIBANK.BO')":1426.25,
+    "('Open', 'ICICIBANK.BO')":1430.25,
+    "('Volume', 'ICICIBANK.BO')":320270
+  },
+  {
+    "('Date', '')":"2025-08-20",
+    "('Close', 'ICICIBANK.BO')":1430.25,
+    "('High', 'ICICIBANK.BO')":1439.9000244141,
+    "('Low', 'ICICIBANK.BO')":1424.0,
+    "('Open', 'ICICIBANK.BO')":1439.9000244141,
+    "('Volume', 'ICICIBANK.BO')":142045
+  },
+  {
+    "('Date', '')":"2025-08-21",
+    "('Close', 'ICICIBANK.BO')":1445.8000488281,
+    "('High', 'ICICIBANK.BO')":1447.6999511719,
+    "('Low', 'ICICIBANK.BO')":1436.0500488281,
+    "('Open', 'ICICIBANK.BO')":1440.6999511719,
+    "('Volume', 'ICICIBANK.BO')":80709
+  },
+  {
+    "('Date', '')":"2025-08-22",
+    "('Close', 'ICICIBANK.BO')":1436.1999511719,
+    "('High', 'ICICIBANK.BO')":1445.5,
+    "('Low', 'ICICIBANK.BO')":1430.0,
+    "('Open', 'ICICIBANK.BO')":1441.3499755859,
+    "('Volume', 'ICICIBANK.BO')":273740
+  },
+  {
+    "('Date', '')":"2025-08-25",
+    "('Close', 'ICICIBANK.BO')":1433.1999511719,
+    "('High', 'ICICIBANK.BO')":1439.9499511719,
+    "('Low', 'ICICIBANK.BO')":1423.5999755859,
+    "('Open', 'ICICIBANK.BO')":1439.9499511719,
+    "('Volume', 'ICICIBANK.BO')":292472
+  },
+  {
+    "('Date', '')":"2025-08-26",
+    "('Close', 'ICICIBANK.BO')":1416.6999511719,
+    "('High', 'ICICIBANK.BO')":1426.0500488281,
+    "('Low', 'ICICIBANK.BO')":1413.3000488281,
+    "('Open', 'ICICIBANK.BO')":1421.3000488281,
+    "('Volume', 'ICICIBANK.BO')":676583
+  },
+  {
+    "('Date', '')":"2025-08-28",
+    "('Close', 'ICICIBANK.BO')":1398.8000488281,
+    "('High', 'ICICIBANK.BO')":1411.6500244141,
+    "('Low', 'ICICIBANK.BO')":1396.1500244141,
+    "('Open', 'ICICIBANK.BO')":1410.6999511719,
+    "('Volume', 'ICICIBANK.BO')":90265
+  },
+  {
+    "('Date', '')":"2025-08-29",
+    "('Close', 'ICICIBANK.BO')":1398.0,
+    "('High', 'ICICIBANK.BO')":1404.8000488281,
+    "('Low', 'ICICIBANK.BO')":1391.6999511719,
+    "('Open', 'ICICIBANK.BO')":1392.0,
+    "('Volume', 'ICICIBANK.BO')":48306
+  },
+  {
+    "('Date', '')":"2025-09-01",
+    "('Close', 'ICICIBANK.BO')":1410.6999511719,
+    "('High', 'ICICIBANK.BO')":1412.1500244141,
+    "('Low', 'ICICIBANK.BO')":1397.9499511719,
+    "('Open', 'ICICIBANK.BO')":1398.0,
+    "('Volume', 'ICICIBANK.BO')":82827
+  },
+  {
+    "('Date', '')":"2025-09-02",
+    "('Close', 'ICICIBANK.BO')":1394.4499511719,
+    "('High', 'ICICIBANK.BO')":1413.4499511719,
+    "('Low', 'ICICIBANK.BO')":1390.0999755859,
+    "('Open', 'ICICIBANK.BO')":1411.5500488281,
+    "('Volume', 'ICICIBANK.BO')":97688
+  },
+  {
+    "('Date', '')":"2025-09-03",
+    "('Close', 'ICICIBANK.BO')":1397.1500244141,
+    "('High', 'ICICIBANK.BO')":1400.0,
+    "('Low', 'ICICIBANK.BO')":1383.9000244141,
+    "('Open', 'ICICIBANK.BO')":1391.0,
+    "('Volume', 'ICICIBANK.BO')":120826
+  },
+  {
+    "('Date', '')":"2025-09-04",
+    "('Close', 'ICICIBANK.BO')":1405.6500244141,
+    "('High', 'ICICIBANK.BO')":1415.0,
+    "('Low', 'ICICIBANK.BO')":1401.8000488281,
+    "('Open', 'ICICIBANK.BO')":1409.1999511719,
+    "('Volume', 'ICICIBANK.BO')":552414
+  },
+  {
+    "('Date', '')":"2025-09-05",
+    "('Close', 'ICICIBANK.BO')":1402.6999511719,
+    "('High', 'ICICIBANK.BO')":1412.5500488281,
+    "('Low', 'ICICIBANK.BO')":1388.0999755859,
+    "('Open', 'ICICIBANK.BO')":1412.5500488281,
+    "('Volume', 'ICICIBANK.BO')":167022
+  },
+  {
+    "('Date', '')":"2025-09-08",
+    "('Close', 'ICICIBANK.BO')":1402.3499755859,
+    "('High', 'ICICIBANK.BO')":1410.5,
+    "('Low', 'ICICIBANK.BO')":1397.6999511719,
+    "('Open', 'ICICIBANK.BO')":1401.0,
+    "('Volume', 'ICICIBANK.BO')":100913
+  },
+  {
+    "('Date', '')":"2025-09-09",
+    "('Close', 'ICICIBANK.BO')":1403.0,
+    "('High', 'ICICIBANK.BO')":1407.9000244141,
+    "('Low', 'ICICIBANK.BO')":1395.5,
+    "('Open', 'ICICIBANK.BO')":1407.9000244141,
+    "('Volume', 'ICICIBANK.BO')":51808
+  },
+  {
+    "('Date', '')":"2025-09-10",
+    "('Close', 'ICICIBANK.BO')":1403.4499511719,
+    "('High', 'ICICIBANK.BO')":1416.3499755859,
+    "('Low', 'ICICIBANK.BO')":1402.0,
+    "('Open', 'ICICIBANK.BO')":1416.3499755859,
+    "('Volume', 'ICICIBANK.BO')":681955
+  },
+  {
+    "('Date', '')":"2025-09-11",
+    "('Close', 'ICICIBANK.BO')":1401.8000488281,
+    "('High', 'ICICIBANK.BO')":1407.6999511719,
+    "('Low', 'ICICIBANK.BO')":1396.0,
+    "('Open', 'ICICIBANK.BO')":1397.3499755859,
+    "('Volume', 'ICICIBANK.BO')":944316
+  },
+  {
+    "('Date', '')":"2025-09-12",
+    "('Close', 'ICICIBANK.BO')":1417.5999755859,
+    "('High', 'ICICIBANK.BO')":1419.8499755859,
+    "('Low', 'ICICIBANK.BO')":1400.0,
+    "('Open', 'ICICIBANK.BO')":1401.9000244141,
+    "('Volume', 'ICICIBANK.BO')":261700
+  },
+  {
+    "('Date', '')":"2025-09-15",
+    "('Close', 'ICICIBANK.BO')":1419.5,
+    "('High', 'ICICIBANK.BO')":1426.8499755859,
+    "('Low', 'ICICIBANK.BO')":1416.6500244141,
+    "('Open', 'ICICIBANK.BO')":1419.3000488281,
+    "('Volume', 'ICICIBANK.BO')":131231
+  },
+  {
+    "('Date', '')":"2025-09-16",
+    "('Close', 'ICICIBANK.BO')":1421.75,
+    "('High', 'ICICIBANK.BO')":1424.6999511719,
+    "('Low', 'ICICIBANK.BO')":1414.5,
+    "('Open', 'ICICIBANK.BO')":1419.4499511719,
+    "('Volume', 'ICICIBANK.BO')":112965
+  },
+  {
+    "('Date', '')":"2025-09-17",
+    "('Close', 'ICICIBANK.BO')":1418.8499755859,
+    "('High', 'ICICIBANK.BO')":1426.5500488281,
+    "('Low', 'ICICIBANK.BO')":1416.4000244141,
+    "('Open', 'ICICIBANK.BO')":1420.0,
+    "('Volume', 'ICICIBANK.BO')":183523
+  },
+  {
+    "('Date', '')":"2025-09-18",
+    "('Close', 'ICICIBANK.BO')":1421.8499755859,
+    "('High', 'ICICIBANK.BO')":1432.5,
+    "('Low', 'ICICIBANK.BO')":1415.25,
+    "('Open', 'ICICIBANK.BO')":1429.0,
+    "('Volume', 'ICICIBANK.BO')":386581
+  },
+  {
+    "('Date', '')":"2025-09-19",
+    "('Close', 'ICICIBANK.BO')":1402.4000244141,
+    "('High', 'ICICIBANK.BO')":1418.9499511719,
+    "('Low', 'ICICIBANK.BO')":1400.6500244141,
+    "('Open', 'ICICIBANK.BO')":1418.9499511719,
+    "('Volume', 'ICICIBANK.BO')":137834
+  },
+  {
+    "('Date', '')":"2025-09-22",
+    "('Close', 'ICICIBANK.BO')":1401.4000244141,
+    "('High', 'ICICIBANK.BO')":1409.8000488281,
+    "('Low', 'ICICIBANK.BO')":1395.5500488281,
+    "('Open', 'ICICIBANK.BO')":1395.5500488281,
+    "('Volume', 'ICICIBANK.BO')":129581
+  },
+  {
+    "('Date', '')":"2025-09-23",
+    "('Close', 'ICICIBANK.BO')":1394.5500488281,
+    "('High', 'ICICIBANK.BO')":1403.0,
+    "('Low', 'ICICIBANK.BO')":1393.1500244141,
+    "('Open', 'ICICIBANK.BO')":1401.0,
+    "('Volume', 'ICICIBANK.BO')":100843
+  },
+  {
+    "('Date', '')":"2025-09-24",
+    "('Close', 'ICICIBANK.BO')":1381.9499511719,
+    "('High', 'ICICIBANK.BO')":1390.9000244141,
+    "('Low', 'ICICIBANK.BO')":1377.0,
+    "('Open', 'ICICIBANK.BO')":1386.0,
+    "('Volume', 'ICICIBANK.BO')":265266
+  },
+  {
+    "('Date', '')":"2025-09-25",
+    "('Close', 'ICICIBANK.BO')":1375.5,
+    "('High', 'ICICIBANK.BO')":1391.25,
+    "('Low', 'ICICIBANK.BO')":1373.1999511719,
+    "('Open', 'ICICIBANK.BO')":1379.0,
+    "('Volume', 'ICICIBANK.BO')":747764
+  },
+  {
+    "('Date', '')":"2025-09-26",
+    "('Close', 'ICICIBANK.BO')":1360.75,
+    "('High', 'ICICIBANK.BO')":1370.4000244141,
+    "('Low', 'ICICIBANK.BO')":1357.0,
+    "('Open', 'ICICIBANK.BO')":1369.75,
+    "('Volume', 'ICICIBANK.BO')":202190
+  },
+  {
+    "('Date', '')":"2025-09-29",
+    "('Close', 'ICICIBANK.BO')":1347.0500488281,
+    "('High', 'ICICIBANK.BO')":1366.5500488281,
+    "('Low', 'ICICIBANK.BO')":1345.5,
+    "('Open', 'ICICIBANK.BO')":1357.9499511719,
+    "('Volume', 'ICICIBANK.BO')":238154
+  },
+  {
+    "('Date', '')":"2025-09-30",
+    "('Close', 'ICICIBANK.BO')":1348.0500488281,
+    "('High', 'ICICIBANK.BO')":1356.0,
+    "('Low', 'ICICIBANK.BO')":1343.0,
+    "('Open', 'ICICIBANK.BO')":1355.0,
+    "('Volume', 'ICICIBANK.BO')":70380
+  },
+  {
+    "('Date', '')":"2025-10-01",
+    "('Close', 'ICICIBANK.BO')":1371.9499511719,
+    "('High', 'ICICIBANK.BO')":1379.5500488281,
+    "('Low', 'ICICIBANK.BO')":1344.6999511719,
+    "('Open', 'ICICIBANK.BO')":1349.1500244141,
+    "('Volume', 'ICICIBANK.BO')":1627104
+  },
+  {
+    "('Date', '')":"2025-10-03",
+    "('Close', 'ICICIBANK.BO')":1365.0,
+    "('High', 'ICICIBANK.BO')":1374.3499755859,
+    "('Low', 'ICICIBANK.BO')":1361.1999511719,
+    "('Open', 'ICICIBANK.BO')":1374.3499755859,
+    "('Volume', 'ICICIBANK.BO')":709738
+  },
+  {
+    "('Date', '')":"2025-10-06",
+    "('Close', 'ICICIBANK.BO')":1362.9000244141,
+    "('High', 'ICICIBANK.BO')":1372.5,
+    "('Low', 'ICICIBANK.BO')":1359.5,
+    "('Open', 'ICICIBANK.BO')":1367.0500488281,
+    "('Volume', 'ICICIBANK.BO')":218338
+  },
+  {
+    "('Date', '')":"2025-10-07",
+    "('Close', 'ICICIBANK.BO')":1376.0999755859,
+    "('High', 'ICICIBANK.BO')":1383.0,
+    "('Low', 'ICICIBANK.BO')":1364.0,
+    "('Open', 'ICICIBANK.BO')":1365.4000244141,
+    "('Volume', 'ICICIBANK.BO')":504543
+  },
+  {
+    "('Date', '')":"2025-10-08",
+    "('Close', 'ICICIBANK.BO')":1370.1500244141,
+    "('High', 'ICICIBANK.BO')":1381.25,
+    "('Low', 'ICICIBANK.BO')":1364.4000244141,
+    "('Open', 'ICICIBANK.BO')":1373.9000244141,
+    "('Volume', 'ICICIBANK.BO')":506954
+  },
+  {
+    "('Date', '')":"2025-10-09",
+    "('Close', 'ICICIBANK.BO')":1376.1999511719,
+    "('High', 'ICICIBANK.BO')":1378.9499511719,
+    "('Low', 'ICICIBANK.BO')":1365.6500244141,
+    "('Open', 'ICICIBANK.BO')":1371.5999755859,
+    "('Volume', 'ICICIBANK.BO')":947428
+  },
+  {
+    "('Date', '')":"2025-10-10",
+    "('Close', 'ICICIBANK.BO')":1380.6500244141,
+    "('High', 'ICICIBANK.BO')":1385.1500244141,
+    "('Low', 'ICICIBANK.BO')":1368.9000244141,
+    "('Open', 'ICICIBANK.BO')":1368.9000244141,
+    "('Volume', 'ICICIBANK.BO')":472687
+  },
+  {
+    "('Date', '')":"2025-10-13",
+    "('Close', 'ICICIBANK.BO')":1379.0500488281,
+    "('High', 'ICICIBANK.BO')":1385.4499511719,
+    "('Low', 'ICICIBANK.BO')":1371.0500488281,
+    "('Open', 'ICICIBANK.BO')":1371.0500488281,
+    "('Volume', 'ICICIBANK.BO')":533316
+  },
+  {
+    "('Date', '')":"2025-10-14",
+    "('Close', 'ICICIBANK.BO')":1384.0999755859,
+    "('High', 'ICICIBANK.BO')":1387.3000488281,
+    "('Low', 'ICICIBANK.BO')":1375.0,
+    "('Open', 'ICICIBANK.BO')":1385.3000488281,
+    "('Volume', 'ICICIBANK.BO')":203114
+  },
+  {
+    "('Date', '')":"2025-10-15",
+    "('Close', 'ICICIBANK.BO')":1398.4000244141,
+    "('High', 'ICICIBANK.BO')":1400.1999511719,
+    "('Low', 'ICICIBANK.BO')":1385.4000244141,
+    "('Open', 'ICICIBANK.BO')":1386.0,
+    "('Volume', 'ICICIBANK.BO')":781065
+  },
+  {
+    "('Date', '')":"2025-10-16",
+    "('Close', 'ICICIBANK.BO')":1417.1999511719,
+    "('High', 'ICICIBANK.BO')":1419.0500488281,
+    "('Low', 'ICICIBANK.BO')":1399.0500488281,
+    "('Open', 'ICICIBANK.BO')":1400.0500488281,
+    "('Volume', 'ICICIBANK.BO')":1430422
+  },
+  {
+    "('Date', '')":"2025-10-17",
+    "('Close', 'ICICIBANK.BO')":1436.6999511719,
+    "('High', 'ICICIBANK.BO')":1439.5999755859,
+    "('Low', 'ICICIBANK.BO')":1411.4000244141,
+    "('Open', 'ICICIBANK.BO')":1413.9000244141,
+    "('Volume', 'ICICIBANK.BO')":591326
+  },
+  {
+    "('Date', '')":"2025-10-20",
+    "('Close', 'ICICIBANK.BO')":1390.9000244141,
+    "('High', 'ICICIBANK.BO')":1441.9499511719,
+    "('Low', 'ICICIBANK.BO')":1389.25,
+    "('Open', 'ICICIBANK.BO')":1441.1999511719,
+    "('Volume', 'ICICIBANK.BO')":625035
+  },
+  {
+    "('Date', '')":"2025-10-21",
+    "('Close', 'ICICIBANK.BO')":1382.1999511719,
+    "('High', 'ICICIBANK.BO')":1388.0,
+    "('Low', 'ICICIBANK.BO')":1376.0999755859,
+    "('Open', 'ICICIBANK.BO')":1386.9499511719,
+    "('Volume', 'ICICIBANK.BO')":137520
+  },
+  {
+    "('Date', '')":"2025-10-23",
+    "('Close', 'ICICIBANK.BO')":1363.5,
+    "('High', 'ICICIBANK.BO')":1390.1500244141,
+    "('Low', 'ICICIBANK.BO')":1360.0,
+    "('Open', 'ICICIBANK.BO')":1386.9499511719,
+    "('Volume', 'ICICIBANK.BO')":1060995
+  },
+  {
+    "('Date', '')":"2025-10-24",
+    "('Close', 'ICICIBANK.BO')":1375.4499511719,
+    "('High', 'ICICIBANK.BO')":1381.75,
+    "('Low', 'ICICIBANK.BO')":1368.8000488281,
+    "('Open', 'ICICIBANK.BO')":1370.5500488281,
+    "('Volume', 'ICICIBANK.BO')":745989
+  },
+  {
+    "('Date', '')":"2025-10-27",
+    "('Close', 'ICICIBANK.BO')":1377.6999511719,
+    "('High', 'ICICIBANK.BO')":1387.4499511719,
+    "('Low', 'ICICIBANK.BO')":1373.6500244141,
+    "('Open', 'ICICIBANK.BO')":1380.0,
+    "('Volume', 'ICICIBANK.BO')":715805
+  },
+  {
+    "('Date', '')":"2025-10-28",
+    "('Close', 'ICICIBANK.BO')":1363.1999511719,
+    "('High', 'ICICIBANK.BO')":1374.9000244141,
+    "('Low', 'ICICIBANK.BO')":1356.5999755859,
+    "('Open', 'ICICIBANK.BO')":1374.9000244141,
+    "('Volume', 'ICICIBANK.BO')":884448
+  },
+  {
+    "('Date', '')":"2025-10-29",
+    "('Close', 'ICICIBANK.BO')":1370.5500488281,
+    "('High', 'ICICIBANK.BO')":1371.5,
+    "('Low', 'ICICIBANK.BO')":1359.0,
+    "('Open', 'ICICIBANK.BO')":1362.3499755859,
+    "('Volume', 'ICICIBANK.BO')":452978
+  },
+  {
+    "('Date', '')":"2025-10-30",
+    "('Close', 'ICICIBANK.BO')":1362.4499511719,
+    "('High', 'ICICIBANK.BO')":1370.3000488281,
+    "('Low', 'ICICIBANK.BO')":1360.8000488281,
+    "('Open', 'ICICIBANK.BO')":1362.1500244141,
+    "('Volume', 'ICICIBANK.BO')":707639
+  },
+  {
+    "('Date', '')":"2025-10-31",
+    "('Close', 'ICICIBANK.BO')":1345.0500488281,
+    "('High', 'ICICIBANK.BO')":1362.0,
+    "('Low', 'ICICIBANK.BO')":1343.4000244141,
+    "('Open', 'ICICIBANK.BO')":1359.0,
+    "('Volume', 'ICICIBANK.BO')":385742
+  },
+  {
+    "('Date', '')":"2025-11-03",
+    "('Close', 'ICICIBANK.BO')":1345.5999755859,
+    "('High', 'ICICIBANK.BO')":1351.5,
+    "('Low', 'ICICIBANK.BO')":1338.0,
+    "('Open', 'ICICIBANK.BO')":1341.9499511719,
+    "('Volume', 'ICICIBANK.BO')":493620
+  },
+  {
+    "('Date', '')":"2025-11-04",
+    "('Close', 'ICICIBANK.BO')":1336.5999755859,
+    "('High', 'ICICIBANK.BO')":1349.9499511719,
+    "('Low', 'ICICIBANK.BO')":1333.5,
+    "('Open', 'ICICIBANK.BO')":1344.8000488281,
+    "('Volume', 'ICICIBANK.BO')":488643
+  },
+  {
+    "('Date', '')":"2025-11-06",
+    "('Close', 'ICICIBANK.BO')":1320.4000244141,
+    "('High', 'ICICIBANK.BO')":1341.5999755859,
+    "('Low', 'ICICIBANK.BO')":1317.5,
+    "('Open', 'ICICIBANK.BO')":1330.0,
+    "('Volume', 'ICICIBANK.BO')":968812
+  },
+  {
+    "('Date', '')":"2025-11-07",
+    "('Close', 'ICICIBANK.BO')":1342.75,
+    "('High', 'ICICIBANK.BO')":1344.6999511719,
+    "('Low', 'ICICIBANK.BO')":1318.5500488281,
+    "('Open', 'ICICIBANK.BO')":1318.5500488281,
+    "('Volume', 'ICICIBANK.BO')":330778
+  },
+  {
+    "('Date', '')":"2025-11-10",
+    "('Close', 'ICICIBANK.BO')":1348.5,
+    "('High', 'ICICIBANK.BO')":1349.6500244141,
+    "('Low', 'ICICIBANK.BO')":1340.9499511719,
+    "('Open', 'ICICIBANK.BO')":1343.0999755859,
+    "('Volume', 'ICICIBANK.BO')":281098
+  },
+  {
+    "('Date', '')":"2025-11-11",
+    "('Close', 'ICICIBANK.BO')":1358.4000244141,
+    "('High', 'ICICIBANK.BO')":1360.1500244141,
+    "('Low', 'ICICIBANK.BO')":1346.8000488281,
+    "('Open', 'ICICIBANK.BO')":1349.8499755859,
+    "('Volume', 'ICICIBANK.BO')":184565
+  },
+  {
+    "('Date', '')":"2025-11-12",
+    "('Close', 'ICICIBANK.BO')":1358.9499511719,
+    "('High', 'ICICIBANK.BO')":1369.0,
+    "('Low', 'ICICIBANK.BO')":1356.0,
+    "('Open', 'ICICIBANK.BO')":1369.0,
+    "('Volume', 'ICICIBANK.BO')":200751
+  },
+  {
+    "('Date', '')":"2025-11-13",
+    "('Close', 'ICICIBANK.BO')":1385.9499511719,
+    "('High', 'ICICIBANK.BO')":1390.5999755859,
+    "('Low', 'ICICIBANK.BO')":1359.0,
+    "('Open', 'ICICIBANK.BO')":1359.0,
+    "('Volume', 'ICICIBANK.BO')":1226318
+  }
+]

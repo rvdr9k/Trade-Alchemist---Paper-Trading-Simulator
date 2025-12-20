@@ -1,0 +1,1986 @@
+[
+  {
+    "('Date', '')":"2024-11-13",
+    "('Close', 'HDFCBANK.BO')":818.2584228516,
+    "('High', 'HDFCBANK.BO')":841.4981788017,
+    "('Low', 'HDFCBANK.BO')":813.9998288293,
+    "('Open', 'HDFCBANK.BO')":832.8836752297,
+    "('Volume', 'HDFCBANK.BO')":759388
+  },
+  {
+    "('Date', '')":"2024-11-14",
+    "('Close', 'HDFCBANK.BO')":824.0257568359,
+    "('High', 'HDFCBANK.BO')":829.6227660736,
+    "('Low', 'HDFCBANK.BO')":814.7298664191,
+    "('Open', 'HDFCBANK.BO')":815.1922042873,
+    "('Volume', 'HDFCBANK.BO')":836956
+  },
+  {
+    "('Date', '')":"2024-11-18",
+    "('Close', 'HDFCBANK.BO')":829.5740966797,
+    "('High', 'HDFCBANK.BO')":836.5338796595,
+    "('Low', 'HDFCBANK.BO')":824.7557899561,
+    "('Open', 'HDFCBANK.BO')":830.4014568779,
+    "('Volume', 'HDFCBANK.BO')":780958
+  },
+  {
+    "('Date', '')":"2024-11-19",
+    "('Close', 'HDFCBANK.BO')":847.9468994141,
+    "('High', 'HDFCBANK.BO')":853.4952508878,
+    "('Low', 'HDFCBANK.BO')":829.3307599952,
+    "('Open', 'HDFCBANK.BO')":834.7087795918,
+    "('Volume', 'HDFCBANK.BO')":396570
+  },
+  {
+    "('Date', '')":"2024-11-21",
+    "('Close', 'HDFCBANK.BO')":847.8008422852,
+    "('High', 'HDFCBANK.BO')":855.9773662647,
+    "('Low', 'HDFCBANK.BO')":843.7855966438,
+    "('Open', 'HDFCBANK.BO')":854.6633096375,
+    "('Volume', 'HDFCBANK.BO')":364254
+  },
+  {
+    "('Date', '')":"2024-11-22",
+    "('Close', 'HDFCBANK.BO')":849.7476806641,
+    "('High', 'HDFCBANK.BO')":853.5682954943,
+    "('Low', 'HDFCBANK.BO')":841.6442319424,
+    "('Open', 'HDFCBANK.BO')":846.924876776,
+    "('Volume', 'HDFCBANK.BO')":875302
+  },
+  {
+    "('Date', '')":"2024-11-25",
+    "('Close', 'HDFCBANK.BO')":868.5584716797,
+    "('High', 'HDFCBANK.BO')":876.9783440184,
+    "('Low', 'HDFCBANK.BO')":859.0192331541,
+    "('Open', 'HDFCBANK.BO')":865.8329834454,
+    "('Volume', 'HDFCBANK.BO')":2472600
+  },
+  {
+    "('Date', '')":"2024-11-26",
+    "('Close', 'HDFCBANK.BO')":868.9478759766,
+    "('High', 'HDFCBANK.BO')":878.0490760603,
+    "('Low', 'HDFCBANK.BO')":861.4527385723,
+    "('Open', 'HDFCBANK.BO')":876.0536324464,
+    "('Volume', 'HDFCBANK.BO')":446996
+  },
+  {
+    "('Date', '')":"2024-11-27",
+    "('Close', 'HDFCBANK.BO')":881.4072265625,
+    "('High', 'HDFCBANK.BO')":884.4247206361,
+    "('Low', 'HDFCBANK.BO')":868.8991521919,
+    "('Open', 'HDFCBANK.BO')":869.7995286968,
+    "('Volume', 'HDFCBANK.BO')":440080
+  },
+  {
+    "('Date', '')":"2024-11-28",
+    "('Close', 'HDFCBANK.BO')":872.5980224609,
+    "('High', 'HDFCBANK.BO')":893.598984846,
+    "('Low', 'HDFCBANK.BO')":870.213198123,
+    "('Open', 'HDFCBANK.BO')":884.814090709,
+    "('Volume', 'HDFCBANK.BO')":431520
+  },
+  {
+    "('Date', '')":"2024-11-29",
+    "('Close', 'HDFCBANK.BO')":874.9098510742,
+    "('High', 'HDFCBANK.BO')":878.1220356366,
+    "('Low', 'HDFCBANK.BO')":867.8283942387,
+    "('Open', 'HDFCBANK.BO')":873.1577558048,
+    "('Volume', 'HDFCBANK.BO')":946180
+  },
+  {
+    "('Date', '')":"2024-12-02",
+    "('Close', 'HDFCBANK.BO')":878.2681274414,
+    "('High', 'HDFCBANK.BO')":879.9472064769,
+    "('Low', 'HDFCBANK.BO')":863.8862231728,
+    "('Open', 'HDFCBANK.BO')":874.9099099592,
+    "('Volume', 'HDFCBANK.BO')":355034
+  },
+  {
+    "('Date', '')":"2024-12-03",
+    "('Close', 'HDFCBANK.BO')":889.1213989258,
+    "('High', 'HDFCBANK.BO')":894.0613797818,
+    "('Low', 'HDFCBANK.BO')":884.0354447813,
+    "('Open', 'HDFCBANK.BO')":885.7388823585,
+    "('Volume', 'HDFCBANK.BO')":584826
+  },
+  {
+    "('Date', '')":"2024-12-04",
+    "('Close', 'HDFCBANK.BO')":905.2797241211,
+    "('High', 'HDFCBANK.BO')":907.6888477004,
+    "('Low', 'HDFCBANK.BO')":891.2384844977,
+    "('Open', 'HDFCBANK.BO')":894.5480440071,
+    "('Volume', 'HDFCBANK.BO')":940894
+  },
+  {
+    "('Date', '')":"2024-12-05",
+    "('Close', 'HDFCBANK.BO')":907.1048583984,
+    "('High', 'HDFCBANK.BO')":914.5026206016,
+    "('Low', 'HDFCBANK.BO')":893.5260156941,
+    "('Open', 'HDFCBANK.BO')":906.2287810325,
+    "('Volume', 'HDFCBANK.BO')":408008
+  },
+  {
+    "('Date', '')":"2024-12-06",
+    "('Close', 'HDFCBANK.BO')":903.551940918,
+    "('High', 'HDFCBANK.BO')":907.2751805664,
+    "('Low', 'HDFCBANK.BO')":897.3222027211,
+    "('Open', 'HDFCBANK.BO')":905.1337043481,
+    "('Volume', 'HDFCBANK.BO')":617672
+  },
+  {
+    "('Date', '')":"2024-12-09",
+    "('Close', 'HDFCBANK.BO')":910.0250854492,
+    "('High', 'HDFCBANK.BO')":914.9893656901,
+    "('Low', 'HDFCBANK.BO')":900.1694819092,
+    "('Open', 'HDFCBANK.BO')":901.8729195581,
+    "('Volume', 'HDFCBANK.BO')":596140
+  },
+  {
+    "('Date', '')":"2024-12-10",
+    "('Close', 'HDFCBANK.BO')":909.1733398438,
+    "('High', 'HDFCBANK.BO')":912.5558564539,
+    "('Low', 'HDFCBANK.BO')":904.5983812678,
+    "('Open', 'HDFCBANK.BO')":910.2440482842,
+    "('Volume', 'HDFCBANK.BO')":159434
+  },
+  {
+    "('Date', '')":"2024-12-11",
+    "('Close', 'HDFCBANK.BO')":907.0561523438,
+    "('High', 'HDFCBANK.BO')":910.633418789,
+    "('Low', 'HDFCBANK.BO')":903.7953098852,
+    "('Open', 'HDFCBANK.BO')":907.6888814948,
+    "('Volume', 'HDFCBANK.BO')":132976
+  },
+  {
+    "('Date', '')":"2024-12-12",
+    "('Close', 'HDFCBANK.BO')":904.7443237305,
+    "('High', 'HDFCBANK.BO')":909.465314847,
+    "('Low', 'HDFCBANK.BO')":900.0720497869,
+    "('Open', 'HDFCBANK.BO')":900.3640557687,
+    "('Volume', 'HDFCBANK.BO')":301542
+  },
+  {
+    "('Date', '')":"2024-12-13",
+    "('Close', 'HDFCBANK.BO')":911.1201171875,
+    "('High', 'HDFCBANK.BO')":912.3368583181,
+    "('Low', 'HDFCBANK.BO')":890.1678111539,
+    "('Open', 'HDFCBANK.BO')":902.9192344382,
+    "('Volume', 'HDFCBANK.BO')":456252
+  },
+  {
+    "('Date', '')":"2024-12-16",
+    "('Close', 'HDFCBANK.BO')":907.5915527344,
+    "('High', 'HDFCBANK.BO')":910.1223504793,
+    "('Low', 'HDFCBANK.BO')":902.8705615798,
+    "('Open', 'HDFCBANK.BO')":906.7154753705,
+    "('Volume', 'HDFCBANK.BO')":267518
+  },
+  {
+    "('Date', '')":"2024-12-17",
+    "('Close', 'HDFCBANK.BO')":892.0415649414,
+    "('High', 'HDFCBANK.BO')":906.3504522682,
+    "('Low', 'HDFCBANK.BO')":888.8780380574,
+    "('Open', 'HDFCBANK.BO')":903.3329580818,
+    "('Volume', 'HDFCBANK.BO')":208110
+  },
+  {
+    "('Date', '')":"2024-12-18",
+    "('Close', 'HDFCBANK.BO')":881.5045776367,
+    "('High', 'HDFCBANK.BO')":893.4043413666,
+    "('Low', 'HDFCBANK.BO')":879.6794659675,
+    "('Open', 'HDFCBANK.BO')":891.8712356822,
+    "('Volume', 'HDFCBANK.BO')":205646
+  },
+  {
+    "('Date', '')":"2024-12-19",
+    "('Close', 'HDFCBANK.BO')":872.8657226562,
+    "('High', 'HDFCBANK.BO')":876.1509236869,
+    "('Low', 'HDFCBANK.BO')":865.832982733,
+    "('Open', 'HDFCBANK.BO')":873.6444845036,
+    "('Volume', 'HDFCBANK.BO')":372168
+  },
+  {
+    "('Date', '')":"2024-12-20",
+    "('Close', 'HDFCBANK.BO')":862.4504394531,
+    "('High', 'HDFCBANK.BO')":874.763823584,
+    "('Low', 'HDFCBANK.BO')":859.9439409363,
+    "('Open', 'HDFCBANK.BO')":870.1888652232,
+    "('Volume', 'HDFCBANK.BO')":498684
+  },
+  {
+    "('Date', '')":"2024-12-23",
+    "('Close', 'HDFCBANK.BO')":876.5402832031,
+    "('High', 'HDFCBANK.BO')":878.9251076271,
+    "('Low', 'HDFCBANK.BO')":866.3196580242,
+    "('Open', 'HDFCBANK.BO')":866.3196580242,
+    "('Volume', 'HDFCBANK.BO')":286684
+  },
+  {
+    "('Date', '')":"2024-12-24",
+    "('Close', 'HDFCBANK.BO')":874.9098510742,
+    "('High', 'HDFCBANK.BO')":879.0467707377,
+    "('Low', 'HDFCBANK.BO')":870.7485728247,
+    "('Open', 'HDFCBANK.BO')":877.9760029428,
+    "('Volume', 'HDFCBANK.BO')":392930
+  },
+  {
+    "('Date', '')":"2024-12-26",
+    "('Close', 'HDFCBANK.BO')":872.0383300781,
+    "('High', 'HDFCBANK.BO')":881.6019268277,
+    "('Low', 'HDFCBANK.BO')":867.1713657691,
+    "('Open', 'HDFCBANK.BO')":874.8368345558,
+    "('Volume', 'HDFCBANK.BO')":209296
+  },
+  {
+    "('Date', '')":"2024-12-27",
+    "('Close', 'HDFCBANK.BO')":875.0071411133,
+    "('High', 'HDFCBANK.BO')":877.5136395422,
+    "('Low', 'HDFCBANK.BO')":870.943237915,
+    "('Open', 'HDFCBANK.BO')":871.3082602276,
+    "('Volume', 'HDFCBANK.BO')":437384
+  },
+  {
+    "('Date', '')":"2024-12-30",
+    "('Close', 'HDFCBANK.BO')":865.6868896484,
+    "('High', 'HDFCBANK.BO')":883.3539932785,
+    "('Low', 'HDFCBANK.BO')":862.1096828802,
+    "('Open', 'HDFCBANK.BO')":873.5957063927,
+    "('Volume', 'HDFCBANK.BO')":585012
+  },
+  {
+    "('Date', '')":"2024-12-31",
+    "('Close', 'HDFCBANK.BO')":862.6450805664,
+    "('High', 'HDFCBANK.BO')":866.9766907609,
+    "('Low', 'HDFCBANK.BO')":860.4793051748,
+    "('Open', 'HDFCBANK.BO')":861.4770566404,
+    "('Volume', 'HDFCBANK.BO')":214310
+  },
+  {
+    "('Date', '')":"2025-01-01",
+    "('Close', 'HDFCBANK.BO')":867.5120239258,
+    "('High', 'HDFCBANK.BO')":873.3280818844,
+    "('Low', 'HDFCBANK.BO')":857.5591057422,
+    "('Open', 'HDFCBANK.BO')":863.8861593033,
+    "('Volume', 'HDFCBANK.BO')":221390
+  },
+  {
+    "('Date', '')":"2025-01-02",
+    "('Close', 'HDFCBANK.BO')":872.8170776367,
+    "('High', 'HDFCBANK.BO')":877.5137103202,
+    "('Low', 'HDFCBANK.BO')":863.4481708571,
+    "('Open', 'HDFCBANK.BO')":866.5630400583,
+    "('Volume', 'HDFCBANK.BO')":158150
+  },
+  {
+    "('Date', '')":"2025-01-03",
+    "('Close', 'HDFCBANK.BO')":851.378112793,
+    "('High', 'HDFCBANK.BO')":873.522800983,
+    "('Low', 'HDFCBANK.BO')":849.9180234618,
+    "('Open', 'HDFCBANK.BO')":873.522800983,
+    "('Volume', 'HDFCBANK.BO')":805606
+  },
+  {
+    "('Date', '')":"2025-01-06",
+    "('Close', 'HDFCBANK.BO')":832.3969726562,
+    "('High', 'HDFCBANK.BO')":855.3446630331,
+    "('Low', 'HDFCBANK.BO')":829.8174576744,
+    "('Open', 'HDFCBANK.BO')":846.803175875,
+    "('Volume', 'HDFCBANK.BO')":3483778
+  },
+  {
+    "('Date', '')":"2025-01-07",
+    "('Close', 'HDFCBANK.BO')":834.2463989258,
+    "('High', 'HDFCBANK.BO')":837.8236060619,
+    "('Low', 'HDFCBANK.BO')":827.3839906503,
+    "('Open', 'HDFCBANK.BO')":832.4212871817,
+    "('Volume', 'HDFCBANK.BO')":528642
+  },
+  {
+    "('Date', '')":"2025-01-08",
+    "('Close', 'HDFCBANK.BO')":824.5368041992,
+    "('High', 'HDFCBANK.BO')":833.2486825528,
+    "('Low', 'HDFCBANK.BO')":819.1101268893,
+    "('Open', 'HDFCBANK.BO')":832.7376275149,
+    "('Volume', 'HDFCBANK.BO')":503808
+  },
+  {
+    "('Date', '')":"2025-01-09",
+    "('Close', 'HDFCBANK.BO')":811.6879882812,
+    "('High', 'HDFCBANK.BO')":822.3466522057,
+    "('Low', 'HDFCBANK.BO')":807.3563780805,
+    "('Open', 'HDFCBANK.BO')":822.3466522057,
+    "('Volume', 'HDFCBANK.BO')":330842
+  },
+  {
+    "('Date', '')":"2025-01-10",
+    "('Close', 'HDFCBANK.BO')":806.5290527344,
+    "('High', 'HDFCBANK.BO')":815.2165726864,
+    "('Low', 'HDFCBANK.BO')":805.0689633505,
+    "('Open', 'HDFCBANK.BO')":812.7830903799,
+    "('Volume', 'HDFCBANK.BO')":1266668
+  },
+  {
+    "('Date', '')":"2025-01-13",
+    "('Close', 'HDFCBANK.BO')":793.3638305664,
+    "('High', 'HDFCBANK.BO')":801.3213052335,
+    "('Low', 'HDFCBANK.BO')":790.5166683622,
+    "('Open', 'HDFCBANK.BO')":798.1821370565,
+    "('Volume', 'HDFCBANK.BO')":1538306
+  },
+  {
+    "('Date', '')":"2025-01-14",
+    "('Close', 'HDFCBANK.BO')":800.2506103516,
+    "('High', 'HDFCBANK.BO')":806.0909675504,
+    "('Low', 'HDFCBANK.BO')":795.7486683441,
+    "('Open', 'HDFCBANK.BO')":795.7486683441,
+    "('Volume', 'HDFCBANK.BO')":920284
+  },
+  {
+    "('Date', '')":"2025-01-15",
+    "('Close', 'HDFCBANK.BO')":799.5205688477,
+    "('High', 'HDFCBANK.BO')":809.2058397894,
+    "('Low', 'HDFCBANK.BO')":796.3570420192,
+    "('Open', 'HDFCBANK.BO')":806.9426894837,
+    "('Volume', 'HDFCBANK.BO')":146420
+  },
+  {
+    "('Date', '')":"2025-01-16",
+    "('Close', 'HDFCBANK.BO')":804.3875732422,
+    "('High', 'HDFCBANK.BO')":807.9161225727,
+    "('Low', 'HDFCBANK.BO')":799.7639568781,
+    "('Open', 'HDFCBANK.BO')":805.8476626203,
+    "('Volume', 'HDFCBANK.BO')":123996
+  },
+  {
+    "('Date', '')":"2025-01-17",
+    "('Close', 'HDFCBANK.BO')":796.5760498047,
+    "('High', 'HDFCBANK.BO')":803.1221526534,
+    "('Low', 'HDFCBANK.BO')":792.7068368215,
+    "('Open', 'HDFCBANK.BO')":800.5912954862,
+    "('Volume', 'HDFCBANK.BO')":366848
+  },
+  {
+    "('Date', '')":"2025-01-20",
+    "('Close', 'HDFCBANK.BO')":803.6575317383,
+    "('High', 'HDFCBANK.BO')":808.2811481207,
+    "('Low', 'HDFCBANK.BO')":792.3418390128,
+    "('Open', 'HDFCBANK.BO')":794.7509627318,
+    "('Volume', 'HDFCBANK.BO')":517802
+  },
+  {
+    "('Date', '')":"2025-01-21",
+    "('Close', 'HDFCBANK.BO')":799.0339355469,
+    "('High', 'HDFCBANK.BO')":808.1351358389,
+    "('Low', 'HDFCBANK.BO')":794.6536672844,
+    "('Open', 'HDFCBANK.BO')":807.9161461902,
+    "('Volume', 'HDFCBANK.BO')":2351170
+  },
+  {
+    "('Date', '')":"2025-01-22",
+    "('Close', 'HDFCBANK.BO')":810.3739624023,
+    "('High', 'HDFCBANK.BO')":813.6834626751,
+    "('Low', 'HDFCBANK.BO')":791.0277781671,
+    "('Open', 'HDFCBANK.BO')":800.5913160526,
+    "('Volume', 'HDFCBANK.BO')":2675162
+  },
+  {
+    "('Date', '')":"2025-01-23",
+    "('Close', 'HDFCBANK.BO')":810.2523193359,
+    "('High', 'HDFCBANK.BO')":820.0835644149,
+    "('Low', 'HDFCBANK.BO')":803.9009065414,
+    "('Open', 'HDFCBANK.BO')":818.9641387524,
+    "('Volume', 'HDFCBANK.BO')":3679172
+  },
+  {
+    "('Date', '')":"2025-01-24",
+    "('Close', 'HDFCBANK.BO')":802.8301391602,
+    "('High', 'HDFCBANK.BO')":813.0994221977,
+    "('Low', 'HDFCBANK.BO')":800.615646586,
+    "('Open', 'HDFCBANK.BO')":809.8385203916,
+    "('Volume', 'HDFCBANK.BO')":394304
+  },
+  {
+    "('Date', '')":"2025-01-27",
+    "('Close', 'HDFCBANK.BO')":793.1691894531,
+    "('High', 'HDFCBANK.BO')":798.9608891535,
+    "('Low', 'HDFCBANK.BO')":791.5631267973,
+    "('Open', 'HDFCBANK.BO')":798.1821867073,
+    "('Volume', 'HDFCBANK.BO')":174286
+  },
+  {
+    "('Date', '')":"2025-01-28",
+    "('Close', 'HDFCBANK.BO')":813.05078125,
+    "('High', 'HDFCBANK.BO')":819.5968247617,
+    "('Low', 'HDFCBANK.BO')":800.1289666913,
+    "('Open', 'HDFCBANK.BO')":800.1289666913,
+    "('Volume', 'HDFCBANK.BO')":850572
+  },
+  {
+    "('Date', '')":"2025-01-29",
+    "('Close', 'HDFCBANK.BO')":816.2385864258,
+    "('High', 'HDFCBANK.BO')":818.2827471174,
+    "('Low', 'HDFCBANK.BO')":812.2233408018,
+    "('Open', 'HDFCBANK.BO')":815.2165357855,
+    "('Volume', 'HDFCBANK.BO')":333324
+  },
+  {
+    "('Date', '')":"2025-01-30",
+    "('Close', 'HDFCBANK.BO')":823.5390014648,
+    "('High', 'HDFCBANK.BO')":825.5831620782,
+    "('Low', 'HDFCBANK.BO')":814.5108185089,
+    "('Open', 'HDFCBANK.BO')":816.3602292606,
+    "('Volume', 'HDFCBANK.BO')":162196
+  },
+  {
+    "('Date', '')":"2025-01-31",
+    "('Close', 'HDFCBANK.BO')":827.0189208984,
+    "('High', 'HDFCBANK.BO')":829.2090548658,
+    "('Low', 'HDFCBANK.BO')":819.6211588176,
+    "('Open', 'HDFCBANK.BO')":822.0059238309,
+    "('Volume', 'HDFCBANK.BO')":3913898
+  },
+  {
+    "('Date', '')":"2025-02-01",
+    "('Close', 'HDFCBANK.BO')":822.4439697266,
+    "('High', 'HDFCBANK.BO')":833.5163137699,
+    "('Low', 'HDFCBANK.BO')":815.8249100049,
+    "('Open', 'HDFCBANK.BO')":825.9482197518,
+    "('Volume', 'HDFCBANK.BO')":493228
+  },
+  {
+    "('Date', '')":"2025-02-03",
+    "('Close', 'HDFCBANK.BO')":817.7230834961,
+    "('High', 'HDFCBANK.BO')":820.8866105416,
+    "('Low', 'HDFCBANK.BO')":810.3739787034,
+    "('Open', 'HDFCBANK.BO')":812.7831024582,
+    "('Volume', 'HDFCBANK.BO')":232850
+  },
+  {
+    "('Date', '')":"2025-02-04",
+    "('Close', 'HDFCBANK.BO')":838.2129516602,
+    "('High', 'HDFCBANK.BO')":840.0380633273,
+    "('Low', 'HDFCBANK.BO')":817.7473424015,
+    "('Open', 'HDFCBANK.BO')":822.5169913228,
+    "('Volume', 'HDFCBANK.BO')":666756
+  },
+  {
+    "('Date', '')":"2025-02-05",
+    "('Close', 'HDFCBANK.BO')":845.6350708008,
+    "('High', 'HDFCBANK.BO')":848.7985976844,
+    "('Low', 'HDFCBANK.BO')":836.4851538961,
+    "('Open', 'HDFCBANK.BO')":842.4959025039,
+    "('Volume', 'HDFCBANK.BO')":459118
+  },
+  {
+    "('Date', '')":"2025-02-06",
+    "('Close', 'HDFCBANK.BO')":849.1392211914,
+    "('High', 'HDFCBANK.BO')":850.477636348,
+    "('Low', 'HDFCBANK.BO')":839.0889876357,
+    "('Open', 'HDFCBANK.BO')":844.5886215414,
+    "('Volume', 'HDFCBANK.BO')":332230
+  },
+  {
+    "('Date', '')":"2025-02-07",
+    "('Close', 'HDFCBANK.BO')":843.0068969727,
+    "('High', 'HDFCBANK.BO')":860.1873051737,
+    "('Low', 'HDFCBANK.BO')":839.6000218719,
+    "('Open', 'HDFCBANK.BO')":851.986481992,
+    "('Volume', 'HDFCBANK.BO')":736722
+  },
+  {
+    "('Date', '')":"2025-02-10",
+    "('Close', 'HDFCBANK.BO')":834.8790893555,
+    "('High', 'HDFCBANK.BO')":838.9429927681,
+    "('Low', 'HDFCBANK.BO')":831.7155624792,
+    "('Open', 'HDFCBANK.BO')":834.8304315935,
+    "('Volume', 'HDFCBANK.BO')":379900
+  },
+  {
+    "('Date', '')":"2025-02-11",
+    "('Close', 'HDFCBANK.BO')":827.3353271484,
+    "('High', 'HDFCBANK.BO')":832.5186563479,
+    "('Low', 'HDFCBANK.BO')":821.6409428997,
+    "('Open', 'HDFCBANK.BO')":830.3041636826,
+    "('Volume', 'HDFCBANK.BO')":791654
+  },
+  {
+    "('Date', '')":"2025-02-12",
+    "('Close', 'HDFCBANK.BO')":830.8151855469,
+    "('High', 'HDFCBANK.BO')":833.0296187125,
+    "('Low', 'HDFCBANK.BO')":818.4044262689,
+    "('Open', 'HDFCBANK.BO')":823.0036838839,
+    "('Volume', 'HDFCBANK.BO')":286904
+  },
+  {
+    "('Date', '')":"2025-02-13",
+    "('Close', 'HDFCBANK.BO')":826.2888793945,
+    "('High', 'HDFCBANK.BO')":834.1976965291,
+    "('Low', 'HDFCBANK.BO')":824.2934358767,
+    "('Open', 'HDFCBANK.BO')":827.359587796,
+    "('Volume', 'HDFCBANK.BO')":168386
+  },
+  {
+    "('Date', '')":"2025-02-14",
+    "('Close', 'HDFCBANK.BO')":824.9505004883,
+    "('High', 'HDFCBANK.BO')":827.5543146695,
+    "('Low', 'HDFCBANK.BO')":817.4310639386,
+    "('Open', 'HDFCBANK.BO')":827.4083413781,
+    "('Volume', 'HDFCBANK.BO')":921088
+  },
+  {
+    "('Date', '')":"2025-02-17",
+    "('Close', 'HDFCBANK.BO')":835.7794799805,
+    "('High', 'HDFCBANK.BO')":837.1178952199,
+    "('Low', 'HDFCBANK.BO')":818.1610922293,
+    "('Open', 'HDFCBANK.BO')":820.5945744828,
+    "('Volume', 'HDFCBANK.BO')":400910
+  },
+  {
+    "('Date', '')":"2025-02-18",
+    "('Close', 'HDFCBANK.BO')":838.3346557617,
+    "('High', 'HDFCBANK.BO')":842.7635816835,
+    "('Low', 'HDFCBANK.BO')":830.4744960185,
+    "('Open', 'HDFCBANK.BO')":834.6844322969,
+    "('Volume', 'HDFCBANK.BO')":263060
+  },
+  {
+    "('Date', '')":"2025-02-19",
+    "('Close', 'HDFCBANK.BO')":840.5004272461,
+    "('High', 'HDFCBANK.BO')":845.8297891261,
+    "('Low', 'HDFCBANK.BO')":833.7353939858,
+    "('Open', 'HDFCBANK.BO')":836.4608822776,
+    "('Volume', 'HDFCBANK.BO')":118266
+  },
+  {
+    "('Date', '')":"2025-02-20",
+    "('Close', 'HDFCBANK.BO')":820.7648925781,
+    "('High', 'HDFCBANK.BO')":834.7330567145,
+    "('Low', 'HDFCBANK.BO')":820.0835056763,
+    "('Open', 'HDFCBANK.BO')":834.7087575391,
+    "('Volume', 'HDFCBANK.BO')":530620
+  },
+  {
+    "('Date', '')":"2025-02-21",
+    "('Close', 'HDFCBANK.BO')":823.2713623047,
+    "('High', 'HDFCBANK.BO')":824.8531256875,
+    "('Low', 'HDFCBANK.BO')":816.5792864542,
+    "('Open', 'HDFCBANK.BO')":819.1831004483,
+    "('Volume', 'HDFCBANK.BO')":213784
+  },
+  {
+    "('Date', '')":"2025-02-24",
+    "('Close', 'HDFCBANK.BO')":815.5816040039,
+    "('High', 'HDFCBANK.BO')":819.8401980872,
+    "('Low', 'HDFCBANK.BO')":808.6948371184,
+    "('Open', 'HDFCBANK.BO')":817.6987217516,
+    "('Volume', 'HDFCBANK.BO')":332498
+  },
+  {
+    "('Date', '')":"2025-02-25",
+    "('Close', 'HDFCBANK.BO')":819.4021606445,
+    "('High', 'HDFCBANK.BO')":821.5436369834,
+    "('Low', 'HDFCBANK.BO')":813.7564935048,
+    "('Open', 'HDFCBANK.BO')":813.7564935048,
+    "('Volume', 'HDFCBANK.BO')":1691198
+  },
+  {
+    "('Date', '')":"2025-02-27",
+    "('Close', 'HDFCBANK.BO')":827.1162719727,
+    "('High', 'HDFCBANK.BO')":832.2509433702,
+    "('Low', 'HDFCBANK.BO')":819.3778458176,
+    "('Open', 'HDFCBANK.BO')":819.3778458176,
+    "('Volume', 'HDFCBANK.BO')":683484
+  },
+  {
+    "('Date', '')":"2025-02-28",
+    "('Close', 'HDFCBANK.BO')":842.5202026367,
+    "('High', 'HDFCBANK.BO')":845.2944080153,
+    "('Low', 'HDFCBANK.BO')":818.2827553633,
+    "('Open', 'HDFCBANK.BO')":818.2827553633,
+    "('Volume', 'HDFCBANK.BO')":774464
+  },
+  {
+    "('Date', '')":"2025-03-03",
+    "('Close', 'HDFCBANK.BO')":827.9923095703,
+    "('High', 'HDFCBANK.BO')":848.3118857199,
+    "('Low', 'HDFCBANK.BO')":824.536776766,
+    "('Open', 'HDFCBANK.BO')":844.5399883509,
+    "('Volume', 'HDFCBANK.BO')":396466
+  },
+  {
+    "('Date', '')":"2025-03-04",
+    "('Close', 'HDFCBANK.BO')":832.8106079102,
+    "('High', 'HDFCBANK.BO')":834.5383445896,
+    "('Low', 'HDFCBANK.BO')":824.6827418841,
+    "('Open', 'HDFCBANK.BO')":826.8972344046,
+    "('Volume', 'HDFCBANK.BO')":668002
+  },
+  {
+    "('Date', '')":"2025-03-05",
+    "('Close', 'HDFCBANK.BO')":822.395324707,
+    "('High', 'HDFCBANK.BO')":832.5672923735,
+    "('Low', 'HDFCBANK.BO')":821.6896386204,
+    "('Open', 'HDFCBANK.BO')":829.8174455544,
+    "('Volume', 'HDFCBANK.BO')":512170
+  },
+  {
+    "('Date', '')":"2025-03-06",
+    "('Close', 'HDFCBANK.BO')":822.395324707,
+    "('High', 'HDFCBANK.BO')":827.3839633093,
+    "('Low', 'HDFCBANK.BO')":814.0484687243,
+    "('Open', 'HDFCBANK.BO')":822.0059437834,
+    "('Volume', 'HDFCBANK.BO')":536738
+  },
+  {
+    "('Date', '')":"2025-03-07",
+    "('Close', 'HDFCBANK.BO')":822.2006225586,
+    "('High', 'HDFCBANK.BO')":827.8219902292,
+    "('Low', 'HDFCBANK.BO')":816.3602652535,
+    "('Open', 'HDFCBANK.BO')":821.0325392153,
+    "('Volume', 'HDFCBANK.BO')":640936
+  },
+  {
+    "('Date', '')":"2025-03-10",
+    "('Close', 'HDFCBANK.BO')":821.081237793,
+    "('High', 'HDFCBANK.BO')":827.0919268344,
+    "('Low', 'HDFCBANK.BO')":819.1100934827,
+    "('Open', 'HDFCBANK.BO')":821.7139075066,
+    "('Volume', 'HDFCBANK.BO')":300908
+  },
+  {
+    "('Date', '')":"2025-03-11",
+    "('Close', 'HDFCBANK.BO')":820.0591430664,
+    "('High', 'HDFCBANK.BO')":824.6584600725,
+    "('Low', 'HDFCBANK.BO')":812.9290877472,
+    "('Open', 'HDFCBANK.BO')":819.7428379093,
+    "('Volume', 'HDFCBANK.BO')":236464
+  },
+  {
+    "('Date', '')":"2025-03-12",
+    "('Close', 'HDFCBANK.BO')":833.1512451172,
+    "('High', 'HDFCBANK.BO')":836.6311363624,
+    "('Low', 'HDFCBANK.BO')":821.9572275859,
+    "('Open', 'HDFCBANK.BO')":821.9572275859,
+    "('Volume', 'HDFCBANK.BO')":1769046
+  },
+  {
+    "('Date', '')":"2025-03-13",
+    "('Close', 'HDFCBANK.BO')":830.2067871094,
+    "('High', 'HDFCBANK.BO')":837.361200806,
+    "('Low', 'HDFCBANK.BO')":827.3839240745,
+    "('Open', 'HDFCBANK.BO')":834.6357127031,
+    "('Volume', 'HDFCBANK.BO')":515124
+  },
+  {
+    "('Date', '')":"2025-03-17",
+    "('Close', 'HDFCBANK.BO')":832.2022705078,
+    "('High', 'HDFCBANK.BO')":839.0646785604,
+    "('Low', 'HDFCBANK.BO')":830.012136486,
+    "('Open', 'HDFCBANK.BO')":830.206826948,
+    "('Volume', 'HDFCBANK.BO')":194732
+  },
+  {
+    "('Date', '')":"2025-03-18",
+    "('Close', 'HDFCBANK.BO')":843.5179443359,
+    "('High', 'HDFCBANK.BO')":845.6350619613,
+    "('Low', 'HDFCBANK.BO')":834.9277403135,
+    "('Open', 'HDFCBANK.BO')":839.1863341507,
+    "('Volume', 'HDFCBANK.BO')":293816
+  },
+  {
+    "('Date', '')":"2025-03-19",
+    "('Close', 'HDFCBANK.BO')":848.7255859375,
+    "('High', 'HDFCBANK.BO')":851.8891128382,
+    "('Low', 'HDFCBANK.BO')":842.9582449315,
+    "('Open', 'HDFCBANK.BO')":843.931637824,
+    "('Volume', 'HDFCBANK.BO')":304434
+  },
+  {
+    "('Date', '')":"2025-03-20",
+    "('Close', 'HDFCBANK.BO')":860.138671875,
+    "('High', 'HDFCBANK.BO')":863.0344920285,
+    "('Low', 'HDFCBANK.BO')":851.3051193018,
+    "('Open', 'HDFCBANK.BO')":851.8161149347,
+    "('Volume', 'HDFCBANK.BO')":240534
+  },
+  {
+    "('Date', '')":"2025-03-21",
+    "('Close', 'HDFCBANK.BO')":861.379699707,
+    "('High', 'HDFCBANK.BO')":863.3751432688,
+    "('Low', 'HDFCBANK.BO')":851.4997974238,
+    "('Open', 'HDFCBANK.BO')":851.4997974238,
+    "('Volume', 'HDFCBANK.BO')":158096
+  },
+  {
+    "('Date', '')":"2025-03-24",
+    "('Close', 'HDFCBANK.BO')":876.61328125,
+    "('High', 'HDFCBANK.BO')":878.0003541845,
+    "('Low', 'HDFCBANK.BO')":863.1317545773,
+    "('Open', 'HDFCBANK.BO')":866.3196399382,
+    "('Volume', 'HDFCBANK.BO')":252380
+  },
+  {
+    "('Date', '')":"2025-03-25",
+    "('Close', 'HDFCBANK.BO')":886.4932250977,
+    "('High', 'HDFCBANK.BO')":897.419596047,
+    "('Low', 'HDFCBANK.BO')":876.661980572,
+    "('Open', 'HDFCBANK.BO')":876.661980572,
+    "('Volume', 'HDFCBANK.BO')":1423648
+  },
+  {
+    "('Date', '')":"2025-03-26",
+    "('Close', 'HDFCBANK.BO')":878.9494018555,
+    "('High', 'HDFCBANK.BO')":889.4377337803,
+    "('Low', 'HDFCBANK.BO')":877.2703229214,
+    "('Open', 'HDFCBANK.BO')":887.73429626,
+    "('Volume', 'HDFCBANK.BO')":480384
+  },
+  {
+    "('Date', '')":"2025-03-27",
+    "('Close', 'HDFCBANK.BO')":888.3426513672,
+    "('High', 'HDFCBANK.BO')":895.7647718621,
+    "('Low', 'HDFCBANK.BO')":875.4208374952,
+    "('Open', 'HDFCBANK.BO')":875.8102184004,
+    "('Volume', 'HDFCBANK.BO')":372786
+  },
+  {
+    "('Date', '')":"2025-03-28",
+    "('Close', 'HDFCBANK.BO')":889.9244384766,
+    "('High', 'HDFCBANK.BO')":893.7693522259,
+    "('Low', 'HDFCBANK.BO')":879.3387909311,
+    "('Open', 'HDFCBANK.BO')":890.6544831349,
+    "('Volume', 'HDFCBANK.BO')":697794
+  },
+  {
+    "('Date', '')":"2025-04-01",
+    "('Close', 'HDFCBANK.BO')":860.138671875,
+    "('High', 'HDFCBANK.BO')":880.9205868161,
+    "('Low', 'HDFCBANK.BO')":859.0192462599,
+    "('Open', 'HDFCBANK.BO')":876.053622248,
+    "('Volume', 'HDFCBANK.BO')":1022136
+  },
+  {
+    "('Date', '')":"2025-04-02",
+    "('Close', 'HDFCBANK.BO')":874.7882080078,
+    "('High', 'HDFCBANK.BO')":875.7129431418,
+    "('Low', 'HDFCBANK.BO')":860.138656797,
+    "('Open', 'HDFCBANK.BO')":860.138656797,
+    "('Volume', 'HDFCBANK.BO')":238730
+  },
+  {
+    "('Date', '')":"2025-04-03",
+    "('Close', 'HDFCBANK.BO')":872.9874267578,
+    "('High', 'HDFCBANK.BO')":877.9274077669,
+    "('Low', 'HDFCBANK.BO')":864.7135868409,
+    "('Open', 'HDFCBANK.BO')":865.8573710643,
+    "('Volume', 'HDFCBANK.BO')":438026
+  },
+  {
+    "('Date', '')":"2025-04-04",
+    "('Close', 'HDFCBANK.BO')":884.3273925781,
+    "('High', 'HDFCBANK.BO')":896.5921185621,
+    "('Low', 'HDFCBANK.BO')":879.9227662254,
+    "('Open', 'HDFCBANK.BO')":879.9471248108,
+    "('Volume', 'HDFCBANK.BO')":524660
+  },
+  {
+    "('Date', '')":"2025-04-07",
+    "('Close', 'HDFCBANK.BO')":855.6853637695,
+    "('High', 'HDFCBANK.BO')":866.1249787151,
+    "('Low', 'HDFCBANK.BO')":845.9027771403,
+    "('Open', 'HDFCBANK.BO')":856.5857403075,
+    "('Volume', 'HDFCBANK.BO')":1568840
+  },
+  {
+    "('Date', '')":"2025-04-08",
+    "('Close', 'HDFCBANK.BO')":861.0146484375,
+    "('High', 'HDFCBANK.BO')":867.2930443105,
+    "('Low', 'HDFCBANK.BO')":852.0107644197,
+    "('Open', 'HDFCBANK.BO')":858.5811662705,
+    "('Volume', 'HDFCBANK.BO')":1014748
+  },
+  {
+    "('Date', '')":"2025-04-09",
+    "('Close', 'HDFCBANK.BO')":859.2625732422,
+    "('High', 'HDFCBANK.BO')":863.1074870381,
+    "('Low', 'HDFCBANK.BO')":853.3978573182,
+    "('Open', 'HDFCBANK.BO')":860.3576402429,
+    "('Volume', 'HDFCBANK.BO')":561706
+  },
+  {
+    "('Date', '')":"2025-04-11",
+    "('Close', 'HDFCBANK.BO')":879.2657470703,
+    "('High', 'HDFCBANK.BO')":885.2764360201,
+    "('Low', 'HDFCBANK.BO')":863.3994555418,
+    "('Open', 'HDFCBANK.BO')":863.3994555418,
+    "('Volume', 'HDFCBANK.BO')":689180
+  },
+  {
+    "('Date', '')":"2025-04-15",
+    "('Close', 'HDFCBANK.BO')":907.6401977539,
+    "('High', 'HDFCBANK.BO')":912.9938585639,
+    "('Low', 'HDFCBANK.BO')":902.5541843377,
+    "('Open', 'HDFCBANK.BO')":910.1953540496,
+    "('Volume', 'HDFCBANK.BO')":2055602
+  },
+  {
+    "('Date', '')":"2025-04-16",
+    "('Close', 'HDFCBANK.BO')":913.9672851562,
+    "('High', 'HDFCBANK.BO')":915.9870873277,
+    "('Low', 'HDFCBANK.BO')":905.7421031806,
+    "('Open', 'HDFCBANK.BO')":915.9627287405,
+    "('Volume', 'HDFCBANK.BO')":716014
+  },
+  {
+    "('Date', '')":"2025-04-17",
+    "('Close', 'HDFCBANK.BO')":927.9111328125,
+    "('High', 'HDFCBANK.BO')":934.1408116741,
+    "('Low', 'HDFCBANK.BO')":913.8942514043,
+    "('Open', 'HDFCBANK.BO')":914.5269805486,
+    "('Volume', 'HDFCBANK.BO')":817432
+  },
+  {
+    "('Date', '')":"2025-04-21",
+    "('Close', 'HDFCBANK.BO')":938.1317749023,
+    "('High', 'HDFCBANK.BO')":949.0580865445,
+    "('Low', 'HDFCBANK.BO')":930.3689308042,
+    "('Open', 'HDFCBANK.BO')":935.4549444018,
+    "('Volume', 'HDFCBANK.BO')":989274
+  },
+  {
+    "('Date', '')":"2025-04-22",
+    "('Close', 'HDFCBANK.BO')":954.8497924805,
+    "('High', 'HDFCBANK.BO')":959.1083864864,
+    "('Low', 'HDFCBANK.BO')":941.8549614099,
+    "('Open', 'HDFCBANK.BO')":944.191128172,
+    "('Volume', 'HDFCBANK.BO')":1781240
+  },
+  {
+    "('Date', '')":"2025-04-23",
+    "('Close', 'HDFCBANK.BO')":935.9659423828,
+    "('High', 'HDFCBANK.BO')":962.6612311045,
+    "('Low', 'HDFCBANK.BO')":934.5545107786,
+    "('Open', 'HDFCBANK.BO')":958.4513542903,
+    "('Volume', 'HDFCBANK.BO')":2416670
+  },
+  {
+    "('Date', '')":"2025-04-24",
+    "('Close', 'HDFCBANK.BO')":932.6807250977,
+    "('High', 'HDFCBANK.BO')":936.4039648025,
+    "('Low', 'HDFCBANK.BO')":926.4510462176,
+    "('Open', 'HDFCBANK.BO')":930.5392488468,
+    "('Volume', 'HDFCBANK.BO')":564164
+  },
+  {
+    "('Date', '')":"2025-04-25",
+    "('Close', 'HDFCBANK.BO')":929.760559082,
+    "('High', 'HDFCBANK.BO')":940.7842456481,
+    "('Low', 'HDFCBANK.BO')":920.7810332696,
+    "('Open', 'HDFCBANK.BO')":935.4549432409,
+    "('Volume', 'HDFCBANK.BO')":677324
+  },
+  {
+    "('Date', '')":"2025-04-28",
+    "('Close', 'HDFCBANK.BO')":934.1651611328,
+    "('High', 'HDFCBANK.BO')":939.0564247202,
+    "('Low', 'HDFCBANK.BO')":929.5658441167,
+    "('Open', 'HDFCBANK.BO')":929.5902027032,
+    "('Volume', 'HDFCBANK.BO')":655096
+  },
+  {
+    "('Date', '')":"2025-04-29",
+    "('Close', 'HDFCBANK.BO')":928.7385253906,
+    "('High', 'HDFCBANK.BO')":938.8374769965,
+    "('Low', 'HDFCBANK.BO')":924.7232795714,
+    "('Open', 'HDFCBANK.BO')":936.8176747931,
+    "('Volume', 'HDFCBANK.BO')":560452
+  },
+  {
+    "('Date', '')":"2025-04-30",
+    "('Close', 'HDFCBANK.BO')":936.2822875977,
+    "('High', 'HDFCBANK.BO')":942.4390095192,
+    "('Low', 'HDFCBANK.BO')":929.6875269927,
+    "('Open', 'HDFCBANK.BO')":931.7559868873,
+    "('Volume', 'HDFCBANK.BO')":467230
+  },
+  {
+    "('Date', '')":"2025-05-02",
+    "('Close', 'HDFCBANK.BO')":936.6716918945,
+    "('High', 'HDFCBANK.BO')":945.0915049702,
+    "('Low', 'HDFCBANK.BO')":934.749205239,
+    "('Open', 'HDFCBANK.BO')":939.3241638258,
+    "('Volume', 'HDFCBANK.BO')":411418
+  },
+  {
+    "('Date', '')":"2025-05-05",
+    "('Close', 'HDFCBANK.BO')":942.3173217773,
+    "('High', 'HDFCBANK.BO')":950.0314484494,
+    "('Low', 'HDFCBANK.BO')":940.784216113,
+    "('Open', 'HDFCBANK.BO')":943.6070792223,
+    "('Volume', 'HDFCBANK.BO')":536622
+  },
+  {
+    "('Date', '')":"2025-05-06",
+    "('Close', 'HDFCBANK.BO')":939.5918579102,
+    "('High', 'HDFCBANK.BO')":943.9234087982,
+    "('Low', 'HDFCBANK.BO')":936.4039723894,
+    "('Open', 'HDFCBANK.BO')":942.2199712185,
+    "('Volume', 'HDFCBANK.BO')":345188
+  },
+  {
+    "('Date', '')":"2025-05-07",
+    "('Close', 'HDFCBANK.BO')":946.4542236328,
+    "('High', 'HDFCBANK.BO')":948.4010093511,
+    "('Low', 'HDFCBANK.BO')":935.5765703143,
+    "('Open', 'HDFCBANK.BO')":939.616115033,
+    "('Volume', 'HDFCBANK.BO')":247002
+  },
+  {
+    "('Date', '')":"2025-05-08",
+    "('Close', 'HDFCBANK.BO')":937.5233764648,
+    "('High', 'HDFCBANK.BO')":951.4915405333,
+    "('Low', 'HDFCBANK.BO')":933.5324300087,
+    "('Open', 'HDFCBANK.BO')":951.4915405333,
+    "('Volume', 'HDFCBANK.BO')":662080
+  },
+  {
+    "('Date', '')":"2025-05-09",
+    "('Close', 'HDFCBANK.BO')":919.4669189453,
+    "('High', 'HDFCBANK.BO')":933.9704970676,
+    "('Low', 'HDFCBANK.BO')":918.1285036942,
+    "('Open', 'HDFCBANK.BO')":927.2297630486,
+    "('Volume', 'HDFCBANK.BO')":215188
+  },
+  {
+    "('Date', '')":"2025-05-12",
+    "('Close', 'HDFCBANK.BO')":952.7326660156,
+    "('High', 'HDFCBANK.BO')":953.9250485619,
+    "('Low', 'HDFCBANK.BO')":931.5370117078,
+    "('Open', 'HDFCBANK.BO')":934.4571904279,
+    "('Volume', 'HDFCBANK.BO')":654806
+  },
+  {
+    "('Date', '')":"2025-05-13",
+    "('Close', 'HDFCBANK.BO')":935.9659423828,
+    "('High', 'HDFCBANK.BO')":955.0444790993,
+    "('Low', 'HDFCBANK.BO')":934.7005434798,
+    "('Open', 'HDFCBANK.BO')":946.1622687798,
+    "('Volume', 'HDFCBANK.BO')":1077448
+  },
+  {
+    "('Date', '')":"2025-05-14",
+    "('Close', 'HDFCBANK.BO')":929.9796142578,
+    "('High', 'HDFCBANK.BO')":939.4214779993,
+    "('Low', 'HDFCBANK.BO')":926.2563744777,
+    "('Open', 'HDFCBANK.BO')":936.3796251416,
+    "('Volume', 'HDFCBANK.BO')":331364
+  },
+  {
+    "('Date', '')":"2025-05-15",
+    "('Close', 'HDFCBANK.BO')":941.149230957,
+    "('High', 'HDFCBANK.BO')":946.1865271758,
+    "('Low', 'HDFCBANK.BO')":923.263136975,
+    "('Open', 'HDFCBANK.BO')":929.9065551934,
+    "('Volume', 'HDFCBANK.BO')":509866
+  },
+  {
+    "('Date', '')":"2025-05-16",
+    "('Close', 'HDFCBANK.BO')":941.1005859375,
+    "('High', 'HDFCBANK.BO')":945.7242021315,
+    "('Low', 'HDFCBANK.BO')":938.3993969228,
+    "('Open', 'HDFCBANK.BO')":939.4701647408,
+    "('Volume', 'HDFCBANK.BO')":1282266
+  },
+  {
+    "('Date', '')":"2025-05-19",
+    "('Close', 'HDFCBANK.BO')":943.5584106445,
+    "('High', 'HDFCBANK.BO')":946.6246221311,
+    "('Low', 'HDFCBANK.BO')":939.9325457535,
+    "('Open', 'HDFCBANK.BO')":944.9942008595,
+    "('Volume', 'HDFCBANK.BO')":624670
+  },
+  {
+    "('Date', '')":"2025-05-20",
+    "('Close', 'HDFCBANK.BO')":931.7073364258,
+    "('High', 'HDFCBANK.BO')":942.1470109166,
+    "('Low', 'HDFCBANK.BO')":931.0259495141,
+    "('Open', 'HDFCBANK.BO')":938.3507548452,
+    "('Volume', 'HDFCBANK.BO')":688198
+  },
+  {
+    "('Date', '')":"2025-05-21",
+    "('Close', 'HDFCBANK.BO')":937.6693115234,
+    "('High', 'HDFCBANK.BO')":947.4275985155,
+    "('Low', 'HDFCBANK.BO')":935.1141553167,
+    "('Open', 'HDFCBANK.BO')":937.2069736886,
+    "('Volume', 'HDFCBANK.BO')":418114
+  },
+  {
+    "('Date', '')":"2025-05-22",
+    "('Close', 'HDFCBANK.BO')":934.5788574219,
+    "('High', 'HDFCBANK.BO')":936.3796105211,
+    "('Low', 'HDFCBANK.BO')":927.4244433766,
+    "('Open', 'HDFCBANK.BO')":932.0237010613,
+    "('Volume', 'HDFCBANK.BO')":246520
+  },
+  {
+    "('Date', '')":"2025-05-23",
+    "('Close', 'HDFCBANK.BO')":941.051940918,
+    "('High', 'HDFCBANK.BO')":942.7066613124,
+    "('Low', 'HDFCBANK.BO')":931.9506816925,
+    "('Open', 'HDFCBANK.BO')":934.5788543942,
+    "('Volume', 'HDFCBANK.BO')":581020
+  },
+  {
+    "('Date', '')":"2025-05-26",
+    "('Close', 'HDFCBANK.BO')":944.1667480469,
+    "('High', 'HDFCBANK.BO')":949.0094133384,
+    "('Low', 'HDFCBANK.BO')":937.8884114132,
+    "('Open', 'HDFCBANK.BO')":940.7842315067,
+    "('Volume', 'HDFCBANK.BO')":676958
+  },
+  {
+    "('Date', '')":"2025-05-27",
+    "('Close', 'HDFCBANK.BO')":937.6937255859,
+    "('High', 'HDFCBANK.BO')":948.1819984178,
+    "('Low', 'HDFCBANK.BO')":932.5347551075,
+    "('Open', 'HDFCBANK.BO')":941.2465740178,
+    "('Volume', 'HDFCBANK.BO')":2313634
+  },
+  {
+    "('Date', '')":"2025-05-28",
+    "('Close', 'HDFCBANK.BO')":936.306640625,
+    "('High', 'HDFCBANK.BO')":941.3925946889,
+    "('Low', 'HDFCBANK.BO')":933.4837774917,
+    "('Open', 'HDFCBANK.BO')":935.4305632633,
+    "('Volume', 'HDFCBANK.BO')":269178
+  },
+  {
+    "('Date', '')":"2025-05-29",
+    "('Close', 'HDFCBANK.BO')":938.7888183594,
+    "('High', 'HDFCBANK.BO')":944.5561595575,
+    "('Low', 'HDFCBANK.BO')":928.1788117128,
+    "('Open', 'HDFCBANK.BO')":944.1181208591,
+    "('Volume', 'HDFCBANK.BO')":570754
+  },
+  {
+    "('Date', '')":"2025-05-30",
+    "('Close', 'HDFCBANK.BO')":946.4298706055,
+    "('High', 'HDFCBANK.BO')":948.3766563352,
+    "('Low', 'HDFCBANK.BO')":936.9392901732,
+    "('Open', 'HDFCBANK.BO')":936.9392901732,
+    "('Volume', 'HDFCBANK.BO')":683514
+  },
+  {
+    "('Date', '')":"2025-06-02",
+    "('Close', 'HDFCBANK.BO')":940.7112426758,
+    "('High', 'HDFCBANK.BO')":942.0983157073,
+    "('Low', 'HDFCBANK.BO')":928.6168475033,
+    "('Open', 'HDFCBANK.BO')":941.6359778338,
+    "('Volume', 'HDFCBANK.BO')":514832
+  },
+  {
+    "('Date', '')":"2025-06-03",
+    "('Close', 'HDFCBANK.BO')":937.0123291016,
+    "('High', 'HDFCBANK.BO')":950.1774916803,
+    "('Low', 'HDFCBANK.BO')":934.4571727698,
+    "('Open', 'HDFCBANK.BO')":942.7310123203,
+    "('Volume', 'HDFCBANK.BO')":2630384
+  },
+  {
+    "('Date', '')":"2025-06-04",
+    "('Close', 'HDFCBANK.BO')":944.5804443359,
+    "('High', 'HDFCBANK.BO')":945.9188595032,
+    "('Low', 'HDFCBANK.BO')":933.0214042553,
+    "('Open', 'HDFCBANK.BO')":933.0214042553,
+    "('Volume', 'HDFCBANK.BO')":346950
+  },
+  {
+    "('Date', '')":"2025-06-05",
+    "('Close', 'HDFCBANK.BO')":949.49609375,
+    "('High', 'HDFCBANK.BO')":953.6573126525,
+    "('Low', 'HDFCBANK.BO')":944.5804716034,
+    "('Open', 'HDFCBANK.BO')":949.0580550731,
+    "('Volume', 'HDFCBANK.BO')":428866
+  },
+  {
+    "('Date', '')":"2025-06-06",
+    "('Close', 'HDFCBANK.BO')":963.0262451172,
+    "('High', 'HDFCBANK.BO')":971.5921501952,
+    "('Low', 'HDFCBANK.BO')":945.310541806,
+    "('Open', 'HDFCBANK.BO')":947.0626371498,
+    "('Volume', 'HDFCBANK.BO')":1915398
+  },
+  {
+    "('Date', '')":"2025-06-09",
+    "('Close', 'HDFCBANK.BO')":962.9775390625,
+    "('High', 'HDFCBANK.BO')":970.4483173385,
+    "('Low', 'HDFCBANK.BO')":961.8824721012,
+    "('Open', 'HDFCBANK.BO')":967.0901595194,
+    "('Volume', 'HDFCBANK.BO')":1154360
+  },
+  {
+    "('Date', '')":"2025-06-10",
+    "('Close', 'HDFCBANK.BO')":956.7965698242,
+    "('High', 'HDFCBANK.BO')":965.1190672969,
+    "('Low', 'HDFCBANK.BO')":954.4604030829,
+    "('Open', 'HDFCBANK.BO')":965.1190672969,
+    "('Volume', 'HDFCBANK.BO')":663394
+  },
+  {
+    "('Date', '')":"2025-06-11",
+    "('Close', 'HDFCBANK.BO')":948.8633422852,
+    "('High', 'HDFCBANK.BO')":956.8938333314,
+    "('Low', 'HDFCBANK.BO')":947.5979434571,
+    "('Open', 'HDFCBANK.BO')":956.8451755709,
+    "('Volume', 'HDFCBANK.BO')":281324
+  },
+  {
+    "('Date', '')":"2025-06-12",
+    "('Close', 'HDFCBANK.BO')":945.1401367188,
+    "('High', 'HDFCBANK.BO')":954.4117277518,
+    "('Low', 'HDFCBANK.BO')":941.8306365426,
+    "('Open', 'HDFCBANK.BO')":949.0580668618,
+    "('Volume', 'HDFCBANK.BO')":330256
+  },
+  {
+    "('Date', '')":"2025-06-13",
+    "('Close', 'HDFCBANK.BO')":933.1187133789,
+    "('High', 'HDFCBANK.BO')":940.5651923864,
+    "('Low', 'HDFCBANK.BO')":929.5901643258,
+    "('Open', 'HDFCBANK.BO')":929.5901643258,
+    "('Volume', 'HDFCBANK.BO')":399484
+  },
+  {
+    "('Date', '')":"2025-06-16",
+    "('Close', 'HDFCBANK.BO')":941.7819824219,
+    "('High', 'HDFCBANK.BO')":943.5827355092,
+    "('Low', 'HDFCBANK.BO')":934.4815357255,
+    "('Open', 'HDFCBANK.BO')":934.4815357255,
+    "('Volume', 'HDFCBANK.BO')":613800
+  },
+  {
+    "('Date', '')":"2025-06-17",
+    "('Close', 'HDFCBANK.BO')":939.1294555664,
+    "('High', 'HDFCBANK.BO')":945.1401448259,
+    "('Low', 'HDFCBANK.BO')":934.2381919035,
+    "('Open', 'HDFCBANK.BO')":945.1401448259,
+    "('Volume', 'HDFCBANK.BO')":2412340
+  },
+  {
+    "('Date', '')":"2025-06-18",
+    "('Close', 'HDFCBANK.BO')":941.2222900391,
+    "('High', 'HDFCBANK.BO')":942.0983080149,
+    "('Low', 'HDFCBANK.BO')":933.7271527193,
+    "('Open', 'HDFCBANK.BO')":935.3819325553,
+    "('Volume', 'HDFCBANK.BO')":390764
+  },
+  {
+    "('Date', '')":"2025-06-19",
+    "('Close', 'HDFCBANK.BO')":941.6602783203,
+    "('High', 'HDFCBANK.BO')":947.1112545822,
+    "('Low', 'HDFCBANK.BO')":937.8640223946,
+    "('Open', 'HDFCBANK.BO')":939.4457857951,
+    "('Volume', 'HDFCBANK.BO')":305440
+  },
+  {
+    "('Date', '')":"2025-06-20",
+    "('Close', 'HDFCBANK.BO')":956.69921875,
+    "('High', 'HDFCBANK.BO')":958.3783572032,
+    "('Low', 'HDFCBANK.BO')":940.2002560937,
+    "('Open', 'HDFCBANK.BO')":941.5143127864,
+    "('Volume', 'HDFCBANK.BO')":643926
+  },
+  {
+    "('Date', '')":"2025-06-23",
+    "('Close', 'HDFCBANK.BO')":947.9873657227,
+    "('High', 'HDFCBANK.BO')":952.7082975065,
+    "('Low', 'HDFCBANK.BO')":945.2131603208,
+    "('Open', 'HDFCBANK.BO')":947.3059788128,
+    "('Volume', 'HDFCBANK.BO')":463306
+  },
+  {
+    "('Date', '')":"2025-06-24",
+    "('Close', 'HDFCBANK.BO')":954.1683959961,
+    "('High', 'HDFCBANK.BO')":963.0992640254,
+    "('Low', 'HDFCBANK.BO')":951.6132396181,
+    "('Open', 'HDFCBANK.BO')":954.0223632957,
+    "('Volume', 'HDFCBANK.BO')":4930658
+  },
+  {
+    "('Date', '')":"2025-06-25",
+    "('Close', 'HDFCBANK.BO')":963.7562866211,
+    "('High', 'HDFCBANK.BO')":964.6323639957,
+    "('Low', 'HDFCBANK.BO')":955.336473682,
+    "('Open', 'HDFCBANK.BO')":959.9357313705,
+    "('Volume', 'HDFCBANK.BO')":253714
+  },
+  {
+    "('Date', '')":"2025-06-26",
+    "('Close', 'HDFCBANK.BO')":984.5869140625,
+    "('High', 'HDFCBANK.BO')":986.7283903154,
+    "('Low', 'HDFCBANK.BO')":963.6589668036,
+    "('Open', 'HDFCBANK.BO')":963.6589668036,
+    "('Volume', 'HDFCBANK.BO')":692184
+  },
+  {
+    "('Date', '')":"2025-06-27",
+    "('Close', 'HDFCBANK.BO')":1002.1990356445,
+    "('High', 'HDFCBANK.BO')":1004.8856416784,
+    "('Low', 'HDFCBANK.BO')":991.5770515878,
+    "('Open', 'HDFCBANK.BO')":1002.0000165435,
+    "('Volume', 'HDFCBANK.BO')":469082
+  },
+  {
+    "('Date', '')":"2025-06-30",
+    "('Close', 'HDFCBANK.BO')":995.3829956055,
+    "('High', 'HDFCBANK.BO')":1001.9751008755,
+    "('Low', 'HDFCBANK.BO')":992.5471708388,
+    "('Open', 'HDFCBANK.BO')":999.0397969258,
+    "('Volume', 'HDFCBANK.BO')":423894
+  },
+  {
+    "('Date', '')":"2025-07-01",
+    "('Close', 'HDFCBANK.BO')":1000.9800415039,
+    "('High', 'HDFCBANK.BO')":1002.6716126969,
+    "('Low', 'HDFCBANK.BO')":996.5770249556,
+    "('Open', 'HDFCBANK.BO')":996.5770249556,
+    "('Volume', 'HDFCBANK.BO')":4418420
+  },
+  {
+    "('Date', '')":"2025-07-02",
+    "('Close', 'HDFCBANK.BO')":987.9202270508,
+    "('High', 'HDFCBANK.BO')":1004.9850973028,
+    "('Low', 'HDFCBANK.BO')":983.7908692784,
+    "('Open', 'HDFCBANK.BO')":1004.9850973028,
+    "('Volume', 'HDFCBANK.BO')":387958
+  },
+  {
+    "('Date', '')":"2025-07-03",
+    "('Close', 'HDFCBANK.BO')":987.8953857422,
+    "('High', 'HDFCBANK.BO')":998.9651473127,
+    "('Low', 'HDFCBANK.BO')":987.0744699287,
+    "('Open', 'HDFCBANK.BO')":990.6317312989,
+    "('Volume', 'HDFCBANK.BO')":572894
+  },
+  {
+    "('Date', '')":"2025-07-04",
+    "('Close', 'HDFCBANK.BO')":989.6864624023,
+    "('High', 'HDFCBANK.BO')":997.1492232097,
+    "('Low', 'HDFCBANK.BO')":984.6863883686,
+    "('Open', 'HDFCBANK.BO')":988.5670482812,
+    "('Volume', 'HDFCBANK.BO')":777714
+  },
+  {
+    "('Date', '')":"2025-07-07",
+    "('Close', 'HDFCBANK.BO')":988.69140625,
+    "('High', 'HDFCBANK.BO')":994.0894576375,
+    "('Low', 'HDFCBANK.BO')":986.9003558414,
+    "('Open', 'HDFCBANK.BO')":989.6615408411,
+    "('Volume', 'HDFCBANK.BO')":420696
+  },
+  {
+    "('Date', '')":"2025-07-08",
+    "('Close', 'HDFCBANK.BO')":995.7810058594,
+    "('High', 'HDFCBANK.BO')":997.8208149091,
+    "('Low', 'HDFCBANK.BO')":984.0893477841,
+    "('Open', 'HDFCBANK.BO')":984.0893477841,
+    "('Volume', 'HDFCBANK.BO')":2929576
+  },
+  {
+    "('Date', '')":"2025-07-09",
+    "('Close', 'HDFCBANK.BO')":1000.3084106445,
+    "('High', 'HDFCBANK.BO')":1001.6268438197,
+    "('Low', 'HDFCBANK.BO')":994.1143436891,
+    "('Open', 'HDFCBANK.BO')":995.0098385147,
+    "('Volume', 'HDFCBANK.BO')":1383082
+  },
+  {
+    "('Date', '')":"2025-07-10",
+    "('Close', 'HDFCBANK.BO')":998.2437133789,
+    "('High', 'HDFCBANK.BO')":1003.3681666373,
+    "('Low', 'HDFCBANK.BO')":995.1840301065,
+    "('Open', 'HDFCBANK.BO')":1001.5273766416,
+    "('Volume', 'HDFCBANK.BO')":469986
+  },
+  {
+    "('Date', '')":"2025-07-11",
+    "('Close', 'HDFCBANK.BO')":986.8506469727,
+    "('High', 'HDFCBANK.BO')":997.4477309806,
+    "('Low', 'HDFCBANK.BO')":986.0794707224,
+    "('Open', 'HDFCBANK.BO')":993.5422316007,
+    "('Volume', 'HDFCBANK.BO')":202422
+  },
+  {
+    "('Date', '')":"2025-07-14",
+    "('Close', 'HDFCBANK.BO')":986.576965332,
+    "('High', 'HDFCBANK.BO')":989.611809206,
+    "('Low', 'HDFCBANK.BO')":980.3828982389,
+    "('Open', 'HDFCBANK.BO')":986.8506241841,
+    "('Volume', 'HDFCBANK.BO')":209356
+  },
+  {
+    "('Date', '')":"2025-07-15",
+    "('Close', 'HDFCBANK.BO')":992.696472168,
+    "('High', 'HDFCBANK.BO')":996.5273317766,
+    "('Low', 'HDFCBANK.BO')":982.3978257598,
+    "('Open', 'HDFCBANK.BO')":983.5669794794,
+    "('Volume', 'HDFCBANK.BO')":2492210
+  },
+  {
+    "('Date', '')":"2025-07-16",
+    "('Close', 'HDFCBANK.BO')":993.1441650391,
+    "('High', 'HDFCBANK.BO')":1005.9303980848,
+    "('Low', 'HDFCBANK.BO')":991.5521337233,
+    "('Open', 'HDFCBANK.BO')":1002.0994778374,
+    "('Volume', 'HDFCBANK.BO')":1009534
+  },
+  {
+    "('Date', '')":"2025-07-17",
+    "('Close', 'HDFCBANK.BO')":988.367980957,
+    "('High', 'HDFCBANK.BO')":996.5272778547,
+    "('Low', 'HDFCBANK.BO')":986.6018307581,
+    "('Open', 'HDFCBANK.BO')":995.0596259271,
+    "('Volume', 'HDFCBANK.BO')":2151788
+  },
+  {
+    "('Date', '')":"2025-07-18",
+    "('Close', 'HDFCBANK.BO')":973.8405151367,
+    "('High', 'HDFCBANK.BO')":993.9153289307,
+    "('Low', 'HDFCBANK.BO')":971.6514265557,
+    "('Open', 'HDFCBANK.BO')":990.0595693015,
+    "('Volume', 'HDFCBANK.BO')":777394
+  },
+  {
+    "('Date', '')":"2025-07-21",
+    "('Close', 'HDFCBANK.BO')":995.1342163086,
+    "('High', 'HDFCBANK.BO')":996.1790513683,
+    "('Low', 'HDFCBANK.BO')":983.5669374895,
+    "('Open', 'HDFCBANK.BO')":983.5669374895,
+    "('Volume', 'HDFCBANK.BO')":2244408
+  },
+  {
+    "('Date', '')":"2025-07-22",
+    "('Close', 'HDFCBANK.BO')":998.3930053711,
+    "('High', 'HDFCBANK.BO')":1003.8905967298,
+    "('Low', 'HDFCBANK.BO')":996.4775755987,
+    "('Open', 'HDFCBANK.BO')":1000.034837023,
+    "('Volume', 'HDFCBANK.BO')":3909874
+  },
+  {
+    "('Date', '')":"2025-07-23",
+    "('Close', 'HDFCBANK.BO')":1007.2736816406,
+    "('High', 'HDFCBANK.BO')":1009.8110081479,
+    "('Low', 'HDFCBANK.BO')":996.3034597829,
+    "('Open', 'HDFCBANK.BO')":1002.0746492803,
+    "('Volume', 'HDFCBANK.BO')":277974
+  },
+  {
+    "('Date', '')":"2025-07-24",
+    "('Close', 'HDFCBANK.BO')":1002.0,
+    "('High', 'HDFCBANK.BO')":1012.4478649454,
+    "('Low', 'HDFCBANK.BO')":999.5124131082,
+    "('Open', 'HDFCBANK.BO')":1011.4777303504,
+    "('Volume', 'HDFCBANK.BO')":433542
+  },
+  {
+    "('Date', '')":"2025-07-25",
+    "('Close', 'HDFCBANK.BO')":1002.25,
+    "('High', 'HDFCBANK.BO')":1007.5,
+    "('Low', 'HDFCBANK.BO')":999.5250244141,
+    "('Open', 'HDFCBANK.BO')":1007.0,
+    "('Volume', 'HDFCBANK.BO')":386038
+  },
+  {
+    "('Date', '')":"2025-07-28",
+    "('Close', 'HDFCBANK.BO')":1004.0250244141,
+    "('High', 'HDFCBANK.BO')":1010.5,
+    "('Low', 'HDFCBANK.BO')":1000.075012207,
+    "('Open', 'HDFCBANK.BO')":1003.25,
+    "('Volume', 'HDFCBANK.BO')":651966
+  },
+  {
+    "('Date', '')":"2025-07-29",
+    "('Close', 'HDFCBANK.BO')":1011.1500244141,
+    "('High', 'HDFCBANK.BO')":1013.5250244141,
+    "('Low', 'HDFCBANK.BO')":999.0,
+    "('Open', 'HDFCBANK.BO')":1000.9749755859,
+    "('Volume', 'HDFCBANK.BO')":2334666
+  },
+  {
+    "('Date', '')":"2025-07-30",
+    "('Close', 'HDFCBANK.BO')":1012.799987793,
+    "('High', 'HDFCBANK.BO')":1018.1500244141,
+    "('Low', 'HDFCBANK.BO')":1008.7249755859,
+    "('Open', 'HDFCBANK.BO')":1018.1500244141,
+    "('Volume', 'HDFCBANK.BO')":194572
+  },
+  {
+    "('Date', '')":"2025-07-31",
+    "('Close', 'HDFCBANK.BO')":1009.3499755859,
+    "('High', 'HDFCBANK.BO')":1015.25,
+    "('Low', 'HDFCBANK.BO')":1004.125,
+    "('Open', 'HDFCBANK.BO')":1005.5250244141,
+    "('Volume', 'HDFCBANK.BO')":355756
+  },
+  {
+    "('Date', '')":"2025-08-01",
+    "('Close', 'HDFCBANK.BO')":1006.125,
+    "('High', 'HDFCBANK.BO')":1013.7750244141,
+    "('Low', 'HDFCBANK.BO')":1005.0,
+    "('Open', 'HDFCBANK.BO')":1007.5,
+    "('Volume', 'HDFCBANK.BO')":1021724
+  },
+  {
+    "('Date', '')":"2025-08-04",
+    "('Close', 'HDFCBANK.BO')":996.125,
+    "('High', 'HDFCBANK.BO')":1009.450012207,
+    "('Low', 'HDFCBANK.BO')":994.0,
+    "('Open', 'HDFCBANK.BO')":1006.5,
+    "('Volume', 'HDFCBANK.BO')":465276
+  },
+  {
+    "('Date', '')":"2025-08-05",
+    "('Close', 'HDFCBANK.BO')":988.299987793,
+    "('High', 'HDFCBANK.BO')":996.700012207,
+    "('Low', 'HDFCBANK.BO')":983.5,
+    "('Open', 'HDFCBANK.BO')":993.5,
+    "('Volume', 'HDFCBANK.BO')":2491760
+  },
+  {
+    "('Date', '')":"2025-08-06",
+    "('Close', 'HDFCBANK.BO')":991.5,
+    "('High', 'HDFCBANK.BO')":994.075012207,
+    "('Low', 'HDFCBANK.BO')":985.049987793,
+    "('Open', 'HDFCBANK.BO')":985.5,
+    "('Volume', 'HDFCBANK.BO')":465484
+  },
+  {
+    "('Date', '')":"2025-08-07",
+    "('Close', 'HDFCBANK.BO')":997.700012207,
+    "('High', 'HDFCBANK.BO')":1000.7750244141,
+    "('Low', 'HDFCBANK.BO')":988.1500244141,
+    "('Open', 'HDFCBANK.BO')":989.9749755859,
+    "('Volume', 'HDFCBANK.BO')":535472
+  },
+  {
+    "('Date', '')":"2025-08-08",
+    "('Close', 'HDFCBANK.BO')":986.5250244141,
+    "('High', 'HDFCBANK.BO')":996.1500244141,
+    "('Low', 'HDFCBANK.BO')":985.0,
+    "('Open', 'HDFCBANK.BO')":994.9749755859,
+    "('Volume', 'HDFCBANK.BO')":706092
+  },
+  {
+    "('Date', '')":"2025-08-11",
+    "('Close', 'HDFCBANK.BO')":998.0,
+    "('High', 'HDFCBANK.BO')":999.174987793,
+    "('Low', 'HDFCBANK.BO')":986.625,
+    "('Open', 'HDFCBANK.BO')":986.625,
+    "('Volume', 'HDFCBANK.BO')":568736
+  },
+  {
+    "('Date', '')":"2025-08-12",
+    "('Close', 'HDFCBANK.BO')":984.9749755859,
+    "('High', 'HDFCBANK.BO')":998.0,
+    "('Low', 'HDFCBANK.BO')":983.825012207,
+    "('Open', 'HDFCBANK.BO')":995.174987793,
+    "('Volume', 'HDFCBANK.BO')":576536
+  },
+  {
+    "('Date', '')":"2025-08-13",
+    "('Close', 'HDFCBANK.BO')":989.674987793,
+    "('High', 'HDFCBANK.BO')":993.9749755859,
+    "('Low', 'HDFCBANK.BO')":984.5,
+    "('Open', 'HDFCBANK.BO')":990.0250244141,
+    "('Volume', 'HDFCBANK.BO')":2068368
+  },
+  {
+    "('Date', '')":"2025-08-14",
+    "('Close', 'HDFCBANK.BO')":995.700012207,
+    "('High', 'HDFCBANK.BO')":998.325012207,
+    "('Low', 'HDFCBANK.BO')":985.8499755859,
+    "('Open', 'HDFCBANK.BO')":994.8499755859,
+    "('Volume', 'HDFCBANK.BO')":340592
+  },
+  {
+    "('Date', '')":"2025-08-18",
+    "('Close', 'HDFCBANK.BO')":1001.825012207,
+    "('High', 'HDFCBANK.BO')":1012.924987793,
+    "('Low', 'HDFCBANK.BO')":997.7249755859,
+    "('Open', 'HDFCBANK.BO')":1002.799987793,
+    "('Volume', 'HDFCBANK.BO')":567152
+  },
+  {
+    "('Date', '')":"2025-08-19",
+    "('Close', 'HDFCBANK.BO')":995.625,
+    "('High', 'HDFCBANK.BO')":1002.924987793,
+    "('Low', 'HDFCBANK.BO')":993.5250244141,
+    "('Open', 'HDFCBANK.BO')":999.0,
+    "('Volume', 'HDFCBANK.BO')":2029212
+  },
+  {
+    "('Date', '')":"2025-08-20",
+    "('Close', 'HDFCBANK.BO')":994.0,
+    "('High', 'HDFCBANK.BO')":996.200012207,
+    "('Low', 'HDFCBANK.BO')":989.75,
+    "('Open', 'HDFCBANK.BO')":993.0,
+    "('Volume', 'HDFCBANK.BO')":638082
+  },
+  {
+    "('Date', '')":"2025-08-21",
+    "('Close', 'HDFCBANK.BO')":995.0999755859,
+    "('High', 'HDFCBANK.BO')":998.9000244141,
+    "('Low', 'HDFCBANK.BO')":991.700012207,
+    "('Open', 'HDFCBANK.BO')":998.9000244141,
+    "('Volume', 'HDFCBANK.BO')":574614
+  },
+  {
+    "('Date', '')":"2025-08-22",
+    "('Close', 'HDFCBANK.BO')":982.375,
+    "('High', 'HDFCBANK.BO')":997.174987793,
+    "('Low', 'HDFCBANK.BO')":978.799987793,
+    "('Open', 'HDFCBANK.BO')":996.549987793,
+    "('Volume', 'HDFCBANK.BO')":440098
+  },
+  {
+    "('Date', '')":"2025-08-25",
+    "('Close', 'HDFCBANK.BO')":982.25,
+    "('High', 'HDFCBANK.BO')":988.7750244141,
+    "('Low', 'HDFCBANK.BO')":978.8499755859,
+    "('Open', 'HDFCBANK.BO')":980.9749755859,
+    "('Volume', 'HDFCBANK.BO')":856132
+  },
+  {
+    "('Date', '')":"2025-08-26",
+    "('Close', 'HDFCBANK.BO')":973.049987793,
+    "('High', 'HDFCBANK.BO')":986.299987793,
+    "('Low', 'HDFCBANK.BO')":968.0,
+    "('Open', 'HDFCBANK.BO')":982.200012207,
+    "('Volume', 'HDFCBANK.BO')":1467484
+  },
+  {
+    "('Date', '')":"2025-08-28",
+    "('Close', 'HDFCBANK.BO')":958.0,
+    "('High', 'HDFCBANK.BO')":972.950012207,
+    "('Low', 'HDFCBANK.BO')":955.0,
+    "('Open', 'HDFCBANK.BO')":972.950012207,
+    "('Volume', 'HDFCBANK.BO')":405706
+  },
+  {
+    "('Date', '')":"2025-08-29",
+    "('Close', 'HDFCBANK.BO')":951.450012207,
+    "('High', 'HDFCBANK.BO')":963.450012207,
+    "('Low', 'HDFCBANK.BO')":950.0,
+    "('Open', 'HDFCBANK.BO')":955.950012207,
+    "('Volume', 'HDFCBANK.BO')":539645
+  },
+  {
+    "('Date', '')":"2025-09-01",
+    "('Close', 'HDFCBANK.BO')":950.700012207,
+    "('High', 'HDFCBANK.BO')":957.3499755859,
+    "('Low', 'HDFCBANK.BO')":946.5,
+    "('Open', 'HDFCBANK.BO')":951.450012207,
+    "('Volume', 'HDFCBANK.BO')":269192
+  },
+  {
+    "('Date', '')":"2025-09-02",
+    "('Close', 'HDFCBANK.BO')":944.4000244141,
+    "('High', 'HDFCBANK.BO')":954.0,
+    "('Low', 'HDFCBANK.BO')":943.8499755859,
+    "('Open', 'HDFCBANK.BO')":950.5,
+    "('Volume', 'HDFCBANK.BO')":384042
+  },
+  {
+    "('Date', '')":"2025-09-03",
+    "('Close', 'HDFCBANK.BO')":953.799987793,
+    "('High', 'HDFCBANK.BO')":956.299987793,
+    "('Low', 'HDFCBANK.BO')":940.0,
+    "('Open', 'HDFCBANK.BO')":947.25,
+    "('Volume', 'HDFCBANK.BO')":421542
+  },
+  {
+    "('Date', '')":"2025-09-04",
+    "('Close', 'HDFCBANK.BO')":961.200012207,
+    "('High', 'HDFCBANK.BO')":965.799987793,
+    "('Low', 'HDFCBANK.BO')":956.25,
+    "('Open', 'HDFCBANK.BO')":961.9000244141,
+    "('Volume', 'HDFCBANK.BO')":787031
+  },
+  {
+    "('Date', '')":"2025-09-05",
+    "('Close', 'HDFCBANK.BO')":962.9000244141,
+    "('High', 'HDFCBANK.BO')":967.0,
+    "('Low', 'HDFCBANK.BO')":954.0999755859,
+    "('Open', 'HDFCBANK.BO')":967.0,
+    "('Volume', 'HDFCBANK.BO')":133679
+  },
+  {
+    "('Date', '')":"2025-09-08",
+    "('Close', 'HDFCBANK.BO')":965.75,
+    "('High', 'HDFCBANK.BO')":973.3499755859,
+    "('Low', 'HDFCBANK.BO')":960.5,
+    "('Open', 'HDFCBANK.BO')":968.9000244141,
+    "('Volume', 'HDFCBANK.BO')":286257
+  },
+  {
+    "('Date', '')":"2025-09-09",
+    "('Close', 'HDFCBANK.BO')":964.9000244141,
+    "('High', 'HDFCBANK.BO')":974.5,
+    "('Low', 'HDFCBANK.BO')":963.5,
+    "('Open', 'HDFCBANK.BO')":971.0,
+    "('Volume', 'HDFCBANK.BO')":375700
+  },
+  {
+    "('Date', '')":"2025-09-10",
+    "('Close', 'HDFCBANK.BO')":966.049987793,
+    "('High', 'HDFCBANK.BO')":974.3499755859,
+    "('Low', 'HDFCBANK.BO')":961.75,
+    "('Open', 'HDFCBANK.BO')":973.799987793,
+    "('Volume', 'HDFCBANK.BO')":522764
+  },
+  {
+    "('Date', '')":"2025-09-11",
+    "('Close', 'HDFCBANK.BO')":968.0999755859,
+    "('High', 'HDFCBANK.BO')":969.4000244141,
+    "('Low', 'HDFCBANK.BO')":959.549987793,
+    "('Open', 'HDFCBANK.BO')":961.950012207,
+    "('Volume', 'HDFCBANK.BO')":1072864
+  },
+  {
+    "('Date', '')":"2025-09-12",
+    "('Close', 'HDFCBANK.BO')":966.9000244141,
+    "('High', 'HDFCBANK.BO')":970.5,
+    "('Low', 'HDFCBANK.BO')":962.25,
+    "('Open', 'HDFCBANK.BO')":970.049987793,
+    "('Volume', 'HDFCBANK.BO')":594769
+  },
+  {
+    "('Date', '')":"2025-09-15",
+    "('Close', 'HDFCBANK.BO')":966.700012207,
+    "('High', 'HDFCBANK.BO')":972.4000244141,
+    "('Low', 'HDFCBANK.BO')":964.9000244141,
+    "('Open', 'HDFCBANK.BO')":969.799987793,
+    "('Volume', 'HDFCBANK.BO')":244333
+  },
+  {
+    "('Date', '')":"2025-09-16",
+    "('Close', 'HDFCBANK.BO')":966.950012207,
+    "('High', 'HDFCBANK.BO')":969.25,
+    "('Low', 'HDFCBANK.BO')":962.799987793,
+    "('Open', 'HDFCBANK.BO')":965.950012207,
+    "('Volume', 'HDFCBANK.BO')":471449
+  },
+  {
+    "('Date', '')":"2025-09-17",
+    "('Close', 'HDFCBANK.BO')":966.4000244141,
+    "('High', 'HDFCBANK.BO')":974.4000244141,
+    "('Low', 'HDFCBANK.BO')":964.450012207,
+    "('Open', 'HDFCBANK.BO')":966.9000244141,
+    "('Volume', 'HDFCBANK.BO')":561447
+  },
+  {
+    "('Date', '')":"2025-09-18",
+    "('Close', 'HDFCBANK.BO')":976.549987793,
+    "('High', 'HDFCBANK.BO')":979.6500244141,
+    "('Low', 'HDFCBANK.BO')":969.1500244141,
+    "('Open', 'HDFCBANK.BO')":973.6500244141,
+    "('Volume', 'HDFCBANK.BO')":873223
+  },
+  {
+    "('Date', '')":"2025-09-19",
+    "('Close', 'HDFCBANK.BO')":967.049987793,
+    "('High', 'HDFCBANK.BO')":976.3499755859,
+    "('Low', 'HDFCBANK.BO')":962.049987793,
+    "('Open', 'HDFCBANK.BO')":976.3499755859,
+    "('Volume', 'HDFCBANK.BO')":1228569
+  },
+  {
+    "('Date', '')":"2025-09-22",
+    "('Close', 'HDFCBANK.BO')":963.799987793,
+    "('High', 'HDFCBANK.BO')":971.0,
+    "('Low', 'HDFCBANK.BO')":962.0,
+    "('Open', 'HDFCBANK.BO')":967.0,
+    "('Volume', 'HDFCBANK.BO')":355063
+  },
+  {
+    "('Date', '')":"2025-09-23",
+    "('Close', 'HDFCBANK.BO')":957.549987793,
+    "('High', 'HDFCBANK.BO')":968.6500244141,
+    "('Low', 'HDFCBANK.BO')":955.4000244141,
+    "('Open', 'HDFCBANK.BO')":965.1500244141,
+    "('Volume', 'HDFCBANK.BO')":676523
+  },
+  {
+    "('Date', '')":"2025-09-24",
+    "('Close', 'HDFCBANK.BO')":950.5,
+    "('High', 'HDFCBANK.BO')":956.950012207,
+    "('Low', 'HDFCBANK.BO')":943.25,
+    "('Open', 'HDFCBANK.BO')":952.049987793,
+    "('Volume', 'HDFCBANK.BO')":503341
+  },
+  {
+    "('Date', '')":"2025-09-25",
+    "('Close', 'HDFCBANK.BO')":949.5999755859,
+    "('High', 'HDFCBANK.BO')":958.25,
+    "('Low', 'HDFCBANK.BO')":947.3499755859,
+    "('Open', 'HDFCBANK.BO')":952.700012207,
+    "('Volume', 'HDFCBANK.BO')":1508885
+  },
+  {
+    "('Date', '')":"2025-09-26",
+    "('Close', 'HDFCBANK.BO')":945.1500244141,
+    "('High', 'HDFCBANK.BO')":951.4000244141,
+    "('Low', 'HDFCBANK.BO')":941.5999755859,
+    "('Open', 'HDFCBANK.BO')":945.0,
+    "('Volume', 'HDFCBANK.BO')":991028
+  },
+  {
+    "('Date', '')":"2025-09-29",
+    "('Close', 'HDFCBANK.BO')":950.450012207,
+    "('High', 'HDFCBANK.BO')":956.9000244141,
+    "('Low', 'HDFCBANK.BO')":939.049987793,
+    "('Open', 'HDFCBANK.BO')":945.0,
+    "('Volume', 'HDFCBANK.BO')":582978
+  },
+  {
+    "('Date', '')":"2025-09-30",
+    "('Close', 'HDFCBANK.BO')":951.1500244141,
+    "('High', 'HDFCBANK.BO')":959.5999755859,
+    "('Low', 'HDFCBANK.BO')":946.450012207,
+    "('Open', 'HDFCBANK.BO')":955.0,
+    "('Volume', 'HDFCBANK.BO')":223686
+  },
+  {
+    "('Date', '')":"2025-10-01",
+    "('Close', 'HDFCBANK.BO')":965.200012207,
+    "('High', 'HDFCBANK.BO')":969.450012207,
+    "('Low', 'HDFCBANK.BO')":946.200012207,
+    "('Open', 'HDFCBANK.BO')":951.4000244141,
+    "('Volume', 'HDFCBANK.BO')":1789291
+  },
+  {
+    "('Date', '')":"2025-10-03",
+    "('Close', 'HDFCBANK.BO')":964.75,
+    "('High', 'HDFCBANK.BO')":966.950012207,
+    "('Low', 'HDFCBANK.BO')":949.950012207,
+    "('Open', 'HDFCBANK.BO')":949.950012207,
+    "('Volume', 'HDFCBANK.BO')":489548
+  },
+  {
+    "('Date', '')":"2025-10-06",
+    "('Close', 'HDFCBANK.BO')":973.75,
+    "('High', 'HDFCBANK.BO')":977.0,
+    "('Low', 'HDFCBANK.BO')":962.1500244141,
+    "('Open', 'HDFCBANK.BO')":973.4000244141,
+    "('Volume', 'HDFCBANK.BO')":938322
+  },
+  {
+    "('Date', '')":"2025-10-07",
+    "('Close', 'HDFCBANK.BO')":982.299987793,
+    "('High', 'HDFCBANK.BO')":989.799987793,
+    "('Low', 'HDFCBANK.BO')":971.0,
+    "('Open', 'HDFCBANK.BO')":973.75,
+    "('Volume', 'HDFCBANK.BO')":1634607
+  },
+  {
+    "('Date', '')":"2025-10-08",
+    "('Close', 'HDFCBANK.BO')":978.75,
+    "('High', 'HDFCBANK.BO')":985.950012207,
+    "('Low', 'HDFCBANK.BO')":974.549987793,
+    "('Open', 'HDFCBANK.BO')":980.950012207,
+    "('Volume', 'HDFCBANK.BO')":1062911
+  },
+  {
+    "('Date', '')":"2025-10-09",
+    "('Close', 'HDFCBANK.BO')":977.1500244141,
+    "('High', 'HDFCBANK.BO')":978.75,
+    "('Low', 'HDFCBANK.BO')":970.0,
+    "('Open', 'HDFCBANK.BO')":974.799987793,
+    "('Volume', 'HDFCBANK.BO')":2508131
+  },
+  {
+    "('Date', '')":"2025-10-10",
+    "('Close', 'HDFCBANK.BO')":980.9000244141,
+    "('High', 'HDFCBANK.BO')":986.0,
+    "('Low', 'HDFCBANK.BO')":977.200012207,
+    "('Open', 'HDFCBANK.BO')":977.200012207,
+    "('Volume', 'HDFCBANK.BO')":779152
+  },
+  {
+    "('Date', '')":"2025-10-13",
+    "('Close', 'HDFCBANK.BO')":977.950012207,
+    "('High', 'HDFCBANK.BO')":981.0,
+    "('Low', 'HDFCBANK.BO')":972.0,
+    "('Open', 'HDFCBANK.BO')":973.049987793,
+    "('Volume', 'HDFCBANK.BO')":572440
+  },
+  {
+    "('Date', '')":"2025-10-14",
+    "('Close', 'HDFCBANK.BO')":977.0999755859,
+    "('High', 'HDFCBANK.BO')":980.450012207,
+    "('Low', 'HDFCBANK.BO')":969.0,
+    "('Open', 'HDFCBANK.BO')":971.950012207,
+    "('Volume', 'HDFCBANK.BO')":245931
+  },
+  {
+    "('Date', '')":"2025-10-15",
+    "('Close', 'HDFCBANK.BO')":979.1500244141,
+    "('High', 'HDFCBANK.BO')":985.0,
+    "('Low', 'HDFCBANK.BO')":973.049987793,
+    "('Open', 'HDFCBANK.BO')":977.049987793,
+    "('Volume', 'HDFCBANK.BO')":645625
+  },
+  {
+    "('Date', '')":"2025-10-16",
+    "('Close', 'HDFCBANK.BO')":994.25,
+    "('High', 'HDFCBANK.BO')":996.5,
+    "('Low', 'HDFCBANK.BO')":979.5999755859,
+    "('Open', 'HDFCBANK.BO')":979.5999755859,
+    "('Volume', 'HDFCBANK.BO')":1468807
+  },
+  {
+    "('Date', '')":"2025-10-17",
+    "('Close', 'HDFCBANK.BO')":1002.5,
+    "('High', 'HDFCBANK.BO')":1008.9000244141,
+    "('Low', 'HDFCBANK.BO')":987.049987793,
+    "('Open', 'HDFCBANK.BO')":994.25,
+    "('Volume', 'HDFCBANK.BO')":446832
+  },
+  {
+    "('Date', '')":"2025-10-20",
+    "('Close', 'HDFCBANK.BO')":1003.299987793,
+    "('High', 'HDFCBANK.BO')":1020.0,
+    "('Low', 'HDFCBANK.BO')":998.5,
+    "('Open', 'HDFCBANK.BO')":999.0,
+    "('Volume', 'HDFCBANK.BO')":429243
+  },
+  {
+    "('Date', '')":"2025-10-21",
+    "('Close', 'HDFCBANK.BO')":1007.299987793,
+    "('High', 'HDFCBANK.BO')":1010.5999755859,
+    "('Low', 'HDFCBANK.BO')":1004.5999755859,
+    "('Open', 'HDFCBANK.BO')":1007.700012207,
+    "('Volume', 'HDFCBANK.BO')":335819
+  },
+  {
+    "('Date', '')":"2025-10-23",
+    "('Close', 'HDFCBANK.BO')":1008.950012207,
+    "('High', 'HDFCBANK.BO')":1020.3499755859,
+    "('Low', 'HDFCBANK.BO')":1005.0,
+    "('Open', 'HDFCBANK.BO')":1019.799987793,
+    "('Volume', 'HDFCBANK.BO')":1772998
+  },
+  {
+    "('Date', '')":"2025-10-24",
+    "('Close', 'HDFCBANK.BO')":994.700012207,
+    "('High', 'HDFCBANK.BO')":1011.9000244141,
+    "('Low', 'HDFCBANK.BO')":991.5,
+    "('Open', 'HDFCBANK.BO')":1008.9000244141,
+    "('Volume', 'HDFCBANK.BO')":346012
+  },
+  {
+    "('Date', '')":"2025-10-27",
+    "('Close', 'HDFCBANK.BO')":1002.9000244141,
+    "('High', 'HDFCBANK.BO')":1009.6500244141,
+    "('Low', 'HDFCBANK.BO')":994.75,
+    "('Open', 'HDFCBANK.BO')":994.75,
+    "('Volume', 'HDFCBANK.BO')":287841
+  },
+  {
+    "('Date', '')":"2025-10-28",
+    "('Close', 'HDFCBANK.BO')":1003.549987793,
+    "('High', 'HDFCBANK.BO')":1008.450012207,
+    "('Low', 'HDFCBANK.BO')":995.799987793,
+    "('Open', 'HDFCBANK.BO')":998.8499755859,
+    "('Volume', 'HDFCBANK.BO')":316782
+  },
+  {
+    "('Date', '')":"2025-10-29",
+    "('Close', 'HDFCBANK.BO')":1007.9000244141,
+    "('High', 'HDFCBANK.BO')":1012.200012207,
+    "('Low', 'HDFCBANK.BO')":1000.0,
+    "('Open', 'HDFCBANK.BO')":1003.9000244141,
+    "('Volume', 'HDFCBANK.BO')":495087
+  },
+  {
+    "('Date', '')":"2025-10-30",
+    "('Close', 'HDFCBANK.BO')":998.0999755859,
+    "('High', 'HDFCBANK.BO')":1009.75,
+    "('Low', 'HDFCBANK.BO')":997.0,
+    "('Open', 'HDFCBANK.BO')":1001.0,
+    "('Volume', 'HDFCBANK.BO')":837299
+  },
+  {
+    "('Date', '')":"2025-10-31",
+    "('Close', 'HDFCBANK.BO')":987.6500244141,
+    "('High', 'HDFCBANK.BO')":1004.3499755859,
+    "('Low', 'HDFCBANK.BO')":982.200012207,
+    "('Open', 'HDFCBANK.BO')":994.9000244141,
+    "('Volume', 'HDFCBANK.BO')":944173
+  },
+  {
+    "('Date', '')":"2025-11-03",
+    "('Close', 'HDFCBANK.BO')":992.5,
+    "('High', 'HDFCBANK.BO')":994.6500244141,
+    "('Low', 'HDFCBANK.BO')":983.200012207,
+    "('Open', 'HDFCBANK.BO')":985.5,
+    "('Volume', 'HDFCBANK.BO')":754198
+  },
+  {
+    "('Date', '')":"2025-11-04",
+    "('Close', 'HDFCBANK.BO')":985.0999755859,
+    "('High', 'HDFCBANK.BO')":996.700012207,
+    "('Low', 'HDFCBANK.BO')":983.6500244141,
+    "('Open', 'HDFCBANK.BO')":989.75,
+    "('Volume', 'HDFCBANK.BO')":597421
+  },
+  {
+    "('Date', '')":"2025-11-06",
+    "('Close', 'HDFCBANK.BO')":984.5,
+    "('High', 'HDFCBANK.BO')":991.0,
+    "('Low', 'HDFCBANK.BO')":974.200012207,
+    "('Open', 'HDFCBANK.BO')":983.9000244141,
+    "('Volume', 'HDFCBANK.BO')":1294375
+  },
+  {
+    "('Date', '')":"2025-11-07",
+    "('Close', 'HDFCBANK.BO')":982.9000244141,
+    "('High', 'HDFCBANK.BO')":984.799987793,
+    "('Low', 'HDFCBANK.BO')":974.549987793,
+    "('Open', 'HDFCBANK.BO')":984.299987793,
+    "('Volume', 'HDFCBANK.BO')":611248
+  },
+  {
+    "('Date', '')":"2025-11-10",
+    "('Close', 'HDFCBANK.BO')":984.3499755859,
+    "('High', 'HDFCBANK.BO')":991.75,
+    "('Low', 'HDFCBANK.BO')":980.0,
+    "('Open', 'HDFCBANK.BO')":980.0,
+    "('Volume', 'HDFCBANK.BO')":501924
+  },
+  {
+    "('Date', '')":"2025-11-11",
+    "('Close', 'HDFCBANK.BO')":991.700012207,
+    "('High', 'HDFCBANK.BO')":993.25,
+    "('Low', 'HDFCBANK.BO')":978.1500244141,
+    "('Open', 'HDFCBANK.BO')":985.0,
+    "('Volume', 'HDFCBANK.BO')":235562
+  },
+  {
+    "('Date', '')":"2025-11-12",
+    "('Close', 'HDFCBANK.BO')":989.450012207,
+    "('High', 'HDFCBANK.BO')":1000.0,
+    "('Low', 'HDFCBANK.BO')":987.3499755859,
+    "('Open', 'HDFCBANK.BO')":1000.0,
+    "('Volume', 'HDFCBANK.BO')":493627
+  },
+  {
+    "('Date', '')":"2025-11-13",
+    "('Close', 'HDFCBANK.BO')":986.799987793,
+    "('High', 'HDFCBANK.BO')":990.299987793,
+    "('Low', 'HDFCBANK.BO')":982.5,
+    "('Open', 'HDFCBANK.BO')":983.75,
+    "('Volume', 'HDFCBANK.BO')":1462892
+  }
+]

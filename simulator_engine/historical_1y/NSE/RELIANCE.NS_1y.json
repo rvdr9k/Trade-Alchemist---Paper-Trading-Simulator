@@ -1,0 +1,1994 @@
+[
+  {
+    "('Date', '')":"2024-11-11",
+    "('Close', 'RELIANCE.NS')":1267.6370849609,
+    "('High', 'RELIANCE.NS')":1280.8842255071,
+    "('Low', 'RELIANCE.NS')":1261.9598084895,
+    "('Open', 'RELIANCE.NS')":1273.8622221378,
+    "('Volume', 'RELIANCE.NS')":9056552
+  },
+  {
+    "('Date', '')":"2024-11-12",
+    "('Close', 'RELIANCE.NS')":1269.1810302734,
+    "('High', 'RELIANCE.NS')":1284.1712099692,
+    "('Low', 'RELIANCE.NS')":1262.4578817905,
+    "('Open', 'RELIANCE.NS')":1270.475907504,
+    "('Volume', 'RELIANCE.NS')":10671091
+  },
+  {
+    "('Date', '')":"2024-11-13",
+    "('Close', 'RELIANCE.NS')":1247.0693359375,
+    "('High', 'RELIANCE.NS')":1270.3761523896,
+    "('Low', 'RELIANCE.NS')":1244.5294313213,
+    "('Open', 'RELIANCE.NS')":1265.1968868635,
+    "('Volume', 'RELIANCE.NS')":14633633
+  },
+  {
+    "('Date', '')":"2024-11-14",
+    "('Close', 'RELIANCE.NS')":1262.5574951172,
+    "('High', 'RELIANCE.NS')":1267.5376052443,
+    "('Low', 'RELIANCE.NS')":1246.1231316976,
+    "('Open', 'RELIANCE.NS')":1248.6131867612,
+    "('Volume', 'RELIANCE.NS')":12612633
+  },
+  {
+    "('Date', '')":"2024-11-18",
+    "('Close', 'RELIANCE.NS')":1255.7347412109,
+    "('High', 'RELIANCE.NS')":1267.8364328733,
+    "('Low', 'RELIANCE.NS')":1238.9517947649,
+    "('Open', 'RELIANCE.NS')":1262.5574676196,
+    "('Volume', 'RELIANCE.NS')":13620611
+  },
+  {
+    "('Date', '')":"2024-11-19",
+    "('Close', 'RELIANCE.NS')":1236.7106933594,
+    "('High', 'RELIANCE.NS')":1276.4021442257,
+    "('Low', 'RELIANCE.NS')":1230.2365506068,
+    "('Open', 'RELIANCE.NS')":1255.7346885155,
+    "('Volume', 'RELIANCE.NS')":14183746
+  },
+  {
+    "('Date', '')":"2024-11-21",
+    "('Close', 'RELIANCE.NS')":1218.1348876953,
+    "('High', 'RELIANCE.NS')":1239.0014996479,
+    "('Low', 'RELIANCE.NS')":1212.4077612814,
+    "('Open', 'RELIANCE.NS')":1236.7107220331,
+    "('Volume', 'RELIANCE.NS')":19433843
+  },
+  {
+    "('Date', '')":"2024-11-22",
+    "('Close', 'RELIANCE.NS')":1260.3662109375,
+    "('High', 'RELIANCE.NS')":1263.8024380614,
+    "('Low', 'RELIANCE.NS')":1217.5869948577,
+    "('Open', 'RELIANCE.NS')":1224.509420422,
+    "('Volume', 'RELIANCE.NS')":20471957
+  },
+  {
+    "('Date', '')":"2024-11-25",
+    "('Close', 'RELIANCE.NS')":1281.8802490234,
+    "('High', 'RELIANCE.NS')":1299.2607834086,
+    "('Low', 'RELIANCE.NS')":1277.3483005193,
+    "('Open', 'RELIANCE.NS')":1284.868314872,
+    "('Volume', 'RELIANCE.NS')":28923341
+  },
+  {
+    "('Date', '')":"2024-11-26",
+    "('Close', 'RELIANCE.NS')":1290.5456542969,
+    "('High', 'RELIANCE.NS')":1292.6871259097,
+    "('Low', 'RELIANCE.NS')":1279.0914013188,
+    "('Open', 'RELIANCE.NS')":1289.7986377983,
+    "('Volume', 'RELIANCE.NS')":9247557
+  },
+  {
+    "('Date', '')":"2024-11-27",
+    "('Close', 'RELIANCE.NS')":1288.0555419922,
+    "('High', 'RELIANCE.NS')":1298.6632001169,
+    "('Low', 'RELIANCE.NS')":1280.8842325589,
+    "('Open', 'RELIANCE.NS')":1288.3543972122,
+    "('Volume', 'RELIANCE.NS')":9572746
+  },
+  {
+    "('Date', '')":"2024-11-28",
+    "('Close', 'RELIANCE.NS')":1265.7447509766,
+    "('High', 'RELIANCE.NS')":1291.4420445039,
+    "('Low', 'RELIANCE.NS')":1264.0017125527,
+    "('Open', 'RELIANCE.NS')":1284.8184741761,
+    "('Volume', 'RELIANCE.NS')":15027412
+  },
+  {
+    "('Date', '')":"2024-11-29",
+    "('Close', 'RELIANCE.NS')":1287.0595703125,
+    "('High', 'RELIANCE.NS')":1294.330579493,
+    "('Low', 'RELIANCE.NS')":1270.1770461704,
+    "('Open', 'RELIANCE.NS')":1274.9081506356,
+    "('Volume', 'RELIANCE.NS')":13202307
+  },
+  {
+    "('Date', '')":"2024-12-02",
+    "('Close', 'RELIANCE.NS')":1303.9422607422,
+    "('High', 'RELIANCE.NS')":1306.1334605673,
+    "('Low', 'RELIANCE.NS')":1271.9699779979,
+    "('Open', 'RELIANCE.NS')":1282.8763705578,
+    "('Volume', 'RELIANCE.NS')":11024152
+  },
+  {
+    "('Date', '')":"2024-12-03",
+    "('Close', 'RELIANCE.NS')":1318.0358886719,
+    "('High', 'RELIANCE.NS')":1321.52196548,
+    "('Low', 'RELIANCE.NS')":1301.8006823318,
+    "('Open', 'RELIANCE.NS')":1311.7609017834,
+    "('Volume', 'RELIANCE.NS')":16869482
+  },
+  {
+    "('Date', '')":"2024-12-04",
+    "('Close', 'RELIANCE.NS')":1303.7429199219,
+    "('High', 'RELIANCE.NS')":1323.1156203515,
+    "('Low', 'RELIANCE.NS')":1298.8625094958,
+    "('Open', 'RELIANCE.NS')":1320.7251432866,
+    "('Volume', 'RELIANCE.NS')":19608540
+  },
+  {
+    "('Date', '')":"2024-12-05",
+    "('Close', 'RELIANCE.NS')":1316.7908935547,
+    "('High', 'RELIANCE.NS')":1324.6593698468,
+    "('Low', 'RELIANCE.NS')":1300.954119921,
+    "('Open', 'RELIANCE.NS')":1309.1214514379,
+    "('Volume', 'RELIANCE.NS')":16858723
+  },
+  {
+    "('Date', '')":"2024-12-06",
+    "('Close', 'RELIANCE.NS')":1306.3326416016,
+    "('High', 'RELIANCE.NS')":1318.633488409,
+    "('Low', 'RELIANCE.NS')":1304.7887589399,
+    "('Open', 'RELIANCE.NS')":1318.633488409,
+    "('Volume', 'RELIANCE.NS')":9037514
+  },
+  {
+    "('Date', '')":"2024-12-09",
+    "('Close', 'RELIANCE.NS')":1289.9979248047,
+    "('High', 'RELIANCE.NS')":1309.7689372979,
+    "('Low', 'RELIANCE.NS')":1287.9560310594,
+    "('Open', 'RELIANCE.NS')":1297.8166732313,
+    "('Volume', 'RELIANCE.NS')":14650002
+  },
+  {
+    "('Date', '')":"2024-12-10",
+    "('Close', 'RELIANCE.NS')":1279.7387695312,
+    "('High', 'RELIANCE.NS')":1289.7488386953,
+    "('Low', 'RELIANCE.NS')":1275.107243178,
+    "('Open', 'RELIANCE.NS')":1284.1212903987,
+    "('Volume', 'RELIANCE.NS')":16043729
+  },
+  {
+    "('Date', '')":"2024-12-11",
+    "('Close', 'RELIANCE.NS')":1273.115234375,
+    "('High', 'RELIANCE.NS')":1284.8683422637,
+    "('Low', 'RELIANCE.NS')":1270.9738844057,
+    "('Open', 'RELIANCE.NS')":1279.88823241,
+    "('Volume', 'RELIANCE.NS')":11724373
+  },
+  {
+    "('Date', '')":"2024-12-12",
+    "('Close', 'RELIANCE.NS')":1257.8762207031,
+    "('High', 'RELIANCE.NS')":1273.1152845048,
+    "('Low', 'RELIANCE.NS')":1255.5853214463,
+    "('Open', 'RELIANCE.NS')":1264.9479526569,
+    "('Volume', 'RELIANCE.NS')":20906813
+  },
+  {
+    "('Date', '')":"2024-12-13",
+    "('Close', 'RELIANCE.NS')":1267.7866210938,
+    "('High', 'RELIANCE.NS')":1270.1272485557,
+    "('Low', 'RELIANCE.NS')":1234.668888478,
+    "('Open', 'RELIANCE.NS')":1254.9877622795,
+    "('Volume', 'RELIANCE.NS')":28630222
+  },
+  {
+    "('Date', '')":"2024-12-16",
+    "('Close', 'RELIANCE.NS')":1263.2547607422,
+    "('High', 'RELIANCE.NS')":1275.9041916035,
+    "('Low', 'RELIANCE.NS')":1261.5117222291,
+    "('Open', 'RELIANCE.NS')":1269.9280595585,
+    "('Volume', 'RELIANCE.NS')":9486781
+  },
+  {
+    "('Date', '')":"2024-12-17",
+    "('Close', 'RELIANCE.NS')":1240.3461914062,
+    "('High', 'RELIANCE.NS')":1258.8721754853,
+    "('Low', 'RELIANCE.NS')":1237.8561365143,
+    "('Open', 'RELIANCE.NS')":1256.0335372255,
+    "('Volume', 'RELIANCE.NS')":17462791
+  },
+  {
+    "('Date', '')":"2024-12-18",
+    "('Close', 'RELIANCE.NS')":1248.2645263672,
+    "('High', 'RELIANCE.NS')":1254.937824892,
+    "('Low', 'RELIANCE.NS')":1235.7146739379,
+    "('Open', 'RELIANCE.NS')":1235.7146739379,
+    "('Volume', 'RELIANCE.NS')":12670179
+  },
+  {
+    "('Date', '')":"2024-12-19",
+    "('Close', 'RELIANCE.NS')":1225.5551757812,
+    "('High', 'RELIANCE.NS')":1239.9477660979,
+    "('Low', 'RELIANCE.NS')":1224.1109925687,
+    "('Open', 'RELIANCE.NS')":1234.0712121991,
+    "('Volume', 'RELIANCE.NS')":14244653
+  },
+  {
+    "('Date', '')":"2024-12-20",
+    "('Close', 'RELIANCE.NS')":1200.5053710938,
+    "('High', 'RELIANCE.NS')":1234.5692750261,
+    "('Low', 'RELIANCE.NS')":1196.7204388414,
+    "('Open', 'RELIANCE.NS')":1219.1309339508,
+    "('Volume', 'RELIANCE.NS')":20312896
+  },
+  {
+    "('Date', '')":"2024-12-23",
+    "('Close', 'RELIANCE.NS')":1217.4377441406,
+    "('High', 'RELIANCE.NS')":1222.3181546925,
+    "('Low', 'RELIANCE.NS')":1208.3738466363,
+    "('Open', 'RELIANCE.NS')":1210.1667348774,
+    "('Volume', 'RELIANCE.NS')":10052824
+  },
+  {
+    "('Date', '')":"2024-12-24",
+    "('Close', 'RELIANCE.NS')":1217.8858642578,
+    "('High', 'RELIANCE.NS')":1228.6429501716,
+    "('Low', 'RELIANCE.NS')":1216.1428258097,
+    "('Open', 'RELIANCE.NS')":1217.437703005,
+    "('Volume', 'RELIANCE.NS')":6734917
+  },
+  {
+    "('Date', '')":"2024-12-26",
+    "('Close', 'RELIANCE.NS')":1211.7105712891,
+    "('High', 'RELIANCE.NS')":1222.8161189414,
+    "('Low', 'RELIANCE.NS')":1209.4196721335,
+    "('Open', 'RELIANCE.NS')":1219.3798917929,
+    "('Volume', 'RELIANCE.NS')":10016178
+  },
+  {
+    "('Date', '')":"2024-12-27",
+    "('Close', 'RELIANCE.NS')":1216.1927490234,
+    "('High', 'RELIANCE.NS')":1223.0154756157,
+    "('Low', 'RELIANCE.NS')":1212.1588111659,
+    "('Open', 'RELIANCE.NS')":1213.4536884395,
+    "('Volume', 'RELIANCE.NS')":7000397
+  },
+  {
+    "('Date', '')":"2024-12-30",
+    "('Close', 'RELIANCE.NS')":1205.8837890625,
+    "('High', 'RELIANCE.NS')":1218.3340640862,
+    "('Low', 'RELIANCE.NS')":1203.2941561745,
+    "('Open', 'RELIANCE.NS')":1211.5611874241,
+    "('Volume', 'RELIANCE.NS')":8818766
+  },
+  {
+    "('Date', '')":"2024-12-31",
+    "('Close', 'RELIANCE.NS')":1210.6148681641,
+    "('High', 'RELIANCE.NS')":1214.2503727116,
+    "('Low', 'RELIANCE.NS')":1201.3519366917,
+    "('Open', 'RELIANCE.NS')":1203.1945530396,
+    "('Volume', 'RELIANCE.NS')":6405475
+  },
+  {
+    "('Date', '')":"2025-01-01",
+    "('Close', 'RELIANCE.NS')":1216.3918457031,
+    "('High', 'RELIANCE.NS')":1221.4218053469,
+    "('Low', 'RELIANCE.NS')":1206.7802092584,
+    "('Open', 'RELIANCE.NS')":1210.0172807004,
+    "('Volume', 'RELIANCE.NS')":5892590
+  },
+  {
+    "('Date', '')":"2025-01-02",
+    "('Close', 'RELIANCE.NS')":1236.8601074219,
+    "('High', 'RELIANCE.NS')":1239.4994683243,
+    "('Low', 'RELIANCE.NS')":1215.1467802556,
+    "('Open', 'RELIANCE.NS')":1216.3918076943,
+    "('Volume', 'RELIANCE.NS')":15486276
+  },
+  {
+    "('Date', '')":"2025-01-03",
+    "('Close', 'RELIANCE.NS')":1246.1729736328,
+    "('High', 'RELIANCE.NS')":1257.029637959,
+    "('Low', 'RELIANCE.NS')":1230.5852047155,
+    "('Open', 'RELIANCE.NS')":1238.9518139936,
+    "('Volume', 'RELIANCE.NS')":15521102
+  },
+  {
+    "('Date', '')":"2025-01-06",
+    "('Close', 'RELIANCE.NS')":1213.1547851562,
+    "('High', 'RELIANCE.NS')":1256.9797527645,
+    "('Low', 'RELIANCE.NS')":1210.166719183,
+    "('Open', 'RELIANCE.NS')":1248.9617271023,
+    "('Volume', 'RELIANCE.NS')":14816766
+  },
+  {
+    "('Date', '')":"2025-01-07",
+    "('Close', 'RELIANCE.NS')":1235.9138183594,
+    "('High', 'RELIANCE.NS')":1239.5493228115,
+    "('Low', 'RELIANCE.NS')":1216.3918123612,
+    "('Open', 'RELIANCE.NS')":1217.1388288274,
+    "('Volume', 'RELIANCE.NS')":10070505
+  },
+  {
+    "('Date', '')":"2025-01-08",
+    "('Close', 'RELIANCE.NS')":1260.4658203125,
+    "('High', 'RELIANCE.NS')":1265.9937909557,
+    "('Low', 'RELIANCE.NS')":1240.395953025,
+    "('Open', 'RELIANCE.NS')":1244.0314575822,
+    "('Volume', 'RELIANCE.NS')":19346579
+  },
+  {
+    "('Date', '')":"2025-01-09",
+    "('Close', 'RELIANCE.NS')":1249.7585449219,
+    "('High', 'RELIANCE.NS')":1264.6988742096,
+    "('Low', 'RELIANCE.NS')":1243.0852464739,
+    "('Open', 'RELIANCE.NS')":1261.9598138402,
+    "('Volume', 'RELIANCE.NS')":12794704
+  },
+  {
+    "('Date', '')":"2025-01-10",
+    "('Close', 'RELIANCE.NS')":1236.9597167969,
+    "('High', 'RELIANCE.NS')":1251.7506188293,
+    "('Low', 'RELIANCE.NS')":1231.0831628192,
+    "('Open', 'RELIANCE.NS')":1248.8621307809,
+    "('Volume', 'RELIANCE.NS')":8120332
+  },
+  {
+    "('Date', '')":"2025-01-13",
+    "('Close', 'RELIANCE.NS')":1234.9178466797,
+    "('High', 'RELIANCE.NS')":1240.2963897718,
+    "('Low', 'RELIANCE.NS')":1221.5213994754,
+    "('Open', 'RELIANCE.NS')":1225.1070543419,
+    "('Volume', 'RELIANCE.NS')":13764861
+  },
+  {
+    "('Date', '')":"2025-01-14",
+    "('Close', 'RELIANCE.NS')":1233.822265625,
+    "('High', 'RELIANCE.NS')":1248.3641626627,
+    "('Low', 'RELIANCE.NS')":1222.3680125032,
+    "('Open', 'RELIANCE.NS')":1239.1509590647,
+    "('Volume', 'RELIANCE.NS')":13095266
+  },
+  {
+    "('Date', '')":"2025-01-15",
+    "('Close', 'RELIANCE.NS')":1247.2186279297,
+    "('High', 'RELIANCE.NS')":1251.9995818882,
+    "('Low', 'RELIANCE.NS')":1236.9098251404,
+    "('Open', 'RELIANCE.NS')":1239.9974688456,
+    "('Volume', 'RELIANCE.NS')":9578856
+  },
+  {
+    "('Date', '')":"2025-01-16",
+    "('Close', 'RELIANCE.NS')":1261.4119873047,
+    "('High', 'RELIANCE.NS')":1269.9280238633,
+    "('Low', 'RELIANCE.NS')":1246.322351583,
+    "('Open', 'RELIANCE.NS')":1253.8920943103,
+    "('Volume', 'RELIANCE.NS')":14117603
+  },
+  {
+    "('Date', '')":"2025-01-17",
+    "('Close', 'RELIANCE.NS')":1297.1691894531,
+    "('High', 'RELIANCE.NS')":1320.7251333813,
+    "('Low', 'RELIANCE.NS')":1279.8882325754,
+    "('Open', 'RELIANCE.NS')":1316.9900509905,
+    "('Volume', 'RELIANCE.NS')":29366277
+  },
+  {
+    "('Date', '')":"2025-01-20",
+    "('Close', 'RELIANCE.NS')":1300.2568359375,
+    "('High', 'RELIANCE.NS')":1310.7649163859,
+    "('Low', 'RELIANCE.NS')":1295.0775703121,
+    "('Open', 'RELIANCE.NS')":1310.7649163859,
+    "('Volume', 'RELIANCE.NS')":14040244
+  },
+  {
+    "('Date', '')":"2025-01-21",
+    "('Close', 'RELIANCE.NS')":1268.6331787109,
+    "('High', 'RELIANCE.NS')":1307.7768921283,
+    "('Low', 'RELIANCE.NS')":1265.1471016946,
+    "('Open', 'RELIANCE.NS')":1305.2868371166,
+    "('Volume', 'RELIANCE.NS')":14562976
+  },
+  {
+    "('Date', '')":"2025-01-22",
+    "('Close', 'RELIANCE.NS')":1272.0196533203,
+    "('High', 'RELIANCE.NS')":1277.7966294699,
+    "('Low', 'RELIANCE.NS')":1263.6530443255,
+    "('Open', 'RELIANCE.NS')":1273.2149526537,
+    "('Volume', 'RELIANCE.NS')":10273590
+  },
+  {
+    "('Date', '')":"2025-01-23",
+    "('Close', 'RELIANCE.NS')":1258.6231689453,
+    "('High', 'RELIANCE.NS')":1272.2686211079,
+    "('Low', 'RELIANCE.NS')":1256.5812753017,
+    "('Open', 'RELIANCE.NS')":1264.9478840486,
+    "('Volume', 'RELIANCE.NS')":8720682
+  },
+  {
+    "('Date', '')":"2025-01-24",
+    "('Close', 'RELIANCE.NS')":1241.3422851562,
+    "('High', 'RELIANCE.NS')":1267.9360243063,
+    "('Low', 'RELIANCE.NS')":1238.5533748821,
+    "('Open', 'RELIANCE.NS')":1260.9638702057,
+    "('Volume', 'RELIANCE.NS')":14235970
+  },
+  {
+    "('Date', '')":"2025-01-27",
+    "('Close', 'RELIANCE.NS')":1224.4595947266,
+    "('High', 'RELIANCE.NS')":1235.5154143689,
+    "('Low', 'RELIANCE.NS')":1215.1468135462,
+    "('Open', 'RELIANCE.NS')":1234.1708090151,
+    "('Volume', 'RELIANCE.NS')":9536019
+  },
+  {
+    "('Date', '')":"2025-01-28",
+    "('Close', 'RELIANCE.NS')":1229.4896240234,
+    "('High', 'RELIANCE.NS')":1239.7984277662,
+    "('Low', 'RELIANCE.NS')":1213.6528493538,
+    "('Open', 'RELIANCE.NS')":1233.0752790316,
+    "('Volume', 'RELIANCE.NS')":10568025
+  },
+  {
+    "('Date', '')":"2025-01-29",
+    "('Close', 'RELIANCE.NS')":1230.5852050781,
+    "('High', 'RELIANCE.NS')":1237.8063647194,
+    "('Low', 'RELIANCE.NS')":1223.1648896668,
+    "('Open', 'RELIANCE.NS')":1231.0832160879,
+    "('Volume', 'RELIANCE.NS')":5928156
+  },
+  {
+    "('Date', '')":"2025-01-30",
+    "('Close', 'RELIANCE.NS')":1248.0654296875,
+    "('High', 'RELIANCE.NS')":1251.9996679976,
+    "('Low', 'RELIANCE.NS')":1227.4975508406,
+    "('Open', 'RELIANCE.NS')":1230.6350444926,
+    "('Volume', 'RELIANCE.NS')":9269259
+  },
+  {
+    "('Date', '')":"2025-01-31",
+    "('Close', 'RELIANCE.NS')":1260.0673828125,
+    "('High', 'RELIANCE.NS')":1261.9598488918,
+    "('Low', 'RELIANCE.NS')":1244.0314532485,
+    "('Open', 'RELIANCE.NS')":1250.8541794958,
+    "('Volume', 'RELIANCE.NS')":6584612
+  },
+  {
+    "('Date', '')":"2025-02-01",
+    "('Close', 'RELIANCE.NS')":1259.5693359375,
+    "('High', 'RELIANCE.NS')":1265.4957395016,
+    "('Low', 'RELIANCE.NS')":1236.0632421918,
+    "('Open', 'RELIANCE.NS')":1260.0673469134,
+    "('Volume', 'RELIANCE.NS')":7118453
+  },
+  {
+    "('Date', '')":"2025-02-03",
+    "('Close', 'RELIANCE.NS')":1240.9438476562,
+    "('High', 'RELIANCE.NS')":1251.0036456491,
+    "('Low', 'RELIANCE.NS')":1232.6270881825,
+    "('Open', 'RELIANCE.NS')":1246.0235355947,
+    "('Volume', 'RELIANCE.NS')":9252345
+  },
+  {
+    "('Date', '')":"2025-02-04",
+    "('Close', 'RELIANCE.NS')":1280.0874023438,
+    "('High', 'RELIANCE.NS')":1283.6731787459,
+    "('Low', 'RELIANCE.NS')":1241.6409781642,
+    "('Open', 'RELIANCE.NS')":1243.0852829886,
+    "('Volume', 'RELIANCE.NS')":16691069
+  },
+  {
+    "('Date', '')":"2025-02-05",
+    "('Close', 'RELIANCE.NS')":1273.115234375,
+    "('High', 'RELIANCE.NS')":1285.3663532491,
+    "('Low', 'RELIANCE.NS')":1271.6212014189,
+    "('Open', 'RELIANCE.NS')":1277.5476050957,
+    "('Volume', 'RELIANCE.NS')":10112028
+  },
+  {
+    "('Date', '')":"2025-02-06",
+    "('Close', 'RELIANCE.NS')":1276.4520263672,
+    "('High', 'RELIANCE.NS')":1282.8763195509,
+    "('Low', 'RELIANCE.NS')":1265.2965071594,
+    "('Open', 'RELIANCE.NS')":1268.6331564997,
+    "('Volume', 'RELIANCE.NS')":9956001
+  },
+  {
+    "('Date', '')":"2025-02-07",
+    "('Close', 'RELIANCE.NS')":1261.6610107422,
+    "('High', 'RELIANCE.NS')":1278.5933846345,
+    "('Low', 'RELIANCE.NS')":1256.9797560058,
+    "('Open', 'RELIANCE.NS')":1271.0734915332,
+    "('Volume', 'RELIANCE.NS')":8764283
+  },
+  {
+    "('Date', '')":"2025-02-10",
+    "('Close', 'RELIANCE.NS')":1248.6629638672,
+    "('High', 'RELIANCE.NS')":1261.4618218326,
+    "('Low', 'RELIANCE.NS')":1240.5952102474,
+    "('Open', 'RELIANCE.NS')":1259.4697778976,
+    "('Volume', 'RELIANCE.NS')":6970972
+  },
+  {
+    "('Date', '')":"2025-02-11",
+    "('Close', 'RELIANCE.NS')":1229.9377441406,
+    "('High', 'RELIANCE.NS')":1259.5196705337,
+    "('Low', 'RELIANCE.NS')":1225.2066396339,
+    "('Open', 'RELIANCE.NS')":1259.5196705337,
+    "('Volume', 'RELIANCE.NS')":8859714
+  },
+  {
+    "('Date', '')":"2025-02-12",
+    "('Close', 'RELIANCE.NS')":1211.7105712891,
+    "('High', 'RELIANCE.NS')":1222.0193743195,
+    "('Low', 'RELIANCE.NS')":1188.6027887286,
+    "('Open', 'RELIANCE.NS')":1214.5989377225,
+    "('Volume', 'RELIANCE.NS')":21131654
+  },
+  {
+    "('Date', '')":"2025-02-13",
+    "('Close', 'RELIANCE.NS')":1211.2623291016,
+    "('High', 'RELIANCE.NS')":1223.1150152109,
+    "('Low', 'RELIANCE.NS')":1207.1786632211,
+    "('Open', 'RELIANCE.NS')":1212.2086229518,
+    "('Volume', 'RELIANCE.NS')":8511216
+  },
+  {
+    "('Date', '')":"2025-02-14",
+    "('Close', 'RELIANCE.NS')":1212.4077148438,
+    "('High', 'RELIANCE.NS')":1219.1308629852,
+    "('Low', 'RELIANCE.NS')":1200.6546072366,
+    "('Open', 'RELIANCE.NS')":1214.1507532508,
+    "('Volume', 'RELIANCE.NS')":10298145
+  },
+  {
+    "('Date', '')":"2025-02-17",
+    "('Close', 'RELIANCE.NS')":1220.02734375,
+    "('High', 'RELIANCE.NS')":1222.6169765728,
+    "('Low', 'RELIANCE.NS')":1199.7084711055,
+    "('Open', 'RELIANCE.NS')":1206.2821918357,
+    "('Volume', 'RELIANCE.NS')":8166683
+  },
+  {
+    "('Date', '')":"2025-02-18",
+    "('Close', 'RELIANCE.NS')":1220.525390625,
+    "('High', 'RELIANCE.NS')":1225.0074896526,
+    "('Low', 'RELIANCE.NS')":1211.2623373341,
+    "('Open', 'RELIANCE.NS')":1219.9775298877,
+    "('Volume', 'RELIANCE.NS')":6673250
+  },
+  {
+    "('Date', '')":"2025-02-19",
+    "('Close', 'RELIANCE.NS')":1222.5671386719,
+    "('High', 'RELIANCE.NS')":1227.8461038341,
+    "('Low', 'RELIANCE.NS')":1212.7066182735,
+    "('Open', 'RELIANCE.NS')":1214.6488125132,
+    "('Volume', 'RELIANCE.NS')":6217338
+  },
+  {
+    "('Date', '')":"2025-02-20",
+    "('Close', 'RELIANCE.NS')":1228.0950927734,
+    "('High', 'RELIANCE.NS')":1234.4198079854,
+    "('Low', 'RELIANCE.NS')":1217.1388510699,
+    "('Open', 'RELIANCE.NS')":1219.0810452834,
+    "('Volume', 'RELIANCE.NS')":7795582
+  },
+  {
+    "('Date', '')":"2025-02-21",
+    "('Close', 'RELIANCE.NS')":1223.2644042969,
+    "('High', 'RELIANCE.NS')":1235.0672403005,
+    "('Low', 'RELIANCE.NS')":1217.288272489,
+    "('Open', 'RELIANCE.NS')":1223.8121434284,
+    "('Volume', 'RELIANCE.NS')":6904025
+  },
+  {
+    "('Date', '')":"2025-02-24",
+    "('Close', 'RELIANCE.NS')":1209.7185058594,
+    "('High', 'RELIANCE.NS')":1218.3838481751,
+    "('Low', 'RELIANCE.NS')":1205.6845683352,
+    "('Open', 'RELIANCE.NS')":1211.7105497558,
+    "('Volume', 'RELIANCE.NS')":7172498
+  },
+  {
+    "('Date', '')":"2025-02-25",
+    "('Close', 'RELIANCE.NS')":1199.2104492188,
+    "('High', 'RELIANCE.NS')":1216.1428226712,
+    "('Low', 'RELIANCE.NS')":1196.7203942993,
+    "('Open', 'RELIANCE.NS')":1206.1826029933,
+    "('Volume', 'RELIANCE.NS')":11552182
+  },
+  {
+    "('Date', '')":"2025-02-27",
+    "('Close', 'RELIANCE.NS')":1202.2980957031,
+    "('High', 'RELIANCE.NS')":1210.1666935833,
+    "('Low', 'RELIANCE.NS')":1195.8738026303,
+    "('Open', 'RELIANCE.NS')":1207.9754938831,
+    "('Volume', 'RELIANCE.NS')":11509215
+  },
+  {
+    "('Date', '')":"2025-02-28",
+    "('Close', 'RELIANCE.NS')":1195.3259277344,
+    "('High', 'RELIANCE.NS')":1212.5073065135,
+    "('Low', 'RELIANCE.NS')":1188.5530513694,
+    "('Open', 'RELIANCE.NS')":1197.2183937719,
+    "('Volume', 'RELIANCE.NS')":23007298
+  },
+  {
+    "('Date', '')":"2025-03-03",
+    "('Close', 'RELIANCE.NS')":1166.5906982422,
+    "('High', 'RELIANCE.NS')":1201.6506219269,
+    "('Low', 'RELIANCE.NS')":1151.4013636439,
+    "('Open', 'RELIANCE.NS')":1199.2104168056,
+    "('Volume', 'RELIANCE.NS')":17944938
+  },
+  {
+    "('Date', '')":"2025-03-04",
+    "('Close', 'RELIANCE.NS')":1157.2779541016,
+    "('High', 'RELIANCE.NS')":1169.3297956512,
+    "('Low', 'RELIANCE.NS')":1154.9373267833,
+    "('Open', 'RELIANCE.NS')":1157.5766877425,
+    "('Volume', 'RELIANCE.NS')":11377373
+  },
+  {
+    "('Date', '')":"2025-03-05",
+    "('Close', 'RELIANCE.NS')":1170.9234619141,
+    "('High', 'RELIANCE.NS')":1178.294049176,
+    "('Low', 'RELIANCE.NS')":1152.3974766666,
+    "('Open', 'RELIANCE.NS')":1156.381564745,
+    "('Volume', 'RELIANCE.NS')":8664095
+  },
+  {
+    "('Date', '')":"2025-03-06",
+    "('Close', 'RELIANCE.NS')":1204.7882080078,
+    "('High', 'RELIANCE.NS')":1209.1208794668,
+    "('Low', 'RELIANCE.NS')":1180.4355183147,
+    "('Open', 'RELIANCE.NS')":1192.2383549047,
+    "('Volume', 'RELIANCE.NS')":14468014
+  },
+  {
+    "('Date', '')":"2025-03-07",
+    "('Close', 'RELIANCE.NS')":1244.8283691406,
+    "('High', 'RELIANCE.NS')":1249.8084792403,
+    "('Low', 'RELIANCE.NS')":1207.1786881534,
+    "('Open', 'RELIANCE.NS')":1211.1627762332,
+    "('Volume', 'RELIANCE.NS')":16474965
+  },
+  {
+    "('Date', '')":"2025-03-10",
+    "('Close', 'RELIANCE.NS')":1233.4736328125,
+    "('High', 'RELIANCE.NS')":1252.995639121,
+    "('Low', 'RELIANCE.NS')":1230.4855669004,
+    "('Open', 'RELIANCE.NS')":1240.0473535021,
+    "('Volume', 'RELIANCE.NS')":11931051
+  },
+  {
+    "('Date', '')":"2025-03-11",
+    "('Close', 'RELIANCE.NS')":1242.3382568359,
+    "('High', 'RELIANCE.NS')":1244.5294565449,
+    "('Low', 'RELIANCE.NS')":1224.8580225579,
+    "('Open', 'RELIANCE.NS')":1235.0672477917,
+    "('Volume', 'RELIANCE.NS')":10089838
+  },
+  {
+    "('Date', '')":"2025-03-12",
+    "('Close', 'RELIANCE.NS')":1252.0494384766,
+    "('High', 'RELIANCE.NS')":1257.9757204338,
+    "('Low', 'RELIANCE.NS')":1239.0513034201,
+    "('Open', 'RELIANCE.NS')":1252.9956106934,
+    "('Volume', 'RELIANCE.NS')":11977555
+  },
+  {
+    "('Date', '')":"2025-03-13",
+    "('Close', 'RELIANCE.NS')":1242.9359130859,
+    "('High', 'RELIANCE.NS')":1259.1212710413,
+    "('Low', 'RELIANCE.NS')":1238.9019752386,
+    "('Open', 'RELIANCE.NS')":1255.0376050434,
+    "('Volume', 'RELIANCE.NS')":9505270
+  },
+  {
+    "('Date', '')":"2025-03-17",
+    "('Close', 'RELIANCE.NS')":1233.9217529297,
+    "('High', 'RELIANCE.NS')":1252.3980085038,
+    "('Low', 'RELIANCE.NS')":1228.1946267892,
+    "('Open', 'RELIANCE.NS')":1237.2086739573,
+    "('Volume', 'RELIANCE.NS')":16640917
+  },
+  {
+    "('Date', '')":"2025-03-18",
+    "('Close', 'RELIANCE.NS')":1233.9217529297,
+    "('High', 'RELIANCE.NS')":1233.9217529297,
+    "('Low', 'RELIANCE.NS')":1233.9217529297,
+    "('Open', 'RELIANCE.NS')":1233.9217529297,
+    "('Volume', 'RELIANCE.NS')":0
+  },
+  {
+    "('Date', '')":"2025-03-19",
+    "('Close', 'RELIANCE.NS')":1242.1888427734,
+    "('High', 'RELIANCE.NS')":1248.2645525643,
+    "('Low', 'RELIANCE.NS')":1233.8720835165,
+    "('Open', 'RELIANCE.NS')":1236.1131329825,
+    "('Volume', 'RELIANCE.NS')":16162399
+  },
+  {
+    "('Date', '')":"2025-03-20",
+    "('Close', 'RELIANCE.NS')":1264.1013183594,
+    "('High', 'RELIANCE.NS')":1267.9359786597,
+    "('Low', 'RELIANCE.NS')":1245.0773228865,
+    "('Open', 'RELIANCE.NS')":1246.870089497,
+    "('Volume', 'RELIANCE.NS')":15971477
+  },
+  {
+    "('Date', '')":"2025-03-21",
+    "('Close', 'RELIANCE.NS')":1271.2725830078,
+    "('High', 'RELIANCE.NS')":1275.9041093611,
+    "('Low', 'RELIANCE.NS')":1265.0474458622,
+    "('Open', 'RELIANCE.NS')":1269.9279777013,
+    "('Volume', 'RELIANCE.NS')":21780769
+  },
+  {
+    "('Date', '')":"2025-03-24",
+    "('Close', 'RELIANCE.NS')":1296.9201660156,
+    "('High', 'RELIANCE.NS')":1300.8046759652,
+    "('Low', 'RELIANCE.NS')":1279.1411983984,
+    "('Open', 'RELIANCE.NS')":1285.8643466088,
+    "('Volume', 'RELIANCE.NS')":20299319
+  },
+  {
+    "('Date', '')":"2025-03-25",
+    "('Close', 'RELIANCE.NS')":1280.3364257812,
+    "('High', 'RELIANCE.NS')":1302.4979151863,
+    "('Low', 'RELIANCE.NS')":1277.4977874104,
+    "('Open', 'RELIANCE.NS')":1302.4979151863,
+    "('Volume', 'RELIANCE.NS')":13713899
+  },
+  {
+    "('Date', '')":"2025-03-26",
+    "('Close', 'RELIANCE.NS')":1267.9858398438,
+    "('High', 'RELIANCE.NS')":1288.6532960847,
+    "('Low', 'RELIANCE.NS')":1263.7028966635,
+    "('Open', 'RELIANCE.NS')":1285.8643858858,
+    "('Volume', 'RELIANCE.NS')":12074747
+  },
+  {
+    "('Date', '')":"2025-03-27",
+    "('Close', 'RELIANCE.NS')":1273.115234375,
+    "('High', 'RELIANCE.NS')":1279.88823241,
+    "('Low', 'RELIANCE.NS')":1266.2427800446,
+    "('Open', 'RELIANCE.NS')":1273.0655062273,
+    "('Volume', 'RELIANCE.NS')":15028056
+  },
+  {
+    "('Date', '')":"2025-03-28",
+    "('Close', 'RELIANCE.NS')":1270.0275878906,
+    "('High', 'RELIANCE.NS')":1290.5954658599,
+    "('Low', 'RELIANCE.NS')":1263.9518781989,
+    "('Open', 'RELIANCE.NS')":1274.9081198539,
+    "('Volume', 'RELIANCE.NS')":18147129
+  },
+  {
+    "('Date', '')":"2025-04-01",
+    "('Close', 'RELIANCE.NS')":1247.6170654297,
+    "('High', 'RELIANCE.NS')":1272.8164693011,
+    "('Low', 'RELIANCE.NS')":1244.3302659582,
+    "('Open', 'RELIANCE.NS')":1259.5693287835,
+    "('Volume', 'RELIANCE.NS')":12099648
+  },
+  {
+    "('Date', '')":"2025-04-02",
+    "('Close', 'RELIANCE.NS')":1246.1729736328,
+    "('High', 'RELIANCE.NS')":1250.5554948342,
+    "('Low', 'RELIANCE.NS')":1238.9518139936,
+    "('Open', 'RELIANCE.NS')":1242.5873186807,
+    "('Volume', 'RELIANCE.NS')":10142590
+  },
+  {
+    "('Date', '')":"2025-04-03",
+    "('Close', 'RELIANCE.NS')":1243.7326660156,
+    "('High', 'RELIANCE.NS')":1246.8204315908,
+    "('Low', 'RELIANCE.NS')":1228.1450184414,
+    "('Open', 'RELIANCE.NS')":1228.1450184414,
+    "('Volume', 'RELIANCE.NS')":7434366
+  },
+  {
+    "('Date', '')":"2025-04-04",
+    "('Close', 'RELIANCE.NS')":1199.9075927734,
+    "('High', 'RELIANCE.NS')":1240.4954871765,
+    "('Low', 'RELIANCE.NS')":1188.4036122186,
+    "('Open', 'RELIANCE.NS')":1236.1628160173,
+    "('Volume', 'RELIANCE.NS')":17908652
+  },
+  {
+    "('Date', '')":"2025-04-07",
+    "('Close', 'RELIANCE.NS')":1161.0627441406,
+    "('High', 'RELIANCE.NS')":1166.590714624,
+    "('Low', 'RELIANCE.NS')":1110.4150520532,
+    "('Open', 'RELIANCE.NS')":1127.696008653,
+    "('Volume', 'RELIANCE.NS')":22156106
+  },
+  {
+    "('Date', '')":"2025-04-08",
+    "('Close', 'RELIANCE.NS')":1177.4971923828,
+    "('High', 'RELIANCE.NS')":1191.8399338971,
+    "('Low', 'RELIANCE.NS')":1158.6724733291,
+    "('Open', 'RELIANCE.NS')":1167.3378163353,
+    "('Volume', 'RELIANCE.NS')":19555040
+  },
+  {
+    "('Date', '')":"2025-04-09",
+    "('Close', 'RELIANCE.NS')":1180.6346435547,
+    "('High', 'RELIANCE.NS')":1185.0670143686,
+    "('Low', 'RELIANCE.NS')":1163.3536863155,
+    "('Open', 'RELIANCE.NS')":1164.8477193031,
+    "('Volume', 'RELIANCE.NS')":10223104
+  },
+  {
+    "('Date', '')":"2025-04-11",
+    "('Close', 'RELIANCE.NS')":1214.1009521484,
+    "('High', 'RELIANCE.NS')":1217.7863064503,
+    "('Low', 'RELIANCE.NS')":1190.395701814,
+    "('Open', 'RELIANCE.NS')":1190.395701814,
+    "('Volume', 'RELIANCE.NS')":11224242
+  },
+  {
+    "('Date', '')":"2025-04-15",
+    "('Close', 'RELIANCE.NS')":1235.1668701172,
+    "('High', 'RELIANCE.NS')":1246.0235343417,
+    "('Low', 'RELIANCE.NS')":1232.1788040876,
+    "('Open', 'RELIANCE.NS')":1246.0235343417,
+    "('Volume', 'RELIANCE.NS')":13378535
+  },
+  {
+    "('Date', '')":"2025-04-16",
+    "('Close', 'RELIANCE.NS')":1234.3701171875,
+    "('High', 'RELIANCE.NS')":1235.9637280757,
+    "('Low', 'RELIANCE.NS')":1224.1110419208,
+    "('Open', 'RELIANCE.NS')":1229.1907298201,
+    "('Volume', 'RELIANCE.NS')":8248464
+  },
+  {
+    "('Date', '')":"2025-04-17",
+    "('Close', 'RELIANCE.NS')":1269.4300537109,
+    "('High', 'RELIANCE.NS')":1275.1073305428,
+    "('Low', 'RELIANCE.NS')":1222.7165970526,
+    "('Open', 'RELIANCE.NS')":1235.2664500811,
+    "('Volume', 'RELIANCE.NS')":15398401
+  },
+  {
+    "('Date', '')":"2025-04-21",
+    "('Close', 'RELIANCE.NS')":1290.3464355469,
+    "('High', 'RELIANCE.NS')":1295.724978391,
+    "('Low', 'RELIANCE.NS')":1261.9598099868,
+    "('Open', 'RELIANCE.NS')":1264.9478758352,
+    "('Volume', 'RELIANCE.NS')":10429964
+  },
+  {
+    "('Date', '')":"2025-04-22",
+    "('Close', 'RELIANCE.NS')":1286.0635986328,
+    "('High', 'RELIANCE.NS')":1298.7131513856,
+    "('Low', 'RELIANCE.NS')":1281.1831879455,
+    "('Open', 'RELIANCE.NS')":1294.8286411452,
+    "('Volume', 'RELIANCE.NS')":13051707
+  },
+  {
+    "('Date', '')":"2025-04-23",
+    "('Close', 'RELIANCE.NS')":1294.8286132812,
+    "('High', 'RELIANCE.NS')":1300.8047453425,
+    "('Low', 'RELIANCE.NS')":1280.286716249,
+    "('Open', 'RELIANCE.NS')":1291.8405472506,
+    "('Volume', 'RELIANCE.NS')":10480888
+  },
+  {
+    "('Date', '')":"2025-04-24",
+    "('Close', 'RELIANCE.NS')":1296.4222412109,
+    "('High', 'RELIANCE.NS')":1299.3107293955,
+    "('Low', 'RELIANCE.NS')":1285.1672652985,
+    "('Open', 'RELIANCE.NS')":1287.2588872305,
+    "('Volume', 'RELIANCE.NS')":10468940
+  },
+  {
+    "('Date', '')":"2025-04-25",
+    "('Close', 'RELIANCE.NS')":1295.2270507812,
+    "('High', 'RELIANCE.NS')":1319.9283237673,
+    "('Low', 'RELIANCE.NS')":1282.9759313803,
+    "('Open', 'RELIANCE.NS')":1298.3146947064,
+    "('Volume', 'RELIANCE.NS')":14431012
+  },
+  {
+    "('Date', '')":"2025-04-28",
+    "('Close', 'RELIANCE.NS')":1363.3549804688,
+    "('High', 'RELIANCE.NS')":1369.1318351952,
+    "('Low', 'RELIANCE.NS')":1314.9482133535,
+    "('Open', 'RELIANCE.NS')":1334.6694978512,
+    "('Volume', 'RELIANCE.NS')":31104496
+  },
+  {
+    "('Date', '')":"2025-04-29",
+    "('Close', 'RELIANCE.NS')":1394.1319580078,
+    "('High', 'RELIANCE.NS')":1405.2874774646,
+    "('Low', 'RELIANCE.NS')":1364.5501529607,
+    "('Open', 'RELIANCE.NS')":1365.5461749702,
+    "('Volume', 'RELIANCE.NS')":32538970
+  },
+  {
+    "('Date', '')":"2025-04-30",
+    "('Close', 'RELIANCE.NS')":1399.4108886719,
+    "('High', 'RELIANCE.NS')":1406.7814756765,
+    "('Low', 'RELIANCE.NS')":1363.5540972184,
+    "('Open', 'RELIANCE.NS')":1396.4228227174,
+    "('Volume', 'RELIANCE.NS')":25480745
+  },
+  {
+    "('Date', '')":"2025-05-02",
+    "('Close', 'RELIANCE.NS')":1414.1520996094,
+    "('High', 'RELIANCE.NS')":1421.0245542163,
+    "('Low', 'RELIANCE.NS')":1403.4945911427,
+    "('Open', 'RELIANCE.NS')":1408.3751233127,
+    "('Volume', 'RELIANCE.NS')":13007841
+  },
+  {
+    "('Date', '')":"2025-05-05",
+    "('Close', 'RELIANCE.NS')":1425.6063232422,
+    "('High', 'RELIANCE.NS')":1433.7736549281,
+    "('Low', 'RELIANCE.NS')":1421.2238021683,
+    "('Open', 'RELIANCE.NS')":1425.3074680112,
+    "('Volume', 'RELIANCE.NS')":12685649
+  },
+  {
+    "('Date', '')":"2025-05-06",
+    "('Close', 'RELIANCE.NS')":1415.2476806641,
+    "('High', 'RELIANCE.NS')":1426.3035005201,
+    "('Low', 'RELIANCE.NS')":1404.9886054552,
+    "('Open', 'RELIANCE.NS')":1425.3074785226,
+    "('Volume', 'RELIANCE.NS')":14084117
+  },
+  {
+    "('Date', '')":"2025-05-07",
+    "('Close', 'RELIANCE.NS')":1400.4068603516,
+    "('High', 'RELIANCE.NS')":1418.7336885309,
+    "('Low', 'RELIANCE.NS')":1397.1199392858,
+    "('Open', 'RELIANCE.NS')":1415.2476117092,
+    "('Volume', 'RELIANCE.NS')":13440169
+  },
+  {
+    "('Date', '')":"2025-05-08",
+    "('Close', 'RELIANCE.NS')":1401.4029541016,
+    "('High', 'RELIANCE.NS')":1415.1481063364,
+    "('Low', 'RELIANCE.NS')":1392.4387561009,
+    "('Open', 'RELIANCE.NS')":1398.5144659844,
+    "('Volume', 'RELIANCE.NS')":16106175
+  },
+  {
+    "('Date', '')":"2025-05-09",
+    "('Close', 'RELIANCE.NS')":1371.7214355469,
+    "('High', 'RELIANCE.NS')":1389.2515198329,
+    "('Low', 'RELIANCE.NS')":1369.0322248086,
+    "('Open', 'RELIANCE.NS')":1379.9884666951,
+    "('Volume', 'RELIANCE.NS')":13668904
+  },
+  {
+    "('Date', '')":"2025-05-12",
+    "('Close', 'RELIANCE.NS')":1430.7855224609,
+    "('High', 'RELIANCE.NS')":1433.2755773208,
+    "('Low', 'RELIANCE.NS')":1394.4307215074,
+    "('Open', 'RELIANCE.NS')":1394.4307215074,
+    "('Volume', 'RELIANCE.NS')":10674081
+  },
+  {
+    "('Date', '')":"2025-05-13",
+    "('Close', 'RELIANCE.NS')":1410.0682373047,
+    "('High', 'RELIANCE.NS')":1441.9409399606,
+    "('Low', 'RELIANCE.NS')":1406.7814377941,
+    "('Open', 'RELIANCE.NS')":1427.7974767909,
+    "('Volume', 'RELIANCE.NS')":11407896
+  },
+  {
+    "('Date', '')":"2025-05-14",
+    "('Close', 'RELIANCE.NS')":1418.7337646484,
+    "('High', 'RELIANCE.NS')":1424.2118856621,
+    "('Low', 'RELIANCE.NS')":1409.8691445094,
+    "('Open', 'RELIANCE.NS')":1414.3512435206,
+    "('Volume', 'RELIANCE.NS')":5570160
+  },
+  {
+    "('Date', '')":"2025-05-15",
+    "('Close', 'RELIANCE.NS')":1448.4151611328,
+    "('High', 'RELIANCE.NS')":1455.5865925696,
+    "('Low', 'RELIANCE.NS')":1407.0802476372,
+    "('Open', 'RELIANCE.NS')":1419.331367018,
+    "('Volume', 'RELIANCE.NS')":20177211
+  },
+  {
+    "('Date', '')":"2025-05-16",
+    "('Close', 'RELIANCE.NS')":1450.6064453125,
+    "('High', 'RELIANCE.NS')":1455.188122133,
+    "('Low', 'RELIANCE.NS')":1441.5426695532,
+    "('Open', 'RELIANCE.NS')":1447.4191020052,
+    "('Volume', 'RELIANCE.NS')":9036695
+  },
+  {
+    "('Date', '')":"2025-05-19",
+    "('Close', 'RELIANCE.NS')":1435.0684814453,
+    "('High', 'RELIANCE.NS')":1448.8135114739,
+    "('Low', 'RELIANCE.NS')":1432.4787270945,
+    "('Open', 'RELIANCE.NS')":1446.3234565864,
+    "('Volume', 'RELIANCE.NS')":6195791
+  },
+  {
+    "('Date', '')":"2025-05-20",
+    "('Close', 'RELIANCE.NS')":1418.9328613281,
+    "('High', 'RELIANCE.NS')":1439.2517336495,
+    "('Low', 'RELIANCE.NS')":1416.1440727881,
+    "('Open', 'RELIANCE.NS')":1432.4787356808,
+    "('Volume', 'RELIANCE.NS')":11270560
+  },
+  {
+    "('Date', '')":"2025-05-21",
+    "('Close', 'RELIANCE.NS')":1423.5145263672,
+    "('High', 'RELIANCE.NS')":1430.4866800371,
+    "('Low', 'RELIANCE.NS')":1412.4587070076,
+    "('Open', 'RELIANCE.NS')":1418.235682968,
+    "('Volume', 'RELIANCE.NS')":6136364
+  },
+  {
+    "('Date', '')":"2025-05-22",
+    "('Close', 'RELIANCE.NS')":1403.7934570312,
+    "('High', 'RELIANCE.NS')":1418.136198413,
+    "('Low', 'RELIANCE.NS')":1391.3431818014,
+    "('Open', 'RELIANCE.NS')":1415.5464438974,
+    "('Volume', 'RELIANCE.NS')":12134466
+  },
+  {
+    "('Date', '')":"2025-05-23",
+    "('Close', 'RELIANCE.NS')":1421.1242675781,
+    "('High', 'RELIANCE.NS')":1428.0964217221,
+    "('Low', 'RELIANCE.NS')":1401.0045498119,
+    "('Open', 'RELIANCE.NS')":1401.0045498119,
+    "('Volume', 'RELIANCE.NS')":6474883
+  },
+  {
+    "('Date', '')":"2025-05-26",
+    "('Close', 'RELIANCE.NS')":1429.0924072266,
+    "('High', 'RELIANCE.NS')":1435.2676949624,
+    "('Low', 'RELIANCE.NS')":1419.4309209231,
+    "('Open', 'RELIANCE.NS')":1426.3034970064,
+    "('Volume', 'RELIANCE.NS')":4842944
+  },
+  {
+    "('Date', '')":"2025-05-27",
+    "('Close', 'RELIANCE.NS')":1416.4428710938,
+    "('High', 'RELIANCE.NS')":1431.2836233072,
+    "('Low', 'RELIANCE.NS')":1408.2755392745,
+    "('Open', 'RELIANCE.NS')":1420.4269591197,
+    "('Volume', 'RELIANCE.NS')":12640414
+  },
+  {
+    "('Date', '')":"2025-05-28",
+    "('Close', 'RELIANCE.NS')":1407.2795410156,
+    "('High', 'RELIANCE.NS')":1416.9409060076,
+    "('Low', 'RELIANCE.NS')":1405.0882196136,
+    "('Open', 'RELIANCE.NS')":1414.4508509494,
+    "('Volume', 'RELIANCE.NS')":5944611
+  },
+  {
+    "('Date', '')":"2025-05-29",
+    "('Close', 'RELIANCE.NS')":1412.1600341797,
+    "('High', 'RELIANCE.NS')":1414.3512339364,
+    "('Low', 'RELIANCE.NS')":1402.9965588681,
+    "('Open', 'RELIANCE.NS')":1406.4826358532,
+    "('Volume', 'RELIANCE.NS')":13771917
+  },
+  {
+    "('Date', '')":"2025-05-30",
+    "('Close', 'RELIANCE.NS')":1415.2476806641,
+    "('High', 'RELIANCE.NS')":1424.9090454066,
+    "('Low', 'RELIANCE.NS')":1404.0921613404,
+    "('Open', 'RELIANCE.NS')":1412.3591925542,
+    "('Volume', 'RELIANCE.NS')":13788484
+  },
+  {
+    "('Date', '')":"2025-06-02",
+    "('Close', 'RELIANCE.NS')":1408.0762939453,
+    "('High', 'RELIANCE.NS')":1411.8612262899,
+    "('Low', 'RELIANCE.NS')":1390.048319535,
+    "('Open', 'RELIANCE.NS')":1406.4826830157,
+    "('Volume', 'RELIANCE.NS')":8098668
+  },
+  {
+    "('Date', '')":"2025-06-03",
+    "('Close', 'RELIANCE.NS')":1399.9089355469,
+    "('High', 'RELIANCE.NS')":1420.8253977642,
+    "('Low', 'RELIANCE.NS')":1397.8173136421,
+    "('Open', 'RELIANCE.NS')":1416.6421539546,
+    "('Volume', 'RELIANCE.NS')":11252626
+  },
+  {
+    "('Date', '')":"2025-06-04",
+    "('Close', 'RELIANCE.NS')":1417.8372802734,
+    "('High', 'RELIANCE.NS')":1420.0284799828,
+    "('Low', 'RELIANCE.NS')":1400.5064736054,
+    "('Open', 'RELIANCE.NS')":1409.0722382666,
+    "('Volume', 'RELIANCE.NS')":8126827
+  },
+  {
+    "('Date', '')":"2025-06-05",
+    "('Close', 'RELIANCE.NS')":1436.662109375,
+    "('High', 'RELIANCE.NS')":1448.9131066171,
+    "('Low', 'RELIANCE.NS')":1417.9368477634,
+    "('Open', 'RELIANCE.NS')":1422.3193687347,
+    "('Volume', 'RELIANCE.NS')":13716817
+  },
+  {
+    "('Date', '')":"2025-06-06",
+    "('Close', 'RELIANCE.NS')":1437.7576904297,
+    "('High', 'RELIANCE.NS')":1445.7258660607,
+    "('Low', 'RELIANCE.NS')":1431.2835477294,
+    "('Open', 'RELIANCE.NS')":1435.267635545,
+    "('Volume', 'RELIANCE.NS')":8182161
+  },
+  {
+    "('Date', '')":"2025-06-09",
+    "('Close', 'RELIANCE.NS')":1443.0367431641,
+    "('High', 'RELIANCE.NS')":1451.7020860559,
+    "('Low', 'RELIANCE.NS')":1439.5506661135,
+    "('Open', 'RELIANCE.NS')":1451.2040750486,
+    "('Volume', 'RELIANCE.NS')":7885125
+  },
+  {
+    "('Date', '')":"2025-06-10",
+    "('Close', 'RELIANCE.NS')":1432.7775878906,
+    "('High', 'RELIANCE.NS')":1448.1163503748,
+    "('Low', 'RELIANCE.NS')":1430.2875329934,
+    "('Open', 'RELIANCE.NS')":1444.2318404181,
+    "('Volume', 'RELIANCE.NS')":7913181
+  },
+  {
+    "('Date', '')":"2025-06-11",
+    "('Close', 'RELIANCE.NS')":1443.1362304688,
+    "('High', 'RELIANCE.NS')":1462.7578142879,
+    "('Low', 'RELIANCE.NS')":1437.3592545137,
+    "('Open', 'RELIANCE.NS')":1440.0485867347,
+    "('Volume', 'RELIANCE.NS')":8195700
+  },
+  {
+    "('Date', '')":"2025-06-12",
+    "('Close', 'RELIANCE.NS')":1435.865234375,
+    "('High', 'RELIANCE.NS')":1451.2039968883,
+    "('Low', 'RELIANCE.NS')":1428.6939248911,
+    "('Open', 'RELIANCE.NS')":1447.7179200255,
+    "('Volume', 'RELIANCE.NS')":8828114
+  },
+  {
+    "('Date', '')":"2025-06-13",
+    "('Close', 'RELIANCE.NS')":1422.2198486328,
+    "('High', 'RELIANCE.NS')":1429.7895915718,
+    "('Low', 'RELIANCE.NS')":1408.6739736496,
+    "('Open', 'RELIANCE.NS')":1418.3353384871,
+    "('Volume', 'RELIANCE.NS')":9757276
+  },
+  {
+    "('Date', '')":"2025-06-16",
+    "('Close', 'RELIANCE.NS')":1432.0804443359,
+    "('High', 'RELIANCE.NS')":1436.6621211041,
+    "('Low', 'RELIANCE.NS')":1418.7337255536,
+    "('Open', 'RELIANCE.NS')":1421.2237804911,
+    "('Volume', 'RELIANCE.NS')":8458093
+  },
+  {
+    "('Date', '')":"2025-06-17",
+    "('Close', 'RELIANCE.NS')":1425.5065917969,
+    "('High', 'RELIANCE.NS')":1442.2398094912,
+    "('Low', 'RELIANCE.NS')":1420.1281704381,
+    "('Open', 'RELIANCE.NS')":1442.2398094912,
+    "('Volume', 'RELIANCE.NS')":10366599
+  },
+  {
+    "('Date', '')":"2025-06-18",
+    "('Close', 'RELIANCE.NS')":1424.4110107422,
+    "('High', 'RELIANCE.NS')":1437.060562852,
+    "('Low', 'RELIANCE.NS')":1420.0284897087,
+    "('Open', 'RELIANCE.NS')":1424.311432861,
+    "('Volume', 'RELIANCE.NS')":6681735
+  },
+  {
+    "('Date', '')":"2025-06-19",
+    "('Close', 'RELIANCE.NS')":1427.5983886719,
+    "('High', 'RELIANCE.NS')":1434.1721095892,
+    "('Low', 'RELIANCE.NS')":1420.0285241647,
+    "('Open', 'RELIANCE.NS')":1424.4110453044,
+    "('Volume', 'RELIANCE.NS')":10007230
+  },
+  {
+    "('Date', '')":"2025-06-20",
+    "('Close', 'RELIANCE.NS')":1460.3674316406,
+    "('High', 'RELIANCE.NS')":1465.1483859527,
+    "('Low', 'RELIANCE.NS')":1422.4190171372,
+    "('Open', 'RELIANCE.NS')":1425.3075053013,
+    "('Volume', 'RELIANCE.NS')":29010635
+  },
+  {
+    "('Date', '')":"2025-06-23",
+    "('Close', 'RELIANCE.NS')":1451.0048828125,
+    "('High', 'RELIANCE.NS')":1457.9770367384,
+    "('Low', 'RELIANCE.NS')":1436.2637087353,
+    "('Open', 'RELIANCE.NS')":1447.2199506188,
+    "('Volume', 'RELIANCE.NS')":5989078
+  },
+  {
+    "('Date', '')":"2025-06-24",
+    "('Close', 'RELIANCE.NS')":1445.0286865234,
+    "('High', 'RELIANCE.NS')":1469.1323689599,
+    "('Low', 'RELIANCE.NS')":1437.3592445957,
+    "('Open', 'RELIANCE.NS')":1459.1721495094,
+    "('Volume', 'RELIANCE.NS')":16402744
+  },
+  {
+    "('Date', '')":"2025-06-25",
+    "('Close', 'RELIANCE.NS')":1461.4631347656,
+    "('High', 'RELIANCE.NS')":1466.5428226679,
+    "('Low', 'RELIANCE.NS')":1454.6901365061,
+    "('Open', 'RELIANCE.NS')":1458.1762135193,
+    "('Volume', 'RELIANCE.NS')":7525851
+  },
+  {
+    "('Date', '')":"2025-06-26",
+    "('Close', 'RELIANCE.NS')":1489.3516845703,
+    "('High', 'RELIANCE.NS')":1492.8377614283,
+    "('Low', 'RELIANCE.NS')":1459.2717484447,
+    "('Open', 'RELIANCE.NS')":1463.2558362824,
+    "('Volume', 'RELIANCE.NS')":14657893
+  },
+  {
+    "('Date', '')":"2025-06-27",
+    "('Close', 'RELIANCE.NS')":1509.3717041016,
+    "('High', 'RELIANCE.NS')":1515.9454247276,
+    "('Low', 'RELIANCE.NS')":1490.945297822,
+    "('Open', 'RELIANCE.NS')":1493.4353527247,
+    "('Volume', 'RELIANCE.NS')":11117052
+  },
+  {
+    "('Date', '')":"2025-06-30",
+    "('Close', 'RELIANCE.NS')":1494.6306152344,
+    "('High', 'RELIANCE.NS')":1518.7344210102,
+    "('Low', 'RELIANCE.NS')":1490.0489382705,
+    "('Open', 'RELIANCE.NS')":1507.778178817,
+    "('Volume', 'RELIANCE.NS')":8409527
+  },
+  {
+    "('Date', '')":"2025-07-01",
+    "('Close', 'RELIANCE.NS')":1522.3200683594,
+    "('High', 'RELIANCE.NS')":1525.3081343971,
+    "('Low', 'RELIANCE.NS')":1494.1325967692,
+    "('Open', 'RELIANCE.NS')":1494.6306077755,
+    "('Volume', 'RELIANCE.NS')":10368523
+  },
+  {
+    "('Date', '')":"2025-07-02",
+    "('Close', 'RELIANCE.NS')":1512.7583007812,
+    "('High', 'RELIANCE.NS')":1523.9136988316,
+    "('Low', 'RELIANCE.NS')":1502.6983810571,
+    "('Open', 'RELIANCE.NS')":1522.320087908,
+    "('Volume', 'RELIANCE.NS')":6361002
+  },
+  {
+    "('Date', '')":"2025-07-03",
+    "('Close', 'RELIANCE.NS')":1511.7622070312,
+    "('High', 'RELIANCE.NS')":1525.8060926059,
+    "('Low', 'RELIANCE.NS')":1506.9812529024,
+    "('Open', 'RELIANCE.NS')":1514.7502729656,
+    "('Volume', 'RELIANCE.NS')":11283291
+  },
+  {
+    "('Date', '')":"2025-07-04",
+    "('Close', 'RELIANCE.NS')":1521.2244873047,
+    "('High', 'RELIANCE.NS')":1523.9136981381,
+    "('Low', 'RELIANCE.NS')":1511.1645675852,
+    "('Open', 'RELIANCE.NS')":1517.9375659885,
+    "('Volume', 'RELIANCE.NS')":6603501
+  },
+  {
+    "('Date', '')":"2025-07-07",
+    "('Close', 'RELIANCE.NS')":1535.3679199219,
+    "('High', 'RELIANCE.NS')":1538.6548411706,
+    "('Low', 'RELIANCE.NS')":1518.9335568478,
+    "('Open', 'RELIANCE.NS')":1520.527167738,
+    "('Volume', 'RELIANCE.NS')":7251074
+  },
+  {
+    "('Date', '')":"2025-07-08",
+    "('Close', 'RELIANCE.NS')":1531.4833984375,
+    "('High', 'RELIANCE.NS')":1538.7544076503,
+    "('Low', 'RELIANCE.NS')":1524.112811342,
+    "('Open', 'RELIANCE.NS')":1529.8897875591,
+    "('Volume', 'RELIANCE.NS')":7171261
+  },
+  {
+    "('Date', '')":"2025-07-09",
+    "('Close', 'RELIANCE.NS')":1512.9573974609,
+    "('High', 'RELIANCE.NS')":1544.8301010283,
+    "('Low', 'RELIANCE.NS')":1504.0927774643,
+    "('Open', 'RELIANCE.NS')":1530.5869379877,
+    "('Volume', 'RELIANCE.NS')":8870660
+  },
+  {
+    "('Date', '')":"2025-07-10",
+    "('Close', 'RELIANCE.NS')":1511.1645507812,
+    "('High', 'RELIANCE.NS')":1518.6347158851,
+    "('Low', 'RELIANCE.NS')":1501.5031858808,
+    "('Open', 'RELIANCE.NS')":1513.6546058159,
+    "('Volume', 'RELIANCE.NS')":10047129
+  },
+  {
+    "('Date', '')":"2025-07-11",
+    "('Close', 'RELIANCE.NS')":1489.2520751953,
+    "('High', 'RELIANCE.NS')":1508.9733598189,
+    "('Low', 'RELIANCE.NS')":1484.3716645666,
+    "('Open', 'RELIANCE.NS')":1505.9852937599,
+    "('Volume', 'RELIANCE.NS')":7234991
+  },
+  {
+    "('Date', '')":"2025-07-14",
+    "('Close', 'RELIANCE.NS')":1477.7977294922,
+    "('High', 'RELIANCE.NS')":1494.0329360309,
+    "('Low', 'RELIANCE.NS')":1473.2160528053,
+    "('Open', 'RELIANCE.NS')":1486.2639161297,
+    "('Volume', 'RELIANCE.NS')":10311846
+  },
+  {
+    "('Date', '')":"2025-07-15",
+    "('Close', 'RELIANCE.NS')":1479.4910888672,
+    "('High', 'RELIANCE.NS')":1490.5469086438,
+    "('Low', 'RELIANCE.NS')":1476.503022896,
+    "('Open', 'RELIANCE.NS')":1480.2878335087,
+    "('Volume', 'RELIANCE.NS')":8132454
+  },
+  {
+    "('Date', '')":"2025-07-16",
+    "('Close', 'RELIANCE.NS')":1479.6901855469,
+    "('High', 'RELIANCE.NS')":1485.0687283972,
+    "('Low', 'RELIANCE.NS')":1465.6463003599,
+    "('Open', 'RELIANCE.NS')":1467.1403332858,
+    "('Volume', 'RELIANCE.NS')":10409983
+  },
+  {
+    "('Date', '')":"2025-07-17",
+    "('Close', 'RELIANCE.NS')":1470.5268554688,
+    "('High', 'RELIANCE.NS')":1483.674296791,
+    "('Low', 'RELIANCE.NS')":1468.0368005528,
+    "('Open', 'RELIANCE.NS')":1481.4830970988,
+    "('Volume', 'RELIANCE.NS')":11854613
+  },
+  {
+    "('Date', '')":"2025-07-18",
+    "('Close', 'RELIANCE.NS')":1470.1284179688,
+    "('High', 'RELIANCE.NS')":1478.8934598805,
+    "('Low', 'RELIANCE.NS')":1463.2558421044,
+    "('Open', 'RELIANCE.NS')":1478.8934598805,
+    "('Volume', 'RELIANCE.NS')":10296318
+  },
+  {
+    "('Date', '')":"2025-07-21",
+    "('Close', 'RELIANCE.NS')":1422.9169921875,
+    "('High', 'RELIANCE.NS')":1470.1284588832,
+    "('Low', 'RELIANCE.NS')":1417.4388712364,
+    "('Open', 'RELIANCE.NS')":1459.172216981,
+    "('Volume', 'RELIANCE.NS')":22442744
+  },
+  {
+    "('Date', '')":"2025-07-22",
+    "('Close', 'RELIANCE.NS')":1407.1799316406,
+    "('High', 'RELIANCE.NS')":1426.2039275427,
+    "('Low', 'RELIANCE.NS')":1405.0881881708,
+    "('Open', 'RELIANCE.NS')":1421.7218285382,
+    "('Volume', 'RELIANCE.NS')":20396320
+  },
+  {
+    "('Date', '')":"2025-07-23",
+    "('Close', 'RELIANCE.NS')":1418.9328613281,
+    "('High', 'RELIANCE.NS')":1420.3273163905,
+    "('Low', 'RELIANCE.NS')":1408.7734859598,
+    "('Open', 'RELIANCE.NS')":1420.3273163905,
+    "('Volume', 'RELIANCE.NS')":8354596
+  },
+  {
+    "('Date', '')":"2025-07-24",
+    "('Close', 'RELIANCE.NS')":1397.3192138672,
+    "('High', 'RELIANCE.NS')":1417.3392306864,
+    "('Low', 'RELIANCE.NS')":1390.4466381154,
+    "('Open', 'RELIANCE.NS')":1413.5542986537,
+    "('Volume', 'RELIANCE.NS')":14740507
+  },
+  {
+    "('Date', '')":"2025-07-25",
+    "('Close', 'RELIANCE.NS')":1386.1636962891,
+    "('High', 'RELIANCE.NS')":1395.4267490386,
+    "('Low', 'RELIANCE.NS')":1378.5939538018,
+    "('Open', 'RELIANCE.NS')":1393.3351272649,
+    "('Volume', 'RELIANCE.NS')":11854722
+  },
+  {
+    "('Date', '')":"2025-07-28",
+    "('Close', 'RELIANCE.NS')":1382.080078125,
+    "('High', 'RELIANCE.NS')":1402.1997951154,
+    "('Low', 'RELIANCE.NS')":1379.4904452883,
+    "('Open', 'RELIANCE.NS')":1386.761454392,
+    "('Volume', 'RELIANCE.NS')":7748361
+  },
+  {
+    "('Date', '')":"2025-07-29",
+    "('Close', 'RELIANCE.NS')":1411.4627685547,
+    "('High', 'RELIANCE.NS')":1414.5504124742,
+    "('Low', 'RELIANCE.NS')":1377.4984422705,
+    "('Open', 'RELIANCE.NS')":1377.4984422705,
+    "('Volume', 'RELIANCE.NS')":10750072
+  },
+  {
+    "('Date', '')":"2025-07-30",
+    "('Close', 'RELIANCE.NS')":1404.4906005859,
+    "('High', 'RELIANCE.NS')":1417.6381639621,
+    "('Low', 'RELIANCE.NS')":1395.7256799199,
+    "('Open', 'RELIANCE.NS')":1412.4587766013,
+    "('Volume', 'RELIANCE.NS')":7209849
+  },
+  {
+    "('Date', '')":"2025-07-31",
+    "('Close', 'RELIANCE.NS')":1384.6696777344,
+    "('High', 'RELIANCE.NS')":1397.0203743337,
+    "('Low', 'RELIANCE.NS')":1376.7015020683,
+    "('Open', 'RELIANCE.NS')":1382.578055939,
+    "('Volume', 'RELIANCE.NS')":17065827
+  },
+  {
+    "('Date', '')":"2025-08-01",
+    "('Close', 'RELIANCE.NS')":1388.1557617188,
+    "('High', 'RELIANCE.NS')":1400.3073026227,
+    "('Low', 'RELIANCE.NS')":1378.7932525308,
+    "('Open', 'RELIANCE.NS')":1381.3828853186,
+    "('Volume', 'RELIANCE.NS')":10321171
+  },
+  {
+    "('Date', '')":"2025-08-04",
+    "('Close', 'RELIANCE.NS')":1405.8850097656,
+    "('High', 'RELIANCE.NS')":1410.4666865078,
+    "('Low', 'RELIANCE.NS')":1386.1637261382,
+    "('Open', 'RELIANCE.NS')":1389.550225151,
+    "('Volume', 'RELIANCE.NS')":6312820
+  },
+  {
+    "('Date', '')":"2025-08-05",
+    "('Close', 'RELIANCE.NS')":1386.1636962891,
+    "('High', 'RELIANCE.NS')":1405.3869685178,
+    "('Low', 'RELIANCE.NS')":1382.5780415935,
+    "('Open', 'RELIANCE.NS')":1405.3869685178,
+    "('Volume', 'RELIANCE.NS')":9315972
+  },
+  {
+    "('Date', '')":"2025-08-06",
+    "('Close', 'RELIANCE.NS')":1387.2595214844,
+    "('High', 'RELIANCE.NS')":1390.347165437,
+    "('Low', 'RELIANCE.NS')":1377.7973122712,
+    "('Open', 'RELIANCE.NS')":1386.3630773472,
+    "('Volume', 'RELIANCE.NS')":5834312
+  },
+  {
+    "('Date', '')":"2025-08-07",
+    "('Close', 'RELIANCE.NS')":1383.8729248047,
+    "('High', 'RELIANCE.NS')":1388.1557462486,
+    "('Low', 'RELIANCE.NS')":1360.5659868046,
+    "('Open', 'RELIANCE.NS')":1382.179614535,
+    "('Volume', 'RELIANCE.NS')":9976705
+  },
+  {
+    "('Date', '')":"2025-08-08",
+    "('Close', 'RELIANCE.NS')":1362.3588867188,
+    "('High', 'RELIANCE.NS')":1391.6418351007,
+    "('Low', 'RELIANCE.NS')":1359.5699765944,
+    "('Open', 'RELIANCE.NS')":1379.4904158119,
+    "('Volume', 'RELIANCE.NS')":8793606
+  },
+  {
+    "('Date', '')":"2025-08-11",
+    "('Close', 'RELIANCE.NS')":1380.6856689453,
+    "('High', 'RELIANCE.NS')":1382.4785572067,
+    "('Low', 'RELIANCE.NS')":1355.7851185633,
+    "('Open', 'RELIANCE.NS')":1364.5501609317,
+    "('Volume', 'RELIANCE.NS')":9997486
+  },
+  {
+    "('Date', '')":"2025-08-12",
+    "('Close', 'RELIANCE.NS')":1374.9088134766,
+    "('High', 'RELIANCE.NS')":1396.3232867937,
+    "('Low', 'RELIANCE.NS')":1369.729426049,
+    "('Open', 'RELIANCE.NS')":1376.4028464987,
+    "('Volume', 'RELIANCE.NS')":12244664
+  },
+  {
+    "('Date', '')":"2025-08-13",
+    "('Close', 'RELIANCE.NS')":1377.0999755859,
+    "('High', 'RELIANCE.NS')":1386.2634508217,
+    "('Low', 'RELIANCE.NS')":1372.0202877667,
+    "('Open', 'RELIANCE.NS')":1382.4785186353,
+    "('Volume', 'RELIANCE.NS')":7457021
+  },
+  {
+    "('Date', '')":"2025-08-14",
+    "('Close', 'RELIANCE.NS')":1373.8000488281,
+    "('High', 'RELIANCE.NS')":1380.6999511719,
+    "('Low', 'RELIANCE.NS')":1370.0999755859,
+    "('Open', 'RELIANCE.NS')":1377.3000488281,
+    "('Volume', 'RELIANCE.NS')":7126128
+  },
+  {
+    "('Date', '')":"2025-08-18",
+    "('Close', 'RELIANCE.NS')":1381.6999511719,
+    "('High', 'RELIANCE.NS')":1394.9000244141,
+    "('Low', 'RELIANCE.NS')":1377.0,
+    "('Open', 'RELIANCE.NS')":1390.0,
+    "('Volume', 'RELIANCE.NS')":11785109
+  },
+  {
+    "('Date', '')":"2025-08-19",
+    "('Close', 'RELIANCE.NS')":1420.0999755859,
+    "('High', 'RELIANCE.NS')":1421.0,
+    "('Low', 'RELIANCE.NS')":1389.0999755859,
+    "('Open', 'RELIANCE.NS')":1390.0,
+    "('Volume', 'RELIANCE.NS')":14384719
+  },
+  {
+    "('Date', '')":"2025-08-20",
+    "('Close', 'RELIANCE.NS')":1413.0,
+    "('High', 'RELIANCE.NS')":1424.9000244141,
+    "('Low', 'RELIANCE.NS')":1410.0,
+    "('Open', 'RELIANCE.NS')":1413.0,
+    "('Volume', 'RELIANCE.NS')":8725641
+  },
+  {
+    "('Date', '')":"2025-08-21",
+    "('Close', 'RELIANCE.NS')":1424.8000488281,
+    "('High', 'RELIANCE.NS')":1431.9000244141,
+    "('Low', 'RELIANCE.NS')":1420.3000488281,
+    "('Open', 'RELIANCE.NS')":1425.0,
+    "('Volume', 'RELIANCE.NS')":11021323
+  },
+  {
+    "('Date', '')":"2025-08-22",
+    "('Close', 'RELIANCE.NS')":1409.1999511719,
+    "('High', 'RELIANCE.NS')":1423.4000244141,
+    "('Low', 'RELIANCE.NS')":1407.9000244141,
+    "('Open', 'RELIANCE.NS')":1420.0,
+    "('Volume', 'RELIANCE.NS')":5818868
+  },
+  {
+    "('Date', '')":"2025-08-25",
+    "('Close', 'RELIANCE.NS')":1412.5999755859,
+    "('High', 'RELIANCE.NS')":1419.5,
+    "('Low', 'RELIANCE.NS')":1405.6999511719,
+    "('Open', 'RELIANCE.NS')":1414.6999511719,
+    "('Volume', 'RELIANCE.NS')":5979407
+  },
+  {
+    "('Date', '')":"2025-08-26",
+    "('Close', 'RELIANCE.NS')":1384.9000244141,
+    "('High', 'RELIANCE.NS')":1410.0,
+    "('Low', 'RELIANCE.NS')":1381.5999755859,
+    "('Open', 'RELIANCE.NS')":1408.0,
+    "('Volume', 'RELIANCE.NS')":12145259
+  },
+  {
+    "('Date', '')":"2025-08-28",
+    "('Close', 'RELIANCE.NS')":1385.9000244141,
+    "('High', 'RELIANCE.NS')":1392.1999511719,
+    "('Low', 'RELIANCE.NS')":1366.5,
+    "('Open', 'RELIANCE.NS')":1389.9000244141,
+    "('Volume', 'RELIANCE.NS')":13161813
+  },
+  {
+    "('Date', '')":"2025-08-29",
+    "('Close', 'RELIANCE.NS')":1357.1999511719,
+    "('High', 'RELIANCE.NS')":1403.5,
+    "('Low', 'RELIANCE.NS')":1350.0,
+    "('Open', 'RELIANCE.NS')":1381.0999755859,
+    "('Volume', 'RELIANCE.NS')":18758842
+  },
+  {
+    "('Date', '')":"2025-09-01",
+    "('Close', 'RELIANCE.NS')":1353.9000244141,
+    "('High', 'RELIANCE.NS')":1363.1999511719,
+    "('Low', 'RELIANCE.NS')":1340.5999755859,
+    "('Open', 'RELIANCE.NS')":1356.0,
+    "('Volume', 'RELIANCE.NS')":11232238
+  },
+  {
+    "('Date', '')":"2025-09-02",
+    "('Close', 'RELIANCE.NS')":1366.5,
+    "('High', 'RELIANCE.NS')":1384.5,
+    "('Low', 'RELIANCE.NS')":1354.5,
+    "('Open', 'RELIANCE.NS')":1354.8000488281,
+    "('Volume', 'RELIANCE.NS')":11517006
+  },
+  {
+    "('Date', '')":"2025-09-03",
+    "('Close', 'RELIANCE.NS')":1372.5999755859,
+    "('High', 'RELIANCE.NS')":1376.5,
+    "('Low', 'RELIANCE.NS')":1360.5,
+    "('Open', 'RELIANCE.NS')":1369.6999511719,
+    "('Volume', 'RELIANCE.NS')":7847563
+  },
+  {
+    "('Date', '')":"2025-09-04",
+    "('Close', 'RELIANCE.NS')":1359.3000488281,
+    "('High', 'RELIANCE.NS')":1374.0,
+    "('Low', 'RELIANCE.NS')":1357.0999755859,
+    "('Open', 'RELIANCE.NS')":1371.8000488281,
+    "('Volume', 'RELIANCE.NS')":13223177
+  },
+  {
+    "('Date', '')":"2025-09-05",
+    "('Close', 'RELIANCE.NS')":1375.0,
+    "('High', 'RELIANCE.NS')":1381.0,
+    "('Low', 'RELIANCE.NS')":1359.3000488281,
+    "('Open', 'RELIANCE.NS')":1363.0,
+    "('Volume', 'RELIANCE.NS')":5777575
+  },
+  {
+    "('Date', '')":"2025-09-08",
+    "('Close', 'RELIANCE.NS')":1378.5,
+    "('High', 'RELIANCE.NS')":1386.0,
+    "('Low', 'RELIANCE.NS')":1372.4000244141,
+    "('Open', 'RELIANCE.NS')":1380.0,
+    "('Volume', 'RELIANCE.NS')":6986720
+  },
+  {
+    "('Date', '')":"2025-09-09",
+    "('Close', 'RELIANCE.NS')":1376.1999511719,
+    "('High', 'RELIANCE.NS')":1381.1999511719,
+    "('Low', 'RELIANCE.NS')":1368.6999511719,
+    "('Open', 'RELIANCE.NS')":1376.5999755859,
+    "('Volume', 'RELIANCE.NS')":9754452
+  },
+  {
+    "('Date', '')":"2025-09-10",
+    "('Close', 'RELIANCE.NS')":1377.0,
+    "('High', 'RELIANCE.NS')":1388.5,
+    "('Low', 'RELIANCE.NS')":1374.0999755859,
+    "('Open', 'RELIANCE.NS')":1383.9000244141,
+    "('Volume', 'RELIANCE.NS')":7790815
+  },
+  {
+    "('Date', '')":"2025-09-11",
+    "('Close', 'RELIANCE.NS')":1383.3000488281,
+    "('High', 'RELIANCE.NS')":1385.5,
+    "('Low', 'RELIANCE.NS')":1375.0,
+    "('Open', 'RELIANCE.NS')":1376.0,
+    "('Volume', 'RELIANCE.NS')":9766072
+  },
+  {
+    "('Date', '')":"2025-09-12",
+    "('Close', 'RELIANCE.NS')":1395.0,
+    "('High', 'RELIANCE.NS')":1396.3000488281,
+    "('Low', 'RELIANCE.NS')":1380.5,
+    "('Open', 'RELIANCE.NS')":1383.3000488281,
+    "('Volume', 'RELIANCE.NS')":7403368
+  },
+  {
+    "('Date', '')":"2025-09-15",
+    "('Close', 'RELIANCE.NS')":1399.3000488281,
+    "('High', 'RELIANCE.NS')":1400.8000488281,
+    "('Low', 'RELIANCE.NS')":1388.5999755859,
+    "('Open', 'RELIANCE.NS')":1393.0,
+    "('Volume', 'RELIANCE.NS')":5396697
+  },
+  {
+    "('Date', '')":"2025-09-16",
+    "('Close', 'RELIANCE.NS')":1405.3000488281,
+    "('High', 'RELIANCE.NS')":1408.0,
+    "('Low', 'RELIANCE.NS')":1398.1999511719,
+    "('Open', 'RELIANCE.NS')":1404.6999511719,
+    "('Volume', 'RELIANCE.NS')":8686961
+  },
+  {
+    "('Date', '')":"2025-09-17",
+    "('Close', 'RELIANCE.NS')":1413.8000488281,
+    "('High', 'RELIANCE.NS')":1416.1999511719,
+    "('Low', 'RELIANCE.NS')":1406.9000244141,
+    "('Open', 'RELIANCE.NS')":1407.0,
+    "('Volume', 'RELIANCE.NS')":7519417
+  },
+  {
+    "('Date', '')":"2025-09-18",
+    "('Close', 'RELIANCE.NS')":1415.0,
+    "('High', 'RELIANCE.NS')":1422.0,
+    "('Low', 'RELIANCE.NS')":1410.6999511719,
+    "('Open', 'RELIANCE.NS')":1420.4000244141,
+    "('Volume', 'RELIANCE.NS')":9332642
+  },
+  {
+    "('Date', '')":"2025-09-19",
+    "('Close', 'RELIANCE.NS')":1407.4000244141,
+    "('High', 'RELIANCE.NS')":1417.0,
+    "('Low', 'RELIANCE.NS')":1403.5999755859,
+    "('Open', 'RELIANCE.NS')":1414.9000244141,
+    "('Volume', 'RELIANCE.NS')":13461373
+  },
+  {
+    "('Date', '')":"2025-09-22",
+    "('Close', 'RELIANCE.NS')":1390.5999755859,
+    "('High', 'RELIANCE.NS')":1410.6999511719,
+    "('Low', 'RELIANCE.NS')":1388.0,
+    "('Open', 'RELIANCE.NS')":1403.9000244141,
+    "('Volume', 'RELIANCE.NS')":7757970
+  },
+  {
+    "('Date', '')":"2025-09-23",
+    "('Close', 'RELIANCE.NS')":1389.8000488281,
+    "('High', 'RELIANCE.NS')":1395.0,
+    "('Low', 'RELIANCE.NS')":1376.8000488281,
+    "('Open', 'RELIANCE.NS')":1391.0,
+    "('Volume', 'RELIANCE.NS')":14014702
+  },
+  {
+    "('Date', '')":"2025-09-24",
+    "('Close', 'RELIANCE.NS')":1383.0,
+    "('High', 'RELIANCE.NS')":1396.0,
+    "('Low', 'RELIANCE.NS')":1380.4000244141,
+    "('Open', 'RELIANCE.NS')":1385.3000488281,
+    "('Volume', 'RELIANCE.NS')":5922759
+  },
+  {
+    "('Date', '')":"2025-09-25",
+    "('Close', 'RELIANCE.NS')":1372.4000244141,
+    "('High', 'RELIANCE.NS')":1384.5,
+    "('Low', 'RELIANCE.NS')":1369.0,
+    "('Open', 'RELIANCE.NS')":1381.3000488281,
+    "('Volume', 'RELIANCE.NS')":11411143
+  },
+  {
+    "('Date', '')":"2025-09-26",
+    "('Close', 'RELIANCE.NS')":1377.5999755859,
+    "('High', 'RELIANCE.NS')":1382.6999511719,
+    "('Low', 'RELIANCE.NS')":1366.0,
+    "('Open', 'RELIANCE.NS')":1372.0,
+    "('Volume', 'RELIANCE.NS')":9879109
+  },
+  {
+    "('Date', '')":"2025-09-29",
+    "('Close', 'RELIANCE.NS')":1372.8000488281,
+    "('High', 'RELIANCE.NS')":1389.0,
+    "('Low', 'RELIANCE.NS')":1368.0,
+    "('Open', 'RELIANCE.NS')":1381.5999755859,
+    "('Volume', 'RELIANCE.NS')":14231999
+  },
+  {
+    "('Date', '')":"2025-09-30",
+    "('Close', 'RELIANCE.NS')":1364.0,
+    "('High', 'RELIANCE.NS')":1377.0999755859,
+    "('Low', 'RELIANCE.NS')":1362.8000488281,
+    "('Open', 'RELIANCE.NS')":1377.0999755859,
+    "('Volume', 'RELIANCE.NS')":14604684
+  },
+  {
+    "('Date', '')":"2025-10-01",
+    "('Close', 'RELIANCE.NS')":1368.6999511719,
+    "('High', 'RELIANCE.NS')":1378.5999755859,
+    "('Low', 'RELIANCE.NS')":1362.6999511719,
+    "('Open', 'RELIANCE.NS')":1367.0,
+    "('Volume', 'RELIANCE.NS')":12045916
+  },
+  {
+    "('Date', '')":"2025-10-03",
+    "('Close', 'RELIANCE.NS')":1363.4000244141,
+    "('High', 'RELIANCE.NS')":1371.5999755859,
+    "('Low', 'RELIANCE.NS')":1356.9000244141,
+    "('Open', 'RELIANCE.NS')":1363.1999511719,
+    "('Volume', 'RELIANCE.NS')":12842347
+  },
+  {
+    "('Date', '')":"2025-10-06",
+    "('Close', 'RELIANCE.NS')":1375.0,
+    "('High', 'RELIANCE.NS')":1377.4000244141,
+    "('Low', 'RELIANCE.NS')":1359.0,
+    "('Open', 'RELIANCE.NS')":1360.0,
+    "('Volume', 'RELIANCE.NS')":12396580
+  },
+  {
+    "('Date', '')":"2025-10-07",
+    "('Close', 'RELIANCE.NS')":1384.8000488281,
+    "('High', 'RELIANCE.NS')":1395.9000244141,
+    "('Low', 'RELIANCE.NS')":1375.9000244141,
+    "('Open', 'RELIANCE.NS')":1376.0,
+    "('Volume', 'RELIANCE.NS')":11244040
+  },
+  {
+    "('Date', '')":"2025-10-08",
+    "('Close', 'RELIANCE.NS')":1367.4000244141,
+    "('High', 'RELIANCE.NS')":1389.0,
+    "('Low', 'RELIANCE.NS')":1364.5,
+    "('Open', 'RELIANCE.NS')":1384.8000488281,
+    "('Volume', 'RELIANCE.NS')":8525081
+  },
+  {
+    "('Date', '')":"2025-10-09",
+    "('Close', 'RELIANCE.NS')":1377.8000488281,
+    "('High', 'RELIANCE.NS')":1380.0,
+    "('Low', 'RELIANCE.NS')":1369.0999755859,
+    "('Open', 'RELIANCE.NS')":1374.0,
+    "('Volume', 'RELIANCE.NS')":8826633
+  },
+  {
+    "('Date', '')":"2025-10-10",
+    "('Close', 'RELIANCE.NS')":1381.6999511719,
+    "('High', 'RELIANCE.NS')":1388.0,
+    "('Low', 'RELIANCE.NS')":1375.0999755859,
+    "('Open', 'RELIANCE.NS')":1377.8000488281,
+    "('Volume', 'RELIANCE.NS')":6373084
+  },
+  {
+    "('Date', '')":"2025-10-13",
+    "('Close', 'RELIANCE.NS')":1375.0,
+    "('High', 'RELIANCE.NS')":1377.6999511719,
+    "('Low', 'RELIANCE.NS')":1367.8000488281,
+    "('Open', 'RELIANCE.NS')":1376.9000244141,
+    "('Volume', 'RELIANCE.NS')":7600682
+  },
+  {
+    "('Date', '')":"2025-10-14",
+    "('Close', 'RELIANCE.NS')":1375.9000244141,
+    "('High', 'RELIANCE.NS')":1388.0,
+    "('Low', 'RELIANCE.NS')":1370.0999755859,
+    "('Open', 'RELIANCE.NS')":1380.0,
+    "('Volume', 'RELIANCE.NS')":9768174
+  },
+  {
+    "('Date', '')":"2025-10-15",
+    "('Close', 'RELIANCE.NS')":1374.3000488281,
+    "('High', 'RELIANCE.NS')":1384.0,
+    "('Low', 'RELIANCE.NS')":1372.6999511719,
+    "('Open', 'RELIANCE.NS')":1383.0,
+    "('Volume', 'RELIANCE.NS')":10882743
+  },
+  {
+    "('Date', '')":"2025-10-16",
+    "('Close', 'RELIANCE.NS')":1398.3000488281,
+    "('High', 'RELIANCE.NS')":1400.5,
+    "('Low', 'RELIANCE.NS')":1375.0,
+    "('Open', 'RELIANCE.NS')":1375.0999755859,
+    "('Volume', 'RELIANCE.NS')":12315932
+  },
+  {
+    "('Date', '')":"2025-10-17",
+    "('Close', 'RELIANCE.NS')":1416.8000488281,
+    "('High', 'RELIANCE.NS')":1423.3000488281,
+    "('Low', 'RELIANCE.NS')":1399.0999755859,
+    "('Open', 'RELIANCE.NS')":1401.0,
+    "('Volume', 'RELIANCE.NS')":19335561
+  },
+  {
+    "('Date', '')":"2025-10-20",
+    "('Close', 'RELIANCE.NS')":1466.8000488281,
+    "('High', 'RELIANCE.NS')":1473.8000488281,
+    "('Low', 'RELIANCE.NS')":1433.3000488281,
+    "('Open', 'RELIANCE.NS')":1440.0,
+    "('Volume', 'RELIANCE.NS')":24721978
+  },
+  {
+    "('Date', '')":"2025-10-21",
+    "('Close', 'RELIANCE.NS')":1465.1999511719,
+    "('High', 'RELIANCE.NS')":1474.0,
+    "('Low', 'RELIANCE.NS')":1460.0,
+    "('Open', 'RELIANCE.NS')":1468.0,
+    "('Volume', 'RELIANCE.NS')":2066169
+  },
+  {
+    "('Date', '')":"2025-10-23",
+    "('Close', 'RELIANCE.NS')":1448.4000244141,
+    "('High', 'RELIANCE.NS')":1482.9000244141,
+    "('Low', 'RELIANCE.NS')":1444.5999755859,
+    "('Open', 'RELIANCE.NS')":1475.0,
+    "('Volume', 'RELIANCE.NS')":18707090
+  },
+  {
+    "('Date', '')":"2025-10-24",
+    "('Close', 'RELIANCE.NS')":1451.5999755859,
+    "('High', 'RELIANCE.NS')":1459.8000488281,
+    "('Low', 'RELIANCE.NS')":1441.0,
+    "('Open', 'RELIANCE.NS')":1450.0,
+    "('Volume', 'RELIANCE.NS')":9700837
+  },
+  {
+    "('Date', '')":"2025-10-27",
+    "('Close', 'RELIANCE.NS')":1484.0999755859,
+    "('High', 'RELIANCE.NS')":1485.0,
+    "('Low', 'RELIANCE.NS')":1458.0,
+    "('Open', 'RELIANCE.NS')":1463.0,
+    "('Volume', 'RELIANCE.NS')":14113867
+  },
+  {
+    "('Date', '')":"2025-10-28",
+    "('Close', 'RELIANCE.NS')":1486.9000244141,
+    "('High', 'RELIANCE.NS')":1492.0,
+    "('Low', 'RELIANCE.NS')":1477.5999755859,
+    "('Open', 'RELIANCE.NS')":1484.0999755859,
+    "('Volume', 'RELIANCE.NS')":17631577
+  },
+  {
+    "('Date', '')":"2025-10-29",
+    "('Close', 'RELIANCE.NS')":1504.1999511719,
+    "('High', 'RELIANCE.NS')":1508.3000488281,
+    "('Low', 'RELIANCE.NS')":1488.0999755859,
+    "('Open', 'RELIANCE.NS')":1490.0,
+    "('Volume', 'RELIANCE.NS')":11884745
+  },
+  {
+    "('Date', '')":"2025-10-30",
+    "('Close', 'RELIANCE.NS')":1488.5,
+    "('High', 'RELIANCE.NS')":1503.0999755859,
+    "('Low', 'RELIANCE.NS')":1484.0,
+    "('Open', 'RELIANCE.NS')":1500.0,
+    "('Volume', 'RELIANCE.NS')":9318663
+  },
+  {
+    "('Date', '')":"2025-10-31",
+    "('Close', 'RELIANCE.NS')":1486.4000244141,
+    "('High', 'RELIANCE.NS')":1497.5,
+    "('Low', 'RELIANCE.NS')":1482.3000488281,
+    "('Open', 'RELIANCE.NS')":1490.4000244141,
+    "('Volume', 'RELIANCE.NS')":8758053
+  },
+  {
+    "('Date', '')":"2025-11-03",
+    "('Close', 'RELIANCE.NS')":1484.6999511719,
+    "('High', 'RELIANCE.NS')":1495.0,
+    "('Low', 'RELIANCE.NS')":1479.3000488281,
+    "('Open', 'RELIANCE.NS')":1486.0,
+    "('Volume', 'RELIANCE.NS')":8452085
+  },
+  {
+    "('Date', '')":"2025-11-04",
+    "('Close', 'RELIANCE.NS')":1473.0999755859,
+    "('High', 'RELIANCE.NS')":1492.8000488281,
+    "('Low', 'RELIANCE.NS')":1470.0999755859,
+    "('Open', 'RELIANCE.NS')":1483.9000244141,
+    "('Volume', 'RELIANCE.NS')":10007806
+  },
+  {
+    "('Date', '')":"2025-11-05",
+    "('Close', 'RELIANCE.NS')":1473.0999755859,
+    "('High', 'RELIANCE.NS')":1473.0999755859,
+    "('Low', 'RELIANCE.NS')":1473.0999755859,
+    "('Open', 'RELIANCE.NS')":1473.0999755859,
+    "('Volume', 'RELIANCE.NS')":0
+  },
+  {
+    "('Date', '')":"2025-11-06",
+    "('Close', 'RELIANCE.NS')":1496.0999755859,
+    "('High', 'RELIANCE.NS')":1501.5999755859,
+    "('Low', 'RELIANCE.NS')":1476.1999511719,
+    "('Open', 'RELIANCE.NS')":1484.0,
+    "('Volume', 'RELIANCE.NS')":16772678
+  },
+  {
+    "('Date', '')":"2025-11-07",
+    "('Close', 'RELIANCE.NS')":1478.0,
+    "('High', 'RELIANCE.NS')":1498.4000244141,
+    "('Low', 'RELIANCE.NS')":1475.9000244141,
+    "('Open', 'RELIANCE.NS')":1494.5999755859,
+    "('Volume', 'RELIANCE.NS')":7821765
+  },
+  {
+    "('Date', '')":"2025-11-10",
+    "('Close', 'RELIANCE.NS')":1489.3000488281,
+    "('High', 'RELIANCE.NS')":1501.0,
+    "('Low', 'RELIANCE.NS')":1475.5,
+    "('Open', 'RELIANCE.NS')":1477.9000244141,
+    "('Volume', 'RELIANCE.NS')":7068438
+  },
+  {
+    "('Date', '')":"2025-11-11",
+    "('Close', 'RELIANCE.NS')":1493.4000244141,
+    "('High', 'RELIANCE.NS')":1498.8000488281,
+    "('Low', 'RELIANCE.NS')":1480.1999511719,
+    "('Open', 'RELIANCE.NS')":1497.0,
+    "('Volume', 'RELIANCE.NS')":7124451
+  }
+]

@@ -1,0 +1,1986 @@
+[
+  {
+    "('Date', '')":"2024-11-13",
+    "('Close', 'HINDALCO.BO')":622.2357788086,
+    "('High', 'HINDALCO.BO')":645.0682982587,
+    "('Low', 'HINDALCO.BO')":618.2649058608,
+    "('Open', 'HINDALCO.BO')":645.0682982587,
+    "('Volume', 'HINDALCO.BO')":154544
+  },
+  {
+    "('Date', '')":"2024-11-14",
+    "('Close', 'HINDALCO.BO')":622.5833129883,
+    "('High', 'HINDALCO.BO')":631.8155811626,
+    "('Low', 'HINDALCO.BO')":620.7963715559,
+    "('Open', 'HINDALCO.BO')":624.4694414248,
+    "('Volume', 'HINDALCO.BO')":350591
+  },
+  {
+    "('Date', '')":"2024-11-18",
+    "('Close', 'HINDALCO.BO')":646.4085083008,
+    "('High', 'HINDALCO.BO')":658.1721952465,
+    "('Low', 'HINDALCO.BO')":635.4389232408,
+    "('Open', 'HINDALCO.BO')":635.4389232408,
+    "('Volume', 'HINDALCO.BO')":298910
+  },
+  {
+    "('Date', '')":"2024-11-19",
+    "('Close', 'HINDALCO.BO')":635.8856811523,
+    "('High', 'HINDALCO.BO')":651.173566877,
+    "('Low', 'HINDALCO.BO')":633.4038854562,
+    "('Open', 'HINDALCO.BO')":650.1808485985,
+    "('Volume', 'HINDALCO.BO')":163041
+  },
+  {
+    "('Date', '')":"2024-11-21",
+    "('Close', 'HINDALCO.BO')":643.1325073242,
+    "('High', 'HINDALCO.BO')":648.8406373797,
+    "('Low', 'HINDALCO.BO')":630.3761017842,
+    "('Open', 'HINDALCO.BO')":638.2186003577,
+    "('Volume', 'HINDALCO.BO')":231085
+  },
+  {
+    "('Date', '')":"2024-11-22",
+    "('Close', 'HINDALCO.BO')":647.2523193359,
+    "('High', 'HINDALCO.BO')":652.3151583337,
+    "('Low', 'HINDALCO.BO')":642.6858394787,
+    "('Open', 'HINDALCO.BO')":648.989576328,
+    "('Volume', 'HINDALCO.BO')":92563
+  },
+  {
+    "('Date', '')":"2024-11-25",
+    "('Close', 'HINDALCO.BO')":654.9458618164,
+    "('High', 'HINDALCO.BO')":657.5269050159,
+    "('Low', 'HINDALCO.BO')":650.230450155,
+    "('Open', 'HINDALCO.BO')":655.1444175835,
+    "('Volume', 'HINDALCO.BO')":62844
+  },
+  {
+    "('Date', '')":"2024-11-26",
+    "('Close', 'HINDALCO.BO')":660.9518432617,
+    "('High', 'HINDALCO.BO')":665.4686994854,
+    "('Low', 'HINDALCO.BO')":654.6977299835,
+    "('Open', 'HINDALCO.BO')":659.4627657864,
+    "('Volume', 'HINDALCO.BO')":72603
+  },
+  {
+    "('Date', '')":"2024-11-27",
+    "('Close', 'HINDALCO.BO')":656.5839233398,
+    "('High', 'HINDALCO.BO')":665.1212766849,
+    "('Low', 'HINDALCO.BO')":655.4918968297,
+    "('Open', 'HINDALCO.BO')":664.4759855384,
+    "('Volume', 'HINDALCO.BO')":150389
+  },
+  {
+    "('Date', '')":"2024-11-28",
+    "('Close', 'HINDALCO.BO')":645.6143188477,
+    "('High', 'HINDALCO.BO')":658.2218533109,
+    "('Low', 'HINDALCO.BO')":642.8347197401,
+    "('Open', 'HINDALCO.BO')":656.2860405178,
+    "('Volume', 'HINDALCO.BO')":391391
+  },
+  {
+    "('Date', '')":"2024-11-29",
+    "('Close', 'HINDALCO.BO')":651.4217529297,
+    "('High', 'HINDALCO.BO')":653.5064370989,
+    "('Low', 'HINDALCO.BO')":644.423101115,
+    "('Open', 'HINDALCO.BO')":650.9750175818,
+    "('Volume', 'HINDALCO.BO')":73851
+  },
+  {
+    "('Date', '')":"2024-12-02",
+    "('Close', 'HINDALCO.BO')":657.6758422852,
+    "('High', 'HINDALCO.BO')":658.3707571801,
+    "('Low', 'HINDALCO.BO')":648.8903099868,
+    "('Open', 'HINDALCO.BO')":651.2231736439,
+    "('Volume', 'HINDALCO.BO')":98112
+  },
+  {
+    "('Date', '')":"2024-12-03",
+    "('Close', 'HINDALCO.BO')":662.2920532227,
+    "('High', 'HINDALCO.BO')":664.277489868,
+    "('Low', 'HINDALCO.BO')":652.3648699957,
+    "('Open', 'HINDALCO.BO')":660.1576845926,
+    "('Volume', 'HINDALCO.BO')":143096
+  },
+  {
+    "('Date', '')":"2024-12-04",
+    "('Close', 'HINDALCO.BO')":658.271484375,
+    "('High', 'HINDALCO.BO')":666.1139832275,
+    "('Low', 'HINDALCO.BO')":655.1940818631,
+    "('Open', 'HINDALCO.BO')":664.9723329395,
+    "('Volume', 'HINDALCO.BO')":35332
+  },
+  {
+    "('Date', '')":"2024-12-05",
+    "('Close', 'HINDALCO.BO')":664.7738037109,
+    "('High', 'HINDALCO.BO')":668.8935481148,
+    "('Low', 'HINDALCO.BO')":654.1020824695,
+    "('Open', 'HINDALCO.BO')":658.271450668,
+    "('Volume', 'HINDALCO.BO')":137479
+  },
+  {
+    "('Date', '')":"2024-12-06",
+    "('Close', 'HINDALCO.BO')":665.1212768555,
+    "('High', 'HINDALCO.BO')":671.4746983632,
+    "('Low', 'HINDALCO.BO')":662.4409252634,
+    "('Open', 'HINDALCO.BO')":666.8089101238,
+    "('Volume', 'HINDALCO.BO')":58779
+  },
+  {
+    "('Date', '')":"2024-12-09",
+    "('Close', 'HINDALCO.BO')":665.7665405273,
+    "('High', 'HINDALCO.BO')":667.1066859727,
+    "('Low', 'HINDALCO.BO')":649.7341160255,
+    "('Open', 'HINDALCO.BO')":665.0716256113,
+    "('Volume', 'HINDALCO.BO')":117453
+  },
+  {
+    "('Date', '')":"2024-12-10",
+    "('Close', 'HINDALCO.BO')":663.9796142578,
+    "('High', 'HINDALCO.BO')":670.0848560716,
+    "('Low', 'HINDALCO.BO')":660.1576730187,
+    "('Open', 'HINDALCO.BO')":670.0848560716,
+    "('Volume', 'HINDALCO.BO')":248183
+  },
+  {
+    "('Date', '')":"2024-12-11",
+    "('Close', 'HINDALCO.BO')":665.3694458008,
+    "('High', 'HINDALCO.BO')":674.7010221304,
+    "('Low', 'HINDALCO.BO')":663.4336329824,
+    "('Open', 'HINDALCO.BO')":667.9008653675,
+    "('Volume', 'HINDALCO.BO')":61234
+  },
+  {
+    "('Date', '')":"2024-12-12",
+    "('Close', 'HINDALCO.BO')":664.2774658203,
+    "('High', 'HINDALCO.BO')":675.0484349953,
+    "('Low', 'HINDALCO.BO')":657.1298820375,
+    "('Open', 'HINDALCO.BO')":672.7155712578,
+    "('Volume', 'HINDALCO.BO')":202396
+  },
+  {
+    "('Date', '')":"2024-12-13",
+    "('Close', 'HINDALCO.BO')":657.1795043945,
+    "('High', 'HINDALCO.BO')":663.0365665099,
+    "('Low', 'HINDALCO.BO')":643.4800041854,
+    "('Open', 'HINDALCO.BO')":663.0365665099,
+    "('Volume', 'HINDALCO.BO')":136429
+  },
+  {
+    "('Date', '')":"2024-12-16",
+    "('Close', 'HINDALCO.BO')":648.3939819336,
+    "('High', 'HINDALCO.BO')":662.2920381347,
+    "('Low', 'HINDALCO.BO')":647.7486908023,
+    "('Open', 'HINDALCO.BO')":655.9386167779,
+    "('Volume', 'HINDALCO.BO')":68970
+  },
+  {
+    "('Date', '')":"2024-12-17",
+    "('Close', 'HINDALCO.BO')":633.8506469727,
+    "('High', 'HINDALCO.BO')":648.2450626048,
+    "('Low', 'HINDALCO.BO')":632.6097490733,
+    "('Open', 'HINDALCO.BO')":646.9545409076,
+    "('Volume', 'HINDALCO.BO')":61555
+  },
+  {
+    "('Date', '')":"2024-12-18",
+    "('Close', 'HINDALCO.BO')":628.8870239258,
+    "('High', 'HINDALCO.BO')":637.3251292192,
+    "('Low', 'HINDALCO.BO')":623.824184986,
+    "('Open', 'HINDALCO.BO')":636.977702061,
+    "('Volume', 'HINDALCO.BO')":47285
+  },
+  {
+    "('Date', '')":"2024-12-19",
+    "('Close', 'HINDALCO.BO')":624.9161376953,
+    "('High', 'HINDALCO.BO')":628.3906515665,
+    "('Low', 'HINDALCO.BO')":609.9261163729,
+    "('Open', 'HINDALCO.BO')":617.4211270341,
+    "('Volume', 'HINDALCO.BO')":114880
+  },
+  {
+    "('Date', '')":"2024-12-20",
+    "('Close', 'HINDALCO.BO')":619.2080078125,
+    "('High', 'HINDALCO.BO')":635.6374827153,
+    "('Low', 'HINDALCO.BO')":616.1802292712,
+    "('Open', 'HINDALCO.BO')":624.4197786197,
+    "('Volume', 'HINDALCO.BO')":91887
+  },
+  {
+    "('Date', '')":"2024-12-23",
+    "('Close', 'HINDALCO.BO')":629.3833618164,
+    "('High', 'HINDALCO.BO')":631.0709949363,
+    "('Low', 'HINDALCO.BO')":620.2999657179,
+    "('Open', 'HINDALCO.BO')":620.2999657179,
+    "('Volume', 'HINDALCO.BO')":63140
+  },
+  {
+    "('Date', '')":"2024-12-24",
+    "('Close', 'HINDALCO.BO')":623.82421875,
+    "('High', 'HINDALCO.BO')":633.4535380158,
+    "('Low', 'HINDALCO.BO')":621.1438671583,
+    "('Open', 'HINDALCO.BO')":629.6315967064,
+    "('Volume', 'HINDALCO.BO')":573295
+  },
+  {
+    "('Date', '')":"2024-12-26",
+    "('Close', 'HINDALCO.BO')":624.3205566406,
+    "('High', 'HINDALCO.BO')":627.3979591025,
+    "('Low', 'HINDALCO.BO')":622.4343676539,
+    "('Open', 'HINDALCO.BO')":625.3628987267,
+    "('Volume', 'HINDALCO.BO')":235335
+  },
+  {
+    "('Date', '')":"2024-12-27",
+    "('Close', 'HINDALCO.BO')":612.6064453125,
+    "('High', 'HINDALCO.BO')":628.2417587064,
+    "('Low', 'HINDALCO.BO')":611.2662998293,
+    "('Open', 'HINDALCO.BO')":624.3205698516,
+    "('Volume', 'HINDALCO.BO')":390269
+  },
+  {
+    "('Date', '')":"2024-12-30",
+    "('Close', 'HINDALCO.BO')":597.8149414062,
+    "('High', 'HINDALCO.BO')":615.4853141126,
+    "('Low', 'HINDALCO.BO')":595.0849662227,
+    "('Open', 'HINDALCO.BO')":612.9042709026,
+    "('Volume', 'HINDALCO.BO')":187180
+  },
+  {
+    "('Date', '')":"2024-12-31",
+    "('Close', 'HINDALCO.BO')":597.3186035156,
+    "('High', 'HINDALCO.BO')":601.5872800181,
+    "('Low', 'HINDALCO.BO')":592.9506188304,
+    "('Open', 'HINDALCO.BO')":596.7229361909,
+    "('Volume', 'HINDALCO.BO')":92432
+  },
+  {
+    "('Date', '')":"2025-01-01",
+    "('Close', 'HINDALCO.BO')":588.7315673828,
+    "('High', 'HINDALCO.BO')":599.4529127533,
+    "('Low', 'HINDALCO.BO')":583.3212406061,
+    "('Open', 'HINDALCO.BO')":599.4529127533,
+    "('Volume', 'HINDALCO.BO')":115396
+  },
+  {
+    "('Date', '')":"2025-01-02",
+    "('Close', 'HINDALCO.BO')":594.6878662109,
+    "('High', 'HINDALCO.BO')":596.2265674079,
+    "('Low', 'HINDALCO.BO')":584.3139481942,
+    "('Open', 'HINDALCO.BO')":591.6600876123,
+    "('Volume', 'HINDALCO.BO')":96915
+  },
+  {
+    "('Date', '')":"2025-01-03",
+    "('Close', 'HINDALCO.BO')":586.7957763672,
+    "('High', 'HINDALCO.BO')":597.9638574986,
+    "('Low', 'HINDALCO.BO')":585.8030580444,
+    "('Open', 'HINDALCO.BO')":597.9638574986,
+    "('Volume', 'HINDALCO.BO')":128878
+  },
+  {
+    "('Date', '')":"2025-01-06",
+    "('Close', 'HINDALCO.BO')":569.9195556641,
+    "('High', 'HINDALCO.BO')":595.2835568739,
+    "('Low', 'HINDALCO.BO')":567.6363156767,
+    "('Open', 'HINDALCO.BO')":586.8454512666,
+    "('Volume', 'HINDALCO.BO')":296560
+  },
+  {
+    "('Date', '')":"2025-01-07",
+    "('Close', 'HINDALCO.BO')":580.3430786133,
+    "('High', 'HINDALCO.BO')":584.1154565262,
+    "('Low', 'HINDALCO.BO')":568.0830321684,
+    "('Open', 'HINDALCO.BO')":568.8275708738,
+    "('Volume', 'HINDALCO.BO')":91744
+  },
+  {
+    "('Date', '')":"2025-01-08",
+    "('Close', 'HINDALCO.BO')":582.3284912109,
+    "('High', 'HINDALCO.BO')":583.5197652086,
+    "('Low', 'HINDALCO.BO')":573.2947795274,
+    "('Open', 'HINDALCO.BO')":577.8116353692,
+    "('Volume', 'HINDALCO.BO')":164705
+  },
+  {
+    "('Date', '')":"2025-01-09",
+    "('Close', 'HINDALCO.BO')":585.3563842773,
+    "('High', 'HINDALCO.BO')":592.404660145,
+    "('Low', 'HINDALCO.BO')":573.8408153587,
+    "('Open', 'HINDALCO.BO')":575.8262520077,
+    "('Volume', 'HINDALCO.BO')":165939
+  },
+  {
+    "('Date', '')":"2025-01-10",
+    "('Close', 'HINDALCO.BO')":570.3166503906,
+    "('High', 'HINDALCO.BO')":584.4628858442,
+    "('Low', 'HINDALCO.BO')":567.4377431498,
+    "('Open', 'HINDALCO.BO')":584.4628858442,
+    "('Volume', 'HINDALCO.BO')":279577
+  },
+  {
+    "('Date', '')":"2025-01-13",
+    "('Close', 'HINDALCO.BO')":559.5456542969,
+    "('High', 'HINDALCO.BO')":569.7210161493,
+    "('Low', 'HINDALCO.BO')":558.4040040967,
+    "('Open', 'HINDALCO.BO')":566.8421090475,
+    "('Volume', 'HINDALCO.BO')":173265
+  },
+  {
+    "('Date', '')":"2025-01-14",
+    "('Close', 'HINDALCO.BO')":586.7461547852,
+    "('High', 'HINDALCO.BO')":587.6892493135,
+    "('Low', 'HINDALCO.BO')":559.9427599685,
+    "('Open', 'HINDALCO.BO')":559.9427599685,
+    "('Volume', 'HINDALCO.BO')":290816
+  },
+  {
+    "('Date', '')":"2025-01-15",
+    "('Close', 'HINDALCO.BO')":587.0936279297,
+    "('High', 'HINDALCO.BO')":591.6601078817,
+    "('Low', 'HINDALCO.BO')":582.3782159961,
+    "('Open', 'HINDALCO.BO')":586.8950721512,
+    "('Volume', 'HINDALCO.BO')":92828
+  },
+  {
+    "('Date', '')":"2025-01-16",
+    "('Close', 'HINDALCO.BO')":598.0631103516,
+    "('High', 'HINDALCO.BO')":602.5799661842,
+    "('Low', 'HINDALCO.BO')":586.9942778402,
+    "('Open', 'HINDALCO.BO')":594.1418612212,
+    "('Volume', 'HINDALCO.BO')":71978
+  },
+  {
+    "('Date', '')":"2025-01-17",
+    "('Close', 'HINDALCO.BO')":612.5568237305,
+    "('High', 'HINDALCO.BO')":614.3933889664,
+    "('Low', 'HINDALCO.BO')":598.65876733,
+    "('Open', 'HINDALCO.BO')":598.65876733,
+    "('Volume', 'HINDALCO.BO')":83530
+  },
+  {
+    "('Date', '')":"2025-01-20",
+    "('Close', 'HINDALCO.BO')":613.5494995117,
+    "('High', 'HINDALCO.BO')":617.1729453441,
+    "('Low', 'HINDALCO.BO')":607.9406777791,
+    "('Open', 'HINDALCO.BO')":615.1875088531,
+    "('Volume', 'HINDALCO.BO')":71412
+  },
+  {
+    "('Date', '')":"2025-01-21",
+    "('Close', 'HINDALCO.BO')":610.3231811523,
+    "('High', 'HINDALCO.BO')":623.4766982487,
+    "('Low', 'HINDALCO.BO')":608.8341037452,
+    "('Open', 'HINDALCO.BO')":617.2225852569,
+    "('Volume', 'HINDALCO.BO')":56373
+  },
+  {
+    "('Date', '')":"2025-01-22",
+    "('Close', 'HINDALCO.BO')":609.2312011719,
+    "('High', 'HINDALCO.BO')":610.9188343123,
+    "('Low', 'HINDALCO.BO')":601.5872585409,
+    "('Open', 'HINDALCO.BO')":608.8837134305,
+    "('Volume', 'HINDALCO.BO')":115876
+  },
+  {
+    "('Date', '')":"2025-01-23",
+    "('Close', 'HINDALCO.BO')":603.5230712891,
+    "('High', 'HINDALCO.BO')":611.5144410713,
+    "('Low', 'HINDALCO.BO')":602.5303530406,
+    "('Open', 'HINDALCO.BO')":605.5581315803,
+    "('Volume', 'HINDALCO.BO')":109191
+  },
+  {
+    "('Date', '')":"2025-01-24",
+    "('Close', 'HINDALCO.BO')":602.5800170898,
+    "('High', 'HINDALCO.BO')":610.5713874059,
+    "('Low', 'HINDALCO.BO')":595.6309888862,
+    "('Open', 'HINDALCO.BO')":604.5654537195,
+    "('Volume', 'HINDALCO.BO')":291175
+  },
+  {
+    "('Date', '')":"2025-01-27",
+    "('Close', 'HINDALCO.BO')":582.2292480469,
+    "('High', 'HINDALCO.BO')":597.1200216542,
+    "('Low', 'HINDALCO.BO')":580.7401706861,
+    "('Open', 'HINDALCO.BO')":591.8090033039,
+    "('Volume', 'HINDALCO.BO')":74020
+  },
+  {
+    "('Date', '')":"2025-01-28",
+    "('Close', 'HINDALCO.BO')":570.0188598633,
+    "('High', 'HINDALCO.BO')":585.1081901384,
+    "('Low', 'HINDALCO.BO')":564.3603534363,
+    "('Open', 'HINDALCO.BO')":584.5125228041,
+    "('Volume', 'HINDALCO.BO')":109528
+  },
+  {
+    "('Date', '')":"2025-01-29",
+    "('Close', 'HINDALCO.BO')":580.9387207031,
+    "('High', 'HINDALCO.BO')":583.56938766,
+    "('Low', 'HINDALCO.BO')":567.8348279402,
+    "('Open', 'HINDALCO.BO')":571.3589655409,
+    "('Volume', 'HINDALCO.BO')":238719
+  },
+  {
+    "('Date', '')":"2025-01-30",
+    "('Close', 'HINDALCO.BO')":583.6687011719,
+    "('High', 'HINDALCO.BO')":597.3682007621,
+    "('Low', 'HINDALCO.BO')":577.7620155273,
+    "('Open', 'HINDALCO.BO')":583.6687011719,
+    "('Volume', 'HINDALCO.BO')":115980
+  },
+  {
+    "('Date', '')":"2025-01-31",
+    "('Close', 'HINDALCO.BO')":590.1213989258,
+    "('High', 'HINDALCO.BO')":592.3053912794,
+    "('Low', 'HINDALCO.BO')":579.9460364651,
+    "('Open', 'HINDALCO.BO')":584.7110721334,
+    "('Volume', 'HINDALCO.BO')":631348
+  },
+  {
+    "('Date', '')":"2025-02-01",
+    "('Close', 'HINDALCO.BO')":582.5270996094,
+    "('High', 'HINDALCO.BO')":591.1141373365,
+    "('Low', 'HINDALCO.BO')":578.2087991422,
+    "('Open', 'HINDALCO.BO')":590.6177781752,
+    "('Volume', 'HINDALCO.BO')":200633
+  },
+  {
+    "('Date', '')":"2025-02-03",
+    "('Close', 'HINDALCO.BO')":570.2174072266,
+    "('High', 'HINDALCO.BO')":572.3020913891,
+    "('Low', 'HINDALCO.BO')":553.9368031138,
+    "('Open', 'HINDALCO.BO')":571.7561084504,
+    "('Volume', 'HINDALCO.BO')":180134
+  },
+  {
+    "('Date', '')":"2025-02-04",
+    "('Close', 'HINDALCO.BO')":579.4992675781,
+    "('High', 'HINDALCO.BO')":591.6600659127,
+    "('Low', 'HINDALCO.BO')":573.6918901607,
+    "('Open', 'HINDALCO.BO')":573.6918901607,
+    "('Volume', 'HINDALCO.BO')":83299
+  },
+  {
+    "('Date', '')":"2025-02-05",
+    "('Close', 'HINDALCO.BO')":596.0776977539,
+    "('High', 'HINDALCO.BO')":599.9989470413,
+    "('Low', 'HINDALCO.BO')":581.2365474889,
+    "('Open', 'HINDALCO.BO')":581.7329066243,
+    "('Volume', 'HINDALCO.BO')":60830
+  },
+  {
+    "('Date', '')":"2025-02-06",
+    "('Close', 'HINDALCO.BO')":590.9652099609,
+    "('High', 'HINDALCO.BO')":601.1901966458,
+    "('Low', 'HINDALCO.BO')":587.1928924236,
+    "('Open', 'HINDALCO.BO')":596.0777335987,
+    "('Volume', 'HINDALCO.BO')":36959
+  },
+  {
+    "('Date', '')":"2025-02-07",
+    "('Close', 'HINDALCO.BO')":603.0267333984,
+    "('High', 'HINDALCO.BO')":606.5012473905,
+    "('Low', 'HINDALCO.BO')":589.8235923467,
+    "('Open', 'HINDALCO.BO')":589.8235923467,
+    "('Volume', 'HINDALCO.BO')":64516
+  },
+  {
+    "('Date', '')":"2025-02-10",
+    "('Close', 'HINDALCO.BO')":591.7593383789,
+    "('High', 'HINDALCO.BO')":600.5945552461,
+    "('Low', 'HINDALCO.BO')":585.2074220125,
+    "('Open', 'HINDALCO.BO')":595.6805876759,
+    "('Volume', 'HINDALCO.BO')":180028
+  },
+  {
+    "('Date', '')":"2025-02-11",
+    "('Close', 'HINDALCO.BO')":591.3126831055,
+    "('High', 'HINDALCO.BO')":602.5303878432,
+    "('Low', 'HINDALCO.BO')":586.8454507292,
+    "('Open', 'HINDALCO.BO')":586.8454507292,
+    "('Volume', 'HINDALCO.BO')":144750
+  },
+  {
+    "('Date', '')":"2025-02-12",
+    "('Close', 'HINDALCO.BO')":594.6878662109,
+    "('High', 'HINDALCO.BO')":600.4456200461,
+    "('Low', 'HINDALCO.BO')":581.9810845012,
+    "('Open', 'HINDALCO.BO')":590.7169931397,
+    "('Volume', 'HINDALCO.BO')":68873
+  },
+  {
+    "('Date', '')":"2025-02-13",
+    "('Close', 'HINDALCO.BO')":597.9141845703,
+    "('High', 'HINDALCO.BO')":603.423758691,
+    "('Low', 'HINDALCO.BO')":586.0015656756,
+    "('Open', 'HINDALCO.BO')":599.8499972588,
+    "('Volume', 'HINDALCO.BO')":94922
+  },
+  {
+    "('Date', '')":"2025-02-14",
+    "('Close', 'HINDALCO.BO')":601.3887329102,
+    "('High', 'HINDALCO.BO')":611.0181125205,
+    "('Low', 'HINDALCO.BO')":590.6673874081,
+    "('Open', 'HINDALCO.BO')":603.622349081,
+    "('Volume', 'HINDALCO.BO')":461688
+  },
+  {
+    "('Date', '')":"2025-02-17",
+    "('Close', 'HINDALCO.BO')":606.2530517578,
+    "('High', 'HINDALCO.BO')":607.5931971687,
+    "('Low', 'HINDALCO.BO')":585.4059683577,
+    "('Open', 'HINDALCO.BO')":601.5872638311,
+    "('Volume', 'HINDALCO.BO')":238538
+  },
+  {
+    "('Date', '')":"2025-02-18",
+    "('Close', 'HINDALCO.BO')":607.1961669922,
+    "('High', 'HINDALCO.BO')":609.3800987601,
+    "('Low', 'HINDALCO.BO')":597.6164112467,
+    "('Open', 'HINDALCO.BO')":605.5085337792,
+    "('Volume', 'HINDALCO.BO')":35659
+  },
+  {
+    "('Date', '')":"2025-02-19",
+    "('Close', 'HINDALCO.BO')":622.1861572266,
+    "('High', 'HINDALCO.BO')":623.4270550272,
+    "('Low', 'HINDALCO.BO')":602.7785277431,
+    "('Open', 'HINDALCO.BO')":603.2748868634,
+    "('Volume', 'HINDALCO.BO')":134610
+  },
+  {
+    "('Date', '')":"2025-02-20",
+    "('Close', 'HINDALCO.BO')":634.2973632812,
+    "('High', 'HINDALCO.BO')":639.3105785258,
+    "('Low', 'HINDALCO.BO')":621.2430935362,
+    "('Open', 'HINDALCO.BO')":622.2854356222,
+    "('Volume', 'HINDALCO.BO')":200485
+  },
+  {
+    "('Date', '')":"2025-02-21",
+    "('Close', 'HINDALCO.BO')":648.840637207,
+    "('High', 'HINDALCO.BO')":651.1735614966,
+    "('Low', 'HINDALCO.BO')":632.9571448828,
+    "('Open', 'HINDALCO.BO')":633.7016835855,
+    "('Volume', 'HINDALCO.BO')":1397581
+  },
+  {
+    "('Date', '')":"2025-02-24",
+    "('Close', 'HINDALCO.BO')":636.8784179688,
+    "('High', 'HINDALCO.BO')":643.4303951518,
+    "('Low', 'HINDALCO.BO')":631.368843481,
+    "('Open', 'HINDALCO.BO')":642.2391210648,
+    "('Volume', 'HINDALCO.BO')":90987
+  },
+  {
+    "('Date', '')":"2025-02-25",
+    "('Close', 'HINDALCO.BO')":615.8327636719,
+    "('High', 'HINDALCO.BO')":636.7791558333,
+    "('Low', 'HINDALCO.BO')":612.5071816544,
+    "('Open', 'HINDALCO.BO')":636.7791558333,
+    "('Volume', 'HINDALCO.BO')":124066
+  },
+  {
+    "('Date', '')":"2025-02-27",
+    "('Close', 'HINDALCO.BO')":627.4475708008,
+    "('High', 'HINDALCO.BO')":629.3337597512,
+    "('Low', 'HINDALCO.BO')":615.2867719862,
+    "('Open', 'HINDALCO.BO')":620.0021837714,
+    "('Volume', 'HINDALCO.BO')":133469
+  },
+  {
+    "('Date', '')":"2025-02-28",
+    "('Close', 'HINDALCO.BO')":629.7308349609,
+    "('High', 'HINDALCO.BO')":631.9148273585,
+    "('Low', 'HINDALCO.BO')":614.8400603287,
+    "('Open', 'HINDALCO.BO')":625.4621583512,
+    "('Volume', 'HINDALCO.BO')":161233
+  },
+  {
+    "('Date', '')":"2025-03-03",
+    "('Close', 'HINDALCO.BO')":631.9147949219,
+    "('High', 'HINDALCO.BO')":638.7149513426,
+    "('Low', 'HINDALCO.BO')":616.1802347711,
+    "('Open', 'HINDALCO.BO')":630.4257175351,
+    "('Volume', 'HINDALCO.BO')":198731
+  },
+  {
+    "('Date', '')":"2025-03-04",
+    "('Close', 'HINDALCO.BO')":636.9280395508,
+    "('High', 'HINDALCO.BO')":638.9631605464,
+    "('Low', 'HINDALCO.BO')":619.3072896564,
+    "('Open', 'HINDALCO.BO')":620.4985637393,
+    "('Volume', 'HINDALCO.BO')":81928
+  },
+  {
+    "('Date', '')":"2025-03-05",
+    "('Close', 'HINDALCO.BO')":652.5137329102,
+    "('High', 'HINDALCO.BO')":657.6758802392,
+    "('Low', 'HINDALCO.BO')":632.6097429169,
+    "('Open', 'HINDALCO.BO')":632.6097429169,
+    "('Volume', 'HINDALCO.BO')":114907
+  },
+  {
+    "('Date', '')":"2025-03-06",
+    "('Close', 'HINDALCO.BO')":676.9346313477,
+    "('High', 'HINDALCO.BO')":682.8412567456,
+    "('Low', 'HINDALCO.BO')":657.129889193,
+    "('Open', 'HINDALCO.BO')":663.0861989784,
+    "('Volume', 'HINDALCO.BO')":165124
+  },
+  {
+    "('Date', '')":"2025-03-07",
+    "('Close', 'HINDALCO.BO')":686.3654174805,
+    "('High', 'HINDALCO.BO')":689.2938878249,
+    "('Low', 'HINDALCO.BO')":673.0133449933,
+    "('Open', 'HINDALCO.BO')":674.3534903851,
+    "('Volume', 'HINDALCO.BO')":149226
+  },
+  {
+    "('Date', '')":"2025-03-10",
+    "('Close', 'HINDALCO.BO')":683.8836669922,
+    "('High', 'HINDALCO.BO')":703.8372807576,
+    "('Low', 'HINDALCO.BO')":682.2456575468,
+    "('Open', 'HINDALCO.BO')":685.9187274066,
+    "('Volume', 'HINDALCO.BO')":307231
+  },
+  {
+    "('Date', '')":"2025-03-11",
+    "('Close', 'HINDALCO.BO')":690.6837158203,
+    "('High', 'HINDALCO.BO')":693.9100501019,
+    "('Low', 'HINDALCO.BO')":672.3680521651,
+    "('Open', 'HINDALCO.BO')":680.5579776492,
+    "('Volume', 'HINDALCO.BO')":86701
+  },
+  {
+    "('Date', '')":"2025-03-12",
+    "('Close', 'HINDALCO.BO')":684.5784912109,
+    "('High', 'HINDALCO.BO')":696.7392899555,
+    "('Low', 'HINDALCO.BO')":678.7711135978,
+    "('Open', 'HINDALCO.BO')":691.7260748361,
+    "('Volume', 'HINDALCO.BO')":117719
+  },
+  {
+    "('Date', '')":"2025-03-13",
+    "('Close', 'HINDALCO.BO')":672.2191772461,
+    "('High', 'HINDALCO.BO')":687.8544894515,
+    "('Low', 'HINDALCO.BO')":668.3971756859,
+    "('Open', 'HINDALCO.BO')":685.3726938634,
+    "('Volume', 'HINDALCO.BO')":553086
+  },
+  {
+    "('Date', '')":"2025-03-17",
+    "('Close', 'HINDALCO.BO')":675.842590332,
+    "('High', 'HINDALCO.BO')":682.0470795584,
+    "('Low', 'HINDALCO.BO')":673.3111708458,
+    "('Open', 'HINDALCO.BO')":675.3462311939,
+    "('Volume', 'HINDALCO.BO')":29262
+  },
+  {
+    "('Date', '')":"2025-03-18",
+    "('Close', 'HINDALCO.BO')":692.6195678711,
+    "('High', 'HINDALCO.BO')":695.7962785393,
+    "('Low', 'HINDALCO.BO')":681.3521788468,
+    "('Open', 'HINDALCO.BO')":682.2456495503,
+    "('Volume', 'HINDALCO.BO')":158361
+  },
+  {
+    "('Date', '')":"2025-03-19",
+    "('Close', 'HINDALCO.BO')":692.7188110352,
+    "('High', 'HINDALCO.BO')":697.6327786916,
+    "('Low', 'HINDALCO.BO')":685.7201592048,
+    "('Open', 'HINDALCO.BO')":697.6327786916,
+    "('Volume', 'HINDALCO.BO')":76927
+  },
+  {
+    "('Date', '')":"2025-03-20",
+    "('Close', 'HINDALCO.BO')":700.8591308594,
+    "('High', 'HINDALCO.BO')":704.5818245431,
+    "('Low', 'HINDALCO.BO')":692.4210251762,
+    "('Open', 'HINDALCO.BO')":698.3773350702,
+    "('Volume', 'HINDALCO.BO')":81627
+  },
+  {
+    "('Date', '')":"2025-03-21",
+    "('Close', 'HINDALCO.BO')":690.7333374023,
+    "('High', 'HINDALCO.BO')":711.2329932391,
+    "('Low', 'HINDALCO.BO')":688.9464566933,
+    "('Open', 'HINDALCO.BO')":711.2329932391,
+    "('Volume', 'HINDALCO.BO')":192178
+  },
+  {
+    "('Date', '')":"2025-03-24",
+    "('Close', 'HINDALCO.BO')":696.3422241211,
+    "('High', 'HINDALCO.BO')":700.2137889169,
+    "('Low', 'HINDALCO.BO')":689.9888031255,
+    "('Open', 'HINDALCO.BO')":698.6254639633,
+    "('Volume', 'HINDALCO.BO')":118140
+  },
+  {
+    "('Date', '')":"2025-03-25",
+    "('Close', 'HINDALCO.BO')":688.4501342773,
+    "('High', 'HINDALCO.BO')":699.8167708187,
+    "('Low', 'HINDALCO.BO')":678.5725751714,
+    "('Open', 'HINDALCO.BO')":696.2926330065,
+    "('Volume', 'HINDALCO.BO')":85777
+  },
+  {
+    "('Date', '')":"2025-03-26",
+    "('Close', 'HINDALCO.BO')":686.2164916992,
+    "('High', 'HINDALCO.BO')":697.4341958287,
+    "('Low', 'HINDALCO.BO')":685.3230210361,
+    "('Open', 'HINDALCO.BO')":691.0311509852,
+    "('Volume', 'HINDALCO.BO')":105363
+  },
+  {
+    "('Date', '')":"2025-03-27",
+    "('Close', 'HINDALCO.BO')":688.4005126953,
+    "('High', 'HINDALCO.BO')":692.5699416459,
+    "('Low', 'HINDALCO.BO')":683.7843483946,
+    "('Open', 'HINDALCO.BO')":685.1741782417,
+    "('Volume', 'HINDALCO.BO')":68264
+  },
+  {
+    "('Date', '')":"2025-03-28",
+    "('Close', 'HINDALCO.BO')":677.3812866211,
+    "('High', 'HINDALCO.BO')":692.5699246095,
+    "('Low', 'HINDALCO.BO')":674.3038842235,
+    "('Open', 'HINDALCO.BO')":684.0821349369,
+    "('Volume', 'HINDALCO.BO')":82701
+  },
+  {
+    "('Date', '')":"2025-04-01",
+    "('Close', 'HINDALCO.BO')":658.7182006836,
+    "('High', 'HINDALCO.BO')":677.7287799273,
+    "('Low', 'HINDALCO.BO')":657.2291232679,
+    "('Open', 'HINDALCO.BO')":669.5884779365,
+    "('Volume', 'HINDALCO.BO')":241067
+  },
+  {
+    "('Date', '')":"2025-04-02",
+    "('Close', 'HINDALCO.BO')":656.4349365234,
+    "('High', 'HINDALCO.BO')":665.02197354,
+    "('Low', 'HINDALCO.BO')":647.7486519192,
+    "('Open', 'HINDALCO.BO')":660.2072537192,
+    "('Volume', 'HINDALCO.BO')":415651
+  },
+  {
+    "('Date', '')":"2025-04-03",
+    "('Close', 'HINDALCO.BO')":647.996887207,
+    "('High', 'HINDALCO.BO')":652.9108550382,
+    "('Low', 'HINDALCO.BO')":642.6858684,
+    "('Open', 'HINDALCO.BO')":651.6203333327,
+    "('Volume', 'HINDALCO.BO')":74961
+  },
+  {
+    "('Date', '')":"2025-04-04",
+    "('Close', 'HINDALCO.BO')":595.5813598633,
+    "('High', 'HINDALCO.BO')":642.2887440472,
+    "('Low', 'HINDALCO.BO')":592.4046491656,
+    "('Open', 'HINDALCO.BO')":642.2887440472,
+    "('Volume', 'HINDALCO.BO')":1355694
+  },
+  {
+    "('Date', '')":"2025-04-07",
+    "('Close', 'HINDALCO.BO')":558.3048095703,
+    "('High', 'HINDALCO.BO')":565.8494445953,
+    "('Low', 'HINDALCO.BO')":542.2723844038,
+    "('Open', 'HINDALCO.BO')":546.2928814973,
+    "('Volume', 'HINDALCO.BO')":412236
+  },
+  {
+    "('Date', '')":"2025-04-08",
+    "('Close', 'HINDALCO.BO')":564.2114257812,
+    "('High', 'HINDALCO.BO')":579.3007561721,
+    "('Low', 'HINDALCO.BO')":552.0506265155,
+    "('Open', 'HINDALCO.BO')":574.0889850581,
+    "('Volume', 'HINDALCO.BO')":189038
+  },
+  {
+    "('Date', '')":"2025-04-09",
+    "('Close', 'HINDALCO.BO')":560.2405395508,
+    "('High', 'HINDALCO.BO')":566.742892786,
+    "('Low', 'HINDALCO.BO')":548.4768521172,
+    "('Open', 'HINDALCO.BO')":566.742892786,
+    "('Volume', 'HINDALCO.BO')":237800
+  },
+  {
+    "('Date', '')":"2025-04-11",
+    "('Close', 'HINDALCO.BO')":596.0280761719,
+    "('High', 'HINDALCO.BO')":603.4734632297,
+    "('Low', 'HINDALCO.BO')":571.904973632,
+    "('Open', 'HINDALCO.BO')":583.4205419692,
+    "('Volume', 'HINDALCO.BO')":560117
+  },
+  {
+    "('Date', '')":"2025-04-15",
+    "('Close', 'HINDALCO.BO')":613.6488037109,
+    "('High', 'HINDALCO.BO')":614.8897015098,
+    "('Low', 'HINDALCO.BO')":602.5799711091,
+    "('Open', 'HINDALCO.BO')":610.3231612557,
+    "('Volume', 'HINDALCO.BO')":134722
+  },
+  {
+    "('Date', '')":"2025-04-16",
+    "('Close', 'HINDALCO.BO')":605.4092407227,
+    "('High', 'HINDALCO.BO')":614.7408171285,
+    "('Low', 'HINDALCO.BO')":597.7156737743,
+    "('Open', 'HINDALCO.BO')":613.4999192336,
+    "('Volume', 'HINDALCO.BO')":186814
+  },
+  {
+    "('Date', '')":"2025-04-17",
+    "('Close', 'HINDALCO.BO')":604.4661865234,
+    "('High', 'HINDALCO.BO')":609.0326663872,
+    "('Low', 'HINDALCO.BO')":599.6018427023,
+    "('Open', 'HINDALCO.BO')":607.1464774139,
+    "('Volume', 'HINDALCO.BO')":57922
+  },
+  {
+    "('Date', '')":"2025-04-21",
+    "('Close', 'HINDALCO.BO')":617.5700073242,
+    "('High', 'HINDALCO.BO')":620.3496669339,
+    "('Low', 'HINDALCO.BO')":602.8777891464,
+    "('Open', 'HINDALCO.BO')":608.1391838235,
+    "('Volume', 'HINDALCO.BO')":71731
+  },
+  {
+    "('Date', '')":"2025-04-22",
+    "('Close', 'HINDALCO.BO')":615.3364257812,
+    "('High', 'HINDALCO.BO')":626.3556354763,
+    "('Low', 'HINDALCO.BO')":614.4926394464,
+    "('Open', 'HINDALCO.BO')":620.3993255625,
+    "('Volume', 'HINDALCO.BO')":102329
+  },
+  {
+    "('Date', '')":"2025-04-23",
+    "('Close', 'HINDALCO.BO')":624.2212524414,
+    "('High', 'HINDALCO.BO')":628.390681403,
+    "('Low', 'HINDALCO.BO')":616.3291298696,
+    "('Open', 'HINDALCO.BO')":623.4767137194,
+    "('Volume', 'HINDALCO.BO')":81806
+  },
+  {
+    "('Date', '')":"2025-04-24",
+    "('Close', 'HINDALCO.BO')":623.873840332,
+    "('High', 'HINDALCO.BO')":627.89433741,
+    "('Low', 'HINDALCO.BO')":621.640224112,
+    "('Open', 'HINDALCO.BO')":626.2067041478,
+    "('Volume', 'HINDALCO.BO')":45661
+  },
+  {
+    "('Date', '')":"2025-04-25",
+    "('Close', 'HINDALCO.BO')":617.0736694336,
+    "('High', 'HINDALCO.BO')":629.8301359097,
+    "('Low', 'HINDALCO.BO')":608.4370687187,
+    "('Open', 'HINDALCO.BO')":627.8943231116,
+    "('Volume', 'HINDALCO.BO')":166595
+  },
+  {
+    "('Date', '')":"2025-04-28",
+    "('Close', 'HINDALCO.BO')":624.2212524414,
+    "('High', 'HINDALCO.BO')":626.9016039589,
+    "('Low', 'HINDALCO.BO')":618.0663868877,
+    "('Open', 'HINDALCO.BO')":618.0663868877,
+    "('Volume', 'HINDALCO.BO')":70665
+  },
+  {
+    "('Date', '')":"2025-04-29",
+    "('Close', 'HINDALCO.BO')":618.1160888672,
+    "('High', 'HINDALCO.BO')":629.8301529759,
+    "('Low', 'HINDALCO.BO')":616.8751909618,
+    "('Open', 'HINDALCO.BO')":626.3556388408,
+    "('Volume', 'HINDALCO.BO')":80373
+  },
+  {
+    "('Date', '')":"2025-04-30",
+    "('Close', 'HINDALCO.BO')":619.1087646484,
+    "('High', 'HINDALCO.BO')":628.0432289533,
+    "('Low', 'HINDALCO.BO')":612.6064115985,
+    "('Open', 'HINDALCO.BO')":618.1160463923,
+    "('Volume', 'HINDALCO.BO')":127409
+  },
+  {
+    "('Date', '')":"2025-05-02",
+    "('Close', 'HINDALCO.BO')":627.4475708008,
+    "('High', 'HINDALCO.BO')":645.4158078527,
+    "('Low', 'HINDALCO.BO')":617.6693200719,
+    "('Open', 'HINDALCO.BO')":619.5058246362,
+    "('Volume', 'HINDALCO.BO')":139561
+  },
+  {
+    "('Date', '')":"2025-05-05",
+    "('Close', 'HINDALCO.BO')":628.9862670898,
+    "('High', 'HINDALCO.BO')":636.8287656024,
+    "('Low', 'HINDALCO.BO')":625.41250558,
+    "('Open', 'HINDALCO.BO')":629.730805787,
+    "('Volume', 'HINDALCO.BO')":102055
+  },
+  {
+    "('Date', '')":"2025-05-06",
+    "('Close', 'HINDALCO.BO')":625.1146850586,
+    "('High', 'HINDALCO.BO')":637.8214663558,
+    "('Low', 'HINDALCO.BO')":622.8314452349,
+    "('Open', 'HINDALCO.BO')":632.4111398538,
+    "('Volume', 'HINDALCO.BO')":108068
+  },
+  {
+    "('Date', '')":"2025-05-07",
+    "('Close', 'HINDALCO.BO')":631.7162475586,
+    "('High', 'HINDALCO.BO')":633.9002398731,
+    "('Low', 'HINDALCO.BO')":620.5481670091,
+    "('Open', 'HINDALCO.BO')":620.5481670091,
+    "('Volume', 'HINDALCO.BO')":53365
+  },
+  {
+    "('Date', '')":"2025-05-08",
+    "('Close', 'HINDALCO.BO')":613.8970336914,
+    "('High', 'HINDALCO.BO')":633.3542885388,
+    "('Low', 'HINDALCO.BO')":610.571390963,
+    "('Open', 'HINDALCO.BO')":633.3542885388,
+    "('Volume', 'HINDALCO.BO')":103192
+  },
+  {
+    "('Date', '')":"2025-05-09",
+    "('Close', 'HINDALCO.BO')":622.7321777344,
+    "('High', 'HINDALCO.BO')":625.5117768574,
+    "('Low', 'HINDALCO.BO')":597.7156644457,
+    "('Open', 'HINDALCO.BO')":597.7156644457,
+    "('Volume', 'HINDALCO.BO')":107176
+  },
+  {
+    "('Date', '')":"2025-05-12",
+    "('Close', 'HINDALCO.BO')":647.1033935547,
+    "('High', 'HINDALCO.BO')":649.237762116,
+    "('Low', 'HINDALCO.BO')":630.7235417582,
+    "('Open', 'HINDALCO.BO')":630.7235417582,
+    "('Volume', 'HINDALCO.BO')":205384
+  },
+  {
+    "('Date', '')":"2025-05-13",
+    "('Close', 'HINDALCO.BO')":630.1279296875,
+    "('High', 'HINDALCO.BO')":642.2887286456,
+    "('Low', 'HINDALCO.BO')":627.3979544112,
+    "('Open', 'HINDALCO.BO')":640.2040444891,
+    "('Volume', 'HINDALCO.BO')":149716
+  },
+  {
+    "('Date', '')":"2025-05-14",
+    "('Close', 'HINDALCO.BO')":645.9121704102,
+    "('High', 'HINDALCO.BO')":647.9472307575,
+    "('Low', 'HINDALCO.BO')":629.3833868812,
+    "('Open', 'HINDALCO.BO')":630.376105157,
+    "('Volume', 'HINDALCO.BO')":177577
+  },
+  {
+    "('Date', '')":"2025-05-15",
+    "('Close', 'HINDALCO.BO')":656.5839233398,
+    "('High', 'HINDALCO.BO')":658.5693599867,
+    "('Low', 'HINDALCO.BO')":641.5442165039,
+    "('Open', 'HINDALCO.BO')":645.2669102167,
+    "('Volume', 'HINDALCO.BO')":192233
+  },
+  {
+    "('Date', '')":"2025-05-16",
+    "('Close', 'HINDALCO.BO')":652.6626586914,
+    "('High', 'HINDALCO.BO')":657.1795148399,
+    "('Low', 'HINDALCO.BO')":649.535571809,
+    "('Open', 'HINDALCO.BO')":655.1444544423,
+    "('Volume', 'HINDALCO.BO')":1353705
+  },
+  {
+    "('Date', '')":"2025-05-19",
+    "('Close', 'HINDALCO.BO')":653.2086181641,
+    "('High', 'HINDALCO.BO')":657.1298674277,
+    "('Low', 'HINDALCO.BO')":647.2523085759,
+    "('Open', 'HINDALCO.BO')":654.8466275371,
+    "('Volume', 'HINDALCO.BO')":81572
+  },
+  {
+    "('Date', '')":"2025-05-20",
+    "('Close', 'HINDALCO.BO')":657.8743896484,
+    "('High', 'HINDALCO.BO')":666.1635627147,
+    "('Low', 'HINDALCO.BO')":650.7764299974,
+    "('Open', 'HINDALCO.BO')":661.1503477217,
+    "('Volume', 'HINDALCO.BO')":227301
+  },
+  {
+    "('Date', '')":"2025-05-21",
+    "('Close', 'HINDALCO.BO')":658.0233154297,
+    "('High', 'HINDALCO.BO')":666.6103531503,
+    "('Low', 'HINDALCO.BO')":650.2305008391,
+    "('Open', 'HINDALCO.BO')":660.1080602601,
+    "('Volume', 'HINDALCO.BO')":217176
+  },
+  {
+    "('Date', '')":"2025-05-22",
+    "('Close', 'HINDALCO.BO')":644.8201293945,
+    "('High', 'HINDALCO.BO')":658.9167407113,
+    "('Low', 'HINDALCO.BO')":637.8711016206,
+    "('Open', 'HINDALCO.BO')":658.9167407113,
+    "('Volume', 'HINDALCO.BO')":109067
+  },
+  {
+    "('Date', '')":"2025-05-23",
+    "('Close', 'HINDALCO.BO')":645.5150756836,
+    "('High', 'HINDALCO.BO')":650.6275991737,
+    "('Low', 'HINDALCO.BO')":637.8711326423,
+    "('Open', 'HINDALCO.BO')":649.9823080413,
+    "('Volume', 'HINDALCO.BO')":573960
+  },
+  {
+    "('Date', '')":"2025-05-26",
+    "('Close', 'HINDALCO.BO')":656.5341796875,
+    "('High', 'HINDALCO.BO')":664.9722846748,
+    "('Low', 'HINDALCO.BO')":649.0391691405,
+    "('Open', 'HINDALCO.BO')":650.2304431392,
+    "('Volume', 'HINDALCO.BO')":240086
+  },
+  {
+    "('Date', '')":"2025-05-27",
+    "('Close', 'HINDALCO.BO')":654.6480712891,
+    "('High', 'HINDALCO.BO')":660.207269331,
+    "('Low', 'HINDALCO.BO')":651.8684722681,
+    "('Open', 'HINDALCO.BO')":658.1225852129,
+    "('Volume', 'HINDALCO.BO')":77103
+  },
+  {
+    "('Date', '')":"2025-05-28",
+    "('Close', 'HINDALCO.BO')":645.4654541016,
+    "('High', 'HINDALCO.BO')":657.5766295421,
+    "('Low', 'HINDALCO.BO')":643.6288888827,
+    "('Open', 'HINDALCO.BO')":650.2801136451,
+    "('Volume', 'HINDALCO.BO')":87767
+  },
+  {
+    "('Date', '')":"2025-05-29",
+    "('Close', 'HINDALCO.BO')":645.2669067383,
+    "('High', 'HINDALCO.BO')":648.5924888675,
+    "('Low', 'HINDALCO.BO')":640.303315148,
+    "('Open', 'HINDALCO.BO')":645.46546252,
+    "('Volume', 'HINDALCO.BO')":81708
+  },
+  {
+    "('Date', '')":"2025-05-30",
+    "('Close', 'HINDALCO.BO')":628.7380981445,
+    "('High', 'HINDALCO.BO')":646.2596000157,
+    "('Low', 'HINDALCO.BO')":627.5468846816,
+    "('Open', 'HINDALCO.BO')":645.1179497578,
+    "('Volume', 'HINDALCO.BO')":163865
+  },
+  {
+    "('Date', '')":"2025-06-02",
+    "('Close', 'HINDALCO.BO')":626.8023681641,
+    "('High', 'HINDALCO.BO')":630.5250618443,
+    "('Low', 'HINDALCO.BO')":613.4006709151,
+    "('Open', 'HINDALCO.BO')":626.3556328043,
+    "('Volume', 'HINDALCO.BO')":83391
+  },
+  {
+    "('Date', '')":"2025-06-03",
+    "('Close', 'HINDALCO.BO')":627.1497802734,
+    "('High', 'HINDALCO.BO')":636.0842448915,
+    "('Low', 'HINDALCO.BO')":625.4125232644,
+    "('Open', 'HINDALCO.BO')":627.1994040698,
+    "('Volume', 'HINDALCO.BO')":85254
+  },
+  {
+    "('Date', '')":"2025-06-04",
+    "('Close', 'HINDALCO.BO')":631.3688354492,
+    "('High', 'HINDALCO.BO')":635.9353153687,
+    "('Low', 'HINDALCO.BO')":626.0081324214,
+    "('Open', 'HINDALCO.BO')":628.390680565,
+    "('Volume', 'HINDALCO.BO')":43962
+  },
+  {
+    "('Date', '')":"2025-06-05",
+    "('Close', 'HINDALCO.BO')":632.659362793,
+    "('High', 'HINDALCO.BO')":636.6302360075,
+    "('Low', 'HINDALCO.BO')":628.8374215602,
+    "('Open', 'HINDALCO.BO')":632.1133798441,
+    "('Volume', 'HINDALCO.BO')":66005
+  },
+  {
+    "('Date', '')":"2025-06-06",
+    "('Close', 'HINDALCO.BO')":645.1179199219,
+    "('High', 'HINDALCO.BO')":646.4581258918,
+    "('Low', 'HINDALCO.BO')":630.4753259751,
+    "('Open', 'HINDALCO.BO')":631.4184204152,
+    "('Volume', 'HINDALCO.BO')":175966
+  },
+  {
+    "('Date', '')":"2025-06-09",
+    "('Close', 'HINDALCO.BO')":645.9121704102,
+    "('High', 'HINDALCO.BO')":650.6275822204,
+    "('Low', 'HINDALCO.BO')":644.621588179,
+    "('Open', 'HINDALCO.BO')":650.6275822204,
+    "('Volume', 'HINDALCO.BO')":43047
+  },
+  {
+    "('Date', '')":"2025-06-10",
+    "('Close', 'HINDALCO.BO')":652.8612060547,
+    "('High', 'HINDALCO.BO')":658.3707804325,
+    "('Low', 'HINDALCO.BO')":647.5501268618,
+    "('Open', 'HINDALCO.BO')":649.2377600688,
+    "('Volume', 'HINDALCO.BO')":77062
+  },
+  {
+    "('Date', '')":"2025-06-11",
+    "('Close', 'HINDALCO.BO')":650.280090332,
+    "('High', 'HINDALCO.BO')":657.9240331255,
+    "('Low', 'HINDALCO.BO')":649.1385006765,
+    "('Open', 'HINDALCO.BO')":655.0948102936,
+    "('Volume', 'HINDALCO.BO')":43776
+  },
+  {
+    "('Date', '')":"2025-06-12",
+    "('Close', 'HINDALCO.BO')":646.2595825195,
+    "('High', 'HINDALCO.BO')":656.6831241731,
+    "('Low', 'HINDALCO.BO')":643.579231119,
+    "('Open', 'HINDALCO.BO')":653.1589864941,
+    "('Volume', 'HINDALCO.BO')":59330
+  },
+  {
+    "('Date', '')":"2025-06-13",
+    "('Close', 'HINDALCO.BO')":636.8784179688,
+    "('High', 'HINDALCO.BO')":643.1822155749,
+    "('Low', 'HINDALCO.BO')":632.1630060088,
+    "('Open', 'HINDALCO.BO')":637.6725804965,
+    "('Volume', 'HINDALCO.BO')":194634
+  },
+  {
+    "('Date', '')":"2025-06-16",
+    "('Close', 'HINDALCO.BO')":644.9690551758,
+    "('High', 'HINDALCO.BO')":645.7632176528,
+    "('Low', 'HINDALCO.BO')":631.4680507044,
+    "('Open', 'HINDALCO.BO')":636.8783772518,
+    "('Volume', 'HINDALCO.BO')":37375
+  },
+  {
+    "('Date', '')":"2025-06-17",
+    "('Close', 'HINDALCO.BO')":636.6302490234,
+    "('High', 'HINDALCO.BO')":645.7136459238,
+    "('Low', 'HINDALCO.BO')":633.3542906726,
+    "('Open', 'HINDALCO.BO')":644.869798994,
+    "('Volume', 'HINDALCO.BO')":350222
+  },
+  {
+    "('Date', '')":"2025-06-18",
+    "('Close', 'HINDALCO.BO')":640.5018310547,
+    "('High', 'HINDALCO.BO')":644.0755925409,
+    "('Low', 'HINDALCO.BO')":633.6024270556,
+    "('Open', 'HINDALCO.BO')":636.5805818243,
+    "('Volume', 'HINDALCO.BO')":172921
+  },
+  {
+    "('Date', '')":"2025-06-19",
+    "('Close', 'HINDALCO.BO')":636.7791748047,
+    "('High', 'HINDALCO.BO')":640.3033127022,
+    "('Low', 'HINDALCO.BO')":630.7235567332,
+    "('Open', 'HINDALCO.BO')":635.836080288,
+    "('Volume', 'HINDALCO.BO')":128601
+  },
+  {
+    "('Date', '')":"2025-06-20",
+    "('Close', 'HINDALCO.BO')":644.3237915039,
+    "('High', 'HINDALCO.BO')":649.5851863023,
+    "('Low', 'HINDALCO.BO')":633.6024461317,
+    "('Open', 'HINDALCO.BO')":636.7791567655,
+    "('Volume', 'HINDALCO.BO')":79870
+  },
+  {
+    "('Date', '')":"2025-06-23",
+    "('Close', 'HINDALCO.BO')":656.8817138672,
+    "('High', 'HINDALCO.BO')":661.1007666591,
+    "('Low', 'HINDALCO.BO')":635.8360737045,
+    "('Open', 'HINDALCO.BO')":636.3820566535,
+    "('Volume', 'HINDALCO.BO')":89602
+  },
+  {
+    "('Date', '')":"2025-06-24",
+    "('Close', 'HINDALCO.BO')":664.6744995117,
+    "('High', 'HINDALCO.BO')":668.9928603013,
+    "('Low', 'HINDALCO.BO')":660.1576435425,
+    "('Open', 'HINDALCO.BO')":660.5050706975,
+    "('Volume', 'HINDALCO.BO')":358724
+  },
+  {
+    "('Date', '')":"2025-06-25",
+    "('Close', 'HINDALCO.BO')":667.5037841797,
+    "('High', 'HINDALCO.BO')":673.5593413468,
+    "('Low', 'HINDALCO.BO')":663.1854233818,
+    "('Open', 'HINDALCO.BO')":673.5593413468,
+    "('Volume', 'HINDALCO.BO')":366577
+  },
+  {
+    "('Date', '')":"2025-06-26",
+    "('Close', 'HINDALCO.BO')":685.5216064453,
+    "('High', 'HINDALCO.BO')":687.5566668318,
+    "('Low', 'HINDALCO.BO')":668.0497886908,
+    "('Open', 'HINDALCO.BO')":668.0497886908,
+    "('Volume', 'HINDALCO.BO')":134402
+  },
+  {
+    "('Date', '')":"2025-06-27",
+    "('Close', 'HINDALCO.BO')":692.5202636719,
+    "('High', 'HINDALCO.BO')":695.0517438161,
+    "('Low', 'HINDALCO.BO')":686.5143300592,
+    "('Open', 'HINDALCO.BO')":691.8750331296,
+    "('Volume', 'HINDALCO.BO')":851740
+  },
+  {
+    "('Date', '')":"2025-06-30",
+    "('Close', 'HINDALCO.BO')":688.0034179688,
+    "('High', 'HINDALCO.BO')":694.2575312522,
+    "('Low', 'HINDALCO.BO')":686.4150928967,
+    "('Open', 'HINDALCO.BO')":693.1159415412,
+    "('Volume', 'HINDALCO.BO')":233878
+  },
+  {
+    "('Date', '')":"2025-07-01",
+    "('Close', 'HINDALCO.BO')":689.1946411133,
+    "('High', 'HINDALCO.BO')":694.3071643078,
+    "('Low', 'HINDALCO.BO')":679.5156382312,
+    "('Open', 'HINDALCO.BO')":686.2164863803,
+    "('Volume', 'HINDALCO.BO')":259925
+  },
+  {
+    "('Date', '')":"2025-07-02",
+    "('Close', 'HINDALCO.BO')":693.0662841797,
+    "('High', 'HINDALCO.BO')":700.6109187926,
+    "('Low', 'HINDALCO.BO')":688.698299557,
+    "('Open', 'HINDALCO.BO')":690.2370007568,
+    "('Volume', 'HINDALCO.BO')":73404
+  },
+  {
+    "('Date', '')":"2025-07-03",
+    "('Close', 'HINDALCO.BO')":688.3012084961,
+    "('High', 'HINDALCO.BO')":703.1423591869,
+    "('Low', 'HINDALCO.BO')":686.9610630285,
+    "('Open', 'HINDALCO.BO')":694.9524332187,
+    "('Volume', 'HINDALCO.BO')":99618
+  },
+  {
+    "('Date', '')":"2025-07-04",
+    "('Close', 'HINDALCO.BO')":694.2575073242,
+    "('High', 'HINDALCO.BO')":695.3495337905,
+    "('Low', 'HINDALCO.BO')":684.2807006933,
+    "('Open', 'HINDALCO.BO')":687.0106759729,
+    "('Volume', 'HINDALCO.BO')":81500
+  },
+  {
+    "('Date', '')":"2025-07-07",
+    "('Close', 'HINDALCO.BO')":687.4573974609,
+    "('High', 'HINDALCO.BO')":692.3217411883,
+    "('Low', 'HINDALCO.BO')":683.436900612,
+    "('Open', 'HINDALCO.BO')":691.8750058516,
+    "('Volume', 'HINDALCO.BO')":215330
+  },
+  {
+    "('Date', '')":"2025-07-08",
+    "('Close', 'HINDALCO.BO')":680.8558349609,
+    "('High', 'HINDALCO.BO')":691.3786854985,
+    "('Low', 'HINDALCO.BO')":678.1258595832,
+    "('Open', 'HINDALCO.BO')":686.9610768601,
+    "('Volume', 'HINDALCO.BO')":241276
+  },
+  {
+    "('Date', '')":"2025-07-09",
+    "('Close', 'HINDALCO.BO')":668.6950073242,
+    "('High', 'HINDALCO.BO')":686.7128682927,
+    "('Low', 'HINDALCO.BO')":659.4131156681,
+    "('Open', 'HINDALCO.BO')":685.3230384683,
+    "('Volume', 'HINDALCO.BO')":240023
+  },
+  {
+    "('Date', '')":"2025-07-10",
+    "('Close', 'HINDALCO.BO')":670.0352172852,
+    "('High', 'HINDALCO.BO')":674.0557142135,
+    "('Low', 'HINDALCO.BO')":667.8016011482,
+    "('Open', 'HINDALCO.BO')":667.8016011482,
+    "('Volume', 'HINDALCO.BO')":30779
+  },
+  {
+    "('Date', '')":"2025-07-11",
+    "('Close', 'HINDALCO.BO')":666.0147094727,
+    "('High', 'HINDALCO.BO')":671.0279246022,
+    "('Low', 'HINDALCO.BO')":657.9736551567,
+    "('Open', 'HINDALCO.BO')":670.0848301305,
+    "('Volume', 'HINDALCO.BO')":173281
+  },
+  {
+    "('Date', '')":"2025-07-14",
+    "('Close', 'HINDALCO.BO')":661.8948974609,
+    "('High', 'HINDALCO.BO')":675.743329256,
+    "('Low', 'HINDALCO.BO')":660.2072643069,
+    "('Open', 'HINDALCO.BO')":669.0424810252,
+    "('Volume', 'HINDALCO.BO')":101509
+  },
+  {
+    "('Date', '')":"2025-07-15",
+    "('Close', 'HINDALCO.BO')":665.4686889648,
+    "('High', 'HINDALCO.BO')":668.6453996468,
+    "('Low', 'HINDALCO.BO')":658.4204132627,
+    "('Open', 'HINDALCO.BO')":666.759271229,
+    "('Volume', 'HINDALCO.BO')":73563
+  },
+  {
+    "('Date', '')":"2025-07-16",
+    "('Close', 'HINDALCO.BO')":662.0438232422,
+    "('High', 'HINDALCO.BO')":665.121225572,
+    "('Low', 'HINDALCO.BO')":659.4627194452,
+    "('Open', 'HINDALCO.BO')":662.1430708306,
+    "('Volume', 'HINDALCO.BO')":44037
+  },
+  {
+    "('Date', '')":"2025-07-17",
+    "('Close', 'HINDALCO.BO')":669.5388793945,
+    "('High', 'HINDALCO.BO')":672.963769698,
+    "('Low', 'HINDALCO.BO')":663.3840137259,
+    "('Open', 'HINDALCO.BO')":668.7943406586,
+    "('Volume', 'HINDALCO.BO')":109325
+  },
+  {
+    "('Date', '')":"2025-07-18",
+    "('Close', 'HINDALCO.BO')":670.9783325195,
+    "('High', 'HINDALCO.BO')":674.2046670393,
+    "('Low', 'HINDALCO.BO')":666.6103477026,
+    "('Open', 'HINDALCO.BO')":670.0848618008,
+    "('Volume', 'HINDALCO.BO')":39618
+  },
+  {
+    "('Date', '')":"2025-07-21",
+    "('Close', 'HINDALCO.BO')":677.5302124023,
+    "('High', 'HINDALCO.BO')":681.9478207772,
+    "('Low', 'HINDALCO.BO')":673.0629802327,
+    "('Open', 'HINDALCO.BO')":673.0629802327,
+    "('Volume', 'HINDALCO.BO')":123972
+  },
+  {
+    "('Date', '')":"2025-07-22",
+    "('Close', 'HINDALCO.BO')":685.5216064453,
+    "('High', 'HINDALCO.BO')":687.4574192386,
+    "('Low', 'HINDALCO.BO')":677.4806124927,
+    "('Open', 'HINDALCO.BO')":677.5302362893,
+    "('Volume', 'HINDALCO.BO')":77973
+  },
+  {
+    "('Date', '')":"2025-07-23",
+    "('Close', 'HINDALCO.BO')":690.0881347656,
+    "('High', 'HINDALCO.BO')":690.9319210651,
+    "('Low', 'HINDALCO.BO')":684.4296284663,
+    "('Open', 'HINDALCO.BO')":687.8048342551,
+    "('Volume', 'HINDALCO.BO')":138824
+  },
+  {
+    "('Date', '')":"2025-07-24",
+    "('Close', 'HINDALCO.BO')":691.4282836914,
+    "('High', 'HINDALCO.BO')":698.9729184014,
+    "('Low', 'HINDALCO.BO')":686.9610514206,
+    "('Open', 'HINDALCO.BO')":691.1801041208,
+    "('Volume', 'HINDALCO.BO')":72661
+  },
+  {
+    "('Date', '')":"2025-07-25",
+    "('Close', 'HINDALCO.BO')":687.8048095703,
+    "('High', 'HINDALCO.BO')":693.4136918726,
+    "('Low', 'HINDALCO.BO')":682.990150334,
+    "('Open', 'HINDALCO.BO')":691.428255389,
+    "('Volume', 'HINDALCO.BO')":107032
+  },
+  {
+    "('Date', '')":"2025-07-28",
+    "('Close', 'HINDALCO.BO')":684.3800048828,
+    "('High', 'HINDALCO.BO')":689.9392030016,
+    "('Low', 'HINDALCO.BO')":677.5302245304,
+    "('Open', 'HINDALCO.BO')":689.9392030016,
+    "('Volume', 'HINDALCO.BO')":274767
+  },
+  {
+    "('Date', '')":"2025-07-29",
+    "('Close', 'HINDALCO.BO')":687.6063232422,
+    "('High', 'HINDALCO.BO')":689.1946482132,
+    "('Low', 'HINDALCO.BO')":676.6864224423,
+    "('Open', 'HINDALCO.BO')":676.6864224423,
+    "('Volume', 'HINDALCO.BO')":82905
+  },
+  {
+    "('Date', '')":"2025-07-30",
+    "('Close', 'HINDALCO.BO')":683.833984375,
+    "('High', 'HINDALCO.BO')":691.9742866443,
+    "('Low', 'HINDALCO.BO')":679.9624193161,
+    "('Open', 'HINDALCO.BO')":683.982916358,
+    "('Volume', 'HINDALCO.BO')":47242
+  },
+  {
+    "('Date', '')":"2025-07-31",
+    "('Close', 'HINDALCO.BO')":678.1755371094,
+    "('High', 'HINDALCO.BO')":686.9610699088,
+    "('Low', 'HINDALCO.BO')":667.5038152864,
+    "('Open', 'HINDALCO.BO')":667.5038152864,
+    "('Volume', 'HINDALCO.BO')":324759
+  },
+  {
+    "('Date', '')":"2025-08-01",
+    "('Close', 'HINDALCO.BO')":667.3052368164,
+    "('High', 'HINDALCO.BO')":678.1258296634,
+    "('Low', 'HINDALCO.BO')":666.1139627678,
+    "('Open', 'HINDALCO.BO')":676.8849318192,
+    "('Volume', 'HINDALCO.BO')":61455
+  },
+  {
+    "('Date', '')":"2025-08-04",
+    "('Close', 'HINDALCO.BO')":682.6923828125,
+    "('High', 'HINDALCO.BO')":683.6851011064,
+    "('Low', 'HINDALCO.BO')":667.4044968506,
+    "('Open', 'HINDALCO.BO')":674.6513282777,
+    "('Volume', 'HINDALCO.BO')":48488
+  },
+  {
+    "('Date', '')":"2025-08-05",
+    "('Close', 'HINDALCO.BO')":681.6500244141,
+    "('High', 'HINDALCO.BO')":686.9114191276,
+    "('Low', 'HINDALCO.BO')":677.0834840171,
+    "('Open', 'HINDALCO.BO')":677.0834840171,
+    "('Volume', 'HINDALCO.BO')":150678
+  },
+  {
+    "('Date', '')":"2025-08-06",
+    "('Close', 'HINDALCO.BO')":680.0120239258,
+    "('High', 'HINDALCO.BO')":688.6486851069,
+    "('Low', 'HINDALCO.BO')":678.1258349516,
+    "('Open', 'HINDALCO.BO')":688.6486851069,
+    "('Volume', 'HINDALCO.BO')":83980
+  },
+  {
+    "('Date', '')":"2025-08-07",
+    "('Close', 'HINDALCO.BO')":681.6500244141,
+    "('High', 'HINDALCO.BO')":684.3799996569,
+    "('Low', 'HINDALCO.BO')":669.6877207865,
+    "('Open', 'HINDALCO.BO')":676.2396977238,
+    "('Volume', 'HINDALCO.BO')":66554
+  },
+  {
+    "('Date', '')":"2025-08-08",
+    "('Close', 'HINDALCO.BO')":672.799987793,
+    "('High', 'HINDALCO.BO')":686.950012207,
+    "('Low', 'HINDALCO.BO')":668.950012207,
+    "('Open', 'HINDALCO.BO')":686.950012207,
+    "('Volume', 'HINDALCO.BO')":155960
+  },
+  {
+    "('Date', '')":"2025-08-11",
+    "('Close', 'HINDALCO.BO')":671.799987793,
+    "('High', 'HINDALCO.BO')":678.0,
+    "('Low', 'HINDALCO.BO')":668.0,
+    "('Open', 'HINDALCO.BO')":673.3499755859,
+    "('Volume', 'HINDALCO.BO')":95360
+  },
+  {
+    "('Date', '')":"2025-08-12",
+    "('Close', 'HINDALCO.BO')":666.950012207,
+    "('High', 'HINDALCO.BO')":677.1500244141,
+    "('Low', 'HINDALCO.BO')":656.8499755859,
+    "('Open', 'HINDALCO.BO')":658.0,
+    "('Volume', 'HINDALCO.BO')":468047
+  },
+  {
+    "('Date', '')":"2025-08-13",
+    "('Close', 'HINDALCO.BO')":700.9000244141,
+    "('High', 'HINDALCO.BO')":705.0,
+    "('Low', 'HINDALCO.BO')":670.299987793,
+    "('Open', 'HINDALCO.BO')":670.299987793,
+    "('Volume', 'HINDALCO.BO')":501603
+  },
+  {
+    "('Date', '')":"2025-08-14",
+    "('Close', 'HINDALCO.BO')":695.049987793,
+    "('High', 'HINDALCO.BO')":702.049987793,
+    "('Low', 'HINDALCO.BO')":687.950012207,
+    "('Open', 'HINDALCO.BO')":701.950012207,
+    "('Volume', 'HINDALCO.BO')":97725
+  },
+  {
+    "('Date', '')":"2025-08-18",
+    "('Close', 'HINDALCO.BO')":714.299987793,
+    "('High', 'HINDALCO.BO')":719.0,
+    "('Low', 'HINDALCO.BO')":697.049987793,
+    "('Open', 'HINDALCO.BO')":700.0,
+    "('Volume', 'HINDALCO.BO')":249446
+  },
+  {
+    "('Date', '')":"2025-08-19",
+    "('Close', 'HINDALCO.BO')":706.549987793,
+    "('High', 'HINDALCO.BO')":715.0,
+    "('Low', 'HINDALCO.BO')":705.5999755859,
+    "('Open', 'HINDALCO.BO')":714.950012207,
+    "('Volume', 'HINDALCO.BO')":265929
+  },
+  {
+    "('Date', '')":"2025-08-20",
+    "('Close', 'HINDALCO.BO')":700.5,
+    "('High', 'HINDALCO.BO')":706.1500244141,
+    "('Low', 'HINDALCO.BO')":698.0999755859,
+    "('Open', 'HINDALCO.BO')":702.049987793,
+    "('Volume', 'HINDALCO.BO')":212206
+  },
+  {
+    "('Date', '')":"2025-08-21",
+    "('Close', 'HINDALCO.BO')":707.450012207,
+    "('High', 'HINDALCO.BO')":708.9000244141,
+    "('Low', 'HINDALCO.BO')":700.200012207,
+    "('Open', 'HINDALCO.BO')":700.200012207,
+    "('Volume', 'HINDALCO.BO')":176222
+  },
+  {
+    "('Date', '')":"2025-08-22",
+    "('Close', 'HINDALCO.BO')":704.6500244141,
+    "('High', 'HINDALCO.BO')":709.5999755859,
+    "('Low', 'HINDALCO.BO')":701.3499755859,
+    "('Open', 'HINDALCO.BO')":707.049987793,
+    "('Volume', 'HINDALCO.BO')":294140
+  },
+  {
+    "('Date', '')":"2025-08-25",
+    "('Close', 'HINDALCO.BO')":715.700012207,
+    "('High', 'HINDALCO.BO')":720.5,
+    "('Low', 'HINDALCO.BO')":708.1500244141,
+    "('Open', 'HINDALCO.BO')":711.200012207,
+    "('Volume', 'HINDALCO.BO')":132370
+  },
+  {
+    "('Date', '')":"2025-08-26",
+    "('Close', 'HINDALCO.BO')":704.8499755859,
+    "('High', 'HINDALCO.BO')":715.0,
+    "('Low', 'HINDALCO.BO')":701.549987793,
+    "('Open', 'HINDALCO.BO')":715.0,
+    "('Volume', 'HINDALCO.BO')":28498
+  },
+  {
+    "('Date', '')":"2025-08-28",
+    "('Close', 'HINDALCO.BO')":701.5999755859,
+    "('High', 'HINDALCO.BO')":706.549987793,
+    "('Low', 'HINDALCO.BO')":697.950012207,
+    "('Open', 'HINDALCO.BO')":700.200012207,
+    "('Volume', 'HINDALCO.BO')":65018
+  },
+  {
+    "('Date', '')":"2025-08-29",
+    "('Close', 'HINDALCO.BO')":703.6500244141,
+    "('High', 'HINDALCO.BO')":708.3499755859,
+    "('Low', 'HINDALCO.BO')":696.8499755859,
+    "('Open', 'HINDALCO.BO')":700.25,
+    "('Volume', 'HINDALCO.BO')":107353
+  },
+  {
+    "('Date', '')":"2025-09-01",
+    "('Close', 'HINDALCO.BO')":720.049987793,
+    "('High', 'HINDALCO.BO')":721.049987793,
+    "('Low', 'HINDALCO.BO')":703.0,
+    "('Open', 'HINDALCO.BO')":707.799987793,
+    "('Volume', 'HINDALCO.BO')":100831
+  },
+  {
+    "('Date', '')":"2025-09-02",
+    "('Close', 'HINDALCO.BO')":721.049987793,
+    "('High', 'HINDALCO.BO')":726.0999755859,
+    "('Low', 'HINDALCO.BO')":714.0,
+    "('Open', 'HINDALCO.BO')":721.0,
+    "('Volume', 'HINDALCO.BO')":113734
+  },
+  {
+    "('Date', '')":"2025-09-03",
+    "('Close', 'HINDALCO.BO')":743.049987793,
+    "('High', 'HINDALCO.BO')":744.0,
+    "('Low', 'HINDALCO.BO')":724.0,
+    "('Open', 'HINDALCO.BO')":726.299987793,
+    "('Volume', 'HINDALCO.BO')":374576
+  },
+  {
+    "('Date', '')":"2025-09-04",
+    "('Close', 'HINDALCO.BO')":738.75,
+    "('High', 'HINDALCO.BO')":745.0,
+    "('Low', 'HINDALCO.BO')":737.299987793,
+    "('Open', 'HINDALCO.BO')":741.5999755859,
+    "('Volume', 'HINDALCO.BO')":87840
+  },
+  {
+    "('Date', '')":"2025-09-05",
+    "('Close', 'HINDALCO.BO')":744.450012207,
+    "('High', 'HINDALCO.BO')":746.8499755859,
+    "('Low', 'HINDALCO.BO')":738.0,
+    "('Open', 'HINDALCO.BO')":738.0,
+    "('Volume', 'HINDALCO.BO')":102110
+  },
+  {
+    "('Date', '')":"2025-09-08",
+    "('Close', 'HINDALCO.BO')":738.5,
+    "('High', 'HINDALCO.BO')":749.700012207,
+    "('Low', 'HINDALCO.BO')":737.3499755859,
+    "('Open', 'HINDALCO.BO')":742.1500244141,
+    "('Volume', 'HINDALCO.BO')":68833
+  },
+  {
+    "('Date', '')":"2025-09-09",
+    "('Close', 'HINDALCO.BO')":742.5,
+    "('High', 'HINDALCO.BO')":746.950012207,
+    "('Low', 'HINDALCO.BO')":739.0,
+    "('Open', 'HINDALCO.BO')":740.0,
+    "('Volume', 'HINDALCO.BO')":50114
+  },
+  {
+    "('Date', '')":"2025-09-10",
+    "('Close', 'HINDALCO.BO')":743.0999755859,
+    "('High', 'HINDALCO.BO')":749.6500244141,
+    "('Low', 'HINDALCO.BO')":741.200012207,
+    "('Open', 'HINDALCO.BO')":745.200012207,
+    "('Volume', 'HINDALCO.BO')":29605
+  },
+  {
+    "('Date', '')":"2025-09-11",
+    "('Close', 'HINDALCO.BO')":742.450012207,
+    "('High', 'HINDALCO.BO')":747.75,
+    "('Low', 'HINDALCO.BO')":738.299987793,
+    "('Open', 'HINDALCO.BO')":742.0,
+    "('Volume', 'HINDALCO.BO')":82920
+  },
+  {
+    "('Date', '')":"2025-09-12",
+    "('Close', 'HINDALCO.BO')":758.0,
+    "('High', 'HINDALCO.BO')":759.3499755859,
+    "('Low', 'HINDALCO.BO')":745.200012207,
+    "('Open', 'HINDALCO.BO')":748.9000244141,
+    "('Volume', 'HINDALCO.BO')":105367
+  },
+  {
+    "('Date', '')":"2025-09-15",
+    "('Close', 'HINDALCO.BO')":753.3499755859,
+    "('High', 'HINDALCO.BO')":763.299987793,
+    "('Low', 'HINDALCO.BO')":752.4000244141,
+    "('Open', 'HINDALCO.BO')":758.0,
+    "('Volume', 'HINDALCO.BO')":134031
+  },
+  {
+    "('Date', '')":"2025-09-16",
+    "('Close', 'HINDALCO.BO')":756.049987793,
+    "('High', 'HINDALCO.BO')":757.0,
+    "('Low', 'HINDALCO.BO')":749.4000244141,
+    "('Open', 'HINDALCO.BO')":756.25,
+    "('Volume', 'HINDALCO.BO')":31656
+  },
+  {
+    "('Date', '')":"2025-09-17",
+    "('Close', 'HINDALCO.BO')":749.950012207,
+    "('High', 'HINDALCO.BO')":758.549987793,
+    "('Low', 'HINDALCO.BO')":744.25,
+    "('Open', 'HINDALCO.BO')":756.049987793,
+    "('Volume', 'HINDALCO.BO')":85664
+  },
+  {
+    "('Date', '')":"2025-09-18",
+    "('Close', 'HINDALCO.BO')":749.799987793,
+    "('High', 'HINDALCO.BO')":751.1500244141,
+    "('Low', 'HINDALCO.BO')":738.700012207,
+    "('Open', 'HINDALCO.BO')":748.950012207,
+    "('Volume', 'HINDALCO.BO')":65206
+  },
+  {
+    "('Date', '')":"2025-09-19",
+    "('Close', 'HINDALCO.BO')":743.1500244141,
+    "('High', 'HINDALCO.BO')":754.5,
+    "('Low', 'HINDALCO.BO')":739.049987793,
+    "('Open', 'HINDALCO.BO')":749.200012207,
+    "('Volume', 'HINDALCO.BO')":52206
+  },
+  {
+    "('Date', '')":"2025-09-22",
+    "('Close', 'HINDALCO.BO')":746.200012207,
+    "('High', 'HINDALCO.BO')":752.5999755859,
+    "('Low', 'HINDALCO.BO')":742.299987793,
+    "('Open', 'HINDALCO.BO')":743.5,
+    "('Volume', 'HINDALCO.BO')":23908
+  },
+  {
+    "('Date', '')":"2025-09-23",
+    "('Close', 'HINDALCO.BO')":745.75,
+    "('High', 'HINDALCO.BO')":751.799987793,
+    "('Low', 'HINDALCO.BO')":739.25,
+    "('Open', 'HINDALCO.BO')":746.1500244141,
+    "('Volume', 'HINDALCO.BO')":49239
+  },
+  {
+    "('Date', '')":"2025-09-24",
+    "('Close', 'HINDALCO.BO')":740.8499755859,
+    "('High', 'HINDALCO.BO')":747.9000244141,
+    "('Low', 'HINDALCO.BO')":738.4000244141,
+    "('Open', 'HINDALCO.BO')":742.6500244141,
+    "('Volume', 'HINDALCO.BO')":42163
+  },
+  {
+    "('Date', '')":"2025-09-25",
+    "('Close', 'HINDALCO.BO')":745.700012207,
+    "('High', 'HINDALCO.BO')":756.0999755859,
+    "('Low', 'HINDALCO.BO')":741.4000244141,
+    "('Open', 'HINDALCO.BO')":742.0,
+    "('Volume', 'HINDALCO.BO')":72976
+  },
+  {
+    "('Date', '')":"2025-09-26",
+    "('Close', 'HINDALCO.BO')":743.700012207,
+    "('High', 'HINDALCO.BO')":749.25,
+    "('Low', 'HINDALCO.BO')":731.8499755859,
+    "('Open', 'HINDALCO.BO')":746.049987793,
+    "('Volume', 'HINDALCO.BO')":76027
+  },
+  {
+    "('Date', '')":"2025-09-29",
+    "('Close', 'HINDALCO.BO')":754.5,
+    "('High', 'HINDALCO.BO')":758.5,
+    "('Low', 'HINDALCO.BO')":744.0999755859,
+    "('Open', 'HINDALCO.BO')":744.0999755859,
+    "('Volume', 'HINDALCO.BO')":49995
+  },
+  {
+    "('Date', '')":"2025-09-30",
+    "('Close', 'HINDALCO.BO')":761.8499755859,
+    "('High', 'HINDALCO.BO')":769.0,
+    "('Low', 'HINDALCO.BO')":757.6500244141,
+    "('Open', 'HINDALCO.BO')":760.049987793,
+    "('Volume', 'HINDALCO.BO')":137260
+  },
+  {
+    "('Date', '')":"2025-10-01",
+    "('Close', 'HINDALCO.BO')":766.049987793,
+    "('High', 'HINDALCO.BO')":769.1500244141,
+    "('Low', 'HINDALCO.BO')":755.5999755859,
+    "('Open', 'HINDALCO.BO')":765.549987793,
+    "('Volume', 'HINDALCO.BO')":430725
+  },
+  {
+    "('Date', '')":"2025-10-03",
+    "('Close', 'HINDALCO.BO')":780.25,
+    "('High', 'HINDALCO.BO')":790.950012207,
+    "('Low', 'HINDALCO.BO')":764.0999755859,
+    "('Open', 'HINDALCO.BO')":768.799987793,
+    "('Volume', 'HINDALCO.BO')":274392
+  },
+  {
+    "('Date', '')":"2025-10-06",
+    "('Close', 'HINDALCO.BO')":776.4000244141,
+    "('High', 'HINDALCO.BO')":784.549987793,
+    "('Low', 'HINDALCO.BO')":774.5,
+    "('Open', 'HINDALCO.BO')":781.1500244141,
+    "('Volume', 'HINDALCO.BO')":167261
+  },
+  {
+    "('Date', '')":"2025-10-07",
+    "('Close', 'HINDALCO.BO')":767.5,
+    "('High', 'HINDALCO.BO')":780.700012207,
+    "('Low', 'HINDALCO.BO')":766.1500244141,
+    "('Open', 'HINDALCO.BO')":776.0,
+    "('Volume', 'HINDALCO.BO')":284665
+  },
+  {
+    "('Date', '')":"2025-10-08",
+    "('Close', 'HINDALCO.BO')":767.950012207,
+    "('High', 'HINDALCO.BO')":781.5,
+    "('Low', 'HINDALCO.BO')":767.0,
+    "('Open', 'HINDALCO.BO')":774.9000244141,
+    "('Volume', 'HINDALCO.BO')":192295
+  },
+  {
+    "('Date', '')":"2025-10-09",
+    "('Close', 'HINDALCO.BO')":773.799987793,
+    "('High', 'HINDALCO.BO')":779.8499755859,
+    "('Low', 'HINDALCO.BO')":768.8499755859,
+    "('Open', 'HINDALCO.BO')":769.5,
+    "('Volume', 'HINDALCO.BO')":206012
+  },
+  {
+    "('Date', '')":"2025-10-10",
+    "('Close', 'HINDALCO.BO')":773.799987793,
+    "('High', 'HINDALCO.BO')":775.450012207,
+    "('Low', 'HINDALCO.BO')":764.3499755859,
+    "('Open', 'HINDALCO.BO')":774.200012207,
+    "('Volume', 'HINDALCO.BO')":65565
+  },
+  {
+    "('Date', '')":"2025-10-13",
+    "('Close', 'HINDALCO.BO')":770.0,
+    "('High', 'HINDALCO.BO')":774.049987793,
+    "('Low', 'HINDALCO.BO')":766.950012207,
+    "('Open', 'HINDALCO.BO')":772.3499755859,
+    "('Volume', 'HINDALCO.BO')":343491
+  },
+  {
+    "('Date', '')":"2025-10-14",
+    "('Close', 'HINDALCO.BO')":759.4000244141,
+    "('High', 'HINDALCO.BO')":781.049987793,
+    "('Low', 'HINDALCO.BO')":754.5999755859,
+    "('Open', 'HINDALCO.BO')":775.0,
+    "('Volume', 'HINDALCO.BO')":82758
+  },
+  {
+    "('Date', '')":"2025-10-15",
+    "('Close', 'HINDALCO.BO')":764.25,
+    "('High', 'HINDALCO.BO')":768.299987793,
+    "('Low', 'HINDALCO.BO')":760.25,
+    "('Open', 'HINDALCO.BO')":763.299987793,
+    "('Volume', 'HINDALCO.BO')":283375
+  },
+  {
+    "('Date', '')":"2025-10-16",
+    "('Close', 'HINDALCO.BO')":780.0999755859,
+    "('High', 'HINDALCO.BO')":780.700012207,
+    "('Low', 'HINDALCO.BO')":763.6500244141,
+    "('Open', 'HINDALCO.BO')":765.0,
+    "('Volume', 'HINDALCO.BO')":532336
+  },
+  {
+    "('Date', '')":"2025-10-17",
+    "('Close', 'HINDALCO.BO')":772.3499755859,
+    "('High', 'HINDALCO.BO')":781.700012207,
+    "('Low', 'HINDALCO.BO')":766.0999755859,
+    "('Open', 'HINDALCO.BO')":781.700012207,
+    "('Volume', 'HINDALCO.BO')":195200
+  },
+  {
+    "('Date', '')":"2025-10-20",
+    "('Close', 'HINDALCO.BO')":786.700012207,
+    "('High', 'HINDALCO.BO')":789.450012207,
+    "('Low', 'HINDALCO.BO')":772.3499755859,
+    "('Open', 'HINDALCO.BO')":775.0,
+    "('Volume', 'HINDALCO.BO')":182594
+  },
+  {
+    "('Date', '')":"2025-10-21",
+    "('Close', 'HINDALCO.BO')":785.1500244141,
+    "('High', 'HINDALCO.BO')":790.5999755859,
+    "('Low', 'HINDALCO.BO')":782.450012207,
+    "('Open', 'HINDALCO.BO')":786.75,
+    "('Volume', 'HINDALCO.BO')":35487
+  },
+  {
+    "('Date', '')":"2025-10-23",
+    "('Close', 'HINDALCO.BO')":792.5,
+    "('High', 'HINDALCO.BO')":799.799987793,
+    "('Low', 'HINDALCO.BO')":784.0,
+    "('Open', 'HINDALCO.BO')":788.450012207,
+    "('Volume', 'HINDALCO.BO')":223342
+  },
+  {
+    "('Date', '')":"2025-10-24",
+    "('Close', 'HINDALCO.BO')":824.1500244141,
+    "('High', 'HINDALCO.BO')":826.799987793,
+    "('Low', 'HINDALCO.BO')":805.549987793,
+    "('Open', 'HINDALCO.BO')":805.549987793,
+    "('Volume', 'HINDALCO.BO')":878028
+  },
+  {
+    "('Date', '')":"2025-10-27",
+    "('Close', 'HINDALCO.BO')":840.799987793,
+    "('High', 'HINDALCO.BO')":845.0,
+    "('Low', 'HINDALCO.BO')":827.450012207,
+    "('Open', 'HINDALCO.BO')":832.0,
+    "('Volume', 'HINDALCO.BO')":934554
+  },
+  {
+    "('Date', '')":"2025-10-28",
+    "('Close', 'HINDALCO.BO')":849.200012207,
+    "('High', 'HINDALCO.BO')":859.549987793,
+    "('Low', 'HINDALCO.BO')":837.5999755859,
+    "('Open', 'HINDALCO.BO')":838.950012207,
+    "('Volume', 'HINDALCO.BO')":458265
+  },
+  {
+    "('Date', '')":"2025-10-29",
+    "('Close', 'HINDALCO.BO')":856.1500244141,
+    "('High', 'HINDALCO.BO')":858.4000244141,
+    "('Low', 'HINDALCO.BO')":850.0,
+    "('Open', 'HINDALCO.BO')":850.6500244141,
+    "('Volume', 'HINDALCO.BO')":510166
+  },
+  {
+    "('Date', '')":"2025-10-30",
+    "('Close', 'HINDALCO.BO')":861.6500244141,
+    "('High', 'HINDALCO.BO')":863.799987793,
+    "('Low', 'HINDALCO.BO')":848.0,
+    "('Open', 'HINDALCO.BO')":852.9000244141,
+    "('Volume', 'HINDALCO.BO')":162333
+  },
+  {
+    "('Date', '')":"2025-10-31",
+    "('Close', 'HINDALCO.BO')":847.700012207,
+    "('High', 'HINDALCO.BO')":859.4000244141,
+    "('Low', 'HINDALCO.BO')":845.700012207,
+    "('Open', 'HINDALCO.BO')":857.950012207,
+    "('Volume', 'HINDALCO.BO')":216464
+  },
+  {
+    "('Date', '')":"2025-11-03",
+    "('Close', 'HINDALCO.BO')":846.1500244141,
+    "('High', 'HINDALCO.BO')":856.0,
+    "('Low', 'HINDALCO.BO')":842.75,
+    "('Open', 'HINDALCO.BO')":847.700012207,
+    "('Volume', 'HINDALCO.BO')":130370
+  },
+  {
+    "('Date', '')":"2025-11-04",
+    "('Close', 'HINDALCO.BO')":830.950012207,
+    "('High', 'HINDALCO.BO')":846.4000244141,
+    "('Low', 'HINDALCO.BO')":829.3499755859,
+    "('Open', 'HINDALCO.BO')":843.9000244141,
+    "('Volume', 'HINDALCO.BO')":35079
+  },
+  {
+    "('Date', '')":"2025-11-06",
+    "('Close', 'HINDALCO.BO')":788.049987793,
+    "('High', 'HINDALCO.BO')":799.5,
+    "('Low', 'HINDALCO.BO')":770.4000244141,
+    "('Open', 'HINDALCO.BO')":799.5,
+    "('Volume', 'HINDALCO.BO')":682660
+  },
+  {
+    "('Date', '')":"2025-11-07",
+    "('Close', 'HINDALCO.BO')":790.4000244141,
+    "('High', 'HINDALCO.BO')":802.75,
+    "('Low', 'HINDALCO.BO')":784.1500244141,
+    "('Open', 'HINDALCO.BO')":788.8499755859,
+    "('Volume', 'HINDALCO.BO')":542790
+  },
+  {
+    "('Date', '')":"2025-11-10",
+    "('Close', 'HINDALCO.BO')":785.1500244141,
+    "('High', 'HINDALCO.BO')":799.700012207,
+    "('Low', 'HINDALCO.BO')":784.0,
+    "('Open', 'HINDALCO.BO')":793.25,
+    "('Volume', 'HINDALCO.BO')":421617
+  },
+  {
+    "('Date', '')":"2025-11-11",
+    "('Close', 'HINDALCO.BO')":793.8499755859,
+    "('High', 'HINDALCO.BO')":795.0,
+    "('Low', 'HINDALCO.BO')":778.299987793,
+    "('Open', 'HINDALCO.BO')":791.799987793,
+    "('Volume', 'HINDALCO.BO')":351479
+  },
+  {
+    "('Date', '')":"2025-11-12",
+    "('Close', 'HINDALCO.BO')":794.049987793,
+    "('High', 'HINDALCO.BO')":809.0,
+    "('Low', 'HINDALCO.BO')":793.0,
+    "('Open', 'HINDALCO.BO')":795.4000244141,
+    "('Volume', 'HINDALCO.BO')":530834
+  },
+  {
+    "('Date', '')":"2025-11-13",
+    "('Close', 'HINDALCO.BO')":812.1500244141,
+    "('High', 'HINDALCO.BO')":816.0999755859,
+    "('Low', 'HINDALCO.BO')":799.8499755859,
+    "('Open', 'HINDALCO.BO')":799.8499755859,
+    "('Volume', 'HINDALCO.BO')":210328
+  }
+]

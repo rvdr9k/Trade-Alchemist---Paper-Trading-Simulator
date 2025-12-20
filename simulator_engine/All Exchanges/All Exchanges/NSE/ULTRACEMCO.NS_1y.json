@@ -1,0 +1,1994 @@
+[
+  {
+    "('Date', '')":"2024-11-11",
+    "('Close', 'ULTRACEMCO.NS')":10901.349609375,
+    "('High', 'ULTRACEMCO.NS')":11039.9709278654,
+    "('Low', 'ULTRACEMCO.NS')":10827.4178513489,
+    "('Open', 'ULTRACEMCO.NS')":10945.618804101,
+    "('Volume', 'ULTRACEMCO.NS')":107472
+  },
+  {
+    "('Date', '')":"2024-11-12",
+    "('Close', 'ULTRACEMCO.NS')":10823.3935546875,
+    "('High', 'ULTRACEMCO.NS')":11004.9924504017,
+    "('Low', 'ULTRACEMCO.NS')":10771.7210918851,
+    "('Open', 'ULTRACEMCO.NS')":10901.399099495,
+    "('Volume', 'ULTRACEMCO.NS')":166347
+  },
+  {
+    "('Date', '')":"2024-11-13",
+    "('Close', 'ULTRACEMCO.NS')":10714.28515625,
+    "('High', 'ULTRACEMCO.NS')":10805.0098807415,
+    "('Low', 'ULTRACEMCO.NS')":10682.2877838756,
+    "('Open', 'ULTRACEMCO.NS')":10735.2518631775,
+    "('Volume', 'ULTRACEMCO.NS')":216900
+  },
+  {
+    "('Date', '')":"2024-11-14",
+    "('Close', 'ULTRACEMCO.NS')":10660.923828125,
+    "('High', 'ULTRACEMCO.NS')":10764.26875781,
+    "('Low', 'ULTRACEMCO.NS')":10476.0953961885,
+    "('Open', 'ULTRACEMCO.NS')":10658.4395750076,
+    "('Volume', 'ULTRACEMCO.NS')":297442
+  },
+  {
+    "('Date', '')":"2024-11-18",
+    "('Close', 'ULTRACEMCO.NS')":10563.9384765625,
+    "('High', 'ULTRACEMCO.NS')":10699.0313783903,
+    "('Low', 'ULTRACEMCO.NS')":10513.7565659562,
+    "('Open', 'ULTRACEMCO.NS')":10565.1301416736,
+    "('Volume', 'ULTRACEMCO.NS')":424186
+  },
+  {
+    "('Date', '')":"2024-11-19",
+    "('Close', 'ULTRACEMCO.NS')":10701.71484375,
+    "('High', 'ULTRACEMCO.NS')":10801.532325978,
+    "('Low', 'ULTRACEMCO.NS')":10590.7686841205,
+    "('Open', 'ULTRACEMCO.NS')":10616.753388932,
+    "('Volume', 'ULTRACEMCO.NS')":220357
+  },
+  {
+    "('Date', '')":"2024-11-21",
+    "('Close', 'ULTRACEMCO.NS')":10885.84765625,
+    "('High', 'ULTRACEMCO.NS')":10936.5264195617,
+    "('Low', 'ULTRACEMCO.NS')":10488.5166030384,
+    "('Open', 'ULTRACEMCO.NS')":10488.5166030384,
+    "('Volume', 'ULTRACEMCO.NS')":256924
+  },
+  {
+    "('Date', '')":"2024-11-22",
+    "('Close', 'ULTRACEMCO.NS')":11303.6494140625,
+    "('High', 'ULTRACEMCO.NS')":11338.0320588872,
+    "('Low', 'ULTRACEMCO.NS')":10862.7944453653,
+    "('Open', 'ULTRACEMCO.NS')":10929.7198350799,
+    "('Volume', 'ULTRACEMCO.NS')":328426
+  },
+  {
+    "('Date', '')":"2024-11-25",
+    "('Close', 'ULTRACEMCO.NS')":11385.2822265625,
+    "('High', 'ULTRACEMCO.NS')":11616.3672509759,
+    "('Low', 'ULTRACEMCO.NS')":11365.2092678549,
+    "('Open', 'ULTRACEMCO.NS')":11377.8789583981,
+    "('Volume', 'ULTRACEMCO.NS')":465057
+  },
+  {
+    "('Date', '')":"2024-11-26",
+    "('Close', 'ULTRACEMCO.NS')":11051.0009765625,
+    "('High', 'ULTRACEMCO.NS')":11424.8810679617,
+    "('Low', 'ULTRACEMCO.NS')":11036.0459669888,
+    "('Open', 'ULTRACEMCO.NS')":11385.2824617282,
+    "('Volume', 'ULTRACEMCO.NS')":243711
+  },
+  {
+    "('Date', '')":"2024-11-27",
+    "('Close', 'ULTRACEMCO.NS')":11069.732421875,
+    "('High', 'ULTRACEMCO.NS')":11118.4732718105,
+    "('Low', 'ULTRACEMCO.NS')":10890.9651872518,
+    "('Open', 'ULTRACEMCO.NS')":10951.1830920022,
+    "('Volume', 'ULTRACEMCO.NS')":330284
+  },
+  {
+    "('Date', '')":"2024-11-28",
+    "('Close', 'ULTRACEMCO.NS')":10928.52734375,
+    "('High', 'ULTRACEMCO.NS')":11119.5169168691,
+    "('Low', 'ULTRACEMCO.NS')":10888.5803596715,
+    "('Open', 'ULTRACEMCO.NS')":11103.6176969701,
+    "('Volume', 'ULTRACEMCO.NS')":326140
+  },
+  {
+    "('Date', '')":"2024-11-29",
+    "('Close', 'ULTRACEMCO.NS')":11131.5908203125,
+    "('High', 'ULTRACEMCO.NS')":11162.2461156401,
+    "('Low', 'ULTRACEMCO.NS')":10846.2491188651,
+    "('Open', 'ULTRACEMCO.NS')":10846.2491188651,
+    "('Volume', 'ULTRACEMCO.NS')":367574
+  },
+  {
+    "('Date', '')":"2024-12-02",
+    "('Close', 'ULTRACEMCO.NS')":11575.177734375,
+    "('High', 'ULTRACEMCO.NS')":11705.7999491118,
+    "('Low', 'ULTRACEMCO.NS')":11136.1112543294,
+    "('Open', 'ULTRACEMCO.NS')":11136.1112543294,
+    "('Volume', 'ULTRACEMCO.NS')":633694
+  },
+  {
+    "('Date', '')":"2024-12-03",
+    "('Close', 'ULTRACEMCO.NS')":11777.6943359375,
+    "('High', 'ULTRACEMCO.NS')":11859.8241304178,
+    "('Low', 'ULTRACEMCO.NS')":11551.727259428,
+    "('Open', 'ULTRACEMCO.NS')":11601.2133863926,
+    "('Volume', 'ULTRACEMCO.NS')":501811
+  },
+  {
+    "('Date', '')":"2024-12-04",
+    "('Close', 'ULTRACEMCO.NS')":11692.68359375,
+    "('High', 'ULTRACEMCO.NS')":11845.2662255526,
+    "('Low', 'ULTRACEMCO.NS')":11674.051695441,
+    "('Open', 'ULTRACEMCO.NS')":11791.4578854831,
+    "('Volume', 'ULTRACEMCO.NS')":306770
+  },
+  {
+    "('Date', '')":"2024-12-05",
+    "('Close', 'ULTRACEMCO.NS')":11857.6376953125,
+    "('High', 'ULTRACEMCO.NS')":11926.3525226742,
+    "('Low', 'ULTRACEMCO.NS')":11649.0099305948,
+    "('Open', 'ULTRACEMCO.NS')":11671.0208007292,
+    "('Volume', 'ULTRACEMCO.NS')":436371
+  },
+  {
+    "('Date', '')":"2024-12-06",
+    "('Close', 'ULTRACEMCO.NS')":11773.869140625,
+    "('High', 'ULTRACEMCO.NS')":11881.0394311807,
+    "('Low', 'ULTRACEMCO.NS')":11743.5612528089,
+    "('Open', 'ULTRACEMCO.NS')":11863.7991028334,
+    "('Volume', 'ULTRACEMCO.NS')":193324
+  },
+  {
+    "('Date', '')":"2024-12-09",
+    "('Close', 'ULTRACEMCO.NS')":11740.380859375,
+    "('High', 'ULTRACEMCO.NS')":11815.1073844337,
+    "('Low', 'ULTRACEMCO.NS')":11644.1907763493,
+    "('Open', 'ULTRACEMCO.NS')":11783.7068143688,
+    "('Volume', 'ULTRACEMCO.NS')":268177
+  },
+  {
+    "('Date', '')":"2024-12-10",
+    "('Close', 'ULTRACEMCO.NS')":11671.8154296875,
+    "('High', 'ULTRACEMCO.NS')":11732.7291195243,
+    "('Low', 'ULTRACEMCO.NS')":11621.3356025122,
+    "('Open', 'ULTRACEMCO.NS')":11671.0206628051,
+    "('Volume', 'ULTRACEMCO.NS')":232758
+  },
+  {
+    "('Date', '')":"2024-12-11",
+    "('Close', 'ULTRACEMCO.NS')":11823.5537109375,
+    "('High', 'ULTRACEMCO.NS')":11989.0049604959,
+    "('Low', 'ULTRACEMCO.NS')":11740.8775771359,
+    "('Open', 'ULTRACEMCO.NS')":11776.3529040064,
+    "('Volume', 'ULTRACEMCO.NS')":527029
+  },
+  {
+    "('Date', '')":"2024-12-12",
+    "('Close', 'ULTRACEMCO.NS')":11782.265625,
+    "('High', 'ULTRACEMCO.NS')":11868.7671202865,
+    "('Low', 'ULTRACEMCO.NS')":11716.6318548915,
+    "('Open', 'ULTRACEMCO.NS')":11868.7671202865,
+    "('Volume', 'ULTRACEMCO.NS')":247809
+  },
+  {
+    "('Date', '')":"2024-12-13",
+    "('Close', 'ULTRACEMCO.NS')":12007.7861328125,
+    "('High', 'ULTRACEMCO.NS')":12042.1678056353,
+    "('Low', 'ULTRACEMCO.NS')":11656.1148954163,
+    "('Open', 'ULTRACEMCO.NS')":11725.6739783386,
+    "('Volume', 'ULTRACEMCO.NS')":408880
+  },
+  {
+    "('Date', '')":"2024-12-16",
+    "('Close', 'ULTRACEMCO.NS')":11867.2763671875,
+    "('High', 'ULTRACEMCO.NS')":12068.8482638113,
+    "('Low', 'ULTRACEMCO.NS')":11796.2267326676,
+    "('Open', 'ULTRACEMCO.NS')":11974.0992442629,
+    "('Volume', 'ULTRACEMCO.NS')":214946
+  },
+  {
+    "('Date', '')":"2024-12-17",
+    "('Close', 'ULTRACEMCO.NS')":11700.7822265625,
+    "('High', 'ULTRACEMCO.NS')":11898.7277011657,
+    "('Low', 'ULTRACEMCO.NS')":11609.6101407804,
+    "('Open', 'ULTRACEMCO.NS')":11855.5016986423,
+    "('Volume', 'ULTRACEMCO.NS')":244639
+  },
+  {
+    "('Date', '')":"2024-12-18",
+    "('Close', 'ULTRACEMCO.NS')":11689.8515625,
+    "('High', 'ULTRACEMCO.NS')":11780.3278637356,
+    "('Low', 'ULTRACEMCO.NS')":11626.3041759347,
+    "('Open', 'ULTRACEMCO.NS')":11700.8317668061,
+    "('Volume', 'ULTRACEMCO.NS')":222900
+  },
+  {
+    "('Date', '')":"2024-12-19",
+    "('Close', 'ULTRACEMCO.NS')":11597.2880859375,
+    "('High', 'ULTRACEMCO.NS')":11685.9264294678,
+    "('Low', 'ULTRACEMCO.NS')":11499.1600897717,
+    "('Open', 'ULTRACEMCO.NS')":11564.6948797743,
+    "('Volume', 'ULTRACEMCO.NS')":162249
+  },
+  {
+    "('Date', '')":"2024-12-20",
+    "('Close', 'ULTRACEMCO.NS')":11350.849609375,
+    "('High', 'ULTRACEMCO.NS')":11674.0014261841,
+    "('Low', 'ULTRACEMCO.NS')":11325.8586070228,
+    "('Open', 'ULTRACEMCO.NS')":11591.3747851606,
+    "('Volume', 'ULTRACEMCO.NS')":299802
+  },
+  {
+    "('Date', '')":"2024-12-23",
+    "('Close', 'ULTRACEMCO.NS')":11400.3359375,
+    "('High', 'ULTRACEMCO.NS')":11509.4945959784,
+    "('Low', 'ULTRACEMCO.NS')":11303.3510890673,
+    "('Open', 'ULTRACEMCO.NS')":11447.4377622906,
+    "('Volume', 'ULTRACEMCO.NS')":149350
+  },
+  {
+    "('Date', '')":"2024-12-24",
+    "('Close', 'ULTRACEMCO.NS')":11318.6044921875,
+    "('High', 'ULTRACEMCO.NS')":11514.0657195098,
+    "('Low', 'ULTRACEMCO.NS')":11288.4460478211,
+    "('Open', 'ULTRACEMCO.NS')":11398.7468850842,
+    "('Volume', 'ULTRACEMCO.NS')":108000
+  },
+  {
+    "('Date', '')":"2024-12-26",
+    "('Close', 'ULTRACEMCO.NS')":11388.4619140625,
+    "('High', 'ULTRACEMCO.NS')":11724.6803230245,
+    "('Low', 'ULTRACEMCO.NS')":11263.1061209696,
+    "('Open', 'ULTRACEMCO.NS')":11318.6039441824,
+    "('Volume', 'ULTRACEMCO.NS')":144283
+  },
+  {
+    "('Date', '')":"2024-12-27",
+    "('Close', 'ULTRACEMCO.NS')":11334.7021484375,
+    "('High', 'ULTRACEMCO.NS')":11482.2172846142,
+    "('Low', 'ULTRACEMCO.NS')":11313.2880818115,
+    "('Open', 'ULTRACEMCO.NS')":11419.2162408162,
+    "('Volume', 'ULTRACEMCO.NS')":118410
+  },
+  {
+    "('Date', '')":"2024-12-30",
+    "('Close', 'ULTRACEMCO.NS')":11217.2470703125,
+    "('High', 'ULTRACEMCO.NS')":11435.1665298543,
+    "('Low', 'ULTRACEMCO.NS')":11168.9040869492,
+    "('Open', 'ULTRACEMCO.NS')":11347.5218858889,
+    "('Volume', 'ULTRACEMCO.NS')":164726
+  },
+  {
+    "('Date', '')":"2024-12-31",
+    "('Close', 'ULTRACEMCO.NS')":11354.3779296875,
+    "('High', 'ULTRACEMCO.NS')":11392.7848712996,
+    "('Low', 'ULTRACEMCO.NS')":11123.5413225833,
+    "('Open', 'ULTRACEMCO.NS')":11199.0131268684,
+    "('Volume', 'ULTRACEMCO.NS')":241737
+  },
+  {
+    "('Date', '')":"2025-01-01",
+    "('Close', 'ULTRACEMCO.NS')":11374.8974609375,
+    "('High', 'ULTRACEMCO.NS')":11448.3323666493,
+    "('Low', 'ULTRACEMCO.NS')":11233.7918927141,
+    "('Open', 'ULTRACEMCO.NS')":11339.1242182893,
+    "('Volume', 'ULTRACEMCO.NS')":107951
+  },
+  {
+    "('Date', '')":"2025-01-02",
+    "('Close', 'ULTRACEMCO.NS')":11723.388671875,
+    "('High', 'ULTRACEMCO.NS')":11754.6407682456,
+    "('Low', 'ULTRACEMCO.NS')":11382.8965724519,
+    "('Open', 'ULTRACEMCO.NS')":11427.5636348285,
+    "('Volume', 'ULTRACEMCO.NS')":267609
+  },
+  {
+    "('Date', '')":"2025-01-03",
+    "('Close', 'ULTRACEMCO.NS')":11711.7626953125,
+    "('High', 'ULTRACEMCO.NS')":11786.9365815171,
+    "('Low', 'ULTRACEMCO.NS')":11639.2225055316,
+    "('Open', 'ULTRACEMCO.NS')":11724.6808113009,
+    "('Volume', 'ULTRACEMCO.NS')":237651
+  },
+  {
+    "('Date', '')":"2025-01-06",
+    "('Close', 'ULTRACEMCO.NS')":11431.140625,
+    "('High', 'ULTRACEMCO.NS')":11780.0791861515,
+    "('Low', 'ULTRACEMCO.NS')":11378.0775636828,
+    "('Open', 'ULTRACEMCO.NS')":11727.6119573839,
+    "('Volume', 'ULTRACEMCO.NS')":139820
+  },
+  {
+    "('Date', '')":"2025-01-07",
+    "('Close', 'ULTRACEMCO.NS')":11545.3671875,
+    "('High', 'ULTRACEMCO.NS')":11561.8632101016,
+    "('Low', 'ULTRACEMCO.NS')":11412.8080261727,
+    "('Open', 'ULTRACEMCO.NS')":11442.420128631,
+    "('Volume', 'ULTRACEMCO.NS')":197212
+  },
+  {
+    "('Date', '')":"2025-01-08",
+    "('Close', 'ULTRACEMCO.NS')":11331.7216796875,
+    "('High', 'ULTRACEMCO.NS')":11556.696030541,
+    "('Low', 'ULTRACEMCO.NS')":11298.3831968784,
+    "('Open', 'ULTRACEMCO.NS')":11545.3674481421,
+    "('Volume', 'ULTRACEMCO.NS')":159583
+  },
+  {
+    "('Date', '')":"2025-01-09",
+    "('Close', 'ULTRACEMCO.NS')":11188.876953125,
+    "('High', 'ULTRACEMCO.NS')":11360.4398592264,
+    "('Low', 'ULTRACEMCO.NS')":11112.5608924865,
+    "('Open', 'ULTRACEMCO.NS')":11331.7215054182,
+    "('Volume', 'ULTRACEMCO.NS')":196555
+  },
+  {
+    "('Date', '')":"2025-01-10",
+    "('Close', 'ULTRACEMCO.NS')":10796.7626953125,
+    "('High', 'ULTRACEMCO.NS')":11216.1541013521,
+    "('Low', 'ULTRACEMCO.NS')":10769.2864684005,
+    "('Open', 'ULTRACEMCO.NS')":11132.6831988281,
+    "('Volume', 'ULTRACEMCO.NS')":228618
+  },
+  {
+    "('Date', '')":"2025-01-13",
+    "('Close', 'ULTRACEMCO.NS')":10548.2880859375,
+    "('High', 'ULTRACEMCO.NS')":10761.7844087819,
+    "('Low', 'ULTRACEMCO.NS')":10526.6750840085,
+    "('Open', 'ULTRACEMCO.NS')":10632.603247827,
+    "('Volume', 'ULTRACEMCO.NS')":225902
+  },
+  {
+    "('Date', '')":"2025-01-14",
+    "('Close', 'ULTRACEMCO.NS')":10417.71484375,
+    "('High', 'ULTRACEMCO.NS')":10665.3948651932,
+    "('Low', 'ULTRACEMCO.NS')":10396.1018428818,
+    "('Open', 'ULTRACEMCO.NS')":10503.4215713306,
+    "('Volume', 'ULTRACEMCO.NS')":344404
+  },
+  {
+    "('Date', '')":"2025-01-15",
+    "('Close', 'ULTRACEMCO.NS')":10455.376953125,
+    "('High', 'ULTRACEMCO.NS')":10576.3600780896,
+    "('Low', 'ULTRACEMCO.NS')":10400.8223673378,
+    "('Open', 'ULTRACEMCO.NS')":10473.6109825629,
+    "('Volume', 'ULTRACEMCO.NS')":371459
+  },
+  {
+    "('Date', '')":"2025-01-16",
+    "('Close', 'ULTRACEMCO.NS')":10569.205078125,
+    "('High', 'ULTRACEMCO.NS')":10739.5248844686,
+    "('Low', 'ULTRACEMCO.NS')":10483.5478391391,
+    "('Open', 'ULTRACEMCO.NS')":10523.2958878183,
+    "('Volume', 'ULTRACEMCO.NS')":375910
+  },
+  {
+    "('Date', '')":"2025-01-17",
+    "('Close', 'ULTRACEMCO.NS')":10513.359375,
+    "('High', 'ULTRACEMCO.NS')":10656.4028660607,
+    "('Low', 'ULTRACEMCO.NS')":10433.9622558276,
+    "('Open', 'ULTRACEMCO.NS')":10569.2055801291,
+    "('Volume', 'ULTRACEMCO.NS')":297759
+  },
+  {
+    "('Date', '')":"2025-01-20",
+    "('Close', 'ULTRACEMCO.NS')":10557.529296875,
+    "('High', 'ULTRACEMCO.NS')":10585.700338767,
+    "('Low', 'ULTRACEMCO.NS')":10418.2121894267,
+    "('Open', 'ULTRACEMCO.NS')":10520.7128601426,
+    "('Volume', 'ULTRACEMCO.NS')":332061
+  },
+  {
+    "('Date', '')":"2025-01-21",
+    "('Close', 'ULTRACEMCO.NS')":10600.60546875,
+    "('High', 'ULTRACEMCO.NS')":10898.9642540914,
+    "('Low', 'ULTRACEMCO.NS')":10575.0176628464,
+    "('Open', 'ULTRACEMCO.NS')":10610.2445644736,
+    "('Volume', 'ULTRACEMCO.NS')":593842
+  },
+  {
+    "('Date', '')":"2025-01-22",
+    "('Close', 'ULTRACEMCO.NS')":10626.392578125,
+    "('High', 'ULTRACEMCO.NS')":10729.7869975089,
+    "('Low', 'ULTRACEMCO.NS')":10539.9405707097,
+    "('Open', 'ULTRACEMCO.NS')":10632.6032108416,
+    "('Volume', 'ULTRACEMCO.NS')":249552
+  },
+  {
+    "('Date', '')":"2025-01-23",
+    "('Close', 'ULTRACEMCO.NS')":11348.962890625,
+    "('High', 'ULTRACEMCO.NS')":11498.5644183637,
+    "('Low', 'ULTRACEMCO.NS')":10622.6167744899,
+    "('Open', 'ULTRACEMCO.NS')":10622.6662654696,
+    "('Volume', 'ULTRACEMCO.NS')":1510866
+  },
+  {
+    "('Date', '')":"2025-01-24",
+    "('Close', 'ULTRACEMCO.NS')":11214.7626953125,
+    "('High', 'ULTRACEMCO.NS')":11536.573422527,
+    "('Low', 'ULTRACEMCO.NS')":11151.7131282783,
+    "('Open', 'ULTRACEMCO.NS')":11180.1325954359,
+    "('Volume', 'ULTRACEMCO.NS')":545939
+  },
+  {
+    "('Date', '')":"2025-01-27",
+    "('Close', 'ULTRACEMCO.NS')":11168.705078125,
+    "('High', 'ULTRACEMCO.NS')":11288.4460774501,
+    "('Low', 'ULTRACEMCO.NS')":11079.7688172155,
+    "('Open', 'ULTRACEMCO.NS')":11189.0759535288,
+    "('Volume', 'ULTRACEMCO.NS')":414994
+  },
+  {
+    "('Date', '')":"2025-01-28",
+    "('Close', 'ULTRACEMCO.NS')":11225.1962890625,
+    "('High', 'ULTRACEMCO.NS')":11339.7203536542,
+    "('Low', 'ULTRACEMCO.NS')":10996.2976032253,
+    "('Open', 'ULTRACEMCO.NS')":11144.3590836953,
+    "('Volume', 'ULTRACEMCO.NS')":436707
+  },
+  {
+    "('Date', '')":"2025-01-29",
+    "('Close', 'ULTRACEMCO.NS')":11472.130859375,
+    "('High', 'ULTRACEMCO.NS')":11502.0418476081,
+    "('Low', 'ULTRACEMCO.NS')":11189.9197198365,
+    "('Open', 'ULTRACEMCO.NS')":11225.1961122788,
+    "('Volume', 'ULTRACEMCO.NS')":377755
+  },
+  {
+    "('Date', '')":"2025-01-30",
+    "('Close', 'ULTRACEMCO.NS')":11407.09375,
+    "('High', 'ULTRACEMCO.NS')":11539.3549893125,
+    "('Low', 'ULTRACEMCO.NS')":11377.8785470509,
+    "('Open', 'ULTRACEMCO.NS')":11472.130716108,
+    "('Volume', 'ULTRACEMCO.NS')":274820
+  },
+  {
+    "('Date', '')":"2025-01-31",
+    "('Close', 'ULTRACEMCO.NS')":11415.09375,
+    "('High', 'ULTRACEMCO.NS')":11525.9409316332,
+    "('Low', 'ULTRACEMCO.NS')":11320.3942138655,
+    "('Open', 'ULTRACEMCO.NS')":11416.286385596,
+    "('Volume', 'ULTRACEMCO.NS')":361656
+  },
+  {
+    "('Date', '')":"2025-02-01",
+    "('Close', 'ULTRACEMCO.NS')":11188.2314453125,
+    "('High', 'ULTRACEMCO.NS')":11712.7562445303,
+    "('Low', 'ULTRACEMCO.NS')":10730.2341662424,
+    "('Open', 'ULTRACEMCO.NS')":11472.1815680642,
+    "('Volume', 'ULTRACEMCO.NS')":513602
+  },
+  {
+    "('Date', '')":"2025-02-03",
+    "('Close', 'ULTRACEMCO.NS')":11104.263671875,
+    "('High', 'ULTRACEMCO.NS')":11211.7318760451,
+    "('Low', 'ULTRACEMCO.NS')":10882.4198755961,
+    "('Open', 'ULTRACEMCO.NS')":11050.2059376071,
+    "('Volume', 'ULTRACEMCO.NS')":450593
+  },
+  {
+    "('Date', '')":"2025-02-04",
+    "('Close', 'ULTRACEMCO.NS')":11446.59375,
+    "('High', 'ULTRACEMCO.NS')":11475.112198569,
+    "('Low', 'ULTRACEMCO.NS')":11042.1573551039,
+    "('Open', 'ULTRACEMCO.NS')":11129.5526007186,
+    "('Volume', 'ULTRACEMCO.NS')":314752
+  },
+  {
+    "('Date', '')":"2025-02-05",
+    "('Close', 'ULTRACEMCO.NS')":11512.724609375,
+    "('High', 'ULTRACEMCO.NS')":11559.5770404274,
+    "('Low', 'ULTRACEMCO.NS')":11360.9862364848,
+    "('Open', 'ULTRACEMCO.NS')":11446.5435247797,
+    "('Volume', 'ULTRACEMCO.NS')":236897
+  },
+  {
+    "('Date', '')":"2025-02-06",
+    "('Close', 'ULTRACEMCO.NS')":11405.056640625,
+    "('High', 'ULTRACEMCO.NS')":11546.3611522975,
+    "('Low', 'ULTRACEMCO.NS')":11256.3498309775,
+    "('Open', 'ULTRACEMCO.NS')":11504.2782925721,
+    "('Volume', 'ULTRACEMCO.NS')":308664
+  },
+  {
+    "('Date', '')":"2025-02-07",
+    "('Close', 'ULTRACEMCO.NS')":11567.2783203125,
+    "('High', 'ULTRACEMCO.NS')":11659.0967034827,
+    "('Low', 'ULTRACEMCO.NS')":11402.7712733429,
+    "('Open', 'ULTRACEMCO.NS')":11428.6569966838,
+    "('Volume', 'ULTRACEMCO.NS')":310549
+  },
+  {
+    "('Date', '')":"2025-02-10",
+    "('Close', 'ULTRACEMCO.NS')":11459.66015625,
+    "('High', 'ULTRACEMCO.NS')":11540.5478221056,
+    "('Low', 'ULTRACEMCO.NS')":11417.6267895665,
+    "('Open', 'ULTRACEMCO.NS')":11447.4378255706,
+    "('Volume', 'ULTRACEMCO.NS')":262455
+  },
+  {
+    "('Date', '')":"2025-02-11",
+    "('Close', 'ULTRACEMCO.NS')":11229.0224609375,
+    "('High', 'ULTRACEMCO.NS')":11443.0651165343,
+    "('Low', 'ULTRACEMCO.NS')":11169.4498800923,
+    "('Open', 'ULTRACEMCO.NS')":11424.5826624338,
+    "('Volume', 'ULTRACEMCO.NS')":301338
+  },
+  {
+    "('Date', '')":"2025-02-12",
+    "('Close', 'ULTRACEMCO.NS')":11406.19921875,
+    "('High', 'ULTRACEMCO.NS')":11525.9402132928,
+    "('Low', 'ULTRACEMCO.NS')":11004.8429160972,
+    "('Open', 'ULTRACEMCO.NS')":11228.8235546348,
+    "('Volume', 'ULTRACEMCO.NS')":347198
+  },
+  {
+    "('Date', '')":"2025-02-13",
+    "('Close', 'ULTRACEMCO.NS')":11473.7216796875,
+    "('High', 'ULTRACEMCO.NS')":11576.5202652828,
+    "('Low', 'ULTRACEMCO.NS')":11350.2543027373,
+    "('Open', 'ULTRACEMCO.NS')":11427.5640637997,
+    "('Volume', 'ULTRACEMCO.NS')":336128
+  },
+  {
+    "('Date', '')":"2025-02-14",
+    "('Close', 'ULTRACEMCO.NS')":11192.9013671875,
+    "('High', 'ULTRACEMCO.NS')":11516.0037147845,
+    "('Low', 'ULTRACEMCO.NS')":11111.5673085443,
+    "('Open', 'ULTRACEMCO.NS')":11516.0037147845,
+    "('Volume', 'ULTRACEMCO.NS')":279199
+  },
+  {
+    "('Date', '')":"2025-02-17",
+    "('Close', 'ULTRACEMCO.NS')":11417.7255859375,
+    "('High', 'ULTRACEMCO.NS')":11437.4016457094,
+    "('Low', 'ULTRACEMCO.NS')":10973.8400433806,
+    "('Open', 'ULTRACEMCO.NS')":11148.3335831238,
+    "('Volume', 'ULTRACEMCO.NS')":166053
+  },
+  {
+    "('Date', '')":"2025-02-18",
+    "('Close', 'ULTRACEMCO.NS')":11237.66796875,
+    "('High', 'ULTRACEMCO.NS')":11388.4116655328,
+    "('Low', 'ULTRACEMCO.NS')":11180.1322806964,
+    "('Open', 'ULTRACEMCO.NS')":11377.8788209024,
+    "('Volume', 'ULTRACEMCO.NS')":268795
+  },
+  {
+    "('Date', '')":"2025-02-19",
+    "('Close', 'ULTRACEMCO.NS')":11220.4267578125,
+    "('High', 'ULTRACEMCO.NS')":11387.8159215266,
+    "('Low', 'ULTRACEMCO.NS')":11160.2583433391,
+    "('Open', 'ULTRACEMCO.NS')":11218.8867150118,
+    "('Volume', 'ULTRACEMCO.NS')":157580
+  },
+  {
+    "('Date', '')":"2025-02-20",
+    "('Close', 'ULTRACEMCO.NS')":11216.501953125,
+    "('High', 'ULTRACEMCO.NS')":11258.6352747095,
+    "('Low', 'ULTRACEMCO.NS')":11174.3696019519,
+    "('Open', 'ULTRACEMCO.NS')":11219.9799075347,
+    "('Volume', 'ULTRACEMCO.NS')":142187
+  },
+  {
+    "('Date', '')":"2025-02-21",
+    "('Close', 'ULTRACEMCO.NS')":11086.97265625,
+    "('High', 'ULTRACEMCO.NS')":11218.8864898665,
+    "('Low', 'ULTRACEMCO.NS')":10920.7761314112,
+    "('Open', 'ULTRACEMCO.NS')":11194.0439599952,
+    "('Volume', 'ULTRACEMCO.NS')":320240
+  },
+  {
+    "('Date', '')":"2025-02-24",
+    "('Close', 'ULTRACEMCO.NS')":10973.0947265625,
+    "('High', 'ULTRACEMCO.NS')":11099.6421837064,
+    "('Low', 'ULTRACEMCO.NS')":10905.9199445289,
+    "('Open', 'ULTRACEMCO.NS')":10939.308886433,
+    "('Volume', 'ULTRACEMCO.NS')":175294
+  },
+  {
+    "('Date', '')":"2025-02-25",
+    "('Close', 'ULTRACEMCO.NS')":10895.08984375,
+    "('High', 'ULTRACEMCO.NS')":10984.6219373509,
+    "('Low', 'ULTRACEMCO.NS')":10772.7151478228,
+    "('Open', 'ULTRACEMCO.NS')":10973.0953911261,
+    "('Volume', 'ULTRACEMCO.NS')":296499
+  },
+  {
+    "('Date', '')":"2025-02-27",
+    "('Close', 'ULTRACEMCO.NS')":10381.8427734375,
+    "('High', 'ULTRACEMCO.NS')":10731.9730045463,
+    "('Low', 'ULTRACEMCO.NS')":10199.7470277817,
+    "('Open', 'ULTRACEMCO.NS')":10731.9730045463,
+    "('Volume', 'ULTRACEMCO.NS')":1722295
+  },
+  {
+    "('Date', '')":"2025-02-28",
+    "('Close', 'ULTRACEMCO.NS')":10064.6533203125,
+    "('High', 'ULTRACEMCO.NS')":10423.9258024826,
+    "('Low', 'ULTRACEMCO.NS')":9984.5604196977,
+    "('Open', 'ULTRACEMCO.NS')":10423.9258024826,
+    "('Volume', 'ULTRACEMCO.NS')":1230856
+  },
+  {
+    "('Date', '')":"2025-03-03",
+    "('Close', 'ULTRACEMCO.NS')":10275.6650390625,
+    "('High', 'ULTRACEMCO.NS')":10554.8950725719,
+    "('Low', 'ULTRACEMCO.NS')":10218.3787478865,
+    "('Open', 'ULTRACEMCO.NS')":10254.2509725678,
+    "('Volume', 'ULTRACEMCO.NS')":835344
+  },
+  {
+    "('Date', '')":"2025-03-04",
+    "('Close', 'ULTRACEMCO.NS')":10304.7802734375,
+    "('High', 'ULTRACEMCO.NS')":10388.946957914,
+    "('Low', 'ULTRACEMCO.NS')":10175.5001373955,
+    "('Open', 'ULTRACEMCO.NS')":10185.4371492484,
+    "('Volume', 'ULTRACEMCO.NS')":352922
+  },
+  {
+    "('Date', '')":"2025-03-05",
+    "('Close', 'ULTRACEMCO.NS')":10398.2880859375,
+    "('High', 'ULTRACEMCO.NS')":10440.6193680577,
+    "('Low', 'ULTRACEMCO.NS')":10230.4020774281,
+    "('Open', 'ULTRACEMCO.NS')":10322.4688799559,
+    "('Volume', 'ULTRACEMCO.NS')":310832
+  },
+  {
+    "('Date', '')":"2025-03-06",
+    "('Close', 'ULTRACEMCO.NS')":10427.4033203125,
+    "('High', 'ULTRACEMCO.NS')":10473.6104251292,
+    "('Low', 'ULTRACEMCO.NS')":10252.2139965627,
+    "('Open', 'ULTRACEMCO.NS')":10473.4114908112,
+    "('Volume', 'ULTRACEMCO.NS')":365920
+  },
+  {
+    "('Date', '')":"2025-03-07",
+    "('Close', 'ULTRACEMCO.NS')":10515.744140625,
+    "('High', 'ULTRACEMCO.NS')":10542.7720373821,
+    "('Low', 'ULTRACEMCO.NS')":10380.8986914769,
+    "('Open', 'ULTRACEMCO.NS')":10434.8564734453,
+    "('Volume', 'ULTRACEMCO.NS')":302339
+  },
+  {
+    "('Date', '')":"2025-03-10",
+    "('Close', 'ULTRACEMCO.NS')":10453.8359375,
+    "('High', 'ULTRACEMCO.NS')":10578.5454420552,
+    "('Low', 'ULTRACEMCO.NS')":10411.0078025862,
+    "('Open', 'ULTRACEMCO.NS')":10522.3023405159,
+    "('Volume', 'ULTRACEMCO.NS')":165649
+  },
+  {
+    "('Date', '')":"2025-03-11",
+    "('Close', 'ULTRACEMCO.NS')":10373.4951171875,
+    "('High', 'ULTRACEMCO.NS')":10442.3584153696,
+    "('Low', 'ULTRACEMCO.NS')":10291.0179186602,
+    "('Open', 'ULTRACEMCO.NS')":10345.4230586526,
+    "('Volume', 'ULTRACEMCO.NS')":180753
+  },
+  {
+    "('Date', '')":"2025-03-12",
+    "('Close', 'ULTRACEMCO.NS')":10454.134765625,
+    "('High', 'ULTRACEMCO.NS')":10483.3489994211,
+    "('Low', 'ULTRACEMCO.NS')":10296.7321032703,
+    "('Open', 'ULTRACEMCO.NS')":10413.9888479322,
+    "('Volume', 'ULTRACEMCO.NS')":299765
+  },
+  {
+    "('Date', '')":"2025-03-13",
+    "('Close', 'ULTRACEMCO.NS')":10386.263671875,
+    "('High', 'ULTRACEMCO.NS')":10453.7363698793,
+    "('Low', 'ULTRACEMCO.NS')":10314.7171872142,
+    "('Open', 'ULTRACEMCO.NS')":10453.7363698793,
+    "('Volume', 'ULTRACEMCO.NS')":219474
+  },
+  {
+    "('Date', '')":"2025-03-17",
+    "('Close', 'ULTRACEMCO.NS')":10480.666015625,
+    "('High', 'ULTRACEMCO.NS')":10510.7254782939,
+    "('Low', 'ULTRACEMCO.NS')":10382.1906103851,
+    "('Open', 'ULTRACEMCO.NS')":10480.0701830424,
+    "('Volume', 'ULTRACEMCO.NS')":212061
+  },
+  {
+    "('Date', '')":"2025-03-18",
+    "('Close', 'ULTRACEMCO.NS')":10480.666015625,
+    "('High', 'ULTRACEMCO.NS')":10480.666015625,
+    "('Low', 'ULTRACEMCO.NS')":10480.666015625,
+    "('Open', 'ULTRACEMCO.NS')":10480.666015625,
+    "('Volume', 'ULTRACEMCO.NS')":0
+  },
+  {
+    "('Date', '')":"2025-03-19",
+    "('Close', 'ULTRACEMCO.NS')":10864.3837890625,
+    "('High', 'ULTRACEMCO.NS')":10876.1587602742,
+    "('Low', 'ULTRACEMCO.NS')":10632.6029810869,
+    "('Open', 'ULTRACEMCO.NS')":10642.5399932188,
+    "('Volume', 'ULTRACEMCO.NS')":269175
+  },
+  {
+    "('Date', '')":"2025-03-20",
+    "('Close', 'ULTRACEMCO.NS')":10879.1904296875,
+    "('High', 'ULTRACEMCO.NS')":11169.2017433738,
+    "('Low', 'ULTRACEMCO.NS')":10747.8724249405,
+    "('Open', 'ULTRACEMCO.NS')":10862.2975089013,
+    "('Volume', 'ULTRACEMCO.NS')":549251
+  },
+  {
+    "('Date', '')":"2025-03-21",
+    "('Close', 'ULTRACEMCO.NS')":10907.609375,
+    "('High', 'ULTRACEMCO.NS')":10994.3098025372,
+    "('Low', 'ULTRACEMCO.NS')":10817.0835861028,
+    "('Open', 'ULTRACEMCO.NS')":10949.5932496527,
+    "('Volume', 'ULTRACEMCO.NS')":656565
+  },
+  {
+    "('Date', '')":"2025-03-24",
+    "('Close', 'ULTRACEMCO.NS')":10981.5908203125,
+    "('High', 'ULTRACEMCO.NS')":11008.1723272304,
+    "('Low', 'ULTRACEMCO.NS')":10785.4833075888,
+    "('Open', 'ULTRACEMCO.NS')":10949.543956832,
+    "('Volume', 'ULTRACEMCO.NS')":294688
+  },
+  {
+    "('Date', '')":"2025-03-25",
+    "('Close', 'ULTRACEMCO.NS')":11349.2607421875,
+    "('High', 'ULTRACEMCO.NS')":11406.5470361532,
+    "('Low', 'ULTRACEMCO.NS')":11134.1244247546,
+    "('Open', 'ULTRACEMCO.NS')":11169.2018842768,
+    "('Volume', 'ULTRACEMCO.NS')":754457
+  },
+  {
+    "('Date', '')":"2025-03-26",
+    "('Close', 'ULTRACEMCO.NS')":11330.2802734375,
+    "('High', 'ULTRACEMCO.NS')":11414.6458950389,
+    "('Low', 'ULTRACEMCO.NS')":11228.8237672098,
+    "('Open', 'ULTRACEMCO.NS')":11309.3135658951,
+    "('Volume', 'ULTRACEMCO.NS')":401569
+  },
+  {
+    "('Date', '')":"2025-03-27",
+    "('Close', 'ULTRACEMCO.NS')":11526.5361328125,
+    "('High', 'ULTRACEMCO.NS')":11556.6955466924,
+    "('Low', 'ULTRACEMCO.NS')":11278.5086997042,
+    "('Open', 'ULTRACEMCO.NS')":11328.6906106589,
+    "('Volume', 'ULTRACEMCO.NS')":406112
+  },
+  {
+    "('Date', '')":"2025-03-28",
+    "('Close', 'ULTRACEMCO.NS')":11437.0537109375,
+    "('High', 'ULTRACEMCO.NS')":11625.3106016157,
+    "('Low', 'ULTRACEMCO.NS')":11386.4749009609,
+    "('Open', 'ULTRACEMCO.NS')":11512.525512866,
+    "('Volume', 'ULTRACEMCO.NS')":280960
+  },
+  {
+    "('Date', '')":"2025-04-01",
+    "('Close', 'ULTRACEMCO.NS')":11306.978515625,
+    "('High', 'ULTRACEMCO.NS')":11492.8006395004,
+    "('Low', 'ULTRACEMCO.NS')":11265.7399159414,
+    "('Open', 'ULTRACEMCO.NS')":11278.5085881608,
+    "('Volume', 'ULTRACEMCO.NS')":263144
+  },
+  {
+    "('Date', '')":"2025-04-02",
+    "('Close', 'ULTRACEMCO.NS')":11180.0830078125,
+    "('High', 'ULTRACEMCO.NS')":11288.4459324746,
+    "('Low', 'ULTRACEMCO.NS')":11107.6912912188,
+    "('Open', 'ULTRACEMCO.NS')":11288.4459324746,
+    "('Volume', 'ULTRACEMCO.NS')":376468
+  },
+  {
+    "('Date', '')":"2025-04-03",
+    "('Close', 'ULTRACEMCO.NS')":11533.4921875,
+    "('High', 'ULTRACEMCO.NS')":11576.6686995748,
+    "('Low', 'ULTRACEMCO.NS')":11084.7371048833,
+    "('Open', 'ULTRACEMCO.NS')":11118.5229463504,
+    "('Volume', 'ULTRACEMCO.NS')":361884
+  },
+  {
+    "('Date', '')":"2025-04-04",
+    "('Close', 'ULTRACEMCO.NS')":11426.22265625,
+    "('High', 'ULTRACEMCO.NS')":11540.3488505529,
+    "('Low', 'ULTRACEMCO.NS')":11349.0613701438,
+    "('Open', 'ULTRACEMCO.NS')":11525.9401831975,
+    "('Volume', 'ULTRACEMCO.NS')":222191
+  },
+  {
+    "('Date', '')":"2025-04-07",
+    "('Close', 'ULTRACEMCO.NS')":11121.1064453125,
+    "('High', 'ULTRACEMCO.NS')":11228.8735392206,
+    "('Low', 'ULTRACEMCO.NS')":10945.6686849066,
+    "('Open', 'ULTRACEMCO.NS')":11129.45392392,
+    "('Volume', 'ULTRACEMCO.NS')":484513
+  },
+  {
+    "('Date', '')":"2025-04-08",
+    "('Close', 'ULTRACEMCO.NS')":11199.4599609375,
+    "('High', 'ULTRACEMCO.NS')":11470.0446054832,
+    "('Low', 'ULTRACEMCO.NS')":11169.9963319896,
+    "('Open', 'ULTRACEMCO.NS')":11246.4618339397,
+    "('Volume', 'ULTRACEMCO.NS')":602120
+  },
+  {
+    "('Date', '')":"2025-04-09",
+    "('Close', 'ULTRACEMCO.NS')":11325.2626953125,
+    "('High', 'ULTRACEMCO.NS')":11351.0494369645,
+    "('Low', 'ULTRACEMCO.NS')":11109.5800319761,
+    "('Open', 'ULTRACEMCO.NS')":11217.7440254288,
+    "('Volume', 'ULTRACEMCO.NS')":230611
+  },
+  {
+    "('Date', '')":"2025-04-11",
+    "('Close', 'ULTRACEMCO.NS')":11430.197265625,
+    "('High', 'ULTRACEMCO.NS')":11767.7567801223,
+    "('Low', 'ULTRACEMCO.NS')":11381.902806033,
+    "('Open', 'ULTRACEMCO.NS')":11767.7567801223,
+    "('Volume', 'ULTRACEMCO.NS')":351037
+  },
+  {
+    "('Date', '')":"2025-04-15",
+    "('Close', 'ULTRACEMCO.NS')":11645.1845703125,
+    "('High', 'ULTRACEMCO.NS')":11674.9956068437,
+    "('Low', 'ULTRACEMCO.NS')":11508.0538022689,
+    "('Open', 'ULTRACEMCO.NS')":11674.9956068437,
+    "('Volume', 'ULTRACEMCO.NS')":345260
+  },
+  {
+    "('Date', '')":"2025-04-16",
+    "('Close', 'ULTRACEMCO.NS')":11654.1279296875,
+    "('High', 'ULTRACEMCO.NS')":11752.5043506492,
+    "('Low', 'ULTRACEMCO.NS')":11593.5121551555,
+    "('Open', 'ULTRACEMCO.NS')":11593.5121551555,
+    "('Volume', 'ULTRACEMCO.NS')":268150
+  },
+  {
+    "('Date', '')":"2025-04-17",
+    "('Close', 'ULTRACEMCO.NS')":11826.0380859375,
+    "('High', 'ULTRACEMCO.NS')":11846.9058113223,
+    "('Low', 'ULTRACEMCO.NS')":11526.9340220885,
+    "('Open', 'ULTRACEMCO.NS')":11593.5120030781,
+    "('Volume', 'ULTRACEMCO.NS')":290473
+  },
+  {
+    "('Date', '')":"2025-04-21",
+    "('Close', 'ULTRACEMCO.NS')":11858.830078125,
+    "('High', 'ULTRACEMCO.NS')":12033.7214886956,
+    "('Low', 'ULTRACEMCO.NS')":11706.7937950721,
+    "('Open', 'ULTRACEMCO.NS')":11741.573336947,
+    "('Volume', 'ULTRACEMCO.NS')":230595
+  },
+  {
+    "('Date', '')":"2025-04-22",
+    "('Close', 'ULTRACEMCO.NS')":11883.6728515625,
+    "('High', 'ULTRACEMCO.NS')":11941.3075221362,
+    "('Low', 'ULTRACEMCO.NS')":11775.3594189327,
+    "('Open', 'ULTRACEMCO.NS')":11858.8303211428,
+    "('Volume', 'ULTRACEMCO.NS')":334667
+  },
+  {
+    "('Date', '')":"2025-04-23",
+    "('Close', 'ULTRACEMCO.NS')":11873.736328125,
+    "('High', 'ULTRACEMCO.NS')":11964.1631425747,
+    "('Low', 'ULTRACEMCO.NS')":11751.5110734293,
+    "('Open', 'ULTRACEMCO.NS')":11964.1631425747,
+    "('Volume', 'ULTRACEMCO.NS')":267716
+  },
+  {
+    "('Date', '')":"2025-04-24",
+    "('Close', 'ULTRACEMCO.NS')":12082.4130859375,
+    "('High', 'ULTRACEMCO.NS')":12111.2304212029,
+    "('Low', 'ULTRACEMCO.NS')":11795.2334344994,
+    "('Open', 'ULTRACEMCO.NS')":11802.1893430117,
+    "('Volume', 'ULTRACEMCO.NS')":339743
+  },
+  {
+    "('Date', '')":"2025-04-25",
+    "('Close', 'ULTRACEMCO.NS')":12159.921875,
+    "('High', 'ULTRACEMCO.NS')":12226.4998569911,
+    "('Low', 'ULTRACEMCO.NS')":11785.2965136471,
+    "('Open', 'ULTRACEMCO.NS')":12072.4761673102,
+    "('Volume', 'ULTRACEMCO.NS')":412558
+  },
+  {
+    "('Date', '')":"2025-04-28",
+    "('Close', 'ULTRACEMCO.NS')":12037.6962890625,
+    "('High', 'ULTRACEMCO.NS')":12261.2790581758,
+    "('Low', 'ULTRACEMCO.NS')":11925.4080539078,
+    "('Open', 'ULTRACEMCO.NS')":12154.9530301975,
+    "('Volume', 'ULTRACEMCO.NS')":516745
+  },
+  {
+    "('Date', '')":"2025-04-29",
+    "('Close', 'ULTRACEMCO.NS')":11794.240234375,
+    "('High', 'ULTRACEMCO.NS')":12145.0167785434,
+    "('Low', 'ULTRACEMCO.NS')":11725.6748475546,
+    "('Open', 'ULTRACEMCO.NS')":12124.1490521198,
+    "('Volume', 'ULTRACEMCO.NS')":516495
+  },
+  {
+    "('Date', '')":"2025-04-30",
+    "('Close', 'ULTRACEMCO.NS')":11567.67578125,
+    "('High', 'ULTRACEMCO.NS')":11849.8869247836,
+    "('Low', 'ULTRACEMCO.NS')":11427.5639106928,
+    "('Open', 'ULTRACEMCO.NS')":11794.2396570446,
+    "('Volume', 'ULTRACEMCO.NS')":630392
+  },
+  {
+    "('Date', '')":"2025-05-02",
+    "('Close', 'ULTRACEMCO.NS')":11539.8525390625,
+    "('High', 'ULTRACEMCO.NS')":11675.9896094019,
+    "('Low', 'ULTRACEMCO.NS')":11408.6839749399,
+    "('Open', 'ULTRACEMCO.NS')":11567.6761738764,
+    "('Volume', 'ULTRACEMCO.NS')":189474
+  },
+  {
+    "('Date', '')":"2025-05-05",
+    "('Close', 'ULTRACEMCO.NS')":11596.4931640625,
+    "('High', 'ULTRACEMCO.NS')":11654.127834458,
+    "('Low', 'ULTRACEMCO.NS')":11578.6065422156,
+    "('Open', 'ULTRACEMCO.NS')":11628.2916029014,
+    "('Volume', 'ULTRACEMCO.NS')":145699
+  },
+  {
+    "('Date', '')":"2025-05-06",
+    "('Close', 'ULTRACEMCO.NS')":11619.3486328125,
+    "('High', 'ULTRACEMCO.NS')":11655.1218775556,
+    "('Low', 'ULTRACEMCO.NS')":11471.2871476257,
+    "('Open', 'ULTRACEMCO.NS')":11625.3108402697,
+    "('Volume', 'ULTRACEMCO.NS')":273048
+  },
+  {
+    "('Date', '')":"2025-05-07",
+    "('Close', 'ULTRACEMCO.NS')":11584.568359375,
+    "('High', 'ULTRACEMCO.NS')":11626.3038089456,
+    "('Low', 'ULTRACEMCO.NS')":11480.2297354486,
+    "('Open', 'ULTRACEMCO.NS')":11577.6124511132,
+    "('Volume', 'ULTRACEMCO.NS')":217460
+  },
+  {
+    "('Date', '')":"2025-05-08",
+    "('Close', 'ULTRACEMCO.NS')":11557.7392578125,
+    "('High', 'ULTRACEMCO.NS')":11666.0526942411,
+    "('Low', 'ULTRACEMCO.NS')":11466.3187426617,
+    "('Open', 'ULTRACEMCO.NS')":11527.9282202633,
+    "('Volume', 'ULTRACEMCO.NS')":388912
+  },
+  {
+    "('Date', '')":"2025-05-09",
+    "('Close', 'ULTRACEMCO.NS')":11292.4208984375,
+    "('High', 'ULTRACEMCO.NS')":11485.1989391183,
+    "('Low', 'ULTRACEMCO.NS')":11241.7421351657,
+    "('Open', 'ULTRACEMCO.NS')":11407.6902423497,
+    "('Volume', 'ULTRACEMCO.NS')":200270
+  },
+  {
+    "('Date', '')":"2025-05-12",
+    "('Close', 'ULTRACEMCO.NS')":11662.0771484375,
+    "('High', 'ULTRACEMCO.NS')":11692.8818852815,
+    "('Low', 'ULTRACEMCO.NS')":11492.1542452011,
+    "('Open', 'ULTRACEMCO.NS')":11516.996774914,
+    "('Volume', 'ULTRACEMCO.NS')":182795
+  },
+  {
+    "('Date', '')":"2025-05-13",
+    "('Close', 'ULTRACEMCO.NS')":11587.5498046875,
+    "('High', 'ULTRACEMCO.NS')":11674.0018099193,
+    "('Low', 'ULTRACEMCO.NS')":11493.1481897792,
+    "('Open', 'ULTRACEMCO.NS')":11626.3041518604,
+    "('Volume', 'ULTRACEMCO.NS')":307678
+  },
+  {
+    "('Date', '')":"2025-05-14",
+    "('Close', 'ULTRACEMCO.NS')":11598.48046875,
+    "('High', 'ULTRACEMCO.NS')":11667.0458519186,
+    "('Low', 'ULTRACEMCO.NS')":11550.7828108936,
+    "('Open', 'ULTRACEMCO.NS')":11602.4552735714,
+    "('Volume', 'ULTRACEMCO.NS')":179337
+  },
+  {
+    "('Date', '')":"2025-05-15",
+    "('Close', 'ULTRACEMCO.NS')":11819.08203125,
+    "('High', 'ULTRACEMCO.NS')":11856.8426767173,
+    "('Low', 'ULTRACEMCO.NS')":11569.6630309268,
+    "('Open', 'ULTRACEMCO.NS')":11598.4803656255,
+    "('Volume', 'ULTRACEMCO.NS')":371371
+  },
+  {
+    "('Date', '')":"2025-05-16",
+    "('Close', 'ULTRACEMCO.NS')":11830.0126953125,
+    "('High', 'ULTRACEMCO.NS')":11914.477296665,
+    "('Low', 'ULTRACEMCO.NS')":11782.3150380781,
+    "('Open', 'ULTRACEMCO.NS')":11874.7292489697,
+    "('Volume', 'ULTRACEMCO.NS')":209706
+  },
+  {
+    "('Date', '')":"2025-05-19",
+    "('Close', 'ULTRACEMCO.NS')":11853.8623046875,
+    "('High', 'ULTRACEMCO.NS')":11915.4717826731,
+    "('Low', 'ULTRACEMCO.NS')":11805.1709430537,
+    "('Open', 'ULTRACEMCO.NS')":11829.0197732417,
+    "('Volume', 'ULTRACEMCO.NS')":128237
+  },
+  {
+    "('Date', '')":"2025-05-20",
+    "('Close', 'ULTRACEMCO.NS')":11623.3232421875,
+    "('High', 'ULTRACEMCO.NS')":11904.5406891858,
+    "('Low', 'ULTRACEMCO.NS')":11595.4996078555,
+    "('Open', 'ULTRACEMCO.NS')":11893.6099756982,
+    "('Volume', 'ULTRACEMCO.NS')":158934
+  },
+  {
+    "('Date', '')":"2025-05-21",
+    "('Close', 'ULTRACEMCO.NS')":11592.5185546875,
+    "('High', 'ULTRACEMCO.NS')":11834.9816549227,
+    "('Low', 'ULTRACEMCO.NS')":11560.7201153124,
+    "('Open', 'ULTRACEMCO.NS')":11623.3232928321,
+    "('Volume', 'ULTRACEMCO.NS')":173017
+  },
+  {
+    "('Date', '')":"2025-05-22",
+    "('Close', 'ULTRACEMCO.NS')":11606.4306640625,
+    "('High', 'ULTRACEMCO.NS')":11626.3046891722,
+    "('Low', 'ULTRACEMCO.NS')":11444.4573594185,
+    "('Open', 'ULTRACEMCO.NS')":11592.5188464857,
+    "('Volume', 'ULTRACEMCO.NS')":175370
+  },
+  {
+    "('Date', '')":"2025-05-23",
+    "('Close', 'ULTRACEMCO.NS')":11672.0146484375,
+    "('High', 'ULTRACEMCO.NS')":11800.2021071169,
+    "('Low', 'ULTRACEMCO.NS')":11587.5500438813,
+    "('Open', 'ULTRACEMCO.NS')":11653.1343250661,
+    "('Volume', 'ULTRACEMCO.NS')":181463
+  },
+  {
+    "('Date', '')":"2025-05-26",
+    "('Close', 'ULTRACEMCO.NS')":11615.3740234375,
+    "('High', 'ULTRACEMCO.NS')":11809.1457690591,
+    "('Low', 'ULTRACEMCO.NS')":11571.6511680152,
+    "('Open', 'ULTRACEMCO.NS')":11725.6748632528,
+    "('Volume', 'ULTRACEMCO.NS')":198003
+  },
+  {
+    "('Date', '')":"2025-05-27",
+    "('Close', 'ULTRACEMCO.NS')":11349.0615234375,
+    "('High', 'ULTRACEMCO.NS')":11648.1655877536,
+    "('Low', 'ULTRACEMCO.NS')":11303.3512677613,
+    "('Open', 'ULTRACEMCO.NS')":11602.4553320774,
+    "('Volume', 'ULTRACEMCO.NS')":478345
+  },
+  {
+    "('Date', '')":"2025-05-28",
+    "('Close', 'ULTRACEMCO.NS')":11167.2138671875,
+    "('High', 'ULTRACEMCO.NS')":11397.7525410785,
+    "('Low', 'ULTRACEMCO.NS')":11129.453222326,
+    "('Open', 'ULTRACEMCO.NS')":11382.8470233701,
+    "('Volume', 'ULTRACEMCO.NS')":201200
+  },
+  {
+    "('Date', '')":"2025-05-29",
+    "('Close', 'ULTRACEMCO.NS')":11198.01953125,
+    "('High', 'ULTRACEMCO.NS')":11265.591217125,
+    "('Low', 'ULTRACEMCO.NS')":11080.7627822317,
+    "('Open', 'ULTRACEMCO.NS')":11178.1455059927,
+    "('Volume', 'ULTRACEMCO.NS')":350206
+  },
+  {
+    "('Date', '')":"2025-05-30",
+    "('Close', 'ULTRACEMCO.NS')":11139.390625,
+    "('High', 'ULTRACEMCO.NS')":11238.7607465433,
+    "('Low', 'ULTRACEMCO.NS')":11099.6425763827,
+    "('Open', 'ULTRACEMCO.NS')":11194.0441918488,
+    "('Volume', 'ULTRACEMCO.NS')":394181
+  },
+  {
+    "('Date', '')":"2025-06-02",
+    "('Close', 'ULTRACEMCO.NS')":11124.4853515625,
+    "('High', 'ULTRACEMCO.NS')":11148.3341812577,
+    "('Low', 'ULTRACEMCO.NS')":10949.5939337979,
+    "('Open', 'ULTRACEMCO.NS')":11109.579833003,
+    "('Volume', 'ULTRACEMCO.NS')":314936
+  },
+  {
+    "('Date', '')":"2025-06-03",
+    "('Close', 'ULTRACEMCO.NS')":10965.4931640625,
+    "('High', 'ULTRACEMCO.NS')":11220.8743822921,
+    "('Low', 'ULTRACEMCO.NS')":10930.7136207238,
+    "('Open', 'ULTRACEMCO.NS')":11208.9499674332,
+    "('Volume', 'ULTRACEMCO.NS')":349615
+  },
+  {
+    "('Date', '')":"2025-06-04",
+    "('Close', 'ULTRACEMCO.NS')":10963.505859375,
+    "('High', 'ULTRACEMCO.NS')":10985.3672868114,
+    "('Low', 'ULTRACEMCO.NS')":10851.2176184515,
+    "('Open', 'ULTRACEMCO.NS')":10970.4617681048,
+    "('Volume', 'ULTRACEMCO.NS')":345047
+  },
+  {
+    "('Date', '')":"2025-06-05",
+    "('Close', 'ULTRACEMCO.NS')":11088.7119140625,
+    "('High', 'ULTRACEMCO.NS')":11109.5796396827,
+    "('Low', 'ULTRACEMCO.NS')":10933.6945237413,
+    "('Open', 'ULTRACEMCO.NS')":10968.4740664416,
+    "('Volume', 'ULTRACEMCO.NS')":191183
+  },
+  {
+    "('Date', '')":"2025-06-06",
+    "('Close', 'ULTRACEMCO.NS')":11182.1201171875,
+    "('High', 'ULTRACEMCO.NS')":11239.7547894346,
+    "('Low', 'ULTRACEMCO.NS')":11049.9578515174,
+    "('Open', 'ULTRACEMCO.NS')":11109.5799262558,
+    "('Volume', 'ULTRACEMCO.NS')":143723
+  },
+  {
+    "('Date', '')":"2025-06-09",
+    "('Close', 'ULTRACEMCO.NS')":11189.076171875,
+    "('High', 'ULTRACEMCO.NS')":11246.710844874,
+    "('Low', 'ULTRACEMCO.NS')":11095.6682535663,
+    "('Open', 'ULTRACEMCO.NS')":11189.076171875,
+    "('Volume', 'ULTRACEMCO.NS')":209231
+  },
+  {
+    "('Date', '')":"2025-06-10",
+    "('Close', 'ULTRACEMCO.NS')":11319.2509765625,
+    "('High', 'ULTRACEMCO.NS')":11411.6651931212,
+    "('Low', 'ULTRACEMCO.NS')":11263.6037063766,
+    "('Open', 'ULTRACEMCO.NS')":11338.1313003756,
+    "('Volume', 'ULTRACEMCO.NS')":279918
+  },
+  {
+    "('Date', '')":"2025-06-11",
+    "('Close', 'ULTRACEMCO.NS')":11391.791015625,
+    "('High', 'ULTRACEMCO.NS')":11445.4508825862,
+    "('Low', 'ULTRACEMCO.NS')":11268.5720618621,
+    "('Open', 'ULTRACEMCO.NS')":11308.3201114631,
+    "('Volume', 'ULTRACEMCO.NS')":237747
+  },
+  {
+    "('Date', '')":"2025-06-12",
+    "('Close', 'ULTRACEMCO.NS')":11251.6787109375,
+    "('High', 'ULTRACEMCO.NS')":11432.5323297126,
+    "('Low', 'ULTRACEMCO.NS')":11208.9495592489,
+    "('Open', 'ULTRACEMCO.NS')":11402.7212936508,
+    "('Volume', 'ULTRACEMCO.NS')":262530
+  },
+  {
+    "('Date', '')":"2025-06-13",
+    "('Close', 'ULTRACEMCO.NS')":11153.302734375,
+    "('High', 'ULTRACEMCO.NS')":11179.1389666535,
+    "('Low', 'ULTRACEMCO.NS')":10948.6002786301,
+    "('Open', 'ULTRACEMCO.NS')":11041.0144940877,
+    "('Volume', 'ULTRACEMCO.NS')":181355
+  },
+  {
+    "('Date', '')":"2025-06-16",
+    "('Close', 'ULTRACEMCO.NS')":11422.595703125,
+    "('High', 'ULTRACEMCO.NS')":11445.4508315436,
+    "('Low', 'ULTRACEMCO.NS')":11126.4727349187,
+    "('Open', 'ULTRACEMCO.NS')":11199.0129251169,
+    "('Volume', 'ULTRACEMCO.NS')":401104
+  },
+  {
+    "('Date', '')":"2025-06-17",
+    "('Close', 'ULTRACEMCO.NS')":11311.30078125,
+    "('High', 'ULTRACEMCO.NS')":11436.5071326896,
+    "('Low', 'ULTRACEMCO.NS')":11288.4456536063,
+    "('Open', 'ULTRACEMCO.NS')":11427.5638218725,
+    "('Volume', 'ULTRACEMCO.NS')":121415
+  },
+  {
+    "('Date', '')":"2025-06-18",
+    "('Close', 'ULTRACEMCO.NS')":11334.15625,
+    "('High', 'ULTRACEMCO.NS')":11406.696439922,
+    "('Low', 'ULTRACEMCO.NS')":11271.5530723961,
+    "('Open', 'ULTRACEMCO.NS')":11311.3011216684,
+    "('Volume', 'ULTRACEMCO.NS')":156816
+  },
+  {
+    "('Date', '')":"2025-06-19",
+    "('Close', 'ULTRACEMCO.NS')":11348.068359375,
+    "('High', 'ULTRACEMCO.NS')":11412.6589411052,
+    "('Low', 'ULTRACEMCO.NS')":11281.49037513,
+    "('Open', 'ULTRACEMCO.NS')":11328.1943342272,
+    "('Volume', 'ULTRACEMCO.NS')":157757
+  },
+  {
+    "('Date', '')":"2025-06-20",
+    "('Close', 'ULTRACEMCO.NS')":11385.828125,
+    "('High', 'ULTRACEMCO.NS')":11452.4061040867,
+    "('Low', 'ULTRACEMCO.NS')":11298.382421125,
+    "('Open', 'ULTRACEMCO.NS')":11348.0674801449,
+    "('Volume', 'ULTRACEMCO.NS')":629895
+  },
+  {
+    "('Date', '')":"2025-06-23",
+    "('Close', 'ULTRACEMCO.NS')":11376.8857421875,
+    "('High', 'ULTRACEMCO.NS')":11417.6274939064,
+    "('Low', 'ULTRACEMCO.NS')":11249.6919807236,
+    "('Open', 'ULTRACEMCO.NS')":11329.1880816385,
+    "('Volume', 'ULTRACEMCO.NS')":304907
+  },
+  {
+    "('Date', '')":"2025-06-24",
+    "('Close', 'ULTRACEMCO.NS')":11506.06640625,
+    "('High', 'ULTRACEMCO.NS')":11749.5232047241,
+    "('Low', 'ULTRACEMCO.NS')":11441.475827063,
+    "('Open', 'ULTRACEMCO.NS')":11486.1923818848,
+    "('Volume', 'ULTRACEMCO.NS')":735700
+  },
+  {
+    "('Date', '')":"2025-06-25",
+    "('Close', 'ULTRACEMCO.NS')":11659.0966796875,
+    "('High', 'ULTRACEMCO.NS')":11696.8573269071,
+    "('Low', 'ULTRACEMCO.NS')":11560.7202566679,
+    "('Open', 'ULTRACEMCO.NS')":11561.7139579105,
+    "('Volume', 'ULTRACEMCO.NS')":253134
+  },
+  {
+    "('Date', '')":"2025-06-26",
+    "('Close', 'ULTRACEMCO.NS')":11875.7236328125,
+    "('High', 'ULTRACEMCO.NS')":11910.5031765451,
+    "('Low', 'ULTRACEMCO.NS')":11607.4242954466,
+    "('Open', 'ULTRACEMCO.NS')":11616.3676066922,
+    "('Volume', 'ULTRACEMCO.NS')":506580
+  },
+  {
+    "('Date', '')":"2025-06-27",
+    "('Close', 'ULTRACEMCO.NS')":12136.0732421875,
+    "('High', 'ULTRACEMCO.NS')":12168.8653831023,
+    "('Low', 'ULTRACEMCO.NS')":11841.9376751943,
+    "('Open', 'ULTRACEMCO.NS')":11904.5408533044,
+    "('Volume', 'ULTRACEMCO.NS')":501287
+  },
+  {
+    "('Date', '')":"2025-06-30",
+    "('Close', 'ULTRACEMCO.NS')":12016.8291015625,
+    "('High', 'ULTRACEMCO.NS')":12193.7079223744,
+    "('Low', 'ULTRACEMCO.NS')":11942.3015085238,
+    "('Open', 'ULTRACEMCO.NS')":12138.0606529055,
+    "('Volume', 'ULTRACEMCO.NS')":333104
+  },
+  {
+    "('Date', '')":"2025-07-01",
+    "('Close', 'ULTRACEMCO.NS')":12133.091796875,
+    "('High', 'ULTRACEMCO.NS')":12147.997315053,
+    "('Low', 'ULTRACEMCO.NS')":11984.0366150952,
+    "('Open', 'ULTRACEMCO.NS')":12028.7531696291,
+    "('Volume', 'ULTRACEMCO.NS')":207437
+  },
+  {
+    "('Date', '')":"2025-07-02",
+    "('Close', 'ULTRACEMCO.NS')":12357.66796875,
+    "('High', 'ULTRACEMCO.NS')":12448.0947768198,
+    "('Low', 'ULTRACEMCO.NS')":12093.3434528536,
+    "('Open', 'ULTRACEMCO.NS')":12133.0915003568,
+    "('Volume', 'ULTRACEMCO.NS')":445829
+  },
+  {
+    "('Date', '')":"2025-07-03",
+    "('Close', 'ULTRACEMCO.NS')":12319.908203125,
+    "('High', 'ULTRACEMCO.NS')":12495.793325883,
+    "('Low', 'ULTRACEMCO.NS')":12298.0467754376,
+    "('Open', 'ULTRACEMCO.NS')":12357.6688509487,
+    "('Volume', 'ULTRACEMCO.NS')":275755
+  },
+  {
+    "('Date', '')":"2025-07-04",
+    "('Close', 'ULTRACEMCO.NS')":12427.2275390625,
+    "('High', 'ULTRACEMCO.NS')":12463.0007832178,
+    "('Low', 'ULTRACEMCO.NS')":12263.266836684,
+    "('Open', 'ULTRACEMCO.NS')":12321.8952090497,
+    "('Volume', 'ULTRACEMCO.NS')":191516
+  },
+  {
+    "('Date', '')":"2025-07-07",
+    "('Close', 'ULTRACEMCO.NS')":12267.2412109375,
+    "('High', 'ULTRACEMCO.NS')":12421.2648956435,
+    "('Low', 'ULTRACEMCO.NS')":12228.4868644631,
+    "('Open', 'ULTRACEMCO.NS')":12397.4160670438,
+    "('Volume', 'ULTRACEMCO.NS')":149939
+  },
+  {
+    "('Date', '')":"2025-07-08",
+    "('Close', 'ULTRACEMCO.NS')":12366.611328125,
+    "('High', 'ULTRACEMCO.NS')":12416.2963876996,
+    "('Low', 'ULTRACEMCO.NS')":12227.493161316,
+    "('Open', 'ULTRACEMCO.NS')":12267.2412089757,
+    "('Volume', 'ULTRACEMCO.NS')":219226
+  },
+  {
+    "('Date', '')":"2025-07-09",
+    "('Close', 'ULTRACEMCO.NS')":12482.875,
+    "('High', 'ULTRACEMCO.NS')":12500.7616223531,
+    "('Low', 'ULTRACEMCO.NS')":12298.0465690177,
+    "('Open', 'ULTRACEMCO.NS')":12331.8324112402,
+    "('Volume', 'ULTRACEMCO.NS')":379924
+  },
+  {
+    "('Date', '')":"2025-07-10",
+    "('Close', 'ULTRACEMCO.NS')":12437.1640625,
+    "('High', 'ULTRACEMCO.NS')":12587.2129418095,
+    "('Low', 'ULTRACEMCO.NS')":12403.3782221257,
+    "('Open', 'ULTRACEMCO.NS')":12439.151464875,
+    "('Volume', 'ULTRACEMCO.NS')":269323
+  },
+  {
+    "('Date', '')":"2025-07-11",
+    "('Close', 'ULTRACEMCO.NS')":12416.296875,
+    "('High', 'ULTRACEMCO.NS')":12557.4024497299,
+    "('Low', 'ULTRACEMCO.NS')":12373.5677220888,
+    "('Open', 'ULTRACEMCO.NS')":12437.1646008403,
+    "('Volume', 'ULTRACEMCO.NS')":240034
+  },
+  {
+    "('Date', '')":"2025-07-14",
+    "('Close', 'ULTRACEMCO.NS')":12437.1640625,
+    "('High', 'ULTRACEMCO.NS')":12499.7672373112,
+    "('Low', 'ULTRACEMCO.NS')":12351.7057603767,
+    "('Open', 'ULTRACEMCO.NS')":12416.2963375629,
+    "('Volume', 'ULTRACEMCO.NS')":278918
+  },
+  {
+    "('Date', '')":"2025-07-15",
+    "('Close', 'ULTRACEMCO.NS')":12423.2529296875,
+    "('High', 'ULTRACEMCO.NS')":12465.9820831011,
+    "('Low', 'ULTRACEMCO.NS')":12346.7379340399,
+    "('Open', 'ULTRACEMCO.NS')":12465.9820831011,
+    "('Volume', 'ULTRACEMCO.NS')":154124
+  },
+  {
+    "('Date', '')":"2025-07-16",
+    "('Close', 'ULTRACEMCO.NS')":12374.5615234375,
+    "('High', 'ULTRACEMCO.NS')":12436.1710002265,
+    "('Low', 'ULTRACEMCO.NS')":12319.9079553182,
+    "('Open', 'ULTRACEMCO.NS')":12425.2402866026,
+    "('Volume', 'ULTRACEMCO.NS')":156311
+  },
+  {
+    "('Date', '')":"2025-07-17",
+    "('Close', 'ULTRACEMCO.NS')":12416.296875,
+    "('High', 'ULTRACEMCO.NS')":12468.9630402161,
+    "('Low', 'ULTRACEMCO.NS')":12353.693697479,
+    "('Open', 'ULTRACEMCO.NS')":12386.4858380852,
+    "('Volume', 'ULTRACEMCO.NS')":166142
+  },
+  {
+    "('Date', '')":"2025-07-18",
+    "('Close', 'ULTRACEMCO.NS')":12419.2783203125,
+    "('High', 'ULTRACEMCO.NS')":12478.9003957821,
+    "('Low', 'ULTRACEMCO.NS')":12362.6373486164,
+    "('Open', 'ULTRACEMCO.NS')":12441.1397479847,
+    "('Volume', 'ULTRACEMCO.NS')":98339
+  },
+  {
+    "('Date', '')":"2025-07-21",
+    "('Close', 'ULTRACEMCO.NS')":12497.7802734375,
+    "('High', 'ULTRACEMCO.NS')":12633.9173408988,
+    "('Low', 'ULTRACEMCO.NS')":12296.0589253014,
+    "('Open', 'ULTRACEMCO.NS')":12480.8873526576,
+    "('Volume', 'ULTRACEMCO.NS')":512521
+  },
+  {
+    "('Date', '')":"2025-07-22",
+    "('Close', 'ULTRACEMCO.NS')":12373.5673828125,
+    "('High', 'ULTRACEMCO.NS')":12619.0115800141,
+    "('Low', 'ULTRACEMCO.NS')":12217.556293903,
+    "('Open', 'ULTRACEMCO.NS')":12569.3265198519,
+    "('Volume', 'ULTRACEMCO.NS')":533617
+  },
+  {
+    "('Date', '')":"2025-07-23",
+    "('Close', 'ULTRACEMCO.NS')":12294.0712890625,
+    "('High', 'ULTRACEMCO.NS')":12436.1705611556,
+    "('Low', 'ULTRACEMCO.NS')":12280.1594722142,
+    "('Open', 'ULTRACEMCO.NS')":12381.516994966,
+    "('Volume', 'ULTRACEMCO.NS')":189617
+  },
+  {
+    "('Date', '')":"2025-07-24",
+    "('Close', 'ULTRACEMCO.NS')":12226.5,
+    "('High', 'ULTRACEMCO.NS')":12320.9016173602,
+    "('Low', 'ULTRACEMCO.NS')":12152.9661085826,
+    "('Open', 'ULTRACEMCO.NS')":12294.0716840052,
+    "('Volume', 'ULTRACEMCO.NS')":180080
+  },
+  {
+    "('Date', '')":"2025-07-25",
+    "('Close', 'ULTRACEMCO.NS')":12250.0,
+    "('High', 'ULTRACEMCO.NS')":12345.0,
+    "('Low', 'ULTRACEMCO.NS')":12193.0,
+    "('Open', 'ULTRACEMCO.NS')":12245.0,
+    "('Volume', 'ULTRACEMCO.NS')":290381
+  },
+  {
+    "('Date', '')":"2025-07-28",
+    "('Close', 'ULTRACEMCO.NS')":12240.0,
+    "('High', 'ULTRACEMCO.NS')":12368.0,
+    "('Low', 'ULTRACEMCO.NS')":12210.0,
+    "('Open', 'ULTRACEMCO.NS')":12274.0,
+    "('Volume', 'ULTRACEMCO.NS')":214107
+  },
+  {
+    "('Date', '')":"2025-07-29",
+    "('Close', 'ULTRACEMCO.NS')":12221.0,
+    "('High', 'ULTRACEMCO.NS')":12262.0,
+    "('Low', 'ULTRACEMCO.NS')":12122.0,
+    "('Open', 'ULTRACEMCO.NS')":12200.0,
+    "('Volume', 'ULTRACEMCO.NS')":208446
+  },
+  {
+    "('Date', '')":"2025-07-30",
+    "('Close', 'ULTRACEMCO.NS')":12268.0,
+    "('High', 'ULTRACEMCO.NS')":12381.0,
+    "('Low', 'ULTRACEMCO.NS')":12201.0,
+    "('Open', 'ULTRACEMCO.NS')":12205.0,
+    "('Volume', 'ULTRACEMCO.NS')":185681
+  },
+  {
+    "('Date', '')":"2025-07-31",
+    "('Close', 'ULTRACEMCO.NS')":12249.0,
+    "('High', 'ULTRACEMCO.NS')":12329.0,
+    "('Low', 'ULTRACEMCO.NS')":12155.0,
+    "('Open', 'ULTRACEMCO.NS')":12201.0,
+    "('Volume', 'ULTRACEMCO.NS')":150379
+  },
+  {
+    "('Date', '')":"2025-08-01",
+    "('Close', 'ULTRACEMCO.NS')":12113.0,
+    "('High', 'ULTRACEMCO.NS')":12289.0,
+    "('Low', 'ULTRACEMCO.NS')":12075.0,
+    "('Open', 'ULTRACEMCO.NS')":12181.0,
+    "('Volume', 'ULTRACEMCO.NS')":212570
+  },
+  {
+    "('Date', '')":"2025-08-04",
+    "('Close', 'ULTRACEMCO.NS')":12257.0,
+    "('High', 'ULTRACEMCO.NS')":12290.0,
+    "('Low', 'ULTRACEMCO.NS')":12132.0,
+    "('Open', 'ULTRACEMCO.NS')":12158.0,
+    "('Volume', 'ULTRACEMCO.NS')":207875
+  },
+  {
+    "('Date', '')":"2025-08-05",
+    "('Close', 'ULTRACEMCO.NS')":12298.0,
+    "('High', 'ULTRACEMCO.NS')":12378.0,
+    "('Low', 'ULTRACEMCO.NS')":12262.0,
+    "('Open', 'ULTRACEMCO.NS')":12330.0,
+    "('Volume', 'ULTRACEMCO.NS')":267535
+  },
+  {
+    "('Date', '')":"2025-08-06",
+    "('Close', 'ULTRACEMCO.NS')":12226.0,
+    "('High', 'ULTRACEMCO.NS')":12390.0,
+    "('Low', 'ULTRACEMCO.NS')":12208.0,
+    "('Open', 'ULTRACEMCO.NS')":12298.0,
+    "('Volume', 'ULTRACEMCO.NS')":192086
+  },
+  {
+    "('Date', '')":"2025-08-07",
+    "('Close', 'ULTRACEMCO.NS')":12273.0,
+    "('High', 'ULTRACEMCO.NS')":12309.0,
+    "('Low', 'ULTRACEMCO.NS')":12125.0,
+    "('Open', 'ULTRACEMCO.NS')":12204.0,
+    "('Volume', 'ULTRACEMCO.NS')":202031
+  },
+  {
+    "('Date', '')":"2025-08-08",
+    "('Close', 'ULTRACEMCO.NS')":12157.0,
+    "('High', 'ULTRACEMCO.NS')":12315.0,
+    "('Low', 'ULTRACEMCO.NS')":12135.0,
+    "('Open', 'ULTRACEMCO.NS')":12285.0,
+    "('Volume', 'ULTRACEMCO.NS')":201770
+  },
+  {
+    "('Date', '')":"2025-08-11",
+    "('Close', 'ULTRACEMCO.NS')":12405.0,
+    "('High', 'ULTRACEMCO.NS')":12425.0,
+    "('Low', 'ULTRACEMCO.NS')":12161.0,
+    "('Open', 'ULTRACEMCO.NS')":12161.0,
+    "('Volume', 'ULTRACEMCO.NS')":218605
+  },
+  {
+    "('Date', '')":"2025-08-12",
+    "('Close', 'ULTRACEMCO.NS')":12449.0,
+    "('High', 'ULTRACEMCO.NS')":12530.0,
+    "('Low', 'ULTRACEMCO.NS')":12397.0,
+    "('Open', 'ULTRACEMCO.NS')":12447.0,
+    "('Volume', 'ULTRACEMCO.NS')":334100
+  },
+  {
+    "('Date', '')":"2025-08-13",
+    "('Close', 'ULTRACEMCO.NS')":12401.0,
+    "('High', 'ULTRACEMCO.NS')":12517.0,
+    "('Low', 'ULTRACEMCO.NS')":12388.0,
+    "('Open', 'ULTRACEMCO.NS')":12485.0,
+    "('Volume', 'ULTRACEMCO.NS')":207359
+  },
+  {
+    "('Date', '')":"2025-08-14",
+    "('Close', 'ULTRACEMCO.NS')":12317.0,
+    "('High', 'ULTRACEMCO.NS')":12428.0,
+    "('Low', 'ULTRACEMCO.NS')":12225.0,
+    "('Open', 'ULTRACEMCO.NS')":12413.0,
+    "('Volume', 'ULTRACEMCO.NS')":235741
+  },
+  {
+    "('Date', '')":"2025-08-18",
+    "('Close', 'ULTRACEMCO.NS')":12765.0,
+    "('High', 'ULTRACEMCO.NS')":12904.0,
+    "('Low', 'ULTRACEMCO.NS')":12556.0,
+    "('Open', 'ULTRACEMCO.NS')":12628.0,
+    "('Volume', 'ULTRACEMCO.NS')":808480
+  },
+  {
+    "('Date', '')":"2025-08-19",
+    "('Close', 'ULTRACEMCO.NS')":12863.0,
+    "('High', 'ULTRACEMCO.NS')":12880.0,
+    "('Low', 'ULTRACEMCO.NS')":12629.0,
+    "('Open', 'ULTRACEMCO.NS')":12787.0,
+    "('Volume', 'ULTRACEMCO.NS')":351252
+  },
+  {
+    "('Date', '')":"2025-08-20",
+    "('Close', 'ULTRACEMCO.NS')":12874.0,
+    "('High', 'ULTRACEMCO.NS')":12930.0,
+    "('Low', 'ULTRACEMCO.NS')":12765.0,
+    "('Open', 'ULTRACEMCO.NS')":12850.0,
+    "('Volume', 'ULTRACEMCO.NS')":290957
+  },
+  {
+    "('Date', '')":"2025-08-21",
+    "('Close', 'ULTRACEMCO.NS')":12870.0,
+    "('High', 'ULTRACEMCO.NS')":12906.0,
+    "('Low', 'ULTRACEMCO.NS')":12790.0,
+    "('Open', 'ULTRACEMCO.NS')":12890.0,
+    "('Volume', 'ULTRACEMCO.NS')":155457
+  },
+  {
+    "('Date', '')":"2025-08-22",
+    "('Close', 'ULTRACEMCO.NS')":12589.0,
+    "('High', 'ULTRACEMCO.NS')":12864.0,
+    "('Low', 'ULTRACEMCO.NS')":12563.0,
+    "('Open', 'ULTRACEMCO.NS')":12864.0,
+    "('Volume', 'ULTRACEMCO.NS')":226948
+  },
+  {
+    "('Date', '')":"2025-08-25",
+    "('Close', 'ULTRACEMCO.NS')":12606.0,
+    "('High', 'ULTRACEMCO.NS')":12731.0,
+    "('Low', 'ULTRACEMCO.NS')":12556.0,
+    "('Open', 'ULTRACEMCO.NS')":12648.0,
+    "('Volume', 'ULTRACEMCO.NS')":199190
+  },
+  {
+    "('Date', '')":"2025-08-26",
+    "('Close', 'ULTRACEMCO.NS')":12610.0,
+    "('High', 'ULTRACEMCO.NS')":12770.0,
+    "('Low', 'ULTRACEMCO.NS')":12480.0,
+    "('Open', 'ULTRACEMCO.NS')":12581.0,
+    "('Volume', 'ULTRACEMCO.NS')":290322
+  },
+  {
+    "('Date', '')":"2025-08-28",
+    "('Close', 'ULTRACEMCO.NS')":12521.0,
+    "('High', 'ULTRACEMCO.NS')":12648.0,
+    "('Low', 'ULTRACEMCO.NS')":12472.0,
+    "('Open', 'ULTRACEMCO.NS')":12570.0,
+    "('Volume', 'ULTRACEMCO.NS')":283677
+  },
+  {
+    "('Date', '')":"2025-08-29",
+    "('Close', 'ULTRACEMCO.NS')":12640.0,
+    "('High', 'ULTRACEMCO.NS')":12729.0,
+    "('Low', 'ULTRACEMCO.NS')":12521.0,
+    "('Open', 'ULTRACEMCO.NS')":12521.0,
+    "('Volume', 'ULTRACEMCO.NS')":177858
+  },
+  {
+    "('Date', '')":"2025-09-01",
+    "('Close', 'ULTRACEMCO.NS')":12826.0,
+    "('High', 'ULTRACEMCO.NS')":12852.0,
+    "('Low', 'ULTRACEMCO.NS')":12636.0,
+    "('Open', 'ULTRACEMCO.NS')":12639.0,
+    "('Volume', 'ULTRACEMCO.NS')":214241
+  },
+  {
+    "('Date', '')":"2025-09-02",
+    "('Close', 'ULTRACEMCO.NS')":12730.0,
+    "('High', 'ULTRACEMCO.NS')":12848.0,
+    "('Low', 'ULTRACEMCO.NS')":12687.0,
+    "('Open', 'ULTRACEMCO.NS')":12788.0,
+    "('Volume', 'ULTRACEMCO.NS')":214101
+  },
+  {
+    "('Date', '')":"2025-09-03",
+    "('Close', 'ULTRACEMCO.NS')":12733.0,
+    "('High', 'ULTRACEMCO.NS')":12770.0,
+    "('Low', 'ULTRACEMCO.NS')":12657.0,
+    "('Open', 'ULTRACEMCO.NS')":12700.0,
+    "('Volume', 'ULTRACEMCO.NS')":140022
+  },
+  {
+    "('Date', '')":"2025-09-04",
+    "('Close', 'ULTRACEMCO.NS')":12651.0,
+    "('High', 'ULTRACEMCO.NS')":13097.0,
+    "('Low', 'ULTRACEMCO.NS')":12634.0,
+    "('Open', 'ULTRACEMCO.NS')":13000.0,
+    "('Volume', 'ULTRACEMCO.NS')":305040
+  },
+  {
+    "('Date', '')":"2025-09-05",
+    "('Close', 'ULTRACEMCO.NS')":12601.0,
+    "('High', 'ULTRACEMCO.NS')":12738.0,
+    "('Low', 'ULTRACEMCO.NS')":12530.0,
+    "('Open', 'ULTRACEMCO.NS')":12680.0,
+    "('Volume', 'ULTRACEMCO.NS')":153774
+  },
+  {
+    "('Date', '')":"2025-09-08",
+    "('Close', 'ULTRACEMCO.NS')":12664.0,
+    "('High', 'ULTRACEMCO.NS')":12743.0,
+    "('Low', 'ULTRACEMCO.NS')":12601.0,
+    "('Open', 'ULTRACEMCO.NS')":12601.0,
+    "('Volume', 'ULTRACEMCO.NS')":126448
+  },
+  {
+    "('Date', '')":"2025-09-09",
+    "('Close', 'ULTRACEMCO.NS')":12572.0,
+    "('High', 'ULTRACEMCO.NS')":12708.0,
+    "('Low', 'ULTRACEMCO.NS')":12533.0,
+    "('Open', 'ULTRACEMCO.NS')":12699.0,
+    "('Volume', 'ULTRACEMCO.NS')":240234
+  },
+  {
+    "('Date', '')":"2025-09-10",
+    "('Close', 'ULTRACEMCO.NS')":12478.0,
+    "('High', 'ULTRACEMCO.NS')":12626.0,
+    "('Low', 'ULTRACEMCO.NS')":12420.0,
+    "('Open', 'ULTRACEMCO.NS')":12625.0,
+    "('Volume', 'ULTRACEMCO.NS')":175576
+  },
+  {
+    "('Date', '')":"2025-09-11",
+    "('Close', 'ULTRACEMCO.NS')":12392.0,
+    "('High', 'ULTRACEMCO.NS')":12517.0,
+    "('Low', 'ULTRACEMCO.NS')":12360.0,
+    "('Open', 'ULTRACEMCO.NS')":12478.0,
+    "('Volume', 'ULTRACEMCO.NS')":132660
+  },
+  {
+    "('Date', '')":"2025-09-12",
+    "('Close', 'ULTRACEMCO.NS')":12370.0,
+    "('High', 'ULTRACEMCO.NS')":12479.0,
+    "('Low', 'ULTRACEMCO.NS')":12343.0,
+    "('Open', 'ULTRACEMCO.NS')":12396.0,
+    "('Volume', 'ULTRACEMCO.NS')":153086
+  },
+  {
+    "('Date', '')":"2025-09-15",
+    "('Close', 'ULTRACEMCO.NS')":12435.0,
+    "('High', 'ULTRACEMCO.NS')":12481.0,
+    "('Low', 'ULTRACEMCO.NS')":12324.0,
+    "('Open', 'ULTRACEMCO.NS')":12370.0,
+    "('Volume', 'ULTRACEMCO.NS')":179530
+  },
+  {
+    "('Date', '')":"2025-09-16",
+    "('Close', 'ULTRACEMCO.NS')":12578.0,
+    "('High', 'ULTRACEMCO.NS')":12599.0,
+    "('Low', 'ULTRACEMCO.NS')":12446.0,
+    "('Open', 'ULTRACEMCO.NS')":12497.0,
+    "('Volume', 'ULTRACEMCO.NS')":189043
+  },
+  {
+    "('Date', '')":"2025-09-17",
+    "('Close', 'ULTRACEMCO.NS')":12721.0,
+    "('High', 'ULTRACEMCO.NS')":12800.0,
+    "('Low', 'ULTRACEMCO.NS')":12614.0,
+    "('Open', 'ULTRACEMCO.NS')":12678.0,
+    "('Volume', 'ULTRACEMCO.NS')":264319
+  },
+  {
+    "('Date', '')":"2025-09-18",
+    "('Close', 'ULTRACEMCO.NS')":12626.0,
+    "('High', 'ULTRACEMCO.NS')":12749.0,
+    "('Low', 'ULTRACEMCO.NS')":12562.0,
+    "('Open', 'ULTRACEMCO.NS')":12730.0,
+    "('Volume', 'ULTRACEMCO.NS')":190079
+  },
+  {
+    "('Date', '')":"2025-09-19",
+    "('Close', 'ULTRACEMCO.NS')":12508.0,
+    "('High', 'ULTRACEMCO.NS')":12644.0,
+    "('Low', 'ULTRACEMCO.NS')":12484.0,
+    "('Open', 'ULTRACEMCO.NS')":12602.0,
+    "('Volume', 'ULTRACEMCO.NS')":571670
+  },
+  {
+    "('Date', '')":"2025-09-22",
+    "('Close', 'ULTRACEMCO.NS')":12650.0,
+    "('High', 'ULTRACEMCO.NS')":12706.0,
+    "('Low', 'ULTRACEMCO.NS')":12542.0,
+    "('Open', 'ULTRACEMCO.NS')":12547.0,
+    "('Volume', 'ULTRACEMCO.NS')":499548
+  },
+  {
+    "('Date', '')":"2025-09-23",
+    "('Close', 'ULTRACEMCO.NS')":12401.0,
+    "('High', 'ULTRACEMCO.NS')":12698.0,
+    "('Low', 'ULTRACEMCO.NS')":12361.0,
+    "('Open', 'ULTRACEMCO.NS')":12650.0,
+    "('Volume', 'ULTRACEMCO.NS')":403638
+  },
+  {
+    "('Date', '')":"2025-09-24",
+    "('Close', 'ULTRACEMCO.NS')":12214.0,
+    "('High', 'ULTRACEMCO.NS')":12448.0,
+    "('Low', 'ULTRACEMCO.NS')":12200.0,
+    "('Open', 'ULTRACEMCO.NS')":12427.0,
+    "('Volume', 'ULTRACEMCO.NS')":166517
+  },
+  {
+    "('Date', '')":"2025-09-25",
+    "('Close', 'ULTRACEMCO.NS')":12141.0,
+    "('High', 'ULTRACEMCO.NS')":12275.0,
+    "('Low', 'ULTRACEMCO.NS')":12120.0,
+    "('Open', 'ULTRACEMCO.NS')":12210.0,
+    "('Volume', 'ULTRACEMCO.NS')":272540
+  },
+  {
+    "('Date', '')":"2025-09-26",
+    "('Close', 'ULTRACEMCO.NS')":12070.0,
+    "('High', 'ULTRACEMCO.NS')":12199.0,
+    "('Low', 'ULTRACEMCO.NS')":11990.0,
+    "('Open', 'ULTRACEMCO.NS')":12140.0,
+    "('Volume', 'ULTRACEMCO.NS')":181541
+  },
+  {
+    "('Date', '')":"2025-09-29",
+    "('Close', 'ULTRACEMCO.NS')":12041.0,
+    "('High', 'ULTRACEMCO.NS')":12146.0,
+    "('Low', 'ULTRACEMCO.NS')":11962.0,
+    "('Open', 'ULTRACEMCO.NS')":12100.0,
+    "('Volume', 'ULTRACEMCO.NS')":214806
+  },
+  {
+    "('Date', '')":"2025-09-30",
+    "('Close', 'ULTRACEMCO.NS')":12222.0,
+    "('High', 'ULTRACEMCO.NS')":12261.0,
+    "('Low', 'ULTRACEMCO.NS')":12041.0,
+    "('Open', 'ULTRACEMCO.NS')":12041.0,
+    "('Volume', 'ULTRACEMCO.NS')":279155
+  },
+  {
+    "('Date', '')":"2025-10-01",
+    "('Close', 'ULTRACEMCO.NS')":12095.0,
+    "('High', 'ULTRACEMCO.NS')":12274.0,
+    "('Low', 'ULTRACEMCO.NS')":12071.0,
+    "('Open', 'ULTRACEMCO.NS')":12274.0,
+    "('Volume', 'ULTRACEMCO.NS')":129528
+  },
+  {
+    "('Date', '')":"2025-10-03",
+    "('Close', 'ULTRACEMCO.NS')":12019.0,
+    "('High', 'ULTRACEMCO.NS')":12139.0,
+    "('Low', 'ULTRACEMCO.NS')":11982.0,
+    "('Open', 'ULTRACEMCO.NS')":12095.0,
+    "('Volume', 'ULTRACEMCO.NS')":258411
+  },
+  {
+    "('Date', '')":"2025-10-06",
+    "('Close', 'ULTRACEMCO.NS')":12055.0,
+    "('High', 'ULTRACEMCO.NS')":12100.0,
+    "('Low', 'ULTRACEMCO.NS')":11991.0,
+    "('Open', 'ULTRACEMCO.NS')":12019.0,
+    "('Volume', 'ULTRACEMCO.NS')":106362
+  },
+  {
+    "('Date', '')":"2025-10-07",
+    "('Close', 'ULTRACEMCO.NS')":12184.0,
+    "('High', 'ULTRACEMCO.NS')":12210.0,
+    "('Low', 'ULTRACEMCO.NS')":12025.0,
+    "('Open', 'ULTRACEMCO.NS')":12059.0,
+    "('Volume', 'ULTRACEMCO.NS')":225472
+  },
+  {
+    "('Date', '')":"2025-10-08",
+    "('Close', 'ULTRACEMCO.NS')":11991.0,
+    "('High', 'ULTRACEMCO.NS')":12182.0,
+    "('Low', 'ULTRACEMCO.NS')":11940.0,
+    "('Open', 'ULTRACEMCO.NS')":12150.0,
+    "('Volume', 'ULTRACEMCO.NS')":173973
+  },
+  {
+    "('Date', '')":"2025-10-09",
+    "('Close', 'ULTRACEMCO.NS')":12192.0,
+    "('High', 'ULTRACEMCO.NS')":12211.0,
+    "('Low', 'ULTRACEMCO.NS')":11973.0,
+    "('Open', 'ULTRACEMCO.NS')":11991.0,
+    "('Volume', 'ULTRACEMCO.NS')":171737
+  },
+  {
+    "('Date', '')":"2025-10-10",
+    "('Close', 'ULTRACEMCO.NS')":12281.0,
+    "('High', 'ULTRACEMCO.NS')":12324.0,
+    "('Low', 'ULTRACEMCO.NS')":12111.0,
+    "('Open', 'ULTRACEMCO.NS')":12180.0,
+    "('Volume', 'ULTRACEMCO.NS')":198464
+  },
+  {
+    "('Date', '')":"2025-10-13",
+    "('Close', 'ULTRACEMCO.NS')":12172.0,
+    "('High', 'ULTRACEMCO.NS')":12249.0,
+    "('Low', 'ULTRACEMCO.NS')":12150.0,
+    "('Open', 'ULTRACEMCO.NS')":12225.0,
+    "('Volume', 'ULTRACEMCO.NS')":87745
+  },
+  {
+    "('Date', '')":"2025-10-14",
+    "('Close', 'ULTRACEMCO.NS')":12070.0,
+    "('High', 'ULTRACEMCO.NS')":12251.0,
+    "('Low', 'ULTRACEMCO.NS')":12026.0,
+    "('Open', 'ULTRACEMCO.NS')":12172.0,
+    "('Volume', 'ULTRACEMCO.NS')":129196
+  },
+  {
+    "('Date', '')":"2025-10-15",
+    "('Close', 'ULTRACEMCO.NS')":12311.0,
+    "('High', 'ULTRACEMCO.NS')":12325.0,
+    "('Low', 'ULTRACEMCO.NS')":12085.0,
+    "('Open', 'ULTRACEMCO.NS')":12085.0,
+    "('Volume', 'ULTRACEMCO.NS')":142328
+  },
+  {
+    "('Date', '')":"2025-10-16",
+    "('Close', 'ULTRACEMCO.NS')":12358.0,
+    "('High', 'ULTRACEMCO.NS')":12405.0,
+    "('Low', 'ULTRACEMCO.NS')":12268.0,
+    "('Open', 'ULTRACEMCO.NS')":12306.0,
+    "('Volume', 'ULTRACEMCO.NS')":129372
+  },
+  {
+    "('Date', '')":"2025-10-17",
+    "('Close', 'ULTRACEMCO.NS')":12370.0,
+    "('High', 'ULTRACEMCO.NS')":12390.0,
+    "('Low', 'ULTRACEMCO.NS')":12259.0,
+    "('Open', 'ULTRACEMCO.NS')":12300.0,
+    "('Volume', 'ULTRACEMCO.NS')":182242
+  },
+  {
+    "('Date', '')":"2025-10-20",
+    "('Close', 'ULTRACEMCO.NS')":12346.0,
+    "('High', 'ULTRACEMCO.NS')":12448.0,
+    "('Low', 'ULTRACEMCO.NS')":12175.0,
+    "('Open', 'ULTRACEMCO.NS')":12420.0,
+    "('Volume', 'ULTRACEMCO.NS')":393365
+  },
+  {
+    "('Date', '')":"2025-10-21",
+    "('Close', 'ULTRACEMCO.NS')":12342.0,
+    "('High', 'ULTRACEMCO.NS')":12417.0,
+    "('Low', 'ULTRACEMCO.NS')":12271.0,
+    "('Open', 'ULTRACEMCO.NS')":12371.0,
+    "('Volume', 'ULTRACEMCO.NS')":14465
+  },
+  {
+    "('Date', '')":"2025-10-23",
+    "('Close', 'ULTRACEMCO.NS')":12145.0,
+    "('High', 'ULTRACEMCO.NS')":12415.0,
+    "('Low', 'ULTRACEMCO.NS')":12112.0,
+    "('Open', 'ULTRACEMCO.NS')":12390.0,
+    "('Volume', 'ULTRACEMCO.NS')":370812
+  },
+  {
+    "('Date', '')":"2025-10-24",
+    "('Close', 'ULTRACEMCO.NS')":11918.0,
+    "('High', 'ULTRACEMCO.NS')":12174.0,
+    "('Low', 'ULTRACEMCO.NS')":11876.0,
+    "('Open', 'ULTRACEMCO.NS')":12149.0,
+    "('Volume', 'ULTRACEMCO.NS')":318840
+  },
+  {
+    "('Date', '')":"2025-10-27",
+    "('Close', 'ULTRACEMCO.NS')":12015.0,
+    "('High', 'ULTRACEMCO.NS')":12049.0,
+    "('Low', 'ULTRACEMCO.NS')":11920.0,
+    "('Open', 'ULTRACEMCO.NS')":11922.0,
+    "('Volume', 'ULTRACEMCO.NS')":408073
+  },
+  {
+    "('Date', '')":"2025-10-28",
+    "('Close', 'ULTRACEMCO.NS')":11931.0,
+    "('High', 'ULTRACEMCO.NS')":12048.0,
+    "('Low', 'ULTRACEMCO.NS')":11866.0,
+    "('Open', 'ULTRACEMCO.NS')":12025.0,
+    "('Volume', 'ULTRACEMCO.NS')":513095
+  },
+  {
+    "('Date', '')":"2025-10-29",
+    "('Close', 'ULTRACEMCO.NS')":11999.0,
+    "('High', 'ULTRACEMCO.NS')":12060.0,
+    "('Low', 'ULTRACEMCO.NS')":11899.0,
+    "('Open', 'ULTRACEMCO.NS')":11940.0,
+    "('Volume', 'ULTRACEMCO.NS')":394272
+  },
+  {
+    "('Date', '')":"2025-10-30",
+    "('Close', 'ULTRACEMCO.NS')":12053.0,
+    "('High', 'ULTRACEMCO.NS')":12084.0,
+    "('Low', 'ULTRACEMCO.NS')":11950.0,
+    "('Open', 'ULTRACEMCO.NS')":12040.0,
+    "('Volume', 'ULTRACEMCO.NS')":159943
+  },
+  {
+    "('Date', '')":"2025-10-31",
+    "('Close', 'ULTRACEMCO.NS')":11947.0,
+    "('High', 'ULTRACEMCO.NS')":12102.0,
+    "('Low', 'ULTRACEMCO.NS')":11917.0,
+    "('Open', 'ULTRACEMCO.NS')":12053.0,
+    "('Volume', 'ULTRACEMCO.NS')":175191
+  },
+  {
+    "('Date', '')":"2025-11-03",
+    "('Close', 'ULTRACEMCO.NS')":11950.0,
+    "('High', 'ULTRACEMCO.NS')":11984.0,
+    "('Low', 'ULTRACEMCO.NS')":11885.0,
+    "('Open', 'ULTRACEMCO.NS')":11927.0,
+    "('Volume', 'ULTRACEMCO.NS')":98394
+  },
+  {
+    "('Date', '')":"2025-11-04",
+    "('Close', 'ULTRACEMCO.NS')":11819.0,
+    "('High', 'ULTRACEMCO.NS')":11960.0,
+    "('Low', 'ULTRACEMCO.NS')":11785.0,
+    "('Open', 'ULTRACEMCO.NS')":11960.0,
+    "('Volume', 'ULTRACEMCO.NS')":199364
+  },
+  {
+    "('Date', '')":"2025-11-05",
+    "('Close', 'ULTRACEMCO.NS')":11819.0,
+    "('High', 'ULTRACEMCO.NS')":11819.0,
+    "('Low', 'ULTRACEMCO.NS')":11819.0,
+    "('Open', 'ULTRACEMCO.NS')":11819.0,
+    "('Volume', 'ULTRACEMCO.NS')":0
+  },
+  {
+    "('Date', '')":"2025-11-06",
+    "('Close', 'ULTRACEMCO.NS')":11910.0,
+    "('High', 'ULTRACEMCO.NS')":11985.0,
+    "('Low', 'ULTRACEMCO.NS')":11798.0,
+    "('Open', 'ULTRACEMCO.NS')":11800.0,
+    "('Volume', 'ULTRACEMCO.NS')":189652
+  },
+  {
+    "('Date', '')":"2025-11-07",
+    "('Close', 'ULTRACEMCO.NS')":11849.0,
+    "('High', 'ULTRACEMCO.NS')":11951.0,
+    "('Low', 'ULTRACEMCO.NS')":11834.0,
+    "('Open', 'ULTRACEMCO.NS')":11871.0,
+    "('Volume', 'ULTRACEMCO.NS')":148161
+  },
+  {
+    "('Date', '')":"2025-11-10",
+    "('Close', 'ULTRACEMCO.NS')":11728.0,
+    "('High', 'ULTRACEMCO.NS')":11890.0,
+    "('Low', 'ULTRACEMCO.NS')":11701.0,
+    "('Open', 'ULTRACEMCO.NS')":11851.0,
+    "('Volume', 'ULTRACEMCO.NS')":197085
+  },
+  {
+    "('Date', '')":"2025-11-11",
+    "('Close', 'ULTRACEMCO.NS')":11825.0,
+    "('High', 'ULTRACEMCO.NS')":11849.0,
+    "('Low', 'ULTRACEMCO.NS')":11720.0,
+    "('Open', 'ULTRACEMCO.NS')":11750.0,
+    "('Volume', 'ULTRACEMCO.NS')":125827
+  }
+]

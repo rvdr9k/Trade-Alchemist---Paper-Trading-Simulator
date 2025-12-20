@@ -1,0 +1,1994 @@
+[
+  {
+    "('Date', '')":"2024-11-11",
+    "('Close', 'HINDUNILVR.NS')":2445.8991699219,
+    "('High', 'HINDUNILVR.NS')":2469.3167391289,
+    "('Low', 'HINDUNILVR.NS')":2430.1891737549,
+    "('Open', 'HINDUNILVR.NS')":2463.5237739286,
+    "('Volume', 'HINDUNILVR.NS')":1175577
+  },
+  {
+    "('Date', '')":"2024-11-12",
+    "('Close', 'HINDUNILVR.NS')":2416.884765625,
+    "('High', 'HINDUNILVR.NS')":2451.6921785559,
+    "('Low', 'HINDUNILVR.NS')":2411.4844543469,
+    "('Open', 'HINDUNILVR.NS')":2449.7775706823,
+    "('Volume', 'HINDUNILVR.NS')":1624222
+  },
+  {
+    "('Date', '')":"2024-11-13",
+    "('Close', 'HINDUNILVR.NS')":2420.2722167969,
+    "('High', 'HINDUNILVR.NS')":2427.9800297882,
+    "('Low', 'HINDUNILVR.NS')":2405.9858906526,
+    "('Open', 'HINDUNILVR.NS')":2417.4740174734,
+    "('Volume', 'HINDUNILVR.NS')":1262017
+  },
+  {
+    "('Date', '')":"2024-11-14",
+    "('Close', 'HINDUNILVR.NS')":2345.8950195312,
+    "('High', 'HINDUNILVR.NS')":2420.0265604631,
+    "('Low', 'HINDUNILVR.NS')":2340.4947086024,
+    "('Open', 'HINDUNILVR.NS')":2415.8044512484,
+    "('Volume', 'HINDUNILVR.NS')":2443393
+  },
+  {
+    "('Date', '')":"2024-11-18",
+    "('Close', 'HINDUNILVR.NS')":2378.9841308594,
+    "('High', 'HINDUNILVR.NS')":2381.0461636295,
+    "('Low', 'HINDUNILVR.NS')":2332.688834327,
+    "('Open', 'HINDUNILVR.NS')":2357.6283559897,
+    "('Volume', 'HINDUNILVR.NS')":1374215
+  },
+  {
+    "('Date', '')":"2024-11-19",
+    "('Close', 'HINDUNILVR.NS')":2366.6618652344,
+    "('High', 'HINDUNILVR.NS')":2395.9706822676,
+    "('Low', 'HINDUNILVR.NS')":2361.5070228716,
+    "('Open', 'HINDUNILVR.NS')":2387.8210740177,
+    "('Volume', 'HINDUNILVR.NS')":1133370
+  },
+  {
+    "('Date', '')":"2024-11-21",
+    "('Close', 'HINDUNILVR.NS')":2339.6110839844,
+    "('High', 'HINDUNILVR.NS')":2380.8006797218,
+    "('Low', 'HINDUNILVR.NS')":2333.032571435,
+    "('Open', 'HINDUNILVR.NS')":2380.8006797218,
+    "('Volume', 'HINDUNILVR.NS')":1291829
+  },
+  {
+    "('Date', '')":"2024-11-22",
+    "('Close', 'HINDUNILVR.NS')":2400.9291992188,
+    "('High', 'HINDUNILVR.NS')":2407.6551370494,
+    "('Low', 'HINDUNILVR.NS')":2334.7509378706,
+    "('Open', 'HINDUNILVR.NS')":2347.6133530883,
+    "('Volume', 'HINDUNILVR.NS')":1696471
+  },
+  {
+    "('Date', '')":"2024-11-25",
+    "('Close', 'HINDUNILVR.NS')":2426.654296875,
+    "('High', 'HINDUNILVR.NS')":2460.2835069784,
+    "('Low', 'HINDUNILVR.NS')":2413.0554754508,
+    "('Open', 'HINDUNILVR.NS')":2425.2306264342,
+    "('Volume', 'HINDUNILVR.NS')":4368045
+  },
+  {
+    "('Date', '')":"2024-11-26",
+    "('Close', 'HINDUNILVR.NS')":2434.2639160156,
+    "('High', 'HINDUNILVR.NS')":2449.7284438602,
+    "('Low', 'HINDUNILVR.NS')":2415.8046221374,
+    "('Open', 'HINDUNILVR.NS')":2441.1861811844,
+    "('Volume', 'HINDUNILVR.NS')":982442
+  },
+  {
+    "('Date', '')":"2024-11-27",
+    "('Close', 'HINDUNILVR.NS')":2441.82421875,
+    "('High', 'HINDUNILVR.NS')":2447.7646089278,
+    "('Low', 'HINDUNILVR.NS')":2413.4481343744,
+    "('Open', 'HINDUNILVR.NS')":2430.2871904429,
+    "('Volume', 'HINDUNILVR.NS')":948232
+  },
+  {
+    "('Date', '')":"2024-11-28",
+    "('Close', 'HINDUNILVR.NS')":2417.5720214844,
+    "('High', 'HINDUNILVR.NS')":2493.1272374282,
+    "('Low', 'HINDUNILVR.NS')":2408.7351485151,
+    "('Open', 'HINDUNILVR.NS')":2440.9406890572,
+    "('Volume', 'HINDUNILVR.NS')":2540530
+  },
+  {
+    "('Date', '')":"2024-11-29",
+    "('Close', 'HINDUNILVR.NS')":2450.9064941406,
+    "('High', 'HINDUNILVR.NS')":2462.0508681338,
+    "('Low', 'HINDUNILVR.NS')":2410.6007285304,
+    "('Open', 'HINDUNILVR.NS')":2410.6007285304,
+    "('Volume', 'HINDUNILVR.NS')":1795164
+  },
+  {
+    "('Date', '')":"2024-12-02",
+    "('Close', 'HINDUNILVR.NS')":2434.2145996094,
+    "('High', 'HINDUNILVR.NS')":2445.3589734916,
+    "('Low', 'HINDUNILVR.NS')":2415.9518737712,
+    "('Open', 'HINDUNILVR.NS')":2439.9586625684,
+    "('Volume', 'HINDUNILVR.NS')":1006993
+  },
+  {
+    "('Date', '')":"2024-12-03",
+    "('Close', 'HINDUNILVR.NS')":2437.8479003906,
+    "('High', 'HINDUNILVR.NS')":2446.2918796935,
+    "('Low', 'HINDUNILVR.NS')":2421.303214414,
+    "('Open', 'HINDUNILVR.NS')":2435.0494613734,
+    "('Volume', 'HINDUNILVR.NS')":1641588
+  },
+  {
+    "('Date', '')":"2024-12-04",
+    "('Close', 'HINDUNILVR.NS')":2419.8303222656,
+    "('High', 'HINDUNILVR.NS')":2447.8137526509,
+    "('Low', 'HINDUNILVR.NS')":2412.0244659434,
+    "('Open', 'HINDUNILVR.NS')":2436.1295390078,
+    "('Volume', 'HINDUNILVR.NS')":1321495
+  },
+  {
+    "('Date', '')":"2024-12-05",
+    "('Close', 'HINDUNILVR.NS')":2449.3850097656,
+    "('High', 'HINDUNILVR.NS')":2469.4151601085,
+    "('Low', 'HINDUNILVR.NS')":2405.6424388075,
+    "('Open', 'HINDUNILVR.NS')":2420.9106401262,
+    "('Volume', 'HINDUNILVR.NS')":2071795
+  },
+  {
+    "('Date', '')":"2024-12-06",
+    "('Close', 'HINDUNILVR.NS')":2438.7805175781,
+    "('High', 'HINDUNILVR.NS')":2450.5630144119,
+    "('Low', 'HINDUNILVR.NS')":2430.139971957,
+    "('Open', 'HINDUNILVR.NS')":2449.7774666798,
+    "('Volume', 'HINDUNILVR.NS')":1308086
+  },
+  {
+    "('Date', '')":"2024-12-09",
+    "('Close', 'HINDUNILVR.NS')":2357.2358398438,
+    "('High', 'HINDUNILVR.NS')":2432.0546489229,
+    "('Low', 'HINDUNILVR.NS')":2340.1021731538,
+    "('Open', 'HINDUNILVR.NS')":2420.3212934353,
+    "('Volume', 'HINDUNILVR.NS')":3385021
+  },
+  {
+    "('Date', '')":"2024-12-10",
+    "('Close', 'HINDUNILVR.NS')":2353.8977050781,
+    "('High', 'HINDUNILVR.NS')":2369.2639501867,
+    "('Low', 'HINDUNILVR.NS')":2345.0116899783,
+    "('Open', 'HINDUNILVR.NS')":2365.0418405006,
+    "('Volume', 'HINDUNILVR.NS')":2063838
+  },
+  {
+    "('Date', '')":"2024-12-11",
+    "('Close', 'HINDUNILVR.NS')":2357.8249511719,
+    "('High', 'HINDUNILVR.NS')":2365.6799489199,
+    "('Low', 'HINDUNILVR.NS')":2341.7712036381,
+    "('Open', 'HINDUNILVR.NS')":2361.4086980082,
+    "('Volume', 'HINDUNILVR.NS')":1718225
+  },
+  {
+    "('Date', '')":"2024-12-12",
+    "('Close', 'HINDUNILVR.NS')":2302.447265625,
+    "('High', 'HINDUNILVR.NS')":2356.4503796557,
+    "('Low', 'HINDUNILVR.NS')":2295.6232837042,
+    "('Open', 'HINDUNILVR.NS')":2341.8205410136,
+    "('Volume', 'HINDUNILVR.NS')":3231056
+  },
+  {
+    "('Date', '')":"2024-12-13",
+    "('Close', 'HINDUNILVR.NS')":2346.7788085938,
+    "('High', 'HINDUNILVR.NS')":2351.1481030512,
+    "('Low', 'HINDUNILVR.NS')":2291.1554631934,
+    "('Open', 'HINDUNILVR.NS')":2302.4470222061,
+    "('Volume', 'HINDUNILVR.NS')":2260902
+  },
+  {
+    "('Date', '')":"2024-12-16",
+    "('Close', 'HINDUNILVR.NS')":2323.2626953125,
+    "('High', 'HINDUNILVR.NS')":2349.6261265509,
+    "('Low', 'HINDUNILVR.NS')":2320.1698859339,
+    "('Open', 'HINDUNILVR.NS')":2346.9751128385,
+    "('Volume', 'HINDUNILVR.NS')":1247552
+  },
+  {
+    "('Date', '')":"2024-12-17",
+    "('Close', 'HINDUNILVR.NS')":2320.4155273438,
+    "('High', 'HINDUNILVR.NS')":2336.8619295792,
+    "('Low', 'HINDUNILVR.NS')":2310.6950631027,
+    "('Open', 'HINDUNILVR.NS')":2310.6950631027,
+    "('Volume', 'HINDUNILVR.NS')":2131569
+  },
+  {
+    "('Date', '')":"2024-12-18",
+    "('Close', 'HINDUNILVR.NS')":2316.4387207031,
+    "('High', 'HINDUNILVR.NS')":2339.8073862682,
+    "('Low', 'HINDUNILVR.NS')":2307.4546631758,
+    "('Open', 'HINDUNILVR.NS')":2307.4546631758,
+    "('Volume', 'HINDUNILVR.NS')":988403
+  },
+  {
+    "('Date', '')":"2024-12-19",
+    "('Close', 'HINDUNILVR.NS')":2317.0773925781,
+    "('High', 'HINDUNILVR.NS')":2343.686056402,
+    "('Low', 'HINDUNILVR.NS')":2293.6595822075,
+    "('Open', 'HINDUNILVR.NS')":2304.4602052401,
+    "('Volume', 'HINDUNILVR.NS')":1655915
+  },
+  {
+    "('Date', '')":"2024-12-20",
+    "('Close', 'HINDUNILVR.NS')":2291.5974121094,
+    "('High', 'HINDUNILVR.NS')":2330.4797485871,
+    "('Low', 'HINDUNILVR.NS')":2282.5150705571,
+    "('Open', 'HINDUNILVR.NS')":2309.4677245577,
+    "('Volume', 'HINDUNILVR.NS')":2069691
+  },
+  {
+    "('Date', '')":"2024-12-23",
+    "('Close', 'HINDUNILVR.NS')":2296.5068359375,
+    "('High', 'HINDUNILVR.NS')":2309.1240227955,
+    "('Low', 'HINDUNILVR.NS')":2273.2855931869,
+    "('Open', 'HINDUNILVR.NS')":2294.6413697345,
+    "('Volume', 'HINDUNILVR.NS')":1066199
+  },
+  {
+    "('Date', '')":"2024-12-24",
+    "('Close', 'HINDUNILVR.NS')":2293.2175292969,
+    "('High', 'HINDUNILVR.NS')":2314.2295522268,
+    "('Low', 'HINDUNILVR.NS')":2288.8482347759,
+    "('Open', 'HINDUNILVR.NS')":2288.8482347759,
+    "('Volume', 'HINDUNILVR.NS')":683646
+  },
+  {
+    "('Date', '')":"2024-12-26",
+    "('Close', 'HINDUNILVR.NS')":2290.4682617188,
+    "('High', 'HINDUNILVR.NS')":2299.4034175907,
+    "('Low', 'HINDUNILVR.NS')":2282.5641222498,
+    "('Open', 'HINDUNILVR.NS')":2289.9773243569,
+    "('Volume', 'HINDUNILVR.NS')":1033769
+  },
+  {
+    "('Date', '')":"2024-12-27",
+    "('Close', 'HINDUNILVR.NS')":2298.8142089844,
+    "('High', 'HINDUNILVR.NS')":2303.1343619052,
+    "('Low', 'HINDUNILVR.NS')":2286.049837509,
+    "('Open', 'HINDUNILVR.NS')":2300.5324897599,
+    "('Volume', 'HINDUNILVR.NS')":556816
+  },
+  {
+    "('Date', '')":"2024-12-30",
+    "('Close', 'HINDUNILVR.NS')":2301.0234375,
+    "('High', 'HINDUNILVR.NS')":2316.38968119,
+    "('Low', 'HINDUNILVR.NS')":2282.8587549339,
+    "('Open', 'HINDUNILVR.NS')":2299.0596880334,
+    "('Volume', 'HINDUNILVR.NS')":924180
+  },
+  {
+    "('Date', '')":"2024-12-31",
+    "('Close', 'HINDUNILVR.NS')":2284.6752929688,
+    "('High', 'HINDUNILVR.NS')":2310.0074690261,
+    "('Low', 'HINDUNILVR.NS')":2281.140448083,
+    "('Open', 'HINDUNILVR.NS')":2297.586849678,
+    "('Volume', 'HINDUNILVR.NS')":1878762
+  },
+  {
+    "('Date', '')":"2025-01-01",
+    "('Close', 'HINDUNILVR.NS')":2280.0114746094,
+    "('High', 'HINDUNILVR.NS')":2294.7884979654,
+    "('Low', 'HINDUNILVR.NS')":2278.1949104183,
+    "('Open', 'HINDUNILVR.NS')":2282.8588155253,
+    "('Volume', 'HINDUNILVR.NS')":559893
+  },
+  {
+    "('Date', '')":"2025-01-02",
+    "('Close', 'HINDUNILVR.NS')":2327.04296875,
+    "('High', 'HINDUNILVR.NS')":2336.5179634328,
+    "('Low', 'HINDUNILVR.NS')":2273.5307992155,
+    "('Open', 'HINDUNILVR.NS')":2287.7679819357,
+    "('Volume', 'HINDUNILVR.NS')":1650744
+  },
+  {
+    "('Date', '')":"2025-01-03",
+    "('Close', 'HINDUNILVR.NS')":2362.6359863281,
+    "('High', 'HINDUNILVR.NS')":2370.8347359227,
+    "('Low', 'HINDUNILVR.NS')":2321.9373281379,
+    "('Open', 'HINDUNILVR.NS')":2338.6783396413,
+    "('Volume', 'HINDUNILVR.NS')":1274239
+  },
+  {
+    "('Date', '')":"2025-01-06",
+    "('Close', 'HINDUNILVR.NS')":2333.1306152344,
+    "('High', 'HINDUNILVR.NS')":2375.105758678,
+    "('Low', 'HINDUNILVR.NS')":2318.8442903999,
+    "('Open', 'HINDUNILVR.NS')":2374.1730256557,
+    "('Volume', 'HINDUNILVR.NS')":900419
+  },
+  {
+    "('Date', '')":"2025-01-07",
+    "('Close', 'HINDUNILVR.NS')":2347.4663085938,
+    "('High', 'HINDUNILVR.NS')":2358.7087270571,
+    "('Low', 'HINDUNILVR.NS')":2332.1981075834,
+    "('Open', 'HINDUNILVR.NS')":2334.0635738083,
+    "('Volume', 'HINDUNILVR.NS')":922768
+  },
+  {
+    "('Date', '')":"2025-01-08",
+    "('Close', 'HINDUNILVR.NS')":2357.4812011719,
+    "('High', 'HINDUNILVR.NS')":2365.3361989267,
+    "('Low', 'HINDUNILVR.NS')":2325.0793354332,
+    "('Open', 'HINDUNILVR.NS')":2347.6624539783,
+    "('Volume', 'HINDUNILVR.NS')":953351
+  },
+  {
+    "('Date', '')":"2025-01-09",
+    "('Close', 'HINDUNILVR.NS')":2391.2575683594,
+    "('High', 'HINDUNILVR.NS')":2428.8142759464,
+    "('Low', 'HINDUNILVR.NS')":2343.1457076597,
+    "('Open', 'HINDUNILVR.NS')":2361.4578147961,
+    "('Volume', 'HINDUNILVR.NS')":2425267
+  },
+  {
+    "('Date', '')":"2025-01-10",
+    "('Close', 'HINDUNILVR.NS')":2397.7873535156,
+    "('High', 'HINDUNILVR.NS')":2411.4844587482,
+    "('Low', 'HINDUNILVR.NS')":2370.0493909913,
+    "('Open', 'HINDUNILVR.NS')":2391.2577424018,
+    "('Volume', 'HINDUNILVR.NS')":1651911
+  },
+  {
+    "('Date', '')":"2025-01-13",
+    "('Close', 'HINDUNILVR.NS')":2406.5751953125,
+    "('High', 'HINDUNILVR.NS')":2415.903006147,
+    "('Low', 'HINDUNILVR.NS')":2365.3855943599,
+    "('Open', 'HINDUNILVR.NS')":2373.2405929574,
+    "('Volume', 'HINDUNILVR.NS')":2595013
+  },
+  {
+    "('Date', '')":"2025-01-14",
+    "('Close', 'HINDUNILVR.NS')":2325.0302734375,
+    "('High', 'HINDUNILVR.NS')":2423.2668904189,
+    "('Low', 'HINDUNILVR.NS')":2321.2501994677,
+    "('Open', 'HINDUNILVR.NS')":2420.3212661598,
+    "('Volume', 'HINDUNILVR.NS')":2052741
+  },
+  {
+    "('Date', '')":"2025-01-15",
+    "('Close', 'HINDUNILVR.NS')":2329.9890136719,
+    "('High', 'HINDUNILVR.NS')":2341.6732284737,
+    "('Low', 'HINDUNILVR.NS')":2307.504175545,
+    "('Open', 'HINDUNILVR.NS')":2330.8726051486,
+    "('Volume', 'HINDUNILVR.NS')":1215150
+  },
+  {
+    "('Date', '')":"2025-01-16",
+    "('Close', 'HINDUNILVR.NS')":2302.4963378906,
+    "('High', 'HINDUNILVR.NS')":2336.8619548741,
+    "('Low', 'HINDUNILVR.NS')":2283.8898589241,
+    "('Open', 'HINDUNILVR.NS')":2333.8671888795,
+    "('Volume', 'HINDUNILVR.NS')":2762596
+  },
+  {
+    "('Date', '')":"2025-01-17",
+    "('Close', 'HINDUNILVR.NS')":2311.3332519531,
+    "('High', 'HINDUNILVR.NS')":2336.1747320434,
+    "('Low', 'HINDUNILVR.NS')":2300.5326292804,
+    "('Open', 'HINDUNILVR.NS')":2307.4057527994,
+    "('Volume', 'HINDUNILVR.NS')":1333005
+  },
+  {
+    "('Date', '')":"2025-01-20",
+    "('Close', 'HINDUNILVR.NS')":2302.6926269531,
+    "('High', 'HINDUNILVR.NS')":2325.0794193051,
+    "('Low', 'HINDUNILVR.NS')":2293.3156751019,
+    "('Open', 'HINDUNILVR.NS')":2313.7387179443,
+    "('Volume', 'HINDUNILVR.NS')":1382273
+  },
+  {
+    "('Date', '')":"2025-01-21",
+    "('Close', 'HINDUNILVR.NS')":2298.0778808594,
+    "('High', 'HINDUNILVR.NS')":2334.2109200503,
+    "('Low', 'HINDUNILVR.NS')":2290.1737410808,
+    "('Open', 'HINDUNILVR.NS')":2310.8422527676,
+    "('Volume', 'HINDUNILVR.NS')":1842885
+  },
+  {
+    "('Date', '')":"2025-01-22",
+    "('Close', 'HINDUNILVR.NS')":2300.4833984375,
+    "('High', 'HINDUNILVR.NS')":2319.1881603752,
+    "('Low', 'HINDUNILVR.NS')":2289.928244871,
+    "('Open', 'HINDUNILVR.NS')":2300.0907444236,
+    "('Volume', 'HINDUNILVR.NS')":2658047
+  },
+  {
+    "('Date', '')":"2025-01-23",
+    "('Close', 'HINDUNILVR.NS')":2279.6184082031,
+    "('High', 'HINDUNILVR.NS')":2298.8632479152,
+    "('Low', 'HINDUNILVR.NS')":2212.9983546557,
+    "('Open', 'HINDUNILVR.NS')":2273.0398957568,
+    "('Volume', 'HINDUNILVR.NS')":3408925
+  },
+  {
+    "('Date', '')":"2025-01-24",
+    "('Close', 'HINDUNILVR.NS')":2325.177734375,
+    "('High', 'HINDUNILVR.NS')":2337.6474959876,
+    "('Low', 'HINDUNILVR.NS')":2280.8950864446,
+    "('Open', 'HINDUNILVR.NS')":2290.5666487972,
+    "('Volume', 'HINDUNILVR.NS')":1688664
+  },
+  {
+    "('Date', '')":"2025-01-27",
+    "('Close', 'HINDUNILVR.NS')":2349.4790039062,
+    "('High', 'HINDUNILVR.NS')":2366.0234489982,
+    "('Low', 'HINDUNILVR.NS')":2318.3533837183,
+    "('Open', 'HINDUNILVR.NS')":2322.1336972511,
+    "('Volume', 'HINDUNILVR.NS')":2477358
+  },
+  {
+    "('Date', '')":"2025-01-28",
+    "('Close', 'HINDUNILVR.NS')":2345.5515136719,
+    "('High', 'HINDUNILVR.NS')":2363.3724438998,
+    "('Low', 'HINDUNILVR.NS')":2336.3217475025,
+    "('Open', 'HINDUNILVR.NS')":2357.4811955976,
+    "('Volume', 'HINDUNILVR.NS')":1892156
+  },
+  {
+    "('Date', '')":"2025-01-29",
+    "('Close', 'HINDUNILVR.NS')":2340.740234375,
+    "('High', 'HINDUNILVR.NS')":2352.5718729144,
+    "('Low', 'HINDUNILVR.NS')":2321.1518812895,
+    "('Open', 'HINDUNILVR.NS')":2341.9184361178,
+    "('Volume', 'HINDUNILVR.NS')":699576
+  },
+  {
+    "('Date', '')":"2025-01-30",
+    "('Close', 'HINDUNILVR.NS')":2365.0908203125,
+    "('High', 'HINDUNILVR.NS')":2381.0462851096,
+    "('Low', 'HINDUNILVR.NS')":2340.789420083,
+    "('Open', 'HINDUNILVR.NS')":2340.789420083,
+    "('Volume', 'HINDUNILVR.NS')":1419960
+  },
+  {
+    "('Date', '')":"2025-01-31",
+    "('Close', 'HINDUNILVR.NS')":2424.0524902344,
+    "('High', 'HINDUNILVR.NS')":2434.0675649871,
+    "('Low', 'HINDUNILVR.NS')":2357.9722699945,
+    "('Open', 'HINDUNILVR.NS')":2357.9722699945,
+    "('Volume', 'HINDUNILVR.NS')":2116148
+  },
+  {
+    "('Date', '')":"2025-02-01",
+    "('Close', 'HINDUNILVR.NS')":2460.6271972656,
+    "('High', 'HINDUNILVR.NS')":2554.8380289847,
+    "('Low', 'HINDUNILVR.NS')":2391.0121355827,
+    "('Open', 'HINDUNILVR.NS')":2430.1399391765,
+    "('Volume', 'HINDUNILVR.NS')":2970999
+  },
+  {
+    "('Date', '')":"2025-02-03",
+    "('Close', 'HINDUNILVR.NS')":2397.6889648438,
+    "('High', 'HINDUNILVR.NS')":2474.3243359704,
+    "('Low', 'HINDUNILVR.NS')":2372.700300743,
+    "('Open', 'HINDUNILVR.NS')":2459.5962149229,
+    "('Volume', 'HINDUNILVR.NS')":2528480
+  },
+  {
+    "('Date', '')":"2025-02-04",
+    "('Close', 'HINDUNILVR.NS')":2393.8596191406,
+    "('High', 'HINDUNILVR.NS')":2405.5929736609,
+    "('Low', 'HINDUNILVR.NS')":2359.2976782377,
+    "('Open', 'HINDUNILVR.NS')":2405.5929736609,
+    "('Volume', 'HINDUNILVR.NS')":1992474
+  },
+  {
+    "('Date', '')":"2025-02-05",
+    "('Close', 'HINDUNILVR.NS')":2347.7116699219,
+    "('High', 'HINDUNILVR.NS')":2408.538762767,
+    "('Low', 'HINDUNILVR.NS')":2343.7350292396,
+    "('Open', 'HINDUNILVR.NS')":2408.538762767,
+    "('Volume', 'HINDUNILVR.NS')":1357416
+  },
+  {
+    "('Date', '')":"2025-02-06",
+    "('Close', 'HINDUNILVR.NS')":2329.6940917969,
+    "('High', 'HINDUNILVR.NS')":2365.2870502685,
+    "('Low', 'HINDUNILVR.NS')":2317.518941199,
+    "('Open', 'HINDUNILVR.NS')":2356.4993194993,
+    "('Volume', 'HINDUNILVR.NS')":1132113
+  },
+  {
+    "('Date', '')":"2025-02-07",
+    "('Close', 'HINDUNILVR.NS')":2321.0046386719,
+    "('High', 'HINDUNILVR.NS')":2338.7764271667,
+    "('Low', 'HINDUNILVR.NS')":2293.7576153572,
+    "('Open', 'HINDUNILVR.NS')":2336.8618194174,
+    "('Volume', 'HINDUNILVR.NS')":855602
+  },
+  {
+    "('Date', '')":"2025-02-10",
+    "('Close', 'HINDUNILVR.NS')":2318.6481933594,
+    "('High', 'HINDUNILVR.NS')":2354.5357651627,
+    "('Low', 'HINDUNILVR.NS')":2309.4186661461,
+    "('Open', 'HINDUNILVR.NS')":2327.9268622556,
+    "('Volume', 'HINDUNILVR.NS')":1326354
+  },
+  {
+    "('Date', '')":"2025-02-11",
+    "('Close', 'HINDUNILVR.NS')":2273.2856445312,
+    "('High', 'HINDUNILVR.NS')":2334.8491469227,
+    "('Low', 'HINDUNILVR.NS')":2254.9246336026,
+    "('Open', 'HINDUNILVR.NS')":2328.0251649643,
+    "('Volume', 'HINDUNILVR.NS')":1389260
+  },
+  {
+    "('Date', '')":"2025-02-12",
+    "('Close', 'HINDUNILVR.NS')":2290.22265625,
+    "('High', 'HINDUNILVR.NS')":2297.4884328852,
+    "('Low', 'HINDUNILVR.NS')":2263.3193863136,
+    "('Open', 'HINDUNILVR.NS')":2283.5458605845,
+    "('Volume', 'HINDUNILVR.NS')":1341909
+  },
+  {
+    "('Date', '')":"2025-02-13",
+    "('Close', 'HINDUNILVR.NS')":2279.4223632812,
+    "('High', 'HINDUNILVR.NS')":2303.085642004,
+    "('Low', 'HINDUNILVR.NS')":2271.4201794945,
+    "('Open', 'HINDUNILVR.NS')":2287.8665825033,
+    "('Volume', 'HINDUNILVR.NS')":1334967
+  },
+  {
+    "('Date', '')":"2025-02-14",
+    "('Close', 'HINDUNILVR.NS')":2276.3293457031,
+    "('High', 'HINDUNILVR.NS')":2323.115580075,
+    "('Low', 'HINDUNILVR.NS')":2271.4688740823,
+    "('Open', 'HINDUNILVR.NS')":2279.9130925334,
+    "('Volume', 'HINDUNILVR.NS')":1135380
+  },
+  {
+    "('Date', '')":"2025-02-17",
+    "('Close', 'HINDUNILVR.NS')":2287.1789550781,
+    "('High', 'HINDUNILVR.NS')":2293.6594243379,
+    "('Low', 'HINDUNILVR.NS')":2258.3119332094,
+    "('Open', 'HINDUNILVR.NS')":2276.3294308236,
+    "('Volume', 'HINDUNILVR.NS')":1409168
+  },
+  {
+    "('Date', '')":"2025-02-18",
+    "('Close', 'HINDUNILVR.NS')":2254.3845214844,
+    "('High', 'HINDUNILVR.NS')":2296.1633418095,
+    "('Low', 'HINDUNILVR.NS')":2246.5295231517,
+    "('Open', 'HINDUNILVR.NS')":2287.1790436372,
+    "('Volume', 'HINDUNILVR.NS')":1035705
+  },
+  {
+    "('Date', '')":"2025-02-19",
+    "('Close', 'HINDUNILVR.NS')":2209.6108398438,
+    "('High', 'HINDUNILVR.NS')":2263.9085614208,
+    "('Low', 'HINDUNILVR.NS')":2207.2544363317,
+    "('Open', 'HINDUNILVR.NS')":2257.0845798566,
+    "('Volume', 'HINDUNILVR.NS')":1521343
+  },
+  {
+    "('Date', '')":"2025-02-20",
+    "('Close', 'HINDUNILVR.NS')":2207.3034667969,
+    "('High', 'HINDUNILVR.NS')":2213.5873689893,
+    "('Low', 'HINDUNILVR.NS')":2186.1440190734,
+    "('Open', 'HINDUNILVR.NS')":2209.6107285121,
+    "('Volume', 'HINDUNILVR.NS')":2206196
+  },
+  {
+    "('Date', '')":"2025-02-21",
+    "('Close', 'HINDUNILVR.NS')":2201.01953125,
+    "('High', 'HINDUNILVR.NS')":2212.7039851023,
+    "('Low', 'HINDUNILVR.NS')":2186.0459406744,
+    "('Open', 'HINDUNILVR.NS')":2207.3036737471,
+    "('Volume', 'HINDUNILVR.NS')":1781509
+  },
+  {
+    "('Date', '')":"2025-02-24",
+    "('Close', 'HINDUNILVR.NS')":2200.8229980469,
+    "('High', 'HINDUNILVR.NS')":2210.1999493736,
+    "('Low', 'HINDUNILVR.NS')":2178.5836319814,
+    "('Open', 'HINDUNILVR.NS')":2189.5805806766,
+    "('Volume', 'HINDUNILVR.NS')":1627949
+  },
+  {
+    "('Date', '')":"2025-02-25",
+    "('Close', 'HINDUNILVR.NS')":2218.349609375,
+    "('High', 'HINDUNILVR.NS')":2228.4629669639,
+    "('Low', 'HINDUNILVR.NS')":2197.386488155,
+    "('Open', 'HINDUNILVR.NS')":2202.3450034487,
+    "('Volume', 'HINDUNILVR.NS')":1988040
+  },
+  {
+    "('Date', '')":"2025-02-27",
+    "('Close', 'HINDUNILVR.NS')":2204.2595214844,
+    "('High', 'HINDUNILVR.NS')":2228.5117782095,
+    "('Low', 'HINDUNILVR.NS')":2192.624450321,
+    "('Open', 'HINDUNILVR.NS')":2228.5117782095,
+    "('Volume', 'HINDUNILVR.NS')":1699658
+  },
+  {
+    "('Date', '')":"2025-02-28",
+    "('Close', 'HINDUNILVR.NS')":2150.5512695312,
+    "('High', 'HINDUNILVR.NS')":2208.8256344948,
+    "('Low', 'HINDUNILVR.NS')":2146.2311163199,
+    "('Open', 'HINDUNILVR.NS')":2204.3580562349,
+    "('Volume', 'HINDUNILVR.NS')":3683249
+  },
+  {
+    "('Date', '')":"2025-03-03",
+    "('Close', 'HINDUNILVR.NS')":2137.3940429688,
+    "('High', 'HINDUNILVR.NS')":2159.1424717525,
+    "('Low', 'HINDUNILVR.NS')":2119.3765462837,
+    "('Open', 'HINDUNILVR.NS')":2159.1424717525,
+    "('Volume', 'HINDUNILVR.NS')":1306470
+  },
+  {
+    "('Date', '')":"2025-03-04",
+    "('Close', 'HINDUNILVR.NS')":2118.2475585938,
+    "('High', 'HINDUNILVR.NS')":2140.4869254884,
+    "('Low', 'HINDUNILVR.NS')":2097.2844370841,
+    "('Open', 'HINDUNILVR.NS')":2140.4377838085,
+    "('Volume', 'HINDUNILVR.NS')":1800330
+  },
+  {
+    "('Date', '')":"2025-03-05",
+    "('Close', 'HINDUNILVR.NS')":2131.1101074219,
+    "('High', 'HINDUNILVR.NS')":2152.1712738963,
+    "('Low', 'HINDUNILVR.NS')":2111.0308157454,
+    "('Open', 'HINDUNILVR.NS')":2112.9945653415,
+    "('Volume', 'HINDUNILVR.NS')":1145673
+  },
+  {
+    "('Date', '')":"2025-03-06",
+    "('Close', 'HINDUNILVR.NS')":2178.7309570312,
+    "('High', 'HINDUNILVR.NS')":2189.3843940941,
+    "('Low', 'HINDUNILVR.NS')":2124.5315180663,
+    "('Open', 'HINDUNILVR.NS')":2135.5776091481,
+    "('Volume', 'HINDUNILVR.NS')":1856868
+  },
+  {
+    "('Date', '')":"2025-03-07",
+    "('Close', 'HINDUNILVR.NS')":2164.5920410156,
+    "('High', 'HINDUNILVR.NS')":2186.3404709721,
+    "('Low', 'HINDUNILVR.NS')":2149.5201676267,
+    "('Open', 'HINDUNILVR.NS')":2186.3404709721,
+    "('Volume', 'HINDUNILVR.NS')":1738356
+  },
+  {
+    "('Date', '')":"2025-03-10",
+    "('Close', 'HINDUNILVR.NS')":2207.0090332031,
+    "('High', 'HINDUNILVR.NS')":2226.0573080183,
+    "('Low', 'HINDUNILVR.NS')":2154.8713865826,
+    "('Open', 'HINDUNILVR.NS')":2167.9795107608,
+    "('Volume', 'HINDUNILVR.NS')":1242387
+  },
+  {
+    "('Date', '')":"2025-03-11",
+    "('Close', 'HINDUNILVR.NS')":2176.7670898438,
+    "('High', 'HINDUNILVR.NS')":2221.4423891375,
+    "('Low', 'HINDUNILVR.NS')":2171.1704519413,
+    "('Open', 'HINDUNILVR.NS')":2199.3993498467,
+    "('Volume', 'HINDUNILVR.NS')":1325891
+  },
+  {
+    "('Date', '')":"2025-03-12",
+    "('Close', 'HINDUNILVR.NS')":2153.1530761719,
+    "('High', 'HINDUNILVR.NS')":2189.5315841564,
+    "('Low', 'HINDUNILVR.NS')":2145.396361415,
+    "('Open', 'HINDUNILVR.NS')":2177.1601059473,
+    "('Volume', 'HINDUNILVR.NS')":1526212
+  },
+  {
+    "('Date', '')":"2025-03-13",
+    "('Close', 'HINDUNILVR.NS')":2135.3813476562,
+    "('High', 'HINDUNILVR.NS')":2169.8941507423,
+    "('Low', 'HINDUNILVR.NS')":2125.218847663,
+    "('Open', 'HINDUNILVR.NS')":2145.3964226013,
+    "('Volume', 'HINDUNILVR.NS')":1845629
+  },
+  {
+    "('Date', '')":"2025-03-17",
+    "('Close', 'HINDUNILVR.NS')":2131.8955078125,
+    "('High', 'HINDUNILVR.NS')":2155.6568283387,
+    "('Low', 'HINDUNILVR.NS')":2117.412855543,
+    "('Open', 'HINDUNILVR.NS')":2121.8312918286,
+    "('Volume', 'HINDUNILVR.NS')":1111886
+  },
+  {
+    "('Date', '')":"2025-03-18",
+    "('Close', 'HINDUNILVR.NS')":2131.8955078125,
+    "('High', 'HINDUNILVR.NS')":2131.8955078125,
+    "('Low', 'HINDUNILVR.NS')":2131.8955078125,
+    "('Open', 'HINDUNILVR.NS')":2131.8955078125,
+    "('Volume', 'HINDUNILVR.NS')":0
+  },
+  {
+    "('Date', '')":"2025-03-19",
+    "('Close', 'HINDUNILVR.NS')":2160.1735839844,
+    "('High', 'HINDUNILVR.NS')":2172.7416286827,
+    "('Low', 'HINDUNILVR.NS')":2153.6931147713,
+    "('Open', 'HINDUNILVR.NS')":2166.9975655295,
+    "('Volume', 'HINDUNILVR.NS')":1341405
+  },
+  {
+    "('Date', '')":"2025-03-20",
+    "('Close', 'HINDUNILVR.NS')":2201.755859375,
+    "('High', 'HINDUNILVR.NS')":2208.138045296,
+    "('Low', 'HINDUNILVR.NS')":2148.783764174,
+    "('Open', 'HINDUNILVR.NS')":2163.9536812277,
+    "('Volume', 'HINDUNILVR.NS')":1426689
+  },
+  {
+    "('Date', '')":"2025-03-21",
+    "('Close', 'HINDUNILVR.NS')":2205.4870605469,
+    "('High', 'HINDUNILVR.NS')":2214.3239334773,
+    "('Low', 'HINDUNILVR.NS')":2185.456911124,
+    "('Open', 'HINDUNILVR.NS')":2204.3088587659,
+    "('Volume', 'HINDUNILVR.NS')":2152415
+  },
+  {
+    "('Date', '')":"2025-03-24",
+    "('Close', 'HINDUNILVR.NS')":2215.3056640625,
+    "('High', 'HINDUNILVR.NS')":2224.9280841258,
+    "('Low', 'HINDUNILVR.NS')":2200.3812164722,
+    "('Open', 'HINDUNILVR.NS')":2209.463557504,
+    "('Volume', 'HINDUNILVR.NS')":1454404
+  },
+  {
+    "('Date', '')":"2025-03-25",
+    "('Close', 'HINDUNILVR.NS')":2230.1323242188,
+    "('High', 'HINDUNILVR.NS')":2250.4570850279,
+    "('Low', 'HINDUNILVR.NS')":2202.6889709723,
+    "('Open', 'HINDUNILVR.NS')":2209.9547487463,
+    "('Volume', 'HINDUNILVR.NS')":2229340
+  },
+  {
+    "('Date', '')":"2025-03-26",
+    "('Close', 'HINDUNILVR.NS')":2205.2414550781,
+    "('High', 'HINDUNILVR.NS')":2238.5760535108,
+    "('Low', 'HINDUNILVR.NS')":2197.2392720847,
+    "('Open', 'HINDUNILVR.NS')":2230.8193391947,
+    "('Volume', 'HINDUNILVR.NS')":1416907
+  },
+  {
+    "('Date', '')":"2025-03-27",
+    "('Close', 'HINDUNILVR.NS')":2203.9650878906,
+    "('High', 'HINDUNILVR.NS')":2219.9205527677,
+    "('Low', 'HINDUNILVR.NS')":2160.1244756684,
+    "('Open', 'HINDUNILVR.NS')":2203.523292191,
+    "('Volume', 'HINDUNILVR.NS')":3752627
+  },
+  {
+    "('Date', '')":"2025-03-28",
+    "('Close', 'HINDUNILVR.NS')":2217.9077148438,
+    "('High', 'HINDUNILVR.NS')":2254.3842632873,
+    "('Low', 'HINDUNILVR.NS')":2199.6938916027,
+    "('Open', 'HINDUNILVR.NS')":2206.2724040098,
+    "('Volume', 'HINDUNILVR.NS')":2280152
+  },
+  {
+    "('Date', '')":"2025-04-01",
+    "('Close', 'HINDUNILVR.NS')":2193.3610839844,
+    "('High', 'HINDUNILVR.NS')":2243.2401312814,
+    "('Low', 'HINDUNILVR.NS')":2179.7620223282,
+    "('Open', 'HINDUNILVR.NS')":2218.0551389367,
+    "('Volume', 'HINDUNILVR.NS')":2495962
+  },
+  {
+    "('Date', '')":"2025-04-02",
+    "('Close', 'HINDUNILVR.NS')":2197.3374023438,
+    "('High', 'HINDUNILVR.NS')":2203.0323238244,
+    "('Low', 'HINDUNILVR.NS')":2150.3548394881,
+    "('Open', 'HINDUNILVR.NS')":2203.0323238244,
+    "('Volume', 'HINDUNILVR.NS')":1351493
+  },
+  {
+    "('Date', '')":"2025-04-03",
+    "('Close', 'HINDUNILVR.NS')":2203.8669433594,
+    "('High', 'HINDUNILVR.NS')":2212.0654534147,
+    "('Low', 'HINDUNILVR.NS')":2180.351091837,
+    "('Open', 'HINDUNILVR.NS')":2185.1130403838,
+    "('Volume', 'HINDUNILVR.NS')":1310088
+  },
+  {
+    "('Date', '')":"2025-04-04",
+    "('Close', 'HINDUNILVR.NS')":2203.8669433594,
+    "('High', 'HINDUNILVR.NS')":2225.9591244856,
+    "('Low', 'HINDUNILVR.NS')":2181.7256205542,
+    "('Open', 'HINDUNILVR.NS')":2189.580618288,
+    "('Volume', 'HINDUNILVR.NS')":1120226
+  },
+  {
+    "('Date', '')":"2025-04-07",
+    "('Close', 'HINDUNILVR.NS')":2208.62890625,
+    "('High', 'HINDUNILVR.NS')":2220.6079696442,
+    "('Low', 'HINDUNILVR.NS')":2111.0306546603,
+    "('Open', 'HINDUNILVR.NS')":2111.0306546603,
+    "('Volume', 'HINDUNILVR.NS')":3435185
+  },
+  {
+    "('Date', '')":"2025-04-08",
+    "('Close', 'HINDUNILVR.NS')":2247.7568359375,
+    "('High', 'HINDUNILVR.NS')":2264.3995654845,
+    "('Low', 'HINDUNILVR.NS')":2211.525752509,
+    "('Open', 'HINDUNILVR.NS')":2227.1866072778,
+    "('Volume', 'HINDUNILVR.NS')":2774874
+  },
+  {
+    "('Date', '')":"2025-04-09",
+    "('Close', 'HINDUNILVR.NS')":2307.4055175781,
+    "('High', 'HINDUNILVR.NS')":2311.4802016485,
+    "('Low', 'HINDUNILVR.NS')":2248.0020989341,
+    "('Open', 'HINDUNILVR.NS')":2252.3713933541,
+    "('Volume', 'HINDUNILVR.NS')":2989089
+  },
+  {
+    "('Date', '')":"2025-04-11",
+    "('Close', 'HINDUNILVR.NS')":2323.2626953125,
+    "('High', 'HINDUNILVR.NS')":2351.4426906085,
+    "('Low', 'HINDUNILVR.NS')":2301.8580189032,
+    "('Open', 'HINDUNILVR.NS')":2351.1972219367,
+    "('Volume', 'HINDUNILVR.NS')":3836083
+  },
+  {
+    "('Date', '')":"2025-04-15",
+    "('Close', 'HINDUNILVR.NS')":2318.697265625,
+    "('High', 'HINDUNILVR.NS')":2356.4994442092,
+    "('Low', 'HINDUNILVR.NS')":2302.6926589566,
+    "('Open', 'HINDUNILVR.NS')":2356.4994442092,
+    "('Volume', 'HINDUNILVR.NS')":3042779
+  },
+  {
+    "('Date', '')":"2025-04-16",
+    "('Close', 'HINDUNILVR.NS')":2323.7048339844,
+    "('High', 'HINDUNILVR.NS')":2332.9343605684,
+    "('Low', 'HINDUNILVR.NS')":2308.3874922965,
+    "('Open', 'HINDUNILVR.NS')":2308.3874922965,
+    "('Volume', 'HINDUNILVR.NS')":1131979
+  },
+  {
+    "('Date', '')":"2025-04-17",
+    "('Close', 'HINDUNILVR.NS')":2331.9526367188,
+    "('High', 'HINDUNILVR.NS')":2336.7637273251,
+    "('Low', 'HINDUNILVR.NS')":2300.6309266633,
+    "('Open', 'HINDUNILVR.NS')":2314.3771737851,
+    "('Volume', 'HINDUNILVR.NS')":1962402
+  },
+  {
+    "('Date', '')":"2025-04-21",
+    "('Close', 'HINDUNILVR.NS')":2308.3874511719,
+    "('High', 'HINDUNILVR.NS')":2329.3994741521,
+    "('Low', 'HINDUNILVR.NS')":2306.2273747455,
+    "('Open', 'HINDUNILVR.NS')":2325.177604657,
+    "('Volume', 'HINDUNILVR.NS')":1478430
+  },
+  {
+    "('Date', '')":"2025-04-22",
+    "('Close', 'HINDUNILVR.NS')":2355.2231445312,
+    "('High', 'HINDUNILVR.NS')":2362.3908788483,
+    "('Low', 'HINDUNILVR.NS')":2312.4135450863,
+    "('Open', 'HINDUNILVR.NS')":2327.0433844016,
+    "('Volume', 'HINDUNILVR.NS')":2352346
+  },
+  {
+    "('Date', '')":"2025-04-23",
+    "('Close', 'HINDUNILVR.NS')":2379.8681640625,
+    "('High', 'HINDUNILVR.NS')":2393.8107381381,
+    "('Low', 'HINDUNILVR.NS')":2350.0190266157,
+    "('Open', 'HINDUNILVR.NS')":2366.3182440167,
+    "('Volume', 'HINDUNILVR.NS')":2226066
+  },
+  {
+    "('Date', '')":"2025-04-24",
+    "('Close', 'HINDUNILVR.NS')":2283.1533203125,
+    "('High', 'HINDUNILVR.NS')":2442.315067616,
+    "('Low', 'HINDUNILVR.NS')":2275.1019956011,
+    "('Open', 'HINDUNILVR.NS')":2379.8679796375,
+    "('Volume', 'HINDUNILVR.NS')":7065430
+  },
+  {
+    "('Date', '')":"2025-04-25",
+    "('Close', 'HINDUNILVR.NS')":2289.9282226562,
+    "('High', 'HINDUNILVR.NS')":2299.4523596993,
+    "('Low', 'HINDUNILVR.NS')":2252.8133095092,
+    "('Open', 'HINDUNILVR.NS')":2289.6336122909,
+    "('Volume', 'HINDUNILVR.NS')":2859858
+  },
+  {
+    "('Date', '')":"2025-04-28",
+    "('Close', 'HINDUNILVR.NS')":2276.5749511719,
+    "('High', 'HINDUNILVR.NS')":2306.4238484715,
+    "('Low', 'HINDUNILVR.NS')":2273.0401060926,
+    "('Open', 'HINDUNILVR.NS')":2302.4963493681,
+    "('Volume', 'HINDUNILVR.NS')":1555660
+  },
+  {
+    "('Date', '')":"2025-04-29",
+    "('Close', 'HINDUNILVR.NS')":2279.6184082031,
+    "('High', 'HINDUNILVR.NS')":2290.2227027441,
+    "('Low', 'HINDUNILVR.NS')":2270.683492399,
+    "('Open', 'HINDUNILVR.NS')":2285.8042666617,
+    "('Volume', 'HINDUNILVR.NS')":1896387
+  },
+  {
+    "('Date', '')":"2025-04-30",
+    "('Close', 'HINDUNILVR.NS')":2299.6489257812,
+    "('High', 'HINDUNILVR.NS')":2309.860327197,
+    "('Low', 'HINDUNILVR.NS')":2274.0218991661,
+    "('Open', 'HINDUNILVR.NS')":2277.9493981284,
+    "('Volume', 'HINDUNILVR.NS')":2083807
+  },
+  {
+    "('Date', '')":"2025-05-02",
+    "('Close', 'HINDUNILVR.NS')":2276.5749511719,
+    "('High', 'HINDUNILVR.NS')":2302.4963493681,
+    "('Low', 'HINDUNILVR.NS')":2268.1307322134,
+    "('Open', 'HINDUNILVR.NS')":2291.7940101975,
+    "('Volume', 'HINDUNILVR.NS')":1424284
+  },
+  {
+    "('Date', '')":"2025-05-05",
+    "('Close', 'HINDUNILVR.NS')":2306.0310058594,
+    "('High', 'HINDUNILVR.NS')":2312.216624669,
+    "('Low', 'HINDUNILVR.NS')":2277.0657023406,
+    "('Open', 'HINDUNILVR.NS')":2281.9750758184,
+    "('Volume', 'HINDUNILVR.NS')":2074103
+  },
+  {
+    "('Date', '')":"2025-05-06",
+    "('Close', 'HINDUNILVR.NS')":2338.6291503906,
+    "('High', 'HINDUNILVR.NS')":2346.7787581416,
+    "('Low', 'HINDUNILVR.NS')":2297.7830679977,
+    "('Open', 'HINDUNILVR.NS')":2297.7830679977,
+    "('Volume', 'HINDUNILVR.NS')":1888125
+  },
+  {
+    "('Date', '')":"2025-05-07",
+    "('Close', 'HINDUNILVR.NS')":2327.8288574219,
+    "('High', 'HINDUNILVR.NS')":2343.636898101,
+    "('Low', 'HINDUNILVR.NS')":2312.6097978019,
+    "('Open', 'HINDUNILVR.NS')":2326.0614348132,
+    "('Volume', 'HINDUNILVR.NS')":1610400
+  },
+  {
+    "('Date', '')":"2025-05-08",
+    "('Close', 'HINDUNILVR.NS')":2312.216796875,
+    "('High', 'HINDUNILVR.NS')":2328.9086679425,
+    "('Low', 'HINDUNILVR.NS')":2298.5688334766,
+    "('Open', 'HINDUNILVR.NS')":2318.8935932451,
+    "('Volume', 'HINDUNILVR.NS')":2323073
+  },
+  {
+    "('Date', '')":"2025-05-09",
+    "('Close', 'HINDUNILVR.NS')":2290.6154785156,
+    "('High', 'HINDUNILVR.NS')":2300.2378988832,
+    "('Low', 'HINDUNILVR.NS')":2260.5702553868,
+    "('Open', 'HINDUNILVR.NS')":2287.768137664,
+    "('Volume', 'HINDUNILVR.NS')":1805685
+  },
+  {
+    "('Date', '')":"2025-05-12",
+    "('Close', 'HINDUNILVR.NS')":2339.3166503906,
+    "('High', 'HINDUNILVR.NS')":2343.7350868761,
+    "('Low', 'HINDUNILVR.NS')":2303.5765044828,
+    "('Open', 'HINDUNILVR.NS')":2317.224467963,
+    "('Volume', 'HINDUNILVR.NS')":1274873
+  },
+  {
+    "('Date', '')":"2025-05-13",
+    "('Close', 'HINDUNILVR.NS')":2317.2243652344,
+    "('High', 'HINDUNILVR.NS')":2354.5356050136,
+    "('Low', 'HINDUNILVR.NS')":2310.1549151141,
+    "('Open', 'HINDUNILVR.NS')":2332.5417069247,
+    "('Volume', 'HINDUNILVR.NS')":1929665
+  },
+  {
+    "('Date', '')":"2025-05-14",
+    "('Close', 'HINDUNILVR.NS')":2307.896484375,
+    "('High', 'HINDUNILVR.NS')":2327.0430410418,
+    "('Low', 'HINDUNILVR.NS')":2296.1139879647,
+    "('Open', 'HINDUNILVR.NS')":2327.0430410418,
+    "('Volume', 'HINDUNILVR.NS')":1568111
+  },
+  {
+    "('Date', '')":"2025-05-15",
+    "('Close', 'HINDUNILVR.NS')":2312.5112304688,
+    "('High', 'HINDUNILVR.NS')":2326.9447405219,
+    "('Low', 'HINDUNILVR.NS')":2297.5867830688,
+    "('Open', 'HINDUNILVR.NS')":2308.976625401,
+    "('Volume', 'HINDUNILVR.NS')":3236681
+  },
+  {
+    "('Date', '')":"2025-05-16",
+    "('Close', 'HINDUNILVR.NS')":2338.236328125,
+    "('High', 'HINDUNILVR.NS')":2343.7349223628,
+    "('Low', 'HINDUNILVR.NS')":2306.4236835485,
+    "('Open', 'HINDUNILVR.NS')":2317.2243053105,
+    "('Volume', 'HINDUNILVR.NS')":1473000
+  },
+  {
+    "('Date', '')":"2025-05-19",
+    "('Close', 'HINDUNILVR.NS')":2339.5129394531,
+    "('High', 'HINDUNILVR.NS')":2361.4087945138,
+    "('Low', 'HINDUNILVR.NS')":2331.9525517547,
+    "('Open', 'HINDUNILVR.NS')":2331.9525517547,
+    "('Volume', 'HINDUNILVR.NS')":936655
+  },
+  {
+    "('Date', '')":"2025-05-20",
+    "('Close', 'HINDUNILVR.NS')":2298.6672363281,
+    "('High', 'HINDUNILVR.NS')":2351.197539183,
+    "('Low', 'HINDUNILVR.NS')":2296.1142659106,
+    "('Open', 'HINDUNILVR.NS')":2351.197539183,
+    "('Volume', 'HINDUNILVR.NS')":1617408
+  },
+  {
+    "('Date', '')":"2025-05-21",
+    "('Close', 'HINDUNILVR.NS')":2321.0534667969,
+    "('High', 'HINDUNILVR.NS')":2332.6396359971,
+    "('Low', 'HINDUNILVR.NS')":2302.4961311781,
+    "('Open', 'HINDUNILVR.NS')":2303.4780058609,
+    "('Volume', 'HINDUNILVR.NS')":1570754
+  },
+  {
+    "('Date', '')":"2025-05-22",
+    "('Close', 'HINDUNILVR.NS')":2288.4555664062,
+    "('High', 'HINDUNILVR.NS')":2320.2684540056,
+    "('Low', 'HINDUNILVR.NS')":2271.1747136197,
+    "('Open', 'HINDUNILVR.NS')":2312.3151721769,
+    "('Volume', 'HINDUNILVR.NS')":2423653
+  },
+  {
+    "('Date', '')":"2025-05-23",
+    "('Close', 'HINDUNILVR.NS')":2316.4387207031,
+    "('High', 'HINDUNILVR.NS')":2321.6427045032,
+    "('Low', 'HINDUNILVR.NS')":2287.3753737084,
+    "('Open', 'HINDUNILVR.NS')":2294.542867173,
+    "('Volume', 'HINDUNILVR.NS')":844118
+  },
+  {
+    "('Date', '')":"2025-05-26",
+    "('Close', 'HINDUNILVR.NS')":2350.7062988281,
+    "('High', 'HINDUNILVR.NS')":2353.8482499032,
+    "('Low', 'HINDUNILVR.NS')":2321.2500580327,
+    "('Open', 'HINDUNILVR.NS')":2325.0792734499,
+    "('Volume', 'HINDUNILVR.NS')":892618
+  },
+  {
+    "('Date', '')":"2025-05-27",
+    "('Close', 'HINDUNILVR.NS')":2337.0583496094,
+    "('High', 'HINDUNILVR.NS')":2365.8273291752,
+    "('Low', 'HINDUNILVR.NS')":2317.5191369874,
+    "('Open', 'HINDUNILVR.NS')":2350.7065531505,
+    "('Volume', 'HINDUNILVR.NS')":1865258
+  },
+  {
+    "('Date', '')":"2025-05-28",
+    "('Close', 'HINDUNILVR.NS')":2319.1882324219,
+    "('High', 'HINDUNILVR.NS')":2344.7169767246,
+    "('Low', 'HINDUNILVR.NS')":2309.3694846131,
+    "('Open', 'HINDUNILVR.NS')":2344.7169767246,
+    "('Volume', 'HINDUNILVR.NS')":897517
+  },
+  {
+    "('Date', '')":"2025-05-29",
+    "('Close', 'HINDUNILVR.NS')":2323.8029785156,
+    "('High', 'HINDUNILVR.NS')":2332.9344618523,
+    "('Low', 'HINDUNILVR.NS')":2312.8060289955,
+    "('Open', 'HINDUNILVR.NS')":2326.0613384378,
+    "('Volume', 'HINDUNILVR.NS')":1111275
+  },
+  {
+    "('Date', '')":"2025-05-30",
+    "('Close', 'HINDUNILVR.NS')":2305.7365722656,
+    "('High', 'HINDUNILVR.NS')":2331.8542973402,
+    "('Low', 'HINDUNILVR.NS')":2301.0235254226,
+    "('Open', 'HINDUNILVR.NS')":2317.2244591411,
+    "('Volume', 'HINDUNILVR.NS')":3288892
+  },
+  {
+    "('Date', '')":"2025-06-02",
+    "('Close', 'HINDUNILVR.NS')":2328.6142578125,
+    "('High', 'HINDUNILVR.NS')":2340.7894088515,
+    "('Low', 'HINDUNILVR.NS')":2301.1217647555,
+    "('Open', 'HINDUNILVR.NS')":2305.3436344169,
+    "('Volume', 'HINDUNILVR.NS')":1178205
+  },
+  {
+    "('Date', '')":"2025-06-03",
+    "('Close', 'HINDUNILVR.NS')":2309.6640625,
+    "('High', 'HINDUNILVR.NS')":2336.3710082209,
+    "('Low', 'HINDUNILVR.NS')":2300.1399252026,
+    "('Open', 'HINDUNILVR.NS')":2322.2321074615,
+    "('Volume', 'HINDUNILVR.NS')":1643913
+  },
+  {
+    "('Date', '')":"2025-06-04",
+    "('Close', 'HINDUNILVR.NS')":2321.6428222656,
+    "('High', 'HINDUNILVR.NS')":2324.6867298452,
+    "('Low', 'HINDUNILVR.NS')":2299.6489239802,
+    "('Open', 'HINDUNILVR.NS')":2316.7334485666,
+    "('Volume', 'HINDUNILVR.NS')":3287896
+  },
+  {
+    "('Date', '')":"2025-06-05",
+    "('Close', 'HINDUNILVR.NS')":2333.3271484375,
+    "('High', 'HINDUNILVR.NS')":2336.8619935577,
+    "('Low', 'HINDUNILVR.NS')":2306.3255917892,
+    "('Open', 'HINDUNILVR.NS')":2321.6429343559,
+    "('Volume', 'HINDUNILVR.NS')":1787978
+  },
+  {
+    "('Date', '')":"2025-06-06",
+    "('Close', 'HINDUNILVR.NS')":2346.484375,
+    "('High', 'HINDUNILVR.NS')":2353.0628880207,
+    "('Low', 'HINDUNILVR.NS')":2327.14148996,
+    "('Open', 'HINDUNILVR.NS')":2330.2834412832,
+    "('Volume', 'HINDUNILVR.NS')":997488
+  },
+  {
+    "('Date', '')":"2025-06-09",
+    "('Close', 'HINDUNILVR.NS')":2349.8225097656,
+    "('High', 'HINDUNILVR.NS')":2355.5174310309,
+    "('Low', 'HINDUNILVR.NS')":2335.192672462,
+    "('Open', 'HINDUNILVR.NS')":2350.6080574773,
+    "('Volume', 'HINDUNILVR.NS')":1293622
+  },
+  {
+    "('Date', '')":"2025-06-10",
+    "('Close', 'HINDUNILVR.NS')":2351.7863769531,
+    "('High', 'HINDUNILVR.NS')":2356.6957507526,
+    "('Low', 'HINDUNILVR.NS')":2335.2908330438,
+    "('Open', 'HINDUNILVR.NS')":2350.0189544422,
+    "('Volume', 'HINDUNILVR.NS')":1778782
+  },
+  {
+    "('Date', '')":"2025-06-11",
+    "('Close', 'HINDUNILVR.NS')":2333.3271484375,
+    "('High', 'HINDUNILVR.NS')":2359.3468302985,
+    "('Low', 'HINDUNILVR.NS')":2328.319730852,
+    "('Open', 'HINDUNILVR.NS')":2351.7864423801,
+    "('Volume', 'HINDUNILVR.NS')":1977707
+  },
+  {
+    "('Date', '')":"2025-06-12",
+    "('Close', 'HINDUNILVR.NS')":2290.4191894531,
+    "('High', 'HINDUNILVR.NS')":2344.7169112626,
+    "('Low', 'HINDUNILVR.NS')":2281.9752104027,
+    "('Open', 'HINDUNILVR.NS')":2343.6367531476,
+    "('Volume', 'HINDUNILVR.NS')":3339584
+  },
+  {
+    "('Date', '')":"2025-06-13",
+    "('Close', 'HINDUNILVR.NS')":2276.9675292969,
+    "('High', 'HINDUNILVR.NS')":2282.7604943951,
+    "('Low', 'HINDUNILVR.NS')":2260.2756586638,
+    "('Open', 'HINDUNILVR.NS')":2263.2212828932,
+    "('Volume', 'HINDUNILVR.NS')":1740682
+  },
+  {
+    "('Date', '')":"2025-06-16",
+    "('Close', 'HINDUNILVR.NS')":2285.2150878906,
+    "('High', 'HINDUNILVR.NS')":2294.2485269307,
+    "('Low', 'HINDUNILVR.NS')":2271.17447141,
+    "('Open', 'HINDUNILVR.NS')":2277.9493109746,
+    "('Volume', 'HINDUNILVR.NS')":1105297
+  },
+  {
+    "('Date', '')":"2025-06-17",
+    "('Close', 'HINDUNILVR.NS')":2286.3935546875,
+    "('High', 'HINDUNILVR.NS')":2290.8119909001,
+    "('Low', 'HINDUNILVR.NS')":2271.174496622,
+    "('Open', 'HINDUNILVR.NS')":2277.9493362617,
+    "('Volume', 'HINDUNILVR.NS')":1119284
+  },
+  {
+    "('Date', '')":"2025-06-18",
+    "('Close', 'HINDUNILVR.NS')":2255.6608886719,
+    "('High', 'HINDUNILVR.NS')":2289.1426734844,
+    "('Low', 'HINDUNILVR.NS')":2244.0747187941,
+    "('Open', 'HINDUNILVR.NS')":2285.5097848886,
+    "('Volume', 'HINDUNILVR.NS')":2056563
+  },
+  {
+    "('Date', '')":"2025-06-19",
+    "('Close', 'HINDUNILVR.NS')":2252.6169433594,
+    "('High', 'HINDUNILVR.NS')":2265.970535489,
+    "('Low', 'HINDUNILVR.NS')":2248.7877278228,
+    "('Open', 'HINDUNILVR.NS')":2258.410148059,
+    "('Volume', 'HINDUNILVR.NS')":1214549
+  },
+  {
+    "('Date', '')":"2025-06-20",
+    "('Close', 'HINDUNILVR.NS')":2264.3996582031,
+    "('High', 'HINDUNILVR.NS')":2271.0764549112,
+    "('Low', 'HINDUNILVR.NS')":2250.8497377664,
+    "('Open', 'HINDUNILVR.NS')":2253.4027081804,
+    "('Volume', 'HINDUNILVR.NS')":2685864
+  },
+  {
+    "('Date', '')":"2025-06-23",
+    "('Close', 'HINDUNILVR.NS')":2257.3549804688,
+    "('High', 'HINDUNILVR.NS')":2268.1698667534,
+    "('Low', 'HINDUNILVR.NS')":2241.0827503436,
+    "('Open', 'HINDUNILVR.NS')":2265.5900491005,
+    "('Volume', 'HINDUNILVR.NS')":842856
+  },
+  {
+    "('Date', '')":"2025-06-24",
+    "('Close', 'HINDUNILVR.NS')":2245.4487304688,
+    "('High', 'HINDUNILVR.NS')":2283.0530271991,
+    "('Low', 'HINDUNILVR.NS')":2242.6705210149,
+    "('Open', 'HINDUNILVR.NS')":2277.0998250421,
+    "('Volume', 'HINDUNILVR.NS')":2440747
+  },
+  {
+    "('Date', '')":"2025-06-25",
+    "('Close', 'HINDUNILVR.NS')":2260.9267578125,
+    "('High', 'HINDUNILVR.NS')":2272.6347697099,
+    "('Low', 'HINDUNILVR.NS')":2253.6836472308,
+    "('Open', 'HINDUNILVR.NS')":2261.2244663475,
+    "('Volume', 'HINDUNILVR.NS')":1047270
+  },
+  {
+    "('Date', '')":"2025-06-26",
+    "('Close', 'HINDUNILVR.NS')":2263.0104980469,
+    "('High', 'HINDUNILVR.NS')":2273.1308926836,
+    "('Low', 'HINDUNILVR.NS')":2253.8823037125,
+    "('Open', 'HINDUNILVR.NS')":2271.0471751541,
+    "('Volume', 'HINDUNILVR.NS')":1874722
+  },
+  {
+    "('Date', '')":"2025-06-27",
+    "('Close', 'HINDUNILVR.NS')":2288.9067382812,
+    "('High', 'HINDUNILVR.NS')":2292.4787561982,
+    "('Low', 'HINDUNILVR.NS')":2261.5221557845,
+    "('Open', 'HINDUNILVR.NS')":2263.0104562105,
+    "('Volume', 'HINDUNILVR.NS')":1050745
+  },
+  {
+    "('Date', '')":"2025-06-30",
+    "('Close', 'HINDUNILVR.NS')":2276.7028808594,
+    "('High', 'HINDUNILVR.NS')":2298.9280704465,
+    "('Low', 'HINDUNILVR.NS')":2270.154262055,
+    "('Open', 'HINDUNILVR.NS')":2291.8833514975,
+    "('Volume', 'HINDUNILVR.NS')":1403754
+  },
+  {
+    "('Date', '')":"2025-07-01",
+    "('Close', 'HINDUNILVR.NS')":2277.595703125,
+    "('High', 'HINDUNILVR.NS')":2284.640421885,
+    "('Low', 'HINDUNILVR.NS')":2268.7652176812,
+    "('Open', 'HINDUNILVR.NS')":2282.0606043073,
+    "('Volume', 'HINDUNILVR.NS')":759914
+  },
+  {
+    "('Date', '')":"2025-07-02",
+    "('Close', 'HINDUNILVR.NS')":2289.10546875,
+    "('High', 'HINDUNILVR.NS')":2290.9905524746,
+    "('Low', 'HINDUNILVR.NS')":2269.7575623952,
+    "('Open', 'HINDUNILVR.NS')":2277.0997479122,
+    "('Volume', 'HINDUNILVR.NS')":1128034
+  },
+  {
+    "('Date', '')":"2025-07-03",
+    "('Close', 'HINDUNILVR.NS')":2295.3562011719,
+    "('High', 'HINDUNILVR.NS')":2308.7509059458,
+    "('Low', 'HINDUNILVR.NS')":2286.0296147424,
+    "('Open', 'HINDUNILVR.NS')":2291.9828168641,
+    "('Volume', 'HINDUNILVR.NS')":1060039
+  },
+  {
+    "('Date', '')":"2025-07-04",
+    "('Close', 'HINDUNILVR.NS')":2321.0541992188,
+    "('High', 'HINDUNILVR.NS')":2323.137674497,
+    "('Low', 'HINDUNILVR.NS')":2292.2803906553,
+    "('Open', 'HINDUNILVR.NS')":2299.9202844818,
+    "('Volume', 'HINDUNILVR.NS')":1242346
+  },
+  {
+    "('Date', '')":"2025-07-07",
+    "('Close', 'HINDUNILVR.NS')":2391.599609375,
+    "('High', 'HINDUNILVR.NS')":2396.8583196391,
+    "('Low', 'HINDUNILVR.NS')":2322.7410024797,
+    "('Open', 'HINDUNILVR.NS')":2322.7410024797,
+    "('Volume', 'HINDUNILVR.NS')":2701583
+  },
+  {
+    "('Date', '')":"2025-07-08",
+    "('Close', 'HINDUNILVR.NS')":2374.0375976562,
+    "('High', 'HINDUNILVR.NS')":2399.6364137173,
+    "('Low', 'HINDUNILVR.NS')":2367.3899041263,
+    "('Open', 'HINDUNILVR.NS')":2386.6384929568,
+    "('Volume', 'HINDUNILVR.NS')":1471046
+  },
+  {
+    "('Date', '')":"2025-07-09",
+    "('Close', 'HINDUNILVR.NS')":2404.498046875,
+    "('High', 'HINDUNILVR.NS')":2420.6709597869,
+    "('Low', 'HINDUNILVR.NS')":2378.4033734605,
+    "('Open', 'HINDUNILVR.NS')":2380.2884570864,
+    "('Volume', 'HINDUNILVR.NS')":1741690
+  },
+  {
+    "('Date', '')":"2025-07-10",
+    "('Close', 'HINDUNILVR.NS')":2389.615234375,
+    "('High', 'HINDUNILVR.NS')":2415.0156603181,
+    "('Low', 'HINDUNILVR.NS')":2378.8996643468,
+    "('Open', 'HINDUNILVR.NS')":2404.4982396769,
+    "('Volume', 'HINDUNILVR.NS')":1053695
+  },
+  {
+    "('Date', '')":"2025-07-11",
+    "('Close', 'HINDUNILVR.NS')":2499.9479980469,
+    "('High', 'HINDUNILVR.NS')":2510.2667843766,
+    "('Low', 'HINDUNILVR.NS')":2441.8049629845,
+    "('Open', 'HINDUNILVR.NS')":2480.5007750757,
+    "('Volume', 'HINDUNILVR.NS')":7242235
+  },
+  {
+    "('Date', '')":"2025-07-14",
+    "('Close', 'HINDUNILVR.NS')":2496.9714355469,
+    "('High', 'HINDUNILVR.NS')":2512.7473238246,
+    "('Low', 'HINDUNILVR.NS')":2470.5788099993,
+    "('Open', 'HINDUNILVR.NS')":2480.5008132523,
+    "('Volume', 'HINDUNILVR.NS')":2427712
+  },
+  {
+    "('Date', '')":"2025-07-15",
+    "('Close', 'HINDUNILVR.NS')":2507.1909179688,
+    "('High', 'HINDUNILVR.NS')":2510.1675189599,
+    "('Low', 'HINDUNILVR.NS')":2490.4228292797,
+    "('Open', 'HINDUNILVR.NS')":2501.0393243676,
+    "('Volume', 'HINDUNILVR.NS')":1700294
+  },
+  {
+    "('Date', '')":"2025-07-16",
+    "('Close', 'HINDUNILVR.NS')":2497.9636230469,
+    "('High', 'HINDUNILVR.NS')":2513.1440941569,
+    "('Low', 'HINDUNILVR.NS')":2487.9423029182,
+    "('Open', 'HINDUNILVR.NS')":2506.5957173854,
+    "('Volume', 'HINDUNILVR.NS')":1284379
+  },
+  {
+    "('Date', '')":"2025-07-17",
+    "('Close', 'HINDUNILVR.NS')":2490.2243652344,
+    "('High', 'HINDUNILVR.NS')":2505.7025445964,
+    "('Low', 'HINDUNILVR.NS')":2486.6523472543,
+    "('Open', 'HINDUNILVR.NS')":2493.399357752,
+    "('Volume', 'HINDUNILVR.NS')":807474
+  },
+  {
+    "('Date', '')":"2025-07-18",
+    "('Close', 'HINDUNILVR.NS')":2470.1818847656,
+    "('High', 'HINDUNILVR.NS')":2495.2843577636,
+    "('Low', 'HINDUNILVR.NS')":2462.1449656981,
+    "('Open', 'HINDUNILVR.NS')":2495.2843577636,
+    "('Volume', 'HINDUNILVR.NS')":771112
+  },
+  {
+    "('Date', '')":"2025-07-21",
+    "('Close', 'HINDUNILVR.NS')":2445.6745605469,
+    "('High', 'HINDUNILVR.NS')":2474.1509045525,
+    "('Low', 'HINDUNILVR.NS')":2436.2486571651,
+    "('Open', 'HINDUNILVR.NS')":2471.4717698022,
+    "('Volume', 'HINDUNILVR.NS')":1169960
+  },
+  {
+    "('Date', '')":"2025-07-22",
+    "('Close', 'HINDUNILVR.NS')":2460.3591308594,
+    "('High', 'HINDUNILVR.NS')":2465.6178411006,
+    "('Low', 'HINDUNILVR.NS')":2433.4706470287,
+    "('Open', 'HINDUNILVR.NS')":2450.7348360235,
+    "('Volume', 'HINDUNILVR.NS')":861632
+  },
+  {
+    "('Date', '')":"2025-07-23",
+    "('Close', 'HINDUNILVR.NS')":2431.2875976562,
+    "('High', 'HINDUNILVR.NS')":2467.6022267172,
+    "('Low', 'HINDUNILVR.NS')":2422.9532117585,
+    "('Open', 'HINDUNILVR.NS')":2461.6490247227,
+    "('Volume', 'HINDUNILVR.NS')":1320795
+  },
+  {
+    "('Date', '')":"2025-07-24",
+    "('Close', 'HINDUNILVR.NS')":2418.7858886719,
+    "('High', 'HINDUNILVR.NS')":2446.7658880933,
+    "('Low', 'HINDUNILVR.NS')":2402.1168755369,
+    "('Open', 'HINDUNILVR.NS')":2436.7445683805,
+    "('Volume', 'HINDUNILVR.NS')":693984
+  },
+  {
+    "('Date', '')":"2025-07-25",
+    "('Close', 'HINDUNILVR.NS')":2396.560546875,
+    "('High', 'HINDUNILVR.NS')":2409.6577848381,
+    "('Low', 'HINDUNILVR.NS')":2386.6385437129,
+    "('Open', 'HINDUNILVR.NS')":2407.1772840476,
+    "('Volume', 'HINDUNILVR.NS')":769388
+  },
+  {
+    "('Date', '')":"2025-07-28",
+    "('Close', 'HINDUNILVR.NS')":2422.5563964844,
+    "('High', 'HINDUNILVR.NS')":2429.2040901764,
+    "('Low', 'HINDUNILVR.NS')":2393.4848786818,
+    "('Open', 'HINDUNILVR.NS')":2396.5605543297,
+    "('Volume', 'HINDUNILVR.NS')":987995
+  },
+  {
+    "('Date', '')":"2025-07-29",
+    "('Close', 'HINDUNILVR.NS')":2434.462890625,
+    "('High', 'HINDUNILVR.NS')":2438.3323751192,
+    "('Low', 'HINDUNILVR.NS')":2410.7491567723,
+    "('Open', 'HINDUNILVR.NS')":2425.731479044,
+    "('Volume', 'HINDUNILVR.NS')":732282
+  },
+  {
+    "('Date', '')":"2025-07-30",
+    "('Close', 'HINDUNILVR.NS')":2418.3889160156,
+    "('High', 'HINDUNILVR.NS')":2433.7680206764,
+    "('Low', 'HINDUNILVR.NS')":2379.7924212132,
+    "('Open', 'HINDUNILVR.NS')":2422.9531342934,
+    "('Volume', 'HINDUNILVR.NS')":1224146
+  },
+  {
+    "('Date', '')":"2025-07-31",
+    "('Close', 'HINDUNILVR.NS')":2501.5354003906,
+    "('High', 'HINDUNILVR.NS')":2529.1186177566,
+    "('Low', 'HINDUNILVR.NS')":2401.2240932981,
+    "('Open', 'HINDUNILVR.NS')":2401.2240932981,
+    "('Volume', 'HINDUNILVR.NS')":5505507
+  },
+  {
+    "('Date', '')":"2025-08-01",
+    "('Close', 'HINDUNILVR.NS')":2533.7819824219,
+    "('High', 'HINDUNILVR.NS')":2706.2264515,
+    "('Low', 'HINDUNILVR.NS')":2517.1129681138,
+    "('Open', 'HINDUNILVR.NS')":2530.1108895784,
+    "('Volume', 'HINDUNILVR.NS')":4259653
+  },
+  {
+    "('Date', '')":"2025-08-04",
+    "('Close', 'HINDUNILVR.NS')":2523.8598632812,
+    "('High', 'HINDUNILVR.NS')":2563.0517752651,
+    "('Low', 'HINDUNILVR.NS')":2515.327086014,
+    "('Open', 'HINDUNILVR.NS')":2527.1341727297,
+    "('Volume', 'HINDUNILVR.NS')":1293028
+  },
+  {
+    "('Date', '')":"2025-08-05",
+    "('Close', 'HINDUNILVR.NS')":2514.9301757812,
+    "('High', 'HINDUNILVR.NS')":2533.0874906125,
+    "('Low', 'HINDUNILVR.NS')":2497.6659866058,
+    "('Open', 'HINDUNILVR.NS')":2517.7083852053,
+    "('Volume', 'HINDUNILVR.NS')":756361
+  },
+  {
+    "('Date', '')":"2025-08-06",
+    "('Close', 'HINDUNILVR.NS')":2515.8232421875,
+    "('High', 'HINDUNILVR.NS')":2543.1087511383,
+    "('Low', 'HINDUNILVR.NS')":2506.8934392582,
+    "('Open', 'HINDUNILVR.NS')":2518.8989178547,
+    "('Volume', 'HINDUNILVR.NS')":885487
+  },
+  {
+    "('Date', '')":"2025-08-07",
+    "('Close', 'HINDUNILVR.NS')":2497.8642578125,
+    "('High', 'HINDUNILVR.NS')":2524.1575657895,
+    "('Low', 'HINDUNILVR.NS')":2475.5397510396,
+    "('Open', 'HINDUNILVR.NS')":2515.9222548437,
+    "('Volume', 'HINDUNILVR.NS')":847151
+  },
+  {
+    "('Date', '')":"2025-08-08",
+    "('Close', 'HINDUNILVR.NS')":2479.1118164062,
+    "('High', 'HINDUNILVR.NS')":2510.1674926326,
+    "('Low', 'HINDUNILVR.NS')":2467.2054125664,
+    "('Open', 'HINDUNILVR.NS')":2496.3760050794,
+    "('Volume', 'HINDUNILVR.NS')":839794
+  },
+  {
+    "('Date', '')":"2025-08-11",
+    "('Close', 'HINDUNILVR.NS')":2498.7570800781,
+    "('High', 'HINDUNILVR.NS')":2504.8095986609,
+    "('Low', 'HINDUNILVR.NS')":2459.1683859303,
+    "('Open', 'HINDUNILVR.NS')":2470.6780060352,
+    "('Volume', 'HINDUNILVR.NS')":992436
+  },
+  {
+    "('Date', '')":"2025-08-12",
+    "('Close', 'HINDUNILVR.NS')":2464.4272460938,
+    "('High', 'HINDUNILVR.NS')":2516.8154723475,
+    "('Low', 'HINDUNILVR.NS')":2460.7561532932,
+    "('Open', 'HINDUNILVR.NS')":2498.3604491802,
+    "('Volume', 'HINDUNILVR.NS')":1406211
+  },
+  {
+    "('Date', '')":"2025-08-13",
+    "('Close', 'HINDUNILVR.NS')":2475.6391601562,
+    "('High', 'HINDUNILVR.NS')":2481.9891454247,
+    "('Low', 'HINDUNILVR.NS')":2454.1082190332,
+    "('Open', 'HINDUNILVR.NS')":2465.6178398482,
+    "('Volume', 'HINDUNILVR.NS')":969803
+  },
+  {
+    "('Date', '')":"2025-08-14",
+    "('Close', 'HINDUNILVR.NS')":2461.2521972656,
+    "('High', 'HINDUNILVR.NS')":2489.4305893054,
+    "('Low', 'HINDUNILVR.NS')":2453.9097695958,
+    "('Open', 'HINDUNILVR.NS')":2479.4092692335,
+    "('Volume', 'HINDUNILVR.NS')":1104362
+  },
+  {
+    "('Date', '')":"2025-08-18",
+    "('Close', 'HINDUNILVR.NS')":2548.0698242188,
+    "('High', 'HINDUNILVR.NS')":2576.7443175347,
+    "('Low', 'HINDUNILVR.NS')":2501.6347992368,
+    "('Open', 'HINDUNILVR.NS')":2519.196697043,
+    "('Volume', 'HINDUNILVR.NS')":3089136
+  },
+  {
+    "('Date', '')":"2025-08-19",
+    "('Close', 'HINDUNILVR.NS')":2584.4833984375,
+    "('High', 'HINDUNILVR.NS')":2594.6037930837,
+    "('Low', 'HINDUNILVR.NS')":2538.4451590234,
+    "('Open', 'HINDUNILVR.NS')":2552.1375716559,
+    "('Volume', 'HINDUNILVR.NS')":1400717
+  },
+  {
+    "('Date', '')":"2025-08-20",
+    "('Close', 'HINDUNILVR.NS')":2648.9765625,
+    "('High', 'HINDUNILVR.NS')":2659.0969576977,
+    "('Low', 'HINDUNILVR.NS')":2568.3106250002,
+    "('Open', 'HINDUNILVR.NS')":2578.7287287523,
+    "('Volume', 'HINDUNILVR.NS')":3156954
+  },
+  {
+    "('Date', '')":"2025-08-21",
+    "('Close', 'HINDUNILVR.NS')":2627.3464355469,
+    "('High', 'HINDUNILVR.NS')":2646.2975584682,
+    "('Low', 'HINDUNILVR.NS')":2606.8079374625,
+    "('Open', 'HINDUNILVR.NS')":2646.2975584682,
+    "('Volume', 'HINDUNILVR.NS')":2235686
+  },
+  {
+    "('Date', '')":"2025-08-22",
+    "('Close', 'HINDUNILVR.NS')":2609.3874511719,
+    "('High', 'HINDUNILVR.NS')":2637.7644764191,
+    "('Low', 'HINDUNILVR.NS')":2598.5725648831,
+    "('Open', 'HINDUNILVR.NS')":2626.3541730605,
+    "('Volume', 'HINDUNILVR.NS')":1223445
+  },
+  {
+    "('Date', '')":"2025-08-25",
+    "('Close', 'HINDUNILVR.NS')":2611.0744628906,
+    "('High', 'HINDUNILVR.NS')":2622.3854496609,
+    "('Low', 'HINDUNILVR.NS')":2594.8022322766,
+    "('Open', 'HINDUNILVR.NS')":2622.3854496609,
+    "('Volume', 'HINDUNILVR.NS')":667598
+  },
+  {
+    "('Date', '')":"2025-08-26",
+    "('Close', 'HINDUNILVR.NS')":2671.5986328125,
+    "('High', 'HINDUNILVR.NS')":2683.9018196754,
+    "('Low', 'HINDUNILVR.NS')":2604.129012207,
+    "('Open', 'HINDUNILVR.NS')":2604.129012207,
+    "('Volume', 'HINDUNILVR.NS')":4348648
+  },
+  {
+    "('Date', '')":"2025-08-28",
+    "('Close', 'HINDUNILVR.NS')":2633.6965332031,
+    "('High', 'HINDUNILVR.NS')":2726.5665836002,
+    "('Low', 'HINDUNILVR.NS')":2626.1559558247,
+    "('Open', 'HINDUNILVR.NS')":2726.5665836002,
+    "('Volume', 'HINDUNILVR.NS')":3198743
+  },
+  {
+    "('Date', '')":"2025-08-29",
+    "('Close', 'HINDUNILVR.NS')":2639.0544433594,
+    "('High', 'HINDUNILVR.NS')":2701.7614547506,
+    "('Low', 'HINDUNILVR.NS')":2620.7978122418,
+    "('Open', 'HINDUNILVR.NS')":2644.0154449289,
+    "('Volume', 'HINDUNILVR.NS')":1972773
+  },
+  {
+    "('Date', '')":"2025-09-01",
+    "('Close', 'HINDUNILVR.NS')":2628.8347167969,
+    "('High', 'HINDUNILVR.NS')":2652.4491325813,
+    "('Low', 'HINDUNILVR.NS')":2618.7143220997,
+    "('Open', 'HINDUNILVR.NS')":2639.0544284195,
+    "('Volume', 'HINDUNILVR.NS')":1096729
+  },
+  {
+    "('Date', '')":"2025-09-02",
+    "('Close', 'HINDUNILVR.NS')":2656.1203613281,
+    "('High', 'HINDUNILVR.NS')":2671.4001499638,
+    "('Low', 'HINDUNILVR.NS')":2624.4692667672,
+    "('Open', 'HINDUNILVR.NS')":2628.3387512731,
+    "('Volume', 'HINDUNILVR.NS')":1525106
+  },
+  {
+    "('Date', '')":"2025-09-03",
+    "('Close', 'HINDUNILVR.NS')":2643.916015625,
+    "('High', 'HINDUNILVR.NS')":2665.9428132101,
+    "('Low', 'HINDUNILVR.NS')":2637.5660307805,
+    "('Open', 'HINDUNILVR.NS')":2660.0889285014,
+    "('Volume', 'HINDUNILVR.NS')":1010692
+  },
+  {
+    "('Date', '')":"2025-09-04",
+    "('Close', 'HINDUNILVR.NS')":2645.8015136719,
+    "('High', 'HINDUNILVR.NS')":2728.5509248247,
+    "('Low', 'HINDUNILVR.NS')":2634.7879930444,
+    "('Open', 'HINDUNILVR.NS')":2728.5509248247,
+    "('Volume', 'HINDUNILVR.NS')":2494678
+  },
+  {
+    "('Date', '')":"2025-09-05",
+    "('Close', 'HINDUNILVR.NS')":2612.8601074219,
+    "('High', 'HINDUNILVR.NS')":2652.0520182863,
+    "('Low', 'HINDUNILVR.NS')":2603.3351301232,
+    "('Open', 'HINDUNILVR.NS')":2646.7935506177,
+    "('Volume', 'HINDUNILVR.NS')":944879
+  },
+  {
+    "('Date', '')":"2025-09-08",
+    "('Close', 'HINDUNILVR.NS')":2603.4343261719,
+    "('High', 'HINDUNILVR.NS')":2623.973066612,
+    "('Low', 'HINDUNILVR.NS')":2598.3742498751,
+    "('Open', 'HINDUNILVR.NS')":2609.4868450264,
+    "('Volume', 'HINDUNILVR.NS')":903410
+  },
+  {
+    "('Date', '')":"2025-09-09",
+    "('Close', 'HINDUNILVR.NS')":2621.3933105469,
+    "('High', 'HINDUNILVR.NS')":2625.5605035471,
+    "('Low', 'HINDUNILVR.NS')":2590.9328084136,
+    "('Open', 'HINDUNILVR.NS')":2616.4323088237,
+    "('Volume', 'HINDUNILVR.NS')":1610956
+  },
+  {
+    "('Date', '')":"2025-09-10",
+    "('Close', 'HINDUNILVR.NS')":2622.8815917969,
+    "('High', 'HINDUNILVR.NS')":2632.2081780734,
+    "('Low', 'HINDUNILVR.NS')":2598.5726835317,
+    "('Open', 'HINDUNILVR.NS')":2621.3932912908,
+    "('Volume', 'HINDUNILVR.NS')":1031486
+  },
+  {
+    "('Date', '')":"2025-09-11",
+    "('Close', 'HINDUNILVR.NS')":2601.5493164062,
+    "('High', 'HINDUNILVR.NS')":2636.9708204364,
+    "('Low', 'HINDUNILVR.NS')":2593.6117136102,
+    "('Open', 'HINDUNILVR.NS')":2623.1793324728,
+    "('Volume', 'HINDUNILVR.NS')":1212707
+  },
+  {
+    "('Date', '')":"2025-09-12",
+    "('Close', 'HINDUNILVR.NS')":2560.3728027344,
+    "('High', 'HINDUNILVR.NS')":2608.3951990203,
+    "('Low', 'HINDUNILVR.NS')":2548.9624996026,
+    "('Open', 'HINDUNILVR.NS')":2604.5257148528,
+    "('Volume', 'HINDUNILVR.NS')":1368380
+  },
+  {
+    "('Date', '')":"2025-09-15",
+    "('Close', 'HINDUNILVR.NS')":2560.8688964844,
+    "('High', 'HINDUNILVR.NS')":2573.172082936,
+    "('Low', 'HINDUNILVR.NS')":2548.3670761897,
+    "('Open', 'HINDUNILVR.NS')":2560.3727963494,
+    "('Volume', 'HINDUNILVR.NS')":752745
+  },
+  {
+    "('Date', '')":"2025-09-16",
+    "('Close', 'HINDUNILVR.NS')":2560.7697753906,
+    "('High', 'HINDUNILVR.NS')":2569.7988954313,
+    "('Low', 'HINDUNILVR.NS')":2552.5347063102,
+    "('Open', 'HINDUNILVR.NS')":2568.0128863617,
+    "('Volume', 'HINDUNILVR.NS')":1040928
+  },
+  {
+    "('Date', '')":"2025-09-17",
+    "('Close', 'HINDUNILVR.NS')":2549.6569824219,
+    "('High', 'HINDUNILVR.NS')":2570.8902135171,
+    "('Low', 'HINDUNILVR.NS')":2546.4819900088,
+    "('Open', 'HINDUNILVR.NS')":2566.8220955203,
+    "('Volume', 'HINDUNILVR.NS')":970247
+  },
+  {
+    "('Date', '')":"2025-09-18",
+    "('Close', 'HINDUNILVR.NS')":2566.6237792969,
+    "('High', 'HINDUNILVR.NS')":2589.5434608387,
+    "('Low', 'HINDUNILVR.NS')":2550.8476492169,
+    "('Open', 'HINDUNILVR.NS')":2550.8476492169,
+    "('Volume', 'HINDUNILVR.NS')":1550153
+  },
+  {
+    "('Date', '')":"2025-09-19",
+    "('Close', 'HINDUNILVR.NS')":2539.6359863281,
+    "('High', 'HINDUNILVR.NS')":2584.3840745437,
+    "('Low', 'HINDUNILVR.NS')":2534.8733764379,
+    "('Open', 'HINDUNILVR.NS')":2579.7207815781,
+    "('Volume', 'HINDUNILVR.NS')":2214708
+  },
+  {
+    "('Date', '')":"2025-09-22",
+    "('Close', 'HINDUNILVR.NS')":2552.1376953125,
+    "('High', 'HINDUNILVR.NS')":2567.0207005829,
+    "('Low', 'HINDUNILVR.NS')":2540.2312910962,
+    "('Open', 'HINDUNILVR.NS')":2548.9627026354,
+    "('Volume', 'HINDUNILVR.NS')":1174161
+  },
+  {
+    "('Date', '')":"2025-09-23",
+    "('Close', 'HINDUNILVR.NS')":2502.5275878906,
+    "('High', 'HINDUNILVR.NS')":2555.2135215505,
+    "('Low', 'HINDUNILVR.NS')":2498.5587866277,
+    "('Open', 'HINDUNILVR.NS')":2548.863294188,
+    "('Volume', 'HINDUNILVR.NS')":1430474
+  },
+  {
+    "('Date', '')":"2025-09-24",
+    "('Close', 'HINDUNILVR.NS')":2529.6147460938,
+    "('High', 'HINDUNILVR.NS')":2555.9080548882,
+    "('Low', 'HINDUNILVR.NS')":2490.422832985,
+    "('Open', 'HINDUNILVR.NS')":2502.5276285865,
+    "('Volume', 'HINDUNILVR.NS')":1882881
+  },
+  {
+    "('Date', '')":"2025-09-25",
+    "('Close', 'HINDUNILVR.NS')":2518.5021972656,
+    "('High', 'HINDUNILVR.NS')":2547.4743990431,
+    "('Low', 'HINDUNILVR.NS')":2512.0528949896,
+    "('Open', 'HINDUNILVR.NS')":2526.1420915146,
+    "('Volume', 'HINDUNILVR.NS')":1624258
+  },
+  {
+    "('Date', '')":"2025-09-26",
+    "('Close', 'HINDUNILVR.NS')":2492.2087402344,
+    "('High', 'HINDUNILVR.NS')":2525.5465246816,
+    "('Low', 'HINDUNILVR.NS')":2479.9053112799,
+    "('Open', 'HINDUNILVR.NS')":2515.2277385462,
+    "('Volume', 'HINDUNILVR.NS')":885612
+  },
+  {
+    "('Date', '')":"2025-09-29",
+    "('Close', 'HINDUNILVR.NS')":2478.4169921875,
+    "('High', 'HINDUNILVR.NS')":2497.764897723,
+    "('Low', 'HINDUNILVR.NS')":2423.9452934975,
+    "('Open', 'HINDUNILVR.NS')":2475.5397082588,
+    "('Volume', 'HINDUNILVR.NS')":2403556
+  },
+  {
+    "('Date', '')":"2025-09-30",
+    "('Close', 'HINDUNILVR.NS')":2494.7883300781,
+    "('High', 'HINDUNILVR.NS')":2506.5956589552,
+    "('Low', 'HINDUNILVR.NS')":2472.1663570939,
+    "('Open', 'HINDUNILVR.NS')":2478.4170251763,
+    "('Volume', 'HINDUNILVR.NS')":1678088
+  },
+  {
+    "('Date', '')":"2025-10-01",
+    "('Close', 'HINDUNILVR.NS')":2516.4184570312,
+    "('High', 'HINDUNILVR.NS')":2530.1108701878,
+    "('Low', 'HINDUNILVR.NS')":2478.4171355141,
+    "('Open', 'HINDUNILVR.NS')":2495.780641486,
+    "('Volume', 'HINDUNILVR.NS')":1483899
+  },
+  {
+    "('Date', '')":"2025-10-03",
+    "('Close', 'HINDUNILVR.NS')":2525.0505371094,
+    "('High', 'HINDUNILVR.NS')":2528.7218721401,
+    "('Low', 'HINDUNILVR.NS')":2488.7361501692,
+    "('Open', 'HINDUNILVR.NS')":2516.4184426372,
+    "('Volume', 'HINDUNILVR.NS')":1242611
+  },
+  {
+    "('Date', '')":"2025-10-06",
+    "('Close', 'HINDUNILVR.NS')":2521.9748535156,
+    "('High', 'HINDUNILVR.NS')":2529.7140645562,
+    "('Low', 'HINDUNILVR.NS')":2500.5432294397,
+    "('Open', 'HINDUNILVR.NS')":2515.4262344268,
+    "('Volume', 'HINDUNILVR.NS')":818923
+  },
+  {
+    "('Date', '')":"2025-10-07",
+    "('Close', 'HINDUNILVR.NS')":2497.5666503906,
+    "('High', 'HINDUNILVR.NS')":2539.4374563415,
+    "('Low', 'HINDUNILVR.NS')":2488.7361642486,
+    "('Open', 'HINDUNILVR.NS')":2520.188866617,
+    "('Volume', 'HINDUNILVR.NS')":1291750
+  },
+  {
+    "('Date', '')":"2025-10-08",
+    "('Close', 'HINDUNILVR.NS')":2480.6000976562,
+    "('High', 'HINDUNILVR.NS')":2505.3057885378,
+    "('Low', 'HINDUNILVR.NS')":2466.7092932842,
+    "('Open', 'HINDUNILVR.NS')":2491.4149841657,
+    "('Volume', 'HINDUNILVR.NS')":1225128
+  },
+  {
+    "('Date', '')":"2025-10-09",
+    "('Close', 'HINDUNILVR.NS')":2497.9636230469,
+    "('High', 'HINDUNILVR.NS')":2503.3214078814,
+    "('Low', 'HINDUNILVR.NS')":2478.8141084196,
+    "('Open', 'HINDUNILVR.NS')":2481.4930008369,
+    "('Volume', 'HINDUNILVR.NS')":1259173
+  },
+  {
+    "('Date', '')":"2025-10-10",
+    "('Close', 'HINDUNILVR.NS')":2509.1752929688,
+    "('High', 'HINDUNILVR.NS')":2515.1284948902,
+    "('Low', 'HINDUNILVR.NS')":2486.9501026899,
+    "('Open', 'HINDUNILVR.NS')":2490.4228038107,
+    "('Volume', 'HINDUNILVR.NS')":1018875
+  },
+  {
+    "('Date', '')":"2025-10-13",
+    "('Close', 'HINDUNILVR.NS')":2473.3569335938,
+    "('High', 'HINDUNILVR.NS')":2511.8543533278,
+    "('Low', 'HINDUNILVR.NS')":2466.0145060993,
+    "('Open', 'HINDUNILVR.NS')":2499.5509243789,
+    "('Volume', 'HINDUNILVR.NS')":1114750
+  },
+  {
+    "('Date', '')":"2025-10-14",
+    "('Close', 'HINDUNILVR.NS')":2482.7829589844,
+    "('High', 'HINDUNILVR.NS')":2489.6290444351,
+    "('Low', 'HINDUNILVR.NS')":2462.9389521863,
+    "('Open', 'HINDUNILVR.NS')":2473.555447376,
+    "('Volume', 'HINDUNILVR.NS')":1461017
+  },
+  {
+    "('Date', '')":"2025-10-15",
+    "('Close', 'HINDUNILVR.NS')":2499.3525390625,
+    "('High', 'HINDUNILVR.NS')":2512.0527512652,
+    "('Low', 'HINDUNILVR.NS')":2483.0805511454,
+    "('Open', 'HINDUNILVR.NS')":2483.0805511454,
+    "('Volume', 'HINDUNILVR.NS')":881070
+  },
+  {
+    "('Date', '')":"2025-10-16",
+    "('Close', 'HINDUNILVR.NS')":2541.5209960938,
+    "('High', 'HINDUNILVR.NS')":2548.466397996,
+    "('Low', 'HINDUNILVR.NS')":2487.545398205,
+    "('Open', 'HINDUNILVR.NS')":2498.1618926654,
+    "('Volume', 'HINDUNILVR.NS')":1446646
+  },
+  {
+    "('Date', '')":"2025-10-17",
+    "('Close', 'HINDUNILVR.NS')":2583.3918457031,
+    "('High', 'HINDUNILVR.NS')":2594.6037574234,
+    "('Low', 'HINDUNILVR.NS')":2540.0327414929,
+    "('Open', 'HINDUNILVR.NS')":2545.4898430859,
+    "('Volume', 'HINDUNILVR.NS')":2050690
+  },
+  {
+    "('Date', '')":"2025-10-20",
+    "('Close', 'HINDUNILVR.NS')":2574.1643066406,
+    "('High', 'HINDUNILVR.NS')":2604.2280235381,
+    "('Low', 'HINDUNILVR.NS')":2565.4331379756,
+    "('Open', 'HINDUNILVR.NS')":2588.6505276069,
+    "('Volume', 'HINDUNILVR.NS')":1011485
+  },
+  {
+    "('Date', '')":"2025-10-21",
+    "('Close', 'HINDUNILVR.NS')":2571.4855957031,
+    "('High', 'HINDUNILVR.NS')":2586.3686009361,
+    "('Low', 'HINDUNILVR.NS')":2564.9372187425,
+    "('Open', 'HINDUNILVR.NS')":2573.7677049528,
+    "('Volume', 'HINDUNILVR.NS')":82020
+  },
+  {
+    "('Date', '')":"2025-10-23",
+    "('Close', 'HINDUNILVR.NS')":2581.3083496094,
+    "('High', 'HINDUNILVR.NS')":2646.3965427431,
+    "('Low', 'HINDUNILVR.NS')":2575.8512480604,
+    "('Open', 'HINDUNILVR.NS')":2580.7129325458,
+    "('Volume', 'HINDUNILVR.NS')":3386744
+  },
+  {
+    "('Date', '')":"2025-10-24",
+    "('Close', 'HINDUNILVR.NS')":2496.7727050781,
+    "('High', 'HINDUNILVR.NS')":2563.8455413676,
+    "('Low', 'HINDUNILVR.NS')":2455.1996099513,
+    "('Open', 'HINDUNILVR.NS')":2563.8455413676,
+    "('Volume', 'HINDUNILVR.NS')":3110800
+  },
+  {
+    "('Date', '')":"2025-10-27",
+    "('Close', 'HINDUNILVR.NS')":2492.2087402344,
+    "('High', 'HINDUNILVR.NS')":2505.3057356328,
+    "('Low', 'HINDUNILVR.NS')":2486.4539300973,
+    "('Open', 'HINDUNILVR.NS')":2496.7727162327,
+    "('Volume', 'HINDUNILVR.NS')":2127832
+  },
+  {
+    "('Date', '')":"2025-10-28",
+    "('Close', 'HINDUNILVR.NS')":2477.6235351562,
+    "('High', 'HINDUNILVR.NS')":2506.2980277318,
+    "('Low', 'HINDUNILVR.NS')":2462.5418963863,
+    "('Open', 'HINDUNILVR.NS')":2499.352625438,
+    "('Volume', 'HINDUNILVR.NS')":2294976
+  },
+  {
+    "('Date', '')":"2025-10-29",
+    "('Close', 'HINDUNILVR.NS')":2468.6936035156,
+    "('High', 'HINDUNILVR.NS')":2493.9947105527,
+    "('Low', 'HINDUNILVR.NS')":2464.6254854896,
+    "('Open', 'HINDUNILVR.NS')":2493.0025102767,
+    "('Volume', 'HINDUNILVR.NS')":1870143
+  },
+  {
+    "('Date', '')":"2025-10-30",
+    "('Close', 'HINDUNILVR.NS')":2450.337890625,
+    "('High', 'HINDUNILVR.NS')":2477.5240812054,
+    "('Low', 'HINDUNILVR.NS')":2435.7523528256,
+    "('Open', 'HINDUNILVR.NS')":2471.5708795686,
+    "('Volume', 'HINDUNILVR.NS')":1195631
+  },
+  {
+    "('Date', '')":"2025-10-31",
+    "('Close', 'HINDUNILVR.NS')":2446.2697753906,
+    "('High', 'HINDUNILVR.NS')":2460.1605792257,
+    "('Low', 'HINDUNILVR.NS')":2433.7679550445,
+    "('Open', 'HINDUNILVR.NS')":2449.7424763494,
+    "('Volume', 'HINDUNILVR.NS')":1401937
+  },
+  {
+    "('Date', '')":"2025-11-03",
+    "('Close', 'HINDUNILVR.NS')":2440.8127441406,
+    "('High', 'HINDUNILVR.NS')":2455.5964317533,
+    "('Low', 'HINDUNILVR.NS')":2421.2664466287,
+    "('Open', 'HINDUNILVR.NS')":2436.9432598555,
+    "('Volume', 'HINDUNILVR.NS')":1049185
+  },
+  {
+    "('Date', '')":"2025-11-04",
+    "('Close', 'HINDUNILVR.NS')":2426.6242675781,
+    "('High', 'HINDUNILVR.NS')":2444.0870900572,
+    "('Low', 'HINDUNILVR.NS')":2422.2586830766,
+    "('Open', 'HINDUNILVR.NS')":2440.8127805628,
+    "('Volume', 'HINDUNILVR.NS')":1251588
+  },
+  {
+    "('Date', '')":"2025-11-05",
+    "('Close', 'HINDUNILVR.NS')":2426.6242675781,
+    "('High', 'HINDUNILVR.NS')":2426.6242675781,
+    "('Low', 'HINDUNILVR.NS')":2426.6242675781,
+    "('Open', 'HINDUNILVR.NS')":2426.6242675781,
+    "('Volume', 'HINDUNILVR.NS')":0
+  },
+  {
+    "('Date', '')":"2025-11-06",
+    "('Close', 'HINDUNILVR.NS')":2417.0,
+    "('High', 'HINDUNILVR.NS')":2444.682292268,
+    "('Low', 'HINDUNILVR.NS')":2413.626615778,
+    "('Open', 'HINDUNILVR.NS')":2444.682292268,
+    "('Volume', 'HINDUNILVR.NS')":1329256
+  },
+  {
+    "('Date', '')":"2025-11-07",
+    "('Close', 'HINDUNILVR.NS')":2414.0,
+    "('High', 'HINDUNILVR.NS')":2425.0,
+    "('Low', 'HINDUNILVR.NS')":2400.6000976562,
+    "('Open', 'HINDUNILVR.NS')":2417.0,
+    "('Volume', 'HINDUNILVR.NS')":817896
+  },
+  {
+    "('Date', '')":"2025-11-10",
+    "('Close', 'HINDUNILVR.NS')":2408.8000488281,
+    "('High', 'HINDUNILVR.NS')":2429.3000488281,
+    "('Low', 'HINDUNILVR.NS')":2404.0,
+    "('Open', 'HINDUNILVR.NS')":2405.0,
+    "('Volume', 'HINDUNILVR.NS')":780558
+  },
+  {
+    "('Date', '')":"2025-11-11",
+    "('Close', 'HINDUNILVR.NS')":2427.5,
+    "('High', 'HINDUNILVR.NS')":2433.6999511719,
+    "('Low', 'HINDUNILVR.NS')":2403.1000976562,
+    "('Open', 'HINDUNILVR.NS')":2422.1999511719,
+    "('Volume', 'HINDUNILVR.NS')":1422253
+  }
+]

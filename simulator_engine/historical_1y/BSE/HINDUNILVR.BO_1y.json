@@ -1,0 +1,1986 @@
+[
+  {
+    "('Date', '')":"2024-11-13",
+    "('Close', 'HINDUNILVR.BO')":2420.0627441406,
+    "('High', 'HINDUNILVR.BO')":2427.1812977039,
+    "('Low', 'HINDUNILVR.BO')":2404.9420503885,
+    "('Open', 'HINDUNILVR.BO')":2416.8716684054,
+    "('Volume', 'HINDUNILVR.BO')":16852
+  },
+  {
+    "('Date', '')":"2024-11-14",
+    "('Close', 'HINDUNILVR.BO')":2345.7351074219,
+    "('High', 'HINDUNILVR.BO')":2420.2588980243,
+    "('Low', 'HINDUNILVR.BO')":2340.0893584455,
+    "('Open', 'HINDUNILVR.BO')":2418.8352353557,
+    "('Volume', 'HINDUNILVR.BO')":102837
+  },
+  {
+    "('Date', '')":"2024-11-18",
+    "('Close', 'HINDUNILVR.BO')":2379.5114746094,
+    "('High', 'HINDUNILVR.BO')":2381.4752135126,
+    "('Low', 'HINDUNILVR.BO')":2332.5780668786,
+    "('Open', 'HINDUNILVR.BO')":2359.6777596293,
+    "('Volume', 'HINDUNILVR.BO')":23044
+  },
+  {
+    "('Date', '')":"2024-11-19",
+    "('Close', 'HINDUNILVR.BO')":2367.0910644531,
+    "('High', 'HINDUNILVR.BO')":2395.7124648057,
+    "('Low', 'HINDUNILVR.BO')":2362.3780428587,
+    "('Open', 'HINDUNILVR.BO')":2388.8885196489,
+    "('Volume', 'HINDUNILVR.BO')":39222
+  },
+  {
+    "('Date', '')":"2024-11-21",
+    "('Close', 'HINDUNILVR.BO')":2340.0402832031,
+    "('High', 'HINDUNILVR.BO')":2376.0748427893,
+    "('Low', 'HINDUNILVR.BO')":2333.9035993596,
+    "('Open', 'HINDUNILVR.BO')":2376.0748427893,
+    "('Volume', 'HINDUNILVR.BO')":43483
+  },
+  {
+    "('Date', '')":"2024-11-22",
+    "('Close', 'HINDUNILVR.BO')":2401.0632324219,
+    "('High', 'HINDUNILVR.BO')":2409.1636546262,
+    "('Low', 'HINDUNILVR.BO')":2335.8672029294,
+    "('Open', 'HINDUNILVR.BO')":2341.2183429883,
+    "('Volume', 'HINDUNILVR.BO')":128490
+  },
+  {
+    "('Date', '')":"2024-11-25",
+    "('Close', 'HINDUNILVR.BO')":2438.12890625,
+    "('High', 'HINDUNILVR.BO')":2459.8283158893,
+    "('Low', 'HINDUNILVR.BO')":2410.7839872714,
+    "('Open', 'HINDUNILVR.BO')":2410.7839872714,
+    "('Volume', 'HINDUNILVR.BO')":199422
+  },
+  {
+    "('Date', '')":"2024-11-26",
+    "('Close', 'HINDUNILVR.BO')":2434.1032714844,
+    "('High', 'HINDUNILVR.BO')":2449.911224265,
+    "('Low', 'HINDUNILVR.BO')":2416.3804816909,
+    "('Open', 'HINDUNILVR.BO')":2444.4128997078,
+    "('Volume', 'HINDUNILVR.BO')":55445
+  },
+  {
+    "('Date', '')":"2024-11-27",
+    "('Close', 'HINDUNILVR.BO')":2443.7749023438,
+    "('High', 'HINDUNILVR.BO')":2448.6842498431,
+    "('Low', 'HINDUNILVR.BO')":2414.024448269,
+    "('Open', 'HINDUNILVR.BO')":2434.0544901807,
+    "('Volume', 'HINDUNILVR.BO')":61832
+  },
+  {
+    "('Date', '')":"2024-11-28",
+    "('Close', 'HINDUNILVR.BO')":2419.1791992188,
+    "('High', 'HINDUNILVR.BO')":2492.9665942986,
+    "('Low', 'HINDUNILVR.BO')":2409.2622216464,
+    "('Open', 'HINDUNILVR.BO')":2444.8549900762,
+    "('Volume', 'HINDUNILVR.BO')":132355
+  },
+  {
+    "('Date', '')":"2024-11-29",
+    "('Close', 'HINDUNILVR.BO')":2450.9916992188,
+    "('High', 'HINDUNILVR.BO')":2461.0558614289,
+    "('Low', 'HINDUNILVR.BO')":2415.3989304269,
+    "('Open', 'HINDUNILVR.BO')":2415.3989304269,
+    "('Volume', 'HINDUNILVR.BO')":107416
+  },
+  {
+    "('Date', '')":"2024-12-02",
+    "('Close', 'HINDUNILVR.BO')":2434.0541992188,
+    "('High', 'HINDUNILVR.BO')":2444.8547624263,
+    "('Low', 'HINDUNILVR.BO')":2415.5950068849,
+    "('Open', 'HINDUNILVR.BO')":2444.8547624263,
+    "('Volume', 'HINDUNILVR.BO')":89228
+  },
+  {
+    "('Date', '')":"2024-12-03",
+    "('Close', 'HINDUNILVR.BO')":2436.2634277344,
+    "('High', 'HINDUNILVR.BO')":2443.529165346,
+    "('Low', 'HINDUNILVR.BO')":2421.339060926,
+    "('Open', 'HINDUNILVR.BO')":2434.0542216034,
+    "('Volume', 'HINDUNILVR.BO')":135494
+  },
+  {
+    "('Date', '')":"2024-12-04",
+    "('Close', 'HINDUNILVR.BO')":2420.1608886719,
+    "('High', 'HINDUNILVR.BO')":2447.8004164213,
+    "('Low', 'HINDUNILVR.BO')":2411.4712485883,
+    "('Open', 'HINDUNILVR.BO')":2437.9817224124,
+    "('Volume', 'HINDUNILVR.BO')":27775
+  },
+  {
+    "('Date', '')":"2024-12-05",
+    "('Close', 'HINDUNILVR.BO')":2447.5551757812,
+    "('High', 'HINDUNILVR.BO')":2469.1071631843,
+    "('Low', 'HINDUNILVR.BO')":2405.5802550051,
+    "('Open', 'HINDUNILVR.BO')":2425.1685034245,
+    "('Volume', 'HINDUNILVR.BO')":61238
+  },
+  {
+    "('Date', '')":"2024-12-06",
+    "('Close', 'HINDUNILVR.BO')":2439.1108398438,
+    "('High', 'HINDUNILVR.BO')":2459.2883045003,
+    "('Low', 'HINDUNILVR.BO')":2431.1086999038,
+    "('Open', 'HINDUNILVR.BO')":2459.2883045003,
+    "('Volume', 'HINDUNILVR.BO')":116520
+  },
+  {
+    "('Date', '')":"2024-12-09",
+    "('Close', 'HINDUNILVR.BO')":2356.9284667969,
+    "('High', 'HINDUNILVR.BO')":2430.126882035,
+    "('Low', 'HINDUNILVR.BO')":2340.1875447778,
+    "('Open', 'HINDUNILVR.BO')":2430.126882035,
+    "('Volume', 'HINDUNILVR.BO')":221486
+  },
+  {
+    "('Date', '')":"2024-12-10",
+    "('Close', 'HINDUNILVR.BO')":2353.197265625,
+    "('High', 'HINDUNILVR.BO')":2369.7418613507,
+    "('Low', 'HINDUNILVR.BO')":2345.6860603964,
+    "('Open', 'HINDUNILVR.BO')":2361.150503867,
+    "('Volume', 'HINDUNILVR.BO')":67677
+  },
+  {
+    "('Date', '')":"2024-12-11",
+    "('Close', 'HINDUNILVR.BO')":2359.0883789062,
+    "('High', 'HINDUNILVR.BO')":2365.6670955485,
+    "('Low', 'HINDUNILVR.BO')":2342.740349553,
+    "('Open', 'HINDUNILVR.BO')":2365.6670955485,
+    "('Volume', 'HINDUNILVR.BO')":88518
+  },
+  {
+    "('Date', '')":"2024-12-12",
+    "('Close', 'HINDUNILVR.BO')":2302.0419921875,
+    "('High', 'HINDUNILVR.BO')":2356.4866034792,
+    "('Low', 'HINDUNILVR.BO')":2296.5925689741,
+    "('Open', 'HINDUNILVR.BO')":2346.6187678843,
+    "('Volume', 'HINDUNILVR.BO')":233178
+  },
+  {
+    "('Date', '')":"2024-12-13",
+    "('Close', 'HINDUNILVR.BO')":2346.1279296875,
+    "('High', 'HINDUNILVR.BO')":2351.5773531251,
+    "('Low', 'HINDUNILVR.BO')":2291.0940985953,
+    "('Open', 'HINDUNILVR.BO')":2307.3440860765,
+    "('Volume', 'HINDUNILVR.BO')":120847
+  },
+  {
+    "('Date', '')":"2024-12-16",
+    "('Close', 'HINDUNILVR.BO')":2323.0537109375,
+    "('High', 'HINDUNILVR.BO')":2350.7915197198,
+    "('Low', 'HINDUNILVR.BO')":2319.8626355909,
+    "('Open', 'HINDUNILVR.BO')":2350.7915197198,
+    "('Volume', 'HINDUNILVR.BO')":70528
+  },
+  {
+    "('Date', '')":"2024-12-17",
+    "('Close', 'HINDUNILVR.BO')":2321.041015625,
+    "('High', 'HINDUNILVR.BO')":2336.8492091017,
+    "('Low', 'HINDUNILVR.BO')":2312.3024737119,
+    "('Open', 'HINDUNILVR.BO')":2322.0720264542,
+    "('Volume', 'HINDUNILVR.BO')":44511
+  },
+  {
+    "('Date', '')":"2024-12-18",
+    "('Close', 'HINDUNILVR.BO')":2314.6098632812,
+    "('High', 'HINDUNILVR.BO')":2339.5983908916,
+    "('Low', 'HINDUNILVR.BO')":2312.8424504663,
+    "('Open', 'HINDUNILVR.BO')":2320.9920142084,
+    "('Volume', 'HINDUNILVR.BO')":67459
+  },
+  {
+    "('Date', '')":"2024-12-19",
+    "('Close', 'HINDUNILVR.BO')":2317.2609863281,
+    "('High', 'HINDUNILVR.BO')":2339.7948417076,
+    "('Low', 'HINDUNILVR.BO')":2294.6288481203,
+    "('Open', 'HINDUNILVR.BO')":2296.7889129143,
+    "('Volume', 'HINDUNILVR.BO')":36330
+  },
+  {
+    "('Date', '')":"2024-12-20",
+    "('Close', 'HINDUNILVR.BO')":2292.6159667969,
+    "('High', 'HINDUNILVR.BO')":2330.4179396732,
+    "('Low', 'HINDUNILVR.BO')":2282.8464139574,
+    "('Open', 'HINDUNILVR.BO')":2324.3303971788,
+    "('Volume', 'HINDUNILVR.BO')":166906
+  },
+  {
+    "('Date', '')":"2024-12-23",
+    "('Close', 'HINDUNILVR.BO')":2296.8872070312,
+    "('High', 'HINDUNILVR.BO')":2309.4060422719,
+    "('Low', 'HINDUNILVR.BO')":2273.3714821103,
+    "('Open', 'HINDUNILVR.BO')":2301.9437387133,
+    "('Volume', 'HINDUNILVR.BO')":117397
+  },
+  {
+    "('Date', '')":"2024-12-24",
+    "('Close', 'HINDUNILVR.BO')":2293.9416503906,
+    "('High', 'HINDUNILVR.BO')":2313.2844306669,
+    "('Low', 'HINDUNILVR.BO')":2289.3269119056,
+    "('Open', 'HINDUNILVR.BO')":2307.3440725349,
+    "('Volume', 'HINDUNILVR.BO')":26832
+  },
+  {
+    "('Date', '')":"2024-12-26",
+    "('Close', 'HINDUNILVR.BO')":2290.3576660156,
+    "('High', 'HINDUNILVR.BO')":2299.1455893237,
+    "('Low', 'HINDUNILVR.BO')":2281.8645911983,
+    "('Open', 'HINDUNILVR.BO')":2281.8645911983,
+    "('Volume', 'HINDUNILVR.BO')":43805
+  },
+  {
+    "('Date', '')":"2024-12-27",
+    "('Close', 'HINDUNILVR.BO')":2297.8198242188,
+    "('High', 'HINDUNILVR.BO')":2302.3365192675,
+    "('Low', 'HINDUNILVR.BO')":2286.7737936569,
+    "('Open', 'HINDUNILVR.BO')":2299.5380956395,
+    "('Volume', 'HINDUNILVR.BO')":44496
+  },
+  {
+    "('Date', '')":"2024-12-30",
+    "('Close', 'HINDUNILVR.BO')":2301.7966308594,
+    "('High', 'HINDUNILVR.BO')":2314.7572598327,
+    "('Low', 'HINDUNILVR.BO')":2282.6501763242,
+    "('Open', 'HINDUNILVR.BO')":2292.2234035918,
+    "('Volume', 'HINDUNILVR.BO')":59691
+  },
+  {
+    "('Date', '')":"2024-12-31",
+    "('Close', 'HINDUNILVR.BO')":2284.5646972656,
+    "('High', 'HINDUNILVR.BO')":2309.3569003841,
+    "('Low', 'HINDUNILVR.BO')":2281.5208061456,
+    "('Open', 'HINDUNILVR.BO')":2292.7142614811,
+    "('Volume', 'HINDUNILVR.BO')":30065
+  },
+  {
+    "('Date', '')":"2025-01-01",
+    "('Close', 'HINDUNILVR.BO')":2280.7844238281,
+    "('High', 'HINDUNILVR.BO')":2295.3161394673,
+    "('Low', 'HINDUNILVR.BO')":2278.9189677798,
+    "('Open', 'HINDUNILVR.BO')":2284.6629998833,
+    "('Volume', 'HINDUNILVR.BO')":11706
+  },
+  {
+    "('Date', '')":"2025-01-02",
+    "('Close', 'HINDUNILVR.BO')":2327.12890625,
+    "('High', 'HINDUNILVR.BO')":2335.8674485704,
+    "('Low', 'HINDUNILVR.BO')":2274.4023244037,
+    "('Open', 'HINDUNILVR.BO')":2287.7558449639,
+    "('Volume', 'HINDUNILVR.BO')":82477
+  },
+  {
+    "('Date', '')":"2025-01-03",
+    "('Close', 'HINDUNILVR.BO')":2361.8869628906,
+    "('High', 'HINDUNILVR.BO')":2371.2147226692,
+    "('Low', 'HINDUNILVR.BO')":2321.4831308932,
+    "('Open', 'HINDUNILVR.BO')":2336.9475747366,
+    "('Volume', 'HINDUNILVR.BO')":154768
+  },
+  {
+    "('Date', '')":"2025-01-06",
+    "('Close', 'HINDUNILVR.BO')":2334.0510253906,
+    "('High', 'HINDUNILVR.BO')":2385.8937838075,
+    "('Low', 'HINDUNILVR.BO')":2319.2740809379,
+    "('Open', 'HINDUNILVR.BO')":2385.8937838075,
+    "('Volume', 'HINDUNILVR.BO')":42017
+  },
+  {
+    "('Date', '')":"2025-01-07",
+    "('Close', 'HINDUNILVR.BO')":2348.1899414062,
+    "('High', 'HINDUNILVR.BO')":2357.3213752742,
+    "('Low', 'HINDUNILVR.BO')":2332.6272146697,
+    "('Open', 'HINDUNILVR.BO')":2334.8855623575,
+    "('Volume', 'HINDUNILVR.BO')":95486
+  },
+  {
+    "('Date', '')":"2025-01-08",
+    "('Close', 'HINDUNILVR.BO')":2356.044921875,
+    "('High', 'HINDUNILVR.BO')":2364.3416709086,
+    "('Low', 'HINDUNILVR.BO')":2325.5086856383,
+    "('Open', 'HINDUNILVR.BO')":2347.5027054753,
+    "('Volume', 'HINDUNILVR.BO')":53744
+  },
+  {
+    "('Date', '')":"2025-01-09",
+    "('Close', 'HINDUNILVR.BO')":2391.490234375,
+    "('High', 'HINDUNILVR.BO')":2428.1631542852,
+    "('Low', 'HINDUNILVR.BO')":2344.7042508827,
+    "('Open', 'HINDUNILVR.BO')":2366.1581942901,
+    "('Volume', 'HINDUNILVR.BO')":49521
+  },
+  {
+    "('Date', '')":"2025-01-10",
+    "('Close', 'HINDUNILVR.BO')":2397.6760253906,
+    "('High', 'HINDUNILVR.BO')":2411.5204803475,
+    "('Low', 'HINDUNILVR.BO')":2370.5274313246,
+    "('Open', 'HINDUNILVR.BO')":2391.4901999904,
+    "('Volume', 'HINDUNILVR.BO')":74088
+  },
+  {
+    "('Date', '')":"2025-01-13",
+    "('Close', 'HINDUNILVR.BO')":2408.5258789062,
+    "('High', 'HINDUNILVR.BO')":2417.1172370149,
+    "('Low', 'HINDUNILVR.BO')":2368.269229483,
+    "('Open', 'HINDUNILVR.BO')":2376.9588704272,
+    "('Volume', 'HINDUNILVR.BO')":91751
+  },
+  {
+    "('Date', '')":"2025-01-14",
+    "('Close', 'HINDUNILVR.BO')":2324.7231445312,
+    "('High', 'HINDUNILVR.BO')":2422.2719718322,
+    "('Low', 'HINDUNILVR.BO')":2320.7467649666,
+    "('Open', 'HINDUNILVR.BO')":2417.3626245038,
+    "('Volume', 'HINDUNILVR.BO')":188332
+  },
+  {
+    "('Date', '')":"2025-01-15",
+    "('Close', 'HINDUNILVR.BO')":2330.1726074219,
+    "('High', 'HINDUNILVR.BO')":2351.0864753374,
+    "('Low', 'HINDUNILVR.BO')":2307.6387507462,
+    "('Open', 'HINDUNILVR.BO')":2351.0864753374,
+    "('Volume', 'HINDUNILVR.BO')":46414
+  },
+  {
+    "('Date', '')":"2025-01-16",
+    "('Close', 'HINDUNILVR.BO')":2303.3674316406,
+    "('High', 'HINDUNILVR.BO')":2331.9399283324,
+    "('Low', 'HINDUNILVR.BO')":2284.0246515464,
+    "('Open', 'HINDUNILVR.BO')":2330.1725153912,
+    "('Volume', 'HINDUNILVR.BO')":98037
+  },
+  {
+    "('Date', '')":"2025-01-17",
+    "('Close', 'HINDUNILVR.BO')":2311.5661621094,
+    "('High', 'HINDUNILVR.BO')":2335.8674310962,
+    "('Low', 'HINDUNILVR.BO')":2300.4218479206,
+    "('Open', 'HINDUNILVR.BO')":2313.0881077059,
+    "('Volume', 'HINDUNILVR.BO')":44456
+  },
+  {
+    "('Date', '')":"2025-01-20",
+    "('Close', 'HINDUNILVR.BO')":2302.8273925781,
+    "('High', 'HINDUNILVR.BO')":2324.919453113,
+    "('Low', 'HINDUNILVR.BO')":2292.7140902571,
+    "('Open', 'HINDUNILVR.BO')":2320.1081494347,
+    "('Volume', 'HINDUNILVR.BO')":33185
+  },
+  {
+    "('Date', '')":"2025-01-21",
+    "('Close', 'HINDUNILVR.BO')":2297.9672851562,
+    "('High', 'HINDUNILVR.BO')":2334.3455981254,
+    "('Low', 'HINDUNILVR.BO')":2289.7688186482,
+    "('Open', 'HINDUNILVR.BO')":2305.8713825852,
+    "('Volume', 'HINDUNILVR.BO')":249053
+  },
+  {
+    "('Date', '')":"2025-01-22",
+    "('Close', 'HINDUNILVR.BO')":2300.4709472656,
+    "('High', 'HINDUNILVR.BO')":2317.9482711703,
+    "('Low', 'HINDUNILVR.BO')":2290.1121767724,
+    "('Open', 'HINDUNILVR.BO')":2292.9597419655,
+    "('Volume', 'HINDUNILVR.BO')":77351
+  },
+  {
+    "('Date', '')":"2025-01-23",
+    "('Close', 'HINDUNILVR.BO')":2280.7844238281,
+    "('High', 'HINDUNILVR.BO')":2307.1968555641,
+    "('Low', 'HINDUNILVR.BO')":2214.1155848098,
+    "('Open', 'HINDUNILVR.BO')":2307.1968555641,
+    "('Volume', 'HINDUNILVR.BO')":218717
+  },
+  {
+    "('Date', '')":"2025-01-24",
+    "('Close', 'HINDUNILVR.BO')":2325.9504394531,
+    "('High', 'HINDUNILVR.BO')":2336.8001447962,
+    "('Low', 'HINDUNILVR.BO')":2280.9810105067,
+    "('Open', 'HINDUNILVR.BO')":2280.9810105067,
+    "('Volume', 'HINDUNILVR.BO')":57350
+  },
+  {
+    "('Date', '')":"2025-01-27",
+    "('Close', 'HINDUNILVR.BO')":2349.0241699219,
+    "('High', 'HINDUNILVR.BO')":2364.3414278819,
+    "('Low', 'HINDUNILVR.BO')":2315.7880357879,
+    "('Open', 'HINDUNILVR.BO')":2315.7880357879,
+    "('Volume', 'HINDUNILVR.BO')":86795
+  },
+  {
+    "('Date', '')":"2025-01-28",
+    "('Close', 'HINDUNILVR.BO')":2346.4716796875,
+    "('High', 'HINDUNILVR.BO')":2365.1763408133,
+    "('Low', 'HINDUNILVR.BO')":2336.4566591544,
+    "('Open', 'HINDUNILVR.BO')":2365.1763408133,
+    "('Volume', 'HINDUNILVR.BO')":77652
+  },
+  {
+    "('Date', '')":"2025-01-29",
+    "('Close', 'HINDUNILVR.BO')":2340.9729003906,
+    "('High', 'HINDUNILVR.BO')":2352.018930786,
+    "('Low', 'HINDUNILVR.BO')":2320.9428611593,
+    "('Open', 'HINDUNILVR.BO')":2346.324040506,
+    "('Volume', 'HINDUNILVR.BO')":37255
+  },
+  {
+    "('Date', '')":"2025-01-30",
+    "('Close', 'HINDUNILVR.BO')":2367.8764648438,
+    "('High', 'HINDUNILVR.BO')":2380.0024087398,
+    "('Low', 'HINDUNILVR.BO')":2338.8130331971,
+    "('Open', 'HINDUNILVR.BO')":2338.8130331971,
+    "('Volume', 'HINDUNILVR.BO')":64780
+  },
+  {
+    "('Date', '')":"2025-01-31",
+    "('Close', 'HINDUNILVR.BO')":2426.4938964844,
+    "('High', 'HINDUNILVR.BO')":2433.0723735224,
+    "('Low', 'HINDUNILVR.BO')":2357.9593644125,
+    "('Open', 'HINDUNILVR.BO')":2357.9593644125,
+    "('Volume', 'HINDUNILVR.BO')":88899
+  },
+  {
+    "('Date', '')":"2025-02-01",
+    "('Close', 'HINDUNILVR.BO')":2461.6447753906,
+    "('High', 'HINDUNILVR.BO')":2552.8603433101,
+    "('Low', 'HINDUNILVR.BO')":2390.6555725165,
+    "('Open', 'HINDUNILVR.BO')":2439.7490406571,
+    "('Volume', 'HINDUNILVR.BO')":204673
+  },
+  {
+    "('Date', '')":"2025-02-03",
+    "('Close', 'HINDUNILVR.BO')":2397.1359863281,
+    "('High', 'HINDUNILVR.BO')":2473.1328258081,
+    "('Low', 'HINDUNILVR.BO')":2374.1603370169,
+    "('Open', 'HINDUNILVR.BO')":2464.2960007323,
+    "('Volume', 'HINDUNILVR.BO')":164795
+  },
+  {
+    "('Date', '')":"2025-02-04",
+    "('Close', 'HINDUNILVR.BO')":2395.6630859375,
+    "('High', 'HINDUNILVR.BO')":2419.4245175138,
+    "('Low', 'HINDUNILVR.BO')":2359.4322004677,
+    "('Open', 'HINDUNILVR.BO')":2419.4245175138,
+    "('Volume', 'HINDUNILVR.BO')":120825
+  },
+  {
+    "('Date', '')":"2025-02-05",
+    "('Close', 'HINDUNILVR.BO')":2347.060546875,
+    "('High', 'HINDUNILVR.BO')":2401.6525820752,
+    "('Low', 'HINDUNILVR.BO')":2342.2986240547,
+    "('Open', 'HINDUNILVR.BO')":2399.8360277771,
+    "('Volume', 'HINDUNILVR.BO')":60409
+  },
+  {
+    "('Date', '')":"2025-02-06",
+    "('Close', 'HINDUNILVR.BO')":2330.4670410156,
+    "('High', 'HINDUNILVR.BO')":2364.341535608,
+    "('Low', 'HINDUNILVR.BO')":2318.1936734097,
+    "('Open', 'HINDUNILVR.BO')":2350.742548415,
+    "('Volume', 'HINDUNILVR.BO')":62946
+  },
+  {
+    "('Date', '')":"2025-02-07",
+    "('Close', 'HINDUNILVR.BO')":2320.7956542969,
+    "('High', 'HINDUNILVR.BO')":2339.7457828263,
+    "('Low', 'HINDUNILVR.BO')":2294.4817445283,
+    "('Open', 'HINDUNILVR.BO')":2339.7457828263,
+    "('Volume', 'HINDUNILVR.BO')":28696
+  },
+  {
+    "('Date', '')":"2025-02-10",
+    "('Close', 'HINDUNILVR.BO')":2320.6975097656,
+    "('High', 'HINDUNILVR.BO')":2354.7191891976,
+    "('Low', 'HINDUNILVR.BO')":2310.4859239947,
+    "('Open', 'HINDUNILVR.BO')":2328.9451169873,
+    "('Volume', 'HINDUNILVR.BO')":52992
+  },
+  {
+    "('Date', '')":"2025-02-11",
+    "('Close', 'HINDUNILVR.BO')":2272.4384765625,
+    "('High', 'HINDUNILVR.BO')":2334.4436739039,
+    "('Low', 'HINDUNILVR.BO')":2254.6667839923,
+    "('Open', 'HINDUNILVR.BO')":2331.9398589546,
+    "('Volume', 'HINDUNILVR.BO')":128230
+  },
+  {
+    "('Date', '')":"2025-02-12",
+    "('Close', 'HINDUNILVR.BO')":2289.62109375,
+    "('High', 'HINDUNILVR.BO')":2297.5743315526,
+    "('Low', 'HINDUNILVR.BO')":2264.190772889,
+    "('Open', 'HINDUNILVR.BO')":2283.8281603382,
+    "('Volume', 'HINDUNILVR.BO')":54919
+  },
+  {
+    "('Date', '')":"2025-02-13",
+    "('Close', 'HINDUNILVR.BO')":2281.9138183594,
+    "('High', 'HINDUNILVR.BO')":2303.5640883877,
+    "('Low', 'HINDUNILVR.BO')":2209.3046180837,
+    "('Open', 'HINDUNILVR.BO')":2209.3046180837,
+    "('Volume', 'HINDUNILVR.BO')":96268
+  },
+  {
+    "('Date', '')":"2025-02-14",
+    "('Close', 'HINDUNILVR.BO')":2276.0224609375,
+    "('High', 'HINDUNILVR.BO')":2322.9558672381,
+    "('Low', 'HINDUNILVR.BO')":2271.6531899537,
+    "('Open', 'HINDUNILVR.BO')":2277.937058367,
+    "('Volume', 'HINDUNILVR.BO')":43845
+  },
+  {
+    "('Date', '')":"2025-02-17",
+    "('Close', 'HINDUNILVR.BO')":2286.6267089844,
+    "('High', 'HINDUNILVR.BO')":2290.9959799879,
+    "('Low', 'HINDUNILVR.BO')":2258.3488215683,
+    "('Open', 'HINDUNILVR.BO')":2275.3352105836,
+    "('Volume', 'HINDUNILVR.BO')":64066
+  },
+  {
+    "('Date', '')":"2025-02-18",
+    "('Close', 'HINDUNILVR.BO')":2254.17578125,
+    "('High', 'HINDUNILVR.BO')":2292.6158717738,
+    "('Low', 'HINDUNILVR.BO')":2247.5973043156,
+    "('Open', 'HINDUNILVR.BO')":2292.6158717738,
+    "('Volume', 'HINDUNILVR.BO')":22883
+  },
+  {
+    "('Date', '')":"2025-02-19",
+    "('Close', 'HINDUNILVR.BO')":2209.4519042969,
+    "('High', 'HINDUNILVR.BO')":2263.2092609285,
+    "('Low', 'HINDUNILVR.BO')":2206.4571542951,
+    "('Open', 'HINDUNILVR.BO')":2262.7183261647,
+    "('Volume', 'HINDUNILVR.BO')":27701
+  },
+  {
+    "('Date', '')":"2025-02-20",
+    "('Close', 'HINDUNILVR.BO')":2208.0771484375,
+    "('High', 'HINDUNILVR.BO')":2215.7846795817,
+    "('Low', 'HINDUNILVR.BO')":2187.6050750763,
+    "('Open', 'HINDUNILVR.BO')":2213.6737562074,
+    "('Volume', 'HINDUNILVR.BO')":18644
+  },
+  {
+    "('Date', '')":"2025-02-21",
+    "('Close', 'HINDUNILVR.BO')":2200.9587402344,
+    "('High', 'HINDUNILVR.BO')":2210.1882175361,
+    "('Low', 'HINDUNILVR.BO')":2187.0160017331,
+    "('Open', 'HINDUNILVR.BO')":2205.033402724,
+    "('Volume', 'HINDUNILVR.BO')":118305
+  },
+  {
+    "('Date', '')":"2025-02-24",
+    "('Close', 'HINDUNILVR.BO')":2201.5476074219,
+    "('High', 'HINDUNILVR.BO')":2211.0227913335,
+    "('Low', 'HINDUNILVR.BO')":2178.7682843878,
+    "('Open', 'HINDUNILVR.BO')":2196.3436514541,
+    "('Volume', 'HINDUNILVR.BO')":35987
+  },
+  {
+    "('Date', '')":"2025-02-25",
+    "('Close', 'HINDUNILVR.BO')":2219.2214355469,
+    "('High', 'HINDUNILVR.BO')":2227.8619352439,
+    "('Low', 'HINDUNILVR.BO')":2198.2095237577,
+    "('Open', 'HINDUNILVR.BO')":2201.7441101922,
+    "('Volume', 'HINDUNILVR.BO')":94689
+  },
+  {
+    "('Date', '')":"2025-02-27",
+    "('Close', 'HINDUNILVR.BO')":2205.8679199219,
+    "('High', 'HINDUNILVR.BO')":2230.8073071353,
+    "('Low', 'HINDUNILVR.BO')":2193.0544761348,
+    "('Open', 'HINDUNILVR.BO')":2230.8073071353,
+    "('Volume', 'HINDUNILVR.BO')":38133
+  },
+  {
+    "('Date', '')":"2025-02-28",
+    "('Close', 'HINDUNILVR.BO')":2152.0615234375,
+    "('High', 'HINDUNILVR.BO')":2209.2062778826,
+    "('Low', 'HINDUNILVR.BO')":2147.201317569,
+    "('Open', 'HINDUNILVR.BO')":2204.2969305984,
+    "('Volume', 'HINDUNILVR.BO')":86676
+  },
+  {
+    "('Date', '')":"2025-03-03",
+    "('Close', 'HINDUNILVR.BO')":2137.48046875,
+    "('High', 'HINDUNILVR.BO')":2162.0763443155,
+    "('Low', 'HINDUNILVR.BO')":2119.4141682981,
+    "('Open', 'HINDUNILVR.BO')":2162.0763443155,
+    "('Volume', 'HINDUNILVR.BO')":153160
+  },
+  {
+    "('Date', '')":"2025-03-04",
+    "('Close', 'HINDUNILVR.BO')":2116.861328125,
+    "('High', 'HINDUNILVR.BO')":2141.8009552218,
+    "('Low', 'HINDUNILVR.BO')":2097.2730811387,
+    "('Open', 'HINDUNILVR.BO')":2139.5426076129,
+    "('Volume', 'HINDUNILVR.BO')":95062
+  },
+  {
+    "('Date', '')":"2025-03-05",
+    "('Close', 'HINDUNILVR.BO')":2131.9821777344,
+    "('High', 'HINDUNILVR.BO')":2151.1775323743,
+    "('Low', 'HINDUNILVR.BO')":2112.0010399321,
+    "('Open', 'HINDUNILVR.BO')":2112.0993227559,
+    "('Volume', 'HINDUNILVR.BO')":21119
+  },
+  {
+    "('Date', '')":"2025-03-06",
+    "('Close', 'HINDUNILVR.BO')":2179.3083496094,
+    "('High', 'HINDUNILVR.BO')":2188.9796197032,
+    "('Low', 'HINDUNILVR.BO')":2124.9126391514,
+    "('Open', 'HINDUNILVR.BO')":2137.5297572607,
+    "('Volume', 'HINDUNILVR.BO')":126319
+  },
+  {
+    "('Date', '')":"2025-03-07",
+    "('Close', 'HINDUNILVR.BO')":2163.84375,
+    "('High', 'HINDUNILVR.BO')":2188.2922012516,
+    "('Low', 'HINDUNILVR.BO')":2149.2137526636,
+    "('Open', 'HINDUNILVR.BO')":2188.2922012516,
+    "('Volume', 'HINDUNILVR.BO')":54634
+  },
+  {
+    "('Date', '')":"2025-03-10",
+    "('Close', 'HINDUNILVR.BO')":2206.9968261719,
+    "('High', 'HINDUNILVR.BO')":2226.2904629674,
+    "('Low', 'HINDUNILVR.BO')":2155.2032180835,
+    "('Open', 'HINDUNILVR.BO')":2178.5717565004,
+    "('Volume', 'HINDUNILVR.BO')":39081
+  },
+  {
+    "('Date', '')":"2025-03-11",
+    "('Close', 'HINDUNILVR.BO')":2177.0991210938,
+    "('High', 'HINDUNILVR.BO')":2220.5468430921,
+    "('Low', 'HINDUNILVR.BO')":2170.9132957817,
+    "('Open', 'HINDUNILVR.BO')":2203.2658453494,
+    "('Volume', 'HINDUNILVR.BO')":65757
+  },
+  {
+    "('Date', '')":"2025-03-12",
+    "('Close', 'HINDUNILVR.BO')":2153.0925292969,
+    "('High', 'HINDUNILVR.BO')":2189.5688836477,
+    "('Low', 'HINDUNILVR.BO')":2145.1884322449,
+    "('Open', 'HINDUNILVR.BO')":2183.3830581412,
+    "('Volume', 'HINDUNILVR.BO')":126214
+  },
+  {
+    "('Date', '')":"2025-03-13",
+    "('Close', 'HINDUNILVR.BO')":2136.4006347656,
+    "('High', 'HINDUNILVR.BO')":2170.6186396054,
+    "('Low', 'HINDUNILVR.BO')":2126.7291252678,
+    "('Open', 'HINDUNILVR.BO')":2161.0454129335,
+    "('Volume', 'HINDUNILVR.BO')":108954
+  },
+  {
+    "('Date', '')":"2025-03-17",
+    "('Close', 'HINDUNILVR.BO')":2131.6877441406,
+    "('High', 'HINDUNILVR.BO')":2152.2087200177,
+    "('Low', 'HINDUNILVR.BO')":2117.4014955208,
+    "('Open', 'HINDUNILVR.BO')":2136.3516240867,
+    "('Volume', 'HINDUNILVR.BO')":172285
+  },
+  {
+    "('Date', '')":"2025-03-18",
+    "('Close', 'HINDUNILVR.BO')":2161.7326660156,
+    "('High', 'HINDUNILVR.BO')":2174.8407183755,
+    "('Low', 'HINDUNILVR.BO')":2139.2970940812,
+    "('Open', 'HINDUNILVR.BO')":2150.2939834051,
+    "('Volume', 'HINDUNILVR.BO')":162523
+  },
+  {
+    "('Date', '')":"2025-03-19",
+    "('Close', 'HINDUNILVR.BO')":2160.8981933594,
+    "('High', 'HINDUNILVR.BO')":2173.0241364519,
+    "('Low', 'HINDUNILVR.BO')":2153.6322160721,
+    "('Open', 'HINDUNILVR.BO')":2169.6858764241,
+    "('Volume', 'HINDUNILVR.BO')":135617
+  },
+  {
+    "('Date', '')":"2025-03-20",
+    "('Close', 'HINDUNILVR.BO')":2201.1547851562,
+    "('High', 'HINDUNILVR.BO')":2207.6841205323,
+    "('Low', 'HINDUNILVR.BO')":2148.8211001836,
+    "('Open', 'HINDUNILVR.BO')":2161.5854018982,
+    "('Volume', 'HINDUNILVR.BO')":109297
+  },
+  {
+    "('Date', '')":"2025-03-21",
+    "('Close', 'HINDUNILVR.BO')":2206.7023925781,
+    "('High', 'HINDUNILVR.BO')":2212.1518158329,
+    "('Low', 'HINDUNILVR.BO')":2185.3467325717,
+    "('Open', 'HINDUNILVR.BO')":2204.2968604283,
+    "('Volume', 'HINDUNILVR.BO')":137371
+  },
+  {
+    "('Date', '')":"2025-03-24",
+    "('Close', 'HINDUNILVR.BO')":2215.2446289062,
+    "('High', 'HINDUNILVR.BO')":2224.9161387224,
+    "('Low', 'HINDUNILVR.BO')":2200.0747940851,
+    "('Open', 'HINDUNILVR.BO')":2207.2424889002,
+    "('Volume', 'HINDUNILVR.BO')":109001
+  },
+  {
+    "('Date', '')":"2025-03-25",
+    "('Close', 'HINDUNILVR.BO')":2229.5307617188,
+    "('High', 'HINDUNILVR.BO')":2250.3954861233,
+    "('Low', 'HINDUNILVR.BO')":2202.5293536659,
+    "('Open', 'HINDUNILVR.BO')":2219.0248072556,
+    "('Volume', 'HINDUNILVR.BO')":249719
+  },
+  {
+    "('Date', '')":"2025-03-26",
+    "('Close', 'HINDUNILVR.BO')":2203.1677246094,
+    "('High', 'HINDUNILVR.BO')":2238.36759838,
+    "('Low', 'HINDUNILVR.BO')":2195.9017473015,
+    "('Open', 'HINDUNILVR.BO')":2238.36759838,
+    "('Volume', 'HINDUNILVR.BO')":151630
+  },
+  {
+    "('Date', '')":"2025-03-27",
+    "('Close', 'HINDUNILVR.BO')":2196.1965332031,
+    "('High', 'HINDUNILVR.BO')":2219.5159330751,
+    "('Low', 'HINDUNILVR.BO')":2169.9315249263,
+    "('Open', 'HINDUNILVR.BO')":2203.1679023137,
+    "('Volume', 'HINDUNILVR.BO')":72835
+  },
+  {
+    "('Date', '')":"2025-03-28",
+    "('Close', 'HINDUNILVR.BO')":2218.38671875,
+    "('High', 'HINDUNILVR.BO')":2254.3229948639,
+    "('Low', 'HINDUNILVR.BO')":2199.8292433119,
+    "('Open', 'HINDUNILVR.BO')":2209.1570025865,
+    "('Volume', 'HINDUNILVR.BO')":52742
+  },
+  {
+    "('Date', '')":"2025-04-01",
+    "('Close', 'HINDUNILVR.BO')":2193.1525878906,
+    "('High', 'HINDUNILVR.BO')":2243.179027838,
+    "('Low', 'HINDUNILVR.BO')":2180.0447746406,
+    "('Open', 'HINDUNILVR.BO')":2219.074085043,
+    "('Volume', 'HINDUNILVR.BO')":97007
+  },
+  {
+    "('Date', '')":"2025-04-02",
+    "('Close', 'HINDUNILVR.BO')":2197.767578125,
+    "('High', 'HINDUNILVR.BO')":2208.2243918763,
+    "('Low', 'HINDUNILVR.BO')":2151.7668985313,
+    "('Open', 'HINDUNILVR.BO')":2191.5326112351,
+    "('Volume', 'HINDUNILVR.BO')":63140
+  },
+  {
+    "('Date', '')":"2025-04-03",
+    "('Close', 'HINDUNILVR.BO')":2204.4931640625,
+    "('High', 'HINDUNILVR.BO')":2211.1699240317,
+    "('Low', 'HINDUNILVR.BO')":2171.3059298709,
+    "('Open', 'HINDUNILVR.BO')":2171.3059298709,
+    "('Volume', 'HINDUNILVR.BO')":31331
+  },
+  {
+    "('Date', '')":"2025-04-04",
+    "('Close', 'HINDUNILVR.BO')":2203.7568359375,
+    "('High', 'HINDUNILVR.BO')":2225.898039946,
+    "('Low', 'HINDUNILVR.BO')":2181.8610992912,
+    "('Open', 'HINDUNILVR.BO')":2199.0438146414,
+    "('Volume', 'HINDUNILVR.BO')":82603
+  },
+  {
+    "('Date', '')":"2025-04-07",
+    "('Close', 'HINDUNILVR.BO')":2209.353515625,
+    "('High', 'HINDUNILVR.BO')":2220.3015041609,
+    "('Low', 'HINDUNILVR.BO')":2101.2498296523,
+    "('Open', 'HINDUNILVR.BO')":2101.2498296523,
+    "('Volume', 'HINDUNILVR.BO')":194101
+  },
+  {
+    "('Date', '')":"2025-04-08",
+    "('Close', 'HINDUNILVR.BO')":2247.8427734375,
+    "('High', 'HINDUNILVR.BO')":2264.2890856436,
+    "('Low', 'HINDUNILVR.BO')":2211.5625078742,
+    "('Open', 'HINDUNILVR.BO')":2219.5157457819,
+    "('Volume', 'HINDUNILVR.BO')":118104
+  },
+  {
+    "('Date', '')":"2025-04-09",
+    "('Close', 'HINDUNILVR.BO')":2306.8532714844,
+    "('High', 'HINDUNILVR.BO')":2311.3208256961,
+    "('Low', 'HINDUNILVR.BO')":2247.8919594876,
+    "('Open', 'HINDUNILVR.BO')":2247.8919594876,
+    "('Volume', 'HINDUNILVR.BO')":177878
+  },
+  {
+    "('Date', '')":"2025-04-11",
+    "('Close', 'HINDUNILVR.BO')":2323.6923828125,
+    "('High', 'HINDUNILVR.BO')":2349.6136409262,
+    "('Low', 'HINDUNILVR.BO')":2303.2694499005,
+    "('Open', 'HINDUNILVR.BO')":2346.8152170519,
+    "('Volume', 'HINDUNILVR.BO')":202155
+  },
+  {
+    "('Date', '')":"2025-04-15",
+    "('Close', 'HINDUNILVR.BO')":2318.2429199219,
+    "('High', 'HINDUNILVR.BO')":2349.6627424175,
+    "('Low', 'HINDUNILVR.BO')":2302.8765191541,
+    "('Open', 'HINDUNILVR.BO')":2349.613601002,
+    "('Volume', 'HINDUNILVR.BO')":168189
+  },
+  {
+    "('Date', '')":"2025-04-16",
+    "('Close', 'HINDUNILVR.BO')":2324.2321777344,
+    "('High', 'HINDUNILVR.BO')":2331.9399488193,
+    "('Low', 'HINDUNILVR.BO')":2311.026081546,
+    "('Open', 'HINDUNILVR.BO')":2331.6453400408,
+    "('Volume', 'HINDUNILVR.BO')":55654
+  },
+  {
+    "('Date', '')":"2025-04-17",
+    "('Close', 'HINDUNILVR.BO')":2331.5959472656,
+    "('High', 'HINDUNILVR.BO')":2336.3581094808,
+    "('Low', 'HINDUNILVR.BO')":2301.5017476877,
+    "('Open', 'HINDUNILVR.BO')":2313.676831696,
+    "('Volume', 'HINDUNILVR.BO')":47106
+  },
+  {
+    "('Date', '')":"2025-04-21",
+    "('Close', 'HINDUNILVR.BO')":2307.3930664062,
+    "('High', 'HINDUNILVR.BO')":2327.6685734232,
+    "('Low', 'HINDUNILVR.BO')":2305.2330016912,
+    "('Open', 'HINDUNILVR.BO')":2327.6685734232,
+    "('Volume', 'HINDUNILVR.BO')":49514
+  },
+  {
+    "('Date', '')":"2025-04-22",
+    "('Close', 'HINDUNILVR.BO')":2355.6030273438,
+    "('High', 'HINDUNILVR.BO')":2363.3596998956,
+    "('Low', 'HINDUNILVR.BO')":2312.204207099,
+    "('Open', 'HINDUNILVR.BO')":2322.1211841517,
+    "('Volume', 'HINDUNILVR.BO')":66805
+  },
+  {
+    "('Date', '')":"2025-04-23",
+    "('Close', 'HINDUNILVR.BO')":2378.2348632812,
+    "('High', 'HINDUNILVR.BO')":2393.7975891043,
+    "('Low', 'HINDUNILVR.BO')":2349.6626076664,
+    "('Open', 'HINDUNILVR.BO')":2375.0929291547,
+    "('Volume', 'HINDUNILVR.BO')":82343
+  },
+  {
+    "('Date', '')":"2025-04-24",
+    "('Close', 'HINDUNILVR.BO')":2283.0920410156,
+    "('High', 'HINDUNILVR.BO')":2441.4184969295,
+    "('Low', 'HINDUNILVR.BO')":2274.7952917338,
+    "('Open', 'HINDUNILVR.BO')":2378.2350991024,
+    "('Volume', 'HINDUNILVR.BO')":238400
+  },
+  {
+    "('Date', '')":"2025-04-25",
+    "('Close', 'HINDUNILVR.BO')":2289.3269042969,
+    "('High', 'HINDUNILVR.BO')":2297.0344356468,
+    "('Low', 'HINDUNILVR.BO')":2252.7031258884,
+    "('Open', 'HINDUNILVR.BO')":2283.8774809094,
+    "('Volume', 'HINDUNILVR.BO')":109709
+  },
+  {
+    "('Date', '')":"2025-04-28",
+    "('Close', 'HINDUNILVR.BO')":2277.3969726562,
+    "('High', 'HINDUNILVR.BO')":2306.4112618885,
+    "('Low', 'HINDUNILVR.BO')":2273.1259845183,
+    "('Open', 'HINDUNILVR.BO')":2297.5744371303,
+    "('Volume', 'HINDUNILVR.BO')":60213
+  },
+  {
+    "('Date', '')":"2025-04-29",
+    "('Close', 'HINDUNILVR.BO')":2280.4409179688,
+    "('High', 'HINDUNILVR.BO')":2292.4688186201,
+    "('Low', 'HINDUNILVR.BO')":2270.6713649744,
+    "('Open', 'HINDUNILVR.BO')":2292.4688186201,
+    "('Volume', 'HINDUNILVR.BO')":63845
+  },
+  {
+    "('Date', '')":"2025-04-30",
+    "('Close', 'HINDUNILVR.BO')":2298.8017578125,
+    "('High', 'HINDUNILVR.BO')":2309.405995391,
+    "('Low', 'HINDUNILVR.BO')":2273.4694790735,
+    "('Open', 'HINDUNILVR.BO')":2279.9007716564,
+    "('Volume', 'HINDUNILVR.BO')":100266
+  },
+  {
+    "('Date', '')":"2025-05-02",
+    "('Close', 'HINDUNILVR.BO')":2281.0300292969,
+    "('High', 'HINDUNILVR.BO')":2301.0603108926,
+    "('Low', 'HINDUNILVR.BO')":2266.154802282,
+    "('Open', 'HINDUNILVR.BO')":2288.7378007449,
+    "('Volume', 'HINDUNILVR.BO')":48106
+  },
+  {
+    "('Date', '')":"2025-05-05",
+    "('Close', 'HINDUNILVR.BO')":2305.9694824219,
+    "('High', 'HINDUNILVR.BO')":2312.0570249045,
+    "('Low', 'HINDUNILVR.BO')":2276.218790948,
+    "('Open', 'HINDUNILVR.BO')":2281.7662573049,
+    "('Volume', 'HINDUNILVR.BO')":45802
+  },
+  {
+    "('Date', '')":"2025-05-06",
+    "('Close', 'HINDUNILVR.BO')":2338.1748046875,
+    "('High', 'HINDUNILVR.BO')":2345.6860097539,
+    "('Low', 'HINDUNILVR.BO')":2299.2926803438,
+    "('Open', 'HINDUNILVR.BO')":2303.4656253172,
+    "('Volume', 'HINDUNILVR.BO')":29903
+  },
+  {
+    "('Date', '')":"2025-05-07",
+    "('Close', 'HINDUNILVR.BO')":2326.9814453125,
+    "('High', 'HINDUNILVR.BO')":2343.7223673075,
+    "('Low', 'HINDUNILVR.BO')":2312.3516864546,
+    "('Open', 'HINDUNILVR.BO')":2328.0124561735,
+    "('Volume', 'HINDUNILVR.BO')":30357
+  },
+  {
+    "('Date', '')":"2025-05-08",
+    "('Close', 'HINDUNILVR.BO')":2312.5478515625,
+    "('High', 'HINDUNILVR.BO')":2326.9812834702,
+    "('Low', 'HINDUNILVR.BO')":2298.5562129319,
+    "('Open', 'HINDUNILVR.BO')":2326.9812834702,
+    "('Volume', 'HINDUNILVR.BO')":105168
+  },
+  {
+    "('Date', '')":"2025-05-09",
+    "('Close', 'HINDUNILVR.BO')":2291.6342773438,
+    "('High', 'HINDUNILVR.BO')":2297.5746357765,
+    "('Low', 'HINDUNILVR.BO')":2260.2635946827,
+    "('Open', 'HINDUNILVR.BO')":2281.963006573,
+    "('Volume', 'HINDUNILVR.BO')":83143
+  },
+  {
+    "('Date', '')":"2025-05-12",
+    "('Close', 'HINDUNILVR.BO')":2339.7456054688,
+    "('High', 'HINDUNILVR.BO')":2343.722224425,
+    "('Low', 'HINDUNILVR.BO')":2305.4293183703,
+    "('Open', 'HINDUNILVR.BO')":2309.7005460851,
+    "('Volume', 'HINDUNILVR.BO')":305779
+  },
+  {
+    "('Date', '')":"2025-05-13",
+    "('Close', 'HINDUNILVR.BO')":2317.7028808594,
+    "('High', 'HINDUNILVR.BO')":2355.3085294533,
+    "('Low', 'HINDUNILVR.BO')":2310.3388598441,
+    "('Open', 'HINDUNILVR.BO')":2327.1289236446,
+    "('Volume', 'HINDUNILVR.BO')":210607
+  },
+  {
+    "('Date', '')":"2025-05-14",
+    "('Close', 'HINDUNILVR.BO')":2308.5222167969,
+    "('High', 'HINDUNILVR.BO')":2325.950399197,
+    "('Low', 'HINDUNILVR.BO')":2296.445414567,
+    "('Open', 'HINDUNILVR.BO')":2319.3227805378,
+    "('Volume', 'HINDUNILVR.BO')":64530
+  },
+  {
+    "('Date', '')":"2025-05-15",
+    "('Close', 'HINDUNILVR.BO')":2312.4494628906,
+    "('High', 'HINDUNILVR.BO')":2326.0484490334,
+    "('Low', 'HINDUNILVR.BO')":2297.6725212057,
+    "('Open', 'HINDUNILVR.BO')":2308.8657357122,
+    "('Volume', 'HINDUNILVR.BO')":78626
+  },
+  {
+    "('Date', '')":"2025-05-16",
+    "('Close', 'HINDUNILVR.BO')":2337.8312988281,
+    "('High', 'HINDUNILVR.BO')":2342.7406463687,
+    "('Low', 'HINDUNILVR.BO')":2306.5097574049,
+    "('Open', 'HINDUNILVR.BO')":2312.7444849529,
+    "('Volume', 'HINDUNILVR.BO')":18080
+  },
+  {
+    "('Date', '')":"2025-05-19",
+    "('Close', 'HINDUNILVR.BO')":2340.7275390625,
+    "('High', 'HINDUNILVR.BO')":2361.0032862685,
+    "('Low', 'HINDUNILVR.BO')":2335.6710074715,
+    "('Open', 'HINDUNILVR.BO')":2337.7819308236,
+    "('Volume', 'HINDUNILVR.BO')":42908
+  },
+  {
+    "('Date', '')":"2025-05-20",
+    "('Close', 'HINDUNILVR.BO')":2299.2436523438,
+    "('High', 'HINDUNILVR.BO')":2351.4301576491,
+    "('Low', 'HINDUNILVR.BO')":2296.2489025664,
+    "('Open', 'HINDUNILVR.BO')":2341.8569304732,
+    "('Volume', 'HINDUNILVR.BO')":86719
+  },
+  {
+    "('Date', '')":"2025-05-21",
+    "('Close', 'HINDUNILVR.BO')":2320.4521484375,
+    "('High', 'HINDUNILVR.BO')":2332.7746581335,
+    "('Low', 'HINDUNILVR.BO')":2301.0602265551,
+    "('Open', 'HINDUNILVR.BO')":2301.0602265551,
+    "('Volume', 'HINDUNILVR.BO')":31371
+  },
+  {
+    "('Date', '')":"2025-05-22",
+    "('Close', 'HINDUNILVR.BO')":2288.7866210938,
+    "('High', 'HINDUNILVR.BO')":2319.519180025,
+    "('Low', 'HINDUNILVR.BO')":2271.5547658714,
+    "('Open', 'HINDUNILVR.BO')":2311.3204749779,
+    "('Volume', 'HINDUNILVR.BO')":54923
+  },
+  {
+    "('Date', '')":"2025-05-23",
+    "('Close', 'HINDUNILVR.BO')":2315.0024414062,
+    "('High', 'HINDUNILVR.BO')":2321.6300594656,
+    "('Low', 'HINDUNILVR.BO')":2287.4118170067,
+    "('Open', 'HINDUNILVR.BO')":2291.6339031207,
+    "('Volume', 'HINDUNILVR.BO')":38131
+  },
+  {
+    "('Date', '')":"2025-05-26",
+    "('Close', 'HINDUNILVR.BO')":2350.3498535156,
+    "('High', 'HINDUNILVR.BO')":2353.5409290348,
+    "('Low', 'HINDUNILVR.BO')":2316.3281750204,
+    "('Open', 'HINDUNILVR.BO')":2316.3281750204,
+    "('Volume', 'HINDUNILVR.BO')":23017
+  },
+  {
+    "('Date', '')":"2025-05-27",
+    "('Close', 'HINDUNILVR.BO')":2337.8312988281,
+    "('High', 'HINDUNILVR.BO')":2364.2434927108,
+    "('Low', 'HINDUNILVR.BO')":2317.8992998705,
+    "('Open', 'HINDUNILVR.BO')":2350.3501350566,
+    "('Volume', 'HINDUNILVR.BO')":77765
+  },
+  {
+    "('Date', '')":"2025-05-28",
+    "('Close', 'HINDUNILVR.BO')":2318.9301757812,
+    "('High', 'HINDUNILVR.BO')":2346.6679877706,
+    "('Low', 'HINDUNILVR.BO')":2309.84788336,
+    "('Open', 'HINDUNILVR.BO')":2346.6679877706,
+    "('Volume', 'HINDUNILVR.BO')":28547
+  },
+  {
+    "('Date', '')":"2025-05-29",
+    "('Close', 'HINDUNILVR.BO')":2324.7722167969,
+    "('High', 'HINDUNILVR.BO')":2332.3817049295,
+    "('Low', 'HINDUNILVR.BO')":2313.284392333,
+    "('Open', 'HINDUNILVR.BO')":2321.1884892394,
+    "('Volume', 'HINDUNILVR.BO')":94160
+  },
+  {
+    "('Date', '')":"2025-05-30",
+    "('Close', 'HINDUNILVR.BO')":2306.7551269531,
+    "('High', 'HINDUNILVR.BO')":2331.9399828826,
+    "('Low', 'HINDUNILVR.BO')":2300.4710185391,
+    "('Open', 'HINDUNILVR.BO')":2314.7572672192,
+    "('Volume', 'HINDUNILVR.BO')":65611
+  },
+  {
+    "('Date', '')":"2025-06-02",
+    "('Close', 'HINDUNILVR.BO')":2329.9270019531,
+    "('High', 'HINDUNILVR.BO')":2340.6784242041,
+    "('Low', 'HINDUNILVR.BO')":2299.7836585764,
+    "('Open', 'HINDUNILVR.BO')":2299.7836585764,
+    "('Volume', 'HINDUNILVR.BO')":43839
+  },
+  {
+    "('Date', '')":"2025-06-03",
+    "('Close', 'HINDUNILVR.BO')":2309.50390625,
+    "('High', 'HINDUNILVR.BO')":2331.1541734591,
+    "('Low', 'HINDUNILVR.BO')":2299.9798214544,
+    "('Open', 'HINDUNILVR.BO')":2326.9812287025,
+    "('Volume', 'HINDUNILVR.BO')":213842
+  },
+  {
+    "('Date', '')":"2025-06-04",
+    "('Close', 'HINDUNILVR.BO')":2320.1081542969,
+    "('High', 'HINDUNILVR.BO')":2324.3302404841,
+    "('Low', 'HINDUNILVR.BO')":2300.5199085244,
+    "('Open', 'HINDUNILVR.BO')":2309.503917275,
+    "('Volume', 'HINDUNILVR.BO')":47786
+  },
+  {
+    "('Date', '')":"2025-06-05",
+    "('Close', 'HINDUNILVR.BO')":2334.001953125,
+    "('High', 'HINDUNILVR.BO')":2336.6529526831,
+    "('Low', 'HINDUNILVR.BO')":2306.1167170641,
+    "('Open', 'HINDUNILVR.BO')":2320.1574980676,
+    "('Volume', 'HINDUNILVR.BO')":36903
+  },
+  {
+    "('Date', '')":"2025-06-06",
+    "('Close', 'HINDUNILVR.BO')":2345.5388183594,
+    "('High', 'HINDUNILVR.BO')":2352.7554146402,
+    "('Low', 'HINDUNILVR.BO')":2327.7668862861,
+    "('Open', 'HINDUNILVR.BO')":2327.7668862861,
+    "('Volume', 'HINDUNILVR.BO')":72210
+  },
+  {
+    "('Date', '')":"2025-06-09",
+    "('Close', 'HINDUNILVR.BO')":2349.2209472656,
+    "('High', 'HINDUNILVR.BO')":2354.424663591,
+    "('Low', 'HINDUNILVR.BO')":2336.1620356083,
+    "('Open', 'HINDUNILVR.BO')":2346.1279146626,
+    "('Volume', 'HINDUNILVR.BO')":81840
+  },
+  {
+    "('Date', '')":"2025-06-10",
+    "('Close', 'HINDUNILVR.BO')":2351.9208984375,
+    "('High', 'HINDUNILVR.BO')":2358.4502338821,
+    "('Low', 'HINDUNILVR.BO')":2336.4073144017,
+    "('Open', 'HINDUNILVR.BO')":2355.5046257632,
+    "('Volume', 'HINDUNILVR.BO')":279785
+  },
+  {
+    "('Date', '')":"2025-06-11",
+    "('Close', 'HINDUNILVR.BO')":2333.0690917969,
+    "('High', 'HINDUNILVR.BO')":2358.4505139884,
+    "('Low', 'HINDUNILVR.BO')":2328.0617012285,
+    "('Open', 'HINDUNILVR.BO')":2351.9211777683,
+    "('Volume', 'HINDUNILVR.BO')":72293
+  },
+  {
+    "('Date', '')":"2025-06-12",
+    "('Close', 'HINDUNILVR.BO')":2292.0270996094,
+    "('High', 'HINDUNILVR.BO')":2341.7586925187,
+    "('Low', 'HINDUNILVR.BO')":2282.8465241534,
+    "('Open', 'HINDUNILVR.BO')":2336.8984865714,
+    "('Volume', 'HINDUNILVR.BO')":148758
+  },
+  {
+    "('Date', '')":"2025-06-13",
+    "('Close', 'HINDUNILVR.BO')":2277.0534667969,
+    "('High', 'HINDUNILVR.BO')":2287.5594216434,
+    "('Low', 'HINDUNILVR.BO')":2259.5761431858,
+    "('Open', 'HINDUNILVR.BO')":2287.5594216434,
+    "('Volume', 'HINDUNILVR.BO')":64783
+  },
+  {
+    "('Date', '')":"2025-06-16",
+    "('Close', 'HINDUNILVR.BO')":2283.6809082031,
+    "('High', 'HINDUNILVR.BO')":2293.7450689728,
+    "('Low', 'HINDUNILVR.BO')":2271.0637912549,
+    "('Open', 'HINDUNILVR.BO')":2277.0532901353,
+    "('Volume', 'HINDUNILVR.BO')":203337
+  },
+  {
+    "('Date', '')":"2025-06-17",
+    "('Close', 'HINDUNILVR.BO')":2286.6267089844,
+    "('High', 'HINDUNILVR.BO')":2291.7815234717,
+    "('Low', 'HINDUNILVR.BO')":2271.8495261779,
+    "('Open', 'HINDUNILVR.BO')":2282.7972743938,
+    "('Volume', 'HINDUNILVR.BO')":448350
+  },
+  {
+    "('Date', '')":"2025-06-18",
+    "('Close', 'HINDUNILVR.BO')":2255.6977539062,
+    "('High', 'HINDUNILVR.BO')":2289.1302150853,
+    "('Low', 'HINDUNILVR.BO')":2244.5534403704,
+    "('Open', 'HINDUNILVR.BO')":2278.575119073,
+    "('Volume', 'HINDUNILVR.BO')":53137
+  },
+  {
+    "('Date', '')":"2025-06-19",
+    "('Close', 'HINDUNILVR.BO')":2252.6049804688,
+    "('High', 'HINDUNILVR.BO')":2266.154827641,
+    "('Low', 'HINDUNILVR.BO')":2248.5794593088,
+    "('Open', 'HINDUNILVR.BO')":2256.0415237516,
+    "('Volume', 'HINDUNILVR.BO')":46597
+  },
+  {
+    "('Date', '')":"2025-06-20",
+    "('Close', 'HINDUNILVR.BO')":2263.1108398438,
+    "('High', 'HINDUNILVR.BO')":2271.8004805172,
+    "('Low', 'HINDUNILVR.BO')":2249.5120915469,
+    "('Open', 'HINDUNILVR.BO')":2249.5120915469,
+    "('Volume', 'HINDUNILVR.BO')":35867
+  },
+  {
+    "('Date', '')":"2025-06-23",
+    "('Close', 'HINDUNILVR.BO')":2255.3220214844,
+    "('High', 'HINDUNILVR.BO')":2270.6018165344,
+    "('Low', 'HINDUNILVR.BO')":2240.43900985,
+    "('Open', 'HINDUNILVR.BO')":2240.43900985,
+    "('Volume', 'HINDUNILVR.BO')":19202
+  },
+  {
+    "('Date', '')":"2025-06-24",
+    "('Close', 'HINDUNILVR.BO')":2245.30078125,
+    "('High', 'HINDUNILVR.BO')":2284.592030338,
+    "('Low', 'HINDUNILVR.BO')":2241.7290036652,
+    "('Open', 'HINDUNILVR.BO')":2273.9258715986,
+    "('Volume', 'HINDUNILVR.BO')":584907
+  },
+  {
+    "('Date', '')":"2025-06-25",
+    "('Close', 'HINDUNILVR.BO')":2260.2829589844,
+    "('High', 'HINDUNILVR.BO')":2272.7845430482,
+    "('Low', 'HINDUNILVR.BO')":2253.4862869763,
+    "('Open', 'HINDUNILVR.BO')":2266.9803140232,
+    "('Volume', 'HINDUNILVR.BO')":33958
+  },
+  {
+    "('Date', '')":"2025-06-26",
+    "('Close', 'HINDUNILVR.BO')":2262.4162597656,
+    "('High', 'HINDUNILVR.BO')":2279.5813823872,
+    "('Low', 'HINDUNILVR.BO')":2253.2880606752,
+    "('Open', 'HINDUNILVR.BO')":2279.5813823872,
+    "('Volume', 'HINDUNILVR.BO')":43709
+  },
+  {
+    "('Date', '')":"2025-06-27",
+    "('Close', 'HINDUNILVR.BO')":2288.1638183594,
+    "('High', 'HINDUNILVR.BO')":2291.5374464808,
+    "('Low', 'HINDUNILVR.BO')":2262.2178638766,
+    "('Open', 'HINDUNILVR.BO')":2272.0405550752,
+    "('Volume', 'HINDUNILVR.BO')":21716
+  },
+  {
+    "('Date', '')":"2025-06-30",
+    "('Close', 'HINDUNILVR.BO')":2276.8527832031,
+    "('High', 'HINDUNILVR.BO')":2298.8299340034,
+    "('Low', 'HINDUNILVR.BO')":2270.1554278108,
+    "('Open', 'HINDUNILVR.BO')":2289.9994437881,
+    "('Volume', 'HINDUNILVR.BO')":99915
+  },
+  {
+    "('Date', '')":"2025-07-01",
+    "('Close', 'HINDUNILVR.BO')":2278.2915039062,
+    "('High', 'HINDUNILVR.BO')":2284.2943673922,
+    "('Low', 'HINDUNILVR.BO')":2270.1555055243,
+    "('Open', 'HINDUNILVR.BO')":2277.8450619788,
+    "('Volume', 'HINDUNILVR.BO')":31504
+  },
+  {
+    "('Date', '')":"2025-07-02",
+    "('Close', 'HINDUNILVR.BO')":2288.9575195312,
+    "('High', 'HINDUNILVR.BO')":2290.8922625868,
+    "('Low', 'HINDUNILVR.BO')":2269.163162603,
+    "('Open', 'HINDUNILVR.BO')":2272.2884981361,
+    "('Volume', 'HINDUNILVR.BO')":50905
+  },
+  {
+    "('Date', '')":"2025-07-03",
+    "('Close', 'HINDUNILVR.BO')":2294.1665039062,
+    "('High', 'HINDUNILVR.BO')":2307.8589225735,
+    "('Low', 'HINDUNILVR.BO')":2278.4896837579,
+    "('Open', 'HINDUNILVR.BO')":2278.4896837579,
+    "('Volume', 'HINDUNILVR.BO')":79939
+  },
+  {
+    "('Date', '')":"2025-07-04",
+    "('Close', 'HINDUNILVR.BO')":2321.5515136719,
+    "('High', 'HINDUNILVR.BO')":2322.7421062017,
+    "('Low', 'HINDUNILVR.BO')":2294.1666743035,
+    "('Open', 'HINDUNILVR.BO')":2303.3445318354,
+    "('Volume', 'HINDUNILVR.BO')":19062
+  },
+  {
+    "('Date', '')":"2025-07-07",
+    "('Close', 'HINDUNILVR.BO')":2391.5017089844,
+    "('High', 'HINDUNILVR.BO')":2396.165004438,
+    "('Low', 'HINDUNILVR.BO')":2324.7265446784,
+    "('Open', 'HINDUNILVR.BO')":2326.5125546197,
+    "('Volume', 'HINDUNILVR.BO')":219303
+  },
+  {
+    "('Date', '')":"2025-07-08",
+    "('Close', 'HINDUNILVR.BO')":2374.3364257812,
+    "('High', 'HINDUNILVR.BO')":2398.1492440925,
+    "('Low', 'HINDUNILVR.BO')":2367.4903374114,
+    "('Open', 'HINDUNILVR.BO')":2381.3314896075,
+    "('Volume', 'HINDUNILVR.BO')":50117
+  },
+  {
+    "('Date', '')":"2025-07-09",
+    "('Close', 'HINDUNILVR.BO')":2403.7551269531,
+    "('High', 'HINDUNILVR.BO')":2420.6721987289,
+    "('Low', 'HINDUNILVR.BO')":2368.1352157838,
+    "('Open', 'HINDUNILVR.BO')":2368.1352157838,
+    "('Volume', 'HINDUNILVR.BO')":101893
+  },
+  {
+    "('Date', '')":"2025-07-10",
+    "('Close', 'HINDUNILVR.BO')":2390.2614746094,
+    "('High', 'HINDUNILVR.BO')":2411.940917554,
+    "('Low', 'HINDUNILVR.BO')":2379.9424405636,
+    "('Open', 'HINDUNILVR.BO')":2403.7552606495,
+    "('Volume', 'HINDUNILVR.BO')":22387
+  },
+  {
+    "('Date', '')":"2025-07-11",
+    "('Close', 'HINDUNILVR.BO')":2500.4453125,
+    "('High', 'HINDUNILVR.BO')":2510.268003445,
+    "('Low', 'HINDUNILVR.BO')":2440.8139480137,
+    "('Open', 'HINDUNILVR.BO')":2440.8139480137,
+    "('Volume', 'HINDUNILVR.BO')":443416
+  },
+  {
+    "('Date', '')":"2025-07-14",
+    "('Close', 'HINDUNILVR.BO')":2496.6252441406,
+    "('High', 'HINDUNILVR.BO')":2512.3517235964,
+    "('Low', 'HINDUNILVR.BO')":2473.1597922925,
+    "('Open', 'HINDUNILVR.BO')":2480.5019812624,
+    "('Volume', 'HINDUNILVR.BO')":335646
+  },
+  {
+    "('Date', '')":"2025-07-15",
+    "('Close', 'HINDUNILVR.BO')":2506.5969238281,
+    "('High', 'HINDUNILVR.BO')":2510.1687013581,
+    "('Low', 'HINDUNILVR.BO')":2491.1681529757,
+    "('Open', 'HINDUNILVR.BO')":2492.5077209472,
+    "('Volume', 'HINDUNILVR.BO')":28431
+  },
+  {
+    "('Date', '')":"2025-07-16",
+    "('Close', 'HINDUNILVR.BO')":2497.0219726562,
+    "('High', 'HINDUNILVR.BO')":2513.5919193159,
+    "('Low', 'HINDUNILVR.BO')":2488.6875830771,
+    "('Open', 'HINDUNILVR.BO')":2506.5968554353,
+    "('Volume', 'HINDUNILVR.BO')":13585
+  },
+  {
+    "('Date', '')":"2025-07-17",
+    "('Close', 'HINDUNILVR.BO')":2490.7216796875,
+    "('High', 'HINDUNILVR.BO')":2505.3069827835,
+    "('Low', 'HINDUNILVR.BO')":2487.0505852293,
+    "('Open', 'HINDUNILVR.BO')":2491.0688046204,
+    "('Volume', 'HINDUNILVR.BO')":17694
+  },
+  {
+    "('Date', '')":"2025-07-18",
+    "('Close', 'HINDUNILVR.BO')":2469.4885253906,
+    "('High', 'HINDUNILVR.BO')":2492.7558284219,
+    "('Low', 'HINDUNILVR.BO')":2461.7495527795,
+    "('Open', 'HINDUNILVR.BO')":2490.424059599,
+    "('Volume', 'HINDUNILVR.BO')":33193
+  },
+  {
+    "('Date', '')":"2025-07-21",
+    "('Close', 'HINDUNILVR.BO')":2445.4772949219,
+    "('High', 'HINDUNILVR.BO')":2473.4078931448,
+    "('Low', 'HINDUNILVR.BO')":2437.7380801345,
+    "('Open', 'HINDUNILVR.BO')":2471.5225662585,
+    "('Volume', 'HINDUNILVR.BO')":30541
+  },
+  {
+    "('Date', '')":"2025-07-22",
+    "('Close', 'HINDUNILVR.BO')":2461.4020996094,
+    "('High', 'HINDUNILVR.BO')":2465.0731940699,
+    "('Low', 'HINDUNILVR.BO')":2434.8607285867,
+    "('Open', 'HINDUNILVR.BO')":2454.8534775279,
+    "('Volume', 'HINDUNILVR.BO')":8194
+  },
+  {
+    "('Date', '')":"2025-07-23",
+    "('Close', 'HINDUNILVR.BO')":2432.2314453125,
+    "('High', 'HINDUNILVR.BO')":2464.6267034369,
+    "('Low', 'HINDUNILVR.BO')":2422.2101206785,
+    "('Open', 'HINDUNILVR.BO')":2461.4020509465,
+    "('Volume', 'HINDUNILVR.BO')":26278
+  },
+  {
+    "('Date', '')":"2025-07-24",
+    "('Close', 'HINDUNILVR.BO')":2417.6955566406,
+    "('High', 'HINDUNILVR.BO')":2445.7252282636,
+    "('Low', 'HINDUNILVR.BO')":2401.522635717,
+    "('Open', 'HINDUNILVR.BO')":2432.6282266074,
+    "('Volume', 'HINDUNILVR.BO')":42475
+  },
+  {
+    "('Date', '')":"2025-07-25",
+    "('Close', 'HINDUNILVR.BO')":2396.2641601562,
+    "('High', 'HINDUNILVR.BO')":2411.0478546337,
+    "('Low', 'HINDUNILVR.BO')":2387.2350363163,
+    "('Open', 'HINDUNILVR.BO')":2411.0478546337,
+    "('Volume', 'HINDUNILVR.BO')":23862
+  },
+  {
+    "('Date', '')":"2025-07-28",
+    "('Close', 'HINDUNILVR.BO')":2423.2023925781,
+    "('High', 'HINDUNILVR.BO')":2428.9075471517,
+    "('Low', 'HINDUNILVR.BO')":2393.6844189148,
+    "('Open', 'HINDUNILVR.BO')":2396.2642378775,
+    "('Volume', 'HINDUNILVR.BO')":15955
+  },
+  {
+    "('Date', '')":"2025-07-29",
+    "('Close', 'HINDUNILVR.BO')":2434.6127929688,
+    "('High', 'HINDUNILVR.BO')":2438.1848128607,
+    "('Low', 'HINDUNILVR.BO')":2410.2542140813,
+    "('Open', 'HINDUNILVR.BO')":2423.2521418829,
+    "('Volume', 'HINDUNILVR.BO')":34876
+  },
+  {
+    "('Date', '')":"2025-07-30",
+    "('Close', 'HINDUNILVR.BO')":2417.9934082031,
+    "('High', 'HINDUNILVR.BO')":2431.3384608393,
+    "('Low', 'HINDUNILVR.BO')":2380.7362188128,
+    "('Open', 'HINDUNILVR.BO')":2418.5391671037,
+    "('Volume', 'HINDUNILVR.BO')":39034
+  },
+  {
+    "('Date', '')":"2025-07-31",
+    "('Close', 'HINDUNILVR.BO')":2502.181640625,
+    "('High', 'HINDUNILVR.BO')":2528.325985906,
+    "('Low', 'HINDUNILVR.BO')":2399.141492452,
+    "('Open', 'HINDUNILVR.BO')":2399.141492452,
+    "('Volume', 'HINDUNILVR.BO')":212656
+  },
+  {
+    "('Date', '')":"2025-08-01",
+    "('Close', 'HINDUNILVR.BO')":2531.4516601562,
+    "('High', 'HINDUNILVR.BO')":2706.8231551712,
+    "('Low', 'HINDUNILVR.BO')":2518.3544155371,
+    "('Open', 'HINDUNILVR.BO')":2520.338817178,
+    "('Volume', 'HINDUNILVR.BO')":314214
+  },
+  {
+    "('Date', '')":"2025-08-04",
+    "('Close', 'HINDUNILVR.BO')":2521.7280273438,
+    "('High', 'HINDUNILVR.BO')":2563.1027528415,
+    "('Low', 'HINDUNILVR.BO')":2514.7826216455,
+    "('Open', 'HINDUNILVR.BO')":2530.062417287,
+    "('Volume', 'HINDUNILVR.BO')":24336
+  },
+  {
+    "('Date', '')":"2025-08-05",
+    "('Close', 'HINDUNILVR.BO')":2515.8244628906,
+    "('High', 'HINDUNILVR.BO')":2532.0468007417,
+    "('Low', 'HINDUNILVR.BO')":2497.9151898786,
+    "('Open', 'HINDUNILVR.BO')":2517.2134471257,
+    "('Volume', 'HINDUNILVR.BO')":30806
+  },
+  {
+    "('Date', '')":"2025-08-06",
+    "('Close', 'HINDUNILVR.BO')":2514.0383300781,
+    "('High', 'HINDUNILVR.BO')":2542.0183430177,
+    "('Low', 'HINDUNILVR.BO')":2506.6958991241,
+    "('Open', 'HINDUNILVR.BO')":2513.3932542433,
+    "('Volume', 'HINDUNILVR.BO')":57262
+  },
+  {
+    "('Date', '')":"2025-08-07",
+    "('Close', 'HINDUNILVR.BO')":2497.8654785156,
+    "('High', 'HINDUNILVR.BO')":2523.3153317795,
+    "('Low', 'HINDUNILVR.BO')":2475.2432521497,
+    "('Open', 'HINDUNILVR.BO')":2516.0724598316,
+    "('Volume', 'HINDUNILVR.BO')":22229
+  },
+  {
+    "('Date', '')":"2025-08-08",
+    "('Close', 'HINDUNILVR.BO')":2478.9143066406,
+    "('High', 'HINDUNILVR.BO')":2509.2757470944,
+    "('Low', 'HINDUNILVR.BO')":2467.3552645658,
+    "('Open', 'HINDUNILVR.BO')":2495.3849363157,
+    "('Volume', 'HINDUNILVR.BO')":48910
+  },
+  {
+    "('Date', '')":"2025-08-11",
+    "('Close', 'HINDUNILVR.BO')":2498.9074707031,
+    "('High', 'HINDUNILVR.BO')":2504.0172081277,
+    "('Low', 'HINDUNILVR.BO')":2459.6658790861,
+    "('Open', 'HINDUNILVR.BO')":2478.8650622091,
+    "('Volume', 'HINDUNILVR.BO')":16764
+  },
+  {
+    "('Date', '')":"2025-08-12",
+    "('Close', 'HINDUNILVR.BO')":2464.2299804688,
+    "('High', 'HINDUNILVR.BO')":2516.4195967132,
+    "('Low', 'HINDUNILVR.BO')":2460.6579607279,
+    "('Open', 'HINDUNILVR.BO')":2500.3459923526,
+    "('Volume', 'HINDUNILVR.BO')":24275
+  },
+  {
+    "('Date', '')":"2025-08-13",
+    "('Close', 'HINDUNILVR.BO')":2475.5905761719,
+    "('High', 'HINDUNILVR.BO')":2481.8909057106,
+    "('Low', 'HINDUNILVR.BO')":2455.6969023139,
+    "('Open', 'HINDUNILVR.BO')":2465.61891,
+    "('Volume', 'HINDUNILVR.BO')":13323
+  },
+  {
+    "('Date', '')":"2025-08-14",
+    "('Close', 'HINDUNILVR.BO')":2463.5849609375,
+    "('High', 'HINDUNILVR.BO')":2489.4814990593,
+    "('Low', 'HINDUNILVR.BO')":2453.6132943165,
+    "('Open', 'HINDUNILVR.BO')":2465.8670712554,
+    "('Volume', 'HINDUNILVR.BO')":20134
+  },
+  {
+    "('Date', '')":"2025-08-18",
+    "('Close', 'HINDUNILVR.BO')":2548.7653808594,
+    "('High', 'HINDUNILVR.BO')":2575.5548015909,
+    "('Low', 'HINDUNILVR.BO')":2505.3565972666,
+    "('Open', 'HINDUNILVR.BO')":2505.3565972666,
+    "('Volume', 'HINDUNILVR.BO')":129443
+  },
+  {
+    "('Date', '')":"2025-08-19",
+    "('Close', 'HINDUNILVR.BO')":2583.6909179688,
+    "('High', 'HINDUNILVR.BO')":2593.9602932816,
+    "('Low', 'HINDUNILVR.BO')":2538.2977307579,
+    "('Open', 'HINDUNILVR.BO')":2549.9560903148,
+    "('Volume', 'HINDUNILVR.BO')":65470
+  },
+  {
+    "('Date', '')":"2025-08-20",
+    "('Close', 'HINDUNILVR.BO')":2647.787109375,
+    "('High', 'HINDUNILVR.BO')":2658.8500512232,
+    "('Low', 'HINDUNILVR.BO')":2569.8993478222,
+    "('Open', 'HINDUNILVR.BO')":2579.7220386903,
+    "('Volume', 'HINDUNILVR.BO')":65298
+  },
+  {
+    "('Date', '')":"2025-08-21",
+    "('Close', 'HINDUNILVR.BO')":2627.34765625,
+    "('High', 'HINDUNILVR.BO')":2653.0952179536,
+    "('Low', 'HINDUNILVR.BO')":2607.5036407194,
+    "('Open', 'HINDUNILVR.BO')":2653.0952179536,
+    "('Volume', 'HINDUNILVR.BO')":21472
+  },
+  {
+    "('Date', '')":"2025-08-22",
+    "('Close', 'HINDUNILVR.BO')":2608.3471679688,
+    "('High', 'HINDUNILVR.BO')":2636.2775235727,
+    "('Low', 'HINDUNILVR.BO')":2597.8297426022,
+    "('Open', 'HINDUNILVR.BO')":2619.9558688725,
+    "('Volume', 'HINDUNILVR.BO')":27839
+  },
+  {
+    "('Date', '')":"2025-08-25",
+    "('Close', 'HINDUNILVR.BO')":2609.0913085938,
+    "('High', 'HINDUNILVR.BO')":2621.3448430756,
+    "('Low', 'HINDUNILVR.BO')":2595.5972808811,
+    "('Open', 'HINDUNILVR.BO')":2613.6552869109,
+    "('Volume', 'HINDUNILVR.BO')":23035
+  },
+  {
+    "('Date', '')":"2025-08-26",
+    "('Close', 'HINDUNILVR.BO')":2671.1037597656,
+    "('High', 'HINDUNILVR.BO')":2683.90305266,
+    "('Low', 'HINDUNILVR.BO')":2606.5113934706,
+    "('Open', 'HINDUNILVR.BO')":2618.7651697369,
+    "('Volume', 'HINDUNILVR.BO')":251428
+  },
+  {
+    "('Date', '')":"2025-08-28",
+    "('Close', 'HINDUNILVR.BO')":2631.564453125,
+    "('High', 'HINDUNILVR.BO')":2735.2494320491,
+    "('Low', 'HINDUNILVR.BO')":2626.2066659412,
+    "('Open', 'HINDUNILVR.BO')":2735.2494320491,
+    "('Volume', 'HINDUNILVR.BO')":47562
+  },
+  {
+    "('Date', '')":"2025-08-29",
+    "('Close', 'HINDUNILVR.BO')":2639.2541503906,
+    "('High', 'HINDUNILVR.BO')":2702.6062689027,
+    "('Low', 'HINDUNILVR.BO')":2620.7991184594,
+    "('Open', 'HINDUNILVR.BO')":2631.366202411,
+    "('Volume', 'HINDUNILVR.BO')":26304
+  },
+  {
+    "('Date', '')":"2025-09-01",
+    "('Close', 'HINDUNILVR.BO')":2627.5461425781,
+    "('High', 'HINDUNILVR.BO')":2649.1761687327,
+    "('Low', 'HINDUNILVR.BO')":2618.5666767799,
+    "('Open', 'HINDUNILVR.BO')":2635.2853573611,
+    "('Volume', 'HINDUNILVR.BO')":51343
+  },
+  {
+    "('Date', '')":"2025-09-02",
+    "('Close', 'HINDUNILVR.BO')":2656.1215820312,
+    "('High', 'HINDUNILVR.BO')":2671.3519614377,
+    "('Low', 'HINDUNILVR.BO')":2628.935376592,
+    "('Open', 'HINDUNILVR.BO')":2629.3321600235,
+    "('Volume', 'HINDUNILVR.BO')":31862
+  },
+  {
+    "('Date', '')":"2025-09-03",
+    "('Close', 'HINDUNILVR.BO')":2643.1235351562,
+    "('High', 'HINDUNILVR.BO')":2668.8216804494,
+    "('Low', 'HINDUNILVR.BO')":2637.120914285,
+    "('Open', 'HINDUNILVR.BO')":2668.8216804494,
+    "('Volume', 'HINDUNILVR.BO')":46310
+  },
+  {
+    "('Date', '')":"2025-09-04",
+    "('Close', 'HINDUNILVR.BO')":2646.4475097656,
+    "('High', 'HINDUNILVR.BO')":2758.0204381571,
+    "('Low', 'HINDUNILVR.BO')":2634.5411004987,
+    "('Open', 'HINDUNILVR.BO')":2758.0204381571,
+    "('Volume', 'HINDUNILVR.BO')":389312
+  },
+  {
+    "('Date', '')":"2025-09-05",
+    "('Close', 'HINDUNILVR.BO')":2612.6630859375,
+    "('High', 'HINDUNILVR.BO')":2652.5000932138,
+    "('Low', 'HINDUNILVR.BO')":2603.7332787791,
+    "('Open', 'HINDUNILVR.BO')":2648.5312900323,
+    "('Volume', 'HINDUNILVR.BO')":52907
+  },
+  {
+    "('Date', '')":"2025-09-08",
+    "('Close', 'HINDUNILVR.BO')":2602.4929199219,
+    "('High', 'HINDUNILVR.BO')":2623.1804025427,
+    "('Low', 'HINDUNILVR.BO')":2597.4822576656,
+    "('Open', 'HINDUNILVR.BO')":2605.6184976397,
+    "('Volume', 'HINDUNILVR.BO')":36316
+  },
+  {
+    "('Date', '')":"2025-09-09",
+    "('Close', 'HINDUNILVR.BO')":2622.0393066406,
+    "('High', 'HINDUNILVR.BO')":2626.4547939215,
+    "('Low', 'HINDUNILVR.BO')":2589.5447309436,
+    "('Open', 'HINDUNILVR.BO')":2604.7254513959,
+    "('Volume', 'HINDUNILVR.BO')":28249
+  },
+  {
+    "('Date', '')":"2025-09-10",
+    "('Close', 'HINDUNILVR.BO')":2623.130859375,
+    "('High', 'HINDUNILVR.BO')":2632.9041341287,
+    "('Low', 'HINDUNILVR.BO')":2598.2265224538,
+    "('Open', 'HINDUNILVR.BO')":2612.6630925101,
+    "('Volume', 'HINDUNILVR.BO')":114400
+  },
+  {
+    "('Date', '')":"2025-09-11",
+    "('Close', 'HINDUNILVR.BO')":2601.0544433594,
+    "('High', 'HINDUNILVR.BO')":2637.0713814859,
+    "('Low', 'HINDUNILVR.BO')":2592.6207364097,
+    "('Open', 'HINDUNILVR.BO')":2623.1309115512,
+    "('Volume', 'HINDUNILVR.BO')":394784
+  },
+  {
+    "('Date', '')":"2025-09-12",
+    "('Close', 'HINDUNILVR.BO')":2560.17578125,
+    "('High', 'HINDUNILVR.BO')":2606.809219006,
+    "('Low', 'HINDUNILVR.BO')":2549.9560645285,
+    "('Open', 'HINDUNILVR.BO')":2601.6001647885,
+    "('Volume', 'HINDUNILVR.BO')":38942
+  },
+  {
+    "('Date', '')":"2025-09-15",
+    "('Close', 'HINDUNILVR.BO')":2559.4812011719,
+    "('High', 'HINDUNILVR.BO')":2571.3379519167,
+    "('Low', 'HINDUNILVR.BO')":2548.5669927105,
+    "('Open', 'HINDUNILVR.BO')":2560.175693263,
+    "('Volume', 'HINDUNILVR.BO')":64057
+  },
+  {
+    "('Date', '')":"2025-09-16",
+    "('Close', 'HINDUNILVR.BO')":2558.7866210938,
+    "('High', 'HINDUNILVR.BO')":2568.8079463616,
+    "('Low', 'HINDUNILVR.BO')":2553.9249339261,
+    "('Open', 'HINDUNILVR.BO')":2561.2177069141,
+    "('Volume', 'HINDUNILVR.BO')":104680
+  },
+  {
+    "('Date', '')":"2025-09-17",
+    "('Close', 'HINDUNILVR.BO')":2547.8229980469,
+    "('High', 'HINDUNILVR.BO')":2573.1241192103,
+    "('Low', 'HINDUNILVR.BO')":2545.9873296169,
+    "('Open', 'HINDUNILVR.BO')":2563.1027939333,
+    "('Volume', 'HINDUNILVR.BO')":192256
+  },
+  {
+    "('Date', '')":"2025-09-18",
+    "('Close', 'HINDUNILVR.BO')":2566.3273925781,
+    "('High', 'HINDUNILVR.BO')":2589.6441115905,
+    "('Low', 'HINDUNILVR.BO')":2545.2431253861,
+    "('Open', 'HINDUNILVR.BO')":2545.2431253861,
+    "('Volume', 'HINDUNILVR.BO')":379225
+  },
+  {
+    "('Date', '')":"2025-09-19",
+    "('Close', 'HINDUNILVR.BO')":2538.8930664062,
+    "('High', 'HINDUNILVR.BO')":2584.9310857691,
+    "('Low', 'HINDUNILVR.BO')":2535.0729965032,
+    "('Open', 'HINDUNILVR.BO')":2579.771690153,
+    "('Volume', 'HINDUNILVR.BO')":148084
+  },
+  {
+    "('Date', '')":"2025-09-22",
+    "('Close', 'HINDUNILVR.BO')":2551.4938964844,
+    "('High', 'HINDUNILVR.BO')":2567.2697915727,
+    "('Low', 'HINDUNILVR.BO')":2542.2167225432,
+    "('Open', 'HINDUNILVR.BO')":2543.4569734852,
+    "('Volume', 'HINDUNILVR.BO')":226018
+  },
+  {
+    "('Date', '')":"2025-09-23",
+    "('Close', 'HINDUNILVR.BO')":2501.8840332031,
+    "('High', 'HINDUNILVR.BO')":2556.6038116865,
+    "('Low', 'HINDUNILVR.BO')":2497.5182042408,
+    "('Open', 'HINDUNILVR.BO')":2549.5593311864,
+    "('Volume', 'HINDUNILVR.BO')":188220
+  },
+  {
+    "('Date', '')":"2025-09-24",
+    "('Close', 'HINDUNILVR.BO')":2529.9633789062,
+    "('High', 'HINDUNILVR.BO')":2555.6612834643,
+    "('Low', 'HINDUNILVR.BO')":2490.0767118198,
+    "('Open', 'HINDUNILVR.BO')":2498.5104188603,
+    "('Volume', 'HINDUNILVR.BO')":136187
+  },
+  {
+    "('Date', '')":"2025-09-25",
+    "('Close', 'HINDUNILVR.BO')":2518.2553710938,
+    "('High', 'HINDUNILVR.BO')":2552.4366413223,
+    "('Low', 'HINDUNILVR.BO')":2511.4586984973,
+    "('Open', 'HINDUNILVR.BO')":2552.4366413223,
+    "('Volume', 'HINDUNILVR.BO')":253444
+  },
+  {
+    "('Date', '')":"2025-09-26",
+    "('Close', 'HINDUNILVR.BO')":2491.2673339844,
+    "('High', 'HINDUNILVR.BO')":2524.3074249573,
+    "('Low', 'HINDUNILVR.BO')":2480.799567692,
+    "('Open', 'HINDUNILVR.BO')":2502.9751089697,
+    "('Volume', 'HINDUNILVR.BO')":53295
+  },
+  {
+    "('Date', '')":"2025-09-29",
+    "('Close', 'HINDUNILVR.BO')":2478.9641113281,
+    "('High', 'HINDUNILVR.BO')":2497.4191436314,
+    "('Low', 'HINDUNILVR.BO')":2424.4427242535,
+    "('Open', 'HINDUNILVR.BO')":2460.8564462094,
+    "('Volume', 'HINDUNILVR.BO')":52847
+  },
+  {
+    "('Date', '')":"2025-09-30",
+    "('Close', 'HINDUNILVR.BO')":2494.8391113281,
+    "('High', 'HINDUNILVR.BO')":2506.2990783641,
+    "('Low', 'HINDUNILVR.BO')":2471.0262934814,
+    "('Open', 'HINDUNILVR.BO')":2471.0262934814,
+    "('Volume', 'HINDUNILVR.BO')":20462
+  },
+  {
+    "('Date', '')":"2025-10-01",
+    "('Close', 'HINDUNILVR.BO')":2515.8244628906,
+    "('High', 'HINDUNILVR.BO')":2519.9916578323,
+    "('Low', 'HINDUNILVR.BO')":2478.5176156563,
+    "('Open', 'HINDUNILVR.BO')":2494.8392704826,
+    "('Volume', 'HINDUNILVR.BO')":281642
+  },
+  {
+    "('Date', '')":"2025-10-03",
+    "('Close', 'HINDUNILVR.BO')":2524.4565429688,
+    "('High', 'HINDUNILVR.BO')":2528.6733963672,
+    "('Low', 'HINDUNILVR.BO')":2489.4318062942,
+    "('Open', 'HINDUNILVR.BO')":2510.863440461,
+    "('Volume', 'HINDUNILVR.BO')":42428
+  },
+  {
+    "('Date', '')":"2025-10-06",
+    "('Close', 'HINDUNILVR.BO')":2521.9760742188,
+    "('High', 'HINDUNILVR.BO')":2529.3182633383,
+    "('Low', 'HINDUNILVR.BO')":2500.8918069485,
+    "('Open', 'HINDUNILVR.BO')":2516.0228693424,
+    "('Volume', 'HINDUNILVR.BO')":53457
+  },
+  {
+    "('Date', '')":"2025-10-07",
+    "('Close', 'HINDUNILVR.BO')":2496.228515625,
+    "('High', 'HINDUNILVR.BO')":2538.8931506412,
+    "('Low', 'HINDUNILVR.BO')":2488.7373510295,
+    "('Open', 'HINDUNILVR.BO')":2516.7670240343,
+    "('Volume', 'HINDUNILVR.BO')":271150
+  },
+  {
+    "('Date', '')":"2025-10-08",
+    "('Close', 'HINDUNILVR.BO')":2482.1389160156,
+    "('High', 'HINDUNILVR.BO')":2501.2387805045,
+    "('Low', 'HINDUNILVR.BO')":2466.9087798041,
+    "('Open', 'HINDUNILVR.BO')":2496.2283604927,
+    "('Volume', 'HINDUNILVR.BO')":81773
+  },
+  {
+    "('Date', '')":"2025-10-09",
+    "('Close', 'HINDUNILVR.BO')":2497.8159179688,
+    "('High', 'HINDUNILVR.BO')":2503.3226809937,
+    "('Low', 'HINDUNILVR.BO')":2480.1052785878,
+    "('Open', 'HINDUNILVR.BO')":2482.1390964895,
+    "('Volume', 'HINDUNILVR.BO')":358059
+  },
+  {
+    "('Date', '')":"2025-10-10",
+    "('Close', 'HINDUNILVR.BO')":2509.375,
+    "('High', 'HINDUNILVR.BO')":2515.2288874984,
+    "('Low', 'HINDUNILVR.BO')":2487.6456583519,
+    "('Open', 'HINDUNILVR.BO')":2487.6456583519,
+    "('Volume', 'HINDUNILVR.BO')":20674
+  },
+  {
+    "('Date', '')":"2025-10-13",
+    "('Close', 'HINDUNILVR.BO')":2472.8125,
+    "('High', 'HINDUNILVR.BO')":2510.1687640744,
+    "('Low', 'HINDUNILVR.BO')":2466.6609033475,
+    "('Open', 'HINDUNILVR.BO')":2492.9045666566,
+    "('Volume', 'HINDUNILVR.BO')":84764
+  },
+  {
+    "('Date', '')":"2025-10-14",
+    "('Close', 'HINDUNILVR.BO')":2481.5935058594,
+    "('High', 'HINDUNILVR.BO')":2488.8363778754,
+    "('Low', 'HINDUNILVR.BO')":2462.9400824616,
+    "('Open', 'HINDUNILVR.BO')":2472.8124319269,
+    "('Volume', 'HINDUNILVR.BO')":73543
+  },
+  {
+    "('Date', '')":"2025-10-15",
+    "('Close', 'HINDUNILVR.BO')":2500.8420410156,
+    "('High', 'HINDUNILVR.BO')":2512.2523498717,
+    "('Low', 'HINDUNILVR.BO')":2487.3480136478,
+    "('Open', 'HINDUNILVR.BO')":2487.3976721336,
+    "('Volume', 'HINDUNILVR.BO')":63454
+  },
+  {
+    "('Date', '')":"2025-10-16",
+    "('Close', 'HINDUNILVR.BO')":2541.2741699219,
+    "('High', 'HINDUNILVR.BO')":2548.0211834665,
+    "('Low', 'HINDUNILVR.BO')":2486.9511788811,
+    "('Open', 'HINDUNILVR.BO')":2491.5648154721,
+    "('Volume', 'HINDUNILVR.BO')":116048
+  },
+  {
+    "('Date', '')":"2025-10-17",
+    "('Close', 'HINDUNILVR.BO')":2584.4350585938,
+    "('High', 'HINDUNILVR.BO')":2594.6547753791,
+    "('Low', 'HINDUNILVR.BO')":2541.0262731773,
+    "('Open', 'HINDUNILVR.BO')":2544.9950764154,
+    "('Volume', 'HINDUNILVR.BO')":59880
+  },
+  {
+    "('Date', '')":"2025-10-20",
+    "('Close', 'HINDUNILVR.BO')":2572.7270507812,
+    "('High', 'HINDUNILVR.BO')":2604.2294266082,
+    "('Low', 'HINDUNILVR.BO')":2565.087152965,
+    "('Open', 'HINDUNILVR.BO')":2585.2288779253,
+    "('Volume', 'HINDUNILVR.BO')":61766
+  },
+  {
+    "('Date', '')":"2025-10-21",
+    "('Close', 'HINDUNILVR.BO')":2572.0822753906,
+    "('High', 'HINDUNILVR.BO')":2586.1218203242,
+    "('Low', 'HINDUNILVR.BO')":2566.1787288642,
+    "('Open', 'HINDUNILVR.BO')":2569.8498235098,
+    "('Volume', 'HINDUNILVR.BO')":19762
+  },
+  {
+    "('Date', '')":"2025-10-23",
+    "('Close', 'HINDUNILVR.BO')":2580.4663085938,
+    "('High', 'HINDUNILVR.BO')":2646.7453724843,
+    "('Low', 'HINDUNILVR.BO')":2572.2806517463,
+    "('Open', 'HINDUNILVR.BO')":2572.2806517463,
+    "('Volume', 'HINDUNILVR.BO')":335021
+  },
+  {
+    "('Date', '')":"2025-10-24",
+    "('Close', 'HINDUNILVR.BO')":2497.7661132812,
+    "('High', 'HINDUNILVR.BO')":2565.8808412594,
+    "('Low', 'HINDUNILVR.BO')":2455.8952893724,
+    "('Open', 'HINDUNILVR.BO')":2565.8311827738,
+    "('Volume', 'HINDUNILVR.BO')":142828
+  },
+  {
+    "('Date', '')":"2025-10-27",
+    "('Close', 'HINDUNILVR.BO')":2492.3090820312,
+    "('High', 'HINDUNILVR.BO')":2504.414125529,
+    "('Low', 'HINDUNILVR.BO')":2486.4551942307,
+    "('Open', 'HINDUNILVR.BO')":2497.7661864081,
+    "('Volume', 'HINDUNILVR.BO')":120910
+  },
+  {
+    "('Date', '')":"2025-10-28",
+    "('Close', 'HINDUNILVR.BO')":2479.9064941406,
+    "('High', 'HINDUNILVR.BO')":2505.3069306089,
+    "('Low', 'HINDUNILVR.BO')":2464.3289905837,
+    "('Open', 'HINDUNILVR.BO')":2485.1652066403,
+    "('Volume', 'HINDUNILVR.BO')":78588
+  },
+  {
+    "('Date', '')":"2025-10-29",
+    "('Close', 'HINDUNILVR.BO')":2470.2326660156,
+    "('High', 'HINDUNILVR.BO')":2493.9960693611,
+    "('Low', 'HINDUNILVR.BO')":2465.6190291133,
+    "('Open', 'HINDUNILVR.BO')":2480.5516998496,
+    "('Volume', 'HINDUNILVR.BO')":87122
+  },
+  {
+    "('Date', '')":"2025-10-30",
+    "('Close', 'HINDUNILVR.BO')":2450.3391113281,
+    "('High', 'HINDUNILVR.BO')":2474.4493961795,
+    "('Low', 'HINDUNILVR.BO')":2436.8450840009,
+    "('Open', 'HINDUNILVR.BO')":2470.2325429193,
+    "('Volume', 'HINDUNILVR.BO')":181527
+  },
+  {
+    "('Date', '')":"2025-10-31",
+    "('Close', 'HINDUNILVR.BO')":2447.4118652344,
+    "('High', 'HINDUNILVR.BO')":2459.9136914878,
+    "('Low', 'HINDUNILVR.BO')":2434.5132555785,
+    "('Open', 'HINDUNILVR.BO')":2449.7436338745,
+    "('Volume', 'HINDUNILVR.BO')":110965
+  },
+  {
+    "('Date', '')":"2025-11-03",
+    "('Close', 'HINDUNILVR.BO')":2441.1115722656,
+    "('High', 'HINDUNILVR.BO')":2455.0023828714,
+    "('Low', 'HINDUNILVR.BO')":2421.3666318483,
+    "('Open', 'HINDUNILVR.BO')":2432.8265990454,
+    "('Volume', 'HINDUNILVR.BO')":120814
+  },
+  {
+    "('Date', '')":"2025-11-04",
+    "('Close', 'HINDUNILVR.BO')":2426.9729003906,
+    "('High', 'HINDUNILVR.BO')":2442.7984552583,
+    "('Low', 'HINDUNILVR.BO')":2421.9622377276,
+    "('Open', 'HINDUNILVR.BO')":2440.7643950996,
+    "('Volume', 'HINDUNILVR.BO')":69949
+  },
+  {
+    "('Date', '')":"2025-11-06",
+    "('Close', 'HINDUNILVR.BO')":2417.1499023438,
+    "('High', 'HINDUNILVR.BO')":2445.3782091303,
+    "('Low', 'HINDUNILVR.BO')":2412.7346571939,
+    "('Open', 'HINDUNILVR.BO')":2428.411478413,
+    "('Volume', 'HINDUNILVR.BO')":491444
+  },
+  {
+    "('Date', '')":"2025-11-07",
+    "('Close', 'HINDUNILVR.BO')":2414.5,
+    "('High', 'HINDUNILVR.BO')":2425.0,
+    "('Low', 'HINDUNILVR.BO')":2400.5500488281,
+    "('Open', 'HINDUNILVR.BO')":2411.8000488281,
+    "('Volume', 'HINDUNILVR.BO')":71988
+  },
+  {
+    "('Date', '')":"2025-11-10",
+    "('Close', 'HINDUNILVR.BO')":2409.0,
+    "('High', 'HINDUNILVR.BO')":2427.8000488281,
+    "('Low', 'HINDUNILVR.BO')":2390.1999511719,
+    "('Open', 'HINDUNILVR.BO')":2390.1999511719,
+    "('Volume', 'HINDUNILVR.BO')":81342
+  },
+  {
+    "('Date', '')":"2025-11-11",
+    "('Close', 'HINDUNILVR.BO')":2428.8500976562,
+    "('High', 'HINDUNILVR.BO')":2432.0,
+    "('Low', 'HINDUNILVR.BO')":2404.0,
+    "('Open', 'HINDUNILVR.BO')":2410.3999023438,
+    "('Volume', 'HINDUNILVR.BO')":42487
+  },
+  {
+    "('Date', '')":"2025-11-12",
+    "('Close', 'HINDUNILVR.BO')":2424.3500976562,
+    "('High', 'HINDUNILVR.BO')":2437.1499023438,
+    "('Low', 'HINDUNILVR.BO')":2416.1000976562,
+    "('Open', 'HINDUNILVR.BO')":2418.1999511719,
+    "('Volume', 'HINDUNILVR.BO')":69788
+  },
+  {
+    "('Date', '')":"2025-11-13",
+    "('Close', 'HINDUNILVR.BO')":2407.3000488281,
+    "('High', 'HINDUNILVR.BO')":2430.0,
+    "('Low', 'HINDUNILVR.BO')":2404.0,
+    "('Open', 'HINDUNILVR.BO')":2425.8500976562,
+    "('Volume', 'HINDUNILVR.BO')":381294
+  }
+]

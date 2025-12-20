@@ -1,0 +1,1994 @@
+[
+  {
+    "('Date', '')":"2024-11-11",
+    "('Close', 'BHARTIARTL.NS')":1547.6121826172,
+    "('High', 'BHARTIARTL.NS')":1568.4875932572,
+    "('Low', 'BHARTIARTL.NS')":1538.9347251988,
+    "('Open', 'BHARTIARTL.NS')":1548.0584034325,
+    "('Volume', 'BHARTIARTL.NS')":3664301
+  },
+  {
+    "('Date', '')":"2024-11-12",
+    "('Close', 'BHARTIARTL.NS')":1542.7528076172,
+    "('High', 'BHARTIARTL.NS')":1581.7765496942,
+    "('Low', 'BHARTIARTL.NS')":1537.2487718266,
+    "('Open', 'BHARTIARTL.NS')":1555.7938109063,
+    "('Volume', 'BHARTIARTL.NS')":4479934
+  },
+  {
+    "('Date', '')":"2024-11-13",
+    "('Close', 'BHARTIARTL.NS')":1537.5958251953,
+    "('High', 'BHARTIARTL.NS')":1559.4630663777,
+    "('Low', 'BHARTIARTL.NS')":1533.529840776,
+    "('Open', 'BHARTIARTL.NS')":1546.9675518699,
+    "('Volume', 'BHARTIARTL.NS')":5816699
+  },
+  {
+    "('Date', '')":"2024-11-14",
+    "('Close', 'BHARTIARTL.NS')":1537.6453857422,
+    "('High', 'BHARTIARTL.NS')":1555.0002998025,
+    "('Low', 'BHARTIARTL.NS')":1523.811088386,
+    "('Open', 'BHARTIARTL.NS')":1537.1495310548,
+    "('Volume', 'BHARTIARTL.NS')":5139154
+  },
+  {
+    "('Date', '')":"2024-11-18",
+    "('Close', 'BHARTIARTL.NS')":1524.2573242188,
+    "('High', 'BHARTIARTL.NS')":1555.9423906353,
+    "('Low', 'BHARTIARTL.NS')":1516.7698699413,
+    "('Open', 'BHARTIARTL.NS')":1555.9423906353,
+    "('Volume', 'BHARTIARTL.NS')":4816078
+  },
+  {
+    "('Date', '')":"2024-11-19",
+    "('Close', 'BHARTIARTL.NS')":1512.8526611328,
+    "('High', 'BHARTIARTL.NS')":1545.0832160242,
+    "('Low', 'BHARTIARTL.NS')":1506.7041113922,
+    "('Open', 'BHARTIARTL.NS')":1524.2573190175,
+    "('Volume', 'BHARTIARTL.NS')":6238241
+  },
+  {
+    "('Date', '')":"2024-11-21",
+    "('Close', 'BHARTIARTL.NS')":1512.5056152344,
+    "('High', 'BHARTIARTL.NS')":1529.2655283017,
+    "('Low', 'BHARTIARTL.NS')":1498.4729030163,
+    "('Open', 'BHARTIARTL.NS')":1525.2490568095,
+    "('Volume', 'BHARTIARTL.NS')":7356679
+  },
+  {
+    "('Date', '')":"2024-11-22",
+    "('Close', 'BHARTIARTL.NS')":1556.2896728516,
+    "('High', 'BHARTIARTL.NS')":1561.9423682371,
+    "('Low', 'BHARTIARTL.NS')":1507.5966424935,
+    "('Open', 'BHARTIARTL.NS')":1520.2905717508,
+    "('Volume', 'BHARTIARTL.NS')":7640321
+  },
+  {
+    "('Date', '')":"2024-11-25",
+    "('Close', 'BHARTIARTL.NS')":1565.6612548828,
+    "('High', 'BHARTIARTL.NS')":1595.9083923485,
+    "('Low', 'BHARTIARTL.NS')":1549.5956106194,
+    "('Open', 'BHARTIARTL.NS')":1568.8346766198,
+    "('Volume', 'BHARTIARTL.NS')":12155641
+  },
+  {
+    "('Date', '')":"2024-11-26",
+    "('Close', 'BHARTIARTL.NS')":1564.1737060547,
+    "('High', 'BHARTIARTL.NS')":1591.5448622438,
+    "('Low', 'BHARTIARTL.NS')":1553.0169749131,
+    "('Open', 'BHARTIARTL.NS')":1576.8180013485,
+    "('Volume', 'BHARTIARTL.NS')":4030593
+  },
+  {
+    "('Date', '')":"2024-11-27",
+    "('Close', 'BHARTIARTL.NS')":1564.5704345703,
+    "('High', 'BHARTIARTL.NS')":1570.6198379904,
+    "('Low', 'BHARTIARTL.NS')":1541.2652625465,
+    "('Open', 'BHARTIARTL.NS')":1556.1409042638,
+    "('Volume', 'BHARTIARTL.NS')":4982785
+  },
+  {
+    "('Date', '')":"2024-11-28",
+    "('Close', 'BHARTIARTL.NS')":1547.4633789062,
+    "('High', 'BHARTIARTL.NS')":1575.3303889595,
+    "('Low', 'BHARTIARTL.NS')":1544.041908826,
+    "('Open', 'BHARTIARTL.NS')":1557.9754743817,
+    "('Volume', 'BHARTIARTL.NS')":6714728
+  },
+  {
+    "('Date', '')":"2024-11-29",
+    "('Close', 'BHARTIARTL.NS')":1613.6600341797,
+    "('High', 'BHARTIARTL.NS')":1635.2297144285,
+    "('Low', 'BHARTIARTL.NS')":1538.2901169885,
+    "('Open', 'BHARTIARTL.NS')":1538.2901169885,
+    "('Volume', 'BHARTIARTL.NS')":10775801
+  },
+  {
+    "('Date', '')":"2024-12-02",
+    "('Close', 'BHARTIARTL.NS')":1629.9735107422,
+    "('High', 'BHARTIARTL.NS')":1632.5519309153,
+    "('Low', 'BHARTIARTL.NS')":1603.7923589309,
+    "('Open', 'BHARTIARTL.NS')":1613.6599398847,
+    "('Volume', 'BHARTIARTL.NS')":3790108
+  },
+  {
+    "('Date', '')":"2024-12-03",
+    "('Close', 'BHARTIARTL.NS')":1607.1147460938,
+    "('High', 'BHARTIARTL.NS')":1639.196521561,
+    "('Low', 'BHARTIARTL.NS')":1599.7760721874,
+    "('Open', 'BHARTIARTL.NS')":1639.196521561,
+    "('Volume', 'BHARTIARTL.NS')":9131055
+  },
+  {
+    "('Date', '')":"2024-12-04",
+    "('Close', 'BHARTIARTL.NS')":1570.966796875,
+    "('High', 'BHARTIARTL.NS')":1616.982136091,
+    "('Low', 'BHARTIARTL.NS')":1569.2809393606,
+    "('Open', 'BHARTIARTL.NS')":1616.2383540597,
+    "('Volume', 'BHARTIARTL.NS')":8772014
+  },
+  {
+    "('Date', '')":"2024-12-05",
+    "('Close', 'BHARTIARTL.NS')":1601.9577636719,
+    "('High', 'BHARTIARTL.NS')":1608.6022893225,
+    "('Low', 'BHARTIARTL.NS')":1572.2064815123,
+    "('Open', 'BHARTIARTL.NS')":1586.7350485119,
+    "('Volume', 'BHARTIARTL.NS')":10324005
+  },
+  {
+    "('Date', '')":"2024-12-06",
+    "('Close', 'BHARTIARTL.NS')":1584.6029052734,
+    "('High', 'BHARTIARTL.NS')":1611.1807667019,
+    "('Low', 'BHARTIARTL.NS')":1581.5782641149,
+    "('Open', 'BHARTIARTL.NS')":1604.5858747109,
+    "('Volume', 'BHARTIARTL.NS')":4296866
+  },
+  {
+    "('Date', '')":"2024-12-09",
+    "('Close', 'BHARTIARTL.NS')":1589.2639160156,
+    "('High', 'BHARTIARTL.NS')":1592.5861182284,
+    "('Low', 'BHARTIARTL.NS')":1575.87583938,
+    "('Open', 'BHARTIARTL.NS')":1582.6690244242,
+    "('Volume', 'BHARTIARTL.NS')":4264409
+  },
+  {
+    "('Date', '')":"2024-12-10",
+    "('Close', 'BHARTIARTL.NS')":1565.5621337891,
+    "('High', 'BHARTIARTL.NS')":1598.4868388184,
+    "('Low', 'BHARTIARTL.NS')":1557.0334568052,
+    "('Open', 'BHARTIARTL.NS')":1597.1976891796,
+    "('Volume', 'BHARTIARTL.NS')":14645786
+  },
+  {
+    "('Date', '')":"2024-12-11",
+    "('Close', 'BHARTIARTL.NS')":1572.8510742188,
+    "('High', 'BHARTIARTL.NS')":1574.8344929756,
+    "('Low', 'BHARTIARTL.NS')":1558.1737269944,
+    "('Open', 'BHARTIARTL.NS')":1574.8344929756,
+    "('Volume', 'BHARTIARTL.NS')":3853182
+  },
+  {
+    "('Date', '')":"2024-12-12",
+    "('Close', 'BHARTIARTL.NS')":1597.1976318359,
+    "('High', 'BHARTIARTL.NS')":1604.4866717565,
+    "('Low', 'BHARTIARTL.NS')":1565.4132969587,
+    "('Open', 'BHARTIARTL.NS')":1565.4132969587,
+    "('Volume', 'BHARTIARTL.NS')":13120939
+  },
+  {
+    "('Date', '')":"2024-12-13",
+    "('Close', 'BHARTIARTL.NS')":1667.8072509766,
+    "('High', 'BHARTIARTL.NS')":1671.0303064638,
+    "('Low', 'BHARTIARTL.NS')":1593.4786813171,
+    "('Open', 'BHARTIARTL.NS')":1604.5857779575,
+    "('Volume', 'BHARTIARTL.NS')":12900707
+  },
+  {
+    "('Date', '')":"2024-12-16",
+    "('Close', 'BHARTIARTL.NS')":1648.7664794922,
+    "('High', 'BHARTIARTL.NS')":1673.0137254297,
+    "('Low', 'BHARTIARTL.NS')":1646.3863527666,
+    "('Open', 'BHARTIARTL.NS')":1667.8072511805,
+    "('Volume', 'BHARTIARTL.NS')":4375126
+  },
+  {
+    "('Date', '')":"2024-12-17",
+    "('Close', 'BHARTIARTL.NS')":1601.908203125,
+    "('High', 'BHARTIARTL.NS')":1644.8987803535,
+    "('Low', 'BHARTIARTL.NS')":1595.1645309464,
+    "('Open', 'BHARTIARTL.NS')":1636.8163247292,
+    "('Volume', 'BHARTIARTL.NS')":6182486
+  },
+  {
+    "('Date', '')":"2024-12-18",
+    "('Close', 'BHARTIARTL.NS')":1588.6193847656,
+    "('High', 'BHARTIARTL.NS')":1609.5444298515,
+    "('Low', 'BHARTIARTL.NS')":1582.8674215591,
+    "('Open', 'BHARTIARTL.NS')":1607.9577189505,
+    "('Volume', 'BHARTIARTL.NS')":3905144
+  },
+  {
+    "('Date', '')":"2024-12-19",
+    "('Close', 'BHARTIARTL.NS')":1587.0325927734,
+    "('High', 'BHARTIARTL.NS')":1596.4041981301,
+    "('Low', 'BHARTIARTL.NS')":1572.3056114154,
+    "('Open', 'BHARTIARTL.NS')":1573.2478079754,
+    "('Volume', 'BHARTIARTL.NS')":5865855
+  },
+  {
+    "('Date', '')":"2024-12-20",
+    "('Close', 'BHARTIARTL.NS')":1565.0166015625,
+    "('High', 'BHARTIARTL.NS')":1608.8502302834,
+    "('Low', 'BHARTIARTL.NS')":1560.3556157414,
+    "('Open', 'BHARTIARTL.NS')":1596.6521560715,
+    "('Volume', 'BHARTIARTL.NS')":9738879
+  },
+  {
+    "('Date', '')":"2024-12-23",
+    "('Close', 'BHARTIARTL.NS')":1573.7436523438,
+    "('High', 'BHARTIARTL.NS')":1594.1232076363,
+    "('Low', 'BHARTIARTL.NS')":1565.2644886513,
+    "('Open', 'BHARTIARTL.NS')":1572.8510896827,
+    "('Volume', 'BHARTIARTL.NS')":4363599
+  },
+  {
+    "('Date', '')":"2024-12-24",
+    "('Close', 'BHARTIARTL.NS')":1570.7685546875,
+    "('High', 'BHARTIARTL.NS')":1585.5450490703,
+    "('Low', 'BHARTIARTL.NS')":1561.9423167495,
+    "('Open', 'BHARTIARTL.NS')":1576.8179578614,
+    "('Volume', 'BHARTIARTL.NS')":3610076
+  },
+  {
+    "('Date', '')":"2024-12-26",
+    "('Close', 'BHARTIARTL.NS')":1586.2392578125,
+    "('High', 'BHARTIARTL.NS')":1593.5282980241,
+    "('Low', 'BHARTIARTL.NS')":1567.9917798067,
+    "('Open', 'BHARTIARTL.NS')":1570.7686146769,
+    "('Volume', 'BHARTIARTL.NS')":3400479
+  },
+  {
+    "('Date', '')":"2024-12-27",
+    "('Close', 'BHARTIARTL.NS')":1586.5863037109,
+    "('High', 'BHARTIARTL.NS')":1614.9491691318,
+    "('Low', 'BHARTIARTL.NS')":1583.0658078775,
+    "('Open', 'BHARTIARTL.NS')":1586.2392296229,
+    "('Volume', 'BHARTIARTL.NS')":2559578
+  },
+  {
+    "('Date', '')":"2024-12-30",
+    "('Close', 'BHARTIARTL.NS')":1573.7436523438,
+    "('High', 'BHARTIARTL.NS')":1599.6768770568,
+    "('Low', 'BHARTIARTL.NS')":1567.9916894689,
+    "('Open', 'BHARTIARTL.NS')":1591.6935680585,
+    "('Volume', 'BHARTIARTL.NS')":4438130
+  },
+  {
+    "('Date', '')":"2024-12-31",
+    "('Close', 'BHARTIARTL.NS')":1574.5866699219,
+    "('High', 'BHARTIARTL.NS')":1583.9582757456,
+    "('Low', 'BHARTIARTL.NS')":1550.3889352734,
+    "('Open', 'BHARTIARTL.NS')":1569.8760500622,
+    "('Volume', 'BHARTIARTL.NS')":2249626
+  },
+  {
+    "('Date', '')":"2025-01-01",
+    "('Close', 'BHARTIARTL.NS')":1582.470703125,
+    "('High', 'BHARTIARTL.NS')":1593.230847383,
+    "('Low', 'BHARTIARTL.NS')":1570.9173850092,
+    "('Open', 'BHARTIARTL.NS')":1579.7931360635,
+    "('Volume', 'BHARTIARTL.NS')":1405565
+  },
+  {
+    "('Date', '')":"2025-01-02",
+    "('Close', 'BHARTIARTL.NS')":1596.3546142578,
+    "('High', 'BHARTIARTL.NS')":1606.1725617847,
+    "('Low', 'BHARTIARTL.NS')":1575.2312761236,
+    "('Open', 'BHARTIARTL.NS')":1586.6359345201,
+    "('Volume', 'BHARTIARTL.NS')":3728040
+  },
+  {
+    "('Date', '')":"2025-01-03",
+    "('Close', 'BHARTIARTL.NS')":1585.5946044922,
+    "('High', 'BHARTIARTL.NS')":1603.5941549327,
+    "('Low', 'BHARTIARTL.NS')":1580.0906897679,
+    "('Open', 'BHARTIARTL.NS')":1601.6107360645,
+    "('Volume', 'BHARTIARTL.NS')":3669685
+  },
+  {
+    "('Date', '')":"2025-01-06",
+    "('Close', 'BHARTIARTL.NS')":1575.2807617188,
+    "('High', 'BHARTIARTL.NS')":1596.5033672751,
+    "('Low', 'BHARTIARTL.NS')":1554.1077900561,
+    "('Open', 'BHARTIARTL.NS')":1582.9169968002,
+    "('Volume', 'BHARTIARTL.NS')":4584188
+  },
+  {
+    "('Date', '')":"2025-01-07",
+    "('Close', 'BHARTIARTL.NS')":1577.6608886719,
+    "('High', 'BHARTIARTL.NS')":1589.7101821996,
+    "('Low', 'BHARTIARTL.NS')":1570.9173373275,
+    "('Open', 'BHARTIARTL.NS')":1580.784797521,
+    "('Volume', 'BHARTIARTL.NS')":2830856
+  },
+  {
+    "('Date', '')":"2025-01-08",
+    "('Close', 'BHARTIARTL.NS')":1585.9416503906,
+    "('High', 'BHARTIARTL.NS')":1600.0735095753,
+    "('Low', 'BHARTIARTL.NS')":1564.7686785607,
+    "('Open', 'BHARTIARTL.NS')":1585.4954295765,
+    "('Volume', 'BHARTIARTL.NS')":3674564
+  },
+  {
+    "('Date', '')":"2025-01-09",
+    "('Close', 'BHARTIARTL.NS')":1593.7266845703,
+    "('High', 'BHARTIARTL.NS')":1606.7675667009,
+    "('Low', 'BHARTIARTL.NS')":1579.1981172396,
+    "('Open', 'BHARTIARTL.NS')":1586.7350846801,
+    "('Volume', 'BHARTIARTL.NS')":4684859
+  },
+  {
+    "('Date', '')":"2025-01-10",
+    "('Close', 'BHARTIARTL.NS')":1602.5032958984,
+    "('High', 'BHARTIARTL.NS')":1611.5278275209,
+    "('Low', 'BHARTIARTL.NS')":1578.6031227912,
+    "('Open', 'BHARTIARTL.NS')":1594.6687671714,
+    "('Volume', 'BHARTIARTL.NS')":4145892
+  },
+  {
+    "('Date', '')":"2025-01-13",
+    "('Close', 'BHARTIARTL.NS')":1583.9582519531,
+    "('High', 'BHARTIARTL.NS')":1601.3131669648,
+    "('Low', 'BHARTIARTL.NS')":1565.0166260664,
+    "('Open', 'BHARTIARTL.NS')":1566.9008981936,
+    "('Volume', 'BHARTIARTL.NS')":3705039
+  },
+  {
+    "('Date', '')":"2025-01-14",
+    "('Close', 'BHARTIARTL.NS')":1586.8342285156,
+    "('High', 'BHARTIARTL.NS')":1619.8582008286,
+    "('Low', 'BHARTIARTL.NS')":1565.4133291232,
+    "('Open', 'BHARTIARTL.NS')":1591.3960676641,
+    "('Volume', 'BHARTIARTL.NS')":7284572
+  },
+  {
+    "('Date', '')":"2025-01-15",
+    "('Close', 'BHARTIARTL.NS')":1594.1232910156,
+    "('High', 'BHARTIARTL.NS')":1600.4702556437,
+    "('Low', 'BHARTIARTL.NS')":1579.7931380299,
+    "('Open', 'BHARTIARTL.NS')":1594.7184135263,
+    "('Volume', 'BHARTIARTL.NS')":2960985
+  },
+  {
+    "('Date', '')":"2025-01-16",
+    "('Close', 'BHARTIARTL.NS')":1616.6846923828,
+    "('High', 'BHARTIARTL.NS')":1621.4449461526,
+    "('Low', 'BHARTIARTL.NS')":1587.2806041203,
+    "('Open', 'BHARTIARTL.NS')":1605.6272288933,
+    "('Volume', 'BHARTIARTL.NS')":5299325
+  },
+  {
+    "('Date', '')":"2025-01-17",
+    "('Close', 'BHARTIARTL.NS')":1614.0070800781,
+    "('High', 'BHARTIARTL.NS')":1625.4117384013,
+    "('Low', 'BHARTIARTL.NS')":1609.5443876908,
+    "('Open', 'BHARTIARTL.NS')":1616.5855003569,
+    "('Volume', 'BHARTIARTL.NS')":2678801
+  },
+  {
+    "('Date', '')":"2025-01-20",
+    "('Close', 'BHARTIARTL.NS')":1627.5439453125,
+    "('High', 'BHARTIARTL.NS')":1631.362002383,
+    "('Low', 'BHARTIARTL.NS')":1604.6849946673,
+    "('Open', 'BHARTIARTL.NS')":1624.4200364154,
+    "('Volume', 'BHARTIARTL.NS')":3933044
+  },
+  {
+    "('Date', '')":"2025-01-21",
+    "('Close', 'BHARTIARTL.NS')":1612.6683349609,
+    "('High', 'BHARTIARTL.NS')":1642.9649858099,
+    "('Low', 'BHARTIARTL.NS')":1606.866858931,
+    "('Open', 'BHARTIARTL.NS')":1640.2874187371,
+    "('Volume', 'BHARTIARTL.NS')":7958844
+  },
+  {
+    "('Date', '')":"2025-01-22",
+    "('Close', 'BHARTIARTL.NS')":1618.2218017578,
+    "('High', 'BHARTIARTL.NS')":1627.3951136415,
+    "('Low', 'BHARTIARTL.NS')":1609.098123767,
+    "('Open', 'BHARTIARTL.NS')":1614.0070368383,
+    "('Volume', 'BHARTIARTL.NS')":3262136
+  },
+  {
+    "('Date', '')":"2025-01-23",
+    "('Close', 'BHARTIARTL.NS')":1622.4366455078,
+    "('High', 'BHARTIARTL.NS')":1631.7587384651,
+    "('Low', 'BHARTIARTL.NS')":1603.7924595933,
+    "('Open', 'BHARTIARTL.NS')":1611.0319869361,
+    "('Volume', 'BHARTIARTL.NS')":2457080
+  },
+  {
+    "('Date', '')":"2025-01-24",
+    "('Close', 'BHARTIARTL.NS')":1631.1636962891,
+    "('High', 'BHARTIARTL.NS')":1648.1219030955,
+    "('Low', 'BHARTIARTL.NS')":1620.5028200643,
+    "('Open', 'BHARTIARTL.NS')":1620.5028200643,
+    "('Volume', 'BHARTIARTL.NS')":3620058
+  },
+  {
+    "('Date', '')":"2025-01-27",
+    "('Close', 'BHARTIARTL.NS')":1589.3134765625,
+    "('High', 'BHARTIARTL.NS')":1633.5436920454,
+    "('Low', 'BHARTIARTL.NS')":1580.4872386001,
+    "('Open', 'BHARTIARTL.NS')":1625.3620894113,
+    "('Volume', 'BHARTIARTL.NS')":6622807
+  },
+  {
+    "('Date', '')":"2025-01-28",
+    "('Close', 'BHARTIARTL.NS')":1604.9328613281,
+    "('High', 'BHARTIARTL.NS')":1616.783861131,
+    "('Low', 'BHARTIARTL.NS')":1583.7598901394,
+    "('Open', 'BHARTIARTL.NS')":1594.3216193166,
+    "('Volume', 'BHARTIARTL.NS')":5216471
+  },
+  {
+    "('Date', '')":"2025-01-29",
+    "('Close', 'BHARTIARTL.NS')":1587.1812744141,
+    "('High', 'BHARTIARTL.NS')":1613.4120609039,
+    "('Low', 'BHARTIARTL.NS')":1579.941868367,
+    "('Open', 'BHARTIARTL.NS')":1606.5692417736,
+    "('Volume', 'BHARTIARTL.NS')":5009227
+  },
+  {
+    "('Date', '')":"2025-01-30",
+    "('Close', 'BHARTIARTL.NS')":1627.1472167969,
+    "('High', 'BHARTIARTL.NS')":1631.3123479016,
+    "('Low', 'BHARTIARTL.NS')":1581.9748046831,
+    "('Open', 'BHARTIARTL.NS')":1593.3794629145,
+    "('Volume', 'BHARTIARTL.NS')":4283637
+  },
+  {
+    "('Date', '')":"2025-01-31",
+    "('Close', 'BHARTIARTL.NS')":1612.8170166016,
+    "('High', 'BHARTIARTL.NS')":1625.510824058,
+    "('Low', 'BHARTIARTL.NS')":1561.1984948377,
+    "('Open', 'BHARTIARTL.NS')":1625.510824058,
+    "('Volume', 'BHARTIARTL.NS')":8340866
+  },
+  {
+    "('Date', '')":"2025-02-01",
+    "('Close', 'BHARTIARTL.NS')":1609.7923583984,
+    "('High', 'BHARTIARTL.NS')":1630.3703294052,
+    "('Low', 'BHARTIARTL.NS')":1595.8587922573,
+    "('Open', 'BHARTIARTL.NS')":1613.5112688214,
+    "('Volume', 'BHARTIARTL.NS')":2741589
+  },
+  {
+    "('Date', '')":"2025-02-03",
+    "('Close', 'BHARTIARTL.NS')":1638.6510009766,
+    "('High', 'BHARTIARTL.NS')":1647.2293114883,
+    "('Low', 'BHARTIARTL.NS')":1594.7678600775,
+    "('Open', 'BHARTIARTL.NS')":1606.4700794072,
+    "('Volume', 'BHARTIARTL.NS')":4146970
+  },
+  {
+    "('Date', '')":"2025-02-04",
+    "('Close', 'BHARTIARTL.NS')":1647.6755371094,
+    "('High', 'BHARTIARTL.NS')":1654.468843358,
+    "('Low', 'BHARTIARTL.NS')":1615.5442493394,
+    "('Open', 'BHARTIARTL.NS')":1648.3698063256,
+    "('Volume', 'BHARTIARTL.NS')":6385876
+  },
+  {
+    "('Date', '')":"2025-02-05",
+    "('Close', 'BHARTIARTL.NS')":1646.6838378906,
+    "('High', 'BHARTIARTL.NS')":1661.3115516569,
+    "('Low', 'BHARTIARTL.NS')":1635.4279603228,
+    "('Open', 'BHARTIARTL.NS')":1656.1547111592,
+    "('Volume', 'BHARTIARTL.NS')":3920893
+  },
+  {
+    "('Date', '')":"2025-02-06",
+    "('Close', 'BHARTIARTL.NS')":1606.3212890625,
+    "('High', 'BHARTIARTL.NS')":1653.4771191156,
+    "('Low', 'BHARTIARTL.NS')":1599.875178009,
+    "('Open', 'BHARTIARTL.NS')":1652.088701754,
+    "('Volume', 'BHARTIARTL.NS')":5229162
+  },
+  {
+    "('Date', '')":"2025-02-07",
+    "('Close', 'BHARTIARTL.NS')":1662.8487548828,
+    "('High', 'BHARTIARTL.NS')":1693.3934531647,
+    "('Low', 'BHARTIARTL.NS')":1621.4448869738,
+    "('Open', 'BHARTIARTL.NS')":1621.4945208677,
+    "('Volume', 'BHARTIARTL.NS')":14873255
+  },
+  {
+    "('Date', '')":"2025-02-10",
+    "('Close', 'BHARTIARTL.NS')":1679.013671875,
+    "('High', 'BHARTIARTL.NS')":1685.9060038793,
+    "('Low', 'BHARTIARTL.NS')":1664.1380306643,
+    "('Open', 'BHARTIARTL.NS')":1684.7655138415,
+    "('Volume', 'BHARTIARTL.NS')":6782878
+  },
+  {
+    "('Date', '')":"2025-02-11",
+    "('Close', 'BHARTIARTL.NS')":1682.6829833984,
+    "('High', 'BHARTIARTL.NS')":1692.500931014,
+    "('Low', 'BHARTIARTL.NS')":1672.2204004386,
+    "('Open', 'BHARTIARTL.NS')":1691.8562956698,
+    "('Volume', 'BHARTIARTL.NS')":8965266
+  },
+  {
+    "('Date', '')":"2025-02-12",
+    "('Close', 'BHARTIARTL.NS')":1697.3603515625,
+    "('High', 'BHARTIARTL.NS')":1699.4924300258,
+    "('Low', 'BHARTIARTL.NS')":1670.5345626116,
+    "('Open', 'BHARTIARTL.NS')":1689.8728968182,
+    "('Volume', 'BHARTIARTL.NS')":7148192
+  },
+  {
+    "('Date', '')":"2025-02-13",
+    "('Close', 'BHARTIARTL.NS')":1700.3848876953,
+    "('High', 'BHARTIARTL.NS')":1714.0705256347,
+    "('Low', 'BHARTIARTL.NS')":1689.7736456967,
+    "('Open', 'BHARTIARTL.NS')":1695.8230487349,
+    "('Volume', 'BHARTIARTL.NS')":5356002
+  },
+  {
+    "('Date', '')":"2025-02-14",
+    "('Close', 'BHARTIARTL.NS')":1702.8146972656,
+    "('High', 'BHARTIARTL.NS')":1709.8061759974,
+    "('Low', 'BHARTIARTL.NS')":1691.1124777603,
+    "('Open', 'BHARTIARTL.NS')":1699.7899351304,
+    "('Volume', 'BHARTIARTL.NS')":5125863
+  },
+  {
+    "('Date', '')":"2025-02-17",
+    "('Close', 'BHARTIARTL.NS')":1661.6586914062,
+    "('High', 'BHARTIARTL.NS')":1702.6658498435,
+    "('Low', 'BHARTIARTL.NS')":1652.4357457971,
+    "('Open', 'BHARTIARTL.NS')":1697.5585223515,
+    "('Volume', 'BHARTIARTL.NS')":4906462
+  },
+  {
+    "('Date', '')":"2025-02-18",
+    "('Close', 'BHARTIARTL.NS')":1655.0638427734,
+    "('High', 'BHARTIARTL.NS')":1681.8895094231,
+    "('Low', 'BHARTIARTL.NS')":1642.072473838,
+    "('Open', 'BHARTIARTL.NS')":1677.9723057143,
+    "('Volume', 'BHARTIARTL.NS')":7529598
+  },
+  {
+    "('Date', '')":"2025-02-19",
+    "('Close', 'BHARTIARTL.NS')":1631.5603027344,
+    "('High', 'BHARTIARTL.NS')":1659.576094079,
+    "('Low', 'BHARTIARTL.NS')":1624.8662640945,
+    "('Open', 'BHARTIARTL.NS')":1656.1547449753,
+    "('Volume', 'BHARTIARTL.NS')":7776555
+  },
+  {
+    "('Date', '')":"2025-02-20",
+    "('Close', 'BHARTIARTL.NS')":1629.8743896484,
+    "('High', 'BHARTIARTL.NS')":1636.1222072563,
+    "('Low', 'BHARTIARTL.NS')":1613.7591119899,
+    "('Open', 'BHARTIARTL.NS')":1626.2546261473,
+    "('Volume', 'BHARTIARTL.NS')":5524503
+  },
+  {
+    "('Date', '')":"2025-02-21",
+    "('Close', 'BHARTIARTL.NS')":1625.6596679688,
+    "('High', 'BHARTIARTL.NS')":1644.9483677791,
+    "('Low', 'BHARTIARTL.NS')":1615.6929398669,
+    "('Open', 'BHARTIARTL.NS')":1629.8744330069,
+    "('Volume', 'BHARTIARTL.NS')":5447583
+  },
+  {
+    "('Date', '')":"2025-02-24",
+    "('Close', 'BHARTIARTL.NS')":1588.0242919922,
+    "('High', 'BHARTIARTL.NS')":1623.97375732,
+    "('Low', 'BHARTIARTL.NS')":1584.7516025873,
+    "('Open', 'BHARTIARTL.NS')":1613.5111748495,
+    "('Volume', 'BHARTIARTL.NS')":4673190
+  },
+  {
+    "('Date', '')":"2025-02-25",
+    "('Close', 'BHARTIARTL.NS')":1627.7918701172,
+    "('High', 'BHARTIARTL.NS')":1635.4776181407,
+    "('Low', 'BHARTIARTL.NS')":1583.7599475516,
+    "('Open', 'BHARTIARTL.NS')":1583.7599475516,
+    "('Volume', 'BHARTIARTL.NS')":6286808
+  },
+  {
+    "('Date', '')":"2025-02-27",
+    "('Close', 'BHARTIARTL.NS')":1636.7172851562,
+    "('High', 'BHARTIARTL.NS')":1642.2708338126,
+    "('Low', 'BHARTIARTL.NS')":1625.0646992279,
+    "('Open', 'BHARTIARTL.NS')":1629.7753190713,
+    "('Volume', 'BHARTIARTL.NS')":7568745
+  },
+  {
+    "('Date', '')":"2025-02-28",
+    "('Close', 'BHARTIARTL.NS')":1557.1821289062,
+    "('High', 'BHARTIARTL.NS')":1634.7833933159,
+    "('Low', 'BHARTIARTL.NS')":1546.5708862218,
+    "('Open', 'BHARTIARTL.NS')":1628.3372818953,
+    "('Volume', 'BHARTIARTL.NS')":13640211
+  },
+  {
+    "('Date', '')":"2025-03-03",
+    "('Close', 'BHARTIARTL.NS')":1582.5699462891,
+    "('High', 'BHARTIARTL.NS')":1589.4622783584,
+    "('Low', 'BHARTIARTL.NS')":1559.7109956563,
+    "('Open', 'BHARTIARTL.NS')":1565.9091795526,
+    "('Volume', 'BHARTIARTL.NS')":6993525
+  },
+  {
+    "('Date', '')":"2025-03-04",
+    "('Close', 'BHARTIARTL.NS')":1562.2894287109,
+    "('High', 'BHARTIARTL.NS')":1577.3138508099,
+    "('Low', 'BHARTIARTL.NS')":1555.000388601,
+    "('Open', 'BHARTIARTL.NS')":1575.8262866626,
+    "('Volume', 'BHARTIARTL.NS')":5219668
+  },
+  {
+    "('Date', '')":"2025-03-05",
+    "('Close', 'BHARTIARTL.NS')":1604.8337402344,
+    "('High', 'BHARTIARTL.NS')":1612.6186348306,
+    "('Low', 'BHARTIARTL.NS')":1564.024874119,
+    "('Open', 'BHARTIARTL.NS')":1564.9174367927,
+    "('Volume', 'BHARTIARTL.NS')":6295425
+  },
+  {
+    "('Date', '')":"2025-03-06",
+    "('Close', 'BHARTIARTL.NS')":1613.412109375,
+    "('High', 'BHARTIARTL.NS')":1618.2218759391,
+    "('Low', 'BHARTIARTL.NS')":1577.2642277142,
+    "('Open', 'BHARTIARTL.NS')":1604.5858711625,
+    "('Volume', 'BHARTIARTL.NS')":5174009
+  },
+  {
+    "('Date', '')":"2025-03-07",
+    "('Close', 'BHARTIARTL.NS')":1617.1805419922,
+    "('High', 'BHARTIARTL.NS')":1628.7836151226,
+    "('Low', 'BHARTIARTL.NS')":1602.2057535987,
+    "('Open', 'BHARTIARTL.NS')":1615.4946843606,
+    "('Volume', 'BHARTIARTL.NS')":3035558
+  },
+  {
+    "('Date', '')":"2025-03-10",
+    "('Close', 'BHARTIARTL.NS')":1617.4284667969,
+    "('High', 'BHARTIARTL.NS')":1641.1799805793,
+    "('Low', 'BHARTIARTL.NS')":1613.1145549337,
+    "('Open', 'BHARTIARTL.NS')":1626.4034856747,
+    "('Volume', 'BHARTIARTL.NS')":3778450
+  },
+  {
+    "('Date', '')":"2025-03-11",
+    "('Close', 'BHARTIARTL.NS')":1649.1630859375,
+    "('High', 'BHARTIARTL.NS')":1662.5016499024,
+    "('Low', 'BHARTIARTL.NS')":1610.5856874135,
+    "('Open', 'BHARTIARTL.NS')":1616.4863098759,
+    "('Volume', 'BHARTIARTL.NS')":6078564
+  },
+  {
+    "('Date', '')":"2025-03-12",
+    "('Close', 'BHARTIARTL.NS')":1629.2297363281,
+    "('High', 'BHARTIARTL.NS')":1702.4179372473,
+    "('Low', 'BHARTIARTL.NS')":1620.4531324966,
+    "('Open', 'BHARTIARTL.NS')":1675.9888579677,
+    "('Volume', 'BHARTIARTL.NS')":9907628
+  },
+  {
+    "('Date', '')":"2025-03-13",
+    "('Close', 'BHARTIARTL.NS')":1618.9655761719,
+    "('High', 'BHARTIARTL.NS')":1643.1633094546,
+    "('Low', 'BHARTIARTL.NS')":1616.0895947346,
+    "('Open', 'BHARTIARTL.NS')":1637.1139063985,
+    "('Volume', 'BHARTIARTL.NS')":8317331
+  },
+  {
+    "('Date', '')":"2025-03-17",
+    "('Close', 'BHARTIARTL.NS')":1625.560546875,
+    "('High', 'BHARTIARTL.NS')":1634.7338591616,
+    "('Low', 'BHARTIARTL.NS')":1598.8339049292,
+    "('Open', 'BHARTIARTL.NS')":1598.8339049292,
+    "('Volume', 'BHARTIARTL.NS')":6405522
+  },
+  {
+    "('Date', '')":"2025-03-18",
+    "('Close', 'BHARTIARTL.NS')":1625.560546875,
+    "('High', 'BHARTIARTL.NS')":1625.560546875,
+    "('Low', 'BHARTIARTL.NS')":1625.560546875,
+    "('Open', 'BHARTIARTL.NS')":1625.560546875,
+    "('Volume', 'BHARTIARTL.NS')":0
+  },
+  {
+    "('Date', '')":"2025-03-19",
+    "('Close', 'BHARTIARTL.NS')":1623.5770263672,
+    "('High', 'BHARTIARTL.NS')":1628.436426513,
+    "('Low', 'BHARTIARTL.NS')":1614.0070066934,
+    "('Open', 'BHARTIARTL.NS')":1621.4448270008,
+    "('Volume', 'BHARTIARTL.NS')":6283464
+  },
+  {
+    "('Date', '')":"2025-03-20",
+    "('Close', 'BHARTIARTL.NS')":1691.1124267578,
+    "('High', 'BHARTIARTL.NS')":1695.4759722583,
+    "('Low', 'BHARTIARTL.NS')":1632.4527924932,
+    "('Open', 'BHARTIARTL.NS')":1646.23757714,
+    "('Volume', 'BHARTIARTL.NS')":12074465
+  },
+  {
+    "('Date', '')":"2025-03-21",
+    "('Close', 'BHARTIARTL.NS')":1711.4921875,
+    "('High', 'BHARTIARTL.NS')":1717.0457361119,
+    "('Low', 'BHARTIARTL.NS')":1677.972360249,
+    "('Open', 'BHARTIARTL.NS')":1695.4760559491,
+    "('Volume', 'BHARTIARTL.NS')":14715349
+  },
+  {
+    "('Date', '')":"2025-03-24",
+    "('Close', 'BHARTIARTL.NS')":1704.5501708984,
+    "('High', 'BHARTIARTL.NS')":1725.5743618261,
+    "('Low', 'BHARTIARTL.NS')":1700.6328461202,
+    "('Open', 'BHARTIARTL.NS')":1725.5743618261,
+    "('Volume', 'BHARTIARTL.NS')":4120999
+  },
+  {
+    "('Date', '')":"2025-03-25",
+    "('Close', 'BHARTIARTL.NS')":1716.1530761719,
+    "('High', 'BHARTIARTL.NS')":1726.0701699377,
+    "('Low', 'BHARTIARTL.NS')":1691.9553431717,
+    "('Open', 'BHARTIARTL.NS')":1710.6986746007,
+    "('Volume', 'BHARTIARTL.NS')":4857399
+  },
+  {
+    "('Date', '')":"2025-03-26",
+    "('Close', 'BHARTIARTL.NS')":1724.1364746094,
+    "('High', 'BHARTIARTL.NS')":1750.3671405587,
+    "('Low', 'BHARTIARTL.NS')":1711.8392534895,
+    "('Open', 'BHARTIARTL.NS')":1724.7314760546,
+    "('Volume', 'BHARTIARTL.NS')":7142394
+  },
+  {
+    "('Date', '')":"2025-03-27",
+    "('Close', 'BHARTIARTL.NS')":1710.4011230469,
+    "('High', 'BHARTIARTL.NS')":1731.9212892755,
+    "('Low', 'BHARTIARTL.NS')":1699.0460990441,
+    "('Open', 'BHARTIARTL.NS')":1725.5246911253,
+    "('Volume', 'BHARTIARTL.NS')":6222339
+  },
+  {
+    "('Date', '')":"2025-03-28",
+    "('Close', 'BHARTIARTL.NS')":1719.0291748047,
+    "('High', 'BHARTIARTL.NS')":1731.276762229,
+    "('Low', 'BHARTIARTL.NS')":1646.237677388,
+    "('Open', 'BHARTIARTL.NS')":1718.9300280719,
+    "('Volume', 'BHARTIARTL.NS')":4133264
+  },
+  {
+    "('Date', '')":"2025-04-01",
+    "('Close', 'BHARTIARTL.NS')":1709.8558349609,
+    "('High', 'BHARTIARTL.NS')":1750.3671408941,
+    "('Low', 'BHARTIARTL.NS')":1694.2859243022,
+    "('Open', 'BHARTIARTL.NS')":1700.7816694806,
+    "('Volume', 'BHARTIARTL.NS')":6773056
+  },
+  {
+    "('Date', '')":"2025-04-02",
+    "('Close', 'BHARTIARTL.NS')":1740.0533447266,
+    "('High', 'BHARTIARTL.NS')":1745.805307854,
+    "('Low', 'BHARTIARTL.NS')":1702.7154604097,
+    "('Open', 'BHARTIARTL.NS')":1705.7402225999,
+    "('Volume', 'BHARTIARTL.NS')":6431226
+  },
+  {
+    "('Date', '')":"2025-04-03",
+    "('Close', 'BHARTIARTL.NS')":1731.5246582031,
+    "('High', 'BHARTIARTL.NS')":1740.4004091446,
+    "('Low', 'BHARTIARTL.NS')":1721.0620753331,
+    "('Open', 'BHARTIARTL.NS')":1733.5080770556,
+    "('Volume', 'BHARTIARTL.NS')":2341989
+  },
+  {
+    "('Date', '')":"2025-04-04",
+    "('Close', 'BHARTIARTL.NS')":1728.9957275391,
+    "('High', 'BHARTIARTL.NS')":1756.1190768292,
+    "('Low', 'BHARTIARTL.NS')":1725.5743784878,
+    "('Open', 'BHARTIARTL.NS')":1739.9541649752,
+    "('Volume', 'BHARTIARTL.NS')":7817334
+  },
+  {
+    "('Date', '')":"2025-04-07",
+    "('Close', 'BHARTIARTL.NS')":1672.6667480469,
+    "('High', 'BHARTIARTL.NS')":1760.0363253352,
+    "('Low', 'BHARTIARTL.NS')":1655.559760239,
+    "('Open', 'BHARTIARTL.NS')":1715.6573279785,
+    "('Volume', 'BHARTIARTL.NS')":14870388
+  },
+  {
+    "('Date', '')":"2025-04-08",
+    "('Close', 'BHARTIARTL.NS')":1706.1368408203,
+    "('High', 'BHARTIARTL.NS')":1727.8553004445,
+    "('Low', 'BHARTIARTL.NS')":1692.6496174698,
+    "('Open', 'BHARTIARTL.NS')":1706.4342809992,
+    "('Volume', 'BHARTIARTL.NS')":7206935
+  },
+  {
+    "('Date', '')":"2025-04-09",
+    "('Close', 'BHARTIARTL.NS')":1701.3271484375,
+    "('High', 'BHARTIARTL.NS')":1712.5333922784,
+    "('Low', 'BHARTIARTL.NS')":1697.4098235831,
+    "('Open', 'BHARTIARTL.NS')":1705.3931328587,
+    "('Volume', 'BHARTIARTL.NS')":5600666
+  },
+  {
+    "('Date', '')":"2025-04-11",
+    "('Close', 'BHARTIARTL.NS')":1742.0367431641,
+    "('High', 'BHARTIARTL.NS')":1752.3505453449,
+    "('Low', 'BHARTIARTL.NS')":1717.9877897263,
+    "('Open', 'BHARTIARTL.NS')":1745.4085794041,
+    "('Volume', 'BHARTIARTL.NS')":8340002
+  },
+  {
+    "('Date', '')":"2025-04-15",
+    "('Close', 'BHARTIARTL.NS')":1783.8869628906,
+    "('High', 'BHARTIARTL.NS')":1804.9111542865,
+    "('Low', 'BHARTIARTL.NS')":1766.3336334255,
+    "('Open', 'BHARTIARTL.NS')":1793.2089346431,
+    "('Volume', 'BHARTIARTL.NS')":10313411
+  },
+  {
+    "('Date', '')":"2025-04-16",
+    "('Close', 'BHARTIARTL.NS')":1807.4895019531,
+    "('High', 'BHARTIARTL.NS')":1811.3571927686,
+    "('Low', 'BHARTIARTL.NS')":1779.225784464,
+    "('Open', 'BHARTIARTL.NS')":1787.4570207876,
+    "('Volume', 'BHARTIARTL.NS')":6180958
+  },
+  {
+    "('Date', '')":"2025-04-17",
+    "('Close', 'BHARTIARTL.NS')":1873.4382324219,
+    "('High', 'BHARTIARTL.NS')":1881.9669091827,
+    "('Low', 'BHARTIARTL.NS')":1810.5638312738,
+    "('Open', 'BHARTIARTL.NS')":1818.7950678449,
+    "('Volume', 'BHARTIARTL.NS')":10894325
+  },
+  {
+    "('Date', '')":"2025-04-21",
+    "('Close', 'BHARTIARTL.NS')":1867.7855224609,
+    "('High', 'BHARTIARTL.NS')":1888.5122732912,
+    "('Low', 'BHARTIARTL.NS')":1853.1081748053,
+    "('Open', 'BHARTIARTL.NS')":1882.6611635747,
+    "('Volume', 'BHARTIARTL.NS')":3501123
+  },
+  {
+    "('Date', '')":"2025-04-22",
+    "('Close', 'BHARTIARTL.NS')":1836.8441162109,
+    "('High', 'BHARTIARTL.NS')":1872.347361424,
+    "('Low', 'BHARTIARTL.NS')":1821.5718881815,
+    "('Open', 'BHARTIARTL.NS')":1872.347361424,
+    "('Volume', 'BHARTIARTL.NS')":6155127
+  },
+  {
+    "('Date', '')":"2025-04-23",
+    "('Close', 'BHARTIARTL.NS')":1866.0003662109,
+    "('High', 'BHARTIARTL.NS')":1870.2647650163,
+    "('Low', 'BHARTIARTL.NS')":1820.8775889128,
+    "('Open', 'BHARTIARTL.NS')":1851.5214333115,
+    "('Volume', 'BHARTIARTL.NS')":6855027
+  },
+  {
+    "('Date', '')":"2025-04-24",
+    "('Close', 'BHARTIARTL.NS')":1830.298828125,
+    "('High', 'BHARTIARTL.NS')":1862.2319431555,
+    "('Low', 'BHARTIARTL.NS')":1824.2494250505,
+    "('Open', 'BHARTIARTL.NS')":1858.9592537414,
+    "('Volume', 'BHARTIARTL.NS')":5180688
+  },
+  {
+    "('Date', '')":"2025-04-25",
+    "('Close', 'BHARTIARTL.NS')":1802.1342773438,
+    "('High', 'BHARTIARTL.NS')":1846.2653457438,
+    "('Low', 'BHARTIARTL.NS')":1791.0271804619,
+    "('Open', 'BHARTIARTL.NS')":1831.3897047101,
+    "('Volume', 'BHARTIARTL.NS')":4570083
+  },
+  {
+    "('Date', '')":"2025-04-28",
+    "('Close', 'BHARTIARTL.NS')":1806.6962890625,
+    "('High', 'BHARTIARTL.NS')":1823.6544961138,
+    "('Low', 'BHARTIARTL.NS')":1798.3659056339,
+    "('Open', 'BHARTIARTL.NS')":1820.7785145535,
+    "('Volume', 'BHARTIARTL.NS')":3301891
+  },
+  {
+    "('Date', '')":"2025-04-29",
+    "('Close', 'BHARTIARTL.NS')":1808.6796875,
+    "('High', 'BHARTIARTL.NS')":1832.4807135653,
+    "('Low', 'BHARTIARTL.NS')":1802.5310164648,
+    "('Open', 'BHARTIARTL.NS')":1808.5804197114,
+    "('Volume', 'BHARTIARTL.NS')":4684155
+  },
+  {
+    "('Date', '')":"2025-04-30",
+    "('Close', 'BHARTIARTL.NS')":1849.0422363281,
+    "('High', 'BHARTIARTL.NS')":1861.339457499,
+    "('Low', 'BHARTIARTL.NS')":1811.8531326208,
+    "('Open', 'BHARTIARTL.NS')":1821.7702269428,
+    "('Volume', 'BHARTIARTL.NS')":9139821
+  },
+  {
+    "('Date', '')":"2025-05-02",
+    "('Close', 'BHARTIARTL.NS')":1832.8773193359,
+    "('High', 'BHARTIARTL.NS')":1867.9838573549,
+    "('Low', 'BHARTIARTL.NS')":1816.9108217313,
+    "('Open', 'BHARTIARTL.NS')":1836.6458635917,
+    "('Volume', 'BHARTIARTL.NS')":3866806
+  },
+  {
+    "('Date', '')":"2025-05-05",
+    "('Close', 'BHARTIARTL.NS')":1850.5297851562,
+    "('High', 'BHARTIARTL.NS')":1857.9676058361,
+    "('Low', 'BHARTIARTL.NS')":1833.86901841,
+    "('Open', 'BHARTIARTL.NS')":1852.5132040042,
+    "('Volume', 'BHARTIARTL.NS')":3548839
+  },
+  {
+    "('Date', '')":"2025-05-06",
+    "('Close', 'BHARTIARTL.NS')":1885.2396240234,
+    "('High', 'BHARTIARTL.NS')":1896.1484277395,
+    "('Low', 'BHARTIARTL.NS')":1866.9921463231,
+    "('Open', 'BHARTIARTL.NS')":1872.6449627018,
+    "('Volume', 'BHARTIARTL.NS')":8597920
+  },
+  {
+    "('Date', '')":"2025-05-07",
+    "('Close', 'BHARTIARTL.NS')":1881.0744628906,
+    "('High', 'BHARTIARTL.NS')":1901.1069446087,
+    "('Low', 'BHARTIARTL.NS')":1869.8680981011,
+    "('Open', 'BHARTIARTL.NS')":1885.2395940017,
+    "('Volume', 'BHARTIARTL.NS')":5554616
+  },
+  {
+    "('Date', '')":"2025-05-08",
+    "('Close', 'BHARTIARTL.NS')":1859.3559570312,
+    "('High', 'BHARTIARTL.NS')":1889.9998013528,
+    "('Low', 'BHARTIARTL.NS')":1846.9595896729,
+    "('Open', 'BHARTIARTL.NS')":1881.2727103092,
+    "('Volume', 'BHARTIARTL.NS')":5500724
+  },
+  {
+    "('Date', '')":"2025-05-09",
+    "('Close', 'BHARTIARTL.NS')":1833.0756835938,
+    "('High', 'BHARTIARTL.NS')":1855.5874386047,
+    "('Low', 'BHARTIARTL.NS')":1821.2743174936,
+    "('Open', 'BHARTIARTL.NS')":1839.6209414379,
+    "('Volume', 'BHARTIARTL.NS')":3686209
+  },
+  {
+    "('Date', '')":"2025-05-12",
+    "('Close', 'BHARTIARTL.NS')":1855.2900390625,
+    "('High', 'BHARTIARTL.NS')":1867.7855535947,
+    "('Low', 'BHARTIARTL.NS')":1838.629272314,
+    "('Open', 'BHARTIARTL.NS')":1853.405766945,
+    "('Volume', 'BHARTIARTL.NS')":3936019
+  },
+  {
+    "('Date', '')":"2025-05-13",
+    "('Close', 'BHARTIARTL.NS')":1805.5061035156,
+    "('High', 'BHARTIARTL.NS')":1868.082942239,
+    "('Low', 'BHARTIARTL.NS')":1801.5392659286,
+    "('Open', 'BHARTIARTL.NS')":1854.4965719268,
+    "('Volume', 'BHARTIARTL.NS')":8817763
+  },
+  {
+    "('Date', '')":"2025-05-14",
+    "('Close', 'BHARTIARTL.NS')":1818.9934082031,
+    "('High', 'BHARTIARTL.NS')":1855.1908027985,
+    "('Low', 'BHARTIARTL.NS')":1805.1094760296,
+    "('Open', 'BHARTIARTL.NS')":1814.8282769744,
+    "('Volume', 'BHARTIARTL.NS')":7401614
+  },
+  {
+    "('Date', '')":"2025-05-15",
+    "('Close', 'BHARTIARTL.NS')":1851.7197265625,
+    "('High', 'BHARTIARTL.NS')":1854.3974145533,
+    "('Low', 'BHARTIARTL.NS')":1809.8696386831,
+    "('Open', 'BHARTIARTL.NS')":1834.5632267321,
+    "('Volume', 'BHARTIARTL.NS')":8788351
+  },
+  {
+    "('Date', '')":"2025-05-16",
+    "('Close', 'BHARTIARTL.NS')":1798.9608154297,
+    "('High', 'BHARTIARTL.NS')":1818.7950030309,
+    "('Low', 'BHARTIARTL.NS')":1795.0931246358,
+    "('Open', 'BHARTIARTL.NS')":1818.7950030309,
+    "('Volume', 'BHARTIARTL.NS')":100662047
+  },
+  {
+    "('Date', '')":"2025-05-19",
+    "('Close', 'BHARTIARTL.NS')":1803.2252197266,
+    "('High', 'BHARTIARTL.NS')":1813.5389004643,
+    "('Low', 'BHARTIARTL.NS')":1794.0022740404,
+    "('Open', 'BHARTIARTL.NS')":1806.8944960207,
+    "('Volume', 'BHARTIARTL.NS')":5799804
+  },
+  {
+    "('Date', '')":"2025-05-20",
+    "('Close', 'BHARTIARTL.NS')":1793.9031982422,
+    "('High', 'BHARTIARTL.NS')":1809.7705489993,
+    "('Low', 'BHARTIARTL.NS')":1784.5811054607,
+    "('Open', 'BHARTIARTL.NS')":1794.7957609339,
+    "('Volume', 'BHARTIARTL.NS')":12512596
+  },
+  {
+    "('Date', '')":"2025-05-21",
+    "('Close', 'BHARTIARTL.NS')":1807.3903808594,
+    "('High', 'BHARTIARTL.NS')":1811.357218458,
+    "('Low', 'BHARTIARTL.NS')":1790.3330276087,
+    "('Open', 'BHARTIARTL.NS')":1797.9691415627,
+    "('Volume', 'BHARTIARTL.NS')":6849562
+  },
+  {
+    "('Date', '')":"2025-05-22",
+    "('Close', 'BHARTIARTL.NS')":1816.2166748047,
+    "('High', 'BHARTIARTL.NS')":1821.4726621501,
+    "('Low', 'BHARTIARTL.NS')":1801.2418866193,
+    "('Open', 'BHARTIARTL.NS')":1804.8120163566,
+    "('Volume', 'BHARTIARTL.NS')":6496923
+  },
+  {
+    "('Date', '')":"2025-05-23",
+    "('Close', 'BHARTIARTL.NS')":1816.5140380859,
+    "('High', 'BHARTIARTL.NS')":1826.5303997542,
+    "('Low', 'BHARTIARTL.NS')":1806.3986507488,
+    "('Open', 'BHARTIARTL.NS')":1809.8696336078,
+    "('Volume', 'BHARTIARTL.NS')":3460945
+  },
+  {
+    "('Date', '')":"2025-05-26",
+    "('Close', 'BHARTIARTL.NS')":1832.083984375,
+    "('High', 'BHARTIARTL.NS')":1834.6624046239,
+    "('Low', 'BHARTIARTL.NS')":1815.7207791446,
+    "('Open', 'BHARTIARTL.NS')":1818.7950540974,
+    "('Volume', 'BHARTIARTL.NS')":3254715
+  },
+  {
+    "('Date', '')":"2025-05-27",
+    "('Close', 'BHARTIARTL.NS')":1828.5139160156,
+    "('High', 'BHARTIARTL.NS')":1842.1994336685,
+    "('Low', 'BHARTIARTL.NS')":1818.4975538134,
+    "('Open', 'BHARTIARTL.NS')":1828.7122094805,
+    "('Volume', 'BHARTIARTL.NS')":5847725
+  },
+  {
+    "('Date', '')":"2025-05-28",
+    "('Close', 'BHARTIARTL.NS')":1840.7117919922,
+    "('High', 'BHARTIARTL.NS')":1851.5214486572,
+    "('Low', 'BHARTIARTL.NS')":1829.8029885989,
+    "('Open', 'BHARTIARTL.NS')":1832.6789700688,
+    "('Volume', 'BHARTIARTL.NS')":3713699
+  },
+  {
+    "('Date', '')":"2025-05-29",
+    "('Close', 'BHARTIARTL.NS')":1848.1496582031,
+    "('High', 'BHARTIARTL.NS')":1851.5214944561,
+    "('Low', 'BHARTIARTL.NS')":1835.1582889614,
+    "('Open', 'BHARTIARTL.NS')":1842.5961096408,
+    "('Volume', 'BHARTIARTL.NS')":5786774
+  },
+  {
+    "('Date', '')":"2025-05-30",
+    "('Close', 'BHARTIARTL.NS')":1840.8109130859,
+    "('High', 'BHARTIARTL.NS')":1851.5214228735,
+    "('Low', 'BHARTIARTL.NS')":1827.7203976196,
+    "('Open', 'BHARTIARTL.NS')":1838.629200861,
+    "('Volume', 'BHARTIARTL.NS')":16712960
+  },
+  {
+    "('Date', '')":"2025-06-02",
+    "('Close', 'BHARTIARTL.NS')":1838.7283935547,
+    "('High', 'BHARTIARTL.NS')":1843.5877938772,
+    "('Low', 'BHARTIARTL.NS')":1816.315785092,
+    "('Open', 'BHARTIARTL.NS')":1828.7121527216,
+    "('Volume', 'BHARTIARTL.NS')":3199499
+  },
+  {
+    "('Date', '')":"2025-06-03",
+    "('Close', 'BHARTIARTL.NS')":1826.0345458984,
+    "('High', 'BHARTIARTL.NS')":1854.0007022374,
+    "('Low', 'BHARTIARTL.NS')":1816.8116001599,
+    "('Open', 'BHARTIARTL.NS')":1851.5214287656,
+    "('Volume', 'BHARTIARTL.NS')":5596977
+  },
+  {
+    "('Date', '')":"2025-06-04",
+    "('Close', 'BHARTIARTL.NS')":1859.8518066406,
+    "('High', 'BHARTIARTL.NS')":1868.9754845681,
+    "('Low', 'BHARTIARTL.NS')":1834.6623640256,
+    "('Open', 'BHARTIARTL.NS')":1839.6209109554,
+    "('Volume', 'BHARTIARTL.NS')":5892170
+  },
+  {
+    "('Date', '')":"2025-06-05",
+    "('Close', 'BHARTIARTL.NS')":1863.2236328125,
+    "('High', 'BHARTIARTL.NS')":1873.339020072,
+    "('Low', 'BHARTIARTL.NS')":1853.1081244948,
+    "('Open', 'BHARTIARTL.NS')":1868.3804731686,
+    "('Volume', 'BHARTIARTL.NS')":8999675
+  },
+  {
+    "('Date', '')":"2025-06-06",
+    "('Close', 'BHARTIARTL.NS')":1854.6949462891,
+    "('High', 'BHARTIARTL.NS')":1866.2980193722,
+    "('Low', 'BHARTIARTL.NS')":1851.8190857596,
+    "('Open', 'BHARTIARTL.NS')":1856.5792184367,
+    "('Volume', 'BHARTIARTL.NS')":4644174
+  },
+  {
+    "('Date', '')":"2025-06-09",
+    "('Close', 'BHARTIARTL.NS')":1849.6372070312,
+    "('High', 'BHARTIARTL.NS')":1859.4551544584,
+    "('Low', 'BHARTIARTL.NS')":1833.3731484019,
+    "('Open', 'BHARTIARTL.NS')":1858.4634450427,
+    "('Volume', 'BHARTIARTL.NS')":3649505
+  },
+  {
+    "('Date', '')":"2025-06-10",
+    "('Close', 'BHARTIARTL.NS')":1841.7034912109,
+    "('High', 'BHARTIARTL.NS')":1860.0501149982,
+    "('Low', 'BHARTIARTL.NS')":1834.9599399673,
+    "('Open', 'BHARTIARTL.NS')":1851.124730453,
+    "('Volume', 'BHARTIARTL.NS')":7925901
+  },
+  {
+    "('Date', '')":"2025-06-11",
+    "('Close', 'BHARTIARTL.NS')":1844.7778320312,
+    "('High', 'BHARTIARTL.NS')":1851.0256498594,
+    "('Low', 'BHARTIARTL.NS')":1832.4807319541,
+    "('Open', 'BHARTIARTL.NS')":1842.4969729787,
+    "('Volume', 'BHARTIARTL.NS')":8907265
+  },
+  {
+    "('Date', '')":"2025-06-12",
+    "('Close', 'BHARTIARTL.NS')":1828.9104003906,
+    "('High', 'BHARTIARTL.NS')":1867.3887729729,
+    "('Low', 'BHARTIARTL.NS')":1816.4148863445,
+    "('Open', 'BHARTIARTL.NS')":1856.3808230051,
+    "('Volume', 'BHARTIARTL.NS')":7346031
+  },
+  {
+    "('Date', '')":"2025-06-13",
+    "('Close', 'BHARTIARTL.NS')":1825.1419677734,
+    "('High', 'BHARTIARTL.NS')":1829.3070987475,
+    "('Low', 'BHARTIARTL.NS')":1799.9525253014,
+    "('Open', 'BHARTIARTL.NS')":1799.9525253014,
+    "('Volume', 'BHARTIARTL.NS')":4613000
+  },
+  {
+    "('Date', '')":"2025-06-16",
+    "('Close', 'BHARTIARTL.NS')":1845.8687744141,
+    "('High', 'BHARTIARTL.NS')":1854.4965978632,
+    "('Low', 'BHARTIARTL.NS')":1823.5553126751,
+    "('Open', 'BHARTIARTL.NS')":1826.8278810952,
+    "('Volume', 'BHARTIARTL.NS')":5722187
+  },
+  {
+    "('Date', '')":"2025-06-17",
+    "('Close', 'BHARTIARTL.NS')":1839.4226074219,
+    "('High', 'BHARTIARTL.NS')":1863.4219260073,
+    "('Low', 'BHARTIARTL.NS')":1832.2822272471,
+    "('Open', 'BHARTIARTL.NS')":1863.4219260073,
+    "('Volume', 'BHARTIARTL.NS')":6561555
+  },
+  {
+    "('Date', '')":"2025-06-18",
+    "('Close', 'BHARTIARTL.NS')":1850.4306640625,
+    "('High', 'BHARTIARTL.NS')":1855.4883579832,
+    "('Low', 'BHARTIARTL.NS')":1827.8196404591,
+    "('Open', 'BHARTIARTL.NS')":1832.2823329288,
+    "('Volume', 'BHARTIARTL.NS')":5069427
+  },
+  {
+    "('Date', '')":"2025-06-19",
+    "('Close', 'BHARTIARTL.NS')":1861.4385986328,
+    "('High', 'BHARTIARTL.NS')":1863.4220174912,
+    "('Low', 'BHARTIARTL.NS')":1848.6455227843,
+    "('Open', 'BHARTIARTL.NS')":1856.4800514867,
+    "('Volume', 'BHARTIARTL.NS')":4712312
+  },
+  {
+    "('Date', '')":"2025-06-20",
+    "('Close', 'BHARTIARTL.NS')":1920.6435546875,
+    "('High', 'BHARTIARTL.NS')":1932.8416287824,
+    "('Low', 'BHARTIARTL.NS')":1858.4634234676,
+    "('Open', 'BHARTIARTL.NS')":1864.4136798928,
+    "('Volume', 'BHARTIARTL.NS')":16228526
+  },
+  {
+    "('Date', '')":"2025-06-23",
+    "('Close', 'BHARTIARTL.NS')":1920.2469482422,
+    "('High', 'BHARTIARTL.NS')":1932.8416091241,
+    "('Low', 'BHARTIARTL.NS')":1911.1231491814,
+    "('Open', 'BHARTIARTL.NS')":1913.999130636,
+    "('Volume', 'BHARTIARTL.NS')":2946463
+  },
+  {
+    "('Date', '')":"2025-06-24",
+    "('Close', 'BHARTIARTL.NS')":1917.5693359375,
+    "('High', 'BHARTIARTL.NS')":1946.725617487,
+    "('Low', 'BHARTIARTL.NS')":1913.1066434878,
+    "('Open', 'BHARTIARTL.NS')":1934.7259575562,
+    "('Volume', 'BHARTIARTL.NS')":6837210
+  },
+  {
+    "('Date', '')":"2025-06-25",
+    "('Close', 'BHARTIARTL.NS')":1949.3039550781,
+    "('High', 'BHARTIARTL.NS')":1953.6675006109,
+    "('Low', 'BHARTIARTL.NS')":1921.9328000934,
+    "('Open', 'BHARTIARTL.NS')":1925.8996376581,
+    "('Volume', 'BHARTIARTL.NS')":4152765
+  },
+  {
+    "('Date', '')":"2025-06-26",
+    "('Close', 'BHARTIARTL.NS')":1997.6003417969,
+    "('High', 'BHARTIARTL.NS')":2001.6663262249,
+    "('Low', 'BHARTIARTL.NS')":1949.9982894303,
+    "('Open', 'BHARTIARTL.NS')":1953.6675658769,
+    "('Volume', 'BHARTIARTL.NS')":9413241
+  },
+  {
+    "('Date', '')":"2025-06-27",
+    "('Close', 'BHARTIARTL.NS')":2010.2940673828,
+    "('High', 'BHARTIARTL.NS')":2022.0954332599,
+    "('Low', 'BHARTIARTL.NS')":1991.9474437853,
+    "('Open', 'BHARTIARTL.NS')":1993.3358611341,
+    "('Volume', 'BHARTIARTL.NS')":6405854
+  },
+  {
+    "('Date', '')":"2025-06-30",
+    "('Close', 'BHARTIARTL.NS')":1992.9392089844,
+    "('High', 'BHARTIARTL.NS')":2007.120701991,
+    "('Low', 'BHARTIARTL.NS')":1983.6171163053,
+    "('Open', 'BHARTIARTL.NS')":2001.269592252,
+    "('Volume', 'BHARTIARTL.NS')":5597484
+  },
+  {
+    "('Date', '')":"2025-07-01",
+    "('Close', 'BHARTIARTL.NS')":2002.6579589844,
+    "('High', 'BHARTIARTL.NS')":2013.9634702003,
+    "('Low', 'BHARTIARTL.NS')":1990.2615916551,
+    "('Open', 'BHARTIARTL.NS')":1992.3441571548,
+    "('Volume', 'BHARTIARTL.NS')":3769165
+  },
+  {
+    "('Date', '')":"2025-07-02",
+    "('Close', 'BHARTIARTL.NS')":2016.4427490234,
+    "('High', 'BHARTIARTL.NS')":2028.8391163856,
+    "('Low', 'BHARTIARTL.NS')":2001.5671081888,
+    "('Open', 'BHARTIARTL.NS')":2020.1120253393,
+    "('Volume', 'BHARTIARTL.NS')":6513288
+  },
+  {
+    "('Date', '')":"2025-07-03",
+    "('Close', 'BHARTIARTL.NS')":2002.5588378906,
+    "('High', 'BHARTIARTL.NS')":2027.9465742942,
+    "('Low', 'BHARTIARTL.NS')":1996.2118735252,
+    "('Open', 'BHARTIARTL.NS')":2024.8722993689,
+    "('Volume', 'BHARTIARTL.NS')":5558647
+  },
+  {
+    "('Date', '')":"2025-07-04",
+    "('Close', 'BHARTIARTL.NS')":2000.4761962891,
+    "('High', 'BHARTIARTL.NS')":2019.6162365441,
+    "('Low', 'BHARTIARTL.NS')":1988.4765365026,
+    "('Open', 'BHARTIARTL.NS')":2010.1949970414,
+    "('Volume', 'BHARTIARTL.NS')":2178315
+  },
+  {
+    "('Date', '')":"2025-07-07",
+    "('Close', 'BHARTIARTL.NS')":2017.0378417969,
+    "('High', 'BHARTIARTL.NS')":2019.1204073964,
+    "('Low', 'BHARTIARTL.NS')":1993.930963564,
+    "('Open', 'BHARTIARTL.NS')":2001.2696375864,
+    "('Volume', 'BHARTIARTL.NS')":4165432
+  },
+  {
+    "('Date', '')":"2025-07-08",
+    "('Close', 'BHARTIARTL.NS')":2013.1700439453,
+    "('High', 'BHARTIARTL.NS')":2018.1285908516,
+    "('Low', 'BHARTIARTL.NS')":1998.0961097736,
+    "('Open', 'BHARTIARTL.NS')":2009.2032064203,
+    "('Volume', 'BHARTIARTL.NS')":3624619
+  },
+  {
+    "('Date', '')":"2025-07-09",
+    "('Close', 'BHARTIARTL.NS')":2002.9554443359,
+    "('High', 'BHARTIARTL.NS')":2023.7813419187,
+    "('Low', 'BHARTIARTL.NS')":1981.9312532947,
+    "('Open', 'BHARTIARTL.NS')":2018.1286467124,
+    "('Volume', 'BHARTIARTL.NS')":2937734
+  },
+  {
+    "('Date', '')":"2025-07-10",
+    "('Close', 'BHARTIARTL.NS')":1948.2131347656,
+    "('High', 'BHARTIARTL.NS')":2011.7816836965,
+    "('Low', 'BHARTIARTL.NS')":1946.0314224883,
+    "('Open', 'BHARTIARTL.NS')":2011.7816836965,
+    "('Volume', 'BHARTIARTL.NS')":5695845
+  },
+  {
+    "('Date', '')":"2025-07-11",
+    "('Close', 'BHARTIARTL.NS')":1905.9663085938,
+    "('High', 'BHARTIARTL.NS')":1942.8578496283,
+    "('Low', 'BHARTIARTL.NS')":1898.3300736248,
+    "('Open', 'BHARTIARTL.NS')":1925.8996432021,
+    "('Volume', 'BHARTIARTL.NS')":13103980
+  },
+  {
+    "('Date', '')":"2025-07-14",
+    "('Close', 'BHARTIARTL.NS')":1904.974609375,
+    "('High', 'BHARTIARTL.NS')":1911.5198671989,
+    "('Low', 'BHARTIARTL.NS')":1884.446152174,
+    "('Open', 'BHARTIARTL.NS')":1899.1234997073,
+    "('Volume', 'BHARTIARTL.NS')":5269381
+  },
+  {
+    "('Date', '')":"2025-07-15",
+    "('Close', 'BHARTIARTL.NS')":1918.1643066406,
+    "('High', 'BHARTIARTL.NS')":1926.8913979367,
+    "('Low', 'BHARTIARTL.NS')":1907.2555030496,
+    "('Open', 'BHARTIARTL.NS')":1908.842334964,
+    "('Volume', 'BHARTIARTL.NS')":4163140
+  },
+  {
+    "('Date', '')":"2025-07-16",
+    "('Close', 'BHARTIARTL.NS')":1920.5444335938,
+    "('High', 'BHARTIARTL.NS')":1927.8831074944,
+    "('Low', 'BHARTIARTL.NS')":1912.8091727727,
+    "('Open', 'BHARTIARTL.NS')":1927.8831074944,
+    "('Volume', 'BHARTIARTL.NS')":4211258
+  },
+  {
+    "('Date', '')":"2025-07-17",
+    "('Close', 'BHARTIARTL.NS')":1913.9000244141,
+    "('High', 'BHARTIARTL.NS')":1928.7756656406,
+    "('Low', 'BHARTIARTL.NS')":1911.619044336,
+    "('Open', 'BHARTIARTL.NS')":1927.5855417075,
+    "('Volume', 'BHARTIARTL.NS')":6256455
+  },
+  {
+    "('Date', '')":"2025-07-18",
+    "('Close', 'BHARTIARTL.NS')":1901.0,
+    "('High', 'BHARTIARTL.NS')":1916.0,
+    "('Low', 'BHARTIARTL.NS')":1891.8000488281,
+    "('Open', 'BHARTIARTL.NS')":1915.0999755859,
+    "('Volume', 'BHARTIARTL.NS')":4643961
+  },
+  {
+    "('Date', '')":"2025-07-21",
+    "('Close', 'BHARTIARTL.NS')":1909.1999511719,
+    "('High', 'BHARTIARTL.NS')":1919.9000244141,
+    "('Low', 'BHARTIARTL.NS')":1892.5999755859,
+    "('Open', 'BHARTIARTL.NS')":1894.8000488281,
+    "('Volume', 'BHARTIARTL.NS')":5109654
+  },
+  {
+    "('Date', '')":"2025-07-22",
+    "('Close', 'BHARTIARTL.NS')":1906.8000488281,
+    "('High', 'BHARTIARTL.NS')":1911.3000488281,
+    "('Low', 'BHARTIARTL.NS')":1883.0,
+    "('Open', 'BHARTIARTL.NS')":1909.1999511719,
+    "('Volume', 'BHARTIARTL.NS')":4513541
+  },
+  {
+    "('Date', '')":"2025-07-23",
+    "('Close', 'BHARTIARTL.NS')":1943.8000488281,
+    "('High', 'BHARTIARTL.NS')":1949.0,
+    "('Low', 'BHARTIARTL.NS')":1907.3000488281,
+    "('Open', 'BHARTIARTL.NS')":1920.0,
+    "('Volume', 'BHARTIARTL.NS')":5194282
+  },
+  {
+    "('Date', '')":"2025-07-24",
+    "('Close', 'BHARTIARTL.NS')":1936.0999755859,
+    "('High', 'BHARTIARTL.NS')":1970.4000244141,
+    "('Low', 'BHARTIARTL.NS')":1933.6999511719,
+    "('Open', 'BHARTIARTL.NS')":1943.8000488281,
+    "('Volume', 'BHARTIARTL.NS')":4150685
+  },
+  {
+    "('Date', '')":"2025-07-25",
+    "('Close', 'BHARTIARTL.NS')":1937.9000244141,
+    "('High', 'BHARTIARTL.NS')":1952.6999511719,
+    "('Low', 'BHARTIARTL.NS')":1925.0,
+    "('Open', 'BHARTIARTL.NS')":1936.0999755859,
+    "('Volume', 'BHARTIARTL.NS')":3896884
+  },
+  {
+    "('Date', '')":"2025-07-28",
+    "('Close', 'BHARTIARTL.NS')":1890.3000488281,
+    "('High', 'BHARTIARTL.NS')":1930.0,
+    "('Low', 'BHARTIARTL.NS')":1885.0,
+    "('Open', 'BHARTIARTL.NS')":1930.0,
+    "('Volume', 'BHARTIARTL.NS')":3575044
+  },
+  {
+    "('Date', '')":"2025-07-29",
+    "('Close', 'BHARTIARTL.NS')":1918.3000488281,
+    "('High', 'BHARTIARTL.NS')":1923.5999755859,
+    "('Low', 'BHARTIARTL.NS')":1880.0,
+    "('Open', 'BHARTIARTL.NS')":1880.0,
+    "('Volume', 'BHARTIARTL.NS')":3748040
+  },
+  {
+    "('Date', '')":"2025-07-30",
+    "('Close', 'BHARTIARTL.NS')":1932.5999755859,
+    "('High', 'BHARTIARTL.NS')":1939.1999511719,
+    "('Low', 'BHARTIARTL.NS')":1922.0999755859,
+    "('Open', 'BHARTIARTL.NS')":1934.0,
+    "('Volume', 'BHARTIARTL.NS')":5044683
+  },
+  {
+    "('Date', '')":"2025-07-31",
+    "('Close', 'BHARTIARTL.NS')":1914.3000488281,
+    "('High', 'BHARTIARTL.NS')":1926.5,
+    "('Low', 'BHARTIARTL.NS')":1895.5999755859,
+    "('Open', 'BHARTIARTL.NS')":1913.0,
+    "('Volume', 'BHARTIARTL.NS')":4674966
+  },
+  {
+    "('Date', '')":"2025-08-01",
+    "('Close', 'BHARTIARTL.NS')":1884.4000244141,
+    "('High', 'BHARTIARTL.NS')":1919.6999511719,
+    "('Low', 'BHARTIARTL.NS')":1878.0,
+    "('Open', 'BHARTIARTL.NS')":1914.0,
+    "('Volume', 'BHARTIARTL.NS')":5192594
+  },
+  {
+    "('Date', '')":"2025-08-04",
+    "('Close', 'BHARTIARTL.NS')":1914.5999755859,
+    "('High', 'BHARTIARTL.NS')":1919.9000244141,
+    "('Low', 'BHARTIARTL.NS')":1878.5,
+    "('Open', 'BHARTIARTL.NS')":1892.0,
+    "('Volume', 'BHARTIARTL.NS')":3074380
+  },
+  {
+    "('Date', '')":"2025-08-05",
+    "('Close', 'BHARTIARTL.NS')":1931.8000488281,
+    "('High', 'BHARTIARTL.NS')":1937.5999755859,
+    "('Low', 'BHARTIARTL.NS')":1912.0999755859,
+    "('Open', 'BHARTIARTL.NS')":1920.0,
+    "('Volume', 'BHARTIARTL.NS')":5167672
+  },
+  {
+    "('Date', '')":"2025-08-06",
+    "('Close', 'BHARTIARTL.NS')":1929.6999511719,
+    "('High', 'BHARTIARTL.NS')":1964.8000488281,
+    "('Low', 'BHARTIARTL.NS')":1921.5999755859,
+    "('Open', 'BHARTIARTL.NS')":1930.0,
+    "('Volume', 'BHARTIARTL.NS')":5461349
+  },
+  {
+    "('Date', '')":"2025-08-07",
+    "('Close', 'BHARTIARTL.NS')":1922.5999755859,
+    "('High', 'BHARTIARTL.NS')":1933.3000488281,
+    "('Low', 'BHARTIARTL.NS')":1909.0999755859,
+    "('Open', 'BHARTIARTL.NS')":1928.0999755859,
+    "('Volume', 'BHARTIARTL.NS')":4268534
+  },
+  {
+    "('Date', '')":"2025-08-08",
+    "('Close', 'BHARTIARTL.NS')":1858.5999755859,
+    "('High', 'BHARTIARTL.NS')":1893.8000488281,
+    "('Low', 'BHARTIARTL.NS')":1856.0,
+    "('Open', 'BHARTIARTL.NS')":1886.3000488281,
+    "('Volume', 'BHARTIARTL.NS')":93801105
+  },
+  {
+    "('Date', '')":"2025-08-11",
+    "('Close', 'BHARTIARTL.NS')":1857.4000244141,
+    "('High', 'BHARTIARTL.NS')":1866.0,
+    "('Low', 'BHARTIARTL.NS')":1845.6999511719,
+    "('Open', 'BHARTIARTL.NS')":1863.0,
+    "('Volume', 'BHARTIARTL.NS')":5266532
+  },
+  {
+    "('Date', '')":"2025-08-12",
+    "('Close', 'BHARTIARTL.NS')":1850.3000488281,
+    "('High', 'BHARTIARTL.NS')":1865.0,
+    "('Low', 'BHARTIARTL.NS')":1847.0999755859,
+    "('Open', 'BHARTIARTL.NS')":1857.4000244141,
+    "('Volume', 'BHARTIARTL.NS')":4645011
+  },
+  {
+    "('Date', '')":"2025-08-13",
+    "('Close', 'BHARTIARTL.NS')":1867.4000244141,
+    "('High', 'BHARTIARTL.NS')":1872.5,
+    "('Low', 'BHARTIARTL.NS')":1851.8000488281,
+    "('Open', 'BHARTIARTL.NS')":1853.0,
+    "('Volume', 'BHARTIARTL.NS')":6697206
+  },
+  {
+    "('Date', '')":"2025-08-14",
+    "('Close', 'BHARTIARTL.NS')":1873.8000488281,
+    "('High', 'BHARTIARTL.NS')":1883.0,
+    "('Low', 'BHARTIARTL.NS')":1866.8000488281,
+    "('Open', 'BHARTIARTL.NS')":1873.0,
+    "('Volume', 'BHARTIARTL.NS')":3958631
+  },
+  {
+    "('Date', '')":"2025-08-18",
+    "('Close', 'BHARTIARTL.NS')":1892.3000488281,
+    "('High', 'BHARTIARTL.NS')":1912.5999755859,
+    "('Low', 'BHARTIARTL.NS')":1870.3000488281,
+    "('Open', 'BHARTIARTL.NS')":1892.5,
+    "('Volume', 'BHARTIARTL.NS')":7146376
+  },
+  {
+    "('Date', '')":"2025-08-19",
+    "('Close', 'BHARTIARTL.NS')":1909.6999511719,
+    "('High', 'BHARTIARTL.NS')":1931.8000488281,
+    "('Low', 'BHARTIARTL.NS')":1900.0,
+    "('Open', 'BHARTIARTL.NS')":1901.0999755859,
+    "('Volume', 'BHARTIARTL.NS')":5706265
+  },
+  {
+    "('Date', '')":"2025-08-20",
+    "('Close', 'BHARTIARTL.NS')":1928.4000244141,
+    "('High', 'BHARTIARTL.NS')":1952.0,
+    "('Low', 'BHARTIARTL.NS')":1926.0,
+    "('Open', 'BHARTIARTL.NS')":1937.0,
+    "('Volume', 'BHARTIARTL.NS')":6962619
+  },
+  {
+    "('Date', '')":"2025-08-21",
+    "('Close', 'BHARTIARTL.NS')":1929.9000244141,
+    "('High', 'BHARTIARTL.NS')":1940.9000244141,
+    "('Low', 'BHARTIARTL.NS')":1927.6999511719,
+    "('Open', 'BHARTIARTL.NS')":1930.0,
+    "('Volume', 'BHARTIARTL.NS')":3376913
+  },
+  {
+    "('Date', '')":"2025-08-22",
+    "('Close', 'BHARTIARTL.NS')":1933.3000488281,
+    "('High', 'BHARTIARTL.NS')":1947.6999511719,
+    "('Low', 'BHARTIARTL.NS')":1917.4000244141,
+    "('Open', 'BHARTIARTL.NS')":1934.0,
+    "('Volume', 'BHARTIARTL.NS')":3271920
+  },
+  {
+    "('Date', '')":"2025-08-25",
+    "('Close', 'BHARTIARTL.NS')":1930.6999511719,
+    "('High', 'BHARTIARTL.NS')":1940.0999755859,
+    "('Low', 'BHARTIARTL.NS')":1913.1999511719,
+    "('Open', 'BHARTIARTL.NS')":1940.0,
+    "('Volume', 'BHARTIARTL.NS')":2451388
+  },
+  {
+    "('Date', '')":"2025-08-26",
+    "('Close', 'BHARTIARTL.NS')":1904.6999511719,
+    "('High', 'BHARTIARTL.NS')":1925.8000488281,
+    "('Low', 'BHARTIARTL.NS')":1896.1999511719,
+    "('Open', 'BHARTIARTL.NS')":1922.0999755859,
+    "('Volume', 'BHARTIARTL.NS')":5984656
+  },
+  {
+    "('Date', '')":"2025-08-28",
+    "('Close', 'BHARTIARTL.NS')":1881.0999755859,
+    "('High', 'BHARTIARTL.NS')":1899.8000488281,
+    "('Low', 'BHARTIARTL.NS')":1878.1999511719,
+    "('Open', 'BHARTIARTL.NS')":1893.0,
+    "('Volume', 'BHARTIARTL.NS')":5494113
+  },
+  {
+    "('Date', '')":"2025-08-29",
+    "('Close', 'BHARTIARTL.NS')":1888.8000488281,
+    "('High', 'BHARTIARTL.NS')":1900.0999755859,
+    "('Low', 'BHARTIARTL.NS')":1872.5,
+    "('Open', 'BHARTIARTL.NS')":1872.5,
+    "('Volume', 'BHARTIARTL.NS')":4339042
+  },
+  {
+    "('Date', '')":"2025-09-01",
+    "('Close', 'BHARTIARTL.NS')":1900.5999755859,
+    "('High', 'BHARTIARTL.NS')":1904.8000488281,
+    "('Low', 'BHARTIARTL.NS')":1884.1999511719,
+    "('Open', 'BHARTIARTL.NS')":1889.0,
+    "('Volume', 'BHARTIARTL.NS')":3421488
+  },
+  {
+    "('Date', '')":"2025-09-02",
+    "('Close', 'BHARTIARTL.NS')":1887.1999511719,
+    "('High', 'BHARTIARTL.NS')":1917.5,
+    "('Low', 'BHARTIARTL.NS')":1878.0,
+    "('Open', 'BHARTIARTL.NS')":1904.5,
+    "('Volume', 'BHARTIARTL.NS')":4423049
+  },
+  {
+    "('Date', '')":"2025-09-03",
+    "('Close', 'BHARTIARTL.NS')":1883.9000244141,
+    "('High', 'BHARTIARTL.NS')":1892.0999755859,
+    "('Low', 'BHARTIARTL.NS')":1870.0,
+    "('Open', 'BHARTIARTL.NS')":1891.0,
+    "('Volume', 'BHARTIARTL.NS')":3803044
+  },
+  {
+    "('Date', '')":"2025-09-04",
+    "('Close', 'BHARTIARTL.NS')":1880.4000244141,
+    "('High', 'BHARTIARTL.NS')":1903.5,
+    "('Low', 'BHARTIARTL.NS')":1876.5999755859,
+    "('Open', 'BHARTIARTL.NS')":1899.0,
+    "('Volume', 'BHARTIARTL.NS')":5205333
+  },
+  {
+    "('Date', '')":"2025-09-05",
+    "('Close', 'BHARTIARTL.NS')":1895.3000488281,
+    "('High', 'BHARTIARTL.NS')":1910.6999511719,
+    "('Low', 'BHARTIARTL.NS')":1875.6999511719,
+    "('Open', 'BHARTIARTL.NS')":1887.0,
+    "('Volume', 'BHARTIARTL.NS')":2620140
+  },
+  {
+    "('Date', '')":"2025-09-08",
+    "('Close', 'BHARTIARTL.NS')":1887.6999511719,
+    "('High', 'BHARTIARTL.NS')":1899.0,
+    "('Low', 'BHARTIARTL.NS')":1884.0999755859,
+    "('Open', 'BHARTIARTL.NS')":1898.0,
+    "('Volume', 'BHARTIARTL.NS')":2547552
+  },
+  {
+    "('Date', '')":"2025-09-09",
+    "('Close', 'BHARTIARTL.NS')":1893.6999511719,
+    "('High', 'BHARTIARTL.NS')":1904.0,
+    "('Low', 'BHARTIARTL.NS')":1883.0,
+    "('Open', 'BHARTIARTL.NS')":1892.0,
+    "('Volume', 'BHARTIARTL.NS')":4517793
+  },
+  {
+    "('Date', '')":"2025-09-10",
+    "('Close', 'BHARTIARTL.NS')":1891.4000244141,
+    "('High', 'BHARTIARTL.NS')":1905.0,
+    "('Low', 'BHARTIARTL.NS')":1883.0,
+    "('Open', 'BHARTIARTL.NS')":1904.0,
+    "('Volume', 'BHARTIARTL.NS')":3566139
+  },
+  {
+    "('Date', '')":"2025-09-11",
+    "('Close', 'BHARTIARTL.NS')":1913.0,
+    "('High', 'BHARTIARTL.NS')":1916.0,
+    "('Low', 'BHARTIARTL.NS')":1882.0999755859,
+    "('Open', 'BHARTIARTL.NS')":1884.0,
+    "('Volume', 'BHARTIARTL.NS')":4718266
+  },
+  {
+    "('Date', '')":"2025-09-12",
+    "('Close', 'BHARTIARTL.NS')":1902.5999755859,
+    "('High', 'BHARTIARTL.NS')":1925.0,
+    "('Low', 'BHARTIARTL.NS')":1901.5999755859,
+    "('Open', 'BHARTIARTL.NS')":1925.0,
+    "('Volume', 'BHARTIARTL.NS')":3192824
+  },
+  {
+    "('Date', '')":"2025-09-15",
+    "('Close', 'BHARTIARTL.NS')":1904.5,
+    "('High', 'BHARTIARTL.NS')":1913.0,
+    "('Low', 'BHARTIARTL.NS')":1898.4000244141,
+    "('Open', 'BHARTIARTL.NS')":1904.0,
+    "('Volume', 'BHARTIARTL.NS')":3553258
+  },
+  {
+    "('Date', '')":"2025-09-16",
+    "('Close', 'BHARTIARTL.NS')":1939.5,
+    "('High', 'BHARTIARTL.NS')":1942.0,
+    "('Low', 'BHARTIARTL.NS')":1902.5,
+    "('Open', 'BHARTIARTL.NS')":1903.3000488281,
+    "('Volume', 'BHARTIARTL.NS')":5427586
+  },
+  {
+    "('Date', '')":"2025-09-17",
+    "('Close', 'BHARTIARTL.NS')":1941.3000488281,
+    "('High', 'BHARTIARTL.NS')":1950.0999755859,
+    "('Low', 'BHARTIARTL.NS')":1932.5999755859,
+    "('Open', 'BHARTIARTL.NS')":1938.0999755859,
+    "('Volume', 'BHARTIARTL.NS')":4234637
+  },
+  {
+    "('Date', '')":"2025-09-18",
+    "('Close', 'BHARTIARTL.NS')":1941.0999755859,
+    "('High', 'BHARTIARTL.NS')":1949.8000488281,
+    "('Low', 'BHARTIARTL.NS')":1920.5,
+    "('Open', 'BHARTIARTL.NS')":1944.5,
+    "('Volume', 'BHARTIARTL.NS')":5080814
+  },
+  {
+    "('Date', '')":"2025-09-19",
+    "('Close', 'BHARTIARTL.NS')":1962.4000244141,
+    "('High', 'BHARTIARTL.NS')":1976.8000488281,
+    "('Low', 'BHARTIARTL.NS')":1927.8000488281,
+    "('Open', 'BHARTIARTL.NS')":1930.1999511719,
+    "('Volume', 'BHARTIARTL.NS')":11287603
+  },
+  {
+    "('Date', '')":"2025-09-22",
+    "('Close', 'BHARTIARTL.NS')":1956.1999511719,
+    "('High', 'BHARTIARTL.NS')":1966.0,
+    "('Low', 'BHARTIARTL.NS')":1944.0,
+    "('Open', 'BHARTIARTL.NS')":1954.0,
+    "('Volume', 'BHARTIARTL.NS')":4469137
+  },
+  {
+    "('Date', '')":"2025-09-23",
+    "('Close', 'BHARTIARTL.NS')":1938.6999511719,
+    "('High', 'BHARTIARTL.NS')":1955.0,
+    "('Low', 'BHARTIARTL.NS')":1930.0999755859,
+    "('Open', 'BHARTIARTL.NS')":1950.0,
+    "('Volume', 'BHARTIARTL.NS')":4348633
+  },
+  {
+    "('Date', '')":"2025-09-24",
+    "('Close', 'BHARTIARTL.NS')":1931.0999755859,
+    "('High', 'BHARTIARTL.NS')":1937.3000488281,
+    "('Low', 'BHARTIARTL.NS')":1918.8000488281,
+    "('Open', 'BHARTIARTL.NS')":1926.0,
+    "('Volume', 'BHARTIARTL.NS')":5237977
+  },
+  {
+    "('Date', '')":"2025-09-25",
+    "('Close', 'BHARTIARTL.NS')":1935.5999755859,
+    "('High', 'BHARTIARTL.NS')":1950.0,
+    "('Low', 'BHARTIARTL.NS')":1928.8000488281,
+    "('Open', 'BHARTIARTL.NS')":1930.0,
+    "('Volume', 'BHARTIARTL.NS')":7133365
+  },
+  {
+    "('Date', '')":"2025-09-26",
+    "('Close', 'BHARTIARTL.NS')":1916.5999755859,
+    "('High', 'BHARTIARTL.NS')":1944.6999511719,
+    "('Low', 'BHARTIARTL.NS')":1911.9000244141,
+    "('Open', 'BHARTIARTL.NS')":1931.0999755859,
+    "('Volume', 'BHARTIARTL.NS')":3239306
+  },
+  {
+    "('Date', '')":"2025-09-29",
+    "('Close', 'BHARTIARTL.NS')":1902.1999511719,
+    "('High', 'BHARTIARTL.NS')":1928.0,
+    "('Low', 'BHARTIARTL.NS')":1897.5,
+    "('Open', 'BHARTIARTL.NS')":1928.0,
+    "('Volume', 'BHARTIARTL.NS')":5072608
+  },
+  {
+    "('Date', '')":"2025-09-30",
+    "('Close', 'BHARTIARTL.NS')":1878.4000244141,
+    "('High', 'BHARTIARTL.NS')":1907.5999755859,
+    "('Low', 'BHARTIARTL.NS')":1875.1999511719,
+    "('Open', 'BHARTIARTL.NS')":1896.0,
+    "('Volume', 'BHARTIARTL.NS')":5945625
+  },
+  {
+    "('Date', '')":"2025-10-01",
+    "('Close', 'BHARTIARTL.NS')":1867.5999755859,
+    "('High', 'BHARTIARTL.NS')":1877.0,
+    "('Low', 'BHARTIARTL.NS')":1855.9000244141,
+    "('Open', 'BHARTIARTL.NS')":1868.0,
+    "('Volume', 'BHARTIARTL.NS')":5675393
+  },
+  {
+    "('Date', '')":"2025-10-03",
+    "('Close', 'BHARTIARTL.NS')":1896.6999511719,
+    "('High', 'BHARTIARTL.NS')":1900.3000488281,
+    "('Low', 'BHARTIARTL.NS')":1848.0999755859,
+    "('Open', 'BHARTIARTL.NS')":1851.1999511719,
+    "('Volume', 'BHARTIARTL.NS')":5828332
+  },
+  {
+    "('Date', '')":"2025-10-06",
+    "('Close', 'BHARTIARTL.NS')":1903.0999755859,
+    "('High', 'BHARTIARTL.NS')":1907.0,
+    "('Low', 'BHARTIARTL.NS')":1887.5,
+    "('Open', 'BHARTIARTL.NS')":1892.5999755859,
+    "('Volume', 'BHARTIARTL.NS')":2809218
+  },
+  {
+    "('Date', '')":"2025-10-07",
+    "('Close', 'BHARTIARTL.NS')":1929.0,
+    "('High', 'BHARTIARTL.NS')":1946.0,
+    "('Low', 'BHARTIARTL.NS')":1900.0,
+    "('Open', 'BHARTIARTL.NS')":1900.0,
+    "('Volume', 'BHARTIARTL.NS')":5713060
+  },
+  {
+    "('Date', '')":"2025-10-08",
+    "('Close', 'BHARTIARTL.NS')":1943.5,
+    "('High', 'BHARTIARTL.NS')":1962.5999755859,
+    "('Low', 'BHARTIARTL.NS')":1927.5999755859,
+    "('Open', 'BHARTIARTL.NS')":1929.0,
+    "('Volume', 'BHARTIARTL.NS')":4957406
+  },
+  {
+    "('Date', '')":"2025-10-09",
+    "('Close', 'BHARTIARTL.NS')":1942.0,
+    "('High', 'BHARTIARTL.NS')":1948.8000488281,
+    "('Low', 'BHARTIARTL.NS')":1931.3000488281,
+    "('Open', 'BHARTIARTL.NS')":1945.0,
+    "('Volume', 'BHARTIARTL.NS')":3945737
+  },
+  {
+    "('Date', '')":"2025-10-10",
+    "('Close', 'BHARTIARTL.NS')":1939.9000244141,
+    "('High', 'BHARTIARTL.NS')":1947.5999755859,
+    "('Low', 'BHARTIARTL.NS')":1935.4000244141,
+    "('Open', 'BHARTIARTL.NS')":1937.0,
+    "('Volume', 'BHARTIARTL.NS')":2512581
+  },
+  {
+    "('Date', '')":"2025-10-13",
+    "('Close', 'BHARTIARTL.NS')":1954.9000244141,
+    "('High', 'BHARTIARTL.NS')":1965.9000244141,
+    "('Low', 'BHARTIARTL.NS')":1936.0,
+    "('Open', 'BHARTIARTL.NS')":1937.9000244141,
+    "('Volume', 'BHARTIARTL.NS')":3672419
+  },
+  {
+    "('Date', '')":"2025-10-14",
+    "('Close', 'BHARTIARTL.NS')":1946.5999755859,
+    "('High', 'BHARTIARTL.NS')":1964.0,
+    "('Low', 'BHARTIARTL.NS')":1939.1999511719,
+    "('Open', 'BHARTIARTL.NS')":1964.0,
+    "('Volume', 'BHARTIARTL.NS')":4454239
+  },
+  {
+    "('Date', '')":"2025-10-15",
+    "('Close', 'BHARTIARTL.NS')":1968.5,
+    "('High', 'BHARTIARTL.NS')":1976.0,
+    "('Low', 'BHARTIARTL.NS')":1951.5999755859,
+    "('Open', 'BHARTIARTL.NS')":1957.1999511719,
+    "('Volume', 'BHARTIARTL.NS')":3447352
+  },
+  {
+    "('Date', '')":"2025-10-16",
+    "('Close', 'BHARTIARTL.NS')":1967.4000244141,
+    "('High', 'BHARTIARTL.NS')":1986.9000244141,
+    "('Low', 'BHARTIARTL.NS')":1962.0,
+    "('Open', 'BHARTIARTL.NS')":1962.3000488281,
+    "('Volume', 'BHARTIARTL.NS')":3700674
+  },
+  {
+    "('Date', '')":"2025-10-17",
+    "('Close', 'BHARTIARTL.NS')":2012.0,
+    "('High', 'BHARTIARTL.NS')":2034.3000488281,
+    "('Low', 'BHARTIARTL.NS')":1970.3000488281,
+    "('Open', 'BHARTIARTL.NS')":1973.5999755859,
+    "('Volume', 'BHARTIARTL.NS')":6743801
+  },
+  {
+    "('Date', '')":"2025-10-20",
+    "('Close', 'BHARTIARTL.NS')":2051.5,
+    "('High', 'BHARTIARTL.NS')":2057.0,
+    "('Low', 'BHARTIARTL.NS')":2019.6999511719,
+    "('Open', 'BHARTIARTL.NS')":2026.0,
+    "('Volume', 'BHARTIARTL.NS')":7387180
+  },
+  {
+    "('Date', '')":"2025-10-21",
+    "('Close', 'BHARTIARTL.NS')":2043.5,
+    "('High', 'BHARTIARTL.NS')":2058.5,
+    "('Low', 'BHARTIARTL.NS')":2038.5,
+    "('Open', 'BHARTIARTL.NS')":2051.8000488281,
+    "('Volume', 'BHARTIARTL.NS')":240850
+  },
+  {
+    "('Date', '')":"2025-10-23",
+    "('Close', 'BHARTIARTL.NS')":2007.9000244141,
+    "('High', 'BHARTIARTL.NS')":2067.0,
+    "('Low', 'BHARTIARTL.NS')":2003.5999755859,
+    "('Open', 'BHARTIARTL.NS')":2063.8999023438,
+    "('Volume', 'BHARTIARTL.NS')":8790128
+  },
+  {
+    "('Date', '')":"2025-10-24",
+    "('Close', 'BHARTIARTL.NS')":2029.3000488281,
+    "('High', 'BHARTIARTL.NS')":2033.0,
+    "('Low', 'BHARTIARTL.NS')":2006.9000244141,
+    "('Open', 'BHARTIARTL.NS')":2008.0,
+    "('Volume', 'BHARTIARTL.NS')":3236799
+  },
+  {
+    "('Date', '')":"2025-10-27",
+    "('Close', 'BHARTIARTL.NS')":2080.1000976562,
+    "('High', 'BHARTIARTL.NS')":2094.0,
+    "('Low', 'BHARTIARTL.NS')":2030.0,
+    "('Open', 'BHARTIARTL.NS')":2030.0,
+    "('Volume', 'BHARTIARTL.NS')":5796831
+  },
+  {
+    "('Date', '')":"2025-10-28",
+    "('Close', 'BHARTIARTL.NS')":2090.1999511719,
+    "('High', 'BHARTIARTL.NS')":2102.6000976562,
+    "('Low', 'BHARTIARTL.NS')":2071.6999511719,
+    "('Open', 'BHARTIARTL.NS')":2092.0,
+    "('Volume', 'BHARTIARTL.NS')":9891522
+  },
+  {
+    "('Date', '')":"2025-10-29",
+    "('Close', 'BHARTIARTL.NS')":2100.6000976562,
+    "('High', 'BHARTIARTL.NS')":2110.3999023438,
+    "('Low', 'BHARTIARTL.NS')":2081.6000976562,
+    "('Open', 'BHARTIARTL.NS')":2083.0,
+    "('Volume', 'BHARTIARTL.NS')":2742750
+  },
+  {
+    "('Date', '')":"2025-10-30",
+    "('Close', 'BHARTIARTL.NS')":2066.3000488281,
+    "('High', 'BHARTIARTL.NS')":2088.0,
+    "('Low', 'BHARTIARTL.NS')":2058.6000976562,
+    "('Open', 'BHARTIARTL.NS')":2070.0,
+    "('Volume', 'BHARTIARTL.NS')":4222189
+  },
+  {
+    "('Date', '')":"2025-10-31",
+    "('Close', 'BHARTIARTL.NS')":2054.5,
+    "('High', 'BHARTIARTL.NS')":2073.8000488281,
+    "('Low', 'BHARTIARTL.NS')":2051.6999511719,
+    "('Open', 'BHARTIARTL.NS')":2056.0,
+    "('Volume', 'BHARTIARTL.NS')":4659723
+  },
+  {
+    "('Date', '')":"2025-11-03",
+    "('Close', 'BHARTIARTL.NS')":2074.0,
+    "('High', 'BHARTIARTL.NS')":2081.0,
+    "('Low', 'BHARTIARTL.NS')":2047.1999511719,
+    "('Open', 'BHARTIARTL.NS')":2055.0,
+    "('Volume', 'BHARTIARTL.NS')":2979629
+  },
+  {
+    "('Date', '')":"2025-11-04",
+    "('Close', 'BHARTIARTL.NS')":2113.3000488281,
+    "('High', 'BHARTIARTL.NS')":2135.6000976562,
+    "('Low', 'BHARTIARTL.NS')":2103.5,
+    "('Open', 'BHARTIARTL.NS')":2107.0,
+    "('Volume', 'BHARTIARTL.NS')":12263078
+  },
+  {
+    "('Date', '')":"2025-11-05",
+    "('Close', 'BHARTIARTL.NS')":2113.3000488281,
+    "('High', 'BHARTIARTL.NS')":2113.3000488281,
+    "('Low', 'BHARTIARTL.NS')":2113.3000488281,
+    "('Open', 'BHARTIARTL.NS')":2113.3000488281,
+    "('Volume', 'BHARTIARTL.NS')":0
+  },
+  {
+    "('Date', '')":"2025-11-06",
+    "('Close', 'BHARTIARTL.NS')":2094.8999023438,
+    "('High', 'BHARTIARTL.NS')":2123.3000488281,
+    "('Low', 'BHARTIARTL.NS')":2080.5,
+    "('Open', 'BHARTIARTL.NS')":2115.0,
+    "('Volume', 'BHARTIARTL.NS')":9546299
+  },
+  {
+    "('Date', '')":"2025-11-07",
+    "('Close', 'BHARTIARTL.NS')":2001.1999511719,
+    "('High', 'BHARTIARTL.NS')":2048.0,
+    "('Low', 'BHARTIARTL.NS')":1995.5999755859,
+    "('Open', 'BHARTIARTL.NS')":2048.0,
+    "('Volume', 'BHARTIARTL.NS')":70392750
+  },
+  {
+    "('Date', '')":"2025-11-10",
+    "('Close', 'BHARTIARTL.NS')":2019.8000488281,
+    "('High', 'BHARTIARTL.NS')":2028.8000488281,
+    "('Low', 'BHARTIARTL.NS')":1992.1999511719,
+    "('Open', 'BHARTIARTL.NS')":1995.0,
+    "('Volume', 'BHARTIARTL.NS')":7457061
+  },
+  {
+    "('Date', '')":"2025-11-11",
+    "('Close', 'BHARTIARTL.NS')":2042.3000488281,
+    "('High', 'BHARTIARTL.NS')":2056.8999023438,
+    "('Low', 'BHARTIARTL.NS')":2017.4000244141,
+    "('Open', 'BHARTIARTL.NS')":2020.0999755859,
+    "('Volume', 'BHARTIARTL.NS')":14825400
+  }
+]

@@ -1,0 +1,1994 @@
+[
+  {
+    "('Date', '')":"2024-11-11",
+    "('Close', 'DRREDDY.NS')":1279.7834472656,
+    "('High', 'DRREDDY.NS')":1287.087101986,
+    "('Low', 'DRREDDY.NS')":1254.1957283881,
+    "('Open', 'DRREDDY.NS')":1275.9080015055,
+    "('Volume', 'DRREDDY.NS')":1175591
+  },
+  {
+    "('Date', '')":"2024-11-12",
+    "('Close', 'DRREDDY.NS')":1255.9346923828,
+    "('High', 'DRREDDY.NS')":1280.2802888454,
+    "('Low', 'DRREDDY.NS')":1250.3700088801,
+    "('Open', 'DRREDDY.NS')":1279.7337065268,
+    "('Volume', 'DRREDDY.NS')":1110785
+  },
+  {
+    "('Date', '')":"2024-11-13",
+    "('Close', 'DRREDDY.NS')":1237.1538085938,
+    "('High', 'DRREDDY.NS')":1257.0774987706,
+    "('Low', 'DRREDDY.NS')":1230.496081598,
+    "('Open', 'DRREDDY.NS')":1250.0718804907,
+    "('Volume', 'DRREDDY.NS')":995217
+  },
+  {
+    "('Date', '')":"2024-11-14",
+    "('Close', 'DRREDDY.NS')":1218.9691162109,
+    "('High', 'DRREDDY.NS')":1245.1034184465,
+    "('Low', 'DRREDDY.NS')":1214.4974758414,
+    "('Open', 'DRREDDY.NS')":1242.0229793411,
+    "('Volume', 'DRREDDY.NS')":1346891
+  },
+  {
+    "('Date', '')":"2024-11-18",
+    "('Close', 'DRREDDY.NS')":1186.0280761719,
+    "('High', 'DRREDDY.NS')":1212.1126438279,
+    "('Low', 'DRREDDY.NS')":1162.8251351399,
+    "('Open', 'DRREDDY.NS')":1198.4989109754,
+    "('Volume', 'DRREDDY.NS')":3367815
+  },
+  {
+    "('Date', '')":"2024-11-19",
+    "('Close', 'DRREDDY.NS')":1205.8026123047,
+    "('High', 'DRREDDY.NS')":1224.2357560151,
+    "('Low', 'DRREDDY.NS')":1178.7740791988,
+    "('Open', 'DRREDDY.NS')":1185.4815397127,
+    "('Volume', 'DRREDDY.NS')":1509716
+  },
+  {
+    "('Date', '')":"2024-11-21",
+    "('Close', 'DRREDDY.NS')":1187.8166503906,
+    "('High', 'DRREDDY.NS')":1199.0950962499,
+    "('Low', 'DRREDDY.NS')":1165.1106797407,
+    "('Open', 'DRREDDY.NS')":1167.4955787399,
+    "('Volume', 'DRREDDY.NS')":2121476
+  },
+  {
+    "('Date', '')":"2024-11-22",
+    "('Close', 'DRREDDY.NS')":1206.7962646484,
+    "('High', 'DRREDDY.NS')":1215.4911205422,
+    "('Low', 'DRREDDY.NS')":1186.077689436,
+    "('Open', 'DRREDDY.NS')":1191.4436819049,
+    "('Volume', 'DRREDDY.NS')":763755
+  },
+  {
+    "('Date', '')":"2024-11-25",
+    "('Close', 'DRREDDY.NS')":1201.6788330078,
+    "('High', 'DRREDDY.NS')":1239.1411926369,
+    "('Low', 'DRREDDY.NS')":1198.1511571948,
+    "('Open', 'DRREDDY.NS')":1226.1733874494,
+    "('Volume', 'DRREDDY.NS')":3280431
+  },
+  {
+    "('Date', '')":"2024-11-26",
+    "('Close', 'DRREDDY.NS')":1201.0328369141,
+    "('High', 'DRREDDY.NS')":1210.6716567863,
+    "('Low', 'DRREDDY.NS')":1195.6171112737,
+    "('Open', 'DRREDDY.NS')":1201.3806068742,
+    "('Volume', 'DRREDDY.NS')":1190121
+  },
+  {
+    "('Date', '')":"2024-11-27",
+    "('Close', 'DRREDDY.NS')":1192.3380126953,
+    "('High', 'DRREDDY.NS')":1207.9390196116,
+    "('Low', 'DRREDDY.NS')":1190.4996960283,
+    "('Open', 'DRREDDY.NS')":1204.3617317971,
+    "('Volume', 'DRREDDY.NS')":1402977
+  },
+  {
+    "('Date', '')":"2024-11-28",
+    "('Close', 'DRREDDY.NS')":1184.4381103516,
+    "('High', 'DRREDDY.NS')":1202.2750596385,
+    "('Low', 'DRREDDY.NS')":1180.9601678573,
+    "('Open', 'DRREDDY.NS')":1201.4304407215,
+    "('Volume', 'DRREDDY.NS')":2819269
+  },
+  {
+    "('Date', '')":"2024-11-29",
+    "('Close', 'DRREDDY.NS')":1194.7229003906,
+    "('High', 'DRREDDY.NS')":1211.6653749147,
+    "('Low', 'DRREDDY.NS')":1191.0958792001,
+    "('Open', 'DRREDDY.NS')":1198.39953369,
+    "('Volume', 'DRREDDY.NS')":2535820
+  },
+  {
+    "('Date', '')":"2024-12-02",
+    "('Close', 'DRREDDY.NS')":1214.0502929688,
+    "('High', 'DRREDDY.NS')":1217.5282352854,
+    "('Low', 'DRREDDY.NS')":1194.7229191865,
+    "('Open', 'DRREDDY.NS')":1206.597559433,
+    "('Volume', 'DRREDDY.NS')":1826479
+  },
+  {
+    "('Date', '')":"2024-12-03",
+    "('Close', 'DRREDDY.NS')":1216.7829589844,
+    "('High', 'DRREDDY.NS')":1221.254599095,
+    "('Low', 'DRREDDY.NS')":1209.8768077784,
+    "('Open', 'DRREDDY.NS')":1221.254599095,
+    "('Volume', 'DRREDDY.NS')":2237453
+  },
+  {
+    "('Date', '')":"2024-12-04",
+    "('Close', 'DRREDDY.NS')":1207.8894042969,
+    "('High', 'DRREDDY.NS')":1221.3539366504,
+    "('Low', 'DRREDDY.NS')":1201.9768296308,
+    "('Open', 'DRREDDY.NS')":1216.7829510496,
+    "('Volume', 'DRREDDY.NS')":1435443
+  },
+  {
+    "('Date', '')":"2024-12-05",
+    "('Close', 'DRREDDY.NS')":1232.0362548828,
+    "('High', 'DRREDDY.NS')":1241.6254633941,
+    "('Low', 'DRREDDY.NS')":1202.4737438496,
+    "('Open', 'DRREDDY.NS')":1208.8831677618,
+    "('Volume', 'DRREDDY.NS')":3324867
+  },
+  {
+    "('Date', '')":"2024-12-06",
+    "('Close', 'DRREDDY.NS')":1245.7989501953,
+    "('High', 'DRREDDY.NS')":1247.2398848632,
+    "('Low', 'DRREDDY.NS')":1228.5583167003,
+    "('Open', 'DRREDDY.NS')":1238.1475252451,
+    "('Volume', 'DRREDDY.NS')":1717216
+  },
+  {
+    "('Date', '')":"2024-12-09",
+    "('Close', 'DRREDDY.NS')":1247.2398681641,
+    "('High', 'DRREDDY.NS')":1253.8479830604,
+    "('Low', 'DRREDDY.NS')":1235.4148396076,
+    "('Open', 'DRREDDY.NS')":1246.7430192441,
+    "('Volume', 'DRREDDY.NS')":1269332
+  },
+  {
+    "('Date', '')":"2024-12-10",
+    "('Close', 'DRREDDY.NS')":1232.5330810547,
+    "('High', 'DRREDDY.NS')":1245.6995773222,
+    "('Low', 'DRREDDY.NS')":1225.2294262533,
+    "('Open', 'DRREDDY.NS')":1242.122289389,
+    "('Volume', 'DRREDDY.NS')":2025890
+  },
+  {
+    "('Date', '')":"2024-12-11",
+    "('Close', 'DRREDDY.NS')":1230.7445068359,
+    "('High', 'DRREDDY.NS')":1235.5639170942,
+    "('Low', 'DRREDDY.NS')":1218.9690904047,
+    "('Open', 'DRREDDY.NS')":1232.4834780539,
+    "('Volume', 'DRREDDY.NS')":1178864
+  },
+  {
+    "('Date', '')":"2024-12-12",
+    "('Close', 'DRREDDY.NS')":1237.5512695312,
+    "('High', 'DRREDDY.NS')":1242.3209462105,
+    "('Low', 'DRREDDY.NS')":1218.6212778421,
+    "('Open', 'DRREDDY.NS')":1236.955075109,
+    "('Volume', 'DRREDDY.NS')":1648944
+  },
+  {
+    "('Date', '')":"2024-12-13",
+    "('Close', 'DRREDDY.NS')":1238.4952392578,
+    "('High', 'DRREDDY.NS')":1242.32095156,
+    "('Low', 'DRREDDY.NS')":1218.7206286102,
+    "('Open', 'DRREDDY.NS')":1232.4834402975,
+    "('Volume', 'DRREDDY.NS')":1258819
+  },
+  {
+    "('Date', '')":"2024-12-16",
+    "('Close', 'DRREDDY.NS')":1261.9465332031,
+    "('High', 'DRREDDY.NS')":1266.1201369442,
+    "('Low', 'DRREDDY.NS')":1237.3525114718,
+    "('Open', 'DRREDDY.NS')":1238.4952882569,
+    "('Volume', 'DRREDDY.NS')":1920945
+  },
+  {
+    "('Date', '')":"2024-12-17",
+    "('Close', 'DRREDDY.NS')":1239.787109375,
+    "('High', 'DRREDDY.NS')":1262.9401958002,
+    "('Low', 'DRREDDY.NS')":1235.4148147068,
+    "('Open', 'DRREDDY.NS')":1261.0025335717,
+    "('Volume', 'DRREDDY.NS')":2706166
+  },
+  {
+    "('Date', '')":"2024-12-18",
+    "('Close', 'DRREDDY.NS')":1267.3621826172,
+    "('High', 'DRREDDY.NS')":1272.9268659678,
+    "('Low', 'DRREDDY.NS')":1241.6751190669,
+    "('Open', 'DRREDDY.NS')":1244.0102846076,
+    "('Volume', 'DRREDDY.NS')":2823838
+  },
+  {
+    "('Date', '')":"2024-12-19",
+    "('Close', 'DRREDDY.NS')":1317.2458496094,
+    "('High', 'DRREDDY.NS')":1322.9596122638,
+    "('Low', 'DRREDDY.NS')":1263.6358989632,
+    "('Open', 'DRREDDY.NS')":1266.9647625103,
+    "('Volume', 'DRREDDY.NS')":7185903
+  },
+  {
+    "('Date', '')":"2024-12-20",
+    "('Close', 'DRREDDY.NS')":1335.1821289062,
+    "('High', 'DRREDDY.NS')":1360.0741870536,
+    "('Low', 'DRREDDY.NS')":1309.0975605685,
+    "('Open', 'DRREDDY.NS')":1317.6433377447,
+    "('Volume', 'DRREDDY.NS')":7499087
+  },
+  {
+    "('Date', '')":"2024-12-23",
+    "('Close', 'DRREDDY.NS')":1332.8966064453,
+    "('High', 'DRREDDY.NS')":1358.384980933,
+    "('Low', 'DRREDDY.NS')":1321.9163178219,
+    "('Open', 'DRREDDY.NS')":1353.4164916099,
+    "('Volume', 'DRREDDY.NS')":3740109
+  },
+  {
+    "('Date', '')":"2024-12-24",
+    "('Close', 'DRREDDY.NS')":1342.3863525391,
+    "('High', 'DRREDDY.NS')":1356.3974669484,
+    "('Low', 'DRREDDY.NS')":1327.7789224221,
+    "('Open', 'DRREDDY.NS')":1338.5109069447,
+    "('Volume', 'DRREDDY.NS')":2587142
+  },
+  {
+    "('Date', '')":"2024-12-26",
+    "('Close', 'DRREDDY.NS')":1346.6096191406,
+    "('High', 'DRREDDY.NS')":1351.6277203291,
+    "('Low', 'DRREDDY.NS')":1334.2877419663,
+    "('Open', 'DRREDDY.NS')":1342.3864034241,
+    "('Volume', 'DRREDDY.NS')":1531359
+  },
+  {
+    "('Date', '')":"2024-12-27",
+    "('Close', 'DRREDDY.NS')":1380.693359375,
+    "('High', 'DRREDDY.NS')":1389.4379485334,
+    "('Low', 'DRREDDY.NS')":1337.0203895954,
+    "('Open', 'DRREDDY.NS')":1354.4598345018,
+    "('Volume', 'DRREDDY.NS')":3656253
+  },
+  {
+    "('Date', '')":"2024-12-30",
+    "('Close', 'DRREDDY.NS')":1368.2225341797,
+    "('High', 'DRREDDY.NS')":1383.2273467993,
+    "('Low', 'DRREDDY.NS')":1363.4527361876,
+    "('Open', 'DRREDDY.NS')":1380.8424478032,
+    "('Volume', 'DRREDDY.NS')":2462657
+  },
+  {
+    "('Date', '')":"2024-12-31",
+    "('Close', 'DRREDDY.NS')":1379.7493896484,
+    "('High', 'DRREDDY.NS')":1386.208425322,
+    "('Low', 'DRREDDY.NS')":1357.9377715482,
+    "('Open', 'DRREDDY.NS')":1361.6641382829,
+    "('Volume', 'DRREDDY.NS')":1892083
+  },
+  {
+    "('Date', '')":"2025-01-01",
+    "('Close', 'DRREDDY.NS')":1360.3723144531,
+    "('High', 'DRREDDY.NS')":1380.296004248,
+    "('Low', 'DRREDDY.NS')":1346.8083149612,
+    "('Open', 'DRREDDY.NS')":1379.6996885157,
+    "('Volume', 'DRREDDY.NS')":1658723
+  },
+  {
+    "('Date', '')":"2025-01-02",
+    "('Close', 'DRREDDY.NS')":1366.3842773438,
+    "('High', 'DRREDDY.NS')":1379.2028825696,
+    "('Low', 'DRREDDY.NS')":1361.4157880931,
+    "('Open', 'DRREDDY.NS')":1362.8068680425,
+    "('Volume', 'DRREDDY.NS')":1726305
+  },
+  {
+    "('Date', '')":"2025-01-03",
+    "('Close', 'DRREDDY.NS')":1344.1253662109,
+    "('High', 'DRREDDY.NS')":1369.4646603519,
+    "('Low', 'DRREDDY.NS')":1338.7096403688,
+    "('Open', 'DRREDDY.NS')":1366.3842214028,
+    "('Volume', 'DRREDDY.NS')":1573592
+  },
+  {
+    "('Date', '')":"2025-01-06",
+    "('Close', 'DRREDDY.NS')":1341.83984375,
+    "('High', 'DRREDDY.NS')":1352.7209077956,
+    "('Low', 'DRREDDY.NS')":1325.394217404,
+    "('Open', 'DRREDDY.NS')":1351.8265554862,
+    "('Volume', 'DRREDDY.NS')":1539970
+  },
+  {
+    "('Date', '')":"2025-01-07",
+    "('Close', 'DRREDDY.NS')":1343.0323486328,
+    "('High', 'DRREDDY.NS')":1364.3968519456,
+    "('Low', 'DRREDDY.NS')":1339.007823907,
+    "('Open', 'DRREDDY.NS')":1343.4794641352,
+    "('Volume', 'DRREDDY.NS')":1723188
+  },
+  {
+    "('Date', '')":"2025-01-08",
+    "('Close', 'DRREDDY.NS')":1362.111328125,
+    "('High', 'DRREDDY.NS')":1397.0398318188,
+    "('Low', 'DRREDDY.NS')":1349.4416805353,
+    "('Open', 'DRREDDY.NS')":1360.8692058123,
+    "('Volume', 'DRREDDY.NS')":3456684
+  },
+  {
+    "('Date', '')":"2025-01-09",
+    "('Close', 'DRREDDY.NS')":1362.9559326172,
+    "('High', 'DRREDDY.NS')":1374.2343788371,
+    "('Low', 'DRREDDY.NS')":1355.5031988197,
+    "('Open', 'DRREDDY.NS')":1371.3030187305,
+    "('Volume', 'DRREDDY.NS')":1607980
+  },
+  {
+    "('Date', '')":"2025-01-10",
+    "('Close', 'DRREDDY.NS')":1345.8643798828,
+    "('High', 'DRREDDY.NS')":1377.2652073929,
+    "('Low', 'DRREDDY.NS')":1344.0756752489,
+    "('Open', 'DRREDDY.NS')":1357.4905961001,
+    "('Volume', 'DRREDDY.NS')":1582776
+  },
+  {
+    "('Date', '')":"2025-01-13",
+    "('Close', 'DRREDDY.NS')":1326.6859130859,
+    "('High', 'DRREDDY.NS')":1345.6159047615,
+    "('Low', 'DRREDDY.NS')":1321.816769589,
+    "('Open', 'DRREDDY.NS')":1345.5165592413,
+    "('Volume', 'DRREDDY.NS')":2822318
+  },
+  {
+    "('Date', '')":"2025-01-14",
+    "('Close', 'DRREDDY.NS')":1329.1206054688,
+    "('High', 'DRREDDY.NS')":1340.3493183736,
+    "('Low', 'DRREDDY.NS')":1315.3081811176,
+    "('Open', 'DRREDDY.NS')":1326.7357063727,
+    "('Volume', 'DRREDDY.NS')":1370223
+  },
+  {
+    "('Date', '')":"2025-01-15",
+    "('Close', 'DRREDDY.NS')":1328.7727050781,
+    "('High', 'DRREDDY.NS')":1336.5235967619,
+    "('Low', 'DRREDDY.NS')":1305.6692302642,
+    "('Open', 'DRREDDY.NS')":1336.5235967619,
+    "('Volume', 'DRREDDY.NS')":1940371
+  },
+  {
+    "('Date', '')":"2025-01-16",
+    "('Close', 'DRREDDY.NS')":1294.5397949219,
+    "('High', 'DRREDDY.NS')":1338.5109220954,
+    "('Low', 'DRREDDY.NS')":1288.8260326338,
+    "('Open', 'DRREDDY.NS')":1332.4493898413,
+    "('Volume', 'DRREDDY.NS')":1195731
+  },
+  {
+    "('Date', '')":"2025-01-17",
+    "('Close', 'DRREDDY.NS')":1301.1479492188,
+    "('High', 'DRREDDY.NS')":1312.3766617994,
+    "('Low', 'DRREDDY.NS')":1279.8827916195,
+    "('Open', 'DRREDDY.NS')":1289.8197698153,
+    "('Volume', 'DRREDDY.NS')":1432206
+  },
+  {
+    "('Date', '')":"2025-01-20",
+    "('Close', 'DRREDDY.NS')":1294.1423339844,
+    "('High', 'DRREDDY.NS')":1300.7504487597,
+    "('Low', 'DRREDDY.NS')":1285.497211455,
+    "('Open', 'DRREDDY.NS')":1300.1045209153,
+    "('Volume', 'DRREDDY.NS')":561642
+  },
+  {
+    "('Date', '')":"2025-01-21",
+    "('Close', 'DRREDDY.NS')":1280.0318603516,
+    "('High', 'DRREDDY.NS')":1304.6754933002,
+    "('Low', 'DRREDDY.NS')":1277.5476158224,
+    "('Open', 'DRREDDY.NS')":1294.1423207568,
+    "('Volume', 'DRREDDY.NS')":738787
+  },
+  {
+    "('Date', '')":"2025-01-22",
+    "('Close', 'DRREDDY.NS')":1288.0808105469,
+    "('High', 'DRREDDY.NS')":1299.756760035,
+    "('Low', 'DRREDDY.NS')":1279.8828034595,
+    "('Open', 'DRREDDY.NS')":1282.8638969458,
+    "('Volume', 'DRREDDY.NS')":1301422
+  },
+  {
+    "('Date', '')":"2025-01-23",
+    "('Close', 'DRREDDY.NS')":1281.2740478516,
+    "('High', 'DRREDDY.NS')":1295.7322789668,
+    "('Low', 'DRREDDY.NS')":1266.5176588573,
+    "('Open', 'DRREDDY.NS')":1280.8765444465,
+    "('Volume', 'DRREDDY.NS')":1448659
+  },
+  {
+    "('Date', '')":"2025-01-24",
+    "('Close', 'DRREDDY.NS')":1216.68359375,
+    "('High', 'DRREDDY.NS')":1244.7555562117,
+    "('Low', 'DRREDDY.NS')":1195.9152857571,
+    "('Open', 'DRREDDY.NS')":1222.1985436831,
+    "('Volume', 'DRREDDY.NS')":7082467
+  },
+  {
+    "('Date', '')":"2025-01-27",
+    "('Close', 'DRREDDY.NS')":1190.1021728516,
+    "('High', 'DRREDDY.NS')":1226.5708329299,
+    "('Low', 'DRREDDY.NS')":1183.9909072322,
+    "('Open', 'DRREDDY.NS')":1216.6835885196,
+    "('Volume', 'DRREDDY.NS')":2184847
+  },
+  {
+    "('Date', '')":"2025-01-28",
+    "('Close', 'DRREDDY.NS')":1173.8055419922,
+    "('High', 'DRREDDY.NS')":1190.1022103909,
+    "('Low', 'DRREDDY.NS')":1157.3101825512,
+    "('Open', 'DRREDDY.NS')":1190.1022103909,
+    "('Volume', 'DRREDDY.NS')":3142189
+  },
+  {
+    "('Date', '')":"2025-01-29",
+    "('Close', 'DRREDDY.NS')":1173.755859375,
+    "('High', 'DRREDDY.NS')":1184.9349602587,
+    "('Low', 'DRREDDY.NS')":1166.1044344017,
+    "('Open', 'DRREDDY.NS')":1179.9168588648,
+    "('Volume', 'DRREDDY.NS')":3458251
+  },
+  {
+    "('Date', '')":"2025-01-30",
+    "('Close', 'DRREDDY.NS')":1186.9720458984,
+    "('High', 'DRREDDY.NS')":1197.207181964,
+    "('Low', 'DRREDDY.NS')":1176.5382187892,
+    "('Open', 'DRREDDY.NS')":1180.5130100689,
+    "('Volume', 'DRREDDY.NS')":3290757
+  },
+  {
+    "('Date', '')":"2025-01-31",
+    "('Close', 'DRREDDY.NS')":1209.6779785156,
+    "('High', 'DRREDDY.NS')":1213.3049997037,
+    "('Low', 'DRREDDY.NS')":1188.4625549923,
+    "('Open', 'DRREDDY.NS')":1194.424741723,
+    "('Volume', 'DRREDDY.NS')":1505147
+  },
+  {
+    "('Date', '')":"2025-02-01",
+    "('Close', 'DRREDDY.NS')":1197.3562011719,
+    "('High', 'DRREDDY.NS')":1212.7089060598,
+    "('Low', 'DRREDDY.NS')":1192.5367907576,
+    "('Open', 'DRREDDY.NS')":1212.7089060598,
+    "('Volume', 'DRREDDY.NS')":1067956
+  },
+  {
+    "('Date', '')":"2025-02-03",
+    "('Close', 'DRREDDY.NS')":1196.2630615234,
+    "('High', 'DRREDDY.NS')":1212.3113051095,
+    "('Low', 'DRREDDY.NS')":1189.257564877,
+    "('Open', 'DRREDDY.NS')":1192.437349288,
+    "('Volume', 'DRREDDY.NS')":1407877
+  },
+  {
+    "('Date', '')":"2025-02-04",
+    "('Close', 'DRREDDY.NS')":1212.2615966797,
+    "('High', 'DRREDDY.NS')":1225.2294016408,
+    "('Low', 'DRREDDY.NS')":1193.878187166,
+    "('Open', 'DRREDDY.NS')":1199.3932585405,
+    "('Volume', 'DRREDDY.NS')":2239920
+  },
+  {
+    "('Date', '')":"2025-02-05",
+    "('Close', 'DRREDDY.NS')":1219.8138427734,
+    "('High', 'DRREDDY.NS')":1225.3287930535,
+    "('Low', 'DRREDDY.NS')":1208.1875051623,
+    "('Open', 'DRREDDY.NS')":1219.2672604362,
+    "('Volume', 'DRREDDY.NS')":1460238
+  },
+  {
+    "('Date', '')":"2025-02-06",
+    "('Close', 'DRREDDY.NS')":1228.8564453125,
+    "('High', 'DRREDDY.NS')":1246.0970783969,
+    "('Low', 'DRREDDY.NS')":1222.4470215306,
+    "('Open', 'DRREDDY.NS')":1227.1174741106,
+    "('Volume', 'DRREDDY.NS')":2990483
+  },
+  {
+    "('Date', '')":"2025-02-07",
+    "('Close', 'DRREDDY.NS')":1232.5827636719,
+    "('High', 'DRREDDY.NS')":1235.9116270101,
+    "('Low', 'DRREDDY.NS')":1218.2734912276,
+    "('Open', 'DRREDDY.NS')":1232.1852602955,
+    "('Volume', 'DRREDDY.NS')":1236992
+  },
+  {
+    "('Date', '')":"2025-02-10",
+    "('Close', 'DRREDDY.NS')":1213.2552490234,
+    "('High', 'DRREDDY.NS')":1231.8870822918,
+    "('Low', 'DRREDDY.NS')":1203.4177380986,
+    "('Open', 'DRREDDY.NS')":1231.8870822918,
+    "('Volume', 'DRREDDY.NS')":1565579
+  },
+  {
+    "('Date', '')":"2025-02-11",
+    "('Close', 'DRREDDY.NS')":1202.1756591797,
+    "('High', 'DRREDDY.NS')":1215.1930762318,
+    "('Low', 'DRREDDY.NS')":1193.6794943829,
+    "('Open', 'DRREDDY.NS')":1212.3113283223,
+    "('Volume', 'DRREDDY.NS')":1819297
+  },
+  {
+    "('Date', '')":"2025-02-12",
+    "('Close', 'DRREDDY.NS')":1208.1875,
+    "('High', 'DRREDDY.NS')":1212.708873713,
+    "('Low', 'DRREDDY.NS')":1195.2694280212,
+    "('Open', 'DRREDDY.NS')":1210.3239746259,
+    "('Volume', 'DRREDDY.NS')":1306601
+  },
+  {
+    "('Date', '')":"2025-02-13",
+    "('Close', 'DRREDDY.NS')":1215.888671875,
+    "('High', 'DRREDDY.NS')":1235.1664345342,
+    "('Low', 'DRREDDY.NS')":1209.2309447628,
+    "('Open', 'DRREDDY.NS')":1209.2309447628,
+    "('Volume', 'DRREDDY.NS')":4447231
+  },
+  {
+    "('Date', '')":"2025-02-14",
+    "('Close', 'DRREDDY.NS')":1189.5059814453,
+    "('High', 'DRREDDY.NS')":1222.2482749239,
+    "('Low', 'DRREDDY.NS')":1178.7739968524,
+    "('Open', 'DRREDDY.NS')":1215.7892393247,
+    "('Volume', 'DRREDDY.NS')":1211843
+  },
+  {
+    "('Date', '')":"2025-02-17",
+    "('Close', 'DRREDDY.NS')":1191.3939208984,
+    "('High', 'DRREDDY.NS')":1194.4247476888,
+    "('Low', 'DRREDDY.NS')":1175.693568543,
+    "('Open', 'DRREDDY.NS')":1189.3071797925,
+    "('Volume', 'DRREDDY.NS')":613030
+  },
+  {
+    "('Date', '')":"2025-02-18",
+    "('Close', 'DRREDDY.NS')":1189.8537597656,
+    "('High', 'DRREDDY.NS')":1197.3561053106,
+    "('Low', 'DRREDDY.NS')":1174.5507895168,
+    "('Open', 'DRREDDY.NS')":1191.3939185618,
+    "('Volume', 'DRREDDY.NS')":1713796
+  },
+  {
+    "('Date', '')":"2025-02-19",
+    "('Close', 'DRREDDY.NS')":1158.5025634766,
+    "('High', 'DRREDDY.NS')":1169.5325848688,
+    "('Low', 'DRREDDY.NS')":1120.3942768565,
+    "('Open', 'DRREDDY.NS')":1158.6516424077,
+    "('Volume', 'DRREDDY.NS')":3062142
+  },
+  {
+    "('Date', '')":"2025-02-20",
+    "('Close', 'DRREDDY.NS')":1163.5704345703,
+    "('High', 'DRREDDY.NS')":1166.7503404317,
+    "('Low', 'DRREDDY.NS')":1148.9631248761,
+    "('Open', 'DRREDDY.NS')":1157.1611320374,
+    "('Volume', 'DRREDDY.NS')":1579890
+  },
+  {
+    "('Date', '')":"2025-02-21",
+    "('Close', 'DRREDDY.NS')":1144.5412597656,
+    "('High', 'DRREDDY.NS')":1163.3717859571,
+    "('Low', 'DRREDDY.NS')":1138.0324901707,
+    "('Open', 'DRREDDY.NS')":1163.322052543,
+    "('Volume', 'DRREDDY.NS')":6828902
+  },
+  {
+    "('Date', '')":"2025-02-24",
+    "('Close', 'DRREDDY.NS')":1157.2108154297,
+    "('High', 'DRREDDY.NS')":1166.5018655507,
+    "('Low', 'DRREDDY.NS')":1143.74616179,
+    "('Open', 'DRREDDY.NS')":1144.5411685463,
+    "('Volume', 'DRREDDY.NS')":2017521
+  },
+  {
+    "('Date', '')":"2025-02-25",
+    "('Close', 'DRREDDY.NS')":1121.0402832031,
+    "('High', 'DRREDDY.NS')":1162.1793995346,
+    "('Low', 'DRREDDY.NS')":1115.4258659429,
+    "('Open', 'DRREDDY.NS')":1159.7945003717,
+    "('Volume', 'DRREDDY.NS')":6463238
+  },
+  {
+    "('Date', '')":"2025-02-27",
+    "('Close', 'DRREDDY.NS')":1118.4566650391,
+    "('High', 'DRREDDY.NS')":1129.1885290524,
+    "('Low', 'DRREDDY.NS')":1107.9731041876,
+    "('Open', 'DRREDDY.NS')":1121.38802518,
+    "('Volume', 'DRREDDY.NS')":3435069
+  },
+  {
+    "('Date', '')":"2025-02-28",
+    "('Close', 'DRREDDY.NS')":1109.4636230469,
+    "('High', 'DRREDDY.NS')":1124.8659393543,
+    "('Low', 'DRREDDY.NS')":1097.5889825432,
+    "('Open', 'DRREDDY.NS')":1121.5866880071,
+    "('Volume', 'DRREDDY.NS')":3895033
+  },
+  {
+    "('Date', '')":"2025-03-03",
+    "('Close', 'DRREDDY.NS')":1112.5440673828,
+    "('High', 'DRREDDY.NS')":1123.1269735437,
+    "('Low', 'DRREDDY.NS')":1096.9430599557,
+    "('Open', 'DRREDDY.NS')":1111.301945094,
+    "('Volume', 'DRREDDY.NS')":1810605
+  },
+  {
+    "('Date', '')":"2025-03-04",
+    "('Close', 'DRREDDY.NS')":1113.0906982422,
+    "('High', 'DRREDDY.NS')":1117.0654897397,
+    "('Low', 'DRREDDY.NS')":1098.0858845993,
+    "('Open', 'DRREDDY.NS')":1104.0976839587,
+    "('Volume', 'DRREDDY.NS')":1074133
+  },
+  {
+    "('Date', '')":"2025-03-05",
+    "('Close', 'DRREDDY.NS')":1119.3012695312,
+    "('High', 'DRREDDY.NS')":1121.8848596511,
+    "('Low', 'DRREDDY.NS')":1103.5511830514,
+    "('Open', 'DRREDDY.NS')":1113.438428024,
+    "('Volume', 'DRREDDY.NS')":1260157
+  },
+  {
+    "('Date', '')":"2025-03-06",
+    "('Close', 'DRREDDY.NS')":1132.9149169922,
+    "('High', 'DRREDDY.NS')":1138.4796008023,
+    "('Low', 'DRREDDY.NS')":1111.6001462074,
+    "('Open', 'DRREDDY.NS')":1127.8470821169,
+    "('Volume', 'DRREDDY.NS')":1648697
+  },
+  {
+    "('Date', '')":"2025-03-07",
+    "('Close', 'DRREDDY.NS')":1126.1080322266,
+    "('High', 'DRREDDY.NS')":1137.9826724201,
+    "('Low', 'DRREDDY.NS')":1122.8785143755,
+    "('Open', 'DRREDDY.NS')":1132.9148378986,
+    "('Volume', 'DRREDDY.NS')":790599
+  },
+  {
+    "('Date', '')":"2025-03-10",
+    "('Close', 'DRREDDY.NS')":1113.1402587891,
+    "('High', 'DRREDDY.NS')":1129.9835097601,
+    "('Low', 'DRREDDY.NS')":1108.3705819936,
+    "('Open', 'DRREDDY.NS')":1127.7973017571,
+    "('Volume', 'DRREDDY.NS')":950503
+  },
+  {
+    "('Date', '')":"2025-03-11",
+    "('Close', 'DRREDDY.NS')":1109.6126708984,
+    "('High', 'DRREDDY.NS')":1119.8476854419,
+    "('Low', 'DRREDDY.NS')":1103.6504841077,
+    "('Open', 'DRREDDY.NS')":1109.9604408677,
+    "('Volume', 'DRREDDY.NS')":884438
+  },
+  {
+    "('Date', '')":"2025-03-12",
+    "('Close', 'DRREDDY.NS')":1098.1851806641,
+    "('High', 'DRREDDY.NS')":1109.6127057047,
+    "('Low', 'DRREDDY.NS')":1085.5651454473,
+    "('Open', 'DRREDDY.NS')":1109.5629722928,
+    "('Volume', 'DRREDDY.NS')":1914579
+  },
+  {
+    "('Date', '')":"2025-03-13",
+    "('Close', 'DRREDDY.NS')":1100.9674072266,
+    "('High', 'DRREDDY.NS')":1103.2529606418,
+    "('Low', 'DRREDDY.NS')":1088.1488029008,
+    "('Open', 'DRREDDY.NS')":1098.1851262222,
+    "('Volume', 'DRREDDY.NS')":1299174
+  },
+  {
+    "('Date', '')":"2025-03-17",
+    "('Close', 'DRREDDY.NS')":1143.4479980469,
+    "('High', 'DRREDDY.NS')":1146.8265947919,
+    "('Low', 'DRREDDY.NS')":1094.5581153158,
+    "('Open', 'DRREDDY.NS')":1100.9178054298,
+    "('Volume', 'DRREDDY.NS')":2714559
+  },
+  {
+    "('Date', '')":"2025-03-18",
+    "('Close', 'DRREDDY.NS')":1143.4479980469,
+    "('High', 'DRREDDY.NS')":1143.4479980469,
+    "('Low', 'DRREDDY.NS')":1143.4479980469,
+    "('Open', 'DRREDDY.NS')":1143.4479980469,
+    "('Volume', 'DRREDDY.NS')":0
+  },
+  {
+    "('Date', '')":"2025-03-19",
+    "('Close', 'DRREDDY.NS')":1164.7131347656,
+    "('High', 'DRREDDY.NS')":1170.2778180308,
+    "('Low', 'DRREDDY.NS')":1150.8013659521,
+    "('Open', 'DRREDDY.NS')":1166.6011847934,
+    "('Volume', 'DRREDDY.NS')":1507415
+  },
+  {
+    "('Date', '')":"2025-03-20",
+    "('Close', 'DRREDDY.NS')":1179.7180175781,
+    "('High', 'DRREDDY.NS')":1183.245693402,
+    "('Low', 'DRREDDY.NS')":1157.9561320991,
+    "('Open', 'DRREDDY.NS')":1171.5200104645,
+    "('Volume', 'DRREDDY.NS')":1521677
+  },
+  {
+    "('Date', '')":"2025-03-21",
+    "('Close', 'DRREDDY.NS')":1192.5864257812,
+    "('High', 'DRREDDY.NS')":1197.0580658319,
+    "('Low', 'DRREDDY.NS')":1169.6320311145,
+    "('Open', 'DRREDDY.NS')":1182.6990599997,
+    "('Volume', 'DRREDDY.NS')":2313824
+  },
+  {
+    "('Date', '')":"2025-03-24",
+    "('Close', 'DRREDDY.NS')":1202.6724853516,
+    "('High', 'DRREDDY.NS')":1208.6842842084,
+    "('Low', 'DRREDDY.NS')":1182.7487961153,
+    "('Open', 'DRREDDY.NS')":1197.4058385372,
+    "('Volume', 'DRREDDY.NS')":1660669
+  },
+  {
+    "('Date', '')":"2025-03-25",
+    "('Close', 'DRREDDY.NS')":1170.4766845703,
+    "('High', 'DRREDDY.NS')":1208.2868137804,
+    "('Low', 'DRREDDY.NS')":1160.5893184965,
+    "('Open', 'DRREDDY.NS')":1202.6725181471,
+    "('Volume', 'DRREDDY.NS')":2860907
+  },
+  {
+    "('Date', '')":"2025-03-26",
+    "('Close', 'DRREDDY.NS')":1157.2604980469,
+    "('High', 'DRREDDY.NS')":1172.3647782284,
+    "('Low', 'DRREDDY.NS')":1145.3858571962,
+    "('Open', 'DRREDDY.NS')":1170.4767280431,
+    "('Volume', 'DRREDDY.NS')":2864505
+  },
+  {
+    "('Date', '')":"2025-03-27",
+    "('Close', 'DRREDDY.NS')":1154.8756103516,
+    "('High', 'DRREDDY.NS')":1165.0114013567,
+    "('Low', 'DRREDDY.NS')":1136.7903577263,
+    "('Open', 'DRREDDY.NS')":1152.6895235686,
+    "('Volume', 'DRREDDY.NS')":4460409
+  },
+  {
+    "('Date', '')":"2025-03-28",
+    "('Close', 'DRREDDY.NS')":1136.9890136719,
+    "('High', 'DRREDDY.NS')":1151.9442146009,
+    "('Low', 'DRREDDY.NS')":1133.5608046634,
+    "('Open', 'DRREDDY.NS')":1151.9442146009,
+    "('Volume', 'DRREDDY.NS')":2762934
+  },
+  {
+    "('Date', '')":"2025-04-01",
+    "('Close', 'DRREDDY.NS')":1144.9385986328,
+    "('High', 'DRREDDY.NS')":1157.0617850181,
+    "('Low', 'DRREDDY.NS')":1128.890475615,
+    "('Open', 'DRREDDY.NS')":1136.9890159412,
+    "('Volume', 'DRREDDY.NS')":4158012
+  },
+  {
+    "('Date', '')":"2025-04-02",
+    "('Close', 'DRREDDY.NS')":1142.7524414062,
+    "('High', 'DRREDDY.NS')":1145.4353768787,
+    "('Low', 'DRREDDY.NS')":1127.8469747792,
+    "('Open', 'DRREDDY.NS')":1142.7524414062,
+    "('Volume', 'DRREDDY.NS')":2071245
+  },
+  {
+    "('Date', '')":"2025-04-03",
+    "('Close', 'DRREDDY.NS')":1144.193359375,
+    "('High', 'DRREDDY.NS')":1219.1679361512,
+    "('Low', 'DRREDDY.NS')":1141.8085815372,
+    "('Open', 'DRREDDY.NS')":1182.9973095657,
+    "('Volume', 'DRREDDY.NS')":6324685
+  },
+  {
+    "('Date', '')":"2025-04-04",
+    "('Close', 'DRREDDY.NS')":1102.9548339844,
+    "('High', 'DRREDDY.NS')":1150.1554798864,
+    "('Low', 'DRREDDY.NS')":1069.4175329487,
+    "('Open', 'DRREDDY.NS')":1144.5411843094,
+    "('Volume', 'DRREDDY.NS')":5423861
+  },
+  {
+    "('Date', '')":"2025-04-07",
+    "('Close', 'DRREDDY.NS')":1081.0439453125,
+    "('High', 'DRREDDY.NS')":1091.9248885519,
+    "('Low', 'DRREDDY.NS')":1013.5718351626,
+    "('Open', 'DRREDDY.NS')":1013.5718351626,
+    "('Volume', 'DRREDDY.NS')":3888037
+  },
+  {
+    "('Date', '')":"2025-04-08",
+    "('Close', 'DRREDDY.NS')":1100.9674072266,
+    "('High', 'DRREDDY.NS')":1106.6315573552,
+    "('Low', 'DRREDDY.NS')":1081.8387249547,
+    "('Open', 'DRREDDY.NS')":1093.0675583931,
+    "('Volume', 'DRREDDY.NS')":1577632
+  },
+  {
+    "('Date', '')":"2025-04-09",
+    "('Close', 'DRREDDY.NS')":1087.1551513672,
+    "('High', 'DRREDDY.NS')":1096.297122815,
+    "('Low', 'DRREDDY.NS')":1054.9593176538,
+    "('Open', 'DRREDDY.NS')":1087.602266867,
+    "('Volume', 'DRREDDY.NS')":5511474
+  },
+  {
+    "('Date', '')":"2025-04-11",
+    "('Close', 'DRREDDY.NS')":1102.5076904297,
+    "('High', 'DRREDDY.NS')":1132.7161272983,
+    "('Low', 'DRREDDY.NS')":1095.3033815017,
+    "('Open', 'DRREDDY.NS')":1132.7161272983,
+    "('Volume', 'DRREDDY.NS')":2740831
+  },
+  {
+    "('Date', '')":"2025-04-15",
+    "('Close', 'DRREDDY.NS')":1147.6215820312,
+    "('High', 'DRREDDY.NS')":1150.8013663837,
+    "('Low', 'DRREDDY.NS')":1121.8847854563,
+    "('Open', 'DRREDDY.NS')":1133.7098132125,
+    "('Volume', 'DRREDDY.NS')":2683350
+  },
+  {
+    "('Date', '')":"2025-04-16",
+    "('Close', 'DRREDDY.NS')":1151.099609375,
+    "('High', 'DRREDDY.NS')":1154.0807029138,
+    "('Low', 'DRREDDY.NS')":1136.4921782543,
+    "('Open', 'DRREDDY.NS')":1142.951214255,
+    "('Volume', 'DRREDDY.NS')":1451875
+  },
+  {
+    "('Date', '')":"2025-04-17",
+    "('Close', 'DRREDDY.NS')":1156.2667236328,
+    "('High', 'DRREDDY.NS')":1166.2037015281,
+    "('Low', 'DRREDDY.NS')":1142.8518034742,
+    "('Open', 'DRREDDY.NS')":1142.8518034742,
+    "('Volume', 'DRREDDY.NS')":2788024
+  },
+  {
+    "('Date', '')":"2025-04-21",
+    "('Close', 'DRREDDY.NS')":1169.9798583984,
+    "('High', 'DRREDDY.NS')":1172.2652906446,
+    "('Low', 'DRREDDY.NS')":1147.7210025732,
+    "('Open', 'DRREDDY.NS')":1156.0680886703,
+    "('Volume', 'DRREDDY.NS')":1938756
+  },
+  {
+    "('Date', '')":"2025-04-22",
+    "('Close', 'DRREDDY.NS')":1167.5949707031,
+    "('High', 'DRREDDY.NS')":1173.0603088639,
+    "('Low', 'DRREDDY.NS')":1154.9750565615,
+    "('Open', 'DRREDDY.NS')":1166.5019273312,
+    "('Volume', 'DRREDDY.NS')":1313400
+  },
+  {
+    "('Date', '')":"2025-04-23",
+    "('Close', 'DRREDDY.NS')":1178.5256347656,
+    "('High', 'DRREDDY.NS')":1184.289130741,
+    "('Low', 'DRREDDY.NS')":1168.4893108714,
+    "('Open', 'DRREDDY.NS')":1177.6312824521,
+    "('Volume', 'DRREDDY.NS')":3192132
+  },
+  {
+    "('Date', '')":"2025-04-24",
+    "('Close', 'DRREDDY.NS')":1192.9342041016,
+    "('High', 'DRREDDY.NS')":1202.3743331636,
+    "('Low', 'DRREDDY.NS')":1168.8867659587,
+    "('Open', 'DRREDDY.NS')":1171.5697014875,
+    "('Volume', 'DRREDDY.NS')":4819678
+  },
+  {
+    "('Date', '')":"2025-04-25",
+    "('Close', 'DRREDDY.NS')":1167.3962402344,
+    "('High', 'DRREDDY.NS')":1202.8712036685,
+    "('Low', 'DRREDDY.NS')":1152.3913062044,
+    "('Open', 'DRREDDY.NS')":1196.3128223573,
+    "('Volume', 'DRREDDY.NS')":1286573
+  },
+  {
+    "('Date', '')":"2025-04-28",
+    "('Close', 'DRREDDY.NS')":1191.1455078125,
+    "('High', 'DRREDDY.NS')":1197.4058524912,
+    "('Low', 'DRREDDY.NS')":1168.8867740684,
+    "('Open', 'DRREDDY.NS')":1168.8867740684,
+    "('Volume', 'DRREDDY.NS')":1236678
+  },
+  {
+    "('Date', '')":"2025-04-29",
+    "('Close', 'DRREDDY.NS')":1168.5886230469,
+    "('High', 'DRREDDY.NS')":1196.8096650745,
+    "('Low', 'DRREDDY.NS')":1161.6327383859,
+    "('Open', 'DRREDDY.NS')":1196.8096650745,
+    "('Volume', 'DRREDDY.NS')":1663018
+  },
+  {
+    "('Date', '')":"2025-04-30",
+    "('Close', 'DRREDDY.NS')":1176.4388427734,
+    "('High', 'DRREDDY.NS')":1189.0587562389,
+    "('Low', 'DRREDDY.NS')":1168.4892604201,
+    "('Open', 'DRREDDY.NS')":1168.7872969778,
+    "('Volume', 'DRREDDY.NS')":1604442
+  },
+  {
+    "('Date', '')":"2025-05-02",
+    "('Close', 'DRREDDY.NS')":1170.4766845703,
+    "('High', 'DRREDDY.NS')":1187.2702019617,
+    "('Low', 'DRREDDY.NS')":1164.0176487506,
+    "('Open', 'DRREDDY.NS')":1168.6879799768,
+    "('Volume', 'DRREDDY.NS')":910973
+  },
+  {
+    "('Date', '')":"2025-05-05",
+    "('Close', 'DRREDDY.NS')":1163.9183349609,
+    "('High', 'DRREDDY.NS')":1186.3758820092,
+    "('Low', 'DRREDDY.NS')":1147.224162636,
+    "('Open', 'DRREDDY.NS')":1181.2085804319,
+    "('Volume', 'DRREDDY.NS')":1893680
+  },
+  {
+    "('Date', '')":"2025-05-06",
+    "('Close', 'DRREDDY.NS')":1153.0870361328,
+    "('High', 'DRREDDY.NS')":1167.595000819,
+    "('Low', 'DRREDDY.NS')":1122.2824020687,
+    "('Open', 'DRREDDY.NS')":1164.812598254,
+    "('Volume', 'DRREDDY.NS')":1990745
+  },
+  {
+    "('Date', '')":"2025-05-07",
+    "('Close', 'DRREDDY.NS')":1153.3850097656,
+    "('High', 'DRREDDY.NS')":1157.2604555192,
+    "('Low', 'DRREDDY.NS')":1136.1941102809,
+    "('Open', 'DRREDDY.NS')":1136.1941102809,
+    "('Volume', 'DRREDDY.NS')":1421366
+  },
+  {
+    "('Date', '')":"2025-05-08",
+    "('Close', 'DRREDDY.NS')":1140.7651367188,
+    "('High', 'DRREDDY.NS')":1154.0807122264,
+    "('Low', 'DRREDDY.NS')":1134.802949593,
+    "('Open', 'DRREDDY.NS')":1145.4354681135,
+    "('Volume', 'DRREDDY.NS')":2616533
+  },
+  {
+    "('Date', '')":"2025-05-09",
+    "('Close', 'DRREDDY.NS')":1148.6153564453,
+    "('High', 'DRREDDY.NS')":1159.6453781988,
+    "('Low', 'DRREDDY.NS')":1131.3249897852,
+    "('Open', 'DRREDDY.NS')":1135.2997811415,
+    "('Volume', 'DRREDDY.NS')":1248574
+  },
+  {
+    "('Date', '')":"2025-05-12",
+    "('Close', 'DRREDDY.NS')":1188.0650634766,
+    "('High', 'DRREDDY.NS')":1196.4121492431,
+    "('Low', 'DRREDDY.NS')":1136.690935821,
+    "('Open', 'DRREDDY.NS')":1148.6153094015,
+    "('Volume', 'DRREDDY.NS')":5065176
+  },
+  {
+    "('Date', '')":"2025-05-13",
+    "('Close', 'DRREDDY.NS')":1199.4926757812,
+    "('High', 'DRREDDY.NS')":1233.1790578672,
+    "('Low', 'DRREDDY.NS')":1188.4626536737,
+    "('Open', 'DRREDDY.NS')":1188.4626536737,
+    "('Volume', 'DRREDDY.NS')":3134295
+  },
+  {
+    "('Date', '')":"2025-05-14",
+    "('Close', 'DRREDDY.NS')":1212.3114013672,
+    "('High', 'DRREDDY.NS')":1215.5906528585,
+    "('Low', 'DRREDDY.NS')":1185.6802499315,
+    "('Open', 'DRREDDY.NS')":1205.6536741588,
+    "('Volume', 'DRREDDY.NS')":1197152
+  },
+  {
+    "('Date', '')":"2025-05-15",
+    "('Close', 'DRREDDY.NS')":1228.5086669922,
+    "('High', 'DRREDDY.NS')":1231.9866093724,
+    "('Low', 'DRREDDY.NS')":1192.6360785441,
+    "('Open', 'DRREDDY.NS')":1206.3491570207,
+    "('Volume', 'DRREDDY.NS')":2053553
+  },
+  {
+    "('Date', '')":"2025-05-16",
+    "('Close', 'DRREDDY.NS')":1222.9438476562,
+    "('High', 'DRREDDY.NS')":1231.0922424882,
+    "('Low', 'DRREDDY.NS')":1213.3050274085,
+    "('Open', 'DRREDDY.NS')":1231.0922424882,
+    "('Volume', 'DRREDDY.NS')":882873
+  },
+  {
+    "('Date', '')":"2025-05-19",
+    "('Close', 'DRREDDY.NS')":1211.3176269531,
+    "('High', 'DRREDDY.NS')":1233.9739854772,
+    "('Low', 'DRREDDY.NS')":1206.5478289583,
+    "('Open', 'DRREDDY.NS')":1220.5590650803,
+    "('Volume', 'DRREDDY.NS')":2235758
+  },
+  {
+    "('Date', '')":"2025-05-20",
+    "('Close', 'DRREDDY.NS')":1216.4848632812,
+    "('High', 'DRREDDY.NS')":1226.6206541638,
+    "('Low', 'DRREDDY.NS')":1208.9327838577,
+    "('Open', 'DRREDDY.NS')":1214.2987765248,
+    "('Volume', 'DRREDDY.NS')":1385750
+  },
+  {
+    "('Date', '')":"2025-05-21",
+    "('Close', 'DRREDDY.NS')":1216.9816894531,
+    "('High', 'DRREDDY.NS')":1248.6806746355,
+    "('Low', 'DRREDDY.NS')":1212.4107036744,
+    "('Open', 'DRREDDY.NS')":1217.3791928471,
+    "('Volume', 'DRREDDY.NS')":2615092
+  },
+  {
+    "('Date', '')":"2025-05-22",
+    "('Close', 'DRREDDY.NS')":1214.4974365234,
+    "('High', 'DRREDDY.NS')":1222.0496370549,
+    "('Low', 'DRREDDY.NS')":1203.7655727646,
+    "('Open', 'DRREDDY.NS')":1216.9816810927,
+    "('Volume', 'DRREDDY.NS')":2260610
+  },
+  {
+    "('Date', '')":"2025-05-23",
+    "('Close', 'DRREDDY.NS')":1222.34765625,
+    "('High', 'DRREDDY.NS')":1227.1174542757,
+    "('Low', 'DRREDDY.NS')":1208.3365413384,
+    "('Open', 'DRREDDY.NS')":1220.2609151016,
+    "('Volume', 'DRREDDY.NS')":734297
+  },
+  {
+    "('Date', '')":"2025-05-26",
+    "('Close', 'DRREDDY.NS')":1233.0797119141,
+    "('High', 'DRREDDY.NS')":1240.0355970084,
+    "('Low', 'DRREDDY.NS')":1220.9565251119,
+    "('Open', 'DRREDDY.NS')":1222.1490353372,
+    "('Volume', 'DRREDDY.NS')":985434
+  },
+  {
+    "('Date', '')":"2025-05-27",
+    "('Close', 'DRREDDY.NS')":1235.3651123047,
+    "('High', 'DRREDDY.NS')":1241.1286083257,
+    "('Low', 'DRREDDY.NS')":1229.5023920604,
+    "('Open', 'DRREDDY.NS')":1236.0607735767,
+    "('Volume', 'DRREDDY.NS')":1145000
+  },
+  {
+    "('Date', '')":"2025-05-28",
+    "('Close', 'DRREDDY.NS')":1234.7689208984,
+    "('High', 'DRREDDY.NS')":1244.3083959731,
+    "('Low', 'DRREDDY.NS')":1229.2042372133,
+    "('Open', 'DRREDDY.NS')":1239.9362224854,
+    "('Volume', 'DRREDDY.NS')":766968
+  },
+  {
+    "('Date', '')":"2025-05-29",
+    "('Close', 'DRREDDY.NS')":1240.3336181641,
+    "('High', 'DRREDDY.NS')":1245.5009198076,
+    "('Low', 'DRREDDY.NS')":1232.5828476502,
+    "('Open', 'DRREDDY.NS')":1237.5513369415,
+    "('Volume', 'DRREDDY.NS')":1791885
+  },
+  {
+    "('Date', '')":"2025-05-30",
+    "('Close', 'DRREDDY.NS')":1243.3146972656,
+    "('High', 'DRREDDY.NS')":1249.6743877447,
+    "('Low', 'DRREDDY.NS')":1233.1790277497,
+    "('Open', 'DRREDDY.NS')":1240.3336037255,
+    "('Volume', 'DRREDDY.NS')":3161983
+  },
+  {
+    "('Date', '')":"2025-06-02",
+    "('Close', 'DRREDDY.NS')":1239.8366699219,
+    "('High', 'DRREDDY.NS')":1243.6127700012,
+    "('Low', 'DRREDDY.NS')":1224.7325122065,
+    "('Open', 'DRREDDY.NS')":1243.1159211119,
+    "('Volume', 'DRREDDY.NS')":1139977
+  },
+  {
+    "('Date', '')":"2025-06-03",
+    "('Close', 'DRREDDY.NS')":1240.4329833984,
+    "('High', 'DRREDDY.NS')":1245.5008178003,
+    "('Low', 'DRREDDY.NS')":1232.9802500718,
+    "('Open', 'DRREDDY.NS')":1242.1222210987,
+    "('Volume', 'DRREDDY.NS')":811620
+  },
+  {
+    "('Date', '')":"2025-06-04",
+    "('Close', 'DRREDDY.NS')":1244.0103759766,
+    "('High', 'DRREDDY.NS')":1258.0214915512,
+    "('Low', 'DRREDDY.NS')":1238.4456922173,
+    "('Open', 'DRREDDY.NS')":1240.4330879385,
+    "('Volume', 'DRREDDY.NS')":1387633
+  },
+  {
+    "('Date', '')":"2025-06-05",
+    "('Close', 'DRREDDY.NS')":1282.4664306641,
+    "('High', 'DRREDDY.NS')":1295.1858117608,
+    "('Low', 'DRREDDY.NS')":1256.2327829651,
+    "('Open', 'DRREDDY.NS')":1256.2327829651,
+    "('Volume', 'DRREDDY.NS')":3834672
+  },
+  {
+    "('Date', '')":"2025-06-06",
+    "('Close', 'DRREDDY.NS')":1312.5754394531,
+    "('High', 'DRREDDY.NS')":1314.5628350398,
+    "('Low', 'DRREDDY.NS')":1286.838642346,
+    "('Open', 'DRREDDY.NS')":1286.9379878651,
+    "('Volume', 'DRREDDY.NS')":2158757
+  },
+  {
+    "('Date', '')":"2025-06-09",
+    "('Close', 'DRREDDY.NS')":1310.7867431641,
+    "('High', 'DRREDDY.NS')":1320.6243756401,
+    "('Low', 'DRREDDY.NS')":1300.3529162685,
+    "('Open', 'DRREDDY.NS')":1319.034483421,
+    "('Volume', 'DRREDDY.NS')":1227356
+  },
+  {
+    "('Date', '')":"2025-06-10",
+    "('Close', 'DRREDDY.NS')":1340.2996826172,
+    "('High', 'DRREDDY.NS')":1354.0126399007,
+    "('Low', 'DRREDDY.NS')":1312.6748344023,
+    "('Open', 'DRREDDY.NS')":1312.6748344023,
+    "('Volume', 'DRREDDY.NS')":3022355
+  },
+  {
+    "('Date', '')":"2025-06-11",
+    "('Close', 'DRREDDY.NS')":1342.5850830078,
+    "('High', 'DRREDDY.NS')":1346.858032099,
+    "('Low', 'DRREDDY.NS')":1331.7537526495,
+    "('Open', 'DRREDDY.NS')":1341.4920396801,
+    "('Volume', 'DRREDDY.NS')":1094247
+  },
+  {
+    "('Date', '')":"2025-06-12",
+    "('Close', 'DRREDDY.NS')":1354.1119384766,
+    "('High', 'DRREDDY.NS')":1371.0048010134,
+    "('Low', 'DRREDDY.NS')":1335.0329893083,
+    "('Open', 'DRREDDY.NS')":1351.429002947,
+    "('Volume', 'DRREDDY.NS')":2625058
+  },
+  {
+    "('Date', '')":"2025-06-13",
+    "('Close', 'DRREDDY.NS')":1353.9133300781,
+    "('High', 'DRREDDY.NS')":1358.1862793834,
+    "('Low', 'DRREDDY.NS')":1336.5236175817,
+    "('Open', 'DRREDDY.NS')":1346.4605961511,
+    "('Volume', 'DRREDDY.NS')":1419556
+  },
+  {
+    "('Date', '')":"2025-06-16",
+    "('Close', 'DRREDDY.NS')":1338.3122558594,
+    "('High', 'DRREDDY.NS')":1351.2303273588,
+    "('Low', 'DRREDDY.NS')":1333.7411489034,
+    "('Open', 'DRREDDY.NS')":1351.2303273588,
+    "('Volume', 'DRREDDY.NS')":1294663
+  },
+  {
+    "('Date', '')":"2025-06-17",
+    "('Close', 'DRREDDY.NS')":1310.4887695312,
+    "('High', 'DRREDDY.NS')":1341.1939359718,
+    "('Low', 'DRREDDY.NS')":1294.3907916245,
+    "('Open', 'DRREDDY.NS')":1339.8028560264,
+    "('Volume', 'DRREDDY.NS')":1649457
+  },
+  {
+    "('Date', '')":"2025-06-18",
+    "('Close', 'DRREDDY.NS')":1305.0234375,
+    "('High', 'DRREDDY.NS')":1316.4509627975,
+    "('Low', 'DRREDDY.NS')":1300.5517971662,
+    "('Open', 'DRREDDY.NS')":1302.8372294451,
+    "('Volume', 'DRREDDY.NS')":728945
+  },
+  {
+    "('Date', '')":"2025-06-19",
+    "('Close', 'DRREDDY.NS')":1317.7426757812,
+    "('High', 'DRREDDY.NS')":1323.6055172726,
+    "('Low', 'DRREDDY.NS')":1296.0801357416,
+    "('Open', 'DRREDDY.NS')":1296.7756757063,
+    "('Volume', 'DRREDDY.NS')":1654212
+  },
+  {
+    "('Date', '')":"2025-06-20",
+    "('Close', 'DRREDDY.NS')":1316.9477539062,
+    "('High', 'DRREDDY.NS')":1326.5865741267,
+    "('Low', 'DRREDDY.NS')":1309.8924024263,
+    "('Open', 'DRREDDY.NS')":1324.0029840852,
+    "('Volume', 'DRREDDY.NS')":1843895
+  },
+  {
+    "('Date', '')":"2025-06-23",
+    "('Close', 'DRREDDY.NS')":1309.5943603516,
+    "('High', 'DRREDDY.NS')":1314.6621948925,
+    "('Low', 'DRREDDY.NS')":1293.8938865256,
+    "('Open', 'DRREDDY.NS')":1310.5880581557,
+    "('Volume', 'DRREDDY.NS')":843945
+  },
+  {
+    "('Date', '')":"2025-06-24",
+    "('Close', 'DRREDDY.NS')":1328.8721923828,
+    "('High', 'DRREDDY.NS')":1345.1687401931,
+    "('Low', 'DRREDDY.NS')":1300.8498400412,
+    "('Open', 'DRREDDY.NS')":1309.5944297012,
+    "('Volume', 'DRREDDY.NS')":1011128
+  },
+  {
+    "('Date', '')":"2025-06-25",
+    "('Close', 'DRREDDY.NS')":1333.1450195312,
+    "('High', 'DRREDDY.NS')":1339.802867948,
+    "('Low', 'DRREDDY.NS')":1327.5803357971,
+    "('Open', 'DRREDDY.NS')":1339.802867948,
+    "('Volume', 'DRREDDY.NS')":833145
+  },
+  {
+    "('Date', '')":"2025-06-26",
+    "('Close', 'DRREDDY.NS')":1313.1716308594,
+    "('High', 'DRREDDY.NS')":1325.2946953897,
+    "('Low', 'DRREDDY.NS')":1306.315091841,
+    "('Open', 'DRREDDY.NS')":1317.6432709191,
+    "('Volume', 'DRREDDY.NS')":2373431
+  },
+  {
+    "('Date', '')":"2025-06-27",
+    "('Close', 'DRREDDY.NS')":1292.8009033203,
+    "('High', 'DRREDDY.NS')":1323.2080332812,
+    "('Low', 'DRREDDY.NS')":1290.2173131696,
+    "('Open', 'DRREDDY.NS')":1320.5250976056,
+    "('Volume', 'DRREDDY.NS')":1770595
+  },
+  {
+    "('Date', '')":"2025-06-30",
+    "('Close', 'DRREDDY.NS')":1275.2125244141,
+    "('High', 'DRREDDY.NS')":1296.7757196612,
+    "('Low', 'DRREDDY.NS')":1264.4805389034,
+    "('Open', 'DRREDDY.NS')":1294.6889783955,
+    "('Volume', 'DRREDDY.NS')":2224279
+  },
+  {
+    "('Date', '')":"2025-07-01",
+    "('Close', 'DRREDDY.NS')":1268.7534179688,
+    "('High', 'DRREDDY.NS')":1286.7393241495,
+    "('Low', 'DRREDDY.NS')":1265.2754756183,
+    "('Open', 'DRREDDY.NS')":1278.1935472057,
+    "('Volume', 'DRREDDY.NS')":1851442
+  },
+  {
+    "('Date', '')":"2025-07-02",
+    "('Close', 'DRREDDY.NS')":1262.7912597656,
+    "('High', 'DRREDDY.NS')":1272.827583659,
+    "('Low', 'DRREDDY.NS')":1255.7359080822,
+    "('Open', 'DRREDDY.NS')":1267.9584399976,
+    "('Volume', 'DRREDDY.NS')":2027306
+  },
+  {
+    "('Date', '')":"2025-07-03",
+    "('Close', 'DRREDDY.NS')":1283.1619873047,
+    "('High', 'DRREDDY.NS')":1289.422210516,
+    "('Low', 'DRREDDY.NS')":1261.996176145,
+    "('Open', 'DRREDDY.NS')":1266.86531951,
+    "('Volume', 'DRREDDY.NS')":1918977
+  },
+  {
+    "('Date', '')":"2025-07-04",
+    "('Close', 'DRREDDY.NS')":1299.1605224609,
+    "('High', 'DRREDDY.NS')":1304.7252058571,
+    "('Low', 'DRREDDY.NS')":1279.0877542056,
+    "('Open', 'DRREDDY.NS')":1294.7882278993,
+    "('Volume', 'DRREDDY.NS')":1466009
+  },
+  {
+    "('Date', '')":"2025-07-07",
+    "('Close', 'DRREDDY.NS')":1302.2409667969,
+    "('High', 'DRREDDY.NS')":1305.1227146768,
+    "('Low', 'DRREDDY.NS')":1289.9190898177,
+    "('Open', 'DRREDDY.NS')":1299.6573767773,
+    "('Volume', 'DRREDDY.NS')":569025
+  },
+  {
+    "('Date', '')":"2025-07-08",
+    "('Close', 'DRREDDY.NS')":1275.7093505859,
+    "('High', 'DRREDDY.NS')":1302.0423436571,
+    "('Low', 'DRREDDY.NS')":1265.5735597176,
+    "('Open', 'DRREDDY.NS')":1302.0423436571,
+    "('Volume', 'DRREDDY.NS')":1602620
+  },
+  {
+    "('Date', '')":"2025-07-09",
+    "('Close', 'DRREDDY.NS')":1261.4000244141,
+    "('High', 'DRREDDY.NS')":1277.5972259383,
+    "('Low', 'DRREDDY.NS')":1258.9157798888,
+    "('Open', 'DRREDDY.NS')":1271.933196941,
+    "('Volume', 'DRREDDY.NS')":1494337
+  },
+  {
+    "('Date', '')":"2025-07-10",
+    "('Close', 'DRREDDY.NS')":1262.5999755859,
+    "('High', 'DRREDDY.NS')":1269.9000244141,
+    "('Low', 'DRREDDY.NS')":1252.0999755859,
+    "('Open', 'DRREDDY.NS')":1262.9000244141,
+    "('Volume', 'DRREDDY.NS')":1246082
+  },
+  {
+    "('Date', '')":"2025-07-11",
+    "('Close', 'DRREDDY.NS')":1254.6999511719,
+    "('High', 'DRREDDY.NS')":1272.0,
+    "('Low', 'DRREDDY.NS')":1251.3000488281,
+    "('Open', 'DRREDDY.NS')":1263.0,
+    "('Volume', 'DRREDDY.NS')":895466
+  },
+  {
+    "('Date', '')":"2025-07-14",
+    "('Close', 'DRREDDY.NS')":1250.5999755859,
+    "('High', 'DRREDDY.NS')":1261.4000244141,
+    "('Low', 'DRREDDY.NS')":1245.3000488281,
+    "('Open', 'DRREDDY.NS')":1254.6999511719,
+    "('Volume', 'DRREDDY.NS')":1035555
+  },
+  {
+    "('Date', '')":"2025-07-15",
+    "('Close', 'DRREDDY.NS')":1260.9000244141,
+    "('High', 'DRREDDY.NS')":1264.5,
+    "('Low', 'DRREDDY.NS')":1241.0,
+    "('Open', 'DRREDDY.NS')":1254.8000488281,
+    "('Volume', 'DRREDDY.NS')":1183659
+  },
+  {
+    "('Date', '')":"2025-07-16",
+    "('Close', 'DRREDDY.NS')":1259.4000244141,
+    "('High', 'DRREDDY.NS')":1262.0,
+    "('Low', 'DRREDDY.NS')":1250.0,
+    "('Open', 'DRREDDY.NS')":1260.9000244141,
+    "('Volume', 'DRREDDY.NS')":1159859
+  },
+  {
+    "('Date', '')":"2025-07-17",
+    "('Close', 'DRREDDY.NS')":1263.0999755859,
+    "('High', 'DRREDDY.NS')":1274.8000488281,
+    "('Low', 'DRREDDY.NS')":1255.5,
+    "('Open', 'DRREDDY.NS')":1259.4000244141,
+    "('Volume', 'DRREDDY.NS')":709420
+  },
+  {
+    "('Date', '')":"2025-07-18",
+    "('Close', 'DRREDDY.NS')":1257.5,
+    "('High', 'DRREDDY.NS')":1270.5999755859,
+    "('Low', 'DRREDDY.NS')":1251.0999755859,
+    "('Open', 'DRREDDY.NS')":1265.0,
+    "('Volume', 'DRREDDY.NS')":690731
+  },
+  {
+    "('Date', '')":"2025-07-21",
+    "('Close', 'DRREDDY.NS')":1259.3000488281,
+    "('High', 'DRREDDY.NS')":1262.4000244141,
+    "('Low', 'DRREDDY.NS')":1245.1999511719,
+    "('Open', 'DRREDDY.NS')":1250.1999511719,
+    "('Volume', 'DRREDDY.NS')":1065189
+  },
+  {
+    "('Date', '')":"2025-07-22",
+    "('Close', 'DRREDDY.NS')":1240.0,
+    "('High', 'DRREDDY.NS')":1263.5999755859,
+    "('Low', 'DRREDDY.NS')":1236.0,
+    "('Open', 'DRREDDY.NS')":1261.0,
+    "('Volume', 'DRREDDY.NS')":1304352
+  },
+  {
+    "('Date', '')":"2025-07-23",
+    "('Close', 'DRREDDY.NS')":1247.4000244141,
+    "('High', 'DRREDDY.NS')":1252.0999755859,
+    "('Low', 'DRREDDY.NS')":1231.0,
+    "('Open', 'DRREDDY.NS')":1240.1999511719,
+    "('Volume', 'DRREDDY.NS')":1088262
+  },
+  {
+    "('Date', '')":"2025-07-24",
+    "('Close', 'DRREDDY.NS')":1265.5,
+    "('High', 'DRREDDY.NS')":1287.9000244141,
+    "('Low', 'DRREDDY.NS')":1256.0999755859,
+    "('Open', 'DRREDDY.NS')":1261.0999755859,
+    "('Volume', 'DRREDDY.NS')":3809212
+  },
+  {
+    "('Date', '')":"2025-07-25",
+    "('Close', 'DRREDDY.NS')":1277.9000244141,
+    "('High', 'DRREDDY.NS')":1288.5,
+    "('Low', 'DRREDDY.NS')":1261.1999511719,
+    "('Open', 'DRREDDY.NS')":1266.0,
+    "('Volume', 'DRREDDY.NS')":1621138
+  },
+  {
+    "('Date', '')":"2025-07-28",
+    "('Close', 'DRREDDY.NS')":1287.4000244141,
+    "('High', 'DRREDDY.NS')":1290.0,
+    "('Low', 'DRREDDY.NS')":1271.5999755859,
+    "('Open', 'DRREDDY.NS')":1280.0,
+    "('Volume', 'DRREDDY.NS')":1553778
+  },
+  {
+    "('Date', '')":"2025-07-29",
+    "('Close', 'DRREDDY.NS')":1299.8000488281,
+    "('High', 'DRREDDY.NS')":1302.0,
+    "('Low', 'DRREDDY.NS')":1282.8000488281,
+    "('Open', 'DRREDDY.NS')":1287.0,
+    "('Volume', 'DRREDDY.NS')":1943466
+  },
+  {
+    "('Date', '')":"2025-07-30",
+    "('Close', 'DRREDDY.NS')":1292.0999755859,
+    "('High', 'DRREDDY.NS')":1298.0999755859,
+    "('Low', 'DRREDDY.NS')":1277.6999511719,
+    "('Open', 'DRREDDY.NS')":1298.0999755859,
+    "('Volume', 'DRREDDY.NS')":1387013
+  },
+  {
+    "('Date', '')":"2025-07-31",
+    "('Close', 'DRREDDY.NS')":1270.3000488281,
+    "('High', 'DRREDDY.NS')":1285.0,
+    "('Low', 'DRREDDY.NS')":1257.0,
+    "('Open', 'DRREDDY.NS')":1274.5,
+    "('Volume', 'DRREDDY.NS')":1968821
+  },
+  {
+    "('Date', '')":"2025-08-01",
+    "('Close', 'DRREDDY.NS')":1220.5999755859,
+    "('High', 'DRREDDY.NS')":1259.0,
+    "('Low', 'DRREDDY.NS')":1213.6999511719,
+    "('Open', 'DRREDDY.NS')":1258.0,
+    "('Volume', 'DRREDDY.NS')":2525210
+  },
+  {
+    "('Date', '')":"2025-08-04",
+    "('Close', 'DRREDDY.NS')":1225.0,
+    "('High', 'DRREDDY.NS')":1232.1999511719,
+    "('Low', 'DRREDDY.NS')":1219.1999511719,
+    "('Open', 'DRREDDY.NS')":1225.0999755859,
+    "('Volume', 'DRREDDY.NS')":767310
+  },
+  {
+    "('Date', '')":"2025-08-05",
+    "('Close', 'DRREDDY.NS')":1214.8000488281,
+    "('High', 'DRREDDY.NS')":1232.0,
+    "('Low', 'DRREDDY.NS')":1205.0,
+    "('Open', 'DRREDDY.NS')":1225.0,
+    "('Volume', 'DRREDDY.NS')":956582
+  },
+  {
+    "('Date', '')":"2025-08-06",
+    "('Close', 'DRREDDY.NS')":1196.6999511719,
+    "('High', 'DRREDDY.NS')":1217.8000488281,
+    "('Low', 'DRREDDY.NS')":1187.5,
+    "('Open', 'DRREDDY.NS')":1214.8000488281,
+    "('Volume', 'DRREDDY.NS')":1701845
+  },
+  {
+    "('Date', '')":"2025-08-07",
+    "('Close', 'DRREDDY.NS')":1200.8000488281,
+    "('High', 'DRREDDY.NS')":1210.0,
+    "('Low', 'DRREDDY.NS')":1183.4000244141,
+    "('Open', 'DRREDDY.NS')":1184.0,
+    "('Volume', 'DRREDDY.NS')":1246560
+  },
+  {
+    "('Date', '')":"2025-08-08",
+    "('Close', 'DRREDDY.NS')":1211.4000244141,
+    "('High', 'DRREDDY.NS')":1215.0,
+    "('Low', 'DRREDDY.NS')":1195.4000244141,
+    "('Open', 'DRREDDY.NS')":1200.8000488281,
+    "('Volume', 'DRREDDY.NS')":2389106
+  },
+  {
+    "('Date', '')":"2025-08-11",
+    "('Close', 'DRREDDY.NS')":1219.5,
+    "('High', 'DRREDDY.NS')":1237.0,
+    "('Low', 'DRREDDY.NS')":1208.5999755859,
+    "('Open', 'DRREDDY.NS')":1212.5,
+    "('Volume', 'DRREDDY.NS')":1246374
+  },
+  {
+    "('Date', '')":"2025-08-12",
+    "('Close', 'DRREDDY.NS')":1220.3000488281,
+    "('High', 'DRREDDY.NS')":1227.1999511719,
+    "('Low', 'DRREDDY.NS')":1204.0999755859,
+    "('Open', 'DRREDDY.NS')":1210.0,
+    "('Volume', 'DRREDDY.NS')":922461
+  },
+  {
+    "('Date', '')":"2025-08-13",
+    "('Close', 'DRREDDY.NS')":1253.4000244141,
+    "('High', 'DRREDDY.NS')":1255.5,
+    "('Low', 'DRREDDY.NS')":1219.8000488281,
+    "('Open', 'DRREDDY.NS')":1220.3000488281,
+    "('Volume', 'DRREDDY.NS')":1192506
+  },
+  {
+    "('Date', '')":"2025-08-14",
+    "('Close', 'DRREDDY.NS')":1260.4000244141,
+    "('High', 'DRREDDY.NS')":1266.0,
+    "('Low', 'DRREDDY.NS')":1250.1999511719,
+    "('Open', 'DRREDDY.NS')":1255.0999755859,
+    "('Volume', 'DRREDDY.NS')":1603933
+  },
+  {
+    "('Date', '')":"2025-08-18",
+    "('Close', 'DRREDDY.NS')":1262.6999511719,
+    "('High', 'DRREDDY.NS')":1270.5999755859,
+    "('Low', 'DRREDDY.NS')":1241.0999755859,
+    "('Open', 'DRREDDY.NS')":1270.0,
+    "('Volume', 'DRREDDY.NS')":1648543
+  },
+  {
+    "('Date', '')":"2025-08-19",
+    "('Close', 'DRREDDY.NS')":1244.1999511719,
+    "('High', 'DRREDDY.NS')":1263.8000488281,
+    "('Low', 'DRREDDY.NS')":1241.9000244141,
+    "('Open', 'DRREDDY.NS')":1263.0,
+    "('Volume', 'DRREDDY.NS')":1061816
+  },
+  {
+    "('Date', '')":"2025-08-20",
+    "('Close', 'DRREDDY.NS')":1245.4000244141,
+    "('High', 'DRREDDY.NS')":1250.6999511719,
+    "('Low', 'DRREDDY.NS')":1238.0,
+    "('Open', 'DRREDDY.NS')":1244.0,
+    "('Volume', 'DRREDDY.NS')":685379
+  },
+  {
+    "('Date', '')":"2025-08-21",
+    "('Close', 'DRREDDY.NS')":1276.5999755859,
+    "('High', 'DRREDDY.NS')":1281.8000488281,
+    "('Low', 'DRREDDY.NS')":1240.3000488281,
+    "('Open', 'DRREDDY.NS')":1245.4000244141,
+    "('Volume', 'DRREDDY.NS')":2008295
+  },
+  {
+    "('Date', '')":"2025-08-22",
+    "('Close', 'DRREDDY.NS')":1277.5999755859,
+    "('High', 'DRREDDY.NS')":1284.0999755859,
+    "('Low', 'DRREDDY.NS')":1265.5999755859,
+    "('Open', 'DRREDDY.NS')":1274.0999755859,
+    "('Volume', 'DRREDDY.NS')":1229920
+  },
+  {
+    "('Date', '')":"2025-08-25",
+    "('Close', 'DRREDDY.NS')":1283.9000244141,
+    "('High', 'DRREDDY.NS')":1288.9000244141,
+    "('Low', 'DRREDDY.NS')":1275.3000488281,
+    "('Open', 'DRREDDY.NS')":1277.6999511719,
+    "('Volume', 'DRREDDY.NS')":967056
+  },
+  {
+    "('Date', '')":"2025-08-26",
+    "('Close', 'DRREDDY.NS')":1263.1999511719,
+    "('High', 'DRREDDY.NS')":1279.5999755859,
+    "('Low', 'DRREDDY.NS')":1259.0,
+    "('Open', 'DRREDDY.NS')":1276.0,
+    "('Volume', 'DRREDDY.NS')":2798216
+  },
+  {
+    "('Date', '')":"2025-08-28",
+    "('Close', 'DRREDDY.NS')":1259.8000488281,
+    "('High', 'DRREDDY.NS')":1267.4000244141,
+    "('Low', 'DRREDDY.NS')":1248.5,
+    "('Open', 'DRREDDY.NS')":1263.1999511719,
+    "('Volume', 'DRREDDY.NS')":1827890
+  },
+  {
+    "('Date', '')":"2025-08-29",
+    "('Close', 'DRREDDY.NS')":1260.0999755859,
+    "('High', 'DRREDDY.NS')":1266.4000244141,
+    "('Low', 'DRREDDY.NS')":1240.8000488281,
+    "('Open', 'DRREDDY.NS')":1259.0,
+    "('Volume', 'DRREDDY.NS')":2422956
+  },
+  {
+    "('Date', '')":"2025-09-01",
+    "('Close', 'DRREDDY.NS')":1279.9000244141,
+    "('High', 'DRREDDY.NS')":1285.0,
+    "('Low', 'DRREDDY.NS')":1260.0999755859,
+    "('Open', 'DRREDDY.NS')":1260.0999755859,
+    "('Volume', 'DRREDDY.NS')":1273903
+  },
+  {
+    "('Date', '')":"2025-09-02",
+    "('Close', 'DRREDDY.NS')":1253.6999511719,
+    "('High', 'DRREDDY.NS')":1283.4000244141,
+    "('Low', 'DRREDDY.NS')":1248.0,
+    "('Open', 'DRREDDY.NS')":1279.9000244141,
+    "('Volume', 'DRREDDY.NS')":1632660
+  },
+  {
+    "('Date', '')":"2025-09-03",
+    "('Close', 'DRREDDY.NS')":1262.1999511719,
+    "('High', 'DRREDDY.NS')":1265.9000244141,
+    "('Low', 'DRREDDY.NS')":1247.5999755859,
+    "('Open', 'DRREDDY.NS')":1250.0,
+    "('Volume', 'DRREDDY.NS')":1294925
+  },
+  {
+    "('Date', '')":"2025-09-04",
+    "('Close', 'DRREDDY.NS')":1253.0,
+    "('High', 'DRREDDY.NS')":1274.6999511719,
+    "('Low', 'DRREDDY.NS')":1249.0,
+    "('Open', 'DRREDDY.NS')":1268.0,
+    "('Volume', 'DRREDDY.NS')":1230934
+  },
+  {
+    "('Date', '')":"2025-09-05",
+    "('Close', 'DRREDDY.NS')":1268.0999755859,
+    "('High', 'DRREDDY.NS')":1271.6999511719,
+    "('Low', 'DRREDDY.NS')":1253.5999755859,
+    "('Open', 'DRREDDY.NS')":1254.3000488281,
+    "('Volume', 'DRREDDY.NS')":769861
+  },
+  {
+    "('Date', '')":"2025-09-08",
+    "('Close', 'DRREDDY.NS')":1250.5999755859,
+    "('High', 'DRREDDY.NS')":1277.0,
+    "('Low', 'DRREDDY.NS')":1248.6999511719,
+    "('Open', 'DRREDDY.NS')":1269.0,
+    "('Volume', 'DRREDDY.NS')":969297
+  },
+  {
+    "('Date', '')":"2025-09-09",
+    "('Close', 'DRREDDY.NS')":1291.3000488281,
+    "('High', 'DRREDDY.NS')":1295.8000488281,
+    "('Low', 'DRREDDY.NS')":1256.8000488281,
+    "('Open', 'DRREDDY.NS')":1257.5,
+    "('Volume', 'DRREDDY.NS')":1643726
+  },
+  {
+    "('Date', '')":"2025-09-10",
+    "('Close', 'DRREDDY.NS')":1304.1999511719,
+    "('High', 'DRREDDY.NS')":1310.0,
+    "('Low', 'DRREDDY.NS')":1293.6999511719,
+    "('Open', 'DRREDDY.NS')":1294.4000244141,
+    "('Volume', 'DRREDDY.NS')":1232984
+  },
+  {
+    "('Date', '')":"2025-09-11",
+    "('Close', 'DRREDDY.NS')":1303.0999755859,
+    "('High', 'DRREDDY.NS')":1311.0,
+    "('Low', 'DRREDDY.NS')":1283.0,
+    "('Open', 'DRREDDY.NS')":1304.0,
+    "('Volume', 'DRREDDY.NS')":1349391
+  },
+  {
+    "('Date', '')":"2025-09-12",
+    "('Close', 'DRREDDY.NS')":1316.6999511719,
+    "('High', 'DRREDDY.NS')":1321.0,
+    "('Low', 'DRREDDY.NS')":1302.8000488281,
+    "('Open', 'DRREDDY.NS')":1303.0999755859,
+    "('Volume', 'DRREDDY.NS')":1042942
+  },
+  {
+    "('Date', '')":"2025-09-15",
+    "('Close', 'DRREDDY.NS')":1300.8000488281,
+    "('High', 'DRREDDY.NS')":1311.8000488281,
+    "('Low', 'DRREDDY.NS')":1292.5,
+    "('Open', 'DRREDDY.NS')":1308.9000244141,
+    "('Volume', 'DRREDDY.NS')":1331182
+  },
+  {
+    "('Date', '')":"2025-09-16",
+    "('Close', 'DRREDDY.NS')":1310.4000244141,
+    "('High', 'DRREDDY.NS')":1312.5,
+    "('Low', 'DRREDDY.NS')":1296.4000244141,
+    "('Open', 'DRREDDY.NS')":1300.0,
+    "('Volume', 'DRREDDY.NS')":1034369
+  },
+  {
+    "('Date', '')":"2025-09-17",
+    "('Close', 'DRREDDY.NS')":1311.4000244141,
+    "('High', 'DRREDDY.NS')":1318.1999511719,
+    "('Low', 'DRREDDY.NS')":1305.1999511719,
+    "('Open', 'DRREDDY.NS')":1317.0,
+    "('Volume', 'DRREDDY.NS')":716840
+  },
+  {
+    "('Date', '')":"2025-09-18",
+    "('Close', 'DRREDDY.NS')":1322.6999511719,
+    "('High', 'DRREDDY.NS')":1325.8000488281,
+    "('Low', 'DRREDDY.NS')":1305.6999511719,
+    "('Open', 'DRREDDY.NS')":1312.0999755859,
+    "('Volume', 'DRREDDY.NS')":822010
+  },
+  {
+    "('Date', '')":"2025-09-19",
+    "('Close', 'DRREDDY.NS')":1321.6999511719,
+    "('High', 'DRREDDY.NS')":1326.8000488281,
+    "('Low', 'DRREDDY.NS')":1312.0,
+    "('Open', 'DRREDDY.NS')":1324.6999511719,
+    "('Volume', 'DRREDDY.NS')":1409571
+  },
+  {
+    "('Date', '')":"2025-09-22",
+    "('Close', 'DRREDDY.NS')":1301.4000244141,
+    "('High', 'DRREDDY.NS')":1320.9000244141,
+    "('Low', 'DRREDDY.NS')":1293.5,
+    "('Open', 'DRREDDY.NS')":1320.9000244141,
+    "('Volume', 'DRREDDY.NS')":1399531
+  },
+  {
+    "('Date', '')":"2025-09-23",
+    "('Close', 'DRREDDY.NS')":1308.4000244141,
+    "('High', 'DRREDDY.NS')":1311.9000244141,
+    "('Low', 'DRREDDY.NS')":1295.1999511719,
+    "('Open', 'DRREDDY.NS')":1300.0,
+    "('Volume', 'DRREDDY.NS')":1271238
+  },
+  {
+    "('Date', '')":"2025-09-24",
+    "('Close', 'DRREDDY.NS')":1298.0999755859,
+    "('High', 'DRREDDY.NS')":1308.3000488281,
+    "('Low', 'DRREDDY.NS')":1294.4000244141,
+    "('Open', 'DRREDDY.NS')":1303.3000488281,
+    "('Volume', 'DRREDDY.NS')":750456
+  },
+  {
+    "('Date', '')":"2025-09-25",
+    "('Close', 'DRREDDY.NS')":1275.1999511719,
+    "('High', 'DRREDDY.NS')":1307.3000488281,
+    "('Low', 'DRREDDY.NS')":1268.0,
+    "('Open', 'DRREDDY.NS')":1298.3000488281,
+    "('Volume', 'DRREDDY.NS')":1241492
+  },
+  {
+    "('Date', '')":"2025-09-26",
+    "('Close', 'DRREDDY.NS')":1253.0999755859,
+    "('High', 'DRREDDY.NS')":1278.5,
+    "('Low', 'DRREDDY.NS')":1246.1999511719,
+    "('Open', 'DRREDDY.NS')":1250.0,
+    "('Volume', 'DRREDDY.NS')":2284377
+  },
+  {
+    "('Date', '')":"2025-09-29",
+    "('Close', 'DRREDDY.NS')":1234.5999755859,
+    "('High', 'DRREDDY.NS')":1270.0,
+    "('Low', 'DRREDDY.NS')":1231.0,
+    "('Open', 'DRREDDY.NS')":1265.0,
+    "('Volume', 'DRREDDY.NS')":3899164
+  },
+  {
+    "('Date', '')":"2025-09-30",
+    "('Close', 'DRREDDY.NS')":1223.6999511719,
+    "('High', 'DRREDDY.NS')":1240.3000488281,
+    "('Low', 'DRREDDY.NS')":1217.5,
+    "('Open', 'DRREDDY.NS')":1235.0999755859,
+    "('Volume', 'DRREDDY.NS')":2635047
+  },
+  {
+    "('Date', '')":"2025-10-01",
+    "('Close', 'DRREDDY.NS')":1244.6999511719,
+    "('High', 'DRREDDY.NS')":1250.6999511719,
+    "('Low', 'DRREDDY.NS')":1226.0,
+    "('Open', 'DRREDDY.NS')":1227.9000244141,
+    "('Volume', 'DRREDDY.NS')":4083180
+  },
+  {
+    "('Date', '')":"2025-10-03",
+    "('Close', 'DRREDDY.NS')":1248.0999755859,
+    "('High', 'DRREDDY.NS')":1265.4000244141,
+    "('Low', 'DRREDDY.NS')":1240.0,
+    "('Open', 'DRREDDY.NS')":1243.9000244141,
+    "('Volume', 'DRREDDY.NS')":2742600
+  },
+  {
+    "('Date', '')":"2025-10-06",
+    "('Close', 'DRREDDY.NS')":1248.5999755859,
+    "('High', 'DRREDDY.NS')":1251.3000488281,
+    "('Low', 'DRREDDY.NS')":1234.1999511719,
+    "('Open', 'DRREDDY.NS')":1248.1999511719,
+    "('Volume', 'DRREDDY.NS')":1880910
+  },
+  {
+    "('Date', '')":"2025-10-07",
+    "('Close', 'DRREDDY.NS')":1248.5,
+    "('High', 'DRREDDY.NS')":1256.0999755859,
+    "('Low', 'DRREDDY.NS')":1244.4000244141,
+    "('Open', 'DRREDDY.NS')":1250.3000488281,
+    "('Volume', 'DRREDDY.NS')":1380941
+  },
+  {
+    "('Date', '')":"2025-10-08",
+    "('Close', 'DRREDDY.NS')":1234.5,
+    "('High', 'DRREDDY.NS')":1251.0,
+    "('Low', 'DRREDDY.NS')":1231.4000244141,
+    "('Open', 'DRREDDY.NS')":1248.3000488281,
+    "('Volume', 'DRREDDY.NS')":1496744
+  },
+  {
+    "('Date', '')":"2025-10-09",
+    "('Close', 'DRREDDY.NS')":1246.0999755859,
+    "('High', 'DRREDDY.NS')":1264.9000244141,
+    "('Low', 'DRREDDY.NS')":1240.3000488281,
+    "('Open', 'DRREDDY.NS')":1245.0,
+    "('Volume', 'DRREDDY.NS')":2699135
+  },
+  {
+    "('Date', '')":"2025-10-10",
+    "('Close', 'DRREDDY.NS')":1264.4000244141,
+    "('High', 'DRREDDY.NS')":1267.6999511719,
+    "('Low', 'DRREDDY.NS')":1244.6999511719,
+    "('Open', 'DRREDDY.NS')":1249.5999755859,
+    "('Volume', 'DRREDDY.NS')":1680920
+  },
+  {
+    "('Date', '')":"2025-10-13",
+    "('Close', 'DRREDDY.NS')":1262.4000244141,
+    "('High', 'DRREDDY.NS')":1265.0999755859,
+    "('Low', 'DRREDDY.NS')":1248.3000488281,
+    "('Open', 'DRREDDY.NS')":1257.0,
+    "('Volume', 'DRREDDY.NS')":1188201
+  },
+  {
+    "('Date', '')":"2025-10-14",
+    "('Close', 'DRREDDY.NS')":1237.3000488281,
+    "('High', 'DRREDDY.NS')":1262.4000244141,
+    "('Low', 'DRREDDY.NS')":1232.3000488281,
+    "('Open', 'DRREDDY.NS')":1262.4000244141,
+    "('Volume', 'DRREDDY.NS')":1944911
+  },
+  {
+    "('Date', '')":"2025-10-15",
+    "('Close', 'DRREDDY.NS')":1232.4000244141,
+    "('High', 'DRREDDY.NS')":1242.3000488281,
+    "('Low', 'DRREDDY.NS')":1231.0,
+    "('Open', 'DRREDDY.NS')":1233.0,
+    "('Volume', 'DRREDDY.NS')":2150067
+  },
+  {
+    "('Date', '')":"2025-10-16",
+    "('Close', 'DRREDDY.NS')":1240.1999511719,
+    "('High', 'DRREDDY.NS')":1242.5999755859,
+    "('Low', 'DRREDDY.NS')":1230.3000488281,
+    "('Open', 'DRREDDY.NS')":1235.9000244141,
+    "('Volume', 'DRREDDY.NS')":1308931
+  },
+  {
+    "('Date', '')":"2025-10-17",
+    "('Close', 'DRREDDY.NS')":1255.9000244141,
+    "('High', 'DRREDDY.NS')":1262.0,
+    "('Low', 'DRREDDY.NS')":1238.0999755859,
+    "('Open', 'DRREDDY.NS')":1245.0,
+    "('Volume', 'DRREDDY.NS')":1473018
+  },
+  {
+    "('Date', '')":"2025-10-20",
+    "('Close', 'DRREDDY.NS')":1282.0,
+    "('High', 'DRREDDY.NS')":1287.6999511719,
+    "('Low', 'DRREDDY.NS')":1259.8000488281,
+    "('Open', 'DRREDDY.NS')":1264.8000488281,
+    "('Volume', 'DRREDDY.NS')":1368192
+  },
+  {
+    "('Date', '')":"2025-10-21",
+    "('Close', 'DRREDDY.NS')":1288.6999511719,
+    "('High', 'DRREDDY.NS')":1294.0,
+    "('Low', 'DRREDDY.NS')":1283.0999755859,
+    "('Open', 'DRREDDY.NS')":1288.0,
+    "('Volume', 'DRREDDY.NS')":226788
+  },
+  {
+    "('Date', '')":"2025-10-23",
+    "('Close', 'DRREDDY.NS')":1279.4000244141,
+    "('High', 'DRREDDY.NS')":1303.5999755859,
+    "('Low', 'DRREDDY.NS')":1271.5999755859,
+    "('Open', 'DRREDDY.NS')":1303.5999755859,
+    "('Volume', 'DRREDDY.NS')":1991213
+  },
+  {
+    "('Date', '')":"2025-10-24",
+    "('Close', 'DRREDDY.NS')":1283.5999755859,
+    "('High', 'DRREDDY.NS')":1288.0,
+    "('Low', 'DRREDDY.NS')":1265.5,
+    "('Open', 'DRREDDY.NS')":1280.0,
+    "('Volume', 'DRREDDY.NS')":1167634
+  },
+  {
+    "('Date', '')":"2025-10-27",
+    "('Close', 'DRREDDY.NS')":1284.3000488281,
+    "('High', 'DRREDDY.NS')":1293.4000244141,
+    "('Low', 'DRREDDY.NS')":1264.5999755859,
+    "('Open', 'DRREDDY.NS')":1283.0,
+    "('Volume', 'DRREDDY.NS')":1927956
+  },
+  {
+    "('Date', '')":"2025-10-28",
+    "('Close', 'DRREDDY.NS')":1289.4000244141,
+    "('High', 'DRREDDY.NS')":1294.9000244141,
+    "('Low', 'DRREDDY.NS')":1275.3000488281,
+    "('Open', 'DRREDDY.NS')":1283.9000244141,
+    "('Volume', 'DRREDDY.NS')":1828290
+  },
+  {
+    "('Date', '')":"2025-10-29",
+    "('Close', 'DRREDDY.NS')":1250.9000244141,
+    "('High', 'DRREDDY.NS')":1301.5,
+    "('Low', 'DRREDDY.NS')":1235.0,
+    "('Open', 'DRREDDY.NS')":1299.0,
+    "('Volume', 'DRREDDY.NS')":2574921
+  },
+  {
+    "('Date', '')":"2025-10-30",
+    "('Close', 'DRREDDY.NS')":1202.1999511719,
+    "('High', 'DRREDDY.NS')":1207.1999511719,
+    "('Low', 'DRREDDY.NS')":1180.9000244141,
+    "('Open', 'DRREDDY.NS')":1196.0,
+    "('Volume', 'DRREDDY.NS')":8883497
+  },
+  {
+    "('Date', '')":"2025-10-31",
+    "('Close', 'DRREDDY.NS')":1197.5999755859,
+    "('High', 'DRREDDY.NS')":1205.5,
+    "('Low', 'DRREDDY.NS')":1191.0,
+    "('Open', 'DRREDDY.NS')":1202.5,
+    "('Volume', 'DRREDDY.NS')":4250157
+  },
+  {
+    "('Date', '')":"2025-11-03",
+    "('Close', 'DRREDDY.NS')":1196.0,
+    "('High', 'DRREDDY.NS')":1200.8000488281,
+    "('Low', 'DRREDDY.NS')":1187.9000244141,
+    "('Open', 'DRREDDY.NS')":1196.9000244141,
+    "('Volume', 'DRREDDY.NS')":1547000
+  },
+  {
+    "('Date', '')":"2025-11-04",
+    "('Close', 'DRREDDY.NS')":1200.0,
+    "('High', 'DRREDDY.NS')":1204.3000488281,
+    "('Low', 'DRREDDY.NS')":1193.3000488281,
+    "('Open', 'DRREDDY.NS')":1198.0,
+    "('Volume', 'DRREDDY.NS')":1015516
+  },
+  {
+    "('Date', '')":"2025-11-05",
+    "('Close', 'DRREDDY.NS')":1200.0,
+    "('High', 'DRREDDY.NS')":1200.0,
+    "('Low', 'DRREDDY.NS')":1200.0,
+    "('Open', 'DRREDDY.NS')":1200.0,
+    "('Volume', 'DRREDDY.NS')":0
+  },
+  {
+    "('Date', '')":"2025-11-06",
+    "('Close', 'DRREDDY.NS')":1205.1999511719,
+    "('High', 'DRREDDY.NS')":1213.9000244141,
+    "('Low', 'DRREDDY.NS')":1193.1999511719,
+    "('Open', 'DRREDDY.NS')":1202.0,
+    "('Volume', 'DRREDDY.NS')":1560897
+  },
+  {
+    "('Date', '')":"2025-11-07",
+    "('Close', 'DRREDDY.NS')":1205.4000244141,
+    "('High', 'DRREDDY.NS')":1211.9000244141,
+    "('Low', 'DRREDDY.NS')":1198.0,
+    "('Open', 'DRREDDY.NS')":1208.0,
+    "('Volume', 'DRREDDY.NS')":1076140
+  },
+  {
+    "('Date', '')":"2025-11-10",
+    "('Close', 'DRREDDY.NS')":1198.6999511719,
+    "('High', 'DRREDDY.NS')":1209.5,
+    "('Low', 'DRREDDY.NS')":1195.0,
+    "('Open', 'DRREDDY.NS')":1199.4000244141,
+    "('Volume', 'DRREDDY.NS')":3483082
+  },
+  {
+    "('Date', '')":"2025-11-11",
+    "('Close', 'DRREDDY.NS')":1211.5,
+    "('High', 'DRREDDY.NS')":1214.8000488281,
+    "('Low', 'DRREDDY.NS')":1198.5999755859,
+    "('Open', 'DRREDDY.NS')":1203.5999755859,
+    "('Volume', 'DRREDDY.NS')":1048484
+  }
+]

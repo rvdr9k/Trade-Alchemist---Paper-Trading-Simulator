@@ -1,0 +1,1986 @@
+[
+  {
+    "('Date', '')":"2024-11-11",
+    "('Close', 'JSWSTEEL.NS')":976.3707885742,
+    "('High', 'JSWSTEEL.NS')":992.7766224768,
+    "('Low', 'JSWSTEEL.NS')":969.3895878388,
+    "('Open', 'JSWSTEEL.NS')":985.3466180912,
+    "('Volume', 'JSWSTEEL.NS')":1336153
+  },
+  {
+    "('Date', '')":"2024-11-12",
+    "('Close', 'JSWSTEEL.NS')":954.6791992188,
+    "('High', 'JSWSTEEL.NS')":985.1471416396,
+    "('Low', 'JSWSTEEL.NS')":951.0888917655,
+    "('Open', 'JSWSTEEL.NS')":984.3493023023,
+    "('Volume', 'JSWSTEEL.NS')":731821
+  },
+  {
+    "('Date', '')":"2024-11-13",
+    "('Close', 'JSWSTEEL.NS')":933.4364013672,
+    "('High', 'JSWSTEEL.NS')":955.6764997533,
+    "('Low', 'JSWSTEEL.NS')":925.5575934569,
+    "('Open', 'JSWSTEEL.NS')":950.9392564725,
+    "('Volume', 'JSWSTEEL.NS')":1167594
+  },
+  {
+    "('Date', '')":"2024-11-14",
+    "('Close', 'JSWSTEEL.NS')":936.5280761719,
+    "('High', 'JSWSTEEL.NS')":946.8004023289,
+    "('Low', 'JSWSTEEL.NS')":929.9458254732,
+    "('Open', 'JSWSTEEL.NS')":932.5388185675,
+    "('Volume', 'JSWSTEEL.NS')":1662673
+  },
+  {
+    "('Date', '')":"2024-11-18",
+    "('Close', 'JSWSTEEL.NS')":947.2990722656,
+    "('High', 'JSWSTEEL.NS')":953.4824338098,
+    "('Low', 'JSWSTEEL.NS')":932.3892704658,
+    "('Open', 'JSWSTEEL.NS')":932.5388311053,
+    "('Volume', 'JSWSTEEL.NS')":1143965
+  },
+  {
+    "('Date', '')":"2024-11-19",
+    "('Close', 'JSWSTEEL.NS')":944.7559204102,
+    "('High', 'JSWSTEEL.NS')":958.3692863398,
+    "('Low', 'JSWSTEEL.NS')":942.4621094608,
+    "('Open', 'JSWSTEEL.NS')":947.2990599599,
+    "('Volume', 'JSWSTEEL.NS')":617409
+  },
+  {
+    "('Date', '')":"2024-11-21",
+    "('Close', 'JSWSTEEL.NS')":941.6143798828,
+    "('High', 'JSWSTEEL.NS')":948.3961053749,
+    "('Low', 'JSWSTEEL.NS')":933.9350471158,
+    "('Open', 'JSWSTEEL.NS')":938.4728152918,
+    "('Volume', 'JSWSTEEL.NS')":1669641
+  },
+  {
+    "('Date', '')":"2024-11-22",
+    "('Close', 'JSWSTEEL.NS')":974.7252197266,
+    "('High', 'JSWSTEEL.NS')":978.6646238424,
+    "('Low', 'JSWSTEEL.NS')":936.5280897838,
+    "('Open', 'JSWSTEEL.NS')":945.3543588845,
+    "('Volume', 'JSWSTEEL.NS')":1889389
+  },
+  {
+    "('Date', '')":"2024-11-25",
+    "('Close', 'JSWSTEEL.NS')":950.7398071289,
+    "('High', 'JSWSTEEL.NS')":977.8169174882,
+    "('Low', 'JSWSTEEL.NS')":943.1103884773,
+    "('Open', 'JSWSTEEL.NS')":972.3815418237,
+    "('Volume', 'JSWSTEEL.NS')":4563438
+  },
+  {
+    "('Date', '')":"2024-11-26",
+    "('Close', 'JSWSTEEL.NS')":961.0121459961,
+    "('High', 'JSWSTEEL.NS')":964.2035642985,
+    "('Low', 'JSWSTEEL.NS')":948.0470586004,
+    "('Open', 'JSWSTEEL.NS')":952.4352663751,
+    "('Volume', 'JSWSTEEL.NS')":1184177
+  },
+  {
+    "('Date', '')":"2024-11-27",
+    "('Close', 'JSWSTEEL.NS')":966.248046875,
+    "('High', 'JSWSTEEL.NS')":969.3896116316,
+    "('Low', 'JSWSTEEL.NS')":952.684595176,
+    "('Open', 'JSWSTEEL.NS')":960.7628175911,
+    "('Volume', 'JSWSTEEL.NS')":1327011
+  },
+  {
+    "('Date', '')":"2024-11-28",
+    "('Close', 'JSWSTEEL.NS')":951.5875244141,
+    "('High', 'JSWSTEEL.NS')":972.3316510035,
+    "('Low', 'JSWSTEEL.NS')":946.5011846368,
+    "('Open', 'JSWSTEEL.NS')":966.2479968626,
+    "('Volume', 'JSWSTEEL.NS')":2959350
+  },
+  {
+    "('Date', '')":"2024-11-29",
+    "('Close', 'JSWSTEEL.NS')":963.4057006836,
+    "('High', 'JSWSTEEL.NS')":969.0904048805,
+    "('Low', 'JSWSTEEL.NS')":950.8395637188,
+    "('Open', 'JSWSTEEL.NS')":956.424499954,
+    "('Volume', 'JSWSTEEL.NS')":1326686
+  },
+  {
+    "('Date', '')":"2024-12-02",
+    "('Close', 'JSWSTEEL.NS')":987.141784668,
+    "('High', 'JSWSTEEL.NS')":988.8870848745,
+    "('Low', 'JSWSTEEL.NS')":959.1671278167,
+    "('Open', 'JSWSTEEL.NS')":963.3060069408,
+    "('Volume', 'JSWSTEEL.NS')":1272868
+  },
+  {
+    "('Date', '')":"2024-12-03",
+    "('Close', 'JSWSTEEL.NS')":996.1176147461,
+    "('High', 'JSWSTEEL.NS')":1012.7727774706,
+    "('Low', 'JSWSTEEL.NS')":988.3884281135,
+    "('Open', 'JSWSTEEL.NS')":992.3278321844,
+    "('Volume', 'JSWSTEEL.NS')":2118830
+  },
+  {
+    "('Date', '')":"2024-12-04",
+    "('Close', 'JSWSTEEL.NS')":992.1782226562,
+    "('High', 'JSWSTEEL.NS')":1000.3063594972,
+    "('Low', 'JSWSTEEL.NS')":982.7037357019,
+    "('Open', 'JSWSTEEL.NS')":993.4248656766,
+    "('Volume', 'JSWSTEEL.NS')":1030877
+  },
+  {
+    "('Date', '')":"2024-12-05",
+    "('Close', 'JSWSTEEL.NS')":996.5165405273,
+    "('High', 'JSWSTEEL.NS')":1007.2376701108,
+    "('Low', 'JSWSTEEL.NS')":974.3761491203,
+    "('Open', 'JSWSTEEL.NS')":988.3385504383,
+    "('Volume', 'JSWSTEEL.NS')":2221958
+  },
+  {
+    "('Date', '')":"2024-12-06",
+    "('Close', 'JSWSTEEL.NS')":1001.1041870117,
+    "('High', 'JSWSTEEL.NS')":1005.2929196847,
+    "('Low', 'JSWSTEEL.NS')":991.9787967338,
+    "('Open', 'JSWSTEEL.NS')":997.2146973571,
+    "('Volume', 'JSWSTEEL.NS')":1218982
+  },
+  {
+    "('Date', '')":"2024-12-09",
+    "('Close', 'JSWSTEEL.NS')":1009.182434082,
+    "('High', 'JSWSTEEL.NS')":1012.772741461,
+    "('Low', 'JSWSTEEL.NS')":991.131007485,
+    "('Open', 'JSWSTEEL.NS')":1002.7995977736,
+    "('Volume', 'JSWSTEEL.NS')":1457470
+  },
+  {
+    "('Date', '')":"2024-12-10",
+    "('Close', 'JSWSTEEL.NS')":1010.2296142578,
+    "('High', 'JSWSTEEL.NS')":1020.7512688015,
+    "('Low', 'JSWSTEEL.NS')":1003.9465458327,
+    "('Open', 'JSWSTEEL.NS')":1018.2579828494,
+    "('Volume', 'JSWSTEEL.NS')":2227505
+  },
+  {
+    "('Date', '')":"2024-12-11",
+    "('Close', 'JSWSTEEL.NS')":997.5138549805,
+    "('High', 'JSWSTEEL.NS')":1017.7593247188,
+    "('Low', 'JSWSTEEL.NS')":994.4221438799,
+    "('Open', 'JSWSTEEL.NS')":1013.1717029196,
+    "('Volume', 'JSWSTEEL.NS')":1246315
+  },
+  {
+    "('Date', '')":"2024-12-12",
+    "('Close', 'JSWSTEEL.NS')":1003.098815918,
+    "('High', 'JSWSTEEL.NS')":1010.229638259,
+    "('Low', 'JSWSTEEL.NS')":988.3385749049,
+    "('Open', 'JSWSTEEL.NS')":1002.3009765686,
+    "('Volume', 'JSWSTEEL.NS')":1510341
+  },
+  {
+    "('Date', '')":"2024-12-13",
+    "('Close', 'JSWSTEEL.NS')":997.1647949219,
+    "('High', 'JSWSTEEL.NS')":1000.8050168904,
+    "('Low', 'JSWSTEEL.NS')":970.4367807357,
+    "('Open', 'JSWSTEEL.NS')":992.3278443507,
+    "('Volume', 'JSWSTEEL.NS')":2444182
+  },
+  {
+    "('Date', '')":"2024-12-16",
+    "('Close', 'JSWSTEEL.NS')":987.6903076172,
+    "('High', 'JSWSTEEL.NS')":1003.5974847279,
+    "('Low', 'JSWSTEEL.NS')":981.3573854236,
+    "('Open', 'JSWSTEEL.NS')":1001.3036737452,
+    "('Volume', 'JSWSTEEL.NS')":1220082
+  },
+  {
+    "('Date', '')":"2024-12-17",
+    "('Close', 'JSWSTEEL.NS')":964.2534179688,
+    "('High', 'JSWSTEEL.NS')":988.1391103866,
+    "('Low', 'JSWSTEEL.NS')":958.4191529884,
+    "('Open', 'JSWSTEEL.NS')":987.6903067255,
+    "('Volume', 'JSWSTEEL.NS')":1673092
+  },
+  {
+    "('Date', '')":"2024-12-18",
+    "('Close', 'JSWSTEEL.NS')":944.3071289062,
+    "('High', 'JSWSTEEL.NS')":966.8963247404,
+    "('Low', 'JSWSTEEL.NS')":939.0213746843,
+    "('Open', 'JSWSTEEL.NS')":964.452892251,
+    "('Volume', 'JSWSTEEL.NS')":1612799
+  },
+  {
+    "('Date', '')":"2024-12-19",
+    "('Close', 'JSWSTEEL.NS')":923.4632568359,
+    "('High', 'JSWSTEEL.NS')":940.1682726015,
+    "('Low', 'JSWSTEEL.NS')":919.124902786,
+    "('Open', 'JSWSTEEL.NS')":931.5414789173,
+    "('Volume', 'JSWSTEEL.NS')":1926448
+  },
+  {
+    "('Date', '')":"2024-12-20",
+    "('Close', 'JSWSTEEL.NS')":914.8863525391,
+    "('High', 'JSWSTEEL.NS')":939.1709950216,
+    "('Low', 'JSWSTEEL.NS')":909.6005983237,
+    "('Open', 'JSWSTEEL.NS')":923.5131465612,
+    "('Volume', 'JSWSTEEL.NS')":29003345
+  },
+  {
+    "('Date', '')":"2024-12-23",
+    "('Close', 'JSWSTEEL.NS')":934.5334472656,
+    "('High', 'JSWSTEEL.NS')":948.3961417878,
+    "('Low', 'JSWSTEEL.NS')":919.1249275962,
+    "('Open', 'JSWSTEEL.NS')":933.4862793188,
+    "('Volume', 'JSWSTEEL.NS')":3988457
+  },
+  {
+    "('Date', '')":"2024-12-24",
+    "('Close', 'JSWSTEEL.NS')":919.3742675781,
+    "('High', 'JSWSTEEL.NS')":935.4310661555,
+    "('Low', 'JSWSTEEL.NS')":915.9834350956,
+    "('Open', 'JSWSTEEL.NS')":934.533458835,
+    "('Volume', 'JSWSTEEL.NS')":2048135
+  },
+  {
+    "('Date', '')":"2024-12-26",
+    "('Close', 'JSWSTEEL.NS')":911.994140625,
+    "('High', 'JSWSTEEL.NS')":926.9040026766,
+    "('Low', 'JSWSTEEL.NS')":910.6477296986,
+    "('Open', 'JSWSTEEL.NS')":919.3742304629,
+    "('Volume', 'JSWSTEEL.NS')":2056005
+  },
+  {
+    "('Date', '')":"2024-12-27",
+    "('Close', 'JSWSTEEL.NS')":910.8472290039,
+    "('High', 'JSWSTEEL.NS')":924.0117912532,
+    "('Low', 'JSWSTEEL.NS')":908.8027466589,
+    "('Open', 'JSWSTEEL.NS')":912.1936399661,
+    "('Volume', 'JSWSTEEL.NS')":1917836
+  },
+  {
+    "('Date', '')":"2024-12-30",
+    "('Close', 'JSWSTEEL.NS')":896.5357666016,
+    "('High', 'JSWSTEEL.NS')":914.238096699,
+    "('Low', 'JSWSTEEL.NS')":893.1947269337,
+    "('Open', 'JSWSTEEL.NS')":910.8472034868,
+    "('Volume', 'JSWSTEEL.NS')":1959379
+  },
+  {
+    "('Date', '')":"2024-12-31",
+    "('Close', 'JSWSTEEL.NS')":899.078918457,
+    "('High', 'JSWSTEEL.NS')":903.9657832941,
+    "('Low', 'JSWSTEEL.NS')":894.19205362,
+    "('Open', 'JSWSTEEL.NS')":895.6381716531,
+    "('Volume', 'JSWSTEEL.NS')":1031176
+  },
+  {
+    "('Date', '')":"2025-01-01",
+    "('Close', 'JSWSTEEL.NS')":903.0183105469,
+    "('High', 'JSWSTEEL.NS')":907.5560787665,
+    "('Low', 'JSWSTEEL.NS')":888.3079235559,
+    "('Open', 'JSWSTEEL.NS')":898.7298709204,
+    "('Volume', 'JSWSTEEL.NS')":1020555
+  },
+  {
+    "('Date', '')":"2025-01-02",
+    "('Close', 'JSWSTEEL.NS')":910.0493774414,
+    "('High', 'JSWSTEEL.NS')":913.2407956516,
+    "('Low', 'JSWSTEEL.NS')":899.0290656477,
+    "('Open', 'JSWSTEEL.NS')":907.0574342827,
+    "('Volume', 'JSWSTEEL.NS')":1636373
+  },
+  {
+    "('Date', '')":"2025-01-03",
+    "('Close', 'JSWSTEEL.NS')":912.5925292969,
+    "('High', 'JSWSTEEL.NS')":922.2166376027,
+    "('Low', 'JSWSTEEL.NS')":906.0601321529,
+    "('Open', 'JSWSTEEL.NS')":911.5453613514,
+    "('Volume', 'JSWSTEEL.NS')":2691743
+  },
+  {
+    "('Date', '')":"2025-01-06",
+    "('Close', 'JSWSTEEL.NS')":898.4805908203,
+    "('High', 'JSWSTEEL.NS')":917.3796504979,
+    "('Low', 'JSWSTEEL.NS')":895.488647542,
+    "('Open', 'JSWSTEEL.NS')":912.5925534269,
+    "('Volume', 'JSWSTEEL.NS')":1104617
+  },
+  {
+    "('Date', '')":"2025-01-07",
+    "('Close', 'JSWSTEEL.NS')":909.3512573242,
+    "('High', 'JSWSTEEL.NS')":911.2461790318,
+    "('Low', 'JSWSTEEL.NS')":896.7851202385,
+    "('Open', 'JSWSTEEL.NS')":899.128784729,
+    "('Volume', 'JSWSTEEL.NS')":688211
+  },
+  {
+    "('Date', '')":"2025-01-08",
+    "('Close', 'JSWSTEEL.NS')":899.8767700195,
+    "('High', 'JSWSTEEL.NS')":909.5008783181,
+    "('Low', 'JSWSTEEL.NS')":892.7460085896,
+    "('Open', 'JSWSTEEL.NS')":907.5561030659,
+    "('Volume', 'JSWSTEEL.NS')":744601
+  },
+  {
+    "('Date', '')":"2025-01-09",
+    "('Close', 'JSWSTEEL.NS')":888.5572509766,
+    "('High', 'JSWSTEEL.NS')":906.5089096538,
+    "('Low', 'JSWSTEEL.NS')":886.4130007305,
+    "('Open', 'JSWSTEEL.NS')":898.5802482304,
+    "('Volume', 'JSWSTEEL.NS')":1459142
+  },
+  {
+    "('Date', '')":"2025-01-10",
+    "('Close', 'JSWSTEEL.NS')":897.6826782227,
+    "('High', 'JSWSTEEL.NS')":905.5614864288,
+    "('Low', 'JSWSTEEL.NS')":877.8860114857,
+    "('Open', 'JSWSTEEL.NS')":888.5572878722,
+    "('Volume', 'JSWSTEEL.NS')":1614629
+  },
+  {
+    "('Date', '')":"2025-01-13",
+    "('Close', 'JSWSTEEL.NS')":881.3765869141,
+    "('High', 'JSWSTEEL.NS')":896.28644913,
+    "('Low', 'JSWSTEEL.NS')":877.6366579738,
+    "('Open', 'JSWSTEEL.NS')":893.5438345739,
+    "('Volume', 'JSWSTEEL.NS')":1416585
+  },
+  {
+    "('Date', '')":"2025-01-14",
+    "('Close', 'JSWSTEEL.NS')":903.6166992188,
+    "('High', 'JSWSTEEL.NS')":908.8525998145,
+    "('Low', 'JSWSTEEL.NS')":880.1299572919,
+    "('Open', 'JSWSTEEL.NS')":880.1299572919,
+    "('Volume', 'JSWSTEEL.NS')":1948192
+  },
+  {
+    "('Date', '')":"2025-01-15",
+    "('Close', 'JSWSTEEL.NS')":901.6220703125,
+    "('High', 'JSWSTEEL.NS')":910.248864213,
+    "('Low', 'JSWSTEEL.NS')":899.0789307691,
+    "('Open', 'JSWSTEEL.NS')":907.5561031613,
+    "('Volume', 'JSWSTEEL.NS')":1581897
+  },
+  {
+    "('Date', '')":"2025-01-16",
+    "('Close', 'JSWSTEEL.NS')":904.3646850586,
+    "('High', 'JSWSTEEL.NS')":911.9443110156,
+    "('Low', 'JSWSTEEL.NS')":897.6826664094,
+    "('Open', 'JSWSTEEL.NS')":907.5561033104,
+    "('Volume', 'JSWSTEEL.NS')":1946590
+  },
+  {
+    "('Date', '')":"2025-01-17",
+    "('Close', 'JSWSTEEL.NS')":906.1598510742,
+    "('High', 'JSWSTEEL.NS')":915.0359736962,
+    "('Low', 'JSWSTEEL.NS')":902.81887214,
+    "('Open', 'JSWSTEEL.NS')":904.3646973055,
+    "('Volume', 'JSWSTEEL.NS')":911260
+  },
+  {
+    "('Date', '')":"2025-01-20",
+    "('Close', 'JSWSTEEL.NS')":916.7313842773,
+    "('High', 'JSWSTEEL.NS')":923.1640741605,
+    "('Low', 'JSWSTEEL.NS')":898.081593319,
+    "('Open', 'JSWSTEEL.NS')":906.1598153957,
+    "('Volume', 'JSWSTEEL.NS')":1299378
+  },
+  {
+    "('Date', '')":"2025-01-21",
+    "('Close', 'JSWSTEEL.NS')":924.3608398438,
+    "('High', 'JSWSTEEL.NS')":930.4943478355,
+    "('Low', 'JSWSTEEL.NS')":917.0804567991,
+    "('Open', 'JSWSTEEL.NS')":922.5158325272,
+    "('Volume', 'JSWSTEEL.NS')":1474919
+  },
+  {
+    "('Date', '')":"2025-01-22",
+    "('Close', 'JSWSTEEL.NS')":916.9309082031,
+    "('High', 'JSWSTEEL.NS')":929.4970456303,
+    "('Low', 'JSWSTEEL.NS')":904.7138064768,
+    "('Open', 'JSWSTEEL.NS')":929.4970456303,
+    "('Volume', 'JSWSTEEL.NS')":1080075
+  },
+  {
+    "('Date', '')":"2025-01-23",
+    "('Close', 'JSWSTEEL.NS')":927.4026489258,
+    "('High', 'JSWSTEEL.NS')":934.8325922205,
+    "('Low', 'JSWSTEEL.NS')":910.3485368247,
+    "('Open', 'JSWSTEEL.NS')":916.5817515829,
+    "('Volume', 'JSWSTEEL.NS')":1267989
+  },
+  {
+    "('Date', '')":"2025-01-24",
+    "('Close', 'JSWSTEEL.NS')":929.9458007812,
+    "('High', 'JSWSTEEL.NS')":950.4405990053,
+    "('Low', 'JSWSTEEL.NS')":922.6654180208,
+    "('Open', 'JSWSTEEL.NS')":927.5023683892,
+    "('Volume', 'JSWSTEEL.NS')":3538998
+  },
+  {
+    "('Date', '')":"2025-01-27",
+    "('Close', 'JSWSTEEL.NS')":916.8809814453,
+    "('High', 'JSWSTEEL.NS')":924.5104610549,
+    "('Low', 'JSWSTEEL.NS')":898.679993404,
+    "('Open', 'JSWSTEEL.NS')":898.679993404,
+    "('Volume', 'JSWSTEEL.NS')":3908402
+  },
+  {
+    "('Date', '')":"2025-01-28",
+    "('Close', 'JSWSTEEL.NS')":913.6896362305,
+    "('High', 'JSWSTEEL.NS')":923.1142088644,
+    "('Low', 'JSWSTEEL.NS')":902.0708988127,
+    "('Open', 'JSWSTEEL.NS')":920.9201658229,
+    "('Volume', 'JSWSTEEL.NS')":1101031
+  },
+  {
+    "('Date', '')":"2025-01-29",
+    "('Close', 'JSWSTEEL.NS')":935.0819702148,
+    "('High', 'JSWSTEEL.NS')":938.5227171174,
+    "('Low', 'JSWSTEEL.NS')":905.561487909,
+    "('Open', 'JSWSTEEL.NS')":911.1464242789,
+    "('Volume', 'JSWSTEEL.NS')":1298065
+  },
+  {
+    "('Date', '')":"2025-01-30",
+    "('Close', 'JSWSTEEL.NS')":948.2963867188,
+    "('High', 'JSWSTEEL.NS')":953.4325803021,
+    "('Low', 'JSWSTEEL.NS')":933.6857670685,
+    "('Open', 'JSWSTEEL.NS')":935.3812137474,
+    "('Volume', 'JSWSTEEL.NS')":2020147
+  },
+  {
+    "('Date', '')":"2025-01-31",
+    "('Close', 'JSWSTEEL.NS')":942.462097168,
+    "('High', 'JSWSTEEL.NS')":957.3221059057,
+    "('Low', 'JSWSTEEL.NS')":938.0240359647,
+    "('Open', 'JSWSTEEL.NS')":947.1993405135,
+    "('Volume', 'JSWSTEEL.NS')":2037829
+  },
+  {
+    "('Date', '')":"2025-02-01",
+    "('Close', 'JSWSTEEL.NS')":931.7409667969,
+    "('High', 'JSWSTEEL.NS')":952.6347153954,
+    "('Low', 'JSWSTEEL.NS')":909.2016859812,
+    "('Open', 'JSWSTEEL.NS')":945.3044181224,
+    "('Volume', 'JSWSTEEL.NS')":1339508
+  },
+  {
+    "('Date', '')":"2025-02-03",
+    "('Close', 'JSWSTEEL.NS')":931.4417724609,
+    "('High', 'JSWSTEEL.NS')":934.9323727725,
+    "('Low', 'JSWSTEEL.NS')":911.5453385107,
+    "('Open', 'JSWSTEEL.NS')":912.5426528854,
+    "('Volume', 'JSWSTEEL.NS')":1130056
+  },
+  {
+    "('Date', '')":"2025-02-04",
+    "('Close', 'JSWSTEEL.NS')":941.7141113281,
+    "('High', 'JSWSTEEL.NS')":946.9001583225,
+    "('Low', 'JSWSTEEL.NS')":931.7908209884,
+    "('Open', 'JSWSTEEL.NS')":933.8353033106,
+    "('Volume', 'JSWSTEEL.NS')":1262634
+  },
+  {
+    "('Date', '')":"2025-02-05",
+    "('Close', 'JSWSTEEL.NS')":947.3489379883,
+    "('High', 'JSWSTEEL.NS')":952.2357418454,
+    "('Low', 'JSWSTEEL.NS')":938.5725228948,
+    "('Open', 'JSWSTEEL.NS')":938.5725228948,
+    "('Volume', 'JSWSTEEL.NS')":1209743
+  },
+  {
+    "('Date', '')":"2025-02-06",
+    "('Close', 'JSWSTEEL.NS')":945.8529663086,
+    "('High', 'JSWSTEEL.NS')":953.9810418451,
+    "('Low', 'JSWSTEEL.NS')":939.4701300363,
+    "('Open', 'JSWSTEEL.NS')":947.9971556665,
+    "('Volume', 'JSWSTEEL.NS')":3060140
+  },
+  {
+    "('Date', '')":"2025-02-07",
+    "('Close', 'JSWSTEEL.NS')":978.1160888672,
+    "('High', 'JSWSTEEL.NS')":982.3546750285,
+    "('Low', 'JSWSTEEL.NS')":945.2545675131,
+    "('Open', 'JSWSTEEL.NS')":948.3961321929,
+    "('Volume', 'JSWSTEEL.NS')":2846285
+  },
+  {
+    "('Date', '')":"2025-02-10",
+    "('Close', 'JSWSTEEL.NS')":956.5740966797,
+    "('High', 'JSWSTEEL.NS')":971.3841906381,
+    "('Low', 'JSWSTEEL.NS')":945.7033457624,
+    "('Open', 'JSWSTEEL.NS')":971.3841906381,
+    "('Volume', 'JSWSTEEL.NS')":1665049
+  },
+  {
+    "('Date', '')":"2025-02-11",
+    "('Close', 'JSWSTEEL.NS')":951.9365844727,
+    "('High', 'JSWSTEEL.NS')":964.901671532,
+    "('Low', 'JSWSTEEL.NS')":946.0025516828,
+    "('Open', 'JSWSTEEL.NS')":947.4985232666,
+    "('Volume', 'JSWSTEEL.NS')":2535726
+  },
+  {
+    "('Date', '')":"2025-02-12",
+    "('Close', 'JSWSTEEL.NS')":953.8314819336,
+    "('High', 'JSWSTEEL.NS')":960.3638788426,
+    "('Low', 'JSWSTEEL.NS')":935.5805803782,
+    "('Open', 'JSWSTEEL.NS')":950.3408816601,
+    "('Volume', 'JSWSTEEL.NS')":2768806
+  },
+  {
+    "('Date', '')":"2025-02-13",
+    "('Close', 'JSWSTEEL.NS')":967.1954956055,
+    "('High', 'JSWSTEEL.NS')":981.3573722987,
+    "('Low', 'JSWSTEEL.NS')":950.6899544143,
+    "('Open', 'JSWSTEEL.NS')":951.4379402164,
+    "('Volume', 'JSWSTEEL.NS')":1414535
+  },
+  {
+    "('Date', '')":"2025-02-14",
+    "('Close', 'JSWSTEEL.NS')":962.0094604492,
+    "('High', 'JSWSTEEL.NS')":981.0582023002,
+    "('Low', 'JSWSTEEL.NS')":951.6872806015,
+    "('Open', 'JSWSTEEL.NS')":970.2872187915,
+    "('Volume', 'JSWSTEEL.NS')":2690126
+  },
+  {
+    "('Date', '')":"2025-02-17",
+    "('Close', 'JSWSTEEL.NS')":970.9354248047,
+    "('High', 'JSWSTEEL.NS')":972.3815428632,
+    "('Low', 'JSWSTEEL.NS')":951.5376474933,
+    "('Open', 'JSWSTEEL.NS')":962.0094487242,
+    "('Volume', 'JSWSTEEL.NS')":1321057
+  },
+  {
+    "('Date', '')":"2025-02-18",
+    "('Close', 'JSWSTEEL.NS')":976.1713256836,
+    "('High', 'JSWSTEEL.NS')":978.5649045998,
+    "('Low', 'JSWSTEEL.NS')":960.2142952323,
+    "('Open', 'JSWSTEEL.NS')":972.3815431257,
+    "('Volume', 'JSWSTEEL.NS')":1800070
+  },
+  {
+    "('Date', '')":"2025-02-19",
+    "('Close', 'JSWSTEEL.NS')":974.7252197266,
+    "('High', 'JSWSTEEL.NS')":987.2415643392,
+    "('Low', 'JSWSTEEL.NS')":968.4920046291,
+    "('Open', 'JSWSTEEL.NS')":972.9799194993,
+    "('Volume', 'JSWSTEEL.NS')":1581818
+  },
+  {
+    "('Date', '')":"2025-02-20",
+    "('Close', 'JSWSTEEL.NS')":978.5150146484,
+    "('High', 'JSWSTEEL.NS')":984.9975580281,
+    "('Low', 'JSWSTEEL.NS')":972.3815069484,
+    "('Open', 'JSWSTEEL.NS')":974.3761356806,
+    "('Volume', 'JSWSTEEL.NS')":1474610
+  },
+  {
+    "('Date', '')":"2025-02-21",
+    "('Close', 'JSWSTEEL.NS')":979.2630004883,
+    "('High', 'JSWSTEEL.NS')":988.2886833278,
+    "('Low', 'JSWSTEEL.NS')":972.9300177404,
+    "('Open', 'JSWSTEEL.NS')":976.470471566,
+    "('Volume', 'JSWSTEEL.NS')":1599075
+  },
+  {
+    "('Date', '')":"2025-02-24",
+    "('Close', 'JSWSTEEL.NS')":964.2035522461,
+    "('High', 'JSWSTEEL.NS')":982.2549794556,
+    "('Low', 'JSWSTEEL.NS')":955.1778690769,
+    "('Open', 'JSWSTEEL.NS')":968.3922849112,
+    "('Volume', 'JSWSTEEL.NS')":1898963
+  },
+  {
+    "('Date', '')":"2025-02-25",
+    "('Close', 'JSWSTEEL.NS')":956.1751708984,
+    "('High', 'JSWSTEEL.NS')":970.8357045978,
+    "('Low', 'JSWSTEEL.NS')":954.9285279116,
+    "('Open', 'JSWSTEEL.NS')":964.4030146115,
+    "('Volume', 'JSWSTEEL.NS')":1095348
+  },
+  {
+    "('Date', '')":"2025-02-27",
+    "('Close', 'JSWSTEEL.NS')":972.3815307617,
+    "('High', 'JSWSTEEL.NS')":978.3654171049,
+    "('Low', 'JSWSTEEL.NS')":956.1253183704,
+    "('Open', 'JSWSTEEL.NS')":956.1751719157,
+    "('Volume', 'JSWSTEEL.NS')":2049890
+  },
+  {
+    "('Date', '')":"2025-02-28",
+    "('Close', 'JSWSTEEL.NS')":948.1467895508,
+    "('High', 'JSWSTEEL.NS')":965.9986803606,
+    "('Low', 'JSWSTEEL.NS')":938.0240242847,
+    "('Open', 'JSWSTEEL.NS')":965.5000231725,
+    "('Volume', 'JSWSTEEL.NS')":2553800
+  },
+  {
+    "('Date', '')":"2025-03-03",
+    "('Close', 'JSWSTEEL.NS')":973.4287109375,
+    "('High', 'JSWSTEEL.NS')":978.9139401544,
+    "('Low', 'JSWSTEEL.NS')":950.4406261211,
+    "('Open', 'JSWSTEEL.NS')":956.4245125395,
+    "('Volume', 'JSWSTEEL.NS')":1744769
+  },
+  {
+    "('Date', '')":"2025-03-04",
+    "('Close', 'JSWSTEEL.NS')":971.4839477539,
+    "('High', 'JSWSTEEL.NS')":975.4732054158,
+    "('Low', 'JSWSTEEL.NS')":957.3719852979,
+    "('Open', 'JSWSTEEL.NS')":957.4218388444,
+    "('Volume', 'JSWSTEEL.NS')":1077034
+  },
+  {
+    "('Date', '')":"2025-03-05",
+    "('Close', 'JSWSTEEL.NS')":1000.0071411133,
+    "('High', 'JSWSTEEL.NS')":1005.2928951536,
+    "('Low', 'JSWSTEEL.NS')":968.2925559999,
+    "('Open', 'JSWSTEEL.NS')":972.3815206099,
+    "('Volume', 'JSWSTEEL.NS')":2472192
+  },
+  {
+    "('Date', '')":"2025-03-06",
+    "('Close', 'JSWSTEEL.NS')":1008.3845825195,
+    "('High', 'JSWSTEEL.NS')":1013.4709225682,
+    "('Low', 'JSWSTEEL.NS')":994.4221806838,
+    "('Open', 'JSWSTEEL.NS')":1010.27950426,
+    "('Volume', 'JSWSTEEL.NS')":2203409
+  },
+  {
+    "('Date', '')":"2025-03-07",
+    "('Close', 'JSWSTEEL.NS')":1008.4344482422,
+    "('High', 'JSWSTEEL.NS')":1017.6596061525,
+    "('Low', 'JSWSTEEL.NS')":1002.8494512548,
+    "('Open', 'JSWSTEEL.NS')":1008.2848267384,
+    "('Volume', 'JSWSTEEL.NS')":759943
+  },
+  {
+    "('Date', '')":"2025-03-10",
+    "('Close', 'JSWSTEEL.NS')":1010.778137207,
+    "('High', 'JSWSTEEL.NS')":1029.9764392704,
+    "('Low', 'JSWSTEEL.NS')":1007.5368654301,
+    "('Open', 'JSWSTEEL.NS')":1008.4344727322,
+    "('Volume', 'JSWSTEEL.NS')":1855010
+  },
+  {
+    "('Date', '')":"2025-03-11",
+    "('Close', 'JSWSTEEL.NS')":1015.9143066406,
+    "('High', 'JSWSTEEL.NS')":1018.25797106,
+    "('Low', 'JSWSTEEL.NS')":998.7604873143,
+    "('Open', 'JSWSTEEL.NS')":1001.1540052779,
+    "('Volume', 'JSWSTEEL.NS')":1595868
+  },
+  {
+    "('Date', '')":"2025-03-12",
+    "('Close', 'JSWSTEEL.NS')":1007.6864624023,
+    "('High', 'JSWSTEEL.NS')":1022.1973134203,
+    "('Low', 'JSWSTEEL.NS')":991.4301894968,
+    "('Open', 'JSWSTEEL.NS')":1021.9479848281,
+    "('Volume', 'JSWSTEEL.NS')":1263600
+  },
+  {
+    "('Date', '')":"2025-03-13",
+    "('Close', 'JSWSTEEL.NS')":998.5111694336,
+    "('High', 'JSWSTEEL.NS')":1013.7202137286,
+    "('Low', 'JSWSTEEL.NS')":996.1175905731,
+    "('Open', 'JSWSTEEL.NS')":1012.1743886139,
+    "('Volume', 'JSWSTEEL.NS')":1218174
+  },
+  {
+    "('Date', '')":"2025-03-17",
+    "('Close', 'JSWSTEEL.NS')":1002.9990844727,
+    "('High', 'JSWSTEEL.NS')":1012.7228996809,
+    "('Low', 'JSWSTEEL.NS')":997.4640018361,
+    "('Open', 'JSWSTEEL.NS')":1004.8440917278,
+    "('Volume', 'JSWSTEEL.NS')":1522656
+  },
+  {
+    "('Date', '')":"2025-03-18",
+    "('Close', 'JSWSTEEL.NS')":1002.9990844727,
+    "('High', 'JSWSTEEL.NS')":1002.9990844727,
+    "('Low', 'JSWSTEEL.NS')":1002.9990844727,
+    "('Open', 'JSWSTEEL.NS')":1002.9990844727,
+    "('Volume', 'JSWSTEEL.NS')":0
+  },
+  {
+    "('Date', '')":"2025-03-19",
+    "('Close', 'JSWSTEEL.NS')":1030.5748291016,
+    "('High', 'JSWSTEEL.NS')":1044.1881952506,
+    "('Low', 'JSWSTEEL.NS')":1021.2499636453,
+    "('Open', 'JSWSTEEL.NS')":1033.2177366568,
+    "('Volume', 'JSWSTEEL.NS')":2652155
+  },
+  {
+    "('Date', '')":"2025-03-20",
+    "('Close', 'JSWSTEEL.NS')":1047.4294433594,
+    "('High', 'JSWSTEEL.NS')":1049.9726437636,
+    "('Low', 'JSWSTEEL.NS')":1024.4412978574,
+    "('Open', 'JSWSTEEL.NS')":1035.2123420205,
+    "('Volume', 'JSWSTEEL.NS')":2301795
+  },
+  {
+    "('Date', '')":"2025-03-21",
+    "('Close', 'JSWSTEEL.NS')":1055.8566894531,
+    "('High', 'JSWSTEEL.NS')":1059.6964472248,
+    "('Low', 'JSWSTEEL.NS')":1044.8862312311,
+    "('Open', 'JSWSTEEL.NS')":1049.1747317785,
+    "('Volume', 'JSWSTEEL.NS')":2630144
+  },
+  {
+    "('Date', '')":"2025-03-24",
+    "('Close', 'JSWSTEEL.NS')":1058.4996337891,
+    "('High', 'JSWSTEEL.NS')":1069.1210566952,
+    "('Low', 'JSWSTEEL.NS')":1053.6626832075,
+    "('Open', 'JSWSTEEL.NS')":1060.1452269282,
+    "('Volume', 'JSWSTEEL.NS')":2267252
+  },
+  {
+    "('Date', '')":"2025-03-25",
+    "('Close', 'JSWSTEEL.NS')":1058.8486328125,
+    "('High', 'JSWSTEEL.NS')":1072.013255727,
+    "('Low', 'JSWSTEEL.NS')":1049.1747319845,
+    "('Open', 'JSWSTEEL.NS')":1058.4995971266,
+    "('Volume', 'JSWSTEEL.NS')":1571677
+  },
+  {
+    "('Date', '')":"2025-03-26",
+    "('Close', 'JSWSTEEL.NS')":1053.6127929688,
+    "('High', 'JSWSTEEL.NS')":1065.1817378835,
+    "('Low', 'JSWSTEEL.NS')":1049.3742065926,
+    "('Open', 'JSWSTEEL.NS')":1065.1817378835,
+    "('Volume', 'JSWSTEEL.NS')":1254060
+  },
+  {
+    "('Date', '')":"2025-03-27",
+    "('Close', 'JSWSTEEL.NS')":1056.9039306641,
+    "('High', 'JSWSTEEL.NS')":1066.1290888227,
+    "('Low', 'JSWSTEEL.NS')":1047.1801153076,
+    "('Open', 'JSWSTEEL.NS')":1049.1248296819,
+    "('Volume', 'JSWSTEEL.NS')":2514499
+  },
+  {
+    "('Date', '')":"2025-03-28",
+    "('Close', 'JSWSTEEL.NS')":1060.3446044922,
+    "('High', 'JSWSTEEL.NS')":1065.3311764128,
+    "('Low', 'JSWSTEEL.NS')":1051.1194464391,
+    "('Open', 'JSWSTEEL.NS')":1056.903918564,
+    "('Volume', 'JSWSTEEL.NS')":1674204
+  },
+  {
+    "('Date', '')":"2025-04-01",
+    "('Close', 'JSWSTEEL.NS')":1053.4133300781,
+    "('High', 'JSWSTEEL.NS')":1067.575145795,
+    "('Low', 'JSWSTEEL.NS')":1050.5210939831,
+    "('Open', 'JSWSTEEL.NS')":1060.1452022467,
+    "('Volume', 'JSWSTEEL.NS')":1776263
+  },
+  {
+    "('Date', '')":"2025-04-02",
+    "('Close', 'JSWSTEEL.NS')":1053.0643310547,
+    "('High', 'JSWSTEEL.NS')":1063.4862181519,
+    "('Low', 'JSWSTEEL.NS')":1043.4402224561,
+    "('Open', 'JSWSTEEL.NS')":1055.2583741038,
+    "('Volume', 'JSWSTEEL.NS')":878958
+  },
+  {
+    "('Date', '')":"2025-04-03",
+    "('Close', 'JSWSTEEL.NS')":1041.24609375,
+    "('High', 'JSWSTEEL.NS')":1052.9645373393,
+    "('Low', 'JSWSTEEL.NS')":1038.7528078799,
+    "('Open', 'JSWSTEEL.NS')":1042.1934936836,
+    "('Volume', 'JSWSTEEL.NS')":1607693
+  },
+  {
+    "('Date', '')":"2025-04-04",
+    "('Close', 'JSWSTEEL.NS')":1003.0489501953,
+    "('High', 'JSWSTEEL.NS')":1036.1597393273,
+    "('Low', 'JSWSTEEL.NS')":995.1701421466,
+    "('Open', 'JSWSTEEL.NS')":1029.5276960116,
+    "('Volume', 'JSWSTEEL.NS')":3818643
+  },
+  {
+    "('Date', '')":"2025-04-07",
+    "('Close', 'JSWSTEEL.NS')":927.801574707,
+    "('High', 'JSWSTEEL.NS')":956.4245101786,
+    "('Low', 'JSWSTEEL.NS')":902.7690076004,
+    "('Open', 'JSWSTEEL.NS')":903.5668469466,
+    "('Volume', 'JSWSTEEL.NS')":4581682
+  },
+  {
+    "('Date', '')":"2025-04-08",
+    "('Close', 'JSWSTEEL.NS')":952.036315918,
+    "('High', 'JSWSTEEL.NS')":967.8437859136,
+    "('Low', 'JSWSTEEL.NS')":931.2921882666,
+    "('Open', 'JSWSTEEL.NS')":946.8004152408,
+    "('Volume', 'JSWSTEEL.NS')":1717533
+  },
+  {
+    "('Date', '')":"2025-04-09",
+    "('Close', 'JSWSTEEL.NS')":943.0106201172,
+    "('High', 'JSWSTEEL.NS')":950.8395746913,
+    "('Low', 'JSWSTEEL.NS')":935.5307621063,
+    "('Open', 'JSWSTEEL.NS')":942.6117308794,
+    "('Volume', 'JSWSTEEL.NS')":1773658
+  },
+  {
+    "('Date', '')":"2025-04-11",
+    "('Close', 'JSWSTEEL.NS')":987.5905761719,
+    "('High', 'JSWSTEEL.NS')":994.3224483144,
+    "('Low', 'JSWSTEEL.NS')":965.7493666498,
+    "('Open', 'JSWSTEEL.NS')":969.8383921776,
+    "('Volume', 'JSWSTEEL.NS')":3641633
+  },
+  {
+    "('Date', '')":"2025-04-15",
+    "('Close', 'JSWSTEEL.NS')":1005.2929077148,
+    "('High', 'JSWSTEEL.NS')":1012.9722407119,
+    "('Low', 'JSWSTEEL.NS')":999.5084964122,
+    "('Open', 'JSWSTEEL.NS')":1007.2875365,
+    "('Volume', 'JSWSTEEL.NS')":1287903
+  },
+  {
+    "('Date', '')":"2025-04-16",
+    "('Close', 'JSWSTEEL.NS')":1006.6891479492,
+    "('High', 'JSWSTEEL.NS')":1012.3737911529,
+    "('Low', 'JSWSTEEL.NS')":989.4355606765,
+    "('Open', 'JSWSTEEL.NS')":1000.3063116421,
+    "('Volume', 'JSWSTEEL.NS')":1281034
+  },
+  {
+    "('Date', '')":"2025-04-17",
+    "('Close', 'JSWSTEEL.NS')":1004.4950561523,
+    "('High', 'JSWSTEEL.NS')":1005.8912597622,
+    "('Low', 'JSWSTEEL.NS')":984.4490005828,
+    "('Open', 'JSWSTEEL.NS')":993.3251229172,
+    "('Volume', 'JSWSTEEL.NS')":2074019
+  },
+  {
+    "('Date', '')":"2025-04-21",
+    "('Close', 'JSWSTEEL.NS')":1031.2230224609,
+    "('High', 'JSWSTEEL.NS')":1040.9967516416,
+    "('Low', 'JSWSTEEL.NS')":997.8129922361,
+    "('Open', 'JSWSTEEL.NS')":998.3116494037,
+    "('Volume', 'JSWSTEEL.NS')":1345056
+  },
+  {
+    "('Date', '')":"2025-04-22",
+    "('Close', 'JSWSTEEL.NS')":1041.3956298828,
+    "('High', 'JSWSTEEL.NS')":1057.5521959306,
+    "('Low', 'JSWSTEEL.NS')":1034.2150150232,
+    "('Open', 'JSWSTEEL.NS')":1057.153245829,
+    "('Volume', 'JSWSTEEL.NS')":2153582
+  },
+  {
+    "('Date', '')":"2025-04-23",
+    "('Close', 'JSWSTEEL.NS')":1036.4090576172,
+    "('High', 'JSWSTEEL.NS')":1051.0696520857,
+    "('Low', 'JSWSTEEL.NS')":1025.7378424212,
+    "('Open', 'JSWSTEEL.NS')":1048.1774160279,
+    "('Volume', 'JSWSTEEL.NS')":893969
+  },
+  {
+    "('Date', '')":"2025-04-24",
+    "('Close', 'JSWSTEEL.NS')":1041.6948242188,
+    "('High', 'JSWSTEEL.NS')":1044.6867672275,
+    "('Low', 'JSWSTEEL.NS')":1026.7351091749,
+    "('Open', 'JSWSTEEL.NS')":1032.7189951925,
+    "('Volume', 'JSWSTEEL.NS')":1242921
+  },
+  {
+    "('Date', '')":"2025-04-25",
+    "('Close', 'JSWSTEEL.NS')":1025.6381835938,
+    "('High', 'JSWSTEEL.NS')":1054.061644833,
+    "('Low', 'JSWSTEEL.NS')":1014.8671390587,
+    "('Open', 'JSWSTEEL.NS')":1047.1801509213,
+    "('Volume', 'JSWSTEEL.NS')":2784217
+  },
+  {
+    "('Date', '')":"2025-04-28",
+    "('Close', 'JSWSTEEL.NS')":1051.568359375,
+    "('High', 'JSWSTEEL.NS')":1056.0562743101,
+    "('Low', 'JSWSTEEL.NS')":1016.4628792636,
+    "('Open', 'JSWSTEEL.NS')":1018.6569831839,
+    "('Volume', 'JSWSTEEL.NS')":1485915
+  },
+  {
+    "('Date', '')":"2025-04-29",
+    "('Close', 'JSWSTEEL.NS')":1032.8187255859,
+    "('High', 'JSWSTEEL.NS')":1058.7488989138,
+    "('Low', 'JSWSTEEL.NS')":1031.3227540478,
+    "('Open', 'JSWSTEEL.NS')":1052.1666484944,
+    "('Volume', 'JSWSTEEL.NS')":1206750
+  },
+  {
+    "('Date', '')":"2025-04-30",
+    "('Close', 'JSWSTEEL.NS')":1027.0344238281,
+    "('High', 'JSWSTEEL.NS')":1039.5008539011,
+    "('Low', 'JSWSTEEL.NS')":1018.2580083598,
+    "('Open', 'JSWSTEEL.NS')":1027.2338380123,
+    "('Volume', 'JSWSTEEL.NS')":1755328
+  },
+  {
+    "('Date', '')":"2025-05-02",
+    "('Close', 'JSWSTEEL.NS')":964.9016723633,
+    "('High', 'JSWSTEEL.NS')":1034.215022471,
+    "('Low', 'JSWSTEEL.NS')":945.7532239003,
+    "('Open', 'JSWSTEEL.NS')":1018.4574672827,
+    "('Volume', 'JSWSTEEL.NS')":6209775
+  },
+  {
+    "('Date', '')":"2025-05-05",
+    "('Close', 'JSWSTEEL.NS')":952.9338989258,
+    "('High', 'JSWSTEEL.NS')":969.7885364526,
+    "('Low', 'JSWSTEEL.NS')":950.1414308101,
+    "('Open', 'JSWSTEEL.NS')":957.2223386253,
+    "('Volume', 'JSWSTEEL.NS')":1646426
+  },
+  {
+    "('Date', '')":"2025-05-06",
+    "('Close', 'JSWSTEEL.NS')":964.9016723633,
+    "('High', 'JSWSTEEL.NS')":969.289880028,
+    "('Low', 'JSWSTEEL.NS')":952.4352424878,
+    "('Open', 'JSWSTEEL.NS')":957.421814438,
+    "('Volume', 'JSWSTEEL.NS')":1462046
+  },
+  {
+    "('Date', '')":"2025-05-07",
+    "('Close', 'JSWSTEEL.NS')":963.5054321289,
+    "('High', 'JSWSTEEL.NS')":972.3815547722,
+    "('Low', 'JSWSTEEL.NS')":955.3275026217,
+    "('Open', 'JSWSTEEL.NS')":955.3275026217,
+    "('Volume', 'JSWSTEEL.NS')":1014461
+  },
+  {
+    "('Date', '')":"2025-05-08",
+    "('Close', 'JSWSTEEL.NS')":950.6400756836,
+    "('High', 'JSWSTEEL.NS')":966.8962878434,
+    "('Low', 'JSWSTEEL.NS')":946.4513431288,
+    "('Open', 'JSWSTEEL.NS')":959.9150872091,
+    "('Volume', 'JSWSTEEL.NS')":1646385
+  },
+  {
+    "('Date', '')":"2025-05-09",
+    "('Close', 'JSWSTEEL.NS')":954.4298706055,
+    "('High', 'JSWSTEEL.NS')":956.4244993842,
+    "('Low', 'JSWSTEEL.NS')":932.4889540398,
+    "('Open', 'JSWSTEEL.NS')":932.4889540398,
+    "('Volume', 'JSWSTEEL.NS')":1481537
+  },
+  {
+    "('Date', '')":"2025-05-12",
+    "('Close', 'JSWSTEEL.NS')":1002.5004272461,
+    "('High', 'JSWSTEEL.NS')":1004.9937131968,
+    "('Low', 'JSWSTEEL.NS')":967.0957667456,
+    "('Open', 'JSWSTEEL.NS')":970.3868920264,
+    "('Volume', 'JSWSTEEL.NS')":1335817
+  },
+  {
+    "('Date', '')":"2025-05-13",
+    "('Close', 'JSWSTEEL.NS')":987.2415161133,
+    "('High', 'JSWSTEEL.NS')":1008.1851178176,
+    "('Low', 'JSWSTEEL.NS')":985.4463015559,
+    "('Open', 'JSWSTEEL.NS')":1002.5004137521,
+    "('Volume', 'JSWSTEEL.NS')":934177
+  },
+  {
+    "('Date', '')":"2025-05-14",
+    "('Close', 'JSWSTEEL.NS')":986.6431274414,
+    "('High', 'JSWSTEEL.NS')":1009.3818836723,
+    "('Low', 'JSWSTEEL.NS')":984.3493164871,
+    "('Open', 'JSWSTEEL.NS')":992.5273067719,
+    "('Volume', 'JSWSTEEL.NS')":1650066
+  },
+  {
+    "('Date', '')":"2025-05-15",
+    "('Close', 'JSWSTEEL.NS')":1035.5115966797,
+    "('High', 'JSWSTEEL.NS')":1037.8053467685,
+    "('Low', 'JSWSTEEL.NS')":987.3412621621,
+    "('Open', 'JSWSTEEL.NS')":990.3332053807,
+    "('Volume', 'JSWSTEEL.NS')":5297654
+  },
+  {
+    "('Date', '')":"2025-05-16",
+    "('Close', 'JSWSTEEL.NS')":1019.055847168,
+    "('High', 'JSWSTEEL.NS')":1041.7946034347,
+    "('Low', 'JSWSTEEL.NS')":1017.55987556,
+    "('Open', 'JSWSTEEL.NS')":1040.5978748453,
+    "('Volume', 'JSWSTEEL.NS')":1048380
+  },
+  {
+    "('Date', '')":"2025-05-19",
+    "('Close', 'JSWSTEEL.NS')":1016.8617553711,
+    "('High', 'JSWSTEEL.NS')":1031.2231073265,
+    "('Low', 'JSWSTEEL.NS')":1013.9695800841,
+    "('Open', 'JSWSTEEL.NS')":1031.1234002332,
+    "('Volume', 'JSWSTEEL.NS')":1434608
+  },
+  {
+    "('Date', '')":"2025-05-20",
+    "('Close', 'JSWSTEEL.NS')":1009.9802856445,
+    "('High', 'JSWSTEEL.NS')":1031.7217269725,
+    "('Low', 'JSWSTEEL.NS')":1008.0853639725,
+    "('Open', 'JSWSTEEL.NS')":1028.2311266395,
+    "('Volume', 'JSWSTEEL.NS')":1624336
+  },
+  {
+    "('Date', '')":"2025-05-21",
+    "('Close', 'JSWSTEEL.NS')":998.2119750977,
+    "('High', 'JSWSTEEL.NS')":1016.1636337184,
+    "('Low', 'JSWSTEEL.NS')":996.4167605386,
+    "('Open', 'JSWSTEEL.NS')":1013.2713977032,
+    "('Volume', 'JSWSTEEL.NS')":875245
+  },
+  {
+    "('Date', '')":"2025-05-22",
+    "('Close', 'JSWSTEEL.NS')":1002.8993530273,
+    "('High', 'JSWSTEEL.NS')":1008.783532434,
+    "('Low', 'JSWSTEEL.NS')":985.2469365498,
+    "('Open', 'JSWSTEEL.NS')":999.3090454759,
+    "('Volume', 'JSWSTEEL.NS')":1283310
+  },
+  {
+    "('Date', '')":"2025-05-23",
+    "('Close', 'JSWSTEEL.NS')":1005.7915649414,
+    "('High', 'JSWSTEEL.NS')":1019.7539664379,
+    "('Low', 'JSWSTEEL.NS')":1002.4006716581,
+    "('Open', 'JSWSTEEL.NS')":1008.2848509229,
+    "('Volume', 'JSWSTEEL.NS')":1568154
+  },
+  {
+    "('Date', '')":"2025-05-26",
+    "('Close', 'JSWSTEEL.NS')":1029.5277099609,
+    "('High', 'JSWSTEEL.NS')":1033.217724566,
+    "('Low', 'JSWSTEEL.NS')":976.8694606297,
+    "('Open', 'JSWSTEEL.NS')":1006.4897106607,
+    "('Volume', 'JSWSTEEL.NS')":4716572
+  },
+  {
+    "('Date', '')":"2025-05-27",
+    "('Close', 'JSWSTEEL.NS')":1010.9776000977,
+    "('High', 'JSWSTEEL.NS')":1030.3254625645,
+    "('Low', 'JSWSTEEL.NS')":1006.2902103332,
+    "('Open', 'JSWSTEEL.NS')":1029.228441094,
+    "('Volume', 'JSWSTEEL.NS')":1158374
+  },
+  {
+    "('Date', '')":"2025-05-28",
+    "('Close', 'JSWSTEEL.NS')":998.311706543,
+    "('High', 'JSWSTEEL.NS')":1015.1663441188,
+    "('Low', 'JSWSTEEL.NS')":995.8184205626,
+    "('Open', 'JSWSTEEL.NS')":1012.1744009424,
+    "('Volume', 'JSWSTEEL.NS')":1790498
+  },
+  {
+    "('Date', '')":"2025-05-29",
+    "('Close', 'JSWSTEEL.NS')":1003.4977416992,
+    "('High', 'JSWSTEEL.NS')":1020.9507433556,
+    "('Low', 'JSWSTEEL.NS')":995.5192266563,
+    "('Open', 'JSWSTEEL.NS')":1017.6596180747,
+    "('Volume', 'JSWSTEEL.NS')":3282246
+  },
+  {
+    "('Date', '')":"2025-05-30",
+    "('Close', 'JSWSTEEL.NS')":990.8318481445,
+    "('High', 'JSWSTEEL.NS')":1009.7808215867,
+    "('Low', 'JSWSTEEL.NS')":987.8399049695,
+    "('Open', 'JSWSTEEL.NS')":1000.3063348656,
+    "('Volume', 'JSWSTEEL.NS')":1710817
+  },
+  {
+    "('Date', '')":"2025-06-02",
+    "('Close', 'JSWSTEEL.NS')":976.1713256836,
+    "('High', 'JSWSTEEL.NS')":984.3493159641,
+    "('Low', 'JSWSTEEL.NS')":966.6469853072,
+    "('Open', 'JSWSTEEL.NS')":984.3493159641,
+    "('Volume', 'JSWSTEEL.NS')":1790184
+  },
+  {
+    "('Date', '')":"2025-06-03",
+    "('Close', 'JSWSTEEL.NS')":971.184753418,
+    "('High', 'JSWSTEEL.NS')":984.6983514037,
+    "('Low', 'JSWSTEEL.NS')":969.4394532128,
+    "('Open', 'JSWSTEEL.NS')":977.4179684364,
+    "('Volume', 'JSWSTEEL.NS')":1138571
+  },
+  {
+    "('Date', '')":"2025-06-04",
+    "('Close', 'JSWSTEEL.NS')":965.9488525391,
+    "('High', 'JSWSTEEL.NS')":976.8694574226,
+    "('Low', 'JSWSTEEL.NS')":959.5660768847,
+    "('Open', 'JSWSTEEL.NS')":970.3869138052,
+    "('Volume', 'JSWSTEEL.NS')":2398032
+  },
+  {
+    "('Date', '')":"2025-06-05",
+    "('Close', 'JSWSTEEL.NS')":966.1483154297,
+    "('High', 'JSWSTEEL.NS')":974.2764520577,
+    "('Low', 'JSWSTEEL.NS')":962.0593507787,
+    "('Open', 'JSWSTEEL.NS')":970.1874265354,
+    "('Volume', 'JSWSTEEL.NS')":2182562
+  },
+  {
+    "('Date', '')":"2025-06-06",
+    "('Close', 'JSWSTEEL.NS')":1002.2012329102,
+    "('High', 'JSWSTEEL.NS')":1007.9357905271,
+    "('Low', 'JSWSTEEL.NS')":965.0512726963,
+    "('Open', 'JSWSTEEL.NS')":966.1482941528,
+    "('Volume', 'JSWSTEEL.NS')":2089570
+  },
+  {
+    "('Date', '')":"2025-06-09",
+    "('Close', 'JSWSTEEL.NS')":1005.2929077148,
+    "('High', 'JSWSTEEL.NS')":1014.268737248,
+    "('Low', 'JSWSTEEL.NS')":999.259167814,
+    "('Open', 'JSWSTEEL.NS')":1003.5974610732,
+    "('Volume', 'JSWSTEEL.NS')":1864322
+  },
+  {
+    "('Date', '')":"2025-06-10",
+    "('Close', 'JSWSTEEL.NS')":1000.4060668945,
+    "('High', 'JSWSTEEL.NS')":1016.4130119772,
+    "('Low', 'JSWSTEEL.NS')":998.1122559107,
+    "('Open', 'JSWSTEEL.NS')":1012.2741328,
+    "('Volume', 'JSWSTEEL.NS')":1747781
+  },
+  {
+    "('Date', '')":"2025-06-11",
+    "('Close', 'JSWSTEEL.NS')":1004.395324707,
+    "('High', 'JSWSTEEL.NS')":1013.2714473641,
+    "('Low', 'JSWSTEEL.NS')":1001.2538208172,
+    "('Open', 'JSWSTEEL.NS')":1001.2538208172,
+    "('Volume', 'JSWSTEEL.NS')":1003090
+  },
+  {
+    "('Date', '')":"2025-06-12",
+    "('Close', 'JSWSTEEL.NS')":992.9760742188,
+    "('High', 'JSWSTEEL.NS')":1007.287511042,
+    "('Low', 'JSWSTEEL.NS')":989.8843631572,
+    "('Open', 'JSWSTEEL.NS')":1004.3952750281,
+    "('Volume', 'JSWSTEEL.NS')":2223026
+  },
+  {
+    "('Date', '')":"2025-06-13",
+    "('Close', 'JSWSTEEL.NS')":984.5986328125,
+    "('High', 'JSWSTEEL.NS')":991.3803584991,
+    "('Low', 'JSWSTEEL.NS')":978.7144535553,
+    "('Open', 'JSWSTEEL.NS')":982.0554932889,
+    "('Volume', 'JSWSTEEL.NS')":1044815
+  },
+  {
+    "('Date', '')":"2025-06-16",
+    "('Close', 'JSWSTEEL.NS')":1001.1041870117,
+    "('High', 'JSWSTEEL.NS')":1008.284862898,
+    "('Low', 'JSWSTEEL.NS')":981.556849033,
+    "('Open', 'JSWSTEEL.NS')":984.5986457923,
+    "('Volume', 'JSWSTEEL.NS')":871032
+  },
+  {
+    "('Date', '')":"2025-06-17",
+    "('Close', 'JSWSTEEL.NS')":996.9653320312,
+    "('High', 'JSWSTEEL.NS')":1007.7363150283,
+    "('Low', 'JSWSTEEL.NS')":995.2200318878,
+    "('Open', 'JSWSTEEL.NS')":1001.8022823662,
+    "('Volume', 'JSWSTEEL.NS')":1075499
+  },
+  {
+    "('Date', '')":"2025-06-18",
+    "('Close', 'JSWSTEEL.NS')":983.7010498047,
+    "('High', 'JSWSTEEL.NS')":996.2672479682,
+    "('Low', 'JSWSTEEL.NS')":981.1080566718,
+    "('Open', 'JSWSTEEL.NS')":994.3224726828,
+    "('Volume', 'JSWSTEEL.NS')":854561
+  },
+  {
+    "('Date', '')":"2025-06-19",
+    "('Close', 'JSWSTEEL.NS')":993.375,
+    "('High', 'JSWSTEEL.NS')":995.2699217162,
+    "('Low', 'JSWSTEEL.NS')":982.3546880093,
+    "('Open', 'JSWSTEEL.NS')":984.2496097255,
+    "('Volume', 'JSWSTEEL.NS')":1391083
+  },
+  {
+    "('Date', '')":"2025-06-20",
+    "('Close', 'JSWSTEEL.NS')":1002.8494873047,
+    "('High', 'JSWSTEEL.NS')":1021.2499502426,
+    "('Low', 'JSWSTEEL.NS')":990.9315679963,
+    "('Open', 'JSWSTEEL.NS')":991.2806645606,
+    "('Volume', 'JSWSTEEL.NS')":9697195
+  },
+  {
+    "('Date', '')":"2025-06-23",
+    "('Close', 'JSWSTEEL.NS')":994.3224487305,
+    "('High', 'JSWSTEEL.NS')":1002.5004389183,
+    "('Low', 'JSWSTEEL.NS')":980.8587044397,
+    "('Open', 'JSWSTEEL.NS')":1002.3009638657,
+    "('Volume', 'JSWSTEEL.NS')":1132847
+  },
+  {
+    "('Date', '')":"2025-06-24",
+    "('Close', 'JSWSTEEL.NS')":1004.2955932617,
+    "('High', 'JSWSTEEL.NS')":1019.8038198911,
+    "('Low', 'JSWSTEEL.NS')":998.6108890501,
+    "('Open', 'JSWSTEEL.NS')":1003.2982788692,
+    "('Volume', 'JSWSTEEL.NS')":1434360
+  },
+  {
+    "('Date', '')":"2025-06-25",
+    "('Close', 'JSWSTEEL.NS')":1021.6986694336,
+    "('High', 'JSWSTEEL.NS')":1025.0397700056,
+    "('Low', 'JSWSTEEL.NS')":1005.2928965549,
+    "('Open', 'JSWSTEEL.NS')":1005.2928965549,
+    "('Volume', 'JSWSTEEL.NS')":2029126
+  },
+  {
+    "('Date', '')":"2025-06-26",
+    "('Close', 'JSWSTEEL.NS')":1029.7769775391,
+    "('High', 'JSWSTEEL.NS')":1037.7055778995,
+    "('Low', 'JSWSTEEL.NS')":1014.418312249,
+    "('Open', 'JSWSTEEL.NS')":1027.2337772576,
+    "('Volume', 'JSWSTEEL.NS')":3892783
+  },
+  {
+    "('Date', '')":"2025-06-27",
+    "('Close', 'JSWSTEEL.NS')":1026.1368408203,
+    "('High', 'JSWSTEEL.NS')":1042.8916501898,
+    "('Low', 'JSWSTEEL.NS')":1020.4521363981,
+    "('Open', 'JSWSTEEL.NS')":1035.6611205762,
+    "('Volume', 'JSWSTEEL.NS')":1941604
+  },
+  {
+    "('Date', '')":"2025-06-30",
+    "('Close', 'JSWSTEEL.NS')":1017.7593383789,
+    "('High', 'JSWSTEEL.NS')":1030.3254753862,
+    "('Low', 'JSWSTEEL.NS')":1011.775452019,
+    "('Open', 'JSWSTEEL.NS')":1030.275682712,
+    "('Volume', 'JSWSTEEL.NS')":765716
+  },
+  {
+    "('Date', '')":"2025-07-01",
+    "('Close', 'JSWSTEEL.NS')":1026.8348388672,
+    "('High', 'JSWSTEEL.NS')":1028.8294675836,
+    "('Low', 'JSWSTEEL.NS')":1013.4708629899,
+    "('Open', 'JSWSTEEL.NS')":1020.9507206765,
+    "('Volume', 'JSWSTEEL.NS')":988673
+  },
+  {
+    "('Date', '')":"2025-07-02",
+    "('Close', 'JSWSTEEL.NS')":1057.0535888672,
+    "('High', 'JSWSTEEL.NS')":1062.040161018,
+    "('Low', 'JSWSTEEL.NS')":1028.2311774873,
+    "('Open', 'JSWSTEEL.NS')":1028.2311774873,
+    "('Volume', 'JSWSTEEL.NS')":3166924
+  },
+  {
+    "('Date', '')":"2025-07-03",
+    "('Close', 'JSWSTEEL.NS')":1043.2905273438,
+    "('High', 'JSWSTEEL.NS')":1064.9323219949,
+    "('Low', 'JSWSTEEL.NS')":1039.7999270848,
+    "('Open', 'JSWSTEEL.NS')":1062.1397930908,
+    "('Volume', 'JSWSTEEL.NS')":1703765
+  },
+  {
+    "('Date', '')":"2025-07-04",
+    "('Close', 'JSWSTEEL.NS')":1038.6032714844,
+    "('High', 'JSWSTEEL.NS')":1048.8755370653,
+    "('Low', 'JSWSTEEL.NS')":1029.3281985908,
+    "('Open', 'JSWSTEEL.NS')":1048.8755370653,
+    "('Volume', 'JSWSTEEL.NS')":961108
+  },
+  {
+    "('Date', '')":"2025-07-07",
+    "('Close', 'JSWSTEEL.NS')":1039.7999267578,
+    "('High', 'JSWSTEEL.NS')":1042.1935055689,
+    "('Low', 'JSWSTEEL.NS')":1032.5196049797,
+    "('Open', 'JSWSTEEL.NS')":1038.2042481313,
+    "('Volume', 'JSWSTEEL.NS')":871937
+  },
+  {
+    "('Date', '')":"2025-07-08",
+    "('Close', 'JSWSTEEL.NS')":1045.0,
+    "('High', 'JSWSTEEL.NS')":1049.5999755859,
+    "('Low', 'JSWSTEEL.NS')":1039.3000488281,
+    "('Open', 'JSWSTEEL.NS')":1042.0,
+    "('Volume', 'JSWSTEEL.NS')":828011
+  },
+  {
+    "('Date', '')":"2025-07-09",
+    "('Close', 'JSWSTEEL.NS')":1040.4000244141,
+    "('High', 'JSWSTEEL.NS')":1052.0,
+    "('Low', 'JSWSTEEL.NS')":1033.4000244141,
+    "('Open', 'JSWSTEEL.NS')":1051.6999511719,
+    "('Volume', 'JSWSTEEL.NS')":1666607
+  },
+  {
+    "('Date', '')":"2025-07-10",
+    "('Close', 'JSWSTEEL.NS')":1043.3000488281,
+    "('High', 'JSWSTEEL.NS')":1049.5999755859,
+    "('Low', 'JSWSTEEL.NS')":1034.0999755859,
+    "('Open', 'JSWSTEEL.NS')":1040.9000244141,
+    "('Volume', 'JSWSTEEL.NS')":1101654
+  },
+  {
+    "('Date', '')":"2025-07-11",
+    "('Close', 'JSWSTEEL.NS')":1037.1999511719,
+    "('High', 'JSWSTEEL.NS')":1051.1999511719,
+    "('Low', 'JSWSTEEL.NS')":1034.0999755859,
+    "('Open', 'JSWSTEEL.NS')":1043.0,
+    "('Volume', 'JSWSTEEL.NS')":931901
+  },
+  {
+    "('Date', '')":"2025-07-14",
+    "('Close', 'JSWSTEEL.NS')":1038.9000244141,
+    "('High', 'JSWSTEEL.NS')":1044.9000244141,
+    "('Low', 'JSWSTEEL.NS')":1031.8000488281,
+    "('Open', 'JSWSTEEL.NS')":1040.0,
+    "('Volume', 'JSWSTEEL.NS')":1238524
+  },
+  {
+    "('Date', '')":"2025-07-15",
+    "('Close', 'JSWSTEEL.NS')":1035.0,
+    "('High', 'JSWSTEEL.NS')":1044.6999511719,
+    "('Low', 'JSWSTEEL.NS')":1028.1999511719,
+    "('Open', 'JSWSTEEL.NS')":1044.6999511719,
+    "('Volume', 'JSWSTEEL.NS')":982842
+  },
+  {
+    "('Date', '')":"2025-07-16",
+    "('Close', 'JSWSTEEL.NS')":1029.8000488281,
+    "('High', 'JSWSTEEL.NS')":1035.0,
+    "('Low', 'JSWSTEEL.NS')":1020.5,
+    "('Open', 'JSWSTEEL.NS')":1034.0,
+    "('Volume', 'JSWSTEEL.NS')":1099243
+  },
+  {
+    "('Date', '')":"2025-07-17",
+    "('Close', 'JSWSTEEL.NS')":1034.1999511719,
+    "('High', 'JSWSTEEL.NS')":1041.6999511719,
+    "('Low', 'JSWSTEEL.NS')":1023.5,
+    "('Open', 'JSWSTEEL.NS')":1030.5,
+    "('Volume', 'JSWSTEEL.NS')":1553977
+  },
+  {
+    "('Date', '')":"2025-07-18",
+    "('Close', 'JSWSTEEL.NS')":1034.4000244141,
+    "('High', 'JSWSTEEL.NS')":1053.5,
+    "('Low', 'JSWSTEEL.NS')":1027.0,
+    "('Open', 'JSWSTEEL.NS')":1039.0,
+    "('Volume', 'JSWSTEEL.NS')":1694015
+  },
+  {
+    "('Date', '')":"2025-07-21",
+    "('Close', 'JSWSTEEL.NS')":1034.8000488281,
+    "('High', 'JSWSTEEL.NS')":1053.5,
+    "('Low', 'JSWSTEEL.NS')":1018.299987793,
+    "('Open', 'JSWSTEEL.NS')":1051.0,
+    "('Volume', 'JSWSTEEL.NS')":2771028
+  },
+  {
+    "('Date', '')":"2025-07-22",
+    "('Close', 'JSWSTEEL.NS')":1030.6999511719,
+    "('High', 'JSWSTEEL.NS')":1043.1999511719,
+    "('Low', 'JSWSTEEL.NS')":1028.5999755859,
+    "('Open', 'JSWSTEEL.NS')":1038.5999755859,
+    "('Volume', 'JSWSTEEL.NS')":1237568
+  },
+  {
+    "('Date', '')":"2025-07-23",
+    "('Close', 'JSWSTEEL.NS')":1033.8000488281,
+    "('High', 'JSWSTEEL.NS')":1037.8000488281,
+    "('Low', 'JSWSTEEL.NS')":1025.0,
+    "('Open', 'JSWSTEEL.NS')":1034.0,
+    "('Volume', 'JSWSTEEL.NS')":1192492
+  },
+  {
+    "('Date', '')":"2025-07-24",
+    "('Close', 'JSWSTEEL.NS')":1033.8000488281,
+    "('High', 'JSWSTEEL.NS')":1048.8000488281,
+    "('Low', 'JSWSTEEL.NS')":1031.8000488281,
+    "('Open', 'JSWSTEEL.NS')":1039.0,
+    "('Volume', 'JSWSTEEL.NS')":1462398
+  },
+  {
+    "('Date', '')":"2025-07-25",
+    "('Close', 'JSWSTEEL.NS')":1026.9000244141,
+    "('High', 'JSWSTEEL.NS')":1035.0,
+    "('Low', 'JSWSTEEL.NS')":1020.0999755859,
+    "('Open', 'JSWSTEEL.NS')":1033.8000488281,
+    "('Volume', 'JSWSTEEL.NS')":912255
+  },
+  {
+    "('Date', '')":"2025-07-28",
+    "('Close', 'JSWSTEEL.NS')":1028.8000488281,
+    "('High', 'JSWSTEEL.NS')":1034.0,
+    "('Low', 'JSWSTEEL.NS')":1017.4000244141,
+    "('Open', 'JSWSTEEL.NS')":1029.0,
+    "('Volume', 'JSWSTEEL.NS')":1839488
+  },
+  {
+    "('Date', '')":"2025-07-29",
+    "('Close', 'JSWSTEEL.NS')":1034.9000244141,
+    "('High', 'JSWSTEEL.NS')":1051.3000488281,
+    "('Low', 'JSWSTEEL.NS')":1023.799987793,
+    "('Open', 'JSWSTEEL.NS')":1023.799987793,
+    "('Volume', 'JSWSTEEL.NS')":2215340
+  },
+  {
+    "('Date', '')":"2025-07-30",
+    "('Close', 'JSWSTEEL.NS')":1037.9000244141,
+    "('High', 'JSWSTEEL.NS')":1052.3000488281,
+    "('Low', 'JSWSTEEL.NS')":1031.6999511719,
+    "('Open', 'JSWSTEEL.NS')":1046.4000244141,
+    "('Volume', 'JSWSTEEL.NS')":1781038
+  },
+  {
+    "('Date', '')":"2025-07-31",
+    "('Close', 'JSWSTEEL.NS')":1048.3000488281,
+    "('High', 'JSWSTEEL.NS')":1058.5999755859,
+    "('Low', 'JSWSTEEL.NS')":1018.0,
+    "('Open', 'JSWSTEEL.NS')":1018.0,
+    "('Volume', 'JSWSTEEL.NS')":3144726
+  },
+  {
+    "('Date', '')":"2025-08-01",
+    "('Close', 'JSWSTEEL.NS')":1027.8000488281,
+    "('High', 'JSWSTEEL.NS')":1054.0,
+    "('Low', 'JSWSTEEL.NS')":1023.5999755859,
+    "('Open', 'JSWSTEEL.NS')":1054.0,
+    "('Volume', 'JSWSTEEL.NS')":1604653
+  },
+  {
+    "('Date', '')":"2025-08-04",
+    "('Close', 'JSWSTEEL.NS')":1055.9000244141,
+    "('High', 'JSWSTEEL.NS')":1058.9000244141,
+    "('Low', 'JSWSTEEL.NS')":1026.4000244141,
+    "('Open', 'JSWSTEEL.NS')":1029.6999511719,
+    "('Volume', 'JSWSTEEL.NS')":1835680
+  },
+  {
+    "('Date', '')":"2025-08-05",
+    "('Close', 'JSWSTEEL.NS')":1053.4000244141,
+    "('High', 'JSWSTEEL.NS')":1063.4000244141,
+    "('Low', 'JSWSTEEL.NS')":1048.6999511719,
+    "('Open', 'JSWSTEEL.NS')":1059.0,
+    "('Volume', 'JSWSTEEL.NS')":1524968
+  },
+  {
+    "('Date', '')":"2025-08-06",
+    "('Close', 'JSWSTEEL.NS')":1052.5999755859,
+    "('High', 'JSWSTEEL.NS')":1061.5,
+    "('Low', 'JSWSTEEL.NS')":1045.8000488281,
+    "('Open', 'JSWSTEEL.NS')":1059.0,
+    "('Volume', 'JSWSTEEL.NS')":1797515
+  },
+  {
+    "('Date', '')":"2025-08-07",
+    "('Close', 'JSWSTEEL.NS')":1064.8000488281,
+    "('High', 'JSWSTEEL.NS')":1074.9000244141,
+    "('Low', 'JSWSTEEL.NS')":1046.0,
+    "('Open', 'JSWSTEEL.NS')":1052.5999755859,
+    "('Volume', 'JSWSTEEL.NS')":1837589
+  },
+  {
+    "('Date', '')":"2025-08-08",
+    "('Close', 'JSWSTEEL.NS')":1049.1999511719,
+    "('High', 'JSWSTEEL.NS')":1071.4000244141,
+    "('Low', 'JSWSTEEL.NS')":1041.6999511719,
+    "('Open', 'JSWSTEEL.NS')":1070.0,
+    "('Volume', 'JSWSTEEL.NS')":2234463
+  },
+  {
+    "('Date', '')":"2025-08-11",
+    "('Close', 'JSWSTEEL.NS')":1052.6999511719,
+    "('High', 'JSWSTEEL.NS')":1065.0,
+    "('Low', 'JSWSTEEL.NS')":1046.3000488281,
+    "('Open', 'JSWSTEEL.NS')":1049.1999511719,
+    "('Volume', 'JSWSTEEL.NS')":1492814
+  },
+  {
+    "('Date', '')":"2025-08-12",
+    "('Close', 'JSWSTEEL.NS')":1048.1999511719,
+    "('High', 'JSWSTEEL.NS')":1059.9000244141,
+    "('Low', 'JSWSTEEL.NS')":1045.5999755859,
+    "('Open', 'JSWSTEEL.NS')":1054.8000488281,
+    "('Volume', 'JSWSTEEL.NS')":1231299
+  },
+  {
+    "('Date', '')":"2025-08-13",
+    "('Close', 'JSWSTEEL.NS')":1053.6999511719,
+    "('High', 'JSWSTEEL.NS')":1059.5999755859,
+    "('Low', 'JSWSTEEL.NS')":1050.3000488281,
+    "('Open', 'JSWSTEEL.NS')":1052.1999511719,
+    "('Volume', 'JSWSTEEL.NS')":1125769
+  },
+  {
+    "('Date', '')":"2025-08-14",
+    "('Close', 'JSWSTEEL.NS')":1045.5,
+    "('High', 'JSWSTEEL.NS')":1058.0999755859,
+    "('Low', 'JSWSTEEL.NS')":1038.9000244141,
+    "('Open', 'JSWSTEEL.NS')":1055.0,
+    "('Volume', 'JSWSTEEL.NS')":870899
+  },
+  {
+    "('Date', '')":"2025-08-18",
+    "('Close', 'JSWSTEEL.NS')":1079.8000488281,
+    "('High', 'JSWSTEEL.NS')":1084.0,
+    "('Low', 'JSWSTEEL.NS')":1050.0,
+    "('Open', 'JSWSTEEL.NS')":1060.0,
+    "('Volume', 'JSWSTEEL.NS')":3252940
+  },
+  {
+    "('Date', '')":"2025-08-19",
+    "('Close', 'JSWSTEEL.NS')":1073.4000244141,
+    "('High', 'JSWSTEEL.NS')":1088.0,
+    "('Low', 'JSWSTEEL.NS')":1070.6999511719,
+    "('Open', 'JSWSTEEL.NS')":1080.0,
+    "('Volume', 'JSWSTEEL.NS')":1867228
+  },
+  {
+    "('Date', '')":"2025-08-20",
+    "('Close', 'JSWSTEEL.NS')":1082.5999755859,
+    "('High', 'JSWSTEEL.NS')":1089.1999511719,
+    "('Low', 'JSWSTEEL.NS')":1067.3000488281,
+    "('Open', 'JSWSTEEL.NS')":1072.0,
+    "('Volume', 'JSWSTEEL.NS')":1321114
+  },
+  {
+    "('Date', '')":"2025-08-21",
+    "('Close', 'JSWSTEEL.NS')":1071.8000488281,
+    "('High', 'JSWSTEEL.NS')":1086.0999755859,
+    "('Low', 'JSWSTEEL.NS')":1069.3000488281,
+    "('Open', 'JSWSTEEL.NS')":1080.5999755859,
+    "('Volume', 'JSWSTEEL.NS')":2069244
+  },
+  {
+    "('Date', '')":"2025-08-22",
+    "('Close', 'JSWSTEEL.NS')":1054.5999755859,
+    "('High', 'JSWSTEEL.NS')":1071.4000244141,
+    "('Low', 'JSWSTEEL.NS')":1051.3000488281,
+    "('Open', 'JSWSTEEL.NS')":1068.5,
+    "('Volume', 'JSWSTEEL.NS')":1950366
+  },
+  {
+    "('Date', '')":"2025-08-25",
+    "('Close', 'JSWSTEEL.NS')":1057.8000488281,
+    "('High', 'JSWSTEEL.NS')":1062.6999511719,
+    "('Low', 'JSWSTEEL.NS')":1049.8000488281,
+    "('Open', 'JSWSTEEL.NS')":1059.5,
+    "('Volume', 'JSWSTEEL.NS')":1552036
+  },
+  {
+    "('Date', '')":"2025-08-26",
+    "('Close', 'JSWSTEEL.NS')":1047.0999755859,
+    "('High', 'JSWSTEEL.NS')":1057.0,
+    "('Low', 'JSWSTEEL.NS')":1044.6999511719,
+    "('Open', 'JSWSTEEL.NS')":1051.1999511719,
+    "('Volume', 'JSWSTEEL.NS')":1758169
+  },
+  {
+    "('Date', '')":"2025-08-28",
+    "('Close', 'JSWSTEEL.NS')":1035.8000488281,
+    "('High', 'JSWSTEEL.NS')":1055.0999755859,
+    "('Low', 'JSWSTEEL.NS')":1033.9000244141,
+    "('Open', 'JSWSTEEL.NS')":1047.0999755859,
+    "('Volume', 'JSWSTEEL.NS')":1313061
+  },
+  {
+    "('Date', '')":"2025-08-29",
+    "('Close', 'JSWSTEEL.NS')":1026.5999755859,
+    "('High', 'JSWSTEEL.NS')":1038.3000488281,
+    "('Low', 'JSWSTEEL.NS')":1022.299987793,
+    "('Open', 'JSWSTEEL.NS')":1032.0,
+    "('Volume', 'JSWSTEEL.NS')":1062037
+  },
+  {
+    "('Date', '')":"2025-09-01",
+    "('Close', 'JSWSTEEL.NS')":1035.5,
+    "('High', 'JSWSTEEL.NS')":1038.5999755859,
+    "('Low', 'JSWSTEEL.NS')":1026.0999755859,
+    "('Open', 'JSWSTEEL.NS')":1026.5999755859,
+    "('Volume', 'JSWSTEEL.NS')":624424
+  },
+  {
+    "('Date', '')":"2025-09-02",
+    "('Close', 'JSWSTEEL.NS')":1044.0,
+    "('High', 'JSWSTEEL.NS')":1049.5,
+    "('Low', 'JSWSTEEL.NS')":1031.1999511719,
+    "('Open', 'JSWSTEEL.NS')":1035.5999755859,
+    "('Volume', 'JSWSTEEL.NS')":1071341
+  },
+  {
+    "('Date', '')":"2025-09-03",
+    "('Close', 'JSWSTEEL.NS')":1072.1999511719,
+    "('High', 'JSWSTEEL.NS')":1079.9000244141,
+    "('Low', 'JSWSTEEL.NS')":1040.0,
+    "('Open', 'JSWSTEEL.NS')":1042.0,
+    "('Volume', 'JSWSTEEL.NS')":3357124
+  },
+  {
+    "('Date', '')":"2025-09-04",
+    "('Close', 'JSWSTEEL.NS')":1072.4000244141,
+    "('High', 'JSWSTEEL.NS')":1076.4000244141,
+    "('Low', 'JSWSTEEL.NS')":1066.0999755859,
+    "('Open', 'JSWSTEEL.NS')":1075.0,
+    "('Volume', 'JSWSTEEL.NS')":922622
+  },
+  {
+    "('Date', '')":"2025-09-05",
+    "('Close', 'JSWSTEEL.NS')":1073.0999755859,
+    "('High', 'JSWSTEEL.NS')":1076.5999755859,
+    "('Low', 'JSWSTEEL.NS')":1063.0,
+    "('Open', 'JSWSTEEL.NS')":1069.0,
+    "('Volume', 'JSWSTEEL.NS')":748933
+  },
+  {
+    "('Date', '')":"2025-09-08",
+    "('Close', 'JSWSTEEL.NS')":1101.4000244141,
+    "('High', 'JSWSTEEL.NS')":1112.3000488281,
+    "('Low', 'JSWSTEEL.NS')":1080.0999755859,
+    "('Open', 'JSWSTEEL.NS')":1080.0999755859,
+    "('Volume', 'JSWSTEEL.NS')":3219380
+  },
+  {
+    "('Date', '')":"2025-09-09",
+    "('Close', 'JSWSTEEL.NS')":1104.5,
+    "('High', 'JSWSTEEL.NS')":1110.0,
+    "('Low', 'JSWSTEEL.NS')":1095.6999511719,
+    "('Open', 'JSWSTEEL.NS')":1100.0,
+    "('Volume', 'JSWSTEEL.NS')":1058374
+  },
+  {
+    "('Date', '')":"2025-09-10",
+    "('Close', 'JSWSTEEL.NS')":1101.1999511719,
+    "('High', 'JSWSTEEL.NS')":1115.5,
+    "('Low', 'JSWSTEEL.NS')":1097.3000488281,
+    "('Open', 'JSWSTEEL.NS')":1108.0,
+    "('Volume', 'JSWSTEEL.NS')":1305818
+  },
+  {
+    "('Date', '')":"2025-09-11",
+    "('Close', 'JSWSTEEL.NS')":1099.0,
+    "('High', 'JSWSTEEL.NS')":1108.0,
+    "('Low', 'JSWSTEEL.NS')":1095.1999511719,
+    "('Open', 'JSWSTEEL.NS')":1101.1999511719,
+    "('Volume', 'JSWSTEEL.NS')":852085
+  },
+  {
+    "('Date', '')":"2025-09-12",
+    "('Close', 'JSWSTEEL.NS')":1099.0,
+    "('High', 'JSWSTEEL.NS')":1107.9000244141,
+    "('Low', 'JSWSTEEL.NS')":1093.0,
+    "('Open', 'JSWSTEEL.NS')":1099.0,
+    "('Volume', 'JSWSTEEL.NS')":1057815
+  },
+  {
+    "('Date', '')":"2025-09-15",
+    "('Close', 'JSWSTEEL.NS')":1100.9000244141,
+    "('High', 'JSWSTEEL.NS')":1105.0,
+    "('Low', 'JSWSTEEL.NS')":1090.5,
+    "('Open', 'JSWSTEEL.NS')":1100.0,
+    "('Volume', 'JSWSTEEL.NS')":565667
+  },
+  {
+    "('Date', '')":"2025-09-16",
+    "('Close', 'JSWSTEEL.NS')":1115.1999511719,
+    "('High', 'JSWSTEEL.NS')":1117.9000244141,
+    "('Low', 'JSWSTEEL.NS')":1100.0,
+    "('Open', 'JSWSTEEL.NS')":1100.5,
+    "('Volume', 'JSWSTEEL.NS')":1644497
+  },
+  {
+    "('Date', '')":"2025-09-17",
+    "('Close', 'JSWSTEEL.NS')":1111.0,
+    "('High', 'JSWSTEEL.NS')":1122.5999755859,
+    "('Low', 'JSWSTEEL.NS')":1107.0999755859,
+    "('Open', 'JSWSTEEL.NS')":1119.5,
+    "('Volume', 'JSWSTEEL.NS')":950577
+  },
+  {
+    "('Date', '')":"2025-09-18",
+    "('Close', 'JSWSTEEL.NS')":1121.0999755859,
+    "('High', 'JSWSTEEL.NS')":1122.9000244141,
+    "('Low', 'JSWSTEEL.NS')":1105.0,
+    "('Open', 'JSWSTEEL.NS')":1111.9000244141,
+    "('Volume', 'JSWSTEEL.NS')":824725
+  },
+  {
+    "('Date', '')":"2025-09-19",
+    "('Close', 'JSWSTEEL.NS')":1122.8000488281,
+    "('High', 'JSWSTEEL.NS')":1126.0,
+    "('Low', 'JSWSTEEL.NS')":1113.6999511719,
+    "('Open', 'JSWSTEEL.NS')":1121.0999755859,
+    "('Volume', 'JSWSTEEL.NS')":1351221
+  },
+  {
+    "('Date', '')":"2025-09-22",
+    "('Close', 'JSWSTEEL.NS')":1117.0,
+    "('High', 'JSWSTEEL.NS')":1126.8000488281,
+    "('Low', 'JSWSTEEL.NS')":1111.5999755859,
+    "('Open', 'JSWSTEEL.NS')":1122.0,
+    "('Volume', 'JSWSTEEL.NS')":786218
+  },
+  {
+    "('Date', '')":"2025-09-23",
+    "('Close', 'JSWSTEEL.NS')":1138.4000244141,
+    "('High', 'JSWSTEEL.NS')":1148.0,
+    "('Low', 'JSWSTEEL.NS')":1117.0999755859,
+    "('Open', 'JSWSTEEL.NS')":1125.0,
+    "('Volume', 'JSWSTEEL.NS')":2075493
+  },
+  {
+    "('Date', '')":"2025-09-24",
+    "('Close', 'JSWSTEEL.NS')":1149.0999755859,
+    "('High', 'JSWSTEEL.NS')":1161.0,
+    "('Low', 'JSWSTEEL.NS')":1133.0,
+    "('Open', 'JSWSTEEL.NS')":1138.4000244141,
+    "('Volume', 'JSWSTEEL.NS')":2111388
+  },
+  {
+    "('Date', '')":"2025-09-25",
+    "('Close', 'JSWSTEEL.NS')":1148.5,
+    "('High', 'JSWSTEEL.NS')":1157.5,
+    "('Low', 'JSWSTEEL.NS')":1140.0,
+    "('Open', 'JSWSTEEL.NS')":1149.0999755859,
+    "('Volume', 'JSWSTEEL.NS')":1581307
+  },
+  {
+    "('Date', '')":"2025-09-26",
+    "('Close', 'JSWSTEEL.NS')":1130.8000488281,
+    "('High', 'JSWSTEEL.NS')":1167.9000244141,
+    "('Low', 'JSWSTEEL.NS')":1127.9000244141,
+    "('Open', 'JSWSTEEL.NS')":1155.0,
+    "('Volume', 'JSWSTEEL.NS')":2999892
+  },
+  {
+    "('Date', '')":"2025-09-29",
+    "('Close', 'JSWSTEEL.NS')":1122.1999511719,
+    "('High', 'JSWSTEEL.NS')":1143.9000244141,
+    "('Low', 'JSWSTEEL.NS')":1119.6999511719,
+    "('Open', 'JSWSTEEL.NS')":1130.0,
+    "('Volume', 'JSWSTEEL.NS')":2615670
+  },
+  {
+    "('Date', '')":"2025-09-30",
+    "('Close', 'JSWSTEEL.NS')":1142.6999511719,
+    "('High', 'JSWSTEEL.NS')":1149.9000244141,
+    "('Low', 'JSWSTEEL.NS')":1127.0999755859,
+    "('Open', 'JSWSTEEL.NS')":1128.8000488281,
+    "('Volume', 'JSWSTEEL.NS')":2771126
+  },
+  {
+    "('Date', '')":"2025-10-01",
+    "('Close', 'JSWSTEEL.NS')":1146.0999755859,
+    "('High', 'JSWSTEEL.NS')":1148.5999755859,
+    "('Low', 'JSWSTEEL.NS')":1132.1999511719,
+    "('Open', 'JSWSTEEL.NS')":1145.0,
+    "('Volume', 'JSWSTEEL.NS')":1129506
+  },
+  {
+    "('Date', '')":"2025-10-03",
+    "('Close', 'JSWSTEEL.NS')":1161.6999511719,
+    "('High', 'JSWSTEEL.NS')":1175.8000488281,
+    "('Low', 'JSWSTEEL.NS')":1145.9000244141,
+    "('Open', 'JSWSTEEL.NS')":1146.0999755859,
+    "('Volume', 'JSWSTEEL.NS')":2179883
+  },
+  {
+    "('Date', '')":"2025-10-06",
+    "('Close', 'JSWSTEEL.NS')":1159.9000244141,
+    "('High', 'JSWSTEEL.NS')":1164.9000244141,
+    "('Low', 'JSWSTEEL.NS')":1149.1999511719,
+    "('Open', 'JSWSTEEL.NS')":1161.6999511719,
+    "('Volume', 'JSWSTEEL.NS')":1013304
+  },
+  {
+    "('Date', '')":"2025-10-07",
+    "('Close', 'JSWSTEEL.NS')":1156.8000488281,
+    "('High', 'JSWSTEEL.NS')":1173.0,
+    "('Low', 'JSWSTEEL.NS')":1154.1999511719,
+    "('Open', 'JSWSTEEL.NS')":1159.9000244141,
+    "('Volume', 'JSWSTEEL.NS')":1565661
+  },
+  {
+    "('Date', '')":"2025-10-08",
+    "('Close', 'JSWSTEEL.NS')":1145.1999511719,
+    "('High', 'JSWSTEEL.NS')":1162.6999511719,
+    "('Low', 'JSWSTEEL.NS')":1142.6999511719,
+    "('Open', 'JSWSTEEL.NS')":1158.0,
+    "('Volume', 'JSWSTEEL.NS')":737972
+  },
+  {
+    "('Date', '')":"2025-10-09",
+    "('Close', 'JSWSTEEL.NS')":1175.1999511719,
+    "('High', 'JSWSTEEL.NS')":1178.8000488281,
+    "('Low', 'JSWSTEEL.NS')":1146.0,
+    "('Open', 'JSWSTEEL.NS')":1146.0,
+    "('Volume', 'JSWSTEEL.NS')":2001612
+  },
+  {
+    "('Date', '')":"2025-10-10",
+    "('Close', 'JSWSTEEL.NS')":1167.8000488281,
+    "('High', 'JSWSTEEL.NS')":1175.0,
+    "('Low', 'JSWSTEEL.NS')":1156.4000244141,
+    "('Open', 'JSWSTEEL.NS')":1174.0,
+    "('Volume', 'JSWSTEEL.NS')":1457768
+  },
+  {
+    "('Date', '')":"2025-10-13",
+    "('Close', 'JSWSTEEL.NS')":1161.4000244141,
+    "('High', 'JSWSTEEL.NS')":1164.9000244141,
+    "('Low', 'JSWSTEEL.NS')":1153.5999755859,
+    "('Open', 'JSWSTEEL.NS')":1160.9000244141,
+    "('Volume', 'JSWSTEEL.NS')":488298
+  },
+  {
+    "('Date', '')":"2025-10-14",
+    "('Close', 'JSWSTEEL.NS')":1147.8000488281,
+    "('High', 'JSWSTEEL.NS')":1169.5999755859,
+    "('Low', 'JSWSTEEL.NS')":1139.4000244141,
+    "('Open', 'JSWSTEEL.NS')":1165.0,
+    "('Volume', 'JSWSTEEL.NS')":1408990
+  },
+  {
+    "('Date', '')":"2025-10-15",
+    "('Close', 'JSWSTEEL.NS')":1160.8000488281,
+    "('High', 'JSWSTEEL.NS')":1163.6999511719,
+    "('Low', 'JSWSTEEL.NS')":1145.0,
+    "('Open', 'JSWSTEEL.NS')":1147.8000488281,
+    "('Volume', 'JSWSTEEL.NS')":1284749
+  },
+  {
+    "('Date', '')":"2025-10-16",
+    "('Close', 'JSWSTEEL.NS')":1172.0999755859,
+    "('High', 'JSWSTEEL.NS')":1173.5,
+    "('Low', 'JSWSTEEL.NS')":1158.5999755859,
+    "('Open', 'JSWSTEEL.NS')":1165.0,
+    "('Volume', 'JSWSTEEL.NS')":655759
+  },
+  {
+    "('Date', '')":"2025-10-17",
+    "('Close', 'JSWSTEEL.NS')":1163.3000488281,
+    "('High', 'JSWSTEEL.NS')":1178.0,
+    "('Low', 'JSWSTEEL.NS')":1149.5999755859,
+    "('Open', 'JSWSTEEL.NS')":1175.0,
+    "('Volume', 'JSWSTEEL.NS')":2207267
+  },
+  {
+    "('Date', '')":"2025-10-20",
+    "('Close', 'JSWSTEEL.NS')":1145.1999511719,
+    "('High', 'JSWSTEEL.NS')":1174.5999755859,
+    "('Low', 'JSWSTEEL.NS')":1139.4000244141,
+    "('Open', 'JSWSTEEL.NS')":1174.5999755859,
+    "('Volume', 'JSWSTEEL.NS')":1214428
+  },
+  {
+    "('Date', '')":"2025-10-21",
+    "('Close', 'JSWSTEEL.NS')":1152.5,
+    "('High', 'JSWSTEEL.NS')":1154.6999511719,
+    "('Low', 'JSWSTEEL.NS')":1148.5999755859,
+    "('Open', 'JSWSTEEL.NS')":1150.0,
+    "('Volume', 'JSWSTEEL.NS')":115719
+  },
+  {
+    "('Date', '')":"2025-10-23",
+    "('Close', 'JSWSTEEL.NS')":1138.1999511719,
+    "('High', 'JSWSTEEL.NS')":1162.5,
+    "('Low', 'JSWSTEEL.NS')":1135.0999755859,
+    "('Open', 'JSWSTEEL.NS')":1161.0,
+    "('Volume', 'JSWSTEEL.NS')":1740322
+  },
+  {
+    "('Date', '')":"2025-10-24",
+    "('Close', 'JSWSTEEL.NS')":1141.4000244141,
+    "('High', 'JSWSTEEL.NS')":1151.0,
+    "('Low', 'JSWSTEEL.NS')":1131.5,
+    "('Open', 'JSWSTEEL.NS')":1140.0,
+    "('Volume', 'JSWSTEEL.NS')":1320560
+  },
+  {
+    "('Date', '')":"2025-10-27",
+    "('Close', 'JSWSTEEL.NS')":1150.5999755859,
+    "('High', 'JSWSTEEL.NS')":1156.6999511719,
+    "('Low', 'JSWSTEEL.NS')":1143.1999511719,
+    "('Open', 'JSWSTEEL.NS')":1147.8000488281,
+    "('Volume', 'JSWSTEEL.NS')":1275776
+  },
+  {
+    "('Date', '')":"2025-10-28",
+    "('Close', 'JSWSTEEL.NS')":1184.1999511719,
+    "('High', 'JSWSTEEL.NS')":1186.4000244141,
+    "('Low', 'JSWSTEEL.NS')":1145.0,
+    "('Open', 'JSWSTEEL.NS')":1145.5999755859,
+    "('Volume', 'JSWSTEEL.NS')":3451230
+  },
+  {
+    "('Date', '')":"2025-10-29",
+    "('Close', 'JSWSTEEL.NS')":1207.9000244141,
+    "('High', 'JSWSTEEL.NS')":1223.9000244141,
+    "('Low', 'JSWSTEEL.NS')":1185.5,
+    "('Open', 'JSWSTEEL.NS')":1189.1999511719,
+    "('Volume', 'JSWSTEEL.NS')":3819737
+  },
+  {
+    "('Date', '')":"2025-10-30",
+    "('Close', 'JSWSTEEL.NS')":1210.0,
+    "('High', 'JSWSTEEL.NS')":1211.5999755859,
+    "('Low', 'JSWSTEEL.NS')":1199.4000244141,
+    "('Open', 'JSWSTEEL.NS')":1207.9000244141,
+    "('Volume', 'JSWSTEEL.NS')":1273913
+  },
+  {
+    "('Date', '')":"2025-10-31",
+    "('Close', 'JSWSTEEL.NS')":1206.0,
+    "('High', 'JSWSTEEL.NS')":1216.0,
+    "('Low', 'JSWSTEEL.NS')":1199.0,
+    "('Open', 'JSWSTEEL.NS')":1210.0,
+    "('Volume', 'JSWSTEEL.NS')":1337807
+  },
+  {
+    "('Date', '')":"2025-11-03",
+    "('Close', 'JSWSTEEL.NS')":1195.0,
+    "('High', 'JSWSTEEL.NS')":1217.5,
+    "('Low', 'JSWSTEEL.NS')":1190.0,
+    "('Open', 'JSWSTEEL.NS')":1213.9000244141,
+    "('Volume', 'JSWSTEEL.NS')":1486643
+  },
+  {
+    "('Date', '')":"2025-11-04",
+    "('Close', 'JSWSTEEL.NS')":1181.4000244141,
+    "('High', 'JSWSTEEL.NS')":1202.5999755859,
+    "('Low', 'JSWSTEEL.NS')":1175.1999511719,
+    "('Open', 'JSWSTEEL.NS')":1202.5999755859,
+    "('Volume', 'JSWSTEEL.NS')":1110884
+  },
+  {
+    "('Date', '')":"2025-11-06",
+    "('Close', 'JSWSTEEL.NS')":1168.8000488281,
+    "('High', 'JSWSTEEL.NS')":1183.5,
+    "('Low', 'JSWSTEEL.NS')":1161.5999755859,
+    "('Open', 'JSWSTEEL.NS')":1181.4000244141,
+    "('Volume', 'JSWSTEEL.NS')":1304994
+  },
+  {
+    "('Date', '')":"2025-11-07",
+    "('Close', 'JSWSTEEL.NS')":1171.6999511719,
+    "('High', 'JSWSTEEL.NS')":1182.9000244141,
+    "('Low', 'JSWSTEEL.NS')":1151.1999511719,
+    "('Open', 'JSWSTEEL.NS')":1160.0999755859,
+    "('Volume', 'JSWSTEEL.NS')":845047
+  },
+  {
+    "('Date', '')":"2025-11-10",
+    "('Close', 'JSWSTEEL.NS')":1179.3000488281,
+    "('High', 'JSWSTEEL.NS')":1185.0,
+    "('Low', 'JSWSTEEL.NS')":1172.0,
+    "('Open', 'JSWSTEEL.NS')":1174.0,
+    "('Volume', 'JSWSTEEL.NS')":740226
+  },
+  {
+    "('Date', '')":"2025-11-11",
+    "('Close', 'JSWSTEEL.NS')":1191.5,
+    "('High', 'JSWSTEEL.NS')":1206.6999511719,
+    "('Low', 'JSWSTEEL.NS')":1166.0999755859,
+    "('Open', 'JSWSTEEL.NS')":1187.0,
+    "('Volume', 'JSWSTEEL.NS')":1588667
+  }
+]

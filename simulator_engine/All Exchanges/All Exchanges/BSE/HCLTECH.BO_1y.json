@@ -1,0 +1,1986 @@
+[
+  {
+    "('Date', '')":"2024-11-13",
+    "('Close', 'HCLTECH.BO')":1796.1647949219,
+    "('High', 'HCLTECH.BO')":1811.1453259073,
+    "('Low', 'HCLTECH.BO')":1791.0107612643,
+    "('Open', 'HCLTECH.BO')":1795.4422635419,
+    "('Volume', 'HCLTECH.BO')":23260
+  },
+  {
+    "('Date', '')":"2024-11-14",
+    "('Close', 'HCLTECH.BO')":1791.2515869141,
+    "('High', 'HCLTECH.BO')":1827.5226853434,
+    "('Low', 'HCLTECH.BO')":1778.7277097873,
+    "('Open', 'HCLTECH.BO')":1792.7448654574,
+    "('Volume', 'HCLTECH.BO')":40804
+  },
+  {
+    "('Date', '')":"2024-11-18",
+    "('Close', 'HCLTECH.BO')":1765.9149169922,
+    "('High', 'HCLTECH.BO')":1794.6234267356,
+    "('Low', 'HCLTECH.BO')":1748.3814181937,
+    "('Open', 'HCLTECH.BO')":1787.2054849051,
+    "('Volume', 'HCLTECH.BO')":56462
+  },
+  {
+    "('Date', '')":"2024-11-19",
+    "('Close', 'HCLTECH.BO')":1753.5355224609,
+    "('High', 'HCLTECH.BO')":1796.2130916021,
+    "('Low', 'HCLTECH.BO')":1750.4527688072,
+    "('Open', 'HCLTECH.BO')":1758.2079863417,
+    "('Volume', 'HCLTECH.BO')":56710
+  },
+  {
+    "('Date', '')":"2024-11-21",
+    "('Close', 'HCLTECH.BO')":1768.8531494141,
+    "('High', 'HCLTECH.BO')":1774.6816163091,
+    "('Low', 'HCLTECH.BO')":1754.2579918764,
+    "('Open', 'HCLTECH.BO')":1762.9765843196,
+    "('Volume', 'HCLTECH.BO')":20085
+  },
+  {
+    "('Date', '')":"2024-11-22",
+    "('Close', 'HCLTECH.BO')":1829.4975585938,
+    "('High', 'HCLTECH.BO')":1832.3394681423,
+    "('Low', 'HCLTECH.BO')":1768.6603965811,
+    "('Open', 'HCLTECH.BO')":1783.3999652762,
+    "('Volume', 'HCLTECH.BO')":82273
+  },
+  {
+    "('Date', '')":"2024-11-25",
+    "('Close', 'HCLTECH.BO')":1822.7058105469,
+    "('High', 'HCLTECH.BO')":1850.6436903068,
+    "('Low', 'HCLTECH.BO')":1809.8928738241,
+    "('Open', 'HCLTECH.BO')":1849.6803151427,
+    "('Volume', 'HCLTECH.BO')":162308
+  },
+  {
+    "('Date', '')":"2024-11-26",
+    "('Close', 'HCLTECH.BO')":1829.1602783203,
+    "('High', 'HCLTECH.BO')":1844.6707117049,
+    "('Low', 'HCLTECH.BO')":1819.911900764,
+    "('Open', 'HCLTECH.BO')":1822.6574963136,
+    "('Volume', 'HCLTECH.BO')":79952
+  },
+  {
+    "('Date', '')":"2024-11-27",
+    "('Close', 'HCLTECH.BO')":1820.8753662109,
+    "('High', 'HCLTECH.BO')":1846.1158659601,
+    "('Low', 'HCLTECH.BO')":1817.7926127391,
+    "('Open', 'HCLTECH.BO')":1837.0601159371,
+    "('Volume', 'HCLTECH.BO')":26803
+  },
+  {
+    "('Date', '')":"2024-11-28",
+    "('Close', 'HCLTECH.BO')":1774.5853271484,
+    "('High', 'HCLTECH.BO')":1828.5824363342,
+    "('Low', 'HCLTECH.BO')":1768.5642321724,
+    "('Open', 'HCLTECH.BO')":1820.7309049655,
+    "('Volume', 'HCLTECH.BO')":76914
+  },
+  {
+    "('Date', '')":"2024-11-29",
+    "('Close', 'HCLTECH.BO')":1781.1844482422,
+    "('High', 'HCLTECH.BO')":1803.3420780592,
+    "('Low', 'HCLTECH.BO')":1766.7819183014,
+    "('Open', 'HCLTECH.BO')":1774.5853515775,
+    "('Volume', 'HCLTECH.BO')":121538
+  },
+  {
+    "('Date', '')":"2024-12-02",
+    "('Close', 'HCLTECH.BO')":1802.1859130859,
+    "('High', 'HCLTECH.BO')":1808.2552237964,
+    "('Low', 'HCLTECH.BO')":1768.5159973811,
+    "('Open', 'HCLTECH.BO')":1782.2440937791,
+    "('Volume', 'HCLTECH.BO')":50938
+  },
+  {
+    "('Date', '')":"2024-12-03",
+    "('Close', 'HCLTECH.BO')":1819.8638916016,
+    "('High', 'HCLTECH.BO')":1826.5593019185,
+    "('Low', 'HCLTECH.BO')":1804.6907328435,
+    "('Open', 'HCLTECH.BO')":1807.1954847377,
+    "('Volume', 'HCLTECH.BO')":80659
+  },
+  {
+    "('Date', '')":"2024-12-04",
+    "('Close', 'HCLTECH.BO')":1826.3184814453,
+    "('High', 'HCLTECH.BO')":1841.4434245987,
+    "('Low', 'HCLTECH.BO')":1809.0740423549,
+    "('Open', 'HCLTECH.BO')":1815.7213545584,
+    "('Volume', 'HCLTECH.BO')":121877
+  },
+  {
+    "('Date', '')":"2024-12-05",
+    "('Close', 'HCLTECH.BO')":1851.3179931641,
+    "('High', 'HCLTECH.BO')":1866.491151895,
+    "('Low', 'HCLTECH.BO')":1815.57679834,
+    "('Open', 'HCLTECH.BO')":1817.888922238,
+    "('Volume', 'HCLTECH.BO')":99665
+  },
+  {
+    "('Date', '')":"2024-12-06",
+    "('Close', 'HCLTECH.BO')":1852.5704345703,
+    "('High', 'HCLTECH.BO')":1868.0807511422,
+    "('Low', 'HCLTECH.BO')":1844.7671192863,
+    "('Open', 'HCLTECH.BO')":1851.5588436115,
+    "('Volume', 'HCLTECH.BO')":149145
+  },
+  {
+    "('Date', '')":"2024-12-09",
+    "('Close', 'HCLTECH.BO')":1839.5167236328,
+    "('High', 'HCLTECH.BO')":1855.5088459892,
+    "('Low', 'HCLTECH.BO')":1831.7134080538,
+    "('Open', 'HCLTECH.BO')":1845.248876617,
+    "('Volume', 'HCLTECH.BO')":31360
+  },
+  {
+    "('Date', '')":"2024-12-10",
+    "('Close', 'HCLTECH.BO')":1864.2271728516,
+    "('High', 'HCLTECH.BO')":1871.1635442814,
+    "('Low', 'HCLTECH.BO')":1839.6130090734,
+    "('Open', 'HCLTECH.BO')":1839.6130090734,
+    "('Volume', 'HCLTECH.BO')":140636
+  },
+  {
+    "('Date', '')":"2024-12-11",
+    "('Close', 'HCLTECH.BO')":1859.4586181641,
+    "('High', 'HCLTECH.BO')":1863.7455906544,
+    "('Low', 'HCLTECH.BO')":1846.3567392996,
+    "('Open', 'HCLTECH.BO')":1859.3140883679,
+    "('Volume', 'HCLTECH.BO')":48615
+  },
+  {
+    "('Date', '')":"2024-12-12",
+    "('Close', 'HCLTECH.BO')":1864.7572021484,
+    "('High', 'HCLTECH.BO')":1877.2810795654,
+    "('Low', 'HCLTECH.BO')":1853.9673295064,
+    "('Open', 'HCLTECH.BO')":1859.3141088281,
+    "('Volume', 'HCLTECH.BO')":60988
+  },
+  {
+    "('Date', '')":"2024-12-13",
+    "('Close', 'HCLTECH.BO')":1896.2114257812,
+    "('High', 'HCLTECH.BO')":1902.6659924881,
+    "('Low', 'HCLTECH.BO')":1843.9001061378,
+    "('Open', 'HCLTECH.BO')":1866.0577354175,
+    "('Volume', 'HCLTECH.BO')":97608
+  },
+  {
+    "('Date', '')":"2024-12-16",
+    "('Close', 'HCLTECH.BO')":1882.1943359375,
+    "('High', 'HCLTECH.BO')":1906.9530320499,
+    "('Low', 'HCLTECH.BO')":1879.4487400806,
+    "('Open', 'HCLTECH.BO')":1898.5234988755,
+    "('Volume', 'HCLTECH.BO')":46395
+  },
+  {
+    "('Date', '')":"2024-12-17",
+    "('Close', 'HCLTECH.BO')":1879.8820800781,
+    "('High', 'HCLTECH.BO')":1891.2980521139,
+    "('Low', 'HCLTECH.BO')":1866.6838875303,
+    "('Open', 'HCLTECH.BO')":1877.4255439993,
+    "('Volume', 'HCLTECH.BO')":16433
+  },
+  {
+    "('Date', '')":"2024-12-18",
+    "('Close', 'HCLTECH.BO')":1887.4445800781,
+    "('High', 'HCLTECH.BO')":1898.8124540881,
+    "('Low', 'HCLTECH.BO')":1872.0305774067,
+    "('Open', 'HCLTECH.BO')":1872.0305774067,
+    "('Volume', 'HCLTECH.BO')":146746
+  },
+  {
+    "('Date', '')":"2024-12-19",
+    "('Close', 'HCLTECH.BO')":1862.5413818359,
+    "('High', 'HCLTECH.BO')":1873.8610402076,
+    "('Low', 'HCLTECH.BO')":1847.7535963341,
+    "('Open', 'HCLTECH.BO')":1849.6803466952,
+    "('Volume', 'HCLTECH.BO')":19315
+  },
+  {
+    "('Date', '')":"2024-12-20",
+    "('Close', 'HCLTECH.BO')":1841.2025146484,
+    "('High', 'HCLTECH.BO')":1887.8781105921,
+    "('Low', 'HCLTECH.BO')":1827.5226347439,
+    "('Open', 'HCLTECH.BO')":1887.8781105921,
+    "('Volume', 'HCLTECH.BO')":48787
+  },
+  {
+    "('Date', '')":"2024-12-23",
+    "('Close', 'HCLTECH.BO')":1833.6401367188,
+    "('High', 'HCLTECH.BO')":1864.2755146728,
+    "('Low', 'HCLTECH.BO')":1830.1720095691,
+    "('Open', 'HCLTECH.BO')":1849.6803570853,
+    "('Volume', 'HCLTECH.BO')":79186
+  },
+  {
+    "('Date', '')":"2024-12-24",
+    "('Close', 'HCLTECH.BO')":1826.8485107422,
+    "('High', 'HCLTECH.BO')":1852.5705825553,
+    "('Low', 'HCLTECH.BO')":1820.5383558939,
+    "('Open', 'HCLTECH.BO')":1835.5669860858,
+    "('Volume', 'HCLTECH.BO')":23540
+  },
+  {
+    "('Date', '')":"2024-12-26",
+    "('Close', 'HCLTECH.BO')":1831.8096923828,
+    "('High', 'HCLTECH.BO')":1849.632133246,
+    "('Low', 'HCLTECH.BO')":1819.3340308184,
+    "('Open', 'HCLTECH.BO')":1849.632133246,
+    "('Volume', 'HCLTECH.BO')":22705
+  },
+  {
+    "('Date', '')":"2024-12-27",
+    "('Close', 'HCLTECH.BO')":1822.3686523438,
+    "('High', 'HCLTECH.BO')":1833.0620931433,
+    "('Low', 'HCLTECH.BO')":1813.842805663,
+    "('Open', 'HCLTECH.BO')":1832.3395617704,
+    "('Volume', 'HCLTECH.BO')":51723
+  },
+  {
+    "('Date', '')":"2024-12-30",
+    "('Close', 'HCLTECH.BO')":1858.3507080078,
+    "('High', 'HCLTECH.BO')":1895.1034943636,
+    "('Low', 'HCLTECH.BO')":1798.2842895141,
+    "('Open', 'HCLTECH.BO')":1816.2512600036,
+    "('Volume', 'HCLTECH.BO')":51663
+  },
+  {
+    "('Date', '')":"2024-12-31",
+    "('Close', 'HCLTECH.BO')":1848.0908203125,
+    "('High', 'HCLTECH.BO')":1856.8094130487,
+    "('Low', 'HCLTECH.BO')":1811.0490903328,
+    "('Open', 'HCLTECH.BO')":1840.0948765871,
+    "('Volume', 'HCLTECH.BO')":30524
+  },
+  {
+    "('Date', '')":"2025-01-01",
+    "('Close', 'HCLTECH.BO')":1843.0811767578,
+    "('High', 'HCLTECH.BO')":1866.0576503786,
+    "('Low', 'HCLTECH.BO')":1838.2160852501,
+    "('Open', 'HCLTECH.BO')":1848.0906804573,
+    "('Volume', 'HCLTECH.BO')":58005
+  },
+  {
+    "('Date', '')":"2025-01-02",
+    "('Close', 'HCLTECH.BO')":1899.1978759766,
+    "('High', 'HCLTECH.BO')":1903.9665361345,
+    "('Low', 'HCLTECH.BO')":1816.9738269048,
+    "('Open', 'HCLTECH.BO')":1816.9738269048,
+    "('Volume', 'HCLTECH.BO')":126990
+  },
+  {
+    "('Date', '')":"2025-01-03",
+    "('Close', 'HCLTECH.BO')":1875.9322509766,
+    "('High', 'HCLTECH.BO')":1918.9950729154,
+    "('Low', 'HCLTECH.BO')":1871.0671594548,
+    "('Open', 'HCLTECH.BO')":1899.9684138029,
+    "('Volume', 'HCLTECH.BO')":164121
+  },
+  {
+    "('Date', '')":"2025-01-06",
+    "('Close', 'HCLTECH.BO')":1880.8455810547,
+    "('High', 'HCLTECH.BO')":1901.2209904105,
+    "('Low', 'HCLTECH.BO')":1858.5916370659,
+    "('Open', 'HCLTECH.BO')":1875.9806067694,
+    "('Volume', 'HCLTECH.BO')":62618
+  },
+  {
+    "('Date', '')":"2025-01-07",
+    "('Close', 'HCLTECH.BO')":1844.7188720703,
+    "('High', 'HCLTECH.BO')":1907.4345704623,
+    "('Low', 'HCLTECH.BO')":1839.3239947806,
+    "('Open', 'HCLTECH.BO')":1888.2152833678,
+    "('Volume', 'HCLTECH.BO')":40602
+  },
+  {
+    "('Date', '')":"2025-01-08",
+    "('Close', 'HCLTECH.BO')":1862.5413818359,
+    "('High', 'HCLTECH.BO')":1867.8399453291,
+    "('Low', 'HCLTECH.BO')":1825.4996531828,
+    "('Open', 'HCLTECH.BO')":1843.8037816136,
+    "('Volume', 'HCLTECH.BO')":66800
+  },
+  {
+    "('Date', '')":"2025-01-09",
+    "('Close', 'HCLTECH.BO')":1864.2271728516,
+    "('High', 'HCLTECH.BO')":1872.8012349471,
+    "('Low', 'HCLTECH.BO')":1850.2101354028,
+    "('Open', 'HCLTECH.BO')":1859.2657674592,
+    "('Volume', 'HCLTECH.BO')":46511
+  },
+  {
+    "('Date', '')":"2025-01-10",
+    "('Close', 'HCLTECH.BO')":1922.5113525391,
+    "('High', 'HCLTECH.BO')":1928.0989752359,
+    "('Low', 'HCLTECH.BO')":1863.8417846205,
+    "('Open', 'HCLTECH.BO')":1863.8417846205,
+    "('Volume', 'HCLTECH.BO')":133968
+  },
+  {
+    "('Date', '')":"2025-01-13",
+    "('Close', 'HCLTECH.BO')":1912.5405273438,
+    "('High', 'HCLTECH.BO')":1937.3474375964,
+    "('Low', 'HCLTECH.BO')":1893.5620838213,
+    "('Open', 'HCLTECH.BO')":1922.8968102648,
+    "('Volume', 'HCLTECH.BO')":123686
+  },
+  {
+    "('Date', '')":"2025-01-14",
+    "('Close', 'HCLTECH.BO')":1747.5142822266,
+    "('High', 'HCLTECH.BO')":1868.8995494542,
+    "('Low', 'HCLTECH.BO')":1732.5338694102,
+    "('Open', 'HCLTECH.BO')":1868.8995494542,
+    "('Volume', 'HCLTECH.BO')":356753
+  },
+  {
+    "('Date', '')":"2025-01-15",
+    "('Close', 'HCLTECH.BO')":1759.0267333984,
+    "('High', 'HCLTECH.BO')":1774.5370500007,
+    "('Low', 'HCLTECH.BO')":1746.6473860755,
+    "('Open', 'HCLTECH.BO')":1771.5023947178,
+    "('Volume', 'HCLTECH.BO')":71584
+  },
+  {
+    "('Date', '')":"2025-01-16",
+    "('Close', 'HCLTECH.BO')":1726.0792236328,
+    "('High', 'HCLTECH.BO')":1777.3789507988,
+    "('Low', 'HCLTECH.BO')":1719.7209711096,
+    "('Open', 'HCLTECH.BO')":1777.3789507988,
+    "('Volume', 'HCLTECH.BO')":95395
+  },
+  {
+    "('Date', '')":"2025-01-17",
+    "('Close', 'HCLTECH.BO')":1741.5036621094,
+    "('High', 'HCLTECH.BO')":1744.5689949122,
+    "('Low', 'HCLTECH.BO')":1703.5993323394,
+    "('Open', 'HCLTECH.BO')":1727.0036781052,
+    "('Volume', 'HCLTECH.BO')":27261
+  },
+  {
+    "('Date', '')":"2025-01-20",
+    "('Close', 'HCLTECH.BO')":1747.5372314453,
+    "('High', 'HCLTECH.BO')":1750.1646936176,
+    "('Low', 'HCLTECH.BO')":1716.6396638004,
+    "('Open', 'HCLTECH.BO')":1741.503738194,
+    "('Volume', 'HCLTECH.BO')":50490
+  },
+  {
+    "('Date', '')":"2025-01-21",
+    "('Close', 'HCLTECH.BO')":1753.3275146484,
+    "('High', 'HCLTECH.BO')":1772.2553880467,
+    "('Low', 'HCLTECH.BO')":1745.347717569,
+    "('Open', 'HCLTECH.BO')":1747.488603968,
+    "('Volume', 'HCLTECH.BO')":188309
+  },
+  {
+    "('Date', '')":"2025-01-22",
+    "('Close', 'HCLTECH.BO')":1778.3375244141,
+    "('High', 'HCLTECH.BO')":1781.5975590046,
+    "('Low', 'HCLTECH.BO')":1755.6630412149,
+    "('Open', 'HCLTECH.BO')":1756.3443187129,
+    "('Volume', 'HCLTECH.BO')":19971
+  },
+  {
+    "('Date', '')":"2025-01-23",
+    "('Close', 'HCLTECH.BO')":1757.3660888672,
+    "('High', 'HCLTECH.BO')":1778.9701292989,
+    "('Low', 'HCLTECH.BO')":1754.4466335758,
+    "('Open', 'HCLTECH.BO')":1776.975120666,
+    "('Volume', 'HCLTECH.BO')":25452
+  },
+  {
+    "('Date', '')":"2025-01-24",
+    "('Close', 'HCLTECH.BO')":1745.396484375,
+    "('High', 'HCLTECH.BO')":1779.4080927738,
+    "('Low', 'HCLTECH.BO')":1742.9636048388,
+    "('Open', 'HCLTECH.BO')":1755.663164742,
+    "('Volume', 'HCLTECH.BO')":28915
+  },
+  {
+    "('Date', '')":"2025-01-27",
+    "('Close', 'HCLTECH.BO')":1665.1599121094,
+    "('High', 'HCLTECH.BO')":1733.2319473346,
+    "('Low', 'HCLTECH.BO')":1661.3645965795,
+    "('Open', 'HCLTECH.BO')":1733.2319473346,
+    "('Volume', 'HCLTECH.BO')":71367
+  },
+  {
+    "('Date', '')":"2025-01-28",
+    "('Close', 'HCLTECH.BO')":1648.3244628906,
+    "('High', 'HCLTECH.BO')":1683.4552169069,
+    "('Low', 'HCLTECH.BO')":1645.3563025698,
+    "('Open', 'HCLTECH.BO')":1667.0576338647,
+    "('Volume', 'HCLTECH.BO')":65510
+  },
+  {
+    "('Date', '')":"2025-01-29",
+    "('Close', 'HCLTECH.BO')":1673.1883544922,
+    "('High', 'HCLTECH.BO')":1678.1028181027,
+    "('Low', 'HCLTECH.BO')":1651.3897326164,
+    "('Open', 'HCLTECH.BO')":1654.1633100005,
+    "('Volume', 'HCLTECH.BO')":30490
+  },
+  {
+    "('Date', '')":"2025-01-30",
+    "('Close', 'HCLTECH.BO')":1667.7875976562,
+    "('High', 'HCLTECH.BO')":1685.4989128491,
+    "('Low', 'HCLTECH.BO')":1652.4117517424,
+    "('Open', 'HCLTECH.BO')":1674.6969516582,
+    "('Volume', 'HCLTECH.BO')":28646
+  },
+  {
+    "('Date', '')":"2025-01-31",
+    "('Close', 'HCLTECH.BO')":1678.8813476562,
+    "('High', 'HCLTECH.BO')":1691.0944496074,
+    "('Low', 'HCLTECH.BO')":1664.089488608,
+    "('Open', 'HCLTECH.BO')":1667.7875127665,
+    "('Volume', 'HCLTECH.BO')":35217
+  },
+  {
+    "('Date', '')":"2025-02-01",
+    "('Close', 'HCLTECH.BO')":1647.3026123047,
+    "('High', 'HCLTECH.BO')":1698.0037943361,
+    "('Low', 'HCLTECH.BO')":1642.7288466316,
+    "('Open', 'HCLTECH.BO')":1698.0037943361,
+    "('Volume', 'HCLTECH.BO')":21340
+  },
+  {
+    "('Date', '')":"2025-02-03",
+    "('Close', 'HCLTECH.BO')":1646.6214599609,
+    "('High', 'HCLTECH.BO')":1655.1365377417,
+    "('Low', 'HCLTECH.BO')":1617.3782024654,
+    "('Open', 'HCLTECH.BO')":1632.9486304073,
+    "('Volume', 'HCLTECH.BO')":17173
+  },
+  {
+    "('Date', '')":"2025-02-04",
+    "('Close', 'HCLTECH.BO')":1687.0559082031,
+    "('High', 'HCLTECH.BO')":1689.3914962422,
+    "('Low', 'HCLTECH.BO')":1647.2539764974,
+    "('Open', 'HCLTECH.BO')":1653.3361751445,
+    "('Volume', 'HCLTECH.BO')":100819
+  },
+  {
+    "('Date', '')":"2025-02-05",
+    "('Close', 'HCLTECH.BO')":1666.8143310547,
+    "('High', 'HCLTECH.BO')":1699.5122054318,
+    "('Low', 'HCLTECH.BO')":1663.7974656566,
+    "('Open', 'HCLTECH.BO')":1678.6867346463,
+    "('Volume', 'HCLTECH.BO')":31021
+  },
+  {
+    "('Date', '')":"2025-02-06",
+    "('Close', 'HCLTECH.BO')":1677.4703369141,
+    "('High', 'HCLTECH.BO')":1690.8998786441,
+    "('Low', 'HCLTECH.BO')":1667.0089555526,
+    "('Open', 'HCLTECH.BO')":1690.8998786441,
+    "('Volume', 'HCLTECH.BO')":16735
+  },
+  {
+    "('Date', '')":"2025-02-07",
+    "('Close', 'HCLTECH.BO')":1679.7086181641,
+    "('High', 'HCLTECH.BO')":1684.1363873312,
+    "('Low', 'HCLTECH.BO')":1655.3311194174,
+    "('Open', 'HCLTECH.BO')":1674.0155854174,
+    "('Volume', 'HCLTECH.BO')":18731
+  },
+  {
+    "('Date', '')":"2025-02-10",
+    "('Close', 'HCLTECH.BO')":1686.4233398438,
+    "('High', 'HCLTECH.BO')":1693.2841074515,
+    "('Low', 'HCLTECH.BO')":1665.69527808,
+    "('Open', 'HCLTECH.BO')":1679.659982449,
+    "('Volume', 'HCLTECH.BO')":39267
+  },
+  {
+    "('Date', '')":"2025-02-11",
+    "('Close', 'HCLTECH.BO')":1676.1566162109,
+    "('High', 'HCLTECH.BO')":1702.0424292842,
+    "('Low', 'HCLTECH.BO')":1668.0308227685,
+    "('Open', 'HCLTECH.BO')":1701.993724179,
+    "('Volume', 'HCLTECH.BO')":50720
+  },
+  {
+    "('Date', '')":"2025-02-12",
+    "('Close', 'HCLTECH.BO')":1671.0960693359,
+    "('High', 'HCLTECH.BO')":1693.0893930221,
+    "('Low', 'HCLTECH.BO')":1654.3579074367,
+    "('Open', 'HCLTECH.BO')":1677.2269726277,
+    "('Volume', 'HCLTECH.BO')":16590
+  },
+  {
+    "('Date', '')":"2025-02-13",
+    "('Close', 'HCLTECH.BO')":1656.7420654297,
+    "('High', 'HCLTECH.BO')":1682.7738734248,
+    "('Low', 'HCLTECH.BO')":1654.7471757189,
+    "('Open', 'HCLTECH.BO')":1662.1918099882,
+    "('Volume', 'HCLTECH.BO')":13875
+  },
+  {
+    "('Date', '')":"2025-02-14",
+    "('Close', 'HCLTECH.BO')":1664.8680419922,
+    "('High', 'HCLTECH.BO')":1677.0324387253,
+    "('Low', 'HCLTECH.BO')":1655.1851109169,
+    "('Open', 'HCLTECH.BO')":1673.7722853664,
+    "('Volume', 'HCLTECH.BO')":22198
+  },
+  {
+    "('Date', '')":"2025-02-17",
+    "('Close', 'HCLTECH.BO')":1663.7973632812,
+    "('High', 'HCLTECH.BO')":1672.5557283144,
+    "('Low', 'HCLTECH.BO')":1649.2487933267,
+    "('Open', 'HCLTECH.BO')":1669.684978404,
+    "('Volume', 'HCLTECH.BO')":14443
+  },
+  {
+    "('Date', '')":"2025-02-18",
+    "('Close', 'HCLTECH.BO')":1678.4434814453,
+    "('High', 'HCLTECH.BO')":1682.2873833421,
+    "('Low', 'HCLTECH.BO')":1657.3261359795,
+    "('Open', 'HCLTECH.BO')":1662.9703448559,
+    "('Volume', 'HCLTECH.BO')":125076
+  },
+  {
+    "('Date', '')":"2025-02-19",
+    "('Close', 'HCLTECH.BO')":1665.0139160156,
+    "('High', 'HCLTECH.BO')":1684.9635266135,
+    "('Low', 'HCLTECH.BO')":1657.763983096,
+    "('Open', 'HCLTECH.BO')":1682.8226403104,
+    "('Volume', 'HCLTECH.BO')":14354
+  },
+  {
+    "('Date', '')":"2025-02-20",
+    "('Close', 'HCLTECH.BO')":1642.8747558594,
+    "('High', 'HCLTECH.BO')":1667.9821188173,
+    "('Low', 'HCLTECH.BO')":1638.7875659792,
+    "('Open', 'HCLTECH.BO')":1660.1969047272,
+    "('Volume', 'HCLTECH.BO')":10252
+  },
+  {
+    "('Date', '')":"2025-02-21",
+    "('Close', 'HCLTECH.BO')":1655.1851806641,
+    "('High', 'HCLTECH.BO')":1658.2506325286,
+    "('Low', 'HCLTECH.BO')":1640.1986194988,
+    "('Open', 'HCLTECH.BO')":1642.923491999,
+    "('Volume', 'HCLTECH.BO')":23550
+  },
+  {
+    "('Date', '')":"2025-02-24",
+    "('Close', 'HCLTECH.BO')":1600.2507324219,
+    "('High', 'HCLTECH.BO')":1654.747229433,
+    "('Low', 'HCLTECH.BO')":1593.4872566063,
+    "('Open', 'HCLTECH.BO')":1654.747229433,
+    "('Volume', 'HCLTECH.BO')":89681
+  },
+  {
+    "('Date', '')":"2025-02-25",
+    "('Close', 'HCLTECH.BO')":1592.8547363281,
+    "('High', 'HCLTECH.BO')":1607.8898824462,
+    "('Low', 'HCLTECH.BO')":1588.232265793,
+    "('Open', 'HCLTECH.BO')":1599.8613809905,
+    "('Volume', 'HCLTECH.BO')":119166
+  },
+  {
+    "('Date', '')":"2025-02-27",
+    "('Close', 'HCLTECH.BO')":1587.4538574219,
+    "('High', 'HCLTECH.BO')":1611.4906591175,
+    "('Low', 'HCLTECH.BO')":1571.6401408345,
+    "('Open', 'HCLTECH.BO')":1576.5058997845,
+    "('Volume', 'HCLTECH.BO')":132045
+  },
+  {
+    "('Date', '')":"2025-02-28",
+    "('Close', 'HCLTECH.BO')":1532.6652832031,
+    "('High', 'HCLTECH.BO')":1569.4504664397,
+    "('Low', 'HCLTECH.BO')":1521.5227433132,
+    "('Open', 'HCLTECH.BO')":1567.6014543777,
+    "('Volume', 'HCLTECH.BO')":159295
+  },
+  {
+    "('Date', '')":"2025-03-03",
+    "('Close', 'HCLTECH.BO')":1530.6704101562,
+    "('High', 'HCLTECH.BO')":1559.2810953428,
+    "('Low', 'HCLTECH.BO')":1527.2643790339,
+    "('Open', 'HCLTECH.BO')":1532.7140050711,
+    "('Volume', 'HCLTECH.BO')":54444
+  },
+  {
+    "('Date', '')":"2025-03-04",
+    "('Close', 'HCLTECH.BO')":1494.6638183594,
+    "('High', 'HCLTECH.BO')":1515.9758657535,
+    "('Low', 'HCLTECH.BO')":1482.7427092482,
+    "('Open', 'HCLTECH.BO')":1513.299698402,
+    "('Volume', 'HCLTECH.BO')":61970
+  },
+  {
+    "('Date', '')":"2025-03-05",
+    "('Close', 'HCLTECH.BO')":1530.2811279297,
+    "('High', 'HCLTECH.BO')":1538.5529178104,
+    "('Low', 'HCLTECH.BO')":1488.9221785262,
+    "('Open', 'HCLTECH.BO')":1488.9221785262,
+    "('Volume', 'HCLTECH.BO')":70252
+  },
+  {
+    "('Date', '')":"2025-03-06",
+    "('Close', 'HCLTECH.BO')":1542.5914306641,
+    "('High', 'HCLTECH.BO')":1551.2037993927,
+    "('Low', 'HCLTECH.BO')":1533.8816517317,
+    "('Open', 'HCLTECH.BO')":1537.5796756841,
+    "('Volume', 'HCLTECH.BO')":101001
+  },
+  {
+    "('Date', '')":"2025-03-07",
+    "('Close', 'HCLTECH.BO')":1516.4624023438,
+    "('High', 'HCLTECH.BO')":1548.722287456,
+    "('Low', 'HCLTECH.BO')":1514.0781093075,
+    "('Open', 'HCLTECH.BO')":1548.722287456,
+    "('Volume', 'HCLTECH.BO')":58501
+  },
+  {
+    "('Date', '')":"2025-03-10",
+    "('Close', 'HCLTECH.BO')":1507.7039794922,
+    "('High', 'HCLTECH.BO')":1529.7944756114,
+    "('Low', 'HCLTECH.BO')":1505.3196865464,
+    "('Open', 'HCLTECH.BO')":1526.680437682,
+    "('Volume', 'HCLTECH.BO')":38237
+  },
+  {
+    "('Date', '')":"2025-03-11",
+    "('Close', 'HCLTECH.BO')":1526.0479736328,
+    "('High', 'HCLTECH.BO')":1531.1570204312,
+    "('Low', 'HCLTECH.BO')":1480.4071318089,
+    "('Open', 'HCLTECH.BO')":1496.6587188694,
+    "('Volume', 'HCLTECH.BO')":57485
+  },
+  {
+    "('Date', '')":"2025-03-12",
+    "('Close', 'HCLTECH.BO')":1496.9019775391,
+    "('High', 'HCLTECH.BO')":1518.1167332517,
+    "('Low', 'HCLTECH.BO')":1466.8802697458,
+    "('Open', 'HCLTECH.BO')":1513.299679596,
+    "('Volume', 'HCLTECH.BO')":219315
+  },
+  {
+    "('Date', '')":"2025-03-13",
+    "('Close', 'HCLTECH.BO')":1493.3500976562,
+    "('High', 'HCLTECH.BO')":1505.9036604674,
+    "('Low', 'HCLTECH.BO')":1488.6302165327,
+    "('Open', 'HCLTECH.BO')":1503.5194861457,
+    "('Volume', 'HCLTECH.BO')":60216
+  },
+  {
+    "('Date', '')":"2025-03-17",
+    "('Close', 'HCLTECH.BO')":1504.1032714844,
+    "('High', 'HCLTECH.BO')":1506.3415679528,
+    "('Low', 'HCLTECH.BO')":1478.4607474753,
+    "('Open', 'HCLTECH.BO')":1493.3013111739,
+    "('Volume', 'HCLTECH.BO')":10074
+  },
+  {
+    "('Date', '')":"2025-03-18",
+    "('Close', 'HCLTECH.BO')":1516.6569824219,
+    "('High', 'HCLTECH.BO')":1519.6251427375,
+    "('Low', 'HCLTECH.BO')":1490.2845941024,
+    "('Open', 'HCLTECH.BO')":1504.1033012534,
+    "('Volume', 'HCLTECH.BO')":121676
+  },
+  {
+    "('Date', '')":"2025-03-19",
+    "('Close', 'HCLTECH.BO')":1502.0596923828,
+    "('High', 'HCLTECH.BO')":1517.4355372046,
+    "('Low', 'HCLTECH.BO')":1484.0563854122,
+    "('Open', 'HCLTECH.BO')":1515.1972407127,
+    "('Volume', 'HCLTECH.BO')":199848
+  },
+  {
+    "('Date', '')":"2025-03-20",
+    "('Close', 'HCLTECH.BO')":1518.8953857422,
+    "('High', 'HCLTECH.BO')":1539.2828685529,
+    "('Low', 'HCLTECH.BO')":1506.7309881718,
+    "('Open', 'HCLTECH.BO')":1508.3852987242,
+    "('Volume', 'HCLTECH.BO')":72921
+  },
+  {
+    "('Date', '')":"2025-03-21",
+    "('Close', 'HCLTECH.BO')":1525.5614013672,
+    "('High', 'HCLTECH.BO')":1549.3549147102,
+    "('Low', 'HCLTECH.BO')":1480.3584302159,
+    "('Open', 'HCLTECH.BO')":1503.5194899405,
+    "('Volume', 'HCLTECH.BO')":195678
+  },
+  {
+    "('Date', '')":"2025-03-24",
+    "('Close', 'HCLTECH.BO')":1561.0325927734,
+    "('High', 'HCLTECH.BO')":1567.4067838217,
+    "('Low', 'HCLTECH.BO')":1518.311210081,
+    "('Open', 'HCLTECH.BO')":1541.4722676808,
+    "('Volume', 'HCLTECH.BO')":157032
+  },
+  {
+    "('Date', '')":"2025-03-25",
+    "('Close', 'HCLTECH.BO')":1582.5880126953,
+    "('High', 'HCLTECH.BO')":1614.4587320901,
+    "('Low', 'HCLTECH.BO')":1575.6786591195,
+    "('Open', 'HCLTECH.BO')":1587.2591885513,
+    "('Volume', 'HCLTECH.BO')":254327
+  },
+  {
+    "('Date', '')":"2025-03-26",
+    "('Close', 'HCLTECH.BO')":1589.4488525391,
+    "('High', 'HCLTECH.BO')":1599.4236583013,
+    "('Low', 'HCLTECH.BO')":1579.4253416706,
+    "('Open', 'HCLTECH.BO')":1595.8229254333,
+    "('Volume', 'HCLTECH.BO')":150123
+  },
+  {
+    "('Date', '')":"2025-03-27",
+    "('Close', 'HCLTECH.BO')":1583.1234130859,
+    "('High', 'HCLTECH.BO')":1594.217248693,
+    "('Low', 'HCLTECH.BO')":1568.9640067238,
+    "('Open', 'HCLTECH.BO')":1577.7223730196,
+    "('Volume', 'HCLTECH.BO')":180655
+  },
+  {
+    "('Date', '')":"2025-03-28",
+    "('Close', 'HCLTECH.BO')":1548.2357177734,
+    "('High', 'HCLTECH.BO')":1582.3447338776,
+    "('Low', 'HCLTECH.BO')":1540.4505038306,
+    "('Open', 'HCLTECH.BO')":1582.3447338776,
+    "('Volume', 'HCLTECH.BO')":77978
+  },
+  {
+    "('Date', '')":"2025-04-01",
+    "('Close', 'HCLTECH.BO')":1488.3869628906,
+    "('High', 'HCLTECH.BO')":1542.5428839516,
+    "('Low', 'HCLTECH.BO')":1486.002788514,
+    "('Open', 'HCLTECH.BO')":1524.0529998771,
+    "('Volume', 'HCLTECH.BO')":81274
+  },
+  {
+    "('Date', '')":"2025-04-02",
+    "('Close', 'HCLTECH.BO')":1486.4406738281,
+    "('High', 'HCLTECH.BO')":1496.7074728659,
+    "('Low', 'HCLTECH.BO')":1467.1236342991,
+    "('Open', 'HCLTECH.BO')":1484.6403667513,
+    "('Volume', 'HCLTECH.BO')":72696
+  },
+  {
+    "('Date', '')":"2025-04-03",
+    "('Close', 'HCLTECH.BO')":1431.3116455078,
+    "('High', 'HCLTECH.BO')":1469.4591466997,
+    "('Low', 'HCLTECH.BO')":1427.6136213301,
+    "('Open', 'HCLTECH.BO')":1469.4591466997,
+    "('Volume', 'HCLTECH.BO')":71308
+  },
+  {
+    "('Date', '')":"2025-04-04",
+    "('Close', 'HCLTECH.BO')":1383.6271972656,
+    "('High', 'HCLTECH.BO')":1418.6119549485,
+    "('Low', 'HCLTECH.BO')":1380.415748993,
+    "('Open', 'HCLTECH.BO')":1402.7009476912,
+    "('Volume', 'HCLTECH.BO')":120784
+  },
+  {
+    "('Date', '')":"2025-04-07",
+    "('Close', 'HCLTECH.BO')":1338.3757324219,
+    "('High', 'HCLTECH.BO')":1347.3773866685,
+    "('Low', 'HCLTECH.BO')":1268.98996082,
+    "('Open', 'HCLTECH.BO')":1280.716487653,
+    "('Volume', 'HCLTECH.BO')":119755
+  },
+  {
+    "('Date', '')":"2025-04-08",
+    "('Close', 'HCLTECH.BO')":1365.5264892578,
+    "('High', 'HCLTECH.BO')":1385.7680931924,
+    "('Low', 'HCLTECH.BO')":1335.1642021489,
+    "('Open', 'HCLTECH.BO')":1339.2028056734,
+    "('Volume', 'HCLTECH.BO')":251580
+  },
+  {
+    "('Date', '')":"2025-04-09",
+    "('Close', 'HCLTECH.BO')":1343.3873291016,
+    "('High', 'HCLTECH.BO')":1355.211147004,
+    "('Low', 'HCLTECH.BO')":1322.4159794884,
+    "('Open', 'HCLTECH.BO')":1355.211147004,
+    "('Volume', 'HCLTECH.BO')":169594
+  },
+  {
+    "('Date', '')":"2025-04-11",
+    "('Close', 'HCLTECH.BO')":1352.9729003906,
+    "('High', 'HCLTECH.BO')":1386.7412179707,
+    "('Low', 'HCLTECH.BO')":1328.3521140561,
+    "('Open', 'HCLTECH.BO')":1335.5534606309,
+    "('Volume', 'HCLTECH.BO')":266049
+  },
+  {
+    "('Date', '')":"2025-04-15",
+    "('Close', 'HCLTECH.BO')":1388.3469238281,
+    "('High', 'HCLTECH.BO')":1390.7310980228,
+    "('Low', 'HCLTECH.BO')":1367.8134463135,
+    "('Open', 'HCLTECH.BO')":1380.4644186619,
+    "('Volume', 'HCLTECH.BO')":63046
+  },
+  {
+    "('Date', '')":"2025-04-16",
+    "('Close', 'HCLTECH.BO')":1393.7479248047,
+    "('High', 'HCLTECH.BO')":1396.1322179295,
+    "('Low', 'HCLTECH.BO')":1367.8135250322,
+    "('Open', 'HCLTECH.BO')":1383.7731191097,
+    "('Volume', 'HCLTECH.BO')":83640
+  },
+  {
+    "('Date', '')":"2025-04-17",
+    "('Close', 'HCLTECH.BO')":1399.4409179688,
+    "('High', 'HCLTECH.BO')":1403.2848198541,
+    "('Low', 'HCLTECH.BO')":1346.8420185007,
+    "('Open', 'HCLTECH.BO')":1386.6925350425,
+    "('Volume', 'HCLTECH.BO')":112914
+  },
+  {
+    "('Date', '')":"2025-04-21",
+    "('Close', 'HCLTECH.BO')":1440.3619384766,
+    "('High', 'HCLTECH.BO')":1458.6572396185,
+    "('Low', 'HCLTECH.BO')":1395.4996647829,
+    "('Open', 'HCLTECH.BO')":1399.3922719371,
+    "('Volume', 'HCLTECH.BO')":173288
+  },
+  {
+    "('Date', '')":"2025-04-22",
+    "('Close', 'HCLTECH.BO')":1440.3619384766,
+    "('High', 'HCLTECH.BO')":1459.1438155128,
+    "('Low', 'HCLTECH.BO')":1425.5700788078,
+    "('Open', 'HCLTECH.BO')":1457.1975119357,
+    "('Volume', 'HCLTECH.BO')":205724
+  },
+  {
+    "('Date', '')":"2025-04-23",
+    "('Close', 'HCLTECH.BO')":1551.4958496094,
+    "('High', 'HCLTECH.BO')":1556.6534824991,
+    "('Low', 'HCLTECH.BO')":1505.8550097446,
+    "('Open', 'HCLTECH.BO')":1508.4824718966,
+    "('Volume', 'HCLTECH.BO')":592468
+  },
+  {
+    "('Date', '')":"2025-04-24",
+    "('Close', 'HCLTECH.BO')":1544.2945556641,
+    "('High', 'HCLTECH.BO')":1561.8598737014,
+    "('Low', 'HCLTECH.BO')":1533.7844691119,
+    "('Open', 'HCLTECH.BO')":1561.8598737014,
+    "('Volume', 'HCLTECH.BO')":230496
+  },
+  {
+    "('Date', '')":"2025-04-25",
+    "('Close', 'HCLTECH.BO')":1536.8985595703,
+    "('High', 'HCLTECH.BO')":1573.8783249461,
+    "('Low', 'HCLTECH.BO')":1526.2911820592,
+    "('Open', 'HCLTECH.BO')":1543.4186285799,
+    "('Volume', 'HCLTECH.BO')":129033
+  },
+  {
+    "('Date', '')":"2025-04-28",
+    "('Close', 'HCLTECH.BO')":1525.1845703125,
+    "('High', 'HCLTECH.BO')":1545.1180846162,
+    "('Low', 'HCLTECH.BO')":1513.2737043166,
+    "('Open', 'HCLTECH.BO')":1536.60325077,
+    "('Volume', 'HCLTECH.BO')":80193
+  },
+  {
+    "('Date', '')":"2025-04-29",
+    "('Close', 'HCLTECH.BO')":1546.8406982422,
+    "('High', 'HCLTECH.BO')":1556.3399029455,
+    "('Low', 'HCLTECH.BO')":1523.9048046197,
+    "('Open', 'HCLTECH.BO')":1540.097780555,
+    "('Volume', 'HCLTECH.BO')":73524
+  },
+  {
+    "('Date', '')":"2025-04-30",
+    "('Close', 'HCLTECH.BO')":1539.6055908203,
+    "('High', 'HCLTECH.BO')":1561.655406239,
+    "('Low', 'HCLTECH.BO')":1532.1242747006,
+    "('Open', 'HCLTECH.BO')":1548.218837519,
+    "('Volume', 'HCLTECH.BO')":60281
+  },
+  {
+    "('Date', '')":"2025-05-02",
+    "('Close', 'HCLTECH.BO')":1551.2705078125,
+    "('High', 'HCLTECH.BO')":1556.2415099856,
+    "('Low', 'HCLTECH.BO')":1533.2564678361,
+    "('Open', 'HCLTECH.BO')":1539.6548802636,
+    "('Volume', 'HCLTECH.BO')":27207
+  },
+  {
+    "('Date', '')":"2025-05-05",
+    "('Close', 'HCLTECH.BO')":1544.5766601562,
+    "('High', 'HCLTECH.BO')":1572.0406377219,
+    "('Low', 'HCLTECH.BO')":1539.4087119108,
+    "('Open', 'HCLTECH.BO')":1547.775866213,
+    "('Volume', 'HCLTECH.BO')":43945
+  },
+  {
+    "('Date', '')":"2025-05-06",
+    "('Close', 'HCLTECH.BO')":1554.4204101562,
+    "('High', 'HCLTECH.BO')":1558.7516671128,
+    "('Low', 'HCLTECH.BO')":1540.2947086295,
+    "('Open', 'HCLTECH.BO')":1546.397761503,
+    "('Volume', 'HCLTECH.BO')":75099
+  },
+  {
+    "('Date', '')":"2025-05-07",
+    "('Close', 'HCLTECH.BO')":1538.2274169922,
+    "('High', 'HCLTECH.BO')":1552.845302783,
+    "('Low', 'HCLTECH.BO')":1521.837615279,
+    "('Open', 'HCLTECH.BO')":1521.837615279,
+    "('Volume', 'HCLTECH.BO')":121431
+  },
+  {
+    "('Date', '')":"2025-05-08",
+    "('Close', 'HCLTECH.BO')":1554.4204101562,
+    "('High', 'HCLTECH.BO')":1572.7296889392,
+    "('Low', 'HCLTECH.BO')":1531.4353685575,
+    "('Open', 'HCLTECH.BO')":1531.4353685575,
+    "('Volume', 'HCLTECH.BO')":29880
+  },
+  {
+    "('Date', '')":"2025-05-09",
+    "('Close', 'HCLTECH.BO')":1545.3642578125,
+    "('High', 'HCLTECH.BO')":1552.0579093851,
+    "('Low', 'HCLTECH.BO')":1525.7752483337,
+    "('Open', 'HCLTECH.BO')":1525.7752483337,
+    "('Volume', 'HCLTECH.BO')":57658
+  },
+  {
+    "('Date', '')":"2025-05-12",
+    "('Close', 'HCLTECH.BO')":1643.5551757812,
+    "('High', 'HCLTECH.BO')":1648.2309383487,
+    "('Low', 'HCLTECH.BO')":1565.7405948826,
+    "('Open', 'HCLTECH.BO')":1565.7405948826,
+    "('Volume', 'HCLTECH.BO')":143715
+  },
+  {
+    "('Date', '')":"2025-05-13",
+    "('Close', 'HCLTECH.BO')":1595.1241455078,
+    "('High', 'HCLTECH.BO')":1658.5669367733,
+    "('Low', 'HCLTECH.BO')":1590.7930086768,
+    "('Open', 'HCLTECH.BO')":1653.0544824917,
+    "('Volume', 'HCLTECH.BO')":119920
+  },
+  {
+    "('Date', '')":"2025-05-14",
+    "('Close', 'HCLTECH.BO')":1612.1536865234,
+    "('High', 'HCLTECH.BO')":1617.2232214615,
+    "('Low', 'HCLTECH.BO')":1593.8935554879,
+    "('Open', 'HCLTECH.BO')":1596.0099772771,
+    "('Volume', 'HCLTECH.BO')":40855
+  },
+  {
+    "('Date', '')":"2025-05-15",
+    "('Close', 'HCLTECH.BO')":1669.5427246094,
+    "('High', 'HCLTECH.BO')":1676.1872298225,
+    "('Low', 'HCLTECH.BO')":1599.6031068569,
+    "('Open', 'HCLTECH.BO')":1614.5655001606,
+    "('Volume', 'HCLTECH.BO')":193467
+  },
+  {
+    "('Date', '')":"2025-05-16",
+    "('Close', 'HCLTECH.BO')":1633.8099365234,
+    "('High', 'HCLTECH.BO')":1673.1355139828,
+    "('Low', 'HCLTECH.BO')":1632.087287095,
+    "('Open', 'HCLTECH.BO')":1673.1355139828,
+    "('Volume', 'HCLTECH.BO')":106463
+  },
+  {
+    "('Date', '')":"2025-05-19",
+    "('Close', 'HCLTECH.BO')":1623.8677978516,
+    "('High', 'HCLTECH.BO')":1638.9286034793,
+    "('Low', 'HCLTECH.BO')":1613.9748203004,
+    "('Open', 'HCLTECH.BO')":1638.9286034793,
+    "('Volume', 'HCLTECH.BO')":85017
+  },
+  {
+    "('Date', '')":"2025-05-20",
+    "('Close', 'HCLTECH.BO')":1612.6458740234,
+    "('High', 'HCLTECH.BO')":1639.6668113037,
+    "('Low', 'HCLTECH.BO')":1610.4310391591,
+    "('Open', 'HCLTECH.BO')":1639.6668113037,
+    "('Volume', 'HCLTECH.BO')":110812
+  },
+  {
+    "('Date', '')":"2025-05-21",
+    "('Close', 'HCLTECH.BO')":1625.7872314453,
+    "('High', 'HCLTECH.BO')":1632.037963693,
+    "('Low', 'HCLTECH.BO')":1602.8021910461,
+    "('Open', 'HCLTECH.BO')":1623.9661690025,
+    "('Volume', 'HCLTECH.BO')":21935
+  },
+  {
+    "('Date', '')":"2025-05-22",
+    "('Close', 'HCLTECH.BO')":1608.4130859375,
+    "('High', 'HCLTECH.BO')":1633.6130818383,
+    "('Low', 'HCLTECH.BO')":1589.7593019456,
+    "('Open', 'HCLTECH.BO')":1633.6130818383,
+    "('Volume', 'HCLTECH.BO')":92683
+  },
+  {
+    "('Date', '')":"2025-05-23",
+    "('Close', 'HCLTECH.BO')":1622.4897460938,
+    "('High', 'HCLTECH.BO')":1643.8998185813,
+    "('Low', 'HCLTECH.BO')":1599.603116883,
+    "('Open', 'HCLTECH.BO')":1604.672652332,
+    "('Volume', 'HCLTECH.BO')":69412
+  },
+  {
+    "('Date', '')":"2025-05-26",
+    "('Close', 'HCLTECH.BO')":1647.2957763672,
+    "('High', 'HCLTECH.BO')":1649.3630518161,
+    "('Low', 'HCLTECH.BO')":1622.2928464488,
+    "('Open', 'HCLTECH.BO')":1624.4584148132,
+    "('Volume', 'HCLTECH.BO')":99890
+  },
+  {
+    "('Date', '')":"2025-05-27",
+    "('Close', 'HCLTECH.BO')":1626.6732177734,
+    "('High', 'HCLTECH.BO')":1649.2153396498,
+    "('Low', 'HCLTECH.BO')":1616.4357344581,
+    "('Open', 'HCLTECH.BO')":1648.7231541074,
+    "('Volume', 'HCLTECH.BO')":99071
+  },
+  {
+    "('Date', '')":"2025-05-28",
+    "('Close', 'HCLTECH.BO')":1631.7427978516,
+    "('High', 'HCLTECH.BO')":1641.5865089716,
+    "('Low', 'HCLTECH.BO')":1620.9147156195,
+    "('Open', 'HCLTECH.BO')":1641.5865089716,
+    "('Volume', 'HCLTECH.BO')":70532
+  },
+  {
+    "('Date', '')":"2025-05-29",
+    "('Close', 'HCLTECH.BO')":1638.8795166016,
+    "('High', 'HCLTECH.BO')":1649.4122396162,
+    "('Low', 'HCLTECH.BO')":1630.1185895215,
+    "('Open', 'HCLTECH.BO')":1643.8997853266,
+    "('Volume', 'HCLTECH.BO')":90973
+  },
+  {
+    "('Date', '')":"2025-05-30",
+    "('Close', 'HCLTECH.BO')":1611.9569091797,
+    "('High', 'HCLTECH.BO')":1635.0403629272,
+    "('Low', 'HCLTECH.BO')":1603.638901461,
+    "('Open', 'HCLTECH.BO')":1634.1544049233,
+    "('Volume', 'HCLTECH.BO')":39629
+  },
+  {
+    "('Date', '')":"2025-06-02",
+    "('Close', 'HCLTECH.BO')":1606.2967529297,
+    "('High', 'HCLTECH.BO')":1609.8404647334,
+    "('Low', 'HCLTECH.BO')":1580.8999313719,
+    "('Open', 'HCLTECH.BO')":1604.7216630947,
+    "('Volume', 'HCLTECH.BO')":139461
+  },
+  {
+    "('Date', '')":"2025-06-03",
+    "('Close', 'HCLTECH.BO')":1604.7709960938,
+    "('High', 'HCLTECH.BO')":1625.1966965501,
+    "('Low', 'HCLTECH.BO')":1591.826492013,
+    "('Open', 'HCLTECH.BO')":1614.4178810008,
+    "('Volume', 'HCLTECH.BO')":176846
+  },
+  {
+    "('Date', '')":"2025-06-04",
+    "('Close', 'HCLTECH.BO')":1600.1937255859,
+    "('High', 'HCLTECH.BO')":1619.2412834033,
+    "('Low', 'HCLTECH.BO')":1597.1914656606,
+    "('Open', 'HCLTECH.BO')":1611.5139938688,
+    "('Volume', 'HCLTECH.BO')":99780
+  },
+  {
+    "('Date', '')":"2025-06-05",
+    "('Close', 'HCLTECH.BO')":1606.5920410156,
+    "('High', 'HCLTECH.BO')":1627.0670078681,
+    "('Low', 'HCLTECH.BO')":1600.2428955143,
+    "('Open', 'HCLTECH.BO')":1604.5741523672,
+    "('Volume', 'HCLTECH.BO')":15070
+  },
+  {
+    "('Date', '')":"2025-06-06",
+    "('Close', 'HCLTECH.BO')":1611.8092041016,
+    "('High', 'HCLTECH.BO')":1614.2208651432,
+    "('Low', 'HCLTECH.BO')":1596.6991323028,
+    "('Open', 'HCLTECH.BO')":1609.2990098236,
+    "('Volume', 'HCLTECH.BO')":51516
+  },
+  {
+    "('Date', '')":"2025-06-09",
+    "('Close', 'HCLTECH.BO')":1622.7357177734,
+    "('High', 'HCLTECH.BO')":1631.693470527,
+    "('Low', 'HCLTECH.BO')":1614.3685636327,
+    "('Open', 'HCLTECH.BO')":1614.9591622454,
+    "('Volume', 'HCLTECH.BO')":21188
+  },
+  {
+    "('Date', '')":"2025-06-10",
+    "('Close', 'HCLTECH.BO')":1641.8818359375,
+    "('High', 'HCLTECH.BO')":1658.3700529446,
+    "('Low', 'HCLTECH.BO')":1623.6218229316,
+    "('Open', 'HCLTECH.BO')":1623.6218229316,
+    "('Volume', 'HCLTECH.BO')":315879
+  },
+  {
+    "('Date', '')":"2025-06-11",
+    "('Close', 'HCLTECH.BO')":1694.6932373047,
+    "('High', 'HCLTECH.BO')":1698.040123029,
+    "('Low', 'HCLTECH.BO')":1640.0114955852,
+    "('Open', 'HCLTECH.BO')":1646.065281633,
+    "('Volume', 'HCLTECH.BO')":124217
+  },
+  {
+    "('Date', '')":"2025-06-12",
+    "('Close', 'HCLTECH.BO')":1675.4979248047,
+    "('High', 'HCLTECH.BO')":1696.8095818742,
+    "('Low', 'HCLTECH.BO')":1668.5089144463,
+    "('Open', 'HCLTECH.BO')":1695.1361991696,
+    "('Volume', 'HCLTECH.BO')":176598
+  },
+  {
+    "('Date', '')":"2025-06-13",
+    "('Close', 'HCLTECH.BO')":1668.361328125,
+    "('High', 'HCLTECH.BO')":1684.1605322818,
+    "('Low', 'HCLTECH.BO')":1637.8950907669,
+    "('Open', 'HCLTECH.BO')":1643.2598651755,
+    "('Volume', 'HCLTECH.BO')":51436
+  },
+  {
+    "('Date', '')":"2025-06-16",
+    "('Close', 'HCLTECH.BO')":1696.1207275391,
+    "('High', 'HCLTECH.BO')":1701.9776877111,
+    "('Low', 'HCLTECH.BO')":1655.8106575747,
+    "('Open', 'HCLTECH.BO')":1655.8106575747,
+    "('Volume', 'HCLTECH.BO')":40697
+  },
+  {
+    "('Date', '')":"2025-06-17",
+    "('Close', 'HCLTECH.BO')":1703.1097412109,
+    "('High', 'HCLTECH.BO')":1710.8370305789,
+    "('Low', 'HCLTECH.BO')":1694.102721304,
+    "('Open', 'HCLTECH.BO')":1699.6151756209,
+    "('Volume', 'HCLTECH.BO')":477283
+  },
+  {
+    "('Date', '')":"2025-06-18",
+    "('Close', 'HCLTECH.BO')":1688.8854980469,
+    "('High', 'HCLTECH.BO')":1717.5307940322,
+    "('Low', 'HCLTECH.BO')":1683.5207234585,
+    "('Open', 'HCLTECH.BO')":1695.3331770072,
+    "('Volume', 'HCLTECH.BO')":88245
+  },
+  {
+    "('Date', '')":"2025-06-19",
+    "('Close', 'HCLTECH.BO')":1687.1136474609,
+    "('High', 'HCLTECH.BO')":1690.1159072098,
+    "('Low', 'HCLTECH.BO')":1671.3637099063,
+    "('Open', 'HCLTECH.BO')":1688.2456982552,
+    "('Volume', 'HCLTECH.BO')":142327
+  },
+  {
+    "('Date', '')":"2025-06-20",
+    "('Close', 'HCLTECH.BO')":1712.5595703125,
+    "('High', 'HCLTECH.BO')":1715.6110965993,
+    "('Low', 'HCLTECH.BO')":1683.2745309581,
+    "('Open', 'HCLTECH.BO')":1689.3775835317,
+    "('Volume', 'HCLTECH.BO')":16821
+  },
+  {
+    "('Date', '')":"2025-06-23",
+    "('Close', 'HCLTECH.BO')":1676.6300048828,
+    "('High', 'HCLTECH.BO')":1707.8345193628,
+    "('Low', 'HCLTECH.BO')":1673.4307989437,
+    "('Open', 'HCLTECH.BO')":1707.8345193628,
+    "('Volume', 'HCLTECH.BO')":118538
+  },
+  {
+    "('Date', '')":"2025-06-24",
+    "('Close', 'HCLTECH.BO')":1665.0637207031,
+    "('High', 'HCLTECH.BO')":1705.1768431499,
+    "('Low', 'HCLTECH.BO')":1662.061340774,
+    "('Open', 'HCLTECH.BO')":1688.3932677789,
+    "('Volume', 'HCLTECH.BO')":610304
+  },
+  {
+    "('Date', '')":"2025-06-25",
+    "('Close', 'HCLTECH.BO')":1689.8206787109,
+    "('High', 'HCLTECH.BO')":1693.1182978749,
+    "('Low', 'HCLTECH.BO')":1665.8019997551,
+    "('Open', 'HCLTECH.BO')":1665.8019997551,
+    "('Volume', 'HCLTECH.BO')":38726
+  },
+  {
+    "('Date', '')":"2025-06-26",
+    "('Close', 'HCLTECH.BO')":1696.7603759766,
+    "('High', 'HCLTECH.BO')":1699.0244775168,
+    "('Low', 'HCLTECH.BO')":1668.5582407735,
+    "('Open', 'HCLTECH.BO')":1668.5582407735,
+    "('Volume', 'HCLTECH.BO')":70483
+  },
+  {
+    "('Date', '')":"2025-06-27",
+    "('Close', 'HCLTECH.BO')":1698.1385498047,
+    "('High', 'HCLTECH.BO')":1724.6181562592,
+    "('Low', 'HCLTECH.BO')":1684.3082080349,
+    "('Open', 'HCLTECH.BO')":1720.6314052645,
+    "('Volume', 'HCLTECH.BO')":41862
+  },
+  {
+    "('Date', '')":"2025-06-30",
+    "('Close', 'HCLTECH.BO')":1700.6979980469,
+    "('High', 'HCLTECH.BO')":1707.0964105605,
+    "('Low', 'HCLTECH.BO')":1686.0309639534,
+    "('Open', 'HCLTECH.BO')":1698.237070157,
+    "('Volume', 'HCLTECH.BO')":25510
+  },
+  {
+    "('Date', '')":"2025-07-01",
+    "('Close', 'HCLTECH.BO')":1691.3463134766,
+    "('High', 'HCLTECH.BO')":1717.727506047,
+    "('Low', 'HCLTECH.BO')":1686.9659103084,
+    "('Open', 'HCLTECH.BO')":1716.4477755993,
+    "('Volume', 'HCLTECH.BO')":36149
+  },
+  {
+    "('Date', '')":"2025-07-02",
+    "('Close', 'HCLTECH.BO')":1691.2479248047,
+    "('High', 'HCLTECH.BO')":1710.7876666673,
+    "('Low', 'HCLTECH.BO')":1684.4065938787,
+    "('Open', 'HCLTECH.BO')":1699.7627586605,
+    "('Volume', 'HCLTECH.BO')":207163
+  },
+  {
+    "('Date', '')":"2025-07-03",
+    "('Close', 'HCLTECH.BO')":1683.9636230469,
+    "('High', 'HCLTECH.BO')":1702.9127670633,
+    "('Low', 'HCLTECH.BO')":1680.1246718177,
+    "('Open', 'HCLTECH.BO')":1691.2479933506,
+    "('Volume', 'HCLTECH.BO')":70319
+  },
+  {
+    "('Date', '')":"2025-07-04",
+    "('Close', 'HCLTECH.BO')":1698.3846435547,
+    "('High', 'HCLTECH.BO')":1700.6978915938,
+    "('Low', 'HCLTECH.BO')":1679.6815927626,
+    "('Open', 'HCLTECH.BO')":1685.7354990252,
+    "('Volume', 'HCLTECH.BO')":11367
+  },
+  {
+    "('Date', '')":"2025-07-07",
+    "('Close', 'HCLTECH.BO')":1683.8159179688,
+    "('High', 'HCLTECH.BO')":1698.0400313256,
+    "('Low', 'HCLTECH.BO')":1677.3682396399,
+    "('Open', 'HCLTECH.BO')":1698.0400313256,
+    "('Volume', 'HCLTECH.BO')":49883
+  },
+  {
+    "('Date', '')":"2025-07-08",
+    "('Close', 'HCLTECH.BO')":1681.9948730469,
+    "('High', 'HCLTECH.BO')":1691.9862638783,
+    "('Low', 'HCLTECH.BO')":1661.224666591,
+    "('Open', 'HCLTECH.BO')":1683.1269238595,
+    "('Volume', 'HCLTECH.BO')":51007
+  },
+  {
+    "('Date', '')":"2025-07-09",
+    "('Close', 'HCLTECH.BO')":1647.8864746094,
+    "('High', 'HCLTECH.BO')":1684.9479500928,
+    "('Low', 'HCLTECH.BO')":1645.3762802598,
+    "('Open', 'HCLTECH.BO')":1681.9948368168,
+    "('Volume', 'HCLTECH.BO')":200073
+  },
+  {
+    "('Date', '')":"2025-07-10",
+    "('Close', 'HCLTECH.BO')":1637.3536376953,
+    "('High', 'HCLTECH.BO')":1653.7434404682,
+    "('Low', 'HCLTECH.BO')":1623.2279365071,
+    "('Open', 'HCLTECH.BO')":1653.7434404682,
+    "('Volume', 'HCLTECH.BO')":102987
+  },
+  {
+    "('Date', '')":"2025-07-11",
+    "('Close', 'HCLTECH.BO')":1611.4155273438,
+    "('High', 'HCLTECH.BO')":1629.5279800281,
+    "('Low', 'HCLTECH.BO')":1604.5249294871,
+    "('Open', 'HCLTECH.BO')":1622.3420227697,
+    "('Volume', 'HCLTECH.BO')":117164
+  },
+  {
+    "('Date', '')":"2025-07-14",
+    "('Close', 'HCLTECH.BO')":1594.6318359375,
+    "('High', 'HCLTECH.BO')":1626.5254820211,
+    "('Low', 'HCLTECH.BO')":1581.9335455101,
+    "('Open', 'HCLTECH.BO')":1626.5254820211,
+    "('Volume', 'HCLTECH.BO')":101505
+  },
+  {
+    "('Date', '')":"2025-07-15",
+    "('Close', 'HCLTECH.BO')":1542.5587158203,
+    "('High', 'HCLTECH.BO')":1595.419393615,
+    "('Low', 'HCLTECH.BO')":1526.2673267315,
+    "('Open', 'HCLTECH.BO')":1565.2483966291,
+    "('Volume', 'HCLTECH.BO')":300735
+  },
+  {
+    "('Date', '')":"2025-07-16",
+    "('Close', 'HCLTECH.BO')":1538.4244384766,
+    "('High', 'HCLTECH.BO')":1549.3017878249,
+    "('Low', 'HCLTECH.BO')":1536.1111902904,
+    "('Open', 'HCLTECH.BO')":1549.3017878249,
+    "('Volume', 'HCLTECH.BO')":245101
+  },
+  {
+    "('Date', '')":"2025-07-17",
+    "('Close', 'HCLTECH.BO')":1519.9674072266,
+    "('High', 'HCLTECH.BO')":1541.918931049,
+    "('Low', 'HCLTECH.BO')":1517.9002519276,
+    "('Open', 'HCLTECH.BO')":1538.5720452418,
+    "('Volume', 'HCLTECH.BO')":522163
+  },
+  {
+    "('Date', '')":"2025-07-18",
+    "('Close', 'HCLTECH.BO')":1536.783203125,
+    "('High', 'HCLTECH.BO')":1537.6759791895,
+    "('Low', 'HCLTECH.BO')":1517.9336631237,
+    "('Open', 'HCLTECH.BO')":1535.6918170841,
+    "('Volume', 'HCLTECH.BO')":78509
+  },
+  {
+    "('Date', '')":"2025-07-21",
+    "('Close', 'HCLTECH.BO')":1518.181640625,
+    "('High', 'HCLTECH.BO')":1536.7831598392,
+    "('Low', 'HCLTECH.BO')":1514.0148276588,
+    "('Open', 'HCLTECH.BO')":1536.7831598392,
+    "('Volume', 'HCLTECH.BO')":205129
+  },
+  {
+    "('Date', '')":"2025-07-22",
+    "('Close', 'HCLTECH.BO')":1508.3601074219,
+    "('High', 'HCLTECH.BO')":1527.6065047116,
+    "('Low', 'HCLTECH.BO')":1506.2767613619,
+    "('Open', 'HCLTECH.BO')":1527.6065047116,
+    "('Volume', 'HCLTECH.BO')":31521
+  },
+  {
+    "('Date', '')":"2025-07-23",
+    "('Close', 'HCLTECH.BO')":1517.93359375,
+    "('High', 'HCLTECH.BO')":1523.7867748105,
+    "('Low', 'HCLTECH.BO')":1506.4750096736,
+    "('Open', 'HCLTECH.BO')":1508.3599878083,
+    "('Volume', 'HCLTECH.BO')":46863
+  },
+  {
+    "('Date', '')":"2025-07-24",
+    "('Close', 'HCLTECH.BO')":1495.0164794922,
+    "('High', 'HCLTECH.BO')":1523.7868297427,
+    "('Low', 'HCLTECH.BO')":1490.1057267702,
+    "('Open', 'HCLTECH.BO')":1517.9831798612,
+    "('Volume', 'HCLTECH.BO')":89836
+  },
+  {
+    "('Date', '')":"2025-07-25",
+    "('Close', 'HCLTECH.BO')":1478.1015625,
+    "('High', 'HCLTECH.BO')":1499.3321209305,
+    "('Low', 'HCLTECH.BO')":1476.2165843074,
+    "('Open', 'HCLTECH.BO')":1492.8835941846,
+    "('Volume', 'HCLTECH.BO')":127163
+  },
+  {
+    "('Date', '')":"2025-07-28",
+    "('Close', 'HCLTECH.BO')":1454.4404296875,
+    "('High', 'HCLTECH.BO')":1479.2919866084,
+    "('Low', 'HCLTECH.BO')":1452.0097585232,
+    "('Open', 'HCLTECH.BO')":1478.1015378243,
+    "('Volume', 'HCLTECH.BO')":81262
+  },
+  {
+    "('Date', '')":"2025-07-29",
+    "('Close', 'HCLTECH.BO')":1461.6826171875,
+    "('High', 'HCLTECH.BO')":1465.6014100679,
+    "('Low', 'HCLTECH.BO')":1449.9264807535,
+    "('Open', 'HCLTECH.BO')":1449.9761332483,
+    "('Volume', 'HCLTECH.BO')":247119
+  },
+  {
+    "('Date', '')":"2025-07-30",
+    "('Close', 'HCLTECH.BO')":1465.1053466797,
+    "('High', 'HCLTECH.BO')":1473.0915264896,
+    "('Low', 'HCLTECH.BO')":1457.3670660292,
+    "('Open', 'HCLTECH.BO')":1462.5258390604,
+    "('Volume', 'HCLTECH.BO')":40387
+  },
+  {
+    "('Date', '')":"2025-07-31",
+    "('Close', 'HCLTECH.BO')":1455.7301025391,
+    "('High', 'HCLTECH.BO')":1470.7601546471,
+    "('Low', 'HCLTECH.BO')":1448.140658296,
+    "('Open', 'HCLTECH.BO')":1448.9343715764,
+    "('Volume', 'HCLTECH.BO')":83413
+  },
+  {
+    "('Date', '')":"2025-08-01",
+    "('Close', 'HCLTECH.BO')":1441.4440917969,
+    "('High', 'HCLTECH.BO')":1455.6308990431,
+    "('Low', 'HCLTECH.BO')":1438.4183173014,
+    "('Open', 'HCLTECH.BO')":1448.7359842892,
+    "('Volume', 'HCLTECH.BO')":44298
+  },
+  {
+    "('Date', '')":"2025-08-04",
+    "('Close', 'HCLTECH.BO')":1462.6251220703,
+    "('High', 'HCLTECH.BO')":1464.3116113927,
+    "('Low', 'HCLTECH.BO')":1429.5887750791,
+    "('Open', 'HCLTECH.BO')":1438.8647085593,
+    "('Volume', 'HCLTECH.BO')":72815
+  },
+  {
+    "('Date', '')":"2025-08-05",
+    "('Close', 'HCLTECH.BO')":1470.5617675781,
+    "('High', 'HCLTECH.BO')":1473.6867259575,
+    "('Low', 'HCLTECH.BO')":1459.3512034339,
+    "('Open', 'HCLTECH.BO')":1466.5934434355,
+    "('Volume', 'HCLTECH.BO')":21890
+  },
+  {
+    "('Date', '')":"2025-08-06",
+    "('Close', 'HCLTECH.BO')":1450.3233642578,
+    "('High', 'HCLTECH.BO')":1470.8593943024,
+    "('Low', 'HCLTECH.BO')":1444.8669182833,
+    "('Open', 'HCLTECH.BO')":1470.2641698714,
+    "('Volume', 'HCLTECH.BO')":52217
+  },
+  {
+    "('Date', '')":"2025-08-07",
+    "('Close', 'HCLTECH.BO')":1464.7084960938,
+    "('High', 'HCLTECH.BO')":1468.2799636766,
+    "('Low', 'HCLTECH.BO')":1438.9639200144,
+    "('Open', 'HCLTECH.BO')":1439.8072857954,
+    "('Volume', 'HCLTECH.BO')":25702
+  },
+  {
+    "('Date', '')":"2025-08-08",
+    "('Close', 'HCLTECH.BO')":1463.7659912109,
+    "('High', 'HCLTECH.BO')":1470.2641707715,
+    "('Low', 'HCLTECH.BO')":1448.4383868599,
+    "('Open', 'HCLTECH.BO')":1461.633113757,
+    "('Volume', 'HCLTECH.BO')":53849
+  },
+  {
+    "('Date', '')":"2025-08-11",
+    "('Close', 'HCLTECH.BO')":1480.6313476562,
+    "('High', 'HCLTECH.BO')":1517.338347325,
+    "('Low', 'HCLTECH.BO')":1454.192483967,
+    "('Open', 'HCLTECH.BO')":1459.8969501317,
+    "('Volume', 'HCLTECH.BO')":98268
+  },
+  {
+    "('Date', '')":"2025-08-12",
+    "('Close', 'HCLTECH.BO')":1487.5263671875,
+    "('High', 'HCLTECH.BO')":1497.9432183287,
+    "('Low', 'HCLTECH.BO')":1474.7781497735,
+    "('Open', 'HCLTECH.BO')":1474.7781497735,
+    "('Volume', 'HCLTECH.BO')":126283
+  },
+  {
+    "('Date', '')":"2025-08-13",
+    "('Close', 'HCLTECH.BO')":1488.5184326172,
+    "('High', 'HCLTECH.BO')":1497.844018714,
+    "('Low', 'HCLTECH.BO')":1477.208684419,
+    "('Open', 'HCLTECH.BO')":1497.844018714,
+    "('Volume', 'HCLTECH.BO')":221656
+  },
+  {
+    "('Date', '')":"2025-08-14",
+    "('Close', 'HCLTECH.BO')":1477.1094970703,
+    "('High', 'HCLTECH.BO')":1504.044521753,
+    "('Low', 'HCLTECH.BO')":1474.6292944495,
+    "('Open', 'HCLTECH.BO')":1488.1712249799,
+    "('Volume', 'HCLTECH.BO')":258063
+  },
+  {
+    "('Date', '')":"2025-08-18",
+    "('Close', 'HCLTECH.BO')":1475.4725341797,
+    "('High', 'HCLTECH.BO')":1490.254565971,
+    "('Low', 'HCLTECH.BO')":1464.509990191,
+    "('Open', 'HCLTECH.BO')":1478.399124821,
+    "('Volume', 'HCLTECH.BO')":200850
+  },
+  {
+    "('Date', '')":"2025-08-19",
+    "('Close', 'HCLTECH.BO')":1465.6508789062,
+    "('High', 'HCLTECH.BO')":1470.2640798959,
+    "('Low', 'HCLTECH.BO')":1457.3173740707,
+    "('Open', 'HCLTECH.BO')":1468.2799178447,
+    "('Volume', 'HCLTECH.BO')":52504
+  },
+  {
+    "('Date', '')":"2025-08-20",
+    "('Close', 'HCLTECH.BO')":1484.5004882812,
+    "('High', 'HCLTECH.BO')":1488.1216084158,
+    "('Low', 'HCLTECH.BO')":1447.0990802979,
+    "('Open', 'HCLTECH.BO')":1463.3195816089,
+    "('Volume', 'HCLTECH.BO')":358156
+  },
+  {
+    "('Date', '')":"2025-08-21",
+    "('Close', 'HCLTECH.BO')":1481.0281982422,
+    "('High', 'HCLTECH.BO')":1493.9749046219,
+    "('Low', 'HCLTECH.BO')":1474.7285076807,
+    "('Open', 'HCLTECH.BO')":1486.4846441166,
+    "('Volume', 'HCLTECH.BO')":52181
+  },
+  {
+    "('Date', '')":"2025-08-22",
+    "('Close', 'HCLTECH.BO')":1454.8371582031,
+    "('High', 'HCLTECH.BO')":1480.9785898708,
+    "('Low', 'HCLTECH.BO')":1452.4562606464,
+    "('Open', 'HCLTECH.BO')":1480.9785898708,
+    "('Volume', 'HCLTECH.BO')":187720
+  },
+  {
+    "('Date', '')":"2025-08-25",
+    "('Close', 'HCLTECH.BO')":1492.6850585938,
+    "('High', 'HCLTECH.BO')":1497.4470958678,
+    "('Low', 'HCLTECH.BO')":1461.5336907599,
+    "('Open', 'HCLTECH.BO')":1461.5336907599,
+    "('Volume', 'HCLTECH.BO')":134818
+  },
+  {
+    "('Date', '')":"2025-08-26",
+    "('Close', 'HCLTECH.BO')":1480.4329833984,
+    "('High', 'HCLTECH.BO')":1494.6693225966,
+    "('Low', 'HCLTECH.BO')":1475.7205982946,
+    "('Open', 'HCLTECH.BO')":1489.5105494507,
+    "('Volume', 'HCLTECH.BO')":251035
+  },
+  {
+    "('Date', '')":"2025-08-28",
+    "('Close', 'HCLTECH.BO')":1438.26953125,
+    "('High', 'HCLTECH.BO')":1480.0857725717,
+    "('Low', 'HCLTECH.BO')":1434.8468999999,
+    "('Open', 'HCLTECH.BO')":1480.0857725717,
+    "('Volume', 'HCLTECH.BO')":361402
+  },
+  {
+    "('Date', '')":"2025-08-29",
+    "('Close', 'HCLTECH.BO')":1443.9243164062,
+    "('High', 'HCLTECH.BO')":1451.1169040219,
+    "('Low', 'HCLTECH.BO')":1427.4557951898,
+    "('Open', 'HCLTECH.BO')":1437.4757895785,
+    "('Volume', 'HCLTECH.BO')":296841
+  },
+  {
+    "('Date', '')":"2025-09-01",
+    "('Close', 'HCLTECH.BO')":1457.1687011719,
+    "('High', 'HCLTECH.BO')":1460.3433121046,
+    "('Low', 'HCLTECH.BO')":1434.5988571838,
+    "('Open', 'HCLTECH.BO')":1434.5988571838,
+    "('Volume', 'HCLTECH.BO')":148932
+  },
+  {
+    "('Date', '')":"2025-09-02",
+    "('Close', 'HCLTECH.BO')":1453.3491210938,
+    "('High', 'HCLTECH.BO')":1465.6014192421,
+    "('Low', 'HCLTECH.BO')":1448.537552105,
+    "('Open', 'HCLTECH.BO')":1457.168730112,
+    "('Volume', 'HCLTECH.BO')":127966
+  },
+  {
+    "('Date', '')":"2025-09-03",
+    "('Close', 'HCLTECH.BO')":1454.5892333984,
+    "('High', 'HCLTECH.BO')":1459.8969640679,
+    "('Low', 'HCLTECH.BO')":1441.4938115628,
+    "('Open', 'HCLTECH.BO')":1458.4088424455,
+    "('Volume', 'HCLTECH.BO')":69506
+  },
+  {
+    "('Date', '')":"2025-09-04",
+    "('Close', 'HCLTECH.BO')":1431.7218017578,
+    "('High', 'HCLTECH.BO')":1459.351234977,
+    "('Low', 'HCLTECH.BO')":1429.1424152301,
+    "('Open', 'HCLTECH.BO')":1459.351234977,
+    "('Volume', 'HCLTECH.BO')":54234
+  },
+  {
+    "('Date', '')":"2025-09-05",
+    "('Close', 'HCLTECH.BO')":1408.3087158203,
+    "('High', 'HCLTECH.BO')":1440.1544935952,
+    "('Low', 'HCLTECH.BO')":1391.8897258515,
+    "('Open', 'HCLTECH.BO')":1438.7655558918,
+    "('Volume', 'HCLTECH.BO')":152684
+  },
+  {
+    "('Date', '')":"2025-09-08",
+    "('Close', 'HCLTECH.BO')":1391.8896484375,
+    "('High', 'HCLTECH.BO')":1416.8900412937,
+    "('Low', 'HCLTECH.BO')":1389.9054864297,
+    "('Open', 'HCLTECH.BO')":1410.7888400028,
+    "('Volume', 'HCLTECH.BO')":156381
+  },
+  {
+    "('Date', '')":"2025-09-09",
+    "('Close', 'HCLTECH.BO')":1416.6420898438,
+    "('High', 'HCLTECH.BO')":1420.362393789,
+    "('Low', 'HCLTECH.BO')":1394.1715508976,
+    "('Open', 'HCLTECH.BO')":1394.1715508976,
+    "('Volume', 'HCLTECH.BO')":202478
+  },
+  {
+    "('Date', '')":"2025-09-10",
+    "('Close', 'HCLTECH.BO')":1453.1010742188,
+    "('High', 'HCLTECH.BO')":1460.2936618744,
+    "('Low', 'HCLTECH.BO')":1421.7513370712,
+    "('Open', 'HCLTECH.BO')":1423.1402747703,
+    "('Volume', 'HCLTECH.BO')":121368
+  },
+  {
+    "('Date', '')":"2025-09-11",
+    "('Close', 'HCLTECH.BO')":1456.2261962891,
+    "('High', 'HCLTECH.BO')":1458.9048878806,
+    "('Low', 'HCLTECH.BO')":1447.0990987492,
+    "('Open', 'HCLTECH.BO')":1453.1011166508,
+    "('Volume', 'HCLTECH.BO')":264436
+  },
+  {
+    "('Date', '')":"2025-09-12",
+    "('Close', 'HCLTECH.BO')":1455.0852050781,
+    "('High', 'HCLTECH.BO')":1468.0815635149,
+    "('Low', 'HCLTECH.BO')":1451.1168809395,
+    "('Open', 'HCLTECH.BO')":1457.5158762752,
+    "('Volume', 'HCLTECH.BO')":40117
+  },
+  {
+    "('Date', '')":"2025-09-15",
+    "('Close', 'HCLTECH.BO')":1454.3908691406,
+    "('High', 'HCLTECH.BO')":1456.573399084,
+    "('Low', 'HCLTECH.BO')":1441.2954472733,
+    "('Open', 'HCLTECH.BO')":1454.4900530283,
+    "('Volume', 'HCLTECH.BO')":28456
+  },
+  {
+    "('Date', '')":"2025-09-16",
+    "('Close', 'HCLTECH.BO')":1470.7601318359,
+    "('High', 'HCLTECH.BO')":1474.1332315698,
+    "('Low', 'HCLTECH.BO')":1450.3232867711,
+    "('Open', 'HCLTECH.BO')":1451.8609397105,
+    "('Volume', 'HCLTECH.BO')":18990
+  },
+  {
+    "('Date', '')":"2025-09-17",
+    "('Close', 'HCLTECH.BO')":1469.5200195312,
+    "('High', 'HCLTECH.BO')":1486.4350494633,
+    "('Low', 'HCLTECH.BO')":1463.3691656125,
+    "('Open', 'HCLTECH.BO')":1478.2007285074,
+    "('Volume', 'HCLTECH.BO')":54679
+  },
+  {
+    "('Date', '')":"2025-09-18",
+    "('Close', 'HCLTECH.BO')":1481.8714599609,
+    "('High', 'HCLTECH.BO')":1491.0978624415,
+    "('Low', 'HCLTECH.BO')":1474.3813204731,
+    "('Open', 'HCLTECH.BO')":1486.0878045487,
+    "('Volume', 'HCLTECH.BO')":35017
+  },
+  {
+    "('Date', '')":"2025-09-19",
+    "('Close', 'HCLTECH.BO')":1455.7797851562,
+    "('High', 'HCLTECH.BO')":1481.6234243466,
+    "('Low', 'HCLTECH.BO')":1452.4563377952,
+    "('Open', 'HCLTECH.BO')":1481.1770363069,
+    "('Volume', 'HCLTECH.BO')":68727
+  },
+  {
+    "('Date', '')":"2025-09-22",
+    "('Close', 'HCLTECH.BO')":1428.9935302734,
+    "('High', 'HCLTECH.BO')":1437.426218972,
+    "('Low', 'HCLTECH.BO')":1394.0226741999,
+    "('Open', 'HCLTECH.BO')":1394.0226741999,
+    "('Volume', 'HCLTECH.BO')":172906
+  },
+  {
+    "('Date', '')":"2025-09-23",
+    "('Close', 'HCLTECH.BO')":1418.4775390625,
+    "('High', 'HCLTECH.BO')":1433.2099184896,
+    "('Low', 'HCLTECH.BO')":1408.8047487886,
+    "('Open', 'HCLTECH.BO')":1429.6384509169,
+    "('Volume', 'HCLTECH.BO')":113595
+  },
+  {
+    "('Date', '')":"2025-09-24",
+    "('Close', 'HCLTECH.BO')":1430.9281005859,
+    "('High', 'HCLTECH.BO')":1433.1107515922,
+    "('Low', 'HCLTECH.BO')":1408.8542968788,
+    "('Open', 'HCLTECH.BO')":1413.7155183204,
+    "('Volume', 'HCLTECH.BO')":81153
+  },
+  {
+    "('Date', '')":"2025-09-25",
+    "('Close', 'HCLTECH.BO')":1412.1281738281,
+    "('High', 'HCLTECH.BO')":1433.160243394,
+    "('Low', 'HCLTECH.BO')":1404.6875660425,
+    "('Open', 'HCLTECH.BO')":1423.3882693896,
+    "('Volume', 'HCLTECH.BO')":280256
+  },
+  {
+    "('Date', '')":"2025-09-26",
+    "('Close', 'HCLTECH.BO')":1384.1513671875,
+    "('High', 'HCLTECH.BO')":1412.5249807612,
+    "('Low', 'HCLTECH.BO')":1381.3239605492,
+    "('Open', 'HCLTECH.BO')":1412.0784716476,
+    "('Volume', 'HCLTECH.BO')":40417
+  },
+  {
+    "('Date', '')":"2025-09-29",
+    "('Close', 'HCLTECH.BO')":1375.966796875,
+    "('High', 'HCLTECH.BO')":1393.6755409254,
+    "('Low', 'HCLTECH.BO')":1372.0977775701,
+    "('Open', 'HCLTECH.BO')":1384.9451790344,
+    "('Volume', 'HCLTECH.BO')":88362
+  },
+  {
+    "('Date', '')":"2025-09-30",
+    "('Close', 'HCLTECH.BO')":1374.0322265625,
+    "('High', 'HCLTECH.BO')":1393.5266430229,
+    "('Low', 'HCLTECH.BO')":1371.4031876122,
+    "('Open', 'HCLTECH.BO')":1378.0997345648,
+    "('Volume', 'HCLTECH.BO')":23322
+  },
+  {
+    "('Date', '')":"2025-10-01",
+    "('Close', 'HCLTECH.BO')":1378.4470214844,
+    "('High', 'HCLTECH.BO')":1385.5900779916,
+    "('Low', 'HCLTECH.BO')":1371.0560658084,
+    "('Open', 'HCLTECH.BO')":1374.1314929654,
+    "('Volume', 'HCLTECH.BO')":79507
+  },
+  {
+    "('Date', '')":"2025-10-03",
+    "('Close', 'HCLTECH.BO')":1382.2169189453,
+    "('High', 'HCLTECH.BO')":1388.318241606,
+    "('Low', 'HCLTECH.BO')":1369.1710289545,
+    "('Open', 'HCLTECH.BO')":1380.5304296066,
+    "('Volume', 'HCLTECH.BO')":39427
+  },
+  {
+    "('Date', '')":"2025-10-06",
+    "('Close', 'HCLTECH.BO')":1405.431640625,
+    "('High', 'HCLTECH.BO')":1409.6479850783,
+    "('Low', 'HCLTECH.BO')":1380.9768185753,
+    "('Open', 'HCLTECH.BO')":1388.2190586659,
+    "('Volume', 'HCLTECH.BO')":113011
+  },
+  {
+    "('Date', '')":"2025-10-07",
+    "('Close', 'HCLTECH.BO')":1422.2969970703,
+    "('High', 'HCLTECH.BO')":1430.1839928406,
+    "('Low', 'HCLTECH.BO')":1406.473231933,
+    "('Open', 'HCLTECH.BO')":1409.2014547735,
+    "('Volume', 'HCLTECH.BO')":83952
+  },
+  {
+    "('Date', '')":"2025-10-08",
+    "('Close', 'HCLTECH.BO')":1441.3449707031,
+    "('High', 'HCLTECH.BO')":1447.4462935567,
+    "('Low', 'HCLTECH.BO')":1417.8822289755,
+    "('Open', 'HCLTECH.BO')":1422.1482260545,
+    "('Volume', 'HCLTECH.BO')":58931
+  },
+  {
+    "('Date', '')":"2025-10-09",
+    "('Close', 'HCLTECH.BO')":1474.6292724609,
+    "('High', 'HCLTECH.BO')":1479.1928209945,
+    "('Low', 'HCLTECH.BO')":1441.3449053445,
+    "('Open', 'HCLTECH.BO')":1443.4779037873,
+    "('Volume', 'HCLTECH.BO')":92548
+  },
+  {
+    "('Date', '')":"2025-10-10",
+    "('Close', 'HCLTECH.BO')":1482.8635253906,
+    "('High', 'HCLTECH.BO')":1486.8815021615,
+    "('Low', 'HCLTECH.BO')":1462.5755159711,
+    "('Open', 'HCLTECH.BO')":1477.2583642337,
+    "('Volume', 'HCLTECH.BO')":38710
+  },
+  {
+    "('Date', '')":"2025-10-13",
+    "('Close', 'HCLTECH.BO')":1482.8635253906,
+    "('High', 'HCLTECH.BO')":1491.2466830859,
+    "('Low', 'HCLTECH.BO')":1464.609330604,
+    "('Open', 'HCLTECH.BO')":1479.9865871734,
+    "('Volume', 'HCLTECH.BO')":60044
+  },
+  {
+    "('Date', '')":"2025-10-14",
+    "('Close', 'HCLTECH.BO')":1483.3100585938,
+    "('High', 'HCLTECH.BO')":1522.4972614548,
+    "('Low', 'HCLTECH.BO')":1478.6968573273,
+    "('Open', 'HCLTECH.BO')":1504.8878221945,
+    "('Volume', 'HCLTECH.BO')":461215
+  },
+  {
+    "('Date', '')":"2025-10-15",
+    "('Close', 'HCLTECH.BO')":1484.3515625,
+    "('High', 'HCLTECH.BO')":1496.9014115292,
+    "('Low', 'HCLTECH.BO')":1473.9843643606,
+    "('Open', 'HCLTECH.BO')":1483.6075017406,
+    "('Volume', 'HCLTECH.BO')":307427
+  },
+  {
+    "('Date', '')":"2025-10-16",
+    "('Close', 'HCLTECH.BO')":1503.3499755859,
+    "('High', 'HCLTECH.BO')":1506.375871191,
+    "('Low', 'HCLTECH.BO')":1486.3357615763,
+    "('Open', 'HCLTECH.BO')":1487.4766789898,
+    "('Volume', 'HCLTECH.BO')":151476
+  },
+  {
+    "('Date', '')":"2025-10-17",
+    "('Close', 'HCLTECH.BO')":1487.4000244141,
+    "('High', 'HCLTECH.BO')":1505.6999511719,
+    "('Low', 'HCLTECH.BO')":1479.5,
+    "('Open', 'HCLTECH.BO')":1505.6999511719,
+    "('Volume', 'HCLTECH.BO')":232832
+  },
+  {
+    "('Date', '')":"2025-10-20",
+    "('Close', 'HCLTECH.BO')":1495.75,
+    "('High', 'HCLTECH.BO')":1509.8000488281,
+    "('Low', 'HCLTECH.BO')":1486.1500244141,
+    "('Open', 'HCLTECH.BO')":1486.1500244141,
+    "('Volume', 'HCLTECH.BO')":76103
+  },
+  {
+    "('Date', '')":"2025-10-21",
+    "('Close', 'HCLTECH.BO')":1487.8499755859,
+    "('High', 'HCLTECH.BO')":1503.4499511719,
+    "('Low', 'HCLTECH.BO')":1481.1500244141,
+    "('Open', 'HCLTECH.BO')":1496.0500488281,
+    "('Volume', 'HCLTECH.BO')":28315
+  },
+  {
+    "('Date', '')":"2025-10-23",
+    "('Close', 'HCLTECH.BO')":1524.0500488281,
+    "('High', 'HCLTECH.BO')":1547.75,
+    "('Low', 'HCLTECH.BO')":1500.8000488281,
+    "('Open', 'HCLTECH.BO')":1500.8000488281,
+    "('Volume', 'HCLTECH.BO')":320530
+  },
+  {
+    "('Date', '')":"2025-10-24",
+    "('Close', 'HCLTECH.BO')":1523.6500244141,
+    "('High', 'HCLTECH.BO')":1532.0500488281,
+    "('Low', 'HCLTECH.BO')":1516.1999511719,
+    "('Open', 'HCLTECH.BO')":1529.8000488281,
+    "('Volume', 'HCLTECH.BO')":65211
+  },
+  {
+    "('Date', '')":"2025-10-27",
+    "('Close', 'HCLTECH.BO')":1533.8000488281,
+    "('High', 'HCLTECH.BO')":1549.5,
+    "('Low', 'HCLTECH.BO')":1525.0500488281,
+    "('Open', 'HCLTECH.BO')":1525.0500488281,
+    "('Volume', 'HCLTECH.BO')":37776
+  },
+  {
+    "('Date', '')":"2025-10-28",
+    "('Close', 'HCLTECH.BO')":1521.5500488281,
+    "('High', 'HCLTECH.BO')":1542.3499755859,
+    "('Low', 'HCLTECH.BO')":1511.4499511719,
+    "('Open', 'HCLTECH.BO')":1533.8000488281,
+    "('Volume', 'HCLTECH.BO')":56370
+  },
+  {
+    "('Date', '')":"2025-10-29",
+    "('Close', 'HCLTECH.BO')":1557.3000488281,
+    "('High', 'HCLTECH.BO')":1559.4000244141,
+    "('Low', 'HCLTECH.BO')":1523.8000488281,
+    "('Open', 'HCLTECH.BO')":1523.9000244141,
+    "('Volume', 'HCLTECH.BO')":45179
+  },
+  {
+    "('Date', '')":"2025-10-30",
+    "('Close', 'HCLTECH.BO')":1549.8000488281,
+    "('High', 'HCLTECH.BO')":1559.75,
+    "('Low', 'HCLTECH.BO')":1538.3000488281,
+    "('Open', 'HCLTECH.BO')":1559.0,
+    "('Volume', 'HCLTECH.BO')":217904
+  },
+  {
+    "('Date', '')":"2025-10-31",
+    "('Close', 'HCLTECH.BO')":1541.4000244141,
+    "('High', 'HCLTECH.BO')":1558.0,
+    "('Low', 'HCLTECH.BO')":1538.3000488281,
+    "('Open', 'HCLTECH.BO')":1549.8000488281,
+    "('Volume', 'HCLTECH.BO')":88844
+  },
+  {
+    "('Date', '')":"2025-11-03",
+    "('Close', 'HCLTECH.BO')":1544.9499511719,
+    "('High', 'HCLTECH.BO')":1549.0,
+    "('Low', 'HCLTECH.BO')":1528.1999511719,
+    "('Open', 'HCLTECH.BO')":1541.3000488281,
+    "('Volume', 'HCLTECH.BO')":127489
+  },
+  {
+    "('Date', '')":"2025-11-04",
+    "('Close', 'HCLTECH.BO')":1528.6999511719,
+    "('High', 'HCLTECH.BO')":1539.8499755859,
+    "('Low', 'HCLTECH.BO')":1525.0,
+    "('Open', 'HCLTECH.BO')":1533.9000244141,
+    "('Volume', 'HCLTECH.BO')":52875
+  },
+  {
+    "('Date', '')":"2025-11-06",
+    "('Close', 'HCLTECH.BO')":1526.3499755859,
+    "('High', 'HCLTECH.BO')":1531.75,
+    "('Low', 'HCLTECH.BO')":1514.5,
+    "('Open', 'HCLTECH.BO')":1525.0,
+    "('Volume', 'HCLTECH.BO')":145363
+  },
+  {
+    "('Date', '')":"2025-11-07",
+    "('Close', 'HCLTECH.BO')":1512.3000488281,
+    "('High', 'HCLTECH.BO')":1519.0,
+    "('Low', 'HCLTECH.BO')":1489.5999755859,
+    "('Open', 'HCLTECH.BO')":1519.0,
+    "('Volume', 'HCLTECH.BO')":94726
+  },
+  {
+    "('Date', '')":"2025-11-10",
+    "('Close', 'HCLTECH.BO')":1540.8000488281,
+    "('High', 'HCLTECH.BO')":1544.5,
+    "('Low', 'HCLTECH.BO')":1512.3499755859,
+    "('Open', 'HCLTECH.BO')":1531.0500488281,
+    "('Volume', 'HCLTECH.BO')":29450
+  },
+  {
+    "('Date', '')":"2025-11-11",
+    "('Close', 'HCLTECH.BO')":1569.8499755859,
+    "('High', 'HCLTECH.BO')":1572.4499511719,
+    "('Low', 'HCLTECH.BO')":1541.0999755859,
+    "('Open', 'HCLTECH.BO')":1543.0500488281,
+    "('Volume', 'HCLTECH.BO')":137893
+  },
+  {
+    "('Date', '')":"2025-11-12",
+    "('Close', 'HCLTECH.BO')":1594.0,
+    "('High', 'HCLTECH.BO')":1601.1999511719,
+    "('Low', 'HCLTECH.BO')":1573.9000244141,
+    "('Open', 'HCLTECH.BO')":1576.9000244141,
+    "('Volume', 'HCLTECH.BO')":93287
+  },
+  {
+    "('Date', '')":"2025-11-13",
+    "('Close', 'HCLTECH.BO')":1598.5,
+    "('High', 'HCLTECH.BO')":1605.0500488281,
+    "('Low', 'HCLTECH.BO')":1580.1500244141,
+    "('Open', 'HCLTECH.BO')":1595.6999511719,
+    "('Volume', 'HCLTECH.BO')":114118
+  }
+]

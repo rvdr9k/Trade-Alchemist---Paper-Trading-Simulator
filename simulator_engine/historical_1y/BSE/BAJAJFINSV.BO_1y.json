@@ -1,0 +1,1986 @@
+[
+  {
+    "('Date', '')":"2024-11-13",
+    "('Close', 'BAJAJFINSV.BO')":1663.7889404297,
+    "('High', 'BAJAJFINSV.BO')":1694.3241045023,
+    "('Low', 'BAJAJFINSV.BO')":1657.8917906566,
+    "('Open', 'BAJAJFINSV.BO')":1690.875712223,
+    "('Volume', 'BAJAJFINSV.BO')":16419
+  },
+  {
+    "('Date', '')":"2024-11-14",
+    "('Close', 'BAJAJFINSV.BO')":1639.1010742188,
+    "('High', 'BAJAJFINSV.BO')":1671.9350454788,
+    "('Low', 'BAJAJFINSV.BO')":1632.7541923057,
+    "('Open', 'BAJAJFINSV.BO')":1663.7889917114,
+    "('Volume', 'BAJAJFINSV.BO')":470025
+  },
+  {
+    "('Date', '')":"2024-11-18",
+    "('Close', 'BAJAJFINSV.BO')":1614.8629150391,
+    "('High', 'BAJAJFINSV.BO')":1640.5503457565,
+    "('Low', 'BAJAJFINSV.BO')":1609.8653509298,
+    "('Open', 'BAJAJFINSV.BO')":1631.4548034798,
+    "('Volume', 'BAJAJFINSV.BO')":33241
+  },
+  {
+    "('Date', '')":"2024-11-19",
+    "('Close', 'BAJAJFINSV.BO')":1594.1728515625,
+    "('High', 'BAJAJFINSV.BO')":1624.108332378,
+    "('Low', 'BAJAJFINSV.BO')":1579.7299407692,
+    "('Open', 'BAJAJFINSV.BO')":1606.2670537478,
+    "('Volume', 'BAJAJFINSV.BO')":36755
+  },
+  {
+    "('Date', '')":"2024-11-21",
+    "('Close', 'BAJAJFINSV.BO')":1567.8857421875,
+    "('High', 'BAJAJFINSV.BO')":1597.0714664743,
+    "('Low', 'BAJAJFINSV.BO')":1565.237008926,
+    "('Open', 'BAJAJFINSV.BO')":1597.0714664743,
+    "('Volume', 'BAJAJFINSV.BO')":25346
+  },
+  {
+    "('Date', '')":"2024-11-22",
+    "('Close', 'BAJAJFINSV.BO')":1600.8197021484,
+    "('High', 'BAJAJFINSV.BO')":1605.0676316176,
+    "('Low', 'BAJAJFINSV.BO')":1562.5883369258,
+    "('Open', 'BAJAJFINSV.BO')":1575.5321011031,
+    "('Volume', 'BAJAJFINSV.BO')":104748
+  },
+  {
+    "('Date', '')":"2024-11-25",
+    "('Close', 'BAJAJFINSV.BO')":1604.5678710938,
+    "('High', 'BAJAJFINSV.BO')":1637.5517939463,
+    "('Low', 'BAJAJFINSV.BO')":1599.2205019425,
+    "('Open', 'BAJAJFINSV.BO')":1626.1573234678,
+    "('Volume', 'BAJAJFINSV.BO')":31127
+  },
+  {
+    "('Date', '')":"2024-11-26",
+    "('Close', 'BAJAJFINSV.BO')":1594.0729980469,
+    "('High', 'BAJAJFINSV.BO')":1610.5150571576,
+    "('Low', 'BAJAJFINSV.BO')":1581.5291853508,
+    "('Open', 'BAJAJFINSV.BO')":1605.5673954875,
+    "('Volume', 'BAJAJFINSV.BO')":28405
+  },
+  {
+    "('Date', '')":"2024-11-27",
+    "('Close', 'BAJAJFINSV.BO')":1599.5703125,
+    "('High', 'BAJAJFINSV.BO')":1607.5165126027,
+    "('Low', 'BAJAJFINSV.BO')":1588.4257201868,
+    "('Open', 'BAJAJFINSV.BO')":1590.8745997953,
+    "('Volume', 'BAJAJFINSV.BO')":20398
+  },
+  {
+    "('Date', '')":"2024-11-28",
+    "('Close', 'BAJAJFINSV.BO')":1574.0328369141,
+    "('High', 'BAJAJFINSV.BO')":1608.2161265358,
+    "('Low', 'BAJAJFINSV.BO')":1567.2361009373,
+    "('Open', 'BAJAJFINSV.BO')":1599.8702188953,
+    "('Volume', 'BAJAJFINSV.BO')":43453
+  },
+  {
+    "('Date', '')":"2024-11-29",
+    "('Close', 'BAJAJFINSV.BO')":1579.2802734375,
+    "('High', 'BAJAJFINSV.BO')":1587.1264246395,
+    "('Low', 'BAJAJFINSV.BO')":1574.2827093584,
+    "('Open', 'BAJAJFINSV.BO')":1581.229274624,
+    "('Volume', 'BAJAJFINSV.BO')":77551
+  },
+  {
+    "('Date', '')":"2024-12-02",
+    "('Close', 'BAJAJFINSV.BO')":1595.9219970703,
+    "('High', 'BAJAJFINSV.BO')":1602.7187327363,
+    "('Low', 'BAJAJFINSV.BO')":1565.8366869821,
+    "('Open', 'BAJAJFINSV.BO')":1579.3301094279,
+    "('Volume', 'BAJAJFINSV.BO')":36897
+  },
+  {
+    "('Date', '')":"2024-12-03",
+    "('Close', 'BAJAJFINSV.BO')":1606.5668945312,
+    "('High', 'BAJAJFINSV.BO')":1608.2161150738,
+    "('Low', 'BAJAJFINSV.BO')":1594.2229357009,
+    "('Open', 'BAJAJFINSV.BO')":1594.2229357009,
+    "('Volume', 'BAJAJFINSV.BO')":34658
+  },
+  {
+    "('Date', '')":"2024-12-04",
+    "('Close', 'BAJAJFINSV.BO')":1627.8065185547,
+    "('High', 'BAJAJFINSV.BO')":1631.2048864703,
+    "('Low', 'BAJAJFINSV.BO')":1605.9171638745,
+    "('Open', 'BAJAJFINSV.BO')":1617.1117804195,
+    "('Volume', 'BAJAJFINSV.BO')":65053
+  },
+  {
+    "('Date', '')":"2024-12-05",
+    "('Close', 'BAJAJFINSV.BO')":1643.1989746094,
+    "('High', 'BAJAJFINSV.BO')":1652.2446138761,
+    "('Low', 'BAJAJFINSV.BO')":1604.6677089734,
+    "('Open', 'BAJAJFINSV.BO')":1637.1518736175,
+    "('Volume', 'BAJAJFINSV.BO')":51551
+  },
+  {
+    "('Date', '')":"2024-12-06",
+    "('Close', 'BAJAJFINSV.BO')":1635.0529785156,
+    "('High', 'BAJAJFINSV.BO')":1649.196108943,
+    "('Low', 'BAJAJFINSV.BO')":1624.6580210632,
+    "('Open', 'BAJAJFINSV.BO')":1649.196108943,
+    "('Volume', 'BAJAJFINSV.BO')":102740
+  },
+  {
+    "('Date', '')":"2024-12-09",
+    "('Close', 'BAJAJFINSV.BO')":1637.251953125,
+    "('High', 'BAJAJFINSV.BO')":1646.4474218688,
+    "('Low', 'BAJAJFINSV.BO')":1618.2111859193,
+    "('Open', 'BAJAJFINSV.BO')":1637.2019286818,
+    "('Volume', 'BAJAJFINSV.BO')":35529
+  },
+  {
+    "('Date', '')":"2024-12-10",
+    "('Close', 'BAJAJFINSV.BO')":1663.2392578125,
+    "('High', 'BAJAJFINSV.BO')":1671.7850187078,
+    "('Low', 'BAJAJFINSV.BO')":1636.2524132807,
+    "('Open', 'BAJAJFINSV.BO')":1636.2524132807,
+    "('Volume', 'BAJAJFINSV.BO')":79499
+  },
+  {
+    "('Date', '')":"2024-12-11",
+    "('Close', 'BAJAJFINSV.BO')":1683.7791748047,
+    "('High', 'BAJAJFINSV.BO')":1689.5763976298,
+    "('Low', 'BAJAJFINSV.BO')":1647.4969347432,
+    "('Open', 'BAJAJFINSV.BO')":1664.1887490677,
+    "('Volume', 'BAJAJFINSV.BO')":96402
+  },
+  {
+    "('Date', '')":"2024-12-12",
+    "('Close', 'BAJAJFINSV.BO')":1678.3319091797,
+    "('High', 'BAJAJFINSV.BO')":1688.7767689278,
+    "('Low', 'BAJAJFINSV.BO')":1674.1839067399,
+    "('Open', 'BAJAJFINSV.BO')":1683.1294973179,
+    "('Volume', 'BAJAJFINSV.BO')":14279
+  },
+  {
+    "('Date', '')":"2024-12-13",
+    "('Close', 'BAJAJFINSV.BO')":1678.7318115234,
+    "('High', 'BAJAJFINSV.BO')":1682.7797652521,
+    "('Low', 'BAJAJFINSV.BO')":1634.2034664319,
+    "('Open', 'BAJAJFINSV.BO')":1667.1373651621,
+    "('Volume', 'BAJAJFINSV.BO')":72160
+  },
+  {
+    "('Date', '')":"2024-12-16",
+    "('Close', 'BAJAJFINSV.BO')":1671.7351074219,
+    "('High', 'BAJAJFINSV.BO')":1683.6292115994,
+    "('Low', 'BAJAJFINSV.BO')":1660.8902964199,
+    "('Open', 'BAJAJFINSV.BO')":1675.7331584425,
+    "('Volume', 'BAJAJFINSV.BO')":28973
+  },
+  {
+    "('Date', '')":"2024-12-17",
+    "('Close', 'BAJAJFINSV.BO')":1641.1500244141,
+    "('High', 'BAJAJFINSV.BO')":1671.7352142853,
+    "('Low', 'BAJAJFINSV.BO')":1634.2034591261,
+    "('Open', 'BAJAJFINSV.BO')":1667.2374065996,
+    "('Volume', 'BAJAJFINSV.BO')":45121
+  },
+  {
+    "('Date', '')":"2024-12-18",
+    "('Close', 'BAJAJFINSV.BO')":1629.9055175781,
+    "('High', 'BAJAJFINSV.BO')":1643.5488920638,
+    "('Low', 'BAJAJFINSV.BO')":1622.2093176174,
+    "('Open', 'BAJAJFINSV.BO')":1641.1500368777,
+    "('Volume', 'BAJAJFINSV.BO')":88205
+  },
+  {
+    "('Date', '')":"2024-12-19",
+    "('Close', 'BAJAJFINSV.BO')":1589.4251708984,
+    "('High', 'BAJAJFINSV.BO')":1623.3587029208,
+    "('Low', 'BAJAJFINSV.BO')":1583.0782891598,
+    "('Open', 'BAJAJFINSV.BO')":1623.3587029208,
+    "('Volume', 'BAJAJFINSV.BO')":30783
+  },
+  {
+    "('Date', '')":"2024-12-20",
+    "('Close', 'BAJAJFINSV.BO')":1568.3354492188,
+    "('High', 'BAJAJFINSV.BO')":1603.3684203036,
+    "('Low', 'BAJAJFINSV.BO')":1563.3879098551,
+    "('Open', 'BAJAJFINSV.BO')":1594.2228541364,
+    "('Volume', 'BAJAJFINSV.BO')":177111
+  },
+  {
+    "('Date', '')":"2024-12-23",
+    "('Close', 'BAJAJFINSV.BO')":1563.337890625,
+    "('High', 'BAJAJFINSV.BO')":1594.2228594517,
+    "('Low', 'BAJAJFINSV.BO')":1560.2394254571,
+    "('Open', 'BAJAJFINSV.BO')":1586.7265137176,
+    "('Volume', 'BAJAJFINSV.BO')":13926
+  },
+  {
+    "('Date', '')":"2024-12-24",
+    "('Close', 'BAJAJFINSV.BO')":1563.5379638672,
+    "('High', 'BAJAJFINSV.BO')":1572.1836522109,
+    "('Low', 'BAJAJFINSV.BO')":1554.4923239797,
+    "('Open', 'BAJAJFINSV.BO')":1563.3379880953,
+    "('Volume', 'BAJAJFINSV.BO')":17336
+  },
+  {
+    "('Date', '')":"2024-12-26",
+    "('Close', 'BAJAJFINSV.BO')":1559.0401611328,
+    "('High', 'BAJAJFINSV.BO')":1573.7829753762,
+    "('Low', 'BAJAJFINSV.BO')":1555.1420366934,
+    "('Open', 'BAJAJFINSV.BO')":1559.1899904486,
+    "('Volume', 'BAJAJFINSV.BO')":28114
+  },
+  {
+    "('Date', '')":"2024-12-27",
+    "('Close', 'BAJAJFINSV.BO')":1577.8308105469,
+    "('High', 'BAJAJFINSV.BO')":1585.2272293356,
+    "('Low', 'BAJAJFINSV.BO')":1560.5892155242,
+    "('Open', 'BAJAJFINSV.BO')":1560.5892155242,
+    "('Volume', 'BAJAJFINSV.BO')":64169
+  },
+  {
+    "('Date', '')":"2024-12-30",
+    "('Close', 'BAJAJFINSV.BO')":1575.1821289062,
+    "('High', 'BAJAJFINSV.BO')":1587.0763554816,
+    "('Low', 'BAJAJFINSV.BO')":1560.2394615351,
+    "('Open', 'BAJAJFINSV.BO')":1580.2297172883,
+    "('Volume', 'BAJAJFINSV.BO')":15232
+  },
+  {
+    "('Date', '')":"2024-12-31",
+    "('Close', 'BAJAJFINSV.BO')":1567.2360839844,
+    "('High', 'BAJAJFINSV.BO')":1575.2321864537,
+    "('Low', 'BAJAJFINSV.BO')":1559.0401277577,
+    "('Open', 'BAJAJFINSV.BO')":1573.5829659172,
+    "('Volume', 'BAJAJFINSV.BO')":34802
+  },
+  {
+    "('Date', '')":"2025-01-01",
+    "('Close', 'BAJAJFINSV.BO')":1575.9317626953,
+    "('High', 'BAJAJFINSV.BO')":1583.5780599192,
+    "('Low', 'BAJAJFINSV.BO')":1564.8371951601,
+    "('Open', 'BAJAJFINSV.BO')":1567.2360502514,
+    "('Volume', 'BAJAJFINSV.BO')":19091
+  },
+  {
+    "('Date', '')":"2025-01-02",
+    "('Close', 'BAJAJFINSV.BO')":1699.771484375,
+    "('High', 'BAJAJFINSV.BO')":1716.61325106,
+    "('Low', 'BAJAJFINSV.BO')":1575.7319672981,
+    "('Open', 'BAJAJFINSV.BO')":1575.9318210586,
+    "('Volume', 'BAJAJFINSV.BO')":273801
+  },
+  {
+    "('Date', '')":"2025-01-03",
+    "('Close', 'BAJAJFINSV.BO')":1699.6715087891,
+    "('High', 'BAJAJFINSV.BO')":1719.2619351792,
+    "('Low', 'BAJAJFINSV.BO')":1689.9262590327,
+    "('Open', 'BAJAJFINSV.BO')":1704.8689265215,
+    "('Volume', 'BAJAJFINSV.BO')":131618
+  },
+  {
+    "('Date', '')":"2025-01-06",
+    "('Close', 'BAJAJFINSV.BO')":1683.6292724609,
+    "('High', 'BAJAJFINSV.BO')":1731.70593533,
+    "('Low', 'BAJAJFINSV.BO')":1674.2339498316,
+    "('Open', 'BAJAJFINSV.BO')":1723.7098329998,
+    "('Volume', 'BAJAJFINSV.BO')":48790
+  },
+  {
+    "('Date', '')":"2025-01-07",
+    "('Close', 'BAJAJFINSV.BO')":1683.7791748047,
+    "('High', 'BAJAJFINSV.BO')":1702.1702340314,
+    "('Low', 'BAJAJFINSV.BO')":1673.7840471827,
+    "('Open', 'BAJAJFINSV.BO')":1690.6758372661,
+    "('Volume', 'BAJAJFINSV.BO')":103898
+  },
+  {
+    "('Date', '')":"2025-01-08",
+    "('Close', 'BAJAJFINSV.BO')":1695.5235595703,
+    "('High', 'BAJAJFINSV.BO')":1707.7675917003,
+    "('Low', 'BAJAJFINSV.BO')":1668.2868350363,
+    "('Open', 'BAJAJFINSV.BO')":1680.9807211449,
+    "('Volume', 'BAJAJFINSV.BO')":48255
+  },
+  {
+    "('Date', '')":"2025-01-09",
+    "('Close', 'BAJAJFINSV.BO')":1689.7264404297,
+    "('High', 'BAJAJFINSV.BO')":1699.1717877396,
+    "('Low', 'BAJAJFINSV.BO')":1674.6837237398,
+    "('Open', 'BAJAJFINSV.BO')":1697.9223967192,
+    "('Volume', 'BAJAJFINSV.BO')":42317
+  },
+  {
+    "('Date', '')":"2025-01-10",
+    "('Close', 'BAJAJFINSV.BO')":1699.0218505859,
+    "('High', 'BAJAJFINSV.BO')":1717.1630327556,
+    "('Low', 'BAJAJFINSV.BO')":1676.7327878027,
+    "('Open', 'BAJAJFINSV.BO')":1676.7327878027,
+    "('Volume', 'BAJAJFINSV.BO')":68687
+  },
+  {
+    "('Date', '')":"2025-01-13",
+    "('Close', 'BAJAJFINSV.BO')":1673.7840576172,
+    "('High', 'BAJAJFINSV.BO')":1699.1717063376,
+    "('Low', 'BAJAJFINSV.BO')":1668.1868105161,
+    "('Open', 'BAJAJFINSV.BO')":1669.3861770339,
+    "('Volume', 'BAJAJFINSV.BO')":82646
+  },
+  {
+    "('Date', '')":"2025-01-14",
+    "('Close', 'BAJAJFINSV.BO')":1711.4157714844,
+    "('High', 'BAJAJFINSV.BO')":1729.10709903,
+    "('Low', 'BAJAJFINSV.BO')":1682.1800224314,
+    "('Open', 'BAJAJFINSV.BO')":1689.1265875046,
+    "('Volume', 'BAJAJFINSV.BO')":95985
+  },
+  {
+    "('Date', '')":"2025-01-15",
+    "('Close', 'BAJAJFINSV.BO')":1671.2852783203,
+    "('High', 'BAJAJFINSV.BO')":1729.1570921057,
+    "('Low', 'BAJAJFINSV.BO')":1649.2959973802,
+    "('Open', 'BAJAJFINSV.BO')":1723.9096500632,
+    "('Volume', 'BAJAJFINSV.BO')":95128
+  },
+  {
+    "('Date', '')":"2025-01-16",
+    "('Close', 'BAJAJFINSV.BO')":1695.7734375,
+    "('High', 'BAJAJFINSV.BO')":1704.6691260604,
+    "('Low', 'BAJAJFINSV.BO')":1677.98218239,
+    "('Open', 'BAJAJFINSV.BO')":1684.1290886659,
+    "('Volume', 'BAJAJFINSV.BO')":29779
+  },
+  {
+    "('Date', '')":"2025-01-17",
+    "('Close', 'BAJAJFINSV.BO')":1680.2808837891,
+    "('High', 'BAJAJFINSV.BO')":1696.5229662102,
+    "('Low', 'BAJAJFINSV.BO')":1671.8849521661,
+    "('Open', 'BAJAJFINSV.BO')":1687.1275218229,
+    "('Volume', 'BAJAJFINSV.BO')":22941
+  },
+  {
+    "('Date', '')":"2025-01-20",
+    "('Close', 'BAJAJFINSV.BO')":1733.7548828125,
+    "('High', 'BAJAJFINSV.BO')":1737.1032262987,
+    "('Low', 'BAJAJFINSV.BO')":1675.2334814327,
+    "('Open', 'BAJAJFINSV.BO')":1684.1790722107,
+    "('Volume', 'BAJAJFINSV.BO')":57392
+  },
+  {
+    "('Date', '')":"2025-01-21",
+    "('Close', 'BAJAJFINSV.BO')":1714.7142333984,
+    "('High', 'BAJAJFINSV.BO')":1749.1474005652,
+    "('Low', 'BAJAJFINSV.BO')":1711.0159628307,
+    "('Open', 'BAJAJFINSV.BO')":1739.4021507621,
+    "('Volume', 'BAJAJFINSV.BO')":127224
+  },
+  {
+    "('Date', '')":"2025-01-22",
+    "('Close', 'BAJAJFINSV.BO')":1742.6005859375,
+    "('High', 'BAJAJFINSV.BO')":1745.4991975322,
+    "('Low', 'BAJAJFINSV.BO')":1710.2164680163,
+    "('Open', 'BAJAJFINSV.BO')":1717.2130577912,
+    "('Volume', 'BAJAJFINSV.BO')":77357
+  },
+  {
+    "('Date', '')":"2025-01-23",
+    "('Close', 'BAJAJFINSV.BO')":1744.8994140625,
+    "('High', 'BAJAJFINSV.BO')":1765.1395476067,
+    "('Low', 'BAJAJFINSV.BO')":1729.2071124153,
+    "('Open', 'BAJAJFINSV.BO')":1742.6004858927,
+    "('Volume', 'BAJAJFINSV.BO')":65432
+  },
+  {
+    "('Date', '')":"2025-01-24",
+    "('Close', 'BAJAJFINSV.BO')":1727.6578369141,
+    "('High', 'BAJAJFINSV.BO')":1754.3447792845,
+    "('Low', 'BAJAJFINSV.BO')":1724.8591523311,
+    "('Open', 'BAJAJFINSV.BO')":1744.3496515037,
+    "('Volume', 'BAJAJFINSV.BO')":12767
+  },
+  {
+    "('Date', '')":"2025-01-27",
+    "('Close', 'BAJAJFINSV.BO')":1710.8659667969,
+    "('High', 'BAJAJFINSV.BO')":1731.1561249175,
+    "('Low', 'BAJAJFINSV.BO')":1702.2701813409,
+    "('Open', 'BAJAJFINSV.BO')":1717.1129216356,
+    "('Volume', 'BAJAJFINSV.BO')":22307
+  },
+  {
+    "('Date', '')":"2025-01-28",
+    "('Close', 'BAJAJFINSV.BO')":1767.0386962891,
+    "('High', 'BAJAJFINSV.BO')":1786.7290495641,
+    "('Low', 'BAJAJFINSV.BO')":1714.1644449833,
+    "('Open', 'BAJAJFINSV.BO')":1719.461911606,
+    "('Volume', 'BAJAJFINSV.BO')":111974
+  },
+  {
+    "('Date', '')":"2025-01-29",
+    "('Close', 'BAJAJFINSV.BO')":1788.5281982422,
+    "('High', 'BAJAJFINSV.BO')":1804.0206463782,
+    "('Low', 'BAJAJFINSV.BO')":1766.3389412538,
+    "('Open', 'BAJAJFINSV.BO')":1788.9779301902,
+    "('Volume', 'BAJAJFINSV.BO')":71657
+  },
+  {
+    "('Date', '')":"2025-01-30",
+    "('Close', 'BAJAJFINSV.BO')":1743.8499755859,
+    "('High', 'BAJAJFINSV.BO')":1855.0457772787,
+    "('Low', 'BAJAJFINSV.BO')":1739.6020460831,
+    "('Open', 'BAJAJFINSV.BO')":1837.054546443,
+    "('Volume', 'BAJAJFINSV.BO')":134332
+  },
+  {
+    "('Date', '')":"2025-01-31",
+    "('Close', 'BAJAJFINSV.BO')":1736.3037109375,
+    "('High', 'BAJAJFINSV.BO')":1752.1459646527,
+    "('Low', 'BAJAJFINSV.BO')":1697.2726867084,
+    "('Open', 'BAJAJFINSV.BO')":1724.009654509,
+    "('Volume', 'BAJAJFINSV.BO')":98927
+  },
+  {
+    "('Date', '')":"2025-02-01",
+    "('Close', 'BAJAJFINSV.BO')":1753.2954101562,
+    "('High', 'BAJAJFINSV.BO')":1776.6840341803,
+    "('Low', 'BAJAJFINSV.BO')":1619.2107430503,
+    "('Open', 'BAJAJFINSV.BO')":1752.9456050769,
+    "('Volume', 'BAJAJFINSV.BO')":75069
+  },
+  {
+    "('Date', '')":"2025-02-03",
+    "('Close', 'BAJAJFINSV.BO')":1793.5756835938,
+    "('High', 'BAJAJFINSV.BO')":1803.6208359733,
+    "('Low', 'BAJAJFINSV.BO')":1734.1546968211,
+    "('Open', 'BAJAJFINSV.BO')":1734.1546968211,
+    "('Volume', 'BAJAJFINSV.BO')":88641
+  },
+  {
+    "('Date', '')":"2025-02-04",
+    "('Close', 'BAJAJFINSV.BO')":1813.2161865234,
+    "('High', 'BAJAJFINSV.BO')":1818.4137264059,
+    "('Low', 'BAJAJFINSV.BO')":1773.1357467516,
+    "('Open', 'BAJAJFINSV.BO')":1804.0706197973,
+    "('Volume', 'BAJAJFINSV.BO')":109162
+  },
+  {
+    "('Date', '')":"2025-02-05",
+    "('Close', 'BAJAJFINSV.BO')":1795.4747314453,
+    "('High', 'BAJAJFINSV.BO')":1824.1107965717,
+    "('Low', 'BAJAJFINSV.BO')":1780.0822104584,
+    "('Open', 'BAJAJFINSV.BO')":1813.1161561541,
+    "('Volume', 'BAJAJFINSV.BO')":51666
+  },
+  {
+    "('Date', '')":"2025-02-06",
+    "('Close', 'BAJAJFINSV.BO')":1786.4791259766,
+    "('High', 'BAJAJFINSV.BO')":1809.1181146309,
+    "('Low', 'BAJAJFINSV.BO')":1779.1327315154,
+    "('Open', 'BAJAJFINSV.BO')":1796.6242049994,
+    "('Volume', 'BAJAJFINSV.BO')":18790
+  },
+  {
+    "('Date', '')":"2025-02-07",
+    "('Close', 'BAJAJFINSV.BO')":1796.6743164062,
+    "('High', 'BAJAJFINSV.BO')":1821.9120150833,
+    "('Low', 'BAJAJFINSV.BO')":1784.4302843748,
+    "('Open', 'BAJAJFINSV.BO')":1794.1255099137,
+    "('Volume', 'BAJAJFINSV.BO')":56710
+  },
+  {
+    "('Date', '')":"2025-02-10",
+    "('Close', 'BAJAJFINSV.BO')":1791.9764404297,
+    "('High', 'BAJAJFINSV.BO')":1804.0705205117,
+    "('Low', 'BAJAJFINSV.BO')":1774.1351619358,
+    "('Open', 'BAJAJFINSV.BO')":1798.1734927934,
+    "('Volume', 'BAJAJFINSV.BO')":39931
+  },
+  {
+    "('Date', '')":"2025-02-11",
+    "('Close', 'BAJAJFINSV.BO')":1743.6500244141,
+    "('High', 'BAJAJFINSV.BO')":1796.2743960707,
+    "('Low', 'BAJAJFINSV.BO')":1740.4516323596,
+    "('Open', 'BAJAJFINSV.BO')":1784.2302184075,
+    "('Volume', 'BAJAJFINSV.BO')":303928
+  },
+  {
+    "('Date', '')":"2025-02-12",
+    "('Close', 'BAJAJFINSV.BO')":1786.6791992188,
+    "('High', 'BAJAJFINSV.BO')":1799.1230850863,
+    "('Low', 'BAJAJFINSV.BO')":1727.3081130087,
+    "('Open', 'BAJAJFINSV.BO')":1754.0949835135,
+    "('Volume', 'BAJAJFINSV.BO')":44637
+  },
+  {
+    "('Date', '')":"2025-02-13",
+    "('Close', 'BAJAJFINSV.BO')":1848.2989501953,
+    "('High', 'BAJAJFINSV.BO')":1852.3970501271,
+    "('Low', 'BAJAJFINSV.BO')":1796.3743110275,
+    "('Open', 'BAJAJFINSV.BO')":1799.1229711223,
+    "('Volume', 'BAJAJFINSV.BO')":62337
+  },
+  {
+    "('Date', '')":"2025-02-14",
+    "('Close', 'BAJAJFINSV.BO')":1839.5532226562,
+    "('High', 'BAJAJFINSV.BO')":1866.0903354163,
+    "('Low', 'BAJAJFINSV.BO')":1824.7605069157,
+    "('Open', 'BAJAJFINSV.BO')":1849.1486428252,
+    "('Volume', 'BAJAJFINSV.BO')":40064
+  },
+  {
+    "('Date', '')":"2025-02-17",
+    "('Close', 'BAJAJFINSV.BO')":1891.6279296875,
+    "('High', 'BAJAJFINSV.BO')":1897.3251036361,
+    "('Low', 'BAJAJFINSV.BO')":1832.1068958066,
+    "('Open', 'BAJAJFINSV.BO')":1840.4029005494,
+    "('Volume', 'BAJAJFINSV.BO')":57570
+  },
+  {
+    "('Date', '')":"2025-02-18",
+    "('Close', 'BAJAJFINSV.BO')":1892.4775390625,
+    "('High', 'BAJAJFINSV.BO')":1913.3173563106,
+    "('Low', 'BAJAJFINSV.BO')":1879.1839701647,
+    "('Open', 'BAJAJFINSV.BO')":1893.9267838022,
+    "('Volume', 'BAJAJFINSV.BO')":68330
+  },
+  {
+    "('Date', '')":"2025-02-19",
+    "('Close', 'BAJAJFINSV.BO')":1873.7366943359,
+    "('High', 'BAJAJFINSV.BO')":1898.174733484,
+    "('Low', 'BAJAJFINSV.BO')":1866.7900071716,
+    "('Open', 'BAJAJFINSV.BO')":1892.0277053637,
+    "('Volume', 'BAJAJFINSV.BO')":21264
+  },
+  {
+    "('Date', '')":"2025-02-20",
+    "('Close', 'BAJAJFINSV.BO')":1879.93359375,
+    "('High', 'BAJAJFINSV.BO')":1885.2310603049,
+    "('Low', 'BAJAJFINSV.BO')":1860.1433138505,
+    "('Open', 'BAJAJFINSV.BO')":1873.0369311442,
+    "('Volume', 'BAJAJFINSV.BO')":13400
+  },
+  {
+    "('Date', '')":"2025-02-21",
+    "('Close', 'BAJAJFINSV.BO')":1877.5347900391,
+    "('High', 'BAJAJFINSV.BO')":1892.9273117226,
+    "('Low', 'BAJAJFINSV.BO')":1866.7401248924,
+    "('Open', 'BAJAJFINSV.BO')":1869.0889555949,
+    "('Volume', 'BAJAJFINSV.BO')":51714
+  },
+  {
+    "('Date', '')":"2025-02-24",
+    "('Close', 'BAJAJFINSV.BO')":1856.6450195312,
+    "('High', 'BAJAJFINSV.BO')":1888.129672207,
+    "('Low', 'BAJAJFINSV.BO')":1852.9467490263,
+    "('Open', 'BAJAJFINSV.BO')":1869.0889048797,
+    "('Volume', 'BAJAJFINSV.BO')":80064
+  },
+  {
+    "('Date', '')":"2025-02-25",
+    "('Close', 'BAJAJFINSV.BO')":1875.0360107422,
+    "('High', 'BAJAJFINSV.BO')":1895.4260965078,
+    "('Low', 'BAJAJFINSV.BO')":1860.643123859,
+    "('Open', 'BAJAJFINSV.BO')":1861.0428313751,
+    "('Volume', 'BAJAJFINSV.BO')":73477
+  },
+  {
+    "('Date', '')":"2025-02-27",
+    "('Close', 'BAJAJFINSV.BO')":1923.6124267578,
+    "('High', 'BAJAJFINSV.BO')":1937.4056303255,
+    "('Low', 'BAJAJFINSV.BO')":1875.1859579202,
+    "('Open', 'BAJAJFINSV.BO')":1875.1859579202,
+    "('Volume', 'BAJAJFINSV.BO')":160968
+  },
+  {
+    "('Date', '')":"2025-02-28",
+    "('Close', 'BAJAJFINSV.BO')":1872.0874023438,
+    "('High', 'BAJAJFINSV.BO')":1918.9145508192,
+    "('Low', 'BAJAJFINSV.BO')":1862.891933742,
+    "('Open', 'BAJAJFINSV.BO')":1918.9145508192,
+    "('Volume', 'BAJAJFINSV.BO')":88869
+  },
+  {
+    "('Date', '')":"2025-03-03",
+    "('Close', 'BAJAJFINSV.BO')":1837.3043212891,
+    "('High', 'BAJAJFINSV.BO')":1889.6289123013,
+    "('Low', 'BAJAJFINSV.BO')":1817.8638467563,
+    "('Open', 'BAJAJFINSV.BO')":1889.6289123013,
+    "('Volume', 'BAJAJFINSV.BO')":151220
+  },
+  {
+    "('Date', '')":"2025-03-04",
+    "('Close', 'BAJAJFINSV.BO')":1789.4278564453,
+    "('High', 'BAJAJFINSV.BO')":1831.0574679291,
+    "('Low', 'BAJAJFINSV.BO')":1784.5302192087,
+    "('Open', 'BAJAJFINSV.BO')":1824.1609270567,
+    "('Volume', 'BAJAJFINSV.BO')":48752
+  },
+  {
+    "('Date', '')":"2025-03-05",
+    "('Close', 'BAJAJFINSV.BO')":1801.1220703125,
+    "('High', 'BAJAJFINSV.BO')":1807.3690253288,
+    "('Low', 'BAJAJFINSV.BO')":1732.3056382546,
+    "('Open', 'BAJAJFINSV.BO')":1784.7300359474,
+    "('Volume', 'BAJAJFINSV.BO')":92527
+  },
+  {
+    "('Date', '')":"2025-03-06",
+    "('Close', 'BAJAJFINSV.BO')":1844.2510986328,
+    "('High', 'BAJAJFINSV.BO')":1851.9973229643,
+    "('Low', 'BAJAJFINSV.BO')":1783.2307923525,
+    "('Open', 'BAJAJFINSV.BO')":1809.1181987142,
+    "('Volume', 'BAJAJFINSV.BO')":86048
+  },
+  {
+    "('Date', '')":"2025-03-07",
+    "('Close', 'BAJAJFINSV.BO')":1845.9501953125,
+    "('High', 'BAJAJFINSV.BO')":1863.6915475609,
+    "('Low', 'BAJAJFINSV.BO')":1837.1045314105,
+    "('Open', 'BAJAJFINSV.BO')":1839.1535814605,
+    "('Volume', 'BAJAJFINSV.BO')":40191
+  },
+  {
+    "('Date', '')":"2025-03-10",
+    "('Close', 'BAJAJFINSV.BO')":1837.9541015625,
+    "('High', 'BAJAJFINSV.BO')":1887.9297419346,
+    "('Low', 'BAJAJFINSV.BO')":1834.555733615,
+    "('Open', 'BAJAJFINSV.BO')":1862.8920193147,
+    "('Volume', 'BAJAJFINSV.BO')":48186
+  },
+  {
+    "('Date', '')":"2025-03-11",
+    "('Close', 'BAJAJFINSV.BO')":1804.6203613281,
+    "('High', 'BAJAJFINSV.BO')":1836.4049171888,
+    "('Low', 'BAJAJFINSV.BO')":1786.9789359969,
+    "('Open', 'BAJAJFINSV.BO')":1836.4049171888,
+    "('Volume', 'BAJAJFINSV.BO')":40964
+  },
+  {
+    "('Date', '')":"2025-03-12",
+    "('Close', 'BAJAJFINSV.BO')":1818.0137939453,
+    "('High', 'BAJAJFINSV.BO')":1824.110797414,
+    "('Low', 'BAJAJFINSV.BO')":1799.6227346542,
+    "('Open', 'BAJAJFINSV.BO')":1816.2146221627,
+    "('Volume', 'BAJAJFINSV.BO')":22715
+  },
+  {
+    "('Date', '')":"2025-03-13",
+    "('Close', 'BAJAJFINSV.BO')":1806.0695800781,
+    "('High', 'BAJAJFINSV.BO')":1838.2039405541,
+    "('Low', 'BAJAJFINSV.BO')":1803.1210661634,
+    "('Open', 'BAJAJFINSV.BO')":1833.0564253034,
+    "('Volume', 'BAJAJFINSV.BO')":20035
+  },
+  {
+    "('Date', '')":"2025-03-17",
+    "('Close', 'BAJAJFINSV.BO')":1870.9379882812,
+    "('High', 'BAJAJFINSV.BO')":1879.0840419076,
+    "('Low', 'BAJAJFINSV.BO')":1799.1230188477,
+    "('Open', 'BAJAJFINSV.BO')":1837.3043585545,
+    "('Volume', 'BAJAJFINSV.BO')":44335
+  },
+  {
+    "('Date', '')":"2025-03-18",
+    "('Close', 'BAJAJFINSV.BO')":1844.1010742188,
+    "('High', 'BAJAJFINSV.BO')":1904.07184086,
+    "('Low', 'BAJAJFINSV.BO')":1833.1064336679,
+    "('Open', 'BAJAJFINSV.BO')":1898.9243256545,
+    "('Volume', 'BAJAJFINSV.BO')":105524
+  },
+  {
+    "('Date', '')":"2025-03-19",
+    "('Close', 'BAJAJFINSV.BO')":1840.8026123047,
+    "('High', 'BAJAJFINSV.BO')":1863.491625299,
+    "('Low', 'BAJAJFINSV.BO')":1839.1034894069,
+    "('Open', 'BAJAJFINSV.BO')":1854.0961808966,
+    "('Volume', 'BAJAJFINSV.BO')":35034
+  },
+  {
+    "('Date', '')":"2025-03-20",
+    "('Close', 'BAJAJFINSV.BO')":1850.3980712891,
+    "('High', 'BAJAJFINSV.BO')":1854.2461711167,
+    "('Low', 'BAJAJFINSV.BO')":1813.9158545653,
+    "('Open', 'BAJAJFINSV.BO')":1851.2975351886,
+    "('Volume', 'BAJAJFINSV.BO')":29248
+  },
+  {
+    "('Date', '')":"2025-03-21",
+    "('Close', 'BAJAJFINSV.BO')":1844.7508544922,
+    "('High', 'BAJAJFINSV.BO')":1876.6852401805,
+    "('Low', 'BAJAJFINSV.BO')":1824.7605981588,
+    "('Open', 'BAJAJFINSV.BO')":1871.0879928093,
+    "('Volume', 'BAJAJFINSV.BO')":47109
+  },
+  {
+    "('Date', '')":"2025-03-24",
+    "('Close', 'BAJAJFINSV.BO')":1893.8768310547,
+    "('High', 'BAJAJFINSV.BO')":1897.7748332195,
+    "('Low', 'BAJAJFINSV.BO')":1841.0524839516,
+    "('Open', 'BAJAJFINSV.BO')":1858.8438599272,
+    "('Volume', 'BAJAJFINSV.BO')":170764
+  },
+  {
+    "('Date', '')":"2025-03-25",
+    "('Close', 'BAJAJFINSV.BO')":1945.1518554688,
+    "('High', 'BAJAJFINSV.BO')":1954.5473002865,
+    "('Low', 'BAJAJFINSV.BO')":1894.0767752713,
+    "('Open', 'BAJAJFINSV.BO')":1914.0170070298,
+    "('Volume', 'BAJAJFINSV.BO')":154856
+  },
+  {
+    "('Date', '')":"2025-03-26",
+    "('Close', 'BAJAJFINSV.BO')":1941.7534179688,
+    "('High', 'BAJAJFINSV.BO')":1976.0367549341,
+    "('Low', 'BAJAJFINSV.BO')":1936.0562439592,
+    "('Open', 'BAJAJFINSV.BO')":1951.14886245,
+    "('Volume', 'BAJAJFINSV.BO')":88918
+  },
+  {
+    "('Date', '')":"2025-03-27",
+    "('Close', 'BAJAJFINSV.BO')":2004.4229736328,
+    "('High', 'BAJAJFINSV.BO')":2009.9701964113,
+    "('Low', 'BAJAJFINSV.BO')":1929.4595143767,
+    "('Open', 'BAJAJFINSV.BO')":1929.4595143767,
+    "('Volume', 'BAJAJFINSV.BO')":72585
+  },
+  {
+    "('Date', '')":"2025-03-28",
+    "('Close', 'BAJAJFINSV.BO')":2004.97265625,
+    "('High', 'BAJAJFINSV.BO')":2020.0153727236,
+    "('Low', 'BAJAJFINSV.BO')":1991.7291116243,
+    "('Open', 'BAJAJFINSV.BO')":2003.9731434481,
+    "('Volume', 'BAJAJFINSV.BO')":75157
+  },
+  {
+    "('Date', '')":"2025-04-01",
+    "('Close', 'BAJAJFINSV.BO')":1935.5565185547,
+    "('High', 'BAJAJFINSV.BO')":2000.1750448544,
+    "('Low', 'BAJAJFINSV.BO')":1931.4585405163,
+    "('Open', 'BAJAJFINSV.BO')":1994.8276758281,
+    "('Volume', 'BAJAJFINSV.BO')":54661
+  },
+  {
+    "('Date', '')":"2025-04-02",
+    "('Close', 'BAJAJFINSV.BO')":1926.6608886719,
+    "('High', 'BAJAJFINSV.BO')":1962.0436669249,
+    "('Low', 'BAJAJFINSV.BO')":1919.0646156371,
+    "('Open', 'BAJAJFINSV.BO')":1948.7500976059,
+    "('Volume', 'BAJAJFINSV.BO')":22283
+  },
+  {
+    "('Date', '')":"2025-04-03",
+    "('Close', 'BAJAJFINSV.BO')":1919.9140625,
+    "('High', 'BAJAJFINSV.BO')":1949.4996158224,
+    "('Low', 'BAJAJFINSV.BO')":1905.0713224018,
+    "('Open', 'BAJAJFINSV.BO')":1910.118910649,
+    "('Volume', 'BAJAJFINSV.BO')":20795
+  },
+  {
+    "('Date', '')":"2025-04-04",
+    "('Close', 'BAJAJFINSV.BO')":1911.2183837891,
+    "('High', 'BAJAJFINSV.BO')":1928.0601497044,
+    "('Low', 'BAJAJFINSV.BO')":1895.4760575279,
+    "('Open', 'BAJAJFINSV.BO')":1922.8627320606,
+    "('Volume', 'BAJAJFINSV.BO')":35788
+  },
+  {
+    "('Date', '')":"2025-04-07",
+    "('Close', 'BAJAJFINSV.BO')":1851.2476806641,
+    "('High', 'BAJAJFINSV.BO')":1892.2277059896,
+    "('Low', 'BAJAJFINSV.BO')":1749.1974468775,
+    "('Open', 'BAJAJFINSV.BO')":1749.1974468775,
+    "('Volume', 'BAJAJFINSV.BO')":38817
+  },
+  {
+    "('Date', '')":"2025-04-08",
+    "('Close', 'BAJAJFINSV.BO')":1902.0228271484,
+    "('High', 'BAJAJFINSV.BO')":1932.8078700826,
+    "('Low', 'BAJAJFINSV.BO')":1872.8871267414,
+    "('Open', 'BAJAJFINSV.BO')":1888.7792825958,
+    "('Volume', 'BAJAJFINSV.BO')":79763
+  },
+  {
+    "('Date', '')":"2025-04-09",
+    "('Close', 'BAJAJFINSV.BO')":1895.4760742188,
+    "('High', 'BAJAJFINSV.BO')":1915.7162081614,
+    "('Low', 'BAJAJFINSV.BO')":1878.0845273177,
+    "('Open', 'BAJAJFINSV.BO')":1902.022809769,
+    "('Volume', 'BAJAJFINSV.BO')":17035
+  },
+  {
+    "('Date', '')":"2025-04-11",
+    "('Close', 'BAJAJFINSV.BO')":1944.7021484375,
+    "('High', 'BAJAJFINSV.BO')":1964.04269716,
+    "('Low', 'BAJAJFINSV.BO')":1904.1219522266,
+    "('Open', 'BAJAJFINSV.BO')":1904.1219522266,
+    "('Volume', 'BAJAJFINSV.BO')":73057
+  },
+  {
+    "('Date', '')":"2025-04-15",
+    "('Close', 'BAJAJFINSV.BO')":1966.8912353516,
+    "('High', 'BAJAJFINSV.BO')":1983.0333914431,
+    "('Low', 'BAJAJFINSV.BO')":1961.0441098848,
+    "('Open', 'BAJAJFINSV.BO')":1974.0878007044,
+    "('Volume', 'BAJAJFINSV.BO')":31923
+  },
+  {
+    "('Date', '')":"2025-04-16",
+    "('Close', 'BAJAJFINSV.BO')":1968.9403076172,
+    "('High', 'BAJAJFINSV.BO')":1974.0377985429,
+    "('Low', 'BAJAJFINSV.BO')":1949.0499783082,
+    "('Open', 'BAJAJFINSV.BO')":1973.9877740981,
+    "('Volume', 'BAJAJFINSV.BO')":73396
+  },
+  {
+    "('Date', '')":"2025-04-17",
+    "('Close', 'BAJAJFINSV.BO')":2032.7591552734,
+    "('High', 'BAJAJFINSV.BO')":2037.8566461469,
+    "('Low', 'BAJAJFINSV.BO')":1953.8975710183,
+    "('Open', 'BAJAJFINSV.BO')":1964.4923822871,
+    "('Volume', 'BAJAJFINSV.BO')":110780
+  },
+  {
+    "('Date', '')":"2025-04-21",
+    "('Close', 'BAJAJFINSV.BO')":2103.2248535156,
+    "('High', 'BAJAJFINSV.BO')":2117.9176431795,
+    "('Low', 'BAJAJFINSV.BO')":2033.2589560481,
+    "('Open', 'BAJAJFINSV.BO')":2033.2589560481,
+    "('Volume', 'BAJAJFINSV.BO')":190301
+  },
+  {
+    "('Date', '')":"2025-04-22",
+    "('Close', 'BAJAJFINSV.BO')":2076.8874511719,
+    "('High', 'BAJAJFINSV.BO')":2108.9218836994,
+    "('Low', 'BAJAJFINSV.BO')":2068.9913980344,
+    "('Open', 'BAJAJFINSV.BO')":2108.9218836994,
+    "('Volume', 'BAJAJFINSV.BO')":75661
+  },
+  {
+    "('Date', '')":"2025-04-23",
+    "('Close', 'BAJAJFINSV.BO')":2098.9768066406,
+    "('High', 'BAJAJFINSV.BO')":2115.8186943407,
+    "('Low', 'BAJAJFINSV.BO')":2055.9977577427,
+    "('Open', 'BAJAJFINSV.BO')":2098.4270258155,
+    "('Volume', 'BAJAJFINSV.BO')":108533
+  },
+  {
+    "('Date', '')":"2025-04-24",
+    "('Close', 'BAJAJFINSV.BO')":2104.3740234375,
+    "('High', 'BAJAJFINSV.BO')":2133.4099173147,
+    "('Low', 'BAJAJFINSV.BO')":2084.8835250237,
+    "('Open', 'BAJAJFINSV.BO')":2129.7617934254,
+    "('Volume', 'BAJAJFINSV.BO')":54539
+  },
+  {
+    "('Date', '')":"2025-04-25",
+    "('Close', 'BAJAJFINSV.BO')":2044.353515625,
+    "('High', 'BAJAJFINSV.BO')":2123.265125725,
+    "('Low', 'BAJAJFINSV.BO')":2022.6141118576,
+    "('Open', 'BAJAJFINSV.BO')":2086.0332732958,
+    "('Volume', 'BAJAJFINSV.BO')":89437
+  },
+  {
+    "('Date', '')":"2025-04-28",
+    "('Close', 'BAJAJFINSV.BO')":2047.7518310547,
+    "('High', 'BAJAJFINSV.BO')":2083.8343404272,
+    "('Low', 'BAJAJFINSV.BO')":2039.6558018478,
+    "('Open', 'BAJAJFINSV.BO')":2043.6538530128,
+    "('Volume', 'BAJAJFINSV.BO')":37724
+  },
+  {
+    "('Date', '')":"2025-04-29",
+    "('Close', 'BAJAJFINSV.BO')":2063.9938964844,
+    "('High', 'BAJAJFINSV.BO')":2080.4858574006,
+    "('Low', 'BAJAJFINSV.BO')":2027.1118503968,
+    "('Open', 'BAJAJFINSV.BO')":2078.1869291958,
+    "('Volume', 'BAJAJFINSV.BO')":81425
+  },
+  {
+    "('Date', '')":"2025-04-30",
+    "('Close', 'BAJAJFINSV.BO')":1951.4488525391,
+    "('High', 'BAJAJFINSV.BO')":2036.9571010121,
+    "('Low', 'BAJAJFINSV.BO')":1926.0612025301,
+    "('Open', 'BAJAJFINSV.BO')":2036.9571010121,
+    "('Volume', 'BAJAJFINSV.BO')":155999
+  },
+  {
+    "('Date', '')":"2025-05-02",
+    "('Close', 'BAJAJFINSV.BO')":1956.0465087891,
+    "('High', 'BAJAJFINSV.BO')":1985.3322820224,
+    "('Low', 'BAJAJFINSV.BO')":1916.3659002613,
+    "('Open', 'BAJAJFINSV.BO')":1951.9984332292,
+    "('Volume', 'BAJAJFINSV.BO')":107947
+  },
+  {
+    "('Date', '')":"2025-05-05",
+    "('Close', 'BAJAJFINSV.BO')":2024.4132080078,
+    "('High', 'BAJAJFINSV.BO')":2035.357824139,
+    "('Low', 'BAJAJFINSV.BO')":1954.4473134426,
+    "('Open', 'BAJAJFINSV.BO')":1954.4473134426,
+    "('Volume', 'BAJAJFINSV.BO')":162224
+  },
+  {
+    "('Date', '')":"2025-05-06",
+    "('Close', 'BAJAJFINSV.BO')":2031.4597167969,
+    "('High', 'BAJAJFINSV.BO')":2043.4039678178,
+    "('Low', 'BAJAJFINSV.BO')":2008.0211907269,
+    "('Open', 'BAJAJFINSV.BO')":2024.4132248493,
+    "('Volume', 'BAJAJFINSV.BO')":76357
+  },
+  {
+    "('Date', '')":"2025-05-07",
+    "('Close', 'BAJAJFINSV.BO')":2027.8614501953,
+    "('High', 'BAJAJFINSV.BO')":2044.0036057628,
+    "('Low', 'BAJAJFINSV.BO')":1999.8251903252,
+    "('Open', 'BAJAJFINSV.BO')":1999.8251903252,
+    "('Volume', 'BAJAJFINSV.BO')":81136
+  },
+  {
+    "('Date', '')":"2025-05-08",
+    "('Close', 'BAJAJFINSV.BO')":2004.6728515625,
+    "('High', 'BAJAJFINSV.BO')":2049.750853987,
+    "('Low', 'BAJAJFINSV.BO')":1993.7281133061,
+    "('Open', 'BAJAJFINSV.BO')":2037.9565542613,
+    "('Volume', 'BAJAJFINSV.BO')":51198
+  },
+  {
+    "('Date', '')":"2025-05-09",
+    "('Close', 'BAJAJFINSV.BO')":1969.3400878906,
+    "('High', 'BAJAJFINSV.BO')":1998.1760073181,
+    "('Low', 'BAJAJFINSV.BO')":1949.0999540067,
+    "('Open', 'BAJAJFINSV.BO')":1949.0999540067,
+    "('Volume', 'BAJAJFINSV.BO')":15444
+  },
+  {
+    "('Date', '')":"2025-05-12",
+    "('Close', 'BAJAJFINSV.BO')":2049.6010742188,
+    "('High', 'BAJAJFINSV.BO')":2056.7474932309,
+    "('Low', 'BAJAJFINSV.BO')":2011.8194410411,
+    "('Open', 'BAJAJFINSV.BO')":2019.0659089434,
+    "('Volume', 'BAJAJFINSV.BO')":57494
+  },
+  {
+    "('Date', '')":"2025-05-13",
+    "('Close', 'BAJAJFINSV.BO')":2017.1667480469,
+    "('High', 'BAJAJFINSV.BO')":2060.3955539144,
+    "('Low', 'BAJAJFINSV.BO')":2010.020207244,
+    "('Open', 'BAJAJFINSV.BO')":2042.4543482582,
+    "('Volume', 'BAJAJFINSV.BO')":193191
+  },
+  {
+    "('Date', '')":"2025-05-14",
+    "('Close', 'BAJAJFINSV.BO')":2018.6159667969,
+    "('High', 'BAJAJFINSV.BO')":2037.3069288108,
+    "('Low', 'BAJAJFINSV.BO')":2008.0211558323,
+    "('Open', 'BAJAJFINSV.BO')":2024.0133601595,
+    "('Volume', 'BAJAJFINSV.BO')":89504
+  },
+  {
+    "('Date', '')":"2025-05-15",
+    "('Close', 'BAJAJFINSV.BO')":2041.3050537109,
+    "('High', 'BAJAJFINSV.BO')":2049.2011072744,
+    "('Low', 'BAJAJFINSV.BO')":1996.4269042927,
+    "('Open', 'BAJAJFINSV.BO')":2018.8659179964,
+    "('Volume', 'BAJAJFINSV.BO')":26008
+  },
+  {
+    "('Date', '')":"2025-05-16",
+    "('Close', 'BAJAJFINSV.BO')":2032.7091064453,
+    "('High', 'BAJAJFINSV.BO')":2070.7906412448,
+    "('Low', 'BAJAJFINSV.BO')":2020.8150018868,
+    "('Open', 'BAJAJFINSV.BO')":2046.2525535157,
+    "('Volume', 'BAJAJFINSV.BO')":54958
+  },
+  {
+    "('Date', '')":"2025-05-19",
+    "('Close', 'BAJAJFINSV.BO')":2036.8571777344,
+    "('High', 'BAJAJFINSV.BO')":2051.7999676138,
+    "('Low', 'BAJAJFINSV.BO')":2033.9585661515,
+    "('Open', 'BAJAJFINSV.BO')":2034.6582983327,
+    "('Volume', 'BAJAJFINSV.BO')":115296
+  },
+  {
+    "('Date', '')":"2025-05-20",
+    "('Close', 'BAJAJFINSV.BO')":2001.3244628906,
+    "('High', 'BAJAJFINSV.BO')":2043.6037797435,
+    "('Low', 'BAJAJFINSV.BO')":1995.0274836519,
+    "('Open', 'BAJAJFINSV.BO')":2039.2058991649,
+    "('Volume', 'BAJAJFINSV.BO')":37597
+  },
+  {
+    "('Date', '')":"2025-05-21",
+    "('Close', 'BAJAJFINSV.BO')":2035.6577148438,
+    "('High', 'BAJAJFINSV.BO')":2044.0036221015,
+    "('Low', 'BAJAJFINSV.BO')":1998.8256935371,
+    "('Open', 'BAJAJFINSV.BO')":2004.173062474,
+    "('Volume', 'BAJAJFINSV.BO')":141863
+  },
+  {
+    "('Date', '')":"2025-05-22",
+    "('Close', 'BAJAJFINSV.BO')":1999.0256347656,
+    "('High', 'BAJAJFINSV.BO')":2041.4549050592,
+    "('Low', 'BAJAJFINSV.BO')":1991.9790205987,
+    "('Open', 'BAJAJFINSV.BO')":2041.4549050592,
+    "('Volume', 'BAJAJFINSV.BO')":20826
+  },
+  {
+    "('Date', '')":"2025-05-23",
+    "('Close', 'BAJAJFINSV.BO')":2035.7576904297,
+    "('High', 'BAJAJFINSV.BO')":2047.4519413568,
+    "('Low', 'BAJAJFINSV.BO')":2002.8237925544,
+    "('Open', 'BAJAJFINSV.BO')":2002.8736949878,
+    "('Volume', 'BAJAJFINSV.BO')":368387
+  },
+  {
+    "('Date', '')":"2025-05-26",
+    "('Close', 'BAJAJFINSV.BO')":2049.4509277344,
+    "('High', 'BAJAJFINSV.BO')":2068.8914024706,
+    "('Low', 'BAJAJFINSV.BO')":2036.5573105013,
+    "('Open', 'BAJAJFINSV.BO')":2036.5573105013,
+    "('Volume', 'BAJAJFINSV.BO')":112715
+  },
+  {
+    "('Date', '')":"2025-05-27",
+    "('Close', 'BAJAJFINSV.BO')":2029.1608886719,
+    "('High', 'BAJAJFINSV.BO')":2057.1971488608,
+    "('Low', 'BAJAJFINSV.BO')":2014.0182456978,
+    "('Open', 'BAJAJFINSV.BO')":2039.3059677608,
+    "('Volume', 'BAJAJFINSV.BO')":67639
+  },
+  {
+    "('Date', '')":"2025-05-28",
+    "('Close', 'BAJAJFINSV.BO')":2020.115234375,
+    "('High', 'BAJAJFINSV.BO')":2043.9036870974,
+    "('Low', 'BAJAJFINSV.BO')":2017.0167691912,
+    "('Open', 'BAJAJFINSV.BO')":2040.2054166432,
+    "('Volume', 'BAJAJFINSV.BO')":56913
+  },
+  {
+    "('Date', '')":"2025-05-29",
+    "('Close', 'BAJAJFINSV.BO')":2009.8203125,
+    "('High', 'BAJAJFINSV.BO')":2036.9569864048,
+    "('Low', 'BAJAJFINSV.BO')":1999.5252822375,
+    "('Open', 'BAJAJFINSV.BO')":2029.0109087439,
+    "('Volume', 'BAJAJFINSV.BO')":24295
+  },
+  {
+    "('Date', '')":"2025-05-30",
+    "('Close', 'BAJAJFINSV.BO')":2014.8179931641,
+    "('High', 'BAJAJFINSV.BO')":2029.8106854775,
+    "('Low', 'BAJAJFINSV.BO')":2008.4709891427,
+    "('Open', 'BAJAJFINSV.BO')":2019.7655328232,
+    "('Volume', 'BAJAJFINSV.BO')":129559
+  },
+  {
+    "('Date', '')":"2025-06-02",
+    "('Close', 'BAJAJFINSV.BO')":2028.3114013672,
+    "('High', 'BAJAJFINSV.BO')":2034.0085756002,
+    "('Low', 'BAJAJFINSV.BO')":1993.6282335301,
+    "('Open', 'BAJAJFINSV.BO')":2018.0163705832,
+    "('Volume', 'BAJAJFINSV.BO')":20223
+  },
+  {
+    "('Date', '')":"2025-06-03",
+    "('Close', 'BAJAJFINSV.BO')":1990.4298095703,
+    "('High', 'BAJAJFINSV.BO')":2042.6043288014,
+    "('Low', 'BAJAJFINSV.BO')":1979.0353392753,
+    "('Open', 'BAJAJFINSV.BO')":2029.010979156,
+    "('Volume', 'BAJAJFINSV.BO')":69650
+  },
+  {
+    "('Date', '')":"2025-06-04",
+    "('Close', 'BAJAJFINSV.BO')":1954.7971191406,
+    "('High', 'BAJAJFINSV.BO')":2007.5214182763,
+    "('Low', 'BAJAJFINSV.BO')":1944.0523567575,
+    "('Open', 'BAJAJFINSV.BO')":1999.0255596478,
+    "('Volume', 'BAJAJFINSV.BO')":40184
+  },
+  {
+    "('Date', '')":"2025-06-05",
+    "('Close', 'BAJAJFINSV.BO')":1942.5531005859,
+    "('High', 'BAJAJFINSV.BO')":1965.4918702321,
+    "('Low', 'BAJAJFINSV.BO')":1929.059677968,
+    "('Open', 'BAJAJFINSV.BO')":1959.0450615634,
+    "('Volume', 'BAJAJFINSV.BO')":31250
+  },
+  {
+    "('Date', '')":"2025-06-06",
+    "('Close', 'BAJAJFINSV.BO')":1988.4307861328,
+    "('High', 'BAJAJFINSV.BO')":2017.7164379282,
+    "('Low', 'BAJAJFINSV.BO')":1920.0640862997,
+    "('Open', 'BAJAJFINSV.BO')":1968.8902621139,
+    "('Volume', 'BAJAJFINSV.BO')":208507
+  },
+  {
+    "('Date', '')":"2025-06-09",
+    "('Close', 'BAJAJFINSV.BO')":2016.0173339844,
+    "('High', 'BAJAJFINSV.BO')":2057.14718843,
+    "('Low', 'BAJAJFINSV.BO')":1991.1294406599,
+    "('Open', 'BAJAJFINSV.BO')":2012.8189418027,
+    "('Volume', 'BAJAJFINSV.BO')":191786
+  },
+  {
+    "('Date', '')":"2025-06-10",
+    "('Close', 'BAJAJFINSV.BO')":1997.3763427734,
+    "('High', 'BAJAJFINSV.BO')":2026.5121647602,
+    "('Low', 'BAJAJFINSV.BO')":1987.8310689153,
+    "('Open', 'BAJAJFINSV.BO')":2023.0138700245,
+    "('Volume', 'BAJAJFINSV.BO')":271617
+  },
+  {
+    "('Date', '')":"2025-06-11",
+    "('Close', 'BAJAJFINSV.BO')":2011.4195556641,
+    "('High', 'BAJAJFINSV.BO')":2028.061467959,
+    "('Low', 'BAJAJFINSV.BO')":1982.1337822195,
+    "('Open', 'BAJAJFINSV.BO')":2008.6708955016,
+    "('Volume', 'BAJAJFINSV.BO')":262759
+  },
+  {
+    "('Date', '')":"2025-06-12",
+    "('Close', 'BAJAJFINSV.BO')":2026.0124511719,
+    "('High', 'BAJAJFINSV.BO')":2058.9963736626,
+    "('Low', 'BAJAJFINSV.BO')":2012.9687602917,
+    "('Open', 'BAJAJFINSV.BO')":2021.2647653588,
+    "('Volume', 'BAJAJFINSV.BO')":153169
+  },
+  {
+    "('Date', '')":"2025-06-13",
+    "('Close', 'BAJAJFINSV.BO')":2009.9202880859,
+    "('High', 'BAJAJFINSV.BO')":2016.0172916854,
+    "('Low', 'BAJAJFINSV.BO')":1979.9349044714,
+    "('Open', 'BAJAJFINSV.BO')":2008.8208484222,
+    "('Volume', 'BAJAJFINSV.BO')":59522
+  },
+  {
+    "('Date', '')":"2025-06-16",
+    "('Close', 'BAJAJFINSV.BO')":2027.1618652344,
+    "('High', 'BAJAJFINSV.BO')":2038.806213501,
+    "('Low', 'BAJAJFINSV.BO')":1996.9266036979,
+    "('Open', 'BAJAJFINSV.BO')":2002.9735827987,
+    "('Volume', 'BAJAJFINSV.BO')":140839
+  },
+  {
+    "('Date', '')":"2025-06-17",
+    "('Close', 'BAJAJFINSV.BO')":2002.6237792969,
+    "('High', 'BAJAJFINSV.BO')":2032.1094062729,
+    "('Low', 'BAJAJFINSV.BO')":1995.5272629692,
+    "('Open', 'BAJAJFINSV.BO')":2029.0109410606,
+    "('Volume', 'BAJAJFINSV.BO')":34875
+  },
+  {
+    "('Date', '')":"2025-06-18",
+    "('Close', 'BAJAJFINSV.BO')":1979.4851074219,
+    "('High', 'BAJAJFINSV.BO')":2016.0173496469,
+    "('Low', 'BAJAJFINSV.BO')":1974.637494667,
+    "('Open', 'BAJAJFINSV.BO')":2001.124584288,
+    "('Volume', 'BAJAJFINSV.BO')":99639
+  },
+  {
+    "('Date', '')":"2025-06-19",
+    "('Close', 'BAJAJFINSV.BO')":1965.6418457031,
+    "('High', 'BAJAJFINSV.BO')":1994.028033591,
+    "('Low', 'BAJAJFINSV.BO')":1958.7952074336,
+    "('Open', 'BAJAJFINSV.BO')":1980.0348544079,
+    "('Volume', 'BAJAJFINSV.BO')":24184
+  },
+  {
+    "('Date', '')":"2025-06-20",
+    "('Close', 'BAJAJFINSV.BO')":1982.3836669922,
+    "('High', 'BAJAJFINSV.BO')":1997.8761152321,
+    "('Low', 'BAJAJFINSV.BO')":1964.2424854575,
+    "('Open', 'BAJAJFINSV.BO')":1967.0411700729,
+    "('Volume', 'BAJAJFINSV.BO')":54528
+  },
+  {
+    "('Date', '')":"2025-06-23",
+    "('Close', 'BAJAJFINSV.BO')":1996.5268554688,
+    "('High', 'BAJAJFINSV.BO')":2006.2220810064,
+    "('Low', 'BAJAJFINSV.BO')":1951.5487786246,
+    "('Open', 'BAJAJFINSV.BO')":1981.9838951515,
+    "('Volume', 'BAJAJFINSV.BO')":28820
+  },
+  {
+    "('Date', '')":"2025-06-24",
+    "('Close', 'BAJAJFINSV.BO')":2007.521484375,
+    "('High', 'BAJAJFINSV.BO')":2032.7091584515,
+    "('Low', 'BAJAJFINSV.BO')":1998.2759908572,
+    "('Open', 'BAJAJFINSV.BO')":2032.7091584515,
+    "('Volume', 'BAJAJFINSV.BO')":103634
+  },
+  {
+    "('Date', '')":"2025-06-25",
+    "('Close', 'BAJAJFINSV.BO')":2009.9702148438,
+    "('High', 'BAJAJFINSV.BO')":2024.5131748771,
+    "('Low', 'BAJAJFINSV.BO')":2003.4234792152,
+    "('Open', 'BAJAJFINSV.BO')":2023.0639301226,
+    "('Volume', 'BAJAJFINSV.BO')":17232
+  },
+  {
+    "('Date', '')":"2025-06-26",
+    "('Close', 'BAJAJFINSV.BO')":2051.3999023438,
+    "('High', 'BAJAJFINSV.BO')":2055.9477342312,
+    "('Low', 'BAJAJFINSV.BO')":2010.0201714599,
+    "('Open', 'BAJAJFINSV.BO')":2010.3699765257,
+    "('Volume', 'BAJAJFINSV.BO')":72250
+  },
+  {
+    "('Date', '')":"2025-06-27",
+    "('Close', 'BAJAJFINSV.BO')":2042.9000244141,
+    "('High', 'BAJAJFINSV.BO')":2065.0,
+    "('Low', 'BAJAJFINSV.BO')":2005.0,
+    "('Open', 'BAJAJFINSV.BO')":2055.0500488281,
+    "('Volume', 'BAJAJFINSV.BO')":54882
+  },
+  {
+    "('Date', '')":"2025-06-30",
+    "('Close', 'BAJAJFINSV.BO')":2054.3500976562,
+    "('High', 'BAJAJFINSV.BO')":2064.0,
+    "('Low', 'BAJAJFINSV.BO')":2029.0,
+    "('Open', 'BAJAJFINSV.BO')":2042.8499755859,
+    "('Volume', 'BAJAJFINSV.BO')":87831
+  },
+  {
+    "('Date', '')":"2025-07-01",
+    "('Close', 'BAJAJFINSV.BO')":2053.1499023438,
+    "('High', 'BAJAJFINSV.BO')":2068.0,
+    "('Low', 'BAJAJFINSV.BO')":2044.4000244141,
+    "('Open', 'BAJAJFINSV.BO')":2060.9499511719,
+    "('Volume', 'BAJAJFINSV.BO')":52616
+  },
+  {
+    "('Date', '')":"2025-07-02",
+    "('Close', 'BAJAJFINSV.BO')":2008.0999755859,
+    "('High', 'BAJAJFINSV.BO')":2063.0,
+    "('Low', 'BAJAJFINSV.BO')":1997.3499755859,
+    "('Open', 'BAJAJFINSV.BO')":2063.0,
+    "('Volume', 'BAJAJFINSV.BO')":49307
+  },
+  {
+    "('Date', '')":"2025-07-03",
+    "('Close', 'BAJAJFINSV.BO')":1980.3499755859,
+    "('High', 'BAJAJFINSV.BO')":2015.9000244141,
+    "('Low', 'BAJAJFINSV.BO')":1978.0,
+    "('Open', 'BAJAJFINSV.BO')":2009.9000244141,
+    "('Volume', 'BAJAJFINSV.BO')":46389
+  },
+  {
+    "('Date', '')":"2025-07-04",
+    "('Close', 'BAJAJFINSV.BO')":1993.8000488281,
+    "('High', 'BAJAJFINSV.BO')":2032.75,
+    "('Low', 'BAJAJFINSV.BO')":1982.1999511719,
+    "('Open', 'BAJAJFINSV.BO')":1982.1999511719,
+    "('Volume', 'BAJAJFINSV.BO')":67502
+  },
+  {
+    "('Date', '')":"2025-07-07",
+    "('Close', 'BAJAJFINSV.BO')":2006.6999511719,
+    "('High', 'BAJAJFINSV.BO')":2016.0,
+    "('Low', 'BAJAJFINSV.BO')":1991.75,
+    "('Open', 'BAJAJFINSV.BO')":1999.1999511719,
+    "('Volume', 'BAJAJFINSV.BO')":55088
+  },
+  {
+    "('Date', '')":"2025-07-08",
+    "('Close', 'BAJAJFINSV.BO')":2017.5,
+    "('High', 'BAJAJFINSV.BO')":2020.0,
+    "('Low', 'BAJAJFINSV.BO')":1999.25,
+    "('Open', 'BAJAJFINSV.BO')":2006.6999511719,
+    "('Volume', 'BAJAJFINSV.BO')":29095
+  },
+  {
+    "('Date', '')":"2025-07-09",
+    "('Close', 'BAJAJFINSV.BO')":2025.9499511719,
+    "('High', 'BAJAJFINSV.BO')":2037.0,
+    "('Low', 'BAJAJFINSV.BO')":2010.5,
+    "('Open', 'BAJAJFINSV.BO')":2010.5,
+    "('Volume', 'BAJAJFINSV.BO')":19471
+  },
+  {
+    "('Date', '')":"2025-07-10",
+    "('Close', 'BAJAJFINSV.BO')":2039.0999755859,
+    "('High', 'BAJAJFINSV.BO')":2048.3000488281,
+    "('Low', 'BAJAJFINSV.BO')":2024.0,
+    "('Open', 'BAJAJFINSV.BO')":2024.5999755859,
+    "('Volume', 'BAJAJFINSV.BO')":15745
+  },
+  {
+    "('Date', '')":"2025-07-11",
+    "('Close', 'BAJAJFINSV.BO')":2016.4499511719,
+    "('High', 'BAJAJFINSV.BO')":2039.3499755859,
+    "('Low', 'BAJAJFINSV.BO')":2001.0999755859,
+    "('Open', 'BAJAJFINSV.BO')":2034.0,
+    "('Volume', 'BAJAJFINSV.BO')":13194
+  },
+  {
+    "('Date', '')":"2025-07-14",
+    "('Close', 'BAJAJFINSV.BO')":2003.6500244141,
+    "('High', 'BAJAJFINSV.BO')":2015.9000244141,
+    "('Low', 'BAJAJFINSV.BO')":1990.0,
+    "('Open', 'BAJAJFINSV.BO')":2015.9000244141,
+    "('Volume', 'BAJAJFINSV.BO')":7857
+  },
+  {
+    "('Date', '')":"2025-07-15",
+    "('Close', 'BAJAJFINSV.BO')":2037.4499511719,
+    "('High', 'BAJAJFINSV.BO')":2045.0,
+    "('Low', 'BAJAJFINSV.BO')":2001.1500244141,
+    "('Open', 'BAJAJFINSV.BO')":2001.1500244141,
+    "('Volume', 'BAJAJFINSV.BO')":15114
+  },
+  {
+    "('Date', '')":"2025-07-16",
+    "('Close', 'BAJAJFINSV.BO')":2035.3499755859,
+    "('High', 'BAJAJFINSV.BO')":2044.0,
+    "('Low', 'BAJAJFINSV.BO')":2018.5999755859,
+    "('Open', 'BAJAJFINSV.BO')":2030.5,
+    "('Volume', 'BAJAJFINSV.BO')":21412
+  },
+  {
+    "('Date', '')":"2025-07-17",
+    "('Close', 'BAJAJFINSV.BO')":2026.6500244141,
+    "('High', 'BAJAJFINSV.BO')":2046.4000244141,
+    "('Low', 'BAJAJFINSV.BO')":2020.0500488281,
+    "('Open', 'BAJAJFINSV.BO')":2039.6999511719,
+    "('Volume', 'BAJAJFINSV.BO')":9245
+  },
+  {
+    "('Date', '')":"2025-07-18",
+    "('Close', 'BAJAJFINSV.BO')":2029.4000244141,
+    "('High', 'BAJAJFINSV.BO')":2038.75,
+    "('Low', 'BAJAJFINSV.BO')":2006.6500244141,
+    "('Open', 'BAJAJFINSV.BO')":2023.1500244141,
+    "('Volume', 'BAJAJFINSV.BO')":68709
+  },
+  {
+    "('Date', '')":"2025-07-21",
+    "('Close', 'BAJAJFINSV.BO')":2053.6999511719,
+    "('High', 'BAJAJFINSV.BO')":2056.3999023438,
+    "('Low', 'BAJAJFINSV.BO')":2019.1500244141,
+    "('Open', 'BAJAJFINSV.BO')":2026.0,
+    "('Volume', 'BAJAJFINSV.BO')":35866
+  },
+  {
+    "('Date', '')":"2025-07-22",
+    "('Close', 'BAJAJFINSV.BO')":2039.1999511719,
+    "('High', 'BAJAJFINSV.BO')":2050.8500976562,
+    "('Low', 'BAJAJFINSV.BO')":2016.3000488281,
+    "('Open', 'BAJAJFINSV.BO')":2050.8500976562,
+    "('Volume', 'BAJAJFINSV.BO')":17603
+  },
+  {
+    "('Date', '')":"2025-07-23",
+    "('Close', 'BAJAJFINSV.BO')":2060.9499511719,
+    "('High', 'BAJAJFINSV.BO')":2063.8000488281,
+    "('Low', 'BAJAJFINSV.BO')":2033.75,
+    "('Open', 'BAJAJFINSV.BO')":2040.0,
+    "('Volume', 'BAJAJFINSV.BO')":15679
+  },
+  {
+    "('Date', '')":"2025-07-24",
+    "('Close', 'BAJAJFINSV.BO')":2032.0500488281,
+    "('High', 'BAJAJFINSV.BO')":2060.9499511719,
+    "('Low', 'BAJAJFINSV.BO')":2025.1999511719,
+    "('Open', 'BAJAJFINSV.BO')":2060.9499511719,
+    "('Volume', 'BAJAJFINSV.BO')":26040
+  },
+  {
+    "('Date', '')":"2025-07-25",
+    "('Close', 'BAJAJFINSV.BO')":1985.5500488281,
+    "('High', 'BAJAJFINSV.BO')":1999.0500488281,
+    "('Low', 'BAJAJFINSV.BO')":1934.1500244141,
+    "('Open', 'BAJAJFINSV.BO')":1999.0500488281,
+    "('Volume', 'BAJAJFINSV.BO')":120224
+  },
+  {
+    "('Date', '')":"2025-07-28",
+    "('Close', 'BAJAJFINSV.BO')":1976.8000488281,
+    "('High', 'BAJAJFINSV.BO')":2022.0,
+    "('Low', 'BAJAJFINSV.BO')":1971.5999755859,
+    "('Open', 'BAJAJFINSV.BO')":1986.1500244141,
+    "('Volume', 'BAJAJFINSV.BO')":42334
+  },
+  {
+    "('Date', '')":"2025-07-29",
+    "('Close', 'BAJAJFINSV.BO')":1973.8000488281,
+    "('High', 'BAJAJFINSV.BO')":1983.0500488281,
+    "('Low', 'BAJAJFINSV.BO')":1944.9499511719,
+    "('Open', 'BAJAJFINSV.BO')":1970.0500488281,
+    "('Volume', 'BAJAJFINSV.BO')":15682
+  },
+  {
+    "('Date', '')":"2025-07-30",
+    "('Close', 'BAJAJFINSV.BO')":1959.4499511719,
+    "('High', 'BAJAJFINSV.BO')":1989.4000244141,
+    "('Low', 'BAJAJFINSV.BO')":1945.3499755859,
+    "('Open', 'BAJAJFINSV.BO')":1978.0,
+    "('Volume', 'BAJAJFINSV.BO')":30303
+  },
+  {
+    "('Date', '')":"2025-07-31",
+    "('Close', 'BAJAJFINSV.BO')":1948.1999511719,
+    "('High', 'BAJAJFINSV.BO')":1967.3499755859,
+    "('Low', 'BAJAJFINSV.BO')":1942.0,
+    "('Open', 'BAJAJFINSV.BO')":1955.0,
+    "('Volume', 'BAJAJFINSV.BO')":22485
+  },
+  {
+    "('Date', '')":"2025-08-01",
+    "('Close', 'BAJAJFINSV.BO')":1915.6999511719,
+    "('High', 'BAJAJFINSV.BO')":1977.8499755859,
+    "('Low', 'BAJAJFINSV.BO')":1911.5,
+    "('Open', 'BAJAJFINSV.BO')":1941.0500488281,
+    "('Volume', 'BAJAJFINSV.BO')":32779
+  },
+  {
+    "('Date', '')":"2025-08-04",
+    "('Close', 'BAJAJFINSV.BO')":1933.1999511719,
+    "('High', 'BAJAJFINSV.BO')":1943.0,
+    "('Low', 'BAJAJFINSV.BO')":1924.0,
+    "('Open', 'BAJAJFINSV.BO')":1925.3000488281,
+    "('Volume', 'BAJAJFINSV.BO')":39089
+  },
+  {
+    "('Date', '')":"2025-08-05",
+    "('Close', 'BAJAJFINSV.BO')":1939.4499511719,
+    "('High', 'BAJAJFINSV.BO')":1942.5500488281,
+    "('Low', 'BAJAJFINSV.BO')":1917.0,
+    "('Open', 'BAJAJFINSV.BO')":1933.1500244141,
+    "('Volume', 'BAJAJFINSV.BO')":14266
+  },
+  {
+    "('Date', '')":"2025-08-06",
+    "('Close', 'BAJAJFINSV.BO')":1923.8000488281,
+    "('High', 'BAJAJFINSV.BO')":1946.3000488281,
+    "('Low', 'BAJAJFINSV.BO')":1912.3499755859,
+    "('Open', 'BAJAJFINSV.BO')":1921.0500488281,
+    "('Volume', 'BAJAJFINSV.BO')":42228
+  },
+  {
+    "('Date', '')":"2025-08-07",
+    "('Close', 'BAJAJFINSV.BO')":1913.8000488281,
+    "('High', 'BAJAJFINSV.BO')":1932.1500244141,
+    "('Low', 'BAJAJFINSV.BO')":1890.8499755859,
+    "('Open', 'BAJAJFINSV.BO')":1915.75,
+    "('Volume', 'BAJAJFINSV.BO')":15307
+  },
+  {
+    "('Date', '')":"2025-08-08",
+    "('Close', 'BAJAJFINSV.BO')":1919.1999511719,
+    "('High', 'BAJAJFINSV.BO')":1929.5999755859,
+    "('Low', 'BAJAJFINSV.BO')":1906.4000244141,
+    "('Open', 'BAJAJFINSV.BO')":1920.9499511719,
+    "('Volume', 'BAJAJFINSV.BO')":17507
+  },
+  {
+    "('Date', '')":"2025-08-11",
+    "('Close', 'BAJAJFINSV.BO')":1924.0500488281,
+    "('High', 'BAJAJFINSV.BO')":1928.6500244141,
+    "('Low', 'BAJAJFINSV.BO')":1903.0999755859,
+    "('Open', 'BAJAJFINSV.BO')":1917.9000244141,
+    "('Volume', 'BAJAJFINSV.BO')":31441
+  },
+  {
+    "('Date', '')":"2025-08-12",
+    "('Close', 'BAJAJFINSV.BO')":1908.1500244141,
+    "('High', 'BAJAJFINSV.BO')":1934.0,
+    "('Low', 'BAJAJFINSV.BO')":1905.0,
+    "('Open', 'BAJAJFINSV.BO')":1924.0,
+    "('Volume', 'BAJAJFINSV.BO')":30578
+  },
+  {
+    "('Date', '')":"2025-08-13",
+    "('Close', 'BAJAJFINSV.BO')":1913.5999755859,
+    "('High', 'BAJAJFINSV.BO')":1923.9499511719,
+    "('Low', 'BAJAJFINSV.BO')":1892.6999511719,
+    "('Open', 'BAJAJFINSV.BO')":1923.9499511719,
+    "('Volume', 'BAJAJFINSV.BO')":20222
+  },
+  {
+    "('Date', '')":"2025-08-14",
+    "('Close', 'BAJAJFINSV.BO')":1924.4000244141,
+    "('High', 'BAJAJFINSV.BO')":1939.0,
+    "('Low', 'BAJAJFINSV.BO')":1912.6500244141,
+    "('Open', 'BAJAJFINSV.BO')":1914.0,
+    "('Volume', 'BAJAJFINSV.BO')":10192
+  },
+  {
+    "('Date', '')":"2025-08-18",
+    "('Close', 'BAJAJFINSV.BO')":1993.6999511719,
+    "('High', 'BAJAJFINSV.BO')":2016.0,
+    "('Low', 'BAJAJFINSV.BO')":1953.4499511719,
+    "('Open', 'BAJAJFINSV.BO')":1953.5500488281,
+    "('Volume', 'BAJAJFINSV.BO')":43218
+  },
+  {
+    "('Date', '')":"2025-08-19",
+    "('Close', 'BAJAJFINSV.BO')":1971.9000244141,
+    "('High', 'BAJAJFINSV.BO')":1998.9499511719,
+    "('Low', 'BAJAJFINSV.BO')":1965.0,
+    "('Open', 'BAJAJFINSV.BO')":1998.9499511719,
+    "('Volume', 'BAJAJFINSV.BO')":29628
+  },
+  {
+    "('Date', '')":"2025-08-20",
+    "('Close', 'BAJAJFINSV.BO')":1957.5,
+    "('High', 'BAJAJFINSV.BO')":1975.0,
+    "('Low', 'BAJAJFINSV.BO')":1950.0,
+    "('Open', 'BAJAJFINSV.BO')":1972.25,
+    "('Volume', 'BAJAJFINSV.BO')":18953
+  },
+  {
+    "('Date', '')":"2025-08-21",
+    "('Close', 'BAJAJFINSV.BO')":1979.3000488281,
+    "('High', 'BAJAJFINSV.BO')":1998.75,
+    "('Low', 'BAJAJFINSV.BO')":1973.5,
+    "('Open', 'BAJAJFINSV.BO')":1998.75,
+    "('Volume', 'BAJAJFINSV.BO')":56794
+  },
+  {
+    "('Date', '')":"2025-08-22",
+    "('Close', 'BAJAJFINSV.BO')":1965.4000244141,
+    "('High', 'BAJAJFINSV.BO')":1977.6999511719,
+    "('Low', 'BAJAJFINSV.BO')":1964.0,
+    "('Open', 'BAJAJFINSV.BO')":1965.1999511719,
+    "('Volume', 'BAJAJFINSV.BO')":12940
+  },
+  {
+    "('Date', '')":"2025-08-25",
+    "('Close', 'BAJAJFINSV.BO')":1963.5,
+    "('High', 'BAJAJFINSV.BO')":1967.0,
+    "('Low', 'BAJAJFINSV.BO')":1953.1500244141,
+    "('Open', 'BAJAJFINSV.BO')":1963.0,
+    "('Volume', 'BAJAJFINSV.BO')":16290
+  },
+  {
+    "('Date', '')":"2025-08-26",
+    "('Close', 'BAJAJFINSV.BO')":1924.1999511719,
+    "('High', 'BAJAJFINSV.BO')":1963.1999511719,
+    "('Low', 'BAJAJFINSV.BO')":1916.9000244141,
+    "('Open', 'BAJAJFINSV.BO')":1953.1999511719,
+    "('Volume', 'BAJAJFINSV.BO')":28208
+  },
+  {
+    "('Date', '')":"2025-08-28",
+    "('Close', 'BAJAJFINSV.BO')":1914.9000244141,
+    "('High', 'BAJAJFINSV.BO')":1939.4499511719,
+    "('Low', 'BAJAJFINSV.BO')":1910.0999755859,
+    "('Open', 'BAJAJFINSV.BO')":1924.1999511719,
+    "('Volume', 'BAJAJFINSV.BO')":18559
+  },
+  {
+    "('Date', '')":"2025-08-29",
+    "('Close', 'BAJAJFINSV.BO')":1912.4499511719,
+    "('High', 'BAJAJFINSV.BO')":1930.3000488281,
+    "('Low', 'BAJAJFINSV.BO')":1908.3499755859,
+    "('Open', 'BAJAJFINSV.BO')":1917.0500488281,
+    "('Volume', 'BAJAJFINSV.BO')":11393
+  },
+  {
+    "('Date', '')":"2025-09-01",
+    "('Close', 'BAJAJFINSV.BO')":1944.6500244141,
+    "('High', 'BAJAJFINSV.BO')":1946.0,
+    "('Low', 'BAJAJFINSV.BO')":1913.3000488281,
+    "('Open', 'BAJAJFINSV.BO')":1913.3000488281,
+    "('Volume', 'BAJAJFINSV.BO')":11945
+  },
+  {
+    "('Date', '')":"2025-09-02",
+    "('Close', 'BAJAJFINSV.BO')":1955.75,
+    "('High', 'BAJAJFINSV.BO')":1958.0,
+    "('Low', 'BAJAJFINSV.BO')":1938.5999755859,
+    "('Open', 'BAJAJFINSV.BO')":1952.4499511719,
+    "('Volume', 'BAJAJFINSV.BO')":15561
+  },
+  {
+    "('Date', '')":"2025-09-03",
+    "('Close', 'BAJAJFINSV.BO')":1966.3000488281,
+    "('High', 'BAJAJFINSV.BO')":1971.0,
+    "('Low', 'BAJAJFINSV.BO')":1947.9499511719,
+    "('Open', 'BAJAJFINSV.BO')":1947.9499511719,
+    "('Volume', 'BAJAJFINSV.BO')":125634
+  },
+  {
+    "('Date', '')":"2025-09-04",
+    "('Close', 'BAJAJFINSV.BO')":2002.1999511719,
+    "('High', 'BAJAJFINSV.BO')":2034.4000244141,
+    "('Low', 'BAJAJFINSV.BO')":1976.9000244141,
+    "('Open', 'BAJAJFINSV.BO')":1979.9499511719,
+    "('Volume', 'BAJAJFINSV.BO')":126551
+  },
+  {
+    "('Date', '')":"2025-09-05",
+    "('Close', 'BAJAJFINSV.BO')":2014.0999755859,
+    "('High', 'BAJAJFINSV.BO')":2023.0,
+    "('Low', 'BAJAJFINSV.BO')":2002.0500488281,
+    "('Open', 'BAJAJFINSV.BO')":2014.8499755859,
+    "('Volume', 'BAJAJFINSV.BO')":107662
+  },
+  {
+    "('Date', '')":"2025-09-08",
+    "('Close', 'BAJAJFINSV.BO')":2008.25,
+    "('High', 'BAJAJFINSV.BO')":2024.0999755859,
+    "('Low', 'BAJAJFINSV.BO')":2006.75,
+    "('Open', 'BAJAJFINSV.BO')":2014.0999755859,
+    "('Volume', 'BAJAJFINSV.BO')":11844
+  },
+  {
+    "('Date', '')":"2025-09-09",
+    "('Close', 'BAJAJFINSV.BO')":2024.4000244141,
+    "('High', 'BAJAJFINSV.BO')":2038.0,
+    "('Low', 'BAJAJFINSV.BO')":2010.0,
+    "('Open', 'BAJAJFINSV.BO')":2010.0,
+    "('Volume', 'BAJAJFINSV.BO')":113956
+  },
+  {
+    "('Date', '')":"2025-09-10",
+    "('Close', 'BAJAJFINSV.BO')":2037.5,
+    "('High', 'BAJAJFINSV.BO')":2047.1500244141,
+    "('Low', 'BAJAJFINSV.BO')":2025.1500244141,
+    "('Open', 'BAJAJFINSV.BO')":2025.1500244141,
+    "('Volume', 'BAJAJFINSV.BO')":63040
+  },
+  {
+    "('Date', '')":"2025-09-11",
+    "('Close', 'BAJAJFINSV.BO')":2036.5500488281,
+    "('High', 'BAJAJFINSV.BO')":2048.3000488281,
+    "('Low', 'BAJAJFINSV.BO')":2027.6500244141,
+    "('Open', 'BAJAJFINSV.BO')":2031.0500488281,
+    "('Volume', 'BAJAJFINSV.BO')":61982
+  },
+  {
+    "('Date', '')":"2025-09-12",
+    "('Close', 'BAJAJFINSV.BO')":2082.5500488281,
+    "('High', 'BAJAJFINSV.BO')":2087.0,
+    "('Low', 'BAJAJFINSV.BO')":2035.0999755859,
+    "('Open', 'BAJAJFINSV.BO')":2040.0,
+    "('Volume', 'BAJAJFINSV.BO')":76567
+  },
+  {
+    "('Date', '')":"2025-09-15",
+    "('Close', 'BAJAJFINSV.BO')":2079.3000488281,
+    "('High', 'BAJAJFINSV.BO')":2096.0,
+    "('Low', 'BAJAJFINSV.BO')":2068.75,
+    "('Open', 'BAJAJFINSV.BO')":2070.6999511719,
+    "('Volume', 'BAJAJFINSV.BO')":72827
+  },
+  {
+    "('Date', '')":"2025-09-16",
+    "('Close', 'BAJAJFINSV.BO')":2079.8000488281,
+    "('High', 'BAJAJFINSV.BO')":2104.8500976562,
+    "('Low', 'BAJAJFINSV.BO')":2076.0,
+    "('Open', 'BAJAJFINSV.BO')":2089.6499023438,
+    "('Volume', 'BAJAJFINSV.BO')":37208
+  },
+  {
+    "('Date', '')":"2025-09-17",
+    "('Close', 'BAJAJFINSV.BO')":2056.6000976562,
+    "('High', 'BAJAJFINSV.BO')":2090.0,
+    "('Low', 'BAJAJFINSV.BO')":2055.0500488281,
+    "('Open', 'BAJAJFINSV.BO')":2079.4499511719,
+    "('Volume', 'BAJAJFINSV.BO')":63552
+  },
+  {
+    "('Date', '')":"2025-09-18",
+    "('Close', 'BAJAJFINSV.BO')":2069.1499023438,
+    "('High', 'BAJAJFINSV.BO')":2081.25,
+    "('Low', 'BAJAJFINSV.BO')":2046.0,
+    "('Open', 'BAJAJFINSV.BO')":2081.25,
+    "('Volume', 'BAJAJFINSV.BO')":33864
+  },
+  {
+    "('Date', '')":"2025-09-19",
+    "('Close', 'BAJAJFINSV.BO')":2067.75,
+    "('High', 'BAJAJFINSV.BO')":2076.0500488281,
+    "('Low', 'BAJAJFINSV.BO')":2053.0500488281,
+    "('Open', 'BAJAJFINSV.BO')":2069.1499023438,
+    "('Volume', 'BAJAJFINSV.BO')":85099
+  },
+  {
+    "('Date', '')":"2025-09-22",
+    "('Close', 'BAJAJFINSV.BO')":2069.3999023438,
+    "('High', 'BAJAJFINSV.BO')":2080.9499511719,
+    "('Low', 'BAJAJFINSV.BO')":2055.5500488281,
+    "('Open', 'BAJAJFINSV.BO')":2055.5500488281,
+    "('Volume', 'BAJAJFINSV.BO')":32591
+  },
+  {
+    "('Date', '')":"2025-09-23",
+    "('Close', 'BAJAJFINSV.BO')":2083.8000488281,
+    "('High', 'BAJAJFINSV.BO')":2091.75,
+    "('Low', 'BAJAJFINSV.BO')":2040.0500488281,
+    "('Open', 'BAJAJFINSV.BO')":2040.0500488281,
+    "('Volume', 'BAJAJFINSV.BO')":29750
+  },
+  {
+    "('Date', '')":"2025-09-24",
+    "('Close', 'BAJAJFINSV.BO')":2068.1999511719,
+    "('High', 'BAJAJFINSV.BO')":2093.8500976562,
+    "('Low', 'BAJAJFINSV.BO')":2062.1000976562,
+    "('Open', 'BAJAJFINSV.BO')":2093.8500976562,
+    "('Volume', 'BAJAJFINSV.BO')":94516
+  },
+  {
+    "('Date', '')":"2025-09-25",
+    "('Close', 'BAJAJFINSV.BO')":2035.3000488281,
+    "('High', 'BAJAJFINSV.BO')":2071.8999023438,
+    "('Low', 'BAJAJFINSV.BO')":2031.6999511719,
+    "('Open', 'BAJAJFINSV.BO')":2048.1499023438,
+    "('Volume', 'BAJAJFINSV.BO')":72513
+  },
+  {
+    "('Date', '')":"2025-09-26",
+    "('Close', 'BAJAJFINSV.BO')":2003.0500488281,
+    "('High', 'BAJAJFINSV.BO')":2049.8500976562,
+    "('Low', 'BAJAJFINSV.BO')":1996.0,
+    "('Open', 'BAJAJFINSV.BO')":2049.8500976562,
+    "('Volume', 'BAJAJFINSV.BO')":17707
+  },
+  {
+    "('Date', '')":"2025-09-29",
+    "('Close', 'BAJAJFINSV.BO')":2020.75,
+    "('High', 'BAJAJFINSV.BO')":2031.0500488281,
+    "('Low', 'BAJAJFINSV.BO')":1995.0,
+    "('Open', 'BAJAJFINSV.BO')":2005.1500244141,
+    "('Volume', 'BAJAJFINSV.BO')":52435
+  },
+  {
+    "('Date', '')":"2025-09-30",
+    "('Close', 'BAJAJFINSV.BO')":2006.9000244141,
+    "('High', 'BAJAJFINSV.BO')":2034.3499755859,
+    "('Low', 'BAJAJFINSV.BO')":2002.0,
+    "('Open', 'BAJAJFINSV.BO')":2029.9499511719,
+    "('Volume', 'BAJAJFINSV.BO')":7956
+  },
+  {
+    "('Date', '')":"2025-10-01",
+    "('Close', 'BAJAJFINSV.BO')":2007.9499511719,
+    "('High', 'BAJAJFINSV.BO')":2012.25,
+    "('Low', 'BAJAJFINSV.BO')":1980.0,
+    "('Open', 'BAJAJFINSV.BO')":1996.6999511719,
+    "('Volume', 'BAJAJFINSV.BO')":19237
+  },
+  {
+    "('Date', '')":"2025-10-03",
+    "('Close', 'BAJAJFINSV.BO')":1999.8000488281,
+    "('High', 'BAJAJFINSV.BO')":2013.9499511719,
+    "('Low', 'BAJAJFINSV.BO')":1969.0,
+    "('Open', 'BAJAJFINSV.BO')":2002.3499755859,
+    "('Volume', 'BAJAJFINSV.BO')":23720
+  },
+  {
+    "('Date', '')":"2025-10-06",
+    "('Close', 'BAJAJFINSV.BO')":2033.5999755859,
+    "('High', 'BAJAJFINSV.BO')":2042.25,
+    "('Low', 'BAJAJFINSV.BO')":1997.5500488281,
+    "('Open', 'BAJAJFINSV.BO')":2000.0,
+    "('Volume', 'BAJAJFINSV.BO')":42692
+  },
+  {
+    "('Date', '')":"2025-10-07",
+    "('Close', 'BAJAJFINSV.BO')":2031.4499511719,
+    "('High', 'BAJAJFINSV.BO')":2056.8000488281,
+    "('Low', 'BAJAJFINSV.BO')":2027.4000244141,
+    "('Open', 'BAJAJFINSV.BO')":2049.6000976562,
+    "('Volume', 'BAJAJFINSV.BO')":25199
+  },
+  {
+    "('Date', '')":"2025-10-08",
+    "('Close', 'BAJAJFINSV.BO')":2012.6500244141,
+    "('High', 'BAJAJFINSV.BO')":2036.25,
+    "('Low', 'BAJAJFINSV.BO')":2005.0,
+    "('Open', 'BAJAJFINSV.BO')":2027.9499511719,
+    "('Volume', 'BAJAJFINSV.BO')":10107
+  },
+  {
+    "('Date', '')":"2025-10-09",
+    "('Close', 'BAJAJFINSV.BO')":2013.5500488281,
+    "('High', 'BAJAJFINSV.BO')":2037.8000488281,
+    "('Low', 'BAJAJFINSV.BO')":2005.0500488281,
+    "('Open', 'BAJAJFINSV.BO')":2037.8000488281,
+    "('Volume', 'BAJAJFINSV.BO')":14523
+  },
+  {
+    "('Date', '')":"2025-10-10",
+    "('Close', 'BAJAJFINSV.BO')":2004.3000488281,
+    "('High', 'BAJAJFINSV.BO')":2025.0999755859,
+    "('Low', 'BAJAJFINSV.BO')":2000.6500244141,
+    "('Open', 'BAJAJFINSV.BO')":2009.9499511719,
+    "('Volume', 'BAJAJFINSV.BO')":17783
+  },
+  {
+    "('Date', '')":"2025-10-13",
+    "('Close', 'BAJAJFINSV.BO')":2020.9000244141,
+    "('High', 'BAJAJFINSV.BO')":2024.0500488281,
+    "('Low', 'BAJAJFINSV.BO')":1991.3000488281,
+    "('Open', 'BAJAJFINSV.BO')":1991.3000488281,
+    "('Volume', 'BAJAJFINSV.BO')":27054
+  },
+  {
+    "('Date', '')":"2025-10-14",
+    "('Close', 'BAJAJFINSV.BO')":2018.4499511719,
+    "('High', 'BAJAJFINSV.BO')":2035.9000244141,
+    "('Low', 'BAJAJFINSV.BO')":2006.5999755859,
+    "('Open', 'BAJAJFINSV.BO')":2021.4499511719,
+    "('Volume', 'BAJAJFINSV.BO')":26499
+  },
+  {
+    "('Date', '')":"2025-10-15",
+    "('Close', 'BAJAJFINSV.BO')":2082.1000976562,
+    "('High', 'BAJAJFINSV.BO')":2088.0,
+    "('Low', 'BAJAJFINSV.BO')":2020.3000488281,
+    "('Open', 'BAJAJFINSV.BO')":2020.3000488281,
+    "('Volume', 'BAJAJFINSV.BO')":166785
+  },
+  {
+    "('Date', '')":"2025-10-16",
+    "('Close', 'BAJAJFINSV.BO')":2090.5500488281,
+    "('High', 'BAJAJFINSV.BO')":2099.9499511719,
+    "('Low', 'BAJAJFINSV.BO')":2077.5,
+    "('Open', 'BAJAJFINSV.BO')":2088.0500488281,
+    "('Volume', 'BAJAJFINSV.BO')":195258
+  },
+  {
+    "('Date', '')":"2025-10-17",
+    "('Close', 'BAJAJFINSV.BO')":2082.8000488281,
+    "('High', 'BAJAJFINSV.BO')":2104.8000488281,
+    "('Low', 'BAJAJFINSV.BO')":2076.8000488281,
+    "('Open', 'BAJAJFINSV.BO')":2081.0500488281,
+    "('Volume', 'BAJAJFINSV.BO')":29107
+  },
+  {
+    "('Date', '')":"2025-10-20",
+    "('Close', 'BAJAJFINSV.BO')":2139.4499511719,
+    "('High', 'BAJAJFINSV.BO')":2149.0,
+    "('Low', 'BAJAJFINSV.BO')":2084.5,
+    "('Open', 'BAJAJFINSV.BO')":2084.5,
+    "('Volume', 'BAJAJFINSV.BO')":64613
+  },
+  {
+    "('Date', '')":"2025-10-21",
+    "('Close', 'BAJAJFINSV.BO')":2169.8000488281,
+    "('High', 'BAJAJFINSV.BO')":2184.3000488281,
+    "('Low', 'BAJAJFINSV.BO')":2134.0,
+    "('Open', 'BAJAJFINSV.BO')":2154.25,
+    "('Volume', 'BAJAJFINSV.BO')":21584
+  },
+  {
+    "('Date', '')":"2025-10-23",
+    "('Close', 'BAJAJFINSV.BO')":2175.8500976562,
+    "('High', 'BAJAJFINSV.BO')":2194.6499023438,
+    "('Low', 'BAJAJFINSV.BO')":2158.6499023438,
+    "('Open', 'BAJAJFINSV.BO')":2179.9499511719,
+    "('Volume', 'BAJAJFINSV.BO')":79426
+  },
+  {
+    "('Date', '')":"2025-10-24",
+    "('Close', 'BAJAJFINSV.BO')":2159.6499023438,
+    "('High', 'BAJAJFINSV.BO')":2183.75,
+    "('Low', 'BAJAJFINSV.BO')":2145.1999511719,
+    "('Open', 'BAJAJFINSV.BO')":2175.8500976562,
+    "('Volume', 'BAJAJFINSV.BO')":18752
+  },
+  {
+    "('Date', '')":"2025-10-27",
+    "('Close', 'BAJAJFINSV.BO')":2169.6000976562,
+    "('High', 'BAJAJFINSV.BO')":2177.6000976562,
+    "('Low', 'BAJAJFINSV.BO')":2150.0,
+    "('Open', 'BAJAJFINSV.BO')":2155.1000976562,
+    "('Volume', 'BAJAJFINSV.BO')":26340
+  },
+  {
+    "('Date', '')":"2025-10-28",
+    "('Close', 'BAJAJFINSV.BO')":2140.9499511719,
+    "('High', 'BAJAJFINSV.BO')":2189.1499023438,
+    "('Low', 'BAJAJFINSV.BO')":2124.0,
+    "('Open', 'BAJAJFINSV.BO')":2150.25,
+    "('Volume', 'BAJAJFINSV.BO')":36875
+  },
+  {
+    "('Date', '')":"2025-10-29",
+    "('Close', 'BAJAJFINSV.BO')":2136.5500488281,
+    "('High', 'BAJAJFINSV.BO')":2148.0,
+    "('Low', 'BAJAJFINSV.BO')":2124.0,
+    "('Open', 'BAJAJFINSV.BO')":2148.0,
+    "('Volume', 'BAJAJFINSV.BO')":25546
+  },
+  {
+    "('Date', '')":"2025-10-30",
+    "('Close', 'BAJAJFINSV.BO')":2114.6000976562,
+    "('High', 'BAJAJFINSV.BO')":2145.0,
+    "('Low', 'BAJAJFINSV.BO')":2102.5500488281,
+    "('Open', 'BAJAJFINSV.BO')":2132.1999511719,
+    "('Volume', 'BAJAJFINSV.BO')":21853
+  },
+  {
+    "('Date', '')":"2025-10-31",
+    "('Close', 'BAJAJFINSV.BO')":2088.1999511719,
+    "('High', 'BAJAJFINSV.BO')":2128.6000976562,
+    "('Low', 'BAJAJFINSV.BO')":2085.0,
+    "('Open', 'BAJAJFINSV.BO')":2117.0,
+    "('Volume', 'BAJAJFINSV.BO')":19414
+  },
+  {
+    "('Date', '')":"2025-11-03",
+    "('Close', 'BAJAJFINSV.BO')":2081.8999023438,
+    "('High', 'BAJAJFINSV.BO')":2099.8999023438,
+    "('Low', 'BAJAJFINSV.BO')":2071.0,
+    "('Open', 'BAJAJFINSV.BO')":2088.1999511719,
+    "('Volume', 'BAJAJFINSV.BO')":20117
+  },
+  {
+    "('Date', '')":"2025-11-04",
+    "('Close', 'BAJAJFINSV.BO')":2073.0500488281,
+    "('High', 'BAJAJFINSV.BO')":2099.0,
+    "('Low', 'BAJAJFINSV.BO')":2061.5500488281,
+    "('Open', 'BAJAJFINSV.BO')":2094.3999023438,
+    "('Volume', 'BAJAJFINSV.BO')":16899
+  },
+  {
+    "('Date', '')":"2025-11-06",
+    "('Close', 'BAJAJFINSV.BO')":2063.8500976562,
+    "('High', 'BAJAJFINSV.BO')":2079.5,
+    "('Low', 'BAJAJFINSV.BO')":2058.0,
+    "('Open', 'BAJAJFINSV.BO')":2070.1000976562,
+    "('Volume', 'BAJAJFINSV.BO')":6078
+  },
+  {
+    "('Date', '')":"2025-11-07",
+    "('Close', 'BAJAJFINSV.BO')":2104.25,
+    "('High', 'BAJAJFINSV.BO')":2112.0,
+    "('Low', 'BAJAJFINSV.BO')":2042.0500488281,
+    "('Open', 'BAJAJFINSV.BO')":2060.0,
+    "('Volume', 'BAJAJFINSV.BO')":22330
+  },
+  {
+    "('Date', '')":"2025-11-10",
+    "('Close', 'BAJAJFINSV.BO')":2120.4499511719,
+    "('High', 'BAJAJFINSV.BO')":2126.9499511719,
+    "('Low', 'BAJAJFINSV.BO')":2099.0500488281,
+    "('Open', 'BAJAJFINSV.BO')":2119.8000488281,
+    "('Volume', 'BAJAJFINSV.BO')":21286
+  },
+  {
+    "('Date', '')":"2025-11-11",
+    "('Close', 'BAJAJFINSV.BO')":1987.75,
+    "('High', 'BAJAJFINSV.BO')":2093.0500488281,
+    "('Low', 'BAJAJFINSV.BO')":1953.3000488281,
+    "('Open', 'BAJAJFINSV.BO')":2091.6999511719,
+    "('Volume', 'BAJAJFINSV.BO')":187053
+  },
+  {
+    "('Date', '')":"2025-11-12",
+    "('Close', 'BAJAJFINSV.BO')":2035.9000244141,
+    "('High', 'BAJAJFINSV.BO')":2040.0,
+    "('Low', 'BAJAJFINSV.BO')":1996.0,
+    "('Open', 'BAJAJFINSV.BO')":2010.0500488281,
+    "('Volume', 'BAJAJFINSV.BO')":54088
+  },
+  {
+    "('Date', '')":"2025-11-13",
+    "('Close', 'BAJAJFINSV.BO')":2056.0500488281,
+    "('High', 'BAJAJFINSV.BO')":2071.0,
+    "('Low', 'BAJAJFINSV.BO')":2033.3499755859,
+    "('Open', 'BAJAJFINSV.BO')":2042.8499755859,
+    "('Volume', 'BAJAJFINSV.BO')":43878
+  }
+]

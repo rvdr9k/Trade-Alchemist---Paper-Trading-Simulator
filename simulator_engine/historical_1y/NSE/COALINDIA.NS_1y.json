@@ -1,0 +1,1994 @@
+[
+  {
+    "('Date', '')":"2024-11-11",
+    "('Close', 'COALINDIA.NS')":393.262512207,
+    "('High', 'COALINDIA.NS')":397.180688935,
+    "('Low', 'COALINDIA.NS')":389.3443639488,
+    "('Open', 'COALINDIA.NS')":394.6152235338,
+    "('Volume', 'COALINDIA.NS')":7201246
+  },
+  {
+    "('Date', '')":"2024-11-12",
+    "('Close', 'COALINDIA.NS')":386.2657775879,
+    "('High', 'COALINDIA.NS')":396.2944147851,
+    "('Low', 'COALINDIA.NS')":385.0996569836,
+    "('Open', 'COALINDIA.NS')":394.148764261,
+    "('Volume', 'COALINDIA.NS')":6564348
+  },
+  {
+    "('Date', '')":"2024-11-13",
+    "('Close', 'COALINDIA.NS')":379.5956115723,
+    "('High', 'COALINDIA.NS')":387.6185278302,
+    "('Low', 'COALINDIA.NS')":378.4761527615,
+    "('Open', 'COALINDIA.NS')":386.2191829644,
+    "('Volume', 'COALINDIA.NS')":7170870
+  },
+  {
+    "('Date', '')":"2024-11-14",
+    "('Close', 'COALINDIA.NS')":382.2543029785,
+    "('High', 'COALINDIA.NS')":385.6127357395,
+    "('Low', 'COALINDIA.NS')":375.5840993587,
+    "('Open', 'COALINDIA.NS')":379.8754285273,
+    "('Volume', 'COALINDIA.NS')":8776485
+  },
+  {
+    "('Date', '')":"2024-11-18",
+    "('Close', 'COALINDIA.NS')":385.6127624512,
+    "('High', 'COALINDIA.NS')":390.4171735887,
+    "('Low', 'COALINDIA.NS')":383.4204500477,
+    "('Open', 'COALINDIA.NS')":386.1725060284,
+    "('Volume', 'COALINDIA.NS')":7352509
+  },
+  {
+    "('Date', '')":"2024-11-19",
+    "('Close', 'COALINDIA.NS')":384.5866088867,
+    "('High', 'COALINDIA.NS')":393.6823503947,
+    "('Low', 'COALINDIA.NS')":383.140630599,
+    "('Open', 'COALINDIA.NS')":388.0383375648,
+    "('Volume', 'COALINDIA.NS')":6291292
+  },
+  {
+    "('Date', '')":"2024-11-21",
+    "('Close', 'COALINDIA.NS')":378.7559814453,
+    "('High', 'COALINDIA.NS')":386.1258581489,
+    "('Low', 'COALINDIA.NS')":377.0301172152,
+    "('Open', 'COALINDIA.NS')":385.3328904249,
+    "('Volume', 'COALINDIA.NS')":14141967
+  },
+  {
+    "('Date', '')":"2024-11-22",
+    "('Close', 'COALINDIA.NS')":386.2657775879,
+    "('High', 'COALINDIA.NS')":387.8517129977,
+    "('Low', 'COALINDIA.NS')":379.1291251834,
+    "('Open', 'COALINDIA.NS')":380.0620216668,
+    "('Volume', 'COALINDIA.NS')":8155453
+  },
+  {
+    "('Date', '')":"2024-11-25",
+    "('Close', 'COALINDIA.NS')":389.4376525879,
+    "('High', 'COALINDIA.NS')":398.7666175226,
+    "('Low', 'COALINDIA.NS')":387.8050837243,
+    "('Open', 'COALINDIA.NS')":392.7494237518,
+    "('Volume', 'COALINDIA.NS')":10903727
+  },
+  {
+    "('Date', '')":"2024-11-26",
+    "('Close', 'COALINDIA.NS')":383.886932373,
+    "('High', 'COALINDIA.NS')":391.8165530904,
+    "('Low', 'COALINDIA.NS')":382.207729962,
+    "('Open', 'COALINDIA.NS')":390.370574818,
+    "('Volume', 'COALINDIA.NS')":5798977
+  },
+  {
+    "('Date', '')":"2024-11-27",
+    "('Close', 'COALINDIA.NS')":389.1578063965,
+    "('High', 'COALINDIA.NS')":392.749463958,
+    "('Low', 'COALINDIA.NS')":385.0064336574,
+    "('Open', 'COALINDIA.NS')":391.816567369,
+    "('Volume', 'COALINDIA.NS')":9219932
+  },
+  {
+    "('Date', '')":"2024-11-28",
+    "('Close', 'COALINDIA.NS')":387.3386230469,
+    "('High', 'COALINDIA.NS')":396.3877016613,
+    "('Low', 'COALINDIA.NS')":385.752687671,
+    "('Open', 'COALINDIA.NS')":391.8165146839,
+    "('Volume', 'COALINDIA.NS')":7788912
+  },
+  {
+    "('Date', '')":"2024-11-29",
+    "('Close', 'COALINDIA.NS')":388.4580993652,
+    "('High', 'COALINDIA.NS')":389.9507394686,
+    "('Low', 'COALINDIA.NS')":383.4204639273,
+    "('Open', 'COALINDIA.NS')":387.4319075148,
+    "('Volume', 'COALINDIA.NS')":7057742
+  },
+  {
+    "('Date', '')":"2024-12-02",
+    "('Close', 'COALINDIA.NS')":393.4024658203,
+    "('High', 'COALINDIA.NS')":394.98837279,
+    "('Low', 'COALINDIA.NS')":388.8312501901,
+    "('Open', 'COALINDIA.NS')":390.3238902855,
+    "('Volume', 'COALINDIA.NS')":6404844
+  },
+  {
+    "('Date', '')":"2024-12-03",
+    "('Close', 'COALINDIA.NS')":393.7756652832,
+    "('High', 'COALINDIA.NS')":396.9475080673,
+    "('Low', 'COALINDIA.NS')":391.2101996024,
+    "('Open', 'COALINDIA.NS')":396.4810597617,
+    "('Volume', 'COALINDIA.NS')":7928558
+  },
+  {
+    "('Date', '')":"2024-12-04",
+    "('Close', 'COALINDIA.NS')":388.6913452148,
+    "('High', 'COALINDIA.NS')":397.3206383767,
+    "('Low', 'COALINDIA.NS')":387.152071588,
+    "('Open', 'COALINDIA.NS')":393.7756428441,
+    "('Volume', 'COALINDIA.NS')":6836472
+  },
+  {
+    "('Date', '')":"2024-12-05",
+    "('Close', 'COALINDIA.NS')":390.3238830566,
+    "('High', 'COALINDIA.NS')":392.9826437289,
+    "('Low', 'COALINDIA.NS')":384.3533512554,
+    "('Open', 'COALINDIA.NS')":390.0906589357,
+    "('Volume', 'COALINDIA.NS')":9500273
+  },
+  {
+    "('Date', '')":"2024-12-06",
+    "('Close', 'COALINDIA.NS')":389.1578063965,
+    "('High', 'COALINDIA.NS')":393.2159122525,
+    "('Low', 'COALINDIA.NS')":388.4581339548,
+    "('Open', 'COALINDIA.NS')":391.816567369,
+    "('Volume', 'COALINDIA.NS')":4252732
+  },
+  {
+    "('Date', '')":"2024-12-09",
+    "('Close', 'COALINDIA.NS')":386.2191772461,
+    "('High', 'COALINDIA.NS')":392.7028197496,
+    "('Low', 'COALINDIA.NS')":384.819832401,
+    "('Open', 'COALINDIA.NS')":389.9507634997,
+    "('Volume', 'COALINDIA.NS')":6662023
+  },
+  {
+    "('Date', '')":"2024-12-10",
+    "('Close', 'COALINDIA.NS')":386.2657775879,
+    "('High', 'COALINDIA.NS')":389.2044242866,
+    "('Low', 'COALINDIA.NS')":383.886902943,
+    "('Open', 'COALINDIA.NS')":387.6184888768,
+    "('Volume', 'COALINDIA.NS')":6035289
+  },
+  {
+    "('Date', '')":"2024-12-11",
+    "('Close', 'COALINDIA.NS')":388.9711914062,
+    "('High', 'COALINDIA.NS')":391.489994773,
+    "('Low', 'COALINDIA.NS')":387.665113583,
+    "('Open', 'COALINDIA.NS')":388.084928379,
+    "('Volume', 'COALINDIA.NS')":5353413
+  },
+  {
+    "('Date', '')":"2024-12-12",
+    "('Close', 'COALINDIA.NS')":381.6479797363,
+    "('High', 'COALINDIA.NS')":389.8108244512,
+    "('Low', 'COALINDIA.NS')":379.7821866586,
+    "('Open', 'COALINDIA.NS')":388.5514084298,
+    "('Volume', 'COALINDIA.NS')":9409378
+  },
+  {
+    "('Date', '')":"2024-12-13",
+    "('Close', 'COALINDIA.NS')":382.7674255371,
+    "('High', 'COALINDIA.NS')":383.6536886069,
+    "('Low', 'COALINDIA.NS')":375.0243959148,
+    "('Open', 'COALINDIA.NS')":381.6479668103,
+    "('Volume', 'COALINDIA.NS')":9439175
+  },
+  {
+    "('Date', '')":"2024-12-16",
+    "('Close', 'COALINDIA.NS')":382.907409668,
+    "('High', 'COALINDIA.NS')":385.1463557486,
+    "('Low', 'COALINDIA.NS')":379.2224568178,
+    "('Open', 'COALINDIA.NS')":382.9540431087,
+    "('Volume', 'COALINDIA.NS')":5434635
+  },
+  {
+    "('Date', '')":"2024-12-17",
+    "('Close', 'COALINDIA.NS')":375.8640136719,
+    "('High', 'COALINDIA.NS')":383.3738479686,
+    "('Low', 'COALINDIA.NS')":375.0244124722,
+    "('Open', 'COALINDIA.NS')":382.9073996944,
+    "('Volume', 'COALINDIA.NS')":5070262
+  },
+  {
+    "('Date', '')":"2024-12-18",
+    "('Close', 'COALINDIA.NS')":369.2404174805,
+    "('High', 'COALINDIA.NS')":377.6364858479,
+    "('Low', 'COALINDIA.NS')":368.0742968739,
+    "('Open', 'COALINDIA.NS')":376.4237318049,
+    "('Volume', 'COALINDIA.NS')":7176597
+  },
+  {
+    "('Date', '')":"2024-12-19",
+    "('Close', 'COALINDIA.NS')":365.6488037109,
+    "('High', 'COALINDIA.NS')":368.0276784576,
+    "('Low', 'COALINDIA.NS')":361.0309545325,
+    "('Open', 'COALINDIA.NS')":364.7159071876,
+    "('Volume', 'COALINDIA.NS')":5745829
+  },
+  {
+    "('Date', '')":"2024-12-20",
+    "('Close', 'COALINDIA.NS')":356.3664550781,
+    "('High', 'COALINDIA.NS')":367.2813552734,
+    "('Low', 'COALINDIA.NS')":354.9671103592,
+    "('Open', 'COALINDIA.NS')":366.62831635,
+    "('Volume', 'COALINDIA.NS')":7923854
+  },
+  {
+    "('Date', '')":"2024-12-23",
+    "('Close', 'COALINDIA.NS')":357.252746582,
+    "('High', 'COALINDIA.NS')":362.5236064158,
+    "('Low', 'COALINDIA.NS')":356.7396363957,
+    "('Open', 'COALINDIA.NS')":360.0980696826,
+    "('Volume', 'COALINDIA.NS')":5163415
+  },
+  {
+    "('Date', '')":"2024-12-24",
+    "('Close', 'COALINDIA.NS')":358.6986999512,
+    "('High', 'COALINDIA.NS')":360.797717051,
+    "('Low', 'COALINDIA.NS')":355.8067151419,
+    "('Open', 'COALINDIA.NS')":359.0252194162,
+    "('Volume', 'COALINDIA.NS')":4242999
+  },
+  {
+    "('Date', '')":"2024-12-26",
+    "('Close', 'COALINDIA.NS')":360.6578063965,
+    "('High', 'COALINDIA.NS')":364.1095064967,
+    "('Low', 'COALINDIA.NS')":359.2117996843,
+    "('Open', 'COALINDIA.NS')":360.4712157014,
+    "('Volume', 'COALINDIA.NS')":4190081
+  },
+  {
+    "('Date', '')":"2024-12-27",
+    "('Close', 'COALINDIA.NS')":354.9671325684,
+    "('High', 'COALINDIA.NS')":362.3836714304,
+    "('Low', 'COALINDIA.NS')":354.0808694697,
+    "('Open', 'COALINDIA.NS')":361.4974083318,
+    "('Volume', 'COALINDIA.NS')":5909271
+  },
+  {
+    "('Date', '')":"2024-12-30",
+    "('Close', 'COALINDIA.NS')":352.5415649414,
+    "('High', 'COALINDIA.NS')":356.6463036528,
+    "('Low', 'COALINDIA.NS')":350.4892098206,
+    "('Open', 'COALINDIA.NS')":354.9671014204,
+    "('Volume', 'COALINDIA.NS')":22328728
+  },
+  {
+    "('Date', '')":"2024-12-31",
+    "('Close', 'COALINDIA.NS')":358.3721923828,
+    "('High', 'COALINDIA.NS')":358.8853025505,
+    "('Low', 'COALINDIA.NS')":350.8623867864,
+    "('Open', 'COALINDIA.NS')":352.5415891341,
+    "('Volume', 'COALINDIA.NS')":7686615
+  },
+  {
+    "('Date', '')":"2025-01-01",
+    "('Close', 'COALINDIA.NS')":360.4711914062,
+    "('High', 'COALINDIA.NS')":362.1037602337,
+    "('Low', 'COALINDIA.NS')":356.8329008562,
+    "('Open', 'COALINDIA.NS')":357.8124307647,
+    "('Volume', 'COALINDIA.NS')":3584876
+  },
+  {
+    "('Date', '')":"2025-01-02",
+    "('Close', 'COALINDIA.NS')":366.5817260742,
+    "('High', 'COALINDIA.NS')":367.5146226633,
+    "('Low', 'COALINDIA.NS')":358.2789236554,
+    "('Open', 'COALINDIA.NS')":362.337029512,
+    "('Volume', 'COALINDIA.NS')":7538972
+  },
+  {
+    "('Date', '')":"2025-01-03",
+    "('Close', 'COALINDIA.NS')":367.2347106934,
+    "('High', 'COALINDIA.NS')":372.5055703559,
+    "('Low', 'COALINDIA.NS')":363.3631958157,
+    "('Open', 'COALINDIA.NS')":366.6283336472,
+    "('Volume', 'COALINDIA.NS')":7122319
+  },
+  {
+    "('Date', '')":"2025-01-06",
+    "('Close', 'COALINDIA.NS')":353.3345031738,
+    "('High', 'COALINDIA.NS')":367.6078063696,
+    "('Low', 'COALINDIA.NS')":351.8418632751,
+    "('Open', 'COALINDIA.NS')":367.6078063696,
+    "('Volume', 'COALINDIA.NS')":8774141
+  },
+  {
+    "('Date', '')":"2025-01-07",
+    "('Close', 'COALINDIA.NS')":354.3140869141,
+    "('High', 'COALINDIA.NS')":358.465487816,
+    "('Low', 'COALINDIA.NS')":351.2355397859,
+    "('Open', 'COALINDIA.NS')":355.0137593041,
+    "('Volume', 'COALINDIA.NS')":6542121
+  },
+  {
+    "('Date', '')":"2025-01-08",
+    "('Close', 'COALINDIA.NS')":354.8271789551,
+    "('High', 'COALINDIA.NS')":356.4130858762,
+    "('Low', 'COALINDIA.NS')":350.7690736064,
+    "('Open', 'COALINDIA.NS')":354.5472929315,
+    "('Volume', 'COALINDIA.NS')":7407778
+  },
+  {
+    "('Date', '')":"2025-01-09",
+    "('Close', 'COALINDIA.NS')":347.2240905762,
+    "('High', 'COALINDIA.NS')":355.9466501228,
+    "('Low', 'COALINDIA.NS')":345.9180126933,
+    "('Open', 'COALINDIA.NS')":355.9466501228,
+    "('Volume', 'COALINDIA.NS')":6247612
+  },
+  {
+    "('Date', '')":"2025-01-10",
+    "('Close', 'COALINDIA.NS')":343.7723693848,
+    "('High', 'COALINDIA.NS')":348.1569944392,
+    "('Low', 'COALINDIA.NS')":340.2273739785,
+    "('Open', 'COALINDIA.NS')":346.4777636127,
+    "('Volume', 'COALINDIA.NS')":4893721
+  },
+  {
+    "('Date', '')":"2025-01-13",
+    "('Close', 'COALINDIA.NS')":338.5481567383,
+    "('High', 'COALINDIA.NS')":345.544880955,
+    "('Low', 'COALINDIA.NS')":337.0088831046,
+    "('Open', 'COALINDIA.NS')":341.5334371253,
+    "('Volume', 'COALINDIA.NS')":8661589
+  },
+  {
+    "('Date', '')":"2025-01-14",
+    "('Close', 'COALINDIA.NS')":344.4720458984,
+    "('High', 'COALINDIA.NS')":348.9033044442,
+    "('Low', 'COALINDIA.NS')":338.6414425488,
+    "('Open', 'COALINDIA.NS')":340.5072356207,
+    "('Volume', 'COALINDIA.NS')":5698113
+  },
+  {
+    "('Date', '')":"2025-01-15",
+    "('Close', 'COALINDIA.NS')":349.4630432129,
+    "('High', 'COALINDIA.NS')":355.8533900894,
+    "('Low', 'COALINDIA.NS')":344.5186745591,
+    "('Open', 'COALINDIA.NS')":346.9442112129,
+    "('Volume', 'COALINDIA.NS')":11117714
+  },
+  {
+    "('Date', '')":"2025-01-16",
+    "('Close', 'COALINDIA.NS')":353.4278564453,
+    "('High', 'COALINDIA.NS')":355.9000265584,
+    "('Low', 'COALINDIA.NS')":349.6496084131,
+    "('Open', 'COALINDIA.NS')":353.0547035269,
+    "('Volume', 'COALINDIA.NS')":6923722
+  },
+  {
+    "('Date', '')":"2025-01-17",
+    "('Close', 'COALINDIA.NS')":361.637298584,
+    "('High', 'COALINDIA.NS')":363.1765720131,
+    "('Low', 'COALINDIA.NS')":353.1479353022,
+    "('Open', 'COALINDIA.NS')":354.5006465255,
+    "('Volume', 'COALINDIA.NS')":8380692
+  },
+  {
+    "('Date', '')":"2025-01-20",
+    "('Close', 'COALINDIA.NS')":361.0776062012,
+    "('High', 'COALINDIA.NS')":364.7625590423,
+    "('Low', 'COALINDIA.NS')":356.9728669852,
+    "('Open', 'COALINDIA.NS')":363.4565095376,
+    "('Volume', 'COALINDIA.NS')":14597375
+  },
+  {
+    "('Date', '')":"2025-01-21",
+    "('Close', 'COALINDIA.NS')":355.946685791,
+    "('High', 'COALINDIA.NS')":363.5031539333,
+    "('Low', 'COALINDIA.NS')":355.4336040497,
+    "('Open', 'COALINDIA.NS')":361.9638802396,
+    "('Volume', 'COALINDIA.NS')":20854879
+  },
+  {
+    "('Date', '')":"2025-01-22",
+    "('Close', 'COALINDIA.NS')":353.7543334961,
+    "('High', 'COALINDIA.NS')":358.1389295838,
+    "('Low', 'COALINDIA.NS')":349.5096377075,
+    "('Open', 'COALINDIA.NS')":355.899983872,
+    "('Volume', 'COALINDIA.NS')":10653690
+  },
+  {
+    "('Date', '')":"2025-01-23",
+    "('Close', 'COALINDIA.NS')":359.9114379883,
+    "('High', 'COALINDIA.NS')":362.1504122376,
+    "('Low', 'COALINDIA.NS')":350.9556548698,
+    "('Open', 'COALINDIA.NS')":352.1684088634,
+    "('Volume', 'COALINDIA.NS')":5844752
+  },
+  {
+    "('Date', '')":"2025-01-24",
+    "('Close', 'COALINDIA.NS')":357.3459777832,
+    "('High', 'COALINDIA.NS')":365.9286366071,
+    "('Low', 'COALINDIA.NS')":356.0865903374,
+    "('Open', 'COALINDIA.NS')":360.1446671645,
+    "('Volume', 'COALINDIA.NS')":5351964
+  },
+  {
+    "('Date', '')":"2025-01-27",
+    "('Close', 'COALINDIA.NS')":350.5358886719,
+    "('High', 'COALINDIA.NS')":357.2993888525,
+    "('Low', 'COALINDIA.NS')":347.737198942,
+    "('Open', 'COALINDIA.NS')":355.3403003476,
+    "('Volume', 'COALINDIA.NS')":6645109
+  },
+  {
+    "('Date', '')":"2025-01-28",
+    "('Close', 'COALINDIA.NS')":345.7780761719,
+    "('High', 'COALINDIA.NS')":352.2617181249,
+    "('Low', 'COALINDIA.NS')":343.0726820617,
+    "('Open', 'COALINDIA.NS')":350.7690780563,
+    "('Volume', 'COALINDIA.NS')":10866038
+  },
+  {
+    "('Date', '')":"2025-01-29",
+    "('Close', 'COALINDIA.NS')":353.9875793457,
+    "('High', 'COALINDIA.NS')":359.1651434016,
+    "('Low', 'COALINDIA.NS')":345.9180020493,
+    "('Open', 'COALINDIA.NS')":347.503937447,
+    "('Volume', 'COALINDIA.NS')":6680927
+  },
+  {
+    "('Date', '')":"2025-01-30",
+    "('Close', 'COALINDIA.NS')":359.2117919922,
+    "('High', 'COALINDIA.NS')":361.3574710602,
+    "('Low', 'COALINDIA.NS')":354.873828888,
+    "('Open', 'COALINDIA.NS')":356.0866114403,
+    "('Volume', 'COALINDIA.NS')":6300164
+  },
+  {
+    "('Date', '')":"2025-01-31",
+    "('Close', 'COALINDIA.NS')":374.7844543457,
+    "('High', 'COALINDIA.NS')":375.7784693637,
+    "('Low', 'COALINDIA.NS')":354.6678345487,
+    "('Open', 'COALINDIA.NS')":359.2591629627,
+    "('Volume', 'COALINDIA.NS')":10339434
+  },
+  {
+    "('Date', '')":"2025-02-01",
+    "('Close', 'COALINDIA.NS')":364.7498168945,
+    "('High', 'COALINDIA.NS')":378.1451425566,
+    "('Low', 'COALINDIA.NS')":358.8331638247,
+    "('Open', 'COALINDIA.NS')":374.784466279,
+    "('Volume', 'COALINDIA.NS')":7015540
+  },
+  {
+    "('Date', '')":"2025-02-03",
+    "('Close', 'COALINDIA.NS')":354.0524597168,
+    "('High', 'COALINDIA.NS')":363.6610968964,
+    "('Low', 'COALINDIA.NS')":346.9524772358,
+    "('Open', 'COALINDIA.NS')":363.5191030247,
+    "('Volume', 'COALINDIA.NS')":7689700
+  },
+  {
+    "('Date', '')":"2025-02-04",
+    "('Close', 'COALINDIA.NS')":356.4664611816,
+    "('High', 'COALINDIA.NS')":360.3951414755,
+    "('Low', 'COALINDIA.NS')":354.9044707307,
+    "('Open', 'COALINDIA.NS')":357.3658038997,
+    "('Volume', 'COALINDIA.NS')":4649921
+  },
+  {
+    "('Date', '')":"2025-02-05",
+    "('Close', 'COALINDIA.NS')":362.4304504395,
+    "('High', 'COALINDIA.NS')":364.5604452168,
+    "('Low', 'COALINDIA.NS')":357.7444503734,
+    "('Open', 'COALINDIA.NS')":357.839122586,
+    "('Volume', 'COALINDIA.NS')":5914200
+  },
+  {
+    "('Date', '')":"2025-02-06",
+    "('Close', 'COALINDIA.NS')":359.3538208008,
+    "('High', 'COALINDIA.NS')":364.1344645817,
+    "('Low', 'COALINDIA.NS')":357.0818319632,
+    "('Open', 'COALINDIA.NS')":362.3831296209,
+    "('Volume', 'COALINDIA.NS')":4652107
+  },
+  {
+    "('Date', '')":"2025-02-07",
+    "('Close', 'COALINDIA.NS')":358.0758361816,
+    "('High', 'COALINDIA.NS')":362.5724924192,
+    "('Low', 'COALINDIA.NS')":355.9458411217,
+    "('Open', 'COALINDIA.NS')":359.2591667705,
+    "('Volume', 'COALINDIA.NS')":3006598
+  },
+  {
+    "('Date', '')":"2025-02-10",
+    "('Close', 'COALINDIA.NS')":350.7391662598,
+    "('High', 'COALINDIA.NS')":359.5904843307,
+    "('Low', 'COALINDIA.NS')":349.3191696352,
+    "('Open', 'COALINDIA.NS')":356.8924849661,
+    "('Volume', 'COALINDIA.NS')":3380494
+  },
+  {
+    "('Date', '')":"2025-02-11",
+    "('Close', 'COALINDIA.NS')":339.8525390625,
+    "('High', 'COALINDIA.NS')":350.739180286,
+    "('Low', 'COALINDIA.NS')":338.4325423812,
+    "('Open', 'COALINDIA.NS')":350.2658480588,
+    "('Volume', 'COALINDIA.NS')":6803431
+  },
+  {
+    "('Date', '')":"2025-02-12",
+    "('Close', 'COALINDIA.NS')":341.1305236816,
+    "('High', 'COALINDIA.NS')":342.5031697332,
+    "('Low', 'COALINDIA.NS')":332.7998595944,
+    "('Open', 'COALINDIA.NS')":340.704513144,
+    "('Volume', 'COALINDIA.NS')":4565992
+  },
+  {
+    "('Date', '')":"2025-02-13",
+    "('Close', 'COALINDIA.NS')":342.3611755371,
+    "('High', 'COALINDIA.NS')":347.9464897363,
+    "('Low', 'COALINDIA.NS')":339.4738606642,
+    "('Open', 'COALINDIA.NS')":342.6925138561,
+    "('Volume', 'COALINDIA.NS')":3712240
+  },
+  {
+    "('Date', '')":"2025-02-14",
+    "('Close', 'COALINDIA.NS')":335.3085632324,
+    "('High', 'COALINDIA.NS')":345.5325278428,
+    "('Low', 'COALINDIA.NS')":331.805893175,
+    "('Open', 'COALINDIA.NS')":344.491191159,
+    "('Volume', 'COALINDIA.NS')":4464446
+  },
+  {
+    "('Date', '')":"2025-02-17",
+    "('Close', 'COALINDIA.NS')":340.8938598633,
+    "('High', 'COALINDIA.NS')":342.6925164645,
+    "('Low', 'COALINDIA.NS')":330.6225452355,
+    "('Open', 'COALINDIA.NS')":335.3085456215,
+    "('Volume', 'COALINDIA.NS')":6017586
+  },
+  {
+    "('Date', '')":"2025-02-18",
+    "('Close', 'COALINDIA.NS')":341.8405456543,
+    "('High', 'COALINDIA.NS')":343.023876241,
+    "('Low', 'COALINDIA.NS')":334.9298776942,
+    "('Open', 'COALINDIA.NS')":341.0358750774,
+    "('Volume', 'COALINDIA.NS')":3843725
+  },
+  {
+    "('Date', '')":"2025-02-19",
+    "('Close', 'COALINDIA.NS')":342.9765014648,
+    "('High', 'COALINDIA.NS')":345.8164946723,
+    "('Low', 'COALINDIA.NS')":338.9058560901,
+    "('Open', 'COALINDIA.NS')":340.7991848951,
+    "('Volume', 'COALINDIA.NS')":3097726
+  },
+  {
+    "('Date', '')":"2025-02-20",
+    "('Close', 'COALINDIA.NS')":348.3251647949,
+    "('High', 'COALINDIA.NS')":349.745161343,
+    "('Low', 'COALINDIA.NS')":340.7991715342,
+    "('Open', 'COALINDIA.NS')":340.7991715342,
+    "('Volume', 'COALINDIA.NS')":4624287
+  },
+  {
+    "('Date', '')":"2025-02-21",
+    "('Close', 'COALINDIA.NS')":350.2185058594,
+    "('High', 'COALINDIA.NS')":351.4018363578,
+    "('Low', 'COALINDIA.NS')":345.8164932934,
+    "('Open', 'COALINDIA.NS')":347.9464881905,
+    "('Volume', 'COALINDIA.NS')":5235241
+  },
+  {
+    "('Date', '')":"2025-02-24",
+    "('Close', 'COALINDIA.NS')":345.3431396484,
+    "('High', 'COALINDIA.NS')":348.8458092621,
+    "('Low', 'COALINDIA.NS')":341.8878205857,
+    "('Open', 'COALINDIA.NS')":348.4197987532,
+    "('Volume', 'COALINDIA.NS')":4533486
+  },
+  {
+    "('Date', '')":"2025-02-25",
+    "('Close', 'COALINDIA.NS')":341.8878173828,
+    "('High', 'COALINDIA.NS')":345.9111407898,
+    "('Low', 'COALINDIA.NS')":339.5685071057,
+    "('Open', 'COALINDIA.NS')":344.5858165043,
+    "('Volume', 'COALINDIA.NS')":4525493
+  },
+  {
+    "('Date', '')":"2025-02-27",
+    "('Close', 'COALINDIA.NS')":344.4438476562,
+    "('High', 'COALINDIA.NS')":348.1831547016,
+    "('Low', 'COALINDIA.NS')":337.1545202216,
+    "('Open', 'COALINDIA.NS')":339.8525195391,
+    "('Volume', 'COALINDIA.NS')":6196610
+  },
+  {
+    "('Date', '')":"2025-02-28",
+    "('Close', 'COALINDIA.NS')":349.6505126953,
+    "('High', 'COALINDIA.NS')":355.7091592641,
+    "('Low', 'COALINDIA.NS')":345.8165044232,
+    "('Open', 'COALINDIA.NS')":347.236501067,
+    "('Volume', 'COALINDIA.NS')":21899478
+  },
+  {
+    "('Date', '')":"2025-03-03",
+    "('Close', 'COALINDIA.NS')":341.1305236816,
+    "('High', 'COALINDIA.NS')":351.212493804,
+    "('Low', 'COALINDIA.NS')":333.6045301156,
+    "('Open', 'COALINDIA.NS')":350.2658294002,
+    "('Volume', 'COALINDIA.NS')":12675744
+  },
+  {
+    "('Date', '')":"2025-03-04",
+    "('Close', 'COALINDIA.NS')":344.4438476562,
+    "('High', 'COALINDIA.NS')":346.9525025378,
+    "('Low', 'COALINDIA.NS')":333.7938731582,
+    "('Open', 'COALINDIA.NS')":337.1071985576,
+    "('Volume', 'COALINDIA.NS')":5535218
+  },
+  {
+    "('Date', '')":"2025-03-05",
+    "('Close', 'COALINDIA.NS')":348.609161377,
+    "('High', 'COALINDIA.NS')":349.224487452,
+    "('Low', 'COALINDIA.NS')":342.739830607,
+    "('Open', 'COALINDIA.NS')":342.739830607,
+    "('Volume', 'COALINDIA.NS')":5730797
+  },
+  {
+    "('Date', '')":"2025-03-06",
+    "('Close', 'COALINDIA.NS')":362.1937866211,
+    "('High', 'COALINDIA.NS')":363.6611048098,
+    "('Low', 'COALINDIA.NS')":348.4671535259,
+    "('Open', 'COALINDIA.NS')":350.3131316772,
+    "('Volume', 'COALINDIA.NS')":11247215
+  },
+  {
+    "('Date', '')":"2025-03-07",
+    "('Close', 'COALINDIA.NS')":360.3478088379,
+    "('High', 'COALINDIA.NS')":368.8204670267,
+    "('Low', 'COALINDIA.NS')":359.1644783026,
+    "('Open', 'COALINDIA.NS')":362.193816029,
+    "('Volume', 'COALINDIA.NS')":8321771
+  },
+  {
+    "('Date', '')":"2025-03-10",
+    "('Close', 'COALINDIA.NS')":355.1411437988,
+    "('High', 'COALINDIA.NS')":365.9804627323,
+    "('Low', 'COALINDIA.NS')":354.0998071811,
+    "('Open', 'COALINDIA.NS')":360.3951485515,
+    "('Volume', 'COALINDIA.NS')":5541001
+  },
+  {
+    "('Date', '')":"2025-03-11",
+    "('Close', 'COALINDIA.NS')":358.8331298828,
+    "('High', 'COALINDIA.NS')":359.7324726203,
+    "('Low', 'COALINDIA.NS')":348.3724998007,
+    "('Open', 'COALINDIA.NS')":351.2124930056,
+    "('Volume', 'COALINDIA.NS')":5340552
+  },
+  {
+    "('Date', '')":"2025-03-12",
+    "('Close', 'COALINDIA.NS')":360.3951721191,
+    "('High', 'COALINDIA.NS')":362.4304949338,
+    "('Low', 'COALINDIA.NS')":353.8631642216,
+    "('Open', 'COALINDIA.NS')":359.3064848763,
+    "('Volume', 'COALINDIA.NS')":3951912
+  },
+  {
+    "('Date', '')":"2025-03-13",
+    "('Close', 'COALINDIA.NS')":358.1231384277,
+    "('High', 'COALINDIA.NS')":362.5724727564,
+    "('Low', 'COALINDIA.NS')":357.2238245629,
+    "('Open', 'COALINDIA.NS')":361.1524761268,
+    "('Volume', 'COALINDIA.NS')":3918004
+  },
+  {
+    "('Date', '')":"2025-03-17",
+    "('Close', 'COALINDIA.NS')":365.1758117676,
+    "('High', 'COALINDIA.NS')":366.4064639972,
+    "('Low', 'COALINDIA.NS')":358.8331483935,
+    "('Open', 'COALINDIA.NS')":359.9218356234,
+    "('Volume', 'COALINDIA.NS')":5456361
+  },
+  {
+    "('Date', '')":"2025-03-18",
+    "('Close', 'COALINDIA.NS')":365.1758117676,
+    "('High', 'COALINDIA.NS')":365.1758117676,
+    "('Low', 'COALINDIA.NS')":365.1758117676,
+    "('Open', 'COALINDIA.NS')":365.1758117676,
+    "('Volume', 'COALINDIA.NS')":0
+  },
+  {
+    "('Date', '')":"2025-03-19",
+    "('Close', 'COALINDIA.NS')":374.737121582,
+    "('High', 'COALINDIA.NS')":376.8197660007,
+    "('Low', 'COALINDIA.NS')":368.0631199954,
+    "('Open', 'COALINDIA.NS')":369.2464505367,
+    "('Volume', 'COALINDIA.NS')":5827114
+  },
+  {
+    "('Date', '')":"2025-03-20",
+    "('Close', 'COALINDIA.NS')":375.2577514648,
+    "('High', 'COALINDIA.NS')":376.867092454,
+    "('Low', 'COALINDIA.NS')":371.1397556667,
+    "('Open', 'COALINDIA.NS')":376.488432483,
+    "('Volume', 'COALINDIA.NS')":7025398
+  },
+  {
+    "('Date', '')":"2025-03-21",
+    "('Close', 'COALINDIA.NS')":383.7777404785,
+    "('High', 'COALINDIA.NS')":389.1737390933,
+    "('Low', 'COALINDIA.NS')":374.0271087527,
+    "('Open', 'COALINDIA.NS')":375.2577609119,
+    "('Volume', 'COALINDIA.NS')":16564019
+  },
+  {
+    "('Date', '')":"2025-03-24",
+    "('Close', 'COALINDIA.NS')":384.3457641602,
+    "('High', 'COALINDIA.NS')":389.8364063779,
+    "('Low', 'COALINDIA.NS')":383.4464213826,
+    "('Open', 'COALINDIA.NS')":386.1917713814,
+    "('Volume', 'COALINDIA.NS')":5260300
+  },
+  {
+    "('Date', '')":"2025-03-25",
+    "('Close', 'COALINDIA.NS')":377.056427002,
+    "('High', 'COALINDIA.NS')":386.4757495387,
+    "('Low', 'COALINDIA.NS')":375.9204470317,
+    "('Open', 'COALINDIA.NS')":386.2390834337,
+    "('Volume', 'COALINDIA.NS')":5636291
+  },
+  {
+    "('Date', '')":"2025-03-26",
+    "('Close', 'COALINDIA.NS')":373.7431030273,
+    "('High', 'COALINDIA.NS')":380.9851089826,
+    "('Low', 'COALINDIA.NS')":372.1811125058,
+    "('Open', 'COALINDIA.NS')":377.245772952,
+    "('Volume', 'COALINDIA.NS')":5025274
+  },
+  {
+    "('Date', '')":"2025-03-27",
+    "('Close', 'COALINDIA.NS')":375.6837768555,
+    "('High', 'COALINDIA.NS')":378.3344256473,
+    "('Low', 'COALINDIA.NS')":371.1397703539,
+    "('Open', 'COALINDIA.NS')":372.2757792018,
+    "('Volume', 'COALINDIA.NS')":7697174
+  },
+  {
+    "('Date', '')":"2025-03-28",
+    "('Close', 'COALINDIA.NS')":376.9617614746,
+    "('High', 'COALINDIA.NS')":380.4644022891,
+    "('Low', 'COALINDIA.NS')":372.5124274058,
+    "('Open', 'COALINDIA.NS')":375.8257526813,
+    "('Volume', 'COALINDIA.NS')":6923988
+  },
+  {
+    "('Date', '')":"2025-04-01",
+    "('Close', 'COALINDIA.NS')":376.4411010742,
+    "('High', 'COALINDIA.NS')":381.0797509572,
+    "('Low', 'COALINDIA.NS')":373.9797678027,
+    "('Open', 'COALINDIA.NS')":376.5830949593,
+    "('Volume', 'COALINDIA.NS')":4332950
+  },
+  {
+    "('Date', '')":"2025-04-02",
+    "('Close', 'COALINDIA.NS')":376.2991027832,
+    "('High', 'COALINDIA.NS')":380.1804326402,
+    "('Low', 'COALINDIA.NS')":370.6191163261,
+    "('Open', 'COALINDIA.NS')":380.1804326402,
+    "('Volume', 'COALINDIA.NS')":4197123
+  },
+  {
+    "('Date', '')":"2025-04-03",
+    "('Close', 'COALINDIA.NS')":375.8731079102,
+    "('High', 'COALINDIA.NS')":378.6657795906,
+    "('Low', 'COALINDIA.NS')":372.2284728935,
+    "('Open', 'COALINDIA.NS')":373.9324573457,
+    "('Volume', 'COALINDIA.NS')":4970602
+  },
+  {
+    "('Date', '')":"2025-04-04",
+    "('Close', 'COALINDIA.NS')":364.5131530762,
+    "('High', 'COALINDIA.NS')":374.8791408761,
+    "('Low', 'COALINDIA.NS')":362.1938423921,
+    "('Open', 'COALINDIA.NS')":374.8791408761,
+    "('Volume', 'COALINDIA.NS')":6718760
+  },
+  {
+    "('Date', '')":"2025-04-07",
+    "('Close', 'COALINDIA.NS')":357.365814209,
+    "('High', 'COALINDIA.NS')":359.1644708072,
+    "('Low', 'COALINDIA.NS')":337.0125294262,
+    "('Open', 'COALINDIA.NS')":339.7105287684,
+    "('Volume', 'COALINDIA.NS')":10202400
+  },
+  {
+    "('Date', '')":"2025-04-08",
+    "('Close', 'COALINDIA.NS')":362.4304504395,
+    "('High', 'COALINDIA.NS')":364.939105177,
+    "('Low', 'COALINDIA.NS')":356.5611199416,
+    "('Open', 'COALINDIA.NS')":364.4657730042,
+    "('Volume', 'COALINDIA.NS')":3577328
+  },
+  {
+    "('Date', '')":"2025-04-09",
+    "('Close', 'COALINDIA.NS')":354.620513916,
+    "('High', 'COALINDIA.NS')":362.2885018507,
+    "('Low', 'COALINDIA.NS')":353.2005172203,
+    "('Open', 'COALINDIA.NS')":361.9098129533,
+    "('Volume', 'COALINDIA.NS')":5781453
+  },
+  {
+    "('Date', '')":"2025-04-11",
+    "('Close', 'COALINDIA.NS')":371.1871337891,
+    "('High', 'COALINDIA.NS')":371.8497815651,
+    "('Low', 'COALINDIA.NS')":361.7678110275,
+    "('Open', 'COALINDIA.NS')":369.1518110151,
+    "('Volume', 'COALINDIA.NS')":6185984
+  },
+  {
+    "('Date', '')":"2025-04-15",
+    "('Close', 'COALINDIA.NS')":374.1690979004,
+    "('High', 'COALINDIA.NS')":377.7190893416,
+    "('Low', 'COALINDIA.NS')":372.5124352278,
+    "('Open', 'COALINDIA.NS')":377.7190893416,
+    "('Volume', 'COALINDIA.NS')":4371156
+  },
+  {
+    "('Date', '')":"2025-04-16",
+    "('Close', 'COALINDIA.NS')":377.9557800293,
+    "('High', 'COALINDIA.NS')":378.7604505863,
+    "('Low', 'COALINDIA.NS')":371.5657950194,
+    "('Open', 'COALINDIA.NS')":374.1691222457,
+    "('Volume', 'COALINDIA.NS')":4992290
+  },
+  {
+    "('Date', '')":"2025-04-17",
+    "('Close', 'COALINDIA.NS')":377.5771179199,
+    "('High', 'COALINDIA.NS')":378.2397656944,
+    "('Low', 'COALINDIA.NS')":367.5897907374,
+    "('Open', 'COALINDIA.NS')":375.7311107047,
+    "('Volume', 'COALINDIA.NS')":8364450
+  },
+  {
+    "('Date', '')":"2025-04-21",
+    "('Close', 'COALINDIA.NS')":379.1390991211,
+    "('High', 'COALINDIA.NS')":384.3457534161,
+    "('Low', 'COALINDIA.NS')":374.5477709193,
+    "('Open', 'COALINDIA.NS')":377.9557685995,
+    "('Volume', 'COALINDIA.NS')":8987570
+  },
+  {
+    "('Date', '')":"2025-04-22",
+    "('Close', 'COALINDIA.NS')":377.3404541016,
+    "('High', 'COALINDIA.NS')":384.1564207815,
+    "('Low', 'COALINDIA.NS')":373.2697796482,
+    "('Open', 'COALINDIA.NS')":381.9791041108,
+    "('Volume', 'COALINDIA.NS')":7558174
+  },
+  {
+    "('Date', '')":"2025-04-23",
+    "('Close', 'COALINDIA.NS')":377.6717834473,
+    "('High', 'COALINDIA.NS')":380.1804383925,
+    "('Low', 'COALINDIA.NS')":372.9857829933,
+    "('Open', 'COALINDIA.NS')":378.6657695363,
+    "('Volume', 'COALINDIA.NS')":7429142
+  },
+  {
+    "('Date', '')":"2025-04-24",
+    "('Close', 'COALINDIA.NS')":378.5237731934,
+    "('High', 'COALINDIA.NS')":379.8964192651,
+    "('Low', 'COALINDIA.NS')":375.6837799403,
+    "('Open', 'COALINDIA.NS')":377.6244304406,
+    "('Volume', 'COALINDIA.NS')":5762303
+  },
+  {
+    "('Date', '')":"2025-04-25",
+    "('Close', 'COALINDIA.NS')":372.1811218262,
+    "('High', 'COALINDIA.NS')":382.4524368614,
+    "('Low', 'COALINDIA.NS')":368.8677962593,
+    "('Open', 'COALINDIA.NS')":378.9497668491,
+    "('Volume', 'COALINDIA.NS')":7337588
+  },
+  {
+    "('Date', '')":"2025-04-28",
+    "('Close', 'COALINDIA.NS')":375.9677734375,
+    "('High', 'COALINDIA.NS')":377.5297639725,
+    "('Low', 'COALINDIA.NS')":370.6664468397,
+    "('Open', 'COALINDIA.NS')":372.181115709,
+    "('Volume', 'COALINDIA.NS')":3458518
+  },
+  {
+    "('Date', '')":"2025-04-29",
+    "('Close', 'COALINDIA.NS')":368.3471374512,
+    "('High', 'COALINDIA.NS')":378.9971123453,
+    "('Low', 'COALINDIA.NS')":367.7318113464,
+    "('Open', 'COALINDIA.NS')":375.9677745973,
+    "('Volume', 'COALINDIA.NS')":6274213
+  },
+  {
+    "('Date', '')":"2025-04-30",
+    "('Close', 'COALINDIA.NS')":364.7498168945,
+    "('High', 'COALINDIA.NS')":369.5304899089,
+    "('Low', 'COALINDIA.NS')":362.6671723479,
+    "('Open', 'COALINDIA.NS')":368.3471592949,
+    "('Volume', 'COALINDIA.NS')":4559122
+  },
+  {
+    "('Date', '')":"2025-05-02",
+    "('Close', 'COALINDIA.NS')":363.0458068848,
+    "('High', 'COALINDIA.NS')":370.098468405,
+    "('Low', 'COALINDIA.NS')":361.0578058148,
+    "('Open', 'COALINDIA.NS')":364.9391357342,
+    "('Volume', 'COALINDIA.NS')":5045851
+  },
+  {
+    "('Date', '')":"2025-05-05",
+    "('Close', 'COALINDIA.NS')":365.0338134766,
+    "('High', 'COALINDIA.NS')":367.2111301304,
+    "('Low', 'COALINDIA.NS')":361.3891496082,
+    "('Open', 'COALINDIA.NS')":365.3651518082,
+    "('Volume', 'COALINDIA.NS')":6395704
+  },
+  {
+    "('Date', '')":"2025-05-06",
+    "('Close', 'COALINDIA.NS')":358.0758361816,
+    "('High', 'COALINDIA.NS')":366.9744764317,
+    "('Low', 'COALINDIA.NS')":357.2711656033,
+    "('Open', 'COALINDIA.NS')":365.885818068,
+    "('Volume', 'COALINDIA.NS')":5982166
+  },
+  {
+    "('Date', '')":"2025-05-07",
+    "('Close', 'COALINDIA.NS')":362.8564453125,
+    "('High', 'COALINDIA.NS')":366.6431028327,
+    "('Low', 'COALINDIA.NS')":350.549808372,
+    "('Open', 'COALINDIA.NS')":350.549808372,
+    "('Volume', 'COALINDIA.NS')":9162368
+  },
+  {
+    "('Date', '')":"2025-05-08",
+    "('Close', 'COALINDIA.NS')":364.8918151855,
+    "('High', 'COALINDIA.NS')":373.885127248,
+    "('Low', 'COALINDIA.NS')":361.8624774612,
+    "('Open', 'COALINDIA.NS')":369.1991267753,
+    "('Volume', 'COALINDIA.NS')":14258083
+  },
+  {
+    "('Date', '')":"2025-05-09",
+    "('Close', 'COALINDIA.NS')":362.0044555664,
+    "('High', 'COALINDIA.NS')":362.8091260728,
+    "('Low', 'COALINDIA.NS')":356.9397953214,
+    "('Open', 'COALINDIA.NS')":358.8804746474,
+    "('Volume', 'COALINDIA.NS')":3809943
+  },
+  {
+    "('Date', '')":"2025-05-12",
+    "('Close', 'COALINDIA.NS')":374.4057922363,
+    "('High', 'COALINDIA.NS')":374.9737966877,
+    "('Low', 'COALINDIA.NS')":366.8324765906,
+    "('Open', 'COALINDIA.NS')":371.0451449745,
+    "('Volume', 'COALINDIA.NS')":6743279
+  },
+  {
+    "('Date', '')":"2025-05-13",
+    "('Close', 'COALINDIA.NS')":374.074432373,
+    "('High', 'COALINDIA.NS')":378.2871005145,
+    "('Low', 'COALINDIA.NS')":373.0330957537,
+    "('Open', 'COALINDIA.NS')":374.4057706915,
+    "('Volume', 'COALINDIA.NS')":6307140
+  },
+  {
+    "('Date', '')":"2025-05-14",
+    "('Close', 'COALINDIA.NS')":381.6004638672,
+    "('High', 'COALINDIA.NS')":382.4997778039,
+    "('Low', 'COALINDIA.NS')":375.3051507509,
+    "('Open', 'COALINDIA.NS')":375.5891385435,
+    "('Volume', 'COALINDIA.NS')":6822756
+  },
+  {
+    "('Date', '')":"2025-05-15",
+    "('Close', 'COALINDIA.NS')":383.0677490234,
+    "('High', 'COALINDIA.NS')":384.7244117465,
+    "('Low', 'COALINDIA.NS')":378.2871052927,
+    "('Open', 'COALINDIA.NS')":382.2157568295,
+    "('Volume', 'COALINDIA.NS')":10511989
+  },
+  {
+    "('Date', '')":"2025-05-16",
+    "('Close', 'COALINDIA.NS')":383.2097473145,
+    "('High', 'COALINDIA.NS')":387.1857494516,
+    "('Low', 'COALINDIA.NS')":382.0737673395,
+    "('Open', 'COALINDIA.NS')":384.3457561793,
+    "('Volume', 'COALINDIA.NS')":4702603
+  },
+  {
+    "('Date', '')":"2025-05-19",
+    "('Close', 'COALINDIA.NS')":381.2217712402,
+    "('High', 'COALINDIA.NS')":385.7184272087,
+    "('Low', 'COALINDIA.NS')":379.6597518445,
+    "('Open', 'COALINDIA.NS')":384.2984305871,
+    "('Volume', 'COALINDIA.NS')":5446656
+  },
+  {
+    "('Date', '')":"2025-05-20",
+    "('Close', 'COALINDIA.NS')":386.333770752,
+    "('High', 'COALINDIA.NS')":394.9957447571,
+    "('Low', 'COALINDIA.NS')":382.4524406995,
+    "('Open', 'COALINDIA.NS')":383.8724373853,
+    "('Volume', 'COALINDIA.NS')":18755291
+  },
+  {
+    "('Date', '')":"2025-05-21",
+    "('Close', 'COALINDIA.NS')":383.7304382324,
+    "('High', 'COALINDIA.NS')":391.4930693409,
+    "('Low', 'COALINDIA.NS')":382.6891015658,
+    "('Open', 'COALINDIA.NS')":389.6944126749,
+    "('Volume', 'COALINDIA.NS')":7393102
+  },
+  {
+    "('Date', '')":"2025-05-22",
+    "('Close', 'COALINDIA.NS')":377.5771179199,
+    "('High', 'COALINDIA.NS')":384.9610890008,
+    "('Low', 'COALINDIA.NS')":372.2284696084,
+    "('Open', 'COALINDIA.NS')":383.3990984518,
+    "('Volume', 'COALINDIA.NS')":7936875
+  },
+  {
+    "('Date', '')":"2025-05-23",
+    "('Close', 'COALINDIA.NS')":380.0857543945,
+    "('High', 'COALINDIA.NS')":381.5057509863,
+    "('Low', 'COALINDIA.NS')":377.7190934083,
+    "('Open', 'COALINDIA.NS')":378.8551022376,
+    "('Volume', 'COALINDIA.NS')":4178408
+  },
+  {
+    "('Date', '')":"2025-05-26",
+    "('Close', 'COALINDIA.NS')":381.2217712402,
+    "('High', 'COALINDIA.NS')":384.156407813,
+    "('Low', 'COALINDIA.NS')":380.3224284906,
+    "('Open', 'COALINDIA.NS')":381.0797484661,
+    "('Volume', 'COALINDIA.NS')":6067873
+  },
+  {
+    "('Date', '')":"2025-05-27",
+    "('Close', 'COALINDIA.NS')":378.6184387207,
+    "('High', 'COALINDIA.NS')":382.0264074522,
+    "('Low', 'COALINDIA.NS')":377.0564193472,
+    "('Open', 'COALINDIA.NS')":381.0324213872,
+    "('Volume', 'COALINDIA.NS')":6553758
+  },
+  {
+    "('Date', '')":"2025-05-28",
+    "('Close', 'COALINDIA.NS')":376.9617614746,
+    "('High', 'COALINDIA.NS')":380.4170806268,
+    "('Low', 'COALINDIA.NS')":375.3524204991,
+    "('Open', 'COALINDIA.NS')":379.6124101391,
+    "('Volume', 'COALINDIA.NS')":6002200
+  },
+  {
+    "('Date', '')":"2025-05-29",
+    "('Close', 'COALINDIA.NS')":376.9617614746,
+    "('High', 'COALINDIA.NS')":379.8017545679,
+    "('Low', 'COALINDIA.NS')":375.8257526813,
+    "('Open', 'COALINDIA.NS')":378.6657457746,
+    "('Volume', 'COALINDIA.NS')":7724668
+  },
+  {
+    "('Date', '')":"2025-05-30",
+    "('Close', 'COALINDIA.NS')":376.1097412109,
+    "('High', 'COALINDIA.NS')":383.1624022965,
+    "('Low', 'COALINDIA.NS')":375.2104273968,
+    "('Open', 'COALINDIA.NS')":377.6717605274,
+    "('Volume', 'COALINDIA.NS')":6565658
+  },
+  {
+    "('Date', '')":"2025-06-02",
+    "('Close', 'COALINDIA.NS')":378.3818054199,
+    "('High', 'COALINDIA.NS')":379.9911177071,
+    "('Low', 'COALINDIA.NS')":374.4058030353,
+    "('Open', 'COALINDIA.NS')":377.6718070577,
+    "('Volume', 'COALINDIA.NS')":6119571
+  },
+  {
+    "('Date', '')":"2025-06-03",
+    "('Close', 'COALINDIA.NS')":371.8970947266,
+    "('High', 'COALINDIA.NS')":379.1390712076,
+    "('Low', 'COALINDIA.NS')":369.6724277318,
+    "('Open', 'COALINDIA.NS')":378.3817512855,
+    "('Volume', 'COALINDIA.NS')":7360608
+  },
+  {
+    "('Date', '')":"2025-06-04",
+    "('Close', 'COALINDIA.NS')":373.5537719727,
+    "('High', 'COALINDIA.NS')":373.9324319485,
+    "('Low', 'COALINDIA.NS')":368.8204500493,
+    "('Open', 'COALINDIA.NS')":371.8971092995,
+    "('Volume', 'COALINDIA.NS')":3861957
+  },
+  {
+    "('Date', '')":"2025-06-05",
+    "('Close', 'COALINDIA.NS')":373.8377685547,
+    "('High', 'COALINDIA.NS')":376.5830895571,
+    "('Low', 'COALINDIA.NS')":371.6131014202,
+    "('Open', 'COALINDIA.NS')":373.5537807885,
+    "('Volume', 'COALINDIA.NS')":6097293
+  },
+  {
+    "('Date', '')":"2025-06-06",
+    "('Close', 'COALINDIA.NS')":377.6717834473,
+    "('High', 'COALINDIA.NS')":379.2337739686,
+    "('Low', 'COALINDIA.NS')":374.9264335062,
+    "('Open', 'COALINDIA.NS')":376.6304468031,
+    "('Volume', 'COALINDIA.NS')":7633919
+  },
+  {
+    "('Date', '')":"2025-06-09",
+    "('Close', 'COALINDIA.NS')":379.6124572754,
+    "('High', 'COALINDIA.NS')":384.5351241377,
+    "('Low', 'COALINDIA.NS')":378.6657927934,
+    "('Open', 'COALINDIA.NS')":379.5177850492,
+    "('Volume', 'COALINDIA.NS')":9626374
+  },
+  {
+    "('Date', '')":"2025-06-10",
+    "('Close', 'COALINDIA.NS')":378.2397460938,
+    "('High', 'COALINDIA.NS')":382.925746388,
+    "('Low', 'COALINDIA.NS')":377.5770983536,
+    "('Open', 'COALINDIA.NS')":381.5057498006,
+    "('Volume', 'COALINDIA.NS')":6362912
+  },
+  {
+    "('Date', '')":"2025-06-11",
+    "('Close', 'COALINDIA.NS')":380.6537780762,
+    "('High', 'COALINDIA.NS')":387.6590891721,
+    "('Low', 'COALINDIA.NS')":377.1511080832,
+    "('Open', 'COALINDIA.NS')":378.7604491913,
+    "('Volume', 'COALINDIA.NS')":11946342
+  },
+  {
+    "('Date', '')":"2025-06-12",
+    "('Close', 'COALINDIA.NS')":371.7551269531,
+    "('High', 'COALINDIA.NS')":380.8904327707,
+    "('Low', 'COALINDIA.NS')":370.6191181003,
+    "('Open', 'COALINDIA.NS')":380.5590944478,
+    "('Volume', 'COALINDIA.NS')":11262656
+  },
+  {
+    "('Date', '')":"2025-06-13",
+    "('Close', 'COALINDIA.NS')":370.3351135254,
+    "('High', 'COALINDIA.NS')":371.4237717742,
+    "('Low', 'COALINDIA.NS')":365.4124472398,
+    "('Open', 'COALINDIA.NS')":369.1991047241,
+    "('Volume', 'COALINDIA.NS')":5253032
+  },
+  {
+    "('Date', '')":"2025-06-16",
+    "('Close', 'COALINDIA.NS')":373.3171081543,
+    "('High', 'COALINDIA.NS')":373.5537742519,
+    "('Low', 'COALINDIA.NS')":365.6017991501,
+    "('Open', 'COALINDIA.NS')":370.1457766683,
+    "('Volume', 'COALINDIA.NS')":3706240
+  },
+  {
+    "('Date', '')":"2025-06-17",
+    "('Close', 'COALINDIA.NS')":370.4297485352,
+    "('High', 'COALINDIA.NS')":374.7370886609,
+    "('Low', 'COALINDIA.NS')":369.2937686493,
+    "('Open', 'COALINDIA.NS')":372.9857538357,
+    "('Volume', 'COALINDIA.NS')":3248476
+  },
+  {
+    "('Date', '')":"2025-06-18",
+    "('Close', 'COALINDIA.NS')":369.530456543,
+    "('High', 'COALINDIA.NS')":372.4177714244,
+    "('Low', 'COALINDIA.NS')":367.4004616301,
+    "('Open', 'COALINDIA.NS')":370.4297703944,
+    "('Volume', 'COALINDIA.NS')":4118145
+  },
+  {
+    "('Date', '')":"2025-06-19",
+    "('Close', 'COALINDIA.NS')":363.7557983398,
+    "('High', 'COALINDIA.NS')":370.6191152897,
+    "('Low', 'COALINDIA.NS')":363.0458000347,
+    "('Open', 'COALINDIA.NS')":369.5304569997,
+    "('Volume', 'COALINDIA.NS')":4416367
+  },
+  {
+    "('Date', '')":"2025-06-20",
+    "('Close', 'COALINDIA.NS')":368.2997741699,
+    "('High', 'COALINDIA.NS')":370.9031012763,
+    "('Low', 'COALINDIA.NS')":363.6611243765,
+    "('Open', 'COALINDIA.NS')":363.7084749306,
+    "('Volume', 'COALINDIA.NS')":6531957
+  },
+  {
+    "('Date', '')":"2025-06-23",
+    "('Close', 'COALINDIA.NS')":371.5657958984,
+    "('High', 'COALINDIA.NS')":372.1338003453,
+    "('Low', 'COALINDIA.NS')":364.1818247588,
+    "('Open', 'COALINDIA.NS')":366.3591414336,
+    "('Volume', 'COALINDIA.NS')":3359491
+  },
+  {
+    "('Date', '')":"2025-06-24",
+    "('Close', 'COALINDIA.NS')":371.7077941895,
+    "('High', 'COALINDIA.NS')":374.3111214527,
+    "('Low', 'COALINDIA.NS')":369.8618158276,
+    "('Open', 'COALINDIA.NS')":373.4118075502,
+    "('Volume', 'COALINDIA.NS')":4606984
+  },
+  {
+    "('Date', '')":"2025-06-25",
+    "('Close', 'COALINDIA.NS')":370.8557739258,
+    "('High', 'COALINDIA.NS')":374.3110931633,
+    "('Low', 'COALINDIA.NS')":370.1457756349,
+    "('Open', 'COALINDIA.NS')":372.8437749182,
+    "('Volume', 'COALINDIA.NS')":4672204
+  },
+  {
+    "('Date', '')":"2025-06-26",
+    "('Close', 'COALINDIA.NS')":373.127746582,
+    "('High', 'COALINDIA.NS')":373.6484293068,
+    "('Low', 'COALINDIA.NS')":369.8144213676,
+    "('Open', 'COALINDIA.NS')":371.092424014,
+    "('Volume', 'COALINDIA.NS')":5569101
+  },
+  {
+    "('Date', '')":"2025-06-27",
+    "('Close', 'COALINDIA.NS')":373.127746582,
+    "('High', 'COALINDIA.NS')":376.4884223477,
+    "('Low', 'COALINDIA.NS')":371.1870962267,
+    "('Open', 'COALINDIA.NS')":373.9324170549,
+    "('Volume', 'COALINDIA.NS')":16253653
+  },
+  {
+    "('Date', '')":"2025-06-30",
+    "('Close', 'COALINDIA.NS')":371.045135498,
+    "('High', 'COALINDIA.NS')":376.204439316,
+    "('Low', 'COALINDIA.NS')":369.9564482899,
+    "('Open', 'COALINDIA.NS')":374.4057826741,
+    "('Volume', 'COALINDIA.NS')":4870935
+  },
+  {
+    "('Date', '')":"2025-07-01",
+    "('Close', 'COALINDIA.NS')":368.9624633789,
+    "('High', 'COALINDIA.NS')":372.8911150044,
+    "('Low', 'COALINDIA.NS')":368.252465053,
+    "('Open', 'COALINDIA.NS')":371.565790574,
+    "('Volume', 'COALINDIA.NS')":5997283
+  },
+  {
+    "('Date', '')":"2025-07-02",
+    "('Close', 'COALINDIA.NS')":366.264465332,
+    "('High', 'COALINDIA.NS')":370.808471969,
+    "('Low', 'COALINDIA.NS')":364.8918192307,
+    "('Open', 'COALINDIA.NS')":369.1991308682,
+    "('Volume', 'COALINDIA.NS')":7752338
+  },
+  {
+    "('Date', '')":"2025-07-03",
+    "('Close', 'COALINDIA.NS')":365.838470459,
+    "('High', 'COALINDIA.NS')":368.2524531331,
+    "('Low', 'COALINDIA.NS')":364.9391277193,
+    "('Open', 'COALINDIA.NS')":367.2111165108,
+    "('Volume', 'COALINDIA.NS')":3851213
+  },
+  {
+    "('Date', '')":"2025-07-04",
+    "('Close', 'COALINDIA.NS')":365.5071411133,
+    "('High', 'COALINDIA.NS')":367.2111255262,
+    "('Low', 'COALINDIA.NS')":362.9511356039,
+    "('Open', 'COALINDIA.NS')":367.0218099748,
+    "('Volume', 'COALINDIA.NS')":3990767
+  },
+  {
+    "('Date', '')":"2025-07-07",
+    "('Close', 'COALINDIA.NS')":363.7557983398,
+    "('High', 'COALINDIA.NS')":365.8857932553,
+    "('Low', 'COALINDIA.NS')":363.5191322381,
+    "('Open', 'COALINDIA.NS')":365.8857932553,
+    "('Volume', 'COALINDIA.NS')":2810768
+  },
+  {
+    "('Date', '')":"2025-07-08",
+    "('Close', 'COALINDIA.NS')":362.4304504395,
+    "('High', 'COALINDIA.NS')":364.939105177,
+    "('Low', 'COALINDIA.NS')":361.9097677155,
+    "('Open', 'COALINDIA.NS')":364.4184513429,
+    "('Volume', 'COALINDIA.NS')":5231160
+  },
+  {
+    "('Date', '')":"2025-07-09",
+    "('Close', 'COALINDIA.NS')":366.78515625,
+    "('High', 'COALINDIA.NS')":367.4478040375,
+    "('Low', 'COALINDIA.NS')":362.43049396,
+    "('Open', 'COALINDIA.NS')":362.6198095179,
+    "('Volume', 'COALINDIA.NS')":4497121
+  },
+  {
+    "('Date', '')":"2025-07-10",
+    "('Close', 'COALINDIA.NS')":363.5664672852,
+    "('High', 'COALINDIA.NS')":368.1104739393,
+    "('Low', 'COALINDIA.NS')":362.1464706226,
+    "('Open', 'COALINDIA.NS')":367.353125052,
+    "('Volume', 'COALINDIA.NS')":4668066
+  },
+  {
+    "('Date', '')":"2025-07-11",
+    "('Close', 'COALINDIA.NS')":360.6318359375,
+    "('High', 'COALINDIA.NS')":363.803138752,
+    "('Low', 'COALINDIA.NS')":360.3004976,
+    "('Open', 'COALINDIA.NS')":363.5664726381,
+    "('Volume', 'COALINDIA.NS')":4677164
+  },
+  {
+    "('Date', '')":"2025-07-14",
+    "('Close', 'COALINDIA.NS')":363.3771362305,
+    "('High', 'COALINDIA.NS')":365.3177866972,
+    "('Low', 'COALINDIA.NS')":361.1524691094,
+    "('Open', 'COALINDIA.NS')":361.62580131,
+    "('Volume', 'COALINDIA.NS')":5109504
+  },
+  {
+    "('Date', '')":"2025-07-15",
+    "('Close', 'COALINDIA.NS')":365.838470459,
+    "('High', 'COALINDIA.NS')":366.5957904262,
+    "('Low', 'COALINDIA.NS')":362.9984772472,
+    "('Open', 'COALINDIA.NS')":363.424458895,
+    "('Volume', 'COALINDIA.NS')":4586811
+  },
+  {
+    "('Date', '')":"2025-07-16",
+    "('Close', 'COALINDIA.NS')":365.838470459,
+    "('High', 'COALINDIA.NS')":367.3057887291,
+    "('Low', 'COALINDIA.NS')":364.4184738531,
+    "('Open', 'COALINDIA.NS')":366.0277860058,
+    "('Volume', 'COALINDIA.NS')":5205724
+  },
+  {
+    "('Date', '')":"2025-07-17",
+    "('Close', 'COALINDIA.NS')":365.3178100586,
+    "('High', 'COALINDIA.NS')":367.4951556548,
+    "('Low', 'COALINDIA.NS')":364.3711455967,
+    "('Open', 'COALINDIA.NS')":366.4064684118,
+    "('Volume', 'COALINDIA.NS')":3749218
+  },
+  {
+    "('Date', '')":"2025-07-18",
+    "('Close', 'COALINDIA.NS')":367.7791137695,
+    "('High', 'COALINDIA.NS')":368.4891120587,
+    "('Low', 'COALINDIA.NS')":363.6137962513,
+    "('Open', 'COALINDIA.NS')":366.3591171913,
+    "('Volume', 'COALINDIA.NS')":5172481
+  },
+  {
+    "('Date', '')":"2025-07-21",
+    "('Close', 'COALINDIA.NS')":366.1697692871,
+    "('High', 'COALINDIA.NS')":368.6311024441,
+    "('Low', 'COALINDIA.NS')":364.8444449379,
+    "('Open', 'COALINDIA.NS')":368.2524424714,
+    "('Volume', 'COALINDIA.NS')":4396850
+  },
+  {
+    "('Date', '')":"2025-07-22",
+    "('Close', 'COALINDIA.NS')":368.3471374512,
+    "('High', 'COALINDIA.NS')":370.855792426,
+    "('Low', 'COALINDIA.NS')":364.9391397071,
+    "('Open', 'COALINDIA.NS')":366.1697919166,
+    "('Volume', 'COALINDIA.NS')":5043629
+  },
+  {
+    "('Date', '')":"2025-07-23",
+    "('Close', 'COALINDIA.NS')":369.9090881348,
+    "('High', 'COALINDIA.NS')":371.5184290569,
+    "('Low', 'COALINDIA.NS')":368.11043168,
+    "('Open', 'COALINDIA.NS')":368.6310855072,
+    "('Volume', 'COALINDIA.NS')":3670943
+  },
+  {
+    "('Date', '')":"2025-07-24",
+    "('Close', 'COALINDIA.NS')":364.9864501953,
+    "('High', 'COALINDIA.NS')":369.9091166627,
+    "('Low', 'COALINDIA.NS')":363.4244597033,
+    "('Open', 'COALINDIA.NS')":369.2937905768,
+    "('Volume', 'COALINDIA.NS')":4022204
+  },
+  {
+    "('Date', '')":"2025-07-25",
+    "('Close', 'COALINDIA.NS')":360.4897766113,
+    "('High', 'COALINDIA.NS')":365.3177706237,
+    "('Low', 'COALINDIA.NS')":359.7324566795,
+    "('Open', 'COALINDIA.NS')":364.9864323198,
+    "('Volume', 'COALINDIA.NS')":4616856
+  },
+  {
+    "('Date', '')":"2025-07-28",
+    "('Close', 'COALINDIA.NS')":358.1704711914,
+    "('High', 'COALINDIA.NS')":363.3771252413,
+    "('Low', 'COALINDIA.NS')":356.8924685103,
+    "('Open', 'COALINDIA.NS')":360.8684704316,
+    "('Volume', 'COALINDIA.NS')":4521716
+  },
+  {
+    "('Date', '')":"2025-07-29",
+    "('Close', 'COALINDIA.NS')":363.1878051758,
+    "('High', 'COALINDIA.NS')":363.7558096155,
+    "('Low', 'COALINDIA.NS')":356.8451707871,
+    "('Open', 'COALINDIA.NS')":356.8451707871,
+    "('Volume', 'COALINDIA.NS')":4872086
+  },
+  {
+    "('Date', '')":"2025-07-30",
+    "('Close', 'COALINDIA.NS')":359.6377868652,
+    "('High', 'COALINDIA.NS')":363.5664382062,
+    "('Low', 'COALINDIA.NS')":358.8331163762,
+    "('Open', 'COALINDIA.NS')":363.5191165438,
+    "('Volume', 'COALINDIA.NS')":5107774
+  },
+  {
+    "('Date', '')":"2025-07-31",
+    "('Close', 'COALINDIA.NS')":356.277130127,
+    "('High', 'COALINDIA.NS')":358.7857848499,
+    "('Low', 'COALINDIA.NS')":354.715139744,
+    "('Open', 'COALINDIA.NS')":357.8391205099,
+    "('Volume', 'COALINDIA.NS')":6461803
+  },
+  {
+    "('Date', '')":"2025-08-01",
+    "('Close', 'COALINDIA.NS')":352.6325073242,
+    "('High', 'COALINDIA.NS')":360.8211490318,
+    "('Low', 'COALINDIA.NS')":350.9285228716,
+    "('Open', 'COALINDIA.NS')":354.9991684472,
+    "('Volume', 'COALINDIA.NS')":13769152
+  },
+  {
+    "('Date', '')":"2025-08-04",
+    "('Close', 'COALINDIA.NS')":354.7151489258,
+    "('High', 'COALINDIA.NS')":358.549128046,
+    "('Low', 'COALINDIA.NS')":350.4551592856,
+    "('Open', 'COALINDIA.NS')":352.5851541057,
+    "('Volume', 'COALINDIA.NS')":19756930
+  },
+  {
+    "('Date', '')":"2025-08-05",
+    "('Close', 'COALINDIA.NS')":359.2591247559,
+    "('High', 'COALINDIA.NS')":360.3951335443,
+    "('Low', 'COALINDIA.NS')":354.5258029541,
+    "('Open', 'COALINDIA.NS')":355.9457994946,
+    "('Volume', 'COALINDIA.NS')":6846687
+  },
+  {
+    "('Date', '')":"2025-08-06",
+    "('Close', 'COALINDIA.NS')":361.9968261719,
+    "('High', 'COALINDIA.NS')":363.1495117391,
+    "('Low', 'COALINDIA.NS')":358.8268749038,
+    "('Open', 'COALINDIA.NS')":359.2591503132,
+    "('Volume', 'COALINDIA.NS')":5808208
+  },
+  {
+    "('Date', '')":"2025-08-07",
+    "('Close', 'COALINDIA.NS')":364.5903930664,
+    "('High', 'COALINDIA.NS')":365.2628149711,
+    "('Low', 'COALINDIA.NS')":358.8749241357,
+    "('Open', 'COALINDIA.NS')":360.2197386303,
+    "('Volume', 'COALINDIA.NS')":3468573
+  },
+  {
+    "('Date', '')":"2025-08-08",
+    "('Close', 'COALINDIA.NS')":364.7344970703,
+    "('High', 'COALINDIA.NS')":367.0398974882,
+    "('Low', 'COALINDIA.NS')":363.2455712584,
+    "('Open', 'COALINDIA.NS')":364.0620751792,
+    "('Volume', 'COALINDIA.NS')":4172600
+  },
+  {
+    "('Date', '')":"2025-08-11",
+    "('Close', 'COALINDIA.NS')":367.4241333008,
+    "('High', 'COALINDIA.NS')":369.5374341594,
+    "('Low', 'COALINDIA.NS')":361.7086350569,
+    "('Open', 'COALINDIA.NS')":363.1014964384,
+    "('Volume', 'COALINDIA.NS')":5740719
+  },
+  {
+    "('Date', '')":"2025-08-12",
+    "('Close', 'COALINDIA.NS')":370.1618041992,
+    "('High', 'COALINDIA.NS')":371.2184546143,
+    "('Low', 'COALINDIA.NS')":366.1753783427,
+    "('Open', 'COALINDIA.NS')":366.5115599757,
+    "('Volume', 'COALINDIA.NS')":4860757
+  },
+  {
+    "('Date', '')":"2025-08-13",
+    "('Close', 'COALINDIA.NS')":370.882232666,
+    "('High', 'COALINDIA.NS')":372.7073400663,
+    "('Low', 'COALINDIA.NS')":369.921646738,
+    "('Open', 'COALINDIA.NS')":370.7381506398,
+    "('Volume', 'COALINDIA.NS')":4216888
+  },
+  {
+    "('Date', '')":"2025-08-14",
+    "('Close', 'COALINDIA.NS')":369.2972717285,
+    "('High', 'COALINDIA.NS')":371.6026720927,
+    "('Low', 'COALINDIA.NS')":367.4721350136,
+    "('Open', 'COALINDIA.NS')":370.8822326467,
+    "('Volume', 'COALINDIA.NS')":4034887
+  },
+  {
+    "('Date', '')":"2025-08-18",
+    "('Close', 'COALINDIA.NS')":372.5151977539,
+    "('High', 'COALINDIA.NS')":373.235637174,
+    "('Low', 'COALINDIA.NS')":368.9130006535,
+    "('Open', 'COALINDIA.NS')":371.4105298394,
+    "('Volume', 'COALINDIA.NS')":3520271
+  },
+  {
+    "('Date', '')":"2025-08-19",
+    "('Close', 'COALINDIA.NS')":370.1618041992,
+    "('High', 'COALINDIA.NS')":373.1876440992,
+    "('Low', 'COALINDIA.NS')":369.1051537841,
+    "('Open', 'COALINDIA.NS')":373.1876440992,
+    "('Volume', 'COALINDIA.NS')":5219052
+  },
+  {
+    "('Date', '')":"2025-08-20",
+    "('Close', 'COALINDIA.NS')":369.5374145508,
+    "('High', 'COALINDIA.NS')":371.6026684125,
+    "('Low', 'COALINDIA.NS')":368.4327172928,
+    "('Open', 'COALINDIA.NS')":370.7861645189,
+    "('Volume', 'COALINDIA.NS')":4904231
+  },
+  {
+    "('Date', '')":"2025-08-21",
+    "('Close', 'COALINDIA.NS')":368.1743469238,
+    "('High', 'COALINDIA.NS')":371.4846485306,
+    "('Low', 'COALINDIA.NS')":367.2980949857,
+    "('Open', 'COALINDIA.NS')":370.9005003801,
+    "('Volume', 'COALINDIA.NS')":6212604
+  },
+  {
+    "('Date', '')":"2025-08-22",
+    "('Close', 'COALINDIA.NS')":364.5719604492,
+    "('High', 'COALINDIA.NS')":369.0019188298,
+    "('Low', 'COALINDIA.NS')":364.1824887438,
+    "('Open', 'COALINDIA.NS')":368.1743360245,
+    "('Volume', 'COALINDIA.NS')":4699261
+  },
+  {
+    "('Date', '')":"2025-08-25",
+    "('Close', 'COALINDIA.NS')":369.9755554199,
+    "('High', 'COALINDIA.NS')":370.7057703319,
+    "('Low', 'COALINDIA.NS')":364.912720145,
+    "('Open', 'COALINDIA.NS')":365.1074560065,
+    "('Volume', 'COALINDIA.NS')":4349832
+  },
+  {
+    "('Date', '')":"2025-08-26",
+    "('Close', 'COALINDIA.NS')":362.6247253418,
+    "('High', 'COALINDIA.NS')":369.8295062957,
+    "('Low', 'COALINDIA.NS')":361.6024066709,
+    "('Open', 'COALINDIA.NS')":369.00192348,
+    "('Volume', 'COALINDIA.NS')":6381642
+  },
+  {
+    "('Date', '')":"2025-08-28",
+    "('Close', 'COALINDIA.NS')":364.4259033203,
+    "('High', 'COALINDIA.NS')":365.9837010457,
+    "('Low', 'COALINDIA.NS')":358.9249570296,
+    "('Open', 'COALINDIA.NS')":362.6733994496,
+    "('Volume', 'COALINDIA.NS')":4372269
+  },
+  {
+    "('Date', '')":"2025-08-29",
+    "('Close', 'COALINDIA.NS')":364.9127197266,
+    "('High', 'COALINDIA.NS')":369.0019351142,
+    "('Low', 'COALINDIA.NS')":362.8194429237,
+    "('Open', 'COALINDIA.NS')":362.8194429237,
+    "('Volume', 'COALINDIA.NS')":4578400
+  },
+  {
+    "('Date', '')":"2025-09-01",
+    "('Close', 'COALINDIA.NS')":367.9309387207,
+    "('High', 'COALINDIA.NS')":368.6124845069,
+    "('Low', 'COALINDIA.NS')":365.2048150009,
+    "('Open', 'COALINDIA.NS')":365.3995211452,
+    "('Volume', 'COALINDIA.NS')":2829114
+  },
+  {
+    "('Date', '')":"2025-09-02",
+    "('Close', 'COALINDIA.NS')":370.0729064941,
+    "('High', 'COALINDIA.NS')":374.8436377595,
+    "('Low', 'COALINDIA.NS')":369.0505878364,
+    "('Open', 'COALINDIA.NS')":371.0951954394,
+    "('Volume', 'COALINDIA.NS')":7511709
+  },
+  {
+    "('Date', '')":"2025-09-03",
+    "('Close', 'COALINDIA.NS')":379.5170288086,
+    "('High', 'COALINDIA.NS')":382.9246984916,
+    "('Low', 'COALINDIA.NS')":369.9755655812,
+    "('Open', 'COALINDIA.NS')":370.9005163802,
+    "('Volume', 'COALINDIA.NS')":8111851
+  },
+  {
+    "('Date', '')":"2025-09-04",
+    "('Close', 'COALINDIA.NS')":381.1235046387,
+    "('High', 'COALINDIA.NS')":381.7563516028,
+    "('Low', 'COALINDIA.NS')":375.5251904649,
+    "('Open', 'COALINDIA.NS')":381.4642478184,
+    "('Volume', 'COALINDIA.NS')":5515006
+  },
+  {
+    "('Date', '')":"2025-09-05",
+    "('Close', 'COALINDIA.NS')":382.2918395996,
+    "('High', 'COALINDIA.NS')":382.8760174696,
+    "('Low', 'COALINDIA.NS')":378.7381329833,
+    "('Open', 'COALINDIA.NS')":382.0484346298,
+    "('Volume', 'COALINDIA.NS')":4535470
+  },
+  {
+    "('Date', '')":"2025-09-08",
+    "('Close', 'COALINDIA.NS')":376.8395690918,
+    "('High', 'COALINDIA.NS')":385.4561111192,
+    "('Low', 'COALINDIA.NS')":376.1093541694,
+    "('Open', 'COALINDIA.NS')":383.6062392581,
+    "('Volume', 'COALINDIA.NS')":4607020
+  },
+  {
+    "('Date', '')":"2025-09-09",
+    "('Close', 'COALINDIA.NS')":377.7158508301,
+    "('High', 'COALINDIA.NS')":379.1275818529,
+    "('Low', 'COALINDIA.NS')":376.547495069,
+    "('Open', 'COALINDIA.NS')":378.4460657526,
+    "('Volume', 'COALINDIA.NS')":4376579
+  },
+  {
+    "('Date', '')":"2025-09-10",
+    "('Close', 'COALINDIA.NS')":381.5616149902,
+    "('High', 'COALINDIA.NS')":382.291829881,
+    "('Low', 'COALINDIA.NS')":377.8131726084,
+    "('Open', 'COALINDIA.NS')":378.2513134278,
+    "('Volume', 'COALINDIA.NS')":4285507
+  },
+  {
+    "('Date', '')":"2025-09-11",
+    "('Close', 'COALINDIA.NS')":382.9733886719,
+    "('High', 'COALINDIA.NS')":384.0930455999,
+    "('Low', 'COALINDIA.NS')":380.1985660501,
+    "('Open', 'COALINDIA.NS')":383.2654627531,
+    "('Volume', 'COALINDIA.NS')":3442373
+  },
+  {
+    "('Date', '')":"2025-09-12",
+    "('Close', 'COALINDIA.NS')":383.9469909668,
+    "('High', 'COALINDIA.NS')":385.7481936186,
+    "('Low', 'COALINDIA.NS')":382.82733409,
+    "('Open', 'COALINDIA.NS')":383.168077265,
+    "('Volume', 'COALINDIA.NS')":4276055
+  },
+  {
+    "('Date', '')":"2025-09-15",
+    "('Close', 'COALINDIA.NS')":384.3364562988,
+    "('High', 'COALINDIA.NS')":390.0808077779,
+    "('Low', 'COALINDIA.NS')":383.8983154579,
+    "('Open', 'COALINDIA.NS')":383.9470142805,
+    "('Volume', 'COALINDIA.NS')":4618798
+  },
+  {
+    "('Date', '')":"2025-09-16",
+    "('Close', 'COALINDIA.NS')":385.3587341309,
+    "('High', 'COALINDIA.NS')":386.5270898643,
+    "('Low', 'COALINDIA.NS')":383.6548993519,
+    "('Open', 'COALINDIA.NS')":384.5798501169,
+    "('Volume', 'COALINDIA.NS')":2581384
+  },
+  {
+    "('Date', '')":"2025-09-17",
+    "('Close', 'COALINDIA.NS')":389.2045593262,
+    "('High', 'COALINDIA.NS')":391.8333449702,
+    "('Low', 'COALINDIA.NS')":387.013914527,
+    "('Open', 'COALINDIA.NS')":391.3952041254,
+    "('Volume', 'COALINDIA.NS')":5970395
+  },
+  {
+    "('Date', '')":"2025-09-18",
+    "('Close', 'COALINDIA.NS')":382.7786560059,
+    "('High', 'COALINDIA.NS')":390.1781731548,
+    "('Low', 'COALINDIA.NS')":380.2959371571,
+    "('Open', 'COALINDIA.NS')":389.9347681809,
+    "('Volume', 'COALINDIA.NS')":5899621
+  },
+  {
+    "('Date', '')":"2025-09-19",
+    "('Close', 'COALINDIA.NS')":384.0930480957,
+    "('High', 'COALINDIA.NS')":384.7745939064,
+    "('Low', 'COALINDIA.NS')":381.1721884144,
+    "('Open', 'COALINDIA.NS')":383.6062381488,
+    "('Volume', 'COALINDIA.NS')":5272435
+  },
+  {
+    "('Date', '')":"2025-09-22",
+    "('Close', 'COALINDIA.NS')":384.2877807617,
+    "('High', 'COALINDIA.NS')":386.4784255045,
+    "('Low', 'COALINDIA.NS')":382.9733879736,
+    "('Open', 'COALINDIA.NS')":384.0930448996,
+    "('Volume', 'COALINDIA.NS')":3399517
+  },
+  {
+    "('Date', '')":"2025-09-23",
+    "('Close', 'COALINDIA.NS')":383.6549072266,
+    "('High', 'COALINDIA.NS')":385.3100729309,
+    "('Low', 'COALINDIA.NS')":381.7563662614,
+    "('Open', 'COALINDIA.NS')":384.3364530372,
+    "('Volume', 'COALINDIA.NS')":4720322
+  },
+  {
+    "('Date', '')":"2025-09-24",
+    "('Close', 'COALINDIA.NS')":382.4865722656,
+    "('High', 'COALINDIA.NS')":385.1640269109,
+    "('Low', 'COALINDIA.NS')":381.415584465,
+    "('Open', 'COALINDIA.NS')":384.0930391103,
+    "('Volume', 'COALINDIA.NS')":5139791
+  },
+  {
+    "('Date', '')":"2025-09-25",
+    "('Close', 'COALINDIA.NS')":382.1458129883,
+    "('High', 'COALINDIA.NS')":384.7745986187,
+    "('Low', 'COALINDIA.NS')":381.3182301259,
+    "('Open', 'COALINDIA.NS')":381.7076721457,
+    "('Volume', 'COALINDIA.NS')":4563970
+  },
+  {
+    "('Date', '')":"2025-09-26",
+    "('Close', 'COALINDIA.NS')":378.8841552734,
+    "('High', 'COALINDIA.NS')":382.5839284976,
+    "('Low', 'COALINDIA.NS')":377.8131675056,
+    "('Open', 'COALINDIA.NS')":382.1457876841,
+    "('Volume', 'COALINDIA.NS')":4698693
+  },
+  {
+    "('Date', '')":"2025-09-29",
+    "('Close', 'COALINDIA.NS')":378.0565795898,
+    "('High', 'COALINDIA.NS')":381.269542954,
+    "('Low', 'COALINDIA.NS')":375.4278237965,
+    "('Open', 'COALINDIA.NS')":379.5170093792,
+    "('Volume', 'COALINDIA.NS')":6606409
+  },
+  {
+    "('Date', '')":"2025-09-30",
+    "('Close', 'COALINDIA.NS')":379.6630859375,
+    "('High', 'COALINDIA.NS')":381.0748169429,
+    "('Low', 'COALINDIA.NS')":376.8882633235,
+    "('Open', 'COALINDIA.NS')":379.4196809663,
+    "('Volume', 'COALINDIA.NS')":5362610
+  },
+  {
+    "('Date', '')":"2025-10-01",
+    "('Close', 'COALINDIA.NS')":378.2513122559,
+    "('High', 'COALINDIA.NS')":384.4824733621,
+    "('Low', 'COALINDIA.NS')":377.6671344025,
+    "('Open', 'COALINDIA.NS')":379.5170061776,
+    "('Volume', 'COALINDIA.NS')":4976933
+  },
+  {
+    "('Date', '')":"2025-10-03",
+    "('Close', 'COALINDIA.NS')":373.2371826172,
+    "('High', 'COALINDIA.NS')":378.8354968623,
+    "('Low', 'COALINDIA.NS')":371.4359799175,
+    "('Open', 'COALINDIA.NS')":378.2513189986,
+    "('Volume', 'COALINDIA.NS')":7431240
+  },
+  {
+    "('Date', '')":"2025-10-06",
+    "('Close', 'COALINDIA.NS')":371.8254394531,
+    "('High', 'COALINDIA.NS')":373.9674151503,
+    "('Low', 'COALINDIA.NS')":369.9268984471,
+    "('Open', 'COALINDIA.NS')":373.383237259,
+    "('Volume', 'COALINDIA.NS')":7022052
+  },
+  {
+    "('Date', '')":"2025-10-07",
+    "('Close', 'COALINDIA.NS')":374.551574707,
+    "('High', 'COALINDIA.NS')":378.6894591416,
+    "('Low', 'COALINDIA.NS')":373.6752930567,
+    "('Open', 'COALINDIA.NS')":373.8700289151,
+    "('Volume', 'COALINDIA.NS')":7895734
+  },
+  {
+    "('Date', '')":"2025-10-08",
+    "('Close', 'COALINDIA.NS')":372.0201721191,
+    "('High', 'COALINDIA.NS')":376.206725831,
+    "('Low', 'COALINDIA.NS')":371.0465522129,
+    "('Open', 'COALINDIA.NS')":375.3304738579,
+    "('Volume', 'COALINDIA.NS')":3642904
+  },
+  {
+    "('Date', '')":"2025-10-09",
+    "('Close', 'COALINDIA.NS')":373.2371826172,
+    "('High', 'COALINDIA.NS')":376.1093434024,
+    "('Low', 'COALINDIA.NS')":370.5110291573,
+    "('Open', 'COALINDIA.NS')":372.8964097206,
+    "('Volume', 'COALINDIA.NS')":4628511
+  },
+  {
+    "('Date', '')":"2025-10-10",
+    "('Close', 'COALINDIA.NS')":374.356842041,
+    "('High', 'COALINDIA.NS')":376.4988176516,
+    "('Low', 'COALINDIA.NS')":372.8477431194,
+    "('Open', 'COALINDIA.NS')":373.8700321034,
+    "('Volume', 'COALINDIA.NS')":5061600
+  },
+  {
+    "('Date', '')":"2025-10-13",
+    "('Close', 'COALINDIA.NS')":371.4846496582,
+    "('High', 'COALINDIA.NS')":374.1621043017,
+    "('Low', 'COALINDIA.NS')":370.6083977174,
+    "('Open', 'COALINDIA.NS')":373.1398153229,
+    "('Volume', 'COALINDIA.NS')":4750043
+  },
+  {
+    "('Date', '')":"2025-10-14",
+    "('Close', 'COALINDIA.NS')":370.9005126953,
+    "('High', 'COALINDIA.NS')":374.9896984468,
+    "('Low', 'COALINDIA.NS')":370.072929838,
+    "('Open', 'COALINDIA.NS')":371.971470815,
+    "('Volume', 'COALINDIA.NS')":4288494
+  },
+  {
+    "('Date', '')":"2025-10-15",
+    "('Close', 'COALINDIA.NS')":374.1134338379,
+    "('High', 'COALINDIA.NS')":375.2330907423,
+    "('Low', 'COALINDIA.NS')":371.1925742373,
+    "('Open', 'COALINDIA.NS')":371.1925742373,
+    "('Volume', 'COALINDIA.NS')":6135157
+  },
+  {
+    "('Date', '')":"2025-10-16",
+    "('Close', 'COALINDIA.NS')":377.3750610352,
+    "('High', 'COALINDIA.NS')":377.7158339263,
+    "('Low', 'COALINDIA.NS')":374.3568335478,
+    "('Open', 'COALINDIA.NS')":374.8436434744,
+    "('Volume', 'COALINDIA.NS')":3513302
+  },
+  {
+    "('Date', '')":"2025-10-17",
+    "('Close', 'COALINDIA.NS')":378.5433959961,
+    "('High', 'COALINDIA.NS')":379.2249417945,
+    "('Low', 'COALINDIA.NS')":375.0870573205,
+    "('Open', 'COALINDIA.NS')":377.3750699721,
+    "('Volume', 'COALINDIA.NS')":4093872
+  },
+  {
+    "('Date', '')":"2025-10-20",
+    "('Close', 'COALINDIA.NS')":380.2959289551,
+    "('High', 'COALINDIA.NS')":381.658990837,
+    "('Low', 'COALINDIA.NS')":378.2026521672,
+    "('Open', 'COALINDIA.NS')":379.7117510878,
+    "('Volume', 'COALINDIA.NS')":4007425
+  },
+  {
+    "('Date', '')":"2025-10-21",
+    "('Close', 'COALINDIA.NS')":380.7827453613,
+    "('High', 'COALINDIA.NS')":382.7786542531,
+    "('Low', 'COALINDIA.NS')":380.2959354158,
+    "('Open', 'COALINDIA.NS')":382.7299851436,
+    "('Volume', 'COALINDIA.NS')":678084
+  },
+  {
+    "('Date', '')":"2025-10-23",
+    "('Close', 'COALINDIA.NS')":382.2918395996,
+    "('High', 'COALINDIA.NS')":383.9956743881,
+    "('Low', 'COALINDIA.NS')":380.149893693,
+    "('Open', 'COALINDIA.NS')":381.2695506115,
+    "('Volume', 'COALINDIA.NS')":4311356
+  },
+  {
+    "('Date', '')":"2025-10-24",
+    "('Close', 'COALINDIA.NS')":383.6549072266,
+    "('High', 'COALINDIA.NS')":385.0179988478,
+    "('Low', 'COALINDIA.NS')":380.490642572,
+    "('Open', 'COALINDIA.NS')":382.2918453179,
+    "('Volume', 'COALINDIA.NS')":4070949
+  },
+  {
+    "('Date', '')":"2025-10-27",
+    "('Close', 'COALINDIA.NS')":386.2350158691,
+    "('High', 'COALINDIA.NS')":387.69544568,
+    "('Low', 'COALINDIA.NS')":383.2167883175,
+    "('Open', 'COALINDIA.NS')":385.0666601354,
+    "('Volume', 'COALINDIA.NS')":5438773
+  },
+  {
+    "('Date', '')":"2025-10-28",
+    "('Close', 'COALINDIA.NS')":381.0748291016,
+    "('High', 'COALINDIA.NS')":387.6954623565,
+    "('Low', 'COALINDIA.NS')":379.0789201592,
+    "('Open', 'COALINDIA.NS')":386.4784374618,
+    "('Volume', 'COALINDIA.NS')":7672258
+  },
+  {
+    "('Date', '')":"2025-10-29",
+    "('Close', 'COALINDIA.NS')":371.9227905273,
+    "('High', 'COALINDIA.NS')":388.7664024018,
+    "('Low', 'COALINDIA.NS')":370.0242198949,
+    "('Open', 'COALINDIA.NS')":382.8760140704,
+    "('Volume', 'COALINDIA.NS')":26856509
+  },
+  {
+    "('Date', '')":"2025-10-30",
+    "('Close', 'COALINDIA.NS')":377.472442627,
+    "('High', 'COALINDIA.NS')":378.6894674875,
+    "('Low', 'COALINDIA.NS')":369.2940117942,
+    "('Open', 'COALINDIA.NS')":372.8477481569,
+    "('Volume', 'COALINDIA.NS')":15154040
+  },
+  {
+    "('Date', '')":"2025-10-31",
+    "('Close', 'COALINDIA.NS')":378.3973693848,
+    "('High', 'COALINDIA.NS')":383.8009776743,
+    "('Low', 'COALINDIA.NS')":377.5211174145,
+    "('Open', 'COALINDIA.NS')":379.6630930863,
+    "('Volume', 'COALINDIA.NS')":13103909
+  },
+  {
+    "('Date', '')":"2025-11-03",
+    "('Close', 'COALINDIA.NS')":378.299987793,
+    "('High', 'COALINDIA.NS')":380.5880004251,
+    "('Low', 'COALINDIA.NS')":377.0829629581,
+    "('Open', 'COALINDIA.NS')":380.2472275288,
+    "('Volume', 'COALINDIA.NS')":14152223
+  },
+  {
+    "('Date', '')":"2025-11-04",
+    "('Close', 'COALINDIA.NS')":377.549987793,
+    "('High', 'COALINDIA.NS')":382.0,
+    "('Low', 'COALINDIA.NS')":376.5,
+    "('Open', 'COALINDIA.NS')":380.0,
+    "('Volume', 'COALINDIA.NS')":10536699
+  },
+  {
+    "('Date', '')":"2025-11-05",
+    "('Close', 'COALINDIA.NS')":377.549987793,
+    "('High', 'COALINDIA.NS')":377.549987793,
+    "('Low', 'COALINDIA.NS')":377.549987793,
+    "('Open', 'COALINDIA.NS')":377.549987793,
+    "('Volume', 'COALINDIA.NS')":0
+  },
+  {
+    "('Date', '')":"2025-11-06",
+    "('Close', 'COALINDIA.NS')":373.1499938965,
+    "('High', 'COALINDIA.NS')":378.700012207,
+    "('Low', 'COALINDIA.NS')":372.3500061035,
+    "('Open', 'COALINDIA.NS')":378.700012207,
+    "('Volume', 'COALINDIA.NS')":6648689
+  },
+  {
+    "('Date', '')":"2025-11-07",
+    "('Close', 'COALINDIA.NS')":376.0,
+    "('High', 'COALINDIA.NS')":376.75,
+    "('Low', 'COALINDIA.NS')":371.5,
+    "('Open', 'COALINDIA.NS')":372.0,
+    "('Volume', 'COALINDIA.NS')":4650451
+  },
+  {
+    "('Date', '')":"2025-11-10",
+    "('Close', 'COALINDIA.NS')":381.3500061035,
+    "('High', 'COALINDIA.NS')":382.3999938965,
+    "('Low', 'COALINDIA.NS')":376.1000061035,
+    "('Open', 'COALINDIA.NS')":376.1000061035,
+    "('Volume', 'COALINDIA.NS')":4451727
+  },
+  {
+    "('Date', '')":"2025-11-11",
+    "('Close', 'COALINDIA.NS')":382.799987793,
+    "('High', 'COALINDIA.NS')":383.0,
+    "('Low', 'COALINDIA.NS')":378.6000061035,
+    "('Open', 'COALINDIA.NS')":381.450012207,
+    "('Volume', 'COALINDIA.NS')":3296871
+  }
+]
