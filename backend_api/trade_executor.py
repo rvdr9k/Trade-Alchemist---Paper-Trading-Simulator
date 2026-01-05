@@ -1,18 +1,23 @@
+print(">>> trade_executor.py LOADED FROM:", __file__)
+
 from datetime import datetime, timezone
 from db.mongo_client import live_prices, transactions
 
 COMMISSION_RATE = 0.002  # 0.2%
 
 def execute_trade(user_id, symbol, exchange, side, quantity):
-    live = live_prices.find_one({"symbol": symbol, "exchange": exchange})
+    live = live_prices.find_one(
+        {"symbol": symbol, "exchange": exchange},
+        {"_id": 0}
+    )
     if not live:
         raise ValueError("Live price not available")
 
-    price = live["price"]
+    price = float(live["price"])
     gross_value = round(price * quantity, 2)
 
-    commission_amount = 0.0
     commission_rate = 0.0
+    commission_amount = 0.0
     net_value = gross_value
 
     if side == "SELL":
@@ -31,8 +36,10 @@ def execute_trade(user_id, symbol, exchange, side, quantity):
         "commission_rate": commission_rate,
         "commission_amount": commission_amount,
         "net_value": net_value,
-        "timestamp": datetime.now(timezone.utc)
+        "timestamp": datetime.now(timezone.utc).isoformat()
     }
 
     transactions.insert_one(transaction)
+
+    # RETURN A PURE JSON OBJECT — NO MONGO TYPES POSSIBLE
     return transaction

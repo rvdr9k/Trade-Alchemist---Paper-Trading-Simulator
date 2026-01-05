@@ -60,24 +60,34 @@ class TradeRequest(BaseModel):
 
 @app.post("/trade/buy")
 def buy_trade(req: TradeRequest):
-    return execute_trade(
+    trade = execute_trade(
         req.user_id,
         req.symbol,
         req.exchange,
         "BUY",
         req.quantity
     )
+    return {
+        "status": "ok",
+        "data": trade
+    }
+
 
 
 @app.post("/trade/sell")
 def sell_trade(req: TradeRequest):
-    return execute_trade(
+    trade = execute_trade(
         req.user_id,
         req.symbol,
         req.exchange,
         "SELL",
         req.quantity
     )
+    return {
+        "status": "ok",
+        "data": trade
+    }
+
 from fastapi import Request
 
 @app.get("/")
