@@ -1,11 +1,31 @@
-from fastapi import FastAPI
+import os
+import webbrowser
+import threading
+from contextlib import asynccontextmanager
+
+from fastapi import FastAPI, Request
 from fastapi.middleware.cors import CORSMiddleware
-from db.mongo_client import live_prices, historical_prices, market_state
 from pydantic import BaseModel
+
+from db.mongo_client import live_prices, historical_prices, market_state
 from trade_executor import execute_trade
 
 
-app = FastAPI()
+@asynccontextmanager
+async def lifespan(app: FastAPI):
+    # --- startup logic ---
+    if os.getenv("AUTO_OPEN_DOCS", "false").lower() == "true":
+        host = os.getenv("APP_HOST", "127.0.0.1")
+        port = os.getenv("APP_PORT", "8000")
+        url = f"http://{host}:{port}/docs"
+
+        threading.Timer(1.5, lambda: webbrowser.open(url)).start()
+
+    yield
+
+    # --- shutdown logic (optional) ---
+
+app = FastAPI(lifespan=lifespan)
 
 # allow frontend access
 app.add_middleware(
@@ -58,3 +78,13 @@ def sell_trade(req: TradeRequest):
         "SELL",
         req.quantity
     )
+from fastapi import Request
+
+@app.get("/")
+def root(request: Request):
+    base = str(request.base_url).rstrip("/")
+    return {
+        "status": "Backend running",
+        "docs": f"{base}/docs",
+        "openapi": f"{base}/openapi.json"
+    }
