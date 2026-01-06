@@ -1,5 +1,3 @@
-print(">>> trade_executor.py LOADED FROM:", __file__)
-
 from datetime import datetime, timezone
 from db.mongo_client import live_prices, transactions
 
@@ -39,7 +37,8 @@ def execute_trade(user_id, symbol, exchange, side, quantity):
         "timestamp": datetime.now(timezone.utc).isoformat()
     }
 
-    transactions.insert_one(transaction)
+    # INSERT A COPY (IMPORTANT)
+    transactions.insert_one(transaction.copy())
 
-    # RETURN A PURE JSON OBJECT — NO MONGO TYPES POSSIBLE
+    # RETURN CLEAN JSON-SAFE OBJECT
     return transaction

@@ -2,11 +2,10 @@ import os
 import webbrowser
 import threading
 from contextlib import asynccontextmanager
-
+from fastapi.responses import JSONResponse
 from fastapi import FastAPI, Request
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
-
 from db.mongo_client import live_prices, historical_prices, market_state
 from trade_executor import execute_trade
 
@@ -67,11 +66,13 @@ def buy_trade(req: TradeRequest):
         "BUY",
         req.quantity
     )
-    return {
-        "status": "ok",
-        "data": trade
-    }
-
+    return JSONResponse(
+        status_code=200,
+        content={
+            "status": "ok",
+            "data": trade
+        }
+    )
 
 
 @app.post("/trade/sell")
@@ -83,10 +84,14 @@ def sell_trade(req: TradeRequest):
         "SELL",
         req.quantity
     )
-    return {
-        "status": "ok",
-        "data": trade
-    }
+    return JSONResponse(
+        status_code=200,
+        content={
+            "status": "ok",
+            "data": trade
+        }
+    )
+
 
 from fastapi import Request
 
