@@ -30,3 +30,4 @@ In terminal : cd simulator_engine -> python price_engine_v3.py
 Start Backend API
 
 In terminal : cd backend_api -> uvicorn main:app --reload
+// python -m uvicorn main:app --reload
