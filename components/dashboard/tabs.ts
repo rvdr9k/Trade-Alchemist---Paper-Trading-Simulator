@@ -5,7 +5,7 @@ export const dashboardTabs = [
   "Sell",
   "Market Watch",
   "Transaction History",
-  "Charts",
+  "Analysis",
 ] as const;
 
 export type DashboardTab = (typeof dashboardTabs)[number];

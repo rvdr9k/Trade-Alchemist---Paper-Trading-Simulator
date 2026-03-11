@@ -4,7 +4,7 @@ import { memo, useEffect, useMemo, useState } from "react";
 import type { TradeDraft } from "@/components/dashboard/trade-modal";
 import type { PortfolioHolding } from "@/components/dashboard/portfolio-overview";
 import { getStockHistory, searchStocks, type ApiOHLCPoint, type ApiStock } from "@/lib/api";
-import { EXCHANGE_OPTIONS, type ExchangeOption } from "@/lib/exchanges";
+import { EXCHANGE_OPTIONS, type ExchangeId } from "@/lib/exchanges";
 const rangeOptions = ["1D", "5D", "1M", "6M", "YTD", "1Y", "5Y"] as const;
 type RangeOption = (typeof rangeOptions)[number];
 
@@ -73,7 +73,7 @@ function toChartPath(values: number[], width: number, height: number) {
 }
 
 export const BuyPage = memo(function BuyPage({ holdings, onTradeAction }: BuyPageProps) {
-  const [selectedExchange, setSelectedExchange] = useState<ExchangeOption>("NSE");
+  const [selectedExchange, setSelectedExchange] = useState<ExchangeId>("NSE");
   const [query, setQuery] = useState("");
   const [selectedSymbol, setSelectedSymbol] = useState("");
   const [activeRange, setActiveRange] = useState<RangeOption>("1Y");
@@ -102,18 +102,18 @@ export const BuyPage = memo(function BuyPage({ holdings, onTradeAction }: BuyPag
   }, [selectedExchange, query]);
 
   useEffect(() => {
-    if (stocks.length === 0) {
+    if (stocks.length === 0 || !query.trim()) {
       setSelectedSymbol("");
       return;
     }
     const hasCurrentSelection = stocks.some((stock) => stock.symbol === selectedSymbol);
     if (!hasCurrentSelection) {
-      setSelectedSymbol(stocks[0].symbol);
+      setSelectedSymbol("");
     }
   }, [selectedSymbol, stocks]);
 
   const selectedStock = useMemo(
-    () => stocks.find((stock) => stock.symbol === selectedSymbol) ?? stocks[0],
+    () => stocks.find((stock) => stock.symbol === selectedSymbol),
     [selectedSymbol, stocks],
   );
   const stockCurrency = selectedStock?.currency ?? "USD";
@@ -205,11 +205,15 @@ export const BuyPage = memo(function BuyPage({ holdings, onTradeAction }: BuyPag
             <select
               className="ta-buy-select"
               value={selectedExchange}
-              onChange={(event) => setSelectedExchange(event.target.value as ExchangeOption)}
+              onChange={(event) => {
+                setSelectedExchange(event.target.value as ExchangeId);
+                setQuery("");
+                setSelectedSymbol("");
+              }}
             >
               {EXCHANGE_OPTIONS.map((exchange) => (
-                <option key={exchange} value={exchange}>
-                  {exchange}
+                <option key={exchange.id} value={exchange.id}>
+                  {exchange.label}
                 </option>
               ))}
             </select>
@@ -220,14 +224,20 @@ export const BuyPage = memo(function BuyPage({ holdings, onTradeAction }: BuyPag
             <input
               className="ta-buy-search-input"
               value={query}
-              onChange={(event) => setQuery(event.target.value)}
+              onChange={(event) => {
+                setQuery(event.target.value);
+                setSelectedSymbol("");
+              }}
               placeholder="Search stock by symbol or company"
             />
             {query ? (
               <button
                 type="button"
                 className="ta-buy-search-clear"
-                onClick={() => setQuery("")}
+                onClick={() => {
+                  setQuery("");
+                  setSelectedSymbol("");
+                }}
                 aria-label="Clear search"
               >
                 x
@@ -236,7 +246,7 @@ export const BuyPage = memo(function BuyPage({ holdings, onTradeAction }: BuyPag
           </div>
         </div>
       </div>
-      {query.trim() ? (
+      {query.trim() && !selectedSymbol ? (
         <div className="ta-watch-search-results">
           {stocks.length > 0 ? (
             stocks.slice(0, 12).map((stock) => (
@@ -263,24 +273,7 @@ export const BuyPage = memo(function BuyPage({ holdings, onTradeAction }: BuyPag
         </div>
       ) : null}
 
-      <div className="ta-buy-selected-card">
-        <div>
-          <p className="ta-buy-selected-symbol">{selectedStock?.symbol ?? "--"}</p>
-          <p className="ta-buy-selected-company">{selectedStock?.companyName ?? "--"}</p>
-          <p className="ta-buy-selected-company">
-            {selectedStock
-              ? `${selectedStock.exchange} • ${stockCurrency} • ${selectedStock.sector ?? "--"}`
-              : "--"}
-          </p>
-        </div>
-        <div className="ta-buy-selected-price-block">
-          <p className="ta-buy-selected-price">{formatCurrency(selectedStock?.currentPrice, stockCurrency)}</p>
-          <p className={`ta-buy-selected-change ${priceTone}`}>
-            {formatChange(selectedStock?.change)} ({formatChange(selectedStock?.percentChange, true)})
-          </p>
-        </div>
-      </div>
-
+      {selectedStock ? (
       <div className="ta-buy-layout-grid">
         <article className="ta-buy-panel ta-buy-chart-panel">
           <h3 className="ta-buy-panel-title">Historical Performance</h3>
@@ -424,6 +417,7 @@ export const BuyPage = memo(function BuyPage({ holdings, onTradeAction }: BuyPag
           </article>
         </div>
       </div>
+      ) : null}
 
     </section>
   );

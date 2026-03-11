@@ -2,7 +2,7 @@
 
 import { memo, useEffect, useMemo, useState } from "react";
 import { getStockHistory, searchStocks, type ApiOHLCPoint, type ApiStock } from "@/lib/api";
-import { EXCHANGE_OPTIONS } from "@/lib/exchanges";
+import { EXCHANGE_OPTIONS, type ExchangeId } from "@/lib/exchanges";
 const rangeOptions = ["1D", "5D", "1M", "6M", "YTD", "1Y", "5Y"] as const;
 type RangeOption = (typeof rangeOptions)[number];
 
@@ -92,8 +92,8 @@ function getSeriesByRange(series: ApiOHLCPoint[], range: RangeOption) {
 
 export const ChartsPage = memo(function ChartsPage() {
   const [stocks, setStocks] = useState<ApiStock[]>([]);
-  const [selectedExchange, setSelectedExchange] = useState<string>(
-    EXCHANGE_OPTIONS[0],
+  const [selectedExchange, setSelectedExchange] = useState<ExchangeId>(
+    EXCHANGE_OPTIONS[0].id,
   );
   const [query, setQuery] = useState("");
   const [selectedSymbol, setSelectedSymbol] = useState("");
@@ -131,18 +131,18 @@ export const ChartsPage = memo(function ChartsPage() {
   }, [selectedExchange, query]);
 
   useEffect(() => {
-    if (stocks.length === 0) {
+    if (stocks.length === 0 || !query.trim()) {
       setSelectedSymbol("");
       return;
     }
     const hasCurrentSelection = stocks.some((stock) => stock.symbol === selectedSymbol);
     if (!hasCurrentSelection) {
-      setSelectedSymbol(stocks[0].symbol);
+      setSelectedSymbol("");
     }
   }, [selectedSymbol, stocks]);
 
   const selected = useMemo(
-    () => stocks.find((stock) => stock.symbol === selectedSymbol) ?? stocks[0],
+    () => stocks.find((stock) => stock.symbol === selectedSymbol),
     [selectedSymbol, stocks],
   );
   const stockCurrency = selected?.currency ?? "USD";
@@ -240,11 +240,16 @@ export const ChartsPage = memo(function ChartsPage() {
             <select
               className="ta-buy-select"
               value={selectedExchange}
-              onChange={(event) => setSelectedExchange(event.target.value)}
+              onChange={(event) => {
+                setSelectedExchange(event.target.value as ExchangeId);
+                setQuery("");
+                setSelectedSymbol("");
+                setHoverIndex(null);
+              }}
             >
               {EXCHANGE_OPTIONS.map((exchange) => (
-                <option key={exchange} value={exchange}>
-                  {exchange}
+                <option key={exchange.id} value={exchange.id}>
+                  {exchange.label}
                 </option>
               ))}
             </select>
@@ -256,7 +261,10 @@ export const ChartsPage = memo(function ChartsPage() {
             <input
               className="ta-buy-search-input"
               value={query}
-              onChange={(event) => setQuery(event.target.value)}
+              onChange={(event) => {
+                setQuery(event.target.value);
+                setSelectedSymbol("");
+              }}
               placeholder="Search stock by symbol or company"
             />
             {query ? (
@@ -265,6 +273,7 @@ export const ChartsPage = memo(function ChartsPage() {
                 className="ta-buy-search-clear"
                 onClick={() => {
                   setQuery("");
+                  setSelectedSymbol("");
                   setHoverIndex(null);
                 }}
                 aria-label="Clear search"
@@ -275,7 +284,7 @@ export const ChartsPage = memo(function ChartsPage() {
           </div>
         </div>
       </div>
-      {query.trim() ? (
+      {query.trim() && !selectedSymbol ? (
         <div className="ta-watch-search-results">
           {stocks.length > 0 ? (
             stocks.slice(0, 12).map((stock) => (
@@ -302,6 +311,7 @@ export const ChartsPage = memo(function ChartsPage() {
         </div>
       ) : null}
 
+      {selected ? (
       <article className="ta-dashboard-section-card ta-charts-shell">
         {!selected ? (
           <p className="ta-market-watch-note">
@@ -416,10 +426,9 @@ export const ChartsPage = memo(function ChartsPage() {
           <p>{selected?.sector ?? "--"}</p>
           <p>Industry</p>
           <p>{selected?.industry ?? "--"}</p>
-          <p>Rows</p>
-          <p>{selected?.numRows ?? "--"}</p>
         </div>
       </article>
+      ) : null}
     </section>
   );
 });

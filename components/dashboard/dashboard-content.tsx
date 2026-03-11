@@ -74,7 +74,7 @@ export const DashboardContent = memo(function DashboardContent({
     return <TransactionHistoryTable transactions={transactions} />;
   }
 
-  if (activeTab === "Charts") {
+  if (activeTab === "Analysis") {
     return <ChartsPage />;
   }
 

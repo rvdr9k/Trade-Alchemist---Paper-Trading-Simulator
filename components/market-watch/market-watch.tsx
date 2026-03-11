@@ -4,7 +4,7 @@ import { memo, useEffect, useMemo, useState } from "react";
 import type { TradeDraft } from "@/components/dashboard/trade-modal";
 import type { PortfolioHolding } from "@/components/dashboard/portfolio-overview";
 import { searchStocks, type ApiStock } from "@/lib/api";
-import { EXCHANGE_OPTIONS, type ExchangeOption } from "@/lib/exchanges";
+import { EXCHANGE_OPTIONS, type ExchangeId } from "@/lib/exchanges";
 
 type MarketWatchProps = {
   isDarkMode: boolean;
@@ -17,7 +17,7 @@ export const MarketWatch = memo(function MarketWatch({
   holdings,
   onTradeAction,
 }: MarketWatchProps) {
-  const [selectedExchange, setSelectedExchange] = useState<ExchangeOption>("NSE");
+  const [selectedExchange, setSelectedExchange] = useState<ExchangeId>("NSE");
   const [query, setQuery] = useState("");
   const [searchResults, setSearchResults] = useState<ApiStock[]>([]);
   const [watchlistStocks, setWatchlistStocks] = useState<ApiStock[]>([]);
@@ -87,11 +87,14 @@ export const MarketWatch = memo(function MarketWatch({
               <select
                 className="ta-buy-select"
                 value={selectedExchange}
-                onChange={(event) => setSelectedExchange(event.target.value as ExchangeOption)}
+                onChange={(event) => {
+                  setSelectedExchange(event.target.value as ExchangeId);
+                  setQuery("");
+                }}
               >
                 {EXCHANGE_OPTIONS.map((exchange) => (
-                  <option key={exchange} value={exchange}>
-                    {exchange}
+                  <option key={exchange.id} value={exchange.id}>
+                    {exchange.label}
                   </option>
                 ))}
               </select>
