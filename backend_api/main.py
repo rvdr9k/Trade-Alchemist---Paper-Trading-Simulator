@@ -36,14 +36,26 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-EXCHANGE_ALIASES = {
-    "LONDON SE": "LSE",
-    "HONGKONG SE": "HKEX",
-    "HONG KONG SE": "HKEX",
-    "SHANGHAI SE": "SSE",
-    "AUSTRALIAN SE": "ASX",
-    "TORONTO SE": "TSX",
-    "TOKYO SE": "JPX",
+EXCHANGE_TO_METADATA_CODE = {
+    "NSE": "NSI",
+    "BSE": "BSE",
+    "NYSE": "NYQ",
+    "NASDAQ": "NMS",
+    "LSE": "LSE",
+    "HKEX": "HKG",
+    "SSE": "SSE",
+    "ASX": "ASX",
+    "TSX": "TOR",
+    "JPX": "JPX",
+    "NATIONAL STOCK EXCHANGE OF INDIA": "NSI",
+    "BOMBAY STOCK EXCHANGE": "BSE",
+    "NEW YORK STOCK EXCHANGE": "NYQ",
+    "LONDON STOCK EXCHANGE": "LSE",
+    "HONG KONG STOCK EXCHANGE": "HKG",
+    "SHANGHAI STOCK EXCHANGE": "SSE",
+    "AUSTRALIAN SECURITIES EXCHANGE": "ASX",
+    "TORONTO STOCK EXCHANGE": "TOR",
+    "TOKYO STOCK EXCHANGE": "JPX",
 }
 
 
@@ -51,18 +63,7 @@ def normalize_exchange(exchange: Optional[str]) -> Optional[str]:
     if not exchange:
         return None
     normalized = exchange.strip().upper()
-    return EXCHANGE_ALIASES.get(normalized, normalized)
-
-
-def exchange_candidates(exchange: Optional[str]) -> list[str]:
-    code = normalize_exchange(exchange)
-    if not code:
-        return []
-    values = {code}
-    for alias, mapped in EXCHANGE_ALIASES.items():
-        if mapped == code:
-            values.add(alias)
-    return sorted(values)
+    return EXCHANGE_TO_METADATA_CODE.get(normalized, normalized)
 
 @app.get("/prices/live")
 def get_live_prices():
@@ -90,10 +91,9 @@ def get_live_prices():
 @app.get("/stocks/search")
 def search_stocks(exchange: Optional[str] = None, q: Optional[str] = None, limit: int = 50):
     query_filter = {}
-    candidates = exchange_candidates(exchange)
-    if candidates:
-        escaped = [re.escape(value) for value in candidates]
-        query_filter["exchange"] = {"$regex": f"^({'|'.join(escaped)})$", "$options": "i"}
+    exchange_code = normalize_exchange(exchange)
+    if exchange_code:
+        query_filter["exchange"] = {"$regex": f"^{re.escape(exchange_code)}$", "$options": "i"}
 
     query_text = (q or "").strip()
     if query_text:

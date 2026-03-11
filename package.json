@@ -4,6 +4,8 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
+    "dev:clean": "rm -rf .next && next dev",
+    "dev:stable": "NEXT_DISABLE_FAST_REFRESH=1 next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
