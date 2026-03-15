@@ -22,6 +22,9 @@ bash
 
 pip install pymongo fastapi uvicorn python-dotenv
 
+In backend_api
+pip install firebase-admin
+
 **Run**
 Start Simulator
 
