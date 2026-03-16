@@ -19,6 +19,8 @@ BOOM_MULTIPLIER  = 1.5
 
 CRASH_BIAS = -0.002
 BOOM_BIAS  =  0.0015
+
+MOMENTUM_FACTOR = 0.3
 # ==========================================
 
 tick_time = datetime.now(timezone.utc)
@@ -56,39 +58,53 @@ else:
 
 print(f"Market state: {state} | Remaining ticks: {remaining}")
 
-# ---- Price update ----
 stocks = list(live_prices.find({}))
 updated = 0
 
 for stock in stocks:
+
     symbol = stock["symbol"]
     exchange = stock["exchange"]
     old_price = stock["price"]
 
+    # ---- Load volatility ----
     meta = metadata.find_one(
         {"symbol": symbol, "exchange": exchange},
         {"avgVolatility": 1}
     )
+
     volatility = meta.get("avgVolatility", 1.0) if meta else 1.0
 
     max_move = BASE_MOVE * volatility * regime_multiplier
-    pct_change = random.uniform(-max_move, max_move) + regime_bias
+
+    # ---- Gaussian movement instead of uniform ----
+    random_move = random.gauss(0, max_move)
+
+    # ---- Add slight momentum from previous price drift ----
+    drift = (old_price - stock.get("prev_price", old_price)) / old_price
+    momentum = drift * MOMENTUM_FACTOR
+
+    pct_change = random_move + momentum + regime_bias
 
     new_price = round(old_price * (1 + pct_change), 2)
+
     if new_price <= 0:
         continue
 
+    # ---- Update live price ----
     live_prices.update_one(
         {"_id": stock["_id"]},
         {
             "$set": {
                 "price": new_price,
+                "prev_price": old_price,
                 "last_update": tick_time,
-                "source": f"simulation_v3_{state.lower()}"
+                "source": f"simulation_v4_{state.lower()}"
             }
         }
     )
 
+    # ---- Write new historical candle ----
     historical_prices.insert_one({
         "symbol": symbol,
         "exchange": exchange,
