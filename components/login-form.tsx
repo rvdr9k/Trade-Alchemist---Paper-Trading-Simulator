@@ -11,6 +11,7 @@ import { Card } from "@/components/ui/card";
 import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
 import { auth } from "@/lib/firebase";
+import { getCurrentUser, initCurrentUser } from "@/lib/api";
 
 const loginSchema = z.object({
   email: z.string().email("Enter a valid email address."),
@@ -40,10 +41,17 @@ export function LoginForm() {
   const onSubmit = async (values: LoginValues) => {
     setAuthError(null);
     try {
-      await signInWithEmailAndPassword(auth, values.email, values.password);
+      const userCredential = await signInWithEmailAndPassword(auth, values.email, values.password);
+      const token = await userCredential.user.getIdToken();
+      await initCurrentUser(token);
+      await getCurrentUser(token);
       router.push("/dashboard");
-    } catch {
-      setAuthError("Could not sign in. Check your credentials and try again.");
+    } catch (error) {
+      const message =
+        error instanceof Error
+          ? error.message
+          : "Could not sign in. Check your credentials and try again.";
+      setAuthError(message);
     }
   };
 

@@ -14,6 +14,7 @@ import { Card } from "@/components/ui/card";
 import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
 import { auth } from "@/lib/firebase";
+import { getCurrentUser, initCurrentUser } from "@/lib/api";
 
 const signupSchema = z
   .object({
@@ -60,9 +61,16 @@ export function SignupForm() {
       await updateProfile(userCredential.user, {
         displayName: values.fullName,
       });
+      const token = await userCredential.user.getIdToken(true);
+      await initCurrentUser(token);
+      await getCurrentUser(token);
       router.push("/dashboard");
-    } catch {
-      setAuthError("Could not create account. Please try again.");
+    } catch (error) {
+      const message =
+        error instanceof Error
+          ? error.message
+          : "Could not create account. Please try again.";
+      setAuthError(message);
     }
   };
 

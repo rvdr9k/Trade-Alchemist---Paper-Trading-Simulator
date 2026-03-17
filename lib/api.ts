@@ -48,6 +48,93 @@ export type ApiOHLCPoint = {
   volume: number;
 };
 
+export type ApiUserProfile = {
+  uid: string;
+  email?: string;
+  displayName?: string;
+  photoURL?: string;
+  createdAt?: string;
+  updatedAt?: string;
+};
+
+export type ApiPortfolio = {
+  uid: string;
+  displayName?: string;
+  buyingPower: number;
+  totalPortfolioValue: number;
+  investmentValue: number;
+  unrealisedPL: number;
+  todaysPL: number;
+  createdAt?: string;
+  updatedAt?: string;
+};
+
+export type AuthenticatedMe = {
+  auth: Record<string, unknown>;
+  user: ApiUserProfile | null;
+  portfolio: ApiPortfolio | null;
+};
+
+export type InitCurrentUserResponse = {
+  status: string;
+  created?: {
+    user: boolean;
+    portfolio: boolean;
+  };
+  user: ApiUserProfile | null;
+  portfolio: ApiPortfolio | null;
+};
+
+export type ApiHolding = {
+  uid?: string;
+  displayName?: string;
+  ticker: string;
+  companyName?: string;
+  exchange?: string;
+  quantity?: number;
+  currentPrice?: number;
+  holdPrice?: number;
+  totalPL?: number;
+  updatedAt?: string;
+};
+
+export type ApiWatchlistItem = {
+  uid?: string;
+  displayName?: string;
+  ticker: string;
+  companyName: string;
+  exchange: string;
+  currentPrice?: number;
+  prevClose?: number;
+  change?: number;
+  percentChange?: number;
+  open?: number;
+  high?: number;
+  low?: number;
+  volume?: number;
+  updatedAt?: string;
+  createdAt?: string;
+};
+
+export type ApiTransaction = {
+  id: string;
+  uid?: string;
+  ticker: string;
+  company: string;
+  exchange?: string;
+  type: "buy" | "sell";
+  shares: number;
+  price: number;
+  totalValue?: number;
+  dateTime: string;
+};
+
+export type ExecuteTradeRequest = {
+  symbol: string;
+  exchange: string;
+  quantity: number;
+};
+
 async function fetchJson(path: string) {
   const response = await fetch(`${API_BASE_URL}${path}`, {
     method: "GET",
@@ -57,6 +144,69 @@ async function fetchJson(path: string) {
 
   if (!response.ok) {
     throw new Error(`Request failed with status ${response.status}`);
+  }
+
+  return response.json() as Promise<Record<string, unknown>>;
+}
+
+async function fetchAuthenticatedJson(path: string, token: string, method: "GET" | "POST" = "GET") {
+  const response = await fetch(`${API_BASE_URL}${path}`, {
+    method,
+    headers: {
+      Accept: "application/json",
+      Authorization: `Bearer ${token}`,
+    },
+    cache: "no-store",
+  });
+
+  if (!response.ok) {
+    let message = `Request failed with status ${response.status}`;
+    try {
+      const payload = (await response.json()) as Record<string, unknown>;
+      if (typeof payload.detail === "string") {
+        message = payload.detail;
+      } else if (typeof payload.message === "string") {
+        message = payload.message;
+      }
+    } catch {
+      // Ignore JSON parse failures and keep the HTTP status message.
+    }
+    throw new Error(message);
+  }
+
+  return response.json() as Promise<Record<string, unknown>>;
+}
+
+async function fetchAuthenticatedJsonWithBody(
+  path: string,
+  token: string,
+  method: "POST",
+  body: Record<string, unknown>,
+) {
+  const response = await fetch(`${API_BASE_URL}${path}`, {
+    method,
+    headers: {
+      Accept: "application/json",
+      "Content-Type": "application/json",
+      Authorization: `Bearer ${token}`,
+    },
+    body: JSON.stringify(body),
+    cache: "no-store",
+  });
+
+  if (!response.ok) {
+    let message = `Request failed with status ${response.status}`;
+    try {
+      const payload = (await response.json()) as Record<string, unknown>;
+      if (typeof payload.detail === "string") {
+        message = payload.detail;
+      } else if (typeof payload.message === "string") {
+        message = payload.message;
+      }
+    } catch {
+      // Ignore JSON parse failures and keep the HTTP status message.
+    }
+    throw new Error(message);
   }
 
   return response.json() as Promise<Record<string, unknown>>;
@@ -195,6 +345,91 @@ function normalizeHistoryItem(item: Record<string, unknown>): ApiOHLCPoint | nul
   return { date: date.toISOString(), open, high, low, close, volume };
 }
 
+function normalizeHoldingItem(item: Record<string, unknown>): ApiHolding | null {
+  const ticker = asString(item.ticker) ?? asString(item.symbol);
+  if (!ticker) {
+    return null;
+  }
+
+  return {
+    uid: asString(item.uid),
+    displayName: asString(item.displayName) ?? asString(item.display_name),
+    ticker,
+    companyName: asString(item.companyName) ?? asString(item.company_name),
+    exchange: asString(item.exchange),
+    quantity: asNumber(item.quantity) ?? asNumber(item.shares),
+    currentPrice: asNumber(item.currentPrice) ?? asNumber(item.current_price),
+    holdPrice: asNumber(item.holdPrice) ?? asNumber(item.hold_price),
+    totalPL: asNumber(item.totalPL) ?? asNumber(item.total_pl),
+    updatedAt: asString(item.updatedAt) ?? asString(item.updated_at),
+  };
+}
+
+function normalizeWatchlistItem(item: Record<string, unknown>): ApiWatchlistItem | null {
+  const ticker = asString(item.ticker) ?? asString(item.symbol);
+  const companyName =
+    asString(item.companyName) ?? asString(item.company_name) ?? ticker;
+  const exchange = asString(item.exchange) ?? "";
+
+  if (!ticker || !companyName) {
+    return null;
+  }
+
+  return {
+    uid: asString(item.uid),
+    displayName: asString(item.displayName) ?? asString(item.display_name),
+    ticker,
+    companyName,
+    exchange,
+    currentPrice:
+      asNumber(item.currentPrice) ??
+      asNumber(item.current_price) ??
+      asNumber(item.price),
+    prevClose: asNumber(item.prevClose) ?? asNumber(item.previousClose),
+    change: asNumber(item.change),
+    percentChange: asNumber(item.percentChange) ?? asNumber(item.pctChange),
+    open: asNumber(item.open),
+    high: asNumber(item.high),
+    low: asNumber(item.low),
+    volume: asNumber(item.volume),
+    updatedAt: asString(item.updatedAt) ?? asString(item.updated_at),
+    createdAt: asString(item.createdAt) ?? asString(item.created_at),
+  };
+}
+
+function normalizeTransactionItem(item: Record<string, unknown>): ApiTransaction | null {
+  const id = asString(item.id) ?? asString(item._id);
+  const ticker = asString(item.ticker) ?? asString(item.symbol);
+  const company = asString(item.company) ?? asString(item.companyName) ?? ticker;
+  const type = asString(item.type) ?? asString(item.side);
+  const dateTime =
+    asString(item.dateTime) ??
+    asString(item.timestamp) ??
+    asString(item.createdAt);
+  const shares = asNumber(item.shares) ?? asNumber(item.quantity);
+  const price = asNumber(item.price);
+
+  if (!id || !ticker || !company || !type || !dateTime || shares === undefined || price === undefined) {
+    return null;
+  }
+
+  return {
+    id,
+    uid: asString(item.uid),
+    ticker,
+    company,
+    exchange: asString(item.exchange),
+    type: type.toLowerCase() === "sell" ? "sell" : "buy",
+    shares,
+    price,
+    totalValue:
+      asNumber(item.totalValue) ??
+      asNumber(item.total_value) ??
+      shares * price,
+    dateTime,
+  };
+}
+
 export async function getBackendHealth(): Promise<BackendHealth> {
   try {
     const health = await fetchJson("/health");
@@ -252,4 +487,102 @@ export async function getStockHistory(params: { symbol: string; range?: string }
     .map(normalizeHistoryItem)
     .filter((item): item is ApiOHLCPoint => item !== null)
     .sort((a, b) => new Date(a.date).getTime() - new Date(b.date).getTime());
+}
+
+export async function initCurrentUser(token: string) {
+  const payload = await fetchAuthenticatedJson("/me/init", token, "POST");
+  return payload as unknown as InitCurrentUserResponse;
+}
+
+export async function getCurrentUser(token: string) {
+  const payload = await fetchAuthenticatedJson("/me", token, "GET");
+  return payload as unknown as AuthenticatedMe;
+}
+
+export async function getPortfolio(token: string) {
+  const payload = await fetchAuthenticatedJson("/portfolio", token, "GET");
+  const item = payload.data;
+  return (item && typeof item === "object" ? (item as ApiPortfolio) : null);
+}
+
+export async function getHoldings(token: string) {
+  const payload = await fetchAuthenticatedJson("/holdings", token, "GET");
+  return getArrayPayload(payload)
+    .map(normalizeHoldingItem)
+    .filter((item): item is ApiHolding => item !== null);
+}
+
+export async function getTransactions(token: string) {
+  const payload = await fetchAuthenticatedJson("/transactions", token, "GET");
+  return getArrayPayload(payload)
+    .map(normalizeTransactionItem)
+    .filter((item): item is ApiTransaction => item !== null);
+}
+
+export async function getWatchlist(token: string) {
+  const payload = await fetchAuthenticatedJson("/watchlist", token, "GET");
+  return getArrayPayload(payload)
+    .map(normalizeWatchlistItem)
+    .filter((item): item is ApiWatchlistItem => item !== null);
+}
+
+export async function addWatchlistItem(
+  token: string,
+  item: { symbol: string; exchange: string; companyName?: string },
+) {
+  const response = await fetch(`${API_BASE_URL}/watchlist`, {
+    method: "POST",
+    headers: {
+      Accept: "application/json",
+      "Content-Type": "application/json",
+      Authorization: `Bearer ${token}`,
+    },
+    body: JSON.stringify(item),
+    cache: "no-store",
+  });
+
+  if (!response.ok) {
+    throw new Error(`Request failed with status ${response.status}`);
+  }
+
+  const payload = (await response.json()) as Record<string, unknown>;
+  const record =
+    payload.data && typeof payload.data === "object"
+      ? normalizeWatchlistItem(payload.data as Record<string, unknown>)
+      : null;
+  return record;
+}
+
+export async function removeWatchlistItem(
+  token: string,
+  item: { symbol: string; exchange?: string },
+) {
+  const query = new URLSearchParams();
+  if (item.exchange) {
+    query.set("exchange", item.exchange);
+  }
+
+  const response = await fetch(
+    `${API_BASE_URL}/watchlist/${encodeURIComponent(item.symbol)}${query.toString() ? `?${query.toString()}` : ""}`,
+    {
+      method: "DELETE",
+      headers: {
+        Accept: "application/json",
+        Authorization: `Bearer ${token}`,
+      },
+      cache: "no-store",
+    },
+  );
+
+  if (!response.ok) {
+    throw new Error(`Request failed with status ${response.status}`);
+  }
+}
+
+export async function executeBuyTrade(token: string, request: ExecuteTradeRequest) {
+  return fetchAuthenticatedJsonWithBody("/trade/buy", token, "POST", request);
+}
+
+export async function executeSellTrade(token: string, request: ExecuteTradeRequest) {
+  return fetchAuthenticatedJsonWithBody("/trade/sell", token, "POST", request);
 }

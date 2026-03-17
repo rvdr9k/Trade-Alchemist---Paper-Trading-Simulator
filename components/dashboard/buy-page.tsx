@@ -361,6 +361,7 @@ export const BuyPage = memo(function BuyPage({ holdings, onTradeAction }: BuyPag
                   onTradeAction({
                     ticker: selectedStock.symbol,
                     company: selectedStock.companyName,
+                    exchange: selectedStock.exchange,
                     price: selectedStock.currentPrice,
                     type: "buy",
                   });
@@ -377,6 +378,7 @@ export const BuyPage = memo(function BuyPage({ holdings, onTradeAction }: BuyPag
                   onTradeAction({
                     ticker: selectedStock.symbol,
                     company: selectedStock.companyName,
+                    exchange: selectedStock.exchange,
                     price: selectedStock.currentPrice,
                     type: "sell",
                     maxShares: availableSellShares,

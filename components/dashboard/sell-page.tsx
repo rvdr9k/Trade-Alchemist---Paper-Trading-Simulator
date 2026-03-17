@@ -71,7 +71,8 @@ export const SellPage = memo(function SellPage({ holdings, onTradeAction }: Sell
                           }
                           onTradeAction({
                             ticker: holding.ticker,
-                            company: holding.ticker,
+                            company: holding.companyName ?? holding.ticker,
+                            exchange: holding.exchange,
                             price: holding.currentPrice,
                             type: "sell",
                             maxShares: holding.quantity,

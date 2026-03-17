@@ -3,24 +3,29 @@
 import { memo, useEffect, useMemo, useState } from "react";
 import type { TradeDraft } from "@/components/dashboard/trade-modal";
 import type { PortfolioHolding } from "@/components/dashboard/portfolio-overview";
-import { searchStocks, type ApiStock } from "@/lib/api";
+import { searchStocks, type ApiStock, type ApiWatchlistItem } from "@/lib/api";
 import { EXCHANGE_OPTIONS, type ExchangeId } from "@/lib/exchanges";
 
 type MarketWatchProps = {
   isDarkMode: boolean;
   holdings?: PortfolioHolding[];
+  watchlist: ApiWatchlistItem[];
   onTradeAction: (trade: TradeDraft) => void;
+  onAddWatchlist: (item: ApiWatchlistItem) => Promise<void>;
+  onRemoveWatchlist: (item: ApiWatchlistItem) => Promise<void>;
 };
 
 export const MarketWatch = memo(function MarketWatch({
   isDarkMode,
   holdings,
+  watchlist,
   onTradeAction,
+  onAddWatchlist,
+  onRemoveWatchlist,
 }: MarketWatchProps) {
   const [selectedExchange, setSelectedExchange] = useState<ExchangeId>("NSE");
   const [query, setQuery] = useState("");
   const [searchResults, setSearchResults] = useState<ApiStock[]>([]);
-  const [watchlistStocks, setWatchlistStocks] = useState<ApiStock[]>([]);
 
   useEffect(() => {
     let active = true;
@@ -56,24 +61,6 @@ export const MarketWatch = memo(function MarketWatch({
   const filteredStocks = useMemo(() => {
     return searchResults.filter((stock) => stock.symbol && stock.companyName);
   }, [searchResults]);
-
-  const addToWatchlist = (stock: ApiStock) => {
-    setWatchlistStocks((previous) => {
-      const exists = previous.some(
-        (item) => item.symbol === stock.symbol && item.exchange === stock.exchange,
-      );
-      if (exists) {
-        return previous;
-      }
-      return [...previous, stock];
-    });
-  };
-
-  const removeFromWatchlist = (symbol: string, exchange: string) => {
-    setWatchlistStocks((previous) =>
-      previous.filter((item) => !(item.symbol === symbol && item.exchange === exchange)),
-    );
-  };
 
   return (
     <section className="ta-dashboard-content">
@@ -137,7 +124,17 @@ export const MarketWatch = memo(function MarketWatch({
                       {stock.companyName} ({stock.exchange})
                     </p>
                   </div>
-                  <button type="button" className="ta-watch-add-btn" onClick={() => addToWatchlist(stock)}>
+                  <button
+                    type="button"
+                    className="ta-watch-add-btn"
+                    onClick={() =>
+                      onAddWatchlist({
+                        ticker: stock.symbol,
+                        companyName: stock.companyName,
+                        exchange: stock.exchange,
+                      })
+                    }
+                  >
                     +
                   </button>
                 </article>
@@ -171,15 +168,15 @@ export const MarketWatch = memo(function MarketWatch({
               </tr>
             </thead>
             <tbody>
-              {watchlistStocks.length > 0 ? (
-                watchlistStocks.map((stock) => {
+              {watchlist.length > 0 ? (
+                watchlist.map((stock) => {
                   const availableShares =
-                    holdings?.find((holding) => holding.ticker === stock.symbol)?.quantity ?? 0;
+                    holdings?.find((holding) => holding.ticker === stock.ticker)?.quantity ?? 0;
                   const canSell = availableShares > 0;
 
                   return (
-                  <tr key={`${stock.exchange}-${stock.symbol}`}>
-                    <td>{stock.symbol}</td>
+                  <tr key={`${stock.exchange}-${stock.ticker}`}>
+                    <td>{stock.ticker}</td>
                     <td>{stock.companyName}</td>
                     <td>{stock.exchange}</td>
 
@@ -210,8 +207,9 @@ export const MarketWatch = memo(function MarketWatch({
                           className="ta-table-action ta-trade-pill buy"
                           onClick={() =>
                             onTradeAction({
-                              ticker: stock.symbol,
+                              ticker: stock.ticker,
                               company: stock.companyName,
+                              exchange: stock.exchange,
                               price: stock.currentPrice ?? 0,
                               type: "buy",
                             })
@@ -226,8 +224,9 @@ export const MarketWatch = memo(function MarketWatch({
                           disabled={!canSell}
                           onClick={() =>
                             onTradeAction({
-                              ticker: stock.symbol,
+                              ticker: stock.ticker,
                               company: stock.companyName,
+                              exchange: stock.exchange,
                               price: stock.currentPrice ?? 0,
                               type: "sell",
                               maxShares: availableShares,
@@ -244,9 +243,7 @@ export const MarketWatch = memo(function MarketWatch({
                       <button
                         type="button"
                         className="ta-delete-icon"
-                        onClick={() =>
-                          removeFromWatchlist(stock.symbol, stock.exchange)
-                        }
+                        onClick={() => onRemoveWatchlist(stock)}
                       >
                         <img
                           src={isDarkMode ? "/bin-dark.png" : "/bin-light.png"}

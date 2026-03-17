@@ -15,6 +15,7 @@ import {
 import { MarketWatch } from "@/components/market-watch/market-watch";
 import { ChartsPage } from "@/components/dashboard/charts-page";
 import type { DashboardTab } from "@/components/dashboard/tabs";
+import type { ApiWatchlistItem } from "@/lib/api";
 
 type DashboardContentProps = {
   activeTab: DashboardTab;
@@ -22,7 +23,10 @@ type DashboardContentProps = {
   holdings?: PortfolioHolding[];
   isDarkMode: boolean;
   transactions: TransactionRecord[];
+  watchlist: ApiWatchlistItem[];
   onTradeAction: (trade: TradeDraft) => void;
+  onAddWatchlist: (item: ApiWatchlistItem) => Promise<void>;
+  onRemoveWatchlist: (item: ApiWatchlistItem) => Promise<void>;
 };
 
 export const DashboardContent = memo(function DashboardContent({
@@ -31,14 +35,20 @@ export const DashboardContent = memo(function DashboardContent({
   holdings,
   isDarkMode,
   transactions,
+  watchlist,
   onTradeAction,
+  onAddWatchlist,
+  onRemoveWatchlist,
 }: DashboardContentProps) {
   if (activeTab === "Dashboard") {
     return (
       <DashboardHome
         holdings={holdings}
         transactions={transactions}
+        watchlist={watchlist}
         onTradeAction={onTradeAction}
+        onAddWatchlist={onAddWatchlist}
+        onRemoveWatchlist={onRemoveWatchlist}
       />
     );
   }
@@ -49,12 +59,15 @@ export const DashboardContent = memo(function DashboardContent({
 
   if (activeTab === "Market Watch") {
     return (
-      <MarketWatch
-        isDarkMode={isDarkMode}
-        holdings={holdings}
-        onTradeAction={onTradeAction}
-      />
-    );
+        <MarketWatch
+          isDarkMode={isDarkMode}
+          holdings={holdings}
+          watchlist={watchlist}
+          onTradeAction={onTradeAction}
+          onAddWatchlist={onAddWatchlist}
+          onRemoveWatchlist={onRemoveWatchlist}
+        />
+      );
   }
 
   if (activeTab === "Buy") {

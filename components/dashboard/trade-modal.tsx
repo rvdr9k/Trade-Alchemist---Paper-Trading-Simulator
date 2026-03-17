@@ -6,6 +6,7 @@ import type { TransactionType } from "@/components/dashboard/transaction-history
 export type TradeDraft = {
   ticker: string;
   company: string;
+  exchange?: string;
   price: number;
   type: TransactionType;
   maxShares?: number;
@@ -14,7 +15,8 @@ export type TradeDraft = {
 type TradeModalProps = {
   trade: TradeDraft;
   onCancel: () => void;
-  onConfirm: (shares: number) => void;
+  onConfirm: (shares: number) => void | Promise<void>;
+  message?: string | null;
 };
 
 const feeRate = 0.02;
@@ -27,10 +29,11 @@ function formatCurrency(value: number) {
   }).format(value);
 }
 
-export function TradeModal({ trade, onCancel, onConfirm }: TradeModalProps) {
+export function TradeModal({ trade, onCancel, onConfirm, message }: TradeModalProps) {
   const defaultShares = trade.type === "sell" ? Math.min(trade.maxShares ?? 5, 5) : 1;
   const [shares, setShares] = useState<number>(defaultShares);
   const [error, setError] = useState<string | null>(null);
+  const [isSubmitting, setIsSubmitting] = useState(false);
 
   const safeShares = Number.isFinite(shares) && shares > 0 ? shares : 0;
 
@@ -44,7 +47,7 @@ export function TradeModal({ trade, onCancel, onConfirm }: TradeModalProps) {
     [gross, feeAmount, trade.type],
   );
 
-  const handleConfirm = () => {
+  const handleConfirm = async () => {
     if (safeShares < 1) {
       setError("Enter at least 1 share.");
       return;
@@ -54,7 +57,12 @@ export function TradeModal({ trade, onCancel, onConfirm }: TradeModalProps) {
       return;
     }
     setError(null);
-    onConfirm(safeShares);
+    setIsSubmitting(true);
+    try {
+      await onConfirm(safeShares);
+    } finally {
+      setIsSubmitting(false);
+    }
   };
 
   return (
@@ -98,6 +106,7 @@ export function TradeModal({ trade, onCancel, onConfirm }: TradeModalProps) {
           </div>
         </div>
         {error ? <p className="ta-error">{error}</p> : null}
+        {!error && message ? <p className="ta-error">{message}</p> : null}
 
         <div className="ta-trade-summary">
           {trade.type === "sell" ? (
@@ -126,9 +135,11 @@ export function TradeModal({ trade, onCancel, onConfirm }: TradeModalProps) {
             type="button"
             className={`ta-trade-submit-btn ta-trade-pill ${trade.type}`}
             onClick={handleConfirm}
-            disabled={safeShares < 1}
+            disabled={safeShares < 1 || isSubmitting}
           >
-            {trade.type === "buy" ? "Buy" : "Sell"} {safeShares} Shares
+            {isSubmitting
+              ? "Processing..."
+              : `${trade.type === "buy" ? "Buy" : "Sell"} ${safeShares} Shares`}
           </button>
         </div>
       </div>

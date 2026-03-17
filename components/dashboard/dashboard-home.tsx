@@ -4,13 +4,16 @@ import { memo, useEffect, useMemo, useState } from "react";
 import type { PortfolioHolding } from "@/components/dashboard/portfolio-overview";
 import type { TradeDraft } from "@/components/dashboard/trade-modal";
 import type { TransactionRecord } from "@/components/dashboard/transaction-history-table";
-import { searchStocks, type ApiStock } from "@/lib/api";
+import { searchStocks, type ApiStock, type ApiWatchlistItem } from "@/lib/api";
 import { EXCHANGE_OPTIONS, type ExchangeId } from "@/lib/exchanges";
 
 type DashboardHomeProps = {
   holdings?: PortfolioHolding[];
   transactions: TransactionRecord[];
+  watchlist: ApiWatchlistItem[];
   onTradeAction: (trade: TradeDraft) => void;
+  onAddWatchlist: (item: ApiWatchlistItem) => Promise<void>;
+  onRemoveWatchlist: (item: ApiWatchlistItem) => Promise<void>;
 };
 
 function formatDateTime(value: string) {
@@ -58,13 +61,15 @@ function getTone(value: number | undefined) {
 export const DashboardHome = memo(function DashboardHome({
   holdings,
   transactions,
+  watchlist,
   onTradeAction,
+  onAddWatchlist,
+  onRemoveWatchlist,
 }: DashboardHomeProps) {
   const [stocks, setStocks] = useState<ApiStock[]>([]);
   const [selectedExchange, setSelectedExchange] = useState<ExchangeId>(EXCHANGE_OPTIONS[0].id);
   const [query, setQuery] = useState("");
   const [selectedSymbol, setSelectedSymbol] = useState("");
-  const [watchlist, setWatchlist] = useState<ApiStock[]>([]);
 
   useEffect(() => {
     let active = true;
@@ -229,6 +234,7 @@ export const DashboardHome = memo(function DashboardHome({
                   onTradeAction({
                     ticker: selectedStock.symbol,
                     company: selectedStock.companyName,
+                    exchange: selectedStock.exchange,
                     price: selectedStock.currentPrice,
                     type: "buy",
                   });
@@ -239,16 +245,13 @@ export const DashboardHome = memo(function DashboardHome({
               <button
                 type="button"
                 className="ta-table-action"
-                onClick={() => {
-                  setWatchlist((previous) => {
-                    const exists = previous.some(
-                      (item) =>
-                        item.symbol === selectedStock.symbol &&
-                        item.exchange === selectedStock.exchange,
-                    );
-                    return exists ? previous : [...previous, selectedStock];
-                  });
-                }}
+                onClick={() =>
+                  onAddWatchlist({
+                    ticker: selectedStock.symbol,
+                    companyName: selectedStock.companyName,
+                    exchange: selectedStock.exchange,
+                  })
+                }
               >
                 Add to Watchlist
               </button>
@@ -313,8 +316,8 @@ export const DashboardHome = memo(function DashboardHome({
               <tbody>
                 {watchlist.length > 0 ? (
                   watchlist.map((stock) => (
-                    <tr key={`${stock.exchange}-${stock.symbol}`}>
-                      <td>{stock.symbol}</td>
+                    <tr key={`${stock.exchange}-${stock.ticker}`}>
+                      <td>{stock.ticker}</td>
                       <td>{stock.companyName}</td>
                       <td>{stock.exchange}</td>
                       <td>
@@ -326,12 +329,14 @@ export const DashboardHome = memo(function DashboardHome({
                               return;
                             }
                             onTradeAction({
-                              ticker: stock.symbol,
+                              ticker: stock.ticker,
                               company: stock.companyName,
+                              exchange: stock.exchange,
                               price: stock.currentPrice,
                               type: "buy",
                             });
                           }}
+                          disabled={!stock.currentPrice}
                         >
                           Buy
                         </button>
@@ -340,17 +345,7 @@ export const DashboardHome = memo(function DashboardHome({
                         <button
                           type="button"
                           className="ta-table-action danger"
-                          onClick={() =>
-                            setWatchlist((previous) =>
-                              previous.filter(
-                                (item) =>
-                                  !(
-                                    item.symbol === stock.symbol &&
-                                    item.exchange === stock.exchange
-                                  ),
-                              ),
-                            )
-                          }
+                          onClick={() => onRemoveWatchlist(stock)}
                         >
                           Remove
                         </button>

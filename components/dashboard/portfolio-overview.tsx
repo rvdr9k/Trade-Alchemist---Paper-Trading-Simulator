@@ -10,6 +10,9 @@ export type PortfolioMetrics = {
 
 export type PortfolioHolding = {
   ticker: string;
+  companyName?: string;
+  exchange?: string;
+  displayName?: string;
   quantity?: number;
   currentPrice?: number;
   holdPrice?: number;
