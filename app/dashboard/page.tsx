@@ -49,6 +49,7 @@ export default function DashboardPage() {
   const [watchlist, setWatchlist] = useState<ApiWatchlistItem[]>([]);
   const [buyingPower, setBuyingPower] = useState<number>(INITIAL_BUYING_POWER);
   const [totalPortfolioValue, setTotalPortfolioValue] = useState<number>(INITIAL_BUYING_POWER);
+  const [userName, setUserName] = useState<string>("");
 
   const handleLogout = useCallback(async () => {
     await signOut(auth);
@@ -282,6 +283,10 @@ export default function DashboardPage() {
         return;
       }
 
+      if (isMounted) {
+        setUserName(user.displayName || user.email?.split("@")[0] || "Trader");
+      }
+
       try {
         const token = await user.getIdToken();
         await initCurrentUser(token);
@@ -376,6 +381,7 @@ export default function DashboardPage() {
       <DashboardTopbar
         activeTab={activeTab}
         isDarkMode={isDarkMode}
+        userName={userName}
         onTabChange={handleTabChange}
         onThemeToggle={handleThemeToggle}
         onLogout={handleLogout}
