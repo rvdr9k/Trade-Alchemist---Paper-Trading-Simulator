@@ -6,6 +6,7 @@ import { ProfileMenu } from "@/components/dashboard/profile-menu";
 type DashboardTopbarProps = {
   activeTab: DashboardTab;
   isDarkMode: boolean;
+  userName?: string | null;
   onTabChange: (tab: DashboardTab) => void;
   onThemeToggle: () => void;
   onLogout: () => Promise<void>;
@@ -14,6 +15,7 @@ type DashboardTopbarProps = {
 export const DashboardTopbar = memo(function DashboardTopbar({
   activeTab,
   isDarkMode,
+  userName,
   onTabChange,
   onThemeToggle,
   onLogout,
@@ -49,6 +51,8 @@ export const DashboardTopbar = memo(function DashboardTopbar({
           onLogout={onLogout}
           isDarkMode={isDarkMode}
         />
+
+        {userName ? <p className="ta-topbar-greeting">Hi, {userName}</p> : null}
       </div>
     </header>
   );
