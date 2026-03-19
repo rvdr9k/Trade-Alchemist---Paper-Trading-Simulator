@@ -466,6 +466,14 @@ select:focus-visible {
   gap: var(--space-sm);
 }
 
+.ta-topbar-greeting {
+  margin: 0;
+  font-size: var(--text-lg);
+  font-weight: 600;
+  color: var(--text-primary);
+  white-space: nowrap;
+}
+
 /* ===== TABS ===== */
 .ta-tabs {
   display: flex;
@@ -1796,8 +1804,19 @@ button.ta-watch-result-item {
     font-size: var(--text-5xl);
   }
 
+  .ta-topbar-right {
+    width: 100%;
+    justify-content: flex-end;
+  }
+
   .ta-tab {
     font-size: var(--text-lg);
+  }
+}
+
+@media (max-width: 640px) {
+  .ta-topbar-greeting {
+    font-size: var(--text-base);
   }
 }
 
