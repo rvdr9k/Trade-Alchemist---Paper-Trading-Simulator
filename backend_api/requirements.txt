@@ -1,0 +1,5 @@
+fastapi==0.116.1
+uvicorn==0.35.0
+pymongo==4.16.0
+python-dotenv==0.21.0
+firebase-admin==7.2.0
