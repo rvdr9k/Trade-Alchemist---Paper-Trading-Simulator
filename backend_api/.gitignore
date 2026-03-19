@@ -22,4 +22,4 @@ venv/
 # =========================
 .vscode/
 .idea/
-firebae-service-account.json
+firebase-service-account.json
