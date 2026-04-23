@@ -13,6 +13,7 @@ type MarketWatchProps = {
   onTradeAction: (trade: TradeDraft) => void;
   onAddWatchlist: (item: ApiWatchlistItem) => Promise<void>;
   onRemoveWatchlist: (item: ApiWatchlistItem) => Promise<void>;
+  priceRefreshVersion?: number;
 };
 
 export const MarketWatch = memo(function MarketWatch({
@@ -22,10 +23,12 @@ export const MarketWatch = memo(function MarketWatch({
   onTradeAction,
   onAddWatchlist,
   onRemoveWatchlist,
+  priceRefreshVersion = 0,
 }: MarketWatchProps) {
   const [selectedExchange, setSelectedExchange] = useState<ExchangeId>("NSE");
   const [query, setQuery] = useState("");
   const [searchResults, setSearchResults] = useState<ApiStock[]>([]);
+  const [searchError, setSearchError] = useState<string | null>(null);
 
   useEffect(() => {
     let active = true;
@@ -33,6 +36,7 @@ export const MarketWatch = memo(function MarketWatch({
       const trimmed = query.trim();
       if (!trimmed) {
         setSearchResults([]);
+        setSearchError(null);
         return;
       }
       try {
@@ -44,11 +48,13 @@ export const MarketWatch = memo(function MarketWatch({
           return;
         }
         setSearchResults(results);
-      } catch {
+        setSearchError(null);
+      } catch (error) {
         if (!active) {
           return;
         }
         setSearchResults([]);
+        setSearchError(error instanceof Error ? error.message : "Stock search failed.");
       }
     };
     const timeout = window.setTimeout(loadStocks, 250);
@@ -56,7 +62,7 @@ export const MarketWatch = memo(function MarketWatch({
       active = false;
       window.clearTimeout(timeout);
     };
-  }, [query, selectedExchange]);
+  }, [query, selectedExchange, priceRefreshVersion]);
 
   const filteredStocks = useMemo(() => {
     return searchResults.filter((stock) => stock.symbol && stock.companyName);
@@ -139,6 +145,10 @@ export const MarketWatch = memo(function MarketWatch({
                   </button>
                 </article>
               ))
+            ) : searchError ? (
+              <p className="ta-market-watch-note">
+                {searchError}
+              </p>
             ) : (
               <p className="ta-market-watch-note">
                 No matching stocks found. 
