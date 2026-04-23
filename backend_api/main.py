@@ -1,10 +1,11 @@
 import os
 import re
+import asyncio
 import webbrowser
 import threading
 from datetime import datetime, timezone
 from typing import Optional
-from contextlib import asynccontextmanager
+from contextlib import asynccontextmanager, suppress
 from fastapi.responses import JSONResponse
 from fastapi import Depends, FastAPI, HTTPException, Request
 from fastapi.middleware.cors import CORSMiddleware
@@ -22,6 +23,46 @@ from db.mongo_client import (
 )
 from trade_executor import execute_trade
 from auth_utils import get_current_user
+from simulator_tick import run_price_tick
+
+
+PRICE_TICK_INTERVAL_SECONDS = int(os.getenv("PRICE_TICK_INTERVAL_SECONDS", "30"))
+ENABLE_PRICE_TICKER = os.getenv("ENABLE_PRICE_TICKER", "false").lower() == "true"
+PRICE_TICKER_TASK = None
+
+
+async def price_ticker_loop():
+    while True:
+        await asyncio.sleep(PRICE_TICK_INTERVAL_SECONDS)
+        try:
+            summary = run_price_tick()
+            print(
+                "Price tick complete | "
+                f"Updated {summary['updated']} stocks | State {summary['state']}"
+            )
+        except Exception as exc:
+            print(f"Price tick failed: {exc}")
+
+
+def is_price_ticker_running():
+    return PRICE_TICKER_TASK is not None and not PRICE_TICKER_TASK.done()
+
+
+def start_price_ticker():
+    global PRICE_TICKER_TASK
+    if is_price_ticker_running():
+        return False
+    PRICE_TICKER_TASK = asyncio.create_task(price_ticker_loop())
+    return True
+
+
+def stop_price_ticker():
+    global PRICE_TICKER_TASK
+    if not is_price_ticker_running():
+        PRICE_TICKER_TASK = None
+        return False
+    PRICE_TICKER_TASK.cancel()
+    return True
 
 
 @asynccontextmanager
@@ -34,7 +75,16 @@ async def lifespan(app: FastAPI):
 
         threading.Timer(1.5, lambda: webbrowser.open(url)).start()
 
-    yield
+    if ENABLE_PRICE_TICKER:
+        start_price_ticker()
+
+    try:
+        yield
+    finally:
+        if PRICE_TICKER_TASK:
+            PRICE_TICKER_TASK.cancel()
+            with suppress(asyncio.CancelledError):
+                await PRICE_TICKER_TASK
 
     # --- shutdown logic (optional) ---
 
@@ -554,6 +604,44 @@ def search_stocks(exchange: Optional[str] = None, q: Optional[str] = None, limit
 @app.get("/market/state")
 def get_market_state():
     return market_state.find_one({}, {"_id": 0})
+
+
+@app.get("/simulation/status")
+def get_simulation_status():
+    state_doc = market_state.find_one({}, {"_id": 0}) or {}
+    return {
+        "enabled": is_price_ticker_running(),
+        "enabledByDefault": ENABLE_PRICE_TICKER,
+        "intervalSeconds": PRICE_TICK_INTERVAL_SECONDS,
+        "marketState": state_doc,
+    }
+
+
+@app.post("/simulation/tick")
+def run_simulation_tick():
+    return {"status": "ok", "data": run_price_tick()}
+
+
+@app.post("/simulation/start")
+def start_simulation():
+    started = start_price_ticker()
+    return {
+        "status": "ok",
+        "enabled": is_price_ticker_running(),
+        "started": started,
+        "intervalSeconds": PRICE_TICK_INTERVAL_SECONDS,
+    }
+
+
+@app.post("/simulation/stop")
+def stop_simulation():
+    stopped = stop_price_ticker()
+    return {
+        "status": "ok",
+        "enabled": is_price_ticker_running(),
+        "stopped": stopped,
+        "intervalSeconds": PRICE_TICK_INTERVAL_SECONDS,
+    }
 
 @app.get("/prices/history/{symbol}")
 def get_price_history(symbol: str):
