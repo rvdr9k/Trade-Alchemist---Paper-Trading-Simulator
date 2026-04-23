@@ -6,6 +6,10 @@ import { EXCHANGE_OPTIONS, type ExchangeId } from "@/lib/exchanges";
 const rangeOptions = ["1D", "5D", "1M", "6M", "YTD", "1Y", "5Y"] as const;
 type RangeOption = (typeof rangeOptions)[number];
 
+type ChartsPageProps = {
+  priceRefreshVersion?: number;
+};
+
 function formatCurrency(value: number | undefined, currency: string) {
   if (value === undefined) {
     return "--";
@@ -90,7 +94,9 @@ function getSeriesByRange(series: ApiOHLCPoint[], range: RangeOption) {
   return series.filter((point) => new Date(point.date) >= from);
 }
 
-export const ChartsPage = memo(function ChartsPage() {
+export const ChartsPage = memo(function ChartsPage({
+  priceRefreshVersion = 0,
+}: ChartsPageProps) {
   const [stocks, setStocks] = useState<ApiStock[]>([]);
   const [selectedExchange, setSelectedExchange] = useState<ExchangeId>(
     EXCHANGE_OPTIONS[0].id,
@@ -102,6 +108,7 @@ export const ChartsPage = memo(function ChartsPage() {
   const [historySeries, setHistorySeries] = useState<ApiOHLCPoint[]>([]);
   const [isLoadingStocks, setIsLoadingStocks] = useState(false);
   const [isLoadingHistory, setIsLoadingHistory] = useState(false);
+  const [searchError, setSearchError] = useState<string | null>(null);
 
   useEffect(() => {
     let active = true;
@@ -115,9 +122,11 @@ export const ChartsPage = memo(function ChartsPage() {
         });
         if (!active) return;
         setStocks(results);
-      } catch {
+        setSearchError(null);
+      } catch (error) {
         if (!active) return;
         setStocks([]);
+        setSearchError(error instanceof Error ? error.message : "Stock search failed.");
       } finally {
         if (active) setIsLoadingStocks(false);
       }
@@ -128,7 +137,7 @@ export const ChartsPage = memo(function ChartsPage() {
       active = false;
       window.clearTimeout(timeout);
     };
-  }, [selectedExchange, query]);
+  }, [selectedExchange, query, priceRefreshVersion]);
 
   useEffect(() => {
     if (stocks.length === 0 || !query.trim()) {
@@ -169,11 +178,19 @@ export const ChartsPage = memo(function ChartsPage() {
         if (active) setIsLoadingHistory(false);
       }
     };
+
+    if (!selected?.symbol) {
+      setHistorySeries([]);
+      return;
+    }
+
     void loadHistory();
+    const interval = window.setInterval(loadHistory, 30000);
     return () => {
       active = false;
+      window.clearInterval(interval);
     };
-  }, [selected?.symbol, activeRange]);
+  }, [selected?.symbol, activeRange, priceRefreshVersion]);
 
   const rangeSeries = useMemo(
     () => getSeriesByRange(historySeries, activeRange),
@@ -187,8 +204,11 @@ export const ChartsPage = memo(function ChartsPage() {
   const diff = latest && first ? latest.close - first.close : 0;
   const diffPct = first && first.close !== 0 ? (diff / first.close) * 100 : 0;
   const tone = diff >= 0 ? "positive" : "negative";
-  const high52w = Math.max(...(historySeries.slice(-252).map((row) => row.high) ?? [0]));
-  const low52w = Math.min(...(historySeries.slice(-252).map((row) => row.low) ?? [0]));
+  const recentYearSeries = historySeries.slice(-252);
+  const high52w =
+    recentYearSeries.length > 0 ? Math.max(...recentYearSeries.map((row) => row.high)) : undefined;
+  const low52w =
+    recentYearSeries.length > 0 ? Math.min(...recentYearSeries.map((row) => row.low)) : undefined;
   const activePoint =
     hoverIndex !== null && rangeSeries[hoverIndex] ? rangeSeries[hoverIndex] : latest;
   const chartDate = formatChartDate(activePoint?.date);
@@ -305,6 +325,8 @@ export const ChartsPage = memo(function ChartsPage() {
                 </div>
               </button>
             ))
+          ) : searchError ? (
+            <p className="ta-market-watch-note">{searchError}</p>
           ) : (
             <p className="ta-market-watch-note">No matching stocks from backend.</p>
           )}

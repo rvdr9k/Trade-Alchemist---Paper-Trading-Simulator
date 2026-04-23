@@ -11,6 +11,7 @@ type RangeOption = (typeof rangeOptions)[number];
 type BuyPageProps = {
   holdings?: PortfolioHolding[];
   onTradeAction: (trade: TradeDraft) => void;
+  priceRefreshVersion?: number;
 };
 
 function formatCurrency(value: number | undefined, currency = "USD") {
@@ -72,7 +73,11 @@ function toChartPath(values: number[], width: number, height: number) {
   return { path, min, max };
 }
 
-export const BuyPage = memo(function BuyPage({ holdings, onTradeAction }: BuyPageProps) {
+export const BuyPage = memo(function BuyPage({
+  holdings,
+  onTradeAction,
+  priceRefreshVersion = 0,
+}: BuyPageProps) {
   const [selectedExchange, setSelectedExchange] = useState<ExchangeId>("NSE");
   const [query, setQuery] = useState("");
   const [selectedSymbol, setSelectedSymbol] = useState("");
@@ -80,6 +85,7 @@ export const BuyPage = memo(function BuyPage({ holdings, onTradeAction }: BuyPag
   const [hoverIndex, setHoverIndex] = useState<number | null>(null);
   const [stocks, setStocks] = useState<ApiStock[]>([]);
   const [historySeries, setHistorySeries] = useState<ApiOHLCPoint[]>([]);
+  const [searchError, setSearchError] = useState<string | null>(null);
 
   useEffect(() => {
     let active = true;
@@ -89,9 +95,15 @@ export const BuyPage = memo(function BuyPage({ holdings, onTradeAction }: BuyPag
           exchange: selectedExchange,
           q: query.trim() || undefined,
         });
-        if (active) setStocks(results);
-      } catch {
-        if (active) setStocks([]);
+        if (active) {
+          setStocks(results);
+          setSearchError(null);
+        }
+      } catch (error) {
+        if (active) {
+          setStocks([]);
+          setSearchError(error instanceof Error ? error.message : "Stock search failed.");
+        }
       }
     };
     const timeout = window.setTimeout(loadStocks, 250);
@@ -99,7 +111,7 @@ export const BuyPage = memo(function BuyPage({ holdings, onTradeAction }: BuyPag
       active = false;
       window.clearTimeout(timeout);
     };
-  }, [selectedExchange, query]);
+  }, [selectedExchange, query, priceRefreshVersion]);
 
   useEffect(() => {
     if (stocks.length === 0 || !query.trim()) {
@@ -135,11 +147,47 @@ export const BuyPage = memo(function BuyPage({ holdings, onTradeAction }: BuyPag
         if (active) setHistorySeries([]);
       }
     };
+
+    if (!selectedStock?.symbol) {
+      setHistorySeries([]);
+      return;
+    }
+
     void loadHistory();
+    const interval = window.setInterval(loadHistory, 30000);
     return () => {
       active = false;
+      window.clearInterval(interval);
     };
-  }, [selectedStock?.symbol, activeRange]);
+  }, [selectedStock?.symbol, activeRange, priceRefreshVersion]);
+
+  useEffect(() => {
+    if (!selectedSymbol) {
+      return;
+    }
+
+    let active = true;
+    const refreshSelectedStock = async () => {
+      try {
+        const results = await searchStocks({
+          exchange: selectedExchange,
+          q: selectedSymbol,
+        });
+        if (active) {
+          setStocks(results);
+          setSearchError(null);
+        }
+      } catch {
+        // Keep the currently selected stock visible if one refresh fails.
+      }
+    };
+
+    const interval = window.setInterval(refreshSelectedStock, 30000);
+    return () => {
+      active = false;
+      window.clearInterval(interval);
+    };
+  }, [selectedExchange, selectedSymbol, priceRefreshVersion]);
 
   const availableSellShares =
     holdings?.find((holding) => holding.ticker === selectedStock?.symbol)?.quantity ?? 0;
@@ -155,6 +203,9 @@ export const BuyPage = memo(function BuyPage({ holdings, onTradeAction }: BuyPag
     () => getSeriesByRange(historySeries, activeRange),
     [historySeries, activeRange],
   );
+  const latestHistoryPoint = historySeries[historySeries.length - 1];
+  const previousHistoryPoint =
+    historySeries.length > 1 ? historySeries[historySeries.length - 2] : undefined;
   const chartValues = chartRangeSeries.map((point) => point.close);
   const chartGeometry = toChartPath(chartValues, 940, 300);
   const chartPath = chartGeometry.path;
@@ -267,6 +318,8 @@ export const BuyPage = memo(function BuyPage({ holdings, onTradeAction }: BuyPag
                 </div>
               </button>
             ))
+          ) : searchError ? (
+            <p className="ta-market-watch-note">{searchError}</p>
           ) : (
             <p className="ta-market-watch-note">No matching stocks from backend.</p>
           )}
@@ -394,17 +447,21 @@ export const BuyPage = memo(function BuyPage({ holdings, onTradeAction }: BuyPag
             <h3 className="ta-buy-panel-title">Key Statistics</h3>
             <div className="ta-buy-stats-grid">
               <p>Open</p>
-              <p>{formatCurrency(selectedStock?.open, stockCurrency)}</p>
+              <p>{formatCurrency(latestHistoryPoint?.open, stockCurrency)}</p>
               <p>High</p>
-              <p>{formatCurrency(selectedStock?.high, stockCurrency)}</p>
+              <p>{formatCurrency(latestHistoryPoint?.high, stockCurrency)}</p>
               <p>Low</p>
-              <p>{formatCurrency(selectedStock?.low, stockCurrency)}</p>
+              <p>{formatCurrency(latestHistoryPoint?.low, stockCurrency)}</p>
               <p>Close</p>
-              <p>{formatCurrency(selectedStock?.close, stockCurrency)}</p>
+              <p>{formatCurrency(latestHistoryPoint?.close, stockCurrency)}</p>
               <p>Previous Close</p>
-              <p>{formatCurrency(selectedStock?.prevClose, stockCurrency)}</p>
+              <p>{formatCurrency(previousHistoryPoint?.close ?? selectedStock?.prevClose, stockCurrency)}</p>
               <p>Volume</p>
-              <p>{selectedStock?.volume ? new Intl.NumberFormat("en-US").format(selectedStock.volume) : "--"}</p>
+              <p>
+                {latestHistoryPoint?.volume
+                  ? new Intl.NumberFormat("en-US").format(latestHistoryPoint.volume)
+                  : "--"}
+              </p>
               <p>Avg Volatility</p>
               <p>{selectedStock?.avgVolatility?.toFixed(2) ?? "--"}</p>
               <p>52-Week High</p>

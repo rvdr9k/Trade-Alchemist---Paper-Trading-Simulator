@@ -14,6 +14,7 @@ type DashboardHomeProps = {
   onTradeAction: (trade: TradeDraft) => void;
   onAddWatchlist: (item: ApiWatchlistItem) => Promise<void>;
   onRemoveWatchlist: (item: ApiWatchlistItem) => Promise<void>;
+  priceRefreshVersion?: number;
 };
 
 function formatDateTime(value: string) {
@@ -65,11 +66,13 @@ export const DashboardHome = memo(function DashboardHome({
   onTradeAction,
   onAddWatchlist,
   onRemoveWatchlist,
+  priceRefreshVersion = 0,
 }: DashboardHomeProps) {
   const [stocks, setStocks] = useState<ApiStock[]>([]);
   const [selectedExchange, setSelectedExchange] = useState<ExchangeId>(EXCHANGE_OPTIONS[0].id);
   const [query, setQuery] = useState("");
   const [selectedSymbol, setSelectedSymbol] = useState("");
+  const [searchError, setSearchError] = useState<string | null>(null);
 
   useEffect(() => {
     let active = true;
@@ -84,11 +87,13 @@ export const DashboardHome = memo(function DashboardHome({
           return;
         }
         setStocks(results);
-      } catch {
+        setSearchError(null);
+      } catch (error) {
         if (!active) {
           return;
         }
         setStocks([]);
+        setSearchError(error instanceof Error ? error.message : "Stock search failed.");
       }
     };
 
@@ -97,7 +102,7 @@ export const DashboardHome = memo(function DashboardHome({
       active = false;
       window.clearTimeout(timeout);
     };
-  }, [selectedExchange, query]);
+  }, [selectedExchange, query, priceRefreshVersion]);
 
   const filteredStocks = useMemo(() => {
     const trimmed = query.trim().toLowerCase();
@@ -204,6 +209,8 @@ export const DashboardHome = memo(function DashboardHome({
                   </div>
                 </button>
               ))
+            ) : searchError ? (
+              <p className="ta-market-watch-note">{searchError}</p>
             ) : (
               <p className="ta-market-watch-note">No matching stocks from backend.</p>
             )}

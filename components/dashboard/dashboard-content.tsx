@@ -27,6 +27,7 @@ type DashboardContentProps = {
   onTradeAction: (trade: TradeDraft) => void;
   onAddWatchlist: (item: ApiWatchlistItem) => Promise<void>;
   onRemoveWatchlist: (item: ApiWatchlistItem) => Promise<void>;
+  priceRefreshVersion: number;
 };
 
 export const DashboardContent = memo(function DashboardContent({
@@ -39,6 +40,7 @@ export const DashboardContent = memo(function DashboardContent({
   onTradeAction,
   onAddWatchlist,
   onRemoveWatchlist,
+  priceRefreshVersion,
 }: DashboardContentProps) {
   if (activeTab === "Dashboard") {
     return (
@@ -49,6 +51,7 @@ export const DashboardContent = memo(function DashboardContent({
         onTradeAction={onTradeAction}
         onAddWatchlist={onAddWatchlist}
         onRemoveWatchlist={onRemoveWatchlist}
+        priceRefreshVersion={priceRefreshVersion}
       />
     );
   }
@@ -66,6 +69,7 @@ export const DashboardContent = memo(function DashboardContent({
           onTradeAction={onTradeAction}
           onAddWatchlist={onAddWatchlist}
           onRemoveWatchlist={onRemoveWatchlist}
+          priceRefreshVersion={priceRefreshVersion}
         />
       );
   }
@@ -75,6 +79,7 @@ export const DashboardContent = memo(function DashboardContent({
       <BuyPage
         holdings={holdings}
         onTradeAction={onTradeAction}
+        priceRefreshVersion={priceRefreshVersion}
       />
     );
   }
@@ -88,7 +93,7 @@ export const DashboardContent = memo(function DashboardContent({
   }
 
   if (activeTab === "Analysis") {
-    return <ChartsPage />;
+    return <ChartsPage priceRefreshVersion={priceRefreshVersion} />;
   }
 
   return null;
