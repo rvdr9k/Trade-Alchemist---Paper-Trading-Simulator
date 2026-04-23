@@ -18,12 +18,16 @@ import {
   executeBuyTrade,
   executeSellTrade,
   getBackendHealth,
+  getSimulationStatus,
   initCurrentUser,
   getHoldings,
   getPortfolio,
   getTransactions,
   getWatchlist,
   removeWatchlistItem,
+  runSimulationTick,
+  startSimulationTicker,
+  stopSimulationTicker,
   type ApiWatchlistItem,
 } from "@/lib/api";
 import {
@@ -31,6 +35,34 @@ import {
   INITIAL_BUYING_POWER,
   publishPortfolioSnapshot,
 } from "@/lib/portfolio-store";
+
+
+function mapHolding(holding: Awaited<ReturnType<typeof getHoldings>>[number]): PortfolioHolding {
+  return {
+    ticker: holding.ticker,
+    companyName: holding.companyName,
+    exchange: holding.exchange,
+    displayName: holding.displayName,
+    quantity: holding.quantity,
+    currentPrice: holding.currentPrice,
+    holdPrice: holding.holdPrice,
+    totalPL: holding.totalPL,
+  };
+}
+
+function mapTransaction(
+  transaction: Awaited<ReturnType<typeof getTransactions>>[number],
+): TransactionRecord {
+  return {
+    id: transaction.id,
+    dateTime: transaction.dateTime,
+    ticker: transaction.ticker,
+    company: transaction.company,
+    type: transaction.type,
+    shares: transaction.shares,
+    price: transaction.price,
+  };
+}
 
 
 
@@ -50,6 +82,10 @@ export default function DashboardPage() {
   const [buyingPower, setBuyingPower] = useState<number>(INITIAL_BUYING_POWER);
   const [totalPortfolioValue, setTotalPortfolioValue] = useState<number>(INITIAL_BUYING_POWER);
   const [userName, setUserName] = useState<string>("");
+  const [isRefreshingPrices, setIsRefreshingPrices] = useState(false);
+  const [priceRefreshVersion, setPriceRefreshVersion] = useState(0);
+  const [isAutoTickerEnabled, setIsAutoTickerEnabled] = useState(false);
+  const [isTogglingTicker, setIsTogglingTicker] = useState(false);
 
   const handleLogout = useCallback(async () => {
     await signOut(auth);
@@ -63,6 +99,78 @@ export default function DashboardPage() {
   const handleTabChange = useCallback((tab: DashboardTab) => {
     setActiveTab(tab);
   }, []);
+
+  const refreshLiveAccountData = useCallback(async () => {
+    const user = auth.currentUser;
+    if (!user) {
+      return;
+    }
+
+    const token = await user.getIdToken();
+    const [portfolio, holdingsData, watchlistData] = await Promise.allSettled([
+      getPortfolio(token),
+      getHoldings(token),
+      getWatchlist(token),
+    ]);
+
+    if (portfolio.status === "fulfilled") {
+      setBuyingPower(portfolio.value?.buyingPower ?? INITIAL_BUYING_POWER);
+      setTotalPortfolioValue(portfolio.value?.totalPortfolioValue ?? INITIAL_BUYING_POWER);
+    }
+    if (holdingsData.status === "fulfilled") {
+      setHoldings(holdingsData.value.map(mapHolding));
+    }
+    if (watchlistData.status === "fulfilled") {
+      setWatchlist(watchlistData.value);
+    }
+  }, []);
+
+  const handleRefreshPrices = useCallback(async () => {
+    setIsRefreshingPrices(true);
+    setTradeMessage(null);
+    try {
+      await runSimulationTick();
+      setPriceRefreshVersion((version) => version + 1);
+      setBackendStatus("connected");
+      setBackendMessage("Prices refreshed");
+      void refreshLiveAccountData().catch(() => {
+        setBackendMessage("Prices refreshed, account refresh is delayed");
+      });
+    } catch (error) {
+      setBackendStatus("disconnected");
+      setBackendMessage(error instanceof Error ? error.message : "Price refresh failed");
+    } finally {
+      setIsRefreshingPrices(false);
+    }
+  }, [refreshLiveAccountData]);
+
+  const refreshSimulationStatus = useCallback(async () => {
+    const status = await getSimulationStatus();
+    if (status) {
+      setIsAutoTickerEnabled(status.enabled);
+    }
+  }, []);
+
+  const handleAutoTickerToggle = useCallback(async () => {
+    setIsTogglingTicker(true);
+    try {
+      if (isAutoTickerEnabled) {
+        await stopSimulationTicker();
+        setIsAutoTickerEnabled(false);
+        setBackendMessage("Auto ticker stopped");
+      } else {
+        await startSimulationTicker();
+        setIsAutoTickerEnabled(true);
+        setBackendMessage("Auto ticker started");
+      }
+      setBackendStatus("connected");
+    } catch (error) {
+      setBackendStatus("disconnected");
+      setBackendMessage(error instanceof Error ? error.message : "Could not toggle auto ticker");
+    } finally {
+      setIsTogglingTicker(false);
+    }
+  }, [isAutoTickerEnabled]);
 
   const handleTradeAction = useCallback((trade: TradeDraft) => {
     setTradeMessage(null);
@@ -182,29 +290,8 @@ export default function DashboardPage() {
           getTransactions(token),
         ]);
 
-        setHoldings(
-          holdingsData.map((holding) => ({
-            ticker: holding.ticker,
-            companyName: holding.companyName,
-            exchange: holding.exchange,
-            displayName: holding.displayName,
-            quantity: holding.quantity,
-            currentPrice: holding.currentPrice,
-            holdPrice: holding.holdPrice,
-            totalPL: holding.totalPL,
-          })),
-        );
-        setTransactions(
-          transactionsData.map((transaction) => ({
-            id: transaction.id,
-            dateTime: transaction.dateTime,
-            ticker: transaction.ticker,
-            company: transaction.company,
-            type: transaction.type,
-            shares: transaction.shares,
-            price: transaction.price,
-          })),
-        );
+        setHoldings(holdingsData.map(mapHolding));
+        setTransactions(transactionsData.map(mapTransaction));
         setBuyingPower(portfolio?.buyingPower ?? INITIAL_BUYING_POWER);
         setTotalPortfolioValue(portfolio?.totalPortfolioValue ?? INITIAL_BUYING_POWER);
         setTradeMessage(null);
@@ -250,6 +337,9 @@ export default function DashboardPage() {
       }
       setBackendStatus(result.ok ? "connected" : "disconnected");
       setBackendMessage(result.message ?? (result.ok ? "Backend connected" : "Backend unreachable"));
+      if (result.ok) {
+        void refreshSimulationStatus();
+      }
     };
 
     void checkBackend();
@@ -259,7 +349,7 @@ export default function DashboardPage() {
       isMounted = false;
       window.clearInterval(interval);
     };
-  }, []);
+  }, [refreshSimulationStatus]);
 
   useEffect(() => {
     publishPortfolioSnapshot({
@@ -303,31 +393,10 @@ export default function DashboardPage() {
           return;
         }
 
-        setHoldings(
-          holdingsData.status === "fulfilled"
-            ? holdingsData.value.map((holding) => ({
-                ticker: holding.ticker,
-                companyName: holding.companyName,
-                exchange: holding.exchange,
-                displayName: holding.displayName,
-                quantity: holding.quantity,
-                currentPrice: holding.currentPrice,
-                holdPrice: holding.holdPrice,
-                totalPL: holding.totalPL,
-              }))
-            : [],
-        );
+        setHoldings(holdingsData.status === "fulfilled" ? holdingsData.value.map(mapHolding) : []);
         setTransactions(
           transactionsData.status === "fulfilled"
-            ? transactionsData.value.map((transaction) => ({
-                id: transaction.id,
-                dateTime: transaction.dateTime,
-                ticker: transaction.ticker,
-                company: transaction.company,
-                type: transaction.type,
-                shares: transaction.shares,
-                price: transaction.price,
-              }))
+            ? transactionsData.value.map(mapTransaction)
             : [],
         );
         setWatchlist(watchlistData.status === "fulfilled" ? watchlistData.value : []);
@@ -376,6 +445,28 @@ export default function DashboardPage() {
     };
   }, [router]);
 
+  useEffect(() => {
+    let isMounted = true;
+    const refreshIfMounted = async () => {
+      try {
+        await refreshLiveAccountData();
+      } catch {
+        // Keep the current screen stable; backend health polling shows connection status.
+      }
+    };
+
+    const interval = window.setInterval(() => {
+      if (isMounted) {
+        void refreshIfMounted();
+      }
+    }, 30000);
+
+    return () => {
+      isMounted = false;
+      window.clearInterval(interval);
+    };
+  }, [refreshLiveAccountData]);
+
   return (
     <main className={`ta-dashboard ${isDarkMode ? "dark" : "light"}`}>
       <DashboardTopbar
@@ -391,6 +482,29 @@ export default function DashboardPage() {
           Backend: {backendStatus === "connected" ? "Connected" : "Disconnected"}
         </span>
         <span className="ta-backend-status-text">{backendMessage}</span>
+        <span className={`ta-auto-ticker-pill ${isAutoTickerEnabled ? "on" : "off"}`}>
+          Auto: {isAutoTickerEnabled ? "On" : "Off"}
+        </span>
+        <button
+          type="button"
+          className="ta-price-refresh-btn ta-auto-ticker-btn"
+          onClick={handleAutoTickerToggle}
+          disabled={isTogglingTicker}
+        >
+          {isTogglingTicker
+            ? "Updating..."
+            : isAutoTickerEnabled
+              ? "Stop Auto"
+              : "Start Auto"}
+        </button>
+        <button
+          type="button"
+          className="ta-price-refresh-btn"
+          onClick={handleRefreshPrices}
+          disabled={isRefreshingPrices}
+        >
+          {isRefreshingPrices ? "Refreshing..." : "Refresh Prices"}
+        </button>
       </div>
       <DashboardContent
         activeTab={activeTab}
@@ -402,6 +516,7 @@ export default function DashboardPage() {
         onTradeAction={handleTradeAction}
         onAddWatchlist={handleAddWatchlist}
         onRemoveWatchlist={handleRemoveWatchlist}
+        priceRefreshVersion={priceRefreshVersion}
       />
       {tradeMessage ? <p className="ta-global-message">{tradeMessage}</p> : null}
       {activeTrade ? (
