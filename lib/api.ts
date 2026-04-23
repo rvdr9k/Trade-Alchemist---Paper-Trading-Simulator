@@ -2,11 +2,38 @@ import { getExchangeCode } from "@/lib/exchanges";
 
 const API_BASE_URL =
   process.env.NEXT_PUBLIC_API_BASE_URL?.replace(/\/+$/, "") ?? "http://127.0.0.1:8000";
+const DEFAULT_REQUEST_TIMEOUT_MS = 12000;
+
+async function fetchWithTimeout(url: string, init: RequestInit = {}, timeoutMs = DEFAULT_REQUEST_TIMEOUT_MS) {
+  const controller = new AbortController();
+  const timeout = window.setTimeout(() => controller.abort(), timeoutMs);
+
+  try {
+    return await fetch(url, {
+      ...init,
+      signal: controller.signal,
+    });
+  } catch (error) {
+    if (error instanceof DOMException && error.name === "AbortError") {
+      throw new Error("Request timed out. Check backend or MongoDB connection.");
+    }
+    throw error;
+  } finally {
+    window.clearTimeout(timeout);
+  }
+}
 
 export type BackendHealth = {
   ok: boolean;
   source: "health" | "root" | "none";
   message?: string;
+};
+
+export type SimulationStatus = {
+  enabled: boolean;
+  enabledByDefault?: boolean;
+  intervalSeconds: number;
+  marketState?: Record<string, unknown>;
 };
 
 export type ApiStock = {
@@ -52,7 +79,6 @@ export type ApiUserProfile = {
   uid: string;
   email?: string;
   displayName?: string;
-  photoURL?: string;
   createdAt?: string;
   updatedAt?: string;
 };
@@ -136,7 +162,7 @@ export type ExecuteTradeRequest = {
 };
 
 async function fetchJson(path: string) {
-  const response = await fetch(`${API_BASE_URL}${path}`, {
+  const response = await fetchWithTimeout(`${API_BASE_URL}${path}`, {
     method: "GET",
     headers: { Accept: "application/json" },
     cache: "no-store",
@@ -150,7 +176,7 @@ async function fetchJson(path: string) {
 }
 
 async function fetchAuthenticatedJson(path: string, token: string, method: "GET" | "POST" = "GET") {
-  const response = await fetch(`${API_BASE_URL}${path}`, {
+  const response = await fetchWithTimeout(`${API_BASE_URL}${path}`, {
     method,
     headers: {
       Accept: "application/json",
@@ -183,7 +209,7 @@ async function fetchAuthenticatedJsonWithBody(
   method: "POST",
   body: Record<string, unknown>,
 ) {
-  const response = await fetch(`${API_BASE_URL}${path}`, {
+  const response = await fetchWithTimeout(`${API_BASE_URL}${path}`, {
     method,
     headers: {
       Accept: "application/json",
@@ -530,7 +556,7 @@ export async function addWatchlistItem(
   token: string,
   item: { symbol: string; exchange: string; companyName?: string },
 ) {
-  const response = await fetch(`${API_BASE_URL}/watchlist`, {
+  const response = await fetchWithTimeout(`${API_BASE_URL}/watchlist`, {
     method: "POST",
     headers: {
       Accept: "application/json",
@@ -562,7 +588,7 @@ export async function removeWatchlistItem(
     query.set("exchange", item.exchange);
   }
 
-  const response = await fetch(
+  const response = await fetchWithTimeout(
     `${API_BASE_URL}/watchlist/${encodeURIComponent(item.symbol)}${query.toString() ? `?${query.toString()}` : ""}`,
     {
       method: "DELETE",
@@ -585,4 +611,66 @@ export async function executeBuyTrade(token: string, request: ExecuteTradeReques
 
 export async function executeSellTrade(token: string, request: ExecuteTradeRequest) {
   return fetchAuthenticatedJsonWithBody("/trade/sell", token, "POST", request);
+}
+
+export async function runSimulationTick() {
+  const response = await fetchWithTimeout(`${API_BASE_URL}/simulation/tick`, {
+    method: "POST",
+    headers: { Accept: "application/json" },
+    cache: "no-store",
+  }, 8000);
+
+  if (!response.ok) {
+    throw new Error(`Price refresh failed with status ${response.status}`);
+  }
+
+  return response.json() as Promise<Record<string, unknown>>;
+}
+
+export async function getSimulationStatus(): Promise<SimulationStatus | null> {
+  const payload = await fetchJson("/simulation/status");
+
+  if (typeof payload.enabled !== "boolean") {
+    return null;
+  }
+
+  return {
+    enabled: payload.enabled,
+    enabledByDefault:
+      typeof payload.enabledByDefault === "boolean" ? payload.enabledByDefault : undefined,
+    intervalSeconds:
+      typeof payload.intervalSeconds === "number" ? payload.intervalSeconds : 30,
+    marketState:
+      payload.marketState && typeof payload.marketState === "object"
+        ? (payload.marketState as Record<string, unknown>)
+        : undefined,
+  };
+}
+
+export async function startSimulationTicker() {
+  const response = await fetchWithTimeout(`${API_BASE_URL}/simulation/start`, {
+    method: "POST",
+    headers: { Accept: "application/json" },
+    cache: "no-store",
+  });
+
+  if (!response.ok) {
+    throw new Error(`Could not start auto ticker: ${response.status}`);
+  }
+
+  return response.json() as Promise<Record<string, unknown>>;
+}
+
+export async function stopSimulationTicker() {
+  const response = await fetchWithTimeout(`${API_BASE_URL}/simulation/stop`, {
+    method: "POST",
+    headers: { Accept: "application/json" },
+    cache: "no-store",
+  });
+
+  if (!response.ok) {
+    throw new Error(`Could not stop auto ticker: ${response.status}`);
+  }
+
+  return response.json() as Promise<Record<string, unknown>>;
 }
