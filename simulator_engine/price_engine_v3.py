@@ -26,9 +26,9 @@ MOMENTUM_FACTOR = 0.3
 tick_time = datetime.now(timezone.utc)
 
 # ---- Load market state ----
-state_doc = market_state.find_one({})
-state = state_doc["state"]
-remaining = state_doc["remaining_ticks"]
+state_doc = market_state.find_one({}) or {}
+state = state_doc.get("state", "NORMAL")
+remaining = state_doc.get("remaining_ticks", 0)
 
 # ---- Possibly start a new regime ----
 if remaining <= 0:
@@ -63,15 +63,23 @@ updated = 0
 
 for stock in stocks:
 
-    symbol = stock["symbol"]
-    exchange = stock["exchange"]
-    old_price = stock["price"]
+    symbol = stock.get("symbol")
+    exchange = stock.get("exchange")
+    old_price = stock.get("price")
+
+    if not symbol or not exchange or old_price is None or old_price <= 0:
+        continue
 
     # ---- Load volatility ----
     meta = metadata.find_one(
         {"symbol": symbol, "exchange": exchange},
         {"avgVolatility": 1}
     )
+    if not meta:
+        meta = metadata.find_one(
+            {"ticker": symbol},
+            {"avgVolatility": 1}
+        )
 
     volatility = meta.get("avgVolatility", 1.0) if meta else 1.0
 
@@ -91,6 +99,12 @@ for stock in stocks:
     if new_price <= 0:
         continue
 
+    candle_high = max(old_price, new_price)
+    candle_low = min(old_price, new_price)
+    volume = random.randint(*VOLUME_RANGE)
+    change = round(new_price - old_price, 2)
+    percent_change = round((change / old_price) * 100, 4)
+
     # ---- Update live price ----
     live_prices.update_one(
         {"_id": stock["_id"]},
@@ -98,6 +112,14 @@ for stock in stocks:
             "$set": {
                 "price": new_price,
                 "prev_price": old_price,
+                "prevClose": old_price,
+                "open": old_price,
+                "high": candle_high,
+                "low": candle_low,
+                "close": new_price,
+                "volume": volume,
+                "change": change,
+                "percentChange": percent_change,
                 "last_update": tick_time,
                 "source": f"simulation_v4_{state.lower()}"
             }
@@ -110,10 +132,10 @@ for stock in stocks:
         "exchange": exchange,
         "timestamp": tick_time,
         "open": old_price,
-        "high": max(old_price, new_price),
-        "low": min(old_price, new_price),
+        "high": candle_high,
+        "low": candle_low,
         "close": new_price,
-        "volume": random.randint(*VOLUME_RANGE)
+        "volume": volume
     })
 
     updated += 1
@@ -127,7 +149,8 @@ market_state.update_one(
             "remaining_ticks": max(remaining - 1, 0),
             "started_at": tick_time
         }
-    }
+    },
+    upsert=True
 )
 
 print(f"Tick complete | Updated {updated} stocks")

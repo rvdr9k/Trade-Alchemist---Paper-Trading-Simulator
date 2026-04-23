@@ -1,13 +1,19 @@
 import json
-import os
 from datetime import datetime
+from pathlib import Path
 from db.mongo_client import historical_prices
 print("=== Historical loader started ===")
 
-BASE_DIR = "historical_1y"
+PROJECT_DIR = Path(__file__).resolve().parent.parent
+BASE_DIR = PROJECT_DIR / "Data" / "historical_1y"
+LEGACY_BASE_DIR = PROJECT_DIR / "historical_1y"
+
+if not BASE_DIR.exists() and LEGACY_BASE_DIR.exists():
+    BASE_DIR = LEGACY_BASE_DIR
+
 BATCH_SIZE = 1000
 print("BASE_DIR:", BASE_DIR)
-print("BASE_DIR contents:", os.listdir(BASE_DIR))
+print("BASE_DIR contents:", [path.name for path in BASE_DIR.iterdir()])
 
 
 batch = []
@@ -18,19 +24,18 @@ def find_key(row, keyword):
             return k
     return None
 
-for exchange in os.listdir(BASE_DIR):
-    exchange_path = os.path.join(BASE_DIR, exchange)
-    if not os.path.isdir(exchange_path):
+for exchange_path in BASE_DIR.iterdir():
+    exchange = exchange_path.name
+    if not exchange_path.is_dir():
         continue
 
-    for filename in os.listdir(exchange_path):
+    for historical_path in exchange_path.iterdir():
+        filename = historical_path.name
         if not filename.endswith("_1y.json"):
             continue
 
         symbol = filename.replace("_1y.json", "")
-        filepath = os.path.join(exchange_path, filename)
-
-        with open(filepath, "r") as f:
+        with historical_path.open("r") as f:
             rows = json.load(f)
 
         for row in rows:
