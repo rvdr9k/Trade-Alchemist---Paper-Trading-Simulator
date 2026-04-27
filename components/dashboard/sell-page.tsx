@@ -63,7 +63,7 @@ export const SellPage = memo(function SellPage({ holdings, onTradeAction }: Sell
                     <td>
                       <button
                         type="button"
-                        className="ta-trade-pill sell ta-sell-pill-btn"
+                        className="ta-type-pill ta-type-pill-btn sell ta-sell-pill-btn"
                         disabled={!canSell}
                         onClick={() => {
                           if (!holding.currentPrice) {

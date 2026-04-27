@@ -30,7 +30,7 @@ function formatCurrency(value: number) {
 }
 
 export function TradeModal({ trade, onCancel, onConfirm, message }: TradeModalProps) {
-  const defaultShares = trade.type === "sell" ? Math.min(trade.maxShares ?? 5, 5) : 1;
+  const defaultShares = trade.type === "sell" ? Math.min(trade.maxShares ?? 1, 1) : 1;
   const [shares, setShares] = useState<number>(defaultShares);
   const [error, setError] = useState<string | null>(null);
   const [isSubmitting, setIsSubmitting] = useState(false);

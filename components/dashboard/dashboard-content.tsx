@@ -48,6 +48,7 @@ export const DashboardContent = memo(function DashboardContent({
         holdings={holdings}
         transactions={transactions}
         watchlist={watchlist}
+        isDarkMode={isDarkMode}
         onTradeAction={onTradeAction}
         onAddWatchlist={onAddWatchlist}
         onRemoveWatchlist={onRemoveWatchlist}
@@ -57,7 +58,13 @@ export const DashboardContent = memo(function DashboardContent({
   }
 
   if (activeTab === "Portfolio") {
-    return <PortfolioOverview metrics={portfolioMetrics} holdings={holdings} />;
+    return (
+      <PortfolioOverview
+        metrics={portfolioMetrics}
+        holdings={holdings}
+        onTradeAction={onTradeAction}
+      />
+    );
   }
 
   if (activeTab === "Market Watch") {

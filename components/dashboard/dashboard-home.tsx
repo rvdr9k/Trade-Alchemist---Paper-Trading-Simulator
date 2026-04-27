@@ -11,6 +11,7 @@ type DashboardHomeProps = {
   holdings?: PortfolioHolding[];
   transactions: TransactionRecord[];
   watchlist: ApiWatchlistItem[];
+  isDarkMode: boolean;
   onTradeAction: (trade: TradeDraft) => void;
   onAddWatchlist: (item: ApiWatchlistItem) => Promise<void>;
   onRemoveWatchlist: (item: ApiWatchlistItem) => Promise<void>;
@@ -63,6 +64,7 @@ export const DashboardHome = memo(function DashboardHome({
   holdings,
   transactions,
   watchlist,
+  isDarkMode,
   onTradeAction,
   onAddWatchlist,
   onRemoveWatchlist,
@@ -251,7 +253,7 @@ export const DashboardHome = memo(function DashboardHome({
               </button>
               <button
                 type="button"
-                className="ta-table-action"
+                className="ta-watch-add-btn"
                 onClick={() =>
                   onAddWatchlist({
                     ticker: selectedStock.symbol,
@@ -259,8 +261,10 @@ export const DashboardHome = memo(function DashboardHome({
                     exchange: selectedStock.exchange,
                   })
                 }
+                aria-label="Add to watchlist"
+                title="Add to watchlist"
               >
-                Add to Watchlist
+                +
               </button>
             </div>
           </div>
@@ -278,6 +282,7 @@ export const DashboardHome = memo(function DashboardHome({
                   <th>Current Price</th>
                   <th>Hold Price</th>
                   <th>Total P/L</th>
+                  <th>Sell</th>
                 </tr>
               </thead>
               <tbody>
@@ -293,11 +298,33 @@ export const DashboardHome = memo(function DashboardHome({
                       <td className={getTone(holding.totalPL)}>
                         {formatCurrency(holding.totalPL)}
                       </td>
+                      <td>
+                        <button
+                          type="button"
+                          className="ta-type-pill ta-type-pill-btn sell ta-sell-pill-btn"
+                          disabled={!holding.currentPrice || !holding.quantity}
+                          onClick={() => {
+                            if (!holding.currentPrice || !holding.quantity) {
+                              return;
+                            }
+                            onTradeAction({
+                              ticker: holding.ticker,
+                              company: holding.companyName ?? holding.ticker,
+                              exchange: holding.exchange,
+                              price: holding.currentPrice,
+                              type: "sell",
+                              maxShares: holding.quantity,
+                            });
+                          }}
+                        >
+                          Sell
+                        </button>
+                      </td>
                     </tr>
                   ))
                 ) : (
                   <tr>
-                    <td colSpan={4} className="ta-holdings-empty">
+                    <td colSpan={5} className="ta-holdings-empty">
                       No holdings available.
                     </td>
                   </tr>
@@ -316,6 +343,7 @@ export const DashboardHome = memo(function DashboardHome({
                   <th>Ticker</th>
                   <th>Company</th>
                   <th>Exchange</th>
+                  <th>Current Price</th>
                   <th>Trade</th>
                   <th>Delete</th>
                 </tr>
@@ -327,10 +355,11 @@ export const DashboardHome = memo(function DashboardHome({
                       <td>{stock.ticker}</td>
                       <td>{stock.companyName}</td>
                       <td>{stock.exchange}</td>
+                      <td>{formatCurrencyByCode(stock.currentPrice)}</td>
                       <td>
                         <button
                           type="button"
-                          className="ta-table-action ta-trade-pill buy"
+                          className="ta-type-pill ta-type-pill-btn buy"
                           onClick={() => {
                             if (!stock.currentPrice) {
                               return;
@@ -351,17 +380,22 @@ export const DashboardHome = memo(function DashboardHome({
                       <td>
                         <button
                           type="button"
-                          className="ta-table-action danger"
+                          className="ta-delete-icon"
                           onClick={() => onRemoveWatchlist(stock)}
                         >
-                          Remove
+                          <img
+                            src={isDarkMode ? "/bin-dark.png" : "/bin-light.png"}
+                            alt="Delete"
+                            width={18}
+                            height={18}
+                          />
                         </button>
                       </td>
                     </tr>
                   ))
                 ) : (
                   <tr>
-                    <td colSpan={5} className="ta-holdings-empty">
+                    <td colSpan={6} className="ta-holdings-empty">
                       Add stocks from search to preview watchlist.
                     </td>
                   </tr>

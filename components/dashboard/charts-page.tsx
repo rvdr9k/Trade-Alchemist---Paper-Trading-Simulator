@@ -5,6 +5,8 @@ import { getStockHistory, searchStocks, type ApiOHLCPoint, type ApiStock } from 
 import { EXCHANGE_OPTIONS, type ExchangeId } from "@/lib/exchanges";
 const rangeOptions = ["1D", "5D", "1M", "6M", "YTD", "1Y", "5Y"] as const;
 type RangeOption = (typeof rangeOptions)[number];
+const CHART_WIDTH = 980;
+const CHART_HEIGHT = 182;
 
 type ChartsPageProps = {
   priceRefreshVersion?: number;
@@ -197,7 +199,7 @@ export const ChartsPage = memo(function ChartsPage({
     [historySeries, activeRange],
   );
   const closes = rangeSeries.map((row) => row.close) ?? [];
-  const geometry = chartPath(closes, 980, 280);
+  const geometry = chartPath(closes, CHART_WIDTH, CHART_HEIGHT);
   const d = geometry.path;
   const latest = rangeSeries[rangeSeries.length - 1];
   const first = rangeSeries[0];
@@ -238,15 +240,16 @@ export const ChartsPage = memo(function ChartsPage({
 
   const hoverX =
     hoverIndex !== null && rangeSeries.length > 1
-      ? (hoverIndex / (rangeSeries.length - 1)) * 980
+      ? (hoverIndex / (rangeSeries.length - 1)) * CHART_WIDTH
       : null;
   const hoverY =
     hoverIndex !== null && activePoint
-      ? 280 -
-        ((activePoint.close - geometry.min) / Math.max(1, geometry.max - geometry.min)) * 280
+      ? CHART_HEIGHT -
+        ((activePoint.close - geometry.min) / Math.max(1, geometry.max - geometry.min)) *
+          CHART_HEIGHT
       : null;
-  const hoverXPct = hoverX !== null ? (hoverX / 980) * 100 : null;
-  const hoverYPct = hoverY !== null ? (hoverY / 280) * 100 : null;
+  const hoverXPct = hoverX !== null ? (hoverX / CHART_WIDTH) * 100 : null;
+  const hoverYPct = hoverY !== null ? (hoverY / CHART_HEIGHT) * 100 : null;
   const tooltipXPct =
     hoverXPct !== null ? Math.min(92, Math.max(8, hoverXPct + 2)) : 78;
   const tooltipYPct =
@@ -378,14 +381,17 @@ export const ChartsPage = memo(function ChartsPage({
             className="ta-charts-tooltip"
             style={{ left: `${tooltipXPct}%`, top: `${tooltipYPct}%` }}
           >
-            {formatCurrency(chartPrice, stockCurrency)} {chartDate}
+            <span className="ta-charts-tooltip-value">
+              {formatCurrency(chartPrice, stockCurrency)}
+            </span>
+            <span className="ta-charts-tooltip-date">{chartDate}</span>
           </div>
 
           <svg
-            viewBox="0 0 980 280"
+            viewBox={`0 0 ${CHART_WIDTH} ${CHART_HEIGHT}`}
             className="ta-charts-plot"
             role="img"
-            aria-label="5 year price chart"
+            aria-label={`${activeRange} price chart`}
             onMouseMove={(event) => {
               if (rangeSeries.length < 2) {
                 return;
@@ -403,7 +409,10 @@ export const ChartsPage = memo(function ChartsPage({
                 <stop offset="100%" stopColor="rgba(22,163,74,0.04)" />
               </linearGradient>
             </defs>
-            <path d={`${d} L980,280 L0,280 Z`} fill="url(#taChartsFill)" />
+            <path
+              d={`${d} L${CHART_WIDTH},${CHART_HEIGHT} L0,${CHART_HEIGHT} Z`}
+              fill="url(#taChartsFill)"
+            />
             <path d={d} className="ta-charts-line" />
           </svg>
                   <div className="ta-charts-axis-y">

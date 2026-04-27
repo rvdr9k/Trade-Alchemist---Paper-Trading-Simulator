@@ -502,8 +502,14 @@ export default function DashboardPage() {
           className="ta-price-refresh-btn"
           onClick={handleRefreshPrices}
           disabled={isRefreshingPrices}
+          aria-label={isRefreshingPrices ? "Refreshing prices" : "Refresh prices"}
+          title={isRefreshingPrices ? "Refreshing prices" : "Refresh prices"}
         >
-          {isRefreshingPrices ? "Refreshing..." : "Refresh Prices"}
+          <img
+            src="/refresh.png"
+            alt=""
+            className={`ta-price-refresh-icon ${isRefreshingPrices ? "spinning" : ""}`}
+          />
         </button>
       </div>
       <DashboardContent

@@ -1,4 +1,5 @@
 import { memo } from "react";
+import type { TradeDraft } from "@/components/dashboard/trade-modal";
 
 export type PortfolioMetrics = {
   totalPortfolioValue?: number;
@@ -22,6 +23,7 @@ export type PortfolioHolding = {
 type PortfolioOverviewProps = {
   metrics?: PortfolioMetrics;
   holdings?: PortfolioHolding[];
+  onTradeAction: (trade: TradeDraft) => void;
 };
 
 const portfolioFields: Array<{ key: keyof PortfolioMetrics; label: string }> = [
@@ -56,6 +58,7 @@ function getValueTone(value: number | undefined) {
 export const PortfolioOverview = memo(function PortfolioOverview({
   metrics,
   holdings,
+  onTradeAction,
 }: PortfolioOverviewProps) {
   return (
     <section className="ta-dashboard-content">
@@ -86,6 +89,7 @@ export const PortfolioOverview = memo(function PortfolioOverview({
                 <th>Current Price</th>
                 <th>Hold Price</th>
                 <th>Total P/L</th>
+                <th>Sell</th>
               </tr>
             </thead>
             <tbody>
@@ -103,12 +107,34 @@ export const PortfolioOverview = memo(function PortfolioOverview({
                       <td className={`ta-portfolio-value ${plTone}`}>
                         {holding.totalPL === undefined ? "--" : formatCurrency(holding.totalPL)}
                       </td>
+                      <td>
+                        <button
+                          type="button"
+                          className="ta-type-pill ta-type-pill-btn sell ta-sell-pill-btn"
+                          disabled={!holding.currentPrice || !holding.quantity}
+                          onClick={() => {
+                            if (!holding.currentPrice || !holding.quantity) {
+                              return;
+                            }
+                            onTradeAction({
+                              ticker: holding.ticker,
+                              company: holding.companyName ?? holding.ticker,
+                              exchange: holding.exchange,
+                              price: holding.currentPrice,
+                              type: "sell",
+                              maxShares: holding.quantity,
+                            });
+                          }}
+                        >
+                          Sell
+                        </button>
+                      </td>
                     </tr>
                   );
                 })
               ) : (
                 <tr>
-                  <td colSpan={4} className="ta-holdings-empty">
+                  <td colSpan={5} className="ta-holdings-empty">
                     Holdings will appear once trading data is connected. When backend is ready, pass a real holdings array and values will render automatically.
                   </td>
                 </tr>

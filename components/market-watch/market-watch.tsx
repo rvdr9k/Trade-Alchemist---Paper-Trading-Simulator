@@ -214,7 +214,7 @@ export const MarketWatch = memo(function MarketWatch({
                       <div className="ta-trade-cell">
                         <button
                           type="button"
-                          className="ta-table-action ta-trade-pill buy"
+                          className="ta-type-pill ta-type-pill-btn buy"
                           onClick={() =>
                             onTradeAction({
                               ticker: stock.ticker,
@@ -230,7 +230,7 @@ export const MarketWatch = memo(function MarketWatch({
                         </button>
                         <button
                           type="button"
-                          className="ta-table-action ta-trade-pill sell"
+                          className="ta-type-pill ta-type-pill-btn sell"
                           disabled={!canSell}
                           onClick={() =>
                             onTradeAction({
