@@ -205,10 +205,9 @@ export const DashboardHome = memo(function DashboardHome({
                 >
                   <div>
                     <p className="ta-watch-preview-symbol">{stock.symbol}</p>
-                    <p className="ta-watch-preview-name">
-                      {stock.companyName} ({stock.exchange})
-                    </p>
+                    <p className="ta-watch-preview-name">{stock.companyName}</p>
                   </div>
+                  <span className="ta-watch-result-exchange">{stock.exchange}</span>
                 </button>
               ))
             ) : searchError ? (

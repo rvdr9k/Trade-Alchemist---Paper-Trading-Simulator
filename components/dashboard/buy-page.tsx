@@ -36,11 +36,20 @@ function formatChartDate(value: string | undefined) {
   return new Intl.DateTimeFormat("en-US", { day: "2-digit", month: "short", year: "numeric" }).format(date);
 }
 
-function formatAxisDate(value: string | undefined) {
+function formatAxisDate(value: string | undefined, range: RangeOption) {
   if (!value) return "--";
   const date = new Date(value);
   if (Number.isNaN(date.getTime())) return "--";
-  return new Intl.DateTimeFormat("en-US", { year: "numeric" }).format(date);
+
+  if (range === "1D") {
+    return new Intl.DateTimeFormat("en-US", { hour: "numeric", minute: "2-digit" }).format(date);
+  } else if (range === "5D" || range === "1M") {
+    return new Intl.DateTimeFormat("en-US", { month: "short", day: "numeric" }).format(date);
+  } else if (range === "6M" || range === "YTD" || range === "1Y") {
+    return new Intl.DateTimeFormat("en-US", { month: "short" }).format(date);
+  } else {
+    return new Intl.DateTimeFormat("en-US", { year: "numeric" }).format(date);
+  }
 }
 
 function getSeriesByRange(series: ApiOHLCPoint[], range: RangeOption) {
@@ -203,18 +212,25 @@ export const BuyPage = memo(function BuyPage({
     () => getSeriesByRange(historySeries, activeRange),
     [historySeries, activeRange],
   );
-  const latestHistoryPoint = historySeries[historySeries.length - 1];
+  const latestHistoryPoint = chartRangeSeries[chartRangeSeries.length - 1];
   const previousHistoryPoint =
-    historySeries.length > 1 ? historySeries[historySeries.length - 2] : undefined;
-  const chartValues = chartRangeSeries.map((point) => point.close);
-  const chartGeometry = toChartPath(chartValues, 940, 300);
-  const chartPath = chartGeometry.path;
+    chartRangeSeries.length > 1 ? chartRangeSeries[chartRangeSeries.length - 2] : undefined;
+  const { path: chartPath, min: chartMin, max: chartMax } = useMemo(() => {
+    const chartCloses = chartRangeSeries.map((point) => point.close);
+    return toChartPath(chartCloses, 940, 300);
+  }, [chartRangeSeries]);
+
+  const chartTail = chartRangeSeries[chartRangeSeries.length - 1]?.close ?? 0;
+  const chartHead = chartRangeSeries[0]?.close ?? 0;
+  const diff = chartTail - chartHead;
+  const tone = diff >= 0 ? "positive" : "negative";
+
   const activePoint =
     hoverIndex !== null && chartRangeSeries[hoverIndex]
       ? chartRangeSeries[hoverIndex]
       : chartRangeSeries[chartRangeSeries.length - 1];
   const chartDate = formatChartDate(activePoint?.date);
-  const chartTail = activePoint?.close;
+  const chartTailPrice = activePoint?.close;
   const hoverX =
     hoverIndex !== null && chartRangeSeries.length > 1
       ? (hoverIndex / (chartRangeSeries.length - 1)) * 940
@@ -222,29 +238,34 @@ export const BuyPage = memo(function BuyPage({
   const hoverY =
     hoverIndex !== null && activePoint
       ? 300 -
-        ((activePoint.close - chartGeometry.min) / Math.max(1, chartGeometry.max - chartGeometry.min)) *
-          300
+      ((activePoint.close - chartMin) / Math.max(1, chartMax - chartMin)) *
+      300
       : null;
+  const prevCloseY =
+    selectedStock?.prevClose !== undefined && chartMax > chartMin
+      ? 300 - ((selectedStock.prevClose - chartMin) / (chartMax - chartMin)) * 300
+      : null;
+
   const hoverXPct = hoverX !== null ? (hoverX / 940) * 100 : null;
   const hoverYPct = hoverY !== null ? (hoverY / 300) * 100 : null;
-  const tooltipXPct = hoverXPct !== null ? Math.min(92, Math.max(8, hoverXPct + 2)) : 78;
-  const tooltipYPct = hoverYPct !== null ? Math.min(78, Math.max(8, hoverYPct - 10)) : 12;
+  const tooltipXPct = hoverXPct !== null ? Math.min(92, Math.max(8, hoverXPct + 2)) : null;
+  const tooltipYPct = hoverYPct !== null ? Math.min(78, Math.max(8, hoverYPct - 10)) : null;
 
   const yTicks = useMemo(() => {
-    if (chartValues.length === 0) return ["--", "--", "--", "--", "--"];
-    const min = chartGeometry.min;
-    const max = chartGeometry.max;
+    if (chartRangeSeries.length === 0) return ["--", "--", "--", "--", "--"];
+    const min = chartMin;
+    const max = chartMax;
     const step = (max - min) / 4;
     return Array.from({ length: 5 }, (_, index) => (max - step * index).toFixed(0));
-  }, [chartValues, chartGeometry.max, chartGeometry.min]);
+  }, [chartRangeSeries.length, chartMax, chartMin]);
 
   const xTicks = useMemo(() => {
     if (chartRangeSeries.length === 0) return ["--", "--", "--", "--", "--"];
     const idx = [0, 0.25, 0.5, 0.75, 1].map((factor) =>
       Math.min(chartRangeSeries.length - 1, Math.round((chartRangeSeries.length - 1) * factor)),
     );
-    return idx.map((i) => formatAxisDate(chartRangeSeries[i]?.date));
-  }, [chartRangeSeries]);
+    return idx.map((i) => formatAxisDate(chartRangeSeries[i]?.date, activeRange));
+  }, [chartRangeSeries, activeRange]);
 
   return (
     <section className="ta-dashboard-content ta-buy-page">
@@ -312,10 +333,9 @@ export const BuyPage = memo(function BuyPage({
               >
                 <div>
                   <p className="ta-watch-preview-symbol">{stock.symbol}</p>
-                  <p className="ta-watch-preview-name">
-                    {stock.companyName} ({stock.exchange})
-                  </p>
+                  <p className="ta-watch-preview-name">{stock.companyName}</p>
                 </div>
+                <span className="ta-watch-result-exchange">{stock.exchange}</span>
               </button>
             ))
           ) : searchError ? (
@@ -327,155 +347,166 @@ export const BuyPage = memo(function BuyPage({
       ) : null}
 
       {selectedStock ? (
-      <div className="ta-buy-layout-grid">
-        <article className="ta-buy-panel ta-buy-chart-panel">
-          <h3 className="ta-buy-panel-title">Historical Performance</h3>
-          <div className="ta-buy-chart-placeholder">
-            {selectedStock ? (
-              <div className="ta-buy-chart-live">
-                <div className="ta-charts-ranges">
-                  {rangeOptions.map((range) => (
-                    <button
-                      key={range}
-                      type="button"
-                      className={`ta-charts-range-btn ${activeRange === range ? "active" : ""}`}
-                      onClick={() => {
-                        setActiveRange(range);
-                        setHoverIndex(null);
+        <div className="ta-buy-layout-grid">
+          <article className="ta-buy-panel ta-buy-chart-panel">
+            <h3 className="ta-buy-panel-title">Historical Performance</h3>
+            <div className="ta-buy-chart-placeholder">
+              {selectedStock ? (
+                <div className="ta-buy-chart-live">
+                  <div className="ta-charts-ranges">
+                    {rangeOptions.map((range) => (
+                      <button
+                        key={range}
+                        type="button"
+                        className={`ta-charts-range-btn ${activeRange === range ? "active" : ""}`}
+                        onClick={() => {
+                          setActiveRange(range);
+                          setHoverIndex(null);
+                        }}
+                      >
+                        {range}
+                      </button>
+                    ))}
+                  </div>
+
+                  <div className="ta-charts-plot-wrap">
+                    {hoverX !== null && hoverY !== null ? (
+                      <>
+                        <div className="ta-charts-crosshair ta-charts-crosshair-v" style={{ left: `${hoverXPct}%` }} />
+                        <div className="ta-charts-crosshair ta-charts-crosshair-h" style={{ top: `${hoverYPct}%` }} />
+                      </>
+                    ) : null}
+
+                    {hoverIndex !== null && tooltipXPct !== null && tooltipYPct !== null ? (
+                    <div className="ta-charts-tooltip" style={{ left: `${tooltipXPct}%`, top: `${tooltipYPct}%` }}>
+                      {formatCurrency(chartTailPrice, stockCurrency)} {chartDate}
+                    </div>
+                    ) : null}
+
+                    <svg
+                      viewBox="0 0 940 300"
+                      className="ta-charts-plot"
+                      role="img"
+                      aria-label={`${selectedStock.symbol} historical performance`}
+                      onMouseMove={(event) => {
+                        if (chartRangeSeries.length < 2) return;
+                        const bounds = event.currentTarget.getBoundingClientRect();
+                        const x = event.clientX - bounds.left;
+                        const ratio = Math.max(0, Math.min(1, x / bounds.width));
+                        setHoverIndex(Math.round(ratio * (chartRangeSeries.length - 1)));
                       }}
+                      onMouseLeave={() => setHoverIndex(null)}
                     >
-                      {range}
-                    </button>
-                  ))}
-                </div>
-
-                <div className="ta-charts-plot-wrap">
-                  {hoverX !== null && hoverY !== null ? (
-                    <>
-                      <div className="ta-charts-crosshair ta-charts-crosshair-v" style={{ left: `${hoverXPct}%` }} />
-                      <div className="ta-charts-crosshair ta-charts-crosshair-h" style={{ top: `${hoverYPct}%` }} />
-                    </>
-                  ) : null}
-
-                  <div className="ta-charts-tooltip" style={{ left: `${tooltipXPct}%`, top: `${tooltipYPct}%` }}>
-                    {formatCurrency(chartTail, stockCurrency)} {chartDate}
-                  </div>
-
-                  <svg
-                    viewBox="0 0 940 300"
-                    className="ta-buy-chart-svg"
-                    role="img"
-                    aria-label={`${selectedStock.symbol} historical performance`}
-                    onMouseMove={(event) => {
-                      if (chartRangeSeries.length < 2) return;
-                      const bounds = event.currentTarget.getBoundingClientRect();
-                      const x = event.clientX - bounds.left;
-                      const ratio = Math.max(0, Math.min(1, x / bounds.width));
-                      setHoverIndex(Math.round(ratio * (chartRangeSeries.length - 1)));
-                    }}
-                    onMouseLeave={() => setHoverIndex(null)}
-                  >
-                    <defs>
-                      <linearGradient id="taBuyChartFill" x1="0" x2="0" y1="0" y2="1">
-                        <stop offset="0%" stopColor="rgba(22,163,74,0.40)" />
-                        <stop offset="100%" stopColor="rgba(22,163,74,0.05)" />
-                      </linearGradient>
-                    </defs>
-                    <path d={`${chartPath} L940,300 L0,300 Z`} fill="url(#taBuyChartFill)" />
-                    <path d={chartPath} className="ta-buy-chart-line-path ta-charts-line" />
-                  </svg>
-                  <div className="ta-charts-axis-y">
-                    {yTicks.map((tick, index) => (
-                      <span key={`${tick}-${index}`}>{tick}</span>
-                    ))}
-                  </div>
-                  <div className="ta-charts-axis-x">
-                    {xTicks.map((tick, index) => (
-                      <span key={`${tick}-${index}`}>{tick}</span>
-                    ))}
+                      <defs>
+                        <linearGradient id="taBuyChartFill" x1="0" x2="0" y1="0" y2="1">
+                          <stop offset="0%" stopColor={diff >= 0 ? "rgba(26,115,232,0.12)" : "rgba(230,64,54,0.12)"} />
+                          <stop offset="100%" stopColor={diff >= 0 ? "rgba(26,115,232,0)" : "rgba(230,64,54,0)"} />
+                        </linearGradient>
+                      </defs>
+                      {prevCloseY !== null && !isNaN(prevCloseY) ? (
+                        <line
+                          x1="0" y1={prevCloseY}
+                          x2="940" y2={prevCloseY}
+                          stroke="var(--border-secondary)"
+                          strokeDasharray="4 4"
+                          strokeWidth="1.5"
+                        />
+                      ) : null}
+                      <path d={`${chartPath} L940,300 L0,300 Z`} fill="url(#taBuyChartFill)" />
+                      <path d={chartPath} className={`ta-charts-line ${tone}`} />
+                    </svg>
+                    <div className="ta-charts-axis-y">
+                      {yTicks.map((tick, index) => (
+                        <span key={`${tick}-${index}`}>{tick}</span>
+                      ))}
+                    </div>
+                    <div className="ta-charts-axis-x">
+                      {xTicks.map((tick, index) => (
+                        <span key={`${tick}-${index}`}>{tick}</span>
+                      ))}
+                    </div>
                   </div>
                 </div>
+              ) : (
+                <div className="ta-buy-chart-line" />
+              )}
+            </div>
+          </article>
+
+          <div className="ta-buy-side-column">
+            <article className="ta-buy-panel ta-buy-actions-panel">
+              <div className="ta-buy-actions-row">
+                <button
+                  type="button"
+                  className="ta-buy-action-btn ta-trade-pill buy"
+                  disabled={!selectedStock}
+                  onClick={() => {
+                    if (!selectedStock?.currentPrice) return;
+                    onTradeAction({
+                      ticker: selectedStock.symbol,
+                      company: selectedStock.companyName,
+                      exchange: selectedStock.exchange,
+                      price: selectedStock.currentPrice,
+                      type: "buy",
+                    });
+                  }}
+                >
+                  Buy
+                </button>
+                <button
+                  type="button"
+                  className="ta-buy-action-btn ta-trade-pill sell"
+                  disabled={!canSell}
+                  onClick={() => {
+                    if (!selectedStock?.currentPrice) return;
+                    onTradeAction({
+                      ticker: selectedStock.symbol,
+                      company: selectedStock.companyName,
+                      exchange: selectedStock.exchange,
+                      price: selectedStock.currentPrice,
+                      type: "sell",
+                      maxShares: availableSellShares,
+                    });
+                  }}
+                >
+                  Sell
+                </button>
               </div>
-            ) : (
-              <div className="ta-buy-chart-line" />
-            )}
+            </article>
+
+            <article className="ta-buy-panel ta-buy-stats-panel">
+              <h3 className="ta-buy-panel-title">Key Statistics</h3>
+              <div className="ta-buy-stats-grid">
+                <p>Open</p>
+                <p>{formatCurrency(latestHistoryPoint?.open, stockCurrency)}</p>
+                <p>High</p>
+                <p>{formatCurrency(latestHistoryPoint?.high, stockCurrency)}</p>
+                <p>Low</p>
+                <p>{formatCurrency(latestHistoryPoint?.low, stockCurrency)}</p>
+                <p>Close</p>
+                <p>{formatCurrency(latestHistoryPoint?.close, stockCurrency)}</p>
+                <p>Previous Close</p>
+                <p>{formatCurrency(previousHistoryPoint?.close ?? selectedStock?.prevClose, stockCurrency)}</p>
+                <p>Volume</p>
+                <p>
+                  {latestHistoryPoint?.volume
+                    ? new Intl.NumberFormat("en-US").format(latestHistoryPoint.volume)
+                    : "--"}
+                </p>
+                <p>Avg Volatility</p>
+                <p>{selectedStock?.avgVolatility?.toFixed(2) ?? "--"}</p>
+                <p>52-Week High</p>
+                <p>{formatCurrency(selectedStock?.fiftyTwoWeekHigh, stockCurrency)}</p>
+                <p>52-Week Low</p>
+                <p>{formatCurrency(selectedStock?.fiftyTwoWeekLow, stockCurrency)}</p>
+                <p>Sector</p>
+                <p>{selectedStock?.sector ?? "--"}</p>
+                <p>Industry</p>
+                <p>{selectedStock?.industry ?? "--"}</p>
+              </div>
+            </article>
           </div>
-        </article>
-
-        <div className="ta-buy-side-column">
-          <article className="ta-buy-panel ta-buy-actions-panel">
-            <div className="ta-buy-actions-row">
-              <button
-                type="button"
-                className="ta-buy-action-btn ta-trade-pill buy"
-                disabled={!selectedStock}
-                onClick={() => {
-                  if (!selectedStock?.currentPrice) return;
-                  onTradeAction({
-                    ticker: selectedStock.symbol,
-                    company: selectedStock.companyName,
-                    exchange: selectedStock.exchange,
-                    price: selectedStock.currentPrice,
-                    type: "buy",
-                  });
-                }}
-              >
-                Buy
-              </button>
-              <button
-                type="button"
-                className="ta-buy-action-btn ta-trade-pill sell"
-                disabled={!canSell}
-                onClick={() => {
-                  if (!selectedStock?.currentPrice) return;
-                  onTradeAction({
-                    ticker: selectedStock.symbol,
-                    company: selectedStock.companyName,
-                    exchange: selectedStock.exchange,
-                    price: selectedStock.currentPrice,
-                    type: "sell",
-                    maxShares: availableSellShares,
-                  });
-                }}
-              >
-                Sell
-              </button>
-            </div>
-          </article>
-
-          <article className="ta-buy-panel ta-buy-stats-panel">
-            <h3 className="ta-buy-panel-title">Key Statistics</h3>
-            <div className="ta-buy-stats-grid">
-              <p>Open</p>
-              <p>{formatCurrency(latestHistoryPoint?.open, stockCurrency)}</p>
-              <p>High</p>
-              <p>{formatCurrency(latestHistoryPoint?.high, stockCurrency)}</p>
-              <p>Low</p>
-              <p>{formatCurrency(latestHistoryPoint?.low, stockCurrency)}</p>
-              <p>Close</p>
-              <p>{formatCurrency(latestHistoryPoint?.close, stockCurrency)}</p>
-              <p>Previous Close</p>
-              <p>{formatCurrency(previousHistoryPoint?.close ?? selectedStock?.prevClose, stockCurrency)}</p>
-              <p>Volume</p>
-              <p>
-                {latestHistoryPoint?.volume
-                  ? new Intl.NumberFormat("en-US").format(latestHistoryPoint.volume)
-                  : "--"}
-              </p>
-              <p>Avg Volatility</p>
-              <p>{selectedStock?.avgVolatility?.toFixed(2) ?? "--"}</p>
-              <p>52-Week High</p>
-              <p>{formatCurrency(selectedStock?.fiftyTwoWeekHigh, stockCurrency)}</p>
-              <p>52-Week Low</p>
-              <p>{formatCurrency(selectedStock?.fiftyTwoWeekLow, stockCurrency)}</p>
-              <p>Sector</p>
-              <p>{selectedStock?.sector ?? "--"}</p>
-              <p>Industry</p>
-              <p>{selectedStock?.industry ?? "--"}</p>
-            </div>
-          </article>
         </div>
-      </div>
       ) : null}
 
     </section>

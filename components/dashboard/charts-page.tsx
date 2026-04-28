@@ -38,7 +38,7 @@ function formatChartDate(value: string | undefined) {
   }).format(date);
 }
 
-function formatAxisDate(value: string | undefined) {
+function formatAxisDate(value: string | undefined, range: RangeOption) {
   if (!value) {
     return "--";
   }
@@ -46,9 +46,16 @@ function formatAxisDate(value: string | undefined) {
   if (Number.isNaN(date.getTime())) {
     return "--";
   }
-  return new Intl.DateTimeFormat("en-US", {
-    year: "numeric",
-  }).format(date);
+  
+  if (range === "1D") {
+    return new Intl.DateTimeFormat("en-US", { hour: "numeric", minute: "2-digit" }).format(date);
+  } else if (range === "5D" || range === "1M") {
+    return new Intl.DateTimeFormat("en-US", { month: "short", day: "numeric" }).format(date);
+  } else if (range === "6M" || range === "YTD" || range === "1Y") {
+    return new Intl.DateTimeFormat("en-US", { month: "short" }).format(date);
+  } else {
+    return new Intl.DateTimeFormat("en-US", { year: "numeric" }).format(date);
+  }
 }
 
 function chartPath(values: number[], width: number, height: number) {
@@ -198,9 +205,11 @@ export const ChartsPage = memo(function ChartsPage({
     () => getSeriesByRange(historySeries, activeRange),
     [historySeries, activeRange],
   );
-  const closes = rangeSeries.map((row) => row.close) ?? [];
-  const geometry = chartPath(closes, CHART_WIDTH, CHART_HEIGHT);
-  const d = geometry.path;
+  const { path: d, min: chartMin, max: chartMax } = useMemo(() => {
+    const closes = rangeSeries.map((row) => row.close) ?? [];
+    return chartPath(closes, CHART_WIDTH, CHART_HEIGHT);
+  }, [rangeSeries]);
+
   const latest = rangeSeries[rangeSeries.length - 1];
   const first = rangeSeries[0];
   const diff = latest && first ? latest.close - first.close : 0;
@@ -217,16 +226,16 @@ export const ChartsPage = memo(function ChartsPage({
   const chartPrice = activePoint?.close;
 
   const yTicks = useMemo(() => {
-    if (closes.length === 0) {
+    if (rangeSeries.length === 0) {
       return ["--", "--", "--", "--", "--"];
     }
-    const min = geometry.min;
-    const max = geometry.max;
+    const min = chartMin;
+    const max = chartMax;
     const step = (max - min) / 4;
     return Array.from({ length: 5 }, (_, index) =>
       (max - step * index).toFixed(0),
     );
-  }, [closes, geometry.max, geometry.min]);
+  }, [rangeSeries.length, chartMax, chartMin]);
 
   const xTicks = useMemo(() => {
     if (rangeSeries.length === 0) {
@@ -235,8 +244,8 @@ export const ChartsPage = memo(function ChartsPage({
     const idx = [0, 0.25, 0.5, 0.75, 1].map((factor) =>
       Math.min(rangeSeries.length - 1, Math.round((rangeSeries.length - 1) * factor)),
     );
-    return idx.map((i) => formatAxisDate(rangeSeries[i]?.date));
-  }, [rangeSeries]);
+    return idx.map((i) => formatAxisDate(rangeSeries[i]?.date, activeRange));
+  }, [rangeSeries, activeRange]);
 
   const hoverX =
     hoverIndex !== null && rangeSeries.length > 1
@@ -245,8 +254,8 @@ export const ChartsPage = memo(function ChartsPage({
   const hoverY =
     hoverIndex !== null && activePoint
       ? CHART_HEIGHT -
-        ((activePoint.close - geometry.min) / Math.max(1, geometry.max - geometry.min)) *
-          CHART_HEIGHT
+      ((activePoint.close - chartMin) / Math.max(1, chartMax - chartMin)) *
+      CHART_HEIGHT
       : null;
   const hoverXPct = hoverX !== null ? (hoverX / CHART_WIDTH) * 100 : null;
   const hoverYPct = hoverY !== null ? (hoverY / CHART_HEIGHT) * 100 : null;
@@ -254,6 +263,11 @@ export const ChartsPage = memo(function ChartsPage({
     hoverXPct !== null ? Math.min(92, Math.max(8, hoverXPct + 2)) : 78;
   const tooltipYPct =
     hoverYPct !== null ? Math.min(78, Math.max(8, hoverYPct - 10)) : 12;
+
+  const prevCloseY =
+    selected?.prevClose !== undefined && chartMax > chartMin
+      ? CHART_HEIGHT - ((selected.prevClose - chartMin) / (chartMax - chartMin)) * CHART_HEIGHT
+      : null;
 
   return (
     <section className="ta-dashboard-content ta-charts-page">
@@ -322,10 +336,9 @@ export const ChartsPage = memo(function ChartsPage({
               >
                 <div>
                   <p className="ta-watch-preview-symbol">{stock.symbol}</p>
-                  <p className="ta-watch-preview-name">
-                    {stock.companyName} ({stock.exchange})
-                  </p>
+                  <p className="ta-watch-preview-name">{stock.companyName}</p>
                 </div>
+                <span className="ta-watch-result-exchange">{stock.exchange}</span>
               </button>
             ))
           ) : searchError ? (
@@ -337,128 +350,139 @@ export const ChartsPage = memo(function ChartsPage({
       ) : null}
 
       {selected ? (
-      <article className="ta-dashboard-section-card ta-charts-shell">
-        {!selected ? (
-          <p className="ta-market-watch-note">
-            {isLoadingStocks ? "Loading stocks..." : "No stocks returned from backend."}
-          </p>
-        ) : null}
-        <p className="ta-charts-stock-name">
-          {selected ? `${selected.symbol} - ${selected.companyName}` : "--"}
-        </p>
-        <p className="ta-charts-price">
-          {formatCurrency(latest?.close, stockCurrency)}{" "}
-          <span>{stockCurrency}</span>
-        </p>
-        <p className={`ta-charts-change ${tone}`}>
-          {diff >= 0 ? "+" : ""}
-          {diff.toFixed(2)} ({diffPct.toFixed(2)}%) {diff >= 0 ? "▲" : "▼"} past{" "}
-          {activeRange === "5Y" ? "5 years" : activeRange}
-        </p>
-
-        <div className="ta-charts-ranges">
-          {rangeOptions.map((range) => (
-            <button
-              key={range}
-              type="button"
-              className={`ta-charts-range-btn ${activeRange === range ? "active" : ""}`}
-              onClick={() => setActiveRange(range)}
-            >
-              {range}
-            </button>
-          ))}
-        </div>
-
-        <div className="ta-charts-plot-wrap">
-          {hoverX !== null && hoverY !== null ? (
-            <>
-              <div className="ta-charts-crosshair ta-charts-crosshair-v" style={{ left: `${hoverXPct}%` }} />
-              <div className="ta-charts-crosshair ta-charts-crosshair-h" style={{ top: `${hoverYPct}%` }} />
-            </>
+        <article className="ta-dashboard-section-card ta-charts-shell">
+          {!selected ? (
+            <p className="ta-market-watch-note">
+              {isLoadingStocks ? "Loading stocks..." : "No stocks returned from backend."}
+            </p>
           ) : null}
+          <p className="ta-charts-stock-name">
+            {selected ? `${selected.symbol} - ${selected.companyName}` : "--"}
+          </p>
+          <p className="ta-charts-price">
+            {formatCurrency(latest?.close, stockCurrency)}{" "}
+            <span>{stockCurrency}</span>
+          </p>
+          <p className={`ta-charts-change ${tone}`}>
+            {diff >= 0 ? "+" : ""}
+            {diff.toFixed(2)} ({diffPct.toFixed(2)}%) {diff >= 0 ? "▲" : "▼"} past{" "}
+            {activeRange === "5Y" ? "5 years" : activeRange}
+          </p>
 
-          <div
-            className="ta-charts-tooltip"
-            style={{ left: `${tooltipXPct}%`, top: `${tooltipYPct}%` }}
-          >
-            <span className="ta-charts-tooltip-value">
-              {formatCurrency(chartPrice, stockCurrency)}
-            </span>
-            <span className="ta-charts-tooltip-date">{chartDate}</span>
-          </div>
-
-          <svg
-            viewBox={`0 0 ${CHART_WIDTH} ${CHART_HEIGHT}`}
-            className="ta-charts-plot"
-            role="img"
-            aria-label={`${activeRange} price chart`}
-            onMouseMove={(event) => {
-              if (rangeSeries.length < 2) {
-                return;
-              }
-              const bounds = event.currentTarget.getBoundingClientRect();
-              const x = event.clientX - bounds.left;
-              const ratio = Math.max(0, Math.min(1, x / bounds.width));
-              setHoverIndex(Math.round(ratio * (rangeSeries.length - 1)));
-            }}
-            onMouseLeave={() => setHoverIndex(null)}
-          >
-            <defs>
-              <linearGradient id="taChartsFill" x1="0" x2="0" y1="0" y2="1">
-                <stop offset="0%" stopColor="rgba(22,163,74,0.38)" />
-                <stop offset="100%" stopColor="rgba(22,163,74,0.04)" />
-              </linearGradient>
-            </defs>
-            <path
-              d={`${d} L${CHART_WIDTH},${CHART_HEIGHT} L0,${CHART_HEIGHT} Z`}
-              fill="url(#taChartsFill)"
-            />
-            <path d={d} className="ta-charts-line" />
-          </svg>
-                  <div className="ta-charts-axis-y">
-                    {yTicks.map((tick, index) => (
-                      <span key={`${tick}-${index}`}>{tick}</span>
-                    ))}
-                  </div>
-          <div className="ta-charts-axis-x">
-            {xTicks.map((tick, index) => (
-              <span key={`${tick}-${index}`}>{tick}</span>
+          <div className="ta-charts-ranges">
+            {rangeOptions.map((range) => (
+              <button
+                key={range}
+                type="button"
+                className={`ta-charts-range-btn ${activeRange === range ? "active" : ""}`}
+                onClick={() => setActiveRange(range)}
+              >
+                {range}
+              </button>
             ))}
           </div>
-        </div>
 
-        <div className="ta-charts-stats-grid">
-          <p>Open</p>
-          <p>{formatCurrency(latest?.open, stockCurrency)}</p>
-          <p>Avg Volatility</p>
-          <p>{selected?.avgVolatility?.toFixed(2) ?? "--"}</p>
-          <p>Median Close</p>
-          <p>{formatCurrency(selected?.medianClose, stockCurrency)}</p>
+          <div className="ta-charts-plot-wrap">
+            {hoverX !== null && hoverY !== null ? (
+              <>
+                <div className="ta-charts-crosshair ta-charts-crosshair-v" style={{ left: `${hoverXPct}%` }} />
+                <div className="ta-charts-crosshair ta-charts-crosshair-h" style={{ top: `${hoverYPct}%` }} />
+              </>
+            ) : null}
 
-          <p>High</p>
-          <p>{formatCurrency(latest?.high, stockCurrency)}</p>
-          <p>Std Dev Close</p>
-          <p>{selected?.stdDevClose?.toFixed(2) ?? "--"}</p>
-          <p>52-wk high</p>
-          <p>{formatCurrency(selected?.fiftyTwoWeekHigh ?? high52w, stockCurrency)}</p>
+            <div
+              className="ta-charts-tooltip"
+              style={{ left: `${tooltipXPct}%`, top: `${tooltipYPct}%` }}
+            >
+              <span className="ta-charts-tooltip-value">
+                {formatCurrency(chartPrice, stockCurrency)}
+              </span>
+              <span className="ta-charts-tooltip-date">{chartDate}</span>
+            </div>
 
-          <p>Low</p>
-          <p>{formatCurrency(latest?.low, stockCurrency)}</p>
-          <p>52-wk low</p>
-          <p>{formatCurrency(selected?.fiftyTwoWeekLow ?? low52w, stockCurrency)}</p>
-          <p>Volume</p>
-          <p>
-            {isLoadingHistory
-              ? "Loading..."
-              : (selected?.avgVolume ?? latest?.volume)?.toLocaleString() ?? "--"}
-          </p>
+            <svg
+              viewBox={`0 0 ${CHART_WIDTH} ${CHART_HEIGHT}`}
+              className="ta-charts-plot"
+              role="img"
+              aria-label={`${activeRange} price chart`}
+              onMouseMove={(event) => {
+                if (rangeSeries.length < 2) {
+                  return;
+                }
+                const bounds = event.currentTarget.getBoundingClientRect();
+                const x = event.clientX - bounds.left;
+                const ratio = Math.max(0, Math.min(1, x / bounds.width));
+                setHoverIndex(Math.round(ratio * (rangeSeries.length - 1)));
+              }}
+              onMouseLeave={() => setHoverIndex(null)}
+            >
+              <defs>
+                <linearGradient id="taChartsFill" x1="0" x2="0" y1="0" y2="1">
+                  <stop offset="0%" stopColor={diff >= 0 ? "rgba(26,115,232,0.12)" : "rgba(230,64,54,0.12)"} />
+                  <stop offset="100%" stopColor={diff >= 0 ? "rgba(26,115,232,0)" : "rgba(230,64,54,0)"} />
+                </linearGradient>
+              </defs>
+              {prevCloseY !== null && !isNaN(prevCloseY) ? (
+                <line
+                  x1="0"
+                  y1={prevCloseY}
+                  x2={CHART_WIDTH}
+                  y2={prevCloseY}
+                  stroke="var(--border-secondary)"
+                  strokeDasharray="4 4"
+                  strokeWidth="1.5"
+                />
+              ) : null}
+              <path
+                d={`${d} L${CHART_WIDTH},${CHART_HEIGHT} L0,${CHART_HEIGHT} Z`}
+                fill="url(#taChartsFill)"
+              />
+              <path d={d} className={`ta-charts-line ${tone}`} />
+            </svg>
+            <div className="ta-charts-axis-y">
+              {yTicks.map((tick, index) => (
+                <span key={`${tick}-${index}`}>{tick}</span>
+              ))}
+            </div>
+            <div className="ta-charts-axis-x">
+              {xTicks.map((tick, index) => (
+                <span key={`${tick}-${index}`}>{tick}</span>
+              ))}
+            </div>
+          </div>
 
-          <p>Sector</p>
-          <p>{selected?.sector ?? "--"}</p>
-          <p>Industry</p>
-          <p>{selected?.industry ?? "--"}</p>
-        </div>
-      </article>
+          <div className="ta-charts-stats-grid">
+            <p>Open</p>
+            <p>{formatCurrency(latest?.open, stockCurrency)}</p>
+            <p>Avg Volatility</p>
+            <p>{selected?.avgVolatility?.toFixed(2) ?? "--"}</p>
+            <p>Median Close</p>
+            <p>{formatCurrency(selected?.medianClose, stockCurrency)}</p>
+
+            <p>High</p>
+            <p>{formatCurrency(latest?.high, stockCurrency)}</p>
+            <p>Std Dev Close</p>
+            <p>{selected?.stdDevClose?.toFixed(2) ?? "--"}</p>
+            <p>52-wk high</p>
+            <p>{formatCurrency(selected?.fiftyTwoWeekHigh ?? high52w, stockCurrency)}</p>
+
+            <p>Low</p>
+            <p>{formatCurrency(latest?.low, stockCurrency)}</p>
+            <p>52-wk low</p>
+            <p>{formatCurrency(selected?.fiftyTwoWeekLow ?? low52w, stockCurrency)}</p>
+            <p>Volume</p>
+            <p>
+              {isLoadingHistory
+                ? "Loading..."
+                : (selected?.avgVolume ?? latest?.volume)?.toLocaleString() ?? "--"}
+            </p>
+
+            <p>Sector</p>
+            <p>{selected?.sector ?? "--"}</p>
+            <p>Industry</p>
+            <p>{selected?.industry ?? "--"}</p>
+          </div>
+        </article>
       ) : null}
     </section>
   );

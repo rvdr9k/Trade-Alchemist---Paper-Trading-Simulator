@@ -74,7 +74,7 @@ export const MarketWatch = memo(function MarketWatch({
 
         <h2 className="ta-watch-main-title">Market Watch</h2>
 
-        <div className="ta-watch-search-card">
+        <div className="ta-buy-search-card">
           <div className="ta-buy-search-row">
             <div className="ta-buy-select-wrap">
               <select
@@ -93,24 +93,22 @@ export const MarketWatch = memo(function MarketWatch({
               </select>
               <span className="ta-buy-select-arrow">▾</span>
             </div>
-            <div className="ta-watch-search-input-wrap">
-              <span className="ta-watch-search-icon">⌕</span>
-
+            <div className="ta-buy-search-input-wrap">
+              <span className="ta-buy-search-icon">⌕</span>
               <input
-                className="ta-watch-search-input"
+                className="ta-buy-search-input"
                 value={query}
                 onChange={(event) => setQuery(event.target.value)}
                 placeholder="Ticker to watch..."
               />
-
               {query ? (
                 <button
                   type="button"
-                  className="ta-watch-search-clear"
+                  className="ta-buy-search-clear"
                   onClick={() => setQuery("")}
                   aria-label="Clear search"
                 >
-                  x
+                  ✕
                 </button>
               ) : null}
             </div>
@@ -126,23 +124,24 @@ export const MarketWatch = memo(function MarketWatch({
                 <article key={`${stock.exchange}-${stock.symbol}`} className="ta-watch-result-item">
                   <div>
                     <p className="ta-watch-preview-symbol">{stock.symbol}</p>
-                    <p className="ta-watch-preview-name">
-                      {stock.companyName} ({stock.exchange})
-                    </p>
+                    <p className="ta-watch-preview-name">{stock.companyName}</p>
                   </div>
-                  <button
-                    type="button"
-                    className="ta-watch-add-btn"
-                    onClick={() =>
-                      onAddWatchlist({
-                        ticker: stock.symbol,
-                        companyName: stock.companyName,
-                        exchange: stock.exchange,
-                      })
-                    }
-                  >
-                    +
-                  </button>
+                  <div style={{ display: "flex", alignItems: "center", gap: "0.5rem", flexShrink: 0 }}>
+                    <span className="ta-watch-result-exchange">{stock.exchange}</span>
+                    <button
+                      type="button"
+                      className="ta-watch-add-btn"
+                      onClick={() =>
+                        onAddWatchlist({
+                          ticker: stock.symbol,
+                          companyName: stock.companyName,
+                          exchange: stock.exchange,
+                        })
+                      }
+                    >
+                      +
+                    </button>
+                  </div>
                 </article>
               ))
             ) : searchError ? (
