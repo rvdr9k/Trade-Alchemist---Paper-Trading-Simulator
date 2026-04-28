@@ -712,8 +712,6 @@ def sell_trade(req: TradeRequest, current_user: dict = Depends(get_current_user)
     )
 
 
-from fastapi import Request
-
 @app.get("/")
 def root(request: Request):
     base = str(request.base_url).rstrip("/")

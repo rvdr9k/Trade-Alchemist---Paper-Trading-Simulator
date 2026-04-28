@@ -88,7 +88,7 @@ def execute_trade(user_id, display_name, symbol, exchange, side, quantity):
     positions = build_position_map(user_id)
     available_shares = positions.get((symbol, exchange), {}).get("quantity", 0)
     if available_shares == 0 and exchange:
-      available_shares = positions.get((symbol, ""), {}).get("quantity", 0)
+        available_shares = positions.get((symbol, ""), {}).get("quantity", 0)
 
     if side == "BUY":
         if gross_value > buying_power:
@@ -99,7 +99,7 @@ def execute_trade(user_id, display_name, symbol, exchange, side, quantity):
             raise ValueError("Not enough shares available to sell")
         commission_rate = COMMISSION_RATE
         commission_amount = round(gross_value * COMMISSION_RATE, 2)
-        net_value = round(gross_value + commission_amount, 2)
+        net_value = round(gross_value - commission_amount, 2)
         buying_power = round(buying_power + net_value, 2)
     else:
         raise ValueError("Invalid trade side")
