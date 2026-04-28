@@ -23,134 +23,136 @@ BOOM_BIAS  =  0.0015
 MOMENTUM_FACTOR = 0.3
 # ==========================================
 
-tick_time = datetime.now(timezone.utc)
 
-# ---- Load market state ----
-state_doc = market_state.find_one({}) or {}
-state = state_doc.get("state", "NORMAL")
-remaining = state_doc.get("remaining_ticks", 0)
+def run_tick():
+    tick_time = datetime.now(timezone.utc)
 
-# ---- Possibly start a new regime ----
-if remaining <= 0:
-    r = random.random()
-    if r < CRASH_PROB:
-        state = "CRASH"
-        remaining = random.randint(5, 15)
-        print(">>> MARKET CRASH STARTED <<<")
-    elif r < CRASH_PROB + BOOM_PROB:
-        state = "BOOM"
-        remaining = random.randint(5, 10)
-        print(">>> MARKET BOOM STARTED <<<")
+    # ---- Load market state ----
+    state_doc = market_state.find_one({}) or {}
+    state = state_doc.get("state", "NORMAL")
+    remaining = state_doc.get("remaining_ticks", 0)
+
+    # ---- Possibly start a new regime ----
+    if remaining <= 0:
+        r = random.random()
+        if r < CRASH_PROB:
+            state = "CRASH"
+            remaining = random.randint(5, 15)
+            print(">>> MARKET CRASH STARTED <<<")
+        elif r < CRASH_PROB + BOOM_PROB:
+            state = "BOOM"
+            remaining = random.randint(5, 10)
+            print(">>> MARKET BOOM STARTED <<<")
+        else:
+            state = "NORMAL"
+            remaining = 0
+
+    # ---- Regime parameters ----
+    if state == "CRASH":
+        regime_multiplier = CRASH_MULTIPLIER
+        regime_bias = CRASH_BIAS
+    elif state == "BOOM":
+        regime_multiplier = BOOM_MULTIPLIER
+        regime_bias = BOOM_BIAS
     else:
-        state = "NORMAL"
-        remaining = 0
+        regime_multiplier = 1.0
+        regime_bias = 0.0
 
-# ---- Regime parameters ----
-if state == "CRASH":
-    regime_multiplier = CRASH_MULTIPLIER
-    regime_bias = CRASH_BIAS
-elif state == "BOOM":
-    regime_multiplier = BOOM_MULTIPLIER
-    regime_bias = BOOM_BIAS
-else:
-    regime_multiplier = 1.0
-    regime_bias = 0.0
+    print(f"Market state: {state} | Remaining ticks: {remaining}")
 
-print(f"Market state: {state} | Remaining ticks: {remaining}")
+    stocks = list(live_prices.find({}))
+    updated = 0
 
-stocks = list(live_prices.find({}))
-updated = 0
+    for stock in stocks:
 
-for stock in stocks:
+        symbol = stock.get("symbol")
+        exchange = stock.get("exchange")
+        old_price = stock.get("price")
 
-    symbol = stock.get("symbol")
-    exchange = stock.get("exchange")
-    old_price = stock.get("price")
+        if not symbol or not exchange or old_price is None or old_price <= 0:
+            continue
 
-    if not symbol or not exchange or old_price is None or old_price <= 0:
-        continue
-
-    # ---- Load volatility ----
-    meta = metadata.find_one(
-        {"symbol": symbol, "exchange": exchange},
-        {"avgVolatility": 1}
-    )
-    if not meta:
+        # ---- Load volatility (use ticker field — the correct field in metadata) ----
         meta = metadata.find_one(
             {"ticker": symbol},
             {"avgVolatility": 1}
         )
 
-    volatility = meta.get("avgVolatility", 1.0) if meta else 1.0
+        volatility = meta.get("avgVolatility", 1.0) if meta else 1.0
 
-    max_move = BASE_MOVE * volatility * regime_multiplier
+        max_move = BASE_MOVE * volatility * regime_multiplier
 
-    # ---- Gaussian movement instead of uniform ----
-    random_move = random.gauss(0, max_move)
+        # ---- Gaussian movement instead of uniform ----
+        random_move = random.gauss(0, max_move)
 
-    # ---- Add slight momentum from previous price drift ----
-    drift = (old_price - stock.get("prev_price", old_price)) / old_price
-    momentum = drift * MOMENTUM_FACTOR
+        # ---- Add slight momentum from previous price drift ----
+        drift = (old_price - stock.get("prev_price", old_price)) / old_price
+        momentum = drift * MOMENTUM_FACTOR
 
-    pct_change = random_move + momentum + regime_bias
+        pct_change = random_move + momentum + regime_bias
 
-    new_price = round(old_price * (1 + pct_change), 2)
+        new_price = round(old_price * (1 + pct_change), 2)
 
-    if new_price <= 0:
-        continue
+        if new_price <= 0:
+            continue
 
-    candle_high = max(old_price, new_price)
-    candle_low = min(old_price, new_price)
-    volume = random.randint(*VOLUME_RANGE)
-    change = round(new_price - old_price, 2)
-    percent_change = round((change / old_price) * 100, 4)
+        candle_high = max(old_price, new_price)
+        candle_low = min(old_price, new_price)
+        volume = random.randint(*VOLUME_RANGE)
+        change = round(new_price - old_price, 2)
+        percent_change = round((change / old_price) * 100, 4)
 
-    # ---- Update live price ----
-    live_prices.update_one(
-        {"_id": stock["_id"]},
+        # ---- Update live price ----
+        live_prices.update_one(
+            {"_id": stock["_id"]},
+            {
+                "$set": {
+                    "price": new_price,
+                    "prev_price": old_price,
+                    "prevClose": old_price,
+                    "open": old_price,
+                    "high": candle_high,
+                    "low": candle_low,
+                    "close": new_price,
+                    "volume": volume,
+                    "change": change,
+                    "percentChange": percent_change,
+                    "last_update": tick_time,
+                    "source": f"simulation_v4_{state.lower()}"
+                }
+            }
+        )
+
+        # ---- Write new historical candle ----
+        historical_prices.insert_one({
+            "symbol": symbol,
+            "exchange": exchange,
+            "timestamp": tick_time,
+            "open": old_price,
+            "high": candle_high,
+            "low": candle_low,
+            "close": new_price,
+            "volume": volume
+        })
+
+        updated += 1
+
+    # ---- Persist market state ----
+    market_state.update_one(
+        {},
         {
             "$set": {
-                "price": new_price,
-                "prev_price": old_price,
-                "prevClose": old_price,
-                "open": old_price,
-                "high": candle_high,
-                "low": candle_low,
-                "close": new_price,
-                "volume": volume,
-                "change": change,
-                "percentChange": percent_change,
-                "last_update": tick_time,
-                "source": f"simulation_v4_{state.lower()}"
+                "state": state,
+                "remaining_ticks": max(remaining - 1, 0),
+                "started_at": tick_time
             }
-        }
+        },
+        upsert=True
     )
 
-    # ---- Write new historical candle ----
-    historical_prices.insert_one({
-        "symbol": symbol,
-        "exchange": exchange,
-        "timestamp": tick_time,
-        "open": old_price,
-        "high": candle_high,
-        "low": candle_low,
-        "close": new_price,
-        "volume": volume
-    })
+    print(f"Tick complete | Updated {updated} stocks")
+    return {"updated": updated, "state": state}
 
-    updated += 1
 
-# ---- Persist market state ----
-market_state.update_one(
-    {},
-    {
-        "$set": {
-            "state": state,
-            "remaining_ticks": max(remaining - 1, 0),
-            "started_at": tick_time
-        }
-    },
-    upsert=True
-)
-
-print(f"Tick complete | Updated {updated} stocks")
+if __name__ == "__main__":
+    run_tick()
